@@ -1,6 +1,155 @@
 {
-  "generated_at": "2026-10-12T09:03:19.123545+00:00",
+  "generated_at": "2026-10-12T22:39:01.324281+00:00",
   "insights": [
+    {
+      "guid": "4953485",
+      "title": "Wall Street Lunch: Hall, Woodford Win Nobel Economics Prize For Macroeconomic Research",
+      "title_zh": "Adobe遭下调至减持，Tyler获上调；AI投资热潮引发1997亚洲危机联想",
+      "url": "https://seekingalpha.com/article/4953485-wall-street-lunch-hall-woodford-win-nobel-economics-prize-for-macroeconomic-research?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-12T15:00:00+00:00",
+      "source_name": "Seeking Alpha - Wall Street Breakfast",
+      "source_kind": "podcast",
+      "summary_zh": "富国银行将Adobe（ADBE）下调至减持，因核心创意业务竞争加剧；同时将Tyler Technologies（TYL）上调至增持，认为2025年逆风为暂时性。法兴银行策略师Albert Edwards警告AI资本开支热潮可能掩盖生产率疲软，与1997年亚洲金融危机前的泡沫相似。此外，IREN与Anthropic达成多年云协议，IonQ以全股票交易收购Elisity。",
+      "summary_en": "Wells Fargo downgraded Adobe (ADBE) to Underweight on intensifying competition in its core creative business, while upgrading Tyler Technologies (TYL) to Overweight, calling 2025 headwinds transitory. SocGen strategist Albert Edwards warned the AI capex boom may be masking weak productivity, drawing parallels to the 1997 Asian financial crisis. Separately, IREN signed a multiyear cloud deal with Anthropic, and IonQ is acquiring Elisity in an all-stock deal worth up to $1.3B.",
+      "key_points": [
+        {
+          "zh": "富国银行将Adobe（ADBE）从增持下调至减持，称核心创意业务竞争压力在Q3财报显露后\"不合时宜地加剧\"。",
+          "en": "Wells Fargo cut Adobe (ADBE) to Underweight from Overweight, citing intensifying competition in its core creative business that came \"at an inopportune time\" after cracks appeared in Q3 earnings."
+        },
+        {
+          "zh": "Tyler Technologies（TYL）被上调至增持，分析师认为2025年订单逆风\"大部分\"是暂时性的，2027年有望回升。",
+          "en": "Tyler Technologies (TYL) was upgraded to Overweight, with the analyst saying a \"majority\" of 2025 bookings headwinds are \"transitory\" and 2027 \"presents room for reversion.\""
+        },
+        {
+          "zh": "IREN（IREN）与Anthropic达成多年云协议后股价上涨，该加密货币矿商已转型为AI服务器供应商。",
+          "en": "IREN (IREN) rose after The Information reported a multiyear cloud deal with Anthropic, as the crypto miner-turned-AI server provider expands."
+        },
+        {
+          "zh": "IonQ（IONQ）以最高13亿美元的全股票交易收购网络安全公司Elisity，显示量子计算行业日趋成熟。",
+          "en": "IonQ (IONQ) is acquiring cybersecurity firm Elisity in an all-stock transaction worth up to $1.3B as the quantum computing industry matures."
+        },
+        {
+          "zh": "法兴银行Albert Edwards警告AI投资热潮可能掩盖生产率疲软，类比1997年亚洲金融危机前廉价资本被低效配置的情形。",
+          "en": "SocGen's Albert Edwards warned the AI investment boom may mask weak productivity gains, recalling how cheap, abundant capital was allocated inefficiently before the 1997 Asian financial crisis."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "analyst ratings",
+        "software",
+        "quantum computing",
+        "market bubble"
+      ],
+      "tickers": [
+        "ADBE",
+        "TYL",
+        "IREN",
+        "IONQ",
+        "CHDN",
+        "KO"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4953460",
+      "title": "Bull Market Anniversary For The S&P 500",
+      "title_zh": "标普500牛市四周年：累计上涨近120%至7,811点",
+      "url": "https://seekingalpha.com/article/4953460-bull-market-anniversary-for-the-s-and-p-500?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-12T11:15:31+00:00",
+      "source_name": "Seeking Alpha - Wall Street Breakfast",
+      "source_kind": "podcast",
+      "summary_zh": "标普500指数迎来第四轮牛市四周年，自2022年10月12日熊市低点3,577点上涨近120%至7,811点。消费支出与劳动力市场韧性、强劲的盈利增长以及AI革命（从半导体、超大规模云厂商到电网和公用事业）是主要推动力。分析师认为当前市场广度恶化源于高利率而非经济放缓担忧，信号严重性有限。",
+      "summary_en": "The S&P 500 marks its fourth bull market anniversary, up nearly 120% from its Oct. 12, 2022 bear-market closing low of 3,577 to 7,811. Resilient consumer spending and labor markets, strong double-digit earnings growth, and the AI revolution (from semiconductors and hyperscalers to power grids and utilities) drove the gains. Analysts attribute current market breadth deterioration to higher rates rather than growth fears, limiting the signal's severity.",
+      "key_points": [
+        {
+          "zh": "标普500自2022年10月低点3,577点上涨近120%至7,811点，四年翻倍有余",
+          "en": "S&P 500 up nearly 120% from its Oct. 2022 low of 3,577 to 7,811, more than doubling in four years"
+        },
+        {
+          "zh": "AI革命是核心催化剂，带动半导体、超大规模云厂商、电网及公用事业板块",
+          "en": "The AI revolution is a core catalyst, boosting semiconductors, hyperscalers, power grids and utilities"
+        },
+        {
+          "zh": "市场集中度上升反映利润实际流向，科技需求全球化且边际成本近零",
+          "en": "Rising market concentration mirrors where profits actually went, with global tech demand and near-zero marginal costs"
+        },
+        {
+          "zh": "市场广度恶化被归因于高利率而非经济放缓担忧，信号严重性较低",
+          "en": "Breadth deterioration is attributed to higher rates, not slowing growth, reducing the signal's severity"
+        },
+        {
+          "zh": "10年期美债收益率持平于5.24%，原油涨1.1%至92.30美元，黄金跌0.5%",
+          "en": "10-year Treasury yield flat at 5.24%, crude +1.1% to $92.30, gold -0.5%"
+        }
+      ],
+      "tags": [
+        "S&P 500",
+        "bull market",
+        "AI",
+        "market breadth",
+        "macro"
+      ],
+      "tickers": [
+        "SP500",
+        "AMZN",
+        "LMT",
+        "STLA",
+        "VWAGY",
+        "NKE"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "4953455",
+      "title": "Wall Street Breakfast Podcast: GTA 6 Threat Sends Token Up",
+      "title_zh": "华尔街早餐：Take-Two 遭 GTA 6 泄露威胁，亚马逊洽谈 70 亿美元 AI 收购",
+      "url": "https://seekingalpha.com/article/4953455-wall-street-breakfast-podcast-gta-6-threat-sends-token-up?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-12T10:55:00+00:00",
+      "source_name": "Seeking Alpha - Wall Street Breakfast",
+      "source_kind": "podcast",
+      "summary_zh": "Take-Two（TTWO）面临与 CYBERLEEK 迷因币相关的 GTA 6 泄露威胁，但该说法尚未得到证实；亚马逊（AMZN）据报正洽谈以约 70 亿美元收购 AI 初创公司 Decart AI，凸显 AI 领域竞争加剧与高估值。私募股权公司 GTCR 与 Elliott 据报正深入洽谈收购 CCC Intelligent Solutions（CCC），Biogen（BIIB）获摩根大通上调评级后股价上涨。",
+      "summary_en": "Take-Two (TTWO) faces an unverified GTA 6 leak threat tied to the CYBERLEEK memecoin, while Amazon (AMZN) is reportedly negotiating a ~$7B acquisition of AI startup Decart AI, underscoring intensifying AI competition and rich valuations. Private equity firms GTCR and Elliott are in advanced talks to acquire CCC Intelligent Solutions (CCC), and Biogen (BIIB) rose after a JPMorgan upgrade.",
+      "key_points": [
+        {
+          "zh": "CYBERLEEK 迷因币周日大涨 23%，声称若市值达 3000 万美元将泄露 GTA 6 完整版本，但该说法未经独立证实，其市值仅约 595 万美元。",
+          "en": "CYBERLEEK memecoin surged 23% Sunday, claiming it would leak a complete GTA 6 build if its market cap hit $30M, but the claim is unverified and its cap sits at only ~$5.95M."
+        },
+        {
+          "zh": "亚马逊据报正洽谈以约 70 亿美元收购 AI 初创公司 Decart AI，此前 Anthropic 曾以约 60 亿美元尝试收购未果。",
+          "en": "Amazon is reportedly negotiating a ~$7B deal for AI startup Decart AI, after Anthropic's ~$6B attempt fell through in September."
+        },
+        {
+          "zh": "GTCR 与 Elliott 据报正深入洽谈收购车险软件公司 CCC Intelligent Solutions，交易可能最快本周宣布，CCC 盘前上涨 9%。",
+          "en": "GTCR and Elliott are in advanced talks to buy auto-insurance software firm CCC Intelligent Solutions, with a deal possibly announced this week; CCC rose 9% premarket."
+        },
+        {
+          "zh": "Biogen 获摩根大通上调至增持，理由为 2027 年催化剂管线吸引力增强及长期增长前景改善，股价上涨 2%。",
+          "en": "Biogen rose 2% after JPMorgan upgraded it to Overweight, citing an attractive 2027 catalyst pipeline and improved long-term growth outlook."
+        },
+        {
+          "zh": "纽交所与纳斯达克在哥伦布日（10 月 12 日）正常交易，但美国国债及债券市场休市。",
+          "en": "NYSE and Nasdaq trade normally on Columbus Day (Oct 12), while U.S. Treasury and bond markets are closed."
+        }
+      ],
+      "tags": [
+        "GTA 6",
+        "AI M&A",
+        "private equity",
+        "biotech",
+        "market hours"
+      ],
+      "tickers": [
+        "TTWO",
+        "AMZN",
+        "CCC",
+        "BIIB",
+        "TSLA",
+        "BYDDF",
+        "XPEV",
+        "LI"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "https://bondvigilantes.com/?p=26793",
       "title": "Bonds have their mojo back",
