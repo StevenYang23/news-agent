@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-10-12T08:10:28.463300+00:00",
+  "generated_at": "2026-10-12T09:03:19.123545+00:00",
   "insights": [
+    {
+      "guid": "https://bondvigilantes.com/?p=26793",
+      "title": "Bonds have their mojo back",
+      "title_zh": "债券收益率处于数十年高位，未来回报前景改善",
+      "url": "https://bondvigilantes.com/blog/2026/10/bonds-have-their-mojo-back/",
+      "published_at": "2026-10-12T08:56:50+00:00",
+      "source_name": "Bond Vigilantes (M&G)",
+      "source_kind": "article",
+      "summary_zh": "10年期美债收益率从2021年底的1.51%升至5.29%，导致持有者年化回报为-2.9%；但同样的收益率上行幅度若从5.29%起步，回报可达+1.9%年化，差异达22.3%。起始收益率在很大程度上决定未来回报，当前处于数十年高位，债券的吸引力已明显恢复。",
+      "summary_en": "The 10-year US Treasury yield rose from 1.51% at end-2021 to 5.29%, producing a -2.9% annualized return for holders; yet the same yield increase starting from 5.29% would deliver +1.9% annualized, a 22.3% difference. Starting yield largely dictates future returns, and with yields at multi-decade highs, bonds have regained their appeal.",
+      "key_points": [
+        {
+          "zh": "2021年底至2026年9月，10年期美债收益率从1.51%升至5.29%，持有回报为-13%（年化-2.9%）。",
+          "en": "From end-2021 to September 2026, the 10-year Treasury yield rose from 1.51% to 5.29%, delivering a -13% total return (-2.9% p.a.)."
+        },
+        {
+          "zh": "若未来4.75年出现同样3.78%的收益率上行，但起点为5.29%，持有回报将为+9.3%（年化+1.9%）。",
+          "en": "If the same 3.78% yield rise occurs over the next 4.75 years but starting from 5.29%, the return would be +9.3% (+1.9% p.a.)."
+        },
+        {
+          "zh": "起始收益率差异带来22.3%的累计回报差异，约合每年4.69%，其中约3.78%来自起始收益率，其余来自凸性。",
+          "en": "The difference in starting yield produces a 22.3% cumulative return gap, about 4.69% p.a., of which 3.78% comes from starting yield and the rest from convexity."
+        },
+        {
+          "zh": "高收益率下久期更低，同样的收益率上行对价格的冲击更小。",
+          "en": "At higher yields, duration is lower, so the same yield rise does less damage to price."
+        },
+        {
+          "zh": "债券起始收益率处于数十年高位，未来回报潜力显著改善。",
+          "en": "Starting bond yields are at multi-decade highs, materially improving the potential for future returns."
+        }
+      ],
+      "tags": [
+        "US Treasuries",
+        "Fixed Income",
+        "Interest Rates",
+        "Bond Yields"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:L_g9MNO2tvE",
       "title": "Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup",
