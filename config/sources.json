@@ -1,0 +1,306 @@
+{
+  "settings": {
+    "lookback_days": 30,
+    "us_equity_only": true,
+    "max_items_per_source": 10
+  },
+  "sources": [
+    {
+      "name": "Seeking Alpha - Wall Street Breakfast",
+      "url": "https://seekingalpha.com/author/wall-street-breakfast",
+      "type": "rss",
+      "kind": "podcast",
+      "feed_url": "https://seekingalpha.com/author/wall-street-breakfast.xml",
+      "active": true,
+      "note": "Daily flagship podcast + article transcript. Text feed, no audio transcription needed."
+    },
+    {
+      "name": "Odd Lots (Bloomberg)",
+      "url": "https://www.bloomberg.com/oddlots",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8A94442E-5A74-4FA2-8B8D-AE27003A8D6B/982F5071-765C-403D-969D-AE27003A8D83/podcast.rss",
+      "active": true,
+      "note": "Requires audio transcription."
+    },
+    {
+      "name": "Bond Vigilantes (M&G)",
+      "url": "https://bondvigilantes.com/",
+      "type": "rss",
+      "kind": "article",
+      "feed_url": "https://bondvigilantes.com/feed/",
+      "active": true,
+      "note": ""
+    },
+    {
+      "name": "The Bid (BlackRock)",
+      "url": "https://www.blackrock.com/us/individual/podcasts/the-bid",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "https://rss.art19.com/the-bid",
+      "active": true,
+      "note": "Requires audio transcription."
+    },
+    {
+      "name": "DoubleLine Capital",
+      "url": "https://www.youtube.com/@DoubleLineCapital",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "active": true,
+      "note": "YouTube auto-captions."
+    },
+    {
+      "name": "Forward Guidance",
+      "url": "https://www.youtube.com/@ForwardGuidanceBW",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "active": true,
+      "note": "YouTube auto-captions."
+    },
+    {
+      "name": "PIMCO",
+      "url": "https://www.pimco.com/us/en/insights",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": "Listing page is JS-rendered; needs dedicated scraper."
+    },
+    {
+      "name": "BlackRock Insights",
+      "url": "https://www.blackrock.com/hk/en/insights",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Gramercy",
+      "url": "https://www.gramercy.com/category/research/",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "TCW",
+      "url": "https://www.tcw.com/Insights",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Moody's",
+      "url": "https://www.moodys.com/web/en/us/insights.html",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Morgan Stanley",
+      "url": "https://www.youtube.com/@morganstanley",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Credit Edge (Bloomberg Intelligence)",
+      "url": "https://podcasts.apple.com/us/podcast/the-credit-edge-by-bloomberg-intelligence/id1674628050",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Coinbase Markets",
+      "url": "https://podcasts.apple.com/us/podcast/coinbase-markets-podcast/id1705007171",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "KKR",
+      "url": "https://www.kkr.com/insights",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "IMF",
+      "url": "https://blogs.imf.org",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "BIS",
+      "url": "https://www.bis.org/bisbulletins/index.htm",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Fed Notes",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/default.htm",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Principles by Ray Dalio",
+      "url": "https://www.youtube.com/@principlesbyraydalio",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Galaxy Brains",
+      "url": "https://podcasts.apple.com/us/podcast/galaxy-brains/id1618973677",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "The Memo by Howard Marks",
+      "url": "https://podcasts.apple.com/us/podcast/the-memo-by-howard-marks/id1521551570",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Macro Voices",
+      "url": "https://podcasts.apple.com/us/podcast/macro-voices/id1079172742",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "The Markets",
+      "url": "https://podcasts.apple.com/us/podcast/the-markets/id1683802600",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "JPMorgan Asset Management",
+      "url": "https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Invesco",
+      "url": "https://www.invesco.com/us/en/insights/topic/all-insights.html",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Guggenheim",
+      "url": "https://www.guggenheimpartners.com/perspectives",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Eastspring",
+      "url": "https://www.eastspring.com/insights/market-talk",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Capital Group",
+      "url": "https://www.capitalgroup.com/apac/capitalideas/en/",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "MFS",
+      "url": "https://www.mfs.com/en-global/investment-professional.html",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Muzinich",
+      "url": "https://www.muzinich.com/opinions",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Franklin Templeton",
+      "url": "https://www.franklintempleton.com.hk/en-hk/articles",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "Schroders",
+      "url": "https://www.schroders.com/en/global/individual/",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    },
+    {
+      "name": "AllianzGI (AGI)",
+      "url": "https://hk.allianzgi.com/en-hk/retail/insights/insights-and-strategies",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "active": false,
+      "note": ""
+    }
+  ]
+}

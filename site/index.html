@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Buy-side Insights</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">BI</div>
+      <div>
+        <h1>Daily Buy-side Insights</h1>
+        <p class="tagline">买方研报 · 播客 · 美股 · 每日双语汇总</p>
+      </div>
+    </div>
+    <div class="meta" id="metaInfo"></div>
+  </header>
+
+  <nav class="datebar">
+    <button class="nav-btn" id="prevDay" aria-label="前一天">‹</button>
+    <div class="date-display">
+      <span id="dateLabel">—</span>
+      <span class="count-badge" id="countBadge">0 条</span>
+    </div>
+    <button class="nav-btn" id="nextDay" aria-label="后一天">›</button>
+    <button class="today-btn" id="todayBtn">最新</button>
+  </nav>
+
+  <div class="filters">
+    <div class="chips" id="kindChips">
+      <button class="chip active" data-kind="">全部</button>
+      <button class="chip" data-kind="podcast">播客</button>
+      <button class="chip" data-kind="video">视频</button>
+      <button class="chip" data-kind="article">文章</button>
+    </div>
+    <input type="search" id="searchInput" placeholder="搜索摘要 / 标题 / 股票 / 关键词…" />
+  </div>
+
+  <main id="grid" class="grid">
+    <div class="state" id="state">加载中…</div>
+  </main>
+
+  <footer class="footer">
+    <span>数据来源为公开买方研报与播客，仅供研究参考，不构成投资建议。</span>
+    <span id="lastUpdated"></span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

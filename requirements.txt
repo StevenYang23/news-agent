@@ -1,0 +1,11 @@
+requests>=2.31
+feedparser>=6.0
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+
+# YouTube captions + channel listing
+yt-dlp>=2024.8.6
+youtube-transcript-api>=0.6
+
+# Optional: audio transcription for podcasts (ctranslate2 ships cp314 wheels)
+# faster-whisper>=1.0
