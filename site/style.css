@@ -195,7 +195,7 @@ body {
   animation: rise 0.2s ease both;
 }
 .modal-head { display: flex; align-items: center; justify-content: space-between; }
-.modal-logo { height: 26px; width: auto; display: block; border-radius: 6px; }
+.modal-logo { height: 34px; width: auto; display: block; border-radius: 6px; }
 .modal-src { font-size: 13px; color: var(--text-dim); }
 .modal-close {
   background: var(--bg-soft); color: var(--text-dim); border: 1px solid var(--border);
@@ -237,7 +237,7 @@ body {
 }
 .footer-left { display: flex; flex-direction: column; gap: 4px; }
 .footer-right { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
-.footer-logo { height: 30px; width: auto; display: block; border-radius: 7px; }
+.footer-logo { height: 44px; width: auto; display: block; border-radius: 8px; }
 .made-by { font-size: 11.5px; color: var(--text-dim); }
 
 @media (max-width: 640px) {
