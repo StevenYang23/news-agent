@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-10-13T15:39:37.130730+00:00",
+  "generated_at": "2026-10-13T15:50:46.869779+00:00",
   "insights": [
+    {
+      "guid": "yt:6gwH7bxWxLw",
+      "title": "Breaking Down Big Bank Earnings",
+      "title_zh": "四大银行发布财报，摩根大通、花旗、富国银行贷款收入创纪录",
+      "url": "https://www.youtube.com/watch?v=6gwH7bxWxLw",
+      "published_at": "2026-10-13T15:32:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "华尔街四大银行于周二上午发布财报，其中摩根大通、花旗集团和富国银行的贷款收入创下历史新高。彭博行业研究的Herman Chan对此进行了进一步分析。",
+      "summary_en": "Four of Wall Street's biggest banks reported earnings on Tuesday morning. JPMorgan Chase, Citigroup and Wells Fargo set a fresh record for how much they earned from lending. Herman Chan of Bloomberg Intelligence has more.",
+      "detail_zh": "华尔街四大银行于周二上午公布了财报。其中，摩根大通、花旗集团和富国银行在贷款业务收入方面创下历史新高。彭博行业研究的Herman Chan就此事提供了更多分析。原文未披露具体财报数字、其他银行名称或详细财务指标。",
+      "detail_en": "Four of Wall Street's biggest banks reported earnings on Tuesday morning. Among them, JPMorgan Chase & Co., Citigroup Inc. and Wells Fargo & Co. set a fresh record for how much they earned from lending. Herman Chan of Bloomberg Intelligence provided further commentary. The source did not disclose specific earnings figures, the names of the other banks, or detailed financial metrics.",
+      "key_points": [
+        {
+          "zh": "华尔街四大银行于周二上午发布财报",
+          "en": "Four of Wall Street's biggest banks reported earnings on Tuesday morning"
+        },
+        {
+          "zh": "摩根大通、花旗集团和富国银行的贷款收入创下历史新高",
+          "en": "JPMorgan Chase, Citigroup and Wells Fargo set a fresh record for lending income"
+        },
+        {
+          "zh": "彭博行业研究的Herman Chan提供了进一步分析",
+          "en": "Herman Chan of Bloomberg Intelligence provided further analysis"
+        }
+      ],
+      "tags": [
+        "bank earnings",
+        "lending",
+        "Wall Street"
+      ],
+      "tickers": [
+        "JPM",
+        "C",
+        "WFC"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:_dK567kDNtA",
       "title": "Bloomberg Surveillance 10/13/2026",
