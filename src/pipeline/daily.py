@@ -10,7 +10,7 @@ import logging
 import time
 
 from .. import config, state
-from ..ingest import fetch, transcribe, youtube
+from ..ingest import fetch, transcribe, web, youtube
 from ..llm import deepseek
 
 log = logging.getLogger("pipeline")
@@ -20,15 +20,23 @@ MIN_FEED_CONTENT = 400  # below this, fetch full article text
 
 def _fetch_source(source: dict) -> list[dict]:
     stype = source["type"]
-    if stype == "rss" or stype == "podcast":
+    if stype == "rss":
         items = fetch.fetch_rss(source["feed_url"])
+    elif stype == "podcast":
+        items = fetch.fetch_rss(source["feed_url"])
+        # Transcribing audio is expensive, so cap the number of episodes per run.
+        items = items[: source.get("max_items", 3)]
     elif stype == "youtube":
         items = youtube.list_recent_videos(
             source["url"], source.get("max_items", config.MAX_ITEMS_PER_SOURCE)
         )
     elif stype == "web":
-        log.warning("web scraping not implemented for %s — skipping", source["name"])
-        return []
+        scraper = source.get("scraper", "")
+        if scraper == "macrovoices":
+            items = web.fetch_macrovoices(source.get("max_items", 5))
+        else:
+            log.warning("unknown web scraper %r for %s — skipping", scraper, source["name"])
+            return []
     else:
         log.warning("unknown type %r for %s — skipping", stype, source["name"])
         return []
@@ -38,6 +46,9 @@ def _fetch_source(source: dict) -> list[dict]:
 def _content_for(source: dict, item: dict) -> str | None:
     """Return full text content for an item, or None if unavailable."""
     stype = source["type"]
+
+    if stype == "web":
+        return web.extract_pdf_text(item["pdf_url"])
 
     if stype == "rss":
         content = item.get("content", "")
@@ -66,15 +77,21 @@ def _content_for(source: dict, item: dict) -> str | None:
                     pass
 
     if stype == "youtube":
-        time.sleep(2)  # avoid YouTube rate limiting
-        try:
-            return youtube.get_captions(item["video_id"])
-        except Exception as e:  # noqa: BLE001
-            desc = (item.get("description") or "").strip()
-            if len(desc) > 40:
-                log.info("captions failed for %s — using description", (item.get("title") or "")[:40])
-                return desc
-            raise e
+        if config.USE_YOUTUBE_CAPTIONS:
+            time.sleep(2)  # avoid YouTube rate limiting
+            try:
+                return youtube.get_captions(item["video_id"])
+            except Exception as e:  # noqa: BLE001
+                desc = (item.get("description") or "").strip()
+                if len(desc) > 40:
+                    log.info("captions failed for %s — using description", (item.get("title") or "")[:40])
+                    return desc
+                raise e
+        # Description-only mode (fast, no caption requests / no rate limiting).
+        desc = (item.get("description") or "").strip()
+        if len(desc) > 40:
+            return desc
+        raise RuntimeError("no description for youtube video")
 
     return item.get("content", "")
 
@@ -129,7 +146,10 @@ def run_pipeline() -> dict:
                     stats["filtered_us"] += 1
                     guids.add(guid)  # remember we already judged it
                     continue
-                category = src.get("force_category") or payload.get("category", "other")
+                categories = list(payload.get("categories", ["other"]))
+                force = src.get("force_category")
+                if force and force not in categories:
+                    categories.append(force)
                 new_insights.append(
                     {
                         "guid": guid,
@@ -139,9 +159,11 @@ def run_pipeline() -> dict:
                         "published_at": item["published_at"],
                         "source_name": src["name"],
                         "source_kind": src.get("kind", "article"),
-                        "category": category,
+                        "categories": categories,
                         "summary_zh": payload.get("summary_zh", ""),
                         "summary_en": payload.get("summary_en", ""),
+                        "detail_zh": payload.get("detail_zh", ""),
+                        "detail_en": payload.get("detail_en", ""),
                         "key_points": payload.get("key_points", []),
                         "tags": payload.get("tags", []),
                         "tickers": payload.get("tickers", []),
@@ -159,5 +181,6 @@ def run_pipeline() -> dict:
     combined = state.prune(combined, config.LOOKBACK_DAYS)
     stats["pruned"] = before - len(combined)
     state.save(combined)
+    state.save_sources(sources)
     stats["total"] = len(combined)
     return stats

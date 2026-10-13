@@ -22,8 +22,9 @@
       "kind": "podcast",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8A94442E-5A74-4FA2-8B8D-AE27003A8D6B/982F5071-765C-403D-969D-AE27003A8D83/podcast.rss",
       "category": "macro",
-      "active": true,
-      "note": "Requires audio transcription."
+      "max_items": 1,
+      "active": false,
+      "note": "Requires audio transcription (limited to 2 latest episodes)."
     },
     {
       "name": "The Bid (BlackRock)",
@@ -32,8 +33,9 @@
       "kind": "podcast",
       "feed_url": "https://rss.art19.com/the-bid",
       "category": "macro",
+      "max_items": 1,
       "active": false,
-      "note": "Overlaps with Forward Guidance; needs transcription. Re-enable when transcription is set up."
+      "note": "Weekly asset-manager podcast (Fri). Requires transcription."
     },
     {
       "name": "Bond Vigilantes (M&G)",
@@ -135,17 +137,101 @@
       "feed_url": "",
       "category": "macro",
       "active": false,
-      "note": ""
+      "note": "Institutional market commentary via YouTube auto-captions."
+    },
+    {
+      "name": "Goldman Sachs",
+      "url": "https://www.youtube.com/@GoldmanSachs",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "macro",
+      "active": true,
+      "note": "Market commentary + Exchanges podcast clips via YouTube auto-captions."
+    },
+    {
+      "name": "BlackRock",
+      "url": "https://www.youtube.com/@BlackRock",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "macro",
+      "active": false,
+      "note": "Market commentary via YouTube auto-captions."
+    },
+    {
+      "name": "Patrick Boyle",
+      "url": "https://www.youtube.com/@PBoyle",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "macro",
+      "active": true,
+      "note": "Weekly finance/markets analysis via YouTube auto-captions."
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.youtube.com/@CNBC",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "macro",
+      "max_items": 8,
+      "active": false,
+      "note": "High-frequency financial news; capped at 8 clips/day."
+    },
+    {
+      "name": "SpotGamma",
+      "url": "https://www.youtube.com/@SpotGamma",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "volatility",
+      "active": true,
+      "note": "SPX/NDX options positioning, gamma/dealer flows, volatility."
+    },
+    {
+      "name": "Real Vision",
+      "url": "https://www.youtube.com/@RealVisionFinance",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "macro",
+      "max_items": 6,
+      "active": false,
+      "note": "Macro/markets interviews; capped to reduce volume."
+    },
+    {
+      "name": "Excess Returns",
+      "url": "https://www.youtube.com/@ExcessReturns",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "macro",
+      "max_items": 6,
+      "active": false,
+      "note": "Markets/investing podcast."
+    },
+    {
+      "name": "Flirting with Models",
+      "url": "https://www.youtube.com/@FlirtingwithModels",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "volatility",
+      "active": false,
+      "note": "Quant/systematic investing."
     },
     {
       "name": "Credit Edge (Bloomberg Intelligence)",
       "url": "https://podcasts.apple.com/us/podcast/the-credit-edge-by-bloomberg-intelligence/id1674628050",
       "type": "podcast",
       "kind": "podcast",
-      "feed_url": "",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/8792a2e9-d66c-4038-a1fe-afb101654894/podcast.rss",
       "category": "macro",
+      "max_items": 1,
       "active": false,
-      "note": "Needs feed URL + transcription."
+      "note": "Weekly credit markets podcast (Thu). Requires transcription."
     },
     {
       "name": "Coinbase Markets",
@@ -204,8 +290,8 @@
       "kind": "video",
       "feed_url": "",
       "category": "macro",
-      "active": false,
-      "note": ""
+      "active": true,
+      "note": "Macro / debt-cycle commentary via YouTube auto-captions."
     },
     {
       "name": "Galaxy Brains",
@@ -222,30 +308,45 @@
       "url": "https://podcasts.apple.com/us/podcast/the-memo-by-howard-marks/id1521551570",
       "type": "podcast",
       "kind": "podcast",
-      "feed_url": "",
-      "category": "macro",
+      "feed_url": "https://rss.art19.com/the-memo-by-howard-marks",
+      "category": "other",
+      "max_items": 1,
       "active": false,
-      "note": "Needs feed URL + transcription."
+      "note": "Oaktree value-investing memos (monthly, high quality). Requires transcription."
     },
     {
       "name": "Macro Voices",
-      "url": "https://podcasts.apple.com/us/podcast/macro-voices/id1079172742",
-      "type": "podcast",
-      "kind": "podcast",
+      "url": "https://www.macrovoices.com/guest-content/list-guest-transcripts",
+      "type": "web",
+      "kind": "article",
       "feed_url": "",
       "category": "macro",
-      "active": false,
-      "note": "Needs feed URL + transcription."
+      "scraper": "macrovoices",
+      "max_items": 4,
+      "active": true,
+      "note": "Weekly macro podcast; guest transcripts published as free PDFs (scraped)."
     },
     {
       "name": "The Markets",
       "url": "https://podcasts.apple.com/us/podcast/the-markets/id1683802600",
       "type": "podcast",
       "kind": "podcast",
-      "feed_url": "",
+      "feed_url": "https://feeds.megaphone.fm/GLD9322922848",
       "category": "macro",
+      "max_items": 1,
       "active": false,
-      "note": "Needs feed URL + transcription."
+      "note": "Weekly markets podcast (Fri). Requires transcription."
+    },
+    {
+      "name": "Animal Spirits",
+      "url": "https://podcasts.apple.com/us/podcast/animal-spirits-podcast/id1310192007",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "https://feeds.megaphone.fm/TCP6464651487",
+      "category": "macro",
+      "max_items": 1,
+      "active": false,
+      "note": "Weekly US markets/equities podcast (2-3x/week). Requires transcription."
     },
     {
       "name": "JPMorgan Asset Management",
@@ -376,6 +477,26 @@
       "category": "macro",
       "active": false,
       "note": "Channel of multiple feeds; needs per-show feed URL + transcription."
+    },
+    {
+      "name": "FT Unhedged",
+      "url": "https://www.ft.com/unhedged",
+      "type": "rss",
+      "kind": "article",
+      "feed_url": "https://feeds.acast.com/public/shows/unhedged",
+      "category": "macro",
+      "active": true,
+      "note": "FT Unhedged podcast (semiweekly); uses RSS show notes (full transcript paywalled)."
+    },
+    {
+      "name": "The Derivative",
+      "url": "https://podscripts.co/podcasts/the-derivative/",
+      "type": "rss",
+      "kind": "article",
+      "feed_url": "https://anchor.fm/s/11908b3c/podcast/rss",
+      "category": "volatility",
+      "active": true,
+      "note": "Derivatives/vol/managed-futures podcast; RSS show notes are ~5000 chars."
     }
   ]
 }

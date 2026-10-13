@@ -7,48 +7,9 @@ import time
 import requests
 
 from .. import config
+from . import skill
 
-_SYSTEM_PROMPT = (
-    "You are a senior buy-side equity research analyst. You read public research, "
-    "podcast transcripts, and market commentary, then produce concise, balanced "
-    "bilingual (Chinese + English) summaries focused on US equities. "
-    "You always respond with a single valid JSON object and nothing else."
-)
-
-_USER_TEMPLATE = """\
-Analyze the following content. Focus ONLY on material that is relevant to US equities \
-(US-listed stocks, sectors, or macro that directly moves US equity markets).
-
-Return a JSON object with exactly these fields:
-- "title_zh": concise Chinese title
-- "summary_zh": 2-3 sentence Chinese summary of the key investment insight
-- "summary_en": equivalent English summary
-- "key_points": array of 3-5 objects, each {{"zh": "...", "en": "..."}}
-- "tags": array of 2-5 short topic tags (English)
-- "tickers": array of US stock tickers mentioned (uppercase, no duplicates), omit if none
-- "sentiment": one of "positive", "neutral", "negative" (overall market/stance tone)
-- "category": exactly one of "macro", "tech", "politics", "other"
-- "us_equity_relevant": boolean, true only if this content is meaningfully relevant to US equities
-
-Category definitions (choose the single best fit):
-- "macro": macro economy, central banks/Fed, rates/yields, inflation, growth/recession,
-  FX/dollar, commodities, fiscal policy/debt, the major US indexes (S&P 500/Nasdaq/Dow),
-  market breadth, and fixed income/credit markets.
-- "tech": technology, AI/artificial intelligence, semiconductors/chips, software/internet,
-  and tech-sector stocks.
-- "politics": politics, elections, geopolitics, tariffs/trade war, sanctions, wars/conflicts,
-  and regulatory/policy actions.
-- "other": anything that does not fit the above (single-stock fundamentals, niche sectors,
-  private credit, fund/asset-allocation commentary, etc.).
-
-Rules:
-- If the content is NOT relevant to US equities, set "us_equity_relevant": false and keep all other fields minimal.
-- Summaries must be in the content's own voice, no hedging, no "this article says".
-- Keep summaries factual and specific (names, numbers, direction).
-
-CONTENT:
-{content}
-"""
+_CATEGORIES = ("macro", "tech", "politics", "volatility", "other")
 
 
 def _chat(messages: list[dict], max_retries: int = 3) -> dict:
@@ -60,14 +21,14 @@ def _chat(messages: list[dict], max_retries: int = 3) -> dict:
     body = {
         "model": config.DEEPSEEK_MODEL,
         "messages": messages,
-        "temperature": 0.3,
+        "temperature": 0.2,
         "response_format": {"type": "json_object"},
         "stream": False,
     }
     last_err = None
     for attempt in range(max_retries):
         try:
-            resp = requests.post(url, headers=headers, json=body, timeout=120)
+            resp = requests.post(url, headers=headers, json=body, timeout=180)
             resp.raise_for_status()
             data = resp.json()
             content = data["choices"][0]["message"]["content"]
@@ -87,19 +48,13 @@ def summarize(content: str, title: str = "") -> dict:
     if not is_configured():
         raise RuntimeError("DEEPSEEK_API_KEY is not set. Add it to .env")
 
-    # Token budget: keep the model call cheap and fast.
-    content = (content or "").strip()
-    if len(content) > 6000:
-        content = content[:6000] + "\n...[truncated]"
-
-    user_msg = _USER_TEMPLATE.format(content=content or title)
     messages = [
-        {"role": "system", "content": _SYSTEM_PROMPT},
-        {"role": "user", "content": user_msg},
+        {"role": "system", "content": skill.SYSTEM_PROMPT},
+        {"role": "user", "content": skill.build_user_prompt(content, title)},
     ]
     result = _chat(messages)
 
-    # Normalize / defensive parsing
+    # --- normalize key_points ---
     key_points = result.get("key_points", [])
     if isinstance(key_points, list):
         key_points = [
@@ -110,6 +65,18 @@ def summarize(content: str, title: str = "") -> dict:
     else:
         key_points = []
 
+    # --- normalize categories (list) ---
+    raw_cats = result.get("categories", [])
+    if not isinstance(raw_cats, list):
+        raw_cats = [str(raw_cats)]
+    categories = []
+    for c in raw_cats:
+        c = str(c).lower().strip()
+        if c in _CATEGORIES and c not in categories:
+            categories.append(c)
+    if not categories:
+        categories = ["other"]
+
     tags = result.get("tags", [])
     if not isinstance(tags, list):
         tags = []
@@ -118,19 +85,17 @@ def summarize(content: str, title: str = "") -> dict:
         tickers = []
     tickers = [str(t).upper() for t in tickers if str(t).strip()]
 
-    category = str(result.get("category", "other")).lower().strip()
-    if category not in ("macro", "tech", "politics", "other"):
-        category = "other"
-
     return {
         "title_zh": str(result.get("title_zh", "")).strip(),
         "summary_zh": str(result.get("summary_zh", "")).strip(),
         "summary_en": str(result.get("summary_en", "")).strip(),
+        "detail_zh": str(result.get("detail_zh", "")).strip(),
+        "detail_en": str(result.get("detail_en", "")).strip(),
         "key_points": key_points,
+        "categories": categories,
         "tags": [str(t) for t in tags],
         "tickers": tickers,
         "sentiment": str(result.get("sentiment", "neutral")).lower(),
-        "category": category,
         "us_equity_relevant": bool(result.get("us_equity_relevant", True)),
         "model": config.DEEPSEEK_MODEL,
     }

@@ -3,19 +3,27 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Daily Buy-side Insights</title>
+  <title>MarketIntel — US Stock News, Summarized</title>
+  <link rel="icon" type="image/svg+xml" href="marketintel-icon.svg" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="topbar">
     <div class="brand">
-      <div class="logo">BI</div>
+      <img class="logo-img" src="marketintel-icon.svg" alt="MarketIntel" />
       <div>
-        <h1>Daily Buy-side Insights</h1>
-        <p class="tagline">买方研报 · 播客 · 美股 · 每日双语汇总</p>
+        <h1>MarketIntel</h1>
+        <p class="tagline">US Stock News, Summarized · 每日双语美股洞察</p>
       </div>
     </div>
-    <div class="meta" id="metaInfo"></div>
+    <div class="topbar-right">
+      <button class="sources-btn" id="sourcesBtn">来源</button>
+      <div class="lang-toggle" id="globalLang">
+        <button class="active" data-lang="zh">中</button>
+        <button data-lang="en">EN</button>
+      </div>
+      <div class="meta" id="metaInfo"></div>
+    </div>
   </header>
 
   <nav class="datebar">
@@ -34,6 +42,7 @@
       <button class="chip" data-cat="macro">Macro</button>
       <button class="chip" data-cat="tech">Tech</button>
       <button class="chip" data-cat="politics">Politics</button>
+      <button class="chip" data-cat="volatility">Volatility</button>
       <button class="chip" data-cat="other">Other</button>
       <button class="chip" data-cat="bbg-tv-news">BBG TV</button>
     </div>
@@ -48,6 +57,35 @@
     <span>数据来源为公开买方研报与播客，仅供研究参考，不构成投资建议。</span>
     <span id="lastUpdated"></span>
   </footer>
+
+  <div class="modal-overlay" id="modal" hidden>
+    <div class="modal">
+      <div class="modal-head">
+        <span class="modal-src" id="modalSrc"></span>
+        <button class="modal-close" id="modalClose" aria-label="关闭">✕</button>
+      </div>
+      <h2 class="modal-title" id="modalTitle"></h2>
+      <p class="modal-sub" id="modalSub"></p>
+      <div class="lang-toggle" id="modalLang">
+        <button class="active" data-lang="zh">中</button>
+        <button data-lang="en">EN</button>
+      </div>
+      <p class="modal-detail" id="modalDetail"></p>
+      <ul class="keypoints" id="modalPoints"></ul>
+      <div class="chips-row" id="modalChips"></div>
+      <a class="modal-link" id="modalLink" target="_blank" rel="noopener">查看原文 →</a>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="sourcesModal" hidden>
+    <div class="modal modal-sources">
+      <div class="modal-head">
+        <h2 class="modal-title" style="margin:0">数据来源</h2>
+        <button class="modal-close" id="sourcesClose" aria-label="关闭">✕</button>
+      </div>
+      <ul class="sources-list" id="sourcesList"></ul>
+    </div>
+  </div>
 
   <script src="app.js"></script>
 </body>

@@ -12,6 +12,27 @@ _HEADERS = {
 _model = None
 
 
+def _patch_av_open() -> None:
+    """av>=19 removed the ``metadata_errors`` kwarg that faster-whisper passes.
+
+    Monkey-patch ``av.open`` to strip it so faster-whisper works on any av version.
+    """
+    try:
+        import av  # noqa: PLC0415
+    except ImportError:
+        return
+    _orig = av.open
+
+    def _open(*args, **kwargs):
+        kwargs.pop("metadata_errors", None)
+        return _orig(*args, **kwargs)
+
+    av.open = _open
+
+
+_patch_av_open()
+
+
 def is_available() -> bool:
     """Whether faster-whisper is installed (needed for audio podcasts)."""
     try:
@@ -31,7 +52,7 @@ def _get_model():
                 "faster-whisper is not installed. Run `pip install faster-whisper` "
                 "(ctranslate2 ships cp314 wheels, so it works on Python 3.14)."
             ) from e
-        _model = WhisperModel("small", device="cpu", compute_type="int8")
+        _model = WhisperModel("base", device="cpu", compute_type="int8")
     return _model
 
 

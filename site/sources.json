@@ -1,0 +1,100 @@
+{
+  "sources": [
+    {
+      "name": "Wall Street Breakfast (Seeking Alpha)",
+      "url": "https://seekingalpha.com/author/wall-street-breakfast",
+      "type": "rss",
+      "kind": "podcast",
+      "category": "macro",
+      "note": "Daily flagship podcast + article transcript (text feed, no transcription)."
+    },
+    {
+      "name": "Bond Vigilantes (M&G)",
+      "url": "https://bondvigilantes.com/",
+      "type": "rss",
+      "kind": "article",
+      "category": "macro",
+      "note": ""
+    },
+    {
+      "name": "DoubleLine Capital",
+      "url": "https://www.youtube.com/@DoubleLineCapital",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "YouTube auto-captions."
+    },
+    {
+      "name": "Forward Guidance",
+      "url": "https://www.youtube.com/@ForwardGuidanceBW",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "YouTube auto-captions."
+    },
+    {
+      "name": "Bloomberg TV",
+      "url": "https://www.youtube.com/@markets",
+      "type": "youtube",
+      "kind": "video",
+      "category": "bbg-tv-news",
+      "note": "Daily news clips; forced into BBG TV news category."
+    },
+    {
+      "name": "Goldman Sachs",
+      "url": "https://www.youtube.com/@GoldmanSachs",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "Market commentary + Exchanges podcast clips via YouTube auto-captions."
+    },
+    {
+      "name": "Patrick Boyle",
+      "url": "https://www.youtube.com/@PBoyle",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "Weekly finance/markets analysis via YouTube auto-captions."
+    },
+    {
+      "name": "SpotGamma",
+      "url": "https://www.youtube.com/@SpotGamma",
+      "type": "youtube",
+      "kind": "video",
+      "category": "volatility",
+      "note": "SPX/NDX options positioning, gamma/dealer flows, volatility."
+    },
+    {
+      "name": "Principles by Ray Dalio",
+      "url": "https://www.youtube.com/@principlesbyraydalio",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "Macro / debt-cycle commentary via YouTube auto-captions."
+    },
+    {
+      "name": "Macro Voices",
+      "url": "https://www.macrovoices.com/guest-content/list-guest-transcripts",
+      "type": "web",
+      "kind": "article",
+      "category": "macro",
+      "note": "Weekly macro podcast; guest transcripts published as free PDFs (scraped)."
+    },
+    {
+      "name": "FT Unhedged",
+      "url": "https://www.ft.com/unhedged",
+      "type": "rss",
+      "kind": "article",
+      "category": "macro",
+      "note": "FT Unhedged podcast (semiweekly); uses RSS show notes (full transcript paywalled)."
+    },
+    {
+      "name": "The Derivative",
+      "url": "https://podscripts.co/podcasts/the-derivative/",
+      "type": "rss",
+      "kind": "article",
+      "category": "volatility",
+      "note": "Derivatives/vol/managed-futures podcast; RSS show notes are ~5000 chars."
+    }
+  ]
+}

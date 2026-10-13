@@ -7,8 +7,16 @@
 - **只保留近 30 天**的内容（滚动窗口，每次刷新自动清理更早的条目）
 - **只考虑美股相关**内容（LLM 判定，非美股自动过滤）
 - **新 → 旧**排序
-- **中英双语**输出
-- **按主题分类**：每条 insight 由 LLM 自动归类为 `macro`（宏观/三大指数/利率）、`tech`（科技/AI/半导体）、`politics`（政治/地缘）、`other`（其他）；Bloomberg TV 单独归为 `bbg-tv-news`
+- **中英双语**输出（摘要 + 要点 + 详情）
+- **多主题分类**：每条 insight 可属于多个分类 `macro`（宏观/三大指数/利率）、`tech`（科技/AI/半导体）、`politics`（政治/地缘）、`other`；Bloomberg TV 额外叠加 `bbg-tv-news`
+- **实事求是**：摘要 skill 明确禁止编造数字/引述/代码/事件（见 `src/llm/skill.py`）
+- **详情视图**：网站点击任意卡片可展开更详细的内容
+
+## 当前来源（13 个）
+
+- **文字稿**：Wall Street Breakfast、Bond Vigilantes
+- **YouTube 字幕**：Bloomberg TV、Forward Guidance、DoubleLine、Morgan Stanley
+- **播客（转录）**：Odd Lots、Macro Voices、The Markets、The Bid、Credit Edge、Animal Spirits、The Memo by Howard Marks
 
 ## 架构
 
@@ -90,17 +98,11 @@ gh workflow run daily.yml
 
 `daily.yml` 每次运行：拉取代码 → 装依赖 → `run_daily.py`（抓取近 30 天 → 过滤已处理的 → LLM 双语摘要 → 判定美股相关性 → 滚动删除旧数据 → 写回 `insights.json`）→ 提交数据变更 → 部署 Pages。
 
-## 转录（可选，用于纯音频播客）
+## 转录
 
-播客音频转录用 `faster-whisper`（`ctranslate2` 已有 cp314 wheel，可直接装）：
+播客音频转录用 `faster-whisper`（已纳入 `requirements.txt`），默认 `small` 模型 + CPU + int8，可在 `src/ingest/transcribe.py` 调整。首次转录自动下载模型（约 460MB），CI 里已配置缓存。
 
-```powershell
-pip install faster-whisper
-```
-
-代码默认 `small` 模型 + CPU + int8，可在 `src/ingest/transcribe.py` 调整。
-
-> 提示：很多播客官方会发文字稿（如 Wall Street Breakfast），优先抓文字稿，比转录更快更准。
+`transcribe.py` 内置兼容补丁：新版 `av`（≥19）移除了 `metadata_errors` 参数，代码会自动剥掉该参数，保证 faster-whisper 在新旧 av 上都能跑。
 
 ## 环境变量
 

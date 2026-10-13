@@ -55,3 +55,22 @@ def prune(insights: list[dict], days: int) -> list[dict]:
 
 def sort_newest(insights: list[dict]) -> list[dict]:
     return sorted(insights, key=lambda x: x.get("published_at") or "", reverse=True)
+
+
+def save_sources(sources: list[dict]) -> None:
+    """Export the active source list to site/sources.json for the frontend."""
+    active = [s for s in sources if s.get("active")]
+    out = [
+        {
+            "name": s.get("name"),
+            "url": s.get("url", ""),
+            "type": s.get("type", ""),
+            "kind": s.get("kind", ""),
+            "category": s.get("category", ""),
+            "note": s.get("note", ""),
+        }
+        for s in active
+    ]
+    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with open(STATE_PATH.parent / "sources.json", "w", encoding="utf-8") as f:
+        json.dump({"sources": out}, f, ensure_ascii=False, indent=2)

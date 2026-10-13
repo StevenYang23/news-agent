@@ -43,14 +43,13 @@ body {
 }
 
 .brand { display: flex; align-items: center; gap: 14px; }
-.logo {
-  width: 44px; height: 44px; border-radius: 12px;
-  display: grid; place-items: center;
-  background: linear-gradient(135deg, var(--accent), var(--accent-2));
-  font-weight: 800; font-size: 18px; color: #0b1020;
+.logo-img {
+  height: 46px; width: auto; display: block;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.35));
 }
 .brand h1 { margin: 0; font-size: 20px; letter-spacing: -0.02em; }
 .tagline { margin: 0; font-size: 12.5px; color: var(--text-dim); }
+.topbar-right { display: flex; align-items: center; gap: 14px; }
 .meta { font-size: 12px; color: var(--text-dim); text-align: right; }
 
 .datebar {
@@ -123,6 +122,7 @@ body {
 .cat-macro     { color: #8ab4ff; background: rgba(79, 140, 255, 0.14); border-color: rgba(79, 140, 255, 0.35); }
 .cat-tech      { color: #c4b5fd; background: rgba(167, 139, 250, 0.14); border-color: rgba(167, 139, 250, 0.35); }
 .cat-politics  { color: #fdba74; background: rgba(249, 115, 22, 0.14);  border-color: rgba(249, 115, 22, 0.35); }
+.cat-volatility{ color: #f9a8d4; background: rgba(244, 114, 182, 0.14); border-color: rgba(244, 114, 182, 0.35); }
 .cat-other     { color: #9aa4b8; background: rgba(148, 163, 184, 0.12); border-color: rgba(148, 163, 184, 0.3); }
 .cat-bbg-tv-news { color: #fca5a5; background: rgba(239, 68, 68, 0.14);  border-color: rgba(239, 68, 68, 0.35); }
 
@@ -154,6 +154,62 @@ body {
 .sentiment.neutral { color: var(--neu); }
 
 .state { grid-column: 1 / -1; text-align: center; color: var(--text-dim); padding: 60px 0; font-size: 15px; }
+
+.card { cursor: pointer; }
+.card-more {
+  font-size: 12px; color: var(--accent); text-align: right;
+  opacity: 0; transition: opacity 0.15s; margin-top: 2px;
+}
+.card:hover .card-more { opacity: 1; }
+
+/* Modal / detail view */
+.modal-overlay {
+  position: fixed; inset: 0; z-index: 100;
+  background: rgba(5, 8, 16, 0.72); backdrop-filter: blur(4px);
+  display: flex; align-items: center; justify-content: center; padding: 20px;
+}
+.modal-overlay[hidden] { display: none; }
+.modal {
+  background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+  max-width: 720px; width: 100%; max-height: 88vh; overflow-y: auto;
+  padding: 24px 28px; box-shadow: 0 24px 64px rgba(0,0,0,0.5);
+  display: flex; flex-direction: column; gap: 14px;
+  animation: rise 0.2s ease both;
+}
+.modal-head { display: flex; align-items: center; justify-content: space-between; }
+.modal-src { font-size: 13px; color: var(--text-dim); }
+.modal-close {
+  background: var(--bg-soft); color: var(--text-dim); border: 1px solid var(--border);
+  border-radius: 8px; width: 32px; height: 32px; cursor: pointer; font-size: 14px;
+}
+.modal-close:hover { color: var(--text); background: var(--card-hover); }
+.modal-title { margin: 0; font-size: 20px; line-height: 1.35; }
+.modal-sub { margin: -6px 0 0; font-size: 13px; color: var(--text-dim); }
+.modal-detail { margin: 0; font-size: 14.5px; line-height: 1.75; color: var(--text); white-space: pre-line; }
+.modal-link {
+  display: inline-block; font-size: 13px; color: var(--accent);
+  text-decoration: none; margin-top: 4px;
+}
+.modal-link:hover { text-decoration: underline; }
+
+/* Sources button + list */
+.sources-btn {
+  background: var(--card); color: var(--text);
+  border: 1px solid var(--border); border-radius: 10px;
+  padding: 6px 14px; font-size: 13px; cursor: pointer; transition: 0.15s;
+}
+.sources-btn:hover { background: var(--card-hover); }
+.modal-sources { max-width: 560px; }
+.sources-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.source-item {
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  padding: 11px 13px; background: var(--bg-soft);
+  border: 1px solid var(--border); border-radius: 10px;
+}
+.source-name { font-size: 14px; color: var(--text); text-decoration: none; font-weight: 600; }
+.source-name:hover { color: var(--accent); }
+.source-kind { font-size: 11.5px; color: var(--text-dim); }
+.source-note { flex-basis: 100%; font-size: 11.5px; color: var(--text-dim); }
 
 .footer {
   text-align: center; padding: 24px; color: var(--text-dim);
