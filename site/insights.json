@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-13T15:17:52.286083+00:00",
+  "generated_at": "2026-10-13T15:32:15.195485+00:00",
   "insights": [
+    {
+      "guid": "yt:_dK567kDNtA",
+      "title": "Bloomberg Surveillance 10/13/2026",
+      "title_zh": "彭博观察：银行财报、芯片抛售与通胀考验",
+      "url": "https://www.youtube.com/watch?v=_dK567kDNtA",
+      "published_at": "2026-10-13T15:23:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博观察聚焦银行财报季开局、芯片股抛售与通胀数据考验。多位嘉宾讨论了金融板块对财报季的定调作用、摩根大通与高盛交易业务的分化表现，以及市场对美联储政策路径的预期。",
+      "summary_en": "This episode of Bloomberg Surveillance focuses on the start of bank earnings season, the chip selloff, and the inflation test. Guests discuss how financials will set the tone for earnings, the divergent trading performances at JPMorgan and Goldman Sachs, and market expectations for the Fed's policy path.",
+      "detail_zh": "本期节目围绕银行财报季展开，Evercore ISI的Julian Emanuel认为金融板块将为整个财报季定调。RBC的Gerard Cassidy分析了摩根大通的银行业务强劲表现盖过了交易业务的不及预期，以及高盛股票交易业务的亮眼表现掩盖了FICC业务的疲软。花旗的FICC交易业务则推动了第三季度营收超预期。摩根士丹利的Mike Wilson指出，金融板块和债券波动率将释放市场见底的信号。在宏观层面，Citi Research的Andrew Hollenhorst认为通胀降温可能使美联储按兵不动。Schwab Asset Management的Omar Aguilar则警告强劲的盈利正在掩盖一个脆弱的市场。此外，节目还讨论了也门胡塞武装袭击加剧中东战争风险、俄罗斯柴油协议在中期选举前难以降低成本、以及德意志银行的George Saravelos将AI列为2027年最大的系统性风险。",
+      "detail_en": "This episode centers on bank earnings season. Julian Emanuel of Evercore ISI believes financials will set the tone for the entire earnings season. Gerard Cassidy of RBC analyzes how JPMorgan's banking strength outshined its trading miss, and how Goldman Sachs' equity trading blowout overshadowed its FICC miss. Citi's FICC trading drove its third-quarter revenue beat. Mike Wilson of Morgan Stanley notes that financials and bond volatility will signal the market bottom. On the macro side, Andrew Hollenhorst of Citi Research suggests cooler inflation could keep the Fed on hold. Omar Aguilar of Schwab Asset Management warns that strong earnings are masking a fragile market. The program also covers Houthi attacks intensifying the threat of a wider Middle East war, Russia's diesel deal not lowering costs before the midterms, and Deutsche Bank's George Saravelos naming AI as the biggest systemic risk for 2027.",
+      "key_points": [
+        {
+          "zh": "Evercore ISI的Julian Emanuel认为金融板块将为财报季定调。",
+          "en": "Julian Emanuel of Evercore ISI says financials will set the tone for earnings season."
+        },
+        {
+          "zh": "摩根大通银行业务强劲盖过交易业务不及预期，高盛股票交易亮眼掩盖FICC疲软。",
+          "en": "JPMorgan's banking strength outshined its trading miss, while Goldman's equity trading blowout overshadowed its FICC miss."
+        },
+        {
+          "zh": "摩根士丹利的Mike Wilson认为金融板块和债券波动率将释放市场见底信号。",
+          "en": "Mike Wilson of Morgan Stanley says financials and bond volatility will signal the bottom."
+        },
+        {
+          "zh": "Citi Research的Andrew Hollenhorst认为通胀降温可能使美联储按兵不动。",
+          "en": "Andrew Hollenhorst of Citi Research says cooler inflation could keep the Fed on hold."
+        },
+        {
+          "zh": "Schwab Asset Management的Omar Aguilar警告强劲盈利正在掩盖脆弱的市场。",
+          "en": "Omar Aguilar of Schwab Asset Management warns strong earnings are masking a fragile market."
+        }
+      ],
+      "tags": [
+        "bank earnings",
+        "inflation",
+        "Fed",
+        "chip selloff",
+        "market fragility"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:MFxB02qOI8I",
       "title": "Goldman Beats on Equity Trading as Fixed Income Falls Short",
@@ -1233,6 +1282,53 @@
         "managed futures",
         "tail hedging",
         "AI and jobs"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:RbyQbmAEj_Y",
+      "title": "RAY DALIO EXPLAINS: THE LONG TERM DEBT CYCLE",
+      "title_zh": "达利欧：长期债务周期的形成与逆转逻辑",
+      "url": "https://www.youtube.com/watch?v=RbyQbmAEj_Y",
+      "published_at": "2026-10-08T17:47:03+00:00",
+      "source_name": "Principles by Ray Dalio",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "达利欧阐述长期债务周期：债务长期增速快于收入，繁荣期借贷与资产价格互相强化形成泡沫；一旦偿债增速超过收入，支出收缩、收入下滑、借贷枯竭，周期随之逆转。",
+      "summary_en": "Ray Dalio outlines the long-term debt cycle: over long periods debt rises faster than incomes, and during booms borrowing and asset prices reinforce each other into a bubble; once debt repayments outpace incomes, spending contracts, incomes fall, and borrowing dries up, reversing the cycle.",
+      "detail_zh": "达利欧指出，在长期视角下，债务的增长速度往往快于收入，由此形成长期债务周期。即便人们负债加重，贷款方仍愿意放贷，因为在经济繁荣期，收入上升、资产价值飙升、股市兴旺。人们借入更多资金购买金融资产，进一步推高价格，形成泡沫。只要收入持续上升，债务负担就仍可控。但这一过程无法永远持续：数十年间债务负担缓慢累积，直至偿债支出增速超过收入增速。届时人们被迫削减支出，导致收入下降、借贷枯竭，最终使整个周期发生逆转。",
+      "detail_en": "Dalio describes how, over long periods, debts tend to rise faster than incomes, creating the long-term debt cycle. Even as people become more indebted, lenders freely extend credit because during economic booms incomes rise, asset values soar, and the stock market thrives. People borrow more to buy financial assets, pushing prices higher and creating a bubble. So long as incomes keep rising, the debt burden stays manageable. But this cannot continue forever: over decades, debt burdens slowly accumulate until debt repayments grow faster than incomes. This forces people to cut back on spending, causing incomes to fall and borrowing to dry up—eventually reversing the entire cycle.",
+      "key_points": [
+        {
+          "zh": "长期来看，债务增速快于收入，构成长期债务周期。",
+          "en": "Over long periods, debts tend to rise faster than incomes, creating the long-term debt cycle."
+        },
+        {
+          "zh": "繁荣期收入上升、资产升值、股市兴旺，贷款方因此愿意放贷。",
+          "en": "During booms, incomes rise, asset values soar, and the stock market thrives, so lenders freely extend credit."
+        },
+        {
+          "zh": "借贷购买金融资产推高价格，形成泡沫。",
+          "en": "Borrowing to buy financial assets pushes prices higher and creates a bubble."
+        },
+        {
+          "zh": "只要收入持续上升，债务负担仍可控，但无法永远持续。",
+          "en": "So long as incomes keep rising, the debt burden stays manageable, but this cannot continue forever."
+        },
+        {
+          "zh": "当偿债增速超过收入，支出收缩、收入下降、借贷枯竭，周期逆转。",
+          "en": "When debt repayments grow faster than incomes, spending is cut back, incomes fall, borrowing dries up, and the cycle reverses."
+        }
+      ],
+      "tags": [
+        "long-term-debt-cycle",
+        "debt",
+        "bubble",
+        "credit",
+        "ray-dalio"
       ],
       "tickers": [],
       "sentiment": "neutral"
