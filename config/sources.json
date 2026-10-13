@@ -55,7 +55,8 @@
       "feed_url": "",
       "category": "macro",
       "active": true,
-      "note": "YouTube auto-captions."
+      "note": "YouTube auto-captions.",
+      "priority": 2
     },
     {
       "name": "Forward Guidance",
@@ -65,7 +66,8 @@
       "feed_url": "",
       "category": "macro",
       "active": true,
-      "note": "YouTube auto-captions."
+      "note": "YouTube auto-captions.",
+      "priority": 3
     },
     {
       "name": "Bloomberg TV",
@@ -77,7 +79,8 @@
       "force_category": "bbg-tv-news",
       "max_items": 8,
       "active": true,
-      "note": "Daily news clips; forced into BBG TV news category."
+      "note": "Daily news clips; forced into BBG TV news category.",
+      "priority": 5
     },
     {
       "name": "PIMCO",
@@ -147,7 +150,8 @@
       "feed_url": "",
       "category": "macro",
       "active": true,
-      "note": "Market commentary + Exchanges podcast clips via YouTube auto-captions."
+      "note": "Market commentary + Exchanges podcast clips via YouTube auto-captions.",
+      "priority": 6
     },
     {
       "name": "BlackRock",
@@ -167,7 +171,8 @@
       "feed_url": "",
       "category": "macro",
       "active": true,
-      "note": "Weekly finance/markets analysis via YouTube auto-captions."
+      "note": "Weekly finance/markets analysis via YouTube auto-captions.",
+      "priority": 4
     },
     {
       "name": "CNBC",
@@ -188,7 +193,8 @@
       "feed_url": "",
       "category": "volatility",
       "active": true,
-      "note": "SPX/NDX options positioning, gamma/dealer flows, volatility."
+      "note": "SPX/NDX options positioning, gamma/dealer flows, volatility.",
+      "priority": 1
     },
     {
       "name": "Real Vision",
@@ -291,7 +297,8 @@
       "feed_url": "",
       "category": "macro",
       "active": true,
-      "note": "Macro / debt-cycle commentary via YouTube auto-captions."
+      "note": "Macro / debt-cycle commentary via YouTube auto-captions.",
+      "priority": 7
     },
     {
       "name": "Galaxy Brains",

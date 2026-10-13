@@ -99,6 +99,8 @@ def _content_for(source: dict, item: dict) -> str | None:
 def run_pipeline() -> dict:
     sources = config.load_sources()
     active = [s for s in sources if s.get("active")]
+    # Process higher-priority sources first (lower `priority` = more important).
+    active.sort(key=lambda s: s.get("priority", 99))
 
     stats = {
         "fetched": 0,
