@@ -6,13 +6,20 @@ const state = {
   generatedAt: null,
   dates: [],
   selectedDate: null,
-  kind: "",
+  cat: "",
   q: "",
   lang: "zh",
 };
 
 const $ = (sel) => document.querySelector(sel);
 
+const CATEGORY_LABEL = {
+  macro: "宏观",
+  tech: "科技",
+  politics: "政治",
+  other: "其他",
+  "bbg-tv-news": "BBG TV",
+};
 const SENTIMENT_LABEL = { positive: "偏多", negative: "偏空", neutral: "中性" };
 
 function esc(s) {
@@ -50,7 +57,7 @@ function filtered() {
   const q = state.q.toLowerCase();
   return state.insights.filter((it) => {
     if (state.selectedDate && (it.published_at || "").slice(0, 10) !== state.selectedDate) return false;
-    if (state.kind && it.source_kind !== state.kind) return false;
+    if (state.cat && it.category !== state.cat) return false;
     if (q) {
       const hay = [
         it.title, it.title_zh, it.summary_zh, it.summary_en, it.source_name,
@@ -85,6 +92,7 @@ function render() {
 
 function renderCard(it) {
   const kind = it.source_kind || "article";
+  const cat = it.category || "other";
   const titleZh = it.title_zh || it.title || "";
   const titleEn = it.title || "";
   const showSub = titleZh && titleEn && titleZh !== titleEn;
@@ -100,6 +108,7 @@ function renderCard(it) {
     <div class="card-head">
       <span class="src-dot ${kind}"></span>
       <span class="src-name">${esc(it.source_name)}</span>
+      <span class="cat-badge cat-${esc(cat)}">${CATEGORY_LABEL[cat] || cat}</span>
       <span class="src-date">${esc(dateStr)}</span>
     </div>
     <div class="lang-toggle">
@@ -137,11 +146,11 @@ $("#todayBtn").addEventListener("click", () => {
   render();
 });
 
-$("#kindChips").addEventListener("click", (e) => {
+$("#catChips").addEventListener("click", (e) => {
   const chip = e.target.closest(".chip");
   if (!chip) return;
-  state.kind = chip.dataset.kind;
-  document.querySelectorAll("#kindChips .chip").forEach((c) => c.classList.remove("active"));
+  state.cat = chip.dataset.cat;
+  document.querySelectorAll("#catChips .chip").forEach((c) => c.classList.remove("active"));
   chip.classList.add("active");
   render();
 });

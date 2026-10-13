@@ -6,13 +6,14 @@
   },
   "sources": [
     {
-      "name": "Seeking Alpha - Wall Street Breakfast",
+      "name": "Wall Street Breakfast (Seeking Alpha)",
       "url": "https://seekingalpha.com/author/wall-street-breakfast",
       "type": "rss",
       "kind": "podcast",
       "feed_url": "https://seekingalpha.com/author/wall-street-breakfast.xml",
+      "category": "macro",
       "active": true,
-      "note": "Daily flagship podcast + article transcript. Text feed, no audio transcription needed."
+      "note": "Daily flagship podcast + article transcript (text feed, no transcription)."
     },
     {
       "name": "Odd Lots (Bloomberg)",
@@ -20,6 +21,17 @@
       "type": "podcast",
       "kind": "podcast",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8A94442E-5A74-4FA2-8B8D-AE27003A8D6B/982F5071-765C-403D-969D-AE27003A8D83/podcast.rss",
+      "category": "macro",
+      "active": true,
+      "note": "Requires audio transcription."
+    },
+    {
+      "name": "The Bid (BlackRock)",
+      "url": "https://www.blackrock.com/us/individual/podcasts/the-bid",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "https://rss.art19.com/the-bid",
+      "category": "macro",
       "active": true,
       "note": "Requires audio transcription."
     },
@@ -29,17 +41,9 @@
       "type": "rss",
       "kind": "article",
       "feed_url": "https://bondvigilantes.com/feed/",
+      "category": "macro",
       "active": true,
       "note": ""
-    },
-    {
-      "name": "The Bid (BlackRock)",
-      "url": "https://www.blackrock.com/us/individual/podcasts/the-bid",
-      "type": "podcast",
-      "kind": "podcast",
-      "feed_url": "https://rss.art19.com/the-bid",
-      "active": true,
-      "note": "Requires audio transcription."
     },
     {
       "name": "DoubleLine Capital",
@@ -47,6 +51,7 @@
       "type": "youtube",
       "kind": "video",
       "feed_url": "",
+      "category": "macro",
       "active": true,
       "note": "YouTube auto-captions."
     },
@@ -56,8 +61,21 @@
       "type": "youtube",
       "kind": "video",
       "feed_url": "",
+      "category": "macro",
       "active": true,
       "note": "YouTube auto-captions."
+    },
+    {
+      "name": "Bloomberg TV",
+      "url": "https://www.youtube.com/@markets",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "bbg-tv-news",
+      "force_category": "bbg-tv-news",
+      "max_items": 15,
+      "active": true,
+      "note": "Daily news clips; forced into BBG TV news category."
     },
     {
       "name": "PIMCO",
@@ -65,6 +83,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": "Listing page is JS-rendered; needs dedicated scraper."
     },
@@ -74,6 +93,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -83,6 +103,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -92,6 +113,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -101,6 +123,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -110,6 +133,7 @@
       "type": "youtube",
       "kind": "video",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -119,8 +143,9 @@
       "type": "podcast",
       "kind": "podcast",
       "feed_url": "",
+      "category": "macro",
       "active": false,
-      "note": ""
+      "note": "Needs feed URL + transcription."
     },
     {
       "name": "Coinbase Markets",
@@ -128,8 +153,9 @@
       "type": "podcast",
       "kind": "podcast",
       "feed_url": "",
+      "category": "tech",
       "active": false,
-      "note": ""
+      "note": "Needs feed URL + transcription."
     },
     {
       "name": "KKR",
@@ -137,6 +163,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -146,6 +173,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -155,6 +183,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -164,6 +193,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -173,6 +203,7 @@
       "type": "youtube",
       "kind": "video",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -182,8 +213,9 @@
       "type": "podcast",
       "kind": "podcast",
       "feed_url": "",
+      "category": "tech",
       "active": false,
-      "note": ""
+      "note": "Needs feed URL + transcription."
     },
     {
       "name": "The Memo by Howard Marks",
@@ -191,8 +223,9 @@
       "type": "podcast",
       "kind": "podcast",
       "feed_url": "",
+      "category": "macro",
       "active": false,
-      "note": ""
+      "note": "Needs feed URL + transcription."
     },
     {
       "name": "Macro Voices",
@@ -200,8 +233,9 @@
       "type": "podcast",
       "kind": "podcast",
       "feed_url": "",
+      "category": "macro",
       "active": false,
-      "note": ""
+      "note": "Needs feed URL + transcription."
     },
     {
       "name": "The Markets",
@@ -209,8 +243,9 @@
       "type": "podcast",
       "kind": "podcast",
       "feed_url": "",
+      "category": "macro",
       "active": false,
-      "note": ""
+      "note": "Needs feed URL + transcription."
     },
     {
       "name": "JPMorgan Asset Management",
@@ -218,6 +253,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -227,6 +263,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -236,6 +273,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -245,6 +283,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -254,6 +293,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -263,6 +303,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -272,6 +313,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -281,6 +323,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -290,6 +333,7 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
     },
@@ -299,8 +343,39 @@
       "type": "web",
       "kind": "article",
       "feed_url": "",
+      "category": "macro",
       "active": false,
       "note": ""
+    },
+    {
+      "name": "Citadel Insight",
+      "url": "https://www.citadelsecurities.com/news-and-insights/category/market-insights/",
+      "type": "web",
+      "kind": "article",
+      "feed_url": "",
+      "category": "macro",
+      "active": false,
+      "note": "Needs dedicated scraper."
+    },
+    {
+      "name": "Bloomberg Podcasts (YouTube)",
+      "url": "https://www.youtube.com/@bloombergpodcasts",
+      "type": "youtube",
+      "kind": "video",
+      "feed_url": "",
+      "category": "macro",
+      "active": false,
+      "note": "YouTube auto-captions; enable when ready."
+    },
+    {
+      "name": "Bloomberg Podcasts (Apple)",
+      "url": "https://podcasts.apple.com/us/channel/bloomberg/id6442484579",
+      "type": "podcast",
+      "kind": "podcast",
+      "feed_url": "",
+      "category": "macro",
+      "active": false,
+      "note": "Channel of multiple feeds; needs per-show feed URL + transcription."
     }
   ]
 }

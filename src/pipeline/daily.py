@@ -7,6 +7,7 @@ in GitHub Actions with no server or database.
 from __future__ import annotations
 
 import logging
+import time
 
 from .. import config, state
 from ..ingest import fetch, transcribe, youtube
@@ -22,7 +23,9 @@ def _fetch_source(source: dict) -> list[dict]:
     if stype == "rss" or stype == "podcast":
         items = fetch.fetch_rss(source["feed_url"])
     elif stype == "youtube":
-        items = youtube.list_recent_videos(source["url"], config.MAX_ITEMS_PER_SOURCE)
+        items = youtube.list_recent_videos(
+            source["url"], source.get("max_items", config.MAX_ITEMS_PER_SOURCE)
+        )
     elif stype == "web":
         log.warning("web scraping not implemented for %s — skipping", source["name"])
         return []
@@ -63,7 +66,15 @@ def _content_for(source: dict, item: dict) -> str | None:
                     pass
 
     if stype == "youtube":
-        return youtube.get_captions(item["video_id"])
+        time.sleep(2)  # avoid YouTube rate limiting
+        try:
+            return youtube.get_captions(item["video_id"])
+        except Exception as e:  # noqa: BLE001
+            desc = (item.get("description") or "").strip()
+            if len(desc) > 40:
+                log.info("captions failed for %s — using description", (item.get("title") or "")[:40])
+                return desc
+            raise e
 
     return item.get("content", "")
 
@@ -118,6 +129,7 @@ def run_pipeline() -> dict:
                     stats["filtered_us"] += 1
                     guids.add(guid)  # remember we already judged it
                     continue
+                category = src.get("force_category") or payload.get("category", "other")
                 new_insights.append(
                     {
                         "guid": guid,
@@ -127,6 +139,7 @@ def run_pipeline() -> dict:
                         "published_at": item["published_at"],
                         "source_name": src["name"],
                         "source_kind": src.get("kind", "article"),
+                        "category": category,
                         "summary_zh": payload.get("summary_zh", ""),
                         "summary_en": payload.get("summary_en", ""),
                         "key_points": payload.get("key_points", []),

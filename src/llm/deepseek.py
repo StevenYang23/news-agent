@@ -27,7 +27,19 @@ Return a JSON object with exactly these fields:
 - "tags": array of 2-5 short topic tags (English)
 - "tickers": array of US stock tickers mentioned (uppercase, no duplicates), omit if none
 - "sentiment": one of "positive", "neutral", "negative" (overall market/stance tone)
+- "category": exactly one of "macro", "tech", "politics", "other"
 - "us_equity_relevant": boolean, true only if this content is meaningfully relevant to US equities
+
+Category definitions (choose the single best fit):
+- "macro": macro economy, central banks/Fed, rates/yields, inflation, growth/recession,
+  FX/dollar, commodities, fiscal policy/debt, the major US indexes (S&P 500/Nasdaq/Dow),
+  market breadth, and fixed income/credit markets.
+- "tech": technology, AI/artificial intelligence, semiconductors/chips, software/internet,
+  and tech-sector stocks.
+- "politics": politics, elections, geopolitics, tariffs/trade war, sanctions, wars/conflicts,
+  and regulatory/policy actions.
+- "other": anything that does not fit the above (single-stock fundamentals, niche sectors,
+  private credit, fund/asset-allocation commentary, etc.).
 
 Rules:
 - If the content is NOT relevant to US equities, set "us_equity_relevant": false and keep all other fields minimal.
@@ -106,6 +118,10 @@ def summarize(content: str, title: str = "") -> dict:
         tickers = []
     tickers = [str(t).upper() for t in tickers if str(t).strip()]
 
+    category = str(result.get("category", "other")).lower().strip()
+    if category not in ("macro", "tech", "politics", "other"):
+        category = "other"
+
     return {
         "title_zh": str(result.get("title_zh", "")).strip(),
         "summary_zh": str(result.get("summary_zh", "")).strip(),
@@ -114,6 +130,7 @@ def summarize(content: str, title: str = "") -> dict:
         "tags": [str(t) for t in tags],
         "tickers": tickers,
         "sentiment": str(result.get("sentiment", "neutral")).lower(),
+        "category": category,
         "us_equity_relevant": bool(result.get("us_equity_relevant", True)),
         "model": config.DEEPSEEK_MODEL,
     }
