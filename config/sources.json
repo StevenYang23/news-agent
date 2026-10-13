@@ -32,8 +32,8 @@
       "kind": "podcast",
       "feed_url": "https://rss.art19.com/the-bid",
       "category": "macro",
-      "active": true,
-      "note": "Requires audio transcription."
+      "active": false,
+      "note": "Overlaps with Forward Guidance; needs transcription. Re-enable when transcription is set up."
     },
     {
       "name": "Bond Vigilantes (M&G)",
@@ -73,7 +73,7 @@
       "feed_url": "",
       "category": "bbg-tv-news",
       "force_category": "bbg-tv-news",
-      "max_items": 15,
+      "max_items": 8,
       "active": true,
       "note": "Daily news clips; forced into BBG TV news category."
     },
