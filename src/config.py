@@ -31,8 +31,8 @@ LOOKBACK_DAYS = 30
 US_EQUITY_ONLY = True
 MAX_ITEMS_PER_SOURCE = 10
 # Whether to fetch YouTube auto-captions (slow / rate-limited) or just use the
-# video description. Set USE_YOUTUBE_CAPTIONS=1 to enable captions.
-USE_YOUTUBE_CAPTIONS = os.getenv("USE_YOUTUBE_CAPTIONS", "0") == "1"
+# video description. Set USE_YOUTUBE_CAPTIONS=0 to use descriptions only.
+USE_YOUTUBE_CAPTIONS = os.getenv("USE_YOUTUBE_CAPTIONS", "1") == "1"
 
 _loaded = False
 
