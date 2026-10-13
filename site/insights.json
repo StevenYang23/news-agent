@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-10-13T14:58:09.732017+00:00",
+  "generated_at": "2026-10-13T15:04:30.441843+00:00",
   "insights": [
+    {
+      "guid": "yt:MFxB02qOI8I",
+      "title": "Goldman Beats on Equity Trading as Fixed Income Falls Short",
+      "title_zh": "高盛股票交易业务三季度营收超预期，固收与利率交易大幅低于预期",
+      "url": "https://www.youtube.com/watch?v=MFxB02qOI8I",
+      "published_at": "2026-10-13T14:43:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "高盛股票交易部门截至9月的三个月营收达64.4亿美元，超出市场预期；同期固定收益与利率交易业务则大幅低于华尔街预期。该消息由彭博电视Kristine Aquino报道。",
+      "summary_en": "Goldman Sachs' equities traders posted $6.44 billion in revenue for the three months through September, beating expectations, while its fixed-income and rates-trading businesses fell far short of Wall Street estimates in the third quarter, per Bloomberg Television's Kristine Aquino.",
+      "detail_zh": "高盛集团股票交易部门在截至9月的三个月内实现营收64.4亿美元，高于市场预期。与此同时，该行的固定收益与利率交易业务在第三季度大幅低于华尔街预期。上述对比显示高盛内部不同交易条线业绩分化明显：股票交易表现强劲，而固收与利率交易明显承压。该信息由彭博电视的Kristine Aquino报道。原文未披露具体预期数值、同比变化或其他财务细节。",
+      "detail_en": "Goldman Sachs Group's equities traders reported revenue of $6.44 billion for the three months through September, topping expectations. In contrast, the firm's fixed-income and rates-trading counterparts fell far below Wall Street's estimates in the third quarter. The contrast indicates a clear divergence in performance across Goldman's trading businesses: equities outperformed while fixed income and rates lagged. The information was reported by Kristine Aquino on Bloomberg Television. The source did not disclose specific estimate figures, year-over-year changes, or other financial details.",
+      "key_points": [
+        {
+          "zh": "高盛股票交易部门截至9月的三个月营收为64.4亿美元，超出预期。",
+          "en": "Goldman Sachs' equities trading revenue for the three months through September was $6.44 billion, beating expectations."
+        },
+        {
+          "zh": "高盛固定收益与利率交易业务第三季度大幅低于华尔街预期。",
+          "en": "Goldman's fixed-income and rates-trading businesses fell far below Wall Street estimates in the third quarter."
+        },
+        {
+          "zh": "高盛内部交易条线业绩分化：股票交易强劲，固收与利率交易承压。",
+          "en": "Performance diverged within Goldman's trading units: equities strong, fixed income and rates under pressure."
+        }
+      ],
+      "tags": [
+        "Goldman Sachs",
+        "equities trading",
+        "fixed income",
+        "Q3 earnings"
+      ],
+      "tickers": [
+        "GS"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:479PRhHLAtA",
       "title": "Citi’s Fixed Income Traders Drive Third-Quarter Beat on Revenue",
@@ -254,6 +295,137 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "4953722",
+      "title": "A Rare Double Miss From JPMorgan",
+      "title_zh": "银行股Q3财报开局平淡：摩根大通罕见双线不及预期，市场情绪谨慎",
+      "url": "https://seekingalpha.com/article/4953722-a-rare-double-miss-from-jpmorgan?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-13T11:15:03+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "Q3财报季由大型银行拉开帷幕，摩根大通营收与利润双双不及预期，盘前下跌3.3%，富国银行亦因营收和净利息收入不足下跌1.2%。戴蒙警告财政赤字、粘性通胀、高资产价格与地缘政治风险仍在暗流涌动，投资者对借贷成本上升、通胀及AI对行业影响保持担忧。",
+      "summary_en": "Q3 earnings season kicked off with big banks, but investors were underwhelmed: JPMorgan missed consensus on both top and bottom lines and fell 3.3% premarket, while Wells Fargo dropped 1.2% on revenue and NII shortfalls. Dimon flagged large fiscal deficits, sticky inflation, elevated asset prices, rising rates and geopolitical risks as forces shifting beneath the surface.",
+      "detail_zh": "Q3财报季正式开启，摩根大通、高盛、花旗和富国银行于当日早间发布业绩，美国银行和摩根士丹利定于周三公布。截至目前投资者反应平淡：摩根大通盘前下跌3.3%，营收和利润均不及市场共识，主要受6.58亿美元净证券亏损及投行业务放缓拖累。富国银行盘前下跌1.2%，营收和净利息收入均低于预期，但消费银行和商业板块仍有增长。戴蒙在业绩发布后表示，美国经济继续受到强劲商业投资和持续消费者支出的支撑，但大规模财政赤字、粘性通胀、高企的资产价格、上升的利率和地缘政治状况仍在暗流涌动，这些力量或许可控，但银行仍为各种结果做好准备。投资者近月来一直担忧借贷成本上升和通胀，同时也关注人工智能对行业的影响以及IPO不确定性——在当前动荡环境下上市被搁置。高盛和花旗即将发布业绩，所有大型银行的电话会议定于美东时间8:30至11:00举行。",
+      "detail_en": "Q3 earnings season is underway, with JPMorgan, Goldman Sachs, Citigroup and Wells Fargo reporting this morning, and Bank of America and Morgan Stanley due Wednesday. So far investors have been underwhelmed: JPMorgan slipped 3.3% premarket after missing consensus on both top and bottom lines, driven by a $658M net securities loss and a slowdown in investment banking. Wells Fargo fell 1.2% premarket as revenue and net interest income came in short, though growth extended across consumer banking and commercial segments. Dimon said the U.S. economy continues to be fueled by strong business investment and ongoing consumer spending, but large fiscal deficits, sticky inflation, elevated asset prices, rising interest rates and geopolitical conditions continue to shift under the surface, and while these forces may be manageable, the bank remains prepared for a wide range of outcomes. Investors have been worried over rising borrowing costs and inflation, as well as concerns over what AI will mean for the industry and IPO uncertainty, as listings are put on ice in the current choppy environment. Goldman Sachs and Citigroup will report shortly, with conference calls for all the banking behemoths scheduled from 8:30 AM - 11:00 AM ET.",
+      "key_points": [
+        {
+          "zh": "摩根大通Q3营收和利润双双不及预期，盘前下跌3.3%，受6.58亿美元净证券亏损和投行业务放缓拖累。",
+          "en": "JPMorgan missed consensus on both top and bottom lines and fell 3.3% premarket, hit by a $658M net securities loss and a slowdown in investment banking."
+        },
+        {
+          "zh": "富国银行盘前下跌1.2%，营收和净利息收入不及预期，但消费银行和商业板块仍有增长。",
+          "en": "Wells Fargo fell 1.2% premarket as revenue and net interest income came in short, though growth extended across consumer banking and commercial segments."
+        },
+        {
+          "zh": "戴蒙警告：大规模财政赤字、粘性通胀、高资产价格、上升利率和地缘政治仍在暗流涌动，银行对多种结果保持准备。",
+          "en": "Dimon warned that large fiscal deficits, sticky inflation, elevated asset prices, rising rates and geopolitical conditions continue to shift under the surface, and the bank remains prepared for a wide range of outcomes."
+        },
+        {
+          "zh": "投资者担忧借贷成本上升、通胀、AI对行业的影响以及IPO不确定性，上市在当前动荡环境中被搁置。",
+          "en": "Investors are worried about rising borrowing costs, inflation, AI's impact on the industry and IPO uncertainty, with listings put on ice in the current choppy environment."
+        },
+        {
+          "zh": "高盛和花旗即将发布业绩，所有大型银行电话会议定于美东时间8:30至11:00举行。",
+          "en": "Goldman Sachs and Citigroup will report shortly, with conference calls for all the banking behemoths scheduled from 8:30 AM - 11:00 AM ET."
+        }
+      ],
+      "tags": [
+        "bank earnings",
+        "Q3 earnings season",
+        "JPMorgan",
+        "Wells Fargo",
+        "financials"
+      ],
+      "tickers": [
+        "JPM",
+        "GS",
+        "C",
+        "WFC",
+        "MS",
+        "FUN",
+        "MU",
+        "DIS",
+        "AVGO",
+        "DAL",
+        "SBUX",
+        "CMG",
+        "PEP",
+        "BMBL",
+        "JNJ",
+        "UNH"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "4953723",
+      "title": "Wall Street Breakfast Podcast: Six Flags Shares Plunge Premarket",
+      "title_zh": "六旗过山车事故重挫股价；Character.AI申请破产、迪士尼介入；美光授权创纪录回购；克罗格裁员3000人",
+      "url": "https://seekingalpha.com/article/4953723-wall-street-breakfast-podcast-six-flags-shares-plunge-premarket?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-13T10:45:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "other",
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "六旗娱乐因佐治亚州过山车致命事故股价盘前下跌7%，并关闭同类设施配合调查。Character Technologies申请第11章破产保护，迪士尼以2000万美元及过渡服务作为假马竞标方获取部分IP非独家永久许可。美光授权创纪录的351.6亿美元回购，反映AI驱动的内存需求强劲。克罗格计划三年内裁减约3000个企业岗位，约占其企业员工总数的37%，并整合AI。",
+      "summary_en": "Six Flags Entertainment fell 7% premarket after a fatal roller coaster incident in Georgia, prompting ride closures and cooperation with authorities. Character Technologies filed for Chapter 11 bankruptcy, with Disney serving as stalking horse bidder for certain IP via a $20M deal plus transition services. Micron authorized a record $35.16B buyback, reflecting strong AI-driven memory demand. Kroger plans to cut about 3,000 corporate roles over three years, roughly 37% of its corporate workforce, as it integrates AI.",
+      "detail_zh": "六旗娱乐（FUN）盘前下跌7%，此前有报道称佐治亚州六旗游乐园的过山车发生事故，造成一人死亡、数人受伤；目击者称一名男子从Six Flags Over Georgia的Goliath过山车坠落。公司表示员工和当地政府立即响应，正配合调查，并出于谨慎关闭了各园区类似游乐设施。Character Technologies已自愿在特拉华州破产法院申请第11章破产保护，计划在出售过程中继续运营；迪士尼（DIS）将作为假马竞标方，以2000万美元及迪士尼的过渡服务换取某些知识产权和索赔的非独家永久许可。若出售过程未能产生可延续Character.ai平台的购买，该平台将被清盘，交易预计在11月底或12月初完成。路透社本月早些时候报道称，肯塔基州总检察长在一起关于儿童安全的诉讼中提交的新文件显示，Character.AI创建的聊天机器人有时建议用户自残、绝食或自杀；Character.AI由两名前谷歌（GOOGL/GOOG）员工创立。美光科技（MU）根据近期文件将自主股票回购授权提高至创纪录的351.6亿美元，该计划将于12月9日开始；该芯片股年内因AI驱动的内存需求上涨超过240%，但仍低于6月25日1255美元的峰值。克罗格（KR）计划裁减约3000个企业岗位，约占其8200名企业员工的37%，据路透社看到的内部备忘录（此前彭博新闻报道），这将在未来三年内随着AI整合到运营流程中逐步进行；2月上任的CEO Greg Foran在备忘录中告知员工，具体裁员细节将在未来几个月内分享。报道称，此次重组是继去年6月裁员约1000个企业岗位之后的又一举措。催化剂方面：为期三天的SEMICON West科技会议将开始，英伟达（NVDA）、泛林集团（LRCX）、应用材料（AMAT）和美光（MU）将参与；值得关注的投资者活动包括Workday（WDAY）分析师日和宝洁（PG）年度股东大会；TechCrunch Disrupt将在旧金山举行，演讲者包括Rivian（RIVN）CEO RJ Scaringe、亚马逊（AMZN）高级副总裁Panos Panay和Cerebras Systems（CBRS）CEO Andrew Feldman；苹果（AAPL）将在纽约Tribeca举行“Welcome Home”活动，预计聚焦智能家居产品线，可能发布Siri驱动的家庭中枢、更新的Apple TV 4K和HomePod mini型号。股指期货涨跌互现；原油下跌1.8%至92美元，布伦特原油下跌1.6%至104美元；富时100指数上涨0.7%，DAX指数上涨0.6%。最大波动股之一：NatWest Group（NWG）上涨3%，此前巴克莱将其评级从Equalweight上调至Overweight。经济日历：上午10点公布成屋销售数据。",
+      "detail_en": "Six Flags Entertainment (FUN) fell 7% premarket after a report that one person died and several others were injured in an incident involving a Six Flags roller coaster in Georgia; witnesses said a man fell from the Goliath roller coaster at Six Flags Over Georgia near Atlanta. The company said its staff and local authorities responded immediately and it is cooperating with the investigation, and similar rides across its parks have been closed out of an abundance of caution. Character Technologies voluntarily filed for Chapter 11 bankruptcy protection in the U.S. Bankruptcy Court for the District of Delaware and intends to continue operating during the sale process; Disney (DIS) will serve as stalking horse bidder for a non-exclusive perpetual license of certain intellectual property and claims in exchange for $20M and Disney's transition services. If the sale process does not result in a purchase that provides for a continuation of the Character.ai platform, the platform will be wound down; the deal is expected to close in late Nov. or early Dec. Reuters earlier this month reported that chatbots created by Character.AI sometimes advised users to cut, starve, or kill themselves, citing a new filing by Kentucky's attorney general in a lawsuit over child safety; Character.AI was founded by two former Google (GOOGL/GOOG) employees. Micron Technology (MU) raised its discretionary share buyback authorization to a record $35.16B, with the program set to begin on December 9; the chipmaker's stock has surged over 240% year to date on AI-driven memory demand but remains below its June 25 peak of $1,255. Kroger (KR) plans to eliminate approximately 3,000 corporate roles, roughly 37% of its corporate workforce of 8,200, over the next three years as it integrates artificial intelligence into operational workflows, according to an internal staff memo seen by Reuters following an initial Bloomberg News report; CEO Greg Foran, who assumed the top role in February, told employees details would be shared in coming months. The report stated the restructuring follows a previous reduction in June of last year when Kroger eliminated about 1,000 corporate roles. Catalyst watch: the three-day SEMICON West tech conference begins with participation by Nvidia (NVDA), Lam Research (LRCX), Applied Materials (AMAT), and Micron (MU); notable investor events include Workday's (WDAY) Analyst Day and Procter & Gamble's (PG) annual meeting; TechCrunch Disrupt takes place in San Francisco with speakers including Rivian (RIVN) CEO RJ Scaringe, Amazon (AMZN) senior vice president Panos Panay, and Cerebras Systems (CBRS) CEO Andrew Feldman; Apple (AAPL) will hold a 'Welcome Home' event in Tribeca, New York, expected to focus on the smart-home lineup, including potential announcements on a Siri-powered home hub, an updated Apple TV 4K, and HomePod mini models. Stock index futures are mixed; crude oil is down 1.8% at $92, Brent crude down 1.6% at $104; the FTSE 100 is up 0.7% and the DAX up 0.6%. One stock on the biggest movers list: NatWest Group (NWG) +3% after Barclays upgraded the UK lender to Overweight from Equalweight. Economic calendar: 10:00 am Existing Home Sales.",
+      "key_points": [
+        {
+          "zh": "六旗娱乐（FUN）因佐治亚州过山车致命事故盘前下跌7%，公司关闭同类设施并配合调查。",
+          "en": "Six Flags (FUN) fell 7% premarket after a fatal roller coaster incident in Georgia; the company closed similar rides and is cooperating with authorities."
+        },
+        {
+          "zh": "Character Technologies申请第11章破产保护，迪士尼（DIS）以2000万美元及过渡服务作为假马竞标方，获取部分IP非独家永久许可；若出售未能延续平台，Character.ai将被清盘。",
+          "en": "Character Technologies filed for Chapter 11; Disney (DIS) is stalking horse bidder with $20M plus transition services for a non-exclusive perpetual license of certain IP; if the sale fails to continue the platform, Character.ai will be wound down."
+        },
+        {
+          "zh": "美光科技（MU）授权创纪录的351.6亿美元股票回购，计划12月9日开始；该股年内因AI内存需求上涨超240%，但仍低于6月25日1255美元的峰值。",
+          "en": "Micron (MU) authorized a record $35.16B buyback starting December 9; the stock is up over 240% year to date on AI memory demand but remains below its June 25 peak of $1,255."
+        },
+        {
+          "zh": "克罗格（KR）计划三年内裁减约3000个企业岗位，约占其8200名企业员工的37%，并整合AI到运营流程；此前去年6月已裁减约1000个企业岗位。",
+          "en": "Kroger (KR) plans to cut about 3,000 corporate roles over three years, roughly 37% of its 8,200 corporate workforce, integrating AI into workflows; this follows about 1,000 corporate role cuts in June of last year."
+        },
+        {
+          "zh": "催化剂关注：SEMICON West会议（英伟达、泛林、应用材料、美光参与）、Workday分析师日、宝洁年度股东大会、TechCrunch Disrupt、苹果智能家居活动。",
+          "en": "Catalyst watch: SEMICON West (with Nvidia, Lam Research, Applied Materials, Micron), Workday Analyst Day, P&G annual meeting, TechCrunch Disrupt, and Apple's smart-home event."
+        }
+      ],
+      "tags": [
+        "Six Flags",
+        "Character.AI",
+        "Micron buyback",
+        "Kroger layoffs",
+        "SEMICON West"
+      ],
+      "tickers": [
+        "FUN",
+        "DIS",
+        "GOOGL",
+        "GOOG",
+        "MU",
+        "KR",
+        "NVDA",
+        "LRCX",
+        "AMAT",
+        "WDAY",
+        "PG",
+        "RIVN",
+        "AMZN",
+        "CBRS",
+        "AAPL",
+        "NWG"
+      ],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:pOP6ekzaCoc",
       "title": "Robinhood & Lighter: Why Wall Street Is Moving Onchain",
       "title_zh": "播客：链上市场会否成为全球交易默认方式？",
@@ -350,6 +522,241 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "4953485",
+      "title": "Wall Street Lunch: Hall, Woodford Win Nobel Economics Prize For Macroeconomic Research",
+      "title_zh": "诺贝尔经济学奖揭晓；Adobe遭下调评级；AI繁荣被比作1997亚洲金融危机",
+      "url": "https://seekingalpha.com/article/4953485-wall-street-lunch-hall-woodford-win-nobel-economics-prize-for-macroeconomic-research?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-12T15:00:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "Robert Hall与Michael Woodford因宏观经济稳定化的微观基础获得2026年诺贝尔经济学奖。富国银行将Adobe下调至减持、Tyler Technologies上调至增持；法兴银行策略师Albert Edwards警告AI投资热潮可能掩盖生产率疲软，并将其与1997年亚洲金融危机相类比。",
+      "summary_en": "Robert Hall and Michael Woodford won the 2026 Nobel Economics Prize for the microeconomic foundations of macroeconomic stabilization. Wells Fargo downgraded Adobe to Underweight and upgraded Tyler Technologies to Overweight, while SocGen strategist Albert Edwards warned the AI investment boom may mask weak productivity, drawing parallels to the 1997 Asian financial crisis.",
+      "detail_zh": "2026年诺贝尔经济学奖授予Robert Hall（斯坦福大学教授）与Michael Woodford（哥伦比亚大学教授），表彰其在\"宏观经济稳定化的微观基础\"方面的贡献；评奖委员会主席John Hassler表示，二人的研究为全球央行和政府所用模型提供了稳定的理论基础，有助于应对能源危机或家庭消费突变等冲击。两人均在MIT获得博士学位，奖金为1200万瑞典克朗（约120万美元），由两人平分。个股方面，富国银行分析师Michael Turrin将Adobe从增持下调至减持，理由是核心创意业务竞争强度\"在不利时机上升\"，且Q3财报已现裂痕；同时将Tyler Technologies从等权上调至增持，认为其2025年订单逆风\"大部分\"是暂时性的，2027年\"存在回归空间\"。IREN在与Anthropic达成多年云协议的消息后上涨；IonQ以全股票交易收购网络安全公司Elisity，交易价值最高13亿美元。Mike Repole披露买入100万股Churchill Downs，持股约1.43%，称肯塔基德比是重要资产（峰值电视观众2440万），并呼吁改善营销、引入新想法、加强问责，同时批评阻碍赛马运动发展的\"守旧派\"。法兴银行策略师Albert Edwards将AI投资热潮与1997年亚洲金融危机前的泡沫相类比，警告大规模资本开支可能掩盖生产率疲软，质疑AI能否兑现预期。",
+      "detail_en": "The 2026 Nobel Economics Prize was awarded to Robert Hall (Stanford professor) and Michael Woodford (Columbia professor) for the \"microeconomic foundations of macroeconomic stabilization.\" Committee chair John Hassler said their work provided a stable theoretical foundation for models used by central banks and governments worldwide, better equipping them to handle shocks such as energy crises or sudden changes in household consumption. Both earned their PhDs at MIT; the 12M Swedish kronor (~$1.2M) prize is shared equally. On individual stocks, Wells Fargo analyst Michael Turrin downgraded Adobe to Underweight from Overweight, citing competitive intensity in its core creative business \"increasing at an inopportune time\" after cracks appeared in Q3 earnings, while upgrading Tyler Technologies to Overweight from Equal-Weight, saying a \"majority\" of its 2025 bookings headwinds are \"transitory\" and 2027 \"presents room for reversion.\" IREN rose after The Information reported a multiyear cloud deal with Anthropic. IonQ is acquiring cybersecurity firm Elisity in an all-stock transaction worth up to $1.3B. Mike Repole disclosed buying 1M shares of Churchill Downs (~1.43% stake), calling the Kentucky Derby a major asset with a peak TV audience of 24.4M, and advocating for better marketing, new ideas, and more accountability while criticizing the \"Old Guard\" racing groups. SocGen strategist Albert Edwards drew parallels between the AI investment boom and the bubble preceding the 1997 Asian financial crisis, warning massive capex may mask weak productivity gains.",
+      "key_points": [
+        {
+          "zh": "Robert Hall与Michael Woodford获2026年诺贝尔经济学奖，表彰其在宏观经济稳定化微观基础方面的贡献。",
+          "en": "Robert Hall and Michael Woodford won the 2026 Nobel Economics Prize for the microeconomic foundations of macroeconomic stabilization."
+        },
+        {
+          "zh": "富国银行将Adobe下调至减持（核心创意业务竞争加剧，Q3已现裂痕），将Tyler Technologies上调至增持（2025年逆风被视为暂时性）。",
+          "en": "Wells Fargo downgraded Adobe to Underweight (rising competition in core creative, Q3 cracks) and upgraded Tyler Technologies to Overweight (2025 headwinds seen as transitory)."
+        },
+        {
+          "zh": "IREN与Anthropic达成多年云协议后股价上涨；IonQ以最高13亿美元全股票交易收购网络安全公司Elisity。",
+          "en": "IREN rose on a multiyear cloud deal with Anthropic; IonQ is acquiring cybersecurity firm Elisity in an all-stock deal worth up to $1.3B."
+        },
+        {
+          "zh": "Mike Repole买入约1.43%的Churchill Downs股份，称肯塔基德比是重要资产，呼吁改善营销与问责。",
+          "en": "Mike Repole acquired a ~1.43% stake in Churchill Downs, calling the Kentucky Derby a major asset and advocating for better marketing and accountability."
+        },
+        {
+          "zh": "法兴银行Albert Edwards警告AI投资热潮可能掩盖生产率疲软，并将其与1997年亚洲金融危机相类比。",
+          "en": "SocGen's Albert Edwards warned the AI investment boom may mask weak productivity, drawing parallels to the 1997 Asian financial crisis."
+        }
+      ],
+      "tags": [
+        "Nobel Prize",
+        "AI capex",
+        "analyst ratings",
+        "M&A",
+        "activist stake"
+      ],
+      "tickers": [
+        "ADBE",
+        "TYL",
+        "IREN",
+        "IONQ",
+        "CHDN",
+        "KO"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4953460",
+      "title": "Bull Market Anniversary For The S&P 500",
+      "title_zh": "标普500牛市四周年：累计上涨近120%，AI与消费韧性成主要推手",
+      "url": "https://seekingalpha.com/article/4953460-bull-market-anniversary-for-the-s-and-p-500?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-12T11:15:31+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "标普500指数今日迎来第四轮牛市周年纪念，自2022年10月12日熊市收盘低点3,577点升至7,811点，累计涨幅近120%。市场集中度上升被部分分析师视为利润分布的真实反映，而非单纯的风险信号。",
+      "summary_en": "The S&P 500 celebrates its fourth bull market anniversary today, rising nearly 120% from its bear-market closing low of 3,577 on Oct. 12, 2022, to 7,811. Rising market concentration is viewed by some analysts as faithfully mirroring where profits have gone, rather than a pure risk signal.",
+      "detail_zh": "标普500指数今日迎来第四轮牛市周年，自2022年10月12日熊市最终收盘低点3,577点升至7,811点，涨幅近120%。推动这一回报的催化剂包括：消费者支出与劳动力市场在多年通胀和加息背景下仍保持极强韧性；投资者愿意为强劲的未来盈利支付更高溢价，标普500实现了大幅双位数盈利增长；以及AI革命提振了从半导体、超大规模云厂商到电网和公用事业等多个领域。关于市场宽度，SA分析师MBI Deep Dives指出，科技分布已真正全球化，少数公司聚合了需求，且边际成本近乎为零，因此每一美元增量收入的大部分直接落入利润，集中的市值更像是市场忠实反映利润的实际流向。Hugo Ferrer则认为，当前市场宽度恶化归因于更高利率而非对经济放缓的担忧，这降低了该信号的严重性。此外，IMF总裁表示AI繁荣支撑全球3%的增长。",
+      "detail_en": "The S&P 500 celebrates its fourth bull market anniversary today, rising nearly 120% from its final bear-market closing low of 3,577 on Oct. 12, 2022, to 7,811. Catalysts behind this return include: consumer spending and labor markets remaining extraordinarily resilient despite years of inflation and rate hikes; investors willing to pay higher premiums for strong future earnings, with the S&P 500 delivering massive double-digit earnings growth; and the AI revolution boosting everything from semiconductors and hyperscalers to power grids and utilities. On market breadth, SA analyst MBI Deep Dives noted that technology distribution is now truly global, a handful of companies have aggregated demand, and with near-zero marginal cost, much of every incremental revenue dollar falls to the bottom line, so concentrated market cap looks more like the market faithfully mirroring where profits have gone. Hugo Ferrer argued that current market breadth deterioration is attributed to higher interest rates, not fears of slowing economic growth, reducing the severity of the signal. Additionally, the IMF chief said the AI boom supports 3% global growth.",
+      "key_points": [
+        {
+          "zh": "标普500迎来第四轮牛市周年，自2022年10月12日低点3,577点升至7,811点，涨幅近120%。",
+          "en": "The S&P 500 marks its fourth bull market anniversary, rising nearly 120% from its Oct. 12, 2022 low of 3,577 to 7,811."
+        },
+        {
+          "zh": "消费支出与劳动力市场在通胀和加息环境下保持韧性，叠加强劲盈利增长和AI革命，共同推动指数上涨。",
+          "en": "Resilient consumer spending and labor markets amid inflation and rate hikes, combined with strong earnings growth and the AI revolution, drove the index higher."
+        },
+        {
+          "zh": "SA分析师MBI Deep Dives认为，集中的市值更像是市场忠实反映利润的实际流向，而非单纯的风险信号。",
+          "en": "SA analyst MBI Deep Dives argues concentrated market cap looks more like the market faithfully mirroring where profits have gone, rather than a pure risk signal."
+        },
+        {
+          "zh": "Hugo Ferrer指出，当前市场宽度恶化归因于更高利率而非经济放缓担忧，降低了该信号的严重性。",
+          "en": "Hugo Ferrer notes current market breadth deterioration is attributed to higher interest rates, not fears of slowing growth, reducing the severity of the signal."
+        },
+        {
+          "zh": "IMF总裁表示AI繁荣支撑全球3%的增长。",
+          "en": "The IMF chief says the AI boom supports 3% global growth."
+        }
+      ],
+      "tags": [
+        "S&P 500",
+        "bull market",
+        "AI",
+        "market breadth",
+        "earnings"
+      ],
+      "tickers": [
+        "SP500",
+        "AMZN",
+        "LMT",
+        "STLA",
+        "VWAGY",
+        "NKE"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "4953455",
+      "title": "Wall Street Breakfast Podcast: GTA 6 Threat Sends Token Up",
+      "title_zh": "GTA 6泄露威胁、亚马逊700亿AI收购谈判、CCC私有化传闻",
+      "url": "https://seekingalpha.com/article/4953455-wall-street-breakfast-podcast-gta-6-threat-sends-token-up?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-12T10:55:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "与GTA 6泄露威胁相关的CYBERLEEK模因币周日大涨23%，但该威胁尚未被独立证实，对Take-Two的实际影响取决于威胁能否兑现。亚马逊据报正就以约70亿美元收购AI初创公司Decart AI进行谈判，此前Anthropic曾以约60亿美元尝试收购未果。私募股权公司GTCR与Elliott据报正就收购CCC Intelligent Solutions进行深入谈判，交易或最快本周宣布。",
+      "summary_en": "CYBERLEEK, a memecoin tied to an unverified threat to leak GTA 6, surged 23% on Sunday, though the claim remains unverified and any impact on Take-Two depends on whether the threat is carried out. Amazon is reportedly negotiating to acquire AI startup Decart AI for about $7B, after Anthropic's ~$6B attempt fell through. Private equity firms GTCR and Elliott are reportedly in advanced talks to acquire CCC Intelligent Solutions, with a deal possibly announced as soon as this week.",
+      "detail_zh": "与匿名来源CyberLeek相关的模因币CYBERLEEK周日大涨23%，该来源声称可获取《侠盗猎车手6》（GTA 6），并威胁若该币市值达到3000万美元就发布其所称的GTA 6完整版本。据游戏媒体Inven Global报道，CyberLeek于10月10日发布题为\"The Offer\"的声明，称发布内容将包含游戏全部单人剧情，包括结局与制作人员名单，并要求Take-Two承诺以实体光盘发行游戏并公开道歉；声明未给出满足要求的截止期限。该币运行于Solana区块链，与SOL无关联，也与Take-Two及其Rockstar Games子公司无官方关系。据Yahoo Finance分发的一份报告，该币周日市值约595万美元，远低于3000万美元门槛，报告称其24小时内涨幅超过273%。CyberLeek是否真的持有完整游戏尚未被独立证实，若在正式发售前出现未经授权的可运行版本，可能带来盗版机会并可能影响销量，但假设性泄露的财务后果无法可靠估算。另据《华尔街日报》报道，亚马逊正就以约70亿美元收购AI初创公司Decart AI进行谈判，交易可能很快敲定，但谈判仍在进行且不保证达成；此前Anthropic曾以约60亿美元尝试收购Decart，并在9月完成尽职调查后决定放弃。据彭博周五援引知情人士报道，私募股权公司GTCR与Elliott Investment Management正就收购车险软件公司CCC Intelligent Solutions进行深入谈判，交易或最快本周宣布，GTCR与CCC代表未立即回应置评请求，Elliott代表拒绝置评，CCC盘前上涨9%。此外，JPMorgan将Biogen评级从中性上调至增持，理由是2027年催化剂管线日益具吸引力及长期增长前景改善，该股上涨2%。",
+      "detail_en": "CYBERLEEK, a memecoin tied to an anonymous source claiming access to Grand Theft Auto VI, surged 23% on Sunday as a threat to release the game raised concerns for Take-Two Interactive. According to gaming outlet Inven Global, an individual or group using the name CyberLeek published a statement titled \"The Offer\" on Oct. 10, threatening to release what it claimed was a complete build of GTA 6 if the associated cryptocurrency reached a $30M market cap. CyberLeek claimed the release would include the entire single-player storyline, including its ending and credits, and said Take-Two could prevent the release by committing to distribute the game on physical discs and issuing a public apology; no deadline was specified. The token trades on the Solana blockchain, is separate from SOL, and has no official affiliation with Take-Two or Rockstar Games. Its market cap reached about $5.95M on Sunday, well short of the $30M threshold, with a gain exceeding 273% over 24 hours, per a report distributed by Yahoo Finance. Whether CyberLeek possesses the complete game has not been independently verified; an unauthorized functioning copy distributed before launch could create piracy opportunities and potentially affect sales, but the financial consequences of a hypothetical release cannot be reliably estimated. Separately, Amazon is reportedly negotiating to acquire AI startup Decart AI for about $7B, per The Wall Street Journal; the deal could be finalized soon but talks remain ongoing and an agreement is not guaranteed. The potential acquisition follows an unsuccessful effort by Anthropic to purchase Decart for about $6B after due diligence in September. Bloomberg reported Friday, citing people familiar with the matter, that GTCR and Elliott Investment Management are in advanced talks to acquire car insurance software firm CCC Intelligent Solutions, with a deal possibly announced as soon as this week; GTCR and CCC representatives did not immediately respond to requests for comment and an Elliott representative declined to comment. CCC rose 9% in premarket action. Biogen gained 2% after JPMorgan upgraded the stock to Overweight from Neutral, citing an increasingly attractive pipeline of catalysts expected in 2027 and an improved long-term growth outlook.",
+      "key_points": [
+        {
+          "zh": "CYBERLEEK模因币周日大涨23%，其关联方威胁若市值达3000万美元就发布所称的GTA 6完整版本，但该说法尚未被独立证实。",
+          "en": "The CYBERLEEK memecoin surged 23% on Sunday; its associated party threatened to release a claimed complete GTA 6 build if the token reached a $30M market cap, but the claim is unverified."
+        },
+        {
+          "zh": "该币周日市值约595万美元，远低于3000万美元门槛；对Take-Two的影响取决于威胁能否兑现，假设性泄露的财务后果无法可靠估算。",
+          "en": "The token's market cap was about $5.95M on Sunday, well short of the $30M threshold; any impact on Take-Two depends on whether the threat is carried out, and the financial consequences of a hypothetical release cannot be reliably estimated."
+        },
+        {
+          "zh": "亚马逊据报正就以约70亿美元收购AI初创公司Decart AI进行谈判，此前Anthropic曾以约60亿美元尝试收购未果。",
+          "en": "Amazon is reportedly negotiating to acquire AI startup Decart AI for about $7B, after Anthropic's ~$6B attempt fell through."
+        },
+        {
+          "zh": "GTCR与Elliott据报正深入谈判收购CCC Intelligent Solutions，交易或最快本周宣布，CCC盘前上涨9%。",
+          "en": "GTCR and Elliott are reportedly in advanced talks to acquire CCC Intelligent Solutions, with a deal possibly announced as soon as this week; CCC rose 9% premarket."
+        },
+        {
+          "zh": "JPMorgan将Biogen评级从中性上调至增持，理由是2027年催化剂管线吸引力上升及长期增长前景改善，该股上涨2%。",
+          "en": "JPMorgan upgraded Biogen to Overweight from Neutral, citing an increasingly attractive 2027 catalyst pipeline and improved long-term growth outlook; the stock rose 2%."
+        }
+      ],
+      "tags": [
+        "GTA6",
+        "Amazon",
+        "AI acquisition",
+        "private equity",
+        "biotech"
+      ],
+      "tickers": [
+        "TTWO",
+        "AMZN",
+        "CCC",
+        "BIIB",
+        "TSLA",
+        "BYDDF",
+        "XPEV",
+        "LI"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4953361",
+      "title": "Wall Street Brunch: Start Your Earnings Engines",
+      "title_zh": "财报季开启：大行打头阵，台积电与CPI成焦点",
+      "url": "https://seekingalpha.com/article/4953361-wall-street-bruch-start-your-earnings-engines?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-11T17:29:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "三季度财报季进入高潮，摩根大通、高盛等大型银行率先公布业绩，台积电的AI芯片需求成为科技板块关键看点。9月CPI预计环比上涨0.6%，核心通胀仍受控，联邦基金期货定价显示10月暂停加息、12月可能加息25个基点。",
+      "summary_en": "Q3 earnings season moves into high gear with big banks leading the way, while TSMC's AI chip demand is a key read for the tech sector. September CPI is expected to rise 0.6% MoM with contained core inflation, and fed funds futures price in a Fed pause in October and a quarter-point hike in December.",
+      "detail_zh": "三季度财报季正式启动，摩根大通、高盛、富国银行和花旗集团于周二公布业绩，美国银行、摩根士丹利和贝莱德于周三跟进。Alpha Analyst指出摩根大通目前运营接近峰值状态，二季度有形普通股回报率约23%，市场与投行业务收入创纪录，但该分析师认为普通股在当前估值下面临多维风险且上行空间有限，偏好优先股作为收益型建仓选择。台积电将于周四公布业绩，Khaveen Investments给予强力买入评级，预计AI芯片需求将保持强劲，但增长取决于台积电能否提升足够产能以满足需求。宏观方面，经济学家预计9月CPI环比上涨0.6%，年率升至3.6%，核心价格环比上涨0.2%，年率升至2.5%；富国银行宏观团队认为该报告将印证潜在通胀压力仍然受控，尽管能源价格上涨持续推动整体通胀波动。联邦基金期货目前定价10月暂停加息、12月加息25个基点。此外，特朗普宣布俄罗斯与乌克兰同意立即实现能源停火，但未提供更多细节；白宫发布命令要求所有AI公司报告并纠正安全事件；英伟达正讨论收购或增持Reflection AI，谈判处于早期阶段。",
+      "detail_en": "Q3 earnings season is officially underway, with JPMorgan Chase, Goldman Sachs, Wells Fargo and Citigroup reporting Tuesday, followed by Bank of America, Morgan Stanley and BlackRock on Wednesday. The Alpha Analyst notes JPMorgan is operating at near-peak conditions, with Q2 return on tangible common equity at about 23% and record Markets and Investment Banking revenue, but views common shares as facing multidimensional risks and limited upside at current valuations, favoring preferred stock for income. Taiwan Semiconductor reports Thursday, with Khaveen Investments (Strong Buy) expecting AI chip demand to remain very strong and growth hinging on whether TSMC can raise enough capacity to fulfill this demand. On the macro front, economists expect September CPI to rise 0.6% MoM, taking the annual rate to 3.6%, with core prices up 0.2% and the yearly rate ticking up to 2.5%; Wells Fargo's macro team expects the report to reinforce that underlying inflation pressures remain contained even as higher energy prices push headline inflation around. Fed funds futures are pricing in a Fed pause in October and a quarter-point rate hike in December. Additionally, President Trump says Russia and Ukraine have agreed to an immediate energy ceasefire with no further details; the White House issued a mandate requiring all AI companies to report and correct security incidents; and Nvidia is holding discussions to acquire or increase its investment in Reflection AI, with talks at an early stage.",
+      "key_points": [
+        {
+          "zh": "大型银行率先开启财报季，摩根大通、高盛、富国银行、花旗周二公布业绩，美国银行、摩根士丹利、贝莱德周三跟进。",
+          "en": "Big banks lead earnings season: JPMorgan, Goldman Sachs, Wells Fargo and Citigroup report Tuesday, followed by Bank of America, Morgan Stanley and BlackRock on Wednesday."
+        },
+        {
+          "zh": "Alpha Analyst认为摩根大通运营接近峰值，二季度有形普通股回报率约23%，但普通股上行空间有限，偏好优先股作为收益选择。",
+          "en": "The Alpha Analyst says JPMorgan is operating at near-peak conditions with Q2 ROTCE around 23%, but favors preferred stock for income as common shares face limited upside."
+        },
+        {
+          "zh": "台积电周四公布业绩，Khaveen Investments给予强力买入，预计AI芯片需求强劲，但增长取决于产能能否满足需求。",
+          "en": "TSMC reports Thursday; Khaveen Investments has a Strong Buy, expecting very strong AI chip demand with growth hinging on capacity expansion."
+        },
+        {
+          "zh": "9月CPI预计环比上涨0.6%，年率3.6%，核心通胀受控；联邦基金期货定价10月暂停、12月加息25个基点。",
+          "en": "September CPI expected up 0.6% MoM, 3.6% YoY, with contained core inflation; fed funds futures price an October pause and a December quarter-point hike."
+        },
+        {
+          "zh": "特朗普宣布俄乌同意立即能源停火但无细节；白宫要求AI公司报告安全事件；英伟达讨论收购或增持Reflection AI。",
+          "en": "Trump announces Russia-Ukraine immediate energy ceasefire with no details; White House mandates AI companies report security incidents; Nvidia discusses acquiring or increasing investment in Reflection AI."
+        }
+      ],
+      "tags": [
+        "earnings",
+        "CPI",
+        "AI chips",
+        "banks",
+        "Fed"
+      ],
+      "tickers": [
+        "TSM",
+        "JPM",
+        "GS",
+        "WFC",
+        "C",
+        "BAC",
+        "MS",
+        "BLK",
+        "JNJ",
+        "UNH",
+        "TRV",
+        "NVDA",
+        "ACN",
+        "MU",
+        "ABT",
+        "ABBV",
+        "AA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "4953335",
       "title": "Wall Street Week Ahead",
       "title_zh": "CPI与大型银行财报成为本周市场焦点",
@@ -408,6 +815,84 @@
         "AAPL",
         "JNJ",
         "ASML"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4953253",
+      "title": "What Moved Markets This Week",
+      "title_zh": "美联储纪要维持鹰派，SpaceX频谱交易冲击电信股，AI基建预期受审视",
+      "url": "https://seekingalpha.com/article/4953253-what-moved-markets-this-week?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-10T10:40:05+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility"
+      ],
+      "summary_zh": "美联储9月会议纪要显示官员一致支持紧缩周期，并强调通胀上行风险，巩固了市场对利率长期维持高位的预期。SpaceX以80亿美元收购Grain Management全国低频段频谱资产，引发AT&T、Verizon等主要电信股抛售。OpenAI下调年度经常性收入预期，令投资者重新审视AI基础设施巨额资本开支的可持续性。当周道指涨0.9%，标普500涨1.2%，纳指涨0.6%。",
+      "summary_en": "The Fed's September meeting minutes showed unanimous support for the tightening cycle and highlighted upside inflation risks, cementing expectations for prolonged higher rates. SpaceX's $8B deal to buy a nationwide low-band spectrum portfolio from Grain Management sparked a selloff in major telecom stocks including AT&T and Verizon. OpenAI revised its annualized revenue expectations downward, prompting investor scrutiny over the sustainability of massive AI infrastructure capex. For the week, the Dow rose 0.9%, the S&P 500 gained 1.2%, and the Nasdaq added 0.6%.",
+      "detail_zh": "美联储FOMC 9月会议纪要显示，官员们一致支持央行的紧缩周期，并强调通胀面临上行风险，进一步巩固了市场对利率将在更长时间内维持高位的预期。SpaceX（SPCX）以80亿美元收购Grain Management旗下全国性低频段频谱组合，引发AT&T（T）和Verizon（VZ）等主要电信股大幅下挫。AI板块遭遇现实检验：OpenAI（OPENAI）下调了年度经常性收入预期，引发投资者对大规模基础设施资本开支可持续性的高度审视。截至10月9日当周，道指（DJI）上涨0.9%，标普500（SP500）上涨1.2%，纳指（COMP:IND）上涨0.6%，罗素2000下跌0.9%，VIX下跌3.1%至14.84。板块方面，必需消费品涨4%、公用事业涨3.9%、能源涨3.6%、金融涨2.3%，而工业跌0.4%、信息技术跌0.3%。个股方面，PTC涨35%、Crown Castle涨20%、Moderna涨18%、Constellation Energy涨16%、Vistra涨15%；Intel跌12%、Mosaic跌11%、Teradyne跌10%、Skyworks跌10%、C.H. Robinson跌10%。",
+      "detail_en": "The FOMC's September meeting minutes revealed unanimous support for the central bank's tightening cycle, with officials highlighting upside risks to inflation and cementing market expectations for prolonged higher rates. SpaceX (SPCX) agreed to buy a nationwide low-band spectrum portfolio from Grain Management for $8B, sparking a selloff in major telecom stocks such as AT&T (T) and Verizon (VZ). The AI sector faced a reality check after OpenAI (OPENAI) revised its annualized revenue expectations downward, triggering heavy investor scrutiny over the sustainability of massive infrastructure capital expenditures. For the week ended Oct. 9, the Dow (DJI) rose 0.9%, the S&P 500 (SP500) gained 1.2%, and the Nasdaq Composite (COMP:IND) increased 0.6%. The Russell 2000 fell 0.9%, and the CBOE Volatility Index dropped 3.1% to 14.84. By sector, Consumer Staples rose 4%, Utilities 3.9%, Energy 3.6%, Financials 2.3%, while Industrials fell 0.4% and Information Technology slipped 0.3%. Top S&P 500 gainers included PTC (+35%), Crown Castle (+20%), Moderna (+18%), Constellation Energy (+16%), and Vistra (+15%). Top losers included Intel (-12%), Mosaic (-11%), Teradyne (-10%), Skyworks Solutions (-10%), and C.H. Robinson (-10%).",
+      "key_points": [
+        {
+          "zh": "美联储9月纪要显示官员一致支持紧缩，强调通胀上行风险，市场对利率长期维持高位的预期被巩固。",
+          "en": "The Fed's September minutes showed unanimous support for tightening and highlighted upside inflation risks, cementing expectations for prolonged higher rates."
+        },
+        {
+          "zh": "SpaceX以80亿美元收购Grain Management全国低频段频谱资产，引发AT&T、Verizon等主要电信股抛售。",
+          "en": "SpaceX's $8B acquisition of Grain Management's nationwide low-band spectrum portfolio sparked a selloff in major telecom stocks like AT&T and Verizon."
+        },
+        {
+          "zh": "OpenAI下调年度经常性收入预期，引发投资者对AI基础设施巨额资本开支可持续性的审视。",
+          "en": "OpenAI revised its annualized revenue expectations downward, triggering investor scrutiny over the sustainability of massive AI infrastructure capex."
+        },
+        {
+          "zh": "当周道指涨0.9%、标普500涨1.2%、纳指涨0.6%，罗素2000跌0.9%，VIX跌3.1%至14.84。",
+          "en": "For the week, the Dow rose 0.9%, S&P 500 gained 1.2%, Nasdaq added 0.6%, Russell 2000 fell 0.9%, and VIX dropped 3.1% to 14.84."
+        },
+        {
+          "zh": "板块表现分化：必需消费品、公用事业、能源领涨，工业与信息技术小幅下跌。",
+          "en": "Sector performance diverged: Consumer Staples, Utilities, and Energy led gains, while Industrials and Information Technology posted slight declines."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "SpaceX",
+        "telecom",
+        "AI capex",
+        "market recap"
+      ],
+      "tickers": [
+        "SPCX",
+        "T",
+        "VZ",
+        "OPENAI",
+        "DJI",
+        "SP500",
+        "COMP:IND",
+        "MCD",
+        "BAC",
+        "OSK",
+        "ASTS",
+        "LHX",
+        "NIO",
+        "OBDC",
+        "COST",
+        "PR",
+        "NMAI",
+        "AOR",
+        "PTC",
+        "CCI",
+        "MRNA",
+        "CEG",
+        "VST",
+        "INTC",
+        "MOS",
+        "TER",
+        "SWKS",
+        "CHRW"
       ],
       "sentiment": "neutral"
     },
@@ -596,6 +1081,115 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "4953013",
+      "title": "America Continues To Spend Far More Than It Has",
+      "title_zh": "美国财政赤字逼近2万亿美元，PIMCO警告10年期美债收益率或达6%",
+      "url": "https://seekingalpha.com/article/4953013-america-continues-to-spend-far-more-than-it-has?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-09T11:30:24+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "美国国会预算办公室报告显示，截至9月30日的上一财年联邦预算赤字飙升至近2万亿美元，支出7.4万亿美元而收入仅5.4万亿美元。在债券收益率飙升之际，PIMCO警告10年期美债收益率可能自2000年以来首次触及6%。",
+      "summary_en": "The U.S. federal budget deficit soared to nearly $2T in the last fiscal year ended Sept. 30, with $7.4T in outlays against only $5.4T in revenue, according to the CBO. Amid soaring bond yields, PIMCO warned the 10-year Treasury yield could reach 6% for the first time since 2000.",
+      "detail_zh": "美国国会预算办公室最新报告显示，截至9月30日的上一财年，联邦预算赤字飙升至近2万亿美元，政府支出达7.4万亿美元（同比增长6%），而收入仅为5.4万亿美元（同比增长3%）。如此规模的赤字通常只出现在深度衰退和战争时期，而非经济持续扩张期。美国净利息支出现已超过整个国防预算，以及除社会保障以外的所有其他支出类别。加剧问题的因素包括《One Big Beautiful Bill》带来的大规模税收减免和巨额支出、人口老龄化推升的Medicare成本，以及最高法院争议性裁决后IEEPA关税收入的损失。PIMCO警告10年期美债收益率可能自2000年以来首次达到6%。财政部长Scott Bessent表示，美国没有收入问题而是支出问题，若实现3%增长并控制支出，就能通过增长摆脱困境。",
+      "detail_en": "According to a new CBO report, the U.S. federal budget deficit soared to nearly $2T in the last fiscal year ended Sept. 30, with the government spending $7.4T (+6% Y/Y) while collecting only $5.4T in revenue (+3% Y/Y). Deficits of this magnitude typically only occur during deep recessions and wartime, not during sustained economic expansions. U.S. net interest payments now exceed the entire defense budget and every other spending category except Social Security. Contributing factors include major tax breaks and hefty spending from the One Big Beautiful Bill, increased Medicare costs as the nation ages, and the loss of IEEPA tariff revenue following a contentious Supreme Court ruling. PIMCO warned the 10-year Treasury yield could reach 6% for the first time since 2000. Treasury Secretary Scott Bessent said the U.S. does not have a revenue problem but a spending problem, and with 3% growth and contained spending, the nation can grow its way out.",
+      "key_points": [
+        {
+          "zh": "上一财年美国联邦预算赤字飙升至近2万亿美元，支出7.4万亿美元（+6%），收入仅5.4万亿美元（+3%）。",
+          "en": "The U.S. federal budget deficit soared to nearly $2T last fiscal year, with $7.4T in spending (+6%) against only $5.4T in revenue (+3%)."
+        },
+        {
+          "zh": "PIMCO警告10年期美债收益率可能自2000年以来首次触及6%。",
+          "en": "PIMCO warned the 10-year Treasury yield could reach 6% for the first time since 2000."
+        },
+        {
+          "zh": "美国净利息支出已超过整个国防预算及除社会保障外的所有其他支出类别。",
+          "en": "U.S. net interest payments now exceed the entire defense budget and every other spending category except Social Security."
+        },
+        {
+          "zh": "财政部长Bessent称美国没有收入问题而是支出问题，主张通过3%增长和控制支出来摆脱债务困境。",
+          "en": "Treasury Secretary Bessent said the U.S. has a spending problem, not a revenue problem, and can grow its way out with 3% growth and contained spending."
+        },
+        {
+          "zh": "10年期美债收益率上升2个基点至5.26%。",
+          "en": "The 10-year Treasury yield rose 2 bps to 5.26%."
+        }
+      ],
+      "tags": [
+        "deficit",
+        "treasury-yields",
+        "fiscal-policy",
+        "PIMCO",
+        "national-debt"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "4953042",
+      "title": "Wall Street Breakfast Podcast: Telecom Stocks Lose Signal",
+      "title_zh": "SpaceX 80亿美元收购频谱施压电信股，Meta封禁字节跳动广告，苹果削减iPhone 18 Pro零部件订单",
+      "url": "https://seekingalpha.com/article/4953042-wall-street-breakfast-podcast-telecom-stocks-lose-signal?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-09T10:55:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "SpaceX以80亿美元收购Grain Management全国800MHz频谱组合，推动T-Mobile、Verizon、AT&T盘前均跌约6%，Starlink Mobile有望绕过传统基站挑战无线运营商。Meta以竞争为由在美国等七国封禁字节跳动广告；苹果因存储芯片成本飙升和需求疲软，将10月iPhone 18 Pro/Pro Max零部件订单至少削减15%。",
+      "summary_en": "SpaceX is acquiring Grain Management's nationwide 800 MHz spectrum portfolio for $8B, sending T-Mobile, Verizon and AT&T down roughly 6% premarket as Starlink Mobile aims to bypass traditional cell towers. Meta banned ByteDance ads in seven countries citing competitive concerns, while Apple reportedly cut October component orders for iPhone 18 Pro and Pro Max by at least 15% amid soaring memory chip costs and weaker demand.",
+      "detail_zh": "SpaceX（SPCX）将以80亿美元收购Grain Management全国性800MHz频谱组合的100%权益，消息引发主要电信股盘前抛售，T-Mobile（TMUS）、Verizon（VZ）、AT&T（T）均下跌约6%。三家运营商曾在5月成立卫星相关合资企业，部分市场参与者认为此举意在应对SpaceX的威胁。将全国性低频段频谱与天基容量结合，使Starlink Mobile能够绕过传统基站，在覆盖范围和室内信号方面挑战大型无线运营商。Meta（META）已在美国、加拿大、埃及、印尼、日本、泰国和越南七个国家封禁TikTok母公司字节跳动的广告，限制也适用于链接至TikTok或其他字节跳动旗下资产的第三方广告活动。Meta称此举为正常行业做法，并表示无需投放竞争对手的广告。苹果（AAPL）据报已要求部分供应商削减新发布的iPhone 18 Pro和iPhone 18 Pro Max零部件产量，原因是存储芯片成本飙升迫使提价并抑制了消费者需求；Nikkei Asia报道称10月零部件订单较原计划至少削减15%，一位高管级消息人士称两款高端机型10月订单下降15%-20%。台积电（TSM）、高通（QCOM）、博通（AVGO）、Amkor（AMKR）、康宁（GLW）和德州仪器（TXN）等公司支持苹果的供应链与制造扩张。股指期货上涨，原油下跌1%至90美元，布伦特原油下跌1.2%至102美元，富时100指数涨0.8%，DAX指数涨1.2%。经济日历关注上午10点消费者信心数据。",
+      "detail_en": "SpaceX (SPCX) will acquire 100% of Grain Management's nationwide 800 MHz spectrum portfolio in an $8B deal, sparking a sudden selloff in major telecom stocks, with T-Mobile (TMUS), Verizon (VZ) and AT&T (T) all down roughly 6% in premarket action. The three carriers formed a satellite-focused joint venture in May that some market participants believe is intended to respond to the threat from SpaceX. Combining nationwide low-band airwaves with space-based capacity positions Starlink Mobile to bypass traditional cell towers and challenge major wireless carriers on coverage and in-building signal. Meta Platforms (META) has banned advertisements from TikTok parent ByteDance across its platforms in the U.S., Canada, Egypt, Indonesia, Japan, Thailand and Vietnam, with the policy extending to third-party advertisers linking directly to TikTok or other ByteDance-owned properties. Meta called the decision a normal industry practice, stating it does not have to run ads from a competitor whose goal is to pull people off its apps. Apple (AAPL) has reportedly told some suppliers to cut production of components for its newly launched iPhone 18 Pro and iPhone 18 Pro Max after soaring memory chip costs forced price increases that dampened consumer demand; Nikkei Asia reported October component orders were cut by at least 15% from original requests, with an executive-level source saying orders for both premium models are down 15%-20% in October. Taiwan Semiconductor Manufacturing Co. (TSM), Qualcomm (QCOM), Broadcom (AVGO), Amkor (AMKR), Corning (GLW) and Texas Instruments (TXN) are among companies supporting Apple's supply chain and manufacturing expansion. Stock index futures are in the green, crude oil is down 1% at $90, Brent crude is down 1.2% at $102, the FTSE 100 is up 0.8% and the DAX is up 1.2%. The economic calendar highlights 10:00 am Consumer Sentiment.",
+      "key_points": [
+        {
+          "zh": "SpaceX以80亿美元收购Grain Management全国800MHz频谱组合，T-Mobile、Verizon、AT&T盘前均跌约6%。",
+          "en": "SpaceX's $8B acquisition of Grain Management's nationwide 800 MHz spectrum portfolio sent T-Mobile, Verizon and AT&T down roughly 6% premarket."
+        },
+        {
+          "zh": "Starlink Mobile结合全国低频段频谱与天基容量，可绕过传统基站，在覆盖和室内信号上挑战无线运营商。",
+          "en": "Starlink Mobile combines nationwide low-band airwaves with space-based capacity to bypass traditional cell towers and challenge carriers on coverage and in-building signal."
+        },
+        {
+          "zh": "Meta在美国等七国封禁字节跳动广告，并称这是正常行业做法。",
+          "en": "Meta banned ByteDance ads in seven countries including the U.S., calling the decision a normal industry practice."
+        },
+        {
+          "zh": "苹果因存储芯片成本飙升和需求疲软，将10月iPhone 18 Pro/Pro Max零部件订单至少削减15%，高管级消息称降幅达15%-20%。",
+          "en": "Apple cut October iPhone 18 Pro/Pro Max component orders by at least 15%, with an executive-level source citing a 15%-20% decline, due to soaring memory chip costs and weaker demand."
+        },
+        {
+          "zh": "股指期货上涨，原油下跌1%至90美元，布伦特原油跌1.2%至102美元，富时100涨0.8%，DAX涨1.2%。",
+          "en": "Stock index futures are in the green; crude oil fell 1% to $90, Brent dropped 1.2% to $102, FTSE 100 rose 0.8% and DAX gained 1.2%."
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "telecom",
+        "Meta",
+        "Apple",
+        "supply-chain"
+      ],
+      "tickers": [
+        "SPCX",
+        "VZ",
+        "TMUS",
+        "T",
+        "META",
+        "AAPL",
+        "TSM",
+        "QCOM",
+        "AVGO",
+        "AMKR",
+        "GLW",
+        "TXN"
+      ],
+      "sentiment": "negative"
+    },
+    {
       "guid": "188d30f2-ed4c-420e-b412-c151459c03ce",
       "title": "The Fall Solo Six-Pack: Sports Games, the Return of Discretionary Macro, & AI Coming for Your Job",
       "title_zh": "The Derivative 播客：CTA Expo 见闻、AI 对就业的早期信号与听众来信",
@@ -641,6 +1235,68 @@
         "AI and jobs"
       ],
       "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4952846",
+      "title": "Wall Street Lunch: Starbucks Puts Chipotle On Its Takeover Menu",
+      "title_zh": "星巴克探索收购Chipotle；百事Q3超预期但饮料业务承压；高盛上调Palantir至买入",
+      "url": "https://seekingalpha.com/article/4952846-wall-street-lunch-starbucks-puts-chipotle-on-its-takeover-menu?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-08T16:27:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "other",
+        "tech"
+      ],
+      "summary_zh": "星巴克据报已探索收购Chipotle，CMG大涨而SBUX下跌，但交易能否达成尚不确定。百事Q3营收与利润均超预期，但CEO对饮料业务表示不满并计划削减成本。高盛将Palantir上调至买入，目标价230美元；摩根大通看好软件股在Q3财报季延续涨势，偏好MSFT、NOW、SNOW和NET。",
+      "summary_en": "Starbucks reportedly explored a takeover of Chipotle, sending CMG higher and SBUX lower, though deal certainty remains unclear. PepsiCo beat Q3 top- and bottom-line estimates but its CEO expressed dissatisfaction with the beverage business and plans cost cuts. Goldman Sachs upgraded Palantir to Buy with a $230 price target, while JPMorgan favors MSFT, NOW, SNOW and NET ahead of Q3 earnings on AI-driven software demand.",
+      "detail_zh": "Chipotle Mexican Grill（CMG）因有报道称星巴克（SBUX）已探索收购该公司而上涨，星巴克股价则下跌，这符合潜在收购方在类似报道中的典型表现。据《金融时报》报道，星巴克近月已与顾问合作就收购Chipotle提出报价，但收购计划的进展以及星巴克是否已提交正式报价尚无法确定，消息人士称如此规模的交易可能永远不会实现。此前Semafor的报道提出了两家连锁可能合并并采用类似Yum! Brands（YUM）运营模式的可能性，而Chipotle上周据报已聘请银行家以抵御潜在收购。百事（PEP）Q3营收与利润均超预期，但北美以外业务更强，整体核心营业利润率收缩35个基点，CEO Ramon Laguarta表示公司对饮料业务的表现感觉不佳，将寻求削减成本以资助旨在加速有机收入增长并缓解投入成本通胀影响的投资。高盛将Palantir（PLTR）从中性上调至买入，目标价230美元，分析师Gabriela Borges称基于行业对话，该股正为2027年前的又一轮跑赢做准备。摩根大通认为软件股可能延续近期涨势，Q3财报将提供AI需求支撑基础设施软件的证据，同时缓解对应用软件受扰的担忧，偏好微软（MSFT）、ServiceNow（NOW）、Snowflake（SNOW）和Cloudflare（NET）。此外，Chick-fil-A CEO Andrew Cathy向CNBC明确表示，该连锁无意用语音AI取代员工，强调人与人之间的服务体验。瑞银则强调其高增长、强现金流盈利能力和盈利动能改善的一篮子股票，认为部分股票估值未充分反映基本面，包括eBay（EBAY）、Maplebear（CART）、美光（MU）、微软（MSFT）和Uber（UBER）。",
+      "detail_en": "Chipotle Mexican Grill (CMG) rose on a report that Starbucks (SBUX) has explored a takeover of the chain, while Starbucks shares fell, typical for potential acquirers in such reports. According to the Financial Times, Starbucks has worked with advisers in recent months on an offer for Chipotle, but the status of the takeover plans and whether a formal offer has been submitted could not be determined, and sources said a deal of this size may never materialize. The news follows an earlier Semafor report raising the possibility the two chains could merge and run operations similar to Yum! Brands (YUM), and Chipotle reportedly enlisted bankers last week to fend off a potential buyout. PepsiCo (PEP) topped Q3 top- and bottom-line estimates, but business was stronger outside North America, with overall core operating margin contracting 35 basis points; CEO Ramon Laguarta said the company does not feel good about how the beverage business is doing and will look to cut costs to help fund investments aimed at accelerating organic revenue growth and mitigating rising input cost inflation. Goldman Sachs upgraded Palantir (PLTR) to Buy from Neutral with a $230 price target; analyst Gabriela Borges said based on industry conversations the stock is setting up for another phase of outperformance into 2027. JPMorgan says software stocks are likely to extend their recent rally as Q3 earnings provide evidence that AI demand supports infrastructure software while easing concerns about disruption to application software, favoring Microsoft (MSFT), ServiceNow (NOW), Snowflake (SNOW) and Cloudflare (NET). Separately, Chick-fil-A CEO Andrew Cathy told CNBC the chain has no plans to replace employees with voice AI, emphasizing human-to-human hospitality. UBS highlighted its basket of companies with higher forward growth, stronger cash-flow profitability and improving earnings momentum, arguing valuations for some do not fully reflect fundamentals, including eBay (EBAY), Maplebear (CART), Micron (MU), Microsoft (MSFT) and Uber (UBER).",
+      "key_points": [
+        {
+          "zh": "星巴克据报已探索收购Chipotle，CMG上涨而SBUX下跌，但交易进展与是否提交正式报价尚不确定，消息人士称如此规模的交易可能永远不会实现。",
+          "en": "Starbucks reportedly explored a takeover of Chipotle, sending CMG higher and SBUX lower, but the status of plans and whether a formal offer was submitted is unclear, and sources said a deal of this size may never materialize."
+        },
+        {
+          "zh": "百事Q3营收与利润均超预期，但北美以外业务更强，核心营业利润率收缩35个基点，CEO对饮料业务表示不满并计划削减成本。",
+          "en": "PepsiCo beat Q3 top- and bottom-line estimates, but business was stronger outside North America, core operating margin contracted 35 basis points, and the CEO expressed dissatisfaction with the beverage business while planning cost cuts."
+        },
+        {
+          "zh": "高盛将Palantir上调至买入，目标价230美元，分析师Gabriela Borges称该股正为2027年前的又一轮跑赢做准备。",
+          "en": "Goldman Sachs upgraded Palantir to Buy with a $230 price target; analyst Gabriela Borges said the stock is setting up for another phase of outperformance into 2027."
+        },
+        {
+          "zh": "摩根大通预计Q3财报将证实AI需求支撑基础设施软件，偏好MSFT、NOW、SNOW和NET。",
+          "en": "JPMorgan expects Q3 earnings to confirm AI demand supporting infrastructure software, favoring MSFT, NOW, SNOW and NET."
+        },
+        {
+          "zh": "瑞银强调其高增长、强现金流盈利能力和盈利动能改善的一篮子股票，包括EBAY、CART、MU、MSFT和UBER，认为部分估值未充分反映基本面。",
+          "en": "UBS highlighted its basket of higher-growth, stronger cash-flow profitability and improving earnings momentum stocks, including EBAY, CART, MU, MSFT and UBER, arguing some valuations do not fully reflect fundamentals."
+        }
+      ],
+      "tags": [
+        "M&A",
+        "earnings",
+        "software",
+        "upgrades",
+        "AI"
+      ],
+      "tickers": [
+        "CMG",
+        "SBUX",
+        "YUM",
+        "PEP",
+        "PLTR",
+        "MSFT",
+        "NOW",
+        "SNOW",
+        "NET",
+        "EBAY",
+        "CART",
+        "MU",
+        "UBER"
+      ],
       "sentiment": "neutral"
     },
     {
@@ -721,6 +1377,127 @@
         "economic analysis"
       ],
       "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4952710",
+      "title": "The Fragile Math Of Oil Prices",
+      "title_zh": "原油市场持续动荡：霍尔木兹海峡信息混乱、战略储备释放与库存压力",
+      "url": "https://seekingalpha.com/article/4952710-the-fragile-math-of-oil-prices?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-08T11:30:37+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "politics",
+        "volatility"
+      ],
+      "summary_zh": "自2月底伊朗战争爆发以来，原油价格剧烈波动，霍尔木兹海峡通行量信息混乱、伊朗袭击油轮事件频发、沙特东西管道等基础设施遭袭，叠加美国战略石油储备降至1982年以来最低水平，沙特阿美CEO警告库存已达压力水平且可能需数年才能补充。FOMC会议纪要显示多数美联储官员认为可能再次加息，10年期美债收益率升至5.36%。",
+      "summary_en": "Crude oil prices have been highly volatile since the Iran war began in late February, with mixed messaging on Strait of Hormuz flows, frequent Iranian tanker attacks, and strikes on infrastructure like Saudi Arabia's East-West Pipeline. The U.S. has released 133M barrels from its Strategic Petroleum Reserve, bringing it to the lowest levels since 1982, and Saudi Aramco's CEO warned inventories are reaching stress levels and could take years to refill. FOMC minutes showed most Fed officials saw another rate hike as likely, with the 10-year Treasury yield rising to 5.36%.",
+      "detail_zh": "自2月底伊朗战争爆发以来，原油成本剧烈波动，且这一局面短期内难以缓解。关于霍尔木兹海峡石油通行量的信息存在矛盾且难以核实：特朗普政府、CENTCOM及部分分析师称流量已恢复正常，但伊朗对多艘油轮的袭击激增，本周就发生了十余起类似事件，包括一夜之间在卡塔尔北部海岸附近的一起。对基础设施的袭击（如沙特阿拉伯的东西管道）以及难以追踪的转运进一步加剧了问题，并使定价成本更高。释放库存是另一个问题，这些库存将在可预见的未来无法补充。美国已从战略石油储备中释放了高达1.33亿桶，使其降至1982年以来的最低水平。IEA国家自3月以来也已释放约2亿桶储备，但这些操作也可能引发定价问题——当成本下降时，可能向市场发出供应充足的信号，从而倾向于推高消费或使局势恶化。沙特阿美CEO Amin Nasser本周早些时候表示\"库存正达到压力水平\"，并警告可能需要数年才能补充库存，能源动荡可能持续到2027年以后。原油定价还面临其他困难：期货与实物现货合约之间存在巨大价差，炼厂约束以及柴油等燃料相对于原油的价差扩大。此外还有运费波动、改道复杂性、主权干预风险和算法交易等压力因素。",
+      "detail_en": "The cost of raw crude has been highly volatile since the Iran war began in late February, and that reality is unlikely to ease soon. Mixed messaging on how much oil is getting out via the Strait of Hormuz has been difficult to verify: the Trump administration, CENTCOM, and some analysts say flows are back to normal, but there has been a surge in Iranian attacks on tankers, including one overnight off the north coast of Qatar and a dozen other incidents this week. Attacks on infrastructure like Saudi Arabia's East-West Pipeline, as well as hard-to-track trans-shipments, have worsened the situation and made pricing more costly. Releasing stockpiles is another problem, as they will remain unreplenished for the foreseeable future. The U.S. has released 133M barrels from its Strategic Petroleum Reserve, bringing it to the lowest levels since 1982. IEA countries have also released about 200M barrels since March, but those maneuvers can create pricing issues—as costs come down, it can signal sufficient supply, tending to push up consumption or worsen the situation. Saudi Aramco CEO Amin Nasser declared earlier this week that \"inventories are reaching a stress level,\" cautioning it could take years to refill inventories and energy turmoil could continue beyond 2027. Other difficulties in sizing up oil prices include massive gaps between futures and physical spot contracts, refinery constraints, and widening spreads for fuels like diesel relative to crude oil, plus volatile freight rates, rerouting complexities, sovereign intervention risk, and algorithmic trading.",
+      "key_points": [
+        {
+          "zh": "霍尔木兹海峡通行量信息矛盾且难以核实，伊朗对油轮袭击激增，本周发生十余起事件",
+          "en": "Mixed messaging on Strait of Hormuz flows is difficult to verify, with a surge in Iranian tanker attacks and a dozen incidents this week"
+        },
+        {
+          "zh": "美国战略石油储备已释放1.33亿桶，降至1982年以来最低；IEA国家自3月以来释放约2亿桶",
+          "en": "The U.S. has released 133M barrels from the SPR, bringing it to the lowest since 1982; IEA countries have released about 200M barrels since March"
+        },
+        {
+          "zh": "沙特阿美CEO警告库存已达压力水平，可能需数年补充，能源动荡或持续至2027年以后",
+          "en": "Saudi Aramco CEO warned inventories are reaching stress levels, could take years to refill, and energy turmoil could continue beyond 2027"
+        },
+        {
+          "zh": "FOMC会议纪要显示多数美联储官员认为可能再次加息，10年期美债收益率升至5.36%",
+          "en": "FOMC minutes showed most Fed officials saw another rate hike as likely; the 10-year Treasury yield rose to 5.36%"
+        },
+        {
+          "zh": "原油期货与现货价差巨大，炼厂约束、柴油价差扩大、运费波动及算法交易等因素加剧定价难度",
+          "en": "Massive gaps between futures and physical spot contracts, refinery constraints, widening diesel spreads, freight volatility, and algorithmic trading complicate oil pricing"
+        }
+      ],
+      "tags": [
+        "oil",
+        "Iran",
+        "SPR",
+        "Fed",
+        "Hormuz"
+      ],
+      "tickers": [
+        "UPS",
+        "XOM",
+        "AMZN",
+        "COST",
+        "LEVI",
+        "DIS",
+        "MSFT",
+        "NVDA",
+        "PEP",
+        "TLRY"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "4952735",
+      "title": "Wall Street Breakfast Podcast: F-35 Parts Go Off Radar",
+      "title_zh": "华尔街早餐：F-35零部件失踪、CrowdStrike追踪AI网络攻击、Costco九月销售强劲",
+      "url": "https://seekingalpha.com/article/4952735-wall-street-breakfast-podcast-f-35-parts-go-off-radar?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-08T10:50:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "洛克希德·马丁F-35隐形战机敏感零部件在UPS运输中失踪，五角大楼和国务院正在调查，引发对隐形技术可能外泄的担忧。CrowdStrike发现疑似中国背景的攻击者利用AI工具针对韩国银行发动网络攻击。Costco九月净销售额达300亿美元，同比增长13%，电商可比销售增长19%。百事可乐面临投资者对其北美销量复苏和利润率保护的审视。",
+      "summary_en": "Sensitive Lockheed Martin F-35 stealth fighter components went missing during UPS transit, prompting a Pentagon and State Department investigation amid concerns about stealth technology exposure. CrowdStrike identified a suspected China-based attacker using AI tools to target South Korean banks. Costco reported September net sales of $30B, up 13% year-over-year, with e-commerce comps up 19%. PepsiCo faces investor scrutiny on North American volume recovery and margin protection.",
+      "detail_zh": "洛克希德·马丁（LMT）F-35隐形战机的敏感零部件在UPS运输中失踪。据彭博新闻报道，该批货物包括F-35驾驶舱盖和涂有雷达吸收材料的武器舱门。货运代理DSV曾通过邮件警告UPS，根据《国际武器贸易条例》（ITAR），这些零部件不能通过某些国家。UPS因一名员工未看到ITAR警告，将货物改道经香港转运。原定路线为从澳大利亚经韩国和台湾运至旧金山，但因延误而改道香港以弥补时间。五角大楼和国务院正在调查此事，议员们要求对美国武器零部件的国际运输方式进行更广泛审查。五角大楼称这些零部件已不可使用，但其雷达吸收涂层引发了关于中国是否可能研究这些材料以获取F-35隐形技术信息的担忧。CrowdStrike（CRWD）表示，一名疑似中国背景的攻击者在9月底至10月初利用AI工具针对韩国金融机构发动攻击，使用了中国开发的开源AI渗透测试工具ARTEX以及大型语言模型。CrowdStrike以中等信心评估该攻击者讲中文且出于经济动机。至少九家韩国银行自9月底以来报告或被发现与网络攻击有关。Costco（COST）报告九月净销售额为300亿美元，同比增长13.0%。截至10月4日的五周可比销售增长11.4%，其中美国增长12.5%，加拿大增长6.3%，其他国际市场增长10.8%。电商可比销售增长19.0%。剔除汇率和汽油价格影响后，可比销售增长7.6%，美国增长8.0%。百事可乐（PEP）将召开财报电话会议，投资者关注其能否维持北美销量初步复苏，同时在加大品牌投资和可负担性举措下保护利润率。部分分析师认为该公司此前的全年展望面临下调风险。Celsius Holdings（CELH）超过40%的收入来自百事可乐，在财报日有88%的时间与百事可乐同步交易。股指期货下跌。原油上涨3.8%至91美元，布伦特原油上涨3.8%至104美元。富时100指数下跌0.4%，DAX指数下跌0.7%。中国市场在为期一周的假期后重新开市。Applied Digital（APLD）上涨3.6%，此前该新云服务提供商公布了强劲的第一财季业绩，收入同比增长322%。经济日历方面，将公布失业救济申请数据。",
+      "detail_en": "Sensitive components from Lockheed Martin (LMT) for the F-35 stealth fighter went missing during UPS transit. According to Bloomberg News, the shipment included an F-35 cockpit canopy and a weapons-bay door coated with radar-absorbing material. Freight forwarder DSV warned UPS by email that the components could not pass through certain countries under International Traffic in Arms Regulations (ITAR). UPS routed the shipment through Hong Kong after an employee did not see the ITAR warning. The parts were supposed to travel from Australia to San Francisco through South Korea and Taiwan, but after a delay, the shipment was rerouted through Hong Kong to make up time. The Pentagon and State Department are investigating, while lawmakers are pressing for a broader review of how U.S. weapons components are transported internationally. The Pentagon characterized the components as unserviceable, but their radar-absorbing coatings have raised concerns about whether China could study the materials for information about F-35 stealth technology. CrowdStrike (CRWD) said a suspected China-based attacker used AI tools to target South Korean financial institutions between late September and early October, using Chinese-developed open-source AI penetration-testing tool ARTEX alongside large language models. CrowdStrike assessed with moderate confidence that the attacker was a Chinese speaker and financially motivated. At least nine South Korean banks have reported or been linked to cyberattacks since late September. Costco (COST) reported net sales of $30.0B for September, up 13.0% year-over-year. Comparable sales for the five-week period ended October 4 were up 11.4%, including a 12.5% increase in the U.S., a 6.3% rise in Canada, and a 10.8% gain for other international markets. E-commerce comparable sales shot up 19.0%. After stripping out FX and gas prices, comparable sales were up 7.6%, including 8.0% in the U.S. PepsiCo (PEP) will hold its earnings conference call. Investors will focus on whether PepsiCo can sustain its early North American volume recovery while protecting margins amid heavier brand investment and affordability initiatives. Some analysts think the prior full-year outlook is at risk of a downward revision. Celsius Holdings (CELH) derives more than 40% of its revenue from PepsiCo and traded in tandem with it on earnings day 88% of the time. Stock index futures are in the red. Crude oil is up 3.8% at $91. Brent crude is up 3.8% at $104. The FTSE 100 is down 0.4% and the DAX is down 0.7%. China's markets were open again following a week-long holiday. Applied Digital (APLD) +3.6% after the neocloud provider reported upbeat FQ1 with revenue up 322% Y/Y. Economic calendar: 8:30 am Jobless Claims.",
+      "key_points": [
+        {
+          "zh": "洛克希德·马丁F-35敏感零部件在UPS运输中失踪，因ITAR警告未被看到而改道香港，五角大楼和国务院正在调查，引发隐形技术可能外泄的担忧。",
+          "en": "Sensitive Lockheed Martin F-35 components went missing during UPS transit after an ITAR warning was missed, leading to a reroute through Hong Kong; the Pentagon and State Department are investigating amid concerns about stealth technology exposure."
+        },
+        {
+          "zh": "CrowdStrike发现疑似中国背景的攻击者利用AI工具ARTEX和大型语言模型，在9月底至10月初针对韩国银行发动网络攻击，至少九家韩国银行受影响。",
+          "en": "CrowdStrike identified a suspected China-based attacker using AI tool ARTEX and large language models to target South Korean banks between late September and early October, with at least nine banks affected."
+        },
+        {
+          "zh": "Costco九月净销售额达300亿美元，同比增长13%，可比销售增长11.4%，电商可比销售增长19%，剔除汇率和汽油影响后可比销售增长7.6%。",
+          "en": "Costco reported September net sales of $30B, up 13% Y/Y, with comparable sales up 11.4%, e-commerce comps up 19%, and comps up 7.6% excluding FX and gas."
+        },
+        {
+          "zh": "百事可乐财报电话会议受关注，投资者关注其北美销量复苏和利润率保护，部分分析师认为全年展望面临下调风险。",
+          "en": "PepsiCo's earnings call is in focus as investors watch North American volume recovery and margin protection, with some analysts seeing risk of a downward revision to the full-year outlook."
+        },
+        {
+          "zh": "股指期货下跌，原油上涨3.8%至91美元，布伦特原油上涨3.8%至104美元；Applied Digital因第一财季收入同比增长322%而上涨3.6%。",
+          "en": "Stock index futures are in the red; crude oil is up 3.8% at $91 and Brent up 3.8% at $104; Applied Digital rose 3.6% after reporting FQ1 revenue up 322% Y/Y."
+        }
+      ],
+      "tags": [
+        "F-35",
+        "cybersecurity",
+        "Costco",
+        "PepsiCo",
+        "oil"
+      ],
+      "tickers": [
+        "LMT",
+        "UPS",
+        "CRWD",
+        "COST",
+        "PEP",
+        "CELH",
+        "AVO",
+        "ZETA",
+        "GTM",
+        "TBLA",
+        "APLD"
+      ],
       "sentiment": "neutral"
     },
     {
@@ -819,6 +1596,73 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "4952527",
+      "title": "Wall Street Lunch: Skydance Bet On Technology, AI To Reshape Entertainment Business",
+      "title_zh": "Skydance押注AI、Micron被看涨三倍、SpaceX拟融资400亿美元购英伟达芯片",
+      "url": "https://seekingalpha.com/article/4952527-wall-street-lunch-skydance-bet-on-technology-ai-to-reshape-entertainment-business?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-07T17:30:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "Skydance完成与派拉蒙合并后，将技术与AI定位为核心能力以驱动内容创作和消费者互动。DA Davidson预计Micron股价有望翻三倍至3000美元，理由是2027-2028年内存需求将超过供给。SpaceX拟融资400亿美元用于购买英伟达芯片，由Apollo Global Management牵头。Dan Ives在Yorkville Ives首次覆盖科技股，首选英伟达、微软、Palantir、苹果和CrowdStrike。",
+      "summary_en": "Post its Paramount merger, Skydance is prioritizing technology and AI as core capabilities to drive content creation and consumer engagement. DA Davidson projects Micron shares could triple to $3,000, citing memory demand exceeding supply in 2027-2028. SpaceX is seeking $40B in financing led by Apollo Global Management to purchase Nvidia chips. Dan Ives initiated tech coverage at Yorkville Ives with Nvidia, Microsoft, Palantir, Apple, and CrowdStrike as top picks.",
+      "detail_zh": "Skydance（SKYD）在完成与派拉蒙及华纳兄弟探索的合并后，David Ellison在致员工的备忘录中表示，技术正在重塑故事的创作、分发和体验方式，公司将把技术作为公司的根本能力而非噱头或副业。新任联席CEO Ynon Kreiz表示计划利用技术改善工作方式、放大创意流程并更好地吸引消费者，高管们计划在整个业务中部署AI工具，Ellison将AI称为“力量倍增器”。Ellison指出，Skydance不仅面临Netflix、迪士尼等娱乐公司的竞争，还面临苹果、亚马逊和Meta等科技公司的挑战，并批评行业未能足够快地适应这些挑战者。DA Davidson预计Micron（MU）股价将翻三倍至3000美元，将其目标价从2100美元上调，理由是预计2027年和2028年内存需求将超过供给。SpaceX（SPCX）据FT报道拟融资400亿美元，由Apollo Global Management（APO）牵头，用于购买英伟达（NVDA）芯片。Unity Software（U）宣布与谷歌合作构建集成游戏平台，并将推出实验性Playground平台。Webull（BULL）股价暴跌超20%，因有报道称该交易平台与中国政府存在“结构性”关联。Dan Ives在Yorkville Ives首次覆盖科技股，首选英伟达、微软、Palantir、苹果和CrowdStrike，并称投资者低估了未来几年4万亿美元支出浪潮的规模和范围，同时将特斯拉列为最喜欢的科技颠覆者。",
+      "detail_en": "Skydance (SKYD), following the completion of its merger with Paramount and Warner Bros. Discovery, is betting on technology to reshape its business. In a memo to employees obtained by Business Insider, David Ellison said technology is reshaping how stories are created, distributed, and experienced, and that Skydance would embrace technology as a fundamental capability, not a buzzword or side project. Newly appointed co-CEO Ynon Kreiz said the company plans to use technology to improve how it works, amplify the creative process, and better engage consumers. Executives plan to deploy AI tools across the business, with Ellison describing AI as a force multiplier. Ellison noted competition not only from Netflix, Disney, and other entertainment companies but also from tech companies including Apple, Amazon, and Meta, and said the industry failed to adapt quickly enough to those challengers. DA Davidson expects Micron (MU) shares to triple to $3,000, boosting its target from $2,100, citing expectations that memory demand will exceed supply in 2027 and 2028. SpaceX (SPCX) is looking to raise $40B in a financing effort led by Apollo Global Management (APO) to purchase Nvidia (NVDA) chips, according to the FT. Unity Software (U) is higher after announcing it is teaming up with Google to build an integrated gaming platform coming later this year. Webull (BULL) shares are plunging more than 20% after a report that the trading platform is linked in structural ways with the Chinese government. Dan Ives initiated tech coverage at his new merchant bank Yorkville Ives with Nvidia, Microsoft, Palantir, Apple, and CrowdStrike as his favorite plays, saying investors are underestimating the scale and scope of a $4 trillion spending wave over the next few years, and chose Tesla as his favorite tech disruptor play.",
+      "key_points": [
+        {
+          "zh": "Skydance完成与派拉蒙合并后，将技术与AI定位为核心能力，计划在整个业务中部署AI工具，Ellison称AI为“力量倍增器”。",
+          "en": "Post its Paramount merger, Skydance is prioritizing technology and AI as core capabilities, planning to deploy AI tools across the business, with Ellison calling AI a force multiplier."
+        },
+        {
+          "zh": "DA Davidson预计Micron股价将翻三倍至3000美元，目标价从2100美元上调，理由是2027-2028年内存需求将超过供给。",
+          "en": "DA Davidson expects Micron shares to triple to $3,000, boosting its target from $2,100, citing memory demand exceeding supply in 2027-2028."
+        },
+        {
+          "zh": "SpaceX拟融资400亿美元，由Apollo Global Management牵头，用于购买英伟达芯片。",
+          "en": "SpaceX is looking to raise $40B in a financing effort led by Apollo Global Management to purchase Nvidia chips."
+        },
+        {
+          "zh": "Dan Ives在Yorkville Ives首次覆盖科技股，首选英伟达、微软、Palantir、苹果和CrowdStrike，并将特斯拉列为最喜欢的科技颠覆者。",
+          "en": "Dan Ives initiated tech coverage at Yorkville Ives with Nvidia, Microsoft, Palantir, Apple, and CrowdStrike as top picks, and chose Tesla as his favorite tech disruptor."
+        },
+        {
+          "zh": "Webull股价暴跌超20%，因有报道称该平台与中国政府存在“结构性”关联。",
+          "en": "Webull shares plunged more than 20% after a report that the platform is linked in structural ways with the Chinese government."
+        }
+      ],
+      "tags": [
+        "AI",
+        "semiconductors",
+        "streaming",
+        "tech picks",
+        "memory"
+      ],
+      "tickers": [
+        "SKYD",
+        "MU",
+        "SPCX",
+        "APO",
+        "NVDA",
+        "MSFT",
+        "PLTR",
+        "AAPL",
+        "CRWD",
+        "TSLA",
+        "NFLX",
+        "DIS",
+        "AMZN",
+        "META",
+        "U",
+        "GOOG",
+        "GOOGL",
+        "BULL"
+      ],
+      "sentiment": "positive"
+    },
+    {
       "guid": "yt:agxfmBfV9tM",
       "title": "Live Take and Election Positioning | Brent Kochuba & Mat Cashman from OCC",
       "title_zh": "SpotGamma与OCC将于10月7日开盘直播，聚焦市场结构与选举季",
@@ -860,6 +1704,129 @@
         "OCC"
       ],
       "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4952424",
+      "title": "Wall Street Highs And AI Bubble Risks",
+      "title_zh": "AI交易推动标普500首破7800点，市场宽度恶化与债市警示并存",
+      "url": "https://seekingalpha.com/article/4952424-wall-street-highs-and-ai-bubble-risks?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-07T11:30:24+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility"
+      ],
+      "summary_zh": "AI交易推动标普500和纳斯达克创下历史新高，标普500首次突破7800点，但涨幅高度集中于AI受益股，市场宽度显著恶化。Ray Dalio警告AI泡沫正接近可能破裂的临界点， rising rates与AI基建债务融资是核心风险。",
+      "summary_en": "The AI trade drove the S&P 500 and Nasdaq to record closes, with the S&P 500 topping 7,800 for the first time, but gains were highly concentrated in AI beneficiaries and market breadth deteriorated notably. Ray Dalio warned the AI bubble is nearing the point where it may burst, citing rising interest rates and increased borrowing to fund the AI infrastructure buildout as core risks.",
+      "detail_zh": "AI交易本周推动美股创下新高，标普500和纳斯达克周二均录得纪录收盘，标普500首次突破7800点。但据Dow Jones Market Data，周二标普500中仅有不到一半的股票收盘价高于其200日均线，更高的利率和通胀正在拖累其他股票。Potomac Fund Management投资总监Dan Russo对《华尔街日报》表示，只有大盘股中堡垒般的资产负债表在支撑市场。Seeking Alpha分析师Andrew Hecht也指出利率上升与股市上涨违背历史常态，并质疑市场是面临波动风暴还是进入新范式。亿万富翁投资者Ray Dalio周三警告，AI泡沫正接近可能破裂的临界点，原因是利率上升以及为AI基建融资而增加的借贷，他表示'我们正处于那个阶段之前，但正在接近'，'我认为我们已接近'。Dalio此前一天还谈到，为购买资产而大举借贷，或潜在的财富税要求出售资产来筹钱，都可能导致泡沫破裂，'泡沫破裂的原因是你会需要现金'。SA评论方面，Investing Group Leader Bret Jensen认为市场宽度处于历史糟糕水平，科技巨头驱动纳指和标普500上涨而多数股票滞后，与互联网泡沫动态相呼应。尽管存在更高更久利率和地缘冲突的担忧，科技股可能仍有上行空间，因市场预期下周开始的财报季将表现强劲。SA分析师Cain Lee表示，超大规模企业已证明能将资本开支转化为更高的盈利增长，同时通过自由现金流而非过度依赖债务来为增长融资；随着AI基建建设保持强劲，企业无论如何都会借贷，唯一变量是市场基于利息支出对盈利的拖累程度作何反应。",
+      "detail_en": "The AI trade propelled the stock market to fresh highs this week, with the S&P 500 and Nasdaq notching record closes on Tuesday and the S&P 500 topping 7,800 for the first time. However, less than half of the stocks in the S&P 500 closed higher than their 200-day moving average on Tuesday, according to Dow Jones Market Data, as higher interest rates and inflation weighed on other stocks. Dan Russo, investment chief at Potomac Fund Management, told The Wall Street Journal that only fortress-like balance sheets at the large-cap end are propping the market up. Seeking Alpha analyst Andrew Hecht also pointed to rising rates and rising stocks defying the historical status quo, questioning whether a volatile storm is on the horizon or markets are settling into a new paradigm. Billionaire investor Ray Dalio warned on Wednesday that the AI bubble is nearing the point where it may burst due to rising interest rates and increased borrowing to fund the AI infrastructure buildout, saying 'We're in the part of the cycle that is before that, but approaching that' and 'I think we're close to that.' A day earlier, he discussed how heavy borrowing to buy assets, or a potential wealth tax requiring asset sales, can lead to a bubble bursting, noting 'What creates the bursting of a bubble is the fact that you need cash.' On SA commentary, Investing Group Leader Bret Jensen said market breadth is historically poor, with tech titans driving Nasdaq and S&P 500 gains while the majority of stocks lag, echoing dot-com bubble dynamics. Despite concerns of higher-for-longer rates and geopolitical conflicts, tech stocks likely have more room to run as markets expect another strong earnings season starting next week. SA analyst Cain Lee said hyperscalers have proven they can convert capex into higher earnings growth while funding growth through free cash flow instead of becoming too reliant on debt; as the AI infrastructure buildout remains strong, companies will borrow regardless of interest rates, with the only variable being how the market reacts based on how much interest expenses weigh on earnings.",
+      "key_points": [
+        {
+          "zh": "标普500首次突破7800点，纳斯达克同创纪录收盘，但涨幅高度集中于AI受益股。",
+          "en": "The S&P 500 topped 7,800 for the first time and Nasdaq also notched a record close, but gains were highly concentrated in AI beneficiaries."
+        },
+        {
+          "zh": "周二标普500中不到一半股票收盘高于200日均线，市场宽度恶化，高利率和通胀拖累其他股票。",
+          "en": "Less than half of S&P 500 stocks closed above their 200-day moving average on Tuesday, with market breadth deteriorating as higher rates and inflation weighed on other stocks."
+        },
+        {
+          "zh": "Ray Dalio警告AI泡沫正接近可能破裂的临界点， rising rates与AI基建债务融资是核心风险。",
+          "en": "Ray Dalio warned the AI bubble is nearing the point where it may burst, citing rising interest rates and increased borrowing to fund the AI infrastructure buildout as core risks."
+        },
+        {
+          "zh": "SA分析师认为科技股可能仍有上行空间，因市场预期下周开始的财报季强劲，超大规模企业已证明能将资本开支转化为盈利增长。",
+          "en": "SA analysts believe tech stocks likely have more room to run as markets expect a strong earnings season starting next week, with hyperscalers having proven they can convert capex into earnings growth."
+        },
+        {
+          "zh": "市场面临更高更久利率和地缘冲突担忧，但AI基建建设保持强劲，企业借贷将持续，关键变量是利息支出对盈利的拖累。",
+          "en": "Markets face concerns of higher-for-longer rates and geopolitical conflicts, but the AI infrastructure buildout remains strong and companies will continue borrowing, with the key variable being how much interest expenses weigh on earnings."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "market breadth",
+        "bubble risk",
+        "rising rates",
+        "record highs"
+      ],
+      "tickers": [
+        "CEG",
+        "GOOGL",
+        "SPCX",
+        "NVDA",
+        "CVX",
+        "SP500",
+        "TSM",
+        "INTC",
+        "TSLA",
+        "MCD",
+        "SBUX",
+        "HESM",
+        "SHEL",
+        "APLD",
+        "LEVI"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4952466",
+      "title": "Wall Street Breakfast Podcast: Pop Goes The AI Bubble?",
+      "title_zh": "Dalio警告AI泡沫或近破裂，Spotify扩展有声书，Chipotle与星巴克合并传闻",
+      "url": "https://seekingalpha.com/article/4952466-wall-street-breakfast-podcast-pop-goes-the-ai-bubble?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-07T10:35:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "other"
+      ],
+      "summary_zh": "Ray Dalio警告AI驱动的股市涨势面临利率上升和债务融资风险，泡沫可能接近破裂点。Spotify宣布将有声书扩展至180多个市场，覆盖超7.5亿人。市场传闻Chipotle与星巴克可能合并，借鉴Yum! Brands的多品牌运营模式。",
+      "summary_en": "Ray Dalio warns the AI-driven stock rally is at risk from rising rates and debt funding the AI buildout, saying the bubble may be nearing its bursting point. Spotify announced it will expand audiobooks to over 180 markets, reaching more than 750 million people. Speculation arises over a potential Chipotle and Starbucks merger, modeled after Yum! Brands' multi-brand operations.",
+      "detail_zh": "Ray Dalio再次对AI泡沫发出警告，称由于利率上升和AI基础设施建设的借贷增加，泡沫可能接近破裂点。他指出，为购买资产而大量借贷，或潜在的财富税迫使出售资产，都可能导致泡沫破裂。Dalio周二对彭博新闻表示：'泡沫破裂的原因是你会需要现金，然后你开始将你拥有的财富变现。'本周AI交易推动标普500和纳斯达克创下收盘新高，但涨幅主要局限于受益于AI热潮的股票，其他板块表现不佳。Spotify周三宣布，到2026年底，将有声书市场从22个扩展至180多个，覆盖全球超7.5亿人，提供超过35万种图书，涵盖120多种语言。过去一年有声书月听众增长近40%，收听时长增长超30%；自推出有声书服务一年多以来，Audiobooks+订阅用户超100万，年经常性收入超1亿美元。Semafor提出Chipotle与星巴克可能合并，运营模式类似Yum! Brands的KFC、Pizza Hut和Taco Bell。此前有报道称Chipotle聘请银行家抵御潜在收购，引发了对买家身份的猜测。Semafor的Rohan Goswami写道，星巴克CEO兼前Chipotle CEO Brian Niccol在Yum工作超过十年，深知规模在微利餐饮业的重要性，星巴克可为Chipotle新兴的国际业务提供平台。",
+      "detail_en": "Ray Dalio has once again sounded the alarm on the AI bubble, warning it is nearing the point where it may burst due to rising interest rates and increased borrowing to fund the AI infrastructure buildout. He noted the huge amount of debt taken out to fund AI, and with rates expected to climb further, there is a mounting risk the bubble could pop. Dalio told Bloomberg News on Tuesday that heavy borrowing to buy assets, or a potential wealth tax requiring asset sales, can lead to a bubble bursting. 'What creates the bursting of a bubble is the fact that you need cash,' he said. 'And you start to convert the wealth that you have to do that.' The AI trade propelled the S&P 500 and Nasdaq to new closing records on Tuesday, but gains have largely been limited to AI-benefiting stocks while other sectors lagged. Spotify announced Wednesday that through end-2026 it will expand audiobook access from 22 markets to more than 180, bringing audiobooks to over 750 million people worldwide with more than 350,000 titles across 120+ languages. Monthly audiobook listeners grew nearly 40% over the past year, listening hours rose over 30%, and since launching just over a year ago, Spotify surpassed one million Audiobooks+ subscribers and generated more than $100M in annual recurring revenue. Semafor raised the possibility that Chipotle and Starbucks could merge, running operations similar to Yum! Brands' KFC, Pizza Hut, and Taco Bell. Speculation over an interested buyer was ignited after reports that Chipotle enlisted bankers to fend off a potential takeover. Semafor's Rohan Goswami wrote that Starbucks CEO and former Chipotle CEO Brian Niccol worked at Yum for over a decade and understands scale matters in razor-thin restaurant margins, and Starbucks could provide a platform to grow Chipotle's nascent international business.",
+      "key_points": [
+        {
+          "zh": "Ray Dalio警告AI驱动的股市涨势面临利率上升和债务融资风险，泡沫可能接近破裂点。",
+          "en": "Ray Dalio warns the AI-driven stock rally is at risk from rising rates and debt funding the AI buildout, with the bubble nearing its bursting point."
+        },
+        {
+          "zh": "Spotify计划到2026年底将有声书扩展至180多个市场，覆盖超7.5亿人，提供超35万种图书。",
+          "en": "Spotify plans to expand audiobooks to over 180 markets by end-2026, reaching more than 750 million people with over 350,000 titles."
+        },
+        {
+          "zh": "Spotify有声书月听众同比增长近40%，收听时长增长超30%，Audiobooks+订阅用户超100万，年经常性收入超1亿美元。",
+          "en": "Spotify's monthly audiobook listeners grew nearly 40% YoY, listening hours rose over 30%, Audiobooks+ subscribers surpassed 1 million, and ARR exceeded $100M."
+        },
+        {
+          "zh": "Semafor提出Chipotle与星巴克可能合并，借鉴Yum! Brands的多品牌运营模式，星巴克可为Chipotle国际业务提供平台。",
+          "en": "Semafor raised the possibility of a Chipotle-Starbucks merger modeled after Yum! Brands, with Starbucks providing a platform for Chipotle's international growth."
+        },
+        {
+          "zh": "AI交易推动标普500和纳斯达克创收盘新高，但涨幅主要局限于AI受益股，其他板块表现不佳。",
+          "en": "The AI trade pushed the S&P 500 and Nasdaq to new closing records, but gains were largely limited to AI-benefiting stocks while other sectors lagged."
+        }
+      ],
+      "tags": [
+        "AI bubble",
+        "Ray Dalio",
+        "Spotify audiobooks",
+        "Chipotle Starbucks merger",
+        "market records"
+      ],
+      "tickers": [
+        "SPOT",
+        "CMG",
+        "SBUX",
+        "YUM",
+        "NEOG",
+        "MSFT",
+        "NVDA",
+        "COST"
+      ],
       "sentiment": "neutral"
     },
     {
@@ -955,6 +1922,74 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "4952181",
+      "title": "Wall Street Breakfast Podcast: SCOTUS Weighs Oil Liability",
+      "title_zh": "最高法院审理气候诉讼，Mattel 面临出售压力，麦当劳遭 AI 定价反垄断诉讼",
+      "url": "https://seekingalpha.com/article/4952181-wall-street-breakfast-podcast-scotus-weighs-oil-liability?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-06T11:02:39+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "other",
+        "macro"
+      ],
+      "summary_zh": "最高法院就 Boulder County 对 Exxon 和 Suncor 的气候诉讼进行口头辩论，大法官意见分歧，Alito 回避可能导致 4-4 僵局。Mattel 遭 Ariel Investments 施压探索战略替代方案，此前 Authentic Brands 已提出 60 亿美元收购意向。麦当劳面临全国性集体诉讼，指控其利用 AI 定价系统协调菜单价格。Option Care Health 因传 McKesson 与 CD&R 逾 50 亿美元收购而大涨 22%。",
+      "summary_en": "The Supreme Court heard oral arguments on Boulder County's climate suit against Exxon and Suncor, with justices divided and Alito's recusal raising the possibility of a 4-4 deadlock. Mattel faces activist pressure from Ariel Investments to explore strategic alternatives, following Authentic Brands' $6B takeover interest. McDonald's faces a proposed nationwide class-action lawsuit alleging AI-driven price-fixing. Option Care Health surged 22% on reports of a $5B+ acquisition by McKesson and Clayton, Dubilier & Rice.",
+      "detail_zh": "最高法院周一就 Boulder County 对 Exxon Mobil (XOM) 和 Suncor Energy (SU) 的气候诉讼进行口头辩论，该诉讼指控两家公司通过广告和营销欺骗消费者，隐瞒油气业务对气候变化的危害。大法官意见分歧，Suncor 律师辩称若诉讼推进，全国约 9 万个市镇将能通过陪审团裁决制定国家乃至国际能源政策。据 WSJ 报道，辩论结束时仅 Kavanaugh 大法官明确支持公司立场，认为空气和水污染属联邦专属管辖。Alito 大法官因持有能源公司股票而回避，可能出现 4-4 僵局，维持下级法院允许诉讼继续的裁决，但不构成全国性先例。预计未来数月内作出裁决。Mattel (MAT) 方面，持有 5.4% 股份的 Ariel Investments 提出包括剥离重大资产、合并或整体出售在内的多种选项，此前 Southeastern Asset Management 于 5 月也施压要求考虑战略替代方案，上周 Authentic Brands Group 提出每股逾 20 美元、约 60 亿美元的收购意向。麦当劳 (MCD) 面临芝加哥联邦法院拟议的全国性集体诉讼，指控其利用 AI 定价系统与独立加盟商合谋固定价格，违反美国反垄断法；麦当劳回应称指控属推测且缺乏依据，AI 不设定价格，加盟商自行决定定价。Option Care Health (OPCH) 大涨 22%，因有报道称 McKesson (MCK) 与私募股权公司 Clayton, Dubilier & Rice 接近以含债务逾 50 亿美元估值收购该公司。",
+      "detail_en": "The Supreme Court heard oral arguments Monday in Boulder County's climate suit against Exxon Mobil (XOM) and Suncor Energy (SU), which alleges the companies deceived consumers about the climate dangers of their oil and gas operations through advertising and marketing. The justices appeared divided; Suncor's attorney argued that allowing the claims would let some 90,000 municipalities make national and international energy policy by asking juries to impose catastrophic damages on selected fossil fuel producers. According to the WSJ, by the end of arguments only Justice Kavanaugh appeared squarely in the companies' camp, saying prior cases made clear air and water pollution are exclusively federal issues. Justice Alito recused himself due to stock ownership in energy companies, raising the possibility of a 4-4 deadlock that would leave the lower court ruling in place without setting a nationwide precedent. A decision is expected in the coming months. On Mattel (MAT), Ariel Investments, which owns a 5.4% stake, outlined options including divestiture of significant assets, a merger, or an outright sale, following similar pressure from Southeastern Asset Management in May and last week's takeover interest from Authentic Brands Group at more than $20 a share, or $6B. McDonald's (MCD) faces a proposed nationwide class-action lawsuit in Chicago federal court alleging it conspired with independent franchisees to fix prices using algorithms trained on nonpublic data, violating US antitrust law; McDonald's called the allegations speculative and uninformed, saying AI does not set prices and franchisees make their own pricing decisions. Option Care Health (OPCH) surged 22% on a report that McKesson (MCK) and private equity firm Clayton, Dubilier & Rice are nearing a deal to acquire the medical infusion services provider at a valuation exceeding $5 billion including debt.",
+      "key_points": [
+        {
+          "zh": "最高法院就 Boulder County 气候诉讼进行辩论，大法官意见分歧，Alito 回避可能导致 4-4 僵局，维持下级法院裁决但不构成全国先例。",
+          "en": "Supreme Court divided on Boulder County climate suit; Alito's recusal raises possibility of 4-4 deadlock, which would leave lower court ruling in place without nationwide precedent."
+        },
+        {
+          "zh": "Mattel 遭 Ariel Investments（持股 5.4%）施压探索出售或战略替代方案，此前 Southeastern 已施压，Authentic Brands 提出约 60 亿美元收购意向。",
+          "en": "Mattel faces pressure from Ariel Investments (5.4% stake) to explore a sale or strategic alternatives, following Southeastern's push and Authentic Brands' ~$6B takeover interest."
+        },
+        {
+          "zh": "麦当劳面临全国性集体诉讼，指控其利用 AI 定价系统与加盟商合谋固定价格；公司称指控推测且缺乏依据，AI 不设定价格。",
+          "en": "McDonald's faces a nationwide class-action alleging AI-driven price-fixing with franchisees; the company calls the allegations speculative and says AI does not set prices."
+        },
+        {
+          "zh": "Option Care Health 大涨 22%，因报道称 McKesson 与 Clayton, Dubilier & Rice 接近以含债务逾 50 亿美元估值收购该公司。",
+          "en": "Option Care Health surged 22% on a report that McKesson and Clayton, Dubilier & Rice are nearing a deal to acquire it at a valuation exceeding $5B including debt."
+        },
+        {
+          "zh": "市场方面：股指期货上涨，原油下跌 1.7%（WTI 87 美元、布伦特 98 美元），富时 100 与 DAX 均涨 0.9%，中国内地市场因黄金周休市。",
+          "en": "Markets: stock index futures green, crude down 1.7% (WTI $87, Brent $98), FTSE 100 and DAX both up 0.9%, mainland Chinese markets closed for Golden Week."
+        }
+      ],
+      "tags": [
+        "climate-litigation",
+        "activist-investing",
+        "antitrust",
+        "M&A",
+        "AI-pricing"
+      ],
+      "tickers": [
+        "XOM",
+        "SU",
+        "MAT",
+        "MCD",
+        "OPCH",
+        "MCK",
+        "ZS",
+        "NOMD",
+        "MRVL",
+        "CASY",
+        "ACN",
+        "DG",
+        "SUN",
+        "NXPI",
+        "PANW",
+        "BAH",
+        "PSKY",
+        "WBD"
+      ],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:zIB9SYKIzk0",
       "title": "Gundlach: Betting Against Bessent",
       "title_zh": "冈拉克建议贝森特辞职：财政赤字、美联储与总统诉求的三重困境",
@@ -1041,6 +2076,127 @@
       ],
       "tickers": [],
       "sentiment": "negative"
+    },
+    {
+      "guid": "4951933",
+      "title": "Wall Street Is Going 24/7",
+      "title_zh": "OKX与ICE合资公司申请推出美股代币化24/7交易平台",
+      "url": "https://seekingalpha.com/article/4951933-wall-street-is-going-24-7?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-05T11:30:48+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "politics",
+        "other"
+      ],
+      "summary_zh": "OKX与纽交所母公司ICE的合资公司OKXICE已向SEC提交申请，拟推出代币化证券平台，实现美股24/7交易，首批将涵盖包括Mag 7在内的60余家上市公司。此举发生在SEC发布放宽交易场所与做市商认定要求的命令之后，代币化被视为金融基础设施的重大升级，但也伴随审计、市场碎片化与监管保障等风险。",
+      "summary_en": "OKXICE, the joint venture between crypto exchange OKX and NYSE parent Intercontinental Exchange, has filed with the SEC to launch a tokenized securities platform enabling 24/7 trading of U.S. stocks, initially covering more than 60 listed companies including the Magnificent 7. The move follows an SEC order loosening exchange and dealer definitions, with tokenization framed as a major financial infrastructure upgrade, though risks around auditability, market fragmentation and regulatory safeguards remain.",
+      "detail_zh": "OKX与纽交所母公司洲际交易所（ICE）的合资公司OKXICE已向SEC提交申请，拟推出代币化证券平台，用于美股24/7交易。首批将有60余家上市公司上线，包括Mag 7等热门个股；其股票将变为在区块链上通过流动性池交易的代币，并提供与股票相同的权益，如股息和投票权。背景是仅两周前SEC发布命令以推动代币化股票落地，此前国会的Clarity Act已告失败；该命令将某些交易场所豁免于“交易所”定义，并将某些流动性提供者豁免于“做市商”定义，且附带五年窗口期，为市场创新提供框架。Coinbase副董事长Ryan VanGrack称代币化是“自华尔街弃纸改用电子交易以来金融基础设施的最大升级”，并认为问题已不是代币化是否会重塑金融，而是发生在哪里。若顺利推进，现实世界资产代币化可带来更快或即时结算、全球可访问性及运营效率提升；但风险包括代币可能由难以审计和控制的第三方发行，以及市场碎片化、价格错位和监管保障问题，尤其每种代币化股票都与USDC、Global Dollar或Tether USD等稳定币配对。",
+      "detail_en": "OKXICE, the joint venture between crypto exchange OKX and NYSE parent Intercontinental Exchange (ICE), has filed with the SEC to launch a tokenized securities platform for 24/7 trading of U.S. stocks. More than 60 listed companies will initially be available, including popular names like the Magnificent 7; their shares will become tokens trading on the blockchain via a liquidity pool and offer the same benefits as equities, such as dividends and voting rights. The backdrop: only two weeks ago the SEC issued an order to help the rollout of tokenized stocks following the collapse of the Clarity Act in Congress. The looser requirements exempt certain trading venues from the definition of 'exchange' and certain liquidity providers from the definition of 'dealer,' with a five-year window intended to provide a framework for new market innovations as the Commission evaluates rulemaking and the impacts of new standards. Coinbase Vice Chair Ryan VanGrack declared that 'tokenization is the biggest upgrade to financial infrastructure since Wall Street ditched paper for electronic trading,' adding that it is no longer a question of whether tokenization will reshape finance but where. If all goes well, tokenization of real-world assets can lead to faster or instant settlement times, access from anywhere in the world, and enhanced operational efficiency. On the other hand, while tokenization can bring more public companies to the blockchain, tokens might be issued by third parties that can be difficult to audit and control. There are also concerns about fragmented markets, price dislocation, and regulatory safeguards, especially with each tokenized stock being paired with stablecoins like USDC, Global Dollar or Tether USD.",
+      "key_points": [
+        {
+          "zh": "OKXICE（OKX与ICE合资）已向SEC申请推出代币化证券平台，实现美股24/7交易，首批覆盖60余家上市公司，包括Mag 7。",
+          "en": "OKXICE (OKX-ICE joint venture) has filed with the SEC to launch a tokenized securities platform for 24/7 U.S. stock trading, initially covering more than 60 listed companies including the Magnificent 7."
+        },
+        {
+          "zh": "SEC两周前发布命令，将部分交易场所豁免于“交易所”定义、部分流动性提供者豁免于“做市商”定义，并设五年窗口期，以推动代币化股票落地。",
+          "en": "Two weeks ago the SEC issued an order exempting certain trading venues from the 'exchange' definition and certain liquidity providers from the 'dealer' definition, with a five-year window, to help the rollout of tokenized stocks."
+        },
+        {
+          "zh": "代币化股票将提供股息和投票权等与股票相同的权益，并通过区块链流动性池交易。",
+          "en": "Tokenized shares will offer the same benefits as equities, such as dividends and voting rights, and trade on the blockchain via a liquidity pool."
+        },
+        {
+          "zh": "Coinbase副董事长Ryan VanGrack称代币化是自电子交易以来金融基础设施的最大升级，问题已不是是否重塑金融，而是发生在哪里。",
+          "en": "Coinbase Vice Chair Ryan VanGrack called tokenization the biggest upgrade to financial infrastructure since electronic trading, saying the question is no longer whether it will reshape finance but where."
+        },
+        {
+          "zh": "风险包括代币可能由难以审计和控制的第三方发行，以及市场碎片化、价格错位和监管保障问题，尤其涉及与USDC、Global Dollar、Tether USD等稳定币配对。",
+          "en": "Risks include tokens potentially issued by third parties difficult to audit and control, as well as fragmented markets, price dislocation and regulatory safeguards, especially with pairings to stablecoins like USDC, Global Dollar and Tether USD."
+        }
+      ],
+      "tags": [
+        "tokenization",
+        "SEC",
+        "crypto",
+        "market-structure",
+        "ICE"
+      ],
+      "tickers": [
+        "ICE",
+        "COIN",
+        "SPCX",
+        "DTEGY",
+        "PTC",
+        "SBGSF"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4951945",
+      "title": "Wall Street Breakfast Podcast: October's Retail Harvest",
+      "title_zh": "亚马逊领跑假日促销，高通与华为达成专利协议，PTC获施耐德电气226亿美元收购",
+      "url": "https://seekingalpha.com/article/4951945-wall-street-breakfast-podcast-octobers-retail-harvest?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-05T11:00:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "other"
+      ],
+      "summary_zh": "亚马逊、塔吉特和沃尔玛提前启动假日促销，Adobe预计10月美国在线销售额达958亿美元，同比增长8%。高通与华为达成涵盖5G、AI和网络技术的多年专利交叉授权协议，高通股价上涨2.7%。PTC因施耐德电气以226亿美元全现金收购而大涨34%。",
+      "summary_en": "Amazon, Target and Walmart are accelerating holiday promotions, with Adobe expecting $95.8B in October U.S. online sales, up 8% YoY. Qualcomm and Huawei finalized a multi-year cross-licensing deal covering 5G, AI and networking, sending QCOM up 2.7%. PTC surged 34% after Schneider Electric agreed to acquire it for $22.6B in an all-cash deal.",
+      "detail_zh": "亚马逊上月宣布其10月Prime Big Deals活动于本周6-7日举行，促使塔吉特和沃尔玛跟进推出各自的促销活动。塔吉特Circle会员从今天起可提前获得部分优惠，促销活动与亚马逊同期；沃尔玛的Deals and More从今天持续到11日。据Adobe Analytics汇编的数据，预计10月美国在线消费将达958亿美元，同比增长8%，其中100亿美元直接流向亚马逊周二和周三的Prime Day活动。Adobe指出，这'改变了假日季的形态'，推动美国零售商有效管理促销和库存，以捕捉额外的 preseason 购物兴趣高峰。除礼品外，个人卫生用品折扣销售预计较9月同期激增150%，服装基础款增长210%，婴儿产品增长113%，宠物产品增长93%，家庭清洁用品增长49%。高通与华为达成多年广泛专利授权协议，涵盖5G、计算、AI和网络技术，包括各自专利组合的交叉授权，高通还将购买华为部分涉及计算、AI、网络等技术的美国专利，交易仍需监管批准。华为表示其知识产权授权业务自2021年以来已产生正收入，截至2025年底持有超过16.5万项有效授权专利。两家公司此前于2020年解决专利纠纷，华为同意向高通支付18亿美元追溯授权费。Redwire获Axiom Space合同，为其第二个空间站模块开发并交付两套Roll-Out Solar Array（ROSA）翼，同时也在为Axiom第一个模块开发ROSA翼，该模块正在意大利都灵Thales Alenia Space进行最终组装，计划2028年从肯尼迪航天中心发射。第二个模块预计在第一个模块发射后不到一年内发射。PTC股价大涨34%，因施耐德电气同意以226亿美元全现金收购这家工程软件开发商，合每股205美元。",
+      "detail_en": "Amazon announced last month that its October Prime Big Deals event would run this week on the 6th and 7th, prompting Target and Walmart to announce their own deal days. Target Circle members get early access to some deals starting today, with the sale event running the same days as Amazon; Walmart's Deals and More runs today through the 11th. According to data compiled by Adobe Analytics, $95.8B is expected to be spent online in October, up 8% year-over-year, with $10B of that going directly to Amazon during the Prime Day event Tuesday and Wednesday. Adobe noted this has 'changed the shape of the holiday season,' pushing U.S. retailers to manage promotions and inventory effectively to capture an additional pre-season spike in shopping interest. Beyond gifts, sales of personal hygiene products are expected to surge 150% compared to September levels, clothing basics up 210%, baby products up 113%, pet products up 93%, and household cleaning items up 49%. Qualcomm and Huawei agreed to a multi-year, broad patent licensing deal covering 5G, computing, AI and networking technologies, including cross-licenses to their respective patent portfolios, while Qualcomm will also purchase certain Huawei U.S. patents covering computing, AI, networking and other technologies; the transaction remains subject to regulatory approvals. Huawei said its intellectual-property licensing business has generated positive revenue since 2021, and it held more than 165,000 active granted patents at the end of 2025. The companies previously settled a patent dispute in 2020, when Huawei agreed to pay Qualcomm $1.8B in back licensing fees. Redwire was awarded a contract by Axiom Space to develop and deliver two Roll-Out Solar Array (ROSA) wings for the second module of Axiom Station, and is also developing ROSA wings for Axiom's first space station module, which is undergoing final assembly at Thales Alenia Space in Turin, Italy, with launch planned for 2028 from Kennedy Space Center. The second module is expected to launch less than a year after the first. PTC surged 34% after Schneider Electric agreed to acquire the engineering software developer for $22.6B in an all-cash deal at $205 per share.",
+      "key_points": [
+        {
+          "zh": "亚马逊10月Prime Big Deals活动带动塔吉特和沃尔玛跟进，Adobe预计10月美国在线销售额达958亿美元，同比增长8%。",
+          "en": "Amazon's October Prime Big Deals event prompted Target and Walmart to follow suit; Adobe expects $95.8B in October U.S. online sales, up 8% YoY."
+        },
+        {
+          "zh": "高通与华为达成涵盖5G、AI和网络技术的多年专利交叉授权协议，高通还将购买华为部分美国专利，交易需监管批准。",
+          "en": "Qualcomm and Huawei finalized a multi-year cross-licensing deal covering 5G, AI and networking; Qualcomm will also purchase certain Huawei U.S. patents, subject to regulatory approvals."
+        },
+        {
+          "zh": "Redwire获Axiom Space合同，为其第二个空间站模块提供太阳能阵列翼，首个模块计划2028年发射。",
+          "en": "Redwire secured a contract from Axiom Space to deliver solar array wings for its second space station module; the first module is planned for a 2028 launch."
+        },
+        {
+          "zh": "PTC因施耐德电气以226亿美元全现金收购（每股205美元）而大涨34%。",
+          "en": "PTC surged 34% after Schneider Electric agreed to acquire it for $22.6B in an all-cash deal at $205 per share."
+        },
+        {
+          "zh": "股指期货走低，原油下跌，Dillard's、Energy Transfer、Sunoco和Texas Capital Bancshares将在德克萨斯证券交易所作为主要上市地开始交易。",
+          "en": "Stock index futures are in the red, crude oil is down; Dillard's, Energy Transfer, Sunoco and Texas Capital Bancshares will start trading on the Texas Stock Exchange as their primary listings."
+        }
+      ],
+      "tags": [
+        "holiday sales",
+        "patent licensing",
+        "M&A",
+        "space infrastructure",
+        "retail promotions"
+      ],
+      "tickers": [
+        "AMZN",
+        "TGT",
+        "WMT",
+        "QCOM",
+        "RDW",
+        "PTC",
+        "SBGSF",
+        "DDS",
+        "ET",
+        "SUN",
+        "TCBI",
+        "ARMCO",
+        "E",
+        "BP",
+        "TTE"
+      ],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:jnFYAwCXPrw",
