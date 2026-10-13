@@ -43,11 +43,10 @@ body {
 }
 
 .brand { display: flex; align-items: center; gap: 14px; }
-.logo-img {
-  width: 44px; height: 44px;
-  background: #ffffff; border-radius: 10px;
-  padding: 6px; box-sizing: border-box;
-  object-fit: contain;
+.logo-full {
+  height: 54px; width: auto; display: block;
+  border-radius: 12px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
 }
 .brand h1 { margin: 0; font-size: 20px; letter-spacing: -0.02em; }
 .tagline { margin: 0; font-size: 12.5px; color: var(--text-dim); }
