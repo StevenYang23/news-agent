@@ -16,11 +16,11 @@ const state = {
 const $ = (sel) => document.querySelector(sel);
 
 const CATEGORY_LABEL = {
-  macro: "宏观",
-  tech: "科技",
-  politics: "政治",
-  volatility: "波动率",
-  other: "其他",
+  macro: "Macro",
+  tech: "Tech",
+  politics: "Politics",
+  volatility: "Volatility",
+  other: "Other",
   "bbg-tv-news": "BBG TV",
 };
 const SENTIMENT_LABEL = { positive: "偏多", negative: "偏空", neutral: "中性" };
