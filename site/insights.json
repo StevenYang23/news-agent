@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T12:10:30.037509+00:00",
+  "generated_at": "2026-10-13T12:13:02.369556+00:00",
   "insights": [
     {
       "guid": "4953722",
@@ -345,6 +345,45 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:de4ym8oqmqo",
+      "title": "Modi Touts India as Trusted Partner as Supply Chains 'Weaponized'",
+      "title_zh": "莫迪警告供应链与科技被武器化",
+      "url": "https://www.youtube.com/watch?v=de4ym8oqmqo",
+      "published_at": "2026-10-13T07:33:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "category": "bbg-tv-news",
+      "summary_zh": "印度总理莫迪在彭博新经济论坛上警告，曾连接世界的供应链、贸易与技术体系正被当作胁迫工具，并强调印度增长依托强劲基本面。此番言论凸显地缘政治对全球贸易与技术格局的冲击，对美股供应链及科技板块具有潜在影响。",
+      "summary_en": "Indian PM Modi warned at the Bloomberg New Economy Forum that supply chains, trade and technology—once forces uniting the world—are being weaponized as instruments of coercion, while stressing India's growth rests on strong fundamentals. The remarks highlight geopolitical risks to global trade and tech that could affect US equity supply chains and tech sectors.",
+      "key_points": [
+        {
+          "zh": "莫迪称供应链、能源与技术正被武器化，成为胁迫工具",
+          "en": "Modi said supply chains, energy and technology are being weaponized as instruments of coercion"
+        },
+        {
+          "zh": "强调技术应为数百万人创造新机遇",
+          "en": "He stressed technology should create new opportunities for millions"
+        },
+        {
+          "zh": "称印度经济增长建立在强劲基本面之上",
+          "en": "He said India's growth is based on strong fundamentals"
+        },
+        {
+          "zh": "INSEAD学者Pushan Dutt对莫迪言论作出回应",
+          "en": "INSEAD's Pushan Dutt reacted to Modi's remarks"
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "supply-chain",
+        "technology",
+        "trade",
+        "India"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:tkl3CxKyOY4",
       "title": "Saudi Intercepts Houthi Attacks as Pressure Grows on US",
       "title_zh": "沙特与胡塞武装冲突升级，美国或直接介入也门",
@@ -384,6 +423,47 @@
         "Defense"
       ],
       "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:jdEmbdsLJh0",
+      "title": "Meta's New Muse Wonder AI Model; LVMH Slumps After China Backlash",
+      "title_zh": "AI交易担忧重燃，全球股市下挫，博通CEO言论引发资金疑虑",
+      "url": "https://www.youtube.com/watch?v=jdEmbdsLJh0",
+      "published_at": "2026-10-13T06:54:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "category": "bbg-tv-news",
+      "summary_zh": "受AI交易担忧重燃影响，全球股市跌幅扩大，韩国Kospi暴跌7%，此前博通CEO陈福阳将AI投资者比作赌场赌客，引发市场对AI融资可持续性的担忧。Meta发布新AI模型Muse Wonder，称其具备与OpenAI的ChatGPT和Anthropic的Claude相当的\"前沿能力\"，显示AI竞争持续升温。",
+      "summary_en": "Global stock losses deepened on renewed concerns about the AI trade, with Korea's Kospi sliding 7% after Broadcom CEO Hock Tan compared AI investors to gamblers in a casino, raising doubts about AI funding sustainability. Meta released its new AI model Muse Wonder, claiming \"frontier capabilities\" on par with OpenAI's ChatGPT and Anthropic's Claude, underscoring intensifying AI competition.",
+      "key_points": [
+        {
+          "zh": "全球股市因AI交易担忧重燃而扩大跌幅，韩国Kospi单日暴跌7%",
+          "en": "Global stocks deepened losses on renewed AI trade concerns, with Korea's Kospi plunging 7% in a single day"
+        },
+        {
+          "zh": "博通CEO陈福阳将AI投资者比作赌场赌客，引发市场对AI融资可持续性的担忧",
+          "en": "Broadcom CEO Hock Tan compared AI investors to gamblers in a casino, sparking concerns over AI funding sustainability"
+        },
+        {
+          "zh": "Meta发布新AI模型Muse Wonder，称其具备与ChatGPT和Claude相当的\"前沿能力\"",
+          "en": "Meta unveiled new AI model Muse Wonder, claiming \"frontier capabilities\" on par with ChatGPT and Claude"
+        },
+        {
+          "zh": "LVMH时装皮具部门销售额下滑5%，受中国消费疲软及消费者反弹影响",
+          "en": "LVMH's fashion and leather goods division saw a 5% sales decline amid China weakness and consumer backlash"
+        }
+      ],
+      "tags": [
+        "AI",
+        "semiconductors",
+        "global equities",
+        "tech"
+      ],
+      "tickers": [
+        "AVGO",
+        "META"
+      ],
       "sentiment": "negative"
     },
     {
