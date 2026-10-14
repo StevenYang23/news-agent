@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-10-14T13:41:40.854573+00:00",
+  "generated_at": "2026-10-14T13:54:40.284718+00:00",
   "insights": [
+    {
+      "guid": "yt:U8KehDduxlI",
+      "title": "Bank of America Results Hit by Weaker Trading, $1.2 Billion Penalty",
+      "title_zh": "美国银行三季度交易业务收入不及预期",
+      "url": "https://www.youtube.com/watch?v=U8KehDduxlI",
+      "published_at": "2026-10-14T13:37:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国银行股票与固定收益交易部门三季度业绩均未达预期，债券交易收入同比下降17%至25.5亿美元，股票交易收入下降10%至25.1亿美元。此外，该行还因反洗钱与制裁违规相关的监管罚款计提费用，进一步拖累业绩。",
+      "summary_en": "Bank of America's stock and fixed-income traders missed estimates in the third quarter, with bond-trading revenue falling 17% to $2.55 billion and equity trading down 10% to $2.51 billion. Results were further hurt by a charge tied to a regulatory penalty over money laundering and sanctions violations.",
+      "detail_zh": "美国银行三季度交易业务表现疲软，股票和固定收益交易部门均未达到市场预期。具体来看，债券交易收入同比下降17%，降至25.5亿美元；股票交易收入同比下降10%，降至25.1亿美元。除交易业务外，该行业绩还受到一项与监管罚款相关费用的拖累，该罚款涉及反洗钱及制裁违规问题。上述内容由Kristine Aquino在Bloomberg Television上报道。",
+      "detail_en": "Bank of America's trading operations underperformed in the third quarter, with both its stock and fixed-income trading desks missing estimates. Bond-trading revenue fell 17% year-over-year to $2.55 billion, while equity trading revenue declined 10% to $2.51 billion. Beyond trading, the bank's results were also hurt by a charge tied to a regulatory penalty over money laundering and sanctions violations. The report was delivered by Kristine Aquino on Bloomberg Television.",
+      "key_points": [
+        {
+          "zh": "美国银行债券交易收入同比下降17%至25.5亿美元，未达预期",
+          "en": "Bank of America's bond-trading revenue fell 17% YoY to $2.55 billion, missing estimates"
+        },
+        {
+          "zh": "股票交易收入同比下降10%至25.1亿美元，同样不及预期",
+          "en": "Equity trading revenue declined 10% YoY to $2.51 billion, also missing estimates"
+        },
+        {
+          "zh": "业绩还受到反洗钱与制裁违规相关监管罚款费用的拖累",
+          "en": "Results were further hurt by a charge tied to a regulatory penalty over money laundering and sanctions violations"
+        }
+      ],
+      "tags": [
+        "Bank of America",
+        "trading revenue",
+        "regulatory penalty",
+        "Q3 earnings"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:L4sXrnxUbyg",
+      "title": "Morgan Stanley Profit Climbs on Equity Trading, Wealth Management",
+      "title_zh": "摩根士丹利三季度利润上升，股票交易与财富管理表现强劲",
+      "url": "https://www.youtube.com/watch?v=L4sXrnxUbyg",
+      "published_at": "2026-10-14T13:37:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "摩根士丹利第三季度利润上升，其股票交易业务超出分析师预期，财富管理业务录得创纪录的资金流入。",
+      "summary_en": "Morgan Stanley reported higher third-quarter profit, as its equity traders beat analysts' estimates and its wealth-management operation brought in a record amount of money.",
+      "detail_zh": "摩根士丹利第三季度利润实现增长。增长的两个驱动因素为：一是股票交易业务表现超出分析师预期；二是财富管理业务录得创纪录的资金流入规模。上述内容由Kristine Aquino在Bloomberg Television上报道。原文未披露具体利润数字、同比变化幅度、资金流入的具体金额，也未提供管理层评论或未来指引。",
+      "detail_en": "Morgan Stanley saw its third-quarter profit rise. Two drivers were cited: the firm's equity traders topped analysts' estimates, and its wealth-management operation brought in a record amount of money. The report was delivered by Kristine Aquino on Bloomberg Television. The source did not disclose specific profit figures, year-over-year changes, the exact size of the inflows, management commentary, or forward guidance.",
+      "key_points": [
+        {
+          "zh": "摩根士丹利第三季度利润上升。",
+          "en": "Morgan Stanley's third-quarter profit rose."
+        },
+        {
+          "zh": "股票交易业务业绩超出分析师预期。",
+          "en": "Its equity traders topped analysts' estimates."
+        },
+        {
+          "zh": "财富管理业务录得创纪录的资金流入。",
+          "en": "Its wealth-management operation brought in a record amount of money."
+        }
+      ],
+      "tags": [
+        "Morgan Stanley",
+        "earnings",
+        "equity trading",
+        "wealth management"
+      ],
+      "tickers": [
+        "MS"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:mkkhtp-AqJ4",
       "title": "US Consumer Prices Rise at Fastest Pace in Five Months",
