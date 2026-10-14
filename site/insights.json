@@ -1,6 +1,107 @@
 {
-  "generated_at": "2026-10-13T15:53:35.887599+00:00",
+  "generated_at": "2026-10-13T22:36:33.897075+00:00",
   "insights": [
+    {
+      "guid": "6ace7cee9fea6e0a64e39723",
+      "title": "Mortgages, diesel and the US midterms",
+      "title_zh": "股市财富效应能否持续支撑美国消费？",
+      "url": "https://shows.acast.com/unhedged/episodes/mortgages-diesel-and-the-us-midterms",
+      "published_at": "2026-10-13T20:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "美国消费者在接近历史高位的股市支撑下仍保持强劲购买力，但高企的按揭利率和柴油价格可能对消费支出构成压力。若经济压力持续，可能影响11月中期选举。",
+      "summary_en": "US consumers remain enthusiastic buyers, buoyed by stock markets near all-time highs. However, sky-high mortgages and diesel prices could strain their shopping spree, and continued economic stress may have implications for the November midterm elections.",
+      "detail_zh": "美国消费者依然热衷于购买商品，这得益于接近历史高点的股市带来的财富效应。然而，高企的按揭利率和柴油价格可能对消费者的购物热情造成打击。播客主持人Katie Martin和Rob Armstrong探讨了股市财富泡沫还能支撑美国经济多久。此外，他们还讨论了经济压力若持续，对11月中期选举可能意味着什么。节目中还包含Rob做空愚蠢夹克和Katie做空愚蠢吸烟者的轻松话题。",
+      "detail_en": "US consumers are still in love with buying things, supported by stock markets near all-time highs. But sky-high mortgages and diesel prices could spoil their shopping spree. Hosts Katie Martin and Rob Armstrong ask how long the stock market wealth bubble can prop up the US economy. They also discuss what continued strains on the economy could mean for the November midterm elections. The episode also includes light-hearted segments where Rob shorts silly jackets and Katie shorts silly smokers.",
+      "key_points": [
+        {
+          "zh": "美国消费者支出仍强劲，受接近历史高位的股市支撑。",
+          "en": "US consumer spending remains strong, buoyed by stock markets near all-time highs."
+        },
+        {
+          "zh": "高按揭利率和柴油价格可能对消费支出构成风险。",
+          "en": "Sky-high mortgages and diesel prices could pose risks to consumer spending."
+        },
+        {
+          "zh": "股市财富泡沫能否持续支撑美国经济是核心问题。",
+          "en": "Whether the stock market wealth bubble can continue to prop up the US economy is a key question."
+        },
+        {
+          "zh": "经济压力若持续，可能影响11月中期选举。",
+          "en": "Continued economic strains could have implications for the November midterm elections."
+        }
+      ],
+      "tags": [
+        "US consumer",
+        "stock market",
+        "mortgages",
+        "midterm elections"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4953903",
+      "title": "Wall Street Lunch: Bank Earnings Nothing To Write Home About",
+      "title_zh": "大型银行财报分化：摩根大通罕见逊于预期，基金经理科技股配置创六年新高",
+      "url": "https://seekingalpha.com/article/4953903-wall-street-lunch-bank-earnings-nothing-to-write-home-about?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-13T19:28:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "other"
+      ],
+      "summary_zh": "摩根大通Q3营收与利润双双不及预期，为17个季度以来首次，商业与投行业务明显走弱；高盛与花旗超预期，富国银行维持全年净利息收入指引。美银基金经理调查显示，科技板块超配比例升至37%，为2020年8月以来最高。",
+      "summary_en": "JPMorgan missed both top- and bottom-line estimates for the first time in 17 quarters, with notable softness in commercial and investment banking; Goldman Sachs and Citigroup beat consensus, while Wells Fargo kept its full-year NII guidance. BofA's fund manager survey showed 37% overweight tech, the most pronounced overweight since August 2020.",
+      "detail_zh": "大型银行财报季开局，华尔街反应平淡。摩根大通（JPM）营收与利润均不及预期，其Q3商业与投资银行业务较Q2的强劲节奏明显走弱；这是该行17个季度以来首次逊于预期，其中固定收益与市场收入54亿美元，同比下降4%。高盛（GS）Q3营收与利润均超市场共识，但市场相关收入较异常强劲的Q2有所回落。富国银行（WFC）资本市场收入不及预期，但全年净利息收入指引维持约500亿美元不变，与市场预期一致。花旗（C）Q3盈利超共识，服务与财富部门表现稳健，但市场与投行业务收入较上季度走弱。其他个股方面，强生（JNJ）Q3双线超预期并上调2026年销售与调整后盈利指引，但MedTech收入令人失望拖累股价；联合健康（UNH）业绩好于预期，并年内第三次上调全年指引；应用材料（AMAT）在SEMICON West投资者日演示后下挫，公司阐述了AI驱动更大芯片面积、更多晶体管与布线层需求的逻辑，但回避给出行业支出预测。此外，FTC请求联邦法官裁定前Retrophin与Turing制药CEO Martin Shkreli藐视法庭，指其涉嫌违反2022年法院命令交易制药股并发表相关观点。美银最新基金经理调查显示，37%的基金经理超配科技板块，高于上月的30%，为2020年8月以来最显著的超配，机构敞口远高于历史均值并接近上标准差阈值。",
+      "detail_en": "Big bank earnings kicked off with a muted Wall Street response. JPMorgan (JPM) missed on both the top and bottom lines, with Q3 commercial and investment banking results softening markedly from Q2's strong pace; it was the bank's first miss in 17 quarters, with Fixed Income & Markets revenue of $5.4B down 4% Y/Y. Goldman Sachs (GS) exceeded consensus on both lines even as markets-related revenue eased from an unusually strong Q2. Wells Fargo (WFC) fell short on capital markets revenue but kept its full-year net interest income guidance of around $50B, in line with estimates. Citigroup (C) beat consensus as services and wealth posted solid gains, though markets and investment banking revenue weakened from the prior quarter. Elsewhere, Johnson & Johnson (JNJ) beat on both lines and raised 2026 sales and adjusted earnings guidance, but disappointing MedTech revenue weighed on shares; UnitedHealth (UNH) reported better-than-expected results and raised full-year guidance for the third time this year; Applied Materials (AMAT) slumped after its Investor Day at SEMICON West, where it argued AI drives demand for larger dies, more transistors and additional wiring layers but shied away from an industry spending forecast. Separately, the FTC asked a federal judge to hold former Retrophin and Turing Pharmaceuticals CEO Martin Shkreli in contempt for allegedly violating a 2022 court order by trading pharma stocks and voicing opinions about companies. BofA's latest fund manager survey showed 37% of portfolio managers overweight technology, up from 30% the previous month—the most pronounced overweight since August 2020, pushing institutional exposure well above the historical average and near the upper standard deviation threshold.",
+      "key_points": [
+        {
+          "zh": "摩根大通Q3营收与利润双双不及预期，为17个季度以来首次，固定收益与市场收入54亿美元同比下降4%。",
+          "en": "JPMorgan missed both top- and bottom-line estimates for the first time in 17 quarters, with Fixed Income & Markets revenue of $5.4B down 4% Y/Y."
+        },
+        {
+          "zh": "高盛与花旗Q3盈利均超共识，但市场相关收入较Q2高点回落；富国银行资本市场收入不及预期，全年净利息收入指引维持约500亿美元。",
+          "en": "Goldman Sachs and Citigroup both beat Q3 consensus, though markets-related revenue eased from Q2 highs; Wells Fargo missed on capital markets revenue but kept full-year NII guidance at around $50B."
+        },
+        {
+          "zh": "强生Q3双线超预期并上调2026年指引，但MedTech收入疲软拖累股价；联合健康业绩超预期并年内第三次上调全年指引。",
+          "en": "JNJ beat on both lines and raised 2026 guidance, but weak MedTech revenue weighed on shares; UNH beat and raised full-year guidance for the third time this year."
+        },
+        {
+          "zh": "应用材料在SEMICON West投资者日后下挫，公司强调AI驱动更大芯片与更多布线层需求，但未给出行业支出预测。",
+          "en": "Applied Materials slumped after its SEMICON West Investor Day, making the case for AI-driven demand for larger dies and more wiring layers but shying away from an industry spending forecast."
+        },
+        {
+          "zh": "美银调查显示37%的基金经理超配科技板块，高于上月30%，为2020年8月以来最显著超配，机构敞口接近上标准差阈值。",
+          "en": "BofA survey showed 37% of managers overweight tech vs. 30% last month—the most pronounced overweight since August 2020, with institutional exposure near the upper standard deviation threshold."
+        }
+      ],
+      "tags": [
+        "bank earnings",
+        "tech overweight",
+        "fund manager survey",
+        "AI rally",
+        "Q3 results"
+      ],
+      "tickers": [
+        "JPM",
+        "GS",
+        "C",
+        "WFC",
+        "JNJ",
+        "UNH",
+        "AMAT",
+        "XLK"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:6gwH7bxWxLw",
       "title": "Breaking Down Big Bank Earnings",
