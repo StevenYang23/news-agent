@@ -239,63 +239,6 @@ function closeSources() {
   document.body.style.overflow = "";
 }
 
-// ---- Manual refresh (password-gated) ----
-const REFRESH_PASSWORD = "CHANGE_ME"; // TODO: set your password here
-const GITHUB_TOKEN = ""; // TODO: fine-grained PAT with `workflow` scope
-
-function openRefresh() {
-  $("#refreshMsg").textContent = "";
-  $("#refreshMsg").className = "refresh-msg";
-  $("#refreshPassword").value = "";
-  $("#refreshModal").hidden = false;
-  document.body.style.overflow = "hidden";
-}
-function closeRefresh() {
-  $("#refreshModal").hidden = true;
-  document.body.style.overflow = "";
-}
-async function submitRefresh() {
-  const msg = $("#refreshMsg");
-  const pw = $("#refreshPassword").value;
-  if (pw !== REFRESH_PASSWORD) {
-    msg.textContent = "密码错误";
-    msg.className = "refresh-msg error";
-    return;
-  }
-  if (!GITHUB_TOKEN) {
-    msg.textContent = "未配置刷新令牌";
-    msg.className = "refresh-msg error";
-    return;
-  }
-  msg.textContent = "正在触发刷新…";
-  msg.className = "refresh-msg";
-  try {
-    const res = await fetch(
-      "https://api.github.com/repos/StevenYang23/news-agent/actions/workflows/daily.yml/dispatches",
-      {
-        method: "POST",
-        headers: {
-          Authorization: "Bearer " + GITHUB_TOKEN,
-          "Content-Type": "application/json",
-          Accept: "application/vnd.github+json",
-        },
-        body: JSON.stringify({ ref: "main" }),
-      }
-    );
-    if (res.ok) {
-      msg.textContent = "已触发刷新，几分钟后更新";
-      msg.className = "refresh-msg success";
-      $("#refreshPassword").value = "";
-    } else {
-      msg.textContent = "刷新失败（HTTP " + res.status + "）";
-      msg.className = "refresh-msg error";
-    }
-  } catch (e) {
-    msg.textContent = "刷新失败";
-    msg.className = "refresh-msg error";
-  }
-}
-
 function renderSource(s) {
   const kind = s.kind || "article";
   const cat = s.category || "other";
@@ -377,16 +320,6 @@ $("#sourcesBtn").addEventListener("click", openSources);
 $("#sourcesClose").addEventListener("click", closeSources);
 $("#sourcesModal").addEventListener("click", (e) => {
   if (e.target === $("#sourcesModal")) closeSources();
-});
-
-$("#refreshBtn").addEventListener("click", openRefresh);
-$("#refreshClose").addEventListener("click", closeRefresh);
-$("#refreshModal").addEventListener("click", (e) => {
-  if (e.target === $("#refreshModal")) closeRefresh();
-});
-$("#refreshSubmit").addEventListener("click", submitRefresh);
-$("#refreshPassword").addEventListener("keydown", (e) => {
-  if (e.key === "Enter") submitRefresh();
 });
 
 init();
