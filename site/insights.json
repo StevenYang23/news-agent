@@ -1,6 +1,344 @@
 {
-  "generated_at": "2026-10-14T00:35:58.088713+00:00",
+  "generated_at": "2026-10-14T13:41:40.854573+00:00",
   "insights": [
+    {
+      "guid": "yt:mkkhtp-AqJ4",
+      "title": "US Consumer Prices Rise at Fastest Pace in Five Months",
+      "title_zh": "美国9月CPI环比上涨0.6%，同比上涨3.7%",
+      "url": "https://www.youtube.com/watch?v=mkkhtp-AqJ4",
+      "published_at": "2026-10-14T13:01:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国劳工统计局数据显示，9月消费者价格指数环比上涨0.6%，同比上涨3.7%。数据同时显示汽油价格上涨9.1%。",
+      "summary_en": "The US consumer price index rose 0.6% in September from a month earlier and 3.7% on an annual basis, according to the Bureau of Labor Statistics. The data also showed gas prices rose 9.1%.",
+      "detail_zh": "美国劳工统计局公布的数据显示，9月消费者价格指数（CPI）环比上涨0.6%，同比上涨3.7%。数据中汽油价格上涨9.1%。彭博的Michael McKee对这份初步数据进行了点评。原文未提供核心CPI、市场预期对比或对美联储政策的影响等进一步信息。",
+      "detail_en": "According to the Bureau of Labor Statistics, the US consumer price index rose 0.6% in September from a month earlier and 3.7% on an annual basis. The data showed gas prices rose by 9.1%. Bloomberg's Michael McKee provided the initial reading. The source does not include further details such as core CPI, comparison with expectations, or implications for Federal Reserve policy.",
+      "key_points": [
+        {
+          "zh": "9月CPI环比上涨0.6%",
+          "en": "September CPI rose 0.6% month over month"
+        },
+        {
+          "zh": "9月CPI同比上涨3.7%",
+          "en": "September CPI rose 3.7% year over year"
+        },
+        {
+          "zh": "汽油价格上涨9.1%",
+          "en": "Gas prices rose 9.1%"
+        },
+        {
+          "zh": "数据来源为美国劳工统计局",
+          "en": "Data source is the Bureau of Labor Statistics"
+        }
+      ],
+      "tags": [
+        "CPI",
+        "inflation",
+        "gas prices",
+        "BLS",
+        "US economy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:WAAr-n0xFcc",
+      "title": "Stocks Waver Ahead of CPI, Bank Earnings; Aramco Hit By Houthis",
+      "title_zh": "美股期货静待CPI与银行财报，ASML上调销售展望但警告AI需求或难满足",
+      "url": "https://www.youtube.com/watch?v=WAAr-n0xFcc",
+      "published_at": "2026-10-14T11:26:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股期货在最新CPI数据与银行财报公布前走势摇摆。ASML上调销售展望，同时警告2027至2028年可能无法满足飙升的AI需求。地缘方面，伊朗支持的胡塞武装袭击沙特并击中沙特阿美总部，俄罗斯打击乌克兰能源设施。",
+      "summary_en": "US equity futures wavered ahead of the latest CPI data and bank earnings. ASML raised its sales outlook while warning it may not be able to meet soaring AI demand in 2027 and 2028. Geopolitically, Iran-backed Houthis launched attacks across Saudi Arabia, hitting Saudi Aramco's headquarters, and Russia struck energy facilities in Ukraine.",
+      "detail_zh": "美股期货在最新CPI数据与银行财报出炉前走势摇摆。ASML上调了销售展望，但警告称在2027年和2028年可能无法满足飙升的AI需求。地缘政治方面，伊朗支持的胡塞武装在沙特阿拉伯多地发动袭击，并击中了沙特阿美总部；俄罗斯则打击了乌克兰的能源设施。节目中还包含DeepL创始人兼CEO Jarek Kutylowski在都柏林国际AI峰会上的发言、Natixis首席美国经济学家Christopher Hodge对通胀数据的前瞻，以及Argus Research金融机构研究总监Stephen Biggar对银行财报的解读，美国银行与摩根士丹利财报即将公布。节目还讨论了CPI、银行财报与美联储前景。",
+      "detail_en": "US equity futures wavered ahead of the latest CPI data and bank earnings. ASML raised its sales outlook but warned it may not be able to meet soaring AI demand in 2027 and 2028. On geopolitics, Iran-backed Houthis launched attacks across Saudi Arabia, hitting Saudi Aramco's headquarters, while Russia struck energy facilities in Ukraine. The program also featured DeepL Founder & CEO Jarek Kutylowski speaking at the International AI Summit in Dublin, Natixis Chief US Economist Christopher Hodge previewing the inflation print, and Stephen Biggar of Argus Research breaking down bank earnings, with Bank of America and Morgan Stanley on deck. CPI, bank earnings and the Fed outlook were also discussed.",
+      "key_points": [
+        {
+          "zh": "美股期货在CPI数据与银行财报公布前走势摇摆。",
+          "en": "US equity futures wavered ahead of the latest CPI data and bank earnings."
+        },
+        {
+          "zh": "ASML上调销售展望，但警告2027至2028年可能无法满足飙升的AI需求。",
+          "en": "ASML raised its sales outlook but warned it may not be able to meet soaring AI demand in 2027 and 2028."
+        },
+        {
+          "zh": "伊朗支持的胡塞武装袭击沙特阿拉伯多地，击中沙特阿美总部。",
+          "en": "Iran-backed Houthis launched attacks across Saudi Arabia, hitting Saudi Aramco's headquarters."
+        },
+        {
+          "zh": "俄罗斯打击乌克兰能源设施。",
+          "en": "Russia struck energy facilities in Ukraine."
+        },
+        {
+          "zh": "美国银行与摩根士丹利财报即将公布，市场关注CPI与美联储前景。",
+          "en": "Bank of America and Morgan Stanley earnings are on deck, with markets focused on CPI and the Fed outlook."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "bank earnings",
+        "ASML",
+        "AI demand",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4954041",
+      "title": "The Diesel Squeeze Is Deepening",
+      "title_zh": "柴油价格飙升成为全球经济新压力点",
+      "url": "https://seekingalpha.com/article/4954041-the-diesel-squeeze-is-deepening?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-14T11:15:56+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "自2月28日伊朗战争爆发以来，美国柴油均价上涨逾70%至每加仑6.29美元，涨幅远超汽油的45%。霍尔木兹海峡运输中断与库存耗尽导致柴油供应紧张，IEA警告市场紧张将持续至2027年，柴油价格高企正推升商品成本、实际收入压力和通胀。",
+      "summary_en": "U.S. diesel prices have surged over 70% to $6.29 per gallon since the Iran war began on Feb. 28, outpacing the 45% rise in gasoline. Shipping disruptions through the Strait of Hormuz and depleted inventories have tightened supply, with the IEA warning market tightness will extend into 2027, raising goods costs, pressuring real incomes, and fueling inflation.",
+      "detail_zh": "柴油被称为全球经济的支柱燃料，支撑货运、制造、农业和建筑等关键供应链，其价格波动会对多个行业产生连锁反应。自2月28日伊朗战争爆发以来，美国汽油均价上涨45%至每加仑4.33美元，而柴油均价飙升逾70%至每加仑6.29美元。战争相关的供应中断和霍尔木兹海峡航运受阻大幅削减了海运柴油出口，加之本已偏低的柴油库存被进一步消耗，令仍需持续运转的经济面临挑战。特朗普政府近期取消了针对俄罗斯柴油的制裁，并发布关于红色染料柴油的行政命令，但这些措施迄今未能压低价格。周二美国柴油期货再涨5%，因胡塞武装持续袭击沙特基础设施且霍尔木兹石油流量大幅下降。美国柴油出口禁令等其他政策也曾被考虑，但因警告可能适得其反而被排除。IEA在最新《石油市场报告》中警告，创纪录的柴油价格已通过推高商品成本、影响实际收入、经济活动和通胀产生广泛经济后果，市场紧张态势将延续至2027年，库存下降、裂解价差飙升和现货升水加剧均表明需要额外供应。",
+      "detail_en": "Diesel is known as the backbone of the global economy, powering freight transport, manufacturing, agriculture, and construction, and its price changes and volatility can have knock-on effects across many sectors. Since the Iran war began on Feb. 28, the average U.S. gasoline price has climbed 45% to $4.33 per gallon, while diesel has skyrocketed over 70% to $6.29 per gallon. War-related outages and shipping disruptions through the Strait of Hormuz have sharply cut seaborne diesel exports, while already low diesel inventories have been depleted, challenging an economy that still needs to keep running. The Trump administration recently lifted sanctions on Russian diesel and issued an executive order for red-dye diesel, but those measures have so far failed to bring down prices. U.S. diesel futures surged another 5% on Tuesday as Houthi strikes continued on Saudi infrastructure and Hormuz oil flows fell sharply. Other policies like a U.S. diesel export ban have been considered but ruled out amid warnings it could backfire. The IEA warned in its latest Oil Market Report that record diesel prices are already having broad economic consequences by raising the cost of goods and impacting real incomes, economic activity, and inflation, adding that market tightness is set to extend into 2027, with falling inventories, soaring cracks, and steepening backwardation signaling the need for additional supplies.",
+      "key_points": [
+        {
+          "zh": "美国柴油均价自伊朗战争爆发以来上涨逾70%至每加仑6.29美元，涨幅远超汽油的45%（4.33美元/加仑）。",
+          "en": "U.S. diesel prices have risen over 70% to $6.29 per gallon since the Iran war began, far outpacing the 45% rise in gasoline to $4.33 per gallon."
+        },
+        {
+          "zh": "霍尔木兹海峡航运中断与库存耗尽导致柴油供应紧张，周二柴油期货再涨5%。",
+          "en": "Shipping disruptions through the Strait of Hormuz and depleted inventories have tightened diesel supply, with futures surging another 5% on Tuesday."
+        },
+        {
+          "zh": "取消俄罗斯柴油制裁和红色染料柴油行政命令等措施迄今未能压低价格，出口禁令因可能适得其反被排除。",
+          "en": "Measures including lifting sanctions on Russian diesel and an executive order for red-dye diesel have failed to bring down prices, while an export ban was ruled out amid warnings it could backfire."
+        },
+        {
+          "zh": "IEA警告柴油价格高企已推升商品成本、冲击实际收入并加剧通胀，市场紧张将持续至2027年。",
+          "en": "The IEA warned that record diesel prices are raising goods costs, impacting real incomes, and fueling inflation, with market tightness set to extend into 2027."
+        },
+        {
+          "zh": "IEA指出库存下降、裂解价差飙升和现货升水加剧均表明需要额外供应。",
+          "en": "The IEA noted that falling inventories, soaring cracks, and steepening backwardation signal the need for additional supplies."
+        }
+      ],
+      "tags": [
+        "diesel",
+        "oil",
+        "inflation",
+        "Iran war",
+        "Hormuz"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:ShHt4eO8VFg",
+      "title": "Aramco Headquarters Attacked, ASML Struggles to Keep Up with Demand",
+      "title_zh": "ASML因AI需求上调指引，中东冲突升级推升油价",
+      "url": "https://www.youtube.com/watch?v=ShHt4eO8VFg",
+      "published_at": "2026-10-14T10:47:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "ASML表示AI支出飙升，正寻求未来两年提高芯片制造设备产能，股价上涨。与此同时，伊朗支持的胡塞武装对沙特发动导弹和无人机袭击，沙特阿美总部遭袭，油价飙升、裂解价差走阔。市场焦点还包括美国CPI、欧央行与英央行政策及银行财报。",
+      "summary_en": "ASML shares rose after the company said soaring AI spending means it is searching for ways to produce more chip-making machines over the next two years. Meanwhile, Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting Saudi Aramco's headquarters, sending oil prices surging and crack spreads widening. Markets also focused on US CPI, ECB and BOE policy, and bank earnings.",
+      "detail_zh": "ASML表示，人工智能支出的飙升意味着公司正在寻找在未来两年内生产更多芯片制造设备的方法，其股价随之上涨，并在开盘后跳涨。中东方面，伊朗支持的胡塞武装对沙特阿拉伯多个城市发动导弹和无人机袭击，沙特阿美位于该国东部的总部遭到袭击，油价飙升，裂解价差走阔。当日议程还包括美国CPI及全球通胀前景、欧洲央行与英国央行的政策动向以及第二轮通胀效应。Federated Hermes的Deborah Cunningham讨论了美国国债重新定价、回购清算、国债基差交易、国债供给以及资本竞争。Rothschild & Co Redburn的Timm Schulze-Melander就AI投资、繁荣与投机、可见性、更高收益率及AI融资风险发表了看法。Fidelity的Salman Ahmed认为美国10年期国债收益率可能达到6%，并谈及通胀、AI以及货币政策的局限。华尔街银行财报方面，股票业务表现优于固定收益，节目还预览了摩根士丹利和美国银行。此外，德国推动欧盟对中国进口实施更多限制。",
+      "detail_en": "ASML shares rose after the company said soaring artificial intelligence spending means it is searching for ways to produce more chip-making machines over the next two years, with the stock jumping at the open. In the Middle East, Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, targeting several cities, and oil giant Saudi Aramco's headquarters in the east of the kingdom was hit, sending oil prices surging and crack spreads widening. The day's agenda also included US CPI and the global inflation outlook, ECB and BOE policy, and second-round inflation effects. Federated Hermes' Deborah Cunningham discussed Treasury repricing, repo clearing, the Treasury basis trade, Treasury supply and competition for capital. Rothschild & Co Redburn's Timm Schulze-Melander shared views on AI investment, boom and speculation, visibility, higher yields and AI financing risks. Fidelity's Salman Ahmed said the US 10-year yield could reach 6%, touching on inflation, AI and the limits of monetary policy. On Wall Street bank earnings, equities beat fixed income, with previews of Morgan Stanley and Bank of America. Germany also pushed for more EU curbs on Chinese imports.",
+      "key_points": [
+        {
+          "zh": "ASML因AI支出飙升而上调指引，正寻求未来两年提高芯片制造设备产能，股价上涨并在开盘跳涨。",
+          "en": "ASML raised guidance amid soaring AI spending and is searching for ways to produce more chip-making machines over the next two years; shares rose and jumped at the open."
+        },
+        {
+          "zh": "伊朗支持的胡塞武装对沙特多个城市发动导弹和无人机袭击，沙特阿美东部总部遭袭，油价飙升、裂解价差走阔。",
+          "en": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting Saudi Aramco's eastern headquarters, sending oil prices surging and crack spreads widening."
+        },
+        {
+          "zh": "Fidelity的Salman Ahmed认为美国10年期国债收益率可能达到6%，并谈及通胀、AI及货币政策局限。",
+          "en": "Fidelity's Salman Ahmed said the US 10-year yield could reach 6%, discussing inflation, AI and the limits of monetary policy."
+        },
+        {
+          "zh": "华尔街银行财报显示股票业务优于固定收益，节目预览摩根士丹利和美国银行。",
+          "en": "Wall Street bank earnings showed equities beat fixed income, with previews of Morgan Stanley and Bank of America."
+        },
+        {
+          "zh": "德国推动欧盟对中国进口实施更多限制。",
+          "en": "Germany pushed for more EU curbs on Chinese imports."
+        }
+      ],
+      "tags": [
+        "ASML",
+        "AI",
+        "Oil",
+        "Middle East",
+        "CPI"
+      ],
+      "tickers": [
+        "ASML"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ymZOTecMJzo",
+      "title": "India's Mittal Says His Satellite Venture Is Ahead of Musk's Starlink",
+      "title_zh": "彭博《The Pulse》新德里特辑：印度角色、卫星通信竞争与ASML上调指引",
+      "url": "https://www.youtube.com/watch?v=ymZOTecMJzo",
+      "published_at": "2026-10-14T10:40:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博《The Pulse With Francine Lacqua》在新德里播出特别节目，讨论全球展望与印度作为增长最快主要经济体之一的角色。节目涵盖印度外长关于\"中等强国\"应更积极合作的表态、印度大亨Mittal称其Eutelsat OneWeb在印度卫星通信审批队列中\"明显领先\"Starlink，以及ASML因AI需求上调全年销售指引等议题。",
+      "summary_en": "Bloomberg's \"The Pulse With Francine Lacqua\" aired special programming from New Delhi, discussing the global outlook and India's role as one of the fastest-growing major economies. Segments included India's foreign minister on \"middle powers\" needing to cooperate more actively, Indian tycoon Mittal saying his Eutelsat OneWeb venture is \"significantly ahead\" of Starlink in India's satellite-communication approval queue, and ASML raising its full-year sales outlook on AI demand.",
+      "detail_zh": "彭博《The Pulse With Francine Lacqua》在新德里播出特别节目，聚焦全球展望及印度作为增长最快主要经济体之一的角色。印度外长Subrahmanyam Jaishankar表示，要求\"中等强国\"发挥更积极作用的呼声日益高涨，这要求它们找到能在关键领域合作的伙伴，这些国家\"需要更积极、需要更多相互往来，并找到在自身关切议题上推动进展的方式\"。印度大亨Sunil Bharti Mittal表示，其Eutelsat OneWeb项目在印度卫星通信审批队列中\"明显领先\"于Starlink；此前马斯克批评部分寡头阻挠其在印度获取频谱。节目嘉宾包括瑞士经济事务国务秘书Helene Budliger Artieda和高盛亚太区（除日本外）总裁Kevin Sneader。其他章节涉及：印度-加拿大关系、卡塔尔部长称\"情况将恢复正常\"、胡塞武装袭击沙特期间Aramco总部遇袭、欧洲央行Wunsch称通胀仍然过高、Dimon称波动不会改变其做法、德国商业银行CEO谈欧洲央行对UniCredit收购的决定、ASML因AI需求上调全年销售指引，以及彭博新经济论坛上AI与科技成为焦点。",
+      "detail_en": "Bloomberg's \"The Pulse With Francine Lacqua\" presented special programming from New Delhi, discussing the global outlook and India's role as one of the fastest-growing major economies. India's External Affairs Minister Subrahmanyam Jaishankar said growing calls for \"middle powers\" to play a more active role require them to find partners who can cooperate in areas that matter, saying these countries \"need to be more active, need to deal more with each other, and figure out a way of moving the needle on issues of interest to them.\" Indian tycoon Sunil Bharti Mittal said his Eutelsat OneWeb venture is \"significantly ahead\" of Starlink in India's satellite-communication approval queue, amid Elon Musk's criticism that some oligarchs are blocking his attempts to gain spectrum access in the country. Guests included Helene Budliger Artieda, Switzerland's State Secretary for Economic Affairs, and Kevin Sneader, Goldman Sachs President of Asia Pacific Ex-Japan. Other chapters covered: India-Canada relations, a Qatar minister saying things will get back to normal, Aramco HQ hit during Houthi attacks on Saudi Arabia, ECB's Wunsch saying inflation is still too high, Dimon saying volatility won't change what they do, Commerzbank CEO on the ECB's decision on UniCredit takeover, ASML raising its full-year sales outlook on AI demand, and AI & tech top of mind at the Bloomberg New Economy Forum.",
+      "key_points": [
+        {
+          "zh": "印度外长Jaishankar称\"中等强国\"需更积极、加强相互往来，并在关键议题上推动进展。",
+          "en": "India's External Affairs Minister Jaishankar said \"middle powers\" need to be more active, deal more with each other, and move the needle on issues of interest."
+        },
+        {
+          "zh": "印度大亨Mittal称其Eutelsat OneWeb在印度卫星通信审批队列中\"明显领先\"Starlink；马斯克批评部分寡头阻挠其获取频谱。",
+          "en": "Indian tycoon Mittal said his Eutelsat OneWeb venture is \"significantly ahead\" of Starlink in India's satellite-communication approval queue, amid Musk's criticism that some oligarchs are blocking his spectrum access."
+        },
+        {
+          "zh": "ASML因AI需求上调全年销售指引。",
+          "en": "ASML raised its full-year sales outlook on AI demand."
+        },
+        {
+          "zh": "欧洲央行Wunsch表示通胀仍然过高。",
+          "en": "ECB's Wunsch said inflation is still too high."
+        },
+        {
+          "zh": "节目嘉宾包括瑞士经济事务国务秘书Helene Budliger Artieda与高盛亚太区（除日本外）总裁Kevin Sneader。",
+          "en": "Guests included Helene Budliger Artieda, Switzerland's State Secretary for Economic Affairs, and Kevin Sneader, Goldman Sachs President of Asia Pacific Ex-Japan."
+        }
+      ],
+      "tags": [
+        "India",
+        "satellite-communications",
+        "ASML",
+        "ECB",
+        "AI-demand"
+      ],
+      "tickers": [
+        "ASML"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Nh-n7eX93w8",
+      "title": "AI Anxiety Collides With the Midterms",
+      "title_zh": "AI焦虑进入中期选举政治议程",
+      "url": "https://www.youtube.com/watch?v=Nh-n7eX93w8",
+      "published_at": "2026-10-14T10:00:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在中期选举前，人工智能焦虑正从硅谷蔓延至政治领域。最初围绕就业和AI巨额资金投入的担忧，已扩展至日益强大的模型，部分行业领袖呼吁加强监管护栏。Ed Ludlow分析了这些担忧如何与华盛顿维持美国AI领先地位的努力发生碰撞。",
+      "summary_en": "Ahead of the midterm elections, AI anxiety is moving from Silicon Valley into the political arena. Concerns that began with jobs and the enormous sums pouring into AI have spread to increasingly powerful models, with some industry leaders calling for stronger guardrails. Ed Ludlow looks at how those fears are colliding with Washington's push to maintain America's AI lead.",
+      "detail_zh": "在中期选举前，人工智能焦虑正从硅谷进入政治领域。最初的担忧集中在就业以及流入AI的巨额资金上。这些担忧随后扩展到日益强大的模型。部分行业领袖呼吁加强监管护栏。与此同时，华盛顿正推动维持美国在AI领域的领先地位。Ed Ludlow分析了这些担忧与华盛顿政策目标之间的碰撞。",
+      "detail_en": "Ahead of the midterm elections, AI anxiety is moving from Silicon Valley into the political arena. The concerns initially centered on jobs and the enormous sums pouring into AI. Those concerns have since spread to increasingly powerful models. Some industry leaders are calling for stronger guardrails. Meanwhile, Washington is pushing to maintain America's AI lead. Ed Ludlow looks at how those fears are colliding with Washington's push.",
+      "key_points": [
+        {
+          "zh": "AI焦虑正从硅谷蔓延至中期选举前的政治领域。",
+          "en": "AI anxiety is moving from Silicon Valley into the political arena ahead of the midterm elections."
+        },
+        {
+          "zh": "最初的担忧围绕就业和流入AI的巨额资金。",
+          "en": "Concerns began with jobs and the enormous sums pouring into AI."
+        },
+        {
+          "zh": "担忧已扩展至日益强大的模型，部分行业领袖呼吁加强监管护栏。",
+          "en": "Concerns have spread to increasingly powerful models, with some industry leaders calling for stronger guardrails."
+        },
+        {
+          "zh": "这些担忧与华盛顿维持美国AI领先地位的努力发生碰撞。",
+          "en": "Those fears are colliding with Washington's push to maintain America's AI lead."
+        }
+      ],
+      "tags": [
+        "AI",
+        "midterm-elections",
+        "regulation",
+        "US-AI-lead"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:e9nzjVf0Z2M",
+      "title": "Saudi Aramco Headquarters Hit in Houthi Attack as Iran Escalates Hormuz Ship Strikes",
+      "title_zh": "沙特阿美总部遭胡塞袭击，中东局势升级扰动能源与航运",
+      "url": "https://www.youtube.com/watch?v=e9nzjVf0Z2M",
+      "published_at": "2026-10-14T06:44:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "macro",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "沙特阿美达兰总部遭胡塞武装袭击并引发火灾，伊朗同时加大对霍尔木兹海峡航运的攻击，中东能源基础设施与贸易航线风险显著上升。特朗普称胡塞意在推高油价并考虑加入沙特主导的军事行动。亚洲股市在美国通胀数据公布前上涨，美联储官员威廉姆斯认为本月再加息一次后无需进一步收紧。",
+      "summary_en": "Saudi Aramco's Dhahran headquarters was hit in a Houthi attack, sparking a fire and marking a major escalation against Saudi energy infrastructure, while Iran intensified attacks on shipping in the Strait of Hormuz. Trump said the Houthis are trying to push oil prices higher at Iran's behest and that he is considering joining the Saudi-led campaign. Asian stocks rose ahead of US inflation data, and Fed's Williams said he sees no need for further tightening beyond one more rate increase this month.",
+      "detail_zh": "沙特阿美位于达兰的总部遭到胡塞武装袭击并引发火灾，被视为针对沙特能源基础设施的一次重大升级。伊朗同时加大对霍尔木兹海峡航运的攻击，进一步加剧地区贸易与能源运输通道的压力。特朗普表示，胡塞武装正试图在伊朗授意下推高油价，并称他正在考虑加入沙特主导的军事行动。亚洲股市在美国通胀数据公布前走高；美联储官员约翰·威廉姆斯表示，在本月再加息一次之后，他认为没有必要进一步收紧。美国银行因涉嫌反洗钱疏漏面临约12亿美元罚款；一名OpenAI员工因隐藏录音设备被捕。在印度举行的彭博新经济论坛上，丸红社长兼CEO大本雅之讨论了全球供应链格局变化以及中东战争对供应的影响。迪拜环球港务集团CEO Yuvraj Narayan表示，冲突对航运、通胀和贸易成本的影响可能相当显著；思科董事长兼CEO Chuck Robbins讨论了中东和印度地区的技术主权、韧性与增长机会。Dangote炼油厂在计划IPO前利润大幅增长；塞内加尔快速债务重组计划面临新障碍；博茨瓦纳据称接近就其在戴比尔斯持股规模达成协议。加拿大国际贸易部长Maninder Sidhu讨论了印加贸易关系；Mubadala副集团CEO Waleed Al Muhairi表示，到2031年亚洲可能占该集团投资组合的25%，他认为韩国等市场处于有利位置。",
+      "detail_en": "Saudi Aramco's headquarters in Dhahran was hit in a Houthi attack, sparking a fire and marking a major escalation against Saudi energy infrastructure. Iran is also intensifying attacks on shipping in the Strait of Hormuz, adding further pressure to regional trade and energy routes. Donald Trump said the Houthis are trying to push oil prices higher at Iran's behest and said he is considering joining the Saudi-led campaign. Asian stocks rose ahead of US inflation data, while Fed official John Williams said he sees no need for further tightening beyond one more rate increase this month. Bank of America faces potential fines of around $1.2 billion over alleged money-laundering lapses, while an OpenAI employee has been arrested over a hidden recording device. At the Bloomberg New Economy Forum in India, Marubeni President and CEO Masayuki Omoto discussed the changing global supply-chain map and the impact of the Middle East war on supplies. DP World CEO Yuvraj Narayan said the impact of the conflict on shipping, inflation and the cost of trade could be significant, while Cisco Chairman and CEO Chuck Robbins discussed technological sovereignty, resilience and growth opportunities across the Middle East and India. Dangote Refinery profit surged ahead of a planned IPO, while Senegal's rapid debt-workout plan faces new obstacles and Botswana is said to be nearing agreement on the size of its stake in De Beers. Canadian International Trade Minister Maninder Sidhu discussed India-Canada trade ties, while Mubadala Deputy Group CEO Waleed Al Muhairi said Asia could account for 25% of the group's portfolio by 2031, with South Korea among the markets he sees as well positioned.",
+      "key_points": [
+        {
+          "zh": "沙特阿美达兰总部遭胡塞武装袭击并引发火灾，针对沙特能源基础设施的攻击显著升级。",
+          "en": "Saudi Aramco's Dhahran headquarters was hit in a Houthi attack, sparking a fire and marking a major escalation against Saudi energy infrastructure."
+        },
+        {
+          "zh": "伊朗加大对霍尔木兹海峡航运的攻击，地区贸易与能源运输通道压力上升。",
+          "en": "Iran is intensifying attacks on shipping in the Strait of Hormuz, adding pressure to regional trade and energy routes."
+        },
+        {
+          "zh": "特朗普称胡塞武装在伊朗授意下试图推高油价，并表示正考虑加入沙特主导的军事行动。",
+          "en": "Trump said the Houthis are trying to push oil prices higher at Iran's behest and said he is considering joining the Saudi-led campaign."
+        },
+        {
+          "zh": "亚洲股市在美国通胀数据公布前上涨；美联储威廉姆斯认为本月再加息一次后无需进一步收紧。",
+          "en": "Asian stocks rose ahead of US inflation data; Fed's Williams sees no need for further tightening beyond one more rate increase this month."
+        },
+        {
+          "zh": "美国银行或因反洗钱疏漏面临约12亿美元罚款；迪拜环球港务集团CEO警告冲突对航运、通胀和贸易成本影响可能显著。",
+          "en": "Bank of America faces potential fines of around $1.2 billion over alleged money-laundering lapses; DP World's CEO warned the conflict's impact on shipping, inflation and trade costs could be significant."
+        }
+      ],
+      "tags": [
+        "Middle East",
+        "Oil",
+        "Shipping",
+        "Fed",
+        "Supply Chain"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "6ace7cee9fea6e0a64e39723",
       "title": "Mortgages, diesel and the US midterms",
@@ -100,6 +438,40 @@
         "AMAT",
         "XLK"
       ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:jLsXSorsFVI",
+      "title": "Why Robinhood Prefers Perps Over CFDs #shorts",
+      "title_zh": "Robinhood为何偏好永续合约而非差价合约",
+      "url": "https://www.youtube.com/watch?v=jLsXSorsFVI",
+      "published_at": "2026-10-13T18:17:30+00:00",
+      "source_name": "Forward Guidance",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "该内容标题指出Robinhood在衍生品产品选择上更偏好永续合约（perps）而非差价合约（CFDs），但原文未提供具体理由或细节。",
+      "summary_en": "The content's title indicates that Robinhood prefers perpetual contracts (perps) over contracts for difference (CFDs), but no specific reasons or details are provided in the source.",
+      "detail_zh": "原文仅包含标题“Why Robinhood Prefers Perps Over CFDs #shorts”，未提供任何正文、数据、引述或论证。因此无法得知Robinhood偏好永续合约的具体原因、产品结构差异或对美股的影响。",
+      "detail_en": "The source consists solely of the title 'Why Robinhood Prefers Perps Over CFDs #shorts' with no body text, data, quotes, or arguments. Therefore, the specific reasons for Robinhood's preference, product structural differences, or implications for US equities cannot be determined.",
+      "key_points": [
+        {
+          "zh": "原文标题表明Robinhood更偏好永续合约而非差价合约。",
+          "en": "The title indicates Robinhood prefers perpetual contracts over CFDs."
+        },
+        {
+          "zh": "原文未提供任何具体理由或细节。",
+          "en": "No specific reasons or details are provided in the source."
+        }
+      ],
+      "tags": [
+        "Robinhood",
+        "perpetual contracts",
+        "CFDs",
+        "derivatives"
+      ],
+      "tickers": [],
       "sentiment": "neutral"
     },
     {
@@ -3601,54 +3973,6 @@
         "market mania",
         "10-year yield",
         "Unhedged podcast"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "https://bondvigilantes.com/?p=26752",
-      "title": "The Bond Market is the House",
-      "title_zh": "债市主导：收益率高企施压沃什与贝森特",
-      "url": "https://bondvigilantes.com/blog/2026/09/the-bond-market-is-the-house/",
-      "published_at": "2026-09-14T12:52:20+00:00",
-      "source_name": "Bond Vigilantes (M&G)",
-      "source_kind": "article",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "债券市场已从沃什（Warsh）与贝森特（Bessent）手中夺回主导权，收益率高企而政策当局希望其下行。市场警告若沃什不加息，长端收益率可能大幅上行；贝森特曾出手干预但效果短暂。通胀与增长正为加息提供理由，债市当前似乎掌握主动权。",
-      "summary_en": "The bond market has taken control from Warsh and Bessent, with yields high while policymakers want them lower. Markets have warned that if Warsh doesn't hike, the long end could go sharply higher; Bessent intervened but the benefit didn't last. Inflation and growth are making the case for a hike, and the bond market currently seems to be in charge.",
-      "detail_zh": "债券市场已从沃什与贝森特手中夺取控制权，某种程度上正在测试甚至折磨他们。收益率处于高位，而他们希望收益率下行。曲线展现出极佳的策略：市场已警告，若沃什不加息，长端收益率可能大幅走高。贝森特对此足够担忧并出手干预——且没有上限！但这一声明的效果并未持续多久。在联邦公开市场委员会（FOMC）修正其7月信息、并在非常鹰派的杰克逊霍尔会议上坚定承诺2%的PCE目标之后，曲线予以认同、受到鼓舞并趋平。如今通胀与增长正在为加息提供理由。如果他不加息？美债收益率将更高、曲线更陡。沃什与贝森特最终可能确实是对的，即经济名义GDP可能从此逐步放缓，但在当前市场时刻，他们没有等待并验证的时间余裕。债市说了算：把通胀降下来，收益率就会回升；遏制政府支出，收益率就会下降且曲线可能趋平。债市知道自己想要什么，目前似乎掌握主导权。此外，这一切恰逢所有人似乎都已忘记伊朗之际，而这可能成为一件大事，因为它推高了通胀，并随之推高利率。因此，债市或许也在某种程度上压过了特朗普？眼下，感觉债市才是“庄家”，更甚于沃什、贝森特和特朗普。",
-      "detail_en": "The bond market has taken control from Warsh and Bessent, and in some ways is now testing or even tormenting them. Yields are higher; they want them lower. The curve is showing excellent tactics: markets have already warned that if Warsh doesn't hike, the long end could go sharply higher. Bessent was worried enough to intervene – with no upper limits – but the benefit of that announcement didn't last long. Following the FOMC's corrections to its July messaging and a firm commitment to a 2% PCE target at a very hawkish Jackson Hole, the curve agreed, took encouragement, and flattened. Now inflation and growth are making the case for a hike. If he doesn't hike, we go higher and steeper in Treasuries. Warsh and Bessent might well end up being right that the economy's nominal GDP could slow gradually from here, but in this market moment they do not have the luxury of time to wait and find out. The bond market is in charge: bring inflation down and yields will rally; curb government spending and yields will fall and the curve might flatten. The bond market knows what it wants and currently seems to be in charge. Also, this is all coming just at the moment when everyone seemed to have forgotten about Iran, which might turn out to be a massive deal as it's pushed inflation up and, with it, rates. So the bond market might have trumped Trump somewhat too. Right now, it feels like the bond market is 'The House', more so than Warsh, Bessent and Trump.",
-      "key_points": [
-        {
-          "zh": "债券市场已从沃什与贝森特手中夺取主导权，收益率高企而政策当局希望其下行。",
-          "en": "The bond market has taken control from Warsh and Bessent, with yields high while policymakers want them lower."
-        },
-        {
-          "zh": "市场警告若沃什不加息，长端收益率可能大幅走高；贝森特曾无上限干预，但效果短暂。",
-          "en": "Markets warned that if Warsh doesn't hike, the long end could go sharply higher; Bessent intervened with no upper limits, but the benefit didn't last."
-        },
-        {
-          "zh": "FOMC修正7月信息并在鹰派杰克逊霍尔承诺2% PCE目标后，曲线趋平；如今通胀与增长正为加息提供理由。",
-          "en": "After the FOMC corrected its July messaging and committed to a 2% PCE target at a hawkish Jackson Hole, the curve flattened; now inflation and growth are making the case for a hike."
-        },
-        {
-          "zh": "若不加息，美债收益率将更高、曲线更陡；沃什与贝森特可能对名义GDP逐步放缓的判断正确，但没有等待验证的时间。",
-          "en": "If he doesn't hike, Treasuries go higher and steeper; Warsh and Bessent might be right that nominal GDP could slow gradually, but they don't have the luxury of time to wait and find out."
-        },
-        {
-          "zh": "伊朗因素被市场遗忘，但可能推高通胀与利率；债市当前感觉才是“庄家”，甚于沃什、贝森特和特朗普。",
-          "en": "Iran has been forgotten by the market but might push inflation and rates up; the bond market currently feels like 'The House', more so than Warsh, Bessent and Trump."
-        }
-      ],
-      "tags": [
-        "bond market",
-        "Treasury yields",
-        "Fed",
-        "inflation",
-        "Iran"
       ],
       "tickers": [],
       "sentiment": "neutral"
