@@ -13,7 +13,8 @@
       "feed_url": "https://seekingalpha.com/author/wall-street-breakfast.xml",
       "category": "macro",
       "active": true,
-      "note": "Daily flagship podcast + article transcript (text feed, no transcription)."
+      "note": "Daily flagship podcast + article transcript (text feed, no transcription).",
+      "include_all": true
     },
     {
       "name": "Odd Lots (Bloomberg)",
@@ -26,7 +27,8 @@
       "active": true,
       "note": "Bloomberg Podcasts YouTube channel, filtered to Odd Lots episodes (captions via TranscriptAPI).",
       "title_filter": "odd lots",
-      "priority": 4
+      "priority": 4,
+      "include_all": true
     },
     {
       "name": "The Bid (BlackRock)",
@@ -247,7 +249,8 @@
       "active": true,
       "note": "Bloomberg Podcasts YouTube, filtered to Credit Edge.",
       "title_filter": "credit edge",
-      "priority": 6
+      "priority": 6,
+      "include_all": true
     },
     {
       "name": "Coinbase Markets",
@@ -331,7 +334,8 @@
       "active": true,
       "note": "Oaktree Capital YouTube (Howard Marks memos).",
       "title_filter": "",
-      "priority": 8
+      "priority": 8,
+      "include_all": true
     },
     {
       "name": "Macro Voices",
@@ -367,7 +371,8 @@
       "active": true,
       "note": "The Compound YouTube, filtered to Animal Spirits.",
       "title_filter": "animal spirits",
-      "priority": 7
+      "priority": 7,
+      "include_all": true
     },
     {
       "name": "JPMorgan Asset Management",
@@ -530,7 +535,8 @@
       "priority": 5,
       "category": "macro",
       "active": true,
-      "note": "Bloomberg Podcasts YouTube, filtered to Trillions."
+      "note": "Bloomberg Podcasts YouTube, filtered to Trillions.",
+      "include_all": true
     },
     {
       "name": "The Big Take (Bloomberg)",
@@ -543,7 +549,8 @@
       "priority": 14,
       "category": "macro",
       "active": true,
-      "note": "Bloomberg Podcasts YouTube, filtered to The Big Take."
+      "note": "Bloomberg Podcasts YouTube, filtered to The Big Take.",
+      "include_all": true
     }
   ]
 }

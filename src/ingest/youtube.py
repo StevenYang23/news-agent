@@ -38,8 +38,82 @@ def _is_live(title: str) -> bool:
     return bool(re.search(r"\blive\b", title, re.IGNORECASE)) or "🔴" in title or "直播" in title
 
 
+def _parse_relative(text: str) -> str:
+    """Parse a relative time like '2 weeks ago' into an approximate ISO date."""
+    from datetime import datetime, timedelta, timezone  # noqa: PLC0415
+
+    now = datetime.now(timezone.utc)
+    m = re.search(r"(\d+)\s*(second|minute|hour|day|week|month|year)s?\s*ago", text, re.IGNORECASE)
+    if not m:
+        return now.isoformat()
+    n = int(m.group(1))
+    unit = m.group(2).lower()
+    delta = {
+        "second": timedelta(seconds=n),
+        "minute": timedelta(minutes=n),
+        "hour": timedelta(hours=n),
+        "day": timedelta(days=n),
+        "week": timedelta(weeks=n),
+        "month": timedelta(days=30 * n),
+        "year": timedelta(days=365 * n),
+    }.get(unit, timedelta())
+    return (now - delta).isoformat()
+
+
+_channel_videos_cache: dict[str, list[dict]] = {}
+
+
+def _list_channel_videos(channel_url: str, limit: int) -> list[dict]:
+    """List a channel's recent videos via TranscriptAPI (100+ entries, cached per run)."""
+    from .. import config  # noqa: PLC0415
+
+    if channel_url in _channel_videos_cache:
+        return _channel_videos_cache[channel_url][:limit]
+
+    import requests  # noqa: PLC0415
+
+    resp = requests.get(
+        "https://transcriptapi.com/api/v2/youtube/channel/videos",
+        params={"channel": channel_url},
+        headers={"Authorization": f"Bearer {config.TRANSCRIPT_API_KEY}"},
+        timeout=30,
+    )
+    resp.raise_for_status()
+    data = resp.json()
+
+    videos = []
+    for v in data.get("results", []):
+        vid = v.get("videoId")
+        title = v.get("title", "")
+        if not vid or _is_live(title):
+            continue
+        videos.append(
+            {
+                "guid": "yt:" + vid,
+                "title": title,
+                "url": f"https://www.youtube.com/watch?v={vid}",
+                "video_id": vid,
+                "published_at": _parse_relative(v.get("publishedTimeText", "")),
+                "description": "",  # channel/videos doesn't return descriptions
+            }
+        )
+    _channel_videos_cache[channel_url] = videos
+    return videos[:limit]
+
+
 def list_recent_videos(channel_url: str, limit: int = 10, title_filter: str | None = None) -> list[dict]:
-    """Return recent videos (optionally filtered by title substring) from the RSS."""
+    """Return recent videos (optionally filtered by title substring).
+
+    For title-filtered sources (podcasts buried under high-volume channels), use
+    TranscriptAPI's channel/videos endpoint (100+ entries) instead of RSS's 15.
+    """
+    from .. import config  # noqa: PLC0415
+
+    if title_filter and config.TRANSCRIPT_API_KEY:
+        all_videos = _list_channel_videos(channel_url, limit=100)
+        videos = [v for v in all_videos if title_filter.lower() in v["title"].lower()]
+        return videos[:limit]
+
     cid = _channel_id(channel_url)
     feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
     parsed = feedparser.parse(feed_url)
