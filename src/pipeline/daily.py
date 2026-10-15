@@ -100,6 +100,7 @@ def _content_for(source: dict, item: dict) -> str | None:
 
 def _youtube_content(item: dict) -> str | None:
     """YouTube content: transcript if under budget (or a long video), else description."""
+    global _transcripts_exhausted
     desc = (item.get("description") or "").strip()
 
     if config.USE_YOUTUBE_CAPTIONS:
@@ -108,7 +109,6 @@ def _youtube_content(item: dict) -> str | None:
             try:
                 return youtube.get_captions(item["video_id"])
             except youtube.OutOfCredits:
-                global _transcripts_exhausted
                 _transcripts_exhausted = True
                 log.warning("TranscriptAPI out of credits — using descriptions for the rest of this run")
             except Exception as e:  # noqa: BLE001
@@ -123,7 +123,6 @@ def _youtube_content(item: dict) -> str | None:
                 try:
                     return youtube.get_captions(item["video_id"])
                 except youtube.OutOfCredits:
-                    global _transcripts_exhausted
                     _transcripts_exhausted = True
                     log.warning("TranscriptAPI out of credits — using descriptions for the rest of this run")
                 except Exception as e:  # noqa: BLE001
