@@ -1,6 +1,442 @@
 {
-  "generated_at": "2026-10-15T00:04:33.245792+00:00",
+  "generated_at": "2026-10-15T11:04:26.828492+00:00",
   "insights": [
+    {
+      "guid": "4954386",
+      "title": "Wall Street Breakfast Podcast: CoreWeave CEO Defends The Math",
+      "title_zh": "CoreWeave CEO 称股价暴跌源于市场非理性；苹果市值首破5万亿美元",
+      "url": "https://seekingalpha.com/article/4954386-wall-street-breakfast-podcast-coreweave-ceo-defends-the-math?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-15T10:30:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "CoreWeave CEO 将股价大跌归因于市场非理性，并强调公司商业模式与财务纪律；但 Gartner 预测到2030年80%的 neocloud 将停止独立运营，其2032年无担保债务价格跌破80美分、收益率触及15%。苹果首次收盘市值突破5万亿美元，成为继英伟达之后第二家达此里程碑的公司。Jefferies 将 Kontoor Brands 上调至买入，目标价89美元，看好 Lee 出售后 Wrangler 加速增长。",
+      "summary_en": "CoreWeave's CEO attributed the stock's sharp decline to an irrational market while defending the company's business model and financial discipline; however, Gartner predicted 80% of neoclouds will cease independent operations by 2030, and CoreWeave's unsecured debt due 2032 traded below 80 cents on the dollar with yields touching 15%. Apple closed above a $5T market value for the first time, becoming the second company to do so after Nvidia. Jefferies upgraded Kontoor Brands to Buy with an $89 price target, citing accelerated Wrangler growth after the Lee divestiture.",
+      "detail_zh": "CoreWeave（CRWV）CEO Michael Intrator 在彭博看到的内部备忘录中表示，当构建新型科技公司时，市场会有一段时间误解并表现非理性，并称对公司商业模式、客户、执行质量及财务纪律充满信心。CoreWeave 股价周三下跌逾15%，盘前再跌6%，过去一年累计跌幅超过50%。Gartner 周三报告预测，若 AI 基础设施支出维持当前速度，到2030年80%的 neocloud 将停止独立运营。风险投资人 Chamath Palihapitiya 在 X 上称 CoreWeave 2032年到期的无担保债务交易价格低于80美分，债券收益率触及15%，马斯克回复'Yikes!'。CoreWeave 今年通过芯片抵押贷款、高收益债券、可转债和股票发行筹集超过350亿美元，截至6月底债务和租赁义务合计约520亿美元。苹果（AAPL）周三收盘市值达5.005万亿美元，首次收于5万亿美元上方，成为继英伟达（NVDA）之后第二家达此里程碑的公司，这标志着库克任期的收官，也为新任CEO John Ternus 设定了高门槛。Kontoor Brands（KTB）以最高10亿美元将 Lee 出售给 Authentic Brands，交易预计年底完成；Jefferies 分析师 Blake Anderson 将评级从持有上调至买入，目标价89美元，较周二收盘价有30%上行空间，认为 Wrangler 将获得应有的投资和关注，7.5亿美元收益可用于加速回购和偿债，预计未来三年 Wrangler 增速从当前的2%-3%提升至4%以上，Lee 损失的 EPS 将在交易完成后12-18个月内收回。",
+      "detail_en": "CoreWeave (CRWV) CEO Michael Intrator said in an internal memo viewed by Bloomberg that when building a new type of technology company, there will be periods when the market misunderstands and acts irrationally, adding confidence in the business model, customers, execution quality, and financial discipline. CoreWeave shares sank more than 15% on Wednesday, fell 6% in premarket, and have declined more than 50% over the past year. A Gartner report on Wednesday predicted 80% of neoclouds will cease independent operations by 2030 if AI infrastructure spending continues at its current pace. Venture capitalist Chamath Palihapitiya posted on X that CoreWeave's unsecured debt due 2032 was trading below 80 cents on the dollar with bond yields touching 15%, prompting Elon Musk to reply 'Yikes!' CoreWeave has raised more than $35B this year through chip-backed loans, high-yield bonds, convertible bonds and share sales, with debt and lease obligations totaling about $52B at the end of June. Apple (AAPL) ended Wednesday at $5.005T, closing above $5T for the first time and becoming the second company to do so after Nvidia (NVDA), marking the culmination of Tim Cook's tenure and setting a high bar for new CEO John Ternus. Kontoor Brands (KTB) is selling Lee to Authentic Brands for up to $1B, expected to close by year-end; Jefferies analyst Blake Anderson upgraded KTB to Buy from Hold with an $89 price target, 30% upside to Tuesday's close, noting Wrangler finally gets the investment and attention it deserves, the $750M proceeds can fund accelerated share repurchases and debt paydown, Wrangler growth is expected to accelerate to more than 4% over the next three years from 2%-3%, and EPS lost from Lee should be recaptured within 12-18 months from closing.",
+      "key_points": [
+        {
+          "zh": "CoreWeave CEO 将股价暴跌归因于市场非理性，强调商业模式与财务纪律，但股价周三跌逾15%，过去一年跌超50%。",
+          "en": "CoreWeave's CEO blamed the stock plunge on an irrational market and emphasized business model and financial discipline, but shares fell over 15% Wednesday and more than 50% over the past year."
+        },
+        {
+          "zh": "Gartner 预测若 AI 基础设施支出维持当前速度，到2030年80%的 neocloud 将停止独立运营；CoreWeave 2032年无担保债务价格跌破80美分，收益率触及15%。",
+          "en": "Gartner predicted 80% of neoclouds will cease independent operations by 2030 if AI infrastructure spending continues at its current pace; CoreWeave's unsecured debt due 2032 traded below 80 cents with yields touching 15%."
+        },
+        {
+          "zh": "苹果首次收盘市值突破5万亿美元，达5.005万亿美元，成为继英伟达之后第二家达此里程碑的公司。",
+          "en": "Apple closed above a $5T market value for the first time at $5.005T, becoming the second company after Nvidia to reach this milestone."
+        },
+        {
+          "zh": "Jefferies 将 Kontoor Brands 上调至买入，目标价89美元，看好 Lee 出售后 Wrangler 增速从2%-3%提升至4%以上。",
+          "en": "Jefferies upgraded Kontoor Brands to Buy with an $89 price target, expecting Wrangler growth to accelerate from 2%-3% to over 4% after the Lee divestiture."
+        }
+      ],
+      "tags": [
+        "CoreWeave",
+        "Apple",
+        "Kontoor Brands",
+        "AI infrastructure",
+        "neocloud"
+      ],
+      "tickers": [
+        "CRWV",
+        "AAPL",
+        "NVDA",
+        "KTB",
+        "TSLA",
+        "SPCX",
+        "RGLD",
+        "NFG"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ugi9XI8LyS8",
+      "title": "Container Ship Sinks in Strait of Hormuz as Attacks Escalate",
+      "title_zh": "霍尔木兹海峡货轮沉没、韩股暴跌8%、美国通胀升温",
+      "url": "https://www.youtube.com/watch?v=ugi9XI8LyS8",
+      "published_at": "2026-10-15T07:17:42+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "霍尔木兹海峡一艘集装箱船沉没，商船遇袭升级；韩国Kospi暴跌8%触发20分钟熔断，芯片股抛售加深跌势。美国国债上涨，而美国通胀升温强化了市场对美联储进一步紧缩的预期，消费者价格录得4月以来最大涨幅。OECD石油库存降至1989年以来最低。",
+      "summary_en": "A container ship sank in the Strait of Hormuz as attacks on commercial shipping escalated, while South Korea's Kospi plunged 8%, triggering a 20-minute trading halt as a chip-stock selloff deepened losses. US Treasuries rose, and hotter US inflation fueled expectations of further Federal Reserve tightening, with consumer prices posting their biggest increase since April. OECD oil stockpiles fell to their lowest level since 1989.",
+      "detail_zh": "霍尔木兹海峡一艘集装箱船沉没，针对商船的袭击升级；胡塞武装的袭击也给沙特王储带来更大压力，地区能源与贸易通道安全持续受到关注。韩国Kospi指数暴跌8%，触发20分钟交易暂停，芯片股抛售加深了股市跌幅。美国国债上涨，而美国通胀升温强化了市场对美联储进一步紧缩的预期，消费者价格录得4月以来最大涨幅。能源面依然紧张：OECD石油库存降至1989年以来最低水平；与此同时，尽管针对航运的袭击持续，中东炼厂因原油流动恢复而提高开工率。英伟达CEO在彭博独家采访中表示，不安全AI系统的开发者可能被切断供应，同时呼吁加快技术进步，并指出AI成本正大幅下降。Anthropic季度营收在其计划IPO前达到168亿美元。Lombard Odier的Nannette Hechler-Fayd'Herbe讨论AI在制造业中的作用，并表示偏好发达市场股票、小盘股和日本；她认为欧洲面临的是政策挑战而非主权债务危机。乌克兰总统泽连斯基指责特朗普和马斯克限制卫星访问，引发对该国依赖关键通信基础设施的质疑。在曼谷IMF-世界银行会议期间，黎巴嫩央行行长Karim Souaid讨论该国前景，IMF呼吁推进确保项目所需的关键改革。在非洲，Eskom CEO介绍修订战略，称随着该公用事业垄断地位减弱，过剩产能为支持更广泛地区创造机会；Valterra Platinum接近就潜在转向地下开采做出决定。此外，据报道一名被捕的OpenAI工程师预订了前往沙特的单程机票。",
+      "detail_en": "A container ship sank in the Strait of Hormuz as attacks on commercial shipping escalated; Houthi attacks also put mounting pressure on Saudi Arabia's crown prince, keeping the security of the region's energy and trade routes in focus. South Korea's Kospi plunged 8%, triggering a 20-minute trading halt as a chip-stock selloff deepened equity losses. US Treasuries rose, while hotter US inflation fueled expectations of further Federal Reserve tightening, with consumer prices recording their biggest increase since April. The energy backdrop remains strained: OECD oil stockpiles fell to their lowest level since 1989; meanwhile, Middle Eastern refineries increased operations as crude flows recovered, despite continuing attacks on shipping. In an exclusive Bloomberg interview, Nvidia's CEO said developers of unsafe AI systems could be cut off, while calling for faster technological progress and highlighting sharply falling AI costs. Anthropic's quarterly revenue reached $16.8 billion ahead of its planned IPO. Lombard Odier's Nannette Hechler-Fayd'Herbe discussed AI's role in manufacturing and her preference for developed-market equities, small caps and Japan; she argued that Europe faces policy challenges rather than a sovereign debt crisis. Ukrainian President Volodymyr Zelenskyy accused Donald Trump and Elon Musk of restricting satellite access, raising questions over the country's reliance on critical communications infrastructure. At the IMF-World Bank meetings in Bangkok, Lebanese Central Bank Governor Karim Souaid discussed the country's outlook as the IMF called for key reforms needed to secure a programme. In Africa, Eskom's CEO outlined a revised strategy as the utility's monopoly weakens, saying excess capacity creates opportunities to support the wider region; Valterra Platinum approaches a decision on a potential move to underground mining. Elsewhere, an arrested OpenAI engineer is reported to have booked a one-way ticket to Saudi Arabia.",
+      "key_points": [
+        {
+          "zh": "霍尔木兹海峡一艘集装箱船沉没，商船遇袭升级，胡塞武装袭击加大沙特王储压力，地区能源与贸易通道安全受关注。",
+          "en": "A container ship sank in the Strait of Hormuz as attacks on commercial shipping escalated; Houthi attacks add pressure on Saudi Arabia's crown prince, keeping regional energy and trade route security in focus."
+        },
+        {
+          "zh": "韩国Kospi暴跌8%触发20分钟交易暂停，芯片股抛售加深股市跌幅。",
+          "en": "South Korea's Kospi plunged 8%, triggering a 20-minute trading halt as a chip-stock selloff deepened equity losses."
+        },
+        {
+          "zh": "美国国债上涨，美国通胀升温强化美联储进一步紧缩预期，消费者价格录得4月以来最大涨幅。",
+          "en": "US Treasuries rose while hotter US inflation fueled expectations of further Federal Reserve tightening, with consumer prices posting their biggest increase since April."
+        },
+        {
+          "zh": "OECD石油库存降至1989年以来最低；尽管航运遇袭持续，中东炼厂因原油流动恢复而提高开工率。",
+          "en": "OECD oil stockpiles fell to their lowest since 1989; Middle Eastern refineries increased operations as crude flows recovered despite continuing attacks on shipping."
+        },
+        {
+          "zh": "英伟达CEO称不安全AI系统开发者可能被切断供应，呼吁加快技术进步并指出AI成本大幅下降；Anthropic季度营收在计划IPO前达168亿美元。",
+          "en": "Nvidia's CEO said developers of unsafe AI systems could be cut off, called for faster technological progress and highlighted sharply falling AI costs; Anthropic's quarterly revenue reached $16.8 billion ahead of its planned IPO."
+        }
+      ],
+      "tags": [
+        "Hormuz",
+        "Kospi",
+        "US Inflation",
+        "Fed",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:RVI-68pDjuw",
+      "title": "TSMC Earnings Beat; Anthropic Says It's Now Profitable",
+      "title_zh": "美国通胀超预期推升加息预期，韩股熔断，台积电业绩超预期",
+      "url": "https://www.youtube.com/watch?v=RVI-68pDjuw",
+      "published_at": "2026-10-15T06:54:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国通胀数据偏热，投资者开始定价美联储更多加息；韩国Kospi指数跌超8%后暂停交易。台积电三季度净利润超预期，并维持2026年600亿至640亿美元资本开支计划；Anthropic告知潜在投资者其三季度营收达168亿美元，按调整后口径已实现盈利。",
+      "summary_en": "Hot US inflation data led investors to price in more Fed rate hikes, while South Korea's Kospi was halted after falling more than 8%. TSMC's Q3 net income beat estimates and it maintained its 2026 capex plan of $60-64 billion; Anthropic told prospective investors its Q3 revenue hit $16.8 billion, turning profitable on an adjusted basis.",
+      "detail_zh": "美国通胀数据偏热，投资者正在定价美联储更多加息。韩国Kospi指数下跌超过8%后，交易被暂停。台积电公布三季度净利润超出市场预期，并维持2026年资本开支计划在600亿至640亿美元区间。彭博获悉，Anthropic已告知潜在投资者，其三季度营收达到168亿美元，按调整后口径已实现盈利。节目还提到美债因避险需求上涨，CoreWeave面临收益率升破15%的现实压力，以及黄仁勋关于单token成本每年下降30至40倍的说法。此外，节目涉及欧盟-中国汽车协议、大众汽车寻求拓展美国市场、Ericsson CEO等话题。",
+      "detail_en": "Hot US inflation data has led investors to price in more Fed rate hikes. Trading on South Korea's Kospi was halted after it fell more than 8%. TSMC reported third-quarter net income that beat estimates and maintained its 2026 capex plan of between $60 billion and $64 billion. Bloomberg learned that Anthropic told prospective investors its third-quarter revenue hit $16.8 billion, turning profitable on an adjusted basis. The show also noted Treasuries rallying on haven demand, CoreWeave's big dream crashing into reality as yields topped 15%, and Huang's comment that the cost of a token is decreasing 30 to 40 times per year. Other segments covered an EU-China auto deal, Volkswagen eyeing US market expansion, and the Ericsson CEO.",
+      "key_points": [
+        {
+          "zh": "美国通胀数据偏热，投资者开始定价美联储更多加息。",
+          "en": "US inflation came in hot, with investors now pricing in more Fed rate hikes."
+        },
+        {
+          "zh": "韩国Kospi指数跌超8%后交易被暂停。",
+          "en": "Trading on South Korea's Kospi was halted after it fell more than 8%."
+        },
+        {
+          "zh": "台积电三季度净利润超预期，维持2026年资本开支600亿至640亿美元计划。",
+          "en": "TSMC's Q3 net income beat estimates and it maintained its 2026 capex plan of $60-64 billion."
+        },
+        {
+          "zh": "Anthropic告知潜在投资者其三季度营收达168亿美元，按调整后口径实现盈利。",
+          "en": "Anthropic told prospective investors its Q3 revenue hit $16.8 billion, turning profitable on an adjusted basis."
+        },
+        {
+          "zh": "美债因避险需求上涨；CoreWeave面临收益率升破15%的压力。",
+          "en": "Treasuries rallied on haven demand; CoreWeave's big dream crashed into reality as yields topped 15%."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "inflation",
+        "TSMC",
+        "Anthropic",
+        "Kospi"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:zRWdXyxkchc",
+      "title": "AI Rally Runs Into Inflation Reality",
+      "title_zh": "美国CPI创4月以来最大涨幅，芯片股因AI支出疑虑重挫",
+      "url": "https://www.youtube.com/watch?v=zRWdXyxkchc",
+      "published_at": "2026-10-15T06:41:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国消费者价格出现自4月以来最大幅度且广泛的上涨。与此同时，市场对AI支出可持续性的疑虑升温，芯片股大幅下挫。IMF亚太部主任Krishna Srinivasan就中国与通缩发表看法。",
+      "summary_en": "US consumer prices posted their largest and broadest advance since April. Meanwhile, growing doubts over the sustainability of AI spending sent chip stocks plunging. IMF Asia and Pacific Director Krishna Srinivasan weighed in on China and deflation.",
+      "detail_zh": "本期节目首先聚焦美国通胀：消费者价格出现自4月以来最大幅度的上涨，且涨幅较为广泛。随后，IMF亚太部主任Krishna Srinivasan就中国与通缩问题发表看法。市场方面，由于对AI支出可持续性的疑虑升温，芯片股大幅下挫。英伟达CEO黄仁勋就'假设性地'切断构建不安全AI的买家作出表态。印度相关议题占据较大篇幅：bKash推进数字银行、将放贷置于增长计划核心；印度财富基金瞄准8亿美元数据中心投资；Ambani旗下Jio将于10月21日起接受订单，进行创纪录的印度IPO。此外，印度可再生能源与风电自主化、AI驱动的电力需求、美印关系及贸易协议症结等议题在新经济论坛上被讨论，AI崛起成为论坛焦点，日本将主办2027年新经济论坛。",
+      "detail_en": "The program opened with US inflation: consumer prices rose by the most since April in a broad advance. IMF Asia and Pacific Director Krishna Srinivasan then discussed China and deflation. On markets, chip stocks plunged as doubts grew over the sustainability of AI spending. Nvidia CEO Jensen Huang addressed 'hypothetically' cutting off buyers who build unsafe AI. India-related topics featured heavily: bKash's digital bank push putting lending at the center of growth plans; India's wealth fund eyeing an $800 million data center push; and Ambani's Jio taking orders from Oct. 21 in a record India IPO. Other discussions at the New Economy Forum covered India's renewables and wind-energy self-reliance, AI-driven electricity demand, US-India ties and sticking points keeping a US-India trade deal out of reach, with the rise of AI taking center stage and Japan set to host the 2027 New Economy Forum.",
+      "key_points": [
+        {
+          "zh": "美国消费者价格出现自4月以来最大幅度上涨，且涨幅广泛。",
+          "en": "US consumer prices rose by the most since April in a broad advance."
+        },
+        {
+          "zh": "对AI支出可持续性的疑虑升温，芯片股大幅下挫。",
+          "en": "Chip stocks plunged as doubts grew over the sustainability of AI spending."
+        },
+        {
+          "zh": "IMF亚太部主任Krishna Srinivasan就中国与通缩发表看法。",
+          "en": "IMF Asia and Pacific Director Krishna Srinivasan discussed China and deflation."
+        },
+        {
+          "zh": "英伟达CEO黄仁勋就'假设性地'切断构建不安全AI的买家作出表态。",
+          "en": "Nvidia CEO Jensen Huang addressed 'hypothetically' cutting off buyers who build unsafe AI."
+        },
+        {
+          "zh": "印度财富基金瞄准8亿美元数据中心投资，Jio将于10月21日起接受订单进行创纪录IPO。",
+          "en": "India's wealth fund eyes an $800 million data center push; Ambani's Jio to take orders from Oct. 21 in a record India IPO."
+        }
+      ],
+      "tags": [
+        "US CPI",
+        "AI spending",
+        "chip stocks",
+        "China deflation",
+        "India IPO"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:JAJ7q0TdZyA",
+      "title": "China’s Rogue Agents Find a Way Around Anti-Bot Curbs",
+      "title_zh": "彭博《中国秀》节目要点：亚洲科技股随全球抛售下跌，美国通胀数据引发美联储加息担忧",
+      "url": "https://www.youtube.com/watch?v=JAJ7q0TdZyA",
+      "published_at": "2026-10-15T05:48:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博《中国秀》涵盖多个市场议题：亚洲科技股加入全球抛售行列，AI交易担忧拖累亚洲市场；美国通胀数据高于预期，引发市场对美联储加息的担忧；LGT的Trang Le看多10年期美债；IMF的Krishna Srinivasan讨论亚洲经济风险；HSBC的Michael Roberts对AI交易持怀疑态度。",
+      "summary_en": "This episode of Bloomberg: The China Show covers multiple market topics: Asian tech stocks joined a global selloff amid AI trade fears weighing on Asian markets; a hot US inflation print raised Fed rate-hike jitters; LGT's Trang Le presented the bullish case for 10-year Treasuries; IMF's Krishna Srinivasan discussed risks to Asian economies; and HSBC's Michael Roberts expressed skepticism around the AI trade.",
+      "detail_zh": "本期彭博《中国秀》由Yvonne Man和David Ingles主持，聚焦全球第二大经济体的新闻与分析。节目要点包括：亚洲科技股加入全球抛售行列，AI交易担忧拖累亚洲市场表现。LGT的Trang Le阐述了看多10年期美国国债的理由。新西兰联储（RBNZ）的Paul Conway讨论了遏制通胀的问题。部分中国流氓代理（rogue agents）规避了反机器人限制。印度教育部长就选民名册争议和计算机化考试的必要性发表了看法。美国通胀数据高于预期，引发市场对美联储加息的担忧。IMF的Krishna Srinivasan讨论了亚洲经济体面临的风险。纽约大学的Gary Marcus探讨了开放权重AI模型的风险。HSBC的Michael Roberts对AI交易表达了怀疑态度。此外，彭博新经济论坛将于2027年在东京举行。",
+      "detail_en": "This episode of Bloomberg: The China Show, hosted by Yvonne Man and David Ingles, covers news and analysis on the world's second-biggest economy. Key segments include: Asian tech stocks joined a global selloff, with AI trade fears weighing on Asian markets. LGT's Trang Le presented the bullish case for 10-year Treasuries. RBNZ's Paul Conway discussed taming inflation. Some Chinese rogue agents evaded anti-bot curbs. India's Education Minister addressed the voter roll controversy and the need for computer-based exams. A hot US inflation print raised Fed rate-hike jitters. IMF's Krishna Srinivasan discussed risks to Asian economies. New York University's Gary Marcus discussed risks from open-weight AI models. HSBC's Michael Roberts expressed skepticism around the AI trade. Additionally, the Bloomberg New Economy Forum will take place in Tokyo in 2027.",
+      "key_points": [
+        {
+          "zh": "亚洲科技股加入全球抛售行列，AI交易担忧拖累亚洲市场",
+          "en": "Asian tech stocks joined a global selloff, with AI trade fears weighing on Asian markets"
+        },
+        {
+          "zh": "美国通胀数据高于预期，引发市场对美联储加息的担忧",
+          "en": "A hot US inflation print raised Fed rate-hike jitters"
+        },
+        {
+          "zh": "LGT的Trang Le阐述了看多10年期美国国债的理由",
+          "en": "LGT's Trang Le presented the bullish case for 10-year Treasuries"
+        },
+        {
+          "zh": "HSBC的Michael Roberts对AI交易持怀疑态度",
+          "en": "HSBC's Michael Roberts expressed skepticism around the AI trade"
+        },
+        {
+          "zh": "IMF的Krishna Srinivasan讨论了亚洲经济体面临的风险",
+          "en": "IMF's Krishna Srinivasan discussed risks to Asian economies"
+        }
+      ],
+      "tags": [
+        "Asian tech selloff",
+        "US inflation",
+        "Fed rate hike",
+        "AI trade",
+        "10-year Treasuries"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:9z45uLhgtUk",
+      "title": "US Stock Selloff Extends to Asia as Chip Rout Deepens",
+      "title_zh": "美国通胀升温推高加息押注，芯片股重挫市值蒸发1.6万亿美元",
+      "url": "https://www.youtube.com/watch?v=9z45uLhgtUk",
+      "published_at": "2026-10-15T05:19:26+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国消费者物价创4月以来最大涨幅，市场对美联储加息的押注升温。芯片股大幅下挫，市值蒸发1.6万亿美元，CoreWeave债券跌入困境区间，Kospi跌至7月以来最低。台积电业绩与资本开支计划成为市场关注焦点。",
+      "summary_en": "US consumer prices rose by the most since April, lifting Fed rate-hike bets. Chip stocks erased $1.6 trillion in value as the rout deepened, CoreWeave bonds fell into distressed territory, and Korea's Kospi tumbled to its lowest since July. TSMC's results and capex plans are in focus.",
+      "detail_zh": "美国消费者物价出现自4月以来最大涨幅，市场对美联储加息的押注随之升温。芯片股遭遇深度抛售，市值合计蒸发1.6万亿美元，CoreWeave CEO将此次暴跌归咎于市场行为'不理性'。CoreWeave债券跌入困境区间。韩国Kospi指数因芯片股跌势延续而跌至7月以来最低。台积电业绩面临高门槛，需安抚全球AI股票交易的紧张情绪，其资本开支计划可能触发股票重估。摩根士丹利和美国银行第三季度财报受到关注，美国银行宣布因监管罚款计提12亿美元费用。英伟达CEO黄仁勋就AI前景与安全、以及切断不安全AI构建发表独家观点。日本8月核心机械订单环比增长5.2%，远超预期的2.3%。",
+      "detail_en": "US consumer prices rose by the most since April, lifting Fed rate-hike bets. Chip stocks erased $1.6 trillion in value as the rout deepened, with CoreWeave's CEO blaming the selloff on the market acting 'irrationally.' CoreWeave bonds fell into distressed territory. Korea's Kospi tumbled to its lowest since July as the chip rout extended. TSMC's results face a high bar to calm jitters in the global AI stock trade, and its capex plans may unlock a stock re-rating. Morgan Stanley and BofA 3Q earnings are in focus, with BofA announcing a $1.2 billion charge due to regulatory fines. Nvidia CEO Jensen Huang offered exclusive views on the AI outlook, safety, and cutting off unsafe AI builds. Japan's August core machine orders rose 5.2% M/M, beating the 2.3% estimate.",
+      "key_points": [
+        {
+          "zh": "美国消费者物价创4月以来最大涨幅，推高美联储加息押注",
+          "en": "US consumer prices rose by the most since April, lifting Fed rate-hike bets"
+        },
+        {
+          "zh": "芯片股大幅下挫，市值蒸发1.6万亿美元，Kospi跌至7月以来最低",
+          "en": "Chip stocks erased $1.6 trillion in value; Kospi tumbled to its lowest since July"
+        },
+        {
+          "zh": "CoreWeave债券跌入困境区间，CEO称市场行为'不理性'",
+          "en": "CoreWeave bonds fell into distressed territory; CEO blamed the market for acting 'irrationally'"
+        },
+        {
+          "zh": "台积电业绩面临高门槛，资本开支计划或触发股票重估",
+          "en": "TSMC results face a high bar; capex plans may unlock a stock re-rating"
+        },
+        {
+          "zh": "美国银行因监管罚款计提12亿美元费用；日本8月核心机械订单环比增5.2%，超预期",
+          "en": "BofA announced a $1.2B charge due to regulatory fines; Japan Aug. core machine orders rose 5.2% M/M, beating estimates"
+        }
+      ],
+      "tags": [
+        "US inflation",
+        "chip stocks",
+        "Fed rate hike",
+        "TSMC",
+        "CoreWeave"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:6D5LkmX9Iyc",
+      "title": "Jeffrey Sherman: The Bond Market is in Charge | CNBC",
+      "title_zh": "DoubleLine副CIO：CPI超预期后美联储仍需加息，AI建设融资端压力显现",
+      "url": "https://www.youtube.com/watch?v=6D5LkmX9Iyc",
+      "published_at": "2026-10-15T02:15:54+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "CPI数据高于预期令债市剧烈波动，DoubleLine副CIO Jeffrey Sherman认为美联储仍需加息并逆转去年的风险管理式降息以建立信誉，同时指出债市已替美联储完成了紧缩工作。他还看到压力正向AI建设的融资端蔓延，部分承压较重的运营方已现困境，庞大的资本需求可能长期压制长端利率。",
+      "summary_en": "A hotter-than-expected CPI report sent the bond market on a rough ride, and DoubleLine Deputy CIO Jeffrey Sherman argues the Fed still needs to hike and reverse last year's risk-management cuts to establish credibility, while noting the bond market has already done the Fed's job. He also sees stress spreading into the financing side of the AI buildout, with some more stressed operators already struggling and heavy capital needs likely to weigh on the long end for some time.",
+      "detail_zh": "CPI数据高于预期，债市随之经历剧烈波动。美联储官员此前在数据公布前一直主张无需加息，但这份数据打破了这一论调。DoubleLine副CIO Jeffrey Sherman认为，美联储仍需加息，并逆转去年出于风险管理考虑而实施的降息，以建立信誉；他同时表示“债市已经替美联储完成了工作”。Sherman还看到压力正向AI建设的融资端蔓延，一些承压较重的运营方已经陷入困境，而庞大的资本需求可能在一段时间内持续压制长端利率。在固收策略上，他主张保持简单：配置可分析的短久期信用债，收益率接近6%，并用5至7年期部分获取利率敞口。对于与AI建设相关的超长久期债券，他保持谨慎，因为融资需求巨大，且回报取决于相关技术能否在未来数十年持续奏效。",
+      "detail_en": "A hotter-than-expected CPI report sent the bond market on a rough ride. Fed governors had spent the run-up arguing a hike wasn't needed, and the data blew that up. DoubleLine Deputy CIO Jeffrey Sherman says the Fed still needs to hike and reverse last year's risk-management cuts to establish credibility, and that \"the bond market has already done the Fed's job.\" He also sees stress spreading into the financing side of the AI buildout, with some of the more stressed operators already struggling and heavy capital needs likely to weigh on the long end for some time. On fixed income, Sherman keeps it simple: short duration credit he can analyze, yielding near 6%, with the five to seven year part of the curve for rate exposure. He stays cautious on very long-dated bonds tied to the AI buildout, where financing needs are significant and the payoff depends on the technology working for decades.",
+      "key_points": [
+        {
+          "zh": "CPI高于预期，打破了美联储官员此前“无需加息”的论调，债市剧烈波动。",
+          "en": "A hotter-than-expected CPI report blew up the Fed governors' prior argument that a hike wasn't needed, sending the bond market on a rough ride."
+        },
+        {
+          "zh": "Sherman认为美联储仍需加息并逆转去年的风险管理式降息以建立信誉，且“债市已替美联储完成了工作”。",
+          "en": "Sherman says the Fed still needs to hike and reverse last year's risk-management cuts to establish credibility, and that \"the bond market has already done the Fed's job.\""
+        },
+        {
+          "zh": "压力正向AI建设的融资端蔓延，部分承压较重的运营方已现困境，庞大资本需求可能长期压制长端利率。",
+          "en": "Stress is spreading into the financing side of the AI buildout, with some more stressed operators already struggling and heavy capital needs likely to weigh on the long end for some time."
+        },
+        {
+          "zh": "固收策略上，Sherman偏好可分析的短久期信用债（收益率近6%），并以5至7年期获取利率敞口。",
+          "en": "On fixed income, Sherman favors short duration credit he can analyze (yielding near 6%), using the five to seven year part of the curve for rate exposure."
+        },
+        {
+          "zh": "对与AI建设相关的超长久期债券保持谨慎，因融资需求巨大且回报取决于技术能否在未来数十年奏效。",
+          "en": "He stays cautious on very long-dated bonds tied to the AI buildout, where financing needs are significant and the payoff depends on the technology working for decades."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "Fed",
+        "bonds",
+        "AI buildout",
+        "duration"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PonYELUZhIo",
+      "title": "JPMorgan's Dimon Sees Benefits From AI, Warns of Risks",
+      "title_zh": "摩根大通CEO戴蒙在芝加哥经济俱乐部谈AI在银行业的机遇与风险",
+      "url": "https://www.youtube.com/watch?v=PonYELUZhIo",
+      "published_at": "2026-10-15T01:41:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "摩根大通董事长兼CEO杰米·戴蒙在芝加哥经济俱乐部的一场活动上，讨论了人工智能在银行业中的益处与风险。原文未披露其具体言论内容。",
+      "summary_en": "JPMorgan Chase Chairman and CEO Jamie Dimon discussed the benefits and risks of artificial intelligence in the banking industry at an event hosted by the Economic Club of Chicago. The source does not disclose the specific content of his remarks.",
+      "detail_zh": "据原文，摩根大通董事长兼首席执行官杰米·戴蒙在芝加哥经济俱乐部的一场活动上发言，主题是人工智能在银行业中的益处与风险。原文仅提供了这一活动概述，未包含戴蒙的具体观点、引述、数据或结论。因此，关于其对AI在银行业应用的具体判断、潜在影响或相关投资含义，原文没有可供提炼的信息。该内容由彭博电视与市场频道发布。",
+      "detail_en": "According to the source, JPMorgan Chase Chairman and CEO Jamie Dimon spoke at an event hosted by the Economic Club of Chicago, addressing the benefits and risks of artificial intelligence in the banking industry. The source provides only this event description and does not include any specific views, quotes, figures, or conclusions from Dimon. As a result, no specific judgments, potential implications, or investment takeaways regarding AI in banking can be extracted from the source. The content was published by Bloomberg Television and Markets.",
+      "key_points": [
+        {
+          "zh": "摩根大通董事长兼CEO杰米·戴蒙在芝加哥经济俱乐部活动上发言。",
+          "en": "JPMorgan Chase Chairman and CEO Jamie Dimon spoke at an event hosted by the Economic Club of Chicago."
+        },
+        {
+          "zh": "发言主题为人工智能在银行业中的益处与风险。",
+          "en": "The topic was the benefits and risks of artificial intelligence in the banking industry."
+        },
+        {
+          "zh": "原文未披露戴蒙的具体言论、数据或结论。",
+          "en": "The source does not disclose Dimon's specific remarks, figures, or conclusions."
+        }
+      ],
+      "tags": [
+        "AI",
+        "banking",
+        "JPMorgan",
+        "Jamie Dimon"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:4Z6chlcUK7M",
+      "title": "Quarterly Market Update 3Q 2026",
+      "title_zh": "高盛财富管理：政策、利率与地缘不确定性下股市仍走高",
+      "url": "https://www.youtube.com/watch?v=4Z6chlcUK7M",
+      "published_at": "2026-10-14T14:26:04+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "高盛投资策略组（ISG）指出，本季度市场环境以政策、利率和地缘政治的不确定性为特征，但股市仍持续走高。组合经理Sofia Bonito讨论了影响本季度市场的关键因素，并介绍了ISG对未来数月的展望。",
+      "summary_en": "Goldman Sachs' Investment Strategy Group notes that the quarter's market environment was marked by uncertainty around policy, rates, and geopolitics, yet equity markets continued to climb. Portfolio manager Sofia Bonito discusses the key factors that impacted the market over the quarter and ISG's outlook for the months ahead.",
+      "detail_zh": "高盛资产与财富管理（AWM）旗下投资策略组（ISG）负责GS财富管理的资产配置策略制定与市场分析。组合经理Sofia Bonito在本次讨论中回顾了本季度影响市场的关键因素，并阐述了ISG对未来数月的展望。原文指出，本季度市场环境的特点是政策、利率和地缘政治方面的不确定性，但股市仍继续走高。ISG强调其预测基于假设、可能发生重大调整，且不代表高盛全球投资研究部（GIR）或高盛资产管理部门的观点，也可能与AWM内部其他组合管理团队的观点存在显著差异。原文未披露具体的配置建议、目标位或个股观点。",
+      "detail_en": "The Investment Strategy Group (ISG), part of Goldman Sachs' Asset & Wealth Management (AWM) business, focuses on asset allocation strategy formation and market analysis for GS Wealth Management. Portfolio manager Sofia Bonito reviewed the key factors that impacted the market over the quarter and presented ISG's outlook for the months ahead. According to the source, the quarter's market environment was characterized by uncertainty around policy, rates, and geopolitics, yet equity markets continued to climb higher. ISG notes that its forecasts are estimated based on assumptions, are subject to significant revision, and do not represent the views of GS Global Investment Research (GIR) or Goldman Sachs Asset Management, and may vary significantly from views expressed by individual portfolio management teams within AWM. No specific allocation recommendations, targets, or individual stock views were disclosed in the source.",
+      "key_points": [
+        {
+          "zh": "本季度市场环境以政策、利率和地缘政治的不确定性为特征。",
+          "en": "The quarter's market environment was characterized by uncertainty around policy, rates, and geopolitics."
+        },
+        {
+          "zh": "尽管存在上述不确定性，股市仍继续走高。",
+          "en": "Despite that uncertainty, equity markets continued to climb higher."
+        },
+        {
+          "zh": "高盛组合经理Sofia Bonito讨论了本季度影响市场的关键因素。",
+          "en": "Goldman Sachs portfolio manager Sofia Bonito discussed the key factors that impacted the market over the quarter."
+        },
+        {
+          "zh": "ISG给出了对未来数月的展望，但原文未披露具体配置建议或目标位。",
+          "en": "ISG provided an outlook for the months ahead, though the source did not disclose specific allocation recommendations or targets."
+        },
+        {
+          "zh": "ISG观点不代表高盛全球投资研究部或高盛资产管理，且可能与其他团队观点存在显著差异。",
+          "en": "ISG views do not represent GS Global Investment Research or Goldman Sachs Asset Management, and may vary significantly from other teams' views."
+        }
+      ],
+      "tags": [
+        "goldman-sachs",
+        "market-outlook",
+        "policy-uncertainty",
+        "rates",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:U8KehDduxlI",
       "title": "Bank of America Results Hit by Weaker Trading, $1.2 Billion Penalty",
