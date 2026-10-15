@@ -79,6 +79,13 @@ def _content_for(source: dict, item: dict) -> str | None:
                     pass
 
     if stype == "youtube":
+        # Short news clips: skip the transcript API and just use the description
+        # (saves credits; descriptions are usually enough for <10min clips).
+        if source.get("skip_transcript"):
+            desc = (item.get("description") or "").strip()
+            if len(desc) > 40:
+                return desc
+            raise RuntimeError("no description for short clip")
         if config.USE_YOUTUBE_CAPTIONS:
             time.sleep(2)  # avoid YouTube rate limiting
             try:

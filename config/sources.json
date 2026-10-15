@@ -82,7 +82,8 @@
       "max_items": 8,
       "active": true,
       "note": "Daily news clips; forced into BBG TV news category.",
-      "priority": 5
+      "priority": 5,
+      "skip_transcript": true
     },
     {
       "name": "PIMCO",
@@ -188,7 +189,8 @@
       "max_items": 8,
       "active": true,
       "note": "High-frequency financial news; capped at 8 clips/day.",
-      "priority": 11
+      "priority": 11,
+      "skip_transcript": true
     },
     {
       "name": "SpotGamma",
@@ -238,14 +240,16 @@
     },
     {
       "name": "Credit Edge (Bloomberg Intelligence)",
-      "url": "https://podcasts.apple.com/us/podcast/the-credit-edge-by-bloomberg-intelligence/id1674628050",
-      "type": "podcast",
+      "url": "https://www.youtube.com/@bloombergpodcasts",
+      "type": "youtube",
       "kind": "podcast",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e74a35e9-c028-4e5f-a3f7-afb10164a717/8792a2e9-d66c-4038-a1fe-afb101654894/podcast.rss",
+      "feed_url": "",
       "category": "macro",
-      "max_items": 1,
-      "active": false,
-      "note": "Weekly credit markets podcast (Thu). Requires transcription."
+      "max_items": 4,
+      "active": true,
+      "note": "Bloomberg Podcasts YouTube, filtered to Credit Edge.",
+      "title_filter": "credit edge",
+      "priority": 6
     },
     {
       "name": "Coinbase Markets",
@@ -320,14 +324,16 @@
     },
     {
       "name": "The Memo by Howard Marks",
-      "url": "https://podcasts.apple.com/us/podcast/the-memo-by-howard-marks/id1521551570",
-      "type": "podcast",
+      "url": "https://www.youtube.com/@OaktreeCapital",
+      "type": "youtube",
       "kind": "podcast",
-      "feed_url": "https://rss.art19.com/the-memo-by-howard-marks",
+      "feed_url": "",
       "category": "other",
-      "max_items": 1,
-      "active": false,
-      "note": "Oaktree value-investing memos (monthly, high quality). Requires transcription."
+      "max_items": 6,
+      "active": true,
+      "note": "Oaktree Capital YouTube (Howard Marks memos).",
+      "title_filter": "",
+      "priority": 8
     },
     {
       "name": "Macro Voices",
@@ -354,14 +360,16 @@
     },
     {
       "name": "Animal Spirits",
-      "url": "https://podcasts.apple.com/us/podcast/animal-spirits-podcast/id1310192007",
-      "type": "podcast",
+      "url": "https://www.youtube.com/@thecompoundnews",
+      "type": "youtube",
       "kind": "podcast",
-      "feed_url": "https://feeds.megaphone.fm/TCP6464651487",
+      "feed_url": "",
       "category": "macro",
-      "max_items": 1,
-      "active": false,
-      "note": "Weekly US markets/equities podcast (2-3x/week). Requires transcription."
+      "max_items": 4,
+      "active": true,
+      "note": "The Compound YouTube, filtered to Animal Spirits.",
+      "title_filter": "animal spirits",
+      "priority": 7
     },
     {
       "name": "JPMorgan Asset Management",
@@ -512,6 +520,32 @@
       "category": "volatility",
       "active": true,
       "note": "Derivatives/vol/managed-futures podcast; RSS show notes are ~5000 chars."
+    },
+    {
+      "name": "Trillions (Bloomberg)",
+      "url": "https://www.youtube.com/@bloombergpodcasts",
+      "type": "youtube",
+      "kind": "podcast",
+      "feed_url": "",
+      "title_filter": "trillions",
+      "max_items": 4,
+      "priority": 5,
+      "category": "macro",
+      "active": true,
+      "note": "Bloomberg Podcasts YouTube, filtered to Trillions."
+    },
+    {
+      "name": "The Big Take (Bloomberg)",
+      "url": "https://www.youtube.com/@bloombergpodcasts",
+      "type": "youtube",
+      "kind": "podcast",
+      "feed_url": "",
+      "title_filter": "the big take",
+      "max_items": 4,
+      "priority": 14,
+      "category": "macro",
+      "active": true,
+      "note": "Bloomberg Podcasts YouTube, filtered to The Big Take."
     }
   ]
 }
