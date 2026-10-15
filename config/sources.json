@@ -139,8 +139,9 @@
       "kind": "video",
       "feed_url": "",
       "category": "macro",
-      "active": false,
-      "note": "Institutional market commentary via YouTube auto-captions."
+      "active": true,
+      "note": "Institutional market commentary via YouTube auto-captions.",
+      "priority": 8
     },
     {
       "name": "Goldman Sachs",
@@ -160,8 +161,9 @@
       "kind": "video",
       "feed_url": "",
       "category": "macro",
-      "active": false,
-      "note": "Market commentary via YouTube auto-captions."
+      "active": true,
+      "note": "Market commentary via YouTube auto-captions.",
+      "priority": 9
     },
     {
       "name": "Patrick Boyle",
@@ -182,8 +184,9 @@
       "feed_url": "",
       "category": "macro",
       "max_items": 8,
-      "active": false,
-      "note": "High-frequency financial news; capped at 8 clips/day."
+      "active": true,
+      "note": "High-frequency financial news; capped at 8 clips/day.",
+      "priority": 11
     },
     {
       "name": "SpotGamma",
@@ -204,8 +207,9 @@
       "feed_url": "",
       "category": "macro",
       "max_items": 6,
-      "active": false,
-      "note": "Macro/markets interviews; capped to reduce volume."
+      "active": true,
+      "note": "Macro/markets interviews; capped to reduce volume.",
+      "priority": 12
     },
     {
       "name": "Excess Returns",
@@ -215,8 +219,9 @@
       "feed_url": "",
       "category": "macro",
       "max_items": 6,
-      "active": false,
-      "note": "Markets/investing podcast."
+      "active": true,
+      "note": "Markets/investing podcast.",
+      "priority": 13
     },
     {
       "name": "Flirting with Models",
@@ -225,8 +230,9 @@
       "kind": "video",
       "feed_url": "",
       "category": "volatility",
-      "active": false,
-      "note": "Quant/systematic investing."
+      "active": true,
+      "note": "Quant/systematic investing.",
+      "priority": 10
     },
     {
       "name": "Credit Edge (Bloomberg Intelligence)",

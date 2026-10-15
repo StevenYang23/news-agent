@@ -61,7 +61,21 @@ def list_recent_videos(channel_url: str, limit: int = 10) -> list[dict]:
 
 
 def get_captions(video_id: str, retries: int = 2) -> str:
-    """Fetch YouTube auto-captions with retries/backoff."""
+    """Fetch YouTube captions, preferring Supadata (reliable) when configured."""
+    from .. import config  # noqa: PLC0415
+
+    # 1) Supadata API (cloud, reliable, AI fallback when no captions)
+    if config.SUPADATA_API_KEY:
+        for attempt in range(retries + 1):
+            try:
+                return _captions_supadata(video_id)
+            except Exception as e:  # noqa: BLE001
+                if attempt >= retries:
+                    log_fallback(video_id, e)
+                    break
+                time.sleep(2 * (attempt + 1))
+
+    # 2) Free youtube-transcript-api fallback
     from youtube_transcript_api import YouTubeTranscriptApi  # noqa: PLC0415
 
     last = None
@@ -76,3 +90,34 @@ def get_captions(video_id: str, retries: int = 2) -> str:
             if attempt < retries:
                 time.sleep(3 * (attempt + 1))
     raise RuntimeError(f"No captions for {video_id}: {last}")
+
+
+def _captions_supadata(video_id: str) -> str:
+    import requests  # noqa: PLC0415
+
+    from .. import config  # noqa: PLC0415
+
+    resp = requests.get(
+        "https://api.supadata.ai/v1/youtube/transcript",
+        params={"url": f"https://www.youtube.com/watch?v={video_id}", "text": "true"},
+        headers={"x-api-key": config.SUPADATA_API_KEY},
+        timeout=60,
+    )
+    resp.raise_for_status()
+    data = resp.json()
+    content = data.get("content", "")
+    if isinstance(content, list):
+        content = " ".join(c.get("text", "") for c in content if isinstance(c, dict))
+    text = (content or "").strip()
+    if not text:
+        raise RuntimeError("empty transcript from Supadata")
+    return text
+
+
+def log_fallback(video_id: str, err: Exception) -> None:
+    import logging  # noqa: PLC0415
+
+    logging.getLogger("pipeline").info(
+        "Supadata failed for %s (%s) — falling back to youtube-transcript-api",
+        video_id, str(err)[:80],
+    )

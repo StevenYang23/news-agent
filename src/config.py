@@ -15,6 +15,9 @@ DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "").strip()
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com").rstrip("/")
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
 
+# Supadata (YouTube transcript API) — optional, for reliable cloud caption fetching
+SUPADATA_API_KEY = os.getenv("SUPADATA_API_KEY", "").strip()
+
 # Data locations
 DATA_DIR = Path(os.getenv("DATA_DIR", ROOT / "data"))
 DATA_DIR.mkdir(parents=True, exist_ok=True)
