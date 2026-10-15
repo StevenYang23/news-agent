@@ -1,6 +1,107 @@
 {
-  "generated_at": "2026-10-15T13:02:55.457394+00:00",
+  "generated_at": "2026-10-15T13:17:40.607156+00:00",
   "insights": [
+    {
+      "guid": "yt:f5QU4haTVvw",
+      "title": "NYU’s Gary Marcus on Building AI We Can Trust",
+      "title_zh": "AI怀疑论者：大语言模型难以兑现生产率承诺",
+      "url": "https://www.youtube.com/watch?v=f5QU4haTVvw",
+      "published_at": "2026-10-15T12:49:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "一位以怀疑著称的AI评论者（Marcus）在访谈中指出，AI迄今并未像工业革命那样提升生产率，大语言模型（LLM）本质上是\"打了激素的自动补全\"，无法真正遵循指令，因此难以支撑外界期待的生产率提升。他认为LLM在编码和数学等可被形式化验证的领域表现良好，但在无法形式化验证的现实问题上作用有限，并警告AI生成代码泛滥可能损害软件维护与人才培养。",
+      "summary_en": "A self-described AI skeptic (Marcus) argues that AI has so far failed to deliver the productivity gains associated with the Industrial Revolution, and that large language models (LLMs) are essentially 'autocomplete on steroids' that do not truly follow instructions. He contends LLMs work well in domains that can be formally verified—such as coding and math—but are far less useful for real-world problems that cannot be formally verified, and warns that a flood of AI-generated code could harm software maintainability and the developer talent pipeline.",
+      "detail_zh": "该评论者认为，AI或许可能成为下一次工业革命，但工业革命提升了生产率，而AI迄今并未做到这一点，尽管外界有大量承诺，例如ChatGPT发布时关于\"一人公司\"和\"解决一切问题\"的说法。他提到昨天又有一项研究显示很难找到AI可衡量的影响。他将AI描述为一个\"大杂烩\"，当前大部分工作集中在大语言模型上，并戏称其可能很快应被称为\"大型责任模块\"，因为它们约束不足、并不真正遵循指令；他把所谓\"失控AI\"事件（如OpenAI、Hugging Face遭攻击等）归因于模型只是松散地遵循指令。他认为LLM本身是一个有缺陷的工具，只是近似人们在特定语境下说过的话，对世界的理解是表面的，因此无法真正遵循指令；早期他称之为\"打了激素的自动补全\"，如今又叠加了\"验证\"这一技巧，即用可追溯到1950年代、曾被过早否定的形式化符号AI来验证结果。他指出，这些系统擅长解决特定类型的问题（如某些数学难题），但这并不意味着数学被解决，它们无法写出他人能理解的证明，也未提出新的数学原理；他以1997年深蓝击败卡斯帕罗夫和AlphaGo为例，说明这类领域特定方案并未立即改变世界。他认为当前AI真正擅长的是编码和数学，二者都依赖外部系统进行验证，而许多现实问题（如他举例的中等强国待遇问题）无法被形式化验证，因此这些系统在其他类型问题上帮助有限。在编码方面，他承认其有一定用处，但不认同\"代码量指数级增长\"是好事，认为需要的是可维护的优质代码；他引用研究称提交到苹果App Store的应用数量增至三倍，但无人使用，并担忧AI生成代码难以被后人修复，同时初级开发者难以获得工作、资深开发者终将老去，可能导致人才断层。在医药方面，他指出AI擅长生成候选药物，却无法判断候选药物是否真正有效，因为人类生物学极其复杂（约2万个基因、数亿分子），无法真正模拟。",
+      "detail_en": "The speaker argues that AI could be the next industrial revolution, but the Industrial Revolution raised productivity while AI has so far not done so, despite many promises—such as claims when ChatGPT launched about one-employee billion-dollar companies and fixing everything. He cites yet another study from the previous day showing it is hard to find a measurable impact of AI. He describes AI as a 'grab bag' of technologies, with most current work on large language models, which he jokes might soon be called 'large liability modules' because they are not well constrained and do not really follow instructions; he attributes so-called rogue AI incidents (such as the OpenAI and Hugging Face attacks) to models following instructions only loosely. He views LLMs as a flawed tool that approximates what people have said in certain contexts, with only a superficial understanding of the world, which is why they cannot truly follow instructions; he earlier called this 'autocomplete on steroids,' now combined with a 'verification' trick using formal symbolic AI whose roots go back to the 1950s and which was prematurely dismissed. He notes these systems are good at particular kinds of problems (such as certain math problems), but that does not mean math has been solved—they cannot write a proof someone else understands and have not developed new mathematical principles; he cites Deep Blue beating Garry Kasparov in 1997 and AlphaGo as examples of domain-specific solutions that did not immediately change the world. He says current AI is really good at coding and math, both relying on external systems for verification, but many real-world problems (such as how middle powers are treated) cannot be formally verified, making these systems much less helpful for other kinds of problems. On coding, he acknowledges some good use, but disagrees that exponential growth in code is a good thing, arguing what is wanted is good, solid, maintainable code; he cites studies showing three times as many apps submitted to the Apple App Store but nobody using them, and worries AI-generated code may be hard to fix later, while junior developers are not getting jobs and senior ones will eventually age out, potentially leaving the industry in trouble. On medicine, he notes AI can generate drug candidates but cannot tell whether they really work, because human biology is incredibly complicated (about 20,000 genes and hundreds of millions of molecules) and cannot truly be simulated.",
+      "conclusion_zh": "该评论者认为，在无法形式化验证的领域，AI难以兑现生产率承诺，投资者应对AI相关叙事保持审慎，关注其实际可衡量影响。",
+      "conclusion_en": "The speaker argues that in domains that cannot be formally verified, AI is unlikely to deliver on productivity promises, suggesting investors should be cautious about AI narratives and focus on measurable impact.",
+      "key_points": [
+        {
+          "zh": "AI迄今未像工业革命那样提升生产率，尽管外界有大量承诺，且近期研究仍难找到AI可衡量的影响。",
+          "en": "AI has so far not raised productivity as the Industrial Revolution did, despite many promises, and recent studies still struggle to find a measurable impact."
+        },
+        {
+          "zh": "大语言模型被形容为\"打了激素的自动补全\"，约束不足、不真正遵循指令，所谓\"失控AI\"事件即源于此。",
+          "en": "LLMs are described as 'autocomplete on steroids' that are not well constrained and do not truly follow instructions, which explains so-called rogue AI incidents."
+        },
+        {
+          "zh": "当前AI擅长编码和数学，因为二者可借助外部形式化验证；但无法形式化验证的现实问题（如地缘政治）则难以受益。",
+          "en": "Current AI excels at coding and math because they rely on external formal verification, but real-world problems that cannot be formally verified (such as geopolitics) benefit far less."
+        },
+        {
+          "zh": "AI生成代码泛滥（App Store提交量增至三倍但无人使用）可能损害软件可维护性，并造成初级开发者就业与人才断层问题。",
+          "en": "A flood of AI-generated code (App Store submissions tripled but nobody uses them) may harm maintainability and create a talent gap as junior developers struggle to find jobs."
+        },
+        {
+          "zh": "在医药领域，AI能生成候选药物，却无法判断其是否真正有效，因为人类生物学极其复杂、难以模拟。",
+          "en": "In medicine, AI can generate drug candidates but cannot tell whether they really work, because human biology is extremely complex and hard to simulate."
+        }
+      ],
+      "tags": [
+        "AI",
+        "LLM",
+        "productivity",
+        "skepticism",
+        "software"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:nMGkvC-EE3k",
+      "title": "Gor: US-India Close to Landing Trade Deal",
+      "title_zh": "美国特使谈美印与中亚关系：贸易协议接近达成，企业投资加速",
+      "url": "https://www.youtube.com/watch?v=nMGkvC-EE3k",
+      "published_at": "2026-10-15T12:48:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国驻印度大使兼南亚和中亚特使在访谈中表示，美印贸易协议已非常接近达成，尽管最高法院裁定相关关税法律违宪迫使政府重新调整。他强调美印关系处于历史高位，鲁比奥国务卿即将访问印度并率150余家美国企业代表团，同时美国正加大对中亚的接触力度。",
+      "summary_en": "The U.S. Ambassador to India and Special Envoy for South and Central Asia said a U.S.-India trade deal is very close to being finalized, though the Supreme Court's ruling that the tariff law was unconstitutional forced the administration to rework aspects of it. He emphasized that U.S.-India relations are at a historic high, with Secretary Rubio set to visit India accompanied by a delegation of over 150 American companies, while the U.S. is also deepening engagement with Central Asia.",
+      "detail_zh": "美国驻印度大使兼南亚和中亚特使在访谈中表示，总统对全球接触持务实态度，中亚地区长期未获美国足够重视，如今正积极推动接触。他提到总统首次在白宫举办了C5+1峰会，邀请中亚五国领导人出席，过去一年已促成实质性交易，波音、富兰克林邓普顿、Wabtec等美国企业正在投资，中亚企业也在投资美国。乌兹别克斯坦和哈萨克斯坦今年首次受邀参加G20。国务卿鲁比奥将在两天后访问印度，随行带来超过150家美国企业，涵盖花旗银行、波音及关键矿产等领域。鲁比奥此行为其一年内第二次访印，将前往孟买和贾姆纳格尔，在贾姆纳格尔将会见信实集团相关人员，信实正在美国开设50年来首家炼油厂。在孟买，鲁比奥将会见印度政府官员，预计外长苏杰生将出席。特使还提到，11月司法部长将率执法代表团访印，明年已规划多位内阁官员多次访问。在贸易方面，他承认贸易紧张仍存，但表示双方正积极接触，此前在到任三周内已宣布一项贸易协议，但最高法院裁定相关法律违宪后，政府不得不重新调整，目前协议已非常接近达成。他强调美印关系重要性体现在高频高层互访上，印度14亿人口市场对美国企业极具吸引力，NBA等品牌在印度已有追随者，谷歌、微软、Adobe、美光等企业正在印度开设数据中心和芯片制造设施，美印在国防领域也有联合生产合作。",
+      "detail_en": "The U.S. Ambassador to India and Special Envoy for South and Central Asia said in an interview that the President takes a pragmatic approach to global engagement, and that Central Asia has long been neglected by the U.S. but is now being actively engaged. He noted the President hosted the first C5+1 summit at the White House, inviting all five Central Asian heads of state, and that real deals have been struck over the past year, with American companies like Boeing, Franklin Templeton, and Wabtec investing, and Central Asian companies investing in the U.S. Uzbekistan and Kazakhstan were invited to the G-20 this year for the first time. Secretary Rubio will travel to India in two days with a delegation of over 150 American companies, including Citibank, Boeing, and critical minerals firms. This is Rubio's second official trip to India in a year; he will visit Mumbai and Jamnagar, where he will meet with Reliance officials, as Reliance is opening the first refinery in the U.S. in 50 years. In Mumbai, Rubio will meet with Indian government officials, with External Affairs Minister Jaishankar expected to join. The envoy also mentioned that in November the Attorney General will visit with a law enforcement delegation, and multiple cabinet-level visits are planned for next year. On trade, he acknowledged ongoing tensions but said both sides are actively engaged; a trade deal was announced within three weeks of his arrival, but after the Supreme Court ruled the relevant law unconstitutional, the administration had to rework aspects, and a deal is now very close. He stressed the importance of the relationship is reflected in frequent high-level visits, and that India's 1.4 billion population market is highly attractive to American companies, with brands like the NBA having a following even without a league, and companies like Google, Microsoft, Adobe, and Micron opening data centers and chip manufacturing facilities in India. Defense co-production is also underway.",
+      "conclusion_zh": "美印贸易协议接近落地及高层密集互访，显示两国经贸关系正朝积极方向发展，美国企业在印度科技、能源和国防领域的投资机会值得关注。",
+      "conclusion_en": "The near-finalization of the U.S.-India trade deal and密集 high-level exchanges indicate a positive trajectory in bilateral economic relations, with investment opportunities for American companies in India's technology, energy, and defense sectors worth watching.",
+      "key_points": [
+        {
+          "zh": "美印贸易协议已非常接近达成，但最高法院裁定关税法律违宪迫使政府重新调整相关条款。",
+          "en": "A U.S.-India trade deal is very close to being finalized, but the Supreme Court's ruling that the tariff law was unconstitutional forced the administration to rework related provisions."
+        },
+        {
+          "zh": "国务卿鲁比奥即将访问印度，率超过150家美国企业代表团，访问孟买和贾姆纳格尔，将会见信实集团及印度政府官员。",
+          "en": "Secretary Rubio will visit India with a delegation of over 150 American companies, traveling to Mumbai and Jamnagar, and will meet with Reliance and Indian government officials."
+        },
+        {
+          "zh": "美国正加大对中亚接触，总统首次在白宫举办C5+1峰会，波音、富兰克林邓普顿、Wabtec等企业已在中亚投资。",
+          "en": "The U.S. is deepening engagement with Central Asia; the President hosted the first C5+1 summit at the White House, and companies like Boeing, Franklin Templeton, and Wabtec have invested in the region."
+        },
+        {
+          "zh": "美印关系被描述为处于历史高位，高层互访频繁，11月司法部长将访印，明年已规划多位内阁官员访问。",
+          "en": "U.S.-India relations are described as being at a historic high, with frequent high-level visits; the Attorney General will visit in November, and multiple cabinet-level visits are planned for next year."
+        },
+        {
+          "zh": "美国企业正加速在印度布局，谷歌、微软、Adobe、美光等开设数据中心和芯片制造设施，国防领域也有联合生产合作。",
+          "en": "American companies are accelerating their presence in India, with Google, Microsoft, Adobe, and Micron opening data centers and chip manufacturing facilities, and defense co-production is also underway."
+        }
+      ],
+      "tags": [
+        "US-India relations",
+        "trade deal",
+        "Central Asia",
+        "foreign investment",
+        "Rubio visit"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "https://bondvigilantes.com/?p=26811",
       "title": "What the Past Gets Wrong About the Future",
