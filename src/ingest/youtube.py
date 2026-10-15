@@ -84,6 +84,22 @@ def get_duration(video_id: str) -> int | None:
         return None
 
 
+RETRYABLE_STATUS = {408, 429, 503}  # transient: retry after a short delay
+
+
+class TranscriptError(Exception):
+    """TranscriptAPI returned an error. Carries the HTTP status + machine code."""
+
+    def __init__(self, status_code: int, code: str, message: str):
+        self.status_code = status_code
+        self.code = code
+        super().__init__(message or f"HTTP {status_code}")
+
+
+class OutOfCredits(TranscriptError):
+    """TranscriptAPI returned 402 — the account is out of credits."""
+
+
 def get_captions(video_id: str, retries: int = 2) -> str:
     """Fetch YouTube captions, preferring TranscriptAPI (reliable) when configured."""
     from .. import config  # noqa: PLC0415
@@ -95,7 +111,14 @@ def get_captions(video_id: str, retries: int = 2) -> str:
                 return _captions_transcriptapi(video_id)
             except OutOfCredits:
                 raise  # hard stop: out of credits, don't fall back
-            except Exception as e:  # noqa: BLE001
+            except TranscriptError as e:
+                # Retry only transient errors (408/429/503); permanent errors fall through.
+                if e.status_code in RETRYABLE_STATUS and attempt < retries:
+                    time.sleep(2 * (attempt + 1))
+                    continue
+                log_fallback(video_id, e)
+                break
+            except Exception as e:  # noqa: BLE001  (network etc.)
                 if attempt >= retries:
                     log_fallback(video_id, e)
                     break
@@ -129,17 +152,29 @@ def _captions_transcriptapi(video_id: str) -> str:
         headers={"Authorization": f"Bearer {config.TRANSCRIPT_API_KEY}"},
         timeout=60,
     )
+
+    if resp.status_code == 200:
+        data = resp.json()
+        text = data.get("transcript", "")
+        if isinstance(text, list):
+            text = " ".join(s.get("text", "") for s in text if isinstance(s, dict))
+        text = (text or "").strip()
+        if not text:
+            raise TranscriptError(200, "empty", "empty transcript from TranscriptAPI")
+        return text
+
+    # error response — parse the machine-readable code if present
+    code, detail = "", ""
+    try:
+        body = resp.json()
+        code = body.get("code", "")
+        detail = body.get("detail", "")
+    except Exception:  # noqa: BLE001
+        pass
+
     if resp.status_code == 402:
-        raise OutOfCredits("TranscriptAPI credits exhausted (HTTP 402)")
-    resp.raise_for_status()
-    data = resp.json()
-    text = data.get("transcript", "")
-    if isinstance(text, list):
-        text = " ".join(s.get("text", "") for s in text if isinstance(s, dict))
-    text = (text or "").strip()
-    if not text:
-        raise RuntimeError("empty transcript from TranscriptAPI")
-    return text
+        raise OutOfCredits(resp.status_code, code, detail or "credits exhausted")
+    raise TranscriptError(resp.status_code, code, detail or f"HTTP {resp.status_code}")
 
 
 def log_fallback(video_id: str, err: Exception) -> None:
@@ -149,7 +184,3 @@ def log_fallback(video_id: str, err: Exception) -> None:
         "TranscriptAPI failed for %s (%s) — falling back to youtube-transcript-api",
         video_id, str(err)[:80],
     )
-
-
-class OutOfCredits(Exception):
-    """TranscriptAPI returned 402 — the account is out of credits."""
