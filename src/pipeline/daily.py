@@ -28,7 +28,9 @@ def _fetch_source(source: dict) -> list[dict]:
         items = items[: source.get("max_items", 3)]
     elif stype == "youtube":
         items = youtube.list_recent_videos(
-            source["url"], source.get("max_items", config.MAX_ITEMS_PER_SOURCE)
+            source["url"],
+            source.get("max_items", config.MAX_ITEMS_PER_SOURCE),
+            title_filter=source.get("title_filter"),
         )
     elif stype == "web":
         scraper = source.get("scraper", "")

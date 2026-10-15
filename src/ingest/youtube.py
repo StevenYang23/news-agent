@@ -33,14 +33,17 @@ def _strip_html(html: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", BeautifulSoup(html, "html.parser").get_text("\n")).strip()
 
 
-def list_recent_videos(channel_url: str, limit: int = 10) -> list[dict]:
-    """Return recent videos with accurate publish dates + description from the RSS."""
+def list_recent_videos(channel_url: str, limit: int = 10, title_filter: str | None = None) -> list[dict]:
+    """Return recent videos (optionally filtered by title substring) from the RSS."""
     cid = _channel_id(channel_url)
     feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
     parsed = feedparser.parse(feed_url)
 
     videos = []
-    for entry in parsed.entries[:limit]:
+    for entry in parsed.entries:
+        title = entry.get("title", "")
+        if title_filter and title_filter.lower() not in title.lower():
+            continue
         vid = entry.get("yt_videoid") or (entry.get("id", "").split(":")[-1])
         if not vid:
             continue
@@ -50,13 +53,15 @@ def list_recent_videos(channel_url: str, limit: int = 10) -> list[dict]:
         videos.append(
             {
                 "guid": "yt:" + vid,
-                "title": entry.get("title", ""),
+                "title": title,
                 "url": f"https://www.youtube.com/watch?v={vid}",
                 "video_id": vid,
                 "published_at": published or datetime.now(timezone.utc).isoformat(),
                 "description": _strip_html(entry.get("summary", "") or entry.get("description", "")),
             }
         )
+        if len(videos) >= limit:
+            break
     return videos
 
 
