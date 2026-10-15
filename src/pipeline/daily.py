@@ -17,6 +17,17 @@ log = logging.getLogger("pipeline")
 
 MIN_FEED_CONTENT = 400  # below this, fetch full article text
 
+_transcript_used = 0  # transcripts consumed this run (module-level)
+
+
+def _allow_transcript() -> bool:
+    """Return True if we're under the monthly transcript budget (and count it)."""
+    global _transcript_used
+    if state.usage_count() + _transcript_used < config.TRANSCRIPT_MONTHLY_BUDGET:
+        _transcript_used += 1
+        return True
+    return False
+
 
 def _fetch_source(source: dict) -> list[dict]:
     stype = source["type"]
@@ -79,34 +90,44 @@ def _content_for(source: dict, item: dict) -> str | None:
                     pass
 
     if stype == "youtube":
-        # Short news clips: skip the transcript API and just use the description
-        # (saves credits; descriptions are usually enough for <10min clips).
-        if source.get("skip_transcript"):
-            desc = (item.get("description") or "").strip()
-            if len(desc) > 40:
-                return desc
-            raise RuntimeError("no description for short clip")
-        if config.USE_YOUTUBE_CAPTIONS:
-            time.sleep(2)  # avoid YouTube rate limiting
-            try:
-                return youtube.get_captions(item["video_id"])
-            except Exception as e:  # noqa: BLE001
-                desc = (item.get("description") or "").strip()
-                if len(desc) > 40:
-                    log.info("captions failed for %s — using description", (item.get("title") or "")[:40])
-                    return desc
-                raise e
-        # Description-only mode (fast, no caption requests / no rate limiting).
-        desc = (item.get("description") or "").strip()
-        if len(desc) > 40:
-            return desc
-        raise RuntimeError("no description for youtube video")
+        return _youtube_content(item)
 
     return item.get("content", "")
 
 
+def _youtube_content(item: dict) -> str | None:
+    """YouTube content: transcript if under budget (or a long video), else description."""
+    desc = (item.get("description") or "").strip()
+
+    if config.USE_YOUTUBE_CAPTIONS:
+        if _allow_transcript():
+            time.sleep(2)
+            try:
+                return youtube.get_captions(item["video_id"])
+            except Exception as e:  # noqa: BLE001
+                if len(desc) > 40:
+                    return desc
+                raise e
+        # Over budget: only fetch transcripts for long videos (> MIN_TRANSCRIPT_DURATION).
+        dur = youtube.get_duration(item["video_id"])
+        if dur is None or dur >= config.MIN_TRANSCRIPT_DURATION:
+            time.sleep(2)
+            try:
+                return youtube.get_captions(item["video_id"])
+            except Exception as e:  # noqa: BLE001
+                if len(desc) > 40:
+                    return desc
+                raise e
+
+    if len(desc) > 40:
+        return desc
+    raise RuntimeError("no description for youtube video")
+
+
 def run_pipeline() -> dict:
     sources = config.load_sources()
+    global _transcript_used
+    _transcript_used = 0
     active = [s for s in sources if s.get("active")]
     # Process higher-priority sources first (lower `priority` = more important).
     active.sort(key=lambda s: s.get("priority", 99))
@@ -198,4 +219,7 @@ def run_pipeline() -> dict:
     if new_insights or pruned > 0:
         state.save(combined)
     state.save_sources(sources)
+    if _transcript_used > 0:
+        state.add_usage(_transcript_used)
+        stats["transcripts_used"] = _transcript_used
     return stats

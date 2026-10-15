@@ -65,6 +65,18 @@ def list_recent_videos(channel_url: str, limit: int = 10, title_filter: str | No
     return videos
 
 
+def get_duration(video_id: str) -> int | None:
+    """Return video duration in seconds (best-effort via yt-dlp), or None."""
+    try:
+        import yt_dlp  # noqa: PLC0415
+
+        with yt_dlp.YoutubeDL({"quiet": True, "no_warnings": True, "skip_download": True}) as ydl:
+            info = ydl.extract_info(f"https://www.youtube.com/watch?v={video_id}", download=False)
+        return int(info.get("duration") or 0) or None
+    except Exception:  # noqa: BLE001
+        return None
+
+
 def get_captions(video_id: str, retries: int = 2) -> str:
     """Fetch YouTube captions, preferring TranscriptAPI (reliable) when configured."""
     from .. import config  # noqa: PLC0415

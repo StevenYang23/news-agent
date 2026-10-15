@@ -17,6 +17,10 @@ DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
 
 # TranscriptAPI (YouTube transcript API) — cheap reliable cloud caption fetching
 TRANSCRIPT_API_KEY = os.getenv("TRANSCRIPT_API_KEY", "").strip()
+# Monthly transcript budget (credits). When exceeded, only fetch transcripts
+# for long videos (>10 min) and fall back to descriptions for short clips.
+TRANSCRIPT_MONTHLY_BUDGET = int(os.getenv("TRANSCRIPT_MONTHLY_BUDGET", "1000"))
+MIN_TRANSCRIPT_DURATION = int(os.getenv("MIN_TRANSCRIPT_DURATION", "600"))  # seconds
 
 # Data locations
 DATA_DIR = Path(os.getenv("DATA_DIR", ROOT / "data"))

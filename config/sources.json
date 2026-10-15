@@ -82,8 +82,7 @@
       "max_items": 8,
       "active": true,
       "note": "Daily news clips; forced into BBG TV news category.",
-      "priority": 5,
-      "skip_transcript": true
+      "priority": 5
     },
     {
       "name": "PIMCO",
@@ -189,8 +188,7 @@
       "max_items": 8,
       "active": true,
       "note": "High-frequency financial news; capped at 8 clips/day.",
-      "priority": 11,
-      "skip_transcript": true
+      "priority": 11
     },
     {
       "name": "SpotGamma",

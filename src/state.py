@@ -57,6 +57,41 @@ def sort_newest(insights: list[dict]) -> list[dict]:
     return sorted(insights, key=lambda x: x.get("published_at") or "", reverse=True)
 
 
+# ---- transcript usage tracking (monthly credit budget) ----
+
+def _usage_path():
+    return STATE_PATH.parent / "usage.json"
+
+
+def _month_key() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m")
+
+
+def usage_count() -> int:
+    """Transcript credits used this calendar month (persisted across runs)."""
+    try:
+        with open(_usage_path(), encoding="utf-8") as f:
+            data = json.load(f)
+        return int(data.get(_month_key(), 0) or 0)
+    except (OSError, ValueError, json.JSONDecodeError):
+        return 0
+
+
+def add_usage(count: int) -> None:
+    if count <= 0:
+        return
+    data = {}
+    try:
+        with open(_usage_path(), encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, ValueError, json.JSONDecodeError):
+        data = {}
+    key = _month_key()
+    data[key] = int(data.get(key, 0) or 0) + count
+    with open(_usage_path(), "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2)
+
+
 def save_sources(sources: list[dict]) -> None:
     """Export the active source list to site/sources.json for the frontend."""
     active = [s for s in sources if s.get("active")]
