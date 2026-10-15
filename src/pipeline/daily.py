@@ -181,8 +181,12 @@ def run_pipeline() -> dict:
     combined = state.sort_newest(new_insights + insights)
     before = len(combined)
     combined = state.prune(combined, config.LOOKBACK_DAYS)
-    stats["pruned"] = before - len(combined)
-    state.save(combined)
-    state.save_sources(sources)
+    pruned = before - len(combined)
+    stats["pruned"] = pruned
     stats["total"] = len(combined)
+    # Only persist insights when something actually changed, so hourly runs
+    # with no new content don't trigger a spurious commit + deploy.
+    if new_insights or pruned > 0:
+        state.save(combined)
+    state.save_sources(sources)
     return stats

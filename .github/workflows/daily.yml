@@ -2,9 +2,8 @@ name: Daily Insights Refresh
 
 on:
   schedule:
-    # 8:00 AM HKT (00:00 UTC) and 9:00 PM HKT (13:00 UTC).
-    - cron: "0 0 * * *"
-    - cron: "0 13 * * *"
+    # Every hour at minute 0.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
