@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-10-14T13:41:40.854573+00:00",
+  "generated_at": "2026-10-15T00:04:33.245792+00:00",
   "insights": [
+    {
+      "guid": "yt:U8KehDduxlI",
+      "title": "Bank of America Results Hit by Weaker Trading, $1.2 Billion Penalty",
+      "title_zh": "美国银行三季度交易业务收入不及预期",
+      "url": "https://www.youtube.com/watch?v=U8KehDduxlI",
+      "published_at": "2026-10-14T13:37:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国银行股票与固定收益交易部门三季度业绩均未达预期，债券交易收入同比下降17%至25.5亿美元，股票交易收入下降10%至25.1亿美元。此外，该行还因反洗钱与制裁违规相关的监管罚款计提费用，进一步拖累业绩。",
+      "summary_en": "Bank of America's stock and fixed-income traders missed estimates in the third quarter, with bond-trading revenue falling 17% to $2.55 billion and equity trading down 10% to $2.51 billion. Results were further hurt by a charge tied to a regulatory penalty over money laundering and sanctions violations.",
+      "detail_zh": "美国银行三季度交易业务表现疲软，股票和固定收益交易部门均未达到市场预期。具体来看，债券交易收入同比下降17%，降至25.5亿美元；股票交易收入同比下降10%，降至25.1亿美元。除交易业务外，该行业绩还受到一项与监管罚款相关费用的拖累，该罚款涉及反洗钱及制裁违规问题。上述内容由Kristine Aquino在Bloomberg Television上报道。",
+      "detail_en": "Bank of America's trading operations underperformed in the third quarter, with both its stock and fixed-income trading desks missing estimates. Bond-trading revenue fell 17% year-over-year to $2.55 billion, while equity trading revenue declined 10% to $2.51 billion. Beyond trading, the bank's results were also hurt by a charge tied to a regulatory penalty over money laundering and sanctions violations. The report was delivered by Kristine Aquino on Bloomberg Television.",
+      "key_points": [
+        {
+          "zh": "美国银行债券交易收入同比下降17%至25.5亿美元，未达预期",
+          "en": "Bank of America's bond-trading revenue fell 17% YoY to $2.55 billion, missing estimates"
+        },
+        {
+          "zh": "股票交易收入同比下降10%至25.1亿美元，同样不及预期",
+          "en": "Equity trading revenue declined 10% YoY to $2.51 billion, also missing estimates"
+        },
+        {
+          "zh": "业绩还受到反洗钱与制裁违规相关监管罚款费用的拖累",
+          "en": "Results were further hurt by a charge tied to a regulatory penalty over money laundering and sanctions violations"
+        }
+      ],
+      "tags": [
+        "Bank of America",
+        "trading revenue",
+        "regulatory penalty",
+        "Q3 earnings"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:L4sXrnxUbyg",
+      "title": "Morgan Stanley Profit Climbs on Equity Trading, Wealth Management",
+      "title_zh": "摩根士丹利三季度利润上升，股票交易与财富管理表现强劲",
+      "url": "https://www.youtube.com/watch?v=L4sXrnxUbyg",
+      "published_at": "2026-10-14T13:37:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "摩根士丹利第三季度利润上升，其股票交易业务超出分析师预期，财富管理业务录得创纪录的资金流入。",
+      "summary_en": "Morgan Stanley reported higher third-quarter profit, as its equity traders beat analysts' estimates and its wealth-management operation brought in a record amount of money.",
+      "detail_zh": "摩根士丹利第三季度利润实现增长。增长的两个驱动因素为：一是股票交易业务表现超出分析师预期；二是财富管理业务录得创纪录的资金流入规模。上述内容由Kristine Aquino在Bloomberg Television上报道。原文未披露具体利润数字、同比变化幅度、资金流入的具体金额，也未提供管理层评论或未来指引。",
+      "detail_en": "Morgan Stanley saw its third-quarter profit rise. Two drivers were cited: the firm's equity traders topped analysts' estimates, and its wealth-management operation brought in a record amount of money. The report was delivered by Kristine Aquino on Bloomberg Television. The source did not disclose specific profit figures, year-over-year changes, the exact size of the inflows, management commentary, or forward guidance.",
+      "key_points": [
+        {
+          "zh": "摩根士丹利第三季度利润上升。",
+          "en": "Morgan Stanley's third-quarter profit rose."
+        },
+        {
+          "zh": "股票交易业务业绩超出分析师预期。",
+          "en": "Its equity traders topped analysts' estimates."
+        },
+        {
+          "zh": "财富管理业务录得创纪录的资金流入。",
+          "en": "Its wealth-management operation brought in a record amount of money."
+        }
+      ],
+      "tags": [
+        "Morgan Stanley",
+        "earnings",
+        "equity trading",
+        "wealth management"
+      ],
+      "tickers": [
+        "MS"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:mkkhtp-AqJ4",
       "title": "US Consumer Prices Rise at Fastest Pace in Five Months",
@@ -3602,6 +3682,50 @@
         "NVDA"
       ],
       "sentiment": "negative"
+    },
+    {
+      "guid": "6ab2daf3f98781f91d8e2bbf",
+      "title": "Turkish dismay",
+      "title_zh": "FT播客：伊斯坦布尔基金骗局与土耳其金融监管之忧",
+      "url": "https://shows.acast.com/unhedged/episodes/turkish-dismay",
+      "published_at": "2026-09-22T20:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "FT播客《Unhedged》讨论伊斯坦布尔上周发生的投资基金骗局：基金以三位数回报吸引散户涌入，最终被证实为骗局并崩盘。节目探讨该事件对土耳其金融监管意味着什么，以及外国投资者是否应感到担忧。主持人Rob Armstrong还表示自己做空10年期美国国债。",
+      "summary_en": "The FT's Unhedged podcast discusses an investment fund scam in Istanbul last week: funds touting triple-digit returns drew retail investors in, then turned out to be scams and imploded. The episode examines what this says about financial regulation in Turkey and whether foreign investors should be concerned. Host Rob Armstrong also says he is short the 10-year US Treasury.",
+      "detail_zh": "FT播客《Unhedged》主持人Rob Armstrong与FT土耳其记者John Paul Rathbone讨论了上周在伊斯坦布尔发生的一起投资基金事件：这些基金宣称三位数回报，散户投资者热情涌入，随后被证实是骗局并崩盘。节目将这一事件与伊斯坦布尔“大巴扎”的历史相类比，指出类似故事由来已久。讨论的核心问题是：这对土耳其的金融监管意味着什么，外国投资者是否应当感到担忧。此外，Rob Armstrong在节目中表示自己做空10年期美国国债，John Paul Rathbone则选择在博斯普鲁斯海峡长泳。节目还提供了《Unhedged》通讯的30天免费试用链接及联系方式。",
+      "detail_en": "On the FT's Unhedged podcast, host Rob Armstrong speaks with the FT's Turkey correspondent, John Paul Rathbone, about an investment fund episode in Istanbul last week: funds boasting triple-digit returns drew enthusiastic retail inflows, then turned out to be scams and imploded. The episode likens the story to the city's Grand Bazaar, noting such tales are as old as the bazaar itself. The central questions discussed are what this says about financial regulation in Turkey and whether foreign investors should be concerned. Separately, Rob Armstrong says he is short the 10-year US Treasury, while JP opts for a long swim in the Bosphorus. The episode also includes a link for a free 30-day trial to the Unhedged newsletter and contact details.",
+      "key_points": [
+        {
+          "zh": "伊斯坦布尔上周出现投资基金骗局：以三位数回报吸引散户，随后崩盘。",
+          "en": "An investment fund scam emerged in Istanbul last week: funds touting triple-digit returns attracted retail investors, then imploded."
+        },
+        {
+          "zh": "节目讨论该事件对土耳其金融监管的含义，以及外国投资者是否应担忧。",
+          "en": "The episode examines what the episode says about financial regulation in Turkey and whether foreign investors should be concerned."
+        },
+        {
+          "zh": "主持人Rob Armstrong表示自己做空10年期美国国债。",
+          "en": "Host Rob Armstrong says he is short the 10-year US Treasury."
+        },
+        {
+          "zh": "FT土耳其记者John Paul Rathbone为节目嘉宾。",
+          "en": "The FT's Turkey correspondent, John Paul Rathbone, is the guest."
+        }
+      ],
+      "tags": [
+        "Turkey",
+        "fund scam",
+        "regulation",
+        "US Treasuries",
+        "Unhedged podcast"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:QxP2xS8-VzQ",
