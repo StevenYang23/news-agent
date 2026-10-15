@@ -167,6 +167,14 @@ function renderModal() {
     ? points.map((p) => `<li>${esc(p)}</li>`).join("")
     : "";
 
+  const conclusion = state.lang === "zh" ? it.conclusion_zh : it.conclusion_en;
+  if (conclusion) {
+    $("#modalConclusion").hidden = false;
+    $("#modalConclusionText").textContent = conclusion;
+  } else {
+    $("#modalConclusion").hidden = true;
+  }
+
   const tickers = (it.tickers || []).map((t) => `<span class="ticker">${esc(t)}</span>`).join("");
   const tags = (it.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("");
   $("#modalChips").innerHTML = catBadges(it) +

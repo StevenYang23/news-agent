@@ -208,6 +208,8 @@ def run_pipeline() -> dict:
                         "summary_en": payload.get("summary_en", ""),
                         "detail_zh": payload.get("detail_zh", ""),
                         "detail_en": payload.get("detail_en", ""),
+                        "conclusion_zh": payload.get("conclusion_zh", ""),
+                        "conclusion_en": payload.get("conclusion_en", ""),
                         "key_points": payload.get("key_points", []),
                         "tags": payload.get("tags", []),
                         "tickers": payload.get("tickers", []),

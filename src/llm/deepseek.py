@@ -91,6 +91,8 @@ def summarize(content: str, title: str = "") -> dict:
         "summary_en": str(result.get("summary_en", "")).strip(),
         "detail_zh": str(result.get("detail_zh", "")).strip(),
         "detail_en": str(result.get("detail_en", "")).strip(),
+        "conclusion_zh": str(result.get("conclusion_zh", "")).strip(),
+        "conclusion_en": str(result.get("conclusion_en", "")).strip(),
         "key_points": key_points,
         "categories": categories,
         "tags": [str(t) for t in tags],
