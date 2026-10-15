@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:54:40.284718+00:00",
+  "generated_at": "2026-10-15T00:04:33.245792+00:00",
   "insights": [
     {
       "guid": "yt:U8KehDduxlI",
@@ -3682,6 +3682,50 @@
         "NVDA"
       ],
       "sentiment": "negative"
+    },
+    {
+      "guid": "6ab2daf3f98781f91d8e2bbf",
+      "title": "Turkish dismay",
+      "title_zh": "FT播客：伊斯坦布尔基金骗局与土耳其金融监管之忧",
+      "url": "https://shows.acast.com/unhedged/episodes/turkish-dismay",
+      "published_at": "2026-09-22T20:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "FT播客《Unhedged》讨论伊斯坦布尔上周发生的投资基金骗局：基金以三位数回报吸引散户涌入，最终被证实为骗局并崩盘。节目探讨该事件对土耳其金融监管意味着什么，以及外国投资者是否应感到担忧。主持人Rob Armstrong还表示自己做空10年期美国国债。",
+      "summary_en": "The FT's Unhedged podcast discusses an investment fund scam in Istanbul last week: funds touting triple-digit returns drew retail investors in, then turned out to be scams and imploded. The episode examines what this says about financial regulation in Turkey and whether foreign investors should be concerned. Host Rob Armstrong also says he is short the 10-year US Treasury.",
+      "detail_zh": "FT播客《Unhedged》主持人Rob Armstrong与FT土耳其记者John Paul Rathbone讨论了上周在伊斯坦布尔发生的一起投资基金事件：这些基金宣称三位数回报，散户投资者热情涌入，随后被证实是骗局并崩盘。节目将这一事件与伊斯坦布尔“大巴扎”的历史相类比，指出类似故事由来已久。讨论的核心问题是：这对土耳其的金融监管意味着什么，外国投资者是否应当感到担忧。此外，Rob Armstrong在节目中表示自己做空10年期美国国债，John Paul Rathbone则选择在博斯普鲁斯海峡长泳。节目还提供了《Unhedged》通讯的30天免费试用链接及联系方式。",
+      "detail_en": "On the FT's Unhedged podcast, host Rob Armstrong speaks with the FT's Turkey correspondent, John Paul Rathbone, about an investment fund episode in Istanbul last week: funds boasting triple-digit returns drew enthusiastic retail inflows, then turned out to be scams and imploded. The episode likens the story to the city's Grand Bazaar, noting such tales are as old as the bazaar itself. The central questions discussed are what this says about financial regulation in Turkey and whether foreign investors should be concerned. Separately, Rob Armstrong says he is short the 10-year US Treasury, while JP opts for a long swim in the Bosphorus. The episode also includes a link for a free 30-day trial to the Unhedged newsletter and contact details.",
+      "key_points": [
+        {
+          "zh": "伊斯坦布尔上周出现投资基金骗局：以三位数回报吸引散户，随后崩盘。",
+          "en": "An investment fund scam emerged in Istanbul last week: funds touting triple-digit returns attracted retail investors, then imploded."
+        },
+        {
+          "zh": "节目讨论该事件对土耳其金融监管的含义，以及外国投资者是否应担忧。",
+          "en": "The episode examines what the episode says about financial regulation in Turkey and whether foreign investors should be concerned."
+        },
+        {
+          "zh": "主持人Rob Armstrong表示自己做空10年期美国国债。",
+          "en": "Host Rob Armstrong says he is short the 10-year US Treasury."
+        },
+        {
+          "zh": "FT土耳其记者John Paul Rathbone为节目嘉宾。",
+          "en": "The FT's Turkey correspondent, John Paul Rathbone, is the guest."
+        }
+      ],
+      "tags": [
+        "Turkey",
+        "fund scam",
+        "regulation",
+        "US Treasuries",
+        "Unhedged podcast"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:QxP2xS8-VzQ",
