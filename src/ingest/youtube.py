@@ -86,6 +86,8 @@ def get_captions(video_id: str, retries: int = 2) -> str:
         for attempt in range(retries + 1):
             try:
                 return _captions_transcriptapi(video_id)
+            except OutOfCredits:
+                raise  # hard stop: out of credits, don't fall back
             except Exception as e:  # noqa: BLE001
                 if attempt >= retries:
                     log_fallback(video_id, e)
@@ -120,6 +122,8 @@ def _captions_transcriptapi(video_id: str) -> str:
         headers={"Authorization": f"Bearer {config.TRANSCRIPT_API_KEY}"},
         timeout=60,
     )
+    if resp.status_code == 402:
+        raise OutOfCredits("TranscriptAPI credits exhausted (HTTP 402)")
     resp.raise_for_status()
     data = resp.json()
     text = data.get("transcript", "")
@@ -138,3 +142,7 @@ def log_fallback(video_id: str, err: Exception) -> None:
         "TranscriptAPI failed for %s (%s) — falling back to youtube-transcript-api",
         video_id, str(err)[:80],
     )
+
+
+class OutOfCredits(Exception):
+    """TranscriptAPI returned 402 — the account is out of credits."""

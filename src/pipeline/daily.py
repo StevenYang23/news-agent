@@ -18,11 +18,14 @@ log = logging.getLogger("pipeline")
 MIN_FEED_CONTENT = 400  # below this, fetch full article text
 
 _transcript_used = 0  # transcripts consumed this run (module-level)
+_transcripts_exhausted = False  # set when TranscriptAPI returns 402
 
 
 def _allow_transcript() -> bool:
     """Return True if we're under the monthly transcript budget (and count it)."""
     global _transcript_used
+    if _transcripts_exhausted:
+        return False
     if state.usage_count() + _transcript_used < config.TRANSCRIPT_MONTHLY_BUDGET:
         _transcript_used += 1
         return True
@@ -104,20 +107,29 @@ def _youtube_content(item: dict) -> str | None:
             time.sleep(2)
             try:
                 return youtube.get_captions(item["video_id"])
+            except youtube.OutOfCredits:
+                global _transcripts_exhausted
+                _transcripts_exhausted = True
+                log.warning("TranscriptAPI out of credits — using descriptions for the rest of this run")
             except Exception as e:  # noqa: BLE001
                 if len(desc) > 40:
                     return desc
                 raise e
-        # Over budget: only fetch transcripts for long videos (> MIN_TRANSCRIPT_DURATION).
-        dur = youtube.get_duration(item["video_id"])
-        if dur is None or dur >= config.MIN_TRANSCRIPT_DURATION:
-            time.sleep(2)
-            try:
-                return youtube.get_captions(item["video_id"])
-            except Exception as e:  # noqa: BLE001
-                if len(desc) > 40:
-                    return desc
-                raise e
+        else:
+            # Over budget: only fetch transcripts for long videos (> MIN_TRANSCRIPT_DURATION).
+            dur = youtube.get_duration(item["video_id"])
+            if dur is None or dur >= config.MIN_TRANSCRIPT_DURATION:
+                time.sleep(2)
+                try:
+                    return youtube.get_captions(item["video_id"])
+                except youtube.OutOfCredits:
+                    global _transcripts_exhausted
+                    _transcripts_exhausted = True
+                    log.warning("TranscriptAPI out of credits — using descriptions for the rest of this run")
+                except Exception as e:  # noqa: BLE001
+                    if len(desc) > 40:
+                        return desc
+                    raise e
 
     if len(desc) > 40:
         return desc
@@ -126,8 +138,9 @@ def _youtube_content(item: dict) -> str | None:
 
 def run_pipeline() -> dict:
     sources = config.load_sources()
-    global _transcript_used
+    global _transcript_used, _transcripts_exhausted
     _transcript_used = 0
+    _transcripts_exhausted = False
     active = [s for s in sources if s.get("active")]
     # Process higher-priority sources first (lower `priority` = more important).
     active.sort(key=lambda s: s.get("priority", 99))
