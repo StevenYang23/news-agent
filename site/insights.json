@@ -1,6 +1,249 @@
 {
-  "generated_at": "2026-10-15T18:18:14.093707+00:00",
+  "generated_at": "2026-10-15T19:14:26.040172+00:00",
   "insights": [
+    {
+      "guid": "yt:fmvKI28BFXw",
+      "title": "CoreWeave, Neocloud Leverage a Concern for Gil Luria",
+      "title_zh": "CoreWeave高杠杆模式引担忧：借贷成本高企或致价值毁灭",
+      "url": "https://www.youtube.com/watch?v=fmvKI28BFXw",
+      "published_at": "2026-10-15T18:48:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "分析师Gil指出，CoreWeave等Neo Cloud以高息债务（9%）融资建设数据中心，若投资回报仅5%，则规模越大价值毁灭越严重。CoreWeave已转向寻求保险资金并追求更高评级以获取更便宜资金，反映其借贷能力或已耗尽。资本市场的自我约束机制有望防止AI基建泡沫过快膨胀。",
+      "summary_en": "Analyst Gil warns that Neo Clouds like CoreWeave, which fund data center buildouts with high-interest debt (9%), destroy value if returns only reach 5%. CoreWeave is now chasing insurer capital and better ratings for cheaper funding, suggesting it may have exhausted its borrowing capacity. Capital market discipline may prevent the AI infrastructure bubble from inflating too rapidly.",
+      "detail_zh": "在讨论中，分析师Gil被问及CoreWeave股价是否可能归零、投资者是否可能血本无归，以及这是否适用于所有Neo Cloud。Gil强调核心议题是杠杆：即便他对AI周期和AI应用持乐观态度，也不意味着不存在不良行为。以极高利率借款建设数据中心，而这些数据中心在超大规模厂商之外日益商品化，可能并非好投资。他举例：若CoreWeave以9%利率借款，而最佳回报仅5%，那么无论规模如何扩张，都在不断毁灭价值——这对完全依靠债务融资的Neo Cloud尤为如此。Gil指出，用于建设数据中心的杠杆越多，系统风险越大。他提到CoreWeave正追逐保险资金，寻求更便宜的融资方式，并希望获得更好评级以向更多投资者开放，这是因为其已耗尽即便以9%利率借款的能力，这是非常令人担忧的因素。Gil总结称，只要建设以合理利率治理、用现金流投资且被理解为投机性，尚可接受；但若持续以9%及以上利率追逐资本，这些资本终将枯竭。他引用Jensen的说法称，这是一个约束因素——资本市场会自我调节，不会持续以这些利率放贷，可用于数据中心建设的风险资本有限，这有望将增长维持在可持续至2030年的速度，对整个生态系统是最佳结果。",
+      "detail_en": "In the discussion, analyst Gil was asked whether CoreWeave's stock could go to zero, whether investors could lose everything, and whether this applies to all Neo Clouds. Gil stressed the core topic is leverage: even if he is optimistic about the AI cycle and AI usage, that doesn't mean there isn't bad behavior. Borrowing at very high interest rates to build data centers that are increasingly commoditized outside of hyperscalers may not be a good investment. He gave an example: if CoreWeave borrows at 9% and the best return it can get is 5%, then no matter how much it scales, it destroys value at every turn—especially true for Neo Clouds that fund their entire investment with debt. Gil noted that the more leverage used to build data centers, the more risk brought into the system. He mentioned CoreWeave is now chasing insurer capital, looking for cheaper ways to fund spending, and seeking better ratings to open itself to more investors, because it has run out of the ability to borrow even at 9%—a very concerning factor. Gil concluded that as long as the buildout is governed at a good rate, uses cash flow to invest, and is understood as speculative, it's one thing; but if capital continues to be chased at 9% and above, that capital will stop being available at some point. He cited Jensen's point that this is a governing factor—capital markets will regulate, and lending won't continue at these rates. There is a finite amount of risk capital available to lend for data center buildouts, which hopefully keeps growth at rates sustainable through 2030, the best outcome for the entire ecosystem.",
+      "conclusion_zh": "投资者需警惕高杠杆Neo Cloud的债务融资风险，资本市场对借贷利率的约束或成为AI基建泡沫的天然刹车。",
+      "conclusion_en": "Investors should watch debt-financing risks in highly leveraged Neo Clouds; capital market discipline on lending rates may act as a natural brake on the AI infrastructure bubble.",
+      "key_points": [
+        {
+          "zh": "CoreWeave等Neo Cloud以9%高息债务融资，若回报仅5%，规模扩张反而加速价值毁灭。",
+          "en": "Neo Clouds like CoreWeave fund with 9% debt; if returns are only 5%, scaling accelerates value destruction."
+        },
+        {
+          "zh": "CoreWeave正转向保险资金并寻求更高评级，反映其以9%利率借款的能力或已耗尽。",
+          "en": "CoreWeave is turning to insurer capital and seeking better ratings, suggesting it may have exhausted borrowing capacity even at 9%."
+        },
+        {
+          "zh": "数据中心建设杠杆越高，系统风险越大；持续以9%以上利率追逐资本终将面临资本枯竭。",
+          "en": "Higher leverage in data center buildouts increases systemic risk; chasing capital at 9%+ will eventually face exhaustion."
+        },
+        {
+          "zh": "资本市场自我约束机制有望限制借贷利率，使AI基建增长维持在可持续至2030年的速度。",
+          "en": "Capital market self-discipline may cap lending rates, keeping AI infrastructure growth sustainable through 2030."
+        }
+      ],
+      "tags": [
+        "CoreWeave",
+        "Neo Cloud",
+        "leverage",
+        "data centers",
+        "AI infrastructure"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:2d1WpPhg9Kw",
+      "title": "CoreWeave Shares Plunge as CEO Expresses Confidence",
+      "title_zh": "CoreWeave股价重挫15%，CDS定价五年内违约概率超50%",
+      "url": "https://www.youtube.com/watch?v=2d1WpPhg9Kw",
+      "published_at": "2026-10-15T18:48:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "CoreWeave股价大跌15%，其债券触及通常预示困境的水平，信用违约互换定价未来五年违约概率超过50%。CEO Michael Trotter称市场反应不理性，并对公司商业模式保持信心。市场关注其高成本AI基础设施业务能否产生足够订单覆盖债务。",
+      "summary_en": "CoreWeave shares plunged 15% as its bonds hit levels that typically indicate distress, with credit default swaps pricing in a more than 50% chance of default within the next five years. CEO Michael Trotter said the market is acting irrationally and remains confident in the company's business model. Focus remains on whether its expensive AI infrastructure business can generate enough orders to cover its debts.",
+      "detail_zh": "CoreWeave股价下跌15%，其债券收益率触及通常预示财务困境的水平，信用违约互换（CDS）市场定价未来五年内违约概率超过50%。CEO Michael Trotter回应称市场行为不理性，并坚称公司业务模式稳健、订单足以覆盖债务。该公司是去年最大IPO之一，属于被称为\"Neo Cloud\"的AI基础设施类别，拥有巨大需求和大型客户。核心问题在于其业务成本极其高昂，市场担忧最终成本可能过高。此外，报道提及Anthropic计划不晚于今年年底进行IPO，目标时间约为11月，其收入数据足以吸引投资者；OpenAI的IPO进程则可能稍显犹豫。整体而言，AI相关公司的IPO前景可能最终取决于市场对AI的情绪。",
+      "detail_en": "CoreWeave shares fell 15%, with its bonds hitting levels that typically signal financial distress, and credit default swaps pricing in a more than 50% chance of default within five years. CEO Michael Trotter said the market is acting irrationally and insisted the company's business model is sound, with enough orders to cover its debts. The company was one of the biggest IPOs last year and belongs to a category called \"Neo Cloud\" focused on AI infrastructure, with tremendous demand and large customers. The key concern is that it is a very expensive business, and whether the costs will ultimately be too great. The report also noted that Anthropic is preparing for an IPO no later than the end of this year, targeting around November, with revenue numbers impressive enough for investors, while OpenAI may face slightly more hesitation. Overall, the IPO prospects for AI-related companies may ultimately depend on market sentiment toward AI at the time.",
+      "conclusion_zh": "CoreWeave的信用市场信号与CEO的乐观表态形成鲜明对比，投资者需关注其高成本AI基础设施模式能否兑现订单并覆盖债务，同时留意AI公司IPO窗口对市场情绪的依赖。",
+      "conclusion_en": "The contrast between CoreWeave's credit market signals and the CEO's optimism highlights the need to watch whether its high-cost AI infrastructure model can deliver enough orders to cover debts, while AI IPO windows remain dependent on market sentiment.",
+      "key_points": [
+        {
+          "zh": "CoreWeave股价下跌15%，债券触及困境水平，CDS定价五年内违约概率超50%。",
+          "en": "CoreWeave shares plunged 15%, bonds hit distress levels, and CDS priced in a >50% chance of default within five years."
+        },
+        {
+          "zh": "CEO Michael Trotter称市场行为不理性，对公司商业模式和覆盖债务的订单能力保持信心。",
+          "en": "CEO Michael Trotter said the market is acting irrationally and remains confident in the business model and ability to cover debts with orders."
+        },
+        {
+          "zh": "CoreWeave属于\"Neo Cloud\"AI基础设施类别，拥有巨大需求和大型客户，但业务成本极其高昂。",
+          "en": "CoreWeave is in the \"Neo Cloud\" AI infrastructure category with tremendous demand and large customers, but the business is very expensive."
+        },
+        {
+          "zh": "Anthropic计划不晚于今年年底IPO，目标约11月，收入数据足以吸引投资者；OpenAI进程可能稍显犹豫。",
+          "en": "Anthropic plans to IPO no later than end of this year, targeting around November, with revenue numbers impressive enough for investors; OpenAI may face slightly more hesitation."
+        },
+        {
+          "zh": "AI相关公司IPO前景可能最终取决于市场对AI的情绪。",
+          "en": "IPO prospects for AI-related companies may ultimately depend on market sentiment toward AI."
+        }
+      ],
+      "tags": [
+        "CoreWeave",
+        "AI infrastructure",
+        "credit distress",
+        "IPO",
+        "Neo Cloud"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:OoJBjnkpgF4",
+      "title": "Bill Campbell: Emerging Markets Held in Remarkably Well | Bloomberg",
+      "title_zh": "DoubleLine：AI资本开支的承销假设存隐忧，固收配置价值处近年高位",
+      "url": "https://www.youtube.com/watch?v=OoJBjnkpgF4",
+      "published_at": "2026-10-15T18:46:43+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "DoubleLine全球主权与新兴市场团队负责人Bill Campbell指出，AI建设热潮对信用市场的真正问题在于其盈利预测所依赖的承销假设，其中存在循环逻辑，可能演变为风险市场的周期性逆风。他认为在当前收益率水平下，固定收益的配置价值\"可能是近年最高的\"，公司偏好高质量信用与美债曲线中段，并看好新兴市场本币债。",
+      "summary_en": "DoubleLine's Bill Campbell argues that the real issue with the AI buildout for credit markets lies in the underwriting assumptions baked into projected earnings, which create a circular logic that could become a cyclical headwind for risk markets. He sees the value proposition for fixed income as \"probably the highest it's been in recent memory,\" favoring higher-quality credit and the belly of the U.S. Treasury curve, and still finds value in emerging markets local debt.",
+      "detail_zh": "DoubleLine全球主权与新兴市场团队负责人Bill Campbell在彭博The Close节目中讨论了AI建设热潮及其对信用市场的影响。他指出，问题不在于AI建设本身，而在于盈利预测中所嵌入的承销假设，这些假设形成了循环逻辑，可能演变为风险市场的周期性逆风。在近期CPI数据偏热、收益率一度上行后又迅速回落之后，他表示股票和债券的表现符合风险平价组合的预期，并称\"固定收益正在做它在你的组合中应该做的事\"。在当前收益率水平下，Campbell认为固定收益的配置价值\"可能是近年最高的\"。DoubleLine的配置重点放在更高质量的信用和美债曲线的中段（belly），这样投资者既能获得健康的票息，又能在收益率下行时受益。他还表示，新兴市场本币债仍具价值，其在近期抛售中表现相当稳健。",
+      "detail_en": "Bill Campbell, head of the global sovereign and emerging markets team at DoubleLine, discussed the AI buildout and its impact on the credit market on Bloomberg's The Close. He noted that the problem is not the buildout itself but the underwriting assumptions baked into projected earnings, which create a circular logic that could turn into a cyclical headwind for risk markets. After the recent hot CPI print that sent yields up and then right back down, he said stocks and bonds behaved the way a risk parity portfolio would expect, adding that \"fixed income is doing what it should be doing in your portfolio.\" With yields where they are, Campbell said the value proposition for fixed income is \"probably the highest it's been in recent memory.\" DoubleLine is focused on higher-quality credit and the belly of the U.S. Treasury curve, where investors can collect a healthy coupon and still benefit if yields rally. He also still sees value in emerging markets local debt, which held up remarkably well during the recent sell-off.",
+      "conclusion_zh": "在AI资本开支的信用风险与循环逻辑隐忧下，DoubleLine认为当前固定收益配置价值处于近年高位，偏好高质量信用、美债曲线中段及新兴市场本币债。",
+      "conclusion_en": "Amid credit risks and circular-logic concerns in the AI buildout, DoubleLine sees fixed income's value proposition at its highest in recent memory, favoring higher-quality credit, the belly of the U.S. Treasury curve, and emerging markets local debt.",
+      "key_points": [
+        {
+          "zh": "AI建设对信用市场的核心问题在于盈利预测所依赖的承销假设，其中存在循环逻辑，可能成为风险市场的周期性逆风。",
+          "en": "The core issue of the AI buildout for credit markets lies in the underwriting assumptions behind projected earnings, which create a circular logic that could become a cyclical headwind for risk markets."
+        },
+        {
+          "zh": "近期CPI偏热推动收益率上行后又迅速回落，股债表现符合风险平价组合的预期。",
+          "en": "After the recent hot CPI print sent yields up and then right back down, stocks and bonds behaved as a risk parity portfolio would expect."
+        },
+        {
+          "zh": "Campbell认为当前固定收益的配置价值\"可能是近年最高的\"。",
+          "en": "Campbell says the value proposition for fixed income is \"probably the highest it's been in recent memory.\""
+        },
+        {
+          "zh": "DoubleLine聚焦更高质量信用和美债曲线中段，以获取健康票息并在收益率下行时受益。",
+          "en": "DoubleLine is focused on higher-quality credit and the belly of the U.S. Treasury curve to collect a healthy coupon and benefit if yields rally."
+        },
+        {
+          "zh": "新兴市场本币债仍具价值，在近期抛售中表现相当稳健。",
+          "en": "Emerging markets local debt still offers value and held up remarkably well during the recent sell-off."
+        }
+      ],
+      "tags": [
+        "fixed income",
+        "AI buildout",
+        "credit market",
+        "emerging markets",
+        "risk parity"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:HzfpUFd4BkM",
+      "title": "Selling Options at Extreme Lows? The Risk-Reward Warning #shorts",
+      "title_zh": "波动率极低环境下卖出期权风险回报极差",
+      "url": "https://www.youtube.com/watch?v=HzfpUFd4BkM",
+      "published_at": "2026-10-15T18:40:44+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility"
+      ],
+      "summary_zh": "当前市场隐含波动率处于极低水平，卖出期权所获得的波动率溢价微薄，却需承担较大的市场风险。任何微小新闻或波动都可能使标普500单日波幅从约35-40个基点跳升至75个基点，导致空头头寸被击穿。",
+      "summary_en": "Implied volatility is at extremely low levels, offering very little premium for option sellers while requiring them to take on substantial market risk. Any minor headline or bump can push the S&P 500's daily move from around 35-40 basis points to 75 basis points, blowing out short positions.",
+      "detail_zh": "讲话者指出，当前市场波动率溢价极低，卖出期权意味着承担相当大的市场风险却只能获得微薄回报。在这种环境下，买入期权或许并非明智之举，但卖出期权则更不可取，因为风险回报比极差。市场目前定价的标普500单日波动仅约35至40个基点，而历史上标普500日均波动约为68个基点。一旦出现任何微小新闻、跳涨或波动，标普500单日波幅就可能达到75个基点，这仅仅是市场的平均历史波动水平，却足以让期权空头头寸被击穿。因此，在当前极低波动率环境下卖出期权，风险回报极不划算。",
+      "detail_en": "The speaker notes that volatility premium is extremely low, meaning selling options requires taking on considerable market risk for very little reward. In this environment, buying options may not be advisable, but selling them is even worse due to the terrible risk-reward. The market is currently pricing in only about 35 to 40 basis points of daily move in the S&P 500, while the historical average daily move is around 68 basis points. Any minor headline, jump, or bump could push the S&P 500's daily move to 75 basis points—merely the historical average—which would be enough to blow out short option positions. Therefore, selling options in this ultra-low volatility environment offers a very poor risk-reward.",
+      "conclusion_zh": "在波动率极低、风险回报极差的环境下，卖出期权并非明智之举，投资者应警惕空头头寸被微小波动击穿的风险。",
+      "conclusion_en": "In an environment of extremely low volatility and poor risk-reward, selling options is not advisable, and investors should be wary of short positions being blown out by minor market moves.",
+      "key_points": [
+        {
+          "zh": "当前市场波动率溢价极低，卖出期权回报微薄但风险较大。",
+          "en": "Volatility premium is extremely low, offering little reward for option sellers while requiring substantial risk."
+        },
+        {
+          "zh": "市场定价的标普500单日波动仅约35-40个基点，而历史日均波动约为68个基点。",
+          "en": "The market is pricing in only about 35-40 basis points of daily S&P 500 movement, versus a historical average of around 68 basis points."
+        },
+        {
+          "zh": "任何微小新闻或波动都可能使标普500单日波幅升至75个基点，足以击穿期权空头头寸。",
+          "en": "Any minor headline or bump could push the S&P 500's daily move to 75 basis points, enough to blow out short option positions."
+        },
+        {
+          "zh": "讲话者认为在当前环境下卖出期权的风险回报比极差，自己不会卖出。",
+          "en": "The speaker views the risk-reward of selling options as terrible in this environment and would not sell them."
+        }
+      ],
+      "tags": [
+        "options",
+        "volatility",
+        "risk-reward",
+        "S&P 500"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:f2po3Efgaig",
+      "title": "Zelenskyy Orders New Strikes on Russian Refineries",
+      "title_zh": "泽连斯基下令恢复打击俄炼油厂，美乌围绕柴油与能源停火出现裂痕",
+      "url": "https://www.youtube.com/watch?v=f2po3Efgaig",
+      "published_at": "2026-10-15T18:05:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "macro",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "泽连斯基向《金融时报》表示，已下令恢复对俄罗斯炼油厂的打击，此前乌方曾暂停远程攻击三天。此举与特朗普推动的能源停火及允许更多俄罗斯柴油进入全球市场的协议相冲突，美乌分歧扩大。",
+      "summary_en": "Zelensky told the Financial Times he has ordered a resumption of strikes on Russian refineries, after a three-day pause in Ukrainian long-range attacks. The move clashes with Trump's announced energy truce and a deal to allow more Russian diesel onto the global market, widening the rift between Washington and Kyiv.",
+      "detail_zh": "乌克兰总统泽连斯基向《金融时报》表示，他已下令恢复对俄罗斯炼油厂的打击，而这一基础设施正是美方此前要求乌克兰停止攻击的对象，原因是担心其对美国柴油价格的影响。泽连斯基称，乌克兰此前对俄炼油厂的远程攻击曾暂停三天，但因俄罗斯持续打击乌克兰的发电厂和天然气基础设施，乌方将重新推进打击行动。特朗普宣布了一项允许更多俄罗斯柴油进入市场的协议，并宣称达成所谓能源停火，但报道指出双方在停火具体内容上似乎并未达成一致。泽连斯基对特朗普的不满，部分源于该柴油协议，也源于上周末俄罗斯袭击乌克兰基础设施时，由五角大楼拥有和运营的星盾（Star Shield）服务被放缓，使乌方无法按期望的速度自卫。报道称，华盛顿与基辅之间这种拉锯关系已持续一周多，并在上周五特朗普宣布柴油协议时达到顶点。与此同时，美国参议院通过了一项制裁法案，报道称这是一项重大胜利，且在华盛顿存在两党对该柴油协议的反对声音。",
+      "detail_en": "Ukrainian President Zelensky told the Financial Times he has ordered a resumption of strikes against Russian refineries — the very infrastructure the U.S. president had asked Ukraine to stop targeting over concerns about what it was doing to U.S. diesel prices. Zelensky said there had been a three-day pause in Ukrainian long-range attacks on Russian refineries, but Ukraine will now move ahead as Russia continues to pummel Ukrainian power plants and gas infrastructure. President Trump announced a deal to allow more Russian diesel onto the global market and announced a supposed energy truce, but the report notes neither side appeared to have agreed on what a truce would look like before it was announced. Zelensky's frustration with Trump stems partly from the diesel deal and partly from the fact that as Russia attacked Ukrainian infrastructure over the weekend, Ukraine felt it could not defend itself as quickly as it wanted because its Star Shield service, owned and operated by the Pentagon, was slowed down. The push and pull in the Washington-Kyiv relationship has been tracked for over a week and came to a head last Friday when Trump announced the diesel deal. Meanwhile, the U.S. Senate passed a sanctions package bill, described as a major win, amid bipartisan pushback in Washington against the diesel deal.",
+      "conclusion_zh": "美乌在能源停火与对俄制裁上的分歧扩大，乌克兰恢复打击俄炼油厂可能再度扰动柴油与能源市场，值得关注后续制裁法案与能源价格走向。",
+      "conclusion_en": "The widening U.S.-Ukraine rift over the energy truce and Russia sanctions, with Ukraine resuming strikes on Russian refineries, could again disrupt diesel and energy markets; watch the sanctions bill and energy prices.",
+      "key_points": [
+        {
+          "zh": "泽连斯基向《金融时报》表示已下令恢复对俄罗斯炼油厂的打击，此前曾暂停远程攻击三天。",
+          "en": "Zelensky told the Financial Times he ordered a resumption of strikes on Russian refineries after a three-day pause in long-range attacks."
+        },
+        {
+          "zh": "美方此前要求乌克兰停止打击俄炼油厂，担心影响美国柴油价格。",
+          "en": "The U.S. had asked Ukraine to stop targeting Russian refineries over concerns about U.S. diesel prices."
+        },
+        {
+          "zh": "特朗普宣布允许更多俄罗斯柴油进入市场的协议及所谓能源停火，但双方似乎未就停火内容达成一致。",
+          "en": "Trump announced a deal to allow more Russian diesel onto the market and a supposed energy truce, but the two sides appeared not to have agreed on what a truce would look like."
+        },
+        {
+          "zh": "泽连斯基的不满部分源于柴油协议，也源于五角大楼拥有和运营的星盾服务在俄袭击期间被放缓。",
+          "en": "Zelensky's frustration stems partly from the diesel deal and partly from the Pentagon-owned and operated Star Shield service being slowed during Russian attacks."
+        },
+        {
+          "zh": "美国参议院通过制裁法案，报道称这是重大胜利，华盛顿存在两党对柴油协议的反对声音。",
+          "en": "The U.S. Senate passed a sanctions package bill, described as a major win, amid bipartisan pushback in Washington against the diesel deal."
+        }
+      ],
+      "tags": [
+        "Russia-Ukraine",
+        "diesel",
+        "sanctions",
+        "energy",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4954555",
       "title": "Wall Street Lunch: Is AI More Important Than The Fed For Yields?",
@@ -5182,54 +5425,6 @@
         "money market funds",
         "blockchain",
         "cash management"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "188d30f2-ed4c-420e-b412-c151459c03ce",
-      "title": "The Fall Solo Six-Pack: Sports Games, the Return of Discretionary Macro, & AI Coming for Your Job",
-      "title_zh": "The Derivative 播客：CTA Expo 见闻、AI 对就业的早期信号与听众来信",
-      "url": "https://podcasters.spotify.com/pod/show/rcm-alts-the-derivative/episodes/The-Fall-Solo-Six-Pack-Sports-Games--the-Return-of-Discretionary-Macro---AI-Coming-for-Your-Job-e3q6ae1",
-      "published_at": "2026-10-08T19:13:26+00:00",
-      "source_name": "The Derivative",
-      "source_kind": "article",
-      "categories": [
-        "other",
-        "tech"
-      ],
-      "summary_zh": "本期 The Derivative 单人节目中，Jeff Malec 分享了 CTA Expo 的观察：系统性策略或已不再新鲜，而自主宏观（discretionary macro）正迎来高光时刻。他还讨论了湖人队出售、保险浮存金与体育特许经营的税收优惠，并审视 AI 对就业的早期证据——入门级知识型工作者已现警示信号。节目最后回应听众来信，涉及管理期货策略比较、尾部对冲与播客嘉宾等话题。",
-      "summary_en": "In this solo episode of The Derivative, Jeff Malec shares takeaways from the CTA Expo, where systematic strategies may be yesterday's novelty while discretionary macro is having a moment. He also discusses the Lakers sale, insurance float, and tax perks of owning a sports franchise, and examines early evidence on AI's impact on jobs—entry-level knowledge workers are showing warning signs. The episode wraps up with listener mail on managed-futures comparisons, tail hedging, and podcast guests.",
-      "detail_zh": "本期 The Derivative 为 Jeff Malec 单人主持的六合一节目。他首先谈到参加孩子比赛的重要性，并以高中高尔夫最后一轮以一杆之差无缘州赛作为引子。随后他分享了 CTA Expo 的见闻：系统性策略可能已是昨日的新鲜事，而自主宏观（discretionary macro）正迎来属于自己的时刻。他还深入探讨了湖人队的出售、保险浮存金，以及拥有体育特许经营权可能带来的税收优惠。他进一步思考超豪华度假社区是否正在变成自给自足的迷你城市，以及这些社区的水管工和球童是否可能是最不易被 AI 取代的工种之一。Jeff 还检视了 AI 与就业的早期证据：入门级知识型工作者已出现一些警示信号，而整体就业图景仍不明朗。节目最后是听众来信环节，涉及让更多 RCM 声音出现在播客中、让管理期货策略更易于比较，以及将尾部对冲重新带回讨论。",
-      "detail_en": "In this solo six-pack episode of The Derivative, Jeff Malec opens by making the case for showing up to your kids' games, framed by a high school golf final round that ended one stroke short of state. He then shares takeaways from the CTA Expo, where systematic strategies may be yesterday's novelty and discretionary macro is having a moment. He digs into the Lakers sale, insurance float, and the tax perks that can come with owning a sports franchise. He further wonders whether ultra-luxury resort communities are becoming self-contained mini-cities, and whether their plumbers and caddies could be among the workers least threatened by AI. Jeff checks the early evidence on AI and jobs: entry-level knowledge workers are showing some warning signs, even as the broader employment picture remains unsettled. He wraps up with listener mail on getting more RCM voices on the podcast, making managed-futures strategies easier to compare, and bringing tail hedging back into the conversation.",
-      "key_points": [
-        {
-          "zh": "CTA Expo 观察：系统性策略或已不再新鲜，自主宏观（discretionary macro）正迎来高光时刻。",
-          "en": "CTA Expo takeaway: systematic strategies may be yesterday's novelty, while discretionary macro is having a moment."
-        },
-        {
-          "zh": "讨论了湖人队出售、保险浮存金以及拥有体育特许经营权可能带来的税收优惠。",
-          "en": "Discussed the Lakers sale, insurance float, and the tax perks that can come with owning a sports franchise."
-        },
-        {
-          "zh": "提出超豪华度假社区是否正变成自给自足的迷你城市，以及其水管工和球童是否是最不易被 AI 取代的工种之一。",
-          "en": "Raised whether ultra-luxury resort communities are becoming self-contained mini-cities, and whether their plumbers and caddies could be among the workers least threatened by AI."
-        },
-        {
-          "zh": "AI 对就业的早期证据：入门级知识型工作者已现警示信号，整体就业图景仍不明朗。",
-          "en": "Early evidence on AI and jobs: entry-level knowledge workers are showing warning signs, even as the broader employment picture remains unsettled."
-        },
-        {
-          "zh": "听众来信涉及让更多 RCM 声音出现在播客、让管理期货策略更易比较，以及将尾部对冲重新带回讨论。",
-          "en": "Listener mail covered getting more RCM voices on the podcast, making managed-futures strategies easier to compare, and bringing tail hedging back into the conversation."
-        }
-      ],
-      "tags": [
-        "CTA Expo",
-        "discretionary macro",
-        "managed futures",
-        "tail hedging",
-        "AI and jobs"
       ],
       "tickers": [],
       "sentiment": "neutral"
