@@ -33,6 +33,11 @@ def _strip_html(html: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", BeautifulSoup(html, "html.parser").get_text("\n")).strip()
 
 
+def _is_live(title: str) -> bool:
+    """Heuristic: treat live streams (title has LIVE / 🔴 / 直播) as skippable."""
+    return bool(re.search(r"\blive\b", title, re.IGNORECASE)) or "🔴" in title or "直播" in title
+
+
 def list_recent_videos(channel_url: str, limit: int = 10, title_filter: str | None = None) -> list[dict]:
     """Return recent videos (optionally filtered by title substring) from the RSS."""
     cid = _channel_id(channel_url)
@@ -42,6 +47,8 @@ def list_recent_videos(channel_url: str, limit: int = 10, title_filter: str | No
     videos = []
     for entry in parsed.entries:
         title = entry.get("title", "")
+        if _is_live(title):
+            continue  # skip live streams
         if title_filter and title_filter.lower() not in title.lower():
             continue
         vid = entry.get("yt_videoid") or (entry.get("id", "").split(":")[-1])
