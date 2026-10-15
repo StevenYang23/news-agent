@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:07:55.913953+00:00",
+  "generated_at": "2026-10-15T14:15:59.541250+00:00",
   "insights": [
     {
       "guid": "yt:1Ims_JgO2Wk",
@@ -47,6 +47,56 @@
         "correction risk",
         "seasonality",
         "AI spending"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bOkezytkLL4",
+      "title": "Why There’s An ‘Extremely Fierce’ Battle For TSMC's Limited Chip Manufacturing Capacity",
+      "title_zh": "台积电产能争夺战：逻辑晶圆成AI算力新瓶颈",
+      "url": "https://www.youtube.com/watch?v=bOkezytkLL4",
+      "published_at": "2026-10-15T14:00:08+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "台积电产能极度紧张，北美总裁Sajiv Dalal每天接到至少十通关于晶圆产能的电话。逻辑晶圆（GPU/CPU）与存储晶圆不同，需长期规划、定制设计且不可互换，Nvidia、AMD、苹果等巨头正激烈争夺每一片晶圆。台积电2025年出货1500万片晶圆仍供不应求，订单持续增长，可能将产能目标上调10%至20%。",
+      "summary_en": "TSMC capacity is extremely tight, with North America President Sajiv Dalal receiving at least ten calls a day about wafer capacity. Logic wafers (GPUs/CPUs) differ from memory wafers—they require long-term planning, custom design, and are not interchangeable. Giants like Nvidia, AMD, and Apple are fiercely competing for every wafer. TSMC shipped 15 million wafers in 2025 but it wasn't enough; orders are increasing and capacity targets may be raised by 10-20%.",
+      "detail_zh": "台积电制造了全球超过90%的最先进半导体，从苹果到英伟达到小型初创公司，每家芯片公司都需要在其产线上获得空间。台积电北美总裁Sajiv Dalal表示每天至少接到十通关于晶圆产能的电话。逻辑晶圆（负责AI最大工作负载的GPU和CPU）与存储晶圆不同，是长期规划、定制设计且不可互换的，Nvidia、AMD、苹果正在为每一片晶圆激烈争夺。台积电2025年出货1500万片晶圆，但订单持续增长，可能将产能目标上调10%至20%，达到每月12万片晶圆启动量。台积电共有534家客户，前十大客户占2025年净营收的78%，最大客户占19%，第二大客户占17%。大型客户如苹果和Nvidia承诺大量采购最先进、最昂贵的领先节点，可能获得最优惠定价。台积电通过预测需求来分配晶圆，希望了解客户的计划、目标终端市场及长期供应需求，避免客户大量采购后消失。小型初创公司如D-Matrix在较不紧张的6纳米节点生产，Cerebras则因小批量、设计复杂且利润率高而获得产能。与已锁定供应的长期客户结盟也是新进入者获取产能的途径之一。",
+      "detail_en": "TSMC makes more than 90% of the world's most advanced semiconductors, and every chip company from Apple to Nvidia to small startups needs space on its manufacturing lines. TSMC North America President Sajiv Dalal said he gets at least ten calls a day about wafer capacity. Logic wafers (GPUs and CPUs responsible for the biggest AI workloads) differ from memory wafers—they are planned long-term, custom designed, and not interchangeable. Nvidia, AMD, and Apple are fighting for every wafer. TSMC shipped 15 million wafers in 2025 but it wasn't enough; orders are increasing and capacity targets may be raised by 10-20% to 120,000 wafer starts per month. TSMC has 534 customers, with its top ten accounting for 78% of net revenue in 2025, the largest at 19% and second largest at 17%. Larger customers like Apple and Nvidia committing to large volumes at the most advanced and expensive leading-edge nodes get probably the most favorable pricing. TSMC allocates wafers by forecasting demand, wanting to know customers' plans, target end markets, and long-term supply needs to avoid customers who buy up a bunch and then disappear. Small startups like D-Matrix make chips on the less constrained 6-nanometer node, while Cerebras got capacity due to smaller volume, less risk, and complex designs with good margins. Aligning with longtime customers who've already locked in supply is another way for new entrants to get capacity.",
+      "conclusion_zh": "台积电逻辑晶圆产能已成为AI算力扩张的关键瓶颈，Nvidia、AMD、苹果等巨头争夺有限产能，小型初创公司需通过关系、低风险设计或与长期客户结盟获取产能，产能扩张进度将直接影响AI资本开支和收入增长目标的实现。",
+      "conclusion_en": "TSMC's logic wafer capacity has become a key bottleneck for AI compute expansion. Giants like Nvidia, AMD, and Apple are competing for limited capacity, while small startups must secure capacity through relationships, lower-risk designs, or aligning with longtime customers. The pace of capacity expansion will directly impact AI capex and revenue growth targets.",
+      "key_points": [
+        {
+          "zh": "台积电制造全球超90%最先进半导体，产能极度紧张，北美总裁每天接到至少十通关于晶圆产能的电话。",
+          "en": "TSMC makes over 90% of the world's most advanced semiconductors; capacity is extremely tight, with the North America President receiving at least ten calls a day about wafer capacity."
+        },
+        {
+          "zh": "逻辑晶圆（GPU/CPU）与存储晶圆不同，需长期规划、定制设计且不可互换，Nvidia、AMD、苹果正激烈争夺每一片晶圆。",
+          "en": "Logic wafers (GPUs/CPUs) differ from memory wafers—they require long-term planning, custom design, and are not interchangeable; Nvidia, AMD, and Apple are fiercely competing for every wafer."
+        },
+        {
+          "zh": "台积电2025年出货1500万片晶圆仍供不应求，可能将产能目标上调10%至20%，达到每月12万片晶圆启动量。",
+          "en": "TSMC shipped 15 million wafers in 2025 but it wasn't enough; capacity targets may be raised by 10-20% to 120,000 wafer starts per month."
+        },
+        {
+          "zh": "台积电前十大客户占2025年净营收78%，最大客户占19%，第二大客户占17%；大型客户可能获得最优惠定价。",
+          "en": "TSMC's top ten customers accounted for 78% of 2025 net revenue, with the largest at 19% and second largest at 17%; larger customers likely get the most favorable pricing."
+        },
+        {
+          "zh": "台积电通过预测需求分配晶圆，关注客户计划、目标终端市场及长期供应需求，避免客户大量采购后消失。",
+          "en": "TSMC allocates wafers by forecasting demand, focusing on customers' plans, target end markets, and long-term supply needs to avoid customers who buy up a bunch and then disappear."
+        }
+      ],
+      "tags": [
+        "TSMC",
+        "AI chips",
+        "wafer capacity",
+        "semiconductor supply chain",
+        "Nvidia"
       ],
       "tickers": [],
       "sentiment": "neutral"
