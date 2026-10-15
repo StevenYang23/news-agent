@@ -1,6 +1,6 @@
 {
   "settings": {
-    "lookback_days": 30,
+    "lookback_days": 7,
     "us_equity_only": true,
     "max_items_per_source": 10
   },

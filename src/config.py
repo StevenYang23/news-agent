@@ -34,7 +34,7 @@ AUDIO_DIR.mkdir(parents=True, exist_ok=True)
 SOURCES_PATH = ROOT / "config" / "sources.json"
 
 # Pipeline settings (defaults; overridden by sources.json "settings" block)
-LOOKBACK_DAYS = 30
+LOOKBACK_DAYS = 7
 US_EQUITY_ONLY = True
 MAX_ITEMS_PER_SOURCE = 10
 # Whether to fetch YouTube auto-captions (slow / rate-limited) or just use the
