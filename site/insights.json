@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-10-15T15:16:18.555195+00:00",
+  "generated_at": "2026-10-15T16:16:16.354432+00:00",
   "insights": [
+    {
+      "guid": "yt:kqIZbRqSLuU",
+      "title": "Bloomberg Surveillance 10/15/2026",
+      "title_zh": "AI交易承压：CoreWeave债务陷困境，芯片股连跌六日",
+      "url": "https://www.youtube.com/watch?v=kqIZbRqSLuU",
+      "published_at": "2026-10-15T15:39:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "市场风险偏好恶化，投资者抛售科技股、涌入债券，芯片股连续六个交易日下跌。CoreWeave 2032年债务从四个月前的面值跌至70多美元区间，显示AI算力融资端出现信用压力，引发对芯片需求可持续性的担忧。T. Rowe Price的Sebastian Page则认为AI终端需求仍在加速，对AI交易未来6至12个月保持乐观，但强调需精选个股。",
+      "summary_en": "Risk aversion gripped markets as investors dumped tech and piled into bonds, sending chip stocks to a sixth straight losing session. CoreWeave's 2032 debt has fallen from par four months ago to the 70s, signaling credit stress in AI compute financing and raising questions about chip demand sustainability. T. Rowe Price's Sebastian Page remains optimistic on the AI trade over the next 6-12 months, citing accelerating end demand, but stresses selective stock picking.",
+      "detail_zh": "市场进入周四时被风险厌恶情绪主导，投资者抛售科技股、涌入债券，压低收益率。杠杆化AI算力融资端出现困境迹象，信用市场的紧张情绪拖累芯片股，使其连续六个交易日下跌。Broadcom CEO谈及投资者排队入场、可能像赌场一样投机；一位前美联储官员认为这可能是一个泡沫；中国在存储芯片领域可能以更低成本变得更具竞争力——这些因素都开始冲击AI交易。CoreWeave的2032年债务四个月前还交易在面值，如今已跌至70多美元区间，陷入深度折价，可能危及芯片需求来源。芯片需求有两大来源：一是投资级、资金充裕的超大规模企业资产负债表（被认为对利率不敏感），二是像CoreWeave这样杠杆更高的参与者。债券市场方面，10年期收益率略高于5%，此前CPI数据高于预期，但债市抛售未能持续；过去24小时前端曲线出现25个基点的交易区间，从5.95%回落至4.70%。T. Rowe Price的Sebastian Page表示，AI交易将出现波动，因为杠杆比以往更高，但从基本面看，他对未来6至12个月的AI交易持乐观态度：代币支出同比增长700%，代币需求因成本下降而增长18倍，企业采用仍处于早期，约20%的企业至少有一个代理流程，咨询顾问估计这一比例将升至80%。他认为资本仍然可得，微软和Alphabet等云侧公司的企业利差甚至低于平均水平。他将当前阶段比作'可卡因阶段'——大家免费获得、上瘾，之后才开始收费。他承认会有脆弱玩家陷入困境，但认为需求仍在拉动交易前行，并建议在回调中非常选择性地买入，关注芯片制造商、存储、封装、建设、能源供应等环节，强调需要主动管理和精选个股。",
+      "detail_en": "Markets entered Thursday gripped by risk aversion, with investors dumping tech and piling into bonds, driving yields lower. Signs of distress emerged in leveraged AI compute financing, and credit jitters sank chip stocks for a sixth straight losing session. The Broadcom CEO discussed investors lining up and potentially gambling like a casino; a former Fed official suggested this could be a bubble; and China potentially becoming more competitive in memory at lower costs — all starting to hit the AI trade. CoreWeave's 2032 debt was trading at par four months ago but is now in the 70s, deep into double digits, potentially compromising the source of demand for chip players. There are two big sources of chip demand: investment-grade, well-funded hyperscaler balance sheets (seen as largely rate-insensitive), and more leveraged players like CoreWeave. In bonds, the 10-year yield is just above 5% after a hotter-than-expected CPI print, but the selloff did not stick; the front end saw a 25 basis point trading range in the last 24 hours, from 5.95% back to 4.70%. T. Rowe Price's Sebastian Page said there will be volatility in the AI trade because it is more levered than before, but fundamentally he is optimistic for the next 6-12 months: token spend is up 700% year-over-year, token demand is up 18x as costs fall, enterprise adoption is early with about 20% of enterprises having at least one agentic process, and consultants estimate that will reach 80%. He believes capital is still available, noting corporate spreads for cloud players like Microsoft and Alphabet are comparable to or lower than average. He compared the current phase to a 'crack cocaine phase' — everyone gets it for free, gets hooked, and then pays later. He acknowledged there will be fragile players that get in trouble, but sees demand still pulling the trade forward, and would lean into weakness very selectively across chipmakers, memory, packaging, construction, and energy supply, stressing the need for active management and selective stock picking.",
+      "conclusion_zh": "AI交易的杠杆化融资端（如CoreWeave）正出现信用压力，短期波动加剧；但终端需求仍在加速，投资者可在回调中精选芯片、存储、封装及能源供应等环节的个股。",
+      "conclusion_en": "Credit stress is emerging in the leveraged financing side of the AI trade (e.g., CoreWeave), intensifying near-term volatility; however, end demand is still accelerating, and investors can selectively pick stocks across chips, memory, packaging, and energy supply on pullbacks.",
+      "key_points": [
+        {
+          "zh": "芯片股连续六个交易日下跌，投资者抛售科技股、涌入债券，风险厌恶情绪主导市场。",
+          "en": "Chip stocks fell for a sixth straight session as investors dumped tech and piled into bonds amid broad risk aversion."
+        },
+        {
+          "zh": "CoreWeave 2032年债务从四个月前的面值跌至70多美元区间，显示AI算力融资端出现信用压力，可能危及芯片需求来源。",
+          "en": "CoreWeave's 2032 debt fell from par four months ago to the 70s, signaling credit stress in AI compute financing that could compromise chip demand."
+        },
+        {
+          "zh": "芯片需求分两类：资金充裕的投资级超大规模企业（对利率不敏感）与CoreWeave等杠杆更高的参与者。",
+          "en": "Chip demand splits into two buckets: well-funded investment-grade hyperscalers (largely rate-insensitive) and more leveraged players like CoreWeave."
+        },
+        {
+          "zh": "T. Rowe Price的Sebastian Page认为AI终端需求仍在加速（代币支出同比增700%，代币需求增18倍），对未来6至12个月AI交易保持乐观，但强调需精选个股。",
+          "en": "T. Rowe Price's Sebastian Page sees accelerating end demand (token spend up 700% YoY, token demand up 18x) and remains optimistic on the AI trade over 6-12 months, but stresses selective stock picking."
+        },
+        {
+          "zh": "10年期美债收益率略高于5%，CPI高于预期后债市抛售未能持续，前端曲线24小时内出现25个基点交易区间。",
+          "en": "The 10-year Treasury yield is just above 5%; the post-CPI selloff did not stick, with a 25bp trading range at the front end over 24 hours."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "CoreWeave",
+        "chip stocks",
+        "credit stress",
+        "bond yields"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:ryF6_CQbCPk",
       "title": "Bonds Seeing ‘Classic Flight to Quality,’ Says JPM’s Berro",
@@ -4884,44 +4936,6 @@
         "MU",
         "UBER"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:jOFYOIO6M8o",
-      "title": "The Dispersion Trade: Why Single Stocks Are Moving and the Index Isn't | SpotGamma",
-      "title_zh": "个股看涨偏斜上升而指数波动率平静，SpotGamma与OCC解析离散度交易",
-      "url": "https://www.youtube.com/watch?v=jOFYOIO6M8o",
-      "published_at": "2026-10-08T15:24:50+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility"
-      ],
-      "summary_zh": "SpotGamma的Brent Kochuba与OCC的Mat Cashman指出，当前个股看涨期权偏斜（call skew）正在上升，而指数波动率保持平静。他们解释了离散度交易（dispersion trade）的逻辑，并强调便宜的短期限期权并非适合卖出的标的。",
-      "summary_en": "Brent Kochuba (SpotGamma) and Mat Cashman (OCC) note that single-stock call skew is lifting while index volatility remains quiet. They explain the dispersion trade and why cheap short-dated options are not the ones to sell.",
-      "detail_zh": "SpotGamma的Brent Kochuba与OCC的Mat Cashman在讨论中指出，当前市场呈现个股看涨期权偏斜上升、而指数波动率保持平静的分化格局。两人围绕离散度交易（dispersion trade）展开解释，即利用个股与指数之间波动率差异的策略逻辑。他们特别提醒，便宜的短期限期权并不是适合卖出的对象。原文未提供更多具体数字或策略细节。",
-      "detail_en": "Brent Kochuba (SpotGamma) and Mat Cashman (OCC) discuss a divergence in which single-stock call skew is lifting while index volatility stays quiet. They explain the dispersion trade, which centers on the volatility relationship between single stocks and the index. They specifically caution that cheap short-dated options are not the ones to sell. No further figures or strategy details are provided in the source.",
-      "key_points": [
-        {
-          "zh": "个股看涨期权偏斜正在上升，而指数波动率保持平静。",
-          "en": "Single-stock call skew is lifting while index vol stays quiet."
-        },
-        {
-          "zh": "SpotGamma的Brent Kochuba与OCC的Mat Cashman解释了离散度交易。",
-          "en": "Brent Kochuba (SpotGamma) and Mat Cashman (OCC) explain the dispersion trade."
-        },
-        {
-          "zh": "两人指出便宜的短期限期权并非适合卖出的标的。",
-          "en": "They note that cheap short-dated options aren't the ones to sell."
-        }
-      ],
-      "tags": [
-        "options",
-        "volatility",
-        "dispersion",
-        "skew"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
