@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-10-15T19:14:26.040172+00:00",
+  "generated_at": "2026-10-15T20:14:33.676156+00:00",
   "insights": [
+    {
+      "guid": "6ad1248b94a3daa98eca62d9",
+      "title": "The AI boom stumbles",
+      "title_zh": "科技股与债券周四遭抛售，AI泡沫担忧升温",
+      "url": "https://shows.acast.com/unhedged/episodes/the-ai-boom-stumbles",
+      "published_at": "2026-10-15T20:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "周四科技股与债券同时遭到抛售，令投资者对AI行情是否即将破裂的疑问更加紧迫。播客主持人Katie Martin与Rob Armstrong讨论了这一市场动荡，并提出若泡沫破裂投资者可寻求何处避险的问题。",
+      "summary_en": "Tech stocks and bonds took a beating on Thursday, intensifying investor concerns over whether the AI boom is about to burst. Hosts Katie Martin and Rob Armstrong discuss the market disturbance and ask where investors could seek shelter if the bubble really is about to pop.",
+      "detail_zh": "周四科技股和债券双双遭到抛售，这加剧了投资者数月来一直在思考的问题：AI热潮是否即将破裂。Katie Martin和Rob Armstrong在播客中表示，他们感受到市场出现了巨大的扰动。节目还探讨了如果泡沫真的即将破裂，投资者可以去哪里寻求避险。此外，Rob在节目中做空了字母K，Katie则做空了蛋白质回收。",
+      "detail_en": "Tech stocks and bonds took a kicking on Thursday, adding urgency to the question investors have been asking for months: is the AI boom about to go splat? Katie Martin and Rob Armstrong said they sense a great disturbance in the Force. The episode also explored where investors can run for shelter if the bubble really is about to burst. Additionally, Rob shorts the letter K, and Katie shorts protein recycling.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "周四科技股与债券同时遭到抛售，市场动荡明显。",
+          "en": "Tech stocks and bonds both took a beating on Thursday, signaling notable market turbulence."
+        },
+        {
+          "zh": "投资者对AI行情是否即将破裂的担忧加剧。",
+          "en": "Investor concerns over whether the AI boom is about to burst have intensified."
+        },
+        {
+          "zh": "主持人Katie Martin和Rob Armstrong认为市场出现了重大扰动。",
+          "en": "Hosts Katie Martin and Rob Armstrong sense a great disturbance in the market."
+        },
+        {
+          "zh": "节目讨论了若泡沫破裂，投资者可寻求何处避险。",
+          "en": "The episode discussed where investors can seek shelter if the bubble bursts."
+        }
+      ],
+      "tags": [
+        "AI bubble",
+        "tech selloff",
+        "bonds",
+        "market turbulence"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:31mgQDBQ_5U",
+      "title": "GOP PAC, Talarico Raise Record Cash",
+      "title_zh": "俄乌能源停火破裂，油价走高叠加PPI超预期",
+      "url": "https://www.youtube.com/watch?v=31mgQDBQ_5U",
+      "published_at": "2026-10-15T19:35:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "乌克兰总统泽连斯基下令恢复对俄罗斯炼油厂的打击，俄乌能源停火破裂，与特朗普在俄柴油协议和Starlink问题上的分歧加深。中东霍尔木兹海峡10月已有26艘船只遭袭，超过9月全月，能源价格与通胀压力上升，当日PPI数据高于预期。",
+      "summary_en": "Ukrainian President Zelenskyy ordered a resumption of strikes on Russian refineries, ending the Russia-Ukraine energy ceasefire and deepening his rift with President Trump over the Russian diesel deal and Starlink access. In the Middle East, 26 ships have been hit in the Strait of Hormuz in October, already more than all of September, feeding higher energy prices and inflation, with PPI data coming in hotter than expected.",
+      "detail_zh": "乌克兰总统泽连斯基向《金融时报》表示，他已下令恢复对俄罗斯炼油厂的打击，而特朗普此前曾要求乌克兰停止针对这些能源基础设施，理由是担心柴油价格——美国柴油价格仍高于每加仑6美元。泽连斯基对特朗普上周与俄罗斯达成的允许更多柴油进入全球市场的协议感到不满，同时俄罗斯周末攻击乌克兰能源基础设施时，乌克兰认为由五角大楼拥有和运营的Star Shield服务被放缓，使其无法按所需速度自卫。特朗普在亚利桑那和蒙大拿的竞选活动中重申，一旦伊朗战争结束，能源价格将迅速下降。但中东局势正在升级：据《纽约时报》援引追踪数据，10月迄今霍尔木兹海峡已有26艘船只被弹体击中，已高于9月全月；隔夜还出现一艘船只沉没、21名船员被迫撤离的罕见事件。国际能源署表示成员国已同意完成3月干预行动中尚未释放的1亿桶石油。市场方面，WTI原油上涨3.2%至每桶98美元上方，布伦特原油突破106美元；费城半导体指数下跌2.6%，资金从芯片股轮动至更广泛股票；10年期美债收益率5.08%，30年期5.42%。",
+      "detail_en": "Ukrainian President Zelenskyy told the Financial Times he has ordered a resumption of strikes on Russian refineries, which President Trump had asked Ukraine to stop targeting out of concern for diesel prices, which remain above $6 a gallon in the U.S. Zelenskyy is upset with Trump over last week's diesel deal with Russia allowing more diesel onto the global market, and because when Russia attacked Ukrainian energy infrastructure over the weekend, Ukraine felt it could not defend itself as quickly as it wanted because its Star Shield service, owned and operated by the Pentagon, was slowed down. Trump, campaigning in Arizona and Montana, reiterated that energy prices will fall rapidly once the war with Iran is over. But escalation is rising in the Middle East: the New York Times, citing tracking data, said 26 ships have been hit by projectiles in the Strait of Hormuz so far in October, already more than all of September, with a ship sinking overnight and a 21-person crew forced to evacuate. The International Energy Agency said member countries agreed to complete the release of 100 million barrels of oil still outstanding from a March intervention. Markets: WTI crude rose 3.2% to above $98 a barrel, Brent above $106; the Philadelphia Semiconductor Index fell 2.6% as traders rotated out of chipmakers into a broader category of stocks; the 10-year Treasury yield was 5.08% and the 30-year 5.42%.",
+      "conclusion_zh": "俄乌能源停火破裂与霍尔木兹海峡袭击升级共同推高能源价格，叠加PPI超预期，通胀压力与地缘风险成为市场关注焦点。",
+      "conclusion_en": "The collapse of the Russia-Ukraine energy ceasefire and escalating Strait of Hormuz attacks are pushing energy prices higher, and with PPI hotter than expected, inflation pressure and geopolitical risk are key market concerns.",
+      "key_points": [
+        {
+          "zh": "泽连斯基下令恢复对俄罗斯炼油厂的打击，俄乌能源停火破裂，与特朗普在俄柴油协议和Starlink问题上的分歧加深。",
+          "en": "Zelenskyy ordered a resumption of strikes on Russian refineries, ending the energy ceasefire and deepening his rift with Trump over the Russian diesel deal and Starlink."
+        },
+        {
+          "zh": "中东局势升级：10月霍尔木兹海峡已有26艘船只遭袭，超过9月全月，并出现船只沉没、21名船员撤离的罕见事件。",
+          "en": "Middle East escalation: 26 ships hit in the Strait of Hormuz in October, more than all of September, with a rare ship sinking and a 21-person crew evacuating."
+        },
+        {
+          "zh": "能源价格走高：WTI原油涨3.2%至98美元上方，布伦特突破106美元；美国柴油价格仍高于每加仑6美元。",
+          "en": "Energy prices higher: WTI up 3.2% above $98, Brent above $106; U.S. diesel remains above $6 a gallon."
+        },
+        {
+          "zh": "当日PPI数据高于预期，能源价格上涨正传导至更广泛的通胀。",
+          "en": "PPI data came in hotter than expected, with higher energy prices filtering through to broader inflation."
+        },
+        {
+          "zh": "市场轮动：费城半导体指数下跌2.6%，资金从芯片股转向更广泛股票；10年期美债收益率5.08%。",
+          "en": "Market rotation: the Philadelphia Semiconductor Index fell 2.6% as traders rotated out of chipmakers into a broader category of stocks; the 10-year Treasury yield was 5.08%."
+        }
+      ],
+      "tags": [
+        "oil",
+        "russia-ukraine",
+        "middle-east",
+        "inflation",
+        "ppi"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:fmvKI28BFXw",
       "title": "CoreWeave, Neocloud Leverage a Concern for Gil Luria",
