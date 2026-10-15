@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-10-15T13:56:44.058297+00:00",
+  "generated_at": "2026-10-15T14:07:55.913953+00:00",
   "insights": [
+    {
+      "guid": "yt:1Ims_JgO2Wk",
+      "title": "Tech Is Rolling Over. Yields Are Falling. Why Jim Paulsen is Watching the Walmart Recession Signal",
+      "title_zh": "Jim Paulsen：金融条件收紧下美股回调风险上升，但不预示熊市",
+      "url": "https://www.youtube.com/watch?v=1Ims_JgO2Wk",
+      "published_at": "2026-10-15T14:00:26+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "Jim Paulsen认为金融条件收紧叠加投资者对科技股长期领涨的过度自信，美股面临急跌风险，但这不需要以衰退或牛市终结为前提。他通过收益率、油价、美元走强对经济的滞后影响，以及科技支出放缓对市场领导地位的挑战，勾勒出一条可能的回调路径：增长放缓、通胀与收益率回落，随后复苏并推动牛市再启。",
+      "summary_en": "Jim Paulsen sees a risk of a sharp stock market correction as financial conditions tighten and investors grow complacent about tech's long leadership, though this does not require a recession or the end of the bull market. He outlines how rising yields, oil prices, and a firmer dollar hit the economy with a lag, and how slower technology spending could challenge market leadership, sketching a possible path through a correction: slowing growth, lower inflation and yields, and a recovery that could give the bull market another run.",
+      "detail_zh": "Jim Paulsen在本期节目中表示，随着金融条件收紧、投资者对科技股长期领涨习以为常，美股存在急跌回调的风险，但他并不因此预测衰退或熊市。他通过一系列图表说明，债券收益率、油价和美元走强会以滞后方式影响经济，而有利的季节性因素（11月至4月）在限制性条件下可能提供的支撑弱于投资者预期。他关注科技支出相对GDP的比重，认为科技支出放缓可能挑战当前的市场领导格局，并讨论AI应用、定价以及将投资转化为利润的难度。他指出，科技股长达二十年的领涨可能助长自满情绪和拥挤持仓，并区分了AI、通胀受益板块与他所称的\"Modest Seven\"（七个落后板块）。他还从零售、住房、就业以及沃尔玛相对表现中寻找信号，并提到\"沃尔玛衰退信号\"。他给出的可能路径是：增长放缓、通胀与收益率回落，随后复苏，从而为牛市提供又一轮上涨机会。",
+      "detail_en": "In this episode, Jim Paulsen says a sharp stock market correction is a risk as financial conditions tighten and investors grow comfortable with tech's long run of leadership, but his warning does not require a recession or the end of the bull market. Using charts, he explains how rising bond yields, oil prices, and a firmer dollar affect the economy with a lag, and why favorable November-to-April seasonality may offer less support than investors expect under restrictive conditions. He examines technology spending relative to GDP and argues a slowdown in tech spending could challenge market leadership, while also discussing AI adoption, pricing, and the challenge of turning investment into profits. He notes that two decades of tech leadership may encourage complacency and crowded positioning, and distinguishes between AI, inflation-assisted sectors, and what he calls the \"Modest Seven\" lagging sectors. He also looks for signals in retail, housing, employment, and Walmart's relative performance, referencing the Walmart Recession Signal. He closes with a possible path through a correction: slowing growth, lower inflation and yields, and a recovery that could give the bull market another run.",
+      "conclusion_zh": "投资者应关注金融条件收紧、科技支出放缓及滞后宏观信号的叠加风险，回调可能为下一轮牛市上涨创造条件。",
+      "conclusion_en": "Investors should watch the combined risks of tightening financial conditions, slower tech spending, and lagged macro signals; a correction could set up the next bull-market advance.",
+      "key_points": [
+        {
+          "zh": "Jim Paulsen认为金融条件收紧带来急跌回调风险，但不需要以衰退或熊市为前提。",
+          "en": "Jim Paulsen sees correction risk from tightening financial conditions, but it does not require a recession or bear market."
+        },
+        {
+          "zh": "债券收益率、油价和美元走强对经济的影响存在滞后，可能削弱11月至4月的季节性优势。",
+          "en": "Rising bond yields, oil prices, and a firmer dollar affect the economy with a lag and may weaken the November-to-April seasonal advantage."
+        },
+        {
+          "zh": "科技支出相对GDP放缓可能挑战科技股的市场领导地位，AI投资转化为利润存在难度。",
+          "en": "Slower technology spending relative to GDP could challenge tech leadership, and turning AI investment into profits is a challenge."
+        },
+        {
+          "zh": "科技股二十年领涨可能助长自满与拥挤持仓，AI、通胀受益板块与\"Modest Seven\"之间出现分化。",
+          "en": "Two decades of tech leadership may encourage complacency and crowded positioning, with a divide between AI, inflation-assisted sectors, and the \"Modest Seven.\""
+        },
+        {
+          "zh": "可能的回调路径：增长放缓、通胀与收益率回落，随后复苏并推动牛市再启。",
+          "en": "A possible path through a correction: slowing growth, lower inflation and yields, then a recovery that could give the bull market another run."
+        }
+      ],
+      "tags": [
+        "financial conditions",
+        "tech leadership",
+        "correction risk",
+        "seasonality",
+        "AI spending"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:yVrCuk5C930",
+      "title": "ADP's Richardson: This Is a Lopsided Economy",
+      "title_zh": "ADP：通胀升温而薪资跑输，劳动力市场焦点从就业转向工资",
+      "url": "https://www.youtube.com/watch?v=yVrCuk5C930",
+      "published_at": "2026-10-15T13:42:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "ADP数据显示，就业增长依然稳健（近八周多数时间月增约9万），但薪资同比仅3.2%，低于3.7%的CPI，实际购买力持续承压。ADP的Nela Richardson指出，劳动力市场的关注点已从就业增量转向工资，且这种薪资与通胀的紧张关系已持续五年，零售销售因此显得更为温和。",
+      "summary_en": "ADP data shows job gains remain solid (roughly 90,000 per month over most of the last eight weeks), but year-over-year pay growth of 3.2% trails the 3.7% CPI print, pressuring purchasing power. ADP's Nela Richardson says the labor market's focal point has shifted from job gains to wages, a tension that has persisted for five years, and retail sales are starting to look more modest as a result.",
+      "detail_zh": "ADP的Nela Richardson在访谈中表示，当前经济数据的故事很简单：通胀数据偏热，但薪资未能跟上，这使劳动力市场的观察重点从就业增量转向工资。就业方面依然稳健，过去八周中除最近一周外均有增长，月均新增约9万个岗位。紧张之处在薪资：ADP口径下薪资同比为3.2%，而CPI为3.7%，购买力在通胀回升之际减速。她强调这并非一次性现象，而是已持续五年。这种压力也体现在零售销售上，其表现开始比整体经济增长更为温和。她形容这是一个“失衡的经济”：在AI热潮及所需基础设施推动下，上游生产环节出现加班、经济准备大举投资，但在这些特定行业之外，劳动者的议价能力并未同步增强——过去可能无需开口就能拿到额外奖金，如今则必须主动争取并表现出色。",
+      "detail_en": "ADP's Nela Richardson said the story in the data is simple: inflation prints are hotter while paychecks are not keeping up, shifting the labor market's watch point from job gains to wages. Job gains remain solid, with increases in seven of the last eight weeks and tracking upwards of 90,000 jobs per month. The tension is in wages: ADP shows 3.2% year-over-year pay growth versus a 3.7% CPI print, meaning purchasing power is decelerating as inflation picks up. She stressed this is not a one-time tension but has been going on for five years. That pressure is showing up in retail sales, which are starting to look more modest than broader economic growth. She described a lopsided economy: overtime pay is appearing upstream of production, and the economy is ready to invest in a big way amid the AI boom and its required infrastructure, yet workers outside those specific industries are not seeing the same bargaining power—where extra bonuses once came without asking, now workers have to ask and be good at their job.",
+      "conclusion_zh": "薪资增速持续低于通胀，意味着实际购买力承压并可能拖累消费，劳动力市场的关键变量已从就业转向工资。",
+      "conclusion_en": "With wage growth persistently trailing inflation, real purchasing power is under pressure and could weigh on consumption; the key labor-market variable has shifted from job gains to wages.",
+      "key_points": [
+        {
+          "zh": "就业增长依然稳健：过去八周多数时间增加，月均约9万个岗位。",
+          "en": "Job gains remain solid: increases in most of the last eight weeks, tracking upwards of 90,000 jobs per month."
+        },
+        {
+          "zh": "薪资同比3.2%低于CPI的3.7%，购买力在通胀回升时减速。",
+          "en": "Year-over-year pay growth of 3.2% trails the 3.7% CPI print, so purchasing power is decelerating as inflation picks up."
+        },
+        {
+          "zh": "薪资与通胀的紧张关系并非一次性，已持续五年。",
+          "en": "The wage-inflation tension is not a one-time event; it has been going on for five years."
+        },
+        {
+          "zh": "零售销售开始显得比整体经济增长更为温和。",
+          "en": "Retail sales are starting to look more modest than broader economic growth."
+        },
+        {
+          "zh": "经济失衡：AI热潮推动上游投资与加班，但特定行业之外的劳动者议价能力未同步增强。",
+          "en": "A lopsided economy: the AI boom drives upstream investment and overtime, but workers outside specific industries lack the same bargaining power."
+        }
+      ],
+      "tags": [
+        "ADP",
+        "wages",
+        "inflation",
+        "labor market",
+        "retail sales"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:ffNDhvV8QKk",
       "title": "Oil and Gas Costs Send US Producer Prices Higher",
@@ -658,6 +758,57 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:GqJhyuIgd1s",
+      "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid | Odd Lots",
+      "title_zh": "Hyperliquid：从交易协议到「承载一切金融」的野心",
+      "url": "https://www.youtube.com/watch?v=GqJhyuIgd1s",
+      "published_at": "2026-10-15T09:02:40.249937+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "politics",
+        "other"
+      ],
+      "summary_zh": "Odd Lots 播客邀请 Hyperliquid Labs 联合创始人兼 CEO Jeff Yan，讨论 Hyperliquid 作为「承载一切金融」的中立协议定位。对话涉及特朗普曾提及 Hyperliquid 及美国监管机构希望将其引入美国，以及当前美国用户被禁止使用其衍生品交易、部分人通过 VPN 绕过限制的现象。节目还讨论了金融工具层层叠加（衍生品、预测市场、代币化）的趋势。",
+      "summary_en": "On the Odd Lots podcast, Hyperliquid Labs co-founder and CEO Jeff Yan discusses Hyperliquid's positioning as a neutral protocol aspiring to 'house all the finance.' The conversation covers Trump having mentioned Hyperliquid and US regulators wanting to bring it to the US, as well as the current situation where US users are barred from its derivatives trading, with some reportedly using VPNs to get around it. The episode also discusses the trend of layered financial instruments (derivatives, prediction markets, tokenization).",
+      "detail_zh": "本期 Odd Lots 于 10 月 13 日录制，主持人 Joe Weisenthal 与 Tracy Alloway 邀请 Hyperliquid Labs 联合创始人兼 CEO Jeff Yan。Yan 将 Hyperliquid 描述为一个协议，其口号或愿景目标是「承载一切金融」（housing all the finance），定位为一个金融最终可以在其上发生的中立层，并将其类比为几十年前电子交易相对场内交易的阶跃式改进，认为 Hyperliquid 是对电子化但碎片化市场的阶跃式改进。Yan 表示，Hyperliquid Labs 是一个为这条区块链构建技术的团队，规模非常小；协议本身是一条中立区块链，由一组无需许可的验证者共同运营网络，形成单一一致状态的全局视图。主持人提到，几个月前特朗普曾谈及 Hyperliquid，并谈到美国监管机构正努力将 Hyperliquid 引入美国；Yan 表示当时他并不知情，对此感到非常意外。Yan 指出，目前美国用户按服务条款不被允许使用 Hyperliquid 的衍生品交易，但据主持人了解许多人通过 VPN 绕过；Yan 提到 CFTC 及当前政府希望对链上金融轨道采取更主动的态度，认为市场可以被改进，美国不应采取极度限制性的立场，而应找到将该技术纳入现有金融体系的方式。节目还讨论了金融工具层层叠加的趋势：主持人提出「倒金字塔」媒体理论，认为原始报道是最小的一层，而如今金融领域也类似——底层资产是市场中最小的部分，其上叠加了衍生品、期货期权、预测市场等越来越多的新工具。",
+      "detail_en": "This episode of Odd Lots was recorded on October 13, with hosts Joe Weisenthal and Tracy Alloway joined by Jeff Yan, co-founder and CEO of Hyperliquid Labs. Yan describes Hyperliquid as a protocol whose tagline or aspirational goal is 'housing all the finance,' positioning it as a neutral layer on which finance can ultimately happen, analogous to how electronic trading was a step-function improvement over pit trading only a couple of decades ago; he views Hyperliquid as a step-function improvement over electronic but fragmented markets. Yan says Hyperliquid Labs is a team that builds technology for this blockchain and is a super small team; the protocol itself is a neutral blockchain operated collectively by a permissionless set of validators, forming a global view of a single consistent state. The hosts note that a couple of months ago Donald Trump talked about Hyperliquid and about US regulators working to bring Hyperliquid to the US; Yan says he was not aware beforehand and it was a huge surprise. Yan notes that US users are currently not allowed to use Hyperliquid's derivatives trading per terms of service, though the host understands many get around it using a VPN; Yan mentions the CFTC and the current administration want to take a proactive approach toward on-chain rails for finance, believing markets can be improved and the US should not take an extremely restrictive view but rather find ways to incorporate the technology into the existing financial system. The episode also discusses the trend of layered financial instruments: the host offers an 'inverse pyramid' media theory, arguing original reporting is the smallest layer, and sees finance today similarly—the underlying is the smallest part of the market, with derivatives, futures and options, prediction markets and more built on top.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Hyperliquid 定位为「承载一切金融」的中立协议，Yan 将其类比为电子交易相对场内交易的阶跃式改进。",
+          "en": "Hyperliquid is positioned as a neutral protocol aspiring to 'house all the finance,' which Yan analogizes to electronic trading's step-function improvement over pit trading."
+        },
+        {
+          "zh": "特朗普曾谈及 Hyperliquid 及美国监管机构希望将其引入美国，Yan 表示事先并不知情、感到意外。",
+          "en": "Trump talked about Hyperliquid and US regulators wanting to bring it to the US; Yan says he was not aware beforehand and was surprised."
+        },
+        {
+          "zh": "美国用户目前按服务条款不被允许使用 Hyperliquid 的衍生品交易，但据报道许多人通过 VPN 绕过。",
+          "en": "US users are currently not allowed to use Hyperliquid's derivatives trading per terms of service, though many reportedly get around it via VPN."
+        },
+        {
+          "zh": "Yan 称 CFTC 与当前政府希望对链上金融轨道采取更主动态度，将技术纳入现有金融体系。",
+          "en": "Yan says the CFTC and the current administration want a proactive approach toward on-chain rails for finance, incorporating the technology into the existing financial system."
+        },
+        {
+          "zh": "主持人提出「倒金字塔」理论：底层资产是市场最小部分，衍生品、预测市场、代币化等层层叠加。",
+          "en": "The host offers an 'inverse pyramid' theory: the underlying is the smallest part of the market, with derivatives, prediction markets, and tokenization layered on top."
+        }
+      ],
+      "tags": [
+        "Hyperliquid",
+        "crypto",
+        "prediction markets",
+        "regulation",
+        "derivatives"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:xm4WpC1jVAM",
       "title": "European Stocks Need Strong Earnings Delivery: Market Analysis",
       "title_zh": "亚洲股市大幅抛售后：欧股承压、英债收益率获支撑、美债避险买盘能否持续存疑",
@@ -857,6 +1008,56 @@
       ],
       "tickers": [],
       "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Kdbw2ZCKI2k",
+      "title": "A historic El Niño is coming that could cost the world trillions: Odd Lots | Zero: The Climate Race",
+      "title_zh": "厄尔尼诺现象及其对全球经济与投资格局的潜在影响",
+      "url": "https://www.youtube.com/watch?v=Kdbw2ZCKI2k",
+      "published_at": "2026-10-15T06:02:40.249972+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "本期Odd Lots播客讨论厄尔尼诺现象及其对全球经济和投资的影响。主持人指出，近期多家卖方机构（花旗、摩根士丹利、美银）在利率、汇率和新兴市场货币展望中提及厄尔尼诺的潜在通胀影响。嘉宾、达特茅斯学院地理学教授Justin Mankin解释了厄尔尼诺的海洋-大气机制，即热带太平洋表面水温异常偏暖如何重新配置全球天气模式。",
+      "summary_en": "This Odd Lots podcast episode discusses El Niño and its potential impacts on the global economy and investment landscape. The hosts note that several sell-side notes from Citi, Morgan Stanley, and Bank of America have recently cited El Niño's potential inflationary effects in the context of interest rates, FX outlooks, and EM currencies. Guest Justin Mankin, professor of geography at Dartmouth and director of the climate modeling and impacts group, explains the ocean-atmosphere mechanics of El Niño—how anomalously warm surface waters in the tropical Pacific reconfigure global weather patterns.",
+      "detail_zh": "主持人Tracy Alloway和Joe Weisenthal在节目中讨论厄尔尼诺现象。Alloway指出，近期多家卖方研报开始提及这一天气现象：花旗的泰国经济笔记在讨论利率时引用了厄尔尼诺的潜在通胀影响；摩根士丹利的英国央行展望提及厄尔尼诺；美银的外汇展望讨论了其对新兴市场货币的影响。她表示，市场预期厄尔尼诺将对全球经济和投资格局产生实际影响。Weisenthal从历史视角指出，气候变化和天气事件与技术进步一样，是塑造人类历史的两大核心力量。嘉宾Justin Mankin教授解释了厄尔尼诺的机制：正常情况下，热带太平洋的东风信风将温暖的表层海水向西拖拽，在西太平洋形成暖池；当信风减弱时，这堆暖水向东扩散，通过海面温度异常来衡量厄尔尼诺。这一过程重新配置了全球天气模式，本质上是太阳能量在流体星球上的重新分配。节目提到，多个预测模型目前预计这可能是一次破纪录的厄尔尼诺事件，为数十年所未见。",
+      "detail_en": "Hosts Tracy Alloway and Joe Weisenthal discuss El Niño on the Odd Lots podcast. Alloway notes that several sell-side research notes have recently begun mentioning the weather phenomenon: a Citi Thailand economics note citing El Niño's potentially inflationary impact in the context of interest rates; a Morgan Stanley Bank of England outlook mentioning El Niño; and a Bank of America FX outlook discussing its impact on EM currencies. She says the market expects El Niño to have a real impact on both the global economy and the investment landscape. Weisenthal takes a historical view, arguing that climate change and weather events, alongside technological evolution, are the two forces that shape human history. Guest Professor Justin Mankin explains El Niño's mechanics: normally, easterly trade winds drag warm surface water westward across the tropical Pacific, creating a warm pool in the Western Pacific; when those trade winds weaken, the warm water spreads eastward, and El Niño is measured by sea surface temperature anomalies. This process reconfigures global weather patterns—essentially a redistribution of solar energy on our fluid planet. The episode notes that many forecasting models currently project this could be a potentially record-breaking El Niño, something not seen in decades.",
+      "conclusion_zh": "厄尔尼诺正从气象现象演变为卖方研报中的宏观变量，其潜在的通胀和汇率影响值得投资者关注，尤其是对新兴市场货币和大宗商品敏感的板块。",
+      "conclusion_en": "El Niño is evolving from a meteorological phenomenon into a macro variable cited in sell-side research, with potential inflationary and FX implications worth monitoring, particularly for EM currencies and commodity-sensitive sectors.",
+      "key_points": [
+        {
+          "zh": "多家卖方机构（花旗、摩根士丹利、美银）近期在利率、央行展望和外汇研报中提及厄尔尼诺的潜在经济影响",
+          "en": "Several sell-side institutions (Citi, Morgan Stanley, Bank of America) have recently cited El Niño's potential economic impact in rates, central bank outlook, and FX research"
+        },
+        {
+          "zh": "花旗的泰国经济笔记将厄尔尼诺与潜在通胀影响和利率讨论相关联",
+          "en": "Citi's Thailand economics note links El Niño to potential inflationary impact in the context of interest rate discussions"
+        },
+        {
+          "zh": "美银的外汇展望讨论了厄尔尼诺对新兴市场货币的影响",
+          "en": "Bank of America's FX outlook discusses El Niño's impact on EM currencies"
+        },
+        {
+          "zh": "多个预测模型预计这可能是一次破纪录的厄尔尼诺事件，为数十年所未见",
+          "en": "Many forecasting models project this could be a potentially record-breaking El Niño, something not seen in decades"
+        },
+        {
+          "zh": "厄尔尼诺是热带太平洋海面温度异常偏暖的现象，通过海洋-大气相互作用重新配置全球天气模式",
+          "en": "El Niño is a phenomenon of anomalously warm sea surface temperatures in the tropical Pacific that reconfigures global weather patterns through ocean-atmosphere interaction"
+        }
+      ],
+      "tags": [
+        "El Nino",
+        "inflation",
+        "EM currencies",
+        "weather",
+        "sell-side research"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:Nq6h3rjklDg",
