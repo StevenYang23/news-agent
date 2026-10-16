@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:19:55.497423+00:00",
+  "generated_at": "2026-10-16T04:12:42.577451+00:00",
   "insights": [
     {
       "guid": "yt:DQIb3xm_7u0",
@@ -6370,56 +6370,6 @@
         "stablecoins",
         "digital wallets",
         "capital markets"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ecvseEpwwiA",
-      "title": "How Tokenized Cash Is Modernizing Money, Markets and Investing | The Bid investing podcast",
-      "title_zh": "贝莱德高管：代币化现金或迎数十年来最大变革",
-      "url": "https://www.youtube.com/watch?v=ecvseEpwwiA",
-      "published_at": "2026-10-09T04:00:16+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "贝莱德全球现金分销主管Becky Milchum在播客中指出，代币化并非新产品，而是给传统资产（如银行存款、货币市场基金）加上区块链技术外壳，使其具备即时支付与结算能力。稳定币类似口袋里的现金但不产生收益，而代币化存款和代币化货币市场基金则可保留收益属性。技术进展与监管（如美国GENIUS法案）正推动这一领域从概念走向现实。",
-      "summary_en": "BlackRock's global head of cash distribution, Becky Milchum, explains on a podcast that tokenization is not a new product but a technology wrapper around traditional assets like bank deposits and money market funds, enabling instant payment and settlement on the blockchain. Stablecoins resemble cash in your pocket but cannot pay a return, whereas tokenized deposits and tokenized money market funds can retain yield. Technological advances and regulation (such as the U.S. GENIUS Act) are moving this space from concept to reality.",
-      "detail_zh": "贝莱德全球现金分销主管兼国际现金管理业务主管Becky Milchum在播客中表示，代币化只是给传统资产类别加上技术外壳，底层资产不变，改变的是持有方式。她区分了三类数字资产：加密货币（价值由供需驱动、波动大）、稳定币（由储备资产支持、旨在维持稳定价值，支付类稳定币在美国GENIUS法案等监管下须由明确界定的储备资产支持，可用于支付和储值，但不能产生回报）、以及代币化现金（包括代币化银行存款和代币化货币市场基金，可保留收益/收益率）。她用口袋里的现金与银行账户或货币市场基金的类比说明：稳定币相当于数字化的口袋现金，而代币化存款和货币市场基金则能赚取回报。她还将此比作从邮寄信件到电子邮件的转变，代币化实现现金的即时转移。她认为推动这一趋势从概念走向现实的因素主要有三个方面，其中技术大幅进步和区块链采用度提升是关键，而监管进展（如GENIUS法案）也起到了推动作用。",
-      "detail_en": "Becky Milchum, BlackRock's global head of cash distribution and head of the international cash management business, said on a podcast that tokenization is simply putting a technology wrapper around a traditional asset class—the underlying asset stays the same, but the way it is owned changes. She distinguished three types of digital assets: cryptocurrencies (value driven by supply and demand, highly volatile), stablecoins (backed by a pool of reserve assets and designed to maintain stable value; payment stablecoins under regulations such as the U.S. GENIUS Act must be backed by a defined pool of reserve assets, and can be used for payments and as a store of value but cannot pay a return), and tokenized cash (including tokenized bank deposits and tokenized money market funds, which can retain yield). She used the analogy of cash in your pocket versus a bank account or money market fund: stablecoins are like digital pocket cash, while tokenized deposits and money market funds can earn a return. She also likened this to the shift from postal letters to email, with tokenization enabling instant movement of cash. She attributed the shift from concept to reality to three areas, with major technological advancement and greater blockchain adoption being key, alongside regulatory progress such as the GENIUS Act.",
-      "conclusion_zh": "代币化现金可能成为代币化最引人注目的现实应用之一，投资者需关注其对资金流动、结算与抵押品方式的潜在重塑。",
-      "conclusion_en": "Tokenized cash may become one of the most compelling real-world applications of tokenization, and investors should watch its potential to reshape how money moves, settles, and acts as collateral.",
-      "key_points": [
-        {
-          "zh": "代币化不是新产品，而是给银行存款、货币市场基金等传统资产加上区块链技术外壳，底层资产不变。",
-          "en": "Tokenization is not a new product but a technology wrapper around traditional assets like bank deposits and money market funds; the underlying asset is unchanged."
-        },
-        {
-          "zh": "稳定币类似口袋里的现金，由储备资产支持，可用于支付和储值，但不能产生回报。",
-          "en": "Stablecoins resemble cash in your pocket, backed by reserve assets, usable for payments and as a store of value, but they cannot pay a return."
-        },
-        {
-          "zh": "代币化存款和代币化货币市场基金可保留收益/收益率，这是与稳定币的关键区别。",
-          "en": "Tokenized deposits and tokenized money market funds can retain yield—a key distinction from stablecoins."
-        },
-        {
-          "zh": "美国GENIUS法案等监管要求支付类稳定币由明确界定的储备资产支持。",
-          "en": "Regulations such as the U.S. GENIUS Act require payment stablecoins to be backed by a defined pool of reserve assets."
-        },
-        {
-          "zh": "技术大幅进步、区块链采用度提升以及监管进展，共同推动代币化现金从概念走向现实。",
-          "en": "Major technological advances, greater blockchain adoption, and regulatory progress are together moving tokenized cash from concept to reality."
-        }
-      ],
-      "tags": [
-        "tokenization",
-        "stablecoins",
-        "money market funds",
-        "blockchain",
-        "cash management"
       ],
       "tickers": [],
       "sentiment": "neutral"
