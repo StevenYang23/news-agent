@@ -81,7 +81,7 @@
       "feed_url": "",
       "category": "bbg-tv-news",
       "force_category": "bbg-tv-news",
-      "max_items": 8,
+      "max_items": 15,
       "active": true,
       "note": "Daily news clips; forced into BBG TV news category.",
       "priority": 5,
