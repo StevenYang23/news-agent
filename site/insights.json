@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-16T13:01:41.735294+00:00",
+  "generated_at": "2026-10-16T13:14:49.616479+00:00",
   "insights": [
+    {
+      "guid": "yt:uxcbOYlM4Hw",
+      "title": "CoreWeave Faces Funding Risks as Costs Rise",
+      "title_zh": "CoreWeave 商业模式承压：融资成本飙升与自由现金流缺口",
+      "url": "https://www.youtube.com/watch?v=uxcbOYlM4Hw",
+      "published_at": "2026-10-16T12:55:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "CoreWeave 与英伟达关系紧密（既是合作伙伴、投资者，又是芯片采购方），但核心问题在于融资：信用违约互换成本本周大幅上升，融资愈发昂贵。公司收入尚不足以支撑商业模式，更谈不上盈利，且产能尚未建成；市场预期明年自由现金流消耗将超过 300 亿美元，远超其预期收入。",
+      "summary_en": "CoreWeave has a tightly interlinked relationship with Nvidia (partner, investor, and chip purchaser), but the core issue is funding: credit default swap costs rose sharply this week, making capital raising increasingly expensive. Revenue is not yet sufficient to support the business model, let alone profitability, given capacity has not yet been built out; consensus estimates point to more than $30 billion of free cash flow burn next year, far exceeding expected revenue.",
+      "detail_zh": "CoreWeave 与英伟达的关系高度交织：英伟达既是其合作伙伴，也是投资者，同时 CoreWeave 还是英伟达芯片的采购方，英伟达为其提供背书。当前主要问题集中在融资端——信用违约互换（CDS）成本本周大幅上升，意味着公司进一步融资的成本越来越高。与此同时，公司收入尚不足以支撑其商业模式，更不用说实现盈利，因为产能尚未建成。展望明年，按市场一致预期，公司预计将消耗超过 300 亿美元的自由现金流，远高于其预期产生的收入。这对公司本身以及其它新型云厂商（neo clouds）都是重大问题：大部分产能建设要到很久以后才能落地，而目前尚无自由现金流来支撑。它们需要持续进入市场融资，而这正变得越来越昂贵，并对股价及围绕该生态的投资者构成压力。",
+      "detail_en": "CoreWeave's relationship with Nvidia is highly interlinked: Nvidia is a partner and an investor, and CoreWeave is also a purchaser of Nvidia chips, with Nvidia providing backing. The primary issue centers on funding—credit default swap costs have risen sharply this week, meaning it is becoming increasingly expensive for the company to raise more capital. At the same time, revenue is not yet there to support the business model, let alone profitability, since capacity has not yet been built out. Looking to next year, consensus estimates suggest the company is expected to burn more than $30 billion of free cash flow, far greater than the revenue it is due to generate. This is a big issue for the company and for other neo clouds: most of the capacity build is far in the future, and there is not yet free cash flow to support it. They need to come to the markets for more funding help, which is becoming increasingly expensive and pressuring the stock and the investors around that ecosystem.",
+      "conclusion_zh": "CoreWeave 及同类新型云厂商的产能扩张高度依赖外部融资，而融资成本正在上升、自由现金流缺口巨大，这一生态的股价与投资者将持续承压。",
+      "conclusion_en": "CoreWeave and similar neo clouds rely heavily on external funding for capacity expansion, while funding costs are rising and the free cash flow gap is large—pressuring the stock and investors across this ecosystem.",
+      "key_points": [
+        {
+          "zh": "CoreWeave 与英伟达关系交织：英伟达既是合作伙伴和投资者，CoreWeave 也是其芯片采购方，英伟达提供背书。",
+          "en": "CoreWeave and Nvidia are tightly interlinked: Nvidia is a partner and investor, CoreWeave is a chip purchaser, and Nvidia provides backing."
+        },
+        {
+          "zh": "融资是核心问题：信用违约互换成本本周大幅上升，公司融资成本越来越高。",
+          "en": "Funding is the core issue: credit default swap costs rose sharply this week, making capital raising increasingly expensive."
+        },
+        {
+          "zh": "收入尚不足以支撑商业模式，更谈不上盈利，产能尚未建成。",
+          "en": "Revenue is not yet sufficient to support the business model, let alone profitability, and capacity has not yet been built out."
+        },
+        {
+          "zh": "按一致预期，公司明年预计消耗超过 300 亿美元自由现金流，远超其预期收入。",
+          "en": "Consensus estimates point to more than $30 billion of free cash flow burn next year, far exceeding expected revenue."
+        },
+        {
+          "zh": "问题不仅限于 CoreWeave，其它新型云厂商同样面临产能建设周期长、缺乏自由现金流支撑、需持续融资的压力。",
+          "en": "The issue extends beyond CoreWeave: other neo clouds also face long capacity build timelines, lack of free cash flow support, and the need for continuous funding."
+        }
+      ],
+      "tags": [
+        "CoreWeave",
+        "Nvidia",
+        "neo clouds",
+        "funding costs",
+        "free cash flow"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:nL5F2M2SR7o",
       "title": "What to watch ahead of OPEX",
@@ -4282,46 +4331,6 @@
       "tickers": [
         "TSLA"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:oQfAyqMFdiw",
-      "title": "High Mortgage Rates and a Stuck Housing Market",
-      "title_zh": "摩根士丹利：美国房贷利率徘徊三年高位，房主被锁定、买家被挤出",
-      "url": "https://www.youtube.com/watch?v=oQfAyqMFdiw",
-      "published_at": "2026-10-09T13:05:46+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "美国房贷利率徘徊在三年高位附近。摩根士丹利证券化产品研究联席主管 Jay Bacow 与 James Egan 分析了使现有房主被锁定、潜在买家被挤出住房市场的力量。",
-      "summary_en": "U.S. mortgage rates are hovering around their highest levels in three years. Morgan Stanley Co-Heads of Securitized Products Research Jay Bacow and James Egan examine the forces keeping homeowners locked in and buyers priced out of the housing market.",
-      "detail_zh": "美国房贷利率目前徘徊在三年来的最高水平附近。摩根士丹利证券化产品研究联席主管 Jay Bacow 与 James Egan 就这一现象展开分析。他们考察了当前使现有房主被“锁定”（locked in）、同时使潜在买家因价格过高而被挤出（priced out）住房市场的多重力量。原文未披露具体的利率数值、相关数据或个股信息。",
-      "detail_en": "U.S. mortgage rates are currently hovering around their highest levels in three years. Morgan Stanley Co-Heads of Securitized Products Research Jay Bacow and James Egan analyze this situation. They examine the forces that are keeping existing homeowners locked in while pricing potential buyers out of the housing market. The source does not disclose specific rate figures, data points, or individual stock information.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国房贷利率徘徊在三年高位附近。",
-          "en": "U.S. mortgage rates are hovering around their highest levels in three years."
-        },
-        {
-          "zh": "摩根士丹利证券化产品研究联席主管 Jay Bacow 与 James Egan 分析了这一现象。",
-          "en": "Morgan Stanley Co-Heads of Securitized Products Research Jay Bacow and James Egan examine this dynamic."
-        },
-        {
-          "zh": "分析聚焦于使现有房主被锁定、潜在买家被挤出市场的力量。",
-          "en": "The analysis focuses on the forces keeping homeowners locked in and buyers priced out of the housing market."
-        }
-      ],
-      "tags": [
-        "mortgage rates",
-        "housing market",
-        "securitized products",
-        "Morgan Stanley"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
