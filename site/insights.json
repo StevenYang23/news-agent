@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:29:13.675475+00:00",
+  "generated_at": "2026-10-16T01:19:55.497423+00:00",
   "insights": [
     {
       "guid": "yt:DQIb3xm_7u0",
@@ -800,6 +800,52 @@
       ],
       "tickers": [],
       "sentiment": "negative"
+    },
+    {
+      "guid": "32ad6c38-6bad-4375-8aba-837f9d11834a",
+      "title": "Running an \"Old Fashioned\" Hedge Fund with Adrian Keevil of Plustick Partners",
+      "title_zh": "Plustick Partners谈困境投资、信贷市场与AI影响",
+      "url": "https://podcasters.spotify.com/pod/show/rcm-alts-the-derivative/episodes/Running-an-Old-Fashioned-Hedge-Fund-with-Adrian-Keevil-of-Plustick-Partners-e3qid2f",
+      "published_at": "2026-10-15T19:48:22+00:00",
+      "source_name": "The Derivative",
+      "source_kind": "article",
+      "categories": [
+        "other",
+        "tech"
+      ],
+      "summary_zh": "Jeff Malec与Plustick Partners的Adrian Keevil对话，探讨其从公司金融和学术研究转向投资的路径，以及Plustick的老派合伙制理念。Keevil介绍了公司在困境、事件驱动和特殊机会投资方面的策略，包括被忽视的资产、被误解的企业以及做空无担保债券，并讨论了信贷市场、私人信贷、AI的潜在经济影响及其伦理问题。",
+      "summary_en": "Jeff Malec speaks with Adrian Keevil of Plustick Partners about his path from corporate finance and academic research to investing, and Plustick's old-fashioned partnership philosophy. Keevil discusses the firm's focus on distressed, event-driven, and special-situations investing—from overlooked assets and misunderstood businesses to shorting unsecured bonds—and explores credit markets, private credit, and the potential economic and ethical effects of AI.",
+      "detail_zh": "本期播客中，Jeff Malec与Plustick Partners的Adrian Keevil对话，回顾了Keevil从公司金融和学术研究转向投资的职业路径，以及他对利益相关者关系的研究如何影响公司的投资方法。Keevil阐述了Plustick的老派合伙制理念，以及公司对困境、事件驱动和特殊机会投资的专注，涵盖被忽视的资产、被误解的企业，以及做空无担保债券。他还分享了个人和职业经历对其视角的塑造，包括家族在市场交易方面的历史，以及研究真实企业运作所获得的经验。对话涉及组合构建、信贷市场和私人信贷、AI的潜在经济影响，以及AI在商业和教育中引发的伦理问题。节目最后以Keevil推荐的Charlottesville餐厅收尾。",
+      "detail_en": "In this episode, Jeff Malec talks with Adrian Keevil of Plustick Partners about his path from corporate finance and academic research to investing, and how his work on stakeholder relationships informs the firm's approach. Keevil explains Plustick's old-fashioned partnership philosophy and its focus on distressed, event-driven, and special-situations investing, from overlooked assets and misunderstood businesses to shorting unsecured bonds. He also shares the personal and professional experiences behind his perspective, including his family's history in market trading and lessons from studying how real businesses operate. The conversation explores portfolio construction, credit markets and private credit, the potential economic effects of AI, and the ethical questions AI raises in business and education. It wraps up with Keevil's Charlottesville restaurant recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Plustick Partners采用老派合伙制模式，专注于困境、事件驱动和特殊机会投资。",
+          "en": "Plustick Partners employs an old-school partnership model focused on distressed, event-driven, and special-situations investing."
+        },
+        {
+          "zh": "投资范围涵盖被忽视的资产、被误解的企业，以及做空无担保债券。",
+          "en": "The investment scope includes overlooked assets, misunderstood businesses, and shorting unsecured bonds."
+        },
+        {
+          "zh": "对话涉及组合构建、信贷市场和私人信贷的讨论。",
+          "en": "The conversation covers portfolio construction, credit markets, and private credit."
+        },
+        {
+          "zh": "探讨了AI的潜在经济影响及其在商业和教育中引发的伦理问题。",
+          "en": "The potential economic effects of AI and the ethical questions it raises in business and education are explored."
+        }
+      ],
+      "tags": [
+        "distressed investing",
+        "credit markets",
+        "private credit",
+        "AI",
+        "hedge fund"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:31mgQDBQ_5U",
@@ -3092,6 +3138,64 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "4954134",
+      "title": "Wall Street Lunch: Yields Surge On Hot Core CPI",
+      "title_zh": "核心CPI超预期推高美债收益率，BofA财报逊色，标普500盈利高度集中",
+      "url": "https://seekingalpha.com/article/4954134-wall-street-lunch-yields-surge-on-hot-core-cpi?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-14T15:31:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "美国9月核心CPI环比上涨0.3%，高于市场预期的0.2%，推动美债收益率再度攀升，市场对美联储本月加息的定价升至接近五成。美国银行三季度净利润同比下滑（即使剔除12亿美元罚款），令市场失望；标普500三季度EPS增长高度集中，前十大贡献者占预期增长约三分之二，其中美光与英伟达两家就占36%。",
+      "summary_en": "September core CPI rose 0.3% MoM, above the 0.2% consensus, sending Treasury yields higher and pushing market-implied odds of a Fed hike this month to roughly a coin flip. Bank of America disappointed as Q3 net income fell YoY even excluding a $1.2B Treasury fine. S&P 500 Q3 EPS growth is highly concentrated, with the top 10 contributors driving about two-thirds of expected gains and Micron plus Nvidia alone accounting for 36%.",
+      "detail_zh": "美国9月CPI环比上涨0.6%，符合预期，年率升至3.7%；受中东和乌克兰冲突持续影响，汽油指数大涨9.1%。整体CPI已连续66个月高于美联储目标，Bespoke Investment指出这是过去一个世纪中仅第三次出现通胀至少五年高于2%的情形。真正令交易员不安的是核心CPI：剔除食品和能源后环比上涨0.3%，高于0.2%的预期，年率升至2.6%。Janney策略师Guy LeBas认为，高柴油价格的传导正在冲击核心分项，机票是最明显的类别；他担心在利率高于5%且通胀担忧重燃的背景下，各类资产可能出现过度负面的反应。报告发布后，市场对本月加息25个基点的押注上升，目前对两周后FOMC是否收紧政策接近五五开。Renaissance Macro表示，因固守一开始就过于乐观的预测而跳过会议，可能反而导致日后需要加更多，这是连鸽派也应希望避免的。个股方面，美国银行（BAC）因三季度利润不及预期而下跌，即使剔除12亿美元财政部反洗钱罚款，净利润仍同比下降；SA分析师Jeremy LaKosh指出，净非利息收入表现不佳拖累了利润。贝莱德（BLK）三季度盈利和营收超预期，但长期净流入不及预期，股价上涨。Skydance（SKYD）因近期向股东发行4.7亿份认股权证而下跌逾15%，该权证允许持有人在未来10年以每股12美元买入。奈飞（NFLX）将再裁员约1000人，占员工总数6%，为四年多来最大规模裁员，公司称旨在优先投资并应对参与度放缓。Citadel Securities的Scott Rubner指出，三季度财报季的盈利增长将由少数公司承担：市场共识预期标普500 EPS同比增长约27%，但前十大贡献者约占预期增长的三分之二，集中在存储、半导体和能源领域；仅美光（MU）和英伟达（NVDA）就占标普500预期盈利增长的36%；剔除这十家公司后，预期盈利增长降至约11%，而市值最小的300家标普500公司预期盈利增长约5%。",
+      "detail_en": "September CPI rose 0.6% MoM, in line with consensus, with the annual rate rising to 3.7%; the gasoline index jumped 9.1% amid ongoing hostilities in the Middle East and Ukraine. Headline CPI has now been above the Fed's target for 66 straight months, which Bespoke Investment says is only the third period in the past century when inflation has remained above 2% for at least five years. What spooked traders was core CPI: excluding food and energy, it rose 0.3%, above the 0.2% consensus, pushing the annual rate to 2.6%. Janney strategist Guy LeBas said his instinct is that passthrough from high diesel prices is now hitting core components, with airfares the most obvious category, and he worries that with rates above 5% and renewed inflation concerns there could be an outsized negative reaction across asset classes. Odds of a quarter-point Fed hike this month jumped on the report, and it is now a coin flip whether the FOMC tightens in two weeks. Renaissance Macro said skipping the meeting because you are wedded to a forecast when your forecast has been too optimistic to begin with might risk having to hike more later, something even doves ought to want to avoid. Among active stocks, Bank of America (BAC) slumped after Q3 profit fell short of estimates, even stripping out the $1.2B Treasury anti-money-laundering fine; SA analyst Jeremy LaKosh said that even excluding the fine, net income is still down year over year, which likely explains the market's disappointment, and that net noninterest income underperformed in the quarter, negatively impacting the bottom line. BlackRock (BLK) rose after Q3 earnings and revenue topped consensus, even as long-term net inflows fell short of expectations. Skydance (SKYD) fell more than 15% in a technical move following the recent issuance of 470M warrants to shareholders, which had been attached to the stock and give holders the option to buy Skydance shares at $12 apiece over the next 10 years. Netflix (NFLX) is conducting another round of layoffs, expected to eliminate around 1,000 positions, or 6% of its workforce, across departments as it prioritizes investments and addresses slowing engagement; it is the largest headcount reduction in more than four years. In the Wall Street Research Corner, Citadel Securities' Scott Rubner said just a few names will be doing the heavy lifting: consensus entered Q3 reporting looking for roughly 27% YoY S&P 500 EPS growth, but the 10 largest contributors represent roughly two-thirds of expected growth, particularly across memory, semiconductors and energy. Micron Technology (MU) and Nvidia (NVDA) alone account for 36% of expected S&P 500 earnings growth. Excluding those ten companies, expected earnings growth falls to ~11%, while the smallest 300 S&P 500 companies by market cap are expected to grow earnings by about 5%.",
+      "conclusion_zh": "通胀黏性令加息风险重燃、美债收益率上行，叠加标普500盈利高度依赖少数科技与能源龙头，市场对广度不足与利率上行的双重脆弱性值得警惕。",
+      "conclusion_en": "Sticky inflation has revived hike risk and pushed Treasury yields higher, while S&P 500 earnings depend heavily on a handful of tech and energy leaders—leaving the market vulnerable to both narrow breadth and rising rates.",
+      "key_points": [
+        {
+          "zh": "9月核心CPI环比0.3%，高于0.2%的预期，年率升至2.6%，整体CPI年率3.7%，汽油指数大涨9.1%。",
+          "en": "September core CPI rose 0.3% MoM vs. 0.2% consensus, with the annual rate at 2.6%; headline CPI rose to 3.7% annually and the gasoline index jumped 9.1%."
+        },
+        {
+          "zh": "美债收益率再度攀升，市场对本月加息25个基点的定价升至接近五五开。",
+          "en": "Treasury yields climbed again, and market-implied odds of a quarter-point hike this month rose to roughly a coin flip."
+        },
+        {
+          "zh": "美国银行三季度净利润同比下降，即使剔除12亿美元财政部罚款仍不及预期，净非利息收入疲软拖累利润。",
+          "en": "Bank of America's Q3 net income fell YoY and missed estimates even excluding the $1.2B Treasury fine, with weak net noninterest income weighing on the bottom line."
+        },
+        {
+          "zh": "标普500三季度EPS预期增长约27%，但前十大贡献者占约三分之二，美光与英伟达两家就占36%。",
+          "en": "S&P 500 Q3 EPS growth is expected at roughly 27%, but the top 10 contributors account for about two-thirds, with Micron and Nvidia alone at 36%."
+        },
+        {
+          "zh": "剔除前十大贡献者后，标普500预期盈利增长降至约11%，市值最小的300家公司仅约5%。",
+          "en": "Excluding the top 10 contributors, expected S&P 500 earnings growth falls to ~11%, while the smallest 300 companies by market cap are expected to grow about 5%."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "Fed",
+        "Treasury yields",
+        "earnings concentration",
+        "bank earnings"
+      ],
+      "tickers": [
+        "BAC",
+        "BLK",
+        "SKYD",
+        "NFLX",
+        "SP500",
+        "MU",
+        "NVDA"
+      ],
+      "sentiment": "negative"
     },
     {
       "guid": "yt:4Z6chlcUK7M",
