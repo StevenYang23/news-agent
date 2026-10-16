@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-10-16T12:19:08.674642+00:00",
+  "generated_at": "2026-10-16T12:27:55.889987+00:00",
   "insights": [
+    {
+      "guid": "yt:4U1nFgBVhPM",
+      "title": "Tesla Showcases Roadster, China Moves to Prop Up Stocks",
+      "title_zh": "芯片股反弹、沃什讲话与欧盟对华贸易工具",
+      "url": "https://www.youtube.com/watch?v=4U1nFgBVhPM",
+      "published_at": "2026-10-16T12:01:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "芯片股在英伟达高管表态后反弹，KOSPI涨3%，科技板块本周承压后周五小幅回升。美联储主席沃什在曼谷讲话未释放鹰派信号，10月加息预期从30%降至17%，债券收益率下行、股市小幅走高。欧盟领导人要求委员会研究极端情况下可切断中国进入单一市场的贸易工具，德国立场转变值得关注。",
+      "summary_en": "Chip stocks rebounded with a helping hand from Nvidia's boss, with the KOSPI up 3% after tech was battered this week. Fed Chair Kevin Warsh's remarks in Bangkok did not push back on rate expectations, cutting October hike odds from 30% to 17%, sending bond yields lower and stocks slightly higher. EU leaders demanded the Commission explore a trade tool that could, in extreme scenarios, cut off China's access to the single market, with Germany's shift notable.",
+      "detail_zh": "芯片股在英伟达高管的表态助力下反弹，KOSPI上涨3%，此前科技板块本周遭受重创，周五出现小幅反弹。美联储主席沃什在曼谷的讲话及问答环节中，并未试图重置加息预期，10月加息预期从讲话前的30%降至17%，债券收益率随之下降，股市小幅走高。沃什强调AI投资是积极因素，且认为无需过多干扰；但他提到AI带来的好处与回报是「跨越周期的」，市场目前难以对此定价。嘉宾指出，当前需求端正在推升通胀，这是沃什眼下必须应对的问题。在布鲁塞尔，欧盟领导人要求委员会研究一种工具，使其在极端情况下能够切断中国进入单一市场的贸易通道，以展示欧盟在贸易上更有「牙齿」。德国立场的转变被认为非常值得关注，德国企业在中国市场增长乏力，可能促使其政府转向更强硬立场。英国方面，财政大臣预计将对银行业加税，银行附加税可能从目前的3%上调至8%，此前已排除上调资本利得税等选项。",
+      "detail_en": "Chip stocks rebounded with a helping hand from Nvidia's boss, with the KOSPI up 3% after tech was battered this week, seeing a modest Friday rebound. Fed Chair Kevin Warsh's speech and Q&A in Bangkok did not attempt to reset rate-hike expectations; October hike odds fell from 30% before the remarks to 17% after, sending bond yields lower and stocks slightly higher. Warsh stressed AI investment as a positive and suggested little need to disrupt it, but noted the benefits and payback from AI are 'over the horizon,' which the market struggles to price. The guest noted that demand-side pressures are currently pushing up inflation, which is the problem Warsh must deal with now. In Brussels, EU leaders requested the Commission explore a tool that would, in extreme scenarios, allow the EU to cut off China's trade and access to the single market, aiming to show the EU has more teeth on trade. Germany's shift was highlighted as particularly interesting, with German companies not growing in China potentially enabling a pivot toward tougher measures. In the UK, the Chancellor is expected to target the banking sector, with the bank surcharge potentially rising from the current 3% to 8%, after ruling out increases to capital gains tax and other options.",
+      "conclusion_zh": "沃什讲话后加息预期降温、债券收益率下行，为科技股反弹提供喘息；但AI回报「跨越周期」意味着市场短期难以定价，而欧盟对华贸易工具与英国银行加税构成政策风险点。",
+      "conclusion_en": "Warsh's remarks cooled rate-hike expectations and pushed bond yields lower, giving tech stocks a breather; however, AI payback being 'over the horizon' means the market struggles to price it near-term, while EU trade tools against China and UK bank tax hikes pose policy risks.",
+      "key_points": [
+        {
+          "zh": "芯片股在英伟达高管表态后反弹，KOSPI涨3%，但本周科技板块整体承压。",
+          "en": "Chip stocks rebounded with a helping hand from Nvidia's boss, KOSPI up 3%, though tech was battered this week."
+        },
+        {
+          "zh": "沃什讲话未释放鹰派信号，10月加息预期从30%降至17%，债券收益率下行、股市小幅走高。",
+          "en": "Warsh's remarks did not push back on rate expectations; October hike odds fell from 30% to 17%, sending bond yields lower and stocks slightly higher."
+        },
+        {
+          "zh": "沃什强调AI投资是积极因素，但AI的好处与回报是「跨越周期的」，市场目前难以定价。",
+          "en": "Warsh stressed AI investment as a positive, but noted AI's benefits and payback are 'over the horizon,' which the market struggles to price."
+        },
+        {
+          "zh": "欧盟领导人要求委员会研究极端情况下可切断中国进入单一市场的贸易工具，德国立场转变值得关注。",
+          "en": "EU leaders requested the Commission explore a tool to cut off China's access to the single market in extreme scenarios, with Germany's shift notable."
+        },
+        {
+          "zh": "英国财政大臣预计对银行业加税，银行附加税可能从3%上调至8%。",
+          "en": "The UK Chancellor is expected to target banks, with the surcharge potentially rising from 3% to 8%."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "AI",
+        "chips",
+        "EU-China trade",
+        "UK banks"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:IetE5QVUxuA",
+      "title": "Investors Dial Back October Hike Bets After Warsh; Taiwan to Curb AI Chip Exports to China",
+      "title_zh": "市场下调10月加息预期，沃什未就货币政策表态",
+      "url": "https://www.youtube.com/watch?v=IetE5QVUxuA",
+      "published_at": "2026-10-16T11:27:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储主席沃什在IMF会议上未对货币政策给出前瞻指引，市场将10月加息概率从约27%下调至15%或更低，美债收益率小幅走低、曲线略趋陡。亚洲科技股反弹，中国当局出手支撑股市；印尼股市因MSCI可能将其降级而创28年最差单日表现。",
+      "summary_en": "Fed Chair Warsh gave no forward guidance on monetary policy at the IMF meetings, prompting markets to cut October rate-hike odds from about 27% to 15% or lower, with Treasury yields easing and the curve steepening slightly. Asian tech stocks rebounded and Chinese authorities moved to support equities, while Indonesian stocks posted their worst day in 28 years on a possible MSCI downgrade.",
+      "detail_zh": "美联储主席沃什在IMF会议上表示自己不做前瞻指引，也未就即将公布的数据给出任何暗示，市场因此将10月加息概率从讲话前的约27%下调至15%或更低（联邦基金期货）。10年期美债收益率报5.0978%，30年期报5.44%，曲线出现小幅陡峭化。沃什承认经济面临供给冲击，同时强调需求端强劲，并提到美国由人工智能驱动的投资与资本开支热潮，认为其影响将不均衡，AI投资当前可能具有通胀性、未来或转为通缩性，但核心是时点问题。亚洲市场多数收涨，韩国、日本科技板块收复本周部分失地，中国股市获“国家队”式支撑，盘后消息显示这是当局更广泛护盘行动的一部分。印尼股市创28年最差单日表现、货币连续第六日下跌，因MSCI启动磋商，可能将印尼从新兴市场指数中剔除并绕过前沿市场、将其列为独立市场。欧洲股市小幅反弹，科技、工业与金融板块走强，德国商业银行与裕信银行获准合并；欧元回升至1.12上方，美元走弱。个股方面，特斯拉发布新款Roadster、2028年投产，盘前涨超4.5%；美铝因铝业务价格与产量提升财报良好；J.B. Hunt盘前下跌，分析师称成本对利润率的压力短期难以缓解。",
+      "detail_en": "Fed Chair Warsh said at the IMF meetings that he does not do forward guidance and gave no hint about incoming data, prompting markets to cut October rate-hike odds from about 27% before he spoke to 15% or lower in fed funds futures. The 10-year Treasury yield stood at 5.0978% and the 30-year at 5.44%, with a slight steepening of the curve. Warsh acknowledged supply shocks hitting the economy while stressing strong demand, and pointed to an AI-driven investment and capex boom in the United States that will hit unevenly, with AI investment inflationary now and potentially disinflationary later — ultimately a timing issue. Most Asian markets closed higher, with South Korea and Japan tech recouping some of the week's losses, and Chinese equities drawing national-team support that was later reported to be part of a broader official push. Indonesian stocks had their worst day in 28 years and the currency fell for a sixth day after MSCI launched a consultation that could remove Indonesia from the emerging-market index, bypass frontier markets and leave it as a standalone market. European shares rebounded modestly on tech, industrials and financials, with Commerzbank and UniCredit cleared to merge; the euro recovered above 1.12 as the dollar weakened. Single stocks: Tesla rose more than 4.5% premarket after unveiling its new Roadster, slated for 2028 production; Alcoa reported a good quarter on aluminum pricing and output; J.B. Hunt fell premarket, with analysts saying cost pressure on margins is unlikely to ease soon.",
+      "conclusion_zh": "沃什的“不表态”本身构成鸽派信号，短期缓解了利率担忧并支撑风险资产；但AI资本开支的通胀属性与印尼等新兴市场的结构性风险仍需关注。",
+      "conclusion_en": "Warsh's refusal to signal hawkishness was itself read as dovish, easing rate fears and supporting risk assets near term; still, the inflationary nature of AI capex and structural risks in markets like Indonesia warrant attention.",
+      "key_points": [
+        {
+          "zh": "沃什未就货币政策给出前瞻指引，市场将10月加息概率从约27%下调至15%或更低。",
+          "en": "Warsh gave no forward guidance, and markets cut October hike odds from about 27% to 15% or lower."
+        },
+        {
+          "zh": "10年期美债收益率5.0978%、30年期5.44%，曲线小幅陡峭化。",
+          "en": "The 10-year yield was 5.0978% and the 30-year 5.44%, with a slight curve steepening."
+        },
+        {
+          "zh": "沃什称美国存在AI驱动的投资与资本开支热潮，影响将不均衡，当前偏通胀、未来或偏通缩，关键在时点。",
+          "en": "Warsh cited an AI-driven US investment and capex boom that will hit unevenly — inflationary now, potentially disinflationary later, with timing the key issue."
+        },
+        {
+          "zh": "亚洲科技股反弹，中国当局出手支撑股市；印尼股市因MSCI可能降级创28年最差单日表现。",
+          "en": "Asian tech rebounded and Chinese authorities supported equities, while Indonesian stocks had their worst day in 28 years on a possible MSCI downgrade."
+        },
+        {
+          "zh": "特斯拉发布新款Roadster（2028年投产），盘前涨超4.5%；美铝财报良好；J.B. Hunt因成本压力下跌。",
+          "en": "Tesla rose over 4.5% premarket on its new Roadster (2028 production); Alcoa posted a good quarter; J.B. Hunt fell on cost pressure."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate-hike-odds",
+        "Treasury-yields",
+        "AI-capex",
+        "MSCI-Indonesia"
+      ],
+      "tickers": [
+        "TSLA",
+        "AA",
+        "JBHT"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4954730",
       "title": "Wall Street Breakfast Podcast: Tesla Roadster Takes Flight",
@@ -115,6 +223,57 @@
         "TFC"
       ],
       "sentiment": "positive"
+    },
+    {
+      "guid": "yt:PyBPpjTWysk",
+      "title": "Trump Won’t Rule Out ‘Mother of All Bombs’ on Iran, Taiwan Tightens Chip Curbs",
+      "title_zh": "美联储主席沃什未释放加息紧迫信号，交易员下调加息押注",
+      "url": "https://www.youtube.com/watch?v=PyBPpjTWysk",
+      "published_at": "2026-10-16T10:50:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储主席沃什在曼谷IMF会议讲话中未对高于预期的CPI和PPI通胀数据作出回应，也未释放加息紧迫信号，交易员因此下调了对本月加息的押注。一位首席投资官认为沃什不愿在中期选举期间加息，但预计今年至少还有两次加息，并指出AI交易与美国消费者是未来六个月市场的核心驱动力。",
+      "summary_en": "Fed Chair Kevin Warsh did not signal urgency to tighten policy at the IMF meetings in Bangkok, despite hotter-than-expected CPI and PPI data, prompting traders to pare bets on a rate hike this month. A CIO argued Warsh is reluctant to hike during midterm elections but still expects at least two more hikes this year, with the AI trade and the U.S. consumer as key market drivers over the next six months.",
+      "detail_zh": "美联储主席凯文·沃什在曼谷IMF世界会议讲话中，未就货币政策或高于预期的通胀数据（CPI与PPI，其中PPI为2022年以来最热）发表任何与本月FOMC决策相关的内容，交易员因此下调了对本月加息的押注。有分析人士提醒，本周市场出现避险情绪，可能削弱对沃什讲话信号的解读，但总体而言沃什并未表现出鹰派姿态，从而移除了一项潜在风险。值得注意的是，沃什是出席此次会议的最高级别美国官员，财政部长斯科特·贝森特未出席，这使沃什处于首席外交官的位置。一位首席投资官认为，沃什不愿在中期选举期间加息，但预计今年至少还有两次加息，明年一季度可能再加两次，并称美联储将不得不降息三到四次，形成一个“超级迷你周期”。该CIO指出，美国经济过热，通胀压力来自能源和AI两方面，AI交易带来的波动（-8%、+3%而非-0.2%、+0.5%）将主导未来六个月。在能源方面，尽管石油流量已恢复至接近战前水平的80%-85%，但价格并未下降，反映出市场对沙特方面局势及缺乏解决方案的担忧；该CIO预计在战争结束前价格最多只能企稳，且解决方案短期内无望，欧洲天然气和美国柴油的替代问题将使局势先恶化后好转。关于AI，该CIO认为AI目前对通胀略有正面影响，预计几年后转为负面，但转型期AI相关一切都在“过热”，对通胀有正面推动；就业市场尚未计入AI替代，但生产率在提升。消费者方面，该CIO表示美国消费者除AI外是关键，但消费者一直在走弱，股市财富效应强劲使消费未下降，消费的粘性正阻碍央行遏制通胀，并预计美国收益率将因增长放缓而下降。",
+      "detail_en": "Fed Chair Kevin Warsh, speaking at the IMF World Meetings in Bangkok, made no comments relevant to the Fed's decision later this month and did not address the hotter-than-expected CPI and PPI data (PPI at its hottest pace since 2022), prompting traders to pare bets on a rate hike this month. One analyst cautioned that a flight to safety this week could dampen the signal from his fireside chat, but ultimately Warsh did not feel the need to come out especially hawkish, taking a potential risk off the table. Notably, Warsh was the highest-ranking U.S. official at these meetings, as Treasury Secretary Scott Bessent did not attend, putting Warsh in position as chief diplomat. A CIO argued Warsh doesn't want to deliver a rate hike in the middle of the midterm elections, but expects at least two more hikes this year and possibly another two into Q1 next year, and that the Fed will have to cut rates three or four times, forming a 'super mini cycle.' The CIO said the U.S. is running hot, with inflation pressure from both energy and AI, and that the AI trade's volatility (minus eight, plus three, not minus 0.2, plus 0.5) will drive the next six months. On energy, despite oil flows returning to almost prewar levels at 80-85%, prices are not going down, reflecting extreme concern about the Saudi side and lack of a solution; the CIO expects prices to stabilize at best before the war ends, with no resolution in the cards, and that Europe's gas and U.S. diesel alternatives mean it will get worse before it gets better. On AI, the CIO sees it as slightly positive for inflation now, expected to be negative a couple of years down the road, but during the transition everything AI is running hot, which is positive for inflation; the job market is not yet pricing in AI job replacement, though productivity is increasing. On the consumer, the CIO said outside of AI the U.S. consumer is key and has been faltering, but the strong wealth effect from the stock market has prevented consumption from falling; the stickiness of consumption is hindering the central bank's taming of inflation, and the CIO expects U.S. yields to go down due to growth in the pipeline.",
+      "conclusion_zh": "沃什未释放加息紧迫信号短期缓解了加息担忧，但受访CIO仍预计今年至少两次加息，并提示AI交易波动与美国消费者走弱是未来六个月的关键变量。",
+      "conclusion_en": "Warsh's lack of urgency on tightening eased near-term hike concerns, but the CIO still expects at least two hikes this year and flags AI trade volatility and a faltering U.S. consumer as key variables over the next six months.",
+      "key_points": [
+        {
+          "zh": "沃什未就货币政策或高于预期的CPI/PPI通胀数据发表评论，交易员下调本月加息押注。",
+          "en": "Warsh made no comments on monetary policy or the hotter-than-expected CPI/PPI data, leading traders to pare bets on a hike this month."
+        },
+        {
+          "zh": "沃什是出席IMF会议的最高级别美国官员，财政部长贝森特未出席。",
+          "en": "Warsh was the highest-ranking U.S. official at the IMF meetings; Treasury Secretary Bessent did not attend."
+        },
+        {
+          "zh": "一位CIO预计今年至少还有两次加息，明年一季度可能再加两次，并称美联储将不得不降息三到四次。",
+          "en": "A CIO expects at least two more hikes this year and possibly two more into Q1 next year, and says the Fed will have to cut rates three or four times."
+        },
+        {
+          "zh": "该CIO认为AI交易和美国消费者是未来六个月市场的核心驱动力，AI目前对通胀略有正面影响。",
+          "en": "The CIO sees the AI trade and the U.S. consumer as key drivers over the next six months, with AI currently slightly positive for inflation."
+        },
+        {
+          "zh": "能源方面，尽管石油流量恢复至接近战前水平的80%-85%，价格并未下降，解决方案短期内无望。",
+          "en": "On energy, despite oil flows returning to almost prewar levels at 80-85%, prices are not falling, with no resolution in sight."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate hike",
+        "inflation",
+        "AI trade",
+        "energy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:-chyckWWOuI",
@@ -309,6 +468,220 @@
         "AI-sovereignty"
       ],
       "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:9Non8iHpSDw",
+      "title": "Asia Tech's Muted Rebound Shows AI Doubts Persist: Market Analysis",
+      "title_zh": "AI交易波动未平：资本开支之外，市场转向关注融资与外部需求",
+      "url": "https://www.youtube.com/watch?v=9Non8iHpSDw",
+      "published_at": "2026-10-16T07:43:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲股市小幅反弹，但市场对AI交易的波动是否结束仍存疑虑。分析师指出，市场已不再只看资本开支周期，而是更关注融资环节以及资本开支循环之外的外部需求。美国CPI与PPI数据偏热，但美联储主席Walsh未表现鹰派，市场对10月加息的预期从约25%降至约15%。",
+      "summary_en": "Asian equities bounced modestly, but investors remain unconvinced the volatility in the AI trade is over. The market is moving past the point where the CapEx cycle alone dictates the AI trade, with focus shifting to the financing component and exogenous AI demand. Despite hot US CPI and PPI prints, Fed Chair Walsh did not come across as overtly hawkish, and October rate-hike expectations fell from around 25% to about 15%.",
+      "detail_zh": "亚洲股市小幅反弹，欧洲和美国期货在当日交易中显得更为稳定，但韩国、台湾和日本的温和反弹不足以让投资者相信AI交易的波动已经结束。分析师认为，市场正在越过仅由资本开支周期主导AI交易的阶段：三星的初步数据、ASML和台积电的业绩都不错，市场也清楚资本开支非常强劲，但真正担忧的是融资环节，以及资本开支循环之外的外部AI需求。美国CPI和PPI数据均高于预期，但美联储主席Walsh并未明显偏鹰，这反而压低了市场对加息的预期，尤其是10月加息概率已从约25%降至约15%，风险资产因此获得一定支撑。印尼资产今年表现艰难，当日印尼股市大跌约11%，为亚洲金融危机以来最差，并拖累印尼盾；此前MSCI表示可能将该国从新兴市场降级，不仅降至前沿市场，还可能归入某种单独类别。对新兴市场投资者而言，可去之处有限，MSCI指数约70%集中在韩国、中国和台湾，因此很难避开AI交易。",
+      "detail_en": "Asian equities bounced modestly, and futures in Europe and the US looked more stable for the session, but a muted bounce across Korea, Taiwan and Japan is unlikely to convince investors that the volatility in the AI trade is over. The market is moving past the point where the CapEx cycle alone dictates the AI trade: Samsung's preliminary numbers were good, and ASML and TSMC also posted good numbers, and the market knows CapEx spending is strong. What concerns investors is the financing component and what exogenous AI demand looks like outside the circular CapEx cycle. US CPI and PPI came in hotter than expected, but Fed Chair Walsh did not come out as overtly hawkish, which dialed back expectations for Fed rate hikes, particularly in October, from around 25% to about 15%, supporting risk assets. Indonesian assets have had a difficult year, and Indonesian stocks sold off about 11%, the worst selloff since the Asian financial crisis, spilling over to the currency; MSCI had said it was looking to potentially downgrade the country, not just to frontier status from EM but to a separate status. For EM investors, there are very few places to go, with about 70% of the MSCI index in South Korea, China and Taiwan, making it difficult to escape the AI trade.",
+      "conclusion_zh": "AI交易的驱动逻辑正从资本开支转向融资与外部需求，这一转变是当前波动的核心；同时美联储主席未因通胀数据偏热而转鹰，短期加息预期回落，但新兴市场可避险空间有限，AI交易难以回避。",
+      "conclusion_en": "The AI trade's driver is shifting from CapEx to financing and exogenous demand, which is central to current volatility; meanwhile, the Fed chair did not turn hawkish despite hot inflation data, easing near-term hike expectations, but EM investors have few places to hide from the AI trade.",
+      "key_points": [
+        {
+          "zh": "亚洲股市小幅反弹，但韩国、台湾和日本的温和反弹不足以证明AI交易的波动已经结束。",
+          "en": "Asian equities bounced modestly, but the muted rebound across Korea, Taiwan and Japan is not enough to convince investors the AI trade volatility is over."
+        },
+        {
+          "zh": "市场正越过仅由资本开支周期主导AI交易的阶段，转而关注融资环节和资本开支循环之外的外部需求。",
+          "en": "The market is moving past the point where the CapEx cycle alone dictates the AI trade, focusing instead on the financing component and exogenous demand outside the CapEx cycle."
+        },
+        {
+          "zh": "三星初步数据、ASML和台积电业绩良好，市场清楚资本开支强劲，但担忧融资和外部需求。",
+          "en": "Samsung's preliminary numbers, ASML and TSMC results were good, and the market knows CapEx is strong, but it worries about financing and external demand."
+        },
+        {
+          "zh": "美国CPI和PPI偏热，但美联储主席Walsh未明显鹰派，10月加息预期从约25%降至约15%。",
+          "en": "US CPI and PPI were hot, but Fed Chair Walsh was not overtly hawkish, and October rate-hike expectations fell from around 25% to about 15%."
+        },
+        {
+          "zh": "印尼股市大跌约11%，为亚洲金融危机以来最差，并拖累印尼盾；MSCI可能将其降级。",
+          "en": "Indonesian stocks fell about 11%, the worst since the Asian financial crisis, dragging the currency; MSCI may downgrade the country."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "CapEx",
+        "Fed",
+        "EM equities",
+        "Indonesia"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Fxb8-BY_qug",
+      "title": "AI Capex, Gamble or Jackpot?: Market Snapshot",
+      "title_zh": "AI交易三大核心问题悬而未决，资本开支与回报担忧升温",
+      "url": "https://www.youtube.com/watch?v=Fxb8-BY_qug",
+      "published_at": "2026-10-16T07:23:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "博通CEO指出当前市场存在投机行为、缺乏可见性，投资者对AI相关资本开支能否带来回报的担忧加剧。分析师认为AI交易面临三个关键问题——市场规模、经济模型与护城河，短期内难以得到令人信服的答案，而资本开支加速放缓正引发警惕。",
+      "summary_en": "Broadcom's CEO flagged speculative behavior and a lack of visibility in the market, intensifying investor concerns over whether AI-related capex will deliver returns. Analysts argue the AI trade hinges on three key unanswered questions—market size, economics, and moats—while a slowing pace of acceleration is raising alarm bells.",
+      "detail_zh": "博通CEO本周早些时候表示，当前市场存在赌博行为，没有人拥有任何可见性。分析师认为这是非常合理的担忧，也是关键驱动因素之一，并指出这正是英伟达或博通等股票出现分歧的原因——市场真正担忧的是投入的资金规模正变得相当可观。人们正在为token付费，却不知道在ROI基础上是否能获得回报，这已成为围绕AI公司担忧的核心。分析师指出，AI交易的核心有三个关键问题：市场的最终规模有多大、经济模型如何、潜在护城河在哪里，这些问题在一段时间内不会得到令人信服或连贯的答案。资本开支加速的步伐正在显著放缓，这开始敲响警钟——企业确实在增加支出，但增速是否达到使这些投资在投资者评判这些股票的时间框架内合理的水平，值得关注。分析师表示将关注自由现金流，并指出Alphabet的自由现金流已转为负值，此前亚马逊和甲骨文也出现类似情况；当收益率走高时，投资者将关注这些巨额支出如何融资。此外，一家大型贷款机构表示，AI可提升KYC等运营效率，但也带来网络安全相关的更多成本，同时该机构正在持续审查自身贷款组合，以理解AI对其企业客户的影响。",
+      "detail_en": "Broadcom's CEO said earlier this week that people are gambling at the moment and nobody has any visibility. Analysts view this as a very valid concern and one of the key drivers, noting it explains why stocks like Nvidia or Broadcom have been debated—there is real concern that the sums of money are getting pretty serious. People are spending on tokens without any idea of whether it will pay off on an ROI basis, which has been at the core of worries around AI companies. Analysts note there are three key questions at the heart of the AI trade: the ultimate size of the market, what the economics look like, and where the potential moats are—and these will not be answered convincingly or coherently for some time. The pace of acceleration is slowing down significantly, ringing alarm bells: enterprises are spending more, but are they spending at the pace needed for these investments to make sense within the timeframe investors judge these stocks this earnings season. Analysts say they will look at free cash flows, noting Alphabet's flipped negative, on top of Amazon and Oracle; when yields go higher, investors will look at how these massive expenditures are financed. A large lender noted AI can make KYC operations more efficient, but also brings more costs tied to cybersecurity stemming from AI, and that it is constantly reviewing its own loan portfolio to understand AI's impact on its corporate clients.",
+      "conclusion_zh": "AI交易的核心问题短期内难以解答，资本开支加速放缓与自由现金流转负值得密切关注，投资者应聚焦企业如何为巨额支出融资及其ROI可见性。",
+      "conclusion_en": "The core questions of the AI trade won't be answered soon; the slowing capex acceleration and negative free cash flows warrant close attention, with investors focused on how companies finance massive spending and the visibility of ROI.",
+      "key_points": [
+        {
+          "zh": "博通CEO称当前市场存在赌博行为、缺乏可见性，分析师认为这是合理的担忧，也是英伟达、博通等股票出现分歧的关键原因。",
+          "en": "Broadcom's CEO said people are gambling with no visibility; analysts see this as a valid concern and a key driver behind the debate over stocks like Nvidia and Broadcom."
+        },
+        {
+          "zh": "AI交易的核心是三个尚未解答的问题：市场最终规模、经济模型、潜在护城河，短期内难以获得令人信服的答案。",
+          "en": "The AI trade hinges on three unanswered questions: ultimate market size, economics, and potential moats—unlikely to be answered convincingly for some time."
+        },
+        {
+          "zh": "资本开支加速步伐显著放缓，引发对企业支出增速能否支撑这些投资在投资者评判时间框架内合理的担忧。",
+          "en": "The pace of acceleration is slowing significantly, raising concerns over whether enterprise spending growth can justify these investments within investors' timeframe."
+        },
+        {
+          "zh": "Alphabet自由现金流已转为负值，此前亚马逊和甲骨文也出现类似情况；收益率走高时投资者将关注这些巨额支出的融资方式。",
+          "en": "Alphabet's free cash flow flipped negative, on top of Amazon and Oracle; with higher yields, investors will focus on how these massive expenditures are financed."
+        },
+        {
+          "zh": "一家大型贷款机构指出AI可提升KYC等运营效率，但也带来网络安全相关成本，并正持续审查贷款组合以评估AI对企业客户的影响。",
+          "en": "A large lender notes AI improves KYC efficiency but adds cybersecurity costs, and is constantly reviewing its loan portfolio to assess AI's impact on corporate clients."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "ROI",
+        "free cash flow",
+        "semiconductors",
+        "market visibility"
+      ],
+      "tickers": [
+        "AVGO",
+        "NVDA",
+        "GOOGL",
+        "AMZN",
+        "ORCL"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:w0ZpSER65aA",
+      "title": "Yemen Says Houthis Hit Presidential Palace, EU-Gulf Summit in Saudi Arabia Postponed",
+      "title_zh": "IMF会议：沃什未给前瞻指引，市场押注美联储继续加息",
+      "url": "https://www.youtube.com/watch?v=w0ZpSER65aA",
+      "published_at": "2026-10-16T06:58:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在IMF曼谷会议上，美联储官员沃什未就10月与12月利率决定给出前瞻指引，重申价格稳定是核心使命，并提及AI与11月16日的美联储工作组。市场在CPI数据偏热后已定价到明年3月前两次加息，BNP策略师认为沃什表态略偏鹰派，10月会议结果可能接近。",
+      "summary_en": "At the IMF meetings in Bangkok, Fed official Warsh gave no forward guidance on October and December rate decisions, reiterating price stability as the Fed's main mandate and mentioning AI and a Fed task force set for November 16. After a hot CPI print, markets are pricing in two Fed rate hikes by March, and a BNP strategist viewed Warsh's remarks as slightly hawkish, with the October meeting likely a close call.",
+      "detail_zh": "盘前美股期货小幅上行，标普与纳指走高，MSCI太平洋指数上涨1.5%，布伦特原油下跌0.6%，基准收益率报5.1%。IMF总裁与美联储主席在曼谷IMF会议进行了约半小时炉边对话，沃什未提供前瞻指引，称10月和12月的决定需要届时做出，但未说明具体内容，并重申价格稳定是美联储的主要使命，同时提到AI以及定于11月16日的美联储工作组。沃什表示美联储将在此时期后变得更强，并强调国际合作的重要性；财政部长贝森特未出席。BNP策略师认为沃什的言论略偏鹰派，尤其考虑到本周CPI偏热且经济未见放缓证据，他提到AI带来的需求压力正在传导，并称全球经济在美国以外具有韧性；但委员会其他成员可能更偏鸽派，10月会议将是接近的决定。该策略师称其基准情形是至少还有多次加息，原本预计9月加息，基准情形为12月和1月进一步加息，并认为存在额外加息风险。关于油市冲击，其认为已出现向债市的溢出效应，AI主题下股市走弱（包括KOSPI和美国股市）值得担忧，若AI情绪进一步动摇，美元尤其兑瑞郎等避险货币可能承压；该行昨日发布了做空美元兑瑞郎的交易想法。对于美债，其仍认为路径指向更高收益率，财政风险尚未被完全定价，这可能支撑长端。",
+      "detail_en": "U.S. equity futures edged higher pre-market, with the S&P and Nasdaq up and the MSCI Pacific index rising 1.5%; Brent crude fell 0.6% and the benchmark yield stood at 5.1%. The IMF Managing Director and the Fed Chair held a roughly half-hour fireside chat at the IMF meeting in Bangkok. Warsh gave no forward guidance, saying decisions in October and December would have to be made but not specifying what they would be, and reiterated that price stability is the Fed's main mandate, while mentioning AI and a Fed task force set for November 16. Warsh said the Fed will come out of this period stronger and stressed the importance of international cooperation; Treasury Secretary Bessent did not attend. A BNP strategist viewed Warsh's comments as slightly more hawkish, especially given this week's hot CPI and little evidence of an economic slowdown; he noted AI demand pressures are starting to filter through and that the global economy has good resilience outside the U.S. However, other committee members may be more dovish, making the October meeting a close call. The strategist said the base case is a minimum of several total hikes, having called for a September hike, with further hikes in December and January, and sees risk of an additional hike. On the oil shock, he said spillover effects are appearing in the bond market, and AI-related equity weakness (including KOSPI and the U.S.) is a concern; if AI sentiment wobbles further, the dollar could come under pressure, particularly against safe-haven currencies like the Swiss franc, and the bank issued a short dollar-Swiss franc trade idea yesterday. On Treasuries, he still sees a path to higher yields, with fiscal risks not fully priced in, which could keep the back end supported.",
+      "conclusion_zh": "市场在偏热CPI后押注美联储继续加息，10月会议结果接近；投资者需关注AI情绪走弱对股市与美元的潜在传导，以及财政风险对长端美债的影响。",
+      "conclusion_en": "After a hot CPI, markets are betting on further Fed hikes with October a close call; investors should watch potential spillover from weakening AI sentiment into equities and the dollar, and fiscal risks affecting the long end of Treasuries.",
+      "key_points": [
+        {
+          "zh": "沃什在IMF会议上未就10月和12月利率决定给出前瞻指引，重申价格稳定是美联储主要使命。",
+          "en": "Warsh gave no forward guidance on October and December rate decisions at the IMF meeting, reiterating price stability as the Fed's main mandate."
+        },
+        {
+          "zh": "CPI偏热后，市场定价到明年3月前两次美联储加息；BNP基准情形为12月和1月进一步加息，并认为存在额外加息风险。",
+          "en": "After a hot CPI print, markets are pricing in two Fed hikes by March; BNP's base case is further hikes in December and January, with risk of an additional hike."
+        },
+        {
+          "zh": "BNP策略师认为沃什表态略偏鹰派，但委员会其他成员可能更偏鸽派，10月会议将是接近的决定。",
+          "en": "The BNP strategist viewed Warsh's remarks as slightly hawkish, but other committee members may be more dovish, making October a close call."
+        },
+        {
+          "zh": "油市冲击已出现向债市的溢出效应，AI主题下股市走弱（含KOSPI和美国股市）值得担忧。",
+          "en": "The oil shock has shown spillover into the bond market, and AI-related equity weakness (including KOSPI and the U.S.) is a concern."
+        },
+        {
+          "zh": "BNP仍认为美债路径指向更高收益率，财政风险尚未被完全定价，可能支撑长端。",
+          "en": "BNP still sees a path to higher Treasury yields, with fiscal risks not fully priced in, potentially supporting the back end."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "IMF",
+        "CPI",
+        "AI",
+        "Treasuries"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_OF3QHnK97Y",
+      "title": "UK's Healey Plans to Raise Bank Taxes",
+      "title_zh": "全球股市反弹，AI交易情绪脆弱，CoreWeave债务风险引关注",
+      "url": "https://www.youtube.com/watch?v=_OF3QHnK97Y",
+      "published_at": "2026-10-16T06:49:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "全球股市在芯片股抛售后反弹，MSCI亚太指数涨1.7%，但本周仍跌3%。美联储主席沃什（Kevin Warsh）关于AI利好美国经济的言论提振市场，10月加息概率从25%降至15%。CoreWeave的债务融资问题引发AI基础设施融资风险的担忧，信用违约互换成本本周大幅上升。",
+      "summary_en": "Global stocks rebounded after the chip selloff, with the MSCI Asia Pacific index up 1.7% though still down 3% for the week. Fed Chair Kevin Warsh's comments on AI benefiting the U.S. economy lifted sentiment, with October rate hike odds falling from 25% to 15%. CoreWeave's debt financing concerns raised worries about AI infrastructure funding risks, with credit default swap costs rising sharply this week.",
+      "detail_zh": "全球股市在经历芯片股抛售后反弹，MSCI亚太指数上涨1.7%，但本周累计仍下跌3%。欧洲股指期货上涨，纳斯达克期货走强，此前美联储主席沃什（Kevin Warsh）在IMF讲话中强调AI将给美国经济带来巨大好处，并称价格稳定是美联储的主要使命。市场对10月加息的定价从讲话前的25%降至15%。亚洲市场中，韩国KOSPI指数上涨4.5%，三星、海力士、阿里巴巴等大型科技股领涨；但台湾市场表现平淡，台积电下跌，台湾昨日遭遇史上最大规模外资流出。印尼市场因MSCI考虑将其降级为独立市场而大跌11%，银行股和电信股均遭抛售，土耳其也面临类似警告。油价小幅走低，但布伦特原油仍高于105美元/桶，中东供应风险重回焦点，油价有望连续第二周上涨。美元进一步走弱，欧元兑美元升破1.12，10年期美债收益率为5.08%。CoreWeave的债务融资问题成为本周AI抛售的导火索，其信用违约互换成本本周大幅上升，公司预计将烧掉超过300亿美元的自由现金流，远超其收入，这引发了对AI基础设施融资模式的担忧。英伟达CEO的支撑性言论部分扭转了市场情绪，但AI交易的情绪依然脆弱。",
+      "detail_en": "Global stocks rebounded after the chip selloff, with the MSCI Asia Pacific index up 1.7% though still down 3% for the week. European stock futures gained and Nasdaq futures were positive after Fed Chair Kevin Warsh, speaking at the IMF, emphasized AI would be a huge benefit to the U.S. economy and said price stability is the Fed's main mandate. Market pricing for an October rate hike fell from 25% before the remarks to 15%. In Asia, South Korea's KOSPI rose 4.5%, led by large-cap tech including Samsung, Hynix, and Alibaba; Taiwan was flat with TSMC down, after recording its biggest day of foreign outflows ever yesterday. Indonesia dropped 11% as MSCI considers downgrading it to a standalone market, with banks and telecoms sold off; Turkey faces a similar warning. Oil prices were slightly lower but Brent remained above $105/barrel, on track for a second weekly gain as Middle East supply risks returned to focus. The dollar weakened further, with the euro above 1.12, and the 10-year Treasury yield at 5.08%. CoreWeave's debt financing issues sparked this week's AI selloff, with its credit default swap costs rising exponentially; the company is expected to burn more than $30 billion of free cash flow, far exceeding revenues, raising concerns about AI infrastructure funding models. Supportive comments from Nvidia's CEO partially turned sentiment around, but AI trade sentiment remains fragile.",
+      "conclusion_zh": "AI交易情绪脆弱，CoreWeave的债务问题凸显AI基础设施融资的结构性风险，投资者需关注信用市场压力与美联储政策路径的相互作用。",
+      "conclusion_en": "AI trade sentiment is fragile, and CoreWeave's debt issues highlight structural risks in AI infrastructure financing; investors should watch the interplay between credit market stress and the Fed's policy path.",
+      "key_points": [
+        {
+          "zh": "全球股市反弹，MSCI亚太指数涨1.7%，但本周仍跌3%；韩国KOSPI涨4.5%领涨，台湾因外资创纪录流出而承压。",
+          "en": "Global stocks rebounded with MSCI Asia Pacific up 1.7% though still down 3% for the week; Korea's KOSPI rose 4.5% while Taiwan struggled amid record foreign outflows."
+        },
+        {
+          "zh": "美联储主席沃什称AI将给美国经济带来巨大好处，市场对10月加息定价从25%降至15%。",
+          "en": "Fed Chair Kevin Warsh said AI will be a huge benefit to the U.S. economy, with October rate hike odds falling from 25% to 15%."
+        },
+        {
+          "zh": "CoreWeave的债务融资问题引发AI基础设施融资风险担忧，其CDS成本本周大幅上升，预计烧掉超300亿美元自由现金流。",
+          "en": "CoreWeave's debt financing issues raised concerns about AI infrastructure funding risks, with CDS costs rising sharply this week and expected free cash flow burn exceeding $30 billion."
+        },
+        {
+          "zh": "印尼市场因MSCI考虑将其降级为独立市场而大跌11%，银行和电信股遭抛售，土耳其面临类似警告。",
+          "en": "Indonesia dropped 11% as MSCI considers downgrading it to a standalone market, with banks and telecoms sold off; Turkey faces a similar warning."
+        },
+        {
+          "zh": "油价小幅走低但布伦特仍高于105美元/桶，中东供应风险重回焦点；美元走弱，欧元升破1.12，10年期美债收益率为5.08%。",
+          "en": "Oil slightly lower but Brent above $105/barrel as Middle East supply risks return; dollar weakened with euro above 1.12, and 10-year Treasury yield at 5.08%."
+        }
+      ],
+      "tags": [
+        "AI",
+        "Fed",
+        "CoreWeave",
+        "Asia markets",
+        "credit risk"
+      ],
+      "tickers": [
+        "TSM"
+      ],
       "sentiment": "neutral"
     },
     {
