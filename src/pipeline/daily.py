@@ -93,18 +93,44 @@ def _content_for(source: dict, item: dict) -> str | None:
                     pass
 
     if stype == "youtube":
-        return _youtube_content(item)
+        return _youtube_content(source, item)
 
     return item.get("content", "")
 
 
-def _youtube_content(item: dict) -> str | None:
+def _youtube_content(source: dict, item: dict) -> str | None:
     """YouTube content: transcript if under budget (or a long video), else description."""
     global _transcripts_exhausted
     desc = (item.get("description") or "").strip()
 
-    if config.USE_YOUTUBE_CAPTIONS:
-        if _allow_transcript():
+    if not config.USE_YOUTUBE_CAPTIONS:
+        if len(desc) > 40:
+            return desc
+        raise RuntimeError("no description for youtube video")
+
+    # Duration-gated sources (e.g. Bloomberg TV): skip transcript for short clips.
+    if source.get("duration_gate"):
+        dur = youtube.get_duration(item["video_id"])
+        if dur is not None and dur < config.MIN_TRANSCRIPT_DURATION:
+            if len(desc) > 40:
+                return desc
+            raise RuntimeError("no description for short clip")
+
+    if _allow_transcript():
+        time.sleep(2)
+        try:
+            return youtube.get_captions(item["video_id"])
+        except youtube.OutOfCredits:
+            _transcripts_exhausted = True
+            log.warning("TranscriptAPI out of credits — using descriptions for the rest of this run")
+        except Exception as e:  # noqa: BLE001
+            if len(desc) > 40:
+                return desc
+            raise e
+    else:
+        # Over budget: only fetch transcripts for long videos (> MIN_TRANSCRIPT_DURATION).
+        dur = youtube.get_duration(item["video_id"])
+        if dur is None or dur >= config.MIN_TRANSCRIPT_DURATION:
             time.sleep(2)
             try:
                 return youtube.get_captions(item["video_id"])
@@ -115,20 +141,6 @@ def _youtube_content(item: dict) -> str | None:
                 if len(desc) > 40:
                     return desc
                 raise e
-        else:
-            # Over budget: only fetch transcripts for long videos (> MIN_TRANSCRIPT_DURATION).
-            dur = youtube.get_duration(item["video_id"])
-            if dur is None or dur >= config.MIN_TRANSCRIPT_DURATION:
-                time.sleep(2)
-                try:
-                    return youtube.get_captions(item["video_id"])
-                except youtube.OutOfCredits:
-                    _transcripts_exhausted = True
-                    log.warning("TranscriptAPI out of credits — using descriptions for the rest of this run")
-                except Exception as e:  # noqa: BLE001
-                    if len(desc) > 40:
-                        return desc
-                    raise e
 
     if len(desc) > 40:
         return desc
@@ -197,8 +209,11 @@ def run_pipeline() -> dict:
                     continue
                 categories = list(payload.get("categories", ["other"]))
                 force = src.get("force_category")
-                if force and force not in categories:
-                    categories.append(force)
+                if force:
+                    if src.get("exclusive_category"):
+                        categories = [force]  # only this category, no mixing
+                    elif force not in categories:
+                        categories.append(force)
                 new_insights.append(
                     {
                         "guid": guid,

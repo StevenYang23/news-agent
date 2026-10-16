@@ -85,7 +85,8 @@
       "active": true,
       "note": "Daily news clips; forced into BBG TV news category.",
       "priority": 5,
-      "require_econ_tech": true
+      "duration_gate": true,
+      "exclusive_category": true
     },
     {
       "name": "PIMCO",
