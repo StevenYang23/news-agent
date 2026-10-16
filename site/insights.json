@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-10-16T11:14:39.727875+00:00",
+  "generated_at": "2026-10-16T12:14:18.418049+00:00",
   "insights": [
+    {
+      "guid": "yt:IetE5QVUxuA",
+      "title": "Investors Dial Back October Hike Bets After Warsh; Taiwan to Curb AI Chip Exports to China",
+      "title_zh": "市场下调10月加息预期，亚洲科技股反弹，特斯拉发布新Roadster",
+      "url": "https://www.youtube.com/watch?v=IetE5QVUxuA",
+      "published_at": "2026-10-16T11:27:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储主席沃什在IMF会议上未对货币政策置评，市场将其解读为偏鸽，10月加息概率从约27%降至15%或更低，美债收益率小幅走低。亚洲科技股反弹，中国当局出手支撑股市；特斯拉发布新Roadster车型，盘前涨超4.5%。",
+      "summary_en": "Fed Chair Warsh offered no comments on monetary policy at the IMF meeting, which markets read as dovish, cutting October rate-hike odds from about 27% to 15% or lower and nudging Treasury yields lower. Asian tech stocks rebounded with Chinese authorities stepping in to support equities; Tesla unveiled its new Roadster and rose over 4.5% premarket.",
+      "detail_zh": "美联储主席沃什在IMF会议上未就货币政策给出前瞻指引，也未提及本周数据，但市场将其缺乏鹰派表态解读为偏鸽，联邦基金期货显示10月加息概率从讲话前的约27%降至15%或更低。10年期美债收益率报5.0978%，30年期报5.44%，曲线略有陡峭化。亚洲股市多数收涨，韩国和日本科技板块收复本周部分失地，中国股市获得“国家队”支撑，盘后消息显示这是当局更广泛救市行动的一部分。印尼股市创28年最差单日表现，货币连续第六日下跌，因市场担忧MSCI可能将印尼从新兴市场指数中剔除并降为独立市场。欧洲股市反弹，科技、工业和金融板块走强，德国商业银行与裕信银行获准合并。个股方面，特斯拉发布新Roadster，计划2028年投产，盘前涨超4.5%；美国铝业因铝业务价格与产量提升财报良好；J.B. Hunt盘前下跌，分析师称成本对利润率的压力短期难以缓解。",
+      "detail_en": "Fed Chair Warsh gave no forward guidance on monetary policy at the IMF meeting and did not mention this week's data, but markets read the absence of hawkish rhetoric as dovish, with fed funds futures pricing October hike odds falling from about 27% before his remarks to 15% or lower. The 10-year Treasury yield stood at 5.0978% and the 30-year at 5.44%, with a slight curve steepening. Most Asian markets closed higher, with South Korea and Japan tech recovering some of the week's losses, while Chinese equities drew 'national team' support that was later revealed to be part of a broader official push to support the market. Indonesian stocks had their worst day in 28 years and the currency fell for a sixth day on concern MSCI could remove Indonesia from the emerging market index and leave it as a standalone market. European equities rebounded, led by tech, industrials and financials, with Commerzbank and UniCredit cleared to merge. On single names, Tesla unveiled its new Roadster, slated for production from 2028, and rose over 4.5% premarket; Alcoa reported good earnings on aluminum pricing and production gains; J.B. Hunt fell premarket, with analysts saying cost pressure on margins is unlikely to ease soon.",
+      "conclusion_zh": "沃什的沉默被市场解读为不加息信号，短期缓解了利率担忧并提振风险资产，但市场对美联储路径的定价仍高度依赖后续数据。",
+      "conclusion_en": "Warsh's silence was read as a no-hike signal, easing rate concerns and lifting risk assets short-term, though market pricing of the Fed path remains highly data-dependent.",
+      "key_points": [
+        {
+          "zh": "沃什未就货币政策置评，市场解读为偏鸽，10月加息概率从约27%降至15%或更低",
+          "en": "Warsh offered no monetary policy comments; markets read it as dovish, cutting October hike odds from ~27% to 15% or lower"
+        },
+        {
+          "zh": "10年期美债收益率5.0978%，30年期5.44%，曲线略有陡峭化",
+          "en": "10-year Treasury yield at 5.0978%, 30-year at 5.44%, with slight curve steepening"
+        },
+        {
+          "zh": "亚洲科技股反弹，中国当局出手支撑股市，或下周有更多进展",
+          "en": "Asian tech rebounded; Chinese authorities stepped in to support equities, with more developments possibly next week"
+        },
+        {
+          "zh": "印尼股市创28年最差单日，货币连跌六日，因担忧MSCI将其降为独立市场",
+          "en": "Indonesia had its worst day in 28 years and the currency fell for a sixth day on MSCI standalone-market concerns"
+        },
+        {
+          "zh": "特斯拉发布新Roadster，2028年投产，盘前涨超4.5%",
+          "en": "Tesla unveiled its new Roadster, production from 2028, up over 4.5% premarket"
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate-hike-expectations",
+        "Treasury-yields",
+        "Asian-tech",
+        "Tesla"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "4954730",
       "title": "Wall Street Breakfast Podcast: Tesla Roadster Takes Flight",
@@ -7205,54 +7258,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "4953013",
-      "title": "America Continues To Spend Far More Than It Has",
-      "title_zh": "美国财政赤字逼近2万亿美元，PIMCO警告10年期美债收益率或达6%",
-      "url": "https://seekingalpha.com/article/4953013-america-continues-to-spend-far-more-than-it-has?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-09T11:30:24+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "美国国会预算办公室报告显示，截至9月30日的上一财年联邦预算赤字飙升至近2万亿美元，支出7.4万亿美元而收入仅5.4万亿美元。在债券收益率飙升之际，PIMCO警告10年期美债收益率可能自2000年以来首次触及6%。",
-      "summary_en": "The U.S. federal budget deficit soared to nearly $2T in the last fiscal year ended Sept. 30, with $7.4T in outlays against only $5.4T in revenue, according to the CBO. Amid soaring bond yields, PIMCO warned the 10-year Treasury yield could reach 6% for the first time since 2000.",
-      "detail_zh": "美国国会预算办公室最新报告显示，截至9月30日的上一财年，联邦预算赤字飙升至近2万亿美元，政府支出达7.4万亿美元（同比增长6%），而收入仅为5.4万亿美元（同比增长3%）。如此规模的赤字通常只出现在深度衰退和战争时期，而非经济持续扩张期。美国净利息支出现已超过整个国防预算，以及除社会保障以外的所有其他支出类别。加剧问题的因素包括《One Big Beautiful Bill》带来的大规模税收减免和巨额支出、人口老龄化推升的Medicare成本，以及最高法院争议性裁决后IEEPA关税收入的损失。PIMCO警告10年期美债收益率可能自2000年以来首次达到6%。财政部长Scott Bessent表示，美国没有收入问题而是支出问题，若实现3%增长并控制支出，就能通过增长摆脱困境。",
-      "detail_en": "According to a new CBO report, the U.S. federal budget deficit soared to nearly $2T in the last fiscal year ended Sept. 30, with the government spending $7.4T (+6% Y/Y) while collecting only $5.4T in revenue (+3% Y/Y). Deficits of this magnitude typically only occur during deep recessions and wartime, not during sustained economic expansions. U.S. net interest payments now exceed the entire defense budget and every other spending category except Social Security. Contributing factors include major tax breaks and hefty spending from the One Big Beautiful Bill, increased Medicare costs as the nation ages, and the loss of IEEPA tariff revenue following a contentious Supreme Court ruling. PIMCO warned the 10-year Treasury yield could reach 6% for the first time since 2000. Treasury Secretary Scott Bessent said the U.S. does not have a revenue problem but a spending problem, and with 3% growth and contained spending, the nation can grow its way out.",
-      "key_points": [
-        {
-          "zh": "上一财年美国联邦预算赤字飙升至近2万亿美元，支出7.4万亿美元（+6%），收入仅5.4万亿美元（+3%）。",
-          "en": "The U.S. federal budget deficit soared to nearly $2T last fiscal year, with $7.4T in spending (+6%) against only $5.4T in revenue (+3%)."
-        },
-        {
-          "zh": "PIMCO警告10年期美债收益率可能自2000年以来首次触及6%。",
-          "en": "PIMCO warned the 10-year Treasury yield could reach 6% for the first time since 2000."
-        },
-        {
-          "zh": "美国净利息支出已超过整个国防预算及除社会保障外的所有其他支出类别。",
-          "en": "U.S. net interest payments now exceed the entire defense budget and every other spending category except Social Security."
-        },
-        {
-          "zh": "财政部长Bessent称美国没有收入问题而是支出问题，主张通过3%增长和控制支出来摆脱债务困境。",
-          "en": "Treasury Secretary Bessent said the U.S. has a spending problem, not a revenue problem, and can grow its way out with 3% growth and contained spending."
-        },
-        {
-          "zh": "10年期美债收益率上升2个基点至5.26%。",
-          "en": "The 10-year Treasury yield rose 2 bps to 5.26%."
-        }
-      ],
-      "tags": [
-        "deficit",
-        "treasury-yields",
-        "fiscal-policy",
-        "PIMCO",
-        "national-debt"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
