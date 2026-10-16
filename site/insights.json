@@ -1,6 +1,351 @@
 {
-  "generated_at": "2026-10-16T14:16:29.003800+00:00",
+  "generated_at": "2026-10-16T15:16:30.998899+00:00",
   "insights": [
+    {
+      "guid": "yt:ujNW2LN-lPc",
+      "title": "Fed's Warsh Says AI Will Change Monetary Policy Conduct",
+      "title_zh": "美联储官员：AI是需求侧冲击，中期为正向供给冲击",
+      "url": "https://www.youtube.com/watch?v=ujNW2LN-lPc",
+      "published_at": "2026-10-16T14:47:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "一位美联储官员（原文未具名）将AI称为其一生中对美国和全球经济最具深远影响的变化，认为AI先冲击需求侧、中期构成正向供给冲击，并将根本改变货币政策的数据分析与执行方式。他同时强调通往更高生产率与财富的路径将非常颠簸，市场结构归属与就业影响在12至18个月内仍不确定。",
+      "summary_en": "A Federal Reserve official (unnamed in the transcript) calls AI the most consequential change to the US and global economy in his lifetime, arguing it hits aggregate demand first and becomes a positive supply shock in the medium term, while fundamentally changing how monetary policy is conducted. He stresses the path to higher productivity and wealth will be very bumpy, with the market structure and 12-18 month employment effects still unknown.",
+      "detail_zh": "该官员表示，AI的出现在他看来是迄今为止其一生中对美国和全球经济最具深远影响的变化，他作为央行官员对此既重视又保持冷静、负责的态度。他指出AI首先冲击经济的需求侧，之后才会作用于供给侧；对以稳定物价和充分就业为目标的央行而言，这应被视为一次冲击，但中期是正向的供给冲击，他本人对此深信不疑。在通往这一正向供给冲击的路径上，总需求正在上升。他将这一冲击与战争、军事冲突等其他冲击区别看待，认为它对全球和美国经济长期而言有巨大益处。第二，他认为AI对央行意义重大，因为央行需要从美国劳工统计局、经济分析局等官方统计中提炼嘈杂数据，用传统模型寻找潜在通胀趋势；不久之后央行将能触手可及地获取全球所有信息，并用新分析工具提炼数据，从而对新信息更有信心，判断数据是真实的还是滞后、误测的噪音，这将从根本上改变货币政策的执行方式。第三，AI将改变实体经济，未来12到18个月对就业的影响尚不可知；若如他所信，善用AI的经济体和国家的生产率与财富将提升，这必然是好事，但从现状到那一步的路径很可能非常颠簸——颠簸在于对技术的理解，也在于不知道这些新技术的市场结构将如何，谁能赚到钱，以及那些押注赚钱但市场结构不允许的人会面临什么后果。他最后表示，对于与当前政策节点关系不大的重大难题，央行需要为下一个政策节点投资；他约四五个月前发起了多个外部工作组，其中包括一个关于生产率与就业的工作组，将于11月16日在湾区举行首次实地听证会，讨论这些问题，他确信问题问对了，但不确定答案是否正确。",
+      "detail_en": "The official says the advent of AI is probably the most consequential change to the US and global economy in his lifetime, and that as a central banker he takes it seriously but soberly and responsibly. He notes AI is hitting the demand side of the economy before the supply side; for a central bank focused on stable prices and full employment, this must be recognized as a shock, but it is a positive supply shock in the medium term, which he fundamentally believes. On the path to that positive supply shock, aggregate demand is rising. He views this shock differently from shocks such as war and military conflict, seeing a huge benefit to the global and US economy over the horizon. Second, he says AI is a big deal for central banks because they distill noisy data from official statistics such as the Bureau of Labor Statistics and the Bureau of Economic Affairs, using old-fashioned models to find underlying inflation trends; before long central banks will have access to all the information in the world at their fingertips and use new analytical tools to distill it, giving them more confidence in whether new information is real or lagged, noisy and mismeasured, fundamentally changing the conduct of monetary policy. Third, AI will change the real economy, though its effect on employment over the next 12 or 18 months is unknown; if, as he believes, it makes economies and countries that use it well more productive and wealthier, that must be a very good thing, but the path there is likely to be very bumpy—bumpy in understanding the technology, and because the market structure of these new technologies is unknown: who gets to make the money, and what happens to those who bet they would make money but the market structure does not allow it. He adds that on big hard questions that do not matter much to the current policy conjuncture, the central bank needs to invest in the next policy conjuncture; among external task forces he initiated about four or five months ago is one on productivity and jobs, with its first field hearing on November 16th in the Bay Area, where they will wrestle with these issues. He is pretty sure he has the right questions but not sure he has the right answers.",
+      "conclusion_zh": "该官员对AI持乐观但审慎的态度：中期视为正向供给冲击，但强调路径颠簸、市场结构与就业影响尚不明朗，并已就生产率与就业设立工作组。",
+      "conclusion_en": "The official is optimistic but cautious on AI: a medium-term positive supply shock, yet the path is bumpy and the market structure and employment effects remain unclear, prompting a task force on productivity and jobs.",
+      "key_points": [
+        {
+          "zh": "AI被视为其一生中对美国和全球经济最具深远影响的变化，央行应严肃且冷静负责地对待。",
+          "en": "AI is seen as the most consequential change to the US and global economy in his lifetime, to be treated seriously but soberly and responsibly by the central bank."
+        },
+        {
+          "zh": "AI先冲击需求侧，中期构成正向供给冲击；在通往该冲击的路径上总需求正在上升。",
+          "en": "AI hits the demand side first and is a positive supply shock in the medium term; on the path there, aggregate demand is rising."
+        },
+        {
+          "zh": "AI将根本改变货币政策执行方式：央行可获取全球信息并用新工具提炼数据，更好区分真实信号与滞后、误测的噪音。",
+          "en": "AI will fundamentally change the conduct of monetary policy, letting central banks access global information and use new tools to distill data and better distinguish real signals from lagged, mismeasured noise."
+        },
+        {
+          "zh": "AI对就业的影响在12至18个月内尚不可知；通往更高生产率与财富的路径很可能非常颠簸。",
+          "en": "AI's effect on employment over the next 12-18 months is unknown, and the path to higher productivity and wealth is likely to be very bumpy."
+        },
+        {
+          "zh": "市场结构归属不确定：谁能赚钱、押注赚钱但市场结构不允许者将面临何种后果，均属未知。",
+          "en": "The market structure is uncertain: who gets to make the money, and what happens to those who bet on making money but the market structure does not allow it."
+        }
+      ],
+      "tags": [
+        "AI",
+        "monetary-policy",
+        "supply-shock",
+        "productivity",
+        "Fed"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:kXTaYK2Ko1Q",
+      "title": "Fed Chair Warsh Says US Is Seeing an Investment Surge",
+      "title_zh": "美联储官员：投资热潮源于良好政策，而非偶然",
+      "url": "https://www.youtube.com/watch?v=kXTaYK2Ko1Q",
+      "published_at": "2026-10-16T14:46:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储官员在G-20场合表示，当前全球经济最重要的上行变化是结构性增长与投资热潮，美国正经历大规模投资激增，这并非偶然，而是良好宏观政策与微观基础共同作用的结果。同时，各国央行官员普遍关注价格飙升问题。",
+      "summary_en": "A Federal Reserve official said at a G-20 gathering that the most important upside development in the global economy is structural growth and an investment surge, with the United States experiencing a massive investment boom that is not accidental but the result of good macroeconomic policy and strong micro foundations. At the same time, central bankers broadly share concerns about surging prices.",
+      "detail_zh": "美联储官员在与G-20同僚会面时表示，美联储政策会外溢至全球，其他国家的政策也会反过来影响美国，因此他花大量时间倾听。他提到自己一个月前已做出判断，并将在10月和12月会议上继续做出判断。他回顾称，二十年前同类会议上讨论的是“长期停滞”，而如今情况已大不相同：当前存在结构性增长和投资热潮，尽管并非每个国家都同等程度受益，但美国正经历大规模投资激增。他认为，长期停滞曾暗示这种低迷是不可避免的、政策制定者无能为力，但经验表明政策至关重要，投资热潮并非偶然，而是良好宏观政策与微观基础共同作用的结果，这可能是全球经济上行方面最重要的事件。不过，他也强调央行官员需要平衡看待问题，在与各国央行官员的讨论中，大家普遍听到同样的信息——价格飙升。",
+      "detail_en": "The Federal Reserve official said at a G-20 gathering that Fed policy spills over to the rest of the world, but other countries' policies spill back to the U.S. as well, so he does at least as much listening as talking. He noted he had made judgments about a month ago and will make further judgments at the October and December meetings. He recalled that twenty years ago at similar meetings the discussion was about secular stagnation, but now the situation is very different: there is structural growth and an investment surge, which is not hitting every country equally, but the United States is having a massive investment surge. He argued that secular stagnation suggested such weakness was inevitable and that policymakers could do nothing about it, but experience shows policy matters, and the investment surge is not by accident—it is the consequence of good macroeconomic policy and strong micro foundations, and is probably the most important thing happening in the global economy on the upside. However, he also stressed that central bankers must be balanced, and in discussions with central bankers, they all hear the same thing about the surge in prices.",
+      "conclusion_zh": "美联储官员强调政策对投资热潮的关键作用，同时提示央行官员普遍关注价格飙升，投资者需权衡增长上行与通胀压力。",
+      "conclusion_en": "The Fed official emphasized the key role of policy in driving the investment surge while noting that central bankers broadly share concerns about surging prices, suggesting investors should weigh upside growth against inflation pressures.",
+      "key_points": [
+        {
+          "zh": "当前全球经济最重要的上行变化是结构性增长与投资热潮，美国正经历大规模投资激增。",
+          "en": "The most important upside development in the global economy is structural growth and an investment surge, with the United States experiencing a massive investment boom."
+        },
+        {
+          "zh": "投资热潮并非偶然，而是良好宏观政策与微观基础共同作用的结果，政策至关重要。",
+          "en": "The investment surge is not accidental; it is the result of good macroeconomic policy and strong micro foundations, and policy matters."
+        },
+        {
+          "zh": "二十年前讨论的“长期停滞”观点暗示低迷不可避免，但如今已被证明政策可以有所作为。",
+          "en": "The secular stagnation view discussed twenty years ago suggested inevitable weakness, but it has now been shown that policy can make a difference."
+        },
+        {
+          "zh": "各国央行官员普遍关注价格飙升问题。",
+          "en": "Central bankers broadly share concerns about the surge in prices."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "investment surge",
+        "secular stagnation",
+        "inflation",
+        "G-20"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uPQM6Eu2IQg",
+      "title": "Netflix Brings in New Executive to Spur Growth",
+      "title_zh": "Netflix任命Peter Rice：管理层调整应对增长放缓与内容挑战",
+      "url": "https://www.youtube.com/watch?v=uPQM6Eu2IQg",
+      "published_at": "2026-10-16T14:31:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Netflix任命资深好莱坞高管Peter Rice接替Bela Bajaria，反映管理层对增长放缓、内容续订观众流失及激烈竞争等问题的回应。Rice以与好莱坞人才关系良好著称，其每年掌控约200亿美元内容预算，重点或在于管理人才关系与争取导演、制片人回归。",
+      "summary_en": "Netflix has appointed veteran Hollywood executive Peter Rice, replacing Bela Bajaria, signaling management's response to slowing growth, audience declines in follow-on seasons of hits, and intense competition. Rice, known for strong talent relationships, will oversee an annual content budget of about $20 billion, with a focus likely on managing Hollywood talent and bringing back directors and producers.",
+      "detail_zh": "Netflix任命Peter Rice为新高管，接替Bela Bajaria，这是一次直接替换。Rice是经验丰富的好莱坞高管，曾任职于迪士尼和福克斯，以与人才关系良好著称。Netflix联合CEO Ted Sarandos此前在Screen Time峰会上表示，公司增长速度不如他所愿，下一季度财报预计营收增长约12%，为两到三年来最慢增速。内容方面，Netflix的爆款剧集在第二季或后续季出现观众下滑，无法维持观众持续观看。此次管理层调整旨在解决这些问题。竞争不仅来自其他流媒体服务，还包括YouTube等平台，尤其在年轻观众中占据越来越多眼球。Netflix明确表示不会进入内容创作者驱动的IP领域，而是坚持制作电影和电视剧。此外，Netflix在直播活动（如WWE）上有所尝试，但尚未全力投入。据彭博报道，Rice的重点将放在管理好莱坞人才关系上，包括如何让曾离开的导演或制片人回归。",
+      "detail_en": "Netflix has appointed Peter Rice as a new executive, replacing Bela Bajaria in a straight swap. Rice is an experienced Hollywood executive who has worked at Disney and Fox and is known for having great relationships with talent. Netflix co-CEO Ted Sarandos said at the Screen Time summit that the company is not growing as quickly as he would like, with revenue due to grow about 12% in the next quarterly earnings, the slowest pace in two or three years. On the content side, when Netflix has a big hit, the second season or follow-on has seen audience declines, and they haven't been able to keep audiences sustaining through those series or seasons. This management change aims to remedy those issues. Competition for eyeballs includes not only other streaming services but also YouTube, especially among younger viewers. Netflix is clear that it will not get into content creator-driven properties and IP, but will live and die by producing film and television. Netflix has also experimented with live events, such as WWE, but is not going all in yet. According to Bloomberg reporting, Rice's focus will be on managing the people of Hollywood, including how to get directors or producers who left to come back.",
+      "conclusion_zh": "Netflix任命Peter Rice凸显其以人才关系为核心的内容战略调整，投资者需关注其能否扭转增长放缓与观众留存难题。",
+      "conclusion_en": "Netflix's appointment of Peter Rice highlights a content strategy shift centered on talent relationships; investors should watch whether he can reverse slowing growth and audience retention challenges.",
+      "key_points": [
+        {
+          "zh": "Netflix任命Peter Rice接替Bela Bajaria，直接替换反映管理层对增长放缓的回应。",
+          "en": "Netflix appointed Peter Rice to replace Bela Bajaria, a straight swap reflecting management's response to slowing growth."
+        },
+        {
+          "zh": "Netflix下一季度营收预计增长约12%，为两到三年来最慢增速。",
+          "en": "Netflix's revenue is due to grow about 12% in the next quarterly earnings, the slowest pace in two or three years."
+        },
+        {
+          "zh": "爆款剧集后续季观众下滑，Netflix难以维持观众持续观看。",
+          "en": "Follow-on seasons of hit shows have seen audience declines, and Netflix struggles to sustain viewership."
+        },
+        {
+          "zh": "竞争不仅来自流媒体，还包括YouTube等平台，尤其在年轻观众中。",
+          "en": "Competition comes not only from streaming services but also from platforms like YouTube, especially among younger viewers."
+        },
+        {
+          "zh": "Rice将重点管理好莱坞人才关系，争取导演和制片人回归。",
+          "en": "Rice will focus on managing Hollywood talent relationships and bringing back directors and producers."
+        }
+      ],
+      "tags": [
+        "Netflix",
+        "streaming",
+        "management change",
+        "content strategy",
+        "competition"
+      ],
+      "tickers": [
+        "NFLX"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:h-etSqf_RX0",
+      "title": "Exceptional Leaders: Shake Shack: Hospitality at Scale",
+      "title_zh": "Danny Meyer谈「开明式好客」：从联合广场咖啡馆到Shake Shack的规模化之路",
+      "url": "https://www.youtube.com/watch?v=h-etSqf_RX0",
+      "published_at": "2026-10-16T14:22:50+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "摩根士丹利「卓越领导者」系列对话Union Square Hospitality Group创始人兼董事长Danny Meyer，回顾其从1985年联合广场咖啡馆起步、到打造Shake Shack全球品牌的历程。Meyer提出以人和文化为核心的「开明式好客」（Enlightened Hospitality）理念，并强调「向上出售而非出售退出」的扩张哲学。Shake Shack现为上市公司，在24个国家运营超过700家门店，2025年销售额接近15亿美元。",
+      "summary_en": "In a Morgan Stanley \"Exceptional Leaders\" conversation, Union Square Hospitality Group founder and chairman Danny Meyer traced his path from opening Union Square Cafe in 1985 to building Shake Shack into a global brand. Meyer articulated his \"Enlightened Hospitality\" philosophy—putting people and culture at the center of scaling a business—and framed growth as \"selling up\" rather than \"selling out.\" Shake Shack is now a publicly traded company operating more than 700 locations across 24 countries, with annual sales approaching $1.5 billion in 2025.",
+      "detail_zh": "Meyer回忆在圣路易斯长大时热爱下馆子，但吸引他的不是食物本身，而是被对待的方式；他父亲从事欧洲旅行业务，而Meyer搬到纽约后发现当地食物很好但好客精神不足。他将圣路易斯的待客之道与在罗马、法国小酒馆以及加州咖啡馆、酒吧烧烤（cafe and bar and grill）运动中体验到的「食物简单却出色、员工真心欢迎客人」相结合，于1985年开设Union Square Cafe。他坦言从一家店扩张到两家店（1994年Gramercy Tavern）非常艰难，因为父亲曾数次破产，而他一直将破产与业务扩张联系在一起，因此对扩张心存恐惧。他后来意识到「成长不等于出售退出，你可以向上出售（sell up）」，若能用成长推进文化、创造更多就业并惠及更多社区，那并非坏事。1998年开设11 Madison Park和Tabla后，Meyer出于公益目的参与改善麦迪逊广场公园的运动，并应Target赞助的公共艺术项目之邀运营一个热狗车，提供八种配料的芝加哥风格热狗，连续三年每天排队约100人。2002至2003年社区要求热狗车回归后，他决定将其变为永久售货亭，并借鉴圣路易斯成长时的汉堡店和冻奶油店记忆，创立Shake Shack，将其定位为「介于资本主义与慈善之间」的社区财富项目——把建筑赠予公园使公园成为房东，每笔销售的一定比例回馈公园。Shake Shack五年内未开第二家店，但最终成长为一家大公司。Meyer强调，无论高端还是休闲餐饮，共同点是对最佳食材的执着（如与屠夫Pat LaFrieda合作，其牛肉此前已用于Union Square Cafe和Tabla）以及对好客的承诺。",
+      "detail_en": "Meyer recalled loving restaurants while growing up in St. Louis in the 1960s and 1970s, but it was how people were treated—not the food—that drew him in. His father was in the travel business, primarily in Europe, and when Meyer moved to New York he found the food good but the hospitality lacking. He combined what he grew up with in St. Louis with experiences of simple but excellent food and genuinely welcoming staff in Rome, French bistros, and California's cafe and bar-and-grill movement, opening Union Square Cafe in 1985. He described going from one restaurant to two (Gramercy Tavern in 1994) as very tough, because his father had gone bankrupt a couple of times and Meyer associated bankruptcy with growing a business. He later came to believe that growth does not have to mean selling out—you can \"sell up\"—and that using growth to advance culture, create more jobs, and do better things for more neighborhoods is not a bad thing. After opening 11 Madison Park and Tabla in 1998, Meyer got behind a campaign to improve Madison Square Park for philanthropic reasons and, as part of a Target-sponsored public art project, agreed to operate a hot dog cart selling Chicago-style hot dogs with eight toppings, which drew lines of about 100 people every day for three consecutive years. When the community asked for the cart back in 2002 and 2003, he decided to turn it into a permanent kiosk, drawing on memories of burger shacks and frozen custard places from his St. Louis childhood to create Shake Shack as a \"community wealth project\" that lives between capitalism and philanthropy—gifting the building to the park so the park became the landlord, with a percentage of every sale going back to the park. Shake Shack did not open a second location for five years, yet grew into a big company. Meyer stressed that what fine dining and casual dining share is a devotion to sourcing the best possible ingredients (such as working with butcher Pat LaFrieda, whose beef had been used at Union Square Cafe and Tabla) and a commitment to hospitality.",
+      "conclusion_zh": "Meyer的案例表明，以人和文化为核心的「开明式好客」理念可以支撑从高端餐饮到全球连锁的规模化扩张，Shake Shack的成长路径为理解品牌长期价值与社区关系提供了参考。",
+      "conclusion_en": "Meyer's case suggests that an \"Enlightened Hospitality\" philosophy centered on people and culture can underpin scaling from fine dining to a global chain, offering a lens on long-term brand value and community relationships through Shake Shack's growth path.",
+      "key_points": [
+        {
+          "zh": "Meyer的「开明式好客」理念将人和文化置于公司建设与规模化的核心。",
+          "en": "Meyer's \"Enlightened Hospitality\" philosophy puts people and culture at the center of building and scaling a company."
+        },
+        {
+          "zh": "他将扩张重新定义为「向上出售」（sell up）而非「出售退出」（sell out），认为成长可用于推进文化、创造就业并惠及更多社区。",
+          "en": "He reframed growth as \"selling up\" rather than \"selling out,\" arguing growth can advance culture, create jobs, and benefit more neighborhoods."
+        },
+        {
+          "zh": "Shake Shack源于麦迪逊广场公园的一个热狗车，被定位为「介于资本主义与慈善之间」的社区财富项目，每笔销售的一部分回馈公园。",
+          "en": "Shake Shack began as a hot dog cart in Madison Square Park, positioned as a \"community wealth project\" between capitalism and philanthropy, with a percentage of every sale going back to the park."
+        },
+        {
+          "zh": "Shake Shack五年内未开第二家店，但如今已是上市公司，在24个国家运营超过700家门店，2025年销售额接近15亿美元。",
+          "en": "Shake Shack did not open a second location for five years, but is now publicly traded with more than 700 locations across 24 countries and annual sales approaching $1.5 billion in 2025."
+        },
+        {
+          "zh": "高端与休闲餐饮的共同点是对最佳食材的执着以及对好客的承诺。",
+          "en": "What fine dining and casual dining share is a devotion to sourcing the best ingredients and a commitment to hospitality."
+        }
+      ],
+      "tags": [
+        "hospitality",
+        "Shake Shack",
+        "Danny Meyer",
+        "business culture",
+        "scaling"
+      ],
+      "tickers": [
+        "SHAK"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:vu8ztrQgcbE",
+      "title": "Schwab CEO on AI Strategy, Investing Trends, and ‘Charlie’",
+      "title_zh": "嘉信理财CEO：客户参与度创纪录，AI助手Charlie与安全防护并行",
+      "url": "https://www.youtube.com/watch?v=vu8ztrQgcbE",
+      "published_at": "2026-10-16T14:10:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "嘉信理财CEO Rick Wurster在财报电话会上表示，客户参与度与业绩均创纪录，客户仍全面投资股票且杠杆高企，同时对固定收益兴趣达到历史高位。公司推出自研AI助手Charlie，并阻止未经授权的AI代理访问客户账户，同时通过MCP服务器为第三方LLM提供受控访问路径。",
+      "summary_en": "Schwab CEO Rick Wurster said on the earnings call that client engagement and results are at record levels, with clients still fully invested in equities and leverage high, while interest in fixed income is at record levels. The firm is rolling out its in-house AI assistant Charlie and blocking unauthorized AI agents from client accounts, while offering a controlled pathway for third-party LLMs via an MCP server.",
+      "detail_zh": "嘉信理财CEO Rick Wurster在财报电话会上表示，客户参与度从未如此之高，持有股票的比例和股票在财富中的占比均创纪录，客户兴趣集中在税务感知策略、固定收益和咨询建议三大主题。他提到，尽管固定收益兴趣达到创纪录水平，客户仍全面投资股票，杠杆率依然很高，保证金使用持续增加，交易活动保持高位，没有迹象显示客户正在撤离股市。Wurster指出，30年期实际收益率近期为3.4%，对于65岁退休人士而言，锁定30年3.4%的实际收益是相当不错的交易。他透露，70%的新增家庭来自年轻一代（Z世代和千禧一代），公司通过YouTube和社交媒体（如“get ready with me”视频）吸引年轻投资者。关于AI，Wurster宣布推出自研对话式助手Charlie，将成为许多客户未来使用AI的主要方式，并利用市场上最好的LLM。同时，公司阻止未经授权的AI代理（如Muse）访问客户账户，原因是无法控制风险且责任不清；但为第三方LLM创建了通过MCP服务器的安全路径，允许查看账户余额和进行研究，但不能转移资金。Wurster提到，每周阻止大型代理访问的次数在“几十次”左右，表明人们虽然喜爱AI，但尚不愿将财务账户完全交给AI。他还表示，网络安全至关重要，公司使用前沿模型发现并修补漏洞。关于员工数量，Wurster称AI已提高效率，但公司仍在增加员工，因为新类型工作出现，尤其是财富咨询需求增长；77%的美国客户在财务生活中使用AI，但超过90%希望有人工参与。",
+      "detail_en": "Schwab CEO Rick Wurster said on the earnings call that client engagement has never been higher, with clients owning more equities than ever and equities representing a bigger portion of their wealth. Interest is concentrated in tax-aware strategies, fixed income, and advice. He noted record interest in fixed income, yet clients remain fully invested in equities with high leverage and increasing margin usage, and trading activity remains high with no signs of pulling back. Wurster pointed out that the real yield on a 30-year was recently 3.4%, which he called a pretty good deal for someone retiring at 65 to lock in 3.4% real for 30 years. He said 70% of new-to-firm households are younger generations (Gen Z and millennials), attracted via YouTube and social media, including 'get ready with me' videos about compounding. On AI, Wurster announced Charlie, an in-house conversational assistant that will be the front door for many clients, leveraging the best LLMs in the marketplace. Schwab is blocking unauthorized agents like Muse because it cannot control them and liability is unclear, but is creating two safe pathways: Charlie and an MCP server for third-party LLMs, allowing account balance viewing and research but not money movement. He said the number of times big agents are blocked is in the tens and twenties per week, indicating people love AI but are not willing to turn their financial accounts over to them just yet. Wurster also said cybersecurity is of utmost importance, using frontier models to find and patch challenges. On headcount, he said AI is making the firm more efficient but they keep adding employees due to new types of jobs, especially in wealth advice; 77% of US clients use AI in some way in their financial life, but more than 90% want a human involved.",
+      "conclusion_zh": "嘉信理财的财报电话会显示，客户参与度与固定收益兴趣均创纪录，同时公司积极布局AI但强调安全与人工参与，反映出财富管理行业在AI应用与信任之间的平衡。",
+      "conclusion_en": "Schwab's earnings call shows record client engagement and fixed income interest, while the firm actively deploys AI but emphasizes safety and human involvement, reflecting the wealth management industry's balance between AI adoption and trust.",
+      "key_points": [
+        {
+          "zh": "客户参与度和业绩创纪录，客户仍全面投资股票且杠杆高企，同时对固定收益兴趣达到历史高位。",
+          "en": "Record client engagement and results; clients remain fully invested in equities with high leverage, while fixed income interest is at record levels."
+        },
+        {
+          "zh": "嘉信推出自研AI助手Charlie，并阻止未经授权的AI代理访问客户账户，同时通过MCP服务器为第三方LLM提供受控访问。",
+          "en": "Schwab rolls out in-house AI assistant Charlie, blocks unauthorized AI agents from client accounts, and offers a controlled MCP server pathway for third-party LLMs."
+        },
+        {
+          "zh": "30年期实际收益率为3.4%，对退休人士具有吸引力；5%的收益率在多地可见。",
+          "en": "30-year real yield is 3.4%, attractive for retirees; 5% yields are available in many places."
+        },
+        {
+          "zh": "70%的新增家庭来自年轻一代，公司通过YouTube和社交媒体吸引年轻投资者。",
+          "en": "70% of new-to-firm households are younger generations, attracted via YouTube and social media."
+        },
+        {
+          "zh": "AI提高效率但公司仍在增加员工，尤其是财富咨询领域；77%的美国客户使用AI，但超过90%希望有人工参与。",
+          "en": "AI improves efficiency but the firm keeps adding employees, especially in wealth advice; 77% of US clients use AI, but over 90% want a human involved."
+        }
+      ],
+      "tags": [
+        "Schwab",
+        "AI",
+        "wealth management",
+        "fixed income",
+        "cybersecurity"
+      ],
+      "tickers": [
+        "SCHW"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:7tLCbGOFOXc",
+      "title": "Pimco’s Balls Sees Good Value in Long End of Yield Curve",
+      "title_zh": "PIMCO：预计美联储再加息1-2次，长端美债具配置价值",
+      "url": "https://www.youtube.com/watch?v=7tLCbGOFOXc",
+      "published_at": "2026-10-16T14:09:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "PIMCO的Andrew Balls预计，在主席Kevin Walsh领导下的美联储将维持现有政策框架和2%通胀目标，基准情形下还将加息1-2次。他认为短端定价已较充分，而10年期和30年期美债估值具吸引力，若AI板块令市场失望，资金可能流入长端固收资产。",
+      "summary_en": "PIMCO's Andrew Balls expects the Fed under Chair Kevin Walsh to preserve its policy framework and 2% inflation target, with one to two more hikes in the baseline. He sees the front end as well priced, while the 10-year and 30-year parts of the curve offer good value, with potential capital gains if the AI trade disappoints and flows move into fixed income.",
+      "detail_zh": "PIMCO的Andrew Balls表示，预计在主席Kevin Walsh领导下的美联储将维持其广泛的政策框架和2%的通胀目标。他认为美联储可能进一步收紧政策，基准情形下再加息1-2次是合理的。他提到，市场目前对10月加息的定价概率很低，而他本人认为更接近五五开。Balls指出，从Walsh隔夜的表态中并未获得太多新信息，这符合Walsh明确不愿提供前瞻指引的风格。在近期核心CPI和PPI高于预期之后，长端美债却出现上涨，10年期和30年期收益率本周出现两位数下降。Balls认为，这背后是市场对AI板块的担忧，资金从股票和部分信用链条较低端的公司流向固定收益，尤其是10年期或更长久期的债券。他总结称，短端存在不确定性，市场计入的美联储风险溢价可能高于PIMCO的基准预期，但10年期和30年期美债具有良好价值，若AI方面出现失望情绪，存在资本利得潜力。",
+      "detail_en": "Andrew Balls of PIMCO said he expects the Fed under Chair Kevin Walsh to preserve its broad policy framework and 2% inflation target. He thinks the Fed is likely to tighten policy further, with one to two more hikes in the baseline seeming reasonable. He noted that markets are pricing a very low probability of an October hike, though he would have thought it closer to fifty-fifty. Balls said he did not learn much more from Chairman Walsh overnight, which makes sense given Walsh's clear reluctance to provide forward guidance. After hotter-than-expected core CPI and PPI in the last 24 hours, the long end of the curve rallied, with double-digit declines in yields on tens and thirties during the week. Balls attributed this to concerns around AI and the AI sector, with flows from equities and pressure on some companies lower down the food chain moving into fixed income, particularly the 10-year or longer part of the curve. He concluded that there is uncertainty at the front end, with more risk premium priced in for the Fed than PIMCO's baseline, but the 10-year and 30-year parts of the curve offer good value, with potential for capital gains if there is disappointment on the AI side.",
+      "conclusion_zh": "PIMCO认为短端风险溢价偏高，而长端美债估值具吸引力，若AI板块出现失望情绪，资金流入固收可能带来资本利得机会。",
+      "conclusion_en": "PIMCO sees the front end as pricing too much Fed risk premium, while long-end Treasuries offer good value and potential capital gains if AI-related disappointment drives flows into fixed income.",
+      "key_points": [
+        {
+          "zh": "PIMCO预计美联储在Kevin Walsh主席领导下维持2%通胀目标和政策框架，基准情形下再加息1-2次。",
+          "en": "PIMCO expects the Fed under Chair Kevin Walsh to preserve its 2% inflation target and policy framework, with one to two more hikes in the baseline."
+        },
+        {
+          "zh": "市场对10月加息定价概率很低，但Balls认为更接近五五开。",
+          "en": "Markets price a very low probability of an October hike, but Balls sees it closer to fifty-fifty."
+        },
+        {
+          "zh": "近期核心CPI和PPI高于预期后，长端美债反而上涨，10年期和30年期收益率本周出现两位数下降。",
+          "en": "After hotter-than-expected core CPI and PPI, long-end Treasuries rallied, with double-digit declines in 10- and 30-year yields during the week."
+        },
+        {
+          "zh": "Balls认为长端上涨源于AI板块担忧引发的资金流入固收，尤其是10年期或更长久期。",
+          "en": "Balls attributes the long-end rally to AI-related concerns driving flows into fixed income, especially the 10-year or longer part of the curve."
+        },
+        {
+          "zh": "PIMCO认为10年期和30年期美债具良好价值，若AI令人失望存在资本利得潜力。",
+          "en": "PIMCO sees good value in 10- and 30-year Treasuries, with potential capital gains if the AI trade disappoints."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "Treasuries",
+        "AI",
+        "PIMCO",
+        "rates"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Pp776g0dtMw",
+      "title": "Anthropic Should Delay IPO to Address AI Safety Risks, Says NYC Comptroller",
+      "title_zh": "纽约市审计长呼吁Anthropic暂停IPO，担忧AI安全风险",
+      "url": "https://www.youtube.com/watch?v=Pp776g0dtMw",
+      "published_at": "2026-10-16T14:07:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "纽约市审计长Mark Levine致信Anthropic CEO，呼吁其暂停即将进行的IPO，专注于解决AI安全风险。Levine认为IPO将分散公司对安全工作的注意力，并带来增长和盈利压力，可能加剧风险。他担心若上市后发生灾难性安全事件，将冲击公司股价并波及整个市场。",
+      "summary_en": "New York City Comptroller Mark Levine has called on Anthropic to pause its impending IPO over AI safety concerns, arguing that the IPO process would distract from safety work and create growth and profit pressures. He worries that a catastrophic safety incident after going public would hurt the stock and reverberate throughout the markets.",
+      "detail_zh": "纽约市审计长Mark Levine在致Anthropic CEO Dario Amodei的信中表示，公司应暂停IPO，专注于应对AI带来的前所未有的风险。Levine指出，Anthropic自己承认其技术可能对人类构成潜在生存威胁，且未声称已解决该问题。他认为IPO将消耗管理层大量精力，分散对安全工作的关注，而上市后增长和盈利压力会持续与安全努力相冲突。Levine作为纽约市养老基金的代表，目前通过私募市场持有少量股份，但若Anthropic上市，由于指数纳入，养老基金可能成为主要股东。他提到SpaceX的上市开创了先例，使得指数提供商在IPO后仅五个工作日就纳入股票，没有时间评估波动性、流通量或内部人行为等传统保障措施。Levine表示，虽然他们没有直接的法律或监管权力阻止IPO，但作为管理近三分之一万亿美元资产的公共投资基金，并与其他志同道合的公共养老金投资者合作，他们具有一定影响力。他还对白宫最近关于AI的行政命令表示失望，认为其不具约束力、没有时间表且遗漏很多关键问题，如安全触发机制、能力阈值和治理结构。Levine担心，如果Anthropic上市后发生灾难性安全事件，不仅会重创其股价，还可能波及整个市场。他支持前沿AI公司最终上市以实现民主控制和透明度，但强调必须在安全的前提下进行。",
+      "detail_en": "New York City Comptroller Mark Levine wrote a letter to Anthropic CEO Dario Amodei urging the company to pause its impending IPO and focus on addressing unprecedented AI risks. Levine noted that Anthropic itself acknowledges its technology poses a potential existential threat to humanity and does not claim to have solved that problem. He argued that an IPO would consume management's attention, distract from safety work, and create post-IPO pressures for growth and profits that would continue to push against safety efforts. Levine, representing NYC pension funds, currently holds a small private-market stake but expects the funds to become major owners if Anthropic goes public due to index inclusion. He cited SpaceX's IPO as setting a terrible precedent, with index providers potentially including the stock within five business days, leaving no time to track concerns like volatility, float thresholds, or insider selling. Levine said they lack direct legal or regulatory authority to stop an IPO but believe they have influence as one of the largest public investment funds, managing close to a third of a trillion dollars, and by teaming up with like-minded public pension investors. He expressed disappointment with the White House's recent AI executive order, calling it nonbinding, lacking a timeline, and leaving out key issues like safety tripwires, capability thresholds, and governance structures. Levine worries that a catastrophic safety incident after going public would be terrible for the stock and could reverberate throughout the markets. He supports frontier AI companies ultimately going public for democratic control and transparency but insists it must be done safely.",
+      "conclusion_zh": "Anthropic的IPO面临来自大型公共养老金投资者的安全担忧，若上市后发生安全事件，可能对市场造成连锁反应，投资者需关注AI公司的安全治理与上市节奏。",
+      "conclusion_en": "Anthropic's IPO faces safety concerns from large public pension investors; a post-IPO safety incident could have ripple effects on the market, making AI safety governance and listing pace key for investors to watch.",
+      "key_points": [
+        {
+          "zh": "纽约市审计长Mark Levine呼吁Anthropic暂停IPO，专注于解决AI安全风险。",
+          "en": "NYC Comptroller Mark Levine calls on Anthropic to pause its IPO and focus on addressing AI safety risks."
+        },
+        {
+          "zh": "Levine认为IPO会分散管理层对安全工作的注意力，并带来增长和盈利压力。",
+          "en": "Levine argues that an IPO would distract management from safety work and create growth and profit pressures."
+        },
+        {
+          "zh": "Levine担心上市后发生灾难性安全事件会重创股价并波及整个市场。",
+          "en": "Levine worries that a catastrophic safety incident after going public would hurt the stock and reverberate throughout the markets."
+        },
+        {
+          "zh": "Levine批评指数提供商在SpaceX上市后快速纳入股票，抛弃了传统的评估保障措施。",
+          "en": "Levine criticizes index providers for quickly including SpaceX after its IPO, abandoning traditional safeguards."
+        },
+        {
+          "zh": "Levine支持前沿AI公司最终上市，但强调必须在安全的前提下进行。",
+          "en": "Levine supports frontier AI companies ultimately going public but insists it must be done safely."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI safety",
+        "pension funds",
+        "regulation"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:BhGncRTwp2w",
       "title": "Why Toyota's new RAV4 is in such high demand",
@@ -3661,6 +4006,55 @@
       "sentiment": "positive"
     },
     {
+      "guid": "yt:CFGQ6fXyaFc",
+      "title": "Building an Investor Mindset: Strategic IPO Prep With Carta CFO Charly Kevers | Invested at Work",
+      "title_zh": "Carta CFO：IPO只是流动性事件，而非终点",
+      "url": "https://www.youtube.com/watch?v=CFGQ6fXyaFc",
+      "published_at": "2026-10-12T13:24:35+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Carta CFO Charlie Kevers在摩根士丹利播客中表示，IPO只是又一个里程碑和流动性事件，而非最终结果。他强调公司应尽早建立股权文档、系统与流程等基础设施，并帮助员工理解其所持权益，以应对公开市场的审视。",
+      "summary_en": "Carta CFO Charlie Kevers said on Morgan Stanley's podcast that an IPO is just another milestone and a liquidity event, not an outcome. He stressed that companies should build equity documentation, systems and processes early, and help employees understand what they own to withstand public-market scrutiny.",
+      "detail_zh": "Carta CFO Charlie Kevers在摩根士丹利《Invested at Work》播客中与主持人Rodney Bolden对话，讨论从私有到公开的旅程。Kevers认为，IPO只是又一个里程碑，不是结果，本质上是一次融资和流动性事件，唯一区别是审视程度不同——从在体育场现场表演变成上全国电视。他在Carta工作九年，公司从约100人增长到接近2000人，其职责涵盖会计、战略财务、资金、交易台、合规与风险，以及上市策略与运营。关于流动性的“人的一面”，Kevers强调不应把流动性视为单一事件，而是一个连续过程，需要提前准备基础设施以承受公开市场或投资者的审视。他指出，即使Carta每天处理股权，仍需花大量时间向员工解释期权、RSU及潜在税务影响，若不提前准备员工，就可能出现问题。关于IPO准备，Kevers认为不应从选择投行才开始，而应远早于此前，包括股权文档是否完善、能否找到授予期权的审批记录等。他提到IPO过程中有大量尽职调查，核实资本结构是否与公司所述一致，因为投资者除了关注业务表现外，也关注资本结构——买入一股到底买的是什么、完全稀释后的股数是多少。资本结构会因员工股权、并购交易等多种方式变化，因此早期做好这些工作至关重要。他还强调系统与流程的重要性，认为在当今时代仍用电子表格手动操作令人难以置信，错误几乎不可避免；随着接近上市，财务方面期望快速关账、快速决策，并理解业务的“物理规律”，这只能靠良好的系统和数据实现。关于IPO心态，Kevers不认为存在某种特定的IPO心态，因为IPO只有在业务优秀时才会成功，首要心态是团队是否一致致力于打造最好的业务、解决世界上的大问题。",
+      "detail_en": "Carta CFO Charlie Kevers joined host Rodney Bolden on Morgan Stanley's \"Invested at Work\" podcast to discuss the private-to-public journey. Kevers said an IPO is just another milestone, not an outcome, and is essentially a fundraising and liquidity event, with the only difference being the level of scrutiny—going from playing in front of a stadium in person to being on national television. He has been at Carta nine years, during which the company grew from about 100 people to closer to 2,000. His remit includes accounting, strategic finance, treasury, deal desk, compliance and risk, as well as go-to-market strategy and operations. On the human side of liquidity, Kevers said liquidity should not be viewed as one event but as a continuum, requiring infrastructure to be built early to sustain the scrutiny of public markets or investors broadly. He noted that even at Carta, which deals with equity every day, the company must spend significant time explaining to employees how to think about an option, an RSU, and potential tax implications; failing to prepare employees is where challenges can arise. On IPO preparation, Kevers said it should not start when a banker is picked but much earlier, including whether equity is well documented and whether approvals for specific option grants can be found. He noted there is a ton of diligence in an IPO to verify that the capital structure is what the company says it is, because investors focus not only on business performance but also on capital structure—what a share really represents and the full share count. Capital structure changes through employee equity, M&A transactions and other means, making early work critical. He also stressed systems and processes, saying it blows his mind that people still think spreadsheets are safe, as mistakes are almost unavoidable; as a company gets closer to being public, expectations include closing books fast, making decisions fast, and understanding the \"physics of your business,\" which can only be done with good systems and data. On IPO mindset, Kevers said he does not think there is necessarily an IPO mindset, because an IPO is only successful if you are building a good business; the first mindset is whether everyone is aligned on building the best business possible and solving a big problem in the world.",
+      "conclusion_zh": "对计划走向公开市场的公司而言，应把IPO视为流动性连续过程的一环，尽早夯实股权文档、系统与员工沟通，而非等到选择投行才开始准备。",
+      "conclusion_en": "For companies planning to go public, an IPO should be viewed as part of a liquidity continuum, with equity documentation, systems and employee communication built early rather than starting only when a banker is picked.",
+      "key_points": [
+        {
+          "zh": "IPO只是又一个里程碑和流动性事件，不是最终结果，唯一区别是审视程度不同。",
+          "en": "An IPO is just another milestone and a liquidity event, not an outcome; the only difference is the level of scrutiny."
+        },
+        {
+          "zh": "流动性不是单一事件，而是连续过程，需要提前建立基础设施以承受公开市场审视。",
+          "en": "Liquidity is not one event but a continuum, requiring infrastructure to be built early to withstand public-market scrutiny."
+        },
+        {
+          "zh": "公司应尽早完善股权文档、审批记录和系统流程，以应对IPO中的资本结构尽职调查。",
+          "en": "Companies should document equity, approvals, systems and processes early to prepare for capital-structure diligence in an IPO."
+        },
+        {
+          "zh": "即使每天处理股权的公司，也需花大量时间向员工解释期权、RSU及税务影响，否则可能出问题。",
+          "en": "Even companies dealing with equity daily must spend significant time explaining options, RSUs and tax implications to employees, or challenges can arise."
+        },
+        {
+          "zh": "Kevers不认为存在特定的IPO心态，首要心态是团队一致致力于打造最好的业务。",
+          "en": "Kevers does not think there is necessarily an IPO mindset; the first mindset is alignment on building the best business possible."
+        }
+      ],
+      "tags": [
+        "IPO",
+        "private markets",
+        "equity compensation",
+        "liquidity",
+        "capital structure"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:KB_3Taq5EYI",
       "title": "The S&P Hit a Record. 73% of Stocks Are Below Their 50-Day. What Is Your Index Fund Betting On?",
       "title_zh": "强劲盈利支撑涨势，但指数集中度与窄幅领涨引发关注",
@@ -4581,99 +4975,6 @@
         "AI-capex",
         "Costco",
         "margin-of-safety"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:c929kxoH6q8",
-      "title": "Jeffrey Gundlach with Dave Rosenberg: The Hollow Tree",
-      "title_zh": "Gundlach：债市收益率飙升，美股看似健康实则中空",
-      "url": "https://www.youtube.com/watch?v=c929kxoH6q8",
-      "published_at": "2026-10-09T14:54:21+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "DoubleLine CEO Gundlach在与Rosenberg的对话中警告，市值加权指数接近高位掩盖了多数股票已进入调整的事实，AI相关信用利差大幅走阔而其余市场看似平静。他认为长端利率受战争驱动的通胀、发达国家巨额债券发行及AI借贷三重因素推动上行，并偏好短久期高评级信用、本币新兴市场债和黄金，最不看好股票。",
-      "summary_en": "DoubleLine CEO Gundlach warned in a conversation with Rosenberg that cap-weighted indices near highs mask the fact that most stocks are already in a correction, with AI-related credit spreads widening sharply while the rest of the market looks calm. He sees long rates rising on three fronts—war-driven inflation, massive developed-world bond issuance, and now AI borrowing—and prefers shorter high-quality credit, local currency EM debt, and gold, liking equities least.",
-      "detail_zh": "Gundlach将当前股市比作他Buffalo家中那棵百年银枫：外表健康，直到巨枝断裂才发现树干已中空，称\"你得等树枝掉下来才知道市场是中空的\"。他指出市值加权指数接近高位，掩盖了多数股票已处于调整之中，AI相关信用利差已大幅走阔，而市场其余部分看似平静。他认为长端利率上行有三重驱动：战争驱动的通胀、发达国家巨量债券发行，以及新增的AI借贷。随着利息支出失控，他表示\"必须发生点什么\"。他与Rosenberg对结局看法分歧：Rosenberg归咎于美联储主席Warsh并预期衰退中债券上涨；Gundlach将Warsh比作2000年辩论中的Al Gore，称其每次形象不同，最近一次记者会\"稀薄得不能再稀薄\"。他认为旧剧本已失效，指出即便美联储降息175个基点后长端收益率仍走高。他希望在买入长端美债前看到远更高的实际收益率，偏好较短久期的高质量信用、本币新兴市场债和黄金（\"黄金在涨\"）。股票是他最不喜欢的资产，若持有则建议等权重配置。对于与保险公司相关的私人信贷，他直言：\"那是狂野西部。\"",
-      "detail_en": "Gundlach compared today's equity market to the 100-year-old silver maple at his Buffalo home, which looked healthy until a giant limb fell off and the tree turned out to be hollow: \"You've got to wait for the branch to fall off to figure out that the market's hollow, just like the tree was hollow.\" He noted cap-weighted indices near highs hide the fact that most stocks are already in a correction, with AI-related credit having widened sharply while the rest of the market looks calm. He sees long rates rising on three fronts: war-driven inflation, a monumental amount of bond issuance across the developed world, and now AI borrowing. With interest expense out of control, he says \"something has to happen.\" He and Rosenberg disagree on the ending: Rosenberg blames Fed Chair Warsh and expects bonds to rally in a recession; Gundlach likens Warsh to Al Gore in the 2000 debates—a different persona every time—and says his last press conference offered \"the thinnest gruel possible.\" He argues the old playbook no longer applies, noting long yields ended up higher even after 175 basis points of Fed cuts. He wants far more real yield before buying long Treasuries and prefers shorter, high quality credit, local currency emerging market debt, and gold (\"Gold's going up\"). Equities he likes least, and if you own them, he says to go equal weighted. On private credit tied to insurance companies, he doesn't hedge: \"That's the Wild West.\"",
-      "key_points": [
-        {
-          "zh": "市值加权指数接近高位掩盖了多数股票已进入调整，AI相关信用利差大幅走阔而其余市场看似平静。",
-          "en": "Cap-weighted indices near highs mask that most stocks are already in a correction, with AI-related credit spreads widening sharply while the rest of the market looks calm."
-        },
-        {
-          "zh": "长端利率上行受三重驱动：战争驱动的通胀、发达国家巨量债券发行，以及新增的AI借贷。",
-          "en": "Long rates are rising on three fronts: war-driven inflation, massive developed-world bond issuance, and now AI borrowing."
-        },
-        {
-          "zh": "Gundlach认为旧剧本失效：即便美联储降息175个基点，长端收益率仍走高。",
-          "en": "Gundlach argues the old playbook no longer applies: long yields ended up higher even after 175 basis points of Fed cuts."
-        },
-        {
-          "zh": "他偏好较短久期的高质量信用、本币新兴市场债和黄金，最不看好股票，若持有则建议等权重。",
-          "en": "He prefers shorter high-quality credit, local currency EM debt, and gold, liking equities least and suggesting equal weighting if held."
-        },
-        {
-          "zh": "对与保险公司相关的私人信贷，他直言\"那是狂野西部\"。",
-          "en": "On private credit tied to insurance companies, he says: \"That's the Wild West.\""
-        }
-      ],
-      "tags": [
-        "yield-melt-up",
-        "long-rates",
-        "credit-spreads",
-        "gold",
-        "private-credit"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:pE6tZStqrVo",
-      "title": "Hedge Funds Are Cautious on Stocks amid Rates and Energy Volatility",
-      "title_zh": "高盛：对冲基金股票多空仓位处于历史低位，欧洲防务与能源独立存机会",
-      "url": "https://www.youtube.com/watch?v=pE6tZStqrVo",
-      "published_at": "2026-10-09T14:39:08+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "other"
-      ],
-      "summary_zh": "高盛欧洲股票销售与对冲基金业务负责人Mark Wilson指出，在利率与油价持续波动的背景下，对冲基金的多空股票仓位处于历史低位。他认为欧洲防务股与能源独立主题存在投资机会，并谈及法国政府借贷受关注、超大型科技股前景、受益于德国政府支出的股票以及美国三季度财报。",
-      "summary_en": "Mark Wilson, head of European Equity Franchise Sales and Hedge Fund Coverage at Goldman Sachs, says hedge fund long-short equity positioning is at historically low levels amid ongoing volatility in interest rates and oil prices. He sees investment opportunities in Europe in defense stocks and the energy independence theme, and discusses French government borrowing, the outlook for mega-cap technology, stocks benefiting from German government spending, and US third-quarter earnings.",
-      "detail_zh": "高盛FICC与股票部门欧洲股票销售及对冲基金业务负责人Mark Wilson表示，在利率和油价持续波动的环境下，对冲基金针对股票的多空策略仓位处于历史低位。他指出，尽管投资者对法国政府借贷的关注度不断上升，欧洲在防务股和能源独立主题上仍存在投资机会。在The Markets播客中，他还讨论了对超大型科技股的前景看法、受益于德国政府支出的股票，以及美国三季度财报。该内容录制于2026年10月7日。相关观点仅代表发布之日，可能随时变化，且不一定反映高盛的机构立场。",
-      "detail_en": "Mark Wilson, head of European Equity Franchise Sales and Hedge Fund Coverage in Goldman Sachs FICC and Equities, says hedge fund positioning in equities for long-short strategies is at historically low levels amid ongoing volatility in interest rates and oil prices. He points out that even as investor scrutiny of French government borrowing grows, there are investment opportunities in Europe in defense stocks and the energy independence theme. In The Markets podcast, he also discusses his outlook for mega-capitalization technology companies, stocks that benefit from German government spending, and US third-quarter earnings. The content was filmed on October 7, 2026. The views expressed are as of the date of publication, subject to change, and may not necessarily reflect the institutional views of Goldman Sachs.",
-      "key_points": [
-        {
-          "zh": "对冲基金股票多空策略仓位处于历史低位，背景是利率与油价持续波动。",
-          "en": "Hedge fund long-short equity positioning is at historically low levels amid ongoing volatility in interest rates and oil prices."
-        },
-        {
-          "zh": "投资者对法国政府借贷的关注度上升。",
-          "en": "Investor scrutiny of French government borrowing is growing."
-        },
-        {
-          "zh": "欧洲防务股与能源独立主题被认为存在投资机会。",
-          "en": "Investment opportunities are seen in Europe in defense stocks and the energy independence theme."
-        },
-        {
-          "zh": "讨论涉及超大型科技股前景、受益于德国政府支出的股票以及美国三季度财报。",
-          "en": "The discussion covers the outlook for mega-cap technology companies, stocks benefiting from German government spending, and US third-quarter earnings."
-        }
-      ],
-      "tags": [
-        "hedge-funds",
-        "positioning",
-        "europe",
-        "defense",
-        "energy-independence"
       ],
       "tickers": [],
       "sentiment": "neutral"
