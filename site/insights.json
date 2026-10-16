@@ -1,6 +1,415 @@
 {
-  "generated_at": "2026-10-16T05:10:47.626148+00:00",
+  "generated_at": "2026-10-16T07:18:55.966557+00:00",
   "insights": [
+    {
+      "guid": "yt:w0ZpSER65aA",
+      "title": "Yemen Says Houthis Hit Presidential Palace, EU-Gulf Summit in Saudi Arabia Postponed",
+      "title_zh": "IMF会议：沃什偏鹰表态，市场押注美联储进一步加息",
+      "url": "https://www.youtube.com/watch?v=w0ZpSER65aA",
+      "published_at": "2026-10-16T06:58:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在IMF曼谷会议上，美联储官员沃什未给出前瞻指引，但强调价格稳定是核心使命，BNP策略师认为其表态偏鹰。市场已定价到明年3月前两次加息，BNP基准情形为12月和1月进一步加息，并建议做空美元兑瑞郎以对冲AI情绪走弱风险。",
+      "summary_en": "At the IMF meetings in Bangkok, Fed official Warsh gave no forward guidance but stressed price stability as the core mandate; a BNP strategist read his remarks as slightly hawkish. Markets are pricing two Fed hikes by March, with BNP's base case for further hikes in December and January, and the bank recommends shorting USD/CHF to hedge AI sentiment risk.",
+      "detail_zh": "在IMF曼谷会议上，美联储官员沃什与IMF总裁进行了半小时炉边对话，未提供前瞻指引，仅表示10月和12月的决策将视情况而定，并重申价格稳定是美联储的主要使命，称美联储将在此时期后变得更强。BNP策略师认为沃什的表态略偏鹰派，尤其考虑到本周CPI数据偏热且经济未见放缓迹象，他还提到AI带来的需求压力正在传导。该策略师指出，10月会议将是一次接近的抉择，但BNP基准情形是12月和1月进一步加息，且不排除额外加息的可能。关于油市冲击，策略师认为已出现向债市的溢出效应，AI相关主题导致股市走弱（如KOSPI），并可能压低债券收益率，因此BNP建议做空美元兑瑞郎以对冲AI情绪进一步波动的风险。对于美债，BNP仍认为收益率路径向上，财政风险尚未被完全定价，这将支撑长端。",
+      "detail_en": "At the IMF meetings in Bangkok, Fed official Warsh held a half-hour fireside chat with the IMF Managing Director, offering no forward guidance and saying only that decisions in October and December will have to be made, while reiterating that price stability is the Fed's main mandate and that the Fed will come out of this period stronger. A BNP strategist viewed Warsh's remarks as slightly hawkish, especially given this week's hot CPI print and little evidence of economic slowdown, and noted Warsh mentioned AI demand pressures starting to filter through. The strategist said the October meeting will be a close call, but BNP's base case is further hikes in December and January, with risk of an additional hike. On the oil shock, the strategist sees spillover into the bond market, with AI-related themes driving equity weakness (e.g., KOSPI) that could translate into lower bond yields, prompting BNP to recommend shorting USD/CHF to hedge further wobbles in AI sentiment. On Treasuries, BNP still expects a path toward higher yields, with fiscal risks not fully priced in, which can keep the back end supported.",
+      "conclusion_zh": "美联储官员偏鹰表态叠加偏热CPI，市场对进一步加息的定价可能继续强化，投资者需关注10月会议及AI情绪走弱对股债汇的溢出风险。",
+      "conclusion_en": "Hawkish Fed commentary combined with hot CPI may reinforce market pricing for further hikes; investors should watch the October meeting and spillover risks from weakening AI sentiment across equities, bonds, and FX.",
+      "key_points": [
+        {
+          "zh": "沃什在IMF会议上未提供前瞻指引，但重申价格稳定是美联储主要使命，BNP策略师认为其表态略偏鹰派。",
+          "en": "Warsh gave no forward guidance at the IMF meeting but reiterated price stability as the Fed's main mandate; a BNP strategist read his remarks as slightly hawkish."
+        },
+        {
+          "zh": "市场已定价到明年3月前两次美联储加息，BNP基准情形为12月和1月进一步加息，并存在额外加息风险。",
+          "en": "Markets are pricing two Fed hikes by March; BNP's base case is further hikes in December and January, with risk of an additional hike."
+        },
+        {
+          "zh": "策略师认为油市冲击已向债市溢出，AI相关主题导致股市走弱并可能压低债券收益率。",
+          "en": "The strategist sees the oil shock spilling over into bonds, with AI-related themes driving equity weakness that could lower bond yields."
+        },
+        {
+          "zh": "BNP建议做空美元兑瑞郎，以对冲AI情绪进一步波动带来的风险。",
+          "en": "BNP recommends shorting USD/CHF to hedge against further wobbles in AI sentiment."
+        },
+        {
+          "zh": "BNP仍认为美债收益率路径向上，财政风险尚未被完全定价，将支撑长端。",
+          "en": "BNP still expects a path toward higher Treasury yields, with fiscal risks not fully priced in, supporting the back end."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "IMF",
+        "inflation",
+        "rate hikes",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_OF3QHnK97Y",
+      "title": "UK's Healey Plans to Raise Bank Taxes",
+      "title_zh": "全球股市反弹，AI交易情绪脆弱，CoreWeave债务风险引关注",
+      "url": "https://www.youtube.com/watch?v=_OF3QHnK97Y",
+      "published_at": "2026-10-16T06:49:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "volatility",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "全球股市在芯片股抛售后反弹，MSCI亚太指数涨1.7%，但本周仍跌3%。美联储主席Kevin Warsh关于AI利好美国经济的言论提振市场，10月加息概率从25%降至15%。CoreWeave重债融资引发AI基础设施财务风险担忧，其CDS成本本周飙升，预计自由现金流消耗超300亿美元。",
+      "summary_en": "Global stocks rebounded after the chip selloff, with the MSCI Asia Pacific index up 1.7% though still down 3% for the week. Fed Chair Kevin Warsh's comments on AI benefiting the U.S. economy lifted sentiment, cutting October rate hike odds from 25% to 15%. CoreWeave's heavy borrowing sparked concerns over AI infrastructure financial risks, with its CDS costs surging this week and expected free cash flow burn exceeding $30 billion.",
+      "detail_zh": "全球股市在经历芯片股抛售后反弹，MSCI亚太指数上涨1.7%，但本周累计仍下跌3%。欧洲股指期货上涨，纳斯达克期货走强，此前美联储主席Kevin Warsh在IMF讲话中表示AI将给美国经济带来巨大好处，并称价格稳定是美联储的主要使命。市场对10月加息的定价从讲话前的约25%降至15%。油价小幅走低，但布伦特原油仍交投于105美元/桶上方，因中东供应风险重回视野，录得连续第二周上涨。美元进一步走弱，此前录得一个多月来最差单日表现，欧元兑美元升破1.12。10年期美债收益率为5.08%。亚洲市场方面，韩国KOSPI指数上涨4.5%，三星、海力士、阿里巴巴等大型科技股领涨；台湾市场表现平淡，台积电下跌，且昨日录得史上最大单日外资流出。印尼市场遭遇全球金融危机以来最大跌幅，因MSCI考虑将其降级为独立市场，涉及交叉持股、市场操纵及价格透明度不足等疑虑，印尼指数下跌11%，大型银行股同样下跌11%。土耳其也收到MSCI类似警告，可能成为下一个目标。CoreWeave的重债融资引发AI基础设施财务风险担忧，其CDS成本本周呈指数级上升，融资成本日益高昂，而收入尚不足以支撑其商业模式，预计自由现金流消耗将超过300亿美元，远超其收入。Neil Campling指出AI交易情绪非常脆弱，超大规模企业资本开支、芯片支出与全球及美国GDP增长高度关联，AI仍是未来数年最大的投资主题。",
+      "detail_en": "Global stocks rebounded after the chip selloff, with the MSCI Asia Pacific index up 1.7% though still down 3% for the week. European stock futures gained and Nasdaq futures were positive after Fed Chair Kevin Warsh told the IMF that AI will be a huge benefit to the U.S. economy and that price stability is the Fed's main mandate. Market pricing for an October rate hike fell from about 25% before the remarks to 15%. Oil prices were slightly lower but Brent remained above $105 a barrel, posting a second weekly gain as Middle East supply risks returned to focus. The dollar weakened further after its worst day in more than a month, with the euro rising above 1.12. The 10-year Treasury yield stood at 5.08%. In Asia, South Korea's KOSPI rose 4.5%, led by large-cap tech including Samsung, Hynix and Alibaba; Taiwan was flat with TSMC trading down and recording its biggest day of foreign outflows ever yesterday. Indonesia saw its biggest drop since the global financial crisis as MSCI looks to downgrade it to a standalone market amid doubts over cross-holding shares, market manipulation and lack of price transparency, with the index down 11% and major banks down 11%. Turkey has a similar MSCI warning and could be next. CoreWeave's heavy borrowing highlighted financial risks of aggressive funding for AI infrastructure, with CDS costs rising exponentially this week, making capital raising increasingly expensive while revenues are not yet there to support the business model. The company is expected to burn more than $30 billion of free cash flow, far greater than revenues generated. Neil Campling noted AI sentiment is very fragile, with hyperscaler spending, chip spending and global/U.S. GDP growth all interlinked, and AI remains the biggest investment theme for years to come.",
+      "conclusion_zh": "AI交易情绪脆弱，CoreWeave债务风险与超大规模企业资本开支的可持续性是关键观察点；同时美联储加息预期降温与美元走弱短期支撑风险资产，但通胀威胁仍未消除。",
+      "conclusion_en": "AI sentiment is fragile, with CoreWeave's debt risk and the sustainability of hyperscaler capex as key watchpoints; meanwhile, cooling rate hike expectations and a weaker dollar support risk assets short-term, but inflation threats remain.",
+      "key_points": [
+        {
+          "zh": "全球股市反弹，MSCI亚太指数涨1.7%，但本周仍跌3%；韩国KOSPI涨4.5%，三星、海力士、阿里巴巴领涨。",
+          "en": "Global stocks rebounded with MSCI Asia Pacific up 1.7% though still down 3% for the week; Korea's KOSPI rose 4.5%, led by Samsung, Hynix and Alibaba."
+        },
+        {
+          "zh": "美联储主席Kevin Warsh称AI将给美国经济带来巨大好处，价格稳定是主要使命；10月加息概率从25%降至15%。",
+          "en": "Fed Chair Kevin Warsh said AI will be a huge benefit to the U.S. economy and price stability is the main mandate; October rate hike odds fell from 25% to 15%."
+        },
+        {
+          "zh": "CoreWeave重债融资引发AI基础设施财务风险担忧，CDS成本本周指数级上升，预计自由现金流消耗超300亿美元。",
+          "en": "CoreWeave's heavy borrowing sparked AI infrastructure financial risk concerns, with CDS costs rising exponentially this week and expected free cash flow burn exceeding $30 billion."
+        },
+        {
+          "zh": "印尼市场遭遇全球金融危机以来最大跌幅，因MSCI考虑将其降级为独立市场，指数下跌11%，大型银行股同样下跌11%；土耳其也收到类似警告。",
+          "en": "Indonesia saw its biggest drop since the global financial crisis as MSCI considers downgrading it to a standalone market, with the index down 11% and major banks down 11%; Turkey received a similar warning."
+        },
+        {
+          "zh": "Neil Campling指出AI交易情绪非常脆弱，超大规模企业资本开支、芯片支出与全球及美国GDP增长高度关联，AI仍是最大投资主题。",
+          "en": "Neil Campling noted AI sentiment is very fragile, with hyperscaler capex, chip spending and global/U.S. GDP growth all interlinked, and AI remains the biggest investment theme."
+        }
+      ],
+      "tags": [
+        "AI",
+        "CoreWeave",
+        "Fed",
+        "Asia markets",
+        "MSCI downgrade"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:SyJPYQMhkcg",
+      "title": "Indonesian Stocks Sink as MSCI Mulls Downgrade",
+      "title_zh": "亚洲市场反弹，聚焦美联储讲话与中国数据",
+      "url": "https://www.youtube.com/watch?v=SyJPYQMhkcg",
+      "published_at": "2026-10-16T05:50:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲股市在逢低买入推动下反弹，美债因避险资金流入而上涨。市场关注美联储主席Kevin Warsh在IMF/世界银行会议上的讲话，以及下周一中国GDP等数据发布。印尼面临MSCI可能将其从新兴市场降级的风险。",
+      "summary_en": "Asian stocks rebounded on bargain hunting, while U.S. Treasuries rallied on a broader flight to safe havens. Investors are watching Fed Chairman Kevin Warsh's speech at the IMF/World Bank meetings and China's GDP data due Monday. Indonesia faces a potential MSCI downgrade from emerging market status.",
+      "detail_zh": "亚洲市场周五普遍反弹，逢低买入推动复苏，美债因避险资金流入而上涨。市场关注美联储主席Kevin Warsh在IMF/世界银行会议上的讲话，以寻找本月利率决策的线索。下周一北京将发布包括GDP在内的经济数据，市场期待数据疲软能促使刺激政策出台。中国CSI 300指数接近技术性熊市，仅差2-3%。台湾市场在昨日巨额抛售后，台积电财报超预期并上调指引，但市场仍面临科技硬件板块的压力。韩国市场上涨2.9%，但外资持续卖出，短期投机者试图抄底。印尼因公司治理和市场微观结构问题，面临MSCI可能将其从新兴市场降级的风险，最终决定可能在2027年6月。",
+      "detail_en": "Asian markets rebounded broadly on Friday, fueled by bargain hunting, while U.S. Treasuries rallied on a broader flight to safe havens. Investors are focused on Fed Chairman Kevin Warsh's speech at the IMF/World Bank meetings for clues on this month's rate decision. Beijing is set to release economic data including GDP on Monday, with markets hoping weak data will justify stimulus. China's CSI 300 is within 2-3% of entering a technical bear market. Taiwan's market, after a massive sell-off yesterday, saw TSMC beat expectations and raise forecasts, but the tech hardware sector still faces pressure. South Korea's market rose 2.9%, but foreign investors continued selling, with short-term punters attempting to buy the dip. Indonesia faces a potential MSCI downgrade from emerging market status due to corporate governance and market microstructure issues, with a final decision possibly in June 2027.",
+      "conclusion_zh": "市场短期反弹由逢低买入和避险资金推动，但中国数据和美联储讲话将决定后续方向，印尼的MSCI降级风险值得关注。",
+      "conclusion_en": "The short-term rebound is driven by bargain hunting and safe-haven flows, but China data and the Fed speech will determine the next direction, while Indonesia's MSCI downgrade risk warrants attention.",
+      "key_points": [
+        {
+          "zh": "亚洲股市反弹，逢低买入推动，美债因避险资金流入上涨。",
+          "en": "Asian stocks rebounded on bargain hunting, while U.S. Treasuries rallied on safe-haven flows."
+        },
+        {
+          "zh": "市场关注美联储主席Kevin Warsh在IMF/世界银行会议上的讲话，以寻找利率线索。",
+          "en": "Markets await Fed Chairman Kevin Warsh's speech at IMF/World Bank meetings for rate clues."
+        },
+        {
+          "zh": "中国下周一将发布GDP等数据，市场期待疲软数据能促使刺激政策出台。",
+          "en": "China will release GDP and other data on Monday, with markets hoping for stimulus."
+        },
+        {
+          "zh": "台积电财报超预期并上调指引，但科技硬件板块仍面临压力。",
+          "en": "TSMC beat expectations and raised guidance, but the tech hardware sector still faces pressure."
+        },
+        {
+          "zh": "印尼面临MSCI可能将其从新兴市场降级的风险，最终决定可能在2027年6月。",
+          "en": "Indonesia faces a potential MSCI downgrade from emerging market status, with a final decision possibly in June 2027."
+        }
+      ],
+      "tags": [
+        "Asia markets",
+        "Fed",
+        "China data",
+        "MSCI",
+        "TSMC"
+      ],
+      "tickers": [
+        "TSM"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:13v50BGzPQs",
+      "title": "Chip Selloff Eases as Nvidia CEO Downplays CoreWeave Concerns",
+      "title_zh": "AI估值担忧蔓延至信贷市场，新云厂商融资模式受质疑",
+      "url": "https://www.youtube.com/watch?v=13v50BGzPQs",
+      "published_at": "2026-10-16T04:52:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲市场在美债收益率走低带动下有望反弹，但AI估值过高及新云厂商（neo-clouds）融资模式的担忧已从股市蔓延至信贷市场。策略师指出，利率上行令CoreWeave等新云厂商的债务融资成本承压，市场开始质疑其商业模式的可持续性。",
+      "summary_en": "Asian markets are set to rebound as Treasury yields move lower, but concerns over stretched AI valuations and the funding models of neo-clouds have spread from equities into credit markets. Strategists note that rising rates are pressuring debt funding costs for neo-clouds like CoreWeave, raising questions about business model viability.",
+      "detail_zh": "亚洲市场有望反弹，美债收益率走低为风险资产提供支撑，但围绕AI估值过高的担忧并未完全消散，只是有所缓解。策略师Sunny指出，科技板块尤其是半导体领域承压，相关问题已传导至信贷市场，市场开始公开质疑新云厂商（neo-clouds）的融资模式，这构成另一层风险。利率预期重定价是关键压力来源：两三个月前市场并不太担心CoreWeave，但利率上行将这一问题推到台前，融资成本变得至关重要，部分新云厂商需要重新评估债市愿意为其提供多少资金。CoreWeave有未来四到五年内到期的债券，融资市场可能要求更高的风险溢价。相比之下，超大规模云厂商（hyperscalers）现金充裕，融资市场对微软、亚马逊、谷歌开放。关于AI周期，Sunny认为台积电财报显示其有意增加资本开支，可能认为周期处于中点，AI的实用性仅在过去几个月才显现，早期阶段出现洗牌可能是必要且健康的。此外，Kevin Warsh将在曼谷IMF-世界银行会议期间与IMF主席进行炉边对话，市场关注其前瞻指引。",
+      "detail_en": "Asian markets are set to rebound, with lower Treasury yields supporting risk assets, though concerns over stretched AI valuations have eased somewhat rather than disappeared. Strategist Sunny noted that the tech sector, particularly semiconductors, has been under pressure, and these issues have now translated into credit markets, where markets are openly questioning the funding models of neo-clouds — another layer of risk. Repricing of interest rate expectations is a key source of pressure: two to three months ago markets weren't as worried about CoreWeave, but the move up in rates has brought that to the fore, making cost of funding critical. Some neo-clouds will need to reassess how much debt markets are willing to fund them. CoreWeave has bonds due in the next four to five years, and funding markets may require a higher premium. By contrast, hyperscalers are cash rich, and funding markets are open to Microsoft, Amazon and Google. On the AI cycle, Sunny said TSMC's results highlight its interest in increasing capex, possibly viewing the cycle as at its midway point, with AI usefulness only emerging in the last several months; shakeouts in this early phase could be necessary and healthy. Separately, Kevin Warsh will hold a fireside chat with the IMF chief in Bangkok during the IMF-World Bank meetings, with markets watching for forward guidance.",
+      "conclusion_zh": "AI交易的风险正从估值层面扩散至信贷与融资层面，新云厂商的债务可持续性是当前值得密切跟踪的薄弱环节。",
+      "conclusion_en": "Risks in the AI trade are spreading from valuations into credit and funding, with neo-cloud debt sustainability a key weak point to monitor.",
+      "key_points": [
+        {
+          "zh": "AI估值担忧从股市蔓延至信贷市场，新云厂商融资模式受质疑",
+          "en": "AI valuation concerns have spread from equities to credit markets, with neo-cloud funding models questioned"
+        },
+        {
+          "zh": "利率上行令CoreWeave等新云厂商债务融资成本承压，部分债券未来四到五年到期",
+          "en": "Rising rates pressure debt funding costs for neo-clouds like CoreWeave, with some bonds due in four to five years"
+        },
+        {
+          "zh": "超大规模云厂商现金充裕，融资市场对其开放，是新云厂商融资困境的受益者",
+          "en": "Hyperscalers are cash rich and funding markets are open to them, making them beneficiaries of neo-cloud funding woes"
+        },
+        {
+          "zh": "台积电财报显示有意增加资本开支，或认为AI周期处于中点",
+          "en": "TSMC results highlight interest in increasing capex, possibly viewing the AI cycle as at its midway point"
+        },
+        {
+          "zh": "市场关注Kevin Warsh在曼谷IMF会议上的前瞻指引",
+          "en": "Markets await Kevin Warsh's forward guidance at the IMF meetings in Bangkok"
+        }
+      ],
+      "tags": [
+        "AI",
+        "neo-clouds",
+        "credit",
+        "semiconductors",
+        "Fed"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:yFKTXIFaZLQ",
+      "title": "275: How Geopolitics Is Redefining Defense, Energy, Technology and Global Markets",
+      "title_zh": "地缘政治重塑全球经济：韧性经济的三大支柱与投资含义",
+      "url": "https://www.youtube.com/watch?v=yFKTXIFaZLQ",
+      "published_at": "2026-10-16T04:16:34+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "贝莱德地缘政治研究团队指出，投资者应超越地缘政治头条的短期波动，聚焦全球经济因竞争、碎片化与冲击而向\"韧性\"重构的结构性趋势。这一\"韧性经济\"围绕AI、国防、能源三大相互关联的支柱展开，三者正日益争夺资本，投资者需考虑如何在这三大支柱中配置敞口，以及该韧性经济在不同宏观情景下的表现。",
+      "summary_en": "BlackRock's geopolitical research team argues investors should look beyond short-term geopolitical headlines and focus on the structural rewiring of the global economy toward resilience, driven by competition, fragmentation, and shocks. This 'resilience economy' centers on three interlinked pillars—AI, defense, and energy—which are increasingly competing for capital, and investors must consider how to gain exposure across these pillars and how the resilience economy performs across different macro regimes.",
+      "detail_zh": "贝莱德地缘政治研究团队的Anna Parker指出，头条新闻聚焦于波动、冲击与混乱，但这并非长期投资者最应关注的主题；真正重要的主题是全球经济正因地缘政治竞争、碎片化和一系列冲击而向更注重\"韧性\"的方向重构。她提出三大驱动因素：一是美中竞争加速且加剧，尤其在AI领域，这是结构性的、持久的，将超越当前美中关系的稳定期；二是碎片化，世界因美中竞争而组织成不同阵营，而美国正重置其与全球其他地区的 geopolitical 和经济关系，带来新一轮碎片化；三是伊朗战争，这是过去五年中继创纪录通胀、贸易中断、新冠疫情、俄罗斯入侵乌克兰之后的最新冲击。这些因素共同暴露了全球经济因依赖关系而产生的脆弱性，以及这些依赖在冲突或压力下可能被\"武器化\"。过去两年出现两个例子：技术供应链中围绕关键矿产和稀土的瓶颈，以及伊朗战争期间霍尔木兹海峡这一全球能源市场的物理瓶颈。各国正通过大规模投资降低战略部门（能源、国防、技术）的依赖，形成\"全球韧性经济\"：能源安全投资巨大；全球国防开支连续11年增长，过去十年增长约40%；技术领域则是有史以来最大的资本开支周期，既受美中竞争驱动，也受中间国家追求技术主权的愿望推动。",
+      "detail_en": "Anna Parker of BlackRock's geopolitical research team notes that headlines focus on volatility, shock, and chaos, but that is not the most important theme for long-term investors; the key theme is the global economy rewiring toward resilience due to geopolitical competition, fragmentation, and a series of shocks. She identifies three drivers: first, accelerating and intensifying US-China competition, particularly around AI, which is structural and durable and extends beyond the current period of stability in the US-China relationship; second, fragmentation, as the world organizes into different blocks due to US-China competition, with the US moving to reset its geopolitical and economic relationships with the rest of the world, creating yet another round of fragmentation; third, the Iran war, the latest in a series of shocks over the past five years including record inflation, trade disruption, the COVID pandemic, and Russia's invasion of Ukraine. These factors expose vulnerabilities stemming from dependency and how those dependencies can be weaponized in times of conflict or stress. Two examples in the last two years: a choke point in the technology supply chain around critical minerals and rare earths, and a physical choke point in the global energy market at the Strait of Hormuz during the Iran war. Countries are making major investments to reduce dependencies in strategic sectors—energy, defense, and technology—forming the 'global resilience economy': huge investment in energy security; global defense spending increased for 11 consecutive years, up about 40% over the last decade; and technology is the largest CAPEX cycle in history, driven by US-China competition and the desire of countries in between to pursue technology sovereignty.",
+      "conclusion_zh": "投资者应关注韧性经济三大支柱（AI、国防、能源）的配置方式（股票、信贷或私募市场），并评估该韧性经济在不同宏观情景下的表现。",
+      "conclusion_en": "Investors should consider how to gain exposure to the resilience economy's three pillars (AI, defense, energy) across equities, credit, or private markets, and assess how the resilience economy performs across different macro regimes.",
+      "key_points": [
+        {
+          "zh": "投资者应超越地缘政治头条的短期波动，聚焦全球经济向\"韧性\"重构的结构性趋势。",
+          "en": "Investors should look beyond short-term geopolitical headlines and focus on the structural rewiring of the global economy toward resilience."
+        },
+        {
+          "zh": "美中竞争（尤其AI领域）、碎片化、以及伊朗战争等冲击，共同暴露了全球经济依赖关系的脆弱性及其被武器化的风险。",
+          "en": "US-China competition (especially in AI), fragmentation, and shocks like the Iran war expose the vulnerabilities of global economic dependencies and the risk of weaponization."
+        },
+        {
+          "zh": "韧性经济围绕AI、国防、能源三大相互关联的支柱，三者正日益争夺资本。",
+          "en": "The resilience economy centers on three interlinked pillars—AI, defense, and energy—which are increasingly competing for capital."
+        },
+        {
+          "zh": "全球国防开支连续11年增长，过去十年增长约40%；NATO盟国承诺到2035年将约5%的GDP用于国防。",
+          "en": "Global defense spending has risen for 11 consecutive years, up about 40% over the past decade; NATO allies committed around 5% of GDP to defense by 2035."
+        },
+        {
+          "zh": "大型美国超大规模企业AI投资规模据最新评估明年将超过1.3万亿美元，且越来越多地转向信贷市场融资。",
+          "en": "US hyperscaler AI investment is assessed at over $1.3 trillion next year, with a growing share moving into credit markets for funding."
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "resilience",
+        "defense",
+        "energy",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-0jflbj7vZw",
+      "title": "Geopolotics and The Global Resilience Economy | The Bid investing podcast",
+      "title_zh": "地缘竞争与AI竞赛推动全球经济重构，韧性成核心主题",
+      "url": "https://www.youtube.com/watch?v=-0jflbj7vZw",
+      "published_at": "2026-10-16T04:00:10+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics",
+        "tech"
+      ],
+      "summary_zh": "演讲者认为，市场过度关注波动与混乱，但长期投资者更应关注全球经济正围绕'韧性'进行重构。这一重构由地缘政治竞争、碎片化以及一系列冲击驱动，其中美中竞争（尤其在AI领域）正在加速和加剧，而美国正开启新一轮地缘与经济关系重置，带来新的碎片化。",
+      "summary_en": "The speaker argues that markets over-focus on volatility and chaos, while long-term investors should focus on the global economy rewiring around resilience. This rewiring is driven by geopolitical competition, fragmentation, and a series of shocks, with US-China competition—especially around AI—accelerating and intensifying, and the US now driving yet another round of fragmentation by resetting its geopolitical and economic relationships with the rest of the world.",
+      "detail_zh": "演讲者指出，新闻头条往往聚焦于环境中的波动、冲击、动荡与混乱，但这并非投资者、尤其是长期投资者最应关注的主题。他认为当前最重要的主题是全球经济正在重构，重心转向'韧性'。这一转变的成因包括地缘政治竞争、碎片化以及一系列冲击。其中，美中之间的竞争正在加速并加剧，在AI领域尤为明显。与此同时，美国正着手重置其与世界其他地区的地缘政治与经济关系，由此正在引发新一轮的碎片化。",
+      "detail_en": "The speaker notes that headlines tend to focus on volatility, shock, churn, and chaos in the environment, but that is not the most important theme for investors—especially not for long-term investors. In his view, the most important theme is that the global economy is rewiring to focus more on resilience. This shift is happening as a result of geopolitical competition, fragmentation, and a series of shocks. Competition between the US and China is accelerating and intensifying, particularly around AI. At the same time, the US is moving to reset its geopolitical and economic relationships with the rest of the world, which is producing yet another round of fragmentation.",
+      "conclusion_zh": "长期投资者应将注意力从短期波动转向全球经济围绕'韧性'的重构，以及美中竞争（尤其AI）和美国对外关系重置带来的结构性碎片化。",
+      "conclusion_en": "Long-term investors should shift focus from short-term volatility to the global economy's rewiring around resilience, and to the structural fragmentation driven by US-China competition (especially in AI) and the US resetting its external relationships.",
+      "key_points": [
+        {
+          "zh": "新闻头条聚焦波动与混乱，但这不是长期投资者最应关注的主题。",
+          "en": "Headlines focus on volatility and chaos, but that is not the most important theme for long-term investors."
+        },
+        {
+          "zh": "最重要的主题是全球经济正围绕'韧性'进行重构。",
+          "en": "The most important theme is the global economy rewiring to focus more on resilience."
+        },
+        {
+          "zh": "重构由地缘政治竞争、碎片化和一系列冲击驱动。",
+          "en": "This rewiring is driven by geopolitical competition, fragmentation, and a series of shocks."
+        },
+        {
+          "zh": "美中竞争正在加速和加剧，尤其在AI领域。",
+          "en": "US-China competition is accelerating and intensifying, particularly around AI."
+        },
+        {
+          "zh": "美国重置其地缘政治与经济关系，正引发新一轮碎片化。",
+          "en": "The US resetting its geopolitical and economic relationships is causing yet another round of fragmentation."
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "fragmentation",
+        "resilience",
+        "US-China",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:wcz3cSFXF_M",
+      "title": "Ross Gerber on Tesla Roadster, Potential SpaceX Merger",
+      "title_zh": "特斯拉Roadster发布与Robotaxi前景：Musk重心转移引发质疑",
+      "url": "https://www.youtube.com/watch?v=wcz3cSFXF_M",
+      "published_at": "2026-10-16T03:10:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特斯拉发布Roadster，但分析师认为这款高价低产量的车型对财务影响有限，更多是象征意义。核心争议在于Musk似乎已放弃汽车业务，不再开发新车型，而EV需求依然强劲。Robotaxi方面，CyberCab在奥斯汀的实测暴露出路线规划等缺陷，规模化仍面临挑战。",
+      "summary_en": "Tesla unveiled the Roadster, but analysts see limited financial impact given its high price and low production volume. The core debate centers on Musk appearing to abandon the car business, halting new model development despite strong EV demand. On Robotaxi, CyberCab testing in Austin revealed routing flaws, highlighting challenges before meaningful scale.",
+      "detail_zh": "特斯拉发布了Roadster，这是自Cybertruck以来首次重大车型亮相。分析师指出，推出一款非常昂贵且产量低的车型对特斯拉财务影响甚微，更多是象征意义——公司以Roadster起家，如今似乎也以Roadster收尾，因为不再开发其他新车型。分析师批评Musk已抛弃汽车业务，停售了史上最佳车型之一的Model S，而EV需求从未如此强劲，本应推出售价2.5万美元、可卖出数百万辆的电动车。关于Robotaxi，分析师在奥斯汀实测了CyberCab、Waymo和Uber的自动驾驶服务，认为CyberCab外观更酷，但两座设计放弃了部分市场；奥斯汀竞争激烈，且系统存在缺陷，例如CyberCab曾规划出绕大圈的路线，导致分析师取消行程改叫Uber。分析师认为，Robotaxi大规模普及仍需克服诸多挑战，全自动驾驶时代不会很快到来。",
+      "detail_en": "Tesla unveiled the Roadster, its first major car unveiling since the Cybertruck. Analysts noted that releasing a very expensive, low-volume car has little financial impact on Tesla and is more symbolic—the company started with the Roadster and appears to be ending with it, as no other new vehicles are being developed. Analysts criticized Musk for abandoning the car business, discontinuing the Model S (one of the best cars of all time), while EV demand has never been stronger; a $25,000 EV that could sell millions should be launched. On Robotaxi, analysts tested CyberCab, Waymo, and Uber autonomous services in Austin, finding CyberCab better looking but its two-seater design forfeits part of the market. Competition in Austin is intense, and system flaws exist—e.g., a CyberCab planned a big circular route, prompting the analyst to cancel and call an Uber. Analysts believe meaningful Robotaxi scale faces many challenges and a widespread autonomous era is not imminent.",
+      "conclusion_zh": "特斯拉的战略重心已从汽车制造转向Robotaxi等愿景，但后者商业化仍面临显著技术与竞争挑战，投资者需关注其汽车业务空心化风险。",
+      "conclusion_en": "Tesla's strategic focus has shifted from car manufacturing to visions like Robotaxi, but commercialization faces significant technical and competitive challenges; investors should watch for hollowing-out risks in its auto business.",
+      "key_points": [
+        {
+          "zh": "Roadster发布对特斯拉财务影响有限，因价格高、产量低，更多是象征性事件。",
+          "en": "Roadster launch has limited financial impact due to high price and low volume; it's more symbolic."
+        },
+        {
+          "zh": "分析师批评Musk已抛弃汽车业务，不再开发新车型，而EV需求强劲，本应推出2.5万美元车型。",
+          "en": "Analysts criticize Musk for abandoning the car business and not developing new models, despite strong EV demand; a $25,000 EV should be launched."
+        },
+        {
+          "zh": "CyberCab两座设计放弃部分市场，奥斯汀Robotaxi竞争激烈，系统存在路线规划等缺陷。",
+          "en": "CyberCab's two-seater design forfeits part of the market; Robotaxi competition in Austin is intense, with system flaws like routing issues."
+        },
+        {
+          "zh": "分析师认为Robotaxi大规模普及仍需克服诸多挑战，全自动驾驶时代不会很快到来。",
+          "en": "Analysts believe meaningful Robotaxi scale faces many challenges; a widespread autonomous era is not imminent."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "Roadster",
+        "Robotaxi",
+        "EV",
+        "autonomous driving"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:emCGf9Kuqjg",
+      "title": "Quarterly Market Update 3Q 2026",
+      "title_zh": "季度市场更新：债市收益率高企、美联储改革、强劲盈利与中期选举",
+      "url": "https://www.youtube.com/watch?v=emCGf9Kuqjg",
+      "published_at": "2026-10-16T00:45:32+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "本季度股市在政策、利率与地缘政治不确定性中继续走高，受强劲盈利与基本面驱动。30年期美债收益率升至2000年代初以来最高，美联储9月加息25个基点，投资策略组预计12月再加息一次后按兵不动至2027年。标普500二季度盈利同比增长超50%（剔除两科技公司逾1500亿美元非经营性收益后为33%），中期选举或产生分裂政府，被视为利好股市。",
+      "summary_en": "Equities climbed this quarter amid policy, rate, and geopolitical uncertainty, driven by strong earnings and fundamentals. The 30-year Treasury yield reached its highest since the early 2000s, and the Fed hiked 25bp in September, with the Investment Strategy Group expecting one more hike in December and a hold through 2027. S&P 500 Q2 earnings grew over 50% year-over-year (33% excluding over $150 billion in non-operating gains from two tech companies), and the midterms are expected to yield a divided government, seen as market-friendly.",
+      "detail_zh": "本季度市场环境以政策、利率和地缘政治的不确定性为特征，但股市在强劲盈利和基本面驱动下继续攀升。债市方面，30年期美债收益率近期升至2000年代初以来最高水平，因市场预期美联储因通胀高企和增长预期走强而更趋鹰派。美联储在9月会议上加息25个基点，为2023年以来首次加息。投资策略组预计12月将再加息一次，随后美联储将按兵不动至2027年。期限溢价在收益率上行中作用有限。受收益率上升影响，投资级债券指数年初至今下跌，价格贬值抵消了票息收入；但高收益率叠加投资策略组对年底收益率走低的预测，可能使未来回报更具吸引力，且投资级债券在多元化组合中仍发挥波动缓冲和衰退对冲的风险管理作用。美联储新领导层方面，主席Kevin Warsh设立五个工作组推进改革，分别聚焦沟通、资产负债表、数据来源、生产率与就业、通胀框架，相关变化预计将是渐进的。Warsh希望减少关于美联储内部思考的沟通，让市场形成独立的经济观点，称希望市场“学会看球，而不是看裁判”；但投资者担心信息减少可能拉长货币政策时滞并给金融条件和实体经济带来不必要的波动。股市方面，标普500二季度盈利同比增长超50%，受两家科技公司逾1500亿美元股权投资的非经营性收益提振；剔除这些一次性收益后，混合盈利增长为强劲的33%，远高于二季度财报前23%的共识预期，表明今年涨势有基本面支撑而非估值扩张。展望未来，中期选举是焦点，预计将产生分裂政府；预测市场显示民主党将赢得众议院，参议院结果可能非常接近，民主党需净增四席才能取得控制权。分析1928年以来市场回报，投资策略组发现非衰退时期分裂政府下股票回报更高；鉴于未来12个月衰退概率仅20%，分裂政府可能支撑股市。风险方面，地缘政治风险突出：波斯湾冲突未解决并持续推高能源价格，冲突再度加剧可能进一步推高能源价格；8月底CIA局长John Ratcliffe访问莫斯科，以及德国东部机场靠近乌克兰货运飞机处发现武装无人机，引发对俄罗斯可能对北约采取侵略行动的担忧；与中国持续的地缘政治紧张也值得投资者警惕。尽管不确定性仍存，仍建议客户按长期战略资产配置保持投资。",
+      "detail_en": "This quarter's market environment was characterized by uncertainty around policy, rates, and geopolitics, yet equities continued to climb, driven by strong earnings and fundamentals. In bonds, the 30-year Treasury yield recently reached its highest levels since the early 2000s, as the market anticipated a more hawkish Fed due to elevated inflation and stronger growth expectations. The Fed hiked 25 basis points at its September meeting, the first hike since 2023. The Investment Strategy Group expects one more hike in December, followed by the Fed staying on hold through 2027. Term premium played a more limited role in the move higher in yields. Investment grade bond indices are down year to date as price depreciation offset income; however, elevated yields combined with the group's forecast of lower yields by year end could make future returns more attractive, and investment grade bonds still play a risk-management role as a volatility dampener and recession hedge. On Fed leadership, Chairman Kevin Warsh established five task forces on communications, the balance sheet, data sources, productivity and jobs, and the inflation framework, with changes likely gradual. Warsh wants to reduce communication about the Fed's internal thinking, saying he wants the market to 'learn to play the ball, not the referee'; but investors worry less information could lengthen monetary-policy lags and introduce unnecessary volatility into financial conditions and the real economy. In equities, the S&P 500 posted year-over-year earnings growth of over 50% in Q2, boosted by over $150 billion in non-operating gains from two technology companies' equity investments; excluding these one-time gains, blended earnings growth was a strong 33%, well above the 23% consensus heading into Q2 reporting, indicating the rally has a foundation in fundamentals rather than multiple expansion. Looking ahead, the midterms are front and center, likely resulting in a divided government; prediction markets point to Democrats winning the House, with the Senate outcome likely close (Democrats need a net of four seats). Analyzing returns since 1928, the group found that in non-recessionary periods, equity returns were higher under divided governments; with only a 20% probability of recession in the next 12 months, a divided government could be supportive of equities. On risks, geopolitical risk remains prominent: the Persian Gulf conflict is unresolved and keeps energy prices elevated, and a shift back to more intense conflict could send energy prices even higher; the late-August visit of CIA Chief John Ratcliffe to Moscow and the discovery of armed drones at an airport in eastern Germany close to Ukrainian cargo planes have raised concerns of potential Russian aggression toward NATO; continued geopolitical tension with China warrants vigilance. While uncertainty remains, clients are advised to stay invested at their long-term strategic asset allocation.",
+      "conclusion_zh": "在盈利基本面支撑、分裂政府或利好股市的背景下，尽管地缘政治风险（波斯湾、俄罗斯对北约、中国）值得警惕，仍建议按长期战略资产配置保持投资。",
+      "conclusion_en": "With earnings fundamentals supporting equities and a divided government potentially market-friendly, clients are advised to stay invested at their long-term strategic asset allocation despite geopolitical risks (Persian Gulf, Russia-NATO, China).",
+      "key_points": [
+        {
+          "zh": "30年期美债收益率升至2000年代初以来最高，美联储9月加息25个基点（2023年以来首次），投资策略组预计12月再加息一次后按兵不动至2027年。",
+          "en": "The 30-year Treasury yield reached its highest since the early 2000s; the Fed hiked 25bp in September (first since 2023), and the Investment Strategy Group expects one more hike in December followed by a hold through 2027."
+        },
+        {
+          "zh": "投资级债券指数年初至今下跌，但高收益率叠加年底收益率走低的预测可能使未来回报更具吸引力，且仍具波动缓冲和衰退对冲作用。",
+          "en": "Investment grade bond indices are down year to date, but elevated yields plus a forecast of lower yields by year end could make future returns more attractive, and they still serve as a volatility dampener and recession hedge."
+        },
+        {
+          "zh": "美联储主席Kevin Warsh设立五个工作组推进改革（沟通、资产负债表、数据来源、生产率与就业、通胀框架），变化预计渐进；其减少沟通的倾向引发对政策时滞和波动的担忧。",
+          "en": "Fed Chairman Kevin Warsh established five task forces (communications, balance sheet, data sources, productivity and jobs, inflation framework) with changes likely gradual; his preference for less communication raises concerns about policy lags and volatility."
+        },
+        {
+          "zh": "标普500二季度盈利同比增长超50%，剔除两科技公司逾1500亿美元非经营性收益后为33%，高于23%的共识，显示涨势有基本面支撑而非估值扩张。",
+          "en": "S&P 500 Q2 earnings grew over 50% year-over-year; excluding over $150 billion in non-operating gains from two tech companies, growth was 33%, above the 23% consensus, showing the rally is fundamentals-driven rather than multiple expansion."
+        },
+        {
+          "zh": "中期选举预计产生分裂政府（预测市场显示民主党赢众议院，参议院接近），历史上非衰退期分裂政府下股票回报更高，衰退概率仅20%。",
+          "en": "The midterms are expected to yield a divided government (prediction markets point to Democrats winning the House, Senate close); historically, non-recessionary periods saw higher equity returns under divided governments, with only a 20% recession probability."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "Treasury yields",
+        "earnings",
+        "midterms",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:DQIb3xm_7u0",
       "title": "Zelenskyy: ‘Pity’ Ukraine Losing Strong Partner",
