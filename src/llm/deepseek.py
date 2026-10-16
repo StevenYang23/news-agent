@@ -99,5 +99,6 @@ def summarize(content: str, title: str = "") -> dict:
         "tickers": tickers,
         "sentiment": str(result.get("sentiment", "neutral")).lower(),
         "us_equity_relevant": bool(result.get("us_equity_relevant", True)),
+        "econ_tech_relevant": bool(result.get("econ_tech_relevant", True)),
         "model": config.DEEPSEEK_MODEL,
     }

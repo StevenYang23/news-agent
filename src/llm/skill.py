@@ -54,6 +54,7 @@ USER_TEMPLATE = """\
 - "tickers": 原文中明确提到的美股代码（大写、去重），没有则空数组
 - "sentiment": "positive" / "neutral" / "negative"（对美股的整体基调）
 - "us_equity_relevant": true / false
+- "econ_tech_relevant": true / false（内容是否与「经济、金融或科技」强相关；纯政治选举、体育、娱乐、社会八卦等无关内容为 false）
 
 再次强调：所有内容必须来自原文，严禁编造数字、引述、代码或事件。
 

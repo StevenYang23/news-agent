@@ -149,6 +149,7 @@ def run_pipeline() -> dict:
         "new_items": 0,
         "summarized": 0,
         "filtered_us": 0,
+        "filtered_econ": 0,
         "errors": 0,
         "pruned": 0,
         "sources_done": 0,
@@ -189,6 +190,10 @@ def run_pipeline() -> dict:
                 if config.US_EQUITY_ONLY and not payload.get("us_equity_relevant") and not src.get("include_all"):
                     stats["filtered_us"] += 1
                     guids.add(guid)  # remember we already judged it
+                    continue
+                if src.get("require_econ_tech") and not payload.get("econ_tech_relevant"):
+                    stats["filtered_econ"] += 1
+                    guids.add(guid)
                     continue
                 categories = list(payload.get("categories", ["other"]))
                 force = src.get("force_category")
