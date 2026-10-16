@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:14:49.616479+00:00",
+  "generated_at": "2026-10-16T13:34:55.490899+00:00",
   "insights": [
     {
       "guid": "yt:uxcbOYlM4Hw",
@@ -816,6 +816,104 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:SyJPYQMhkcg",
+      "title": "Indonesian Stocks Sink as MSCI Mulls Downgrade",
+      "title_zh": "亚洲市场反弹与中国数据前瞻：买方视角",
+      "url": "https://www.youtube.com/watch?v=SyJPYQMhkcg",
+      "published_at": "2026-10-16T05:50:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲股市在逢低买入推动下反弹，美债因避险资金流入而上涨。市场关注即将公布的中国GDP数据及可能的刺激措施，同时印尼面临MSCI降级风险，韩国市场出现投机性反弹。",
+      "summary_en": "Asian stocks rebounded on bargain hunting, while U.S. Treasuries rallied on safe-haven flows. Markets are focused on China's upcoming GDP data and potential stimulus, while Indonesia faces MSCI downgrade risk and South Korea sees a speculative rally.",
+      "detail_zh": "亚洲市场周五普遍反弹，逢低买入推动复苏，美债因避险资金流入而上涨。市场关注中国周一将公布的经济数据，包括GDP，以及决策者在上海会议上的信号。中国一年期利率互换降至六年来最低，市场预期数据疲软可能促使刺激措施出台。台湾市场在昨日大幅资金流出后出现反弹，台积电财报超预期并上调预测，但科技硬件板块仍面临压力。韩国市场上涨2.9%，但基本面担忧犹存，昨日有近9亿美元流入三倍杠杆美国ETF，显示短期投机行为。印尼因公司治理和市场微观结构问题面临MSCI降级风险，可能被剔除全球股票指数，印尼盾已走弱，下周还有利率决策。美联储主席Kevin Warsh将在IMF/世界银行会议上发表讲话，投资者关注本月利率决策线索。",
+      "detail_en": "Asian markets rebounded broadly on Friday, fueled by bargain hunting, while U.S. Treasuries rallied on safe-haven flows. Markets are focused on China's upcoming economic data on Monday, including GDP, and signals from policymakers at a conference in Shanghai. China's one-year interest rate swaps fell to a six-year low, with expectations that weak data could prompt stimulus measures. Taiwan's market bounced after yesterday's massive outflows, with TSMC beating expectations and raising forecasts, though the tech hardware sector still faces pressure. South Korea's market rose 2.9%, but fundamental concerns persist; nearly $900 million flowed into a triple-leveraged U.S. ETF yesterday, indicating short-term speculation. Indonesia faces MSCI downgrade risk due to corporate governance and market microstructure issues, potentially being ejected from global stock indexes, with the rupiah already weak and a rate decision next week. Fed Chairman Kevin Warsh is set to speak at the IMF/World Bank meetings, with investors watching for clues on this month's rate decision.",
+      "conclusion_zh": "市场关注中国数据与刺激预期，以及美联储主席讲话，亚洲市场短期反弹但基本面风险犹存。",
+      "conclusion_en": "Markets focus on China data and stimulus expectations, as well as Fed Chair's speech; Asian markets rebound short-term but fundamental risks remain.",
+      "key_points": [
+        {
+          "zh": "亚洲股市反弹，逢低买入推动，美债因避险资金流入上涨。",
+          "en": "Asian stocks rebounded on bargain hunting, while U.S. Treasuries rallied on safe-haven flows."
+        },
+        {
+          "zh": "中国一年期利率互换降至六年来最低，市场预期疲软数据可能促使刺激措施。",
+          "en": "China's one-year interest rate swaps fell to a six-year low, with expectations that weak data could prompt stimulus."
+        },
+        {
+          "zh": "台积电财报超预期并上调预测，但科技硬件板块仍面临压力。",
+          "en": "TSMC beat expectations and raised forecasts, but the tech hardware sector still faces pressure."
+        },
+        {
+          "zh": "韩国市场上涨2.9%，但基本面担忧犹存，短期投机资金流入杠杆ETF。",
+          "en": "South Korea's market rose 2.9%, but fundamental concerns persist, with short-term speculative flows into leveraged ETFs."
+        },
+        {
+          "zh": "印尼面临MSCI降级风险，可能被剔除全球股票指数，印尼盾走弱。",
+          "en": "Indonesia faces MSCI downgrade risk, potentially being ejected from global stock indexes, with the rupiah weak."
+        }
+      ],
+      "tags": [
+        "Asia markets",
+        "China data",
+        "Fed",
+        "MSCI",
+        "TSMC"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:13v50BGzPQs",
+      "title": "Chip Selloff Eases as Nvidia CEO Downplays CoreWeave Concerns",
+      "title_zh": "AI估值担忧蔓延至信贷市场，新云厂商融资模式受质疑",
+      "url": "https://www.youtube.com/watch?v=13v50BGzPQs",
+      "published_at": "2026-10-16T04:52:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲市场在美债收益率走低带动下有望反弹，但AI板块估值担忧并未消散，并已从股市传导至信贷市场，市场开始质疑新云厂商（neo-clouds）的融资模式与商业可行性。策略师指出，利率上行令CoreWeave等新云厂商的债务融资成本成为关键风险，而超大规模云厂商因现金充裕反而受益。",
+      "summary_en": "Asian markets are set to rebound as Treasury yields move lower, but AI valuation concerns have not disappeared and have now spread from equities into credit markets, where the funding models of neo-clouds are being openly questioned. Strategists note that rising rates make debt funding costs critical for neo-clouds like CoreWeave, while cash-rich hyperscalers stand to benefit.",
+      "detail_zh": "亚洲市场有望反弹，美债收益率走低，澳洲市场表现积极，反弹可能蔓延至日本。围绕AI估值过高的担忧虽有所缓解但并未消失，该地区有望录得首次上涨。策略师指出，科技板块尤其是半导体承压，相关问题已传导至信贷市场，市场开始公开质疑新云厂商（neo-clouds）的融资模式，这构成另一层风险，投资者需理解其对商业模式可行性的含义，并寻找市场中滞涨、可能提供支撑的领域（如低收益率板块）。TSMC业绩显示其有意增加资本开支，或认为周期处于中点，AI的实用性仅在过去数月显现，早期阶段出现洗牌可能是必要且健康的。超大规模云厂商是新云厂商融资困境的受益者。英伟达的黄仁勋为CoreWeave的客户关系辩护，反映出该领域关系与融资的循环性。利率预期重定价对新云厂商融资构成压力：两三个月前市场并不太担心CoreWeave，但利率上行将这一问题推到台前，部分新云厂商需重新评估债市融资意愿，CoreWeave未来四到五年有债券到期，融资市场可能要求更高溢价。超大规模云厂商现金充裕，融资市场对微软、亚马逊、谷歌开放。市场关注Kevin Warsh在曼谷IMF的炉边对话，尤其是前瞻指引；作为新任美联储理事，他可能乐见债市已完成部分紧缩。韩国9月失业率数据略好于预期，三星上涨3.2%，SK海力士亦上涨。",
+      "detail_en": "Asian markets are set to rebound as Treasury yields move lower, with Australian markets showing positivity and the rebound potentially spreading to Japan. Concerns over stretched AI valuations have eased somewhat but not disappeared, and the region is on pace for its first gain. A strategist noted that the tech sector, particularly semiconductors, has been under pressure, and these issues have now translated into credit markets, where the funding models of neo-clouds are being openly questioned—another layer of risk. Markets must understand what this means for business model viability and look for other areas of the market that could offer support, possibly in lagging, lower-yield areas. TSMC results broadly highlight its interest in increasing capex, and it may feel the cycle is at its midway point; the usefulness of AI has only emerged in the last several months, and shakeouts in this early phase could be necessary and healthy. Hyperscalers are beneficiaries of neo-cloud funding woes. Jensen Huang defended the CoreWeave story and customer relationship, speaking to the circularity of relationships and funding in the space. Repricing of interest rate expectations puts pressure on funding: two or three months ago markets weren't as worried about CoreWeave, but the move up in rates brought that to the fore. Some neo-clouds will need to reassess how much debt markets are willing to fund them; CoreWeave has bonds due in the next four to five years and funding markets may require a higher premium. Hyperscalers are cash rich and funding markets are open to Microsoft, Amazon, and Google. Markets await Kevin Warsh's fireside chat at the IMF in Bangkok, especially forward guidance; as a new Fed governor, he may be happy the bond market has done some tightening. South Korea's September jobless rate came in slightly more reassuring than estimates, with Samsung up 3.2% and SK Hynix also gaining.",
+      "conclusion_zh": "AI交易的风险正从估值层面扩散至融资与信贷层面，新云厂商的债务可持续性是关键观察点，而现金充裕的超大规模云厂商相对占优。",
+      "conclusion_en": "Risks in the AI trade are spreading from valuations to funding and credit, with neo-cloud debt sustainability a key watch point, while cash-rich hyperscalers are relatively advantaged.",
+      "key_points": [
+        {
+          "zh": "AI估值担忧已从股市传导至信贷市场，市场公开质疑新云厂商的融资模式与商业可行性。",
+          "en": "AI valuation concerns have spread from equities to credit markets, with neo-cloud funding models and business viability openly questioned."
+        },
+        {
+          "zh": "利率上行使融资成本成为关键，CoreWeave未来四到五年有债券到期，融资市场可能要求更高溢价。",
+          "en": "Rising rates make funding costs critical; CoreWeave has bonds due in four to five years and funding markets may demand a higher premium."
+        },
+        {
+          "zh": "超大规模云厂商因现金充裕而是新云厂商融资困境的受益者，融资市场对其开放。",
+          "en": "Cash-rich hyperscalers benefit from neo-cloud funding woes, with funding markets open to them."
+        },
+        {
+          "zh": "TSMC业绩显示其有意增加资本开支，或认为周期处于中点，早期洗牌可能必要且健康。",
+          "en": "TSMC results show intent to increase capex and a possible view that the cycle is at its midway point; early shakeouts may be necessary and healthy."
+        },
+        {
+          "zh": "市场关注Kevin Warsh在IMF的前瞻指引，他可能乐见债市已完成部分紧缩。",
+          "en": "Markets await Kevin Warsh's forward guidance at the IMF; he may welcome that the bond market has done some tightening."
+        }
+      ],
+      "tags": [
+        "AI",
+        "neo-clouds",
+        "credit",
+        "semiconductors",
+        "Fed"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:yFKTXIFaZLQ",
       "title": "275: How Geopolitics Is Redefining Defense, Energy, Technology and Global Markets",
       "title_zh": "地缘政治重塑全球经济：韧性经济的三大支柱与投资含义",
@@ -918,6 +1016,53 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:wcz3cSFXF_M",
+      "title": "Ross Gerber on Tesla Roadster, Potential SpaceX Merger",
+      "title_zh": "特斯拉Roadster发布与Robotaxi前景：分析师质疑Musk对汽车业务的投入",
+      "url": "https://www.youtube.com/watch?v=wcz3cSFXF_M",
+      "published_at": "2026-10-16T03:10:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特斯拉发布Roadster，但分析师认为这款高价低产量的车型对财务影响甚微，并批评Musk已放弃汽车业务。分析师在Austin实测CyberCab后指出Robotaxi仍面临诸多挑战，距离大规模商业化尚远。",
+      "summary_en": "Tesla unveiled the Roadster, but analysts believe this expensive, low-volume vehicle will have minimal financial impact and criticize Musk for abandoning the car business. After testing the CyberCab in Austin, analysts note Robotaxi still faces many challenges before meaningful scaling.",
+      "detail_zh": "特斯拉发布了Roadster，这是自Cybertruck以来首次重大车型发布。分析师认为，发布一款价格昂贵且产量低的车型对特斯拉财务影响不大，并指出特斯拉似乎不再开发其他新车型，这可能是对开发新车的\"最后告别\"。分析师批评Musk已抛弃汽车业务，停售了Model S，而当前电动车需求空前强劲，特斯拉却未推出售价2.5万美元的电动车，错失了数百万销量。关于Robotaxi，分析师在Austin实测了CyberCab，认为其外观优于Waymo和Uber的竞品，但两座设计放弃了部分市场。分析师在Austin观察到Robotaxi竞争激烈，且系统存在缺陷，例如CyberCab绕路导致行程时间增加三倍，认为距离大规模自动驾驶时代尚远。",
+      "detail_en": "Tesla unveiled the Roadster, its first major car unveiling since the Cybertruck. Analysts believe an expensive, low-production vehicle will have little financial impact and note Tesla appears to have stopped developing other new vehicles, possibly a 'final goodbye' to new car development. Analysts criticize Musk for jettisoning the car business, discontinuing the Model S, and missing the opportunity for a $25,000 EV that could have sold millions amid strong EV demand. On Robotaxi, analysts tested the CyberCab in Austin, finding it better looking than Waymo and Uber competitors, but the two-seater design gives up part of the market. Analysts observed intense competition in Austin and system flaws, such as a CyberCab taking a circuitous route that tripled travel time, suggesting a widespread autonomous era is still far off.",
+      "conclusion_zh": "特斯拉在汽车业务上的创新乏力与Robotaxi的早期挑战，可能使其短期增长受限，投资者需关注其战略重心转移的风险。",
+      "conclusion_en": "Tesla's lack of innovation in the car business and early challenges in Robotaxi may limit near-term growth; investors should watch the risk of strategic pivot.",
+      "key_points": [
+        {
+          "zh": "Roadster发布对特斯拉财务影响甚微，因产量低且价格高。",
+          "en": "Roadster unveiling has minimal financial impact due to low production and high price."
+        },
+        {
+          "zh": "分析师批评Musk已放弃汽车业务，未推出大众市场电动车。",
+          "en": "Analysts criticize Musk for abandoning the car business and not launching a mass-market EV."
+        },
+        {
+          "zh": "CyberCab在Austin实测中表现优于竞品，但两座设计限制市场。",
+          "en": "CyberCab tested better than competitors in Austin, but two-seater limits market."
+        },
+        {
+          "zh": "Robotaxi系统仍存缺陷，大规模商业化尚需时日。",
+          "en": "Robotaxi systems still have flaws; meaningful scaling is far off."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "Roadster",
+        "Robotaxi",
+        "EV",
+        "Autonomous Driving"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "negative"
+    },
+    {
       "guid": "yt:emCGf9Kuqjg",
       "title": "Quarterly Market Update 3Q 2026",
       "title_zh": "季度市场更新：债市收益率高企、美联储改革、强劲盈利与中期选举",
@@ -966,6 +1111,55 @@
       ],
       "tickers": [],
       "sentiment": "positive"
+    },
+    {
+      "guid": "yt:DQIb3xm_7u0",
+      "title": "Zelenskyy: ‘Pity’ Ukraine Losing Strong Partner",
+      "title_zh": "美国通胀数据超预期，中期选举与乌克兰局势交织",
+      "url": "https://www.youtube.com/watch?v=DQIb3xm_7u0",
+      "published_at": "2026-10-15T23:08:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "连续两份通胀报告高于预期，市场关注美联储是否再次加息。中期选举临近，经济焦虑成为选民首要关切，特朗普深入参与多州选战。乌克兰总统泽连斯基指责特朗普限制星盾卫星访问，白宫否认。",
+      "summary_en": "Back-to-back inflation reports came in hotter than expected, raising questions about another Fed rate hike. With the midterms 19 days away, economic anxiety is a top voter concern, and President Trump is deeply involved in campaigns. Ukraine's Zelenskyy accused Trump of restricting Starshield access; the White House denies it.",
+      "detail_zh": "节目报道称，连续两份通胀报告高于预期，引发市场对美联储是否再次加息的关注。中期选举进入倒计时19天，第三季度筹款数据激增，为判断两党优势提供线索。福克斯新闻民调显示，选民最关心的问题中，政府腐败位列第一，其次是可负担性和汽油价格。前副总统彭斯幕僚长马克·肖特认为，选民心意已定，关键在于投票率，资金差距的重要性不如以往。乌克兰总统泽连斯基指责特朗普和马斯克限制乌克兰对星盾卫星技术的访问，导致战场损失。白宫高级官员回应称，特朗普并未亲自下令限制，也从未提出此类要求。马斯克在社交媒体上表示，星盾由美国政府控制，任何限制都应由美国政府及总统决定。此事发生在特朗普与泽连斯基关系破裂之后，此前宣布的新俄罗斯柴油协议令泽连斯基感到意外。肖特批评特朗普在乌克兰问题上站在普京一边，认为进口俄罗斯柴油在经济上毫无意义且错误。",
+      "detail_en": "The program reported that back-to-back inflation reports came in hotter than expected, raising questions about whether the Fed will hike rates again. With 19 days until the midterms, a surge in third-quarter fundraising offers clues about which party has the edge. A Fox News poll showed government corruption as the top issue for voters, followed by affordability and gas prices. Marc Short, former chief of staff to Vice President Mike Pence, said voters' minds are largely made up and turnout is key, with money discrepancy less of a differentiator than before. Ukraine's President Zelenskyy accused Trump and Musk of restricting Ukraine's access to Starshield satellite technology, leading to battlefield losses. A senior U.S. official said Trump did not personally order the restriction and never made such a request. Musk posted that Starshield is controlled by the U.S. government, so any restrictions would have been decided by the U.S. government and the President himself. This follows a rupture in relations after the announcement of a new Russia diesel deal, which Zelenskyy said he felt blindsided by. Short criticized Trump for siding with Putin on Ukraine, calling the diesel importation economically senseless and wrong.",
+      "conclusion_zh": "通胀超预期可能强化美联储加息预期，中期选举前经济与腐败议题主导选情，乌克兰局势及美俄关系增添地缘不确定性。",
+      "conclusion_en": "Hotter inflation may reinforce Fed hike expectations, while economic and corruption issues dominate pre-midterm politics, and the Ukraine situation adds geopolitical uncertainty.",
+      "key_points": [
+        {
+          "zh": "连续两份通胀报告高于预期，市场关注美联储是否再次加息。",
+          "en": "Back-to-back inflation reports came in hotter than expected, raising questions about another Fed rate hike."
+        },
+        {
+          "zh": "中期选举前19天，第三季度筹款激增，经济焦虑成为选民关键议题。",
+          "en": "With 19 days to midterms, Q3 fundraising surged, and economic anxiety is a key voter issue."
+        },
+        {
+          "zh": "泽连斯基指责特朗普限制星盾访问，白宫否认特朗普亲自下令。",
+          "en": "Zelenskyy accused Trump of restricting Starshield access; White House denies Trump personally ordered it."
+        },
+        {
+          "zh": "马斯克称星盾由美国政府控制，限制决定应由美国政府及总统做出。",
+          "en": "Musk said Starshield is controlled by the U.S. government, so restrictions would be decided by the U.S. government and the President."
+        },
+        {
+          "zh": "肖特批评特朗普在乌克兰问题上站在普京一边，认为进口俄罗斯柴油在经济上毫无意义。",
+          "en": "Short criticized Trump for siding with Putin on Ukraine, calling the diesel importation economically senseless."
+        }
+      ],
+      "tags": [
+        "inflation",
+        "Fed",
+        "midterms",
+        "Ukraine",
+        "Starshield"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:kqk7PqBpTW4",
