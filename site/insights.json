@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:12:42.577451+00:00",
+  "generated_at": "2026-10-16T05:10:47.626148+00:00",
   "insights": [
     {
       "guid": "yt:DQIb3xm_7u0",
@@ -6323,56 +6323,6 @@
         "TXN"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:rwxtw9LnWDA",
-      "title": "274: How Tokenized Cash Is Modernizing Money, Markets and Investing",
-      "title_zh": "贝莱德播客：代币化现金正从概念走向实际应用",
-      "url": "https://www.youtube.com/watch?v=rwxtw9LnWDA",
-      "published_at": "2026-10-09T04:23:59+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "贝莱德《The Bid》播客中，主持人Oscar Pulido与贝莱德全球现金分销主管Beccy Milchem讨论代币化现金。对话区分了加密货币、稳定币、代币化存款与代币化货币市场基金，并探讨代币化如何现代化资本市场基础设施，包括更快结算、全天候跨境支付与可编程交易。",
-      "summary_en": "In BlackRock's The Bid podcast, host Oscar Pulido speaks with Beccy Milchem, BlackRock's Global Head of Cash Distribution, about tokenized cash. They distinguish cryptocurrencies, stablecoins, tokenized deposits and tokenized money market funds, and explore how tokenization could modernize capital markets infrastructure through faster settlement, around-the-clock cross-border payments and programmable transactions.",
-      "detail_zh": "贝莱德《The Bid》播客本期聚焦代币化现金，将其视为代币化在金融市场中最具实际意义的应用之一。主持人Oscar Pulido对话贝莱德全球现金分销主管兼国际现金管理业务主管Beccy Milchem，讨论代币化现金究竟是什么，以及它为何正从概念走向现实应用。对话厘清了加密货币、稳定币、代币化存款与代币化货币市场基金之间的区别，并说明随着数字资产在金融生态中占比上升，这一区分为何重要。Milchem还解释了代币化如何现代化支撑资本市场的基础设施，包括更快的结算、全天候跨境支付、可编程交易，以及可能更高效的营运资金管理。讨论还涉及随着更多传统资产被代币化，数字钱包可能如何演变、现金为何在这一转型中扮演早期角色，以及监管、互操作性与更广泛采用如何决定代币化金融的发展节奏。",
-      "detail_en": "This episode of BlackRock's The Bid focuses on tokenized cash, framed as one of the most tangible applications of tokenization in financial markets. Host Oscar Pulido speaks with Beccy Milchem, Global Head of Cash Distribution and Head of the International Cash Management business at BlackRock, about what tokenized cash actually is and why it is moving from concept toward real-world use. They break down the differences between cryptocurrencies, stablecoins, tokenized deposits and tokenized money market funds, and explain why the distinction matters as digital assets become a bigger part of the financial ecosystem. Milchem also explains how tokenization could modernize the infrastructure underpinning capital markets, from faster settlement and around-the-clock cross-border payments to programmable transactions and potentially more efficient management of working capital. The conversation explores how digital wallets could evolve as more traditional assets become tokenized, why cash is playing an early role in this transition, and how regulation, interoperability and broader adoption could determine the pace at which tokenized finance develops.",
-      "conclusion_zh": "代币化现金正从概念走向实际应用，投资者应关注监管、互操作性与采用节奏对代币化金融发展速度的影响。",
-      "conclusion_en": "Tokenized cash is moving from concept toward real-world use; investors should watch how regulation, interoperability and adoption pace shape the speed of tokenized finance.",
-      "key_points": [
-        {
-          "zh": "代币化现金被视为代币化在金融市场中最具实际意义的应用之一。",
-          "en": "Tokenized cash is seen as one of the most tangible applications of tokenization in financial markets."
-        },
-        {
-          "zh": "对话区分了加密货币、稳定币、代币化存款与代币化货币市场基金，并强调这一区分的重要性。",
-          "en": "The discussion distinguishes cryptocurrencies, stablecoins, tokenized deposits and tokenized money market funds, stressing why the distinction matters."
-        },
-        {
-          "zh": "代币化可能现代化资本市场基础设施：更快结算、全天候跨境支付、可编程交易与更高效的营运资金管理。",
-          "en": "Tokenization could modernize capital markets infrastructure: faster settlement, around-the-clock cross-border payments, programmable transactions and more efficient working capital management."
-        },
-        {
-          "zh": "现金在代币化转型中扮演早期角色，数字钱包可能随更多传统资产被代币化而演变。",
-          "en": "Cash is playing an early role in the tokenization transition, and digital wallets could evolve as more traditional assets become tokenized."
-        },
-        {
-          "zh": "监管、互操作性与更广泛采用将决定代币化金融的发展节奏。",
-          "en": "Regulation, interoperability and broader adoption will determine the pace at which tokenized finance develops."
-        }
-      ],
-      "tags": [
-        "tokenization",
-        "tokenized cash",
-        "stablecoins",
-        "digital wallets",
-        "capital markets"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
