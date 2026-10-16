@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-16T18:16:51.942322+00:00",
+  "generated_at": "2026-10-16T19:13:08.170829+00:00",
   "insights": [
+    {
+      "guid": "yt:SQ4GzRM6xN8",
+      "title": "Personal Balance Sheet Encouraging Consumption: Porcelli",
+      "title_zh": "富国银行首席经济学家谈美国消费者与财富效应",
+      "url": "https://www.youtube.com/watch?v=SQ4GzRM6xN8",
+      "published_at": "2026-10-16T18:43:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "富国银行首席经济学家 Tom Porcelli 在 Bloomberg Money 节目中与 Scarlet Fu、Tom Keene 讨论了美国消费者的健康状况与财富效应，并谈及他个人理财上的\"放手\"态度。原文未提供具体数据或明确结论。",
+      "summary_en": "Wells Fargo chief economist Tom Porcelli joined Scarlet Fu and Tom Keene on \"Bloomberg Money\" to discuss the health of the US consumer, the wealth effect, and his hands-off approach to personal finance. No specific data or firm conclusions were provided in the source.",
+      "detail_zh": "该内容为彭博电视节目 Bloomberg Money 的一段节目简介。富国银行首席经济学家 Tom Porcelli 作为嘉宾，与主持人 Scarlet Fu 和 Tom Keene 同台。讨论主题包括三个方面：美国消费者的健康状况、财富效应，以及他本人在个人理财上的\"放手\"（hands-off）态度。原文仅列出话题，未披露任何具体数据、判断或结论。其余内容为彭博电视与彭博市场的订阅、社交媒体与播客推广信息，与投资分析无关。",
+      "detail_en": "This is a program description for a segment of Bloomberg Money on Bloomberg Television. Wells Fargo chief economist Tom Porcelli appeared as a guest alongside hosts Scarlet Fu and Tom Keene. The topics discussed included the health of the US consumer, the wealth effect, and his hands-off approach to personal finance. The source lists only the topics and discloses no specific data, judgments, or conclusions. The remainder of the text consists of Bloomberg Television and Bloomberg Markets promotional and social media links, which are not relevant to investment analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "嘉宾为富国银行首席经济学家 Tom Porcelli，主持人为 Scarlet Fu 与 Tom Keene。",
+          "en": "The guest was Wells Fargo chief economist Tom Porcelli, with hosts Scarlet Fu and Tom Keene."
+        },
+        {
+          "zh": "讨论话题包括美国消费者健康状况与财富效应。",
+          "en": "Topics included the health of the US consumer and the wealth effect."
+        },
+        {
+          "zh": "Porcelli 还谈及自己在个人理财上的\"放手\"态度。",
+          "en": "Porcelli also discussed his hands-off approach to personal finance."
+        },
+        {
+          "zh": "原文未提供任何具体数据、观点细节或投资结论。",
+          "en": "The source provided no specific data, detailed views, or investment conclusions."
+        }
+      ],
+      "tags": [
+        "US consumer",
+        "wealth effect",
+        "Wells Fargo",
+        "Bloomberg Money"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:f7WptlMsMcg",
       "title": "Charles Schwab CEO explains block on unauthorized AI agents",
