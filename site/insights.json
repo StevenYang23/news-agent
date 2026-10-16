@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-10-16T17:13:08.814328+00:00",
+  "generated_at": "2026-10-16T18:16:51.942322+00:00",
   "insights": [
+    {
+      "guid": "yt:f7WptlMsMcg",
+      "title": "Charles Schwab CEO explains block on unauthorized AI agents",
+      "title_zh": "嘉信理财：封堵未授权AI代理，推出两条合规LLM接入路径",
+      "url": "https://www.youtube.com/watch?v=f7WptlMsMcg",
+      "published_at": "2026-10-16T18:08:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "嘉信理财（Schwab）表示正在封堵未授权的AI代理（如Muse）接入客户账户，理由是密码共享导致责任无法界定、客户与公司均无法控制风险。作为替代，公司为客户端LLM使用提供两条安全路径：自研AI助手Charlie，以及通过MCP服务器为第三方代理建立受控接入通道。",
+      "summary_en": "Schwab says it is blocking unauthorized AI agents such as Muse from accessing client accounts, citing password-sharing that leaves liability and control unclear for both the client and the firm. Instead, it is creating two safe pathways for clients to use LLMs: its own AI assistant Charlie, and a controlled gateway for third-party agents via an MCP server.",
+      "detail_zh": "嘉信理财（Schwab）高管在访谈中表示，公司正在封堵未授权的AI代理，明确点名Muse属于未授权之列。其核心顾虑是：如果客户把密码交给Muse并让其代为操作，公司无法控制、客户也无法控制，一旦出问题责任归属不明。出于保护客户与保护公司自身的考虑，嘉信不允许此类接入。但公司同时承认客户希望在投资生活中使用AI、且已经在使用，因此设计了两种安全路径。第一条是自研AI助手Charlie，该高管认为它将成为许多客户在嘉信使用AI的主要方式，并整合了市场上最好的LLM能力。第二条是为市场上各类第三方代理建立进入公司的通道，通过所谓的MCP服务器实现，使公司能够控制身份验证流程以及代理可访问的内容范围。在该受控环境下，代理可以查看账户余额和进行研究，但不被允许转移资金。",
+      "detail_en": "A Schwab executive said the firm is blocking unauthorized agents, explicitly naming Muse as unauthorized. The core concern: if a client hands their password to Muse and lets it act on their behalf, neither the firm nor the client can control it, and if something goes wrong, liability is unclear. For the protection of both the client and the firm, Schwab is not allowing it. At the same time, the firm acknowledges clients want to use AI in their investing life and already do, so it is creating two safe pathways. The first is Charlie, its own AI assistant, which the executive expects will be the primary way many people use AI at Schwab and which leverages the best LLMs in the marketplace. The second is a pathway into the firm for the various third-party agents out there, via what is called an MCP server, allowing Schwab to control the authentication process and what those agents can access. In that controlled environment, agents can view account balances and do research, but will not be allowed to move money.",
+      "conclusion_zh": "对金融科技与券商AI化而言，关键信号是：金融机构倾向于以自研助手加受控MCP通道的方式接纳AI代理，而非开放账户权限，权限边界（可读不可转账）成为落地前提。",
+      "conclusion_en": "For fintech and the AI-ification of brokerages, the key signal is that financial institutions prefer to adopt AI agents through in-house assistants plus controlled MCP gateways rather than open account access, with permission boundaries (read but no money movement) as a precondition for adoption.",
+      "key_points": [
+        {
+          "zh": "嘉信理财正在封堵未授权的AI代理，Muse被明确列为未授权。",
+          "en": "Schwab is blocking unauthorized AI agents, with Muse explicitly named as unauthorized."
+        },
+        {
+          "zh": "封堵理由是密码共享模式下公司无法控制、客户无法控制，出问题后责任归属不明。",
+          "en": "The rationale is that under password sharing, neither the firm nor the client can control the agent, leaving liability unclear if something goes wrong."
+        },
+        {
+          "zh": "替代方案一：自研AI助手Charlie，整合市场上最好的LLM，预计成为客户在嘉信使用AI的主要方式。",
+          "en": "Pathway one: Charlie, Schwab's own AI assistant, leveraging the best LLMs in the marketplace and expected to be the primary way many clients use AI at Schwab."
+        },
+        {
+          "zh": "替代方案二：通过MCP服务器为第三方代理建立受控接入通道，由公司控制身份验证与可访问范围。",
+          "en": "Pathway two: a controlled gateway for third-party agents via an MCP server, with the firm controlling authentication and access scope."
+        },
+        {
+          "zh": "在受控通道下，代理可查看账户余额和进行研究，但不被允许转移资金。",
+          "en": "Under the controlled pathway, agents can view account balances and do research, but are not allowed to move money."
+        }
+      ],
+      "tags": [
+        "AI agents",
+        "brokerage",
+        "MCP",
+        "LLM access control",
+        "fintech"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fbYXfVtUePU",
+      "title": "Break the Playbook with Justin Lubell",
+      "title_zh": "Citadel全球股票主管谈选才、信念与协作",
+      "url": "https://www.youtube.com/watch?v=fbYXfVtUePU",
+      "published_at": "2026-10-16T16:50:27+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Citadel全球股票主管Justin Lubell在访谈中阐述其选人标准：热情、谦逊、可教、勤奋、适应力强，并强调\"智识信念\"优于\"情绪信念\"。他指出投资仍是\"深度人性化\"的业务，技术平台如同\"外骨骼\"，但无法替代优秀的选股能力；Citadel不追求观点多元化，而是追求最佳观点，并鼓励内部跨行业协作。",
+      "summary_en": "Justin Lubell, Head of Global Equities at Citadel, discusses his hiring criteria—passion, humility, coachability, work ethic, and adaptability—and emphasizes \"intellectual conviction\" over \"emotional conviction.\" He argues investing remains a \"deeply human\" business, with technology serving as an \"exoskeleton\" that cannot substitute for great stock picking. Citadel does not seek diversity of thought but the best thought, and encourages internal cross-sector collaboration.",
+      "detail_zh": "Citadel全球股票主管Justin Lubell在访谈中表示，Citadel寻找的是被长期验证为成功预测指标的品质：热情、谦逊、可教、极强的职业道德和适应力。他区分了\"智识信念\"与\"情绪信念\"，认为前者基于扎实研究和信息，后者则价值较低。在面试中，他刻意不重复提问，试图了解候选人是谁，并观察其在被意外问题难住时的反应。他强调投资是\"深度人性化\"的业务，分析师需要会见管理层、实地考察设施和渠道，技术平台和基础设施如同\"外骨骼\"，为有才华的人提供工具，但\"如果你不是伟大的选股者，我们帮不了太多\"。关于群体思维，他表示Citadel不担心人们意见一致，因为资本基础大，好主意可以持有更多仓位，\"如果三个人同意，没问题；两个人同意一个人反对，也没问题\"。协作方面，他举例称新冠期间汽车分析师通过内部半导体分析师了解芯片到货时间，以及GLP-1相关投资中医疗团队与消费团队的协作，公司鼓励但不强制协作。",
+      "detail_en": "Justin Lubell, Head of Global Equities at Citadel, said in an interview that Citadel looks for qualities proven over time to be the best predictors of success: passion, humility, coachability, a strong work ethic, and adaptability. He distinguished \"intellectual conviction\" from \"emotional conviction,\" arguing the former is grounded in research and information while the latter is less valuable. In interviews, he deliberately avoids repeating questions, seeks to understand who the candidate is, and observes how they handle being surprised. He stressed that investing is a \"deeply human\" business—analysts meet management teams, visit facilities and sites, and do channel work—with technology and infrastructure serving as an \"exoskeleton\" that provides tools, but \"if you're not a great stock picker, there's not so much we can do to help.\" On groupthink, he said Citadel does not worry if people agree, because with a large capital base, a great idea can be owned in larger size: \"if three people agree, that's fine; if two agree and one disagrees, that's fine too.\" On collaboration, he cited how during Covid an autos analyst worked with an in-house semiconductor analyst on chip timelines, and how GLP-1 antagonist investing involves collaboration between healthcare and consumer teams—encouraged but not forced.",
+      "conclusion_zh": "对投资者而言，Citadel的实践提示：在数据日益商品化的环境中，差异化优势来自人的判断力、智识信念与跨领域协作，而非单纯的技术或数据获取。",
+      "conclusion_en": "For investors, Citadel's approach suggests that as data becomes commoditized, differentiated advantage comes from human judgment, intellectual conviction, and cross-domain collaboration—not technology or data access alone.",
+      "key_points": [
+        {
+          "zh": "Citadel选人标准：热情、谦逊、可教、勤奋、适应力强，这些是长期成功的最佳预测指标。",
+          "en": "Citadel's hiring criteria: passion, humility, coachability, strong work ethic, and adaptability—the best predictors of long-term success."
+        },
+        {
+          "zh": "信念应基于智识而非情绪：有信念的人能展示其研究和信息依据。",
+          "en": "Conviction should be intellectual, not emotional: a convicted person can show the research and information behind their idea."
+        },
+        {
+          "zh": "投资仍是深度人性化的业务，技术平台如同\"外骨骼\"，但无法替代选股能力。",
+          "en": "Investing remains a deeply human business; technology is an \"exoskeleton\" but cannot replace stock-picking skill."
+        },
+        {
+          "zh": "Citadel不追求观点多元化，而是追求最佳观点；资本基础大，好主意可以持有更大仓位。",
+          "en": "Citadel does not seek diversity of thought but the best thought; with a large capital base, great ideas can be owned in larger size."
+        },
+        {
+          "zh": "内部跨行业协作（如汽车与半导体、医疗与消费）被鼓励但不强制。",
+          "en": "Internal cross-sector collaboration (e.g., autos and semis, healthcare and consumer) is encouraged but not forced."
+        }
+      ],
+      "tags": [
+        "Citadel",
+        "talent",
+        "conviction",
+        "collaboration",
+        "stock-picking"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:FNKloNiWMw0",
       "title": "Open Interest 10/16/2026",
@@ -5222,46 +5320,6 @@
         "earnings",
         "AI",
         "yields"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:S4TgPWNpHIk",
-      "title": "Autonomous Trucking Nears Commercial Reality | Thoughts on the Market",
-      "title_zh": "摩根士丹利：自动驾驶卡车从技术验证转向商业化落地",
-      "url": "https://www.youtube.com/watch?v=S4TgPWNpHIk",
-      "published_at": "2026-10-09T17:43:25+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "摩根士丹利北美货运运输分析师Ravi Shanker指出，自动驾驶卡车行业已历经多年技术验证，当前焦点转向将其推向市场，行业正处于关键转折点。",
-      "summary_en": "Morgan Stanley's North American Freight Transportation Analyst Ravi Shanker highlights that after years of proving the technology works, autonomous trucking is now focused on bringing it to market, marking a pivotal moment for the industry.",
-      "detail_zh": "摩根士丹利北美货运运输分析师Ravi Shanker就自动驾驶卡车行业发表观点。他指出，该行业此前多年一直在验证技术可行性，即证明自动驾驶卡车能够运作。如今，行业的关注重心已转向商业化落地，即如何将这项技术推向市场。Shanker将当前时点描述为该行业的一个关键转折时刻。原文未披露具体的市场规模、时间表、参与企业或财务预测等细节。",
-      "detail_en": "Ravi Shanker, Morgan Stanley's North American Freight Transportation Analyst, shared his views on the autonomous trucking industry. He noted that the sector has spent years proving the technology can work. Now, the focus has shifted to bringing it to market. Shanker described this as a pivotal moment for the industry. No specific market size, timeline, participating companies, or financial forecasts were disclosed in the source material.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "自动驾驶卡车已历经多年技术验证阶段",
-          "en": "Autonomous trucking has spent years proving it can work"
-        },
-        {
-          "zh": "当前行业焦点转向商业化落地与市场推广",
-          "en": "The focus is now on bringing it to market"
-        },
-        {
-          "zh": "摩根士丹利分析师Ravi Shanker认为行业正处于关键转折点",
-          "en": "Morgan Stanley analyst Ravi Shanker sees this as a pivotal moment for the industry"
-        }
-      ],
-      "tags": [
-        "autonomous-trucking",
-        "freight-transportation",
-        "commercialization"
       ],
       "tickers": [],
       "sentiment": "neutral"
