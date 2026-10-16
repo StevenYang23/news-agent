@@ -1,124 +1,126 @@
-# Daily Buy-side Insights
+# MarketIntel — US Stock News, Summarized
 
-每日抓取公开的买方研报、播客与视频，用 **DeepSeek** 生成中英双语的美股 insight 汇总，并部署为**公网静态网站**（GitHub Pages），随时随地可看、每日自动更新。
+A daily digest of public buy-side research, podcasts, and videos, summarized into bilingual (Chinese/English) US-equity insights by **DeepSeek**, and deployed as a public static site on **GitHub Pages** with hourly updates.
 
-## 截图
+## Screenshots
 
-![网站首页](docs/screenshot-1.png)
+![Home](docs/screenshot-1.png)
 
-![文章详情](docs/screenshot-2.png)
+![Article detail](docs/screenshot-2.png)
 
-## 核心规则
+## Features
 
-- **只保留近 7 天**的内容（滚动窗口，每次刷新自动清理更早的条目）
-- **只考虑美股相关**内容（LLM 判定，非美股自动过滤）
-- **新 → 旧**排序
-- **中英双语**输出（摘要 + 要点 + 详情）
-- **多主题分类**：每条 insight 可属于多个分类 `macro`（宏观/三大指数/利率）、`tech`（科技/AI/半导体）、`politics`（政治/地缘）、`other`；Bloomberg TV 额外叠加 `bbg-tv-news`
-- **实事求是**：摘要 skill 明确禁止编造数字/引述/代码/事件（见 `src/llm/skill.py`）
-- **详情视图**：网站点击任意卡片可展开更详细的内容
+- **7-day rolling window** — only the last 7 days of content are kept (older items are pruned on every run)
+- **Newest-first** ordering
+- **Bilingual** summaries, key points, details, and an investor **conclusion**
+- **Multi-category** tagging: `macro`, `tech`, `politics`, `volatility`, `other`; Bloomberg TV is exclusively `bbg-tv-news`
+- **Factual integrity** — the summarization skill forbids fabricating numbers, quotes, tickers, or events (see `src/llm/skill.py`)
+- **Detail view** — click any card to expand the full insight
 
-## 当前来源（13 个）
+## Sources (24)
 
-- **文字稿**：Wall Street Breakfast、Bond Vigilantes
-- **YouTube 字幕**：Bloomberg TV、Forward Guidance、DoubleLine、Morgan Stanley
-- **播客（转录）**：Odd Lots、Macro Voices、The Markets、The Bid、Credit Edge、Animal Spirits、The Memo by Howard Marks
+- **YouTube / podcasts (19)**: Bloomberg TV, SpotGamma, DoubleLine, Forward Guidance, Odd Lots, Patrick Boyle, Goldman Sachs, Trillions, Credit Edge, Ray Dalio, Animal Spirits, Morgan Stanley, The Memo (Howard Marks), BlackRock, Flirting with Models, CNBC, Real Vision, Excess Returns, The Big Take
+- **Text (4)**: Wall Street Breakfast, Bond Vigilantes, FT Unhedged, The Derivative
+- **PDF (1)**: Macro Voices
 
-## 架构
+YouTube captions are fetched via **TranscriptAPI** (with a monthly credit budget, a hard stop on `402`, and live-stream / short-clip handling).
+
+## Architecture
 
 ```
 News_Agent/
-├── config/sources.json          # 来源配置（type/kind/feed/active）
+├── config/sources.json          # source definitions (type/kind/feed/active)
 ├── src/
-│   ├── config.py                # 环境变量 + 来源加载
-│   ├── state.py                 # JSON 状态（site/insights.json 即数据+去重状态）
-│   ├── ingest/                  # 抓取：RSS / 网页 / 播客 / YouTube
-│   ├── llm/deepseek.py          # DeepSeek 双语摘要
-│   └── pipeline/daily.py        # 每日流水线编排
-├── site/                        # 可部署的静态站点
+│   ├── config.py                # env vars + source loading
+│   ├── state.py                 # JSON state (site/insights.json = data + dedup)
+│   ├── ingest/                  # fetching: RSS / web / podcast / YouTube
+│   ├── llm/deepseek.py          # DeepSeek bilingual summarization
+│   └── pipeline/daily.py        # pipeline orchestration
+├── site/                        # deployable static site
 │   ├── index.html / style.css / app.js
-│   └── insights.json            # 生成的数据（提交到 git，同时是去重状态）
+│   └── insights.json            # generated data (committed; also the dedup state)
 ├── scripts/
-│   ├── run_daily.py             # 跑一次刷新 → 更新 site/insights.json
-│   ├── serve.py                 # 本地预览（纯 stdlib，无依赖）
-│   └── register_task.ps1        # 本地 Windows 定时任务（可选）
-├── .github/workflows/daily.yml  # GitHub Actions：每日定时刷新 + 部署 Pages
+│   ├── run_daily.py             # run one refresh -> updates site/insights.json
+│   ├── serve.py                 # local preview (stdlib only)
+│   └── register_task.ps1        # optional local Windows scheduled task
+├── .github/workflows/daily.yml  # GitHub Actions: hourly refresh + Pages deploy
 └── requirements.txt
 ```
 
-**无服务器、无数据库**：数据就是 `site/insights.json` 一个文件，提交到 git 即持久化；前端直接读它渲染。本地和 GitHub Actions 用同一套代码。
+**No server, no database.** The data is a single `site/insights.json` file, committed to git for persistence; the frontend reads and renders it directly. The same code runs locally and in GitHub Actions.
 
-## 本地使用
+## Local usage
 
 ```powershell
-# 1. 环境 + 依赖
+# 1. env + deps
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
-# 2. 配置 key
-Copy-Item .env.example .env   # 填入 DEEPSEEK_API_KEY=sk-...
+# 2. configure keys
+Copy-Item .env.example .env   # fill in DEEPSEEK_API_KEY=sk-...
 
-# 3. 跑一次刷新（抓取 → 摘要 → 写 site/insights.json）
+# 3. run one refresh (fetch -> summarize -> write site/insights.json)
 python scripts\run_daily.py
 
-# 4. 本地预览
+# 4. local preview
 python scripts\serve.py        # http://127.0.0.1:8000
 ```
 
-## 部署到 GitHub Pages（公网）
+## Deploy to GitHub Pages
 
-### 1. 推代码到 GitHub
+### 1. Push the code
 
 ```powershell
 git init
 git add .
 git commit -m "initial"
-gh auth login                  # 浏览器登录一次
+gh auth login
 gh repo create news-agent --public --source=. --push
 ```
 
-### 2. 配置密钥与 Pages
+### 2. Configure secrets + Pages
 
 ```powershell
-# 把 DeepSeek key 存为 Actions secret
-gh secret set DEEPSEEK_API_KEY --body "sk-你的key"
+gh secret set DEEPSEEK_API_KEY --body "sk-your-key"
+gh secret set TRANSCRIPT_API_KEY --body "your-transcript-api-key"
 
-# 启用 Pages（Actions 方式部署）
 gh api --method POST repos/:owner/:repo/pages -f build_type=workflow
 ```
 
-> 把 `:owner`/`:repo` 换成你的 GitHub 用户名 / 仓库名。
+Replace `:owner`/`:repo` with your GitHub username / repo name.
 
-### 3. 触发第一次部署
+### 3. Trigger the first deploy
 
 ```powershell
 gh workflow run daily.yml
 ```
 
-之后每天 **22:30 UTC**（美股收盘后）自动刷新并部署；也可在 Actions 页面手动 `Run workflow`。
+The site URL is `https://<username>.github.io/news-agent/`.
 
-网站地址：`https://<你的用户名>.github.io/news-agent/`
+## How it works
 
-## 每日刷新原理
+The workflow runs **every hour**: checkout → install deps → `run_daily.py` (fetch the last 7 days → skip already-processed items → LLM bilingual summary → US-equity / econ-tech relevance check → prune old data → write `insights.json`) → commit data changes → deploy Pages.
 
-`daily.yml` 每次运行：拉取代码 → 装依赖 → `run_daily.py`（抓取近 7 天 → 过滤已处理的 → LLM 双语摘要 → 判定美股相关性 → 滚动删除旧数据 → 写回 `insights.json`）→ 提交数据变更 → 部署 Pages。
+When there is no new content, the pipeline skips persistence, so no spurious commit/deploy happens.
 
-## 转录
+## Transcription
 
-播客音频转录用 `faster-whisper`（已纳入 `requirements.txt`），默认 `small` 模型 + CPU + int8，可在 `src/ingest/transcribe.py` 调整。首次转录自动下载模型（约 460MB），CI 里已配置缓存。
+YouTube captions come from **TranscriptAPI** (paid, reliable from cloud IPs). Audio-only podcasts are transcribed locally with `faster-whisper` (see `src/ingest/transcribe.py`); `transcribe.py` includes a compat patch for the `av >= 19` `metadata_errors` removal.
 
-`transcribe.py` 内置兼容补丁：新版 `av`（≥19）移除了 `metadata_errors` 参数，代码会自动剥掉该参数，保证 faster-whisper 在新旧 av 上都能跑。
+## Environment variables
 
-## 环境变量
-
-| 变量 | 默认 | 说明 |
+| Variable | Default | Description |
 | --- | --- | --- |
-| `DEEPSEEK_API_KEY` | — | 必填 |
-| `DEEPSEEK_BASE_URL` | `https://api.deepseek.com` | OpenAI 兼容接口 |
-| `DEEPSEEK_MODEL` | `deepseek-chat` | 模型名 |
-| `DATA_DIR` | `data` | 音频缓存目录 |
+| `DEEPSEEK_API_KEY` | — | Required |
+| `DEEPSEEK_BASE_URL` | `https://api.deepseek.com` | OpenAI-compatible endpoint |
+| `DEEPSEEK_MODEL` | `deepseek-chat` | Model name |
+| `TRANSCRIPT_API_KEY` | — | TranscriptAPI key for YouTube captions |
+| `TRANSCRIPT_MONTHLY_BUDGET` | `1000` | Monthly transcript credit budget |
+| `MIN_TRANSCRIPT_DURATION` | `600` | Min duration (seconds) to fetch a transcript when over budget / duration-gated |
+| `USE_YOUTUBE_CAPTIONS` | `1` | `1` = fetch captions, `0` = description-only |
+| `DATA_DIR` | `data` | Local cache directory |
 
-## 免责声明
+## Disclaimer
 
-内容来自公开渠道，仅供研究参考，不构成投资建议。
+Content comes from public sources and is for research only — not investment advice.
