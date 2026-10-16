@@ -1,6 +1,318 @@
 {
-  "generated_at": "2026-10-16T20:15:46.227483+00:00",
+  "generated_at": "2026-10-16T21:14:12.586643+00:00",
   "insights": [
+    {
+      "guid": "yt:LPuPghRFu6s",
+      "title": "Tesla Showcases Long-Awaited Roadster With Aerial Tricks",
+      "title_zh": "特斯拉发布Roadster原型车，展示飞行跳跃特技",
+      "url": "https://www.youtube.com/watch?v=LPuPghRFu6s",
+      "published_at": "2026-10-16T20:41:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特斯拉与SpaceX合作开发了一款配备专用空气推进器的Roadster原型车，在展示活动中将其发射升空并跳过特斯拉其他电动车型。该车预计售价昂贵且约两年内不会投产，量产版本几乎不可能具备飞行功能。部分分析师和投资者认为，此举的真正目的可能并非汽车本身，而是为特斯拉与SpaceX的潜在合并造势。",
+      "summary_en": "Tesla, in collaboration with SpaceX, unveiled a Roadster prototype equipped with specialized air thrusters that launched it into the air and jumped over Tesla's other EV models during a showcase. The car is expected to be expensive and won't be produced for about two years, meaning the buying public almost certainly won't get a flying version. Some analysts and investors suggest the real purpose may have nothing to do with cars at all, but rather to build support for an eventual merger between Tesla and SpaceX.",
+      "detail_zh": "特斯拉终于发布了其长期推迟的Roadster电动跑车，并在展示活动中将车辆发射升空，这一特技引发广泛关注。该原型车由特斯拉与SpaceX合作开发，使用专用空气推进器将其发射到空中，其中一次跳跃越过了特斯拉其他电动车型阵容。新车预计上市时价格昂贵，且约两年内不会投产，这意味着购车公众几乎肯定买不到能飞的版本。那么这场特技的意义何在？它引发了人们的讨论。特斯拉的汽车业务已下滑数年，因此需要一些正面热度。但部分分析师和投资者认为，其真正目的可能与汽车毫无关系，而是为埃隆·马斯克旗下两大公司特斯拉与SpaceX的最终合并争取支持。",
+      "detail_en": "Tesla finally unveiled its long-delayed Roadster electric sports car, launching the vehicle into the sky in a showcase that drew widespread attention. The prototype was developed in collaboration with SpaceX and used specialized air thrusters to launch it into the air; in one instance, it jumped over Tesla's lineup of other EV models. The new car is expected to be expensive when it goes on sale and won't be produced for another two years or so, meaning the car-buying public almost certainly won't be able to buy a version that flies. So what was the point of the stunt? It got people talking. Tesla's auto business has been in decline for several years, so it could use some positive buzz. But the real purpose, according to some analysts and investors, may have nothing to do with cars at all—it could be to help build support for an eventual merger between Elon Musk's two biggest companies, Tesla and SpaceX.",
+      "conclusion_zh": "特斯拉Roadster飞行特技虽引发关注，但部分分析师和投资者认为其真正意图可能是为特斯拉与SpaceX的潜在合并造势，而非推动汽车销售。",
+      "conclusion_en": "While Tesla's Roadster flying stunt generated buzz, some analysts and investors believe its real intent may be to build support for a potential Tesla-SpaceX merger rather than to drive car sales.",
+      "key_points": [
+        {
+          "zh": "特斯拉发布长期推迟的Roadster电动跑车，与SpaceX合作开发，使用专用空气推进器将车辆发射升空。",
+          "en": "Tesla unveiled its long-delayed Roadster electric sports car, developed with SpaceX, using specialized air thrusters to launch it into the air."
+        },
+        {
+          "zh": "展示中该车跳过特斯拉其他电动车型阵容，引发广泛关注。",
+          "en": "During the showcase, the vehicle jumped over Tesla's lineup of other EV models, drawing widespread attention."
+        },
+        {
+          "zh": "新车预计售价昂贵，约两年内不会投产，购车公众几乎肯定买不到能飞的版本。",
+          "en": "The new car is expected to be expensive and won't be produced for about two years, meaning the buying public almost certainly won't get a flying version."
+        },
+        {
+          "zh": "特斯拉汽车业务已下滑数年，需要正面热度。",
+          "en": "Tesla's auto business has been in decline for several years and could use some positive buzz."
+        },
+        {
+          "zh": "部分分析师和投资者认为，此举真正目的可能是为特斯拉与SpaceX的最终合并争取支持。",
+          "en": "Some analysts and investors suggest the real purpose may be to help build support for an eventual merger between Tesla and SpaceX."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "SpaceX",
+        "Roadster",
+        "EV",
+        "merger"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:gVsVozzX4SY",
+      "title": "Power On: Exclusive News About Apple’s October Launch Event",
+      "title_zh": "苹果据称为影响者提供付费差旅参加发布会",
+      "url": "https://www.youtube.com/watch?v=gVsVozzX4SY",
+      "published_at": "2026-10-16T20:41:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据Power On播客独家确认，苹果为部分影响者提供付费酒店与商务舱差旅，前往参加其产品发布活动。苹果计划在洛杉矶为特定影响者举办为期两天的活动，包括与新任CEO John Turnus及高管的会面，意在借助影响者推广新款iPad和Mac。",
+      "summary_en": "According to exclusive confirmation on the Power On podcast, Apple offers influencers paid hotel and business-class travel to attend its launch events. Apple plans a two-day spectacle in LA for select influencers, including meetings with new CEO John Turnus and other executives, aimed at promoting new iPads and Macs.",
+      "detail_zh": "该播客指出，苹果的发布会正转向以创作者为核心。此前该节目曾讨论过苹果发布会上的大量影响者，以及苹果公关和营销向影响者倾斜的趋势。此次独家确认，苹果确实为影响者提供付费酒店和商务舱差旅参加发布活动。苹果计划在洛杉矶为特定影响者举办为期两天的活动，包括与新任CEO John Turnus及其他苹果高管的会面，以及27日晚间的晚宴。苹果希望影响者、创意人士、视频剪辑师、音乐专业人士等来宣传新款iPad和Mac。播客认为这并不意外，因为苹果多年来一直试图以这种方式定位Mac。",
+      "detail_en": "The podcast notes that Apple's events are becoming creator-focused. It previously discussed the many influencers at Apple events and Apple shifting PR and marketing toward them. Now it exclusively confirms that Apple does offer influencers paid hotel and business-class travel to attend launch events. Apple plans a two-day spectacle in LA for certain influencers, including meetings with new CEO John Turnus and other Apple executives, plus a dinner on the evening of the 27th. Apple wants influencers, creative types, video editors, and music specialists to play up the new iPads and Macs. The podcast says this is unsurprising, as Apple has tried to position the Mac this way for several years.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "苹果据称为影响者提供付费酒店和商务舱差旅参加发布会。",
+          "en": "Apple reportedly offers influencers paid hotel and business-class travel to attend launch events."
+        },
+        {
+          "zh": "苹果计划在洛杉矶为特定影响者举办为期两天的活动，包括与新任CEO John Turnus及高管的会面。",
+          "en": "Apple plans a two-day event in LA for select influencers, including meetings with new CEO John Turnus and executives."
+        },
+        {
+          "zh": "活动包括27日晚间的晚宴。",
+          "en": "The event includes a dinner on the evening of the 27th."
+        },
+        {
+          "zh": "苹果希望影响者、创意人士、视频剪辑师和音乐专业人士来宣传新款iPad和Mac。",
+          "en": "Apple wants influencers, creative types, video editors, and music specialists to promote new iPads and Macs."
+        },
+        {
+          "zh": "播客认为这并不意外，因为苹果多年来一直试图以这种方式定位Mac。",
+          "en": "The podcast says this is unsurprising, as Apple has tried to position the Mac this way for several years."
+        }
+      ],
+      "tags": [
+        "Apple",
+        "influencer marketing",
+        "product launch",
+        "iPad",
+        "Mac"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:s8bWry7_YI4",
+      "title": "Equity Broadening, Bull-Flattening and a One-Trick Pony",
+      "title_zh": "科技股回调拖累美股，价值与等权指数逆势上涨",
+      "url": "https://www.youtube.com/watch?v=s8bWry7_YI4",
+      "published_at": "2026-10-16T20:40:51+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "本周标普500下跌约2%，主要受科技板块下跌约7%拖累，CoreWeave债券承压引发AI基础设施投资担忧。与此同时，固定收益市场走强，美国综合债券指数上涨70个基点，收益率曲线呈现牛平走势。价值股和等权指数逆势上涨，显示分散配置在科技疲软期获得回报。",
+      "summary_en": "The S&P 500 fell about 2% this week, dragged down by a roughly 7% decline in the technology sector as CoreWeave bond stress raised concerns about the AI infrastructure buildout. Meanwhile, fixed income rallied, with the US Aggregate up 70 basis points and the yield curve bull-flattening. Value and equal-weighted indices rose, showing diversification was rewarded during tech weakness.",
+      "detail_zh": "截至2026年10月16日当周，标普500下跌约2%，科技板块下跌约7%，主要催化剂是CoreWeave——一家向主要超大规模云厂商出租算力的新型云服务商——其债券出现压力并引发股票抛售。分析师提醒，债券投资者不具备股票投资者的无限上行空间，投资AI信用债前需做好尽职调查。尽管大盘走弱，罗素1000价值指数上涨约1%，标普500等权指数上涨约0.5%，必需消费板块以约4.75%的涨幅领跑。固定收益方面，美国综合债券指数上涨70个基点，30年期美债收益率下行约15个基点，10年期下行约12个基点，2年/10年利差从45个基点收窄至35个基点。10年期收益率本周在约5.25%至5%之间波动，录制时约为5.11%。Kimmel指出，经济数据偏再通胀/鹰派，但国债先跌后涨，可能与CTA空头头寸被平仓及风险偏好回落有关，股债负相关性有所回归。",
+      "detail_en": "For the week ending October 16, 2026, the S&P 500 fell about 2%, with the technology sector down roughly 7%. The main catalyst was CoreWeave, a neo-cloud provider renting compute to major hyperscalers, whose bonds came under stress and triggered an equity selloff. The analyst noted bond investors lack the unlimited upside of equity investors and must do due diligence before investing in AI credits. Despite the broad decline, the Russell 1000 Value rose about 1% and the S&P 500 equal-weighted index gained about 0.5%, with consumer staples leading at roughly 4.75%. In fixed income, the US Aggregate rose 70 basis points, the 30-year Treasury yield fell about 15 basis points and the 10-year about 12 basis points, with the 2s/10s spread narrowing from 45 to 35 basis points. The 10-year traded between roughly 5.25% and 5% during the week, around 5.11% at recording. Kimmel noted that economic data was reflationary/hawkish, yet Treasuries reversed initial selloffs, possibly due to CTA short positioning unwinding and a risk-off bid, with the old-school negative stock-bond correlation returning.",
+      "conclusion_zh": "科技股回调与固定收益走强并存，分散配置在科技疲软期获得回报；投资者需警惕美股高度集中风险，并关注AI信用债的尽职调查。",
+      "conclusion_en": "Tech pullback alongside fixed income strength rewarded diversification; investors should be mindful of high US equity concentration risk and conduct due diligence on AI credits.",
+      "key_points": [
+        {
+          "zh": "标普500本周下跌约2%，科技板块下跌约7%，CoreWeave债券压力是主要催化剂。",
+          "en": "The S&P 500 fell about 2% this week, with tech down roughly 7%, driven by CoreWeave bond stress."
+        },
+        {
+          "zh": "罗素1000价值指数上涨约1%，标普500等权指数上涨约0.5%，必需消费板块领涨约4.75%。",
+          "en": "Russell 1000 Value rose about 1% and the S&P 500 equal-weighted index gained about 0.5%, with consumer staples leading at roughly 4.75%."
+        },
+        {
+          "zh": "美国综合债券指数上涨70个基点，收益率曲线牛平，2年/10年利差从45个基点收窄至35个基点。",
+          "en": "The US Aggregate rose 70 basis points, the yield curve bull-flattened, and the 2s/10s spread narrowed from 45 to 35 basis points."
+        },
+        {
+          "zh": "经济数据偏再通胀/鹰派，但国债先跌后涨，可能与CTA空头平仓及风险偏好回落有关。",
+          "en": "Economic data was reflationary/hawkish, but Treasuries reversed initial selloffs, possibly due to CTA short unwinding and a risk-off bid."
+        },
+        {
+          "zh": "市场集中度风险突出：第三季度标普500总回报仅由三只股票贡献，仅不到45%的成分股高于200日均线。",
+          "en": "Market concentration risk is notable: Q3 S&P 500 total returns were limited to three stocks, and less than 45% of constituents were above their 200-day moving average."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "tech selloff",
+        "fixed income",
+        "market breadth",
+        "CoreWeave"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:2POoEetH_lU",
+      "title": "Coreweave Slides 25% for the Week as AI Credit Concerns Grow | Closing Bell",
+      "title_zh": "美股全线收跌：纳指100周跌超5.5%，半导体与银行股创多年最长连跌",
+      "url": "https://www.youtube.com/watch?v=2POoEetH_lU",
+      "published_at": "2026-10-16T20:26:37+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股主要指数当日集体走低，纳指100跌约2.5%，本周累计跌超5.5%，为2025年4月以来最大单周跌幅。半导体指数（SOX）连续第八个交易日下跌，创2008年以来最长连跌；KBW银行指数创2006年以来最长连跌。能源与国防股逆势走强，油价当日涨超3.5%。",
+      "summary_en": "Major U.S. indices closed lower, with the Nasdaq 100 down about 2.5% on the day and more than 5.5% for the week—its biggest weekly decline since April 2025. The SOX fell for an eighth straight session, its longest losing streak since 2008, while the KBW Bank index posted its longest losing streak since 2006. Energy and defense names outperformed as oil prices rose more than 3.5%.",
+      "detail_zh": "当日收盘，道指跌约180点（约0.4%），标普500跌约85点（1.1%），纳斯达克综合指数与纳斯达克100指数均跌超2%，其中纳指100跌2.5%，本周累计跌幅超5.5%，为2025年4月以来最大单周跌幅。罗素2000跌约46点（1.7%）。标普500成分股涨跌家数接近均衡（上涨250家、下跌253家），但跌幅高度集中于大型科技股，Alphabet与Meta领跌。半导体指数（SOX）连续第八个交易日下跌，为2008年以来最长连跌；KBW银行指数创2006年以来最长连跌。能源与公用事业板块领涨，油价（布伦特与WTI）当日均涨超3.5%，盘中一度因乌克兰对能源资产袭击升级及国会可能阻止俄罗斯柴油释放的担忧而急升。个股方面，Alcoa涨约2.5%，因三季度调整后盈利超预期，受铝产量与价格上升推动，但年内仍跌约20%；埃克森美孚涨约2.5%，初步业绩显示炼油利润率上升贡献约54亿美元，分析师预期其三季度炼油利润约78亿美元、或创纪录，但部分被低油价及与货物相关的衍生品头寸25亿美元时点效应冲击所抵消，该股年内涨50%；可口可乐涨约2%并创盘中纪录，因肯德基宣布自2027年1月起将其美国饮料合作从百事可乐转至可口可乐。Core Scientific当日跌12%，本周累计跌25%，其债券违约保护成本升至纪录盘中高位，互换市场定价未来五年违约概率超60%。特斯拉当日收跌且跌幅超过主要指数，SpaceX股价亦下跌，投资者对相关消息反应平淡。",
+      "detail_en": "At the close, the Dow fell about 180 points (~0.4%), the S&P 500 dropped about 85 points (1.1%), and both the Nasdaq Composite and Nasdaq 100 fell more than 2%, with the NDX down 2.5% and more than 5.5% for the week—its biggest weekly decline since April 2025. The Russell 2000 lost about 46 points (1.7%). S&P 500 winners and losers were nearly evenly split (250 up, 253 down), but declines were heavily concentrated in mega-cap tech, with Alphabet and Meta leading the drop. The SOX fell for an eighth straight session, its longest losing streak since 2008, while the KBW Bank index posted its longest losing streak since 2006. Energy and utilities led gainers, with Brent and WTI each up more than 3.5% on the day, spiking midday on concerns over re-escalation of strikes on energy assets by Ukraine and a potential congressional block of Russian diesel release. Single names: Alcoa rose ~2.5% after Q3 adjusted earnings beat estimates on higher aluminum production and prices, though still down ~20% YTD; ExxonMobil rose ~2.5% after preliminary results showed higher refining margins adding about $5.4 billion, with analysts expecting Q3 refining earnings of about $7.8 billion—potentially a record—partly offset by lower oil prices and a $2.5 billion hit from timing effects on derivative positions linked to cargoes, with the stock up 50% YTD; Coca-Cola rose ~2% and hit a record intraday after KFC said it will transition its U.S. beverage partnership to Coca-Cola from PepsiCo starting January 2027. Core Scientific fell 12% on the day, bringing its weekly selloff to 25%, with the cost of protecting its bonds against default rising to the highest intraday level on record and swaps pricing a more than 60% chance of default within five years. Tesla closed lower, falling more than the major indices, and SpaceX shares also declined, with investor reaction described as tepid.",
+      "conclusion_zh": "市场广度尚可但跌幅高度集中于大型科技股，半导体与银行板块的多年最长连跌显示资金正在撤离前期领涨领域；下周Meta、Netflix、IBM、Apple等财报或成为情绪能否修复的关键。",
+      "conclusion_en": "Breadth was not disastrous, but the selloff is heavily concentrated in mega-cap tech, and multi-year losing streaks in semis and banks suggest rotation away from prior leaders; next week's earnings from Meta, Netflix, IBM and Apple could be key to whether sentiment recovers.",
+      "key_points": [
+        {
+          "zh": "纳指100当日跌2.5%，本周跌超5.5%，为2025年4月以来最大单周跌幅；标普500跌1.1%，道指跌0.4%。",
+          "en": "Nasdaq 100 fell 2.5% on the day and over 5.5% for the week—its biggest weekly decline since April 2025; S&P 500 -1.1%, Dow -0.4%."
+        },
+        {
+          "zh": "半导体指数（SOX）连续第八日下跌，创2008年以来最长连跌；KBW银行指数创2006年以来最长连跌。",
+          "en": "SOX fell for an eighth straight session, its longest losing streak since 2008; KBW Bank index posted its longest losing streak since 2006."
+        },
+        {
+          "zh": "标普500涨跌家数接近均衡（250涨/253跌），但跌幅集中于大型科技股，Alphabet与Meta领跌。",
+          "en": "S&P 500 breadth was nearly even (250 up / 253 down), but declines were concentrated in mega-cap tech, led by Alphabet and Meta."
+        },
+        {
+          "zh": "能源与国防股逆势走强，布伦特与WTI油价当日均涨超3.5%，受乌克兰袭击能源资产及国会可能阻止俄罗斯柴油释放的担忧推动。",
+          "en": "Energy and defense names outperformed as Brent and WTI each rose more than 3.5%, driven by concerns over Ukraine strikes on energy assets and a potential congressional block of Russian diesel release."
+        },
+        {
+          "zh": "个股：埃克森美孚涨2.5%（炼油利润率上升贡献约54亿美元，年内涨50%）；可口可乐涨2%创纪录（肯德基2027年起转投可口可乐）；Core Scientific跌12%，本周累跌25%，五年内违约概率定价超60%。",
+          "en": "Single names: ExxonMobil +2.5% (refining margins added ~$5.4B, up 50% YTD); Coca-Cola +2% to a record (KFC switching to Coca-Cola from 2027); Core Scientific -12%, -25% for the week, with >60% five-year default probability priced in."
+        }
+      ],
+      "tags": [
+        "nasdaq",
+        "semiconductors",
+        "banks",
+        "oil",
+        "earnings"
+      ],
+      "tickers": [
+        "META",
+        "GOOGL",
+        "TSLA",
+        "XOM",
+        "KO",
+        "PEP",
+        "AA",
+        "NFLX",
+        "IBM",
+        "AAPL"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:mkMTTZNDzlU",
+      "title": "Trump Press Secretary Zacharia Out",
+      "title_zh": "芯片股创2008年以来最长连跌，特朗普赴佐治亚助选中期选举",
+      "url": "https://www.youtube.com/watch?v=mkMTTZNDzlU",
+      "published_at": "2026-10-16T20:11:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股周五全线下跌，费城半导体指数跌2.1%，芯片股连续第八日走低，创2008年以来最长连跌纪录；英伟达、博通、美光等个股普跌。与此同时，特朗普赴佐治亚州为共和党参议员候选人Mike Collins助选，距离中期选举仅剩18天。",
+      "summary_en": "U.S. equities fell broadly on Friday, with the Philadelphia Semiconductor Index down 2.1% as chip stocks notched their eighth straight decline — the longest losing streak since 2008. Nvidia, Broadcom and Micron all traded lower. Meanwhile, President Trump traveled to Georgia to campaign for Republican Senate nominee Mike Collins with just 18 days until the midterms.",
+      "detail_zh": "美股周五全线走低，标普500跌0.8%，道指跌0.2%，纳斯达克跌1.6%，纳斯达克100跌1.9%，罗素2000小盘股指数跌1.3%。费城半导体指数（SOX）下跌2.1%，芯片股连续第八个交易日下跌，为2008年以来最长连跌。个股方面，英伟达跌0.5%，博通跌3.1%，美光跌约3.7%。能源板块逆势走强，WTI原油涨3%逼近每桶100美元，布伦特原油涨3.3%至109.39美元。债市方面，2年期美债收益率报4.76%，5年期4.92%，10年期5.11%，30年期5.44%。黄金跌0.3%至4159美元/盎司。政治方面，特朗普启程前往佐治亚州Dalton举行集会，为共和党参议员候选人Mike Collins助选，Collins在民调与资金面上均面临民主党现任参议员Jon Ossoff的强劲挑战。此次行程因一名电视记者被禁止登上专机，随行媒体池缺少常规电视报道。特朗普还就乌克兰Starlink服务放缓问题回应记者，称并非他下令限制，并表示服务似乎已恢复。",
+      "detail_en": "U.S. equities closed broadly lower on Friday: the S&P 500 fell 0.8%, the Dow industrials 0.2%, the Nasdaq 1.6%, the Nasdaq 100 1.9%, and the Russell 2000 small-cap index 1.3%. The Philadelphia Semiconductor Index (SOX) dropped 2.1%, marking an eighth consecutive session of declines — the longest losing streak since 2008. Among individual chip names, Nvidia fell 0.5%, Broadcom 3.1%, and Micron about 3.7%. Energy bucked the trend, with WTI crude up 3% approaching $100 a barrel and Brent up 3.3% at $109.39. In rates, the 2-year Treasury yield stood at 4.76%, the 5-year at 4.92%, the 10-year at 5.11%, and the 30-year at 5.44%. Gold slipped 0.3% to $4,159/oz. On the political front, President Trump departed for Dalton, Georgia, to rally for Republican Senate nominee Mike Collins, who faces a tough race against Democratic incumbent Jon Ossoff in both polling and fundraising. The trip lacked the usual TV press pool after one member was barred from the plane. Trump also told reporters he did not order any limitations on Ukraine's Starlink service and said it appeared to be back up.",
+      "conclusion_zh": "芯片股创2008年以来最长连跌，叠加AI相关担忧，半导体板块短期承压值得密切关注；能源走强与美债收益率高企进一步压制风险偏好。",
+      "conclusion_en": "Chip stocks' longest losing streak since 2008, coupled with AI-related concerns, warrants close attention as semiconductor weakness persists; rising energy prices and elevated Treasury yields add further pressure on risk appetite.",
+      "key_points": [
+        {
+          "zh": "费城半导体指数跌2.1%，芯片股连续第八日下跌，创2008年以来最长连跌纪录。",
+          "en": "The Philadelphia Semiconductor Index fell 2.1%, with chip stocks declining for an eighth straight session — the longest losing streak since 2008."
+        },
+        {
+          "zh": "美股全线走低：标普500跌0.8%，纳斯达克跌1.6%，罗素2000跌1.3%；能源逆势上涨，WTI原油涨3%逼近100美元。",
+          "en": "U.S. equities fell broadly: S&P 500 -0.8%, Nasdaq -1.6%, Russell 2000 -1.3%; energy rallied with WTI up 3% approaching $100."
+        },
+        {
+          "zh": "个股方面，英伟达跌0.5%，博通跌3.1%，美光跌约3.7%。",
+          "en": "Among chip names, Nvidia fell 0.5%, Broadcom 3.1%, and Micron about 3.7%."
+        },
+        {
+          "zh": "特朗普赴佐治亚州为共和党参议员候选人Mike Collins助选，距中期选举仅18天，Collins在民调与资金面上均落后于民主党现任参议员Jon Ossoff。",
+          "en": "Trump traveled to Georgia to campaign for Republican Senate nominee Mike Collins with 18 days until the midterms; Collins trails Democratic incumbent Jon Ossoff in both polling and fundraising."
+        },
+        {
+          "zh": "特朗普称未下令限制乌克兰Starlink服务，并表示服务似乎已恢复。",
+          "en": "Trump said he did not order any limitations on Ukraine's Starlink service and that it appeared to be back up."
+        }
+      ],
+      "tags": [
+        "semiconductors",
+        "midterms",
+        "oil",
+        "treasuries",
+        "AI"
+      ],
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MU"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:YZqAWT3MBFc",
+      "title": "Blowback Against Data Centers Becomes Top 2026 Midterm Election Issue",
+      "title_zh": "数据中心反对声浪席卷中期选举，逾300地实施建设禁令",
+      "url": "https://www.youtube.com/watch?v=YZqAWT3MBFc",
+      "published_at": "2026-10-16T20:04:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国中期选举中，反对数据中心成为跨越党派分歧的少数共识议题之一。目前已有超过300个地方对数据中心实施建设禁令，9月民调显示61%选民反对数据中心建设，至少35项相关措施进入投票程序。达拉斯联储测算，现有数据中心已推高全国平均批发电价3%至5%。",
+      "summary_en": "Opposition to data centers has become one of the few issues bridging America's partisan divide in the midterm elections. More than 300 localities have imposed construction moratoriums, a September poll found 61% of voters oppose data center construction, and at least 35 data center-related measures are on the ballot. The Dallas Fed finds existing data centers have pushed average wholesale electricity costs 3% to 5% higher nationwide.",
+      "detail_zh": "反对数据中心已成为美国中期选举中少数能弥合党派分歧的议题。统计显示，目前已有超过300个地方对数据中心实施建设禁令，部分州实施禁令，部分州则积极引入，但给周边州带来问题。弗吉尼亚州民主党众议员Suhas Subramaniam呼吁制定更全国性、更整体的战略。两党议员都在努力应对能源成本上升、环境风险及对所在社区影响的担忧。尽管支持者认为数据中心意味着就业、收入和更低税收，但9月民调显示61%选民反对数据中心建设，至少35项相关措施（包括全面禁令、分区限制、能源使用和税收的公投）正在投票中。北弗吉尼亚州数据中心聚集区（包括Loudoun County，已有233个设施建成或在建）正推进一项措施，拟暂停新数据中心审查最长12个月，尽管该建设为县带来17,000个就业岗位，并预计下一财年净税收13亿美元。俄亥俄州、密歇根州和得克萨斯州的关键参议院席位竞选被该议题主导，《华盛顿邮报》分析发现该议题已渗入全国近40%的竞选。达拉斯联储发现现有数据中心已推高全国平均批发电价3%至5%。白宫和大型科技公司承诺确保消费者不受影响。EPA副幕僚长认为数据中心开发是地方问题，联邦政府将作为地方、州和部落伙伴的全面资源，若社区想禁止或缓解数据中心，那是他们的决定，但这些设施会建在其他地方。政府强调需要立即建设数据中心以与中国竞争，特朗普总统表示美国必须采取必要措施保持领先。AI支出热潮推动股市今年创下历史新高，标普500指数有望连续第九天上涨。官员常指出AI将提高生产率并长期提振整体经济，AI支出热潮带来1个百分点的增长。最终由美国公众决定这些论点是否足以抵消他们对本地社区建设数据中心的担忧。",
+      "detail_en": "Opposition to data centers has become one of the few issues bridging America's partisan divide in the midterm elections. Statistics show more than 300 localities have imposed construction moratoriums on data centers; some states are doing moratoriums, while others are ushering them in, causing problems for surrounding states. Democratic Congressman from Virginia Suhas Subramaniam called for a more national and holistic strategy. Lawmakers on both sides of the aisle are working to contain fallout over concerns with higher energy costs, environmental risks, and impact on host communities. While supporters argue data centers mean jobs, income, and lower taxes, a September poll found 61% of voters oppose data center construction, and at least 35 data center-related measures—including referendums on full bans, zoning restrictions, energy use, and taxes—are being decided. Northern Virginia's data center hub, including Loudoun County where 233 facilities have been built or are under construction, is advancing a measure to halt review of new data centers for up to 12 months, despite the buildout generating 17,000 jobs for the county and netting a projected $1.3 billion in tax revenue for the next fiscal year. Two races for top Senate seats in Ohio, Michigan, and Texas are being dominated by the topic, and a Washington Post analysis finds the issue has been injected into nearly 40% of contests nationwide. The Dallas Fed finds existing data centers have pushed average wholesale electricity costs 3% to 5% higher nationwide. The White House and Big Tech have pledged to ensure consumers don't get hit. The EPA's deputy chief of staff argues data center development is a local issue, with the federal government serving as a full resource to local, state, and tribal partners; if a community wants to prohibit or mitigate data centers, that is their decision, but these facilities will be placed elsewhere. The administration argues the U.S. must build data centers right now to compete with China, with President Trump saying the U.S. must do what it takes to stay ahead. The AI spending boom is propelling a massive spending boom, sending stocks to record highs this year, with the S&P reaching for a ninth straight day of gains. Officials point to projections AI will increase productivity and lift the broader economy long term, with one percentage point of growth coming from the AI spending boom. Ultimately, the American public will decide whether these arguments offset concerns about having data centers in their local communities.",
+      "conclusion_zh": "数据中心建设的地方阻力正成为中期选举的重要议题，可能影响AI基础设施的扩张节奏，但白宫与科技巨头强调建设势在必行，AI支出热潮仍是市场关键支撑。",
+      "conclusion_en": "Local opposition to data centers is becoming a key midterm election issue that could affect the pace of AI infrastructure expansion, but the White House and Big Tech insist the buildout is inevitable, and the AI spending boom remains a key market support.",
+      "key_points": [
+        {
+          "zh": "超过300个地方已对数据中心实施建设禁令，至少35项相关措施进入投票程序。",
+          "en": "More than 300 localities have imposed data center construction moratoriums, with at least 35 related measures on the ballot."
+        },
+        {
+          "zh": "9月民调显示61%选民反对数据中心建设，两党议员均面临压力。",
+          "en": "A September poll found 61% of voters oppose data center construction, pressuring lawmakers on both sides."
+        },
+        {
+          "zh": "达拉斯联储发现现有数据中心已推高全国平均批发电价3%至5%。",
+          "en": "The Dallas Fed finds existing data centers have pushed average wholesale electricity costs 3% to 5% higher nationwide."
+        },
+        {
+          "zh": "北弗吉尼亚州Loudoun County已有233个设施建成或在建，正推进暂停新数据中心审查最长12个月。",
+          "en": "Loudoun County in Northern Virginia, with 233 facilities built or under construction, is advancing a measure to halt new data center reviews for up to 12 months."
+        },
+        {
+          "zh": "AI支出热潮推动股市创历史新高，标普500指数有望连续第九天上涨，官员称AI支出带来1个百分点增长。",
+          "en": "The AI spending boom is sending stocks to record highs, with the S&P 500 reaching for a ninth straight day of gains; officials say AI spending contributes one percentage point of growth."
+        }
+      ],
+      "tags": [
+        "data centers",
+        "midterm elections",
+        "AI infrastructure",
+        "energy costs",
+        "regulation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:ts_mPvLtsoQ",
       "title": "US Consumer Is 'Roughed Up,' But Spending, Porcelli Says",
