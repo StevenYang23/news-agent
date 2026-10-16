@@ -10,9 +10,6 @@
       "source_name": "Bloomberg TV",
       "source_kind": "video",
       "categories": [
-        "macro",
-        "tech",
-        "politics",
         "bbg-tv-news"
       ],
       "summary_zh": "芯片股在英伟达高管表态后反弹，KOSPI涨3%，科技板块本周承压后周五小幅回升。美联储主席沃什在曼谷讲话未释放鹰派信号，10月加息预期从30%降至17%，债券收益率下行、股市小幅走高。欧盟领导人要求委员会研究极端情况下可切断中国进入单一市场的贸易工具，德国立场转变值得关注。",
@@ -62,9 +59,6 @@
       "source_name": "Bloomberg TV",
       "source_kind": "video",
       "categories": [
-        "macro",
-        "tech",
-        "volatility",
         "bbg-tv-news"
       ],
       "summary_zh": "美联储主席沃什在IMF会议上未对货币政策给出前瞻指引，市场将10月加息概率从约27%下调至15%或更低，美债收益率小幅走低、曲线略趋陡。亚洲科技股反弹，中国当局出手支撑股市；印尼股市因MSCI可能将其降级而创28年最差单日表现。",
@@ -233,8 +227,6 @@
       "source_name": "Bloomberg TV",
       "source_kind": "video",
       "categories": [
-        "macro",
-        "tech",
         "bbg-tv-news"
       ],
       "summary_zh": "美联储主席沃什在曼谷IMF会议讲话中未对高于预期的CPI和PPI通胀数据作出回应，也未释放加息紧迫信号，交易员因此下调了对本月加息的押注。一位首席投资官认为沃什不愿在中期选举期间加息，但预计今年至少还有两次加息，并指出AI交易与美国消费者是未来六个月市场的核心驱动力。",
@@ -479,8 +471,6 @@
       "source_name": "Bloomberg TV",
       "source_kind": "video",
       "categories": [
-        "tech",
-        "macro",
         "bbg-tv-news"
       ],
       "summary_zh": "亚洲股市小幅反弹，但市场对AI交易的波动是否结束仍存疑虑。分析师指出，市场已不再只看资本开支周期，而是更关注融资环节以及资本开支循环之外的外部需求。美国CPI与PPI数据偏热，但美联储主席Walsh未表现鹰派，市场对10月加息的预期从约25%降至约15%。",
@@ -530,8 +520,6 @@
       "source_name": "Bloomberg TV",
       "source_kind": "video",
       "categories": [
-        "tech",
-        "macro",
         "bbg-tv-news"
       ],
       "summary_zh": "博通CEO指出当前市场存在投机行为、缺乏可见性，投资者对AI相关资本开支能否带来回报的担忧加剧。分析师认为AI交易面临三个关键问题——市场规模、经济模型与护城河，短期内难以得到令人信服的答案，而资本开支加速放缓正引发警惕。",
@@ -587,9 +575,6 @@
       "source_name": "Bloomberg TV",
       "source_kind": "video",
       "categories": [
-        "macro",
-        "tech",
-        "volatility",
         "bbg-tv-news"
       ],
       "summary_zh": "在IMF曼谷会议上，美联储官员沃什未就10月与12月利率决定给出前瞻指引，重申价格稳定是核心使命，并提及AI与11月16日的美联储工作组。市场在CPI数据偏热后已定价到明年3月前两次加息，BNP策略师认为沃什表态略偏鹰派，10月会议结果可能接近。",
@@ -639,9 +624,6 @@
       "source_name": "Bloomberg TV",
       "source_kind": "video",
       "categories": [
-        "macro",
-        "tech",
-        "volatility",
         "bbg-tv-news"
       ],
       "summary_zh": "全球股市在芯片股抛售后反弹，MSCI亚太指数涨1.7%，但本周仍跌3%。美联储主席沃什（Kevin Warsh）关于AI利好美国经济的言论提振市场，10月加息概率从25%降至15%。CoreWeave的债务融资问题引发AI基础设施融资风险的担忧，信用违约互换成本本周大幅上升。",
