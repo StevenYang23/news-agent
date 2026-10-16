@@ -1,6 +1,98 @@
 {
-  "generated_at": "2026-10-16T16:17:16.938630+00:00",
+  "generated_at": "2026-10-16T17:13:08.814328+00:00",
   "insights": [
+    {
+      "guid": "yt:FNKloNiWMw0",
+      "title": "Open Interest 10/16/2026",
+      "title_zh": "沃什对利率保持沉默，特斯拉Roadster亮相，CoreWeave承压",
+      "url": "https://www.youtube.com/watch?v=FNKloNiWMw0",
+      "published_at": "2026-10-16T16:48:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储主席沃什在曼谷讲话中拒绝预判年内剩余会议的政策路径，市场解读为10月不会加息，本周三市场对加息的定价随即消退。特斯拉发布新一代Roadster，搭载与SpaceX工程师合作开发的推进器，股价上涨3%，但分析师质疑其量产前景及对基本面的意义。CoreWeave因数据中心债务策略担忧再度下跌逾5%，其债券收益率一度高达50%。",
+      "summary_en": "Fed Chair Kevin Warsh declined to prejudge the path of rates at remaining meetings this year, fueling bets the Fed will stay on hold this month; markets had priced in a Fed move on Wednesday that then faded. Tesla unveiled its next-generation Roadster with thrusters developed in partnership with SpaceX engineers, sending shares up 3%, though analysts questioned whether it will reach production and its relevance to the bottom line. CoreWeave fell more than 5% again amid concerns over its data center debt strategy, with yields as high as 50% on its bonds.",
+      "detail_zh": "美联储主席凯文·沃什在曼谷表示，美联储已明确将实现价格稳定，并在约一个月前移除了一剂宽松，但他不会预判年内剩余会议的行动，称\"这是美联储的新篇章，我们不再从事那项业务\"。彭博记者Michael McKee指出，公开市场委员会副主席与理事会副主席均表示不认为需要急于加息，这向市场释放了10月不会加息的信号，沃什的讲话未对此作出反驳；本周三市场一度定价美联储将行动，随后又撤回，因CPI显示通胀上升，纳斯达克下跌，资金转向债券避险。特斯拉发布新一代Roadster，配备与SpaceX工程师合作开发的推进器，股价上涨3%，摩根大通分析师称其获得\"火箭升级\"，体现深度合作。彭博管理编辑Craig Trudell认为该产品\"几乎完全不实用\"，并质疑其能否真正上市——九年前展示的第二代Roadster至今未落地，此次计划2028年才投产；他认为这更多是展示特斯拉与SpaceX日益紧密的关系，并为马斯克推动两家公司合并提供理由，但中国业务可能成为合并的障碍。Trudell还指出，Roadster与马斯克长期宣扬的\"未来是自动驾驶、只需Cybercab\"的叙事存在矛盾，对特斯拉利润贡献不大。CoreWeave在经历一个多月来最佳单日表现后再度下跌逾5%，本周股价剧烈波动，源于市场对其数据中心债务策略的担忧，其债券收益率一度高达50%。Mandeep Singh表示，在Anthropic IPO之后，市场关注前沿实验室的增长情况，其增速明显放缓；开放权重模型正在抢占份额，且更多部署在超大规模云或非本地环境，而非新兴云厂商，这可能对CoreWeave等公司的基本面构成压力。此外，台湾经济事务主管部门负责人表示，台湾计划将人工智能服务和尖端半导体列入管制清单，目前这些项目尚未在清单上。",
+      "detail_en": "Fed Chair Kevin Warsh said in Bangkok that the Fed has made clear it will deliver price stability and removed a dose of accommodation about a month ago, but he does not prejudge meetings or say now what he might do at the remaining meetings this year, calling it \"a new chapter at the Fed\" and saying \"we are not in that business anymore.\" Bloomberg's Michael McKee noted that both the vice chair of the Open Market Committee and the vice chair of the Board of Governors said they don't think rates need to be raised in a hurry, signaling no October hike, and Warsh did nothing to disabuse that view; on Wednesday markets had priced in a Fed move and then abruptly reversed as CPI showed inflation up and the Nasdaq fell, with a haven trade into bonds. Tesla unveiled its next-generation Roadster with thrusters developed in partnership with SpaceX engineers, sending shares up 3%; a J.P. Morgan analyst called it a rocket upgrade showcasing deep collaboration. Bloomberg Managing Editor Craig Trudell called it \"almost entirely impractical\" and questioned whether it will actually come to market—a second-generation Roadster shown nine years ago never came to pass, and this one is only supposed to go into production in 2028. He said it was as much a demonstration of how close Tesla and SpaceX are getting and more fodder for Musk trying to justify combining the two, though China could be a stumbling block given Tesla's huge presence there and SpaceX's Starlink. Trudell also noted a contradiction with Musk's long-running narrative that the future is self-driving and only the Cybercab is needed, and said the Roadster is not very important to Tesla's bottom line. CoreWeave fell more than 5% again after its best day in over a month, capping a roller-coaster week driven by fears over its data center debt strategy, with yields as high as 50% on its bonds. Mandeep Singh said that in the wake of the Anthropic IPO everyone is fixated on frontier labs' growth rates, which are clearly decelerating; open-weight models are taking share and are likely being deployed at hyperscalers or non-premise rather than neo-clouds, which may have a bearing on fundamentals for a company like CoreWeave. Separately, Taiwan's minister of economic affairs indicated Taiwan plans to add AI services and cutting-edge semiconductors to a list of controlled items, where they are not currently listed.",
+      "conclusion_zh": "市场对美联储10月按兵不动的预期升温，短期利率路径的不确定性下降；AI板块内部，前沿实验室增速放缓与开放权重模型的分流值得关注，可能对新兴云厂商构成压力。",
+      "conclusion_en": "Expectations that the Fed will stay on hold in October are rising, reducing near-term rate-path uncertainty; within AI, decelerating frontier-lab growth and share gains by open-weight models warrant attention and could pressure neo-clouds.",
+      "key_points": [
+        {
+          "zh": "沃什拒绝预判年内剩余会议的政策路径，市场解读为10月不会加息，本周三一度定价的加息预期随之消退。",
+          "en": "Warsh declined to prejudge the path for rates at remaining meetings this year, fueling bets the Fed will stay on hold this month; a Fed move priced in on Wednesday faded."
+        },
+        {
+          "zh": "特斯拉发布新一代Roadster，配备与SpaceX工程师合作开发的推进器，股价上涨3%，摩根大通分析师称其获得\"火箭升级\"。",
+          "en": "Tesla unveiled its next-generation Roadster with thrusters developed with SpaceX engineers, sending shares up 3%; a J.P. Morgan analyst called it a rocket upgrade."
+        },
+        {
+          "zh": "彭博管理编辑Craig Trudell质疑Roadster能否量产（计划2028年投产），认为其更多是展示特斯拉与SpaceX的紧密关系，并为合并提供理由，但中国业务可能是障碍。",
+          "en": "Bloomberg Managing Editor Craig Trudell questioned whether the Roadster will reach production (planned for 2028), seeing it as a demonstration of Tesla-SpaceX ties and fodder for a combination, with China a potential stumbling block."
+        },
+        {
+          "zh": "CoreWeave再度下跌逾5%，本周股价剧烈波动，源于对其数据中心债务策略的担忧，其债券收益率一度高达50%。",
+          "en": "CoreWeave fell more than 5% again amid a roller-coaster week driven by fears over its data center debt strategy, with yields as high as 50% on its bonds."
+        },
+        {
+          "zh": "Mandeep Singh指出，前沿实验室增速明显放缓，开放权重模型抢占份额并更多部署在超大规模云或非本地环境，可能对CoreWeave等新兴云厂商基本面构成压力。",
+          "en": "Mandeep Singh noted frontier labs' growth is clearly decelerating, and open-weight models taking share are likely deployed at hyperscalers or non-premise, potentially pressuring neo-cloud fundamentals like CoreWeave's."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "Tesla",
+        "CoreWeave",
+        "AI",
+        "semiconductors"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:OrrVOln43wM",
+      "title": "A Midterm Crossroads for AI Investment | Thoughts on the Market",
+      "title_zh": "摩根士丹利：数据中心反对派在州与地方选举中的进展是AI投资关键信号",
+      "url": "https://www.youtube.com/watch?v=OrrVOln43wM",
+      "published_at": "2026-10-16T16:30:13+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "tech"
+      ],
+      "summary_zh": "摩根士丹利公共政策研究主管Ariana Salvatore指出，AI基础设施投资的关键信号在于数据中心反对派能否在州与地方选举中取得进展。她认为，对AI基础设施情绪最负面的结果是民主党大胜，因为这可能带来更多数据中心建设限制；反之共和党维持现状则可能意味着中期选举成为出清事件，大部分限制已过去。",
+      "summary_en": "Morgan Stanley's head of public policy research, Ariana Salvatore, says a key signal for AI investment is whether data center opponents gain ground in state and local races. She views a Democratic sweep as the most negative outcome for AI infrastructure sentiment, likely inviting more restrictions on data center construction, while a Republican hold (the status quo) would probably signal the midterms were a clearing event with most restrictions behind us.",
+      "detail_zh": "摩根士丹利公共政策研究主管Ariana Salvatore表示，在AI投资方面，一个关键信号是数据中心反对派能否在州与地方选举中取得进展。她指出，从当前来看，对AI基础设施与投资情绪而言，最负面的结果是民主党大胜（Democratic sweep）情景，因为这一结果可能招致对数据中心建设更多的限制。相反，共和党维持现状（Republican hold）的情景，可能意味着中期选举成为一次出清事件，大部分限制很可能已经过去。她建议投资者关注其观点及其他信号，可订阅Thoughts on the Market获取更多内容。",
+      "detail_en": "Ariana Salvatore, head of public policy research at Morgan Stanley, said that when it comes to AI investment, a key signal will be whether data center opponents gain ground in state and local races. She noted that from here, the most negative outcome for sentiment around AI infrastructure and investment is a Democratic sweep scenario, because that outcome likely invites more restrictions on data center construction. Conversely, a Republican hold scenario—the status quo—would probably signal the midterms were a clearing event and the bulk of the restrictions are likely behind us. She encouraged investors to subscribe to Thoughts on the Market for more on their views and other signals to watch.",
+      "conclusion_zh": "投资者应关注州与地方选举中数据中心反对派的进展，民主党大胜可能加剧AI基础设施限制，而共和党维持现状则可能意味着政策风险出清。",
+      "conclusion_en": "Investors should watch whether data center opponents gain ground in state and local races; a Democratic sweep could intensify restrictions on AI infrastructure, while a Republican hold may signal policy risks are largely cleared.",
+      "key_points": [
+        {
+          "zh": "数据中心反对派在州与地方选举中的进展是AI投资的关键信号。",
+          "en": "Whether data center opponents gain ground in state and local races is a key signal for AI investment."
+        },
+        {
+          "zh": "摩根士丹利认为，对AI基础设施情绪最负面的结果是民主党大胜，可能带来更多数据中心建设限制。",
+          "en": "Morgan Stanley views a Democratic sweep as the most negative outcome for AI infrastructure sentiment, likely inviting more restrictions on data center construction."
+        },
+        {
+          "zh": "共和党维持现状的情景可能意味着中期选举是出清事件，大部分限制已过去。",
+          "en": "A Republican hold scenario would probably signal the midterms were a clearing event and the bulk of restrictions are likely behind us."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "data centers",
+        "elections",
+        "policy risk"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:j2jSLruhTz8",
       "title": "Bloomberg Surveillance 10/16/2026",
@@ -49,6 +141,51 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:1hv5rgcpRUg",
+      "title": "Molavi: Saudis & Houthis Can Hit Hard; Not End War",
+      "title_zh": "沙特与胡塞武装冲突升级：伊朗角色、美国介入时机与战争困境",
+      "url": "https://www.youtube.com/watch?v=1hv5rgcpRUg",
+      "published_at": "2026-10-16T15:41:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "沙特与胡塞武装的冲突正在升级，胡塞武装通过无人机和弹道导弹展示了深入打击沙特的能力，背后有伊朗支持但保持一定独立性。分析人士认为特朗普在中期选举（11月3日）前不太可能直接介入，但选举后美国可能恢复对也门和伊朗的军事打击。核心困境在于：即使拥有压倒性常规军力，也无法单靠空袭决定战争何时结束。",
+      "summary_en": "The conflict between Saudi Arabia and the Houthis is escalating, with the Houthis demonstrating the ability to strike deep into the kingdom using drones and ballistic missiles, backed by Iran but exercising some independence. The analyst believes Trump is unlikely to get directly involved before the midterm elections on November 3rd, but after the midterms the U.S. could resume military strikes in Yemen and Iran. The central dilemma: even with overwhelming conventional power, you cannot dictate when these wars end through airstrikes alone.",
+      "detail_zh": "沙特与胡塞武装之间的冲突已持续十余年，目前正在升级。分析人士指出，胡塞武装已展示出用无人机和弹道导弹深入打击沙特不同地区的能力。从大约2022年到2025年，沙特与胡塞武装处于\"不战不和\"状态，在此期间胡塞武装持续扩充武器库，获得伊朗支持，并有报道称其从中国进行采购。分析人士认为这代表了\"新的战争方式\"——不再只有拥有常规军事力量的一方才能占据主导。关于伊朗的控制力，分析人士认为伊朗确实支持胡塞武装，但胡塞武装并非总是听命于伊朗，其在行动中拥有一定独立性，不像黎巴嫩真主党那样与伊朗伊斯兰革命卫队紧密绑定。在美方介入问题上，分析人士判断特朗普在11月3日中期选举前直接介入的可能性较低，因为他正忙于竞选活动、支持共和党候选人，且支持率低于40%。但中期选举后，美国在中东已有兵力部署，可能开始打击也门胡塞武装并恢复对伊朗的打击。分析人士强调应关注11月3日之后而非接下来三周。关于沙特是否会被拖入长期冲突，分析人士指出沙特愿意继续战斗，这对他们而言正变得更加关乎存亡。美国和一特朗普可以随时发动毁灭性空袭，沙特也拥有能重创胡塞武装的常规力量，但能造成破坏并不意味着能按自己的意愿宣布战争结束，尤其是面对伊朗伊斯兰共和国或胡塞民兵——这些实体对本国人民的福祉漠不关心，并展现出反击意愿。这是沙特和美国面临的核心困境。",
+      "detail_en": "The conflict between Saudi Arabia and the Houthis has been ongoing for over a decade and is now escalating. The analyst notes the Houthis have demonstrated the ability to strike deep into different parts of Saudi Arabia using drones and ballistic missiles. From roughly 2022 to 2025, Saudi Arabia and the Houthis were in a 'no war, no peace' period, during which the Houthis clearly built up their arsenal, received support from Iran, and there were reports of purchases from China. The analyst describes this as 'the new way of war' — no longer will only those with conventional military power dominate. On Iran's control, the analyst says Iran certainly backs the Houthis, but the Houthis do not always take orders from Iran; they are aligned in many objectives but exercise a certain independence, unlike Hezbollah in Lebanon which is much more intricately tied to Iran's Islamic Revolutionary Guard Corps. On U.S. involvement, the analyst judges it less likely that President Trump will get involved before November 3rd, as he is busy on the campaign trail supporting Republican candidates and looking at sub-40% approval ratings. But after the midterms, the U.S. has the force posture in the Middle East to begin striking the Houthis in Yemen and renewing strikes in Iran. The analyst stresses focusing on what happens after November 3rd rather than the next three weeks. On whether Saudi Arabia could be dragged into a prolonged conflict, the analyst notes Saudi Arabia is willing to continue this battle, which is becoming more existential for them. The U.S. and President Trump can inflict devastating damage with airstrikes at a time of his choosing, and Saudi Arabia has conventional powers to hit and hurt the Houthis. But just because you can inflict damage at the time of your choosing doesn't mean you can declare the end of these wars at the time of your choosing, particularly when dealing with the Islamic Republic of Iran or the Houthi militias — entities that have shown a low regard for the health and welfare of their own people and a willingness to fight back. This is the central dilemma faced by both Saudi Arabia and the United States.",
+      "conclusion_zh": "中东地缘风险在中期选举后可能显著上升，美国或恢复对也门和伊朗的军事打击，投资者应关注11月3日之后中东局势升级对能源价格和风险资产的潜在冲击。",
+      "conclusion_en": "Middle East geopolitical risk could rise significantly after the midterm elections, with the U.S. potentially resuming military strikes in Yemen and Iran; investors should watch for post-November 3rd escalation risks to energy prices and risk assets.",
+      "key_points": [
+        {
+          "zh": "胡塞武装已展示出用无人机和弹道导弹深入打击沙特的能力，在2022至2025年\"不战不和\"期间持续扩充武器库，获得伊朗支持并有报道称从中国采购。",
+          "en": "The Houthis have demonstrated the ability to strike deep into Saudi Arabia with drones and ballistic missiles, building up their arsenal during the 2022-2025 'no war, no peace' period with Iranian support and reported purchases from China."
+        },
+        {
+          "zh": "伊朗支持胡塞武装，但胡塞武装并非总是听命于伊朗，其独立性高于黎巴嫩真主党与伊朗革命卫队的关系。",
+          "en": "Iran backs the Houthis, but the Houthis do not always take orders from Iran and exercise more independence than Hezbollah does in its ties to Iran's IRGC."
+        },
+        {
+          "zh": "分析人士判断特朗普在11月3日中期选举前直接介入的可能性较低，但选举后美国可能恢复对也门胡塞武装和伊朗的军事打击。",
+          "en": "The analyst judges it less likely Trump will get directly involved before the November 3rd midterms, but after the midterms the U.S. could resume military strikes against the Houthis in Yemen and Iran."
+        },
+        {
+          "zh": "沙特愿意继续战斗，冲突对其正变得更加关乎存亡；但核心困境在于，即使能随时发动毁灭性空袭，也无法按自己的意愿宣布战争结束。",
+          "en": "Saudi Arabia is willing to continue the battle, which is becoming more existential for them; but the central dilemma is that even with the ability to inflict devastating airstrikes at will, you cannot declare the end of these wars at the time of your choosing."
+        }
+      ],
+      "tags": [
+        "Middle East",
+        "Saudi Arabia",
+        "Houthis",
+        "Iran",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
     },
     {
       "guid": "yt:Gc7Zsxb-Gx0",
@@ -5125,56 +5262,6 @@
         "autonomous-trucking",
         "freight-transportation",
         "commercialization"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:FWI_-HXH6xw",
-      "title": "The Winners That Get Away | Chris Davis and Robert Hagstrom on Holding Great Businesses",
-      "title_zh": "持有伟大企业与仓位限制的张力：Davis与Hagstrom谈仓位管理、指数集中与AI资本开支",
-      "url": "https://www.youtube.com/watch?v=FWI_-HXH6xw",
-      "published_at": "2026-10-09T16:22:13+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Davis Funds的Chris Davis与EquityCompass的Robert Hagstrom在100 Year Thinkers播客中探讨了持有伟大企业与控制组合风险之间的张力，以及为何两位信奉让赢家复利的投资者仍使用10%的仓位上限。讨论涵盖卖出真正伟大企业可能是投资者最昂贵的错误、指数集中与IPO激励、Costco的教训，以及AI资本开支周期能否带来持久定价权。",
-      "summary_en": "Chris Davis of Davis Funds and Robert Hagstrom of EquityCompass explore the tension between holding great businesses and keeping a winning stock from becoming too much portfolio risk, and why two investors who believe in letting winners compound still use 10% position limits. The discussion covers why selling a genuinely great business can be an investor's most expensive mistake, index concentration and IPO incentives, the Costco lesson, and whether AI's capital spending cycle builds durable pricing power.",
-      "detail_zh": "在100 Year Thinkers播客中，Davis Funds的Chris Davis与EquityCompass的Robert Hagstrom与Matt Zeigler、Bogumil Baranowski讨论了仓位管理、卖出错误、指数集中与增长成本。核心张力在于：两位投资者都信奉让赢家复利，却仍使用10%的仓位上限，原因涉及客户行为与基金约束。Chris Davis分享了他卖出Costco的经历，反思自己低估了Costco的增长与适应能力。Hagstrom讨论了当安全边际收窄时削减仓位的做法。Davis对指数集中、动量效应与未来IPO激励表达了担忧。讨论还涉及'牛市情景预演'——追问今天卖出可能错在哪里，以及为何相同的盈利增长可能产生不同的股东回报。在AI方面，嘉宾探讨了AI资本开支周期是否是暂时的，以及AI支出是构建持久定价权还是更多地将价值传递给用户。此外还涉及资产负债表、循环融资，以及为仓位定规模所需的谦逊。",
-      "detail_en": "On the 100 Year Thinkers podcast, Chris Davis of Davis Funds and Robert Hagstrom of EquityCompass joined Matt Zeigler and Bogumil Baranowski to discuss position sizing, selling mistakes, index concentration and the cost of growth. The central tension: two investors who believe in letting winners compound still use 10% position limits, driven by client behavior and fund constraints. Chris Davis shared his experience selling Costco, reflecting that he missed Costco's growth and ability to adapt. Hagstrom discussed trimming positions as the margin of safety shrinks. Davis raised concerns about index concentration, momentum and future IPO incentives. The discussion also covered the bull-case pre-mortem—asking what could make selling today a mistake—and why identical earnings growth can produce different shareholder returns. On AI, guests examined whether AI's capital spending cycle is temporary, and whether AI spending builds durable pricing power or delivers more value to users. Balance sheets, circular financing, and the humility required to size a position were also discussed.",
-      "conclusion_zh": "对投资者而言，核心启示在于仓位管理需要在让赢家复利与控制组合风险之间取得平衡，而AI投资周期中需区分'AI使用者'与'AI投资者'的不同受益逻辑。",
-      "conclusion_en": "For investors, the key takeaway is that position sizing requires balancing letting winners compound against controlling portfolio risk, and in the AI investment cycle one must distinguish between being an 'AI user' versus an 'AI investor'.",
-      "key_points": [
-        {
-          "zh": "卖出真正伟大的企业可能是投资者最昂贵的错误，Chris Davis以卖出Costco的经历说明他低估了其增长与适应能力。",
-          "en": "Selling a genuinely great business can be an investor's most expensive mistake; Chris Davis's experience selling Costco showed he underestimated its growth and ability to adapt."
-        },
-        {
-          "zh": "即使信奉让赢家复利，客户行为与基金约束仍促使投资者使用10%的仓位上限。",
-          "en": "Even for those who believe in letting winners compound, client behavior and fund constraints drive the use of 10% position limits."
-        },
-        {
-          "zh": "Chris Davis对指数集中、动量效应与未来IPO激励表示担忧。",
-          "en": "Chris Davis expressed concerns about index concentration, momentum and future IPO incentives."
-        },
-        {
-          "zh": "Hagstrom认为当安全边际收窄时应削减仓位。",
-          "en": "Hagstrom views trimming positions as appropriate when the margin of safety shrinks."
-        },
-        {
-          "zh": "关于AI，讨论聚焦于资本开支周期是否暂时，以及AI支出是构建持久定价权还是更多将价值传递给用户。",
-          "en": "On AI, the debate centers on whether the capital spending cycle is temporary and whether AI spending builds durable pricing power or delivers more value to users."
-        }
-      ],
-      "tags": [
-        "position-sizing",
-        "index-concentration",
-        "AI-capex",
-        "Costco",
-        "margin-of-safety"
       ],
       "tickers": [],
       "sentiment": "neutral"
