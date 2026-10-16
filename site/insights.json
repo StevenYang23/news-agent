@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-10-16T12:14:18.418049+00:00",
+  "generated_at": "2026-10-16T12:19:08.674642+00:00",
   "insights": [
+    {
+      "guid": "yt:4U1nFgBVhPM",
+      "title": "Tesla Showcases Roadster, China Moves to Prop Up Stocks",
+      "title_zh": "芯片股反弹、沃什讲话与欧盟对华贸易工具",
+      "url": "https://www.youtube.com/watch?v=4U1nFgBVhPM",
+      "published_at": "2026-10-16T12:01:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics",
+        "bbg-tv-news"
+      ],
+      "summary_zh": "芯片股在英伟达CEO表态后反弹，KOSPI上涨3%，科技股本周承压后周五出现回升。美联储主席沃什在曼谷讲话未释放新的利率指引，10月加息预期从30%降至17%，债券收益率下行、股市小幅走高。欧盟领导人要求推出贸易工具应对中国出口激增，德国立场转向值得关注。",
+      "summary_en": "Chip stocks rebounded with a helping hand from Nvidia's boss, with the KOSPI up 3% after tech was battered this week. Fed Chair Kevin Warsh's remarks in Bangkok offered no new rate guidance, with October hike expectations falling from 30% to 17%, pushing bond yields lower and stocks slightly higher. EU leaders demanded a trade tool to tackle China's export surge, with Germany's shift drawing attention.",
+      "detail_zh": "芯片股在英伟达CEO的助力下反弹，KOSPI上涨3%，此前科技股本周遭受重创，周五出现小幅反弹。美联储主席沃什在曼谷的讲话与问答环节中，并未试图重置加息预期，10月加息预期从讲话前的30%降至17%，债券收益率随之下降，股市小幅走高。沃什强调AI投资是积极因素，且认为无需过多干扰；但他对AI好处的表述是「跨越周期」，市场目前难以对此定价。此前CPI和PPI数据「非常火热」，但沃什并未如此定性。12月加息预期方面，市场讨论25个基点，也有人提及50个基点。信用违约互换方面，CoreWeave的CDS创下纪录，但市场出现逢低买入。欧盟方面，德国与法国推动更激进措施应对中国对欧盟的巨大顺差，已要求欧盟委员会研究一种工具，在极端情况下可切断中国对单一市场的贸易与准入。德国立场的转变引人关注，中国市场对德国企业吸引力下降且不再增长。英国方面，财政大臣可能对银行业加税，银行附加税目前为3%，2023年前曾为8%，市场关注是否回到8%或介于两者之间。",
+      "detail_en": "Chip stocks recovered with a helping hand from Nvidia's boss, with the KOSPI up 3% after tech was battered this week, seeing a modest Friday rebound. Fed Chair Kevin Warsh's speech and Q&A in Bangkok did not attempt to reset rate hike expectations, with October hike expectations falling from 30% before the remarks to 17% after, pushing bond yields lower and stocks slightly higher. Warsh stressed AI investment as a positive and suggested little need to disrupt it, but framed AI benefits as 'over the horizon,' which the market struggles to price. CPI and PPI data were described as 'super hot,' though Warsh did not characterize them that way. For December, a 25 basis point hike is discussed, with some mentioning 50. Credit default swaps hit a record for CoreWeave, yet dip buying emerged. In the EU, Germany and France are pushing for more aggressive action against China's large surplus with the EU, having requested the Commission to look into a tool that would in extreme scenarios allow the EU to cut off trade and access to the single market from China. Germany's shift is notable, as the Chinese market is less attractive and not growing for German companies. In the UK, the Chancellor may target banks with a tax raid, with the surcharge currently at 3% versus 8% until 2023, and markets watching whether it returns to 8% or lands in between.",
+      "conclusion_zh": "沃什讲话后10月加息预期降温，短期利好风险资产，但AI回报「跨越周期」意味着市场难以定价其长期价值；同时欧盟对华贸易工具与英国银行业加税构成政策不确定性。",
+      "conclusion_en": "Warsh's remarks cooled October hike expectations, offering short-term relief for risk assets, but AI payback being 'over the horizon' means the market struggles to price its long-term value; meanwhile, EU trade tools against China and UK bank tax plans add policy uncertainty.",
+      "key_points": [
+        {
+          "zh": "芯片股在英伟达CEO表态后反弹，KOSPI上涨3%，科技股本周承压后周五回升。",
+          "en": "Chip stocks rebounded after Nvidia's boss offered support, with the KOSPI up 3% as tech recovered on Friday after a battering this week."
+        },
+        {
+          "zh": "沃什在曼谷讲话未释放新指引，10月加息预期从30%降至17%，债券收益率下行、股市小幅走高。",
+          "en": "Warsh's Bangkok remarks offered no new guidance; October hike expectations fell from 30% to 17%, pushing bond yields lower and stocks slightly higher."
+        },
+        {
+          "zh": "沃什强调AI投资为积极因素，但AI好处「跨越周期」，市场当前难以定价。",
+          "en": "Warsh stressed AI investment as a positive, but framed AI benefits as 'over the horizon,' which the market currently struggles to price."
+        },
+        {
+          "zh": "欧盟领导人要求推出贸易工具应对中国出口激增，德国立场转向值得关注。",
+          "en": "EU leaders demanded a trade tool to tackle China's export surge, with Germany's shift drawing attention."
+        },
+        {
+          "zh": "英国财政大臣可能对银行业加税，附加税目前为3%，2023年前曾为8%。",
+          "en": "The UK Chancellor may target banks with a tax raid; the surcharge is currently 3% versus 8% until 2023."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "AI",
+        "chips",
+        "EU-China trade",
+        "UK banks"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:IetE5QVUxuA",
       "title": "Investors Dial Back October Hike Bets After Warsh; Taiwan to Curb AI Chip Exports to China",
