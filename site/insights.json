@@ -1,6 +1,108 @@
 {
-  "generated_at": "2026-10-17T11:11:42.226900+00:00",
+  "generated_at": "2026-10-17T12:18:36.137173+00:00",
   "insights": [
+    {
+      "guid": "yt:uzNY8RcWYpM",
+      "title": "The EV Bust Creating a New Battery Boom",
+      "title_zh": "特朗普政策意外推动储能电池发展：电动车补贴退坡，电池制造商转向电网储能",
+      "url": "https://www.youtube.com/watch?v=uzNY8RcWYpM",
+      "published_at": "2026-10-17T12:00:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普政府对电动车支持减弱，却意外为电网储能电池创造发展契机。电池制造商正将车用电池产能转向大型储能系统，联邦税收优惠和本土制造要求进一步推动该趋势。Wood Mackenzie数据显示美国电池储能年装机量五年增长16倍，但供应链重组可能导致2026-2027年增速暂时放缓。",
+      "summary_en": "The Trump administration's reduced support for EVs has inadvertently created an opportunity for grid-scale battery storage. Battery manufacturers are pivoting from EV cells to large-scale storage systems, aided by federal tax incentives and domestic manufacturing requirements. Wood Mackenzie data shows U.S. battery storage annual installations grew 16x in five years, though supply chain restructuring may slow growth in 2026-2027.",
+      "detail_zh": "特朗普总统对可再生能源持怀疑态度，但削减电动车支持的政策却可能推动风能和太阳能取得实质进展。电池储能系统（BESS）解决了可再生能源无法按需调度的核心局限。随着数据中心、新工厂和用电高峰增加对按需电力的需求，储能的灵活性价值日益凸显。尽管政府缩减对风能和太阳能的直接支持，电池仍符合联邦税收激励资格，包括使用美国制造组件的额外优惠。8月，特朗普签署行政令，针对电网设备（包括电池储能）对外国制造的依赖，推动能源开发商转向美国制造。LG Energy Solution在密歇根州兰辛的工厂是其北美5个电芯工厂之一，满产年产能预计超过35吉瓦时，同时服务电动车和电网储能。Wood Mackenzie的Allison Weis表示，美国电池储能年装机量已从1.2吉瓦增至去年的19吉瓦，增长16倍。但2025年美国仍从中国进口59%的锂离子电池，新采购规则迫使开发商重建供应链，预计2026和2027年增速将略低于原本水平。特朗普的“One Big Beautiful Bill”保留了部分激励措施，但于2025年9月终止了联邦电动车税收抵免，导致电动车销量下降、需求前景走弱。电池制造商并未减记资产，而是将相同的制造工艺和设备转向储能产品。通用汽车和福特正将部分电池业务转向固定式储能，特斯拉也在扩大电网储能业务。",
+      "detail_en": "President Trump has been skeptical of government support for renewable energy, but efforts to cut back on EVs may be just what's needed to advance wind and solar. Battery Energy Storage Systems (BESS) help close the gap of renewable energy running on nature's schedule rather than the grid's. Flexibility is becoming more valuable as data centers, new factories, and electricity spikes increase the need for on-demand power. Even as the administration scales back support for wind and solar, batteries remain eligible for federal tax incentives, including an additional benefit for projects using US-made components. In August, President Trump issued an executive order targeting reliance on foreign-made grid equipment, including battery storage, pushing developers toward US-made alternatives. LG Energy Solution's Lansing, Michigan plant is one of five cell facilities in North America, expected to reach more than 35 GWh of annual capacity at full output for both EVs and grid storage. Allison Weis of Wood Mackenzie said annual US battery storage installations grew from 1.2 GW to 19 GW last year, a 16x increase. However, as of 2025 the US still imported 59% of its lithium-ion batteries from China, and new sourcing rules are forcing developers to rebuild supply chains, with less growth forecast for 2026 and 2027. Trump's One Big Beautiful Bill preserved some incentives but ended federal EV credits in September 2025, causing EV sales to fall and demand outlook to weaken. Manufacturers are pivoting rather than writing off assets, using the same manufacturing processes for ESS. GM and Ford are redirecting parts of their battery operations toward stationary storage, while Tesla expands its grid storage business.",
+      "conclusion_zh": "政策意外催生储能电池投资机会：电动车补贴退坡反而加速电池制造商转向电网储能，本土制造税收优惠和供应链重组将重塑行业格局，但2026-2027年增速可能暂时放缓。",
+      "conclusion_en": "Policy unintendedly creates storage battery investment opportunities: EV subsidy rollback accelerates manufacturers' pivot to grid storage, with domestic manufacturing incentives and supply chain restructuring reshaping the industry, though growth may temporarily slow in 2026-2027.",
+      "key_points": [
+        {
+          "zh": "美国电池储能年装机量五年内从1.2吉瓦增至19吉瓦，增长16倍。",
+          "en": "US annual battery storage installations grew 16x in five years, from 1.2 GW to 19 GW."
+        },
+        {
+          "zh": "2025年美国仍从中国进口59%的锂离子电池，新采购规则迫使供应链重组，预计2026-2027年增速暂时放缓。",
+          "en": "The US still imported 59% of lithium-ion batteries from China in 2025; new sourcing rules force supply chain restructuring, with slower growth expected in 2026-2027."
+        },
+        {
+          "zh": "联邦电动车税收抵免于2025年9月终止，导致电动车销量下降，电池制造商将产能转向电网储能。",
+          "en": "Federal EV tax credits ended in September 2025, causing EV sales to fall and manufacturers to pivot capacity toward grid storage."
+        },
+        {
+          "zh": "LG Energy Solution兰辛工厂满产年产能预计超过35吉瓦时，可同时生产电动车和储能电芯。",
+          "en": "LG Energy Solution's Lansing plant is expected to reach over 35 GWh annual capacity, producing both EV and ESS cells."
+        },
+        {
+          "zh": "通用汽车和福特正将部分电池业务转向固定式储能，特斯拉也在扩大电网储能业务。",
+          "en": "GM and Ford are redirecting parts of their battery operations toward stationary storage, while Tesla expands its grid storage business."
+        }
+      ],
+      "tags": [
+        "battery storage",
+        "EV",
+        "tax credits",
+        "supply chain",
+        "renewable energy"
+      ],
+      "tickers": [
+        "GM",
+        "F",
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:mtWv1bzMrI4",
+      "title": "Trump Puts New Russia Sanctions on Hold",
+      "title_zh": "特朗普豁免对俄能源制裁以压低柴油价格，乌克兰与欧洲不满",
+      "url": "https://www.youtube.com/watch?v=mtWv1bzMrI4",
+      "published_at": "2026-10-17T11:48:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统豁免了原定数日内生效的对俄能源出口制裁，并推动俄罗斯柴油重返全球市场，旨在中期选举前压低柴油价格。俄方视此为制裁进一步放松的信号，而乌克兰与欧洲则感到失望，认为放松压力无助于促使普京谈判。",
+      "summary_en": "President Trump waived sanctions on Russian energy exports that were set to take effect within days and worked with Putin to release Russian diesel into the global market, aiming to lower diesel prices ahead of the midterms. Moscow sees this as a signal of further sanctions relief, while Ukraine and Europe are dismayed, arguing that easing pressure won't bring Putin to the table.",
+      "detail_zh": "特朗普总统豁免了原定数日内生效的、针对俄罗斯官员和寡头的制裁，该制裁属于上月签署的法律，该法律由已故参议员林赛·格雷厄姆推动。此举叠加了特朗普与普京合作释放俄罗斯柴油供应的决定。彭博社编辑Anthony Halpin指出，战前俄罗斯占全球海运柴油约10%，现在将试图恢复该市场份额；对克里姆林宫而言，柴油交易虽无直接预算收益，但企业售油后税收终将入账，且提供了进一步制裁放松的希望。Halpin表示，俄方对特朗普的决定感到乐观，认为可能开启更多俄美协议。与此同时，乌克兰对特朗普被视为偏袒俄罗斯感到极大沮丧；欧洲盟友认为只有加大压力才能让普京谈判，但白宫似乎认为放松压力可诱使普京同意谈判，然而没有迹象表明该策略奏效。彭博社白宫记者Jeff Mason称，特朗普在中期选举前民调落后，正赴红州助选，柴油价格是导致其支持率低迷的因素之一，因此与俄罗斯的柴油交易及豁免制裁主要出于国内政治考量。欧洲在峰会上承诺增加对乌支持，尤其是防空系统，但乌克兰仍严重依赖美国情报（如SpaceX的星盾网络）和武器，欧洲难以轻易替代。",
+      "detail_en": "President Trump waived sanctions on Russian officials and oligarchs that were set to take effect within days, part of a law signed last month championed by the late Senator Lindsey Graham. This comes on top of Trump's decision to work with Putin to release Russian diesel supply into the global market. Anthony Halpin, Bloomberg's Russia and economy government editor, noted that Russia accounted for about 10% of global seaborne diesel before the war and will now try to restore its position; while there is no direct immediate benefit to the state budget, companies will sell the diesel and taxes will eventually be paid, and the deal provides hope for further sanctions relief. Halpin said the Kremlin is optimistic that Trump's decision could open the way to more agreements between Russia and the US. Meanwhile, Ukraine is dismayed by what it sees as Trump siding with Putin, the aggressor; Ukraine and European allies have consistently argued that only increased pressure can bring Putin to the table, but the White House appears to believe that relaxing pressure may tempt him to negotiate—with no sign of that working. Jeff Mason, Bloomberg News White House correspondent, said Trump is underwater ahead of the midterms and is doing campaign stops in red states; diesel prices are one factor hurting him, making domestic politics the primary reason for the waiver. Europe pledged more support for Ukraine, especially air defenses, at a summit, but Ukraine remains heavily reliant on US intelligence (such as SpaceX's Star Shield network) and US weaponry, which Europe cannot easily replace.",
+      "conclusion_zh": "特朗普为压低柴油价格、应对中期选举而放松对俄制裁，短期或缓解柴油价格压力，但地缘风险与欧洲安全格局的不确定性上升，需关注对能源市场与国防板块的传导。",
+      "conclusion_en": "Trump's sanctions relief to lower diesel prices ahead of the midterms may ease near-term diesel price pressure, but raises geopolitical and European security uncertainty; watch transmission to energy markets and defense sectors.",
+      "key_points": [
+        {
+          "zh": "特朗普豁免了原定数日内生效的对俄能源出口制裁，该制裁针对俄官员和寡头，属于上月签署的法律。",
+          "en": "Trump waived sanctions on Russian energy exports set to take effect within days, targeting Russian officials and oligarchs under a law signed last month."
+        },
+        {
+          "zh": "俄罗斯战前占全球海运柴油约10%，柴油交易虽无直接预算收益，但税收终将入账，并带来进一步制裁放松的希望。",
+          "en": "Russia accounted for about 10% of global seaborne diesel before the war; the diesel deal offers no direct budget benefit but taxes will eventually be paid and it raises hope for further sanctions relief."
+        },
+        {
+          "zh": "乌克兰和欧洲认为只有加大压力才能促使普京谈判，但白宫似乎认为放松压力可诱使其谈判，目前无迹象表明奏效。",
+          "en": "Ukraine and Europe argue only increased pressure can bring Putin to negotiate, but the White House appears to believe relaxing pressure may tempt him—with no sign of success."
+        },
+        {
+          "zh": "特朗普在中期选举前民调落后，柴油价格是导致其支持率低迷的因素之一，豁免制裁主要出于国内政治考量。",
+          "en": "Trump is underwater ahead of the midterms, with diesel prices one factor hurting him; the waiver is primarily driven by domestic politics."
+        },
+        {
+          "zh": "欧洲承诺增加对乌支持，但乌克兰仍严重依赖美国情报（如星盾网络）和武器，欧洲难以轻易替代。",
+          "en": "Europe pledged more support for Ukraine, but Ukraine remains heavily reliant on US intelligence (e.g., Star Shield) and weapons, which Europe cannot easily replace."
+        }
+      ],
+      "tags": [
+        "Russia sanctions",
+        "diesel",
+        "Trump",
+        "Ukraine",
+        "midterms"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:aHO6knsn0aw",
       "title": "Female Athletes Are Over Being Gaslit by Sneaker Giants",
@@ -1692,6 +1794,55 @@
         "inflation",
         "investment surge",
         "global economy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:U87Mk57oimw",
+      "title": "Trump Waives Russia Energy Tariffs, CoreWeave Wipeout | Bloomberg This Weekend: Oct 17th, 2026",
+      "title_zh": "彭博周末节目预告：乌克兰、伊朗、美联储与市场对话",
+      "url": "https://www.youtube.com/watch?v=U87Mk57oimw",
+      "published_at": "2026-10-16T15:38:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博周末节目将讨论乌克兰战争最新进展、特朗普威胁对伊朗使用“炸弹之母”、特朗普新闻秘书更替、美联储主席沃什未排除市场对利率不变的预期，并对话巴里·里索尔茨等嘉宾。",
+      "summary_en": "Bloomberg This Weekend will cover the latest on the war in Ukraine, Trump's threat to use the 'Mother Of All Bombs' against Iran, a change in Trump's press secretary, and Fed Chair Kevin Warsh doing nothing to dispel expectations of steady rates; guests include Barry Ritholtz.",
+      "detail_zh": "节目预告显示，本期彭博周末将关注乌克兰战争的最新情况。其中提到，美国总统唐纳德·特朗普威胁对伊朗使用被称为“炸弹之母”的武器。此外，凯蒂·扎卡里亚将不再担任特朗普的新闻秘书。美联储主席凯文·沃什的言论未能消除市场对央行将在月底会议上维持利率不变的预期。节目还包含对国际救援委员会CEO、前英国外交大臣大卫·米利班德的对话，对Ritholtz财富管理创始人巴里·里索尔茨的对话，对保时捷CEO迈克尔·莱特斯的对话，对加拿大前副总理克里斯蒂亚·弗里兰的对话，以及对Northwell Health CEO约翰·德安杰洛博士的对话。其他话题包括《侠盗猎车手VI》的幕后故事和保时捷新款豪华超级跑车。",
+      "detail_en": "The show preview indicates Bloomberg This Weekend will cover the latest on the war in Ukraine. It mentions President Donald Trump threatening to use what is known as the 'Mother Of All Bombs' against Iran. Additionally, Katie Zacharia will no longer serve as Trump's press secretary. Federal Reserve Chairman Kevin Warsh did nothing to dispel market expectations that the central bank will hold rates steady at its month-end meeting. The show includes conversations with David Miliband, CEO of the International Rescue Committee and former UK Foreign Secretary; Barry Ritholtz, founder of Ritholtz Wealth Management; Porsche CEO Michael Leiters; Chrystia Freeland, former Deputy Prime Minister of Canada; and Dr. John D'Angelo, CEO of Northwell Health. Other topics include behind the scenes of 'Grand Theft Auto VI' and Porsche's new luxury supercar.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "乌克兰战争最新进展是节目关注点之一。",
+          "en": "The latest on the war in Ukraine is a focus of the show."
+        },
+        {
+          "zh": "特朗普威胁对伊朗使用“炸弹之母”。",
+          "en": "Trump threatens to use the 'Mother Of All Bombs' against Iran."
+        },
+        {
+          "zh": "凯蒂·扎卡里亚将不再担任特朗普的新闻秘书。",
+          "en": "Katie Zacharia will no longer serve as Trump's press secretary."
+        },
+        {
+          "zh": "美联储主席沃什未消除市场对利率维持不变的预期。",
+          "en": "Fed Chair Warsh did nothing to dispel expectations of steady rates."
+        },
+        {
+          "zh": "嘉宾包括巴里·里索尔茨、大卫·米利班德、保时捷CEO等。",
+          "en": "Guests include Barry Ritholtz, David Miliband, Porsche CEO, and others."
+        }
+      ],
+      "tags": [
+        "Ukraine",
+        "Iran",
+        "Fed",
+        "Trump",
+        "Bloomberg"
       ],
       "tickers": [],
       "sentiment": "neutral"
