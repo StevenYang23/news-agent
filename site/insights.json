@@ -1,6 +1,104 @@
 {
-  "generated_at": "2026-10-16T23:13:39.092268+00:00",
+  "generated_at": "2026-10-17T01:20:43.767655+00:00",
   "insights": [
+    {
+      "guid": "yt:vPwqqbFUfJI",
+      "title": "Trump Says There's Zero Chance of Replacing Susie Wiles",
+      "title_zh": "白宫新闻秘书五天即遭解职，油价创五月以来新高，中期选举进入倒计时",
+      "url": "https://www.youtube.com/watch?v=vPwqqbFUfJI",
+      "published_at": "2026-10-16T23:21:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "白宫新闻秘书Katie Zacharia上任仅五天后被解职，特朗普政府人事动荡持续。与此同时，原油价格升至五月以来最高水平，全球能源供应受到冲击。中期选举仅剩18天，共和党在部分关键选区撤资，前代理幕僚长Mulvaney判断众议院大概率失守，参议院仍为五五开。",
+      "summary_en": "White House Press Secretary Katie Zacharia was removed after a record-short five-day tenure, adding to administration turnover. Meanwhile, crude oil hit its highest level since May amid global energy supply disruptions. With 18 days until the midterms, Republicans are pulling money from key races; former acting Chief of Staff Mulvaney assesses the House is likely lost while the Senate remains 50-50.",
+      "detail_zh": "白宫新闻秘书Katie Zacharia在任职仅五天后被解职，特朗普表示希望她过好日子，并称她受到了不公平对待。前代理幕僚长Mick Mulvaney认为她被\"安排去失败\"，缺乏准备时间，且在乌克兰问题上无法作答。Mulvaney指出特朗普未必需要新闻秘书，Stephanie Grisham在2019年大部分时间未举行新闻发布会。关于幕僚长Susie Wiles，特朗普公开表示不会解雇她，但Mulvaney称自己2020年2月也曾得到类似保证，两周后即离职，他认为Wiles可能生活在\"阴云\"之下，中期选举后可能是其离任的合适时机。中期选举方面，Mulvaney指出共和党正在从爱荷华州国会选区和北卡罗来纳州参议院选区撤资，认为众议院大概率失守，参议院仍为五五开。原油价格升至五月以来最高，全球能源供应受到冲击，特朗普针对俄罗斯柴油的计划面临两党压力。",
+      "detail_en": "White House Press Secretary Katie Zacharia was removed after only five days on the job. President Trump said he wants her to have a good life and that she was treated unfairly. Former acting Chief of Staff Mick Mulvaney said she was 'set up to fail,' given little prep time, and unable to answer a serious question about Ukraine. Mulvaney noted Trump doesn't necessarily need a press secretary, citing Stephanie Grisham who went most of 2019 without a press conference. On Chief of Staff Susie Wiles, Trump publicly said there's zero chance of firing her, but Mulvaney recalled receiving similar assurances in February 2020 before being gone two weeks later; he said Wiles may live 'under a cloud' and that post-midterms would be an appropriate time for her departure. On the midterms, Mulvaney pointed to Republicans pulling money from congressional races in Iowa and Senate races in North Carolina, assessing the House is probably gone while the Senate remains 50-50. Crude oil hit its highest since May as global energy supplies came under fire, and Trump's plan for Russian diesel faces bipartisan pressure.",
+      "conclusion_zh": "中期选举前白宫人事动荡与共和党关键选区撤资信号值得关注，众议院控制权大概率易手，参议院仍存变数；油价升至五月高位叠加对俄柴油政策不确定性，能源板块短期波动风险上升。",
+      "conclusion_en": "White House personnel turmoil and Republican funding withdrawals from key races ahead of the midterms suggest the House is likely to flip, while the Senate remains uncertain; oil at May highs plus uncertainty over Russian diesel policy raise near-term volatility risk for energy.",
+      "key_points": [
+        {
+          "zh": "白宫新闻秘书Katie Zacharia任职仅五天后被解职，特朗普称她受到不公平对待。",
+          "en": "White House Press Secretary Katie Zacharia was removed after just five days; Trump said she was treated unfairly."
+        },
+        {
+          "zh": "前代理幕僚长Mulvaney认为Zacharia被'安排去失败'，并指出特朗普未必需要新闻秘书。",
+          "en": "Former acting Chief of Staff Mulvaney said Zacharia was 'set up to fail' and noted Trump doesn't necessarily need a press secretary."
+        },
+        {
+          "zh": "Mulvaney判断众议院大概率失守，参议院仍为五五开；共和党正从爱荷华州和北卡罗来纳州关键选区撤资。",
+          "en": "Mulvaney assesses the House is likely lost and the Senate remains 50-50; Republicans are pulling money from key races in Iowa and North Carolina."
+        },
+        {
+          "zh": "原油价格升至五月以来最高，全球能源供应受到冲击，特朗普对俄柴油计划面临两党压力。",
+          "en": "Crude oil hit its highest since May amid global energy supply disruptions; Trump's Russian diesel plan faces bipartisan pressure."
+        },
+        {
+          "zh": "特朗普在中期选举前密集造势，已到佐治亚州，提前投票已开始。",
+          "en": "Trump is campaigning heavily ahead of the midterms, currently in Georgia where early voting is already underway."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "white-house",
+        "oil",
+        "russia-sanctions",
+        "energy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:mfGf-cTEERI",
+      "title": "Wall Street Week | America’s Relationship Woes, Battery Pivot, Farmers’ Fed Warning",
+      "title_zh": "印度新经济论坛：地缘分裂、AI与投资组合重构",
+      "url": "https://www.youtube.com/watch?v=mfGf-cTEERI",
+      "published_at": "2026-10-16T23:00:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博新经济论坛在印度举行，印度总理莫迪警告供应链、能源、矿产、支付与技术正被\"武器化\"，成为胁迫工具。前美国商务部长雷蒙多强调伊朗与乌克兰冲突推高能源价格、冲击供应链，企业需通过创新与供应链合作适应不确定性。贝莱德COO Goldstein认为投资者不应再依赖单一基准情景，主题（如AI、战争）比资产类别更重要，需持续调整组合。",
+      "summary_en": "Bloomberg's New Economy Forum convened in India, where PM Modi warned that supply chains, energy, minerals, payments and technology are being 'weaponized' as tools of coercion. Former U.S. Commerce Secretary Raimondo flagged the Iran and Ukraine conflicts as urgent, driving up energy prices and hurting supply chains, urging businesses to innovate and adapt. BlackRock COO Goldstein argued investors can no longer rely on a single base case, and that themes like AI and wars now matter more than individual asset classes.",
+      "detail_zh": "彭博本周在印度举办新经济论坛，汇聚政府、商界与市场领袖，讨论日益不确定的世界。印度总理莫迪在主旨发言中警告，曾经连接世界的事物——供应链、能源、矿产、支付、技术——如今正被\"武器化\"，成为胁迫与施压的工具；他并指出人工智能正在改变各行业的工作方式，多国老龄化挑战加速，当今世界面临的最大问题之一是信任与信心。前美国商务部长雷蒙多呼应莫迪对地缘冲突冲击全球经济的担忧，称伊朗冲突\"紧迫\"，正推高能源价格、伤害供应链，乌克兰同样紧迫，需要立即关注与解决。她强调企业必须创新、对新经营方式保持开放，并观察到企业为规避关税而增加在美制造、追求更大规模，甚至传统竞争对手开始合作整合供应链，这在五年前难以想象。贝莱德COO Rob Goldstein表示，管理组合不能再假设一个基准情景再围绕其加减仓，世界由地缘分裂、人口结构、技术与资本市场变化驱动，结果是更多\"离散结果\"；他认为AI、战争等主题比单个资产类别更重要，且这些主题不会等待每三年一次的资产配置会议，投资者必须持续适应，且变化节奏可能继续加快、不会回到过去。印度财政部长西塔拉曼表示，印度多数引资行业已解除此前大量监管，法律更简单、监管更透明且具协商性，人力资本得到加强，经济数字化打开了市场，印度中产阶级的购买力提供了在本土制造并出口的信心。黑石总裁兼COO Jon Gray称印度取得巨大进展，政府改变了资本市场规则，黑石已将多家公司移至印度上市，印度市场流动性如今可能仅次于美国，实体基础设施、争议解决与外资欢迎度均改善，20年前多数行业甚至无法投资，增长因此真正加速。与会者普遍认同最具影响力的变化来自技术，尤其是AI。",
+      "detail_en": "Bloomberg's New Economy Forum was held in India this week, bringing together government, business and market leaders to discuss an increasingly uncertain world. Indian PM Modi warned in his keynote that things that once connected the world—supply chains, energy, minerals, payments, technology—are today being 'weaponized' as tools of coercion and pressure; he also said AI is changing how every sector works, aging-related challenges are accelerating in several countries, and one of the biggest questions facing the world is trust and confidence. Former U.S. Commerce Secretary Gina Raimondo echoed Modi's concerns about geopolitical conflicts hitting the global economy, calling the Iran conflict urgent with challenges reverberating worldwide, driving up energy prices and hurting supply chains, and Ukraine urgent as well, requiring immediate attention and hopefully resolution. She stressed that businesses must innovate and be open-minded to new ways of doing business, observing that companies want to do more manufacturing in the U.S. to avoid tariffs and seek more scale, and that even traditional competitors are working together to combine supply chains—something that would have seemed crazy five years ago. BlackRock COO Rob Goldstein said portfolio managers can no longer assume a base case and then be plus or minus relative to it; the world is driven by geopolitical fragmentation, demographics, technology and changing capital markets, producing more 'discrete outcomes.' He argued themes like AI and the various wars matter more than individual asset classes, and these themes don't wait for a once-every-three-years asset allocation meeting, so investors must continually adapt, with the pace likely to keep accelerating and never revert. India's Finance Minister Nirmala Sitharaman said most sectors drawing capital have been freed of many earlier regulations, laws were simplified, regulations made transparent and consultative, human resources strengthened, and digitization has opened markets, with India's middle class purchasing power giving confidence to manufacture for domestic and export markets. Blackstone President and COO Jon Gray said India has made enormous progress, the government changed capital market rules, Blackstone has moved multiple companies to list in India, and Indian market liquidity is probably second only to the U.S. today, with physical infrastructure, dispute resolution and openness to foreign investment all improved; 20 years ago most industries couldn't even be invested in, and growth has really accelerated. Attendees agreed the most consequential change is coming from technology, particularly AI.",
+      "conclusion_zh": "论坛传递的核心信号是：地缘分裂与AI正重塑全球投资格局，投资者应从依赖单一基准情景转向围绕离散结果与主题（如AI、冲突）构建组合，并持续动态调整。",
+      "conclusion_en": "The forum's core signal: geopolitical fragmentation and AI are reshaping the global investment landscape, and investors should shift from a single base case toward portfolios built around discrete outcomes and themes (e.g., AI, conflicts), adapting continuously.",
+      "key_points": [
+        {
+          "zh": "莫迪警告供应链、能源、矿产、支付与技术正被\"武器化\"，成为胁迫工具，信任与信心是当今世界最大问题之一。",
+          "en": "Modi warned that supply chains, energy, minerals, payments and technology are being 'weaponized' as tools of coercion, with trust and confidence among the biggest questions facing the world."
+        },
+        {
+          "zh": "雷蒙多称伊朗与乌克兰冲突紧迫，正推高能源价格、伤害供应链；企业为规避关税增加在美制造，甚至竞争对手合作整合供应链。",
+          "en": "Raimondo called the Iran and Ukraine conflicts urgent, driving up energy prices and hurting supply chains; companies are adding U.S. manufacturing to avoid tariffs, and even competitors are combining supply chains."
+        },
+        {
+          "zh": "贝莱德COO Goldstein：不应再依赖单一基准情景，地缘分裂、人口、技术与资本市场变化带来更多\"离散结果\"，主题（AI、战争）比资产类别更重要。",
+          "en": "BlackRock COO Goldstein: no longer rely on a single base case; geopolitical fragmentation, demographics, technology and capital market shifts produce more 'discrete outcomes,' and themes (AI, wars) matter more than asset classes."
+        },
+        {
+          "zh": "印度财长西塔拉曼称多数引资行业已解除监管、法律简化、监管透明，数字化与中产阶级购买力支撑本土制造与出口。",
+          "en": "India's Finance Minister Sitharaman said most capital-drawing sectors have been deregulated, laws simplified and regulations made transparent, with digitization and middle-class purchasing power supporting domestic manufacturing and exports."
+        },
+        {
+          "zh": "黑石总裁Gray称印度资本市场规则改变、流动性可能仅次于美国，黑石已将多家公司移至印度上市，增长真正加速。",
+          "en": "Blackstone President Gray said India's capital market rules have changed and liquidity is probably second only to the U.S.; Blackstone has moved multiple companies to list in India, and growth has really accelerated."
+        }
+      ],
+      "tags": [
+        "geopolitical-fragmentation",
+        "AI",
+        "supply-chains",
+        "India",
+        "portfolio-construction"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:W3hT2UE8F_A",
       "title": "Clark Calls for Lower Tariffs, More Legal Immigration",
