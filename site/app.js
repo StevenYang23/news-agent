@@ -74,6 +74,8 @@ function filtered() {
   const q = state.q.toLowerCase();
   return state.insights.filter((it) => {
     if (state.selectedDate && (it.published_at || "").slice(0, 10) !== state.selectedDate) return false;
+    // In the "All" view, hide Bloomberg TV (it lives under its own BBG TV filter).
+    if (!state.cat && categories(it).includes("bbg-tv-news")) return false;
     if (state.cat && !categories(it).includes(state.cat)) return false;
     if (q) {
       const hay = [
