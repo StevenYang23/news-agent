@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-17T17:12:45.884630+00:00",
+  "generated_at": "2026-10-17T20:14:13.385905+00:00",
   "insights": [
+    {
+      "guid": "yt:b5W1Ev_W6uQ",
+      "title": "Why Quinn Just Shorted the Long End",
+      "title_zh": "交易员做空长端美债，认为收益率或已见顶但仓位极端",
+      "url": "https://www.youtube.com/watch?v=b5W1Ev_W6uQ",
+      "published_at": "2026-10-17T19:31:20+00:00",
+      "source_name": "Forward Guidance",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "一位交易员表示当日做空了长端美债作为短期交易，可能持有1-2周，理由是经济仍然尚可、AI交易不会被放任崩盘、并预期Anthropic完成IPO。他认为收益率可能已经见顶，但当日仓位已相当极端，因此进行短线操作。",
+      "summary_en": "A trader said he shorted the long end of the Treasury curve as a trade, potentially holding for one to two weeks, citing an economy that is still okay, a belief that the AI trade won't be allowed to implode, and an expectation that Anthropic gets out the door on its IPO. He thinks yields may have peaked but noted positioning got pretty extreme today, hence the scalp.",
+      "detail_zh": "该交易员表示，他当日做空了长端美债，作为一笔可能持有1-2周的交易。他的核心判断是：经济仍然尚可；他不认为政策层面会放任AI交易崩盘；并预期Anthropic将完成IPO。他同时表示，收益率可能已经见顶，但就短线而言，当日仓位已变得相当极端，因此选择做空长端进行交易。整体上他认为风险仍偏向向上。",
+      "detail_en": "The trader said he shorted the long end of the Treasury curve today as a trade he might hold for a week or two. His core views: the economy is still okay; he does not think they will let the AI trade implode; and he expects Anthropic to get out the door on its IPO. He also said yields may have peaked, but for a scalp, positioning got pretty extreme today, which is why he shorted the long end. Overall he sees risks generally skewing up.",
+      "conclusion_zh": "交易员短线做空长端美债，反映其对经济与AI主题不悲观，但警惕收益率见顶后的极端仓位。",
+      "conclusion_en": "The trader's short on the long end reflects a non-bearish view on the economy and AI theme, while flagging extreme positioning after a possible peak in yields.",
+      "key_points": [
+        {
+          "zh": "交易员当日做空长端美债，计划持有1-2周。",
+          "en": "The trader shorted the long end of Treasuries today, planning to hold for one to two weeks."
+        },
+        {
+          "zh": "他认为经济仍然尚可，不认为会放任AI交易崩盘。",
+          "en": "He believes the economy is still okay and does not think the AI trade will be allowed to implode."
+        },
+        {
+          "zh": "他预期Anthropic将完成IPO。",
+          "en": "He expects Anthropic to get out the door on its IPO."
+        },
+        {
+          "zh": "他认为收益率可能已见顶，但当日仓位极端，因此做短线。",
+          "en": "He thinks yields may have peaked, but positioning got extreme today, so he is scalping."
+        },
+        {
+          "zh": "整体风险仍偏向向上。",
+          "en": "Overall risks still skew up."
+        }
+      ],
+      "tags": [
+        "Treasuries",
+        "short-long-end",
+        "AI-trade",
+        "IPO",
+        "positioning"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:zoqBvldIoQk",
       "title": "AI Debt Concerns, Russia Sanctions Waived, Making 'GTA VI'",
