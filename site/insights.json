@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:13:03.381601+00:00",
+  "generated_at": "2026-10-17T14:13:20.561471+00:00",
   "insights": [
     {
       "guid": "yt:IwwsTx0xNX0",
@@ -99,6 +99,55 @@
         "TSLA"
       ],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:f4pm77GjtsI",
+      "title": "Rockstar Rebuilt Itself to Make GTA VI",
+      "title_zh": "GTA 6 定档11月19日：开发投入约20亿美元，首销预期超30亿美元",
+      "url": "https://www.youtube.com/watch?v=f4pm77GjtsI",
+      "published_at": "2026-10-17T12:14:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Rockstar 的《侠盗猎车手6》定于11月19日发售，开发历时十余年、投入约20亿美元，被视为史上最大规模游戏发售。分析师预计其首几个月销量约4000万份、收入超30亿美元；Rockstar 为缓解“crunch”（过度加班）将团队规模从2400人扩至4700人，并推出“time in lieu”补休制度，但受访员工仍对能否兑现补休存疑。",
+      "summary_en": "Rockstar's Grand Theft Auto VI is set for a November 19 release after more than a decade of development and roughly $2 billion invested, billed as the biggest video game launch ever. Analysts estimate it could sell about 40 million copies in its first few months, generating more than $3 billion in revenue; to mitigate 'crunch,' Rockstar doubled its studio from 2,400 to 4,700 people and introduced 'time in lieu' paid time off, though some employees are skeptical the extra time will materialize.",
+      "detail_zh": "《侠盗猎车手6》是 Rockstar 旗下 GTA 系列第六部，定于11月19日正式发售，开发超过十年、投入约20亿美元，被预期为史上最大规模的游戏发售。上一部 GTA 5 于2013年发售，销量达2.3亿份，是史上最畅销的非移动游戏；Rockstar 在两者之间于2018年推出了《荒野大镖客2》，此后才全力投入本作。2018年至当前，Rockstar 员工规模从2400人翻倍至4700人，公司为此搭建了中层管理和制作团队；扩编部分源于《荒野大镖客2》发售后围绕“crunch”（过度加班）的争议。为缓解加班，公司称改善了排期与工作量衡量，并推出“time in lieu”——每加班一小时可换取一小时带薪休假，但受访员工对项目结束后能否真正兑现补休存疑。AI 方面，Rockstar 表示本项目未使用 AI，未来尚不确定；彭博此前报道 Epic Games 正全面押注 AI。定价上，游戏售价80美元，含全部奖励的完整套餐为100美元。分析师预计本作首几个月销量约4000万份、收入超30亿美元，规模可能在数周内超过《奥德赛》全作。本作地图以佛罗里达为原型，开发团队曾赴迈阿密实地考察，包括乘直升机勘察城市鸟瞰、参加警察随行、与罪犯会面等。本作也是 Rockstar 现代作品中首次采用女性主角。",
+      "detail_en": "Grand Theft Auto VI, the sixth installment in Rockstar's GTA series, is set for an official November 19 release after more than a decade of development and roughly $2 billion invested, and is expected to be the biggest video game launch ever. The prior title, GTA 5, released in 2013 and sold 230 million copies, making it the best-selling non-mobile game of all time; Rockstar released Red Dead Redemption 2 in 2018 in between, and has been in full production on this game since then. Between 2018 and now, Rockstar doubled in size from 2,400 to 4,700 employees, building out a layer of middle management and a production team; the expansion was partly driven by the controversy over 'crunch' (excessive overtime) after Red Dead Redemption 2's release. To mitigate crunch, the company says it improved scheduling and workload measurement and introduced 'time in lieu'—one hour of paid time off for every extra hour worked—though some employees are skeptical the extra time will materialize when the project ends. On AI, Rockstar says it has not used AI on this project and the future is uncertain; Bloomberg earlier reported that Epic Games is all in on AI. On pricing, the game costs $80, with a $100 full package including bonuses. Analysts estimate it will sell about 40 million copies in its first few months, generating more than $3 billion in revenue—potentially bigger than the entirety of The Odyssey in just a few weeks. The map is based on Florida, and top developers took a research trip to Miami, including a helicopter ride to scope aerial views, police ride-alongs and meetings with criminals. It is also Rockstar's first modern game with a female protagonist.",
+      "conclusion_zh": "GTA 6 有望成为史上最大规模游戏发售，其首销数据与定价策略是观察 Rockstar 母公司 Take-Two 短期业绩弹性的关键变量。",
+      "conclusion_en": "GTA VI is poised to be the biggest game launch ever, and its initial sales and pricing will be key variables for near-term earnings leverage at Rockstar's parent Take-Two.",
+      "key_points": [
+        {
+          "zh": "GTA 6 定于11月19日发售，开发超十年、投入约20亿美元，被预期为史上最大游戏发售。",
+          "en": "GTA VI is set for a November 19 release after more than a decade of development and about $2 billion invested, expected to be the biggest game launch ever."
+        },
+        {
+          "zh": "分析师预计首几个月销量约4000万份、收入超30亿美元；前作 GTA 5 销量2.3亿份，为史上最畅销非移动游戏。",
+          "en": "Analysts estimate about 40 million copies sold in the first few months and more than $3 billion in revenue; predecessor GTA 5 sold 230 million copies, the best-selling non-mobile game ever."
+        },
+        {
+          "zh": "Rockstar 员工从2400人增至4700人，并推出“time in lieu”补休制度以缓解 crunch，但部分员工对兑现存疑。",
+          "en": "Rockstar grew from 2,400 to 4,700 employees and introduced 'time in lieu' paid time off to mitigate crunch, though some employees doubt it will be honored."
+        },
+        {
+          "zh": "Rockstar 称本项目未使用 AI；彭博报道 Epic Games 正全面押注 AI。",
+          "en": "Rockstar says it has not used AI on this project; Bloomberg reported Epic Games is all in on AI."
+        },
+        {
+          "zh": "游戏定价80美元，含全部奖励的完整套餐100美元；本作首次采用女性主角，地图以佛罗里达为原型。",
+          "en": "The game costs $80, with a $100 full package including bonuses; it features a female protagonist for the first time and a Florida-based map."
+        }
+      ],
+      "tags": [
+        "GTA6",
+        "Rockstar",
+        "video games",
+        "game launch",
+        "Take-Two"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
     },
     {
       "guid": "yt:6pinc2Io5fQ",
@@ -250,6 +299,72 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "4954971",
+      "title": "What Moved Markets This Week",
+      "title_zh": "美股周报：CPI超预期，科技股拖累纳指跌4.5%，VIX飙升",
+      "url": "https://seekingalpha.com/article/4954971-what-moved-markets-this-week?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-17T10:35:57+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility"
+      ],
+      "summary_zh": "美国9月CPI同比上涨3.7%，符合预期但较8月加速；科技股持续疲软，纳指本周重挫4.48%，标普500跌1.95%，道指微涨0.67%。周五VIX一度飙升约30%至21上方，创四个多月新高；银行股开启Q3财报季。",
+      "summary_en": "US September CPI rose 3.7% year-over-year, in line with consensus but accelerating from August's 3.4% gain. Tech stocks remained under pressure, dragging the Nasdaq down 4.48% for the week, while the S&P 500 fell 1.95% and the Dow edged up 0.67%. The VIX surged roughly 30% on Friday afternoon to above 21, a more than four-month high, as big banks kicked off Q3 earnings season.",
+      "detail_zh": "美国9月CPI同比上涨3.7%，与市场预期一致，但较8月的3.4%有所加速，显示通胀有所升温。科技股持续承压，纳指本周大跌4.48%，标普500下跌1.95%，道指则小幅上涨0.67%。周五下午，Cboe波动率指数（VIX）飙升约30%，升至21上方，创下四个多月新高，反映市场对科技股疲软的担忧加剧。Q3财报季由大型银行拉开帷幕，高盛、摩根大通、花旗、富国银行等均公布了业绩。板块方面，信息技术板块领跌，跌幅达6.4%；必需消费、能源和医疗保健板块表现较好，分别上涨5%、5%和3.4%。个股方面，Fair Isaac（FICO）大涨16%，Cognizant（CTSH）涨12%；Ciena（CIEN）、Coherent（COHR）、Lumentum（LITE）等科技股均大跌约25%。此外，美联储数据显示，2025年有五分之一的美国人未能按时偿还贷款或抵押贷款，比例高于2022年的八分之一，为2007年以来最高水平。",
+      "detail_en": "US September CPI rose 3.7% year-over-year, matching consensus but accelerating from 3.4% in August, indicating some heating up of inflation. Tech stocks remained under pressure, with the Nasdaq plunging 4.48% for the week, the S&P 500 falling 1.95%, while the Dow edged up 0.67%. On Friday afternoon, the Cboe Volatility Index (VIX) surged roughly 30% to trade above 21, reaching a more than four-month high, reflecting heightened concerns over tech weakness. Q3 earnings season kicked off with major banks including Goldman Sachs, JPMorgan, Citigroup, and Wells Fargo reporting results. By sector, Information Technology led declines with a 6.4% drop, while Consumer Staples, Energy, and Healthcare outperformed, rising 5%, 5%, and 3.4%, respectively. Among individual stocks, Fair Isaac (FICO) jumped 16% and Cognizant (CTSH) rose 12%, while Ciena (CIEN), Coherent (COHR), and Lumentum (LITE) each fell about 25%. Additionally, Federal Reserve data showed that 1 in 5 Americans fell behind on a loan or mortgage payment in 2025, up from 1 in 8 in 2022 and the highest level since 2007.",
+      "conclusion_zh": "通胀加速与科技股疲软叠加，市场波动加剧，投资者需关注财报季表现及利率路径对估值的影响。",
+      "conclusion_en": "Accelerating inflation and tech weakness are fueling market volatility; investors should watch earnings season and the rate path for valuation implications.",
+      "key_points": [
+        {
+          "zh": "美国9月CPI同比上涨3.7%，符合预期但较8月的3.4%加速。",
+          "en": "US September CPI rose 3.7% YoY, in line with expectations but accelerating from 3.4% in August."
+        },
+        {
+          "zh": "科技股疲软拖累纳指本周大跌4.48%，标普500跌1.95%，道指涨0.67%。",
+          "en": "Tech weakness dragged the Nasdaq down 4.48% for the week; S&P 500 fell 1.95%, Dow rose 0.67%."
+        },
+        {
+          "zh": "周五VIX飙升约30%至21上方，创四个多月新高。",
+          "en": "The VIX surged roughly 30% on Friday to above 21, a more than four-month high."
+        },
+        {
+          "zh": "Q3财报季开启，高盛、摩根大通、花旗、富国银行等大型银行公布业绩。",
+          "en": "Q3 earnings season began with results from Goldman Sachs, JPMorgan, Citigroup, Wells Fargo, and other major banks."
+        },
+        {
+          "zh": "美联储数据显示，2025年五分之一的美国人未能按时偿还贷款或抵押贷款，为2007年以来最高。",
+          "en": "Fed data shows 1 in 5 Americans fell behind on a loan or mortgage payment in 2025, the highest since 2007."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "tech selloff",
+        "VIX",
+        "earnings",
+        "Fed"
+      ],
+      "tickers": [
+        "GS",
+        "JPM",
+        "C",
+        "WFC",
+        "FICO",
+        "CTSH",
+        "EFX",
+        "BRO",
+        "ACN",
+        "CIEN",
+        "COHR",
+        "LITE",
+        "HPE",
+        "SKYD"
+      ],
+      "sentiment": "negative"
     },
     {
       "guid": "yt:aHO6knsn0aw",
