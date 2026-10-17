@@ -102,18 +102,10 @@ def _list_channel_videos(channel_url: str, limit: int) -> list[dict]:
 
 
 def list_recent_videos(channel_url: str, limit: int = 10, title_filter: str | None = None) -> list[dict]:
-    """Return recent videos (optionally filtered by title substring).
+    """Return recent videos from the channel RSS (free, 15 entries).
 
-    For title-filtered sources (podcasts buried under high-volume channels), use
-    TranscriptAPI's channel/videos endpoint (100+ entries) instead of RSS's 15.
+    Title filtering is applied to the RSS entries (used for the Bloomberg podcasts).
     """
-    from .. import config  # noqa: PLC0415
-
-    if title_filter and config.TRANSCRIPT_API_KEY:
-        all_videos = _list_channel_videos(channel_url, limit=100)
-        videos = [v for v in all_videos if title_filter.lower() in v["title"].lower()]
-        return videos[:limit]
-
     cid = _channel_id(channel_url)
     feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
     parsed = feedparser.parse(feed_url)
