@@ -1,6 +1,805 @@
 {
-  "generated_at": "2026-10-17T01:20:43.767655+00:00",
+  "generated_at": "2026-10-17T20:14:13.385905+00:00",
   "insights": [
+    {
+      "guid": "yt:b5W1Ev_W6uQ",
+      "title": "Why Quinn Just Shorted the Long End",
+      "title_zh": "交易员做空长端美债，认为收益率或已见顶但仓位极端",
+      "url": "https://www.youtube.com/watch?v=b5W1Ev_W6uQ",
+      "published_at": "2026-10-17T19:31:20+00:00",
+      "source_name": "Forward Guidance",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "一位交易员表示当日做空了长端美债作为短期交易，可能持有1-2周，理由是经济仍然尚可、AI交易不会被放任崩盘、并预期Anthropic完成IPO。他认为收益率可能已经见顶，但当日仓位已相当极端，因此进行短线操作。",
+      "summary_en": "A trader said he shorted the long end of the Treasury curve as a trade, potentially holding for one to two weeks, citing an economy that is still okay, a belief that the AI trade won't be allowed to implode, and an expectation that Anthropic gets out the door on its IPO. He thinks yields may have peaked but noted positioning got pretty extreme today, hence the scalp.",
+      "detail_zh": "该交易员表示，他当日做空了长端美债，作为一笔可能持有1-2周的交易。他的核心判断是：经济仍然尚可；他不认为政策层面会放任AI交易崩盘；并预期Anthropic将完成IPO。他同时表示，收益率可能已经见顶，但就短线而言，当日仓位已变得相当极端，因此选择做空长端进行交易。整体上他认为风险仍偏向向上。",
+      "detail_en": "The trader said he shorted the long end of the Treasury curve today as a trade he might hold for a week or two. His core views: the economy is still okay; he does not think they will let the AI trade implode; and he expects Anthropic to get out the door on its IPO. He also said yields may have peaked, but for a scalp, positioning got pretty extreme today, which is why he shorted the long end. Overall he sees risks generally skewing up.",
+      "conclusion_zh": "交易员短线做空长端美债，反映其对经济与AI主题不悲观，但警惕收益率见顶后的极端仓位。",
+      "conclusion_en": "The trader's short on the long end reflects a non-bearish view on the economy and AI theme, while flagging extreme positioning after a possible peak in yields.",
+      "key_points": [
+        {
+          "zh": "交易员当日做空长端美债，计划持有1-2周。",
+          "en": "The trader shorted the long end of Treasuries today, planning to hold for one to two weeks."
+        },
+        {
+          "zh": "他认为经济仍然尚可，不认为会放任AI交易崩盘。",
+          "en": "He believes the economy is still okay and does not think the AI trade will be allowed to implode."
+        },
+        {
+          "zh": "他预期Anthropic将完成IPO。",
+          "en": "He expects Anthropic to get out the door on its IPO."
+        },
+        {
+          "zh": "他认为收益率可能已见顶，但当日仓位极端，因此做短线。",
+          "en": "He thinks yields may have peaked, but positioning got extreme today, so he is scalping."
+        },
+        {
+          "zh": "整体风险仍偏向向上。",
+          "en": "Overall risks still skew up."
+        }
+      ],
+      "tags": [
+        "Treasuries",
+        "short-long-end",
+        "AI-trade",
+        "IPO",
+        "positioning"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:zoqBvldIoQk",
+      "title": "AI Debt Concerns, Russia Sanctions Waived, Making 'GTA VI'",
+      "title_zh": "特朗普豁免对俄能源制裁以换取柴油供应，乌克兰与欧洲不满",
+      "url": "https://www.youtube.com/watch?v=zoqBvldIoQk",
+      "published_at": "2026-10-17T16:32:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统豁免了即将生效的对俄能源出口制裁，作为与普京合作释放柴油供应协议的一部分。此举旨在平抑美国柴油价格以应对中期选举，但引发乌克兰和欧洲盟友的强烈不满，且未见普京立场改变。",
+      "summary_en": "President Trump waived sanctions on Russian energy exports that were set to take effect, as part of a deal with Putin to release diesel supply. The move aims to lower U.S. diesel prices ahead of midterms but has angered Ukraine and European allies, with no sign of Putin shifting position.",
+      "detail_zh": "特朗普总统豁免了原定于10月18日生效的对俄能源出口制裁，这些制裁是林赛·格雷厄姆法案的一部分，旨在针对俄罗斯官员和寡头。此举与特朗普寻求与普京合作释放柴油供应有关。彭博社俄罗斯编辑Anthony Halpin指出，俄罗斯战前占全球海运柴油约10%，豁免后可能恢复该市场地位；对克里姆林宫而言，虽无直接预算收益，但企业售油后税收最终流入国库，且此举带来进一步制裁放松的希望。白宫记者Jeff Mason分析，中期选举前特朗普民调落后，柴油价格是主因之一，因此豁免制裁主要出于国内政治考量。乌克兰方面对此极为不满，认为特朗普实际上站在了侵略者普京一边；欧洲盟友也持相同看法，认为只有加大压力才能让普京回到谈判桌，而白宫却反其道而行。泽连斯基被问及是否成为特朗普能源需求的替罪羊时，以沉默和微笑回应。目前没有证据表明美国政策正在改变普京的立场。",
+      "detail_en": "President Trump waived sanctions on Russian energy exports set to take effect on October 18, part of the Lindsey Graham bill targeting Russian officials and oligarchs. The move is linked to Trump's effort to work with Putin to release diesel supply. Bloomberg News Russia editor Anthony Halpin noted Russia accounted for about 10% of global seaborne diesel before the war and may restore that position after the waiver; for the Kremlin, while there is no direct budget benefit, companies will sell diesel and taxes will eventually flow to the state budget, and the deal provides hope for further sanctions relief. Bloomberg News White House correspondent Jeff Mason said Trump is underwater ahead of the midterms, with diesel prices a key factor, so the waiver is primarily driven by domestic politics. Ukraine is dismayed, seeing Trump effectively siding with Putin, the aggressor; European allies share the view that only increased pressure can bring Putin to the table, but the White House is relaxing pressure instead. Zelenskyy responded to a question about being a scapegoat with silence and a smile. There is no evidence U.S. policy is changing Putin's position.",
+      "conclusion_zh": "特朗普为平抑柴油价格而放松对俄制裁，短期或缓解能源成本压力，但地缘政治风险与盟友关系紧张值得关注。",
+      "conclusion_en": "Trump's easing of Russia sanctions to lower diesel prices may ease near-term energy cost pressure, but geopolitical risks and allied tensions warrant attention.",
+      "key_points": [
+        {
+          "zh": "特朗普豁免对俄能源出口制裁，原定10月18日生效，是林赛·格雷厄姆法案的一部分。",
+          "en": "Trump waived sanctions on Russian energy exports set to take effect Oct 18, part of the Lindsey Graham bill."
+        },
+        {
+          "zh": "豁免与寻求俄罗斯柴油供应有关，俄罗斯战前占全球海运柴油约10%。",
+          "en": "The waiver is tied to seeking Russian diesel supply; Russia accounted for about 10% of global seaborne diesel pre-war."
+        },
+        {
+          "zh": "白宫记者Jeff Mason称，中期选举前特朗普民调落后，柴油价格是主因之一，豁免主要出于政治考量。",
+          "en": "Bloomberg's Jeff Mason said Trump is underwater before midterms, diesel prices a key factor, making the waiver politically motivated."
+        },
+        {
+          "zh": "乌克兰和欧洲盟友认为，只有加大压力才能让普京回到谈判桌，但白宫反其道而行。",
+          "en": "Ukraine and European allies argue only increased pressure can bring Putin to the table, but the White House is doing the opposite."
+        },
+        {
+          "zh": "目前没有证据表明美国政策正在改变普京的立场。",
+          "en": "There is no evidence U.S. policy is changing Putin's position."
+        }
+      ],
+      "tags": [
+        "Russia sanctions",
+        "diesel",
+        "midterms",
+        "Ukraine",
+        "energy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uG8rz3ot2Dk",
+      "title": "Northwell CEO Says Health Care Model Must Change",
+      "title_zh": "Northwell Health CEO：美国医疗模式不可持续，需以患者为中心的负担能力改革",
+      "url": "https://www.youtube.com/watch?v=uG8rz3ot2Dk",
+      "published_at": "2026-10-17T14:01:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Northwell Health CEO John D'Angelo 表示，美国传统医疗模式不可持续，行业面临负担能力危机。他指出，慢性病流行推高成本，而现行报销体系奖励高利润率、高急性度诊疗，而非健康与预防。非营利医院财务压力巨大，纽约州约60%非营利医院亏损，平均利润率接近0%。",
+      "summary_en": "Northwell Health CEO John D'Angelo said the traditional U.S. healthcare model is unsustainable, with the industry facing an affordability crisis. He noted that the chronic disease epidemic drives up costs, while the current reimbursement system rewards high-margin, high-acuity procedures rather than wellness and prevention. Nonprofit hospitals are under severe financial pressure, with about 60% of nonprofit hospitals in New York State operating in the red and average margins near 0%.",
+      "detail_zh": "D'Angelo 在访谈中直言，美国医疗模式不可持续，负担能力危机影响所有利益相关方，改革需整体推进，不能牺牲可及性、质量或结果。作为急诊科医生出身的CEO，他坚持两条原则：做对患者最有利的事，做对照护者最有利的事。他指出，美国慢性病流行，糖尿病、高血压、肥胖症发病率成倍甚至三倍增长，是推高医疗成本的主因；而当前经济引擎是尽可能多地处理高利润率、高急性度的住院手术患者，支付基于疾病和伤害管理。他认为，真正的出路是关注驱动健康结果80%的生活选择和境遇，核心是健康与预防。非营利医院经营艰难，纽约州约60%非营利医院亏损，全州非营利医院平均利润率接近0%。Northwell 坚持使命，投入食品即健康、行为健康危机、无家可归者等不盈利领域。财务上，60%-70%患者由政府支付的 Medicaid 和 Medicare 覆盖，Medicaid 仅报销约70美分/美元，Medicare 约85-90美分/美元，医院在这部分患者上亏钱，需靠30%商业保险患者弥补以维持0%利润率。此外，人口老龄化、慢性病流行和劳动力短缺叠加，行业面临未来五年护士缺口约30-40万、医生缺口超8万的预测。",
+      "detail_en": "In the interview, D'Angelo stated bluntly that the U.S. healthcare model is unsustainable, with an affordability crisis affecting all stakeholders; reform must be holistic without breaking access, quality, or outcomes. As a physician CEO who started in emergency medicine, he holds two principles: do what's best for the patient, and do what's best for the people caring for patients. He noted that the U.S. has a chronic disease epidemic, with diabetes, hypertension, and obesity doubling and tripling, which ultimately drives up the cost of care. The current economic engine is how many high-margin, high-acuity procedural patients a hospital can put through, paid for managing illness and injury. He believes the real path forward is focusing on the 80% that drives health outcomes—life choices and circumstances—with wellness and prevention as the key to affordability. Nonprofit hospitals are struggling: about 60% of nonprofit hospitals in New York State are running in the red, and the average margin across nonprofits statewide is close to 0%. Northwell remains focused on its mission, including food is health, the behavioral health crisis, homelessness, and other non-profit-driving areas. Financially, 60-70% of patients are covered by government-paid Medicaid and Medicare; Medicaid reimburses about 70 cents on the dollar and Medicare about 85-90 cents, so hospitals lose money on that portion and must make it up from the 30% with commercial insurance just to maintain a 0% margin. Combined with an aging population, the chronic disease epidemic, and workforce shortages, the industry faces projections of about 300,000-400,000 fewer nurses and over 80,000 fewer doctors needed over the next five years.",
+      "conclusion_zh": "美国医疗体系面临负担能力与财务可持续性双重压力，非营利医院利润率极低，慢性病管理与健康预防或是破解成本困局的关键方向。",
+      "conclusion_en": "The U.S. healthcare system faces dual pressures of affordability and financial sustainability, with nonprofit hospital margins near zero; chronic disease management and wellness prevention may be key to breaking the cost dilemma.",
+      "key_points": [
+        {
+          "zh": "D'Angelo 认为美国传统医疗模式不可持续，负担能力危机影响所有利益相关方。",
+          "en": "D'Angelo believes the traditional U.S. healthcare model is unsustainable, with an affordability crisis affecting all stakeholders."
+        },
+        {
+          "zh": "慢性病流行（糖尿病、高血压、肥胖症成倍增长）是推高医疗成本的主因，现行报销体系奖励高利润率、高急性度诊疗而非健康预防。",
+          "en": "The chronic disease epidemic (diabetes, hypertension, obesity doubling and tripling) is the main driver of rising costs, and the current reimbursement system rewards high-margin, high-acuity procedures rather than wellness and prevention."
+        },
+        {
+          "zh": "纽约州约60%非营利医院亏损，全州非营利医院平均利润率接近0%。",
+          "en": "About 60% of nonprofit hospitals in New York State are running in the red, and the average margin across nonprofits statewide is close to 0%."
+        },
+        {
+          "zh": "Medicaid 仅报销约70美分/美元，Medicare 约85-90美分/美元，医院需靠30%商业保险患者弥补亏损以维持0%利润率。",
+          "en": "Medicaid reimburses about 70 cents on the dollar and Medicare about 85-90 cents, so hospitals must make up losses from the 30% of patients with commercial insurance just to maintain a 0% margin."
+        },
+        {
+          "zh": "行业面临劳动力短缺，未来五年预计护士缺口约30-40万、医生缺口超8万。",
+          "en": "The industry faces workforce shortages, with projections of about 300,000-400,000 fewer nurses and over 80,000 fewer doctors needed over the next five years."
+        }
+      ],
+      "tags": [
+        "healthcare",
+        "nonprofit hospitals",
+        "affordability",
+        "reimbursement",
+        "workforce"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:9YJ0PW9dEfw",
+      "title": "America's AI chip talent crisis",
+      "title_zh": "美国芯片制造面临人才短缺，高校与企业加紧培养半导体人才",
+      "url": "https://www.youtube.com/watch?v=9YJ0PW9dEfw",
+      "published_at": "2026-10-17T14:00:31+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "美国芯片制造业面临全球内存短缺、制造与封装产能有限及人力不足等多重瓶颈，预计到本十年末行业将短缺多达15.7万名工人。普渡大学等高校投入数亿美元开设半导体工程学位，SK海力士、三星等企业的新厂也急需招聘工程师和技术人员。",
+      "summary_en": "The U.S. chip manufacturing industry faces multiple bottlenecks including a global memory shortage, limited manufacturing and packaging capacity, and manpower shortages, with the industry projected to be short up to 157,000 workers by the end of the decade. Universities like Purdue are investing hundreds of millions in semiconductor engineering programs, while companies such as SK Hynix and Samsung are hiring engineers and technicians for new fabs.",
+      "detail_zh": "文章指出，美国在AI芯片制造方面面临多重瓶颈：全球内存短缺、制造与封装产线产能有限以及人力不足。普渡大学作为拥有150多年历史的工程强校，现已设立实验室，让学生操作全球最复杂的机械，为五年前还不存在的学位做准备。台积电、英特尔、三星、美光等几乎所有大型芯片制造商目前都在美国生产芯片，但到本十年末，行业将短缺多达15.7万名工人。美国虽是半导体发源地和芯片设计领先者，但数十年来几乎所有先进芯片都在亚洲制造，因此亚洲的人才管道最强。每年只有3%的美国工程专业毕业生进入半导体行业，近四分之三的雇主报告难以填补工程岗位。亚利桑那州立大学和普渡大学等学校投入数亿美元开展CHIP项目，以激发兴趣和技能，让美国学生填补附近大型芯片厂（如普渡附近在建的SK海力士工厂，以及三星在得克萨斯州350亿美元的投资项目）的数千个职位。三星在得州的新厂预计今年晚些时候投产，第二座工厂正在建设中，总计约3500个工作岗位。三星表示，正在招聘工程师、技术人员和供应链人员，且根据各公司宣布的投资，未来几年每年都需要数百人。",
+      "detail_en": "The article notes that the U.S. faces multiple bottlenecks in AI chip manufacturing: a global memory shortage, limited capacity on manufacturing and packaging lines, and manpower shortages. Purdue University, an engineering powerhouse for over 150 years, now has a lab where students train on some of the world's most complex machinery, preparing for degrees that didn't exist five years ago. Taiwan Semiconductor, Intel, Samsung, and Micron—almost all the biggest players—now make chips in the U.S., but by the end of the decade, the industry will be short up to 157,000 workers. While America is the birthplace of semiconductors and leads in chip design, for decades almost all advanced chips have been manufactured in Asia, where talent pipelines are strongest. Only 3% of U.S. engineering graduates enter the semiconductor industry each year, and nearly three-quarters of employers report significant difficulty filling engineering roles. Schools like Arizona State and Purdue are investing hundreds of millions in CHIP programs to drum up excitement and know-how so American students can fill thousands of openings at massive chip fabs popping up nearby, such as SK Hynix's being built near Purdue and Samsung's $35 billion Texas buildout, where the first new fab will be in production later this year and a second is under construction for a total of some 3,500 jobs. Samsung says it is hiring engineers, technicians, and supply chain people, and given the investments everyone is announcing, this is hundreds of people needed every year for several years.",
+      "conclusion_zh": "美国芯片制造回流面临显著的人才瓶颈，高校与企业正加大投入培养半导体工程人才，但人才管道建设仍需时间，可能制约美国在AI芯片领域的雄心。",
+      "conclusion_en": "The U.S. chip manufacturing reshoring faces a significant talent bottleneck; universities and companies are ramping up investment in semiconductor engineering education, but building the talent pipeline will take time and could constrain U.S. ambitions in AI chips.",
+      "key_points": [
+        {
+          "zh": "到本十年末，美国芯片行业将短缺多达15.7万名工人。",
+          "en": "By the end of the decade, the U.S. chip industry will be short up to 157,000 workers."
+        },
+        {
+          "zh": "每年只有3%的美国工程专业毕业生进入半导体行业，近四分之三的雇主难以填补工程岗位。",
+          "en": "Only 3% of U.S. engineering graduates enter the semiconductor industry each year, and nearly three-quarters of employers report difficulty filling engineering roles."
+        },
+        {
+          "zh": "台积电、英特尔、三星、美光等几乎所有大型芯片制造商目前都在美国生产芯片。",
+          "en": "Taiwan Semiconductor, Intel, Samsung, Micron—almost all the biggest players—now make chips in the U.S."
+        },
+        {
+          "zh": "普渡大学和亚利桑那州立大学等高校投入数亿美元开展半导体CHIP项目。",
+          "en": "Schools like Purdue and Arizona State are investing hundreds of millions in semiconductor CHIP programs."
+        },
+        {
+          "zh": "三星在得克萨斯州投资350亿美元，新厂预计今年晚些时候投产，第二座工厂正在建设中，总计约3500个工作岗位。",
+          "en": "Samsung's $35 billion Texas buildout: the first new fab will be in production later this year, a second is under construction, for a total of some 3,500 jobs."
+        }
+      ],
+      "tags": [
+        "semiconductors",
+        "workforce shortage",
+        "US chip manufacturing",
+        "education",
+        "AI chips"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PNTnVNa69cI",
+      "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
+      "title_zh": "芝加哥联储主席古尔斯比走访伊利诺伊农场：关税与柴油成本挤压农户，供应冲击或需美联储回应",
+      "url": "https://www.youtube.com/watch?v=PNTnVNa69cI",
+      "published_at": "2026-10-17T14:00:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "芝加哥联储主席古尔斯比在伊利诺伊州农村调研，农户反映关税压低作物价格、柴油价格同比上涨约80%、化肥与种子成本上升，利润受挤压。古尔斯比表示，过去五六年的大型供应冲击对通胀的影响比最初估计更持久，若供应冲击持续推高通胀，美联储不能忽视。",
+      "summary_en": "Chicago Fed President Austan Goolsbee toured rural Illinois, where farmers reported that tariffs have pushed crop prices lower, diesel prices are roughly 80% higher than a year ago, and fertilizer and seed costs have risen, squeezing profitability. Goolsbee said the large supply shocks of the past five to six years have had more persistent inflation effects than initially estimated, and that the Fed cannot ignore persistent supply-driven inflation.",
+      "detail_zh": "芝加哥联储主席古尔斯比随彭博的Michael McKee走访伊利诺伊州农村，了解第七联储区的实地经济状况。农户Troy Uphoff表示，作物价格下跌主要因关税，关税本质上是对产品征税，会压低美国农产品价格，因为其他国家会报复性加征关税，美国农民受关税打击严重。Uphoff还提到柴油价格目前约为一年前的80%涨幅，柴油、种子、化肥等投入成本上升速度快于农产品价格，过去几年农户盈利能力很低。Uphoff希望古尔斯比从农场实地而非电子表格了解农户资产负债表受低价作物影响的情况。古尔斯比表示，地区联储与当地消费者和企业直接接触，有助于在数据滞后、货币政策传导需一年以上的情况下把握转折时点的时机。对于柴油和化肥等利率政策无法影响的成本，古尔斯比称央行面对滞胀性冲击没有明显剧本；历史上中小型供应冲击自行消退的速度快于货币政策见效速度，但过去五六年从疫情供应中断、大范围关税到油价冲击，每一次对通胀的影响都比最初估计更持久。他表示，美联储已超过五年高于2%通胀目标，若供应冲击持续并威胁通胀高于目标，美联储别无选择，至少必须尝试应对和降低通胀，尽管力度和形式不必与应对需求过热相同。文章还提到，美联储主席Kevin Warsh在杰克逊霍尔会议上坚持央行仍致力于让通胀回到2%，而其主要工具是提高短期利率，这可能加重已面临高成本的农户的借贷负担。古尔斯比还回应了美联储官员讲话过多的批评，认为需要更多向公众解释美联储是谁、做什么。",
+      "detail_en": "Chicago Fed President Austan Goolsbee toured rural Illinois with Bloomberg's Michael McKee to hear about the economy on the ground in the Seventh Fed District. Farmer Troy Uphoff said crop prices are lower mainly due to tariffs, which he described as a tax on a product that lowers U.S. prices because other countries retaliate with their own tariffs; American farmers have been hit very hard by tariffs. Uphoff said diesel fuel is roughly 80% higher than a year ago, and that diesel, seed and fertilizer costs have risen faster than commodity prices, leaving farmers with little profitability for the past couple of years. Uphoff wanted Goolsbee to hear directly from the farm, not from a spreadsheet, about how lower commodity prices have affected growers' balance sheets. Goolsbee said direct contact with consumers and businesses in the region helps the Fed get the timing right at moments of transition, given lagged data and the year-plus lag of monetary policy. On costs such as diesel and fertilizer that rate moves won't affect, Goolsbee said the nightmare for a central bank is facing stagflationary shocks because there is no obvious playbook; historically small to medium supply shocks went away faster than monetary policy works, but over the past five to six years, from Covid supply disruption to big tariffs to big oil price shocks, each has had a substantially more persistent impact on inflation than first estimates suggested. He said inflation has been above the 2% target for more than five years, and if supply shocks are persistent and threaten to drive inflation above target, the Fed has no choice but to at least try to address and reduce inflation, though not necessarily with the same magnitude or form as fighting overheated demand. The article also noted that Fed Chair Kevin Warsh insisted at Jackson Hole that the central bank remains committed to getting inflation back to 2%, and that its main tool, raising short-term rates, can make borrowing more expensive for farmers already facing high costs. Goolsbee also responded to criticism that Fed officials speak too much, saying more demystification of what the Fed is and does is needed.",
+      "conclusion_zh": "古尔斯比的表态显示，供应端冲击的持续性正成为美联储决策的重要考量，若通胀持续高于目标，即便源于供应面，美联储也可能不得不回应，这构成利率路径的上行风险。",
+      "conclusion_en": "Goolsbee's remarks suggest the persistence of supply-side shocks is a key consideration for the Fed; if inflation stays above target even from supply-side sources, the Fed may have to respond, posing upside risk to the rate path.",
+      "key_points": [
+        {
+          "zh": "农户称作物价格下跌主要因关税，关税本质是产品税并招致报复，美国农民受打击严重。",
+          "en": "Farmers say lower crop prices are mainly due to tariffs, which act as a tax on products and invite retaliation, hitting American farmers hard."
+        },
+        {
+          "zh": "柴油价格目前约为一年前的80%涨幅，叠加种子、化肥成本上升快于农产品价格，农户过去几年盈利很低。",
+          "en": "Diesel is roughly 80% higher than a year ago, and with seed and fertilizer costs rising faster than commodity prices, farmers have had little profitability for the past couple of years."
+        },
+        {
+          "zh": "古尔斯比称过去五六年疫情供应中断、大范围关税、油价冲击等供应冲击对通胀的影响比最初估计更持久。",
+          "en": "Goolsbee said supply shocks over the past five to six years—Covid disruption, big tariffs, oil price shocks—have had more persistent inflation effects than initially estimated."
+        },
+        {
+          "zh": "古尔斯比表示美联储已超过五年高于2%通胀目标，若供应冲击持续威胁通胀，美联储别无选择必须尝试应对。",
+          "en": "Goolsbee said inflation has been above the 2% target for more than five years, and if supply shocks persist and threaten inflation, the Fed has no choice but to try to address it."
+        },
+        {
+          "zh": "美联储主席Warsh在杰克逊霍尔重申致力于让通胀回到2%，而加息工具可能加重农户借贷成本。",
+          "en": "Fed Chair Kevin Warsh reaffirmed at Jackson Hole the commitment to returning inflation to 2%, while the rate tool can raise borrowing costs for farmers."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "tariffs",
+        "inflation",
+        "supply shocks",
+        "agriculture"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:IwwsTx0xNX0",
+      "title": "AI Selloff Tests Investor Confidence",
+      "title_zh": "Ritholtz：AI交易进入分化期，赢家难辨；特斯拉估值与基本面脱节",
+      "url": "https://www.youtube.com/watch?v=IwwsTx0xNX0",
+      "published_at": "2026-10-17T13:04:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Barry Ritholtz 认为，CoreWeave 的波动反映的是市场对 AI 交易整体 nervous 情绪，而非单一事件；AI 作为变革性技术必然产生赢家与输家，且难以提前判断。他质疑英伟达 CEO 黄仁勋的乐观表态因其并非利益中立方，并以宽带建设泡沫类比 AI 基础设施投资。对于特斯拉与 SpaceX 合并传闻，他认为特斯拉估值已与基本面脱节，且产品推出迟缓、面临比亚迪竞争。",
+      "summary_en": "Barry Ritholtz argues that CoreWeave's volatility reflects broader market nervousness about the AI trade rather than a single event; as a transformational technology, AI will inevitably produce winners and losers that are hard to predict in advance. He questions Jensen Huang's optimistic comments given his non-neutral position, and draws parallels to the broadband buildout bubble. On a potential Tesla-SpaceX merger, he says Tesla's valuation is disconnected from fundamentals, with slow product rollouts and rising competition from BYD.",
+      "detail_zh": "Ritholtz 指出，围绕 AI 交易存在诸多交叉因素，CoreWeave 的波动被归因于油价、收益率及其自身债务，但他认为更广泛的问题是市场自 2009 年低点以来已大幅上涨，投资者开始紧张。市场历史表明，每次新技术出现都会伴随赢家、输家和大量错配，目前尚不清楚生成式、代理式、基于 token 等哪些 AI 方向最终能盈利。他认为更大的威胁来自 DeepSeek 等开源 AI 系统，而非 AI 无法赚钱；Cantor Fitzgerald 称 2027 年数据中心产能已售罄，说明资金并非问题，关键在于哪些公司能存活。对于黄仁勋“一切都会过去”的表态，Ritholtz 称其并非利益中立方，但认同技术转型不可逆、新闻噪音不改变基本面。他以宽带建设为例，Juniper、Global Crossing、Metro Media Fiber 等公司破产，但廉价宽带资产催生了 YouTube、Netflix 等赢家，AI 可能类似，但赢家难以猜测，需放眼五到十年。关于特斯拉与 SpaceX 合并传闻，他称飞行汽车是噱头；特斯拉五年前领先十年，但如今估值假设其拥有 80% 电动车市场份额、市值是丰田五倍，而利润率仅为丰田八分之一，估值脱节。特斯拉新产品推出迟缓，比亚迪在续航、马力、价格上占优，正进入欧洲和加拿大，存在产品倾销担忧。",
+      "detail_en": "Ritholtz notes many crosscurrents around the AI trade; CoreWeave's volatility was attributed to oil prices, yields and its own debt, but he sees the broader issue as a market that has run spectacularly since the 2009 lows, making investors nervous. Market history shows every new technology brings winners, losers and massive misallocation, and it is unclear which AI approaches—agentic, generative, task-based, token-based—will ultimately be profitable. He sees open-source AI systems like DeepSeek as a bigger threat than AI failing to make money; Cantor Fitzgerald said all 2027 data-center capacity was already sold out, suggesting funding is not the problem—the question is which companies survive. On Jensen Huang's 'all of this is gonna pass' comment, Ritholtz says Huang is not a disinterested party, though he agrees the platform transition is irreversible and news noise won't change fundamentals. He cites the broadband buildout: Juniper, Global Crossing and Metro Media Fiber went bankrupt, but cheap broadband assets enabled winners like YouTube and Netflix; AI may follow a similar path, but winners are nearly impossible to guess and require a five-to-ten-year view. On a potential Tesla-SpaceX merger, he calls the flying car a gimmick; Tesla was a decade ahead five years ago, but its valuation assumes 80% EV market share and a market cap five times Toyota's while its profit margin is about one-eighth of Toyota's—a disconnect. Tesla has been slow to launch new products, and BYD leads on range, horsepower and price, expanding into Europe and Canada, raising product-dumping concerns.",
+      "conclusion_zh": "AI 交易正从普涨转向分化，投资者应降低对单一赢家的押注，放眼五到十年并考虑指数化配置；特斯拉的估值风险与竞争压力值得警惕。",
+      "conclusion_en": "The AI trade is shifting from broad gains to differentiation; investors should reduce bets on single winners, take a five-to-ten-year view and consider indexing, while Tesla's valuation risk and competitive pressure warrant caution.",
+      "key_points": [
+        {
+          "zh": "CoreWeave 波动反映的是市场对 AI 交易的整体紧张情绪，而非孤立事件；AI 技术变革必然产生赢家与输家，且难以提前判断。",
+          "en": "CoreWeave's volatility reflects broad market nervousness about the AI trade, not an isolated event; AI disruption will inevitably create winners and losers that are hard to predict."
+        },
+        {
+          "zh": "Ritholtz 认为开源 AI（如 DeepSeek）是更大威胁，而非 AI 无法盈利；Cantor Fitzgerald 称 2027 年数据中心产能已售罄，资金不是问题。",
+          "en": "Ritholtz sees open-source AI like DeepSeek as a bigger threat than AI failing to make money; Cantor Fitzgerald says 2027 data-center capacity is sold out, so funding is not the issue."
+        },
+        {
+          "zh": "黄仁勋的乐观表态因其非利益中立方而需谨慎看待，但 Ritholtz 认同技术转型不可逆、新闻噪音不改变基本面。",
+          "en": "Jensen Huang's optimism should be viewed cautiously given his non-neutral position, though Ritholtz agrees the platform transition is irreversible and news noise won't change fundamentals."
+        },
+        {
+          "zh": "以宽带建设泡沫为鉴：大量公司破产，但廉价资产催生了 YouTube、Netflix 等赢家；AI 赢家需放眼五到十年，指数化投资是合理选择。",
+          "en": "The broadband bubble saw many bankruptcies but cheap assets enabled winners like YouTube and Netflix; AI winners require a five-to-ten-year view, making indexing a reasonable approach."
+        },
+        {
+          "zh": "特斯拉估值与基本面脱节：假设 80% 电动车份额、市值为丰田五倍，但利润率仅为丰田八分之一；产品推出迟缓，比亚迪在续航、马力、价格上占优。",
+          "en": "Tesla's valuation is disconnected from fundamentals: it assumes 80% EV share and a market cap five times Toyota's while its margin is one-eighth of Toyota's; product launches are slow and BYD leads on range, horsepower and price."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "CoreWeave",
+        "Nvidia",
+        "Tesla",
+        "BYD"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PxH2L5Q9kA4",
+      "title": "By The Way: Headlines You May Have Missed",
+      "title_zh": "特斯拉Roadster原型亮相与退休储蓄焦虑：市场杂谈",
+      "url": "https://www.youtube.com/watch?v=PxH2L5Q9kA4",
+      "published_at": "2026-10-17T12:54:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特斯拉发布延迟已久的Roadster跑车原型，设计包含SpaceX空气推进器，但量产要等到2028年，引发市场对其真实性和实用性的质疑。同时，美国退休者因担忧储蓄耗尽而推迟享受生活，超六成拥有至少50万美元可投资资产的退休者不愿为享乐花钱。",
+      "summary_en": "Tesla unveiled a prototype of its long-delayed Roadster sports car, featuring SpaceX air thrusters, but production isn't until 2028, raising questions about its authenticity and practicality. Meanwhile, U.S. retirees are postponing enjoyment to protect savings, with over 60% of those with $500,000+ in investable assets uncomfortable spending on enjoyment.",
+      "detail_zh": "特斯拉发布了延迟已久的Roadster跑车原型，该车设计包含SpaceX的空气推进器，可使车辆在空中翻转。视频引发广泛讨论，许多人质疑其真实性，认为可能是模型或特效。评论指出，这可能是将特斯拉与SpaceX更紧密联系的一种举措。两家公司都将在下周发布财报，时机引人关注。但Roadster的量产要等到2028年，且已有消费者为此支付了订金，交付仍遥遥无期。此外，一项研究显示，超过60%拥有至少50万美元可投资资产的退休者不愿为享乐花钱，超过一半的人最大担忧是“人活着钱没了”。成本上升、寿命延长以及社保福利可能被削减是主要顾虑。",
+      "detail_en": "Tesla unveiled a prototype of its long-delayed Roadster sports car, designed with SpaceX air thrusters that allow it to flip in mid-air. The video sparked widespread discussion, with many questioning its authenticity, suggesting it might be a model or special effect. Commentators noted it could be a move to bring Tesla and SpaceX closer together. Both companies are reporting earnings next week, a notable timing. However, Roadster production isn't until 2028, and customers who have already put money down are still waiting. Additionally, a study shows more than 60% of retirees with $500,000+ in investable assets are uncomfortable spending on enjoyment, and more than half cite running out of money before death as their biggest concern. Rising costs, longer lifespans, and potential Social Security benefit cuts are key worries.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特斯拉Roadster原型亮相，配备SpaceX空气推进器，但量产要等到2028年。",
+          "en": "Tesla's Roadster prototype features SpaceX air thrusters, but production is not until 2028."
+        },
+        {
+          "zh": "视频引发真实性争议，许多人质疑其是否为模型或特效。",
+          "en": "The video sparked authenticity debates, with many questioning if it's a model or CGI."
+        },
+        {
+          "zh": "特斯拉和SpaceX均将于下周发布财报，时机引人关注。",
+          "en": "Both Tesla and SpaceX are reporting earnings next week, drawing attention to the timing."
+        },
+        {
+          "zh": "超六成拥有至少50万美元可投资资产的退休者不愿为享乐花钱，最大担忧是“人活着钱没了”。",
+          "en": "Over 60% of retirees with $500k+ investable assets are reluctant to spend on enjoyment, with the biggest fear being running out of money."
+        },
+        {
+          "zh": "成本上升、寿命延长及社保福利可能削减是退休者的主要顾虑。",
+          "en": "Rising costs, longer lifespans, and potential Social Security cuts are key retiree concerns."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "Roadster",
+        "retirement",
+        "savings"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:f4pm77GjtsI",
+      "title": "Rockstar Rebuilt Itself to Make GTA VI",
+      "title_zh": "GTA 6 定档11月19日：开发投入约20亿美元，首销预期超30亿美元",
+      "url": "https://www.youtube.com/watch?v=f4pm77GjtsI",
+      "published_at": "2026-10-17T12:14:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Rockstar 的《侠盗猎车手6》定于11月19日发售，开发历时十余年、投入约20亿美元，被视为史上最大规模游戏发售。分析师预计其首几个月销量约4000万份、收入超30亿美元；Rockstar 为缓解“crunch”（过度加班）将团队规模从2400人扩至4700人，并推出“time in lieu”补休制度，但受访员工仍对能否兑现补休存疑。",
+      "summary_en": "Rockstar's Grand Theft Auto VI is set for a November 19 release after more than a decade of development and roughly $2 billion invested, billed as the biggest video game launch ever. Analysts estimate it could sell about 40 million copies in its first few months, generating more than $3 billion in revenue; to mitigate 'crunch,' Rockstar doubled its studio from 2,400 to 4,700 people and introduced 'time in lieu' paid time off, though some employees are skeptical the extra time will materialize.",
+      "detail_zh": "《侠盗猎车手6》是 Rockstar 旗下 GTA 系列第六部，定于11月19日正式发售，开发超过十年、投入约20亿美元，被预期为史上最大规模的游戏发售。上一部 GTA 5 于2013年发售，销量达2.3亿份，是史上最畅销的非移动游戏；Rockstar 在两者之间于2018年推出了《荒野大镖客2》，此后才全力投入本作。2018年至当前，Rockstar 员工规模从2400人翻倍至4700人，公司为此搭建了中层管理和制作团队；扩编部分源于《荒野大镖客2》发售后围绕“crunch”（过度加班）的争议。为缓解加班，公司称改善了排期与工作量衡量，并推出“time in lieu”——每加班一小时可换取一小时带薪休假，但受访员工对项目结束后能否真正兑现补休存疑。AI 方面，Rockstar 表示本项目未使用 AI，未来尚不确定；彭博此前报道 Epic Games 正全面押注 AI。定价上，游戏售价80美元，含全部奖励的完整套餐为100美元。分析师预计本作首几个月销量约4000万份、收入超30亿美元，规模可能在数周内超过《奥德赛》全作。本作地图以佛罗里达为原型，开发团队曾赴迈阿密实地考察，包括乘直升机勘察城市鸟瞰、参加警察随行、与罪犯会面等。本作也是 Rockstar 现代作品中首次采用女性主角。",
+      "detail_en": "Grand Theft Auto VI, the sixth installment in Rockstar's GTA series, is set for an official November 19 release after more than a decade of development and roughly $2 billion invested, and is expected to be the biggest video game launch ever. The prior title, GTA 5, released in 2013 and sold 230 million copies, making it the best-selling non-mobile game of all time; Rockstar released Red Dead Redemption 2 in 2018 in between, and has been in full production on this game since then. Between 2018 and now, Rockstar doubled in size from 2,400 to 4,700 employees, building out a layer of middle management and a production team; the expansion was partly driven by the controversy over 'crunch' (excessive overtime) after Red Dead Redemption 2's release. To mitigate crunch, the company says it improved scheduling and workload measurement and introduced 'time in lieu'—one hour of paid time off for every extra hour worked—though some employees are skeptical the extra time will materialize when the project ends. On AI, Rockstar says it has not used AI on this project and the future is uncertain; Bloomberg earlier reported that Epic Games is all in on AI. On pricing, the game costs $80, with a $100 full package including bonuses. Analysts estimate it will sell about 40 million copies in its first few months, generating more than $3 billion in revenue—potentially bigger than the entirety of The Odyssey in just a few weeks. The map is based on Florida, and top developers took a research trip to Miami, including a helicopter ride to scope aerial views, police ride-alongs and meetings with criminals. It is also Rockstar's first modern game with a female protagonist.",
+      "conclusion_zh": "GTA 6 有望成为史上最大规模游戏发售，其首销数据与定价策略是观察 Rockstar 母公司 Take-Two 短期业绩弹性的关键变量。",
+      "conclusion_en": "GTA VI is poised to be the biggest game launch ever, and its initial sales and pricing will be key variables for near-term earnings leverage at Rockstar's parent Take-Two.",
+      "key_points": [
+        {
+          "zh": "GTA 6 定于11月19日发售，开发超十年、投入约20亿美元，被预期为史上最大游戏发售。",
+          "en": "GTA VI is set for a November 19 release after more than a decade of development and about $2 billion invested, expected to be the biggest game launch ever."
+        },
+        {
+          "zh": "分析师预计首几个月销量约4000万份、收入超30亿美元；前作 GTA 5 销量2.3亿份，为史上最畅销非移动游戏。",
+          "en": "Analysts estimate about 40 million copies sold in the first few months and more than $3 billion in revenue; predecessor GTA 5 sold 230 million copies, the best-selling non-mobile game ever."
+        },
+        {
+          "zh": "Rockstar 员工从2400人增至4700人，并推出“time in lieu”补休制度以缓解 crunch，但部分员工对兑现存疑。",
+          "en": "Rockstar grew from 2,400 to 4,700 employees and introduced 'time in lieu' paid time off to mitigate crunch, though some employees doubt it will be honored."
+        },
+        {
+          "zh": "Rockstar 称本项目未使用 AI；彭博报道 Epic Games 正全面押注 AI。",
+          "en": "Rockstar says it has not used AI on this project; Bloomberg reported Epic Games is all in on AI."
+        },
+        {
+          "zh": "游戏定价80美元，含全部奖励的完整套餐100美元；本作首次采用女性主角，地图以佛罗里达为原型。",
+          "en": "The game costs $80, with a $100 full package including bonuses; it features a female protagonist for the first time and a Florida-based map."
+        }
+      ],
+      "tags": [
+        "GTA6",
+        "Rockstar",
+        "video games",
+        "game launch",
+        "Take-Two"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:6pinc2Io5fQ",
+      "title": "We Asked a $17B International Manager Why Value is Winning Again — and What the S&P 500 Leaves Out",
+      "title_zh": "价值投资老将复盘：从深度价值到质量复利，再到动态风险仪表盘",
+      "url": "https://www.youtube.com/watch?v=6pinc2Io5fQ",
+      "published_at": "2026-10-17T12:09:35+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "T. Rowe Price全球股票投资组合经理Colin回顾其自1989年以来的价值投资生涯，总结出三条经验：深度价值需要情绪韧性、质量复利适用于无形资产主导的经济、以及通过估值离散度和绝对便宜程度构建自上而下的风险仪表盘来动态管理风险。他强调价值投资并非静态策略，而需在极端便宜且心理压力最大时加大风险暴露。",
+      "summary_en": "Colin, a portfolio manager at T. Rowe Price's global equity division, reflects on his value investing career since 1989, distilling three lessons: deep value requires emotional resilience, quality compounding applies to an intangible-asset-driven economy, and a top-down risk dashboard tracking valuation dispersion and absolute cheapness helps dynamically manage risk. He stresses that value investing is not static and requires ramping up risk when stocks are extremely cheap and psychological pressure is highest.",
+      "detail_zh": "Colin于1989年在英国Phillips and Drew基金管理部门开始职业生涯，该机构以深度价值投资著称，他形容其理念为“在垃圾桶里翻找别人扔掉的东西”。这段经历让他掌握了价值投资的工具与技巧，更重要的是一种情绪韧性——在收件箱充满负面观点时仍能舒适地买入。他职业生涯前半段正值价值投资持续跑赢的时期，他一度疑惑为何并非人人采用价值策略；后半段则艰难地得到了答案。离开UBS后他加入摩根士丹利全球价值团队，从“深度脏价值”一端转向“质量复利”一端，最初六个月对高估值感到困惑，但逐渐认识到基于品牌、技术等无形资产的思考框架更适用于日益无形的经济，而传统格雷厄姆式框架更侧重硬资产。他在全球金融危机结束时离开摩根士丹利，加入英国精品机构T. Rowe Price（原文为“Tro”，疑为T. Rowe Price）设立价值股票基金，恰逢价值投资自大萧条以来最差的十年。他从中学习到个人韧性、区分结构性vs周期性逆风，并发现价值在逆境中仍有阶段性表现但缺乏持续性。他由此开发了一套自上而下的风险仪表盘，采用红绿灯指标跟踪市场估值离散度，寻找“失宠者极度失宠”且绝对估值便宜的条件，以类似21点算牌的方式动态管理风险——在牌面有利时重注，不利时收敛。",
+      "detail_en": "Colin began his career in 1989 at Phillips and Drew Fund Management in the UK, a firm synonymous with deep value investing, whose motto he paraphrased as 'fishing in the garbage cans for things others have thrown out.' That experience taught him the tools and techniques of value investing, but more importantly emotional resilience—being comfortable buying when your inbox is full of people explaining why a stock is awful. The first half of his career coincided with a period when value investing worked, and he wondered why not everyone did it; the second half taught him the answer the hard way. After leaving UBS, he joined Morgan Stanley's global value team, moving from the 'deep and dirty value' end to the 'quality compounding' end. Initially puzzled for six months about why they paid so much for stocks, he came to see a different thought process suited to companies built on intangible assets like brands and technology, whereas the Graham school he grew up in focused on hard assets. He left Morgan Stanley at the end of the GFC and joined a UK boutique (referred to as 'Tro', likely T. Rowe Price) to set up a value equity fund, launching just into what was probably the worst decade for value outside the Great Depression. He learned about personal resilience, distinguishing structural versus cyclical drivers of out-of-favor businesses, and observed that even during value's underperformance there were spurts when value worked but not durably. This led him to develop a top-down risk dashboard with traffic-light indicators tracking valuation dispersion, looking for conditions where what was out of favor was really out of favor and absolutely cheap, and to manage risk dynamically like counting cards at a blackjack table—betting heavily when the deck is favorable and keeping cards closer to the chest otherwise.",
+      "conclusion_zh": "价值投资并非静态策略，需结合自下而上的个股选择与自上而下的风险仪表盘，在极端便宜且心理压力最大时动态加大风险暴露。",
+      "conclusion_en": "Value investing is not a static strategy; it requires combining bottom-up stock selection with a top-down risk dashboard to dynamically increase risk exposure when assets are extremely cheap and psychological pressure is highest.",
+      "key_points": [
+        {
+          "zh": "深度价值投资的核心挑战在于情绪韧性：在负面信息充斥时仍能坚持买入。",
+          "en": "The core challenge of deep value investing is emotional resilience: buying when negative information is overwhelming."
+        },
+        {
+          "zh": "从深度价值转向质量复利，反映了经济中无形资产占比上升的现实。",
+          "en": "The shift from deep value to quality compounding reflects the rising share of intangible assets in the economy."
+        },
+        {
+          "zh": "价值投资在长期跑赢后可能经历长期低迷，需区分结构性vs周期性逆风。",
+          "en": "Value investing can experience prolonged underperformance after long outperformance; distinguishing structural vs cyclical headwinds is key."
+        },
+        {
+          "zh": "自上而下的风险仪表盘跟踪估值离散度和绝对便宜程度，帮助动态调整风险暴露。",
+          "en": "A top-down risk dashboard tracking valuation dispersion and absolute cheapness helps dynamically adjust risk exposure."
+        },
+        {
+          "zh": "最佳买入时机往往是心理压力最大、失宠资产极度失宠且绝对估值便宜之时。",
+          "en": "The best buying opportunities often occur when psychological pressure is highest and out-of-favor assets are extremely cheap in absolute terms."
+        }
+      ],
+      "tags": [
+        "value investing",
+        "portfolio management",
+        "risk management",
+        "quality compounding",
+        "valuation dispersion"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uzNY8RcWYpM",
+      "title": "The EV Bust Creating a New Battery Boom",
+      "title_zh": "特朗普政策意外推动储能电池发展：电动车补贴退坡，电池制造商转向电网储能",
+      "url": "https://www.youtube.com/watch?v=uzNY8RcWYpM",
+      "published_at": "2026-10-17T12:00:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普政府对电动车支持减弱，却意外为电网储能电池创造发展契机。电池制造商正将车用电池产能转向大型储能系统，联邦税收优惠和本土制造要求进一步推动该趋势。Wood Mackenzie数据显示美国电池储能年装机量五年增长16倍，但供应链重组可能导致2026-2027年增速暂时放缓。",
+      "summary_en": "The Trump administration's reduced support for EVs has inadvertently created an opportunity for grid-scale battery storage. Battery manufacturers are pivoting from EV cells to large-scale storage systems, aided by federal tax incentives and domestic manufacturing requirements. Wood Mackenzie data shows U.S. battery storage annual installations grew 16x in five years, though supply chain restructuring may slow growth in 2026-2027.",
+      "detail_zh": "特朗普总统对可再生能源持怀疑态度，但削减电动车支持的政策却可能推动风能和太阳能取得实质进展。电池储能系统（BESS）解决了可再生能源无法按需调度的核心局限。随着数据中心、新工厂和用电高峰增加对按需电力的需求，储能的灵活性价值日益凸显。尽管政府缩减对风能和太阳能的直接支持，电池仍符合联邦税收激励资格，包括使用美国制造组件的额外优惠。8月，特朗普签署行政令，针对电网设备（包括电池储能）对外国制造的依赖，推动能源开发商转向美国制造。LG Energy Solution在密歇根州兰辛的工厂是其北美5个电芯工厂之一，满产年产能预计超过35吉瓦时，同时服务电动车和电网储能。Wood Mackenzie的Allison Weis表示，美国电池储能年装机量已从1.2吉瓦增至去年的19吉瓦，增长16倍。但2025年美国仍从中国进口59%的锂离子电池，新采购规则迫使开发商重建供应链，预计2026和2027年增速将略低于原本水平。特朗普的“One Big Beautiful Bill”保留了部分激励措施，但于2025年9月终止了联邦电动车税收抵免，导致电动车销量下降、需求前景走弱。电池制造商并未减记资产，而是将相同的制造工艺和设备转向储能产品。通用汽车和福特正将部分电池业务转向固定式储能，特斯拉也在扩大电网储能业务。",
+      "detail_en": "President Trump has been skeptical of government support for renewable energy, but efforts to cut back on EVs may be just what's needed to advance wind and solar. Battery Energy Storage Systems (BESS) help close the gap of renewable energy running on nature's schedule rather than the grid's. Flexibility is becoming more valuable as data centers, new factories, and electricity spikes increase the need for on-demand power. Even as the administration scales back support for wind and solar, batteries remain eligible for federal tax incentives, including an additional benefit for projects using US-made components. In August, President Trump issued an executive order targeting reliance on foreign-made grid equipment, including battery storage, pushing developers toward US-made alternatives. LG Energy Solution's Lansing, Michigan plant is one of five cell facilities in North America, expected to reach more than 35 GWh of annual capacity at full output for both EVs and grid storage. Allison Weis of Wood Mackenzie said annual US battery storage installations grew from 1.2 GW to 19 GW last year, a 16x increase. However, as of 2025 the US still imported 59% of its lithium-ion batteries from China, and new sourcing rules are forcing developers to rebuild supply chains, with less growth forecast for 2026 and 2027. Trump's One Big Beautiful Bill preserved some incentives but ended federal EV credits in September 2025, causing EV sales to fall and demand outlook to weaken. Manufacturers are pivoting rather than writing off assets, using the same manufacturing processes for ESS. GM and Ford are redirecting parts of their battery operations toward stationary storage, while Tesla expands its grid storage business.",
+      "conclusion_zh": "政策意外催生储能电池投资机会：电动车补贴退坡反而加速电池制造商转向电网储能，本土制造税收优惠和供应链重组将重塑行业格局，但2026-2027年增速可能暂时放缓。",
+      "conclusion_en": "Policy unintendedly creates storage battery investment opportunities: EV subsidy rollback accelerates manufacturers' pivot to grid storage, with domestic manufacturing incentives and supply chain restructuring reshaping the industry, though growth may temporarily slow in 2026-2027.",
+      "key_points": [
+        {
+          "zh": "美国电池储能年装机量五年内从1.2吉瓦增至19吉瓦，增长16倍。",
+          "en": "US annual battery storage installations grew 16x in five years, from 1.2 GW to 19 GW."
+        },
+        {
+          "zh": "2025年美国仍从中国进口59%的锂离子电池，新采购规则迫使供应链重组，预计2026-2027年增速暂时放缓。",
+          "en": "The US still imported 59% of lithium-ion batteries from China in 2025; new sourcing rules force supply chain restructuring, with slower growth expected in 2026-2027."
+        },
+        {
+          "zh": "联邦电动车税收抵免于2025年9月终止，导致电动车销量下降，电池制造商将产能转向电网储能。",
+          "en": "Federal EV tax credits ended in September 2025, causing EV sales to fall and manufacturers to pivot capacity toward grid storage."
+        },
+        {
+          "zh": "LG Energy Solution兰辛工厂满产年产能预计超过35吉瓦时，可同时生产电动车和储能电芯。",
+          "en": "LG Energy Solution's Lansing plant is expected to reach over 35 GWh annual capacity, producing both EV and ESS cells."
+        },
+        {
+          "zh": "通用汽车和福特正将部分电池业务转向固定式储能，特斯拉也在扩大电网储能业务。",
+          "en": "GM and Ford are redirecting parts of their battery operations toward stationary storage, while Tesla expands its grid storage business."
+        }
+      ],
+      "tags": [
+        "battery storage",
+        "EV",
+        "tax credits",
+        "supply chain",
+        "renewable energy"
+      ],
+      "tickers": [
+        "GM",
+        "F",
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:mtWv1bzMrI4",
+      "title": "Trump Puts New Russia Sanctions on Hold",
+      "title_zh": "特朗普豁免对俄能源制裁以压低柴油价格，乌克兰与欧洲不满",
+      "url": "https://www.youtube.com/watch?v=mtWv1bzMrI4",
+      "published_at": "2026-10-17T11:48:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统豁免了原定数日内生效的对俄能源出口制裁，并推动俄罗斯柴油重返全球市场，旨在中期选举前压低柴油价格。俄方视此为制裁进一步放松的信号，而乌克兰与欧洲则感到失望，认为放松压力无助于促使普京谈判。",
+      "summary_en": "President Trump waived sanctions on Russian energy exports that were set to take effect within days and worked with Putin to release Russian diesel into the global market, aiming to lower diesel prices ahead of the midterms. Moscow sees this as a signal of further sanctions relief, while Ukraine and Europe are dismayed, arguing that easing pressure won't bring Putin to the table.",
+      "detail_zh": "特朗普总统豁免了原定数日内生效的、针对俄罗斯官员和寡头的制裁，该制裁属于上月签署的法律，该法律由已故参议员林赛·格雷厄姆推动。此举叠加了特朗普与普京合作释放俄罗斯柴油供应的决定。彭博社编辑Anthony Halpin指出，战前俄罗斯占全球海运柴油约10%，现在将试图恢复该市场份额；对克里姆林宫而言，柴油交易虽无直接预算收益，但企业售油后税收终将入账，且提供了进一步制裁放松的希望。Halpin表示，俄方对特朗普的决定感到乐观，认为可能开启更多俄美协议。与此同时，乌克兰对特朗普被视为偏袒俄罗斯感到极大沮丧；欧洲盟友认为只有加大压力才能让普京谈判，但白宫似乎认为放松压力可诱使普京同意谈判，然而没有迹象表明该策略奏效。彭博社白宫记者Jeff Mason称，特朗普在中期选举前民调落后，正赴红州助选，柴油价格是导致其支持率低迷的因素之一，因此与俄罗斯的柴油交易及豁免制裁主要出于国内政治考量。欧洲在峰会上承诺增加对乌支持，尤其是防空系统，但乌克兰仍严重依赖美国情报（如SpaceX的星盾网络）和武器，欧洲难以轻易替代。",
+      "detail_en": "President Trump waived sanctions on Russian officials and oligarchs that were set to take effect within days, part of a law signed last month championed by the late Senator Lindsey Graham. This comes on top of Trump's decision to work with Putin to release Russian diesel supply into the global market. Anthony Halpin, Bloomberg's Russia and economy government editor, noted that Russia accounted for about 10% of global seaborne diesel before the war and will now try to restore its position; while there is no direct immediate benefit to the state budget, companies will sell the diesel and taxes will eventually be paid, and the deal provides hope for further sanctions relief. Halpin said the Kremlin is optimistic that Trump's decision could open the way to more agreements between Russia and the US. Meanwhile, Ukraine is dismayed by what it sees as Trump siding with Putin, the aggressor; Ukraine and European allies have consistently argued that only increased pressure can bring Putin to the table, but the White House appears to believe that relaxing pressure may tempt him to negotiate—with no sign of that working. Jeff Mason, Bloomberg News White House correspondent, said Trump is underwater ahead of the midterms and is doing campaign stops in red states; diesel prices are one factor hurting him, making domestic politics the primary reason for the waiver. Europe pledged more support for Ukraine, especially air defenses, at a summit, but Ukraine remains heavily reliant on US intelligence (such as SpaceX's Star Shield network) and US weaponry, which Europe cannot easily replace.",
+      "conclusion_zh": "特朗普为压低柴油价格、应对中期选举而放松对俄制裁，短期或缓解柴油价格压力，但地缘风险与欧洲安全格局的不确定性上升，需关注对能源市场与国防板块的传导。",
+      "conclusion_en": "Trump's sanctions relief to lower diesel prices ahead of the midterms may ease near-term diesel price pressure, but raises geopolitical and European security uncertainty; watch transmission to energy markets and defense sectors.",
+      "key_points": [
+        {
+          "zh": "特朗普豁免了原定数日内生效的对俄能源出口制裁，该制裁针对俄官员和寡头，属于上月签署的法律。",
+          "en": "Trump waived sanctions on Russian energy exports set to take effect within days, targeting Russian officials and oligarchs under a law signed last month."
+        },
+        {
+          "zh": "俄罗斯战前占全球海运柴油约10%，柴油交易虽无直接预算收益，但税收终将入账，并带来进一步制裁放松的希望。",
+          "en": "Russia accounted for about 10% of global seaborne diesel before the war; the diesel deal offers no direct budget benefit but taxes will eventually be paid and it raises hope for further sanctions relief."
+        },
+        {
+          "zh": "乌克兰和欧洲认为只有加大压力才能促使普京谈判，但白宫似乎认为放松压力可诱使其谈判，目前无迹象表明奏效。",
+          "en": "Ukraine and Europe argue only increased pressure can bring Putin to negotiate, but the White House appears to believe relaxing pressure may tempt him—with no sign of success."
+        },
+        {
+          "zh": "特朗普在中期选举前民调落后，柴油价格是导致其支持率低迷的因素之一，豁免制裁主要出于国内政治考量。",
+          "en": "Trump is underwater ahead of the midterms, with diesel prices one factor hurting him; the waiver is primarily driven by domestic politics."
+        },
+        {
+          "zh": "欧洲承诺增加对乌支持，但乌克兰仍严重依赖美国情报（如星盾网络）和武器，欧洲难以轻易替代。",
+          "en": "Europe pledged more support for Ukraine, but Ukraine remains heavily reliant on US intelligence (e.g., Star Shield) and weapons, which Europe cannot easily replace."
+        }
+      ],
+      "tags": [
+        "Russia sanctions",
+        "diesel",
+        "Trump",
+        "Ukraine",
+        "midterms"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4954971",
+      "title": "What Moved Markets This Week",
+      "title_zh": "美股周报：CPI超预期，科技股拖累纳指跌4.5%，VIX飙升",
+      "url": "https://seekingalpha.com/article/4954971-what-moved-markets-this-week?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-17T10:35:57+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility"
+      ],
+      "summary_zh": "美国9月CPI同比上涨3.7%，符合预期但较8月加速；科技股持续疲软，纳指本周重挫4.48%，标普500跌1.95%，道指微涨0.67%。周五VIX一度飙升约30%至21上方，创四个多月新高；银行股开启Q3财报季。",
+      "summary_en": "US September CPI rose 3.7% year-over-year, in line with consensus but accelerating from August's 3.4% gain. Tech stocks remained under pressure, dragging the Nasdaq down 4.48% for the week, while the S&P 500 fell 1.95% and the Dow edged up 0.67%. The VIX surged roughly 30% on Friday afternoon to above 21, a more than four-month high, as big banks kicked off Q3 earnings season.",
+      "detail_zh": "美国9月CPI同比上涨3.7%，与市场预期一致，但较8月的3.4%有所加速，显示通胀有所升温。科技股持续承压，纳指本周大跌4.48%，标普500下跌1.95%，道指则小幅上涨0.67%。周五下午，Cboe波动率指数（VIX）飙升约30%，升至21上方，创下四个多月新高，反映市场对科技股疲软的担忧加剧。Q3财报季由大型银行拉开帷幕，高盛、摩根大通、花旗、富国银行等均公布了业绩。板块方面，信息技术板块领跌，跌幅达6.4%；必需消费、能源和医疗保健板块表现较好，分别上涨5%、5%和3.4%。个股方面，Fair Isaac（FICO）大涨16%，Cognizant（CTSH）涨12%；Ciena（CIEN）、Coherent（COHR）、Lumentum（LITE）等科技股均大跌约25%。此外，美联储数据显示，2025年有五分之一的美国人未能按时偿还贷款或抵押贷款，比例高于2022年的八分之一，为2007年以来最高水平。",
+      "detail_en": "US September CPI rose 3.7% year-over-year, matching consensus but accelerating from 3.4% in August, indicating some heating up of inflation. Tech stocks remained under pressure, with the Nasdaq plunging 4.48% for the week, the S&P 500 falling 1.95%, while the Dow edged up 0.67%. On Friday afternoon, the Cboe Volatility Index (VIX) surged roughly 30% to trade above 21, reaching a more than four-month high, reflecting heightened concerns over tech weakness. Q3 earnings season kicked off with major banks including Goldman Sachs, JPMorgan, Citigroup, and Wells Fargo reporting results. By sector, Information Technology led declines with a 6.4% drop, while Consumer Staples, Energy, and Healthcare outperformed, rising 5%, 5%, and 3.4%, respectively. Among individual stocks, Fair Isaac (FICO) jumped 16% and Cognizant (CTSH) rose 12%, while Ciena (CIEN), Coherent (COHR), and Lumentum (LITE) each fell about 25%. Additionally, Federal Reserve data showed that 1 in 5 Americans fell behind on a loan or mortgage payment in 2025, up from 1 in 8 in 2022 and the highest level since 2007.",
+      "conclusion_zh": "通胀加速与科技股疲软叠加，市场波动加剧，投资者需关注财报季表现及利率路径对估值的影响。",
+      "conclusion_en": "Accelerating inflation and tech weakness are fueling market volatility; investors should watch earnings season and the rate path for valuation implications.",
+      "key_points": [
+        {
+          "zh": "美国9月CPI同比上涨3.7%，符合预期但较8月的3.4%加速。",
+          "en": "US September CPI rose 3.7% YoY, in line with expectations but accelerating from 3.4% in August."
+        },
+        {
+          "zh": "科技股疲软拖累纳指本周大跌4.48%，标普500跌1.95%，道指涨0.67%。",
+          "en": "Tech weakness dragged the Nasdaq down 4.48% for the week; S&P 500 fell 1.95%, Dow rose 0.67%."
+        },
+        {
+          "zh": "周五VIX飙升约30%至21上方，创四个多月新高。",
+          "en": "The VIX surged roughly 30% on Friday to above 21, a more than four-month high."
+        },
+        {
+          "zh": "Q3财报季开启，高盛、摩根大通、花旗、富国银行等大型银行公布业绩。",
+          "en": "Q3 earnings season began with results from Goldman Sachs, JPMorgan, Citigroup, Wells Fargo, and other major banks."
+        },
+        {
+          "zh": "美联储数据显示，2025年五分之一的美国人未能按时偿还贷款或抵押贷款，为2007年以来最高。",
+          "en": "Fed data shows 1 in 5 Americans fell behind on a loan or mortgage payment in 2025, the highest since 2007."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "tech selloff",
+        "VIX",
+        "earnings",
+        "Fed"
+      ],
+      "tickers": [
+        "GS",
+        "JPM",
+        "C",
+        "WFC",
+        "FICO",
+        "CTSH",
+        "EFX",
+        "BRO",
+        "ACN",
+        "CIEN",
+        "COHR",
+        "LITE",
+        "HPE",
+        "SKYD"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:aHO6knsn0aw",
+      "title": "Female Athletes Are Over Being Gaslit by Sneaker Giants",
+      "title_zh": "女性运动鞋长期沿用男鞋缩小版，新品牌推动行业变革",
+      "url": "https://www.youtube.com/watch?v=aHO6knsn0aw",
+      "published_at": "2026-10-17T08:15:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "数十年来，多数女性运动鞋实为男鞋的缩小版，行业称之为“缩小并染粉”。这种做法源于成本考量，却可能给女性带来疼痛甚至受伤。如今，一批由女性运动员和商界女性创立的新品牌正专注研发女性专属性能鞋，并推动耐克、阿迪达斯、彪马等巨头加大投入。",
+      "summary_en": "For decades, most women's sports shoes have essentially been smaller versions of men's shoes, an industry practice known as 'shrink it and pink it.' This approach, driven by cost savings, can cause pain and potentially injuries for women. Now, a new crop of brands founded by female athletes and businesswomen are developing female-specific performance footwear, pushing giants like Nike, Adidas, and Puma to invest more.",
+      "detail_zh": "数十年来，大多数女性运动鞋基本上是男鞋的缩小版，行业内部甚至有个说法叫“缩小并染粉”（shrink it and pink it），即品牌把男鞋做小、赋予女性化外观后推向市场。但女性和男性的脚型不同，这种粗糙的做法已造成许多不必要的疼痛，甚至可能带来伤害。这种做法与体育用品行业长期推崇并营销世界顶级女性运动员的形象相矛盾。究其原因，资金是主要因素：设计和营销女性专属运动鞋并不便宜，如果公司能只专注于一个基于男性脚型的模型并称之为中性款，就能大幅削减成本。此外，专门为女性打造鞋款可能侵蚀现有畅销系列的销售，例如阿迪达斯的Anthony Edwards篮球鞋或耐克的LeBron系列。所幸情况终于开始改变。一批由女性运动员和商界女性创立的新公司正致力于为女性研发其喜爱运动项目的性能鞋，品牌如Moolah Kicks、Aidas Sports和Hedays正引领这一变革。尽管它们规模尚小，但影响巨大，赢得了客户和职业运动员的青睐，并推动包括耐克、阿迪达斯和彪马在内的巨头投入更多资源开发女性专属性能鞋。因为就性能而言，一刀切可能并不适合所有人。",
+      "detail_en": "For decades, most women's sports shoes have basically been men's shoes made smaller. In the industry, there's even a name for it: 'shrink it and pink it.' Brands make a men's shoe smaller, give it a feminine makeover, and take it to market. But women and men have different feet, and this rough-and-ready approach has caused a lot of unnecessary pain and potentially even injuries. The practice is at odds with the sporting goods industry that's long championed and marketed the world's top female athletes. A big factor is money: designing and marketing female-specific sports sneakers is not cheap, and if companies can get away with focusing on just one model, often based on a male foot, described as unisex, then it can cut costs dramatically. Plus, targeting women with shoes built just for them risks eating into sales of established franchises, like Adidas' Anthony Edwards basketball kicks or Nike's LeBron sneakers. Thankfully, things are finally beginning to change. A new crop of entrepreneurs, including female athletes and businesswomen, are building companies devoted entirely to developing performance footwear for women in their favorite sports. Brands like Moolah Kicks, Aidas Sports, and Hedays are leading the change. While they're still small, they're having a big impact, winning customers and pro athletes as fans and helping push giants, including Nike, Adidas, and Puma, to put more resources into making female-specific performance footwear. Because when it comes to performance, one size might not fit all.",
+      "conclusion_zh": "女性专属性能鞋需求正被新品牌验证，可能促使运动巨头调整产品策略，关注相关公司的产品线创新与市场细分机会。",
+      "conclusion_en": "Demand for female-specific performance footwear is being validated by new brands, potentially prompting sports giants to adjust product strategies; watch for product innovation and market segmentation opportunities.",
+      "key_points": [
+        {
+          "zh": "多数女性运动鞋长期沿用男鞋缩小版，行业称为“缩小并染粉”，导致疼痛甚至潜在伤害。",
+          "en": "Most women's sports shoes have long been smaller versions of men's shoes, an industry practice called 'shrink it and pink it,' causing pain and potential injuries."
+        },
+        {
+          "zh": "成本是主因：专注单一基于男性脚型的模型并称为中性款，可大幅削减设计和营销费用。",
+          "en": "Cost is a major factor: focusing on a single model based on a male foot and calling it unisex can dramatically cut design and marketing costs."
+        },
+        {
+          "zh": "为女性专门设计鞋款可能侵蚀现有畅销系列（如阿迪达斯Anthony Edwards或耐克LeBron）的销售。",
+          "en": "Targeting women with female-specific shoes risks cannibalizing sales of established franchises like Adidas' Anthony Edwards or Nike's LeBron sneakers."
+        },
+        {
+          "zh": "新品牌Moolah Kicks、Aidas Sports和Hedays正引领变革，专注女性性能鞋并赢得客户和职业运动员。",
+          "en": "New brands like Moolah Kicks, Aidas Sports, and Hedays are leading the change, focusing on female performance footwear and winning customers and pro athletes."
+        },
+        {
+          "zh": "这些新品牌正推动耐克、阿迪达斯和彪马等巨头投入更多资源开发女性专属性能鞋。",
+          "en": "These new brands are pushing giants like Nike, Adidas, and Puma to put more resources into female-specific performance footwear."
+        }
+      ],
+      "tags": [
+        "women's footwear",
+        "product innovation",
+        "sporting goods",
+        "market segmentation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:U3x7aZ11WT4",
+      "title": "David Byrne Explains How Forgotten Ideas Come Back to Life | Odd Lots",
+      "title_zh": "David Byrne谈“睡美人”理念：好想法如何休眠与复苏，兼论明斯基的再发现",
+      "url": "https://www.youtube.com/watch?v=U3x7aZ11WT4",
+      "published_at": "2026-10-17T08:11:06.505916+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "音乐人兼作家David Byrne在新书《Sleeping Beauties》中探讨了曾受关注后被遗忘、又在危机等时刻被重新发现的“睡美人”理念。他以明斯基为例，指出其行为经济学思想在2008年金融危机后被重新重视，并认为研究理念如何被重新发现有助于找到仍被埋没的宝贵想法。",
+      "summary_en": "Musician and author David Byrne discusses his new book 'Sleeping Beauties,' which explores ideas that receive initial attention, fade into obscurity, and are later rediscovered, often during crises. Using Hyman Minsky as an example, he notes Minsky's behavioral economics ideas were revived after the 2008 financial crisis, and argues that studying how ideas are rediscovered can help identify still-dormant valuable concepts.",
+      "detail_zh": "在Odd Lots播客中，David Byrne介绍其新书《Sleeping Beauties: Why Good Ideas Go Dormant and How They Wake Up》。他定义“睡美人”为最初获得一些关注、随后被遗忘、最终因各种原因被重新启用并发现其相关性的想法、画家或作者。Byrne指出，灾难（包括战争）是理念被重新发现的重要途径，他重点研究“如何被重新发现”而非“如何被遗忘”，因为遗忘的原因往往是机构傲慢、种族主义、性别歧视或认为比过去更聪明等重复故事，而理解重新发现的机制有助于找到仍被埋没的想法。以明斯基为例，其大部分工作完成于1960年代，思想属于行为经济学，认为人在繁荣时期倾向于假设好时光会持续、增加投资并忽视危险信号，并非总是理性行事。2008年金融危机后，明斯基的“明斯基时刻”成为金融新闻的陈词滥调，但在此之前其思想多被抛弃。Byrne还提到书中涵盖罗马混凝土的发现和《白鲸》等例子。",
+      "detail_en": "On the Odd Lots podcast, David Byrne introduces his new book 'Sleeping Beauties: Why Good Ideas Go Dormant and How They Wake Up.' He defines a 'sleeping beauty' as an idea, painter, or author that received some initial attention, then faded from view, became forgotten, and at some point was reappropriated and found relevant again. Byrne notes that catastrophes, including war, are a key way such ideas are rediscovered. He focuses on how they are rediscovered rather than how they are forgotten, because the forgetting stories tend to be repetitive—institutional hubris, racism, sexism, or thinking we know better than the past—and understanding rediscovery can help find ideas still out there. Using Minsky as an example, Byrne says much of Minsky's work was done in the 1960s and is behavioral economics: people don't always act rationally, and when times are flush, we assume they will always be, invest more, and ignore danger signs. After the 2008 financial crisis, 'Minsky moment' became a journalistic cliché, but before that his ideas had been largely discarded. Byrne also mentions the book covers the discovery of Roman concrete and 'Moby Dick.'",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "“睡美人”指最初受关注后被遗忘、又在特定时刻被重新发现并认为具有相关性的想法或作品。",
+          "en": "'Sleeping beauty' refers to an idea or work that initially gained attention, was forgotten, and later rediscovered as relevant."
+        },
+        {
+          "zh": "灾难（包括战争）是理念被重新发现的重要途径；研究“如何被重新发现”有助于找到仍被埋没的想法。",
+          "en": "Catastrophes, including war, are a key way ideas are rediscovered; studying 'how' they are rediscovered can help find still-dormant ideas."
+        },
+        {
+          "zh": "明斯基的思想属于行为经济学，认为人在繁荣时期会忽视风险、非理性行事；其工作在2008年前多被抛弃，危机后“明斯基时刻”成为流行语。",
+          "en": "Minsky's ideas are behavioral economics: people ignore risks and act irrationally in good times. His work was largely discarded before 2008, and 'Minsky moment' became a cliché after the crisis."
+        },
+        {
+          "zh": "Byrne书中还涵盖罗马混凝土的发现和《白鲸》等案例。",
+          "en": "Byrne's book also covers cases such as the discovery of Roman concrete and 'Moby Dick.'"
+        }
+      ],
+      "tags": [
+        "sleeping beauties",
+        "Minsky",
+        "behavioral economics",
+        "idea rediscovery"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uBNHzlUVrvk",
+      "title": "Two Power Bills Show Growing US Electricity Price Divide",
+      "title_zh": "美国投资者所有公用事业电价涨幅远超市政公用事业",
+      "url": "https://www.youtube.com/watch?v=uBNHzlUVrvk",
+      "published_at": "2026-10-17T05:30:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博基于EIA数据的分析显示，2020至2025年间，投资者所有公用事业的平均居民电价上涨34%，而市政公用事业仅上涨19%。马萨诸塞州相邻城镇的案例凸显了这一差距，电价可负担性正成为政治焦点，立法者要求加强对投资者所有公用事业利润和支出的监管。",
+      "summary_en": "A Bloomberg analysis of EIA data shows that average residential electricity prices at investor-owned utilities rose 34% between 2020 and 2025, compared with 19% at publicly owned utilities. A case study of neighboring Massachusetts towns highlights the gap, as energy affordability becomes a political flashpoint and lawmakers demand stricter oversight of investor-owned utility profits and spending.",
+      "detail_zh": "在马萨诸塞州Quinzigamment湖两岸，两位邻居的电费账单差异巨大。Worcester的70岁前医疗秘书Elellanar Rashai今年夏天每月电费高达500美元；不到2000英尺外，Shrewsbury的71岁居民Dave Catz的电费很少超过150至160美元。两人居住的房屋和社区相似，但供电方不同：Rashai依赖大型上市公用事业公司National Grid，Catz则从市政所有的Shrewsbury Electric and Cable Operations购电。去年Shrewsbury的平均居民电价为每千瓦时约16美分，Worcester则超过其两倍，达34美分，且这一差距近年来显著扩大。这并非个例：全国范围内，投资者所有公用事业的电价上涨速度远快于公有公用事业。2020至2025年间，投资者所有公用事业的平均居民电价飙升34%，公有公用事业仅上涨19%。据彭博新闻对EIA数据的分析，像Shrewsbury Electric这样的市政公用事业作为非营利机构，对当地社区负责而非股东，依赖长期电力合同，且没有推高私营企业成本的公司分红压力。National Grid等投资者所有公用事业辩称，其庞大规模使其能够为满足全国能源需求激增所需的高成本关键基础设施升级融资。但一些分析师认为，投资者所有模式可能鼓励资本支出，同时缺乏抑制成本的激励。随着电费飙升使能源可负担性成为政治热点，全国立法者正要求对投资者所有公用事业的利润和支出实施更严格的监管。",
+      "detail_en": "Across narrow Lake Quinzigamment in Massachusetts, two neighbors face wildly different electric bills. In Worcester, Elellanar Rashai, a 70-year-old former medical secretary, paid as much as $500 a month for power this summer. Less than 2,000 ft away, Dave Catz, a 71-year-old resident of Shrewsbury, rarely saw bills higher than $150 to $160. While both live in similar homes and neighborhoods, they are served by two very different providers: Rashai relies on National Grid, a large publicly traded utility, while Catz buys his electricity from Shrewsbury Electric and Cable Operations, owned and run by the town. The average residential electricity price in Shrewsbury was roughly 16 cents per kilowatt hour last year; in Worcester, it was more than twice as high, 34 cents. That gap has grown significantly in recent years and is not unique to their towns. Nationwide, power prices at investor-owned utilities have increased much faster than at publicly owned providers. Between 2020 and 2025, investor-owned utilities saw average residential prices surge 34% compared with 19% at publicly owned ones, according to a Bloomberg News analysis of EIA data. Municipal utilities like Shrewsbury Electric function as nonprofits accountable to local communities rather than shareholders; they rely on long-term power contracts and lack the corporate dividend pressure that drives up costs at private firms. Investor-owned utilities like National Grid argue their massive scale allows them to finance essential high-cost infrastructure upgrades required for surging national energy demands. But some analysts say the investor-owned model can encourage capital spending while providing weak incentives to keep costs down. With skyrocketing bills turning energy affordability into a political flashpoint, lawmakers across the country are now demanding stricter oversight on investor-owned utility profits and spending.",
+      "conclusion_zh": "投资者所有公用事业与市政公用事业的电价涨幅差距显著，且能源可负担性正引发政治审查，相关公用事业公司面临监管压力。",
+      "conclusion_en": "The gap in electricity price increases between investor-owned and municipal utilities is significant, and energy affordability is triggering political scrutiny, putting regulatory pressure on investor-owned utilities.",
+      "key_points": [
+        {
+          "zh": "2020至2025年，投资者所有公用事业的平均居民电价上涨34%，公有公用事业仅上涨19%。",
+          "en": "Between 2020 and 2025, average residential electricity prices rose 34% at investor-owned utilities versus 19% at publicly owned ones."
+        },
+        {
+          "zh": "马萨诸塞州案例：Shrewsbury平均居民电价为每千瓦时约16美分，Worcester超过两倍，达34美分。",
+          "en": "Massachusetts case: Shrewsbury's average residential electricity price was about 16 cents/kWh, while Worcester's was more than double at 34 cents."
+        },
+        {
+          "zh": "市政公用事业为非营利机构，对社区负责，依赖长期电力合同，无股东分红压力。",
+          "en": "Municipal utilities are nonprofits accountable to communities, rely on long-term power contracts, and face no shareholder dividend pressure."
+        },
+        {
+          "zh": "投资者所有公用事业辩称其规模可融资关键基础设施升级，但分析师认为该模式鼓励资本支出而抑制成本激励不足。",
+          "en": "Investor-owned utilities argue scale enables financing of critical infrastructure upgrades, but analysts say the model encourages capital spending with weak cost-control incentives."
+        },
+        {
+          "zh": "电费飙升使能源可负担性成为政治热点，立法者要求加强对投资者所有公用事业利润和支出的监管。",
+          "en": "Skyrocketing bills have made energy affordability a political flashpoint, with lawmakers demanding stricter oversight of investor-owned utility profits and spending."
+        }
+      ],
+      "tags": [
+        "utilities",
+        "electricity-prices",
+        "regulation",
+        "energy-affordability"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:F7_91lcOgVE",
+      "title": "Tesla, Xpeng Showcase Autonomous Cars in Paris",
+      "title_zh": "特斯拉Cybercab与Xpeng自动驾驶系统同台亮相巴黎车展",
+      "url": "https://www.youtube.com/watch?v=F7_91lcOgVE",
+      "published_at": "2026-10-17T04:00:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特斯拉Cybercab首次在欧洲展出，无方向盘和踏板，是马斯克将特斯拉转型为AI巨头计划的关键。Xpeng在巴黎进行其智能驾驶系统的首次欧洲大规模演示，若监管批准计划明年推出。两家公司还在人形机器人领域竞争，下一场较量围绕最智能的机器展开。",
+      "summary_en": "Tesla's Cybercab, with no steering wheels or foot pedals, is displayed in Europe for the first time and is key to Elon Musk's ambition to transform Tesla into an AI powerhouse. Xpeng conducted its first large-scale demonstration of its intelligent driving system in Europe, planning rollout as soon as next year if regulators approve. Both companies are also developing humanoid robots, with the next battle being about the smartest machine.",
+      "detail_zh": "特斯拉Cybercab在巴黎车展首次于欧洲展出，该车没有方向盘和脚踏板，是马斯克将这家电动车制造商转型为AI巨头计划的关键。巴黎车展上并非只有特斯拉的自动驾驶系统，记者体验了小鹏最新的智能驾驶系统，在巴黎繁忙交通中车辆自主完成驾驶。这是小鹏在欧洲首次大规模演示该技术，若监管机构批准，计划最早明年推出。特斯拉与小鹏的竞争远超汽车领域，两者都在开发人形机器人：特斯拉有Optimus，小鹏有Aaron。双方都押注人工智能将远超驾驶领域。特斯拉与中国竞争对手的下一场战斗不仅关乎谁制造最好的电动车，还关乎最智能的机器。",
+      "detail_en": "Tesla's Cybercab is on display in Europe for the first time at the Paris Motor Show; it has no steering wheels or foot pedals and is key to Elon Musk's ambition to transform the EV maker into an AI powerhouse. The Paris Motor Show features more than just Tesla's autonomous driving system; a reporter experienced Xpeng's latest intelligent driving system, with the car doing all the driving in heavy Paris traffic. This is Xpeng's first large-scale demonstration of this technology in Europe, and if regulators give the green light, they plan to roll it out as soon as next year. The competition between Tesla and Xpeng goes well beyond cars: both are developing humanoid robots—Tesla has Optimus, Xpeng has Aaron. Both are betting that AI will go way beyond driving. The next battle between Tesla and its Chinese rivals is not just about who makes the best electric car, but the smartest machine.",
+      "conclusion_zh": "特斯拉与小鹏的竞争正从电动车延伸至自动驾驶和人形机器人，AI能力成为核心战场。",
+      "conclusion_en": "The competition between Tesla and Xpeng is extending from EVs to autonomous driving and humanoid robots, with AI capability becoming the core battleground.",
+      "key_points": [
+        {
+          "zh": "特斯拉Cybercab首次在欧洲展出，无方向盘和踏板，是马斯克将特斯拉转型为AI巨头计划的关键。",
+          "en": "Tesla's Cybercab is displayed in Europe for the first time, with no steering wheels or foot pedals, and is key to Elon Musk's ambition to transform Tesla into an AI powerhouse."
+        },
+        {
+          "zh": "小鹏在巴黎进行其智能驾驶系统的首次欧洲大规模演示，若监管批准计划最早明年推出。",
+          "en": "Xpeng conducted its first large-scale demonstration of its intelligent driving system in Europe in Paris, planning rollout as soon as next year if regulators approve."
+        },
+        {
+          "zh": "特斯拉与小鹏的竞争延伸至人形机器人：特斯拉有Optimus，小鹏有Aaron。",
+          "en": "The competition between Tesla and Xpeng extends to humanoid robots: Tesla has Optimus, Xpeng has Aaron."
+        },
+        {
+          "zh": "双方都押注人工智能将远超驾驶领域，下一场战斗关乎最智能的机器。",
+          "en": "Both are betting that AI will go way beyond driving, and the next battle is about the smartest machine."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "Xpeng",
+        "autonomous driving",
+        "humanoid robots",
+        "AI"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:vPwqqbFUfJI",
       "title": "Trump Says There's Zero Chance of Replacing Susie Wiles",
@@ -1505,6 +2304,55 @@
         "inflation",
         "investment surge",
         "global economy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:U87Mk57oimw",
+      "title": "Trump Waives Russia Energy Tariffs, CoreWeave Wipeout | Bloomberg This Weekend: Oct 17th, 2026",
+      "title_zh": "彭博周末节目预告：乌克兰、伊朗、美联储与市场对话",
+      "url": "https://www.youtube.com/watch?v=U87Mk57oimw",
+      "published_at": "2026-10-16T15:38:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博周末节目将讨论乌克兰战争最新进展、特朗普威胁对伊朗使用“炸弹之母”、特朗普新闻秘书更替、美联储主席沃什未排除市场对利率不变的预期，并对话巴里·里索尔茨等嘉宾。",
+      "summary_en": "Bloomberg This Weekend will cover the latest on the war in Ukraine, Trump's threat to use the 'Mother Of All Bombs' against Iran, a change in Trump's press secretary, and Fed Chair Kevin Warsh doing nothing to dispel expectations of steady rates; guests include Barry Ritholtz.",
+      "detail_zh": "节目预告显示，本期彭博周末将关注乌克兰战争的最新情况。其中提到，美国总统唐纳德·特朗普威胁对伊朗使用被称为“炸弹之母”的武器。此外，凯蒂·扎卡里亚将不再担任特朗普的新闻秘书。美联储主席凯文·沃什的言论未能消除市场对央行将在月底会议上维持利率不变的预期。节目还包含对国际救援委员会CEO、前英国外交大臣大卫·米利班德的对话，对Ritholtz财富管理创始人巴里·里索尔茨的对话，对保时捷CEO迈克尔·莱特斯的对话，对加拿大前副总理克里斯蒂亚·弗里兰的对话，以及对Northwell Health CEO约翰·德安杰洛博士的对话。其他话题包括《侠盗猎车手VI》的幕后故事和保时捷新款豪华超级跑车。",
+      "detail_en": "The show preview indicates Bloomberg This Weekend will cover the latest on the war in Ukraine. It mentions President Donald Trump threatening to use what is known as the 'Mother Of All Bombs' against Iran. Additionally, Katie Zacharia will no longer serve as Trump's press secretary. Federal Reserve Chairman Kevin Warsh did nothing to dispel market expectations that the central bank will hold rates steady at its month-end meeting. The show includes conversations with David Miliband, CEO of the International Rescue Committee and former UK Foreign Secretary; Barry Ritholtz, founder of Ritholtz Wealth Management; Porsche CEO Michael Leiters; Chrystia Freeland, former Deputy Prime Minister of Canada; and Dr. John D'Angelo, CEO of Northwell Health. Other topics include behind the scenes of 'Grand Theft Auto VI' and Porsche's new luxury supercar.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "乌克兰战争最新进展是节目关注点之一。",
+          "en": "The latest on the war in Ukraine is a focus of the show."
+        },
+        {
+          "zh": "特朗普威胁对伊朗使用“炸弹之母”。",
+          "en": "Trump threatens to use the 'Mother Of All Bombs' against Iran."
+        },
+        {
+          "zh": "凯蒂·扎卡里亚将不再担任特朗普的新闻秘书。",
+          "en": "Katie Zacharia will no longer serve as Trump's press secretary."
+        },
+        {
+          "zh": "美联储主席沃什未消除市场对利率维持不变的预期。",
+          "en": "Fed Chair Warsh did nothing to dispel expectations of steady rates."
+        },
+        {
+          "zh": "嘉宾包括巴里·里索尔茨、大卫·米利班德、保时捷CEO等。",
+          "en": "Guests include Barry Ritholtz, David Miliband, Porsche CEO, and others."
+        }
+      ],
+      "tags": [
+        "Ukraine",
+        "Iran",
+        "Fed",
+        "Trump",
+        "Bloomberg"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -6222,281 +7070,6 @@
         "JNJ",
         "ASML"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3Atl7qFvtnU",
-      "title": "Why Oil Could Still Go Much Higher with Josh Young, Bison Interests | The Geopolitical Edge",
-      "title_zh": "Bison Interests创始人Josh Young：油价为何未破200美元，以及能源股如何布局",
-      "url": "https://www.youtube.com/watch?v=3Atl7qFvtnU",
-      "published_at": "2026-10-10T13:00:00+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Bison Interests创始人兼首席投资官Josh Young在访谈中解析2026年油市：尽管伊朗战争、全球库存下降、油轮遇袭以及柴油和成品油严重紧张，原油仍徘徊在100美元附近。他认为临时供应释放、中东流向变化和压制油价的政治努力掩盖了更紧的底层市场，多年投资不足可能仍在为更大的石油周期蓄势。在能源股布局上，他偏好小型生产商和陆上服务商。",
-      "summary_en": "Bison Interests CIO and Founder Josh Young breaks down the confusing 2026 oil market: crude has stayed near $100 despite the Iran war, falling global inventories, tanker attacks, and severe tightness in diesel and refined products. He argues that temporary supply releases, shifting Middle East flows, and political efforts to suppress prices have masked a much tighter underlying market, and that years of underinvestment could still set the stage for a much larger oil cycle. On positioning, he prefers smaller producers and onshore services.",
-      "detail_zh": "在Real Vision的The Geopolitical Edge节目中，Mikkel Rosenvold与Bison Interests创始人兼首席投资官Josh Young讨论了2026年最令人困惑的市场之一：石油。Josh解释了为何在伊朗战争、全球库存下降、油轮遇袭以及柴油和成品油严重紧张的背景下，原油仍维持在接近100美元的水平，而未达到200美元。他认为，临时性的供应释放、中东石油流向的变化，以及压制油价的政治努力，掩盖了一个实际上更为紧张的底层市场。讨论还涉及霍尔木兹海峡、沙特出口路线、炼油厂短缺、加油站价格、欧洲能源问题，以及为何多年的投资不足可能仍在为一个更大的石油周期奠定基础。在能源股方面，Josh说明了他的布局方式，以及为何他更偏好小型生产商和陆上服务商，而非部分已经大幅上涨的板块。节目还包含对天然气前景的展望。",
-      "detail_en": "On Real Vision's The Geopolitical Edge, Mikkel Rosenvold sits down with Josh Young, CIO and Founder of Bison Interests, to break down one of the most confusing markets of 2026: oil. Josh explains why crude has stayed near $100 despite the Iran war, falling global inventories, tanker attacks, and severe tightness in diesel and refined products, rather than reaching $200. He argues that temporary supply releases, shifting Middle East flows, and political efforts to suppress prices have masked a much tighter underlying market. The discussion also covers the Strait of Hormuz, Saudi export routes, refinery shortages, the price at the pump, Europe's energy problem, and why years of underinvestment could still be setting the stage for a much larger oil cycle. On energy equities, Josh explains how he is positioning and why he prefers smaller producers and onshore services over some of the sectors that have already seen the biggest gains. The episode also includes a natural gas outlook.",
-      "conclusion_zh": "Josh Young认为油市底层比表面更紧，多年投资不足可能酝酿更大周期；在能源股上他偏好小型生产商和陆上服务商。",
-      "conclusion_en": "Josh Young sees a tighter underlying oil market than headline prices suggest, with years of underinvestment potentially setting up a larger cycle; he favors smaller producers and onshore services in energy equities.",
-      "key_points": [
-        {
-          "zh": "尽管伊朗战争、全球库存下降、油轮遇袭和柴油及成品油严重紧张，原油仍徘徊在100美元附近，而非200美元。",
-          "en": "Crude has stayed near $100 rather than $200 despite the Iran war, falling global inventories, tanker attacks, and severe tightness in diesel and refined products."
-        },
-        {
-          "zh": "Josh Young认为，临时供应释放、中东流向变化和压制油价的政治努力掩盖了更紧的底层市场。",
-          "en": "Josh Young argues that temporary supply releases, shifting Middle East flows, and political efforts to suppress prices have masked a much tighter underlying market."
-        },
-        {
-          "zh": "讨论涉及霍尔木兹海峡、沙特出口路线、炼油厂短缺、加油站价格和欧洲能源问题。",
-          "en": "The discussion covers the Strait of Hormuz, Saudi export routes, refinery shortages, the price at the pump, and Europe's energy problem."
-        },
-        {
-          "zh": "Josh Young认为多年的投资不足可能仍在为一个更大的石油周期奠定基础。",
-          "en": "Josh Young argues that years of underinvestment could still be setting the stage for a much larger oil cycle."
-        },
-        {
-          "zh": "在能源股布局上，他更偏好小型生产商和陆上服务商，而非部分已大幅上涨的板块。",
-          "en": "On energy equities, he prefers smaller producers and onshore services over some of the sectors that have already seen the biggest gains."
-        }
-      ],
-      "tags": [
-        "oil",
-        "energy",
-        "geopolitics",
-        "commodities",
-        "inflation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Uje_KSCzJJc",
-      "title": "The Bond Market Has Singled Out France",
-      "title_zh": "法国国债收益率逼近5%，部分法国高评级企业债收益率低于国债",
-      "url": "https://www.youtube.com/watch?v=Uje_KSCzJJc",
-      "published_at": "2026-10-10T10:54:47+00:00",
-      "source_name": "Patrick Boyle",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "法国10年期国债收益率上周逼近5%，为近四分之一世纪最高，对德债利差一度突破1.5个百分点，为2011年以来最阔。彭博测算约250亿欧元、占市场38%的法国高评级企业债收益率已低于同期限法国国债，年初仅120亿欧元。全球借贷成本上升、AI资本开支发债与伊朗战争推高油价是共同背景。",
-      "summary_en": "French 10-year borrowing costs came within a whisker of 5% last week, the highest in almost a quarter of a century, with the spread over German bunds briefly topping 1.5 percentage points, the widest since 2011. Bloomberg calculates that about €25 billion, or 38%, of French high-grade corporate bonds now trade at lower yields than similar-maturity French government debt, up from just €12 billion at the start of the year. Rising global borrowing costs, AI capex-driven bond issuance and the war in Iran pushing oil higher form the common backdrop.",
-      "detail_zh": "债券市场目前认为，把钱借给欧莱雅、液化空气、LVMH、赛诺菲，或巴克莱信用策略师所指的一批BBB级（投资级最低一档）公司，都比借给法国政府更安全；意大利和希腊的借款成本也低于法国。彭博测算，约250亿欧元法国高评级企业债、即38%的市场，收益率已低于同期限法国国债，年初这一数字仅为120亿欧元。理论上政府是本國最安全的借款人，可加税或印钞，但法国1999年已将印钞权交给欧洲央行，如今投资者正在重新评估这一假设。法国10年期借款成本上周逼近5%，为近四分之一世纪最高；对德债利差一度突破1.5个百分点，为2011年以来最阔。与此同时，法国高中生因教师短缺、教室拥挤和校舍破败封锁学校，多数游行和平，但部分入口大厅被纵火，逾6000人被捕，多为青少年。学生希望增加教育支出，债券市场希望全面削减支出，法国政府夹在中间并需提交预算。欧元危机期间问题国家被合称PIGS（葡萄牙、爱尔兰、意大利、希腊、西班牙），此次巴黎研究机构Rexicode为法国单独造了缩写FROGS，指法国政府规模过大及社会保障。全球背景方面，据《经济学人》，富裕国家10年期国债收益率中位数约4%，为逾15年最高；美国10年期本周突破5.3%，日本自1996年以来首次突破3%。原因之一是AI：高盛预计Alphabet、亚马逊、Meta、微软、甲骨文五大超大规模企业今年资本开支约8000亿美元、明年1.2万亿美元，超过美国GDP的3%；它们今年已发行2300亿美元债券，是去年全年的两倍，且对价格不敏感。原因之二是伊朗战争，原油较战前贵约40%，通胀居高不下，促使央行加息而非降息，美联储9月自2023年以来首次加息，欧洲央行自6月以来已加息两次。债务算术为R减G：若利率高于增长率，债务占经济比重将上升，除非加税或减支。美国赤字约占GDP 6%，被《经济学人》称为不可持续，但发行储备货币、经济增速超3%；日本净债务占GDP 134%，通胀随利率上升使实际债务收缩，且大部分为国内持有；英国30年期国债收益率超6%，为1998年以来最高，但2022年特拉斯无资金支持的减税已引发过债市风波。法国既不发行储备货币，也没有AI繁荣。",
-      "detail_en": "The bond market now treats lending to L'Oreal, Air Liquide, LVMH, Sanofi, or a fairly wide selection of BBB-rated companies cited by Barclays' credit strategist as safer than lending to the French Republic; Italy and Greece can also borrow more cheaply than France. Bloomberg calculates that about €25 billion of French high-grade corporate bonds, or 38% of the market, now trade at lower yields than similar-maturity French government debt, versus just €12 billion at the start of the year. In theory a government is the safest borrower in its own country, able to raise taxes or print money, but France handed monetary printing to the ECB in 1999, and investors are rethinking that benefit of the doubt. French 10-year borrowing costs came within a whisker of 5% last week, the highest in almost a quarter of a century, and the spread over German bunds briefly topped 1.5 percentage points, the widest since 2011. Meanwhile French high school students have blockaded schools over teacher shortages, overcrowded classrooms and crumbling buildings; most marchers were peaceful but some entrance halls were set on fire and more than 6,000 people, mostly teenagers, were arrested. Students want more spending on schools, the bond market wants less spending on everything, and the government sits in between holding a budget. During the euro crisis troubled countries were grouped as PIGS (Portugal, Ireland, Italy, Greece, Spain); this time, as Lionel Laurent noted in Bloomberg, a Paris research firm called Rexicode coined an acronym just for France: FROGS, for French oversized government and social security. Globally, according to The Economist, the median 10-year government bond in the rich world yields around 4%, the highest in more than 15 years; America's 10-year topped 5.3% this week and Japan's crossed 3% for the first time since 1996. One reason is AI: Goldman Sachs expects the five biggest hyperscalers—Alphabet, Amazon, Meta, Microsoft and Oracle—to spend around $800 billion on capital investment this year alone and $1.2 trillion next year, more than 3% of US GDP; they have issued $230 billion of bonds so far this year, double last year's total, and are not very price-sensitive borrowers. The second reason is the war in Iran: crude oil is about 40% more expensive than before the war, keeping inflation high and pushing central banks to raise rather than cut rates—the Fed raised in September for the first time since 2023 and the ECB has raised twice since June. The arithmetic is R minus G: if the interest rate exceeds growth, debt grows relative to the economy unless taxes rise or spending is cut. America runs a deficit of about 6% of GDP, described by The Economist as unsustainable, but issues the world's reserve currency and grows over 3% a year; Japan's net debt is 134% of GDP, inflation has risen alongside rates so real debt is shrinking, and most of it is owed domestically; Britain's 30-year gilt yield is above 6%, the highest since 1998, but it already had its bond market revolt in 2022 over Liz Truss's unfunded tax cuts. France issues no reserve currency and is not having an AI boom.",
-      "conclusion_zh": "法国国债相对高评级企业债的收益率优势消失，反映市场对其财政与信用风险的重新定价；在全球利率中枢上移、AI发债与油价推升通胀的背景下，高负债、无储备货币且无AI增长红利的政府面临更严苛的债券市场约束。",
-      "conclusion_en": "France's yield advantage over high-grade corporates has vanished, reflecting a repricing of its fiscal and credit risk; with global rates higher, AI-driven issuance and oil-fed inflation, highly indebted governments without a reserve currency or an AI growth dividend face harsher bond-market discipline.",
-      "key_points": [
-        {
-          "zh": "约250亿欧元、占38%的法国高评级企业债收益率低于同期限法国国债，年初仅120亿欧元",
-          "en": "About €25 billion, or 38%, of French high-grade corporate bonds yield less than similar-maturity French government debt, up from just €12 billion at the start of the year"
-        },
-        {
-          "zh": "法国10年期借款成本上周逼近5%，为近四分之一世纪最高；对德债利差一度突破1.5个百分点，为2011年以来最阔",
-          "en": "French 10-year borrowing costs came within a whisker of 5% last week, the highest in almost a quarter of a century, with the spread over German bunds briefly topping 1.5 percentage points, the widest since 2011"
-        },
-        {
-          "zh": "全球借贷成本上升：富裕国家10年期国债收益率中位数约4%，美国突破5.3%，日本自1996年以来首次突破3%",
-          "en": "Global borrowing costs are rising: the median rich-world 10-year government bond yields around 4%, America's topped 5.3% and Japan's crossed 3% for the first time since 1996"
-        },
-        {
-          "zh": "AI超大规模企业今年已发行2300亿美元债券，为去年两倍，且对利率不敏感，与政府争夺全球储蓄池",
-          "en": "AI hyperscalers have issued $230 billion of bonds this year, double last year's total, and are not price-sensitive, competing with governments for the same global pool of savings"
-        },
-        {
-          "zh": "伊朗战争推高油价约40%，通胀居高不下，美联储9月自2023年以来首次加息，欧洲央行自6月以来已加息两次",
-          "en": "The war in Iran has made crude about 40% more expensive, keeping inflation high; the Fed raised rates in September for the first time since 2023 and the ECB has raised twice since June"
-        }
-      ],
-      "tags": [
-        "France",
-        "sovereign debt",
-        "bond yields",
-        "AI capex",
-        "inflation"
-      ],
-      "tickers": [
-        "GOOGL",
-        "AMZN",
-        "META",
-        "MSFT",
-        "ORCL"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "4953253",
-      "title": "What Moved Markets This Week",
-      "title_zh": "美联储纪要维持鹰派，SpaceX频谱交易冲击电信股，AI基建预期受审视",
-      "url": "https://seekingalpha.com/article/4953253-what-moved-markets-this-week?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-10T10:40:05+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "美联储9月会议纪要显示官员一致支持紧缩周期，并强调通胀上行风险，巩固了市场对利率长期维持高位的预期。SpaceX以80亿美元收购Grain Management全国低频段频谱资产，引发AT&T、Verizon等主要电信股抛售。OpenAI下调年度经常性收入预期，令投资者重新审视AI基础设施巨额资本开支的可持续性。当周道指涨0.9%，标普500涨1.2%，纳指涨0.6%。",
-      "summary_en": "The Fed's September meeting minutes showed unanimous support for the tightening cycle and highlighted upside inflation risks, cementing expectations for prolonged higher rates. SpaceX's $8B deal to buy a nationwide low-band spectrum portfolio from Grain Management sparked a selloff in major telecom stocks including AT&T and Verizon. OpenAI revised its annualized revenue expectations downward, prompting investor scrutiny over the sustainability of massive AI infrastructure capex. For the week, the Dow rose 0.9%, the S&P 500 gained 1.2%, and the Nasdaq added 0.6%.",
-      "detail_zh": "美联储FOMC 9月会议纪要显示，官员们一致支持央行的紧缩周期，并强调通胀面临上行风险，进一步巩固了市场对利率将在更长时间内维持高位的预期。SpaceX（SPCX）以80亿美元收购Grain Management旗下全国性低频段频谱组合，引发AT&T（T）和Verizon（VZ）等主要电信股大幅下挫。AI板块遭遇现实检验：OpenAI（OPENAI）下调了年度经常性收入预期，引发投资者对大规模基础设施资本开支可持续性的高度审视。截至10月9日当周，道指（DJI）上涨0.9%，标普500（SP500）上涨1.2%，纳指（COMP:IND）上涨0.6%，罗素2000下跌0.9%，VIX下跌3.1%至14.84。板块方面，必需消费品涨4%、公用事业涨3.9%、能源涨3.6%、金融涨2.3%，而工业跌0.4%、信息技术跌0.3%。个股方面，PTC涨35%、Crown Castle涨20%、Moderna涨18%、Constellation Energy涨16%、Vistra涨15%；Intel跌12%、Mosaic跌11%、Teradyne跌10%、Skyworks跌10%、C.H. Robinson跌10%。",
-      "detail_en": "The FOMC's September meeting minutes revealed unanimous support for the central bank's tightening cycle, with officials highlighting upside risks to inflation and cementing market expectations for prolonged higher rates. SpaceX (SPCX) agreed to buy a nationwide low-band spectrum portfolio from Grain Management for $8B, sparking a selloff in major telecom stocks such as AT&T (T) and Verizon (VZ). The AI sector faced a reality check after OpenAI (OPENAI) revised its annualized revenue expectations downward, triggering heavy investor scrutiny over the sustainability of massive infrastructure capital expenditures. For the week ended Oct. 9, the Dow (DJI) rose 0.9%, the S&P 500 (SP500) gained 1.2%, and the Nasdaq Composite (COMP:IND) increased 0.6%. The Russell 2000 fell 0.9%, and the CBOE Volatility Index dropped 3.1% to 14.84. By sector, Consumer Staples rose 4%, Utilities 3.9%, Energy 3.6%, Financials 2.3%, while Industrials fell 0.4% and Information Technology slipped 0.3%. Top S&P 500 gainers included PTC (+35%), Crown Castle (+20%), Moderna (+18%), Constellation Energy (+16%), and Vistra (+15%). Top losers included Intel (-12%), Mosaic (-11%), Teradyne (-10%), Skyworks Solutions (-10%), and C.H. Robinson (-10%).",
-      "key_points": [
-        {
-          "zh": "美联储9月纪要显示官员一致支持紧缩，强调通胀上行风险，市场对利率长期维持高位的预期被巩固。",
-          "en": "The Fed's September minutes showed unanimous support for tightening and highlighted upside inflation risks, cementing expectations for prolonged higher rates."
-        },
-        {
-          "zh": "SpaceX以80亿美元收购Grain Management全国低频段频谱资产，引发AT&T、Verizon等主要电信股抛售。",
-          "en": "SpaceX's $8B acquisition of Grain Management's nationwide low-band spectrum portfolio sparked a selloff in major telecom stocks like AT&T and Verizon."
-        },
-        {
-          "zh": "OpenAI下调年度经常性收入预期，引发投资者对AI基础设施巨额资本开支可持续性的审视。",
-          "en": "OpenAI revised its annualized revenue expectations downward, triggering investor scrutiny over the sustainability of massive AI infrastructure capex."
-        },
-        {
-          "zh": "当周道指涨0.9%、标普500涨1.2%、纳指涨0.6%，罗素2000跌0.9%，VIX跌3.1%至14.84。",
-          "en": "For the week, the Dow rose 0.9%, S&P 500 gained 1.2%, Nasdaq added 0.6%, Russell 2000 fell 0.9%, and VIX dropped 3.1% to 14.84."
-        },
-        {
-          "zh": "板块表现分化：必需消费品、公用事业、能源领涨，工业与信息技术小幅下跌。",
-          "en": "Sector performance diverged: Consumer Staples, Utilities, and Energy led gains, while Industrials and Information Technology posted slight declines."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "SpaceX",
-        "telecom",
-        "AI capex",
-        "market recap"
-      ],
-      "tickers": [
-        "SPCX",
-        "T",
-        "VZ",
-        "OPENAI",
-        "DJI",
-        "SP500",
-        "COMP:IND",
-        "MCD",
-        "BAC",
-        "OSK",
-        "ASTS",
-        "LHX",
-        "NIO",
-        "OBDC",
-        "COST",
-        "PR",
-        "NMAI",
-        "AOR",
-        "PTC",
-        "CCI",
-        "MRNA",
-        "CEG",
-        "VST",
-        "INTC",
-        "MOS",
-        "TER",
-        "SWKS",
-        "CHRW"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:nv2w522R47g",
-      "title": "A Fête Sans Tech",
-      "title_zh": "美股普涨、债券回暖，市场聚焦CPI与PPI",
-      "url": "https://www.youtube.com/watch?v=nv2w522R47g",
-      "published_at": "2026-10-10T10:00:09+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "截至10月9日当周，标普500在缺乏科技股带动下仍录得广泛上涨，债券在连续四周收益率上行后终于获得买盘，大宗商品受中东冲突推升的能源板块领涨。宏观方面，9月ISM服务业符合扩张预期但价格支付分项偏通胀，FOMC纪要显示官员倾向2026年再加息一次，而期货市场定价10月28日会议按兵不动；下周焦点为9月CPI与PPI。",
-      "summary_en": "For the week ended Oct. 9, the S&P 500 staged a broad rally even without tech leadership, bonds finally caught a bid after four weeks of rising yields, and commodities ended higher led by energy on the Middle East conflict. On macro, September ISM services met expansionary expectations with an inflationary prices-paid reading, FOMC minutes showed officials leaning toward another fed funds hike in 2026 while futures price a hold at the Oct. 28 meeting, and the week ahead centers on September CPI and PPI.",
-      "detail_zh": "DoubleLine投资组合经理Eric Dhall与分析师Mark Kimbrough指出，截至10月9日当周，即便没有科技股活跃气氛，标普500仍出现广泛上涨。债券在连续四周收益率上行后终于获得买盘。大宗商品收高，由中东冲突推动的能源板块领涨。Eric提醒关注飓风Isaias预计即将登陆墨西哥湾沿岸后可能出现的馏分油供应中断。宏观方面，9月ISM服务业数据符合扩张预期，但调查中的价格支付分项带有通胀信号。FOMC纪要显示，美联储官员倾向在2026年再加息一次，而期货市场则定价美联储在10月28日的议息会议上按兵不动。展望下周，市场将重点关注分别于周三和周四公布的9月CPI与PPI报告。",
-      "detail_en": "DoubleLine Portfolio Manager Eric Dhall and Analyst Mark Kimbrough observe that for the week ended Oct. 9, the S&P 500 staged a broad rally even without tech to liven up the party. After four weeks of rising yields, bonds at last caught a bid. Commodities ended higher, led by energy on the Middle East conflict. Eric advises watching for distillate supply interruptions after Hurricane Isaias' imminent forecast landfall on the Gulf Coast. On macro, September ISM services arrived in line with expansionary expectations, with an inflationary note from the survey's prices-paid component. FOMC minutes indicated Fed officials leaning toward another fed funds hike in 2026, although the futures market is pricing in a Fed on hold at the Oct. 28 meeting. Looking ahead, all eyes will be on the September CPI and PPI reports, due Wednesday and Thursday respectively.",
-      "key_points": [
-        {
-          "zh": "截至10月9日当周，标普500在缺乏科技股带动下仍录得广泛上涨。",
-          "en": "For the week ended Oct. 9, the S&P 500 staged a broad rally even without tech leadership."
-        },
-        {
-          "zh": "债券在连续四周收益率上行后终于获得买盘。",
-          "en": "After four weeks of rising yields, bonds at last caught a bid."
-        },
-        {
-          "zh": "大宗商品收高，能源板块受中东冲突推动领涨；Eric提醒关注飓风Isaias登陆墨西哥湾沿岸后可能的馏分油供应中断。",
-          "en": "Commodities ended higher, led by energy on the Middle East conflict; Eric advises watching for distillate supply interruptions after Hurricane Isaias' forecast landfall on the Gulf Coast."
-        },
-        {
-          "zh": "9月ISM服务业符合扩张预期，但价格支付分项带有通胀信号；FOMC纪要显示官员倾向2026年再加息一次，而期货市场定价10月28日会议按兵不动。",
-          "en": "September ISM services met expansionary expectations with an inflationary prices-paid component; FOMC minutes showed officials leaning toward another hike in 2026, while futures price a hold at the Oct. 28 meeting."
-        },
-        {
-          "zh": "下周焦点为分别于周三和周四公布的9月CPI与PPI。",
-          "en": "The week ahead centers on September CPI and PPI, due Wednesday and Thursday respectively."
-        }
-      ],
-      "tags": [
-        "S&P 500",
-        "bonds",
-        "commodities",
-        "Fed",
-        "CPI"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:7uTQm2mu8-c",
-      "title": "Why the AI Trade is Moving Up the Stack",
-      "title_zh": "高收益率下美股韧性、盈利前景与AI下一阶段",
-      "url": "https://www.youtube.com/watch?v=7uTQm2mu8-c",
-      "published_at": "2026-10-10T09:00:17+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "高盛《The Macro Call》节目中，Mark Wilson、Ben Snider与Peter Callahan讨论了当前市场环境的关键驱动因素，包括在收益率上升背景下美股的韧性、盈利增长前景，以及投资者为何持续聚焦AI机会的下一阶段。",
-      "summary_en": "In this highlight from The Macro Call, host Mark Wilson is joined by Ben Snider and Peter Callahan to discuss key drivers of today's market environment, including the resilience of equities despite higher yields, the outlook for earnings growth, and why investors remain focused on the next phase of the AI opportunity.",
-      "detail_zh": "本期《The Macro Call》由主持人Mark Wilson与Ben Snider、Peter Callahan共同讨论当前市场环境的关键驱动因素。讨论聚焦三个方面：一是美股在收益率上升背景下的韧性；二是盈利增长的前景；三是投资者为何持续关注AI机会的下一阶段。节目录制于2026年10月7日。原文未披露具体的市场数据、个股观点或结论性判断。",
-      "detail_en": "In this episode of The Macro Call, host Mark Wilson is joined by Ben Snider and Peter Callahan to discuss the key drivers of today's market environment. The discussion focuses on three areas: the resilience of equities despite higher yields, the outlook for earnings growth, and why investors remain focused on the next phase of the AI opportunity. The segment was filmed on October 7, 2026. The source does not disclose specific market data, individual stock views, or conclusive judgments.",
-      "key_points": [
-        {
-          "zh": "讨论主题之一：在收益率上升的背景下，美股表现出韧性。",
-          "en": "One topic: the resilience of equities despite higher yields."
-        },
-        {
-          "zh": "讨论主题之二：盈利增长的前景。",
-          "en": "Another topic: the outlook for earnings growth."
-        },
-        {
-          "zh": "讨论主题之三：投资者为何持续聚焦AI机会的下一阶段。",
-          "en": "A third topic: why investors remain focused on the next phase of the AI opportunity."
-        },
-        {
-          "zh": "节目由Mark Wilson主持，嘉宾为Ben Snider与Peter Callahan，录制于2026年10月7日。",
-          "en": "Hosted by Mark Wilson with guests Ben Snider and Peter Callahan, filmed on October 7, 2026."
-        }
-      ],
-      "tags": [
-        "equities",
-        "earnings",
-        "AI",
-        "yields"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
