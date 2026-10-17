@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-17T07:13:29.748902+00:00",
+  "generated_at": "2026-10-17T08:15:46.860561+00:00",
   "insights": [
+    {
+      "guid": "yt:U3x7aZ11WT4",
+      "title": "David Byrne Explains How Forgotten Ideas Come Back to Life | Odd Lots",
+      "title_zh": "David Byrne谈“睡美人”理念：好想法如何休眠与复苏，兼论明斯基的再发现",
+      "url": "https://www.youtube.com/watch?v=U3x7aZ11WT4",
+      "published_at": "2026-10-17T08:11:06.505916+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "音乐人兼作家David Byrne在新书《Sleeping Beauties》中探讨了曾受关注后被遗忘、又在危机等时刻被重新发现的“睡美人”理念。他以明斯基为例，指出其行为经济学思想在2008年金融危机后被重新重视，并认为研究理念如何被重新发现有助于找到仍被埋没的宝贵想法。",
+      "summary_en": "Musician and author David Byrne discusses his new book 'Sleeping Beauties,' which explores ideas that receive initial attention, fade into obscurity, and are later rediscovered, often during crises. Using Hyman Minsky as an example, he notes Minsky's behavioral economics ideas were revived after the 2008 financial crisis, and argues that studying how ideas are rediscovered can help identify still-dormant valuable concepts.",
+      "detail_zh": "在Odd Lots播客中，David Byrne介绍其新书《Sleeping Beauties: Why Good Ideas Go Dormant and How They Wake Up》。他定义“睡美人”为最初获得一些关注、随后被遗忘、最终因各种原因被重新启用并发现其相关性的想法、画家或作者。Byrne指出，灾难（包括战争）是理念被重新发现的重要途径，他重点研究“如何被重新发现”而非“如何被遗忘”，因为遗忘的原因往往是机构傲慢、种族主义、性别歧视或认为比过去更聪明等重复故事，而理解重新发现的机制有助于找到仍被埋没的想法。以明斯基为例，其大部分工作完成于1960年代，思想属于行为经济学，认为人在繁荣时期倾向于假设好时光会持续、增加投资并忽视危险信号，并非总是理性行事。2008年金融危机后，明斯基的“明斯基时刻”成为金融新闻的陈词滥调，但在此之前其思想多被抛弃。Byrne还提到书中涵盖罗马混凝土的发现和《白鲸》等例子。",
+      "detail_en": "On the Odd Lots podcast, David Byrne introduces his new book 'Sleeping Beauties: Why Good Ideas Go Dormant and How They Wake Up.' He defines a 'sleeping beauty' as an idea, painter, or author that received some initial attention, then faded from view, became forgotten, and at some point was reappropriated and found relevant again. Byrne notes that catastrophes, including war, are a key way such ideas are rediscovered. He focuses on how they are rediscovered rather than how they are forgotten, because the forgetting stories tend to be repetitive—institutional hubris, racism, sexism, or thinking we know better than the past—and understanding rediscovery can help find ideas still out there. Using Minsky as an example, Byrne says much of Minsky's work was done in the 1960s and is behavioral economics: people don't always act rationally, and when times are flush, we assume they will always be, invest more, and ignore danger signs. After the 2008 financial crisis, 'Minsky moment' became a journalistic cliché, but before that his ideas had been largely discarded. Byrne also mentions the book covers the discovery of Roman concrete and 'Moby Dick.'",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "“睡美人”指最初受关注后被遗忘、又在特定时刻被重新发现并认为具有相关性的想法或作品。",
+          "en": "'Sleeping beauty' refers to an idea or work that initially gained attention, was forgotten, and later rediscovered as relevant."
+        },
+        {
+          "zh": "灾难（包括战争）是理念被重新发现的重要途径；研究“如何被重新发现”有助于找到仍被埋没的想法。",
+          "en": "Catastrophes, including war, are a key way ideas are rediscovered; studying 'how' they are rediscovered can help find still-dormant ideas."
+        },
+        {
+          "zh": "明斯基的思想属于行为经济学，认为人在繁荣时期会忽视风险、非理性行事；其工作在2008年前多被抛弃，危机后“明斯基时刻”成为流行语。",
+          "en": "Minsky's ideas are behavioral economics: people ignore risks and act irrationally in good times. His work was largely discarded before 2008, and 'Minsky moment' became a cliché after the crisis."
+        },
+        {
+          "zh": "Byrne书中还涵盖罗马混凝土的发现和《白鲸》等案例。",
+          "en": "Byrne's book also covers cases such as the discovery of Roman concrete and 'Moby Dick.'"
+        }
+      ],
+      "tags": [
+        "sleeping beauties",
+        "Minsky",
+        "behavioral economics",
+        "idea rediscovery"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:uBNHzlUVrvk",
       "title": "Two Power Bills Show Growing US Electricity Price Divide",
