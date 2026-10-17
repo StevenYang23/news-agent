@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-17T15:13:17.309303+00:00",
+  "generated_at": "2026-10-17T17:12:45.884630+00:00",
   "insights": [
+    {
+      "guid": "yt:zoqBvldIoQk",
+      "title": "AI Debt Concerns, Russia Sanctions Waived, Making 'GTA VI'",
+      "title_zh": "特朗普豁免对俄能源制裁以换取柴油供应，乌克兰与欧洲不满",
+      "url": "https://www.youtube.com/watch?v=zoqBvldIoQk",
+      "published_at": "2026-10-17T16:32:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统豁免了即将生效的对俄能源出口制裁，作为与普京合作释放柴油供应协议的一部分。此举旨在平抑美国柴油价格以应对中期选举，但引发乌克兰和欧洲盟友的强烈不满，且未见普京立场改变。",
+      "summary_en": "President Trump waived sanctions on Russian energy exports that were set to take effect, as part of a deal with Putin to release diesel supply. The move aims to lower U.S. diesel prices ahead of midterms but has angered Ukraine and European allies, with no sign of Putin shifting position.",
+      "detail_zh": "特朗普总统豁免了原定于10月18日生效的对俄能源出口制裁，这些制裁是林赛·格雷厄姆法案的一部分，旨在针对俄罗斯官员和寡头。此举与特朗普寻求与普京合作释放柴油供应有关。彭博社俄罗斯编辑Anthony Halpin指出，俄罗斯战前占全球海运柴油约10%，豁免后可能恢复该市场地位；对克里姆林宫而言，虽无直接预算收益，但企业售油后税收最终流入国库，且此举带来进一步制裁放松的希望。白宫记者Jeff Mason分析，中期选举前特朗普民调落后，柴油价格是主因之一，因此豁免制裁主要出于国内政治考量。乌克兰方面对此极为不满，认为特朗普实际上站在了侵略者普京一边；欧洲盟友也持相同看法，认为只有加大压力才能让普京回到谈判桌，而白宫却反其道而行。泽连斯基被问及是否成为特朗普能源需求的替罪羊时，以沉默和微笑回应。目前没有证据表明美国政策正在改变普京的立场。",
+      "detail_en": "President Trump waived sanctions on Russian energy exports set to take effect on October 18, part of the Lindsey Graham bill targeting Russian officials and oligarchs. The move is linked to Trump's effort to work with Putin to release diesel supply. Bloomberg News Russia editor Anthony Halpin noted Russia accounted for about 10% of global seaborne diesel before the war and may restore that position after the waiver; for the Kremlin, while there is no direct budget benefit, companies will sell diesel and taxes will eventually flow to the state budget, and the deal provides hope for further sanctions relief. Bloomberg News White House correspondent Jeff Mason said Trump is underwater ahead of the midterms, with diesel prices a key factor, so the waiver is primarily driven by domestic politics. Ukraine is dismayed, seeing Trump effectively siding with Putin, the aggressor; European allies share the view that only increased pressure can bring Putin to the table, but the White House is relaxing pressure instead. Zelenskyy responded to a question about being a scapegoat with silence and a smile. There is no evidence U.S. policy is changing Putin's position.",
+      "conclusion_zh": "特朗普为平抑柴油价格而放松对俄制裁，短期或缓解能源成本压力，但地缘政治风险与盟友关系紧张值得关注。",
+      "conclusion_en": "Trump's easing of Russia sanctions to lower diesel prices may ease near-term energy cost pressure, but geopolitical risks and allied tensions warrant attention.",
+      "key_points": [
+        {
+          "zh": "特朗普豁免对俄能源出口制裁，原定10月18日生效，是林赛·格雷厄姆法案的一部分。",
+          "en": "Trump waived sanctions on Russian energy exports set to take effect Oct 18, part of the Lindsey Graham bill."
+        },
+        {
+          "zh": "豁免与寻求俄罗斯柴油供应有关，俄罗斯战前占全球海运柴油约10%。",
+          "en": "The waiver is tied to seeking Russian diesel supply; Russia accounted for about 10% of global seaborne diesel pre-war."
+        },
+        {
+          "zh": "白宫记者Jeff Mason称，中期选举前特朗普民调落后，柴油价格是主因之一，豁免主要出于政治考量。",
+          "en": "Bloomberg's Jeff Mason said Trump is underwater before midterms, diesel prices a key factor, making the waiver politically motivated."
+        },
+        {
+          "zh": "乌克兰和欧洲盟友认为，只有加大压力才能让普京回到谈判桌，但白宫反其道而行。",
+          "en": "Ukraine and European allies argue only increased pressure can bring Putin to the table, but the White House is doing the opposite."
+        },
+        {
+          "zh": "目前没有证据表明美国政策正在改变普京的立场。",
+          "en": "There is no evidence U.S. policy is changing Putin's position."
+        }
+      ],
+      "tags": [
+        "Russia sanctions",
+        "diesel",
+        "midterms",
+        "Ukraine",
+        "energy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:uG8rz3ot2Dk",
       "title": "Northwell CEO Says Health Care Model Must Change",
