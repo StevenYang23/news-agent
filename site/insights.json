@@ -1,6 +1,154 @@
 {
-  "generated_at": "2026-10-17T12:18:36.137173+00:00",
+  "generated_at": "2026-10-17T13:13:03.381601+00:00",
   "insights": [
+    {
+      "guid": "yt:IwwsTx0xNX0",
+      "title": "AI Selloff Tests Investor Confidence",
+      "title_zh": "Ritholtz：AI交易进入分化期，赢家难辨；特斯拉估值与基本面脱节",
+      "url": "https://www.youtube.com/watch?v=IwwsTx0xNX0",
+      "published_at": "2026-10-17T13:04:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Barry Ritholtz 认为，CoreWeave 的波动反映的是市场对 AI 交易整体 nervous 情绪，而非单一事件；AI 作为变革性技术必然产生赢家与输家，且难以提前判断。他质疑英伟达 CEO 黄仁勋的乐观表态因其并非利益中立方，并以宽带建设泡沫类比 AI 基础设施投资。对于特斯拉与 SpaceX 合并传闻，他认为特斯拉估值已与基本面脱节，且产品推出迟缓、面临比亚迪竞争。",
+      "summary_en": "Barry Ritholtz argues that CoreWeave's volatility reflects broader market nervousness about the AI trade rather than a single event; as a transformational technology, AI will inevitably produce winners and losers that are hard to predict in advance. He questions Jensen Huang's optimistic comments given his non-neutral position, and draws parallels to the broadband buildout bubble. On a potential Tesla-SpaceX merger, he says Tesla's valuation is disconnected from fundamentals, with slow product rollouts and rising competition from BYD.",
+      "detail_zh": "Ritholtz 指出，围绕 AI 交易存在诸多交叉因素，CoreWeave 的波动被归因于油价、收益率及其自身债务，但他认为更广泛的问题是市场自 2009 年低点以来已大幅上涨，投资者开始紧张。市场历史表明，每次新技术出现都会伴随赢家、输家和大量错配，目前尚不清楚生成式、代理式、基于 token 等哪些 AI 方向最终能盈利。他认为更大的威胁来自 DeepSeek 等开源 AI 系统，而非 AI 无法赚钱；Cantor Fitzgerald 称 2027 年数据中心产能已售罄，说明资金并非问题，关键在于哪些公司能存活。对于黄仁勋“一切都会过去”的表态，Ritholtz 称其并非利益中立方，但认同技术转型不可逆、新闻噪音不改变基本面。他以宽带建设为例，Juniper、Global Crossing、Metro Media Fiber 等公司破产，但廉价宽带资产催生了 YouTube、Netflix 等赢家，AI 可能类似，但赢家难以猜测，需放眼五到十年。关于特斯拉与 SpaceX 合并传闻，他称飞行汽车是噱头；特斯拉五年前领先十年，但如今估值假设其拥有 80% 电动车市场份额、市值是丰田五倍，而利润率仅为丰田八分之一，估值脱节。特斯拉新产品推出迟缓，比亚迪在续航、马力、价格上占优，正进入欧洲和加拿大，存在产品倾销担忧。",
+      "detail_en": "Ritholtz notes many crosscurrents around the AI trade; CoreWeave's volatility was attributed to oil prices, yields and its own debt, but he sees the broader issue as a market that has run spectacularly since the 2009 lows, making investors nervous. Market history shows every new technology brings winners, losers and massive misallocation, and it is unclear which AI approaches—agentic, generative, task-based, token-based—will ultimately be profitable. He sees open-source AI systems like DeepSeek as a bigger threat than AI failing to make money; Cantor Fitzgerald said all 2027 data-center capacity was already sold out, suggesting funding is not the problem—the question is which companies survive. On Jensen Huang's 'all of this is gonna pass' comment, Ritholtz says Huang is not a disinterested party, though he agrees the platform transition is irreversible and news noise won't change fundamentals. He cites the broadband buildout: Juniper, Global Crossing and Metro Media Fiber went bankrupt, but cheap broadband assets enabled winners like YouTube and Netflix; AI may follow a similar path, but winners are nearly impossible to guess and require a five-to-ten-year view. On a potential Tesla-SpaceX merger, he calls the flying car a gimmick; Tesla was a decade ahead five years ago, but its valuation assumes 80% EV market share and a market cap five times Toyota's while its profit margin is about one-eighth of Toyota's—a disconnect. Tesla has been slow to launch new products, and BYD leads on range, horsepower and price, expanding into Europe and Canada, raising product-dumping concerns.",
+      "conclusion_zh": "AI 交易正从普涨转向分化，投资者应降低对单一赢家的押注，放眼五到十年并考虑指数化配置；特斯拉的估值风险与竞争压力值得警惕。",
+      "conclusion_en": "The AI trade is shifting from broad gains to differentiation; investors should reduce bets on single winners, take a five-to-ten-year view and consider indexing, while Tesla's valuation risk and competitive pressure warrant caution.",
+      "key_points": [
+        {
+          "zh": "CoreWeave 波动反映的是市场对 AI 交易的整体紧张情绪，而非孤立事件；AI 技术变革必然产生赢家与输家，且难以提前判断。",
+          "en": "CoreWeave's volatility reflects broad market nervousness about the AI trade, not an isolated event; AI disruption will inevitably create winners and losers that are hard to predict."
+        },
+        {
+          "zh": "Ritholtz 认为开源 AI（如 DeepSeek）是更大威胁，而非 AI 无法盈利；Cantor Fitzgerald 称 2027 年数据中心产能已售罄，资金不是问题。",
+          "en": "Ritholtz sees open-source AI like DeepSeek as a bigger threat than AI failing to make money; Cantor Fitzgerald says 2027 data-center capacity is sold out, so funding is not the issue."
+        },
+        {
+          "zh": "黄仁勋的乐观表态因其非利益中立方而需谨慎看待，但 Ritholtz 认同技术转型不可逆、新闻噪音不改变基本面。",
+          "en": "Jensen Huang's optimism should be viewed cautiously given his non-neutral position, though Ritholtz agrees the platform transition is irreversible and news noise won't change fundamentals."
+        },
+        {
+          "zh": "以宽带建设泡沫为鉴：大量公司破产，但廉价资产催生了 YouTube、Netflix 等赢家；AI 赢家需放眼五到十年，指数化投资是合理选择。",
+          "en": "The broadband bubble saw many bankruptcies but cheap assets enabled winners like YouTube and Netflix; AI winners require a five-to-ten-year view, making indexing a reasonable approach."
+        },
+        {
+          "zh": "特斯拉估值与基本面脱节：假设 80% 电动车份额、市值为丰田五倍，但利润率仅为丰田八分之一；产品推出迟缓，比亚迪在续航、马力、价格上占优。",
+          "en": "Tesla's valuation is disconnected from fundamentals: it assumes 80% EV share and a market cap five times Toyota's while its margin is one-eighth of Toyota's; product launches are slow and BYD leads on range, horsepower and price."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "CoreWeave",
+        "Nvidia",
+        "Tesla",
+        "BYD"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PxH2L5Q9kA4",
+      "title": "By The Way: Headlines You May Have Missed",
+      "title_zh": "特斯拉Roadster原型亮相与退休储蓄焦虑：市场杂谈",
+      "url": "https://www.youtube.com/watch?v=PxH2L5Q9kA4",
+      "published_at": "2026-10-17T12:54:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特斯拉发布延迟已久的Roadster跑车原型，设计包含SpaceX空气推进器，但量产要等到2028年，引发市场对其真实性和实用性的质疑。同时，美国退休者因担忧储蓄耗尽而推迟享受生活，超六成拥有至少50万美元可投资资产的退休者不愿为享乐花钱。",
+      "summary_en": "Tesla unveiled a prototype of its long-delayed Roadster sports car, featuring SpaceX air thrusters, but production isn't until 2028, raising questions about its authenticity and practicality. Meanwhile, U.S. retirees are postponing enjoyment to protect savings, with over 60% of those with $500,000+ in investable assets uncomfortable spending on enjoyment.",
+      "detail_zh": "特斯拉发布了延迟已久的Roadster跑车原型，该车设计包含SpaceX的空气推进器，可使车辆在空中翻转。视频引发广泛讨论，许多人质疑其真实性，认为可能是模型或特效。评论指出，这可能是将特斯拉与SpaceX更紧密联系的一种举措。两家公司都将在下周发布财报，时机引人关注。但Roadster的量产要等到2028年，且已有消费者为此支付了订金，交付仍遥遥无期。此外，一项研究显示，超过60%拥有至少50万美元可投资资产的退休者不愿为享乐花钱，超过一半的人最大担忧是“人活着钱没了”。成本上升、寿命延长以及社保福利可能被削减是主要顾虑。",
+      "detail_en": "Tesla unveiled a prototype of its long-delayed Roadster sports car, designed with SpaceX air thrusters that allow it to flip in mid-air. The video sparked widespread discussion, with many questioning its authenticity, suggesting it might be a model or special effect. Commentators noted it could be a move to bring Tesla and SpaceX closer together. Both companies are reporting earnings next week, a notable timing. However, Roadster production isn't until 2028, and customers who have already put money down are still waiting. Additionally, a study shows more than 60% of retirees with $500,000+ in investable assets are uncomfortable spending on enjoyment, and more than half cite running out of money before death as their biggest concern. Rising costs, longer lifespans, and potential Social Security benefit cuts are key worries.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特斯拉Roadster原型亮相，配备SpaceX空气推进器，但量产要等到2028年。",
+          "en": "Tesla's Roadster prototype features SpaceX air thrusters, but production is not until 2028."
+        },
+        {
+          "zh": "视频引发真实性争议，许多人质疑其是否为模型或特效。",
+          "en": "The video sparked authenticity debates, with many questioning if it's a model or CGI."
+        },
+        {
+          "zh": "特斯拉和SpaceX均将于下周发布财报，时机引人关注。",
+          "en": "Both Tesla and SpaceX are reporting earnings next week, drawing attention to the timing."
+        },
+        {
+          "zh": "超六成拥有至少50万美元可投资资产的退休者不愿为享乐花钱，最大担忧是“人活着钱没了”。",
+          "en": "Over 60% of retirees with $500k+ investable assets are reluctant to spend on enjoyment, with the biggest fear being running out of money."
+        },
+        {
+          "zh": "成本上升、寿命延长及社保福利可能削减是退休者的主要顾虑。",
+          "en": "Rising costs, longer lifespans, and potential Social Security cuts are key retiree concerns."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "Roadster",
+        "retirement",
+        "savings"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6pinc2Io5fQ",
+      "title": "We Asked a $17B International Manager Why Value is Winning Again — and What the S&P 500 Leaves Out",
+      "title_zh": "价值投资老将复盘：从深度价值到质量复利，再到动态风险仪表盘",
+      "url": "https://www.youtube.com/watch?v=6pinc2Io5fQ",
+      "published_at": "2026-10-17T12:09:35+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "T. Rowe Price全球股票投资组合经理Colin回顾其自1989年以来的价值投资生涯，总结出三条经验：深度价值需要情绪韧性、质量复利适用于无形资产主导的经济、以及通过估值离散度和绝对便宜程度构建自上而下的风险仪表盘来动态管理风险。他强调价值投资并非静态策略，而需在极端便宜且心理压力最大时加大风险暴露。",
+      "summary_en": "Colin, a portfolio manager at T. Rowe Price's global equity division, reflects on his value investing career since 1989, distilling three lessons: deep value requires emotional resilience, quality compounding applies to an intangible-asset-driven economy, and a top-down risk dashboard tracking valuation dispersion and absolute cheapness helps dynamically manage risk. He stresses that value investing is not static and requires ramping up risk when stocks are extremely cheap and psychological pressure is highest.",
+      "detail_zh": "Colin于1989年在英国Phillips and Drew基金管理部门开始职业生涯，该机构以深度价值投资著称，他形容其理念为“在垃圾桶里翻找别人扔掉的东西”。这段经历让他掌握了价值投资的工具与技巧，更重要的是一种情绪韧性——在收件箱充满负面观点时仍能舒适地买入。他职业生涯前半段正值价值投资持续跑赢的时期，他一度疑惑为何并非人人采用价值策略；后半段则艰难地得到了答案。离开UBS后他加入摩根士丹利全球价值团队，从“深度脏价值”一端转向“质量复利”一端，最初六个月对高估值感到困惑，但逐渐认识到基于品牌、技术等无形资产的思考框架更适用于日益无形的经济，而传统格雷厄姆式框架更侧重硬资产。他在全球金融危机结束时离开摩根士丹利，加入英国精品机构T. Rowe Price（原文为“Tro”，疑为T. Rowe Price）设立价值股票基金，恰逢价值投资自大萧条以来最差的十年。他从中学习到个人韧性、区分结构性vs周期性逆风，并发现价值在逆境中仍有阶段性表现但缺乏持续性。他由此开发了一套自上而下的风险仪表盘，采用红绿灯指标跟踪市场估值离散度，寻找“失宠者极度失宠”且绝对估值便宜的条件，以类似21点算牌的方式动态管理风险——在牌面有利时重注，不利时收敛。",
+      "detail_en": "Colin began his career in 1989 at Phillips and Drew Fund Management in the UK, a firm synonymous with deep value investing, whose motto he paraphrased as 'fishing in the garbage cans for things others have thrown out.' That experience taught him the tools and techniques of value investing, but more importantly emotional resilience—being comfortable buying when your inbox is full of people explaining why a stock is awful. The first half of his career coincided with a period when value investing worked, and he wondered why not everyone did it; the second half taught him the answer the hard way. After leaving UBS, he joined Morgan Stanley's global value team, moving from the 'deep and dirty value' end to the 'quality compounding' end. Initially puzzled for six months about why they paid so much for stocks, he came to see a different thought process suited to companies built on intangible assets like brands and technology, whereas the Graham school he grew up in focused on hard assets. He left Morgan Stanley at the end of the GFC and joined a UK boutique (referred to as 'Tro', likely T. Rowe Price) to set up a value equity fund, launching just into what was probably the worst decade for value outside the Great Depression. He learned about personal resilience, distinguishing structural versus cyclical drivers of out-of-favor businesses, and observed that even during value's underperformance there were spurts when value worked but not durably. This led him to develop a top-down risk dashboard with traffic-light indicators tracking valuation dispersion, looking for conditions where what was out of favor was really out of favor and absolutely cheap, and to manage risk dynamically like counting cards at a blackjack table—betting heavily when the deck is favorable and keeping cards closer to the chest otherwise.",
+      "conclusion_zh": "价值投资并非静态策略，需结合自下而上的个股选择与自上而下的风险仪表盘，在极端便宜且心理压力最大时动态加大风险暴露。",
+      "conclusion_en": "Value investing is not a static strategy; it requires combining bottom-up stock selection with a top-down risk dashboard to dynamically increase risk exposure when assets are extremely cheap and psychological pressure is highest.",
+      "key_points": [
+        {
+          "zh": "深度价值投资的核心挑战在于情绪韧性：在负面信息充斥时仍能坚持买入。",
+          "en": "The core challenge of deep value investing is emotional resilience: buying when negative information is overwhelming."
+        },
+        {
+          "zh": "从深度价值转向质量复利，反映了经济中无形资产占比上升的现实。",
+          "en": "The shift from deep value to quality compounding reflects the rising share of intangible assets in the economy."
+        },
+        {
+          "zh": "价值投资在长期跑赢后可能经历长期低迷，需区分结构性vs周期性逆风。",
+          "en": "Value investing can experience prolonged underperformance after long outperformance; distinguishing structural vs cyclical headwinds is key."
+        },
+        {
+          "zh": "自上而下的风险仪表盘跟踪估值离散度和绝对便宜程度，帮助动态调整风险暴露。",
+          "en": "A top-down risk dashboard tracking valuation dispersion and absolute cheapness helps dynamically adjust risk exposure."
+        },
+        {
+          "zh": "最佳买入时机往往是心理压力最大、失宠资产极度失宠且绝对估值便宜之时。",
+          "en": "The best buying opportunities often occur when psychological pressure is highest and out-of-favor assets are extremely cheap in absolute terms."
+        }
+      ],
+      "tags": [
+        "value investing",
+        "portfolio management",
+        "risk management",
+        "quality compounding",
+        "valuation dispersion"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:uzNY8RcWYpM",
       "title": "The EV Bust Creating a New Battery Boom",
@@ -6560,56 +6708,6 @@
         "JNJ",
         "ASML"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3Atl7qFvtnU",
-      "title": "Why Oil Could Still Go Much Higher with Josh Young, Bison Interests | The Geopolitical Edge",
-      "title_zh": "Bison Interests创始人Josh Young：油价为何未破200美元，以及能源股如何布局",
-      "url": "https://www.youtube.com/watch?v=3Atl7qFvtnU",
-      "published_at": "2026-10-10T13:00:00+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Bison Interests创始人兼首席投资官Josh Young在访谈中解析2026年油市：尽管伊朗战争、全球库存下降、油轮遇袭以及柴油和成品油严重紧张，原油仍徘徊在100美元附近。他认为临时供应释放、中东流向变化和压制油价的政治努力掩盖了更紧的底层市场，多年投资不足可能仍在为更大的石油周期蓄势。在能源股布局上，他偏好小型生产商和陆上服务商。",
-      "summary_en": "Bison Interests CIO and Founder Josh Young breaks down the confusing 2026 oil market: crude has stayed near $100 despite the Iran war, falling global inventories, tanker attacks, and severe tightness in diesel and refined products. He argues that temporary supply releases, shifting Middle East flows, and political efforts to suppress prices have masked a much tighter underlying market, and that years of underinvestment could still set the stage for a much larger oil cycle. On positioning, he prefers smaller producers and onshore services.",
-      "detail_zh": "在Real Vision的The Geopolitical Edge节目中，Mikkel Rosenvold与Bison Interests创始人兼首席投资官Josh Young讨论了2026年最令人困惑的市场之一：石油。Josh解释了为何在伊朗战争、全球库存下降、油轮遇袭以及柴油和成品油严重紧张的背景下，原油仍维持在接近100美元的水平，而未达到200美元。他认为，临时性的供应释放、中东石油流向的变化，以及压制油价的政治努力，掩盖了一个实际上更为紧张的底层市场。讨论还涉及霍尔木兹海峡、沙特出口路线、炼油厂短缺、加油站价格、欧洲能源问题，以及为何多年的投资不足可能仍在为一个更大的石油周期奠定基础。在能源股方面，Josh说明了他的布局方式，以及为何他更偏好小型生产商和陆上服务商，而非部分已经大幅上涨的板块。节目还包含对天然气前景的展望。",
-      "detail_en": "On Real Vision's The Geopolitical Edge, Mikkel Rosenvold sits down with Josh Young, CIO and Founder of Bison Interests, to break down one of the most confusing markets of 2026: oil. Josh explains why crude has stayed near $100 despite the Iran war, falling global inventories, tanker attacks, and severe tightness in diesel and refined products, rather than reaching $200. He argues that temporary supply releases, shifting Middle East flows, and political efforts to suppress prices have masked a much tighter underlying market. The discussion also covers the Strait of Hormuz, Saudi export routes, refinery shortages, the price at the pump, Europe's energy problem, and why years of underinvestment could still be setting the stage for a much larger oil cycle. On energy equities, Josh explains how he is positioning and why he prefers smaller producers and onshore services over some of the sectors that have already seen the biggest gains. The episode also includes a natural gas outlook.",
-      "conclusion_zh": "Josh Young认为油市底层比表面更紧，多年投资不足可能酝酿更大周期；在能源股上他偏好小型生产商和陆上服务商。",
-      "conclusion_en": "Josh Young sees a tighter underlying oil market than headline prices suggest, with years of underinvestment potentially setting up a larger cycle; he favors smaller producers and onshore services in energy equities.",
-      "key_points": [
-        {
-          "zh": "尽管伊朗战争、全球库存下降、油轮遇袭和柴油及成品油严重紧张，原油仍徘徊在100美元附近，而非200美元。",
-          "en": "Crude has stayed near $100 rather than $200 despite the Iran war, falling global inventories, tanker attacks, and severe tightness in diesel and refined products."
-        },
-        {
-          "zh": "Josh Young认为，临时供应释放、中东流向变化和压制油价的政治努力掩盖了更紧的底层市场。",
-          "en": "Josh Young argues that temporary supply releases, shifting Middle East flows, and political efforts to suppress prices have masked a much tighter underlying market."
-        },
-        {
-          "zh": "讨论涉及霍尔木兹海峡、沙特出口路线、炼油厂短缺、加油站价格和欧洲能源问题。",
-          "en": "The discussion covers the Strait of Hormuz, Saudi export routes, refinery shortages, the price at the pump, and Europe's energy problem."
-        },
-        {
-          "zh": "Josh Young认为多年的投资不足可能仍在为一个更大的石油周期奠定基础。",
-          "en": "Josh Young argues that years of underinvestment could still be setting the stage for a much larger oil cycle."
-        },
-        {
-          "zh": "在能源股布局上，他更偏好小型生产商和陆上服务商，而非部分已大幅上涨的板块。",
-          "en": "On energy equities, he prefers smaller producers and onshore services over some of the sectors that have already seen the biggest gains."
-        }
-      ],
-      "tags": [
-        "oil",
-        "energy",
-        "geopolitics",
-        "commodities",
-        "inflation"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
