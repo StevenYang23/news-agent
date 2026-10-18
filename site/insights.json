@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:14:13.385905+00:00",
+  "generated_at": "2026-10-18T11:12:54.491825+00:00",
   "insights": [
     {
       "guid": "yt:b5W1Ev_W6uQ",
@@ -7008,68 +7008,6 @@
         "S&P500"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4953335",
-      "title": "Wall Street Week Ahead",
-      "title_zh": "CPI与大型银行财报成为本周市场焦点",
-      "url": "https://seekingalpha.com/article/4953335-wall-street-week-ahead?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-11T10:57:52+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech",
-        "other"
-      ],
-      "summary_zh": "本周美股关注9月CPI报告与三季度财报季启动。经济学家预期核心通胀上升2.4%，投资者将关注价格压力是否重新加速。摩根大通、高盛、富国银行、花旗等大型银行周二率先发布财报，台积电周四发布财报成为AI芯片板块关键参考。",
-      "summary_en": "Wall Street heads into a busy week with the September CPI report and the start of Q3 earnings season likely to set the market tone. Economists expect core inflation to rise 2.4%, and investors will watch for signs of reaccelerating price pressures. JPMorgan, Goldman Sachs, Wells Fargo and Citigroup report Tuesday, while Taiwan Semiconductor's Thursday report is a key read for the AI chip complex.",
-      "detail_zh": "本周市场核心事件为周三上午8:30（美东时间）发布的9月CPI报告，经济学家预期核心通胀上升2.4%。投资者将密切关注价格压力是否重新加速，尤其是在近期收益率反弹、通胀前景担忧重燃的背景下。财报季进入密集期：摩根大通、高盛、富国银行和花旗将于周二发布财报，美国银行、摩根士丹利和贝莱德于周三发布。台积电周四发布财报，被视为AI芯片板块的关键参考；特斯拉预计同日发布下一代Roadster；苹果将于周二举行智能家居产品活动。此外，美联储周三发布褐皮书，9月生产者价格报告周四公布，巴黎车展全周举行。其他值得关注的内容包括：麦当劳因AI定价系统涉嫌违反反垄断法被起诉；Ray Dalio表示AI泡沫接近破裂临界点；Dan Ives将苹果和英伟达列为2027年首选科技股；UBS指出56只股票的增长和盈利能力可能被低估。能源市场方面，Robert & Sam Kovacs维持对能源板块的看涨观点，认为伊朗冲突和关键航运路线威胁可能使油价在更长时间内维持高位，其3月推荐的七只股票等权回报达33%，跑赢标普500的14.5%和能源板块ETF的14.4%。",
-      "detail_en": "The week's central event is the September CPI report due Wednesday at 8:30 a.m. ET, with economists expecting core inflation to rise 2.4%. Investors will watch for signs that price pressures are reaccelerating, particularly after the recent rally in yields and renewed concern over the inflation outlook. Earnings season moves into higher gear: JPMorgan Chase, Goldman Sachs, Wells Fargo and Citigroup report Tuesday, followed by Bank of America, Morgan Stanley and BlackRock on Wednesday. Taiwan Semiconductor reports Thursday in a key read for the AI chip complex, while Tesla is expected to unveil its next-generation Roadster the same day and Apple will hold a smart-home product event Tuesday. Elsewhere, the Fed releases its Beige Book Wednesday, the September producer price report is due Thursday, and the Paris Auto Show runs throughout the week. Other notable items include: McDonald's hit with a lawsuit alleging its AI pricing system violates antitrust laws; Ray Dalio saying we're close to the point where the AI bubble could burst; Dan Ives naming Apple and Nvidia among top tech picks for 2027; and UBS flagging 56 stocks where growth and profitability may be underpriced. On energy, Robert & Sam Kovacs reiterate a bullish outlook, arguing the Iran conflict and threats to key shipping routes could keep oil prices elevated longer than markets anticipate; seven stocks they recommended in March delivered an equal-weighted return of 33%, outperforming the S&P 500's 14.5% and the Energy Select Sector SPDR ETF's 14.4%.",
-      "key_points": [
-        {
-          "zh": "9月CPI报告周三发布，经济学家预期核心通胀上升2.4%，市场关注价格压力是否重新加速",
-          "en": "September CPI report due Wednesday, with economists expecting core inflation to rise 2.4%; markets watching for signs of reaccelerating price pressures"
-        },
-        {
-          "zh": "大型银行财报周二启动：摩根大通、高盛、富国银行、花旗率先发布；美国银行、摩根士丹利、贝莱德周三跟进",
-          "en": "Big bank earnings kick off Tuesday: JPMorgan, Goldman Sachs, Wells Fargo and Citigroup report first; Bank of America, Morgan Stanley and BlackRock follow Wednesday"
-        },
-        {
-          "zh": "台积电周四财报为AI芯片板块关键参考；特斯拉预计同日发布下一代Roadster；苹果周二举行智能家居产品活动",
-          "en": "Taiwan Semiconductor's Thursday report is a key read for the AI chip complex; Tesla expected to unveil next-gen Roadster the same day; Apple holds smart-home event Tuesday"
-        },
-        {
-          "zh": "Ray Dalio表示AI泡沫接近破裂临界点；Dan Ives将苹果和英伟达列为2027年首选科技股",
-          "en": "Ray Dalio says we're close to the point where the AI bubble could burst; Dan Ives names Apple and Nvidia among top tech picks for 2027"
-        },
-        {
-          "zh": "能源板块方面，Robert & Sam Kovacs维持看涨观点，认为伊朗冲突和航运路线威胁可能使油价维持高位，其3月推荐的七只股票等权回报33%，跑赢标普500的14.5%",
-          "en": "On energy, Robert & Sam Kovacs remain bullish, arguing the Iran conflict and shipping route threats could keep oil elevated; their seven March picks returned 33% equal-weighted, beating the S&P 500's 14.5%"
-        }
-      ],
-      "tags": [
-        "CPI",
-        "earnings-season",
-        "big-banks",
-        "AI-chips",
-        "energy"
-      ],
-      "tickers": [
-        "JPM",
-        "GS",
-        "WFC",
-        "C",
-        "BAC",
-        "MS",
-        "BLK",
-        "TSM",
-        "TSLA",
-        "AAPL",
-        "JNJ",
-        "ASML"
-      ],
       "sentiment": "neutral"
     }
   ]
