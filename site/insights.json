@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-10-18T18:16:02.411495+00:00",
+  "generated_at": "2026-10-18T20:14:25.781024+00:00",
   "insights": [
+    {
+      "guid": "4955072",
+      "title": "Wall Street Brunch: SpaceX, Tesla, Meta On The Earnings Card",
+      "title_zh": "SpaceX、特斯拉、Meta财报前瞻：AI支出成焦点",
+      "url": "https://seekingalpha.com/article/4955072-wall-street-brunch-spacex-tesla-meta-on-the-earnings-card?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-18T19:35:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "SpaceX若赢得手机市场1%份额，其运营利润可覆盖火箭和AI亏损；特斯拉受益于油价飙升，但估值高企且盈利转化困难；Meta向AI平台转型，但AI投资压制利润率。本周财报季聚焦GE、GM、Netflix等，美联储进入静默期。",
+      "summary_en": "SpaceX could cover rocket and AI losses with just 1% of the phone market; Tesla benefits from gas price spikes but struggles with profitability and high valuation; Meta transitions to an AI platform but AI spending pressures margins. Earnings season features GE, GM, Netflix, and others, while the Fed enters its blackout period.",
+      "detail_zh": "Seeking Alpha分析师对即将发布财报的三只股票进行了多空辩论。看多SpaceX的Capital Minded认为，SpaceX只需在手机市场赢得1%份额，其16.6亿美元运营利润就能几乎覆盖火箭和AI业务的亏损，且企业和政府收入增长快于消费者业务。但Trapping Value反驳称，SpaceX可以以100%溢价收购三大电信运营商中的任何一家，这比打资本开支战更明智。对于特斯拉，Geneva Investor指出，霍尔木兹危机导致的汽油价格飙升已替代了美国7500美元电动车税收抵免的30%至45%，成为更大的激励因素。然而Agar Capital认为，比飞行Roadster更不可思议的是特斯拉约1.4万亿美元的估值，而其仍难以将收入增长转化为足够的利润和正现金流来支撑估值。关于Meta，Nelson Alves认为其正从烧钱的实验室转型为协调的AI驱动平台，拥有多条变现路径；但Jonathan Weber表示AI支出仍对利润率产生负面影响，鉴于股价波动性，可能出现更好的入场点。此外，本周财报日程包括周二GE Aerospace、通用汽车、Netflix、3M、联合航空；周三菲利普莫里斯、IBM、AT&T、金德摩根、泛林集团、德州仪器；周四宝洁、洛克希德马丁、霍尼韦尔、美国航空、康卡斯特、西部数据。美联储进入10月27-28日政策会议前的静默期。Anthropic向国会议员分发AI安全法案草案，拟建立联邦对先进模型的监管，并狭义界定政府可阻止模型发布或使用的情形。埃隆·马斯克表示Roadster将具备“感知”能力，可执行公司演示的任何特技。",
+      "detail_en": "Seeking Alpha analysts debated three stocks ahead of earnings. Bullish on SpaceX, Capital Minded argues that winning just 1% of the phone market would generate $1.66B in operating profit, nearly covering losses from rockets and AI, with business and government revenue outpacing consumer growth. But Trapping Value counters that SpaceX could buy any of the three major telecoms at a 100% premium to their last closing price, which would be a better decision than the capex war. For Tesla, Geneva Investor notes that the gas price spike from the Hormuz crisis has replaced 30% to 45% of the old $7,500 EV credit in the U.S., acting as an even larger incentive. However, Agar Capital argues that more incredible than a flying Roadster is Tesla's ~$1.4T valuation, as it continues to struggle to convert revenue growth into profits and positive cash flow sufficient to justify that valuation. On Meta, Nelson Alves sees it transitioning from a cash-burning lab to a coordinated AI-driven platform with multiple monetization paths, while Jonathan Weber says AI spending is still negatively impacting margins and a better entry point is likely given volatility. Elsewhere, the earnings calendar includes GE Aerospace, General Motors, Netflix, 3M, and United Airlines on Tuesday; Philip Morris, IBM, AT&T, Kinder Morgan, Lam Research, and Texas Instruments on Wednesday; and P&G, Lockheed Martin, Honeywell, American Airlines, Comcast, and Western Digital on Thursday. The Federal Reserve enters its blackout period ahead of the Oct. 27-28 policy meeting. Anthropic is circulating a draft AI safety bill among congressional lawmakers that would establish federal oversight of advanced models and narrowly define when officials could seek to stop their release or use. Elon Musk says the Roadster will be 'sentient' and able to perform any tricks demonstrated autonomously.",
+      "conclusion_zh": "财报季关注AI支出对科技巨头利润率的影响，以及特斯拉和SpaceX的高估值与盈利转化能力。",
+      "conclusion_en": "Earnings season focuses on AI spending impact on tech giants' margins, and the ability of Tesla and SpaceX to justify high valuations with profitability.",
+      "key_points": [
+        {
+          "zh": "SpaceX若赢得手机市场1%份额，其16.6亿美元运营利润可覆盖火箭和AI亏损。",
+          "en": "SpaceX could cover rocket and AI losses with $1.66B operating profit from just 1% of the phone market."
+        },
+        {
+          "zh": "汽油价格飙升替代了美国7500美元电动车税收抵免的30%-45%，成为特斯拉更大的激励因素。",
+          "en": "Gas price spikes have replaced 30%-45% of the $7,500 EV credit, acting as a larger incentive for Tesla."
+        },
+        {
+          "zh": "特斯拉估值约1.4万亿美元，但仍难以将收入增长转化为足够利润和正现金流。",
+          "en": "Tesla is valued at ~$1.4T but still struggles to convert revenue growth into sufficient profits and positive cash flow."
+        },
+        {
+          "zh": "Meta向AI驱动平台转型，但AI支出对利润率产生负面影响，可能提供更好入场点。",
+          "en": "Meta is transitioning to an AI-driven platform, but AI spending pressures margins and may offer a better entry point."
+        },
+        {
+          "zh": "美联储进入10月27-28日政策会议前的静默期。",
+          "en": "The Federal Reserve enters its blackout period ahead of the Oct. 27-28 policy meeting."
+        }
+      ],
+      "tags": [
+        "earnings",
+        "AI",
+        "EV",
+        "valuation",
+        "Fed"
+      ],
+      "tickers": [
+        "SPCX",
+        "TSLA",
+        "META",
+        "GE",
+        "GM",
+        "NFLX",
+        "MMM",
+        "UAL",
+        "PM",
+        "IBM",
+        "T",
+        "KMI",
+        "LRCX",
+        "TXN",
+        "PG",
+        "LMT",
+        "HON",
+        "AAL",
+        "CMCSA",
+        "WDC",
+        "CL",
+        "LEVI",
+        "LOW",
+        "CVS"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:vx0j3I7jPcI",
       "title": "Riots in France, US Ukraine Disagree on Starshield, Watching Wall Street",
@@ -7451,48 +7526,6 @@
         "risk management",
         "compounding",
         "drawdown"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:h3jDc5Bg8Sc",
-      "title": "Why the Next Crisis Could Unleash Massive Money Printing",
-      "title_zh": "Karsan：政策制定者需先有危机与政治共识，才能大规模QE",
-      "url": "https://www.youtube.com/watch?v=h3jDc5Bg8Sc",
-      "published_at": "2026-10-11T19:30:11+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "Kai Wealth的Cem Karsan认为，政策制定者需要一场危机以及政治层面的认可，才能大规模推出QE、印钞或购买股票。在他看来，政治日历正在收窄此类事件发生的窗口，中期选举和2028年都不是适合发生危机的时点。",
-      "summary_en": "Cem Karsan of Kai Wealth argues that policymakers need a crisis — and political buy-in — before they can deploy massive QE, money printing, or stock purchases at scale. In his view, the political calendar is narrowing the window for such an event, with neither the midterms nor 2028 offering an attractive time for a crisis.",
-      "detail_zh": "Kai Wealth的Cem Karsan提出，政策制定者要大规模实施QE、印钞或购买股票，前提是先出现一场危机，并且获得政治层面的认可。他认为，政治日历正在收窄这类事件发生的窗口。具体而言，中期选举和2028年都不是适合发生危机的时点。上述观点来自Real Vision的完整访谈。",
-      "detail_en": "Cem Karsan of Kai Wealth argues that before policymakers can deploy massive QE, money printing, or stock purchases at scale, a crisis is needed — along with political buy-in. In his view, the political calendar is narrowing the window for such an event. Specifically, neither the midterms nor 2028 offers an attractive time for a crisis. These views come from the full interview on Real Vision.",
-      "conclusion_zh": "Karsan的核心判断是：大规模政策救助不会凭空出现，其触发条件与政治时点密切相关，投资者需关注危机与政治窗口的错配。",
-      "conclusion_en": "Karsan's core judgment: large-scale policy rescue won't appear out of thin air — its trigger is tied to political timing, so investors should watch the mismatch between crisis and political windows.",
-      "key_points": [
-        {
-          "zh": "Karsan认为，大规模QE、印钞或购买股票需要先有危机和政治认可。",
-          "en": "Karsan argues that massive QE, money printing, or stock purchases require a crisis and political buy-in first."
-        },
-        {
-          "zh": "他认为政治日历正在收窄此类事件发生的窗口。",
-          "en": "He believes the political calendar is narrowing the window for such an event."
-        },
-        {
-          "zh": "在他看来，中期选举和2028年都不是适合发生危机的时点。",
-          "en": "In his view, neither the midterms nor 2028 offers an attractive time for a crisis."
-        }
-      ],
-      "tags": [
-        "QE",
-        "monetary-policy",
-        "liquidity",
-        "politics",
-        "market-outlook"
       ],
       "tickers": [],
       "sentiment": "neutral"
