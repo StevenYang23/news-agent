@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-18T16:15:57.127371+00:00",
+  "generated_at": "2026-10-18T17:13:11.610025+00:00",
   "insights": [
+    {
+      "guid": "yt:vx0j3I7jPcI",
+      "title": "Riots in France, US Ukraine Disagree on Starshield, Watching Wall Street",
+      "title_zh": "特朗普豁免对俄制裁以降低柴油价格，引发两党批评",
+      "url": "https://www.youtube.com/watch?v=vx0j3I7jPcI",
+      "published_at": "2026-10-18T16:18:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统豁免对俄罗斯的制裁，以促进柴油进口并降低油价，此举引发共和党和民主党议员的批评，认为是对乌克兰的负面信号。分析认为，此举与中期选举政治密切相关，特朗普试图通过降低柴油价格来保住共和党在国会的席位。",
+      "summary_en": "President Trump waived sanctions on Russia to facilitate diesel imports and lower fuel prices, drawing bipartisan criticism that it sends a negative signal to Ukraine. Analysts see the move as tied to midterm elections, as Trump aims to keep Republicans in power by reducing diesel costs.",
+      "detail_zh": "特朗普总统决定豁免对俄罗斯的制裁，以达成柴油进口协议，旨在中期选举前降低柴油价格。国会上月以86-11的压倒性多数通过了对俄制裁法案，已故参议员林赛·格雷厄姆是该法案的推动者。共和党议员批评特朗普此举，包括通常坚定支持他的参议员特德·克鲁兹。国务卿马科·卢比奥为豁免辩护，称俄罗斯柴油无论如何都会进入全球市场，区别在于美国能否获得部分供应。但批评者指出，制裁法案的初衷正是通过二级制裁阻止其他国家购买俄罗斯石油。彭博社的杰夫·梅森分析认为，特朗普从政治角度看待此事，柴油价格在中西部等关键州是巨大负担，可能影响中期选举结果。",
+      "detail_en": "President Trump decided to waive sanctions on Russia to secure a diesel import deal aimed at lowering diesel prices ahead of the midterm elections. Congress overwhelmingly passed a sanctions law last month with an 86-11 Senate vote, championed by the late Senator Lindsey Graham. Republican lawmakers, including usually staunch Trump ally Senator Ted Cruz, criticized the move. Secretary of State Marco Rubio defended the waiver, saying Russian diesel would enter the global market anyway and the difference is how much the U.S. gets. Critics argue the sanctions bill was intended to prevent exactly that through secondary sanctions on countries purchasing Russian oil. Bloomberg's Jeff Mason analyzed that Trump views the issue through a political lens, as diesel prices are a huge burden in the Midwest and key states, potentially affecting midterm election outcomes.",
+      "conclusion_zh": "特朗普豁免对俄制裁以压低柴油价格，凸显中期选举前能源价格的政治重要性，但两党批评可能带来政策不确定性。",
+      "conclusion_en": "Trump's waiver of Russia sanctions to lower diesel prices highlights the political importance of energy prices ahead of midterms, but bipartisan criticism may introduce policy uncertainty.",
+      "key_points": [
+        {
+          "zh": "特朗普豁免对俄制裁以降低柴油价格，引发两党批评。",
+          "en": "Trump waived sanctions on Russia to lower diesel prices, drawing bipartisan criticism."
+        },
+        {
+          "zh": "国会此前以86-11通过了对俄制裁法案，旨在通过二级制裁施压。",
+          "en": "Congress previously passed a Russia sanctions bill 86-11, aimed at applying secondary sanctions pressure."
+        },
+        {
+          "zh": "国务卿卢比奥辩称俄罗斯柴油总会进入市场，美国应获取部分供应。",
+          "en": "Secretary Rubio argued Russian diesel would enter the market anyway, and the U.S. should get some supply."
+        },
+        {
+          "zh": "分析认为此举与中期选举政治密切相关，柴油价格是关键州的负担。",
+          "en": "Analysts see the move as closely tied to midterm politics, with diesel prices a burden in key states."
+        }
+      ],
+      "tags": [
+        "Russia sanctions",
+        "diesel prices",
+        "midterm elections",
+        "Trump administration",
+        "energy policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:hyDmuq7guqc",
       "title": "Inside Andreessen’s Growing Political Influence",
