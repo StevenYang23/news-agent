@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T17:13:11.610025+00:00",
+  "generated_at": "2026-10-18T18:16:02.411495+00:00",
   "insights": [
     {
       "guid": "yt:vx0j3I7jPcI",
@@ -7495,73 +7495,6 @@
         "market-outlook"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4953361",
-      "title": "Wall Street Brunch: Start Your Earnings Engines",
-      "title_zh": "财报季开启：大行打头阵，台积电与CPI成焦点",
-      "url": "https://seekingalpha.com/article/4953361-wall-street-bruch-start-your-earnings-engines?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-11T17:29:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "三季度财报季进入高潮，摩根大通、高盛等大型银行率先公布业绩，台积电的AI芯片需求成为科技板块关键看点。9月CPI预计环比上涨0.6%，核心通胀仍受控，联邦基金期货定价显示10月暂停加息、12月可能加息25个基点。",
-      "summary_en": "Q3 earnings season moves into high gear with big banks leading the way, while TSMC's AI chip demand is a key read for the tech sector. September CPI is expected to rise 0.6% MoM with contained core inflation, and fed funds futures price in a Fed pause in October and a quarter-point hike in December.",
-      "detail_zh": "三季度财报季正式启动，摩根大通、高盛、富国银行和花旗集团于周二公布业绩，美国银行、摩根士丹利和贝莱德于周三跟进。Alpha Analyst指出摩根大通目前运营接近峰值状态，二季度有形普通股回报率约23%，市场与投行业务收入创纪录，但该分析师认为普通股在当前估值下面临多维风险且上行空间有限，偏好优先股作为收益型建仓选择。台积电将于周四公布业绩，Khaveen Investments给予强力买入评级，预计AI芯片需求将保持强劲，但增长取决于台积电能否提升足够产能以满足需求。宏观方面，经济学家预计9月CPI环比上涨0.6%，年率升至3.6%，核心价格环比上涨0.2%，年率升至2.5%；富国银行宏观团队认为该报告将印证潜在通胀压力仍然受控，尽管能源价格上涨持续推动整体通胀波动。联邦基金期货目前定价10月暂停加息、12月加息25个基点。此外，特朗普宣布俄罗斯与乌克兰同意立即实现能源停火，但未提供更多细节；白宫发布命令要求所有AI公司报告并纠正安全事件；英伟达正讨论收购或增持Reflection AI，谈判处于早期阶段。",
-      "detail_en": "Q3 earnings season is officially underway, with JPMorgan Chase, Goldman Sachs, Wells Fargo and Citigroup reporting Tuesday, followed by Bank of America, Morgan Stanley and BlackRock on Wednesday. The Alpha Analyst notes JPMorgan is operating at near-peak conditions, with Q2 return on tangible common equity at about 23% and record Markets and Investment Banking revenue, but views common shares as facing multidimensional risks and limited upside at current valuations, favoring preferred stock for income. Taiwan Semiconductor reports Thursday, with Khaveen Investments (Strong Buy) expecting AI chip demand to remain very strong and growth hinging on whether TSMC can raise enough capacity to fulfill this demand. On the macro front, economists expect September CPI to rise 0.6% MoM, taking the annual rate to 3.6%, with core prices up 0.2% and the yearly rate ticking up to 2.5%; Wells Fargo's macro team expects the report to reinforce that underlying inflation pressures remain contained even as higher energy prices push headline inflation around. Fed funds futures are pricing in a Fed pause in October and a quarter-point rate hike in December. Additionally, President Trump says Russia and Ukraine have agreed to an immediate energy ceasefire with no further details; the White House issued a mandate requiring all AI companies to report and correct security incidents; and Nvidia is holding discussions to acquire or increase its investment in Reflection AI, with talks at an early stage.",
-      "key_points": [
-        {
-          "zh": "大型银行率先开启财报季，摩根大通、高盛、富国银行、花旗周二公布业绩，美国银行、摩根士丹利、贝莱德周三跟进。",
-          "en": "Big banks lead earnings season: JPMorgan, Goldman Sachs, Wells Fargo and Citigroup report Tuesday, followed by Bank of America, Morgan Stanley and BlackRock on Wednesday."
-        },
-        {
-          "zh": "Alpha Analyst认为摩根大通运营接近峰值，二季度有形普通股回报率约23%，但普通股上行空间有限，偏好优先股作为收益选择。",
-          "en": "The Alpha Analyst says JPMorgan is operating at near-peak conditions with Q2 ROTCE around 23%, but favors preferred stock for income as common shares face limited upside."
-        },
-        {
-          "zh": "台积电周四公布业绩，Khaveen Investments给予强力买入，预计AI芯片需求强劲，但增长取决于产能能否满足需求。",
-          "en": "TSMC reports Thursday; Khaveen Investments has a Strong Buy, expecting very strong AI chip demand with growth hinging on capacity expansion."
-        },
-        {
-          "zh": "9月CPI预计环比上涨0.6%，年率3.6%，核心通胀受控；联邦基金期货定价10月暂停、12月加息25个基点。",
-          "en": "September CPI expected up 0.6% MoM, 3.6% YoY, with contained core inflation; fed funds futures price an October pause and a December quarter-point hike."
-        },
-        {
-          "zh": "特朗普宣布俄乌同意立即能源停火但无细节；白宫要求AI公司报告安全事件；英伟达讨论收购或增持Reflection AI。",
-          "en": "Trump announces Russia-Ukraine immediate energy ceasefire with no details; White House mandates AI companies report security incidents; Nvidia discusses acquiring or increasing investment in Reflection AI."
-        }
-      ],
-      "tags": [
-        "earnings",
-        "CPI",
-        "AI chips",
-        "banks",
-        "Fed"
-      ],
-      "tickers": [
-        "TSM",
-        "JPM",
-        "GS",
-        "WFC",
-        "C",
-        "BAC",
-        "MS",
-        "BLK",
-        "JNJ",
-        "UNH",
-        "TRV",
-        "NVDA",
-        "ACN",
-        "MU",
-        "ABT",
-        "ABBV",
-        "AA"
-      ],
       "sentiment": "neutral"
     }
   ]
