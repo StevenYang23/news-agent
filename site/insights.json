@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:14:25.781024+00:00",
+  "generated_at": "2026-10-18T22:13:25.761562+00:00",
   "insights": [
     {
       "guid": "4955072",
@@ -410,6 +410,51 @@
         "AI trade",
         "midterms",
         "small caps"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:nF9JHUrGE9k",
+      "title": "Starshield Dispute Exposes US Ukraine Divide",
+      "title_zh": "乌克兰称星盾系统受限，美方否认；共和党中期选举前对俄政策反弹",
+      "url": "https://www.youtube.com/watch?v=nF9JHUrGE9k",
+      "published_at": "2026-10-18T13:16:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "乌克兰总统泽连斯基称SpaceX的星盾系统在乌克兰被故意限制，美国国务卿卢比奥否认白宫参与，并称乌克兰从未拥有星盾访问权限。彭博报道指出乌克兰确实使用星盾和星链，本周两者在乌克兰失效或严重降速。随着中期选举临近，部分共和党人因特朗普对俄政策及柴油交易豁免而公开反对。",
+      "summary_en": "Ukrainian President Zelensky said the use of SpaceX's Star Shield system in Ukraine appears to have been deliberately restricted. US Secretary of State Rubio denied White House involvement and said Ukraine never had Star Shield access. Bloomberg reported that Ukraine does use Star Shield and Starlink, and both were down or severely slowed in Ukraine this week. With midterm elections approaching, some Republicans are publicly opposing Trump's Russia policy and the diesel deal waiver.",
+      "detail_zh": "乌克兰总统泽连斯基表示，SpaceX的星盾（Star Shield）系统在乌克兰的使用似乎被故意限制。美国国务卿卢比奥对此予以否认，称白宫并未参与导致降速的行动，并强调乌克兰从未拥有星盾的访问权限。卢比奥区分了星链（Starlink）作为商业产品与星盾作为国防/军事产品，称星盾目前不提供给乌克兰，但相关讨论正在进行中。彭博社国家安全团队负责人温迪·本杰明报道称，乌克兰确实同时使用星盾和星链，这些系统对其防空拦截至关重要——星盾用于探测俄罗斯无人机来袭方向，星链用于向前线运送补给。本周两者在乌克兰均出现中断或传输严重降速，基本无法使用。泽连斯基认为这不是故障，因为星盾/星链在欧洲其他地区（乌克兰附近）运行正常，唯独在乌克兰上空失效。特朗普本人表示未下令降速，卢比奥似乎并不清楚乌克兰确实使用星盾，五角大楼对此保持沉默。此外，在中期选举前几周，共和党人正为保住席位而战，民调显示民主党可能赢得众议院甚至参议院多数。特朗普被指在柴油交易和豁免决定上亲近俄罗斯，部分共和党人（如泰德·克鲁兹、约翰·科宁、汤姆·蒂利斯、丽莎·穆尔科斯基、苏珊·柯林斯）对此表示反对，认为这不会在短期内降低美国能源价格。",
+      "detail_en": "Ukrainian President Zelensky said the use of SpaceX's Star Shield system in Ukraine appears to have been deliberately restricted. US Secretary of State Rubio rejected this on two fronts: he said the White House was not behind the slowdown, and that Ukraine never had Star Shield access. Rubio distinguished Starlink as a commercial product from Star Shield as a defense/military product, stating that Star Shield is not currently available to Ukraine but discussions are ongoing about how they would want to use it. Bloomberg's National Security team leader Wendy Benjamin reported that Ukraine does use both Star Shield and Starlink, which are critical to air defense interception—Star Shield is used to see where Russian drones are coming from, and Starlink is used to deliver supplies to the front lines. Both products went down or transmission was so slowed this week that they were pretty much useless in Ukraine. Zelensky is convinced it was not a glitch because Star Shield/Starlink was working fine in other parts of Europe near Ukraine, and it was only over Ukraine that it wasn't working. Trump himself said he didn't order it to be slowed down, Rubio doesn't seem to know that Ukraine does use Star Shield, and the Pentagon has been quiet. Additionally, with midterm elections a couple of weeks away, Republicans are fighting for their jobs, and it looks like Democrats may take the House and possibly the Senate. Trump's moves on the diesel deal and waiver, seen as cozying up to Russia, have angered some Republicans (Ted Cruz, John Cornyn, Thom Tillis, Lisa Murkowski, Susan Collins), who argue it will do little to reduce US energy prices in real time.",
+      "conclusion_zh": "地缘政治风险与中期选举前的政策不确定性交织，关注美国对俄政策变化及国防/能源相关板块的潜在影响。",
+      "conclusion_en": "Geopolitical risks and pre-midterm policy uncertainty are intertwined; watch for shifts in US Russia policy and potential implications for defense and energy sectors.",
+      "key_points": [
+        {
+          "zh": "泽连斯基称星盾系统在乌克兰被故意限制，卢比奥否认白宫参与且称乌克兰从未拥有星盾访问权限。",
+          "en": "Zelensky said Star Shield use in Ukraine was deliberately restricted; Rubio denied White House involvement and said Ukraine never had Star Shield access."
+        },
+        {
+          "zh": "彭博报道乌克兰确实使用星盾和星链，本周两者在乌克兰失效或严重降速，影响防空和补给。",
+          "en": "Bloomberg reported Ukraine does use Star Shield and Starlink, and both were down or severely slowed in Ukraine this week, affecting air defense and supplies."
+        },
+        {
+          "zh": "泽连斯基认为并非故障，因为系统在乌克兰附近欧洲地区运行正常，唯独乌克兰上空失效。",
+          "en": "Zelensky believes it was not a glitch because the system worked fine in other parts of Europe near Ukraine, and only failed over Ukraine."
+        },
+        {
+          "zh": "中期选举前共和党人紧张，部分共和党人公开反对特朗普对俄政策及柴油交易豁免。",
+          "en": "Republicans are nervous ahead of midterms, and some publicly oppose Trump's Russia policy and the diesel deal waiver."
+        }
+      ],
+      "tags": [
+        "Ukraine",
+        "Starlink",
+        "Star Shield",
+        "midterm elections",
+        "Russia policy"
       ],
       "tickers": [],
       "sentiment": "neutral"
