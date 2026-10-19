@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:13:53.625646+00:00",
+  "generated_at": "2026-10-19T18:17:52.079513+00:00",
   "insights": [
     {
       "guid": "4955244",
@@ -57,6 +57,62 @@
         "SJM",
         "KR",
         "CAH"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:2DBy7VtCRDw",
+      "title": "Open Interest 10/19/2026",
+      "title_zh": "AI交易波动加剧，Meta等科技巨头财报成焦点",
+      "url": "https://www.youtube.com/watch?v=2DBy7VtCRDw",
+      "published_at": "2026-10-19T16:50:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "市场在经历上周AI板块大幅回调后小幅反弹，投资者关注本周Meta、特斯拉等科技巨头财报，尤其关注资本开支而非ROI。同时，英伟达支持的AI初创公司Nscale的IPO估值面临下调压力，Anthropic则宣布设立公共福利基金。",
+      "summary_en": "Markets rebounded slightly after last week's sharp AI selloff, with investors focused on this week's Big Tech earnings from Meta, Tesla, and others, particularly capex rather than ROI. Meanwhile, Nvidia-backed AI startup Nscale faces valuation pressure ahead of its IPO, and Anthropic announced a public benefit fund.",
+      "detail_zh": "上周五标普500指数连续两日跌超1%，AI板块出现大幅轮动，市场情绪紧张。本周投资者将迎来Meta、特斯拉、Netflix和IBM等公司的财报，交易员预计波动性将上升。分析师指出，投资者更关注资本开支而非投资回报率，以确认超大规模企业将继续支出以支撑AI基础设施。数据显示，今年全球盈利增长的48%来自科技行业，明年这一比例将升至68%。英伟达支持的AI初创公司Nscale在IPO前面临估值质疑，投资者认为160亿至190亿美元更现实，而非其期望的300亿美元。此外，Anthropic宣布将5%的股份投入公共福利基金，用于应对AI对就业的影响，并可能额外追加2%的股份。",
+      "detail_en": "Last week, the S&P 500 fell more than 1% on two consecutive days, with a huge rotation in AI names causing jitters. This week, investors will hear from Meta, Tesla, Netflix, and IBM, and traders expect more volatility. Analysts note that investors are focusing on capex rather than ROI to confirm that hyperscalers will continue spending to support the AI infrastructure buildout. Data shows that 48% of global earnings growth this year comes from technology, rising to 68% next year. Nvidia-backed AI startup Nscale faces valuation doubts ahead of its IPO, with investors suggesting $16-19 billion is more realistic than its desired $30 billion. Additionally, Anthropic announced it will contribute 5% of its shares to a public benefit fund to address AI's impact on jobs, with potential to add another 2%.",
+      "conclusion_zh": "科技巨头财报季来临，资本开支指引将决定AI交易能否重获动力，同时需警惕高估值AI初创企业的IPO定价风险。",
+      "conclusion_en": "As Big Tech earnings season begins, capex guidance will determine whether the AI trade regains momentum, while IPO pricing risks for high-valuation AI startups warrant caution.",
+      "key_points": [
+        {
+          "zh": "上周标普500两日跌超1%，AI板块轮动引发市场紧张，本周科技巨头财报或加剧波动。",
+          "en": "The S&P 500 fell more than 1% on two days last week, with AI rotation causing jitters; this week's Big Tech earnings may amplify volatility."
+        },
+        {
+          "zh": "投资者关注科技巨头资本开支而非ROI，以确认AI基础设施建设的持续性。",
+          "en": "Investors are focused on capex rather than ROI to confirm the sustainability of AI infrastructure spending."
+        },
+        {
+          "zh": "今年全球盈利增长48%来自科技，明年预计升至68%，科技股是美股盈利引擎。",
+          "en": "Tech accounts for 48% of global earnings growth this year, expected to rise to 68% next year, making it the earnings engine for US equities."
+        },
+        {
+          "zh": "英伟达支持的Nscale IPO估值遭质疑，投资者认为160-190亿美元更现实，而非300亿美元。",
+          "en": "Nvidia-backed Nscale's IPO valuation is questioned, with investors seeing $16-19 billion as more realistic than $30 billion."
+        },
+        {
+          "zh": "Anthropic设立公共福利基金，将5%股份用于应对AI对就业的影响，并可能追加2%。",
+          "en": "Anthropic established a public benefit fund, contributing 5% of shares to address AI's impact on jobs, with potential to add 2%."
+        }
+      ],
+      "tags": [
+        "AI",
+        "earnings",
+        "capex",
+        "IPO",
+        "volatility"
+      ],
+      "tickers": [
+        "META",
+        "TSLA",
+        "NFLX",
+        "IBM",
+        "NVDA",
+        "INTC"
       ],
       "sentiment": "neutral"
     },
@@ -839,6 +895,51 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "4955136",
+      "title": "Shockwaves In Europe As Protests Ignite Across France",
+      "title_zh": "法国财政危机升级，欧洲市场承压",
+      "url": "https://seekingalpha.com/article/4955136-shockwaves-in-europe-as-protests-ignite-across-france?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-19T11:30:18+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "法国因财政赤字高企（约占GDP 120%）及社会动荡引发市场担忧，国债遭抛售，CAC 40指数领跌欧洲。投资者关注法国政治僵局及六个月后的大选，同时全球市场情绪受多重因素影响。",
+      "summary_en": "France's fiscal deficit (around 120% of GDP) and social unrest spark market concerns, with government bonds selling off and the CAC 40 leading European declines. Investors are watching the political gridlock and upcoming election in six months, while global market sentiment is influenced by multiple factors.",
+      "detail_zh": "法国周末爆发大规模骚乱，起源于学生运动，后演变为对生活成本上升的广泛愤怒，并升级为暴力事件。数百名警察和消防员受伤，数千人被捕，财产损失严重。总统马克龙呼吁冷静，但政府控制措施不明。国民议会僵局和六个月后的大选使局势更加复杂。核心问题是严重的财政压力，每年巨额赤字约占GDP的120%，经济增长停滞。政府已拿走超过一半的私人资源用于福利和养老金。自伊朗战争以来，法国借贷成本增幅为G7国家最大。极左翼“不屈法国”的梅朗雄主张烧掉18%的公共债务，极右翼“国民联盟”的勒庞希望将退休年龄从62岁降至60岁。骚乱后法国国债周一再次遭抛售，CAC 40指数下跌1.4%，领跌欧洲。其他消息：亚洲市场涨跌互现，欧洲股市午盘下跌，美国期货涨跌不一，原油下跌，黄金微涨，比特币微涨，十年期美债收益率持平于5.09%。",
+      "detail_en": "France experienced widespread riots over the weekend, starting as a student movement over school conditions and escalating into broader anger over the rising cost of living, then into violent riots. Hundreds of police officers and firefighters were injured, thousands arrested, and damage was staggering. President Macron appealed for calm but it's unclear what measures the government will take. A gridlocked National Assembly and a presidential election in six months complicate the situation. At the core is severe fiscal strain, with a massive annual deficit now about 120% of GDP amid stalling growth. The government already takes over half of private resources for entitlements and pensions. France has seen the biggest jump in borrowing costs among G7 nations since the Iran war. Jean-Luc Mélenchon advocates burning 18% of public debt, while Marine Le Pen wants to reduce the retirement age from 62 to 60. French government bonds sold off again on Monday, and the CAC 40 fell 1.4%, leading European declines. Other news: Asian markets mixed, European stocks down at midday, US futures mixed, crude down, gold up slightly, bitcoin up slightly, 10-year Treasury yield unchanged at 5.09%.",
+      "conclusion_zh": "法国财政与政治风险上升，可能拖累欧洲市场情绪，投资者需关注欧洲资产波动及潜在溢出效应。",
+      "conclusion_en": "Rising fiscal and political risks in France could weigh on European market sentiment; investors should watch for volatility in European assets and potential spillover effects.",
+      "key_points": [
+        {
+          "zh": "法国财政赤字约占GDP 120%，经济增长停滞，社会动荡加剧。",
+          "en": "France's fiscal deficit is about 120% of GDP, with stalling economic growth and worsening social unrest."
+        },
+        {
+          "zh": "骚乱后法国国债遭抛售，CAC 40指数下跌1.4%，领跌欧洲。",
+          "en": "French government bonds sold off after riots, and the CAC 40 fell 1.4%, leading European declines."
+        },
+        {
+          "zh": "自伊朗战争以来，法国借贷成本增幅为G7国家最大。",
+          "en": "France has seen the biggest jump in borrowing costs among G7 nations since the Iran war."
+        },
+        {
+          "zh": "政治僵局和六个月后的大选增加不确定性，极左和极右翼政策主张加剧财政风险。",
+          "en": "Political gridlock and the upcoming election in six months add uncertainty, with far-left and far-right policies exacerbating fiscal risks."
+        }
+      ],
+      "tags": [
+        "France",
+        "fiscal crisis",
+        "European markets",
+        "political unrest"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
     },
     {
       "guid": "4955155",
@@ -8312,58 +8413,6 @@
         "US power"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:HlukT6y0B6I",
-      "title": "Black-Scholes for Traders: Volatility is the Only Number That Matters",
-      "title_zh": "交易员视角的Black-Scholes：波动率是唯一真正重要的变量",
-      "url": "https://www.youtube.com/watch?v=HlukT6y0B6I",
-      "published_at": "2026-10-12T17:17:27+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility"
-      ],
-      "summary_zh": "该视频从交易员视角讲解Black-Scholes模型：五个输入中只有波动率是未知且可争议的，市场据此把期权的美元价格换算为隐含波动率。内容涵盖波动率报价惯例、delta对冲与无风险利率、QQQ实例、SPY自1993年以来的偏斜，以及财报与供需如何影响隐含波动率。",
-      "summary_en": "This video explains the Black-Scholes model from a trader's perspective: of the five inputs, volatility is the only one that is unknown and up for debate, and the market converts an option's dollar price into implied volatility. It covers quoting conventions, delta hedging and the risk-free rate, a worked QQQ example, SPY skew since 1993, and how earnings and supply/demand move implied volatility.",
-      "detail_zh": "视频指出，每个期权价格内部都隐含着一个波动率数字，Black-Scholes模型包含五个输入，但其中只有波动率是无人确知、需要市场博弈的变量。它解释了\"20 vol\"的含义，以及如何用\"16法则\"把年化波动率换算成单日波动幅度。交易员习惯用波动率而非美元报价期权，视频以SpaceX、Meta和Nike为例说明这一点。内容还讲解了delta对冲的运作方式，以及为何对冲后的头寸只能赚取无风险利率。视频给出了一个QQQ的完整算例，涉及价格、delta和初始对冲；并用1993年以来每一个SPY交易周的数据说明真实市场为何存在偏斜（skew）。此外，视频讨论了财报和供需如何推动隐含波动率变化，以及买入期权时真正支付的到底是什么。视频声明所有期权价格均为用于说明的假设性Black-Scholes数值，并非实时报价或真实交易，股价为真实日收盘价；内容仅供教育用途，不构成投资建议。",
-      "detail_en": "The video notes that every option price has a volatility number hidden inside it, and that the Black-Scholes model has five inputs, of which only volatility is unknown and up for debate. It explains what \"20 vol\" means and how the rule of 16 turns it into a daily move. Traders quote options in volatility rather than dollars, illustrated with SpaceX, Meta and Nike examples. It covers how delta hedging works and why the hedged position earns the risk-free rate. A worked QQQ example is provided, covering price, delta and the starting hedge, and it uses every SPY week since 1993 to show why real markets have skew. It also discusses how earnings and supply and demand move implied volatility, and what you are really paying for when buying an option. The video states that all option prices shown are hypothetical Black-Scholes values for illustration, not live quotes or actual trades, and that stock prices are real daily closes; it is for educational purposes only and is not investment advice.",
-      "key_points": [
-        {
-          "zh": "Black-Scholes有五个输入，但只有波动率是未知、需要市场定价的变量。",
-          "en": "Black-Scholes has five inputs, but only volatility is unknown and must be priced by the market."
-        },
-        {
-          "zh": "交易员用波动率而非美元报价期权，并以\"16法则\"把波动率换算为单日波动。",
-          "en": "Traders quote options in volatility rather than dollars, using the rule of 16 to convert vol into a daily move."
-        },
-        {
-          "zh": "delta对冲后的头寸赚取无风险利率。",
-          "en": "A delta-hedged position earns the risk-free rate."
-        },
-        {
-          "zh": "1993年以来每个SPY交易周的数据显示真实市场存在偏斜（skew）。",
-          "en": "Every SPY week since 1993 shows that real markets have skew."
-        },
-        {
-          "zh": "财报以及供需会推动隐含波动率变化。",
-          "en": "Earnings and supply and demand move implied volatility."
-        }
-      ],
-      "tags": [
-        "options",
-        "black-scholes",
-        "implied-volatility",
-        "delta-hedging",
-        "skew"
-      ],
-      "tickers": [
-        "QQQ",
-        "SPY",
-        "META",
-        "NKE"
-      ],
       "sentiment": "neutral"
     }
   ]
