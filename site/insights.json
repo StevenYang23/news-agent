@@ -1,6 +1,194 @@
 {
-  "generated_at": "2026-10-19T04:13:12.050555+00:00",
+  "generated_at": "2026-10-19T07:32:39.585417+00:00",
   "insights": [
+    {
+      "guid": "yt:AYa6KVY1beA",
+      "title": "France PM Calls Crisis Meeting After Weekend Riots",
+      "title_zh": "法国暴力抗议冲击市场，纳指期货反弹，美债重获避险地位",
+      "url": "https://www.youtube.com/watch?v=AYa6KVY1beA",
+      "published_at": "2026-10-19T07:06:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "法国全国性抗议演变为暴力冲突，导致法国债券和欧洲股指期货下跌，欧元承压。与此同时，纳斯达克期货从芯片股抛售中反弹，美债在收益率高企后重获避险吸引力。市场关注本周美国大型科技股财报。",
+      "summary_en": "Violent protests in France weigh on French bonds and European equity futures, pressuring the euro. Meanwhile, Nasdaq futures rebound from a chip selloff, and Treasuries regain their haven appeal after yields surged above 5%. Markets focus on big tech earnings this week.",
+      "detail_zh": "法国抗议活动升级为多年来最严重的街头暴力，超过50万人上街（组织者称近80万），出现广泛抢劫和地标建筑被纵火。总理召开危机会议，马克龙呼吁恢复秩序并对话，但未公布具体政策，且将前往海湾国家。分析人士指出，马克龙任期仅剩六个月，财政杠杆缺失，债券市场已反映这一困境，法德利差可能扩大。欧元兑G10货币走弱，法国债券期货下跌，欧洲股指期货下跌0.3%。另一方面，纳斯达克期货上涨1%，从上周五的抛售中反弹；美债10年期收益率从5.06%回落，因股市抛售和对AI资本支出的担忧促使资金回流固定收益，且美日债券拍卖顺利。市场关注本周美国大型科技股财报，包括Netflix、特斯拉和Meta。",
+      "detail_en": "Protests in France escalated into some of the worst street violence in years, with over half a million people taking to the streets (organizers claim nearly 800,000), widespread looting, and landmarks set ablaze. The prime minister held a crisis meeting, and President Macron called for order and dialogue but announced no specific policies and is traveling to the Gulf. Analysts note Macron has only six months left in his presidency, no fiscal lever, and the bond market reflects this, with the French-German spread potentially widening. The euro weakened against G10 peers, French bond futures fell, and European equity futures dropped 0.3%. Meanwhile, Nasdaq futures rose 1%, rebounding from Friday's selloff; the 10-year Treasury yield fell from 5.06% as equity selling and concerns over AI capex drove money back into fixed income, helped by solid US and Japanese bond auctions. Markets focus on big tech earnings this week, including Netflix, Tesla, and Meta.",
+      "conclusion_zh": "法国政治风险可能继续压制法国资产和欧元，而美股在科技股财报前情绪有所修复，美债在高收益率下重获配置价值。",
+      "conclusion_en": "French political risk may continue to weigh on French assets and the euro, while US equities show some recovery ahead of tech earnings and Treasuries regain allocation value at high yields.",
+      "key_points": [
+        {
+          "zh": "法国暴力抗议导致法国债券期货下跌，欧元兑G10货币走弱，法德利差可能扩大。",
+          "en": "Violent protests in France push French bond futures lower and weaken the euro against G10 peers, with the French-German spread potentially widening."
+        },
+        {
+          "zh": "纳斯达克期货反弹1%，从芯片股抛售中恢复，市场关注本周大型科技股财报。",
+          "en": "Nasdaq futures rebound 1% from the chip selloff, with markets focused on big tech earnings this week."
+        },
+        {
+          "zh": "美债重获避险地位，10年期收益率从5.06%回落，因股市抛售和强劲拍卖。",
+          "en": "Treasuries regain haven status as the 10-year yield falls from 5.06% amid equity selloff and solid auctions."
+        },
+        {
+          "zh": "马克龙任期仅剩六个月，缺乏财政杠杆，债券市场已反映政治困境。",
+          "en": "Macron has only six months left and lacks fiscal levers, with the bond market already reflecting the political困境."
+        }
+      ],
+      "tags": [
+        "France protests",
+        "Nasdaq futures",
+        "Treasuries",
+        "tech earnings",
+        "euro"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-3JNqzMIy-c",
+      "title": "Indonesia Selloff Deepens as Emerging-Market Status Comes Under Threat",
+      "title_zh": "亚洲科技股承压，中国三季度GDP超预期",
+      "url": "https://www.youtube.com/watch?v=-3JNqzMIy-c",
+      "published_at": "2026-10-19T05:53:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "中国三季度GDP同比增长4.5%超预期，零售销售亦超预期，但房地产投资仍下降20%。亚洲科技股跟随美股下跌，纳斯达克跌破100日均线引发对冲需求激增， skew指数飙升。印尼股市因MSCI警告跌至2020年以来最低。",
+      "summary_en": "China's Q3 GDP grew 4.5% YoY, beating estimates, with retail sales also topping forecasts, but property investment fell 20%. Asian tech stocks followed the U.S. selloff, with the Nasdaq breaking its 100-day moving average triggering a spike in hedging demand and the skew index. Indonesian stocks fell to their lowest since 2020 after an MSCI warning.",
+      "detail_zh": "中国三季度GDP同比增长4.5%，高于预期，年初至今GDP增速为4.6%，处于4.5%-5%目标区间的低端。零售销售增长1.1%，远超预期的0.5%；工业产出增长5.5%，与预期一致，受出口强劲推动，贸易顺差有望再创纪录。但固定资产投资下降7.2%，房地产投资下降20%，反映政府债券发行和支出节奏缓慢的影响。房价下跌速度放缓，新房价格降幅为一年多来最小。政府表示将加大对科技行业的财政和金融支持，但批评认为刺激措施仍需扩大到经济其他领域。亚洲市场方面，科技板块仍是压力点，中国科技股跟随下跌，但银行、消费和公用事业等防御性板块表现稳健。日本科技股疲软，软银和电子股走弱。纳斯达克跌破100日均线导致极端下行对冲需求激增，skew指数飙升，投资者此前未对下跌规模做好准备。印尼股市因MSCI警告新兴市场地位可能引发数十亿美元外资流出而跌至2020年以来最低，当局收紧交易限制以遏制跌势。",
+      "detail_en": "China's Q3 GDP grew 4.5% YoY, beating estimates, bringing year-to-date growth to 4.6%, the lower end of the 4.5%-5% target range. Retail sales rose 1.1%, well above the 0.5% estimate; industrial output grew 5.5%, in line, boosted by strong exports with the trade surplus on track for another record. However, fixed asset investment fell 7.2% and property investment dropped 20%, reflecting the slow pace of government borrowing and spending. Home price declines eased, with new home prices falling at the slowest pace in over a year. The government said it will provide more financial and fiscal support for the tech sector, but critics argue stimulus needs to spread to other parts of the economy. In Asian markets, tech remained the pressure point; Chinese tech stocks fell, but defensives like banks, consumer and utilities held up. Japanese tech was weak, with SoftBank and electronics stocks down. The Nasdaq breaking its 100-day moving average triggered a spike in extreme downside hedging, with the skew index surging as investors were caught offside. Indonesian stocks fell to their lowest since 2020 after an MSCI warning over emerging-market status raised the risk of billions of dollars of foreign outflows, prompting authorities to tighten trading limits.",
+      "conclusion_zh": "中国经济增长超预期但结构分化，科技股短期承压且对冲需求上升，关注政策刺激向消费端扩散及科技板块的估值修复机会。",
+      "conclusion_en": "China's growth beat expectations but remains structurally uneven; tech stocks face near-term pressure with rising hedging demand, watch for stimulus spillover to consumption and valuation recovery opportunities in tech.",
+      "key_points": [
+        {
+          "zh": "中国三季度GDP同比增长4.5%，超预期，年初至今增速4.6%，处于目标区间低端。",
+          "en": "China's Q3 GDP grew 4.5% YoY, beating estimates, with year-to-date growth at 4.6%, the lower end of the target range."
+        },
+        {
+          "zh": "零售销售增长1.1%，远超预期；工业产出增长5.5%，与预期一致；但房地产投资下降20%。",
+          "en": "Retail sales rose 1.1%, well above expectations; industrial output grew 5.5%, in line; but property investment fell 20%."
+        },
+        {
+          "zh": "亚洲科技股承压，纳斯达克跌破100日均线引发skew指数飙升，对冲需求激增。",
+          "en": "Asian tech stocks under pressure; Nasdaq breaking its 100-day moving average triggered a spike in the skew index and hedging demand."
+        },
+        {
+          "zh": "印尼股市因MSCI警告跌至2020年以来最低，当局收紧交易限制以遏制外资流出。",
+          "en": "Indonesian stocks fell to their lowest since 2020 after an MSCI warning, prompting authorities to tighten trading limits to contain foreign outflows."
+        }
+      ],
+      "tags": [
+        "China GDP",
+        "tech selloff",
+        "skew index",
+        "Indonesia",
+        "stimulus"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fQT8LFH0fgc",
+      "title": "China On Track To Meet GDP Goal as Support Moves Kick In",
+      "title_zh": "亚洲芯片股延续跌势，中国三季度GDP或不及目标，普京提议三方峰会",
+      "url": "https://www.youtube.com/watch?v=fQT8LFH0fgc",
+      "published_at": "2026-10-19T05:41:59+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲芯片股跟随华尔街下跌，受AI支出担忧和融资成本上升影响。中国即将公布的三季度GDP预计低于政府目标，沪深300已连续十周下跌，融资余额降至年内低点。地缘方面，普京据报提议与特朗普和习近平举行峰会讨论乌克兰问题，但将泽连斯基排除在外。",
+      "summary_en": "Asian chip stocks extended a Wall Street selloff on concerns over AI spending and rising funding costs. China's Q3 GDP is expected to fall short of the government's target, with the CSI 300 down for ten straight weeks and margin debt at the lowest level of the year. Geopolitically, Putin reportedly proposed a summit with Trump and Xi on Ukraine, excluding Zelensky.",
+      "detail_zh": "亚洲芯片股延续了华尔街的抛售，市场担忧AI支出和融资成本上升。布伦特原油从高点回落。据《华尔街日报》报道，普京提议下月与特朗普和习近平举行峰会讨论乌克兰问题，但计划将泽连斯基排除在外，泽连斯基指责特朗普施压基辅向俄罗斯让步。白宫未否认该报道，但未就是否推进置评。彭博首席北亚记者Stephen Engle指出，若峰会成行，将盖过11月中下旬在深圳举行的APEX峰会以及几周前华盛顿中美对话的风头，但欧洲和乌克兰的反对使这一提议风险较高。中国三季度GDP预计低于政府目标，消费端缺乏支撑。沪深300进入本周已连续十周下跌，融资余额截至周五降至年内最低，显示风险偏好疲弱。市场关注中国是否会出台政策回应，以及国家队通过回购等方式提供支撑的迹象。",
+      "detail_en": "Asian chip stocks extended a Wall Street selloff amid concerns over AI spending and rising funding costs. Brent crude eased from highs. The Wall Street Journal reported that Vladimir Putin proposed a summit next month with Donald Trump and Xi Jinping to discuss Ukraine, excluding Zelensky, who accused Trump of pressuring Kiev to yield to Russia. The White House did not deny the report but did not comment on whether it would proceed. Bloomberg's chief North Asia correspondent Stephen Engle noted that if held, the summit would overshadow the APEX summit in Shenzhen in mid-to-late November and the Washington dialogue between Xi and Trump weeks earlier, but European and Ukrainian opposition makes the proposal risky. China's Q3 GDP is expected to fall short of the government's target, with little support from consumption. The CSI 300 was down for ten straight weeks into this week, and margin debt fell to the lowest level of the year as of Friday, signaling weak risk appetite. Markets are watching for a policy response and signs of support from the national team via buybacks.",
+      "conclusion_zh": "中国增长数据可能不及目标叠加风险偏好低迷，市场关注政策回应；地缘方面普京提议的三方峰会若成行将重塑外交格局，但排除乌克兰使其可行性存疑。",
+      "conclusion_en": "China's growth data may miss the target amid weak risk appetite, with markets watching for a policy response; geopolitically, Putin's proposed trilateral summit could reshape diplomacy if held, but excluding Ukraine raises doubts about its feasibility.",
+      "key_points": [
+        {
+          "zh": "亚洲芯片股延续华尔街跌势，受AI支出担忧和融资成本上升拖累。",
+          "en": "Asian chip stocks extended a Wall Street selloff on concerns over AI spending and rising funding costs."
+        },
+        {
+          "zh": "中国三季度GDP预计低于政府目标，消费端缺乏支撑。",
+          "en": "China's Q3 GDP is expected to fall short of the government's target, with little support from consumption."
+        },
+        {
+          "zh": "沪深300连续十周下跌，融资余额降至年内最低，风险偏好疲弱。",
+          "en": "The CSI 300 fell for ten straight weeks, and margin debt dropped to the lowest level of the year, signaling weak risk appetite."
+        },
+        {
+          "zh": "普京据报提议与特朗普和习近平举行峰会讨论乌克兰，但将泽连斯基排除在外。",
+          "en": "Putin reportedly proposed a summit with Trump and Xi on Ukraine, excluding Zelensky."
+        },
+        {
+          "zh": "白宫未否认峰会报道，但欧洲和乌克兰的反对使提议风险较高。",
+          "en": "The White House did not deny the summit report, but European and Ukrainian opposition makes the proposal risky."
+        }
+      ],
+      "tags": [
+        "China GDP",
+        "chip stocks",
+        "Ukraine summit",
+        "risk appetite",
+        "margin debt"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:zWOfDQopu3s",
+      "title": "Asian Chip Stocks Extend Losses",
+      "title_zh": "亚洲股市承压，科技股领跌华尔街；Anthropic IPO 前景存疑",
+      "url": "https://www.youtube.com/watch?v=zWOfDQopu3s",
+      "published_at": "2026-10-19T04:22:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲股市受华尔街科技股抛售拖累，KOSPI 期货跌 3.5%，半导体指数周五跌约 4%。市场关注大型科技股财报季的 ROI 验证，以及 Anthropic IPO 概率骤降至约 30% 所反映的 AI 投资情绪转弱。",
+      "summary_en": "Asian stocks came under pressure as a tech-led selloff on Wall Street pushed the MIX to a four-month high. KOSPI futures fell 3.5% and the semiconductor index ended Friday about 4% lower. Investors are focused on whether Big Tech earnings can justify AI spending ROI, while Anthropic's IPO probability has dropped to about 30%.",
+      "detail_zh": "亚洲股市开盘承压，此前华尔街科技股领跌，推动 MIX 指数升至四个月高位。KOSPI 期货下跌 3.5%，半导体指数周五收跌约 4%，美国期货早盘反弹约 0.4%。布伦特原油下跌约 1%，美债合约走低，美元小幅波动，欧元兑美元因法国周末骚乱而回吐涨幅。市场迎来密集的企业财报、经济数据和央行决议周。Anthropic 在安全担忧得到妥善解决前推迟其重磅 IPO，并宣布设立公益基金；其作为今年最大 IPO 的概率已降至约 30%，估值在数周内下降约 5000 亿美元。该公司还与纽约市审计长进行谈判，并面临特朗普政府的安全研究。策略师 Sunny Bangia 指出，市场关注大型科技股财报，尤其是超大规模厂商的 AI 支出回报，以及新云公司面临的融资压力。Anthony Stephens 认为，AI 周期是结构性还是周期性的争论取决于 ROI，而这一争论无法通过公开数据解决，需要高确信度的技术前景判断。KOSPI 方面，对中国 CXMT 在内存领域竞争的担忧影响 2028-2029 年展望，韩国公司需要回购股票以支撑市场。此外，据《华尔街日报》报道，普京提议与特朗普和习近平就乌克兰问题举行会议，该想法源于 10 月 9 日普京与特朗普的会晤或通话。",
+      "detail_en": "Asian stocks opened under pressure after a tech-led selloff on Wall Street pushed the MIX index to a four-month high. KOSPI futures fell 3.5%, the semiconductor index ended Friday about 4% lower, and U.S. futures bounced about 0.4% in early action. Brent crude slipped about 1%, Treasury contracts declined, the dollar was little changed, and EUR/USD pared gains amid weekend unrest in France. Markets face a packed week of corporate earnings, economic data, and central bank decisions. Anthropic delayed its blockbuster IPO until safety concerns are properly addressed and announced plans for a public good fund; the probability of what was expected to be the year's largest IPO has plummeted to about 30%, with valuation dropping about $500 billion over a couple of weeks. The company is in talks with the New York City Comptroller and faces a Trump administration safety study. Strategist Sunny Bangia noted markets will look to large Big Tech earnings, especially hyperscaler AI spending ROI and funding pressures on neo-clouds. Anthony Stephens argued the debate over whether the AI cycle is structural or cyclical hinges on ROI and cannot be resolved by publicly available data, requiring a high-conviction view of the technology's future. On KOSPI, concerns about China's CXMT making inroads into memory affect the 2028-2029 outlook, and Korean companies need to buy back stock to support the market. Separately, according to The Wall Street Journal, Putin proposed a meeting with Trump and Xi Jinping on Ukraine, an idea stemming from the October 9 meeting or call between Putin and Trump.",
+      "conclusion_zh": "关注大型科技股财报对 AI 支出回报的验证，以及 Anthropic IPO 推迟所反映的 AI 投资情绪转弱；若 ROI 不及预期，半导体和新云板块可能面临进一步压力。",
+      "conclusion_en": "Watch Big Tech earnings for validation of AI spending ROI and the weakening AI investment sentiment signaled by Anthropic's IPO delay; if ROI disappoints, semiconductors and neo-clouds could face further pressure.",
+      "key_points": [
+        {
+          "zh": "亚洲股市承压，KOSPI 期货跌 3.5%，半导体指数周五跌约 4%，科技股领跌华尔街。",
+          "en": "Asian stocks under pressure; KOSPI futures down 3.5%, semiconductor index fell about 4% on Friday, tech led Wall Street selloff."
+        },
+        {
+          "zh": "Anthropic 推迟重磅 IPO 并设立公益基金，IPO 概率降至约 30%，估值数周内下降约 5000 亿美元。",
+          "en": "Anthropic delayed its blockbuster IPO and announced a public good fund; IPO probability dropped to about 30%, valuation fell about $500 billion in weeks."
+        },
+        {
+          "zh": "市场聚焦大型科技股财报，关注超大规模厂商的 AI 支出回报及新云公司融资压力。",
+          "en": "Markets focus on Big Tech earnings, watching hyperscaler AI spending ROI and neo-cloud funding pressures."
+        },
+        {
+          "zh": "AI 周期是结构性还是周期性的争论取决于 ROI，无法通过公开数据解决。",
+          "en": "The debate over whether the AI cycle is structural or cyclical hinges on ROI and cannot be resolved by public data."
+        },
+        {
+          "zh": "KOSPI 受中国 CXMT 内存竞争担忧影响，韩国公司需回购股票以支撑市场。",
+          "en": "KOSPI affected by concerns over China's CXMT memory competition; Korean companies need buybacks to support the market."
+        }
+      ],
+      "tags": [
+        "AI",
+        "semiconductors",
+        "IPO",
+        "earnings",
+        "Asia markets"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:8usA-H3aMdw",
       "title": "VIX Gamma Squeeze? How VIX Calls Drove Friday's Crazy Move",
