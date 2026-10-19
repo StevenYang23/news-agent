@@ -1,6 +1,161 @@
 {
-  "generated_at": "2026-10-19T16:16:27.056910+00:00",
+  "generated_at": "2026-10-19T17:13:53.625646+00:00",
   "insights": [
+    {
+      "guid": "4955244",
+      "title": "Wall Street Lunch: Google's Quantum Leap",
+      "title_zh": "谷歌量子纠错突破；高盛上调CoreWeave；防御性股票推荐",
+      "url": "https://seekingalpha.com/article/4955244-wall-street-lunch-googles-quantum-leap?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-19T17:10:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "谷歌在Willow处理器上通过“魔法态培育”将量子纠错错误率降低约40倍，达到99.99%准确率；Quantinuum的Helios量子计算机实现99.9995%逻辑保真度的纠错世界纪录。高盛将CoreWeave上调至买入，并推荐防御性优质成长股以应对增长前景恶化。",
+      "summary_en": "Google achieved a ~40-fold reduction in quantum error rates using 'magic state cultivation' on its Willow processor, reaching 99.99% accuracy; Quantinuum's Helios quantum computer set a world record with 99.9995% logical fidelity. Goldman Sachs upgraded CoreWeave to Buy and recommended defensive quality-growth stocks amid growth outlook concerns.",
+      "detail_zh": "谷歌宣布在Willow量子处理器上通过“魔法态培育”技术将量子计算关键组件的错误率降低约40倍，相关成果发表在《科学》杂志上。该技术实现了执行特定高级计算所需的专用量子态99.99%的准确率纪录。此举旨在解决商业量子计算的一大障碍：防止错误所需的庞大硬件。量子比特极易受干扰，而制备魔法态是纠错中特别昂贵的环节，此前估计可能消耗量子计算机高达95%的容量。此外，Quantinuum表示其Helios量子计算机在纠错方面创下世界纪录，逻辑保真度达99.9995%，即每百万次操作仅5次错误，比该公司上月创下的纪录低10倍，比其他硬件方法的最佳公开记录低100倍。个股方面，高盛将CoreWeave评级从中性上调至买入，但下调目标价；分析师Gabriela Borges认为其每兆瓦年度经常性收入和未杠杆内部收益率有上行倾向。摩根大通将英特尔评级从减持上调至中性，分析师Harlan Sur指出，CPU密集的代理AI工作负载增加和领先硅供应链紧张应推动EPS上修。此外，埃隆·马斯克计划向每个美国儿童赠送一股SpaceX股票，但未提供分发细节。高盛策略师Ben Snider推荐了23只罗素1000指数中医疗保健和消费必需品板块的防御性优质成长股，这些股票具有较低的实际股价波动性和较高的自由现金流收益率，包括泰森食品、CVS、J.M. Smucker、克罗格和Cardinal Health。",
+      "detail_en": "Google announced that its 'magic state cultivation' technique reduces error rates in a critical quantum computing component by about 40-fold on its Willow quantum processor, with findings published in the journal Science. The technique achieved a record 99.99% accuracy rate for a specialized quantum state needed for certain advanced calculations. The development addresses a major obstacle to commercial quantum computing: the enormous hardware required to prevent errors. Qubits are extremely sensitive to disturbances, and producing magic states is a particularly expensive part of error correction, with previous estimates suggesting it could consume as much as 95% of a quantum computer's capacity. Additionally, Quantinuum said its Helios quantum computer achieved a world record in error correction with 99.9995% logical fidelity—just five errors in a million operations, 10 times lower than its own record set last month and 100 times lower than the best published rate from other hardware approaches. On individual stocks, Goldman Sachs upgraded CoreWeave to Buy from Neutral with a lower price target; analyst Gabriela Borges said its annual recurring revenue per megawatt and unlevered internal rate of return are 'biased to the upside.' JPMorgan upgraded Intel to Neutral from Underweight on improved execution under CEO Lip-Bu Tan and growing demand for AI computing; analyst Harlan Sur noted increasing CPU-intensive agentic AI workloads and a tight supply chain for leading-edge silicon should drive EPS revisions. Elsewhere, Elon Musk plans to give every child in the U.S. one share of SpaceX, without providing distribution details. Goldman Sachs strategist Ben Snider recommended 23 Russell 1000 stocks in Health Care and Consumer Staples that combine relatively low realized share-price volatility with high free-cash-flow yields versus sector peers, including Tyson Foods, CVS, J.M. Smucker, Kroger, and Cardinal Health.",
+      "conclusion_zh": "量子计算纠错取得显著进展，但商业化仍需时日；高盛上调CoreWeave和推荐防御性股票，反映在增长担忧下对质量和防御性的偏好。",
+      "conclusion_en": "Quantum error correction advances are notable but commercialization remains distant; Goldman's CoreWeave upgrade and defensive stock picks reflect a preference for quality and defense amid growth concerns.",
+      "key_points": [
+        {
+          "zh": "谷歌在Willow处理器上通过“魔法态培育”将量子纠错错误率降低约40倍，达到99.99%准确率。",
+          "en": "Google reduced quantum error rates by about 40-fold using 'magic state cultivation' on its Willow processor, achieving 99.99% accuracy."
+        },
+        {
+          "zh": "Quantinuum的Helios量子计算机实现99.9995%逻辑保真度，创纠错世界纪录。",
+          "en": "Quantinuum's Helios quantum computer achieved 99.9995% logical fidelity, a world record in error correction."
+        },
+        {
+          "zh": "高盛将CoreWeave上调至买入，认为其每兆瓦经常性收入和内部收益率有上行空间。",
+          "en": "Goldman Sachs upgraded CoreWeave to Buy, citing upside bias in recurring revenue per megawatt and IRR."
+        },
+        {
+          "zh": "摩根大通将英特尔上调至中性，因CEO Lip-Bu Tan治下执行改善及AI计算需求增长。",
+          "en": "JPMorgan upgraded Intel to Neutral on improved execution under CEO Lip-Bu Tan and growing AI computing demand."
+        },
+        {
+          "zh": "高盛推荐防御性优质成长股，如TSN、CVS、SJM、KR、CAH，以应对增长前景恶化。",
+          "en": "Goldman Sachs recommended defensive quality-growth stocks like TSN, CVS, SJM, KR, and CAH amid growth outlook deterioration."
+        }
+      ],
+      "tags": [
+        "quantum computing",
+        "upgrades",
+        "defensive stocks",
+        "AI"
+      ],
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "CRWV",
+        "INTC",
+        "TSN",
+        "CVS",
+        "SJM",
+        "KR",
+        "CAH"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Ki6wH_NTm5M",
+      "title": "The Real-Economy Bounce Trade",
+      "title_zh": "AI交易与实体经济股脱钩：抛售后的交易窗口",
+      "url": "https://www.youtube.com/watch?v=Ki6wH_NTm5M",
+      "published_at": "2026-10-19T16:44:26+00:00",
+      "source_name": "Forward Guidance",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "原文指出，部分股票已连续两个月遭抛售、跌幅达20%至40%，此时卖出可能并非明智之举，反而可能处于反弹前夕。作者认为存在一个交易窗口：若持有住房类或其他实体经济股票，AI交易与之无关。",
+      "summary_en": "The source notes that some stocks have been sold off for two months, down 20-40%, and selling now may be unwise, possibly right before some relief. The speaker sees a window to play these trades: if long a housing stock or other real-economy stock, the AI trade is irrelevant.",
+      "detail_zh": "原文指出，相关股票已经历两个月的抛售，跌幅达到20%、30%甚至40%。作者认为，如果打算卖出这些股票，现在可能不是时候，因为已经大幅下跌，且可能正处于某种反弹的前夕。因此，存在一个交易窗口，可以围绕这些股票进行操作。作者举例称，如果持有住房类股票或其他实体经济股票，AI交易与之无关。原文未提及具体股票代码、公司名称或更多宏观背景。",
+      "detail_en": "The source states that the stocks in question have already been sold off for two months, with declines of 20%, 30%, or even 40%. The speaker argues that if one were going to sell these stocks, now is probably not the time, since they are already down sharply and possibly at the precipice of some relief. Thus, there is a window to play these trades. The speaker gives an example: if long a housing stock or some other real-economy stock, the AI trade is irrelevant. No specific tickers, company names, or broader macro context are mentioned.",
+      "conclusion_zh": "对于已大幅下跌的实体经济类股票，当前可能不是卖出时机，反而存在交易窗口；AI主题与这类股票的逻辑无关。",
+      "conclusion_en": "For real-economy stocks that have already fallen sharply, now may not be the time to sell; a trading window exists, and the AI theme is irrelevant to these names.",
+      "key_points": [
+        {
+          "zh": "部分股票已连续两个月被抛售，跌幅达20%至40%。",
+          "en": "Some stocks have been sold off for two months, down 20-40%."
+        },
+        {
+          "zh": "此时卖出可能并非明智，因为可能正处于反弹前夕。",
+          "en": "Selling now may be unwise, as a relief rally may be near."
+        },
+        {
+          "zh": "存在一个交易窗口，可围绕已大幅下跌的股票进行操作。",
+          "en": "There is a window to play trades in stocks that have already fallen sharply."
+        },
+        {
+          "zh": "若持有住房类或其他实体经济股票，AI交易与之无关。",
+          "en": "If long a housing stock or other real-economy stock, the AI trade is irrelevant."
+        }
+      ],
+      "tags": [
+        "selloff",
+        "real-economy",
+        "housing",
+        "AI-trade",
+        "trading-window"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:MIAMC_w-FqY",
+      "title": "Is Inflation About to Derail the Rally? With Andreas Steno | Macro Mondays: October 19, 2026",
+      "title_zh": "Steno Research：通胀信号、AI信用压力与法国债市动荡下的市场展望",
+      "url": "https://www.youtube.com/watch?v=MIAMC_w-FqY",
+      "published_at": "2026-10-19T16:19:28+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility"
+      ],
+      "summary_zh": "Andreas Steno在Macro Mondays中分析了最新通胀信号，指出能源价格和投入成本上升可能带来新一轮通胀冲击，并质疑Kevin Warsh是否关注了错误的通胀指标。他同时审视了商业周期数据，表示尚未准备看空股票，并讨论了法国债市压力对欧洲投资者的影响。",
+      "summary_en": "Andreas Steno of Steno Research analyzes the latest inflation signals on Macro Mondays, noting that rising energy prices and input costs could herald another inflation shock, and questions whether Kevin Warsh is focusing on the wrong inflation measure. He also examines business cycle data, explains why he's not ready to turn bearish on equities, and discusses what renewed pressure in France's bond market could mean for European investors.",
+      "detail_zh": "Andreas Steno在本周Macro Mondays中独自分析了多个宏观主题。他指出能源价格和投入成本正在上升，并探讨这是否意味着新一轮通胀冲击即将到来，同时质疑Kevin Warsh是否在关注错误的通胀指标。他审视了最新商业周期数据，表示尽管存在各种压力，他尚未准备看空股票。此外，他讨论了法国债券市场的重新承压及其对欧洲投资者的潜在影响，并提及AI信用压力、数据中心建设是否终于出现裂痕、极端恐惧与创纪录对冲、以及中期选举背景下的市场格局。他还分析了为何此次AI抛售比以往更具基本面因素、热CPI和PPI下债券收益率反而下降的现象、债券/能源/美元/AI的拥挤定位、通胀峰值可能在10月到来、Mag 7是否真的会削减AI资本支出、计算价格上涨如何改变AI看空理由、DeepSeek被禁止进入美国政府系统是否意味着新的AI贸易战，以及加息周期、信用压力与下一次交易时机。",
+      "detail_en": "Andreas Steno flies solo on this week's Macro Mondays, covering multiple macro themes. He notes that energy prices and input costs are rising, and explores whether another inflation shock is on the horizon, while questioning whether Kevin Warsh is focusing on the wrong inflation measure. He examines the latest business cycle data and explains why he's not ready to turn bearish on equities despite various pressures. He also discusses renewed pressure in France's bond market and what it could mean for European investors, and touches on AI credit stress and whether the data center buildout is finally breaking, extreme fear and record hedging, the midterm setup, why this AI selloff is more fundamental than the last ones, why bond yields fell despite hot CPI and PPI, crowded positioning in bonds, energy, the dollar, and AI, a potential inflation peak in October, whether the Mag 7 are really about to cut AI CapEx, how rising compute prices change the AI bear case, DeepSeek being banned from US government systems as a new AI trade war, and hiking cycles, credit stress, and the timing of the next trade.",
+      "conclusion_zh": "Andreas Steno认为尽管通胀和信用压力存在，但尚未到看空股票的时候，并提示关注通胀峰值可能出现在10月以及法国债市压力对欧洲投资者的影响。",
+      "conclusion_en": "Andreas Steno suggests that despite inflation and credit pressures, it's not yet time to turn bearish on equities, and highlights a potential inflation peak in October and the implications of French bond market stress for European investors.",
+      "key_points": [
+        {
+          "zh": "能源价格和投入成本上升，可能带来新一轮通胀冲击；Kevin Warsh或许在关注错误的通胀指标。",
+          "en": "Rising energy prices and input costs could herald another inflation shock; Kevin Warsh may be focusing on the wrong inflation measure."
+        },
+        {
+          "zh": "尽管面临压力，Andreas Steno尚未准备看空股票，并关注商业周期数据。",
+          "en": "Despite pressures, Andreas Steno is not ready to turn bearish on equities and is watching business cycle data."
+        },
+        {
+          "zh": "法国债券市场压力重现，可能对欧洲投资者产生影响。",
+          "en": "Renewed pressure in France's bond market could have implications for European investors."
+        },
+        {
+          "zh": "AI信用压力显现，数据中心建设可能面临裂痕；此次AI抛售比以往更具基本面因素。",
+          "en": "AI credit stress is emerging, with the data center buildout potentially cracking; this AI selloff is more fundamental than previous ones."
+        },
+        {
+          "zh": "市场出现极端恐惧和创纪录对冲，债券、能源、美元和AI的定位拥挤；通胀峰值可能在10月到来。",
+          "en": "Extreme fear and record hedging are present, with crowded positioning in bonds, energy, the dollar, and AI; an inflation peak could arrive in October."
+        }
+      ],
+      "tags": [
+        "inflation",
+        "AI",
+        "France",
+        "bonds",
+        "equities"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:_cOBV7frfGw",
       "title": "AI Boom Faces a Higher-Yield Roadblock",
@@ -8210,49 +8365,6 @@
         "NKE"
       ],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:yEaf6einSmE",
-      "title": "A Potential Hidden Gem for AI Investors?",
-      "title_zh": "Real Vision分析师：黑石或为布局AI数据中心热潮的替代路径",
-      "url": "https://www.youtube.com/watch?v=yEaf6einSmE",
-      "published_at": "2026-10-12T17:00:01+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Real Vision宏观分析师Joe Bland指出，黑石（BX）可能是参与AI数据中心热潮而无需买入半导体股的潜在方式。在股价承压、正测试可追溯至2008年的长期技术支撑位之际，Bland认为存在看涨反转的可能。",
-      "summary_en": "Real Vision macro analyst Joe Bland highlights Blackstone (BX) as a potential way to gain exposure to the AI data center boom without buying semiconductor stocks. With shares under pressure and testing a long-term technical support boundary dating back to 2008, Bland sees the possibility of a bullish reversal.",
-      "detail_zh": "Real Vision宏观分析师Joe Bland将黑石（BX）列为参与AI数据中心热潮的一种潜在途径，且无需买入半导体股票。他指出，黑石股价当前承压，正在测试一条可追溯至2008年的长期技术支撑边界。在这一技术位置，Bland认为存在看涨反转的可能性。该观点来自Real Vision的完整访谈。",
-      "detail_en": "Real Vision macro analyst Joe Bland highlights Blackstone (BX) as a potential way to gain exposure to the AI data center boom without buying semiconductor stocks. He notes that the shares are under pressure and are testing a long-term technical support boundary dating back to 2008. At this technical level, Bland sees the possibility of a bullish reversal. The view comes from a full interview on Real Vision.",
-      "conclusion_zh": "Bland的观点指向：若黑石在2008年以来的长期支撑位企稳，或为投资者提供一条不依赖半导体股的AI数据中心敞口路径。",
-      "conclusion_en": "Bland's view suggests that if Blackstone stabilizes at its long-term support level dating back to 2008, it could offer investors a route to AI data center exposure without relying on semiconductor stocks.",
-      "key_points": [
-        {
-          "zh": "Joe Bland认为黑石（BX）可作为参与AI数据中心热潮的替代方式，无需买入半导体股。",
-          "en": "Joe Bland sees Blackstone (BX) as an alternative way to play the AI data center boom without buying semiconductor stocks."
-        },
-        {
-          "zh": "黑石股价当前承压，正测试可追溯至2008年的长期技术支撑边界。",
-          "en": "BX shares are under pressure and testing a long-term technical support boundary dating back to 2008."
-        },
-        {
-          "zh": "Bland认为在该技术位置存在看涨反转的可能性。",
-          "en": "Bland sees the possibility of a bullish reversal at this technical level."
-        }
-      ],
-      "tags": [
-        "Blackstone",
-        "AI data centers",
-        "technical analysis",
-        "bullish reversal"
-      ],
-      "tickers": [
-        "BX"
-      ],
-      "sentiment": "positive"
     }
   ]
 }
