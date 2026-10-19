@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:13:03.291360+00:00",
+  "generated_at": "2026-10-19T04:13:12.050555+00:00",
   "insights": [
     {
       "guid": "yt:8usA-H3aMdw",
@@ -7577,52 +7577,6 @@
         "XPEV",
         "LI"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ioYJthseLgk",
-      "title": "Philip & Allan Maymin – Compounding Through Risk, Not Return (S7E35)",
-      "title_zh": "Janus Henderson资产配置团队：以期权市场信号管理风险、优化复利",
-      "url": "https://www.youtube.com/watch?v=ioYJthseLgk",
-      "published_at": "2026-10-12T04:00:20+00:00",
-      "source_name": "Flirting with Models",
-      "source_kind": "video",
-      "categories": [
-        "volatility",
-        "macro"
-      ],
-      "summary_zh": "Janus Henderson全球资产配置联席主管Philip与Allan Maymin认为，投资者应关注复利增长而非平均回报，管理回撤是改善复利更可行的杠杆。他们通过期权市场提取前瞻性风险信号，并将其传播至4000多种资产，围绕客户目标而非基准构建投资组合。",
-      "summary_en": "Philip and Allan Maymin, co-Heads of Global Asset Allocation at Janus Henderson, argue that investors should focus on compound growth rather than average returns, and that managing drawdowns is the more tractable lever to improve compounding. They extract forward-looking risk signals from the options market and propagate them across more than 4,000 assets to build portfolios around client objectives rather than benchmarks.",
-      "detail_zh": "Philip和Allan Maymin是Janus Henderson全球资产配置联席主管，该团队由诺贝尔奖得主Myron Scholes十多年前创立。两人背景迥异：Philip经历LTCM、学术界和行为分析；Allan则来自高频交易、衍生品和自营交易台。他们的核心理念是：人们生活在平均回报的世界里，但不应如此；对投资者真正重要的是复利增长。他们认为，改善复利最可靠的方式不是追求更高回报，而是管理风险——回撤会破坏复利，而避免回撤是更可控的杠杆。他们通过期权市场将理论与实践连接：看涨和看跌期权蕴含了市场集体、前瞻性的风险观点，是资产配置者可获得的最丰富的信息来源之一。他们讨论如何提取这些信号，并将其传播到4000多种资产上，围绕客户目标而非基准构建投资组合。",
-      "detail_en": "Philip and Allan Maymin are co-Heads of Global Asset Allocation at Janus Henderson, a group founded by Nobel laureate Myron Scholes more than a decade ago. They arrived via different routes: Philip through LTCM, academia, and behavioral analytics; Allan through high-frequency trading, derivatives, and prop desks. Their core idea is that people live in an average return world, and they ought not; what matters to investors is compound growth. They believe the surest way to improve compounding isn't chasing higher returns, it's managing risk—drawdowns destroy compounding and avoiding them is the more tractable lever. They connect theory to practice through the options market: calls and puts embed the market's collective, forward-looking view of risk, making them one of the richest sources of information available to an asset allocator. They discuss how they extract those signals and propagate them across more than 4,000 assets to build portfolios around client objectives rather than benchmarks.",
-      "conclusion_zh": "对投资者而言，与其追逐更高回报，不如通过期权市场的前瞻性风险信号管理回撤，从而改善长期复利。",
-      "conclusion_en": "For investors, rather than chasing higher returns, managing drawdowns via forward-looking risk signals from the options market may improve long-term compounding.",
-      "key_points": [
-        {
-          "zh": "投资者应关注复利增长而非平均回报，管理回撤是改善复利更可行的杠杆。",
-          "en": "Investors should focus on compound growth rather than average returns; managing drawdowns is the more tractable lever to improve compounding."
-        },
-        {
-          "zh": "期权市场蕴含市场集体、前瞻性的风险观点，是资产配置者最丰富的信息来源之一。",
-          "en": "The options market embeds the market's collective, forward-looking view of risk, making it one of the richest sources of information for asset allocators."
-        },
-        {
-          "zh": "团队将期权信号传播至4000多种资产，围绕客户目标而非基准构建投资组合。",
-          "en": "The team propagates options signals across more than 4,000 assets to build portfolios around client objectives rather than benchmarks."
-        },
-        {
-          "zh": "团队由诺贝尔奖得主Myron Scholes十多年前创立，两位主管分别来自LTCM/学术界和高频交易/衍生品背景。",
-          "en": "The group was founded by Nobel laureate Myron Scholes more than a decade ago; the two co-Heads come from LTCM/academia and high-frequency trading/derivatives backgrounds respectively."
-        }
-      ],
-      "tags": [
-        "asset allocation",
-        "options market",
-        "risk management",
-        "compounding",
-        "drawdown"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
