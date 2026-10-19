@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-19T18:17:52.079513+00:00",
+  "generated_at": "2026-10-19T19:12:30.897314+00:00",
   "insights": [
+    {
+      "guid": "yt:n2jbgioQtr4",
+      "title": "Europe Should Release More Diesel Fuel From Its Stockpiles, Says US Energy Secretary Wright",
+      "title_zh": "美国能源官员呼吁欧洲释放柴油库存以缓解供应短缺",
+      "url": "https://www.youtube.com/watch?v=n2jbgioQtr4",
+      "published_at": "2026-10-19T18:18:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国正与欧洲伙伴磋商释放柴油库存，以应对全球柴油严重短缺。官员建议采用类似战略石油储备的“互换”方式而非出售，并认为欧洲拖延释放不符合其自身利益。出口禁令仍在考虑中，但可能推高汽油价格。",
+      "summary_en": "The U.S. is in discussions with European partners to release diesel stocks amid a severe global diesel shortage. An official recommends swaps similar to the Strategic Petroleum Reserve rather than sales, and argues Europe's reluctance is against its own interest. An export ban remains on the table but could raise gasoline prices.",
+      "detail_zh": "美国能源官员表示，当前全球柴油短缺严重，政府正与拥有大量柴油库存的欧洲伙伴磋商释放库存。官员称欧洲的柴油储备远超90天要求，但其不愿释放库存“违背自身利益，也违背全球需求利益”。他建议欧洲效仿美国战略石油储备的做法，采用“互换”而非出售：今天借出一桶，明年收回1.1桶。总统已宣布G-7将采取行动，但欧洲在释放时机上被指“拖拖拉拉”，美方希望释放能平稳、清晰地推进，让市场知晓柴油的供应量和时间。关于成品油出口禁令，官员称总统决定暂不推进，但“任何能降低美国能源价格的手段都在考虑之中”。他警告，出口禁令这种“粗暴工具”可能压低柴油价格，但很可能推高汽油价格，因为美国柴油储存能力有限，炼油厂的产品结构大致固定，需考虑整体供应链。",
+      "detail_en": "A U.S. energy official said the global diesel shortage is severe and the administration is in talks with European partners who hold significant diesel stocks. The official noted Europe's reserves far exceed the 90-day requirement, and its reluctance to release stocks is \"against their own interest and certainly against the interest of global demand.\" He encouraged Europe to follow the U.S. Strategic Petroleum Reserve approach of swapping rather than selling: give a barrel today and get back 1.1 barrels next year. The president announced the G-7 would act, but Europe is accused of \"dragging its feet\" on timing; the U.S. wants a smooth, clear flow so the market knows how much diesel is coming and over what period. On a refined product export ban, the official said the president decided not to proceed for now, but \"anything we can do to lower energy prices for Americans is on the table.\" He warned that an export ban—a \"blunt instrument\"—could lower diesel prices but likely raise gasoline prices, because U.S. diesel storage is limited and refineries produce a roughly fixed mix of products, so the whole supply chain must be considered.",
+      "conclusion_zh": "柴油供应紧张及潜在政策干预（如互换释放库存、出口禁令）可能加剧能源市场波动，需关注美欧政策协调对柴油和汽油价格的差异化影响。",
+      "conclusion_en": "Tight diesel supply and potential policy interventions (swaps, export bans) could increase energy market volatility; watch how U.S.-Europe coordination affects diesel versus gasoline prices differently.",
+      "key_points": [
+        {
+          "zh": "美国正与欧洲磋商释放柴油库存，以应对全球柴油严重短缺。",
+          "en": "The U.S. is in talks with Europe to release diesel stocks amid a severe global diesel shortage."
+        },
+        {
+          "zh": "官员建议欧洲采用“互换”方式（借出1桶，明年收回1.1桶），而非出售库存。",
+          "en": "The official recommends Europe use swaps (lend one barrel, get back 1.1 next year) rather than selling stocks."
+        },
+        {
+          "zh": "欧洲被指在释放库存上拖延，美方希望明确供应量和时间以稳定市场。",
+          "en": "Europe is accused of dragging its feet on releases; the U.S. wants clarity on volumes and timing to stabilize the market."
+        },
+        {
+          "zh": "成品油出口禁令仍在考虑中，但可能压低柴油价格的同时推高汽油价格。",
+          "en": "A refined product export ban remains on the table but could lower diesel prices while raising gasoline prices."
+        }
+      ],
+      "tags": [
+        "diesel",
+        "energy",
+        "SPR",
+        "export ban",
+        "Europe"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4955244",
       "title": "Wall Street Lunch: Google's Quantum Leap",
