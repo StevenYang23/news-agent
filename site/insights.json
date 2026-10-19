@@ -1,6 +1,163 @@
 {
-  "generated_at": "2026-10-19T12:21:24.222749+00:00",
+  "generated_at": "2026-10-19T13:19:00.391166+00:00",
   "insights": [
+    {
+      "guid": "yt:9_duNQjaN6E",
+      "title": "US Stocks Rebound Ahead of Earnings; Zelenskyy Says Trump Pushing Kyiv to Yield",
+      "title_zh": "市场聚焦法国政治风险与乌克兰地缘紧张，美股期货反弹",
+      "url": "https://www.youtube.com/watch?v=9_duNQjaN6E",
+      "published_at": "2026-10-19T12:43:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "法国抗议活动与暴力事件令法国股市和国债承压，而乌克兰总统泽连斯基指责特朗普施压乌克兰向俄罗斯让步，地缘紧张加剧。美股期货在连续八日下跌后反弹，但油价高企和AI相关信贷担忧仍构成风险。",
+      "summary_en": "French protests and violence pressure French stocks and bonds, while Ukrainian President Zelenskyy accuses Trump of pushing Ukraine to yield to Russia, adding geopolitical tension. U.S. equity futures rebound after eight straight sessions of selling, but elevated oil prices and AI-related credit concerns remain risks.",
+      "detail_zh": "法国抗议活动与暴力事件令法国股市和国债承压，斯托克600指数下跌0.8%，法国股指下跌1.4%，10年期法国国债收益率上升6个基点，并波及另外两个欧洲主权债。乌克兰总统泽连斯基指责特朗普施压乌克兰向俄罗斯让步，欧元下跌0.2%。美股期货在连续八日下跌后反弹，纳斯达克期货上涨1%，但布伦特原油仍高于108美元/桶，欧洲天然气期货上涨。分析师指出，AI板块的担忧已从资本开支回报转向债务融资，CoreWeave等公司成为焦点，但超大规模企业的资产负债表仍稳健，IG信贷利差可控。油价高企对欧洲经济的冲击大于美国，美国能源出口经济受增长拖累较小。",
+      "detail_en": "French protests and violence pressure French stocks and bonds: the Stoxx 600 fell 0.8%, the French index dropped 1.4%, and the 10-year French bond yield rose 6 basis points, with ripple effects on two other European sovereign bonds. Ukrainian President Zelenskyy accused Trump of pressuring Ukraine to yield to Russia, and the euro fell 0.2%. U.S. equity futures rebounded after eight straight sessions of selling, with Nasdaq futures up 1%, but Brent crude remains above $108/barrel and European gas futures rose. Analysts noted that AI concerns have shifted from capex returns to debt financing, with CoreWeave in focus, but hyperscaler balance sheets remain strong and IG credit spreads contained. High oil prices hit Europe harder than the U.S., which is an energy-exporting economy with less growth drag.",
+      "conclusion_zh": "市场在连续下跌后出现反弹，但法国政治风险、乌克兰地缘紧张及油价高企仍构成压力，AI板块的信贷分化值得关注。",
+      "conclusion_en": "Markets rebound after a selloff, but French political risk, Ukraine geopolitical tension, and elevated oil prices remain headwinds; credit differentiation within AI is worth watching.",
+      "key_points": [
+        {
+          "zh": "法国政治风险升温：抗议与暴力事件令法国股指跌1.4%，10年期法债收益率升6个基点，并波及欧洲其他主权债。",
+          "en": "French political risk rises: protests and violence push French stocks down 1.4% and 10-year French bond yield up 6bp, with spillover to other European sovereigns."
+        },
+        {
+          "zh": "乌克兰地缘紧张：泽连斯基指责特朗普施压乌克兰向俄罗斯让步，欧元下跌0.2%。",
+          "en": "Ukraine geopolitical tension: Zelenskyy accuses Trump of pressuring Ukraine to yield to Russia; euro falls 0.2%."
+        },
+        {
+          "zh": "美股期货反弹：连续八日下跌后，纳斯达克期货上涨1%，但油价高企和AI信贷担忧仍存。",
+          "en": "U.S. futures rebound: Nasdaq futures up 1% after eight straight down sessions, but elevated oil and AI credit concerns persist."
+        },
+        {
+          "zh": "AI担忧转向债务融资：CoreWeave等公司成为焦点，但超大规模企业资产负债表稳健，IG利差可控。",
+          "en": "AI concerns shift to debt financing: CoreWeave in focus, but hyperscaler balance sheets are strong and IG spreads contained."
+        },
+        {
+          "zh": "油价高企对欧洲冲击更大：布伦特原油高于108美元/桶，欧洲能源进口成本上升，美国作为能源出口国增长拖累较小。",
+          "en": "High oil hits Europe harder: Brent above $108/bbl raises energy import costs for Europe, while the U.S. as an energy exporter faces less growth drag."
+        }
+      ],
+      "tags": [
+        "France",
+        "Ukraine",
+        "Oil",
+        "AI",
+        "Credit"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Zgnd8vQHY1s",
+      "title": "3+1 Episode 24: Rich Mejzak",
+      "title_zh": "贝莱德：央行有空间应对通胀，国库券发行增加利好货币基金",
+      "url": "https://www.youtube.com/watch?v=Zgnd8vQHY1s",
+      "published_at": "2026-10-19T12:00:37+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "贝莱德现金管理团队指出，全球央行在抗通胀方面获得一定操作空间，市场已消化大部分紧缩预期，通胀总体可控。财政赤字扩大将主要通过短期国库券融资，带来价格下行、收益率上行，利好货币市场基金投资者。融资市场状况稳健，美联储可通过RMP购买国库券支持市场运作，目前未启用。",
+      "summary_en": "BlackRock's cash management team notes that global central banks have room to maneuver as markets have priced in much of the tightening and inflation remains largely tame. Growing fiscal deficits will likely be funded through Treasury bills, leading to lower prices, higher yields, and more income for money market fund investors. Funding market conditions remain sound, and the Fed has the RMP tool to purchase T-bills if needed, though it is not currently doing so.",
+      "detail_zh": "贝莱德全球现金管理团队投资主管Rich Mejzak在10月19日当周的市场评论中表示，美联储及其他全球央行在抗通胀方面拥有一定时间窗口，因为市场已为央行消化了大量紧缩预期，且通胀总体处于可控水平。投资者可能仍需应对长期债券的波动，但货币市场基金可提供稳定性、流动性和有吸引力的收益率。其次，财政赤字将持续扩大并需要融资，很大一部分可能通过短期国库券完成，这是财政部更便宜、更灵活的债务融资方式。今年已出现大量发行增加，未来几个月可能还有更多，这意味着价格更低、收益率更高，为货币市场基金投资者带来更多收入。第三，融资市场状况保持稳健，这一点很重要，因为市场波动往往首先体现在前端融资市场的波动中；今年9月未出现这种情况，截至目前12月也未显现。美联储有能力通过RMP购买国库券以帮助市场运作，目前并未这样做，进一步表明年底前融资市场稳健。",
+      "detail_en": "Rich Mejzak, global head of investments for the cash management team at BlackRock, said in the week of October 19 commentary that the Fed and other global central banks have some time to maneuver because markets have priced in a lot of tightening for them and inflation has been tame enough. Investors will likely need to continue to navigate volatility in long-end bonds, but money market funds can offer stability, liquidity, and attractive yields. Second, fiscal deficits will continue to grow and need funding, likely much of it through Treasury bills, a cheaper and more nimble way for the Treasury to fund debt. There has already been a significant increase in issuance this year and more is likely over the next few months, meaning lower prices, higher yields, and more income for money market fund investors. Third, funding market conditions remain sound, which is important because market volatility is often first demonstrated in front-end funding markets; that did not happen this past September and thus far is not shaping up for December. The Fed has the ability through the RMP to purchase Treasury bills to help market functioning, and is currently not doing so, further demonstrating the soundness of funding markets heading into year end.",
+      "conclusion_zh": "财政赤字货币化融资推升短期国库券供给，利好货币市场基金收益率；融资市场稳健，美联储暂无需干预。",
+      "conclusion_en": "Deficit funding via T-bills increases short-term supply, benefiting money market fund yields; funding markets are sound and the Fed does not need to intervene for now.",
+      "key_points": [
+        {
+          "zh": "全球央行在抗通胀方面有一定操作空间，市场已消化大量紧缩预期，通胀总体可控。",
+          "en": "Global central banks have room to maneuver as markets have priced in much tightening and inflation remains largely tame."
+        },
+        {
+          "zh": "财政赤字扩大将主要通过短期国库券融资，今年发行已显著增加，未来几个月可能更多。",
+          "en": "Growing fiscal deficits will likely be funded mainly through T-bills, with issuance already up significantly this year and more expected in coming months."
+        },
+        {
+          "zh": "国库券发行增加意味着价格更低、收益率更高，为货币市场基金投资者带来更多收入。",
+          "en": "Increased T-bill issuance means lower prices, higher yields, and more income for money market fund investors."
+        },
+        {
+          "zh": "融资市场状况稳健，9月未出现前端波动，12月截至目前也未显现。",
+          "en": "Funding market conditions remain sound, with no front-end volatility in September and none shaping up for December so far."
+        },
+        {
+          "zh": "美联储可通过RMP购买国库券支持市场运作，目前未启用，显示融资市场稳健。",
+          "en": "The Fed can use the RMP to buy T-bills to support market functioning, and is not currently doing so, indicating sound funding markets."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "Treasury bills",
+        "money market funds",
+        "fiscal deficit",
+        "funding markets"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4955155",
+      "title": "Wall Street Breakfast Podcast: Airlines' Holiday Price Test",
+      "title_zh": "假日机票价格飙升；印尼股市面临MSCI降级风险；法国抗议冲击经济",
+      "url": "https://seekingalpha.com/article/4955155-wall-street-breakfast-podcast-airlines-holiday-price-test?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-19T11:00:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "美国假日机票价格因燃油成本上涨而大幅攀升，感恩节票价同比涨31%，圣诞节涨23%，考验航空公司成本转嫁能力。MSCI考虑将印尼股市从新兴市场降级为独立市场，可能导致56亿美元被动资金流出，雅加达综指年内已跌43%。法国因生活成本爆发暴力抗议，可能拖累消费支出和商业信心。",
+      "summary_en": "U.S. holiday airfares are surging due to higher fuel costs, with Thanksgiving tickets up 31% and Christmas up 23% year-over-year, testing airlines' ability to pass on costs. MSCI may downgrade Indonesian equities from emerging to standalone market status, risking $5.6B in passive outflows; the Jakarta Composite is down 43% YTD. Violent protests in France over living costs threaten consumer spending and business confidence.",
+      "detail_zh": "美国假日机票价格正迈向至少十年来的最高水平。据Hopper数据，感恩节国内往返平均票价同比上涨31%，圣诞节上涨23%。航空公司提价以抵消燃油成本上升，Argus数据显示航空燃油现货均价约为每加仑4.50美元，自2月以来上涨91%，航空公司预计集体燃油支出将比去年高出数百亿美元。对投资者而言，假日季将检验航空公司能否在不削弱需求的情况下转嫁成本；高票价下预订强劲可支撑收入，但盈利能力取决于涨价能否完全覆盖燃油支出。联合航空CEO为优选座位收费辩护，称将基础运输与可选服务分开定价可满足不同预算的旅客。印尼股市周一继续遭抛售，MSCI上周表示将评估是否将印尼指数从新兴市场重新分类为独立市场，最终决定预计在2027年6月底前做出。雅加达综指周一下跌5.1%，创2020年以来最低，周五刚经历1998年以来最差交易日。MSCI指出市场功能失调的担忧，包括持续的可疑协同交易行为和改革执行不力。若降级为独立市场，印尼将被排除在全球基金跟踪的MSCI指数之外，导致大量外资流出。印尼交易所管理层正寻求MSCI澄清警告理由。雅加达综指年内已下跌43%，是2026年表现最差的主要股市。高盛策略师周日警告，若印尼股票被完全移出MSCI新兴市场指数，可能引发约56亿美元的被动资金流出；若富时罗素跟随，另有27亿美元面临风险。法国全国性抗议超过50万人参与，反对生活成本上升和公共服务恶化，部分演变为暴力，企业受损、公共建筑被破坏，数千人被警方拘留。马克龙呼吁冷静。对投资者而言，动荡加剧了法国本已脆弱的经济前景担忧，可能影响消费支出、零售盈利和商业信心。此外，英特尔股价上涨4%，因摩根大通将其评级从减持上调至中性，理由是管理层执行力改善且风险回报更平衡，此前股价较6月高点回落约36%。",
+      "detail_en": "U.S. holiday airfares are heading toward their highest levels in at least a decade. According to Hopper, average domestic round-trip fares for Thanksgiving are 31% above last year, while Christmas tickets are up 23%. Airlines are raising prices to offset escalating fuel costs; Argus data put the average monthly jet-fuel spot price at roughly $4.50 a gallon, up 91% since February, and carriers expect collective fuel spending to exceed last year's total by tens of billions of dollars. For investors, the holiday season will test whether airlines can recover higher operating costs without weakening demand; strong bookings at elevated fares could support revenue, but profitability will depend on how fully those increases cover fuel expenses. United Airlines' CEO defended charging for preferred seating, arguing that separating the price of basic transportation from optional services allows the airline to accommodate travelers with different budgets. Indonesian stocks continued to sell off on Monday. Last week MSCI said it will weigh reclassifying the MSCI Indonesia Indexes from 'emerging market' to 'standalone market' status, with a final decision expected by the end of June 2027. The Jakarta Composite Index declined 5.1% on Monday to its lowest level since 2020, after its worst trading day since 1998 on Friday. MSCI cited concerns over market dysfunction, including continued suspected coordinated trading behavior and lack of meaningful enforcement of reforms. If downgraded to standalone status, Indonesian indexes would be excluded from MSCI indexes tracked by global funds, resulting in significant foreign capital outflows. Indonesia Stock Exchange management is seeking clarification on MSCI's warning. The Jakarta Composite Index has declined 43% YTD, making it the worst-performing major stock market in 2026. Goldman Sachs strategists warned on Sunday that a full removal of Indonesian stocks from MSCI's emerging market indexes could trigger around $5.6B in passive fund outflows; another $2.7B would be at risk if FTSE Russell followed suit. France has been rocked by violent protests. Over 500,000 people demonstrated nationwide over rising living costs and deteriorating public services, with some violence; businesses were damaged, public buildings vandalized, and thousands in police custody. Macron called for calm. For investors, the unrest raises concerns about France's fragile economic outlook, with potential consequences for consumer spending, retail earnings and business confidence. Separately, Intel shares rose 4% after JPMorgan upgraded the chipmaker to Neutral from Underweight, citing improved management execution and a more balanced risk/reward following a pullback of about 36% from its June peak.",
+      "conclusion_zh": "假日季将检验航空公司能否在不削弱需求的情况下转嫁高燃油成本；印尼股市面临MSCI降级风险，被动资金流出压力显著；法国社会动荡增添经济不确定性。",
+      "conclusion_en": "The holiday season will test airlines' ability to pass on higher fuel costs without weakening demand; Indonesian equities face MSCI downgrade risk with significant passive outflow pressure; French social unrest adds economic uncertainty.",
+      "key_points": [
+        {
+          "zh": "美国假日机票价格创至少十年新高，感恩节票价同比涨31%，圣诞节涨23%，因航空燃油价格自2月以来上涨91%至约4.50美元/加仑。",
+          "en": "U.S. holiday airfares are at least decade highs, with Thanksgiving tickets up 31% and Christmas up 23% YoY, as jet fuel prices have risen 91% since February to about $4.50/gallon."
+        },
+        {
+          "zh": "MSCI考虑将印尼股市从新兴市场降级为独立市场，最终决定预计2027年6月底前做出；高盛警告完全剔除可能引发56亿美元被动流出，富时罗素若跟随另有27亿美元风险。",
+          "en": "MSCI is weighing downgrading Indonesian equities from emerging to standalone market status, with a final decision expected by end-June 2027; Goldman warns a full removal could trigger $5.6B in passive outflows, with another $2.7B at risk if FTSE Russell follows."
+        },
+        {
+          "zh": "雅加达综指周一下跌5.1%至2020年以来最低，年内累计下跌43%，为2026年表现最差的主要股市。",
+          "en": "The Jakarta Composite Index fell 5.1% on Monday to its lowest since 2020 and is down 43% YTD, making it the worst-performing major stock market in 2026."
+        },
+        {
+          "zh": "法国超50万人抗议生活成本上升和公共服务恶化，部分演变为暴力，可能拖累消费支出、零售盈利和商业信心。",
+          "en": "Over 500,000 people protested in France over rising living costs and deteriorating public services, with some violence, potentially weighing on consumer spending, retail earnings and business confidence."
+        },
+        {
+          "zh": "英特尔股价上涨4%，摩根大通将其评级从减持上调至中性，理由是管理层执行力改善且风险回报更平衡，此前股价较6月高点回落约36%。",
+          "en": "Intel shares rose 4% after JPMorgan upgraded the chipmaker to Neutral from Underweight, citing improved management execution and more balanced risk/reward following a ~36% pullback from its June peak."
+        }
+      ],
+      "tags": [
+        "airlines",
+        "fuel costs",
+        "MSCI downgrade",
+        "Indonesia",
+        "France protests"
+      ],
+      "tickers": [
+        "AAL",
+        "UAL",
+        "DAL",
+        "EIDO",
+        "EWQ",
+        "MSCI",
+        "JEF",
+        "INTC"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:QAhTZUzKD0c",
       "title": "French Violence Raises Alert, Zelenskyy Says Trump Is Pushing Ukraine to Yield",
@@ -7709,56 +7866,6 @@
         "equity compensation",
         "liquidity",
         "capital structure"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:KB_3Taq5EYI",
-      "title": "The S&P Hit a Record. 73% of Stocks Are Below Their 50-Day. What Is Your Index Fund Betting On?",
-      "title_zh": "强劲盈利支撑涨势，但指数集中度与窄幅领涨引发关注",
-      "url": "https://www.youtube.com/watch?v=KB_3Taq5EYI",
-      "published_at": "2026-10-12T12:31:59+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "本期Excess Returns Weekly Wrap探讨了强劲企业盈利与日益加剧的指数集中度之间的张力。多位嘉宾讨论了窄幅领涨是否构成卖出信号、债券收益率上升的含义、小盘股盈利改善的可能性，以及在让赢家继续奔跑与管理组合风险之间如何平衡。",
-      "summary_en": "This week's Excess Returns Weekly Wrap explores the tension between strong corporate earnings and growing index concentration. Guests discuss whether narrow leadership is a sell signal, what rising bond yields may indicate, where small-cap earnings could improve, and how to balance letting winners run with managing portfolio risk.",
-      "detail_zh": "本期播客汇集了Ed Yardeni、Chris Davis、Robert Hagstrom、Katie Stockton和Tom Maher的观点。Ed Yardeni指出企业盈利呈现'极佳的盈利动能'，并讨论了支撑企业利润的力量，同时提到债券收益率上升、增长走强以及'债券义警'的回归。Chris Davis探讨了被动投资、动量效应以及指数基金内部的集中度问题。Katie Stockton认为仅凭窄幅领涨并不能否定牛市，并解释了为何更广泛的参与并不自动意味着股价利好。Tom Maher提出了小盘股盈利改善、回流趋势和AI基础设施支出等论点，但强调小盘股机会仍需关注盈利能力和企业质量。Robert Hagstrom讨论了安全边际收窄、仓位限制以及减持赢家的问题，并谈及卖出后两方面的遗憾以及管理资金的责任。",
-      "detail_en": "This episode brings together insights from Ed Yardeni, Chris Davis, Robert Hagstrom, Katie Stockton, and Tom Maher. Ed Yardeni highlights 'fabulous earnings momentum' and the forces supporting corporate profits, while also discussing rising yields, stronger growth, and the return of the bond vigilantes. Chris Davis addresses passive investing, momentum, and concentration inside index funds. Katie Stockton argues that narrow leadership alone doesn't invalidate a bull market, and explains why broader participation isn't automatically good news for stock prices. Tom Maher makes the case for small-cap earnings improvement, reshoring, and AI infrastructure spending, but stresses that small-cap opportunities still require attention to profitability and business quality. Robert Hagstrom discusses shrinking margins of safety, position limits, and trimming winners, touching on the regret on both sides of selling and the responsibilities of managing money.",
-      "conclusion_zh": "强劲盈利支撑市场，但指数集中度上升和窄幅领涨意味着投资者需重新审视通过指数基金持有的风险敞口，并在让赢家奔跑与控制组合风险之间寻求平衡。",
-      "conclusion_en": "Strong earnings support the market, but rising index concentration and narrow leadership mean investors should re-examine their index fund exposure and balance letting winners run with managing portfolio risk.",
-      "key_points": [
-        {
-          "zh": "Ed Yardeni认为强劲的盈利动能正在支撑市场涨势，但债券收益率上升和'债券义警'回归构成风险。",
-          "en": "Ed Yardeni sees strong earnings momentum supporting the rally, but flags rising bond yields and the return of bond vigilantes as risks."
-        },
-        {
-          "zh": "Chris Davis指出被动投资和动量效应导致指数基金内部集中度上升，改变了投资者通过指数基金持有的资产。",
-          "en": "Chris Davis notes that passive investing and momentum are driving concentration inside index funds, changing what investors own through an index fund."
-        },
-        {
-          "zh": "Katie Stockton认为窄幅领涨本身并不构成卖出信号，更广泛的市场参与也不自动利好股价。",
-          "en": "Katie Stockton argues narrow leadership alone isn't a sell signal, and broader participation isn't automatically good news for stock prices."
-        },
-        {
-          "zh": "Tom Maher看好小盘股盈利改善、回流趋势和AI基础设施支出，但强调需关注盈利能力和企业质量。",
-          "en": "Tom Maher is constructive on improving small-cap earnings, reshoring, and AI infrastructure spending, but stresses attention to profitability and business quality."
-        },
-        {
-          "zh": "Robert Hagstrom讨论了安全边际收窄、仓位限制和减持赢家的问题，以及卖出决策带来的遗憾。",
-          "en": "Robert Hagstrom discusses shrinking margins of safety, position limits, and trimming winners, as well as the regret on both sides of selling."
-        }
-      ],
-      "tags": [
-        "earnings",
-        "index-concentration",
-        "small-caps",
-        "bond-yields",
-        "market-breadth"
       ],
       "tickers": [],
       "sentiment": "neutral"
