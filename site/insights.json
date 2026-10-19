@@ -1,6 +1,157 @@
 {
-  "generated_at": "2026-10-19T21:14:05.078624+00:00",
+  "generated_at": "2026-10-19T22:14:26.065747+00:00",
   "insights": [
+    {
+      "guid": "yt:DBAIqz7s2-Y",
+      "title": "Big Tech Earnings Could Validate AI, Ives Says",
+      "title_zh": "Dan Ives：本周财报是AI叙事的关键验证时刻",
+      "url": "https://www.youtube.com/watch?v=DBAIqz7s2-Y",
+      "published_at": "2026-10-19T21:50:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Wedbush分析师Dan Ives认为，本周及下周大型科技股财报是AI交易的关键验证时刻，超大规模云厂商的资本开支和芯片需求将决定市场信心。他仍处于十年建设周期的第三年，但对新云厂商与超大规模厂商的区分持谨慎态度。",
+      "summary_en": "Wedbush analyst Dan Ives sees this week's and next week's big tech earnings as a key validation moment for the AI trade, with hyperscaler capex and chip demand set to determine market confidence. He believes we are in year three of a 10-12 year buildout but is cautious on distinguishing neoclouds from hyperscalers.",
+      "detail_zh": "Dan Ives在采访中表示，本周和下周大型科技股财报是市场亟需的验证时刻，超大规模云厂商的资本开支和芯片需求将决定AI交易能否重获信心。他上周在韩国调研内存芯片，感受到市场紧张情绪，但指出内存芯片的供需比达到13比1，需求加速正在发生。他认为当前处于10至12年建设周期的第三年，每1美元大型科技资本开支将在科技行业其他领域产生5至6倍的乘数效应，未来几年将有3至4万亿美元的相关支出。对于新云厂商与超大规模厂商的对比，Ives认为微软、亚马逊、谷歌处于完全不同的层级，甲骨文试图成为超大规模厂商但承担债务带来压力；在“抢椅子”游戏中，部分新云厂商可能出局，但整体仍处于早期阶段。他还提到，如果资本开支开始放缓，或软件及超大规模领域的预期需求交易未能实现，将是他降低看多立场的信号。",
+      "detail_en": "In the interview, Dan Ives said this week's and next week's big tech earnings are the validation moment the market needs, with hyperscaler capex and chip demand set to determine whether the AI trade can regain confidence. He visited Korea last week to assess memory chip demand and sensed nervousness, but noted a 13-to-1 demand-supply ratio for memory chips and accelerating demand. He believes we are in year three of a 10-12 year buildout, with every $1 of big tech capex generating a 5-6x multiplier across the rest of tech, and $3-4 trillion in spending expected over coming years. On neoclouds versus hyperscalers, Ives said Microsoft, Amazon and Google are in a different stratosphere; Oracle is trying to become a hyperscaler but faces pain from taking on debt. In the game of musical chairs, some neoclouds may be left without a chair, but it is still early. He also said he would become less bullish if capex starts to slow or if expected demand deals in software and hyperscale fail to materialize.",
+      "conclusion_zh": "大型科技股财报是AI交易短期方向的关键验证点，资本开支趋势和芯片需求是核心观察指标。",
+      "conclusion_en": "Big tech earnings are the key near-term validation point for the AI trade, with capex trends and chip demand as the core metrics to watch.",
+      "key_points": [
+        {
+          "zh": "本周及下周大型科技股财报是AI交易的关键验证时刻，市场在缺乏数据时容易受不同叙事影响。",
+          "en": "This week's and next week's big tech earnings are a key validation moment for the AI trade; in the absence of numbers, different narratives can dominate."
+        },
+        {
+          "zh": "韩国调研显示内存芯片供需比达13比1，需求加速正在发生。",
+          "en": "Korea checks show a 13-to-1 demand-supply ratio for memory chips, with demand acceleration underway."
+        },
+        {
+          "zh": "Ives认为当前处于10至12年建设周期的第三年，每1美元资本开支产生5至6倍乘数效应。",
+          "en": "Ives believes we are in year three of a 10-12 year buildout, with every $1 of capex generating a 5-6x multiplier."
+        },
+        {
+          "zh": "微软、亚马逊、谷歌与新兴云厂商处于不同层级；甲骨文试图转型但承担债务压力。",
+          "en": "Microsoft, Amazon and Google are in a different stratosphere from neoclouds; Oracle is trying to transition but faces debt pressure."
+        },
+        {
+          "zh": "若资本开支放缓或预期需求交易落空，将是Ives降低看多立场的信号。",
+          "en": "If capex slows or expected demand deals fail to materialize, that would be a signal for Ives to become less bullish."
+        }
+      ],
+      "tags": [
+        "AI",
+        "earnings",
+        "hyperscalers",
+        "semiconductors",
+        "capex"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:gX_hyq8CB8Q",
+      "title": "Retailers Will Struggle During Earnings Season, Says Meredith Whitney",
+      "title_zh": "财报季聚焦消费端：银行数据仅反映高端消费者，AI支出成经济关键支撑",
+      "url": "https://www.youtube.com/watch?v=gX_hyq8CB8Q",
+      "published_at": "2026-10-19T21:40:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "银行财报仅反映高端消费者状况，整体消费呈现分化：杂货支出零增长或负增长，消费总额增长靠客单价而非交易量。信用卡余额增长与油价的相关性近期破裂，显示消费取舍正向上传导至更高收入家庭。嘉宾认为AI支出若放缓将拖累经济陷入衰退，且银行对私募信贷及超大规模云厂商承销存在敞口。",
+      "summary_en": "Bank earnings only reflect the high-end consumer, while overall consumption is diverging: grocery spending has been flat or negative, and total spending growth comes from higher ticket sizes rather than transaction volume. The recent breakdown in the correlation between credit card balance growth and gas prices suggests consumer trade-offs are moving up-market. The guest argues that a slowdown in AI spending would tip the economy into recession, and banks have exposure to private credit and hyperscaler underwriting.",
+      "detail_zh": "本期讨论聚焦财报季中的消费端而非科技股。市场对科技股预期较高，对非科技尤其是消费类公司预期则较为分化。嘉宾指出，银行财报主要反映优质及超优质高端消费者的情况，而这一群体自金融危机以来已与其他消费者拉开距离，且过去三年这种分化加剧，因此银行只揭示了部分图景。其余图景是消费者正在挣扎，许多零售商将面临艰难的财报季。嘉宾关注的整体支出数据显示，自伊朗战争开始及稍早之前，杂货支出基本为零增长或负增长，消费者在加油与购买食品之间做取舍。整体消费支出上升仅因客单价提高，而非交易笔数或客流量增加。嘉宾认同消费增长主要来自最高收入或最富裕群体的观点，并指出近期美联储周度信用卡数据显示，信用卡余额同比增长与油价同比涨幅此前几乎一比一联动，但这一相关性在过去几周破裂，表明消费取舍正向上传导至更高收入家庭，而不仅是50%的家庭。布朗大学发布的伊朗战争成本指数显示，自战争开始以来每个家庭在汽油上多支出近600美元，这对至少50%月光族家庭是沉重负担。嘉宾认为，认为中期选举后一切会好转的假设是幼稚的，油价将维持高位，较高收入群体（如30%分位）虽未崩溃但已出现磨损，将影响整体支出。这也解释了Larry Fink为何表示若AI支出放缓，经济将陷入衰退，因为太多东西依赖AI支出，而底层消费者更弱。关于AI支出的金融风险，嘉宾指出银行对私募信贷和私募股权基金有敞口，是它们的后门贷款人，同时也是许多超大规模云厂商和交易的承销商，例如高盛和摩根大通是CoreWeave的大型承销商。银行今年亮眼的业绩和强劲的承销日历均归因于超大规模云厂商和Neo Cloud的承销。嘉宾认为市场不存在系统性风险，但很大一部分市场依赖于这一单一交易。",
+      "detail_en": "This discussion focuses on the consumer side of earnings season rather than tech. Expectations are high for tech but more mixed for non-tech, particularly consumer-facing companies. The guest notes that bank earnings mainly reflect the prime and super-prime high-end consumer, a group that has pulled back from everyone else since the financial crisis, with the divergence intensifying over the past three years—so banks only tell part of the picture. The rest of the picture is a struggling consumer, and many retailers face a difficult earnings season. Overall spending data shows grocery spending has been basically 0% growth or negative since the Iran war began and a little before, with consumers making trade-offs between gas and groceries. Overall consumer spending is higher only because of higher ticket sales, not more transactions or foot traffic. The guest agrees that consumption growth has come largely from the highest earners, and notes that Fed weekly credit card data had shown credit card balance growth tracking gas price growth almost one-for-one year over year, but that correlation broke down over the last few weeks—indicating the trade-offs are moving up-market, beyond the bottom 50% of households. Brown University's Iran Cost War Index shows every household has spent almost $600 more on gas since the war began, a big burden for at least 50% of households living paycheck to paycheck. The guest thinks the assumption that everything ends well after the midterms is naive; gas prices stay higher, and while the top 30% are not cracking, they are fraying, which will impact spending across the board. This explains why Larry Fink says if we slow down on AI spend, we go into recession, because so much hinges on AI spending and the underlying consumer is weaker. On financial risk from AI spending, the guest notes banks have exposure to private credit and private equity funds as backdoor lenders, and are underwriters of many hyperscalers and deals—Goldman and JPMorgan are big underwriters of CoreWeave. Banks' spectacular earnings and the robust underwriting calendar this year are all due to hyperscaler and Neo Cloud underwriting. The guest sees no systemic risk in this market, but a lot of the market is dependent on this one trade.",
+      "conclusion_zh": "消费分化加剧且AI支出成为经济关键支撑，投资者需关注消费类零售商的财报风险及AI资本开支放缓的宏观连锁反应。",
+      "conclusion_en": "Consumer divergence is intensifying and AI spending is a key economic support; investors should watch earnings risks for consumer retailers and the macro spillover from any slowdown in AI capex.",
+      "key_points": [
+        {
+          "zh": "银行财报仅反映高端消费者，整体消费图景更为疲弱，许多零售商将面临艰难财报季。",
+          "en": "Bank earnings only reflect the high-end consumer; the broader consumer picture is weaker, and many retailers face a difficult earnings season."
+        },
+        {
+          "zh": "杂货支出自伊朗战争以来基本零增长或负增长，整体消费增长靠客单价而非交易量。",
+          "en": "Grocery spending has been flat or negative since the Iran war, and overall spending growth comes from higher ticket sizes, not transaction volume."
+        },
+        {
+          "zh": "信用卡余额增长与油价的相关性近期破裂，显示消费取舍正传导至更高收入家庭。",
+          "en": "The recent breakdown in the correlation between credit card balance growth and gas prices suggests trade-offs are moving up-market."
+        },
+        {
+          "zh": "布朗大学指数显示每个家庭自战争以来多支出近600美元油费，对月光族家庭构成沉重负担。",
+          "en": "Brown University's index shows households have spent almost $600 more on gas since the war, a heavy burden for paycheck-to-paycheck families."
+        },
+        {
+          "zh": "银行对私募信贷及超大规模云厂商承销存在敞口，市场很大一部分依赖AI这一单一交易，但嘉宾认为无系统性风险。",
+          "en": "Banks have exposure to private credit and hyperscaler underwriting; a large part of the market depends on the single AI trade, though the guest sees no systemic risk."
+        }
+      ],
+      "tags": [
+        "consumer",
+        "earnings",
+        "AI capex",
+        "credit",
+        "banks"
+      ],
+      "tickers": [
+        "CRWV",
+        "GS",
+        "JPM"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:c3fcDXl58JM",
+      "title": "JPMorgan's 2027 Long-Term Capital Market Assumptions",
+      "title_zh": "摩根资产管理：AI资本开支超级周期将推动增长与回报，60/40组合未来10-15年年化回报7%",
+      "url": "https://www.youtube.com/watch?v=c3fcDXl58JM",
+      "published_at": "2026-10-19T21:13:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "摩根资产管理最新长期资本市场假设预测，未来10-15年60/40组合年化回报7%，核心驱动力是AI资本开支超级周期带来的生产率提升。该机构认为AI对盈利的提振将从科技板块逐步扩散至更广泛市场，同时固定收益因利率重定价而具备二十年来最具吸引力的入场点。",
+      "summary_en": "JPMorgan Asset Management's latest long-term capital market assumptions project a 7% annual return for 60/40 portfolios over the next 10-15 years, driven by an AI capex supernova that boosts productivity. The firm expects AI-driven earnings tailwinds to broaden from tech to the wider market, while fixed income offers the most attractive entry point in two decades due to rate repricing.",
+      "detail_zh": "摩根资产管理全球策略师David Kelly与私人银行全球投资策略联席主管Stephen Parker讨论了第31版长期资本市场假设。该机构约90人团队历时约六个月研究，核心发现是AI繁荣通过多种途径影响资本开支与长期生产率。短期看，AI是全球资本开支浪潮的一部分，欧洲防务等领域也在增加开支；长期看，越来越多任务和岗位将被AI替代，但这意味着巨大的生产率提升，而生产率是推动利润的最重要因素。Parker表示，AI的盈利效应已开始显现，早期采用者尤为明显，但未来十年将逐步从科技板块扩散至其他市场。该机构认为美国企业利润率处于历史高位且结构性更高，不认同均值回归的观点，并因此上调了美国大盘股预期，尽管科技板块集中度高，但 diversification 良好。研究显示，到2040年，美国及全球工人超过70%的任务可能被AI以两倍速度、同等质量完成。Kelly承认AI将造成就业 disruption，但可能是渐进式的，不会引发周期性失业潮，不过可能加剧全球不平等；同时劳动力萎缩和移民逆风意味着AI可填补劳动力缺口。固定收益方面，该机构认为不会回到超低利率世界，但全球利率重定价使固定收益成为二十年来最具吸引力的投资机会，全球综合债券预期回报为二十年来最高，尽管债券在高通胀环境下保护作用减弱，但缓冲更大，因此不再低配固定收益，并建议用另类资产分散通胀风险。",
+      "detail_en": "JPMorgan Asset Management's David Kelly, Chief Global Strategist, and Stephen Parker, Co-Head of Global Investment Strategy at JPMorgan Private Bank, discussed the 31st annual long-term capital market assumptions. A team of about 90 people worked for roughly six months, finding that the AI boom affects capital spending and long-term productivity in multiple ways. In the short run, AI is part of a global capex wave, with Europe defense and other countries also increasing spending. Over time, more tasks and jobs will be replaced by AI, implying very large productivity improvement, which is crucial for markets as nothing pushes profits more than productivity. Parker noted AI's earnings impact is already visible, particularly among early adopters, but over the next decade it will broaden from tech to other parts of the market. The firm believes US margins are structurally higher at all-time highs and does not expect reversion to historic levels; it upgraded US large-cap expectations due to good diversification despite tech concentration. Research suggests over 70% of tasks done by American and global workers could be exposed to AI within 15 years, meaning AI can do them twice as fast at the same quality by 2040. Kelly acknowledged AI will cause job disruption but may be phased in slowly enough to avoid a cyclical downturn, though it could worsen global inequality; shrinking labor force and immigration headwinds mean AI can fill an important gap. On rates, the firm does not expect a return to the very low interest rate world, but global repricing has made fixed income one of the most attractive opportunities in two decades, with global aggregate expectations the highest in 20 years. Bonds may protect less in a higher-inflation world, but there is a much bigger buffer, so the firm is no longer underweight fixed income and suggests alternatives to diversify inflation risk.",
+      "conclusion_zh": "AI驱动的资本开支与生产率提升支撑美股长期回报，但盈利扩散需要时间；同时固定收益因利率重定价而具备二十年来最佳配置价值。",
+      "conclusion_en": "AI-driven capex and productivity support long-term US equity returns, but earnings broadening takes time; meanwhile, fixed income offers the best allocation value in two decades due to rate repricing.",
+      "key_points": [
+        {
+          "zh": "摩根资产管理预测未来10-15年60/40组合年化回报7%，AI资本开支超级周期是核心驱动力。",
+          "en": "JPMorgan Asset Management projects a 7% annual return for 60/40 portfolios over the next 10-15 years, driven by the AI capex supernova."
+        },
+        {
+          "zh": "AI的盈利提振已开始显现，但未来十年将从科技板块扩散至更广泛市场。",
+          "en": "AI's earnings boost is already visible but will broaden from tech to the wider market over the next decade."
+        },
+        {
+          "zh": "该机构认为美国企业利润率结构性更高，不认同均值回归，并上调美国大盘股预期。",
+          "en": "The firm sees structurally higher US margins, dismisses reversion, and has upgraded US large-cap expectations."
+        },
+        {
+          "zh": "到2040年，超过70%的美国及全球工人任务可能被AI以两倍速度、同等质量完成。",
+          "en": "By 2040, over 70% of tasks done by American and global workers could be done by AI twice as fast at the same quality."
+        },
+        {
+          "zh": "利率重定价使固定收益成为二十年来最具吸引力的入场点，该机构不再低配固收。",
+          "en": "Rate repricing makes fixed income the most attractive entry point in two decades; the firm is no longer underweight fixed income."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "productivity",
+        "60/40 portfolio",
+        "fixed income",
+        "long-term outlook"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:JeCg9YnQVv8",
       "title": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
@@ -8618,53 +8769,6 @@
         "TradFi",
         "Robinhood",
         "onchain"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Lv2upto90Bw",
-      "title": "The Politics of Powering AI",
-      "title_zh": "能源成本成选举议题，AI数据中心推高政策辩论",
-      "url": "https://www.youtube.com/watch?v=Lv2upto90Bw",
-      "published_at": "2026-10-12T21:33:25+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics",
-        "tech"
-      ],
-      "summary_zh": "能源成本已成为关键选举议题，AI数据中心进一步加剧了这一辩论。公共政策研究主管Ariana Salvatore关注华盛顿的政策讨论，这些讨论可能决定美国如何为其下一轮技术繁荣提供电力。",
-      "summary_en": "Energy costs have become a key election issue, with AI data centers adding to the debate. Head of Public Policy Research Ariana Salvatore examines policy discussions in Washington that could determine how the U.S. powers its next technological boom.",
-      "detail_zh": "能源成本已被列为关键选举议题。AI数据中心的电力需求正在加剧围绕能源的公共辩论。公共政策研究主管Ariana Salvatore正在关注华盛顿的相关政策讨论。这些讨论可能决定美国如何为其下一轮技术繁荣提供电力支持。原文未提供具体政策细节、数字或立法进展。",
-      "detail_en": "Energy costs have been identified as a key election issue. The power needs of AI data centers are intensifying the public debate around energy. Ariana Salvatore, Head of Public Policy Research, is monitoring related policy discussions in Washington. These discussions could determine how the U.S. powers its next technological boom. The source does not provide specific policy details, figures, or legislative progress.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "能源成本是关键选举议题。",
-          "en": "Energy costs are a key election issue."
-        },
-        {
-          "zh": "AI数据中心加剧了能源辩论。",
-          "en": "AI data centers are adding to the energy debate."
-        },
-        {
-          "zh": "华盛顿政策讨论可能决定美国如何为下一轮技术繁荣供电。",
-          "en": "Washington policy discussions could determine how the U.S. powers its next technological boom."
-        },
-        {
-          "zh": "公共政策研究主管Ariana Salvatore正在关注这些讨论。",
-          "en": "Head of Public Policy Research Ariana Salvatore is monitoring these discussions."
-        }
-      ],
-      "tags": [
-        "energy costs",
-        "AI data centers",
-        "election",
-        "policy",
-        "US power"
       ],
       "tickers": [],
       "sentiment": "neutral"
