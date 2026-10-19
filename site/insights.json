@@ -1,6 +1,100 @@
 {
-  "generated_at": "2026-10-19T07:32:39.585417+00:00",
+  "generated_at": "2026-10-19T08:23:38.773074+00:00",
   "insights": [
+    {
+      "guid": "yt:KI0t_-E81wE",
+      "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support",
+      "title_zh": "美股期货反弹，AI交易面临资本成本考验",
+      "url": "https://www.youtube.com/watch?v=KI0t_-E81wE",
+      "published_at": "2026-10-19T07:50:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股期货在科技股抛售后反弹，标普期货涨近1%，纳指期货涨幅更大。贝莱德投资研究院策略师Ben Powell认为，市场正围绕AI的生产力与盈利前景以及谁来承担资本成本展开博弈，高资本成本将导致更多国家和企业承压、市场分化加剧。",
+      "summary_en": "U.S. equity futures rebounded after last week's tech selloff, with S&P futures up nearly 1% and Nasdaq futures higher. BlackRock Investment Institute strategist Ben Powell said the market is wrestling with the AI productivity and earnings outlook and who will pay for the capital, with a higher cost of capital set to stress more countries and companies and increase dispersion.",
+      "detail_zh": "美股期货周一反弹，标普期货涨近1%，纳指期货涨幅更大；此前纳指上周每个交易日均收跌，半导体指数更创下2008年以来最长连跌纪录。贝莱德投资研究院首席中东及亚太投资策略师Ben Powell表示，市场正在权衡AI在宏观层面的生产力繁荣与微观层面的盈利繁荣，核心问题是“谁来买单、以什么价格买单”。他指出，公共部门（尤其是西方政府）与私人部门同时向资本市场大规模融资，推高了资本成本，这类似于大宗商品遭遇需求冲击。Powell认为，高资本成本意味着更多国家和企业将面临压力，市场分化（dispersion）将加剧，因此需要更主动的投资方式、精选敞口。贝莱德已上调短期美国国债配置，认为可在安全的高收益空间停放资金，同时仍看多AI但强调精选个股。对于欧洲，Powell认为欧元仍有下行风险，欧洲增长前景不如美国及海湾国家，且高融资成本正成为政治议题。他更看好新兴市场并给予超配，称部分新兴市场近年财政审慎，而部分发达市场则受困于高融资成本的政治化。",
+      "detail_en": "U.S. equity futures rebounded on Monday, with S&P futures up nearly 1% and Nasdaq futures higher, after the Nasdaq closed lower every day last week and the semiconductor index suffered its longest losing streak since 2008. Ben Powell, Chief Middle East and APAC Investment Strategist at the BlackRock Investment Institute, said the market is weighing the AI productivity boom at the macro level and the earnings boom at the micro level, with the core question being who will pay and at what price. He noted that simultaneous large calls on capital markets by the public sector, particularly Western governments, and the private sector are raising the cost of capital, akin to a demand shock for a commodity. Powell said a higher cost of capital by definition means more countries and companies will be stressed and more dispersion, warranting a more active approach and picking spots. BlackRock upgraded short-term Treasuries as a safe high-income parking space and remains bullish AI but is thoughtful about picking spots. On Europe, Powell sees more downside risk for the euro, with Europe's growth outlook less rosy than the U.S. and GCC, and higher funding costs becoming a political issue. He favors and is overweight emerging markets, saying some EMs have been fiscally prudent while some developed markets wrestle with higher funding costs as a political issue.",
+      "conclusion_zh": "AI交易进入“资本成本”定价阶段，高利率环境下市场分化加剧，需更主动精选敞口；短期美债提供安全高收益，新兴市场相对占优。",
+      "conclusion_en": "The AI trade is entering a cost-of-capital pricing phase; higher rates mean greater dispersion and require more active, selective exposure, with short-term Treasuries offering safe high income and emerging markets relatively favored.",
+      "key_points": [
+        {
+          "zh": "美股期货反弹，标普期货涨近1%，纳指期货涨幅更大，此前纳指上周每日收跌、半导体指数创2008年以来最长连跌。",
+          "en": "U.S. futures rebounded, with S&P futures up nearly 1% and Nasdaq futures higher, after the Nasdaq fell every day last week and semis had their longest losing streak since 2008."
+        },
+        {
+          "zh": "贝莱德Ben Powell：市场核心问题是AI由谁买单、以什么价格买单；公共与私人部门同时大规模融资推高资本成本。",
+          "en": "BlackRock's Ben Powell: the core question is who pays for AI and at what price; simultaneous large public and private sector funding calls are raising the cost of capital."
+        },
+        {
+          "zh": "高资本成本意味着更多国家和企业承压、市场分化加剧，需要更主动的投资方式和精选敞口。",
+          "en": "A higher cost of capital means more countries and companies stressed and greater dispersion, requiring a more active approach and picking spots."
+        },
+        {
+          "zh": "贝莱德上调短期美国国债配置，仍看多AI但强调精选个股；对欧元持下行风险看法，超配新兴市场。",
+          "en": "BlackRock upgraded short-term Treasuries, remains bullish AI but selective, sees downside risk for the euro, and is overweight emerging markets."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "cost of capital",
+        "tech selloff",
+        "emerging markets",
+        "Treasuries"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:KUCst3d37ys",
+      "title": "Anti-AI Trade Drives Buyers Into Bonds: Market Analysis",
+      "title_zh": "全球风险偏好反弹，但AI交易与法国资产承压",
+      "url": "https://www.youtube.com/watch?v=KUCst3d37ys",
+      "published_at": "2026-10-19T07:42:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股与亚洲科技股在上周大幅波动后出现反弹，显示仍有买盘兴趣；但欧洲期货走低，受法国抗议、俄乌紧张及法国债务抛售影响。市场关注AI资本开支指引的可持续性，同时债券避险功能与法国资产风险成为焦点。",
+      "summary_en": "US and Asian tech stocks rebounded after last week's major wobble, indicating some buying interest remains; however, European futures are lower amid French protests, Russia-Ukraine tensions, and French debt selloff. Markets focus on sustainability of AI capex guidance, while bond haven behavior and French asset risks are in spotlight.",
+      "detail_zh": "美股和亚洲科技股在上周大幅下跌后出现反弹，市场认为周末没有明确消息驱动方向，反弹表明仍有买盘兴趣和逢低买入者。本周是繁忙的财报周，市场尤其关注AI建设与贸易相关的指引及其可持续性，这可能影响欧洲市场情绪。欧洲市场则因法国周末抗议活动以及俄罗斯与乌克兰紧张局势重燃而承压，期货走低。法国债务遭抛售，长端收益率上升约4个基点，债券被视为关键风险晴雨表；欧元在亚洲时段早盘承压，投资者借此表达风险。此外，国债作为避险资产的表现值得关注，部分原因可能是债券领域的分化——风险较高的发行人债券与其他债券利差扩大。印度市场表现突出，因在AI行情中受冲击较大而重新获得青睐。对于AI交易是否接近尾声，市场观点分歧，有人认为仍有大量机会，也有人认为泡沫即将破裂。策略师指出，法国事件对旅游、商业和消费者信心有影响，但更重要的是对长期选举的影响，以及如何加剧预算风险、债务和赤字负担。",
+      "detail_en": "US and Asian tech stocks rebounded after last week's major selloff, with no firm news over the weekend to drive direction; the bounce indicates some buying interest and investors looking to jump back in. It's a busy earnings week, with focus on guidance around AI buildout and trade and its sustainability, which could give more sentiment for Europe. Europe presents a different picture: futures are lower due to weekend protests in France and renewed Russia-Ukraine tensions. French debt is selling off, with long-end yields up about 4 basis points; bonds are seen as the key risk barometer. The euro came under pressure at the start of the Asia day as investors express risk. Treasuries behaved as a haven, partly explained by fragmentation within the bond sphere—riskier issuer bonds are splintering and widening from the rest. India outperformed, as it had been hit hard during the AI rally by not having AI exposure and is now coming back into favor. On whether the AI trade is near the end, opinions are split: some see plenty of opportunity, others see a bubble about to burst. A strategist noted the direct impact on tourism, business and consumer confidence, but what counts is what it means for the election in the long term and how that adds to budget risks and debt and deficit load.",
+      "conclusion_zh": "市场风险偏好出现反弹但分化明显，AI交易可持续性与法国政治预算风险是短期关键变量，债券市场分化值得密切关注。",
+      "conclusion_en": "Risk appetite has rebounded but remains divergent; sustainability of the AI trade and French political/budget risks are key near-term variables, with bond market fragmentation worth close monitoring.",
+      "key_points": [
+        {
+          "zh": "美股与亚洲科技股反弹，显示市场仍有买盘兴趣，但欧洲期货因法国抗议和俄乌紧张而走低。",
+          "en": "US and Asian tech stocks rebounded, indicating buying interest remains, but European futures are lower amid French protests and Russia-Ukraine tensions."
+        },
+        {
+          "zh": "本周财报季重点关注AI建设与贸易指引的可持续性，可能影响市场情绪。",
+          "en": "This busy earnings week focuses on sustainability of AI buildout and trade guidance, which could sway sentiment."
+        },
+        {
+          "zh": "法国债务遭抛售，长端收益率上升约4个基点，债券成为关键风险晴雨表；欧元承压。",
+          "en": "French debt is selling off with long-end yields up about 4bps; bonds are the key risk barometer and the euro is under pressure."
+        },
+        {
+          "zh": "国债避险功能显现，部分因债券市场分化，风险较高发行人债券利差扩大。",
+          "en": "Treasuries acted as a haven, partly due to bond market fragmentation with riskier issuer spreads widening."
+        },
+        {
+          "zh": "AI交易是否接近尾声市场分歧较大，印度市场因前期受冲击而重新受青睐。",
+          "en": "Views diverge on whether the AI trade is near its end; India is back in favor after being hit hard during the AI rally."
+        }
+      ],
+      "tags": [
+        "risk-appetite",
+        "AI-trade",
+        "French-debt",
+        "earnings",
+        "bond-fragmentation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:AYa6KVY1beA",
       "title": "France PM Calls Crisis Meeting After Weekend Riots",
