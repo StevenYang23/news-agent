@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-10-19T08:23:38.773074+00:00",
+  "generated_at": "2026-10-19T09:21:37.144418+00:00",
   "insights": [
+    {
+      "guid": "yt:QidpqykDYIU",
+      "title": "Don Wilson on the GPU Market's Trillion Dollar Question | Odd Lots",
+      "title_zh": "DRW创始人谈GPU期货：算力市场需要风险管理工具",
+      "url": "https://www.youtube.com/watch?v=QidpqykDYIU",
+      "published_at": "2026-10-19T08:05:58+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "volatility",
+        "macro"
+      ],
+      "summary_zh": "DRW创始人兼CEO Don Wilson在Odd Lots播客中讨论了为GPU等算力资产建立期货市场的进展。他指出，AI增长轨迹中的波动是预期内的，而近期CoreWeave等公司的高资本成本凸显了市场对风险管理工具的迫切需求。GPU期货若推出，可帮助云服务商对冲未来收入流，从而降低资本成本。目前CFTC的评论期已延长，若监管不行动，期货最早可能于11月9日上市。",
+      "summary_en": "Don Wilson, founder and CEO of DRW, discussed on the Odd Lots podcast the effort to build futures markets for compute assets like GPUs. He noted that volatility in AI growth trajectories is expected, and recent high capital costs for companies like CoreWeave highlight the urgent need for risk management tools. GPU futures, if launched, could help cloud providers hedge future revenue streams and lower their cost of capital. The CFTC has extended its comment period; absent regulatory action, futures could be listed as early as November 9th.",
+      "detail_zh": "在Odd Lots播客芝加哥现场活动中，DRW创始人兼CEO Don Wilson与主持人讨论了算力期货市场的最新进展。Wilson认为，AI行业如此高速的增长不可能保持恒定速率，一阶和二阶导数都不会稳定，因此当前的市场波动是预期之中的。他以CoreWeave为例指出，当市场看到其收益率达到15%时，这恰恰凸显了对风险管理产品的巨大需求：信用资质较差的GPU消费者需要更高的资本成本，而GPU期货的存在可以让云服务商通过卖出期货组合来对冲风险，从而降低资本成本。关于监管状态，Wilson提到CFTC已延长评论期，若监管机构不采取行动，期货最早可于11月9日上市，而11月3日之后的时间点可能让华盛顿方面更放心。对于指数稳健性的质疑，Wilson承认部分GPU通过双边承购协议销售、价格不透明，但他强调Silicon Data的指数聚焦于按需算力，数据透明度较高，并致力于符合IOSCO基准原则。他还回顾了GPU价格走势：去年H100按需小时价格持续下跌，但感恩节前后因Anthropic新模型发布带来推理需求激增而反转向上；近期B200、B300和H100价格再次上涨，而同期Silicon Data代币指数价格却大幅下跌，说明市场波动剧烈，对冲工具亟需。",
+      "detail_en": "At a live Odd Lots podcast event in Chicago, Don Wilson, founder and CEO of DRW, discussed the latest developments in compute futures markets. Wilson argued that such rapid AI growth cannot maintain a constant rate—neither first nor second derivatives will be stable—so current market volatility is expected. Citing CoreWeave, he noted that when the market sees its yield at 15%, it highlights massive demand for risk management products: less creditworthy GPU consumers face higher capital costs, and GPU futures would allow cloud providers to hedge risk by selling futures strips, thereby lowering their cost of capital. On regulatory status, Wilson said the CFTC has extended its comment period; absent action, futures could be listed as early as November 9th, a date after November 3rd that might make Washington more comfortable. Regarding index robustness concerns, Wilson acknowledged that some GPUs are sold via bilateral offtake agreements with opaque pricing, but stressed that Silicon Data's index focuses on on-demand compute with high transparency and aims to be IOSCO-compliant. He also reviewed GPU price trends: H100 hourly on-demand prices declined steadily last year but reversed upward around Thanksgiving when Anthropic's new model drove a surge in inference demand; recently, B200, B300, and H100 prices have risen again while the Silicon Data token index has plummeted, illustrating sharp volatility and the urgent need for hedging instruments.",
+      "conclusion_zh": "GPU期货的推出将有助于算力市场参与者管理价格波动风险并降低资本成本，但监管审批和指数稳健性仍是关键变量。",
+      "conclusion_en": "The launch of GPU futures would help compute market participants manage price volatility risk and lower capital costs, but regulatory approval and index robustness remain key variables.",
+      "key_points": [
+        {
+          "zh": "AI增长轨迹中的波动是预期内的，一阶和二阶导数都不会恒定。",
+          "en": "Volatility in AI growth trajectories is expected; neither first nor second derivatives will be constant."
+        },
+        {
+          "zh": "CoreWeave高达15%的收益率凸显了市场对风险管理产品的巨大需求。",
+          "en": "CoreWeave's yield of 15% highlights massive demand for risk management products."
+        },
+        {
+          "zh": "GPU期货可帮助云服务商对冲未来收入流，从而降低资本成本。",
+          "en": "GPU futures can help cloud providers hedge future revenue streams and lower their cost of capital."
+        },
+        {
+          "zh": "CFTC已延长评论期，若监管不行动，期货最早可能于11月9日上市。",
+          "en": "The CFTC has extended its comment period; absent action, futures could be listed as early as November 9th."
+        },
+        {
+          "zh": "Silicon Data的指数聚焦按需算力，数据透明度较高，并致力于符合IOSCO基准原则。",
+          "en": "Silicon Data's index focuses on on-demand compute with high transparency and aims to be IOSCO-compliant."
+        }
+      ],
+      "tags": [
+        "GPU futures",
+        "compute market",
+        "risk management",
+        "AI infrastructure",
+        "CFTC regulation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:KI0t_-E81wE",
       "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support",
