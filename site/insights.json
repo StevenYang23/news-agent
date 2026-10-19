@@ -1,6 +1,99 @@
 {
-  "generated_at": "2026-10-19T14:18:03.300309+00:00",
+  "generated_at": "2026-10-19T15:15:18.743972+00:00",
   "insights": [
+    {
+      "guid": "yt:_cOBV7frfGw",
+      "title": "AI Boom Faces a Higher-Yield Roadblock",
+      "title_zh": "AI数据中心建设遭遇融资成本上升阻力",
+      "url": "https://www.youtube.com/watch?v=_cOBV7frfGw",
+      "published_at": "2026-10-19T15:04:18+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "摩根士丹利资产支持证券策略师Carolyn Campbell指出，数据中心需求旺盛，但借贷成本上升正成为融资障碍。5年期美债利率自1月以来上升超过1个百分点，数据中心资产利差走阔，最高评级数据中心债券收益率从2026年初的低于5%升至接近7%。当借贷成本接近8%时，按当前融资条款发行债券将变得显著困难。",
+      "summary_en": "Morgan Stanley ABS strategist Carolyn Campbell notes that while data center demand is booming, rising borrowing costs are becoming a financing obstacle. 5-year Treasury rates have climbed more than one percentage point since January, data center asset spreads have widened, and top-rated data center bond yields have risen from below 5% at the start of 2026 to closer to 7%. When borrowing costs approach 8%, issuing these bonds becomes significantly more challenging under current financing terms.",
+      "detail_zh": "数据中心设施需求旺盛，但融资正变得越来越昂贵，这一矛盾在信用市场形成值得关注的故事。自1月以来，5年期美债利率上升超过1个百分点，数据中心资产利差也走阔；2026年初最高评级数据中心债券收益率低于5%，如今类似债券收益率接近7%，这对试图融资数十亿美元设施的公司影响巨大。许多运营商通过证券化信用市场融资，发行由数据中心收入支持的债券；债券发行时建设已完成、电力已锁定、租金已在支付，现金流稳定。但存在一个问题：这些设施往往在寻求证券化融资前就已签订长期租约，租金收入已锁定，因此当利率快速上升时，收入未必跟得上借贷成本。摩根士丹利分析显示，当借贷成本接近8%时，按当前融资条款发行这些债券将变得显著困难。2026年迄今，数据中心运营商已发行约150亿美元ABS和另外70亿美元CNBS，节奏与去年大致相当，但低于数据中心需求非凡增长下应有的水平。该行认为供应放缓是暂时的，预测美国数据中心电力容量将从目前约60吉瓦增长至2028年的150吉瓦，但电力供应约束可能使容量比预测低30%至40%。无论如何，大量即将上线的租赁容量将需要债务融资，运营商有雄心勃勃的增长计划，可通过降低抵押借款比例、接受近期较低投资回报或转向提供更灵活融资结构的其他信用渠道来应对高利率环境。考虑到高利率环境，该行小幅下调了2026和2027年证券化信用数据中心发行预测，但2028年将上线的租赁容量如此之高，因此维持2028年数字不变；总体预计未来几年供应约1200至1500亿美元。该行看好托管（colocation）数据中心市场，这些园区租户类型多样、行业多元、租约较短，在租金大幅上涨且空置率约1%的背景下，运营商能更快变现行业变化，这种灵活性在借贷成本高企时尤其有价值。",
+      "detail_en": "Demand for data center facilities is booming, yet financing is becoming increasingly expensive, creating an interesting story in credit markets. Since January, 5-year Treasury rates have climbed more than one percentage point and data center asset spreads have widened; top-rated data center bonds yielded below 5% at the start of 2026 but similar bonds now yield closer to 7%, which matters enormously for companies financing multi-billion dollar facilities. Many operators raise money through securitized credit markets, issuing bonds backed by data center income; by issuance, construction is complete, power is secured and rent is being paid, so cash flows are stabilized. But there is a catch: facilities often sign long-term leases well before seeking securitized financing, locking in rental income, so when rates rise quickly, revenues don't necessarily keep pace with borrowing costs. Morgan Stanley analysis suggests that when borrowing costs approach 8%, issuing these bonds becomes significantly more challenging under current financing terms. So far in 2026, data center operators have issued around $15 billion in ABS and another $7 billion in CNBS markets—roughly in line with last year's pace but below what would be expected given extraordinary demand growth. The firm believes the supply slowdown is temporary and forecasts US data center power capacity could grow from roughly 60 GW today to 150 GW by 2028, though power availability constraints could leave capacity 30-40% below projections. Much of the lease capacity coming online will require debt financing, and operators with ambitious growth plans can borrow less against properties, accept lower near-term returns, or turn to credit channels with more flexible structures. The firm slightly lowered 2026 and 2027 securitized credit data center issuance forecasts due to higher rates but held 2028 numbers steady given the high lease capacity coming online, expecting around $120-150 billion of supply over the next couple of years. It likes the colocation data center market, where campuses have many tenant types across industries and shorter leases; with sharply higher rental rates and vacancy around 1%, operators can more quickly monetize industry changes—flexibility that could prove valuable when borrowing costs remain elevated.",
+      "conclusion_zh": "借贷成本上升可能暂时放缓数据中心融资节奏，但建设规模意味着该市场仍有充足增长空间；托管数据中心因租约短、租户多元，在高利率环境下更具灵活性，值得关注。",
+      "conclusion_en": "Higher borrowing costs may slow data center financing for now, but the scale of the buildout suggests plenty of room to grow; colocation data centers, with shorter leases and diverse tenants, offer valuable flexibility when rates remain elevated.",
+      "key_points": [
+        {
+          "zh": "5年期美债利率自1月以来上升超过1个百分点，最高评级数据中心债券收益率从2026年初的低于5%升至接近7%。",
+          "en": "5-year Treasury rates have climbed more than one percentage point since January, and top-rated data center bond yields have risen from below 5% at the start of 2026 to closer to 7%."
+        },
+        {
+          "zh": "当借贷成本接近8%时，按当前融资条款发行数据中心证券化债券将变得显著困难。",
+          "en": "When borrowing costs approach 8%, issuing data center securitized bonds becomes significantly more challenging under current financing terms."
+        },
+        {
+          "zh": "2026年迄今数据中心运营商发行约150亿美元ABS和70亿美元CNBS，节奏与去年相当但低于需求增长应有的水平。",
+          "en": "So far in 2026, data center operators have issued around $15 billion in ABS and $7 billion in CNBS—roughly in line with last year but below what demand growth would suggest."
+        },
+        {
+          "zh": "摩根士丹利预测美国数据中心电力容量将从约60吉瓦增至2028年的150吉瓦，但电力约束可能使容量低30%至40%。",
+          "en": "Morgan Stanley forecasts US data center power capacity could grow from roughly 60 GW to 150 GW by 2028, though power constraints could leave capacity 30-40% below projections."
+        },
+        {
+          "zh": "该行小幅下调2026和2027年证券化信用数据中心发行预测，但维持2028年不变，预计未来几年供应约1200至1500亿美元。",
+          "en": "The firm slightly lowered 2026 and 2027 securitized credit data center issuance forecasts but held 2028 steady, expecting around $120-150 billion of supply over the next couple of years."
+        }
+      ],
+      "tags": [
+        "data centers",
+        "securitized credit",
+        "ABS",
+        "interest rates",
+        "AI infrastructure"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:depW-6MKQkI",
+      "title": "Tech Has Led for 20 Years. Bonds Yield Over 5%. Are You Too Comfortable to Sell?",
+      "title_zh": "AI融资热潮：市场能否消化？",
+      "url": "https://www.youtube.com/watch?v=depW-6MKQkI",
+      "published_at": "2026-10-19T14:39:48+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "Barry Ritholtz指出，SpaceX、Anthropic和OpenAI若按当前估值上市，总市值将达5.2万亿美元，超过1980-2025年美国科技IPO总额4.1万亿美元。市场对AI基础设施建设的投资回报率（ROI）仍存巨大不确定性，且数据中心债券的A级评级可能被高估。",
+      "summary_en": "Barry Ritholtz noted that if SpaceX, Anthropic, and OpenAI go public at currently discussed valuations, their combined market cap would reach $5.2 trillion, exceeding the $4.1 trillion total for all US tech IPOs from 1980 to 2025. There remains significant uncertainty over the ROI of AI infrastructure spending, and the A-rated status of data center bonds may be overstated.",
+      "detail_zh": "在Excess Returns播客中，Barry Ritholtz讨论了AI融资热潮。他提到，SpaceX、Anthropic和OpenAI若按当前讨论的估值上市，三家合计市值将达5.2万亿美元，比1980至2025年美国所有科技IPO总额4.1万亿美元还高20%。他质疑AI数据中心建设债券的A级评级，指出这些债券收益率远高于国债，但摩尔定律可能使未来数据中心需求大幅缩减，导致巨额投资浪费。主持人Matt Ziggler补充，大型现金流公司正将资金转向AI投资，但未来盈利和ROI未知，市场能否消化这些融资仍是悬念。",
+      "detail_en": "On the Excess Returns podcast, Barry Ritholtz discussed the AI financing boom. He noted that if SpaceX, Anthropic, and OpenAI go public at currently discussed valuations, their combined market cap would reach $5.2 trillion, 20% higher than the $4.1 trillion total for all US tech IPOs from 1980 to 2025. He questioned the A-rated status of AI data center construction bonds, pointing out that these bonds yield much more than Treasuries, but Moore's Law could significantly reduce future data center demand, leading to wasted massive investments. Co-host Matt Ziggler added that large cash-flow-positive companies are redirecting funds into AI investments, but future earnings and ROI are unknown, and whether the market can absorb this financing remains an open question.",
+      "conclusion_zh": "AI融资热潮规模空前，但投资回报率存疑，数据中心债券的信用风险值得关注。",
+      "conclusion_en": "The AI financing boom is unprecedented in scale, but ROI is questionable, and credit risks in data center bonds warrant attention.",
+      "key_points": [
+        {
+          "zh": "SpaceX、Anthropic和OpenAI若按当前估值上市，总市值将达5.2万亿美元，超过1980-2025年美国科技IPO总额4.1万亿美元。",
+          "en": "If SpaceX, Anthropic, and OpenAI go public at current valuations, their combined market cap would reach $5.2 trillion, exceeding the $4.1 trillion total for all US tech IPOs from 1980 to 2025."
+        },
+        {
+          "zh": "AI数据中心建设债券的A级评级受到质疑，其收益率远高于国债，但技术快速迭代可能使数据中心需求大幅下降。",
+          "en": "The A-rated status of AI data center construction bonds is questioned; they yield much more than Treasuries, but rapid technological iteration could significantly reduce data center demand."
+        },
+        {
+          "zh": "大型现金流公司正将资金转向AI投资，但未来盈利和ROI存在不确定性，市场能否消化这些融资仍是未知数。",
+          "en": "Large cash-flow-positive companies are redirecting funds into AI investments, but future earnings and ROI are uncertain, and whether the market can absorb this financing is unknown."
+        }
+      ],
+      "tags": [
+        "AI",
+        "IPO",
+        "data center",
+        "ROI",
+        "credit risk"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:p46Y1EMDJuM",
       "title": "Tom Keene on the “scandal” of real estate",
@@ -8107,62 +8200,6 @@
         "Asset Allocation"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4953485",
-      "title": "Wall Street Lunch: Hall, Woodford Win Nobel Economics Prize For Macroeconomic Research",
-      "title_zh": "诺贝尔经济学奖揭晓；Adobe遭下调评级；AI繁荣被比作1997亚洲金融危机",
-      "url": "https://seekingalpha.com/article/4953485-wall-street-lunch-hall-woodford-win-nobel-economics-prize-for-macroeconomic-research?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-12T15:00:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Robert Hall与Michael Woodford因宏观经济稳定化的微观基础获得2026年诺贝尔经济学奖。富国银行将Adobe下调至减持、Tyler Technologies上调至增持；法兴银行策略师Albert Edwards警告AI投资热潮可能掩盖生产率疲软，并将其与1997年亚洲金融危机相类比。",
-      "summary_en": "Robert Hall and Michael Woodford won the 2026 Nobel Economics Prize for the microeconomic foundations of macroeconomic stabilization. Wells Fargo downgraded Adobe to Underweight and upgraded Tyler Technologies to Overweight, while SocGen strategist Albert Edwards warned the AI investment boom may mask weak productivity, drawing parallels to the 1997 Asian financial crisis.",
-      "detail_zh": "2026年诺贝尔经济学奖授予Robert Hall（斯坦福大学教授）与Michael Woodford（哥伦比亚大学教授），表彰其在\"宏观经济稳定化的微观基础\"方面的贡献；评奖委员会主席John Hassler表示，二人的研究为全球央行和政府所用模型提供了稳定的理论基础，有助于应对能源危机或家庭消费突变等冲击。两人均在MIT获得博士学位，奖金为1200万瑞典克朗（约120万美元），由两人平分。个股方面，富国银行分析师Michael Turrin将Adobe从增持下调至减持，理由是核心创意业务竞争强度\"在不利时机上升\"，且Q3财报已现裂痕；同时将Tyler Technologies从等权上调至增持，认为其2025年订单逆风\"大部分\"是暂时性的，2027年\"存在回归空间\"。IREN在与Anthropic达成多年云协议的消息后上涨；IonQ以全股票交易收购网络安全公司Elisity，交易价值最高13亿美元。Mike Repole披露买入100万股Churchill Downs，持股约1.43%，称肯塔基德比是重要资产（峰值电视观众2440万），并呼吁改善营销、引入新想法、加强问责，同时批评阻碍赛马运动发展的\"守旧派\"。法兴银行策略师Albert Edwards将AI投资热潮与1997年亚洲金融危机前的泡沫相类比，警告大规模资本开支可能掩盖生产率疲软，质疑AI能否兑现预期。",
-      "detail_en": "The 2026 Nobel Economics Prize was awarded to Robert Hall (Stanford professor) and Michael Woodford (Columbia professor) for the \"microeconomic foundations of macroeconomic stabilization.\" Committee chair John Hassler said their work provided a stable theoretical foundation for models used by central banks and governments worldwide, better equipping them to handle shocks such as energy crises or sudden changes in household consumption. Both earned their PhDs at MIT; the 12M Swedish kronor (~$1.2M) prize is shared equally. On individual stocks, Wells Fargo analyst Michael Turrin downgraded Adobe to Underweight from Overweight, citing competitive intensity in its core creative business \"increasing at an inopportune time\" after cracks appeared in Q3 earnings, while upgrading Tyler Technologies to Overweight from Equal-Weight, saying a \"majority\" of its 2025 bookings headwinds are \"transitory\" and 2027 \"presents room for reversion.\" IREN rose after The Information reported a multiyear cloud deal with Anthropic. IonQ is acquiring cybersecurity firm Elisity in an all-stock transaction worth up to $1.3B. Mike Repole disclosed buying 1M shares of Churchill Downs (~1.43% stake), calling the Kentucky Derby a major asset with a peak TV audience of 24.4M, and advocating for better marketing, new ideas, and more accountability while criticizing the \"Old Guard\" racing groups. SocGen strategist Albert Edwards drew parallels between the AI investment boom and the bubble preceding the 1997 Asian financial crisis, warning massive capex may mask weak productivity gains.",
-      "key_points": [
-        {
-          "zh": "Robert Hall与Michael Woodford获2026年诺贝尔经济学奖，表彰其在宏观经济稳定化微观基础方面的贡献。",
-          "en": "Robert Hall and Michael Woodford won the 2026 Nobel Economics Prize for the microeconomic foundations of macroeconomic stabilization."
-        },
-        {
-          "zh": "富国银行将Adobe下调至减持（核心创意业务竞争加剧，Q3已现裂痕），将Tyler Technologies上调至增持（2025年逆风被视为暂时性）。",
-          "en": "Wells Fargo downgraded Adobe to Underweight (rising competition in core creative, Q3 cracks) and upgraded Tyler Technologies to Overweight (2025 headwinds seen as transitory)."
-        },
-        {
-          "zh": "IREN与Anthropic达成多年云协议后股价上涨；IonQ以最高13亿美元全股票交易收购网络安全公司Elisity。",
-          "en": "IREN rose on a multiyear cloud deal with Anthropic; IonQ is acquiring cybersecurity firm Elisity in an all-stock deal worth up to $1.3B."
-        },
-        {
-          "zh": "Mike Repole买入约1.43%的Churchill Downs股份，称肯塔基德比是重要资产，呼吁改善营销与问责。",
-          "en": "Mike Repole acquired a ~1.43% stake in Churchill Downs, calling the Kentucky Derby a major asset and advocating for better marketing and accountability."
-        },
-        {
-          "zh": "法兴银行Albert Edwards警告AI投资热潮可能掩盖生产率疲软，并将其与1997年亚洲金融危机相类比。",
-          "en": "SocGen's Albert Edwards warned the AI investment boom may mask weak productivity, drawing parallels to the 1997 Asian financial crisis."
-        }
-      ],
-      "tags": [
-        "Nobel Prize",
-        "AI capex",
-        "analyst ratings",
-        "M&A",
-        "activist stake"
-      ],
-      "tickers": [
-        "ADBE",
-        "TYL",
-        "IREN",
-        "IONQ",
-        "CHDN",
-        "KO"
-      ],
       "sentiment": "neutral"
     }
   ]
