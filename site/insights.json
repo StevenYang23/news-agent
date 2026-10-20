@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-20T08:18:19.110199+00:00",
+  "generated_at": "2026-10-20T10:13:33.164418+00:00",
   "insights": [
+    {
+      "guid": "yt:XizzOIcYKHM",
+      "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks",
+      "title_zh": "亚洲芯片股回落，AI交易面临利率与估值考验",
+      "url": "https://www.youtube.com/watch?v=XizzOIcYKHM",
+      "published_at": "2026-10-20T08:53:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲股市未跟随美股芯片股反弹，韩国领跌，反映投资者对AI交易的借贷成本、竞争与长期回报存疑。经济学家指出，结构性高利率环境下，投资者需甄别AI受益者，并关注日本、中国等市场的分化机会。",
+      "summary_en": "Asian equities failed to mirror the U.S. chip rally, with South Korea leading losses, as investors question the AI trade's borrowing costs, competition and long-term returns. The economist argues that in a structurally higher-rate environment, investors must discriminate among AI beneficiaries, with opportunities in resilient markets like Japan and selective China exposure.",
+      "detail_zh": "美股标普500受科技和AI交易带动收涨，纳斯达克涨超1%，费城半导体指数结束八连跌并涨约1.6%。但亚洲市场未跟随，韩国领跌，一家韩国AI基础设施公司在上市首日表现惨淡，澳大利亚某高知名度公司被迫撤回悉尼上市，显示投资者对AI基础设施胃口转冷。经济学家表示，投资者相信AI长期趋势，但在结构性高利率环境下，必须考虑资金成本与投资回报，并甄别AI领域谁能更好应对高利率。布伦特原油接近110美元，10年期美债收益率约5.13%，能源价格高企与债券收益率上升令市场处于避险模式。经济学家认为油价在120美元将导致需求破坏，地缘风险已大量计入价格；日本因净储蓄者属性被视为具韧性市场，JGB收益率上升但吸引投资者；中国人民币可能温和升值，因拥有1.2万亿美元盈余，但股市因盈利疲弱承压。美元高利率已对新兴市场借款人形成挤压，但新兴市场内部存在分化，印度愿意捍卫卢比并加息应对资金外流。",
+      "detail_en": "U.S. equities rose led by tech and the AI trade, with the Nasdaq up over 1% and the Philadelphia Semiconductor Index snapping an eight-day losing streak to gain about 1.6%. Asia did not follow: South Korea led regional losses, a Korean AI infrastructure firm had a disastrous trading debut, and a high-profile Australian name had to pull its Sydney listing, signaling souring appetite for AI infrastructure. The economist said investors believe AI is here to stay but in a structurally higher-rate environment must consider the cost of funds and expected ROI, discriminating among AI players who can better cope with higher rates. Brent crude is near $110 and the 10-year Treasury yield around 5.13%, with sticky energy prices and rising yields keeping markets risk-off. The economist sees $120 oil leading to demand destruction, with much geopolitical risk already priced in; Japan is viewed as resilient given its net-saver status despite rising JGB yields; China's yuan may appreciate gradually given a $1.2 trillion surplus, though equities are pressured by weak earnings. Higher U.S. rates are already squeezing EM borrowers, but EM is not uniform, with India willing to defend the rupee and hike rates to counter outflows.",
+      "conclusion_zh": "AI交易进入分化阶段，高利率与能源价格构成压力，投资者应关注日本等韧性市场及AI领域内能更好应对高利率的标的。",
+      "conclusion_en": "The AI trade is entering a differentiation phase, with high rates and energy prices weighing; investors should focus on resilient markets like Japan and AI names better positioned to cope with higher rates.",
+      "key_points": [
+        {
+          "zh": "亚洲芯片股未跟随美股反弹，韩国领跌，AI基础设施投资胃口转冷。",
+          "en": "Asian chip stocks failed to follow the U.S. rally, with South Korea leading losses and appetite for AI infrastructure souring."
+        },
+        {
+          "zh": "经济学家：结构性高利率下，投资者需甄别AI受益者，考虑资金成本与回报。",
+          "en": "Economist: in a structurally higher-rate environment, investors must discriminate among AI beneficiaries, weighing funding costs and returns."
+        },
+        {
+          "zh": "布伦特原油近110美元，10年期美债收益率约5.13%，避险情绪主导。",
+          "en": "Brent near $110 and 10-year Treasury yield around 5.13% keep markets risk-off."
+        },
+        {
+          "zh": "日本被视为具韧性市场，中国人民币或温和升值但股市承压。",
+          "en": "Japan is seen as resilient; China's yuan may appreciate gradually but equities are under pressure."
+        },
+        {
+          "zh": "美元高利率已对新兴市场借款人形成挤压，但新兴市场内部存在分化。",
+          "en": "Higher U.S. rates are already squeezing EM borrowers, but EM is not uniform."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "Asia equities",
+        "bond yields",
+        "oil prices",
+        "EM stress"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:v7KHil3hfdA",
       "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation | Odd Lots",
@@ -9273,50 +9322,6 @@
         "AAPL",
         "NWG"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:pOP6ekzaCoc",
-      "title": "Robinhood & Lighter: Why Wall Street Is Moving Onchain",
-      "title_zh": "播客：链上市场会否成为全球交易默认方式？",
-      "url": "https://www.youtube.com/watch?v=pOP6ekzaCoc",
-      "published_at": "2026-10-13T10:00:27+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Blockworks 播客 Forward Guidance 在新加坡 DAS 现场，主持人 Felix 与 Robinhood 的 Johann Kerbrat 及 Lighter 的 Vlad Novakovski 讨论 TradFi 与加密的融合。议题涵盖 24/7 交易、永续合约为何优于差价合约（CFD）、pre-IPO 与商品永续合约、美国永续合约的 CFTC 路径，以及 Robinhood Chain 上线首 100 天的经验。",
-      "summary_en": "On the Forward Guidance podcast recorded live at DAS Singapore, host Felix speaks with Robinhood's Johann Kerbrat and Lighter's Vlad Novakovski about the convergence of TradFi and crypto. Topics include 24/7 trading, why perps beat CFDs, pre-IPO and commodity perps, the CFTC path for US perps, and lessons from Robinhood Chain's first 100 days.",
-      "detail_zh": "本期 Forward Guidance 播客在新加坡 DAS 现场录制，主持人 Felix 与 Robinhood 的 Johann Kerbrat 和 Lighter 的 Vlad Novakovski 对谈，主题是传统金融（TradFi）与加密的融合。节目围绕多个议题展开：金融为何正在向链上迁移、24/7 市场能否保持流动性、永续合约（perps）为何走向主流、如何把真实资产引入永续合约、美国能否把永续合约做对、如何连接传统金融与链上金融，以及 Robinhood Chain 上线首 100 天的经验教训。节目时间轴显示，讨论从“金融为何转向链上”开始，随后依次涉及 24/7 市场流动性、永续合约主流化、真实资产永续合约、美国永续合约的监管路径、传统与链上金融的连接，最后是 Robinhood Chain 的实践总结。节目声明：节目内容不构成买卖证券或代币的建议，仅为信息目的，所表达观点为意见而非财务建议，主持人与嘉宾可能持有相关公司、基金或项目的头寸。",
-      "detail_en": "This episode of Forward Guidance was recorded live at DAS Singapore, with host Felix joined by Robinhood's Johann Kerbrat and Lighter's Vlad Novakovski to discuss the convergence of TradFi and crypto. The conversation covers why finance is moving onchain, whether 24/7 markets can stay liquid, why perps are going mainstream, bringing real assets to perps, whether the US can get perps right, connecting traditional and onchain finance, and what Robinhood Chain has learned. The timestamps show the discussion begins with why finance is moving onchain, then moves through 24/7 market liquidity, the mainstreaming of perps, real-asset perps, the US regulatory path for perps, the connection between traditional and onchain finance, and finally lessons from Robinhood Chain. The show disclaimer states that nothing said is a recommendation to buy or sell securities or tokens, the podcast is for informational purposes only, views expressed are opinions not financial advice, and hosts and guests may hold positions in the companies, funds, or projects discussed.",
-      "key_points": [
-        {
-          "zh": "讨论聚焦 TradFi 与加密的融合，以及链上市场是否将成为全球交易的默认方式。",
-          "en": "The discussion focuses on the convergence of TradFi and crypto and whether onchain markets will become the default way the world trades."
-        },
-        {
-          "zh": "议题包括 24/7 交易及其流动性、永续合约为何优于 CFD 并走向主流。",
-          "en": "Topics include 24/7 trading and its liquidity, and why perps beat CFDs and are going mainstream."
-        },
-        {
-          "zh": "嘉宾探讨了 pre-IPO 与商品永续合约，以及美国永续合约的 CFTC 路径。",
-          "en": "Guests explore pre-IPO and commodity perps, as well as the CFTC path for US perps."
-        },
-        {
-          "zh": "Robinhood Chain 上线首 100 天的经验是节目最后的讨论主题。",
-          "en": "Lessons from Robinhood Chain's first 100 days are the final topic of the episode."
-        }
-      ],
-      "tags": [
-        "crypto",
-        "perps",
-        "TradFi",
-        "Robinhood",
-        "onchain"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
