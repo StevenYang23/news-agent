@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:13:33.858512+00:00",
+  "generated_at": "2026-10-20T19:09:28.871579+00:00",
   "insights": [
     {
       "guid": "yt:tqvhjNiTZuQ",
@@ -10637,40 +10637,6 @@
         "AMAT",
         "XLK"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:jLsXSorsFVI",
-      "title": "Why Robinhood Prefers Perps Over CFDs #shorts",
-      "title_zh": "Robinhood为何偏好永续合约而非差价合约",
-      "url": "https://www.youtube.com/watch?v=jLsXSorsFVI",
-      "published_at": "2026-10-13T18:17:30+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "该内容标题指出Robinhood在衍生品产品选择上更偏好永续合约（perps）而非差价合约（CFDs），但原文未提供具体理由或细节。",
-      "summary_en": "The content's title indicates that Robinhood prefers perpetual contracts (perps) over contracts for difference (CFDs), but no specific reasons or details are provided in the source.",
-      "detail_zh": "原文仅包含标题“Why Robinhood Prefers Perps Over CFDs #shorts”，未提供任何正文、数据、引述或论证。因此无法得知Robinhood偏好永续合约的具体原因、产品结构差异或对美股的影响。",
-      "detail_en": "The source consists solely of the title 'Why Robinhood Prefers Perps Over CFDs #shorts' with no body text, data, quotes, or arguments. Therefore, the specific reasons for Robinhood's preference, product structural differences, or implications for US equities cannot be determined.",
-      "key_points": [
-        {
-          "zh": "原文标题表明Robinhood更偏好永续合约而非差价合约。",
-          "en": "The title indicates Robinhood prefers perpetual contracts over CFDs."
-        },
-        {
-          "zh": "原文未提供任何具体理由或细节。",
-          "en": "No specific reasons or details are provided in the source."
-        }
-      ],
-      "tags": [
-        "Robinhood",
-        "perpetual contracts",
-        "CFDs",
-        "derivatives"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
