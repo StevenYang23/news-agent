@@ -1,6 +1,264 @@
 {
-  "generated_at": "2026-10-20T20:11:11.608216+00:00",
+  "generated_at": "2026-10-20T21:10:50.838187+00:00",
   "insights": [
+    {
+      "guid": "yt:0YSAHSvaj2s",
+      "title": "Citadel Securities Weighs Building Out Its Fixed-Income Business",
+      "title_zh": "Citadel Securities 考虑扩张固定收益业务以填补空白",
+      "url": "https://www.youtube.com/watch?v=0YSAHSvaj2s",
+      "published_at": "2026-10-20T20:47:37+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Citadel Securities 总裁 Jim Esposito 表示，公司固定收益业务“才真正开始”，未来几年将考虑扩张和增长，以填补产品供应中的空白，但不急于求成。",
+      "summary_en": "Citadel Securities President Jim Esposito said the firm is \"only really getting started in fixed income\" and will consider expanding and growing in the business over the next couple of years to fill gaps in its offering, though it is not in a hurry.",
+      "detail_zh": "Citadel Securities 总裁 Jim Esposito 在周二接受彭博电视采访时表示，公司固定收益业务“才真正开始”。他指出，未来几年公司将考虑在固定收益领域进行扩张和增长，以填补其产品供应中的一些空白。Esposito 强调公司“不急于求成”，但承认在该业务领域存在缺口。此番言论表明 Citadel Securities 可能寻求在固定收益市场扩大份额，但具体扩张计划、时间表或投资规模未在原文中披露。",
+      "detail_en": "Citadel Securities President Jim Esposito said in a Bloomberg Television interview on Tuesday that the firm is \"only really getting started in fixed income.\" He noted that over the next couple of years, the company will consider expanding and growing in fixed income to fill some gaps in its offering. Esposito emphasized that the firm is \"not in a hurry,\" but acknowledged there are gaps in that business. The remarks suggest Citadel Securities may seek to expand its share in the fixed income market, but specific expansion plans, timelines, or investment sizes were not disclosed in the original text.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Citadel Securities 总裁 Jim Esposito 表示，公司固定收益业务“才真正开始”。",
+          "en": "Citadel Securities President Jim Esposito said the firm is \"only really getting started in fixed income.\""
+        },
+        {
+          "zh": "未来几年公司将考虑在固定收益领域扩张和增长，以填补产品供应中的空白。",
+          "en": "Over the next couple of years, the company will consider expanding and growing in fixed income to fill gaps in its offering."
+        },
+        {
+          "zh": "Esposito 强调公司“不急于求成”，但承认该业务存在缺口。",
+          "en": "Esposito emphasized the firm is \"not in a hurry,\" but acknowledged there are gaps in the business."
+        }
+      ],
+      "tags": [
+        "fixed income",
+        "market maker",
+        "business expansion"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:IQxO83oAcdM",
+      "title": "SpaceX Earnings Blow Past Wall Street Estimates",
+      "title_zh": "SpaceX上市后第二份财报超预期，首次实现季度盈利",
+      "url": "https://www.youtube.com/watch?v=IQxO83oAcdM",
+      "published_at": "2026-10-20T20:42:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "SpaceX作为上市公司发布的第二份财报大幅超出华尔街预期，首次实现季度盈利44亿美元（每股35美分），超过预期一倍以上，同时资本开支接近200亿美元。股东Ross Gerber认为SpaceX现在应该收购特斯拉。",
+      "summary_en": "SpaceX's second earnings report as a public company blew past Wall Street expectations, posting its first quarterly profit of $4.4 billion, or 35 cents a share, more than double estimates, while spending nearly $20 billion on capex. Shareholder Ross Gerber says SpaceX should just buy Tesla now.",
+      "detail_zh": "SpaceX在作为上市公司的第二份财报中大幅超越华尔街预期。公司首次实现季度盈利，利润为44亿美元，合每股35美分，超过预期一倍以上。与此同时，公司资本开支接近200亿美元。Gerber Kawasaki Wealth and Investment Management的Ross Gerber是SpaceX的股东，他表示SpaceX现在应该直接收购特斯拉。",
+      "detail_en": "SpaceX blew past all Wall Street expectations in its second earnings report as a public company. The company posted its first quarterly profit of $4.4 billion, or 35 cents a share, more than double estimates, while spending nearly $20 billion on capex. Ross Gerber of Gerber Kawasaki Wealth and Investment Management, a shareholder, says SpaceX should just buy Tesla now.",
+      "conclusion_zh": "SpaceX上市后首次季度盈利且大幅超预期，显示其盈利能力与高额资本开支并存；股东关于收购特斯拉的言论值得关注。",
+      "conclusion_en": "SpaceX's first quarterly profit as a public company, well above estimates, shows profitability alongside heavy capex; the shareholder's call for SpaceX to buy Tesla is worth noting.",
+      "key_points": [
+        {
+          "zh": "SpaceX首次实现季度盈利44亿美元，合每股35美分，超过预期一倍以上",
+          "en": "SpaceX posted its first quarterly profit of $4.4 billion, or 35 cents a share, more than double estimates"
+        },
+        {
+          "zh": "公司同期资本开支接近200亿美元",
+          "en": "The company spent nearly $20 billion on capex in the same period"
+        },
+        {
+          "zh": "这是SpaceX作为上市公司的第二份财报，业绩大幅超出华尔街预期",
+          "en": "This was SpaceX's second earnings report as a public company, blowing past all Wall Street expectations"
+        },
+        {
+          "zh": "股东Ross Gerber表示SpaceX现在应该收购特斯拉",
+          "en": "Shareholder Ross Gerber says SpaceX should just buy Tesla now"
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "earnings",
+        "Tesla",
+        "capex"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:3MlgPZREVCw",
+      "title": "Nscale Anthropic in AI Computing Talks",
+      "title_zh": "Nscale洽谈向Anthropic出售算力，交易或达450亿美元",
+      "url": "https://www.youtube.com/watch?v=3MlgPZREVCw",
+      "published_at": "2026-10-20T20:32:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "AI云计算公司Nscale正与Anthropic洽谈出售算力，交易价值或约450亿美元。市场同时关注盘后科技财报，Netflix需爆款内容扭转1350亿美元市值蒸发，AI资本开支与回报成为焦点。",
+      "summary_en": "AI cloud computing firm Nscale is in talks to sell computing power to Anthropic in a deal potentially worth about $45 billion. Markets also await post-close tech earnings, with Netflix needing blockbuster hits to reverse a $135 billion wipeout, while AI capex and ROI remain in focus.",
+      "detail_zh": "据Bloomberg News科技记者Brody Ford报道，AI云计算公司Nscale正洽谈向Anthropic出售算力，交易价值或约450亿美元。Bloomberg News股票高级编辑Eric Weiner预览盘后科技财报，包括Netflix；美股记者Carmen Reinecke指出，这家媒体公司需要爆款内容来扭转1350亿美元的市值蒸发。节目还讨论了AI支出、收入与投资者预期，以及Salesforce交易与AI并购活动。市场在大型科技财报前上涨，投资者关注超大规模企业的AI资本开支与投资回报。此外，华盛顿记者Tyler Kendall分析了特朗普与乌克兰总统泽连斯基裂痕可能的地缘政治影响；节目还提及伊朗在霍尔木兹海峡升级攻击、Hegseth与内塔尼亚胡及以色列选举、特朗普中期选举最后冲刺，以及通用汽车、GE和孩之宝等个股走势。",
+      "detail_en": "Bloomberg News tech reporter Brody Ford reports that AI cloud computing firm Nscale is in talks to sell computing power to Anthropic in a deal potentially worth about $45 billion. Bloomberg News senior editor for equities Eric Weiner previews tech earnings expected after the close, including Netflix; US equities reporter Carmen Reinecke notes the media company needs blockbuster hits to reverse its $135 billion wipeout. The program also discusses AI spending, revenue and investor expectations, as well as the Salesforce deal and AI dealmaking. Stocks rose ahead of big tech earnings, with investors focused on hyperscaler AI capex and ROI. Additionally, Washington correspondent Tyler Kendall examines the possible geopolitical fallout of President Trump's rift with Ukrainian President Zelenskyy; the program also mentions Iran escalating attacks in the Strait of Hormuz, Hegseth, Netanyahu and Israel's election, Trump's final midterm push, and stock movers including GM, GE and Hasbro.",
+      "conclusion_zh": "AI算力交易与科技财报是短期美股关键催化剂，投资者需关注AI资本开支的回报验证及地缘政治风险。",
+      "conclusion_en": "AI compute deals and tech earnings are key near-term catalysts for US equities; investors should watch for ROI validation on AI capex and geopolitical risks.",
+      "key_points": [
+        {
+          "zh": "Nscale正洽谈向Anthropic出售算力，交易价值或约450亿美元。",
+          "en": "Nscale is in talks to sell computing power to Anthropic in a deal potentially worth about $45 billion."
+        },
+        {
+          "zh": "Netflix盘后发布财报，需爆款内容扭转1350亿美元市值蒸发。",
+          "en": "Netflix reports after the close and needs blockbuster hits to reverse a $135 billion wipeout."
+        },
+        {
+          "zh": "市场关注大型科技财报及超大规模企业的AI资本开支与回报。",
+          "en": "Markets await big tech earnings and hyperscaler AI capex and ROI."
+        },
+        {
+          "zh": "特朗普与泽连斯基裂痕引发地缘政治影响关注。",
+          "en": "Trump's rift with Zelenskyy raises geopolitical fallout concerns."
+        }
+      ],
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Netflix",
+        "earnings",
+        "geopolitics"
+      ],
+      "tickers": [
+        "NFLX",
+        "CRM",
+        "GM",
+        "GE",
+        "HAS"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:k07xFXXW1Cs",
+      "title": "The Takeaways From Netflix's Earnings Report and Forecast",
+      "title_zh": "奈飞三季度业绩超预期，但预警销售增速连续第四季放缓",
+      "url": "https://www.youtube.com/watch?v=k07xFXXW1Cs",
+      "published_at": "2026-10-20T20:28:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "奈飞第三季度盈利超出华尔街预期，但公司预测销售增速将连续第四个季度放缓。",
+      "summary_en": "Netflix reported third-quarter earnings that exceeded Wall Street expectations, but forecast a fourth consecutive quarter of slowing sales growth.",
+      "detail_zh": "奈飞公布的第三季度财报显示，其盈利表现超出华尔街预期。然而，公司同时预测，其销售增速将连续第四个季度放缓。该信息由Geetha Ranganathan在“Bloomberg The Close”节目中提供。",
+      "detail_en": "Netflix reported third-quarter earnings that exceeded Wall Street expectations. However, the company forecast a fourth consecutive quarter of slowing sales growth. The information was provided by Geetha Ranganathan on \"Bloomberg The Close.\"",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "奈飞三季度盈利超出华尔街预期。",
+          "en": "Netflix's Q3 earnings exceeded Wall Street expectations."
+        },
+        {
+          "zh": "公司预测销售增速将连续第四个季度放缓。",
+          "en": "The company forecast a fourth consecutive quarter of slowing sales growth."
+        }
+      ],
+      "tags": [
+        "Netflix",
+        "earnings",
+        "sales growth"
+      ],
+      "tickers": [
+        "NFLX"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:MwNZJ3T5hAI",
+      "title": "Business As Usual After Liquid Hack: Back",
+      "title_zh": "Blockstream旗下Liquid Network遭3.2亿美元黑客攻击，约4000枚比特币被盗后部分归还",
+      "url": "https://www.youtube.com/watch?v=MwNZJ3T5hAI",
+      "published_at": "2026-10-20T20:23:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Blockstream联合创始人兼CEO Adam Back在彭博加密节目中披露，其2018年推出的比特币关联区块链Liquid Network遭遇3.2亿美元黑客攻击，约4000枚比特币被盗。黑客自称是揭露网络漏洞的“白帽”，事后归还了部分比特币。",
+      "summary_en": "Adam Back, co-founder and CEO of Blockstream, disclosed on Bloomberg Crypto that the Liquid Network, a Bitcoin-linked blockchain launched by Blockstream in 2018, suffered a $320 million hack that drained about 4,000 Bitcoin. The hackers, who claimed to be white hats exposing security flaws, later returned some of the Bitcoin.",
+      "detail_zh": "Blockstream联合创始人兼CEO Adam Back做客彭博加密节目，谈及公司旗下比特币关联区块链Liquid Network的安全事件。该网络由Blockstream于2018年推出，此次遭遇规模达3.2亿美元的黑客攻击，约4000枚比特币被转移。攻击者自称是“白帽”，目的是揭露该网络的安全漏洞。事后，黑客归还了部分被盗比特币。原文未披露攻击的具体时间、归还比例及后续处置细节。",
+      "detail_en": "Adam Back, co-founder and CEO of Blockstream, appeared on Bloomberg Crypto to discuss a security incident involving the company's Bitcoin-linked blockchain, the Liquid Network. Launched by Blockstream in 2018, the network was hit by a $320 million hack that drained about 4,000 Bitcoin. The attackers claimed to be \"white hats\" exposing security flaws in the network. Some of the Bitcoin was later returned. The original text does not specify the timing of the attack, the proportion returned, or subsequent remediation details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Liquid Network遭遇3.2亿美元黑客攻击，约4000枚比特币被盗。",
+          "en": "The Liquid Network suffered a $320 million hack, with about 4,000 Bitcoin drained."
+        },
+        {
+          "zh": "黑客自称“白帽”，声称目的是揭露网络安全漏洞。",
+          "en": "The hackers claimed to be \"white hats\" aiming to expose security flaws in the network."
+        },
+        {
+          "zh": "事后黑客归还了部分被盗比特币。",
+          "en": "The hackers later returned some of the stolen Bitcoin."
+        },
+        {
+          "zh": "Liquid Network是Blockstream于2018年推出的比特币关联区块链。",
+          "en": "The Liquid Network is a Bitcoin-linked blockchain started by Blockstream in 2018."
+        }
+      ],
+      "tags": [
+        "bitcoin",
+        "blockchain",
+        "hack",
+        "Liquid Network",
+        "Blockstream"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6OnuO6Y5OQY",
+      "title": "Anthropic S1 Shows $80 Billion Loss This Year, WSJ Reports",
+      "title_zh": "Anthropic据报拟投入7500亿美元算力支出，上半年亏损807亿美元",
+      "url": "https://www.youtube.com/watch?v=6OnuO6Y5OQY",
+      "published_at": "2026-10-20T20:18:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据《华尔街日报》报道，Anthropic PBC未来数年可能额外投入7500亿美元用于算力，且今年上半年亏损807亿美元。该媒体称已获得公司筹备上市过程中的S1文件副本。",
+      "summary_en": "Anthropic PBC could spend $750 billion on additional computing power in the coming years and lost $80.7 billion in the first half of this year, according to the Wall Street Journal, which says it obtained a copy of the company's S1 filing as it prepares to go public.",
+      "detail_zh": "据《华尔街日报》报道，Anthropic PBC未来数年可能在额外算力上投入7500亿美元。同一报道称，该公司今年上半年亏损807亿美元。该媒体表示，其获得了公司S1文件的副本，公司正筹备上市。上述信息由Bloomberg Television的Romaine Bostick和Jess Menton转述。原文未披露更多财务细节、上市时间表或亏损构成。",
+      "detail_en": "According to the Wall Street Journal, Anthropic PBC could spend $750 billion on additional computing power in the coming years. The same report says the company lost $80.7 billion in the first half of this year. The outlet says it obtained a copy of the company's S1 filing as it prepares to go public. The information was relayed by Romaine Bostick and Jess Menton on Bloomberg Television. The original text does not disclose further financial details, a listing timetable, or the composition of the loss.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "据《华尔街日报》报道，Anthropic未来数年可能额外投入7500亿美元用于算力。",
+          "en": "According to the Wall Street Journal, Anthropic could spend $750 billion on additional computing power in the coming years."
+        },
+        {
+          "zh": "报道称该公司今年上半年亏损807亿美元。",
+          "en": "The report says the company lost $80.7 billion in the first half of this year."
+        },
+        {
+          "zh": "《华尔街日报》称已获得公司筹备上市过程中的S1文件副本。",
+          "en": "The Wall Street Journal says it obtained a copy of the company's S1 filing as it prepares to go public."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI capex",
+        "S1 filing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "6ad7c15a70af2b1aa78a5c69",
       "title": "UK bets on a boring budget",
@@ -10757,50 +11015,6 @@
         "duration hedging",
         "US Treasuries",
         "relative value"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:11PZRoJo48k",
-      "title": "Asia Fixed Income Needs a Bigger Map",
-      "title_zh": "亚洲信贷策略主管：投资者应从更广泛的亚洲固收市场中受益",
-      "url": "https://www.youtube.com/watch?v=11PZRoJo48k",
-      "published_at": "2026-10-13T21:03:44+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "亚洲信贷策略主管Kelvin Pang指出，投资者可通过覆盖更多国家、本币信贷及美元计价债券的更广泛亚洲固定收益市场获益。原文未提供具体数据或个券细节。",
-      "summary_en": "Head of Asia Credit Strategy Kelvin Pang explains that investors would benefit from a broader Asian fixed income market, with opportunities across more countries, local-currency credit and dollar-denominated bonds. No specific data or issuer details are provided.",
-      "detail_zh": "亚洲信贷策略主管Kelvin Pang表示，投资者将从更广泛的亚洲固定收益市场中受益。该市场提供的机会覆盖更多国家、本币信贷以及美元计价债券。原文未披露具体国家名单、收益率水平、久期建议或个券名称，也未给出对美股的影响判断。",
-      "detail_en": "Kelvin Pang, Head of Asia Credit Strategy, explains why investors would benefit from a broader fixed income market in Asia. Opportunities span more countries, local-currency credit and dollar-denominated bonds. The source does not provide specific country lists, yield levels, duration recommendations, issuer names, or any assessment of impact on US equities.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "更广泛的亚洲固收市场覆盖更多国家",
-          "en": "A broader Asian fixed income market spans more countries"
-        },
-        {
-          "zh": "机会包括本币信贷",
-          "en": "Opportunities include local-currency credit"
-        },
-        {
-          "zh": "机会包括美元计价债券",
-          "en": "Opportunities include dollar-denominated bonds"
-        },
-        {
-          "zh": "投资者可从更广泛的市场中受益",
-          "en": "Investors would benefit from the broader market"
-        }
-      ],
-      "tags": [
-        "Asia credit",
-        "fixed income",
-        "local currency",
-        "dollar bonds"
       ],
       "tickers": [],
       "sentiment": "neutral"
