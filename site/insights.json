@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-10-20T16:12:49.161354+00:00",
+  "generated_at": "2026-10-20T17:12:38.732284+00:00",
   "insights": [
+    {
+      "guid": "yt:g3AfNICarCI",
+      "title": "Hard Lessons | Dan Ivascyn",
+      "title_zh": "PIMCO首席投资官：地缘政治与贸易政策重塑风险认知",
+      "url": "https://www.youtube.com/watch?v=g3AfNICarCI",
+      "published_at": "2026-10-20T16:33:01+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "摩根士丹利联席总裁Dan Simkowitz与PIMCO集团首席投资官Dan Ivascyn对话，讨论地缘政治与贸易政策为何正在重塑投资者对风险的思考方式。",
+      "summary_en": "Morgan Stanley Co-President Dan Simkowitz speaks with PIMCO Group CIO Dan Ivascyn about why geopolitics and trade policy are reshaping how investors think about risk.",
+      "detail_zh": "在摩根士丹利“Hard Lessons”节目中，联席总裁Dan Simkowitz与PIMCO集团首席投资官Dan Ivascyn展开对话。讨论的核心是地缘政治与贸易政策正在如何改变投资者对风险的认知框架。原文未披露具体的投资观点、资产配置建议或市场数据，仅提示可观看完整节目以了解更多内容。",
+      "detail_en": "In Morgan Stanley's 'Hard Lessons' episode, Co-President Dan Simkowitz speaks with Dan Ivascyn, Group CIO at PIMCO. The discussion centers on how geopolitics and trade policy are reshaping the way investors think about risk. The source does not disclose specific investment views, asset allocation recommendations, or market data, and only invites viewers to watch the full episode for more.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "摩根士丹利联席总裁Dan Simkowitz与PIMCO集团首席投资官Dan Ivascyn进行对话。",
+          "en": "Morgan Stanley Co-President Dan Simkowitz speaks with PIMCO Group CIO Dan Ivascyn."
+        },
+        {
+          "zh": "讨论主题为地缘政治与贸易政策如何重塑投资者的风险认知。",
+          "en": "The discussion focuses on how geopolitics and trade policy are reshaping investors' risk perception."
+        },
+        {
+          "zh": "原文未提供具体投资观点或市场数据，仅提示观看完整节目。",
+          "en": "The source provides no specific investment views or market data, only an invitation to watch the full episode."
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "trade policy",
+        "risk perception",
+        "PIMCO",
+        "Morgan Stanley"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:zCqi2_zQmsQ",
+      "title": "Hard Lessons: Dan Ivascyn: Conviction Needs Capital",
+      "title_zh": "PIMCO首席投资官Ivascyn反思金融危机：早期低配MBS时机错误但方向正确",
+      "url": "https://www.youtube.com/watch?v=zCqi2_zQmsQ",
+      "published_at": "2026-10-20T16:21:54+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "在摩根士丹利《Hard Lessons》播客中，PIMCO集团首席投资官Dan Ivascyn回顾了全球金融危机期间的经历，坦言早期低配抵押贷款支持证券（MBS）是“正确判断但错误时机”，并最终通过在市场复苏时承担风险而受益。",
+      "summary_en": "In Morgan Stanley's Hard Lessons podcast, PIMCO Group CIO Dan Ivascyn reflected on his experiences during the global financial crisis, noting that an early underweight on mortgage-backed securities was the right call at the wrong time, and that he ultimately benefited from taking on risk as markets recovered.",
+      "detail_zh": "摩根士丹利《Hard Lessons》播客邀请PIMCO集团首席投资官Dan Ivascyn与摩根士丹利联席总裁Dan Simkowitz对话，深入探讨Ivascyn在全球金融危机期间的经历。Ivascyn分享道，早期对抵押贷款支持证券（MBS）的低配是“正确判断但错误时机”的决策。他最终通过在市场复苏时承担风险而获益。",
+      "detail_en": "In Morgan Stanley's Hard Lessons podcast, PIMCO Group Chief Investment Officer Dan Ivascyn joined Morgan Stanley Co-President Dan Simkowitz for a deep dive on his experiences during the global financial crisis. Ivascyn shared that an early underweight on mortgage-backed securities was the right call at the wrong time, and that he ultimately benefited from taking on risk as markets recovered.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "PIMCO的Ivascyn表示，早期低配MBS是正确判断但时机错误。",
+          "en": "PIMCO's Ivascyn said an early underweight on MBS was the right call at the wrong time."
+        },
+        {
+          "zh": "他最终通过在市场复苏时承担风险而受益。",
+          "en": "He ultimately benefited from taking on risk as markets recovered."
+        },
+        {
+          "zh": "对话由摩根士丹利联席总裁Dan Simkowitz主持。",
+          "en": "The conversation was hosted by Morgan Stanley Co-President Dan Simkowitz."
+        }
+      ],
+      "tags": [
+        "PIMCO",
+        "financial crisis",
+        "MBS",
+        "risk taking"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4955565",
       "title": "Wall Street Lunch: UAL CEO Says Private Jet Crowd Should Pay More Tax",
