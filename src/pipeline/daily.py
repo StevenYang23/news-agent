@@ -108,10 +108,12 @@ def _youtube_content(source: dict, item: dict) -> str | None:
             return desc
         raise RuntimeError("no description for youtube video")
 
-    # Duration-gated sources (e.g. Bloomberg TV): skip transcript for short clips.
+    # Duration-gated sources (e.g. Bloomberg TV): transcribe only videos we've
+    # confirmed are long enough. Short clips (and unknown durations) use the
+    # description — no transcript credit is spent.
     if source.get("duration_gate"):
         dur = youtube.get_duration(item["video_id"])
-        if dur is not None and dur < config.MIN_TRANSCRIPT_DURATION:
+        if dur is None or dur < config.MIN_TRANSCRIPT_DURATION:
             if len(desc) > 40:
                 return desc
             raise RuntimeError("no description for short clip")
@@ -128,9 +130,9 @@ def _youtube_content(source: dict, item: dict) -> str | None:
                 return desc
             raise e
     else:
-        # Over budget: only fetch transcripts for long videos (> MIN_TRANSCRIPT_DURATION).
+        # Over budget: conserve credits — only transcribe confirmed-long videos.
         dur = youtube.get_duration(item["video_id"])
-        if dur is None or dur >= config.MIN_TRANSCRIPT_DURATION:
+        if dur is not None and dur >= config.MIN_TRANSCRIPT_DURATION:
             time.sleep(2)
             try:
                 return youtube.get_captions(item["video_id"])
