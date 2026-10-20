@@ -1,7 +1,7 @@
 {
   "settings": {
     "lookback_days": 7,
-    "us_equity_only": true,
+    "us_equity_only": false,
     "max_items_per_source": 10
   },
   "sources": [
