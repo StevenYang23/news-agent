@@ -1,6 +1,151 @@
 {
-  "generated_at": "2026-10-20T07:20:06.678659+00:00",
+  "generated_at": "2026-10-20T08:18:19.110199+00:00",
   "insights": [
+    {
+      "guid": "yt:v7KHil3hfdA",
+      "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation | Odd Lots",
+      "title_zh": "CME CEO Terry Duffy 谈监管演变与预测市场争议",
+      "url": "https://www.youtube.com/watch?v=v7KHil3hfdA",
+      "published_at": "2026-10-20T08:05:26+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "volatility",
+        "other"
+      ],
+      "summary_zh": "CME Group 首席执行官 Terry Duffy 在 Odd Lots 播客中回顾了 CFTC 监管从农业期货原则性监管到金融期货、加密货币的演变，并批评当前预测市场合约（如 Nathan's 热狗竞食、George Santos 出席国情咨文）易受操纵且缺乏经济价值。他指出自第二届特朗普政府以来，CFTC 收到的 2,500 份自我认证合约无一被拒，并警告机构规则易被下一届政府推翻，强调可持续监管需平衡且能抵御政府更迭。",
+      "summary_en": "CME Group CEO Terry Duffy, on the Odd Lots podcast, traced the CFTC's evolution from principles-based oversight of agricultural futures to financial futures and crypto, and criticized prediction market contracts (e.g., Nathan's Hot Dog Eating Contest, George Santos attending the State of the Union) as manipulation-prone and lacking economic value. He noted that since the second Trump administration, none of the 2,500 self-certified contracts submitted to the CFTC have been denied, and warned that agency rules can be easily reversed by the next administration, stressing that sustainable regulation must be balanced and withstand political transitions.",
+      "detail_zh": "Terry Duffy 在 CME 工作 46 年，自 2002 年 CME 上市以来担任董事长，即将转任执行董事长，由 Len Fitzpatrick 接任 CEO，他强调平稳过渡的重要性。他回顾 CFTC 最初是 1972-1973 年间成立的、针对农产品的基本原则性监管机构，此后金融期货、股指、加密货币等创新不断涌现，2008 年金融危机后 Dodd-Frank 带来又一轮变革，但 16 年后部分内容仍在厘清。Duffy 批评当前监管环境存在“准备、开火”式随意性，指出自第二届特朗普政府以来 CFTC 收到 2,500 份自我认证合约，无一被拒；他以 Nathan's 热狗竞食、George Santos 是否出席国情咨文等预测合约为例，质疑其经济影响及是否违反 Core Principle Three（易受操纵）。对于“内幕信息有信息价值”的辩护，Duffy 表示难以认同，认为这损害了普通参与者公平获取信息的原则，并类比总统通过 Truth Social 付费提前发布信息有失公平。他强调监管极其重要，但当前机构规则易被下一届政府一笔勾销，不可持续，好的监管应能抵御任何政府更迭。",
+      "detail_en": "Terry Duffy has been at CME for 46 years, serving as chairman since CME went public in 2002, and is transitioning to executive chairman with Len Fitzpatrick taking over as CEO; he stressed the importance of a smooth transition. He recalled that the CFTC was initially a principles-based oversight agency for agricultural products established around 1972-1973, followed by innovations in financial futures, equity indexes, and crypto, and then another round of change via Dodd-Frank after the 2008 financial crisis—parts of which are still being figured out 16 years later. Duffy criticized the current regulatory environment as a \"ready, fire\" approach, noting that since the second Trump administration, 2,500 self-certified contracts have been submitted to the CFTC and none denied; he cited prediction contracts on the Nathan's Hot Dog Eating Contest and whether George Santos would attend the State of the Union, questioning their economic impact and whether they violate Core Principle Three (readily susceptible to manipulation). To the defense that insider information has informational value, Duffy said he has a hard time believing that, arguing it undermines fair simultaneous information access for average participants, and likened it to the President charging on Truth Social to release information faster. He stressed regulation is extremely important, but current agency rules can be easily wiped away by the next administration and are not sustainable; good regulation should withstand any administration.",
+      "conclusion_zh": "Duffy 的批评凸显预测市场快速扩张与监管缺位之间的张力，投资者需关注 CFTC 自我认证流程的宽松化对市场诚信及衍生品监管框架的潜在影响。",
+      "conclusion_en": "Duffy's criticism highlights the tension between the rapid expansion of prediction markets and regulatory gaps; investors should watch how looser CFTC self-certification affects market integrity and the derivatives regulatory framework.",
+      "key_points": [
+        {
+          "zh": "自第二届特朗普政府以来，CFTC 收到 2,500 份自我认证合约，无一被拒。",
+          "en": "Since the second Trump administration, 2,500 self-certified contracts have been submitted to the CFTC, none denied."
+        },
+        {
+          "zh": "Duffy 质疑预测市场合约（如 Nathan's 热狗竞食、George Santos 出席国情咨文）的经济价值及是否易受操纵。",
+          "en": "Duffy questioned the economic value and manipulation susceptibility of prediction market contracts like Nathan's Hot Dog Eating Contest and George Santos attending the State of the Union."
+        },
+        {
+          "zh": "他认为内幕信息不应被美化为有信息价值，公平的信息获取是市场信心的基础。",
+          "en": "He argued insider information should not be glorified as having informational value; fair information access is foundational to market confidence."
+        },
+        {
+          "zh": "警告机构规则易被下一届政府推翻，可持续监管需能抵御政府更迭。",
+          "en": "Warned that agency rules can be easily reversed by the next administration; sustainable regulation must withstand political transitions."
+        }
+      ],
+      "tags": [
+        "CFTC",
+        "prediction markets",
+        "regulation",
+        "CME",
+        "Dodd-Frank"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:qUIFxEJdMQs",
+      "title": "Why Japan Bond Sale Drew Record Demand: Market Analysis",
+      "title_zh": "亚洲市场：数据中心IPO首日暴跌33%，日债拍卖需求强劲",
+      "url": "https://www.youtube.com/watch?v=qUIFxEJdMQs",
+      "published_at": "2026-10-20T07:42:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲市场开盘受数据中心相关公司Alice IPO首日暴跌33%拖累，加剧了市场对科技类公司融资的负面情绪。日本20年期国债拍卖需求强劲，投标倍数创高，或预示日本机构资金回流日债，可能对欧债和欧元形成压力。",
+      "summary_en": "Asian markets opened under pressure as data-center-related IPO Alice plunged 33% on its debut, deepening negative sentiment around tech fundraising. A strong 20-year JGB auction with the highest bid-to-cover ratio signals Japanese institutional demand returning to JGBs, potentially pressuring European government bonds and the euro.",
+      "detail_zh": "亚洲市场开盘受到数据中心相关新云运营商Alice的拖累，该股在IPO首日暴跌33%，较发行价最大跌幅显著。一家曾积极参与认购的韩国公司可能因此承压。这加剧了近期市场对类似公司融资的负面情绪，并提及澳大利亚相关公司、AirTrunk IPO延迟以及欧洲市场对Scale的抵触。受此影响，亚洲市场在上一交易日上涨后出现下跌。日本20年期国债拍卖需求强劲，投标倍数创高，表明日债需求回升。拍卖中“未知”类别投标者（排除银行）指向投资基金、保险或养老基金的存在，显示超出常态的需求。有观点认为，这可能意味着日本机构资金在财年下半年回流日债，进而可能减少对美债的需求、推高日元。不过，更明显的表现可能是对欧洲政府债券和欧元的压力，尤其是法国市场近期承压且被日本投资基金大量持有；过去一个月欧元对亚洲货币全线下跌，或反映资金回流亚洲。",
+      "detail_en": "Asian markets opened lower, hit by a 33% plunge in data-center-related new cloud operator Alice on its IPO debut, marking a steep drop from its offering price. A South Korean company that had bid aggressively for the shares may be left holding the bag. This adds to negative sentiment around recent fundraising by similar companies, with references to Australian firms, the delayed AirTrunk IPO, and pushback around Scale in Europe. Consequently, Asian markets fell after gains in the previous session. A strong 20-year JGB auction saw the highest bid-to-cover ratio, indicating renewed demand for Japanese government bonds. The 'unknown' bidder category (excluding banks) points to investment funds, likely insurance or pension funds, snapping up the debt, suggesting above-normal demand. Some suggest this could signal Japanese institutions moving money back into JGBs in the second half of the financial year, potentially reducing demand for Treasuries and boosting the yen. However, the pressure may be more evident in European government bonds and the euro, especially with the French market under pressure and heavily owned by Japanese investment funds; the euro has fallen against all Asian currencies over the past month, possibly reflecting flows back to Asia.",
+      "conclusion_zh": "关注日本机构资金回流日债的迹象，及其对欧债和欧元的潜在压力，科技类IPO的疲软情绪也值得留意。",
+      "conclusion_en": "Watch for signs of Japanese institutional money returning to JGBs and its potential pressure on European bonds and the euro, while weak sentiment in tech IPOs also warrants attention.",
+      "key_points": [
+        {
+          "zh": "数据中心相关公司Alice IPO首日暴跌33%，拖累亚洲市场情绪。",
+          "en": "Data-center-related IPO Alice plunged 33% on debut, weighing on Asian market sentiment."
+        },
+        {
+          "zh": "日本20年期国债拍卖投标倍数创高，显示强劲需求。",
+          "en": "20-year JGB auction saw the highest bid-to-cover ratio, indicating strong demand."
+        },
+        {
+          "zh": "拍卖中“未知”类别投标者指向投资基金、保险或养老基金。",
+          "en": "The 'unknown' bidder category points to investment funds, insurance, or pension funds."
+        },
+        {
+          "zh": "日本机构资金回流日债可能减少对美债需求，但更明显压力或在欧债和欧元。",
+          "en": "Japanese institutional flows back to JGBs could reduce Treasury demand, but pressure may be more evident in European bonds and the euro."
+        },
+        {
+          "zh": "过去一个月欧元对亚洲货币全线下跌，或反映资金回流亚洲。",
+          "en": "The euro has fallen against all Asian currencies over the past month, possibly reflecting flows back to Asia."
+        }
+      ],
+      "tags": [
+        "JGB auction",
+        "IPO",
+        "data center",
+        "capital flows",
+        "euro"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:baa9mhj5_0A",
+      "title": "GCash Parent Mynt Debuts After Record Philippine IPO",
+      "title_zh": "亚洲股市逆华尔街芯片反弹下跌，AI交易面临现实检验",
+      "url": "https://www.youtube.com/watch?v=baa9mhj5_0A",
+      "published_at": "2026-10-20T07:33:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "尽管华尔街芯片股反弹，亚洲股市仍延续跌势，投资者对AI交易保持谨慎。韩国KOSPI领跌，数据中心基础设施公司LS上市首日暴跌33%。菲律宾金融科技公司Mynt（GCash母公司）逆势IPO募资约8.4亿美元，成为菲律宾史上最大IPO。",
+      "summary_en": "Asian stocks extended losses despite Wall Street's chip rebound, with investors wary of the AI trade. South Korea led declines, and data center infrastructure company LS plunged as much as 33% on its debut. Philippine fintech Mynt (GCash parent) defied the trend, raising about $840 million in the Philippines' largest-ever IPO.",
+      "detail_zh": "亚洲股市与华尔街芯片股的反弹走势背离，延续跌势，投资者对AI交易保持警惕。韩国市场领跌，数据中心基础设施公司LS在上市首日暴跌近30%至33%，凸显市场对AI相关借贷成本、激烈竞争及长期回报的担忧。印尼股市在经历1989年以来最糟糕的两日暴跌后出现反弹，此前交易所表示将把股权集中的公司从基准指数中剔除，以规避MSCI可能的市场地位下调。菲律宾金融科技公司Mynt（GCash母公司）上市首日上涨约1.5%，IPO募资约8.4亿美元，成为菲律宾史上最大IPO，吸引了包括贝莱德和MUFG在内的基石投资者。Mynt总裁兼CEO Martha Sazon表示，募集资金将用于进一步渗透菲律宾尚未覆盖的50%成年人群体，拓展借贷、储蓄、投资和保险等用例，并探索国际菲律宾劳工市场及B2B领域。她提到，公司上半年计提了近80亿比索的私人贷款损失拨备，但认为当前拨备充足，且借款人质量良好。此外，中国央行可能用隔夜逆回购利率替代7天政策基准利率，部分经济学家认为这实际上相当于降息。",
+      "detail_en": "Asian stocks diverged from Wall Street's chip rebound and extended losses, with investors wary of the AI trade. South Korea led the declines, and data center infrastructure company LS plunged nearly 30% to 33% on its trading debut, highlighting concerns over AI-related borrowing costs, intense competition, and long-term returns. Indonesian stocks bounced after their worst two-day rout since 1989, after the exchange said it would remove companies with concentrated ownership from its benchmark index to avert a potential MSCI market status downgrade. Philippine fintech Mynt (GCash parent) rose about 1.5% on its debut, raising about $840 million in the Philippines' largest-ever IPO, attracting cornerstone investors including BlackRock and MUFG. Mynt President and CEO Martha Sazon said proceeds will be used to further penetrate the next 50% of Filipino adults, expand use cases in lending, savings, investment, and insurance, and explore international Filipino worker markets and the B2B segment. She noted the company set aside nearly 8 billion pesos in private loan loss provisions in the first half, but believes current provisions are sufficient and borrower quality is good. Additionally, China's central bank may replace its seven-day policy benchmark with an overnight reverse repo rate, a move some economists say could effectively amount to a rate cut.",
+      "conclusion_zh": "亚洲市场对AI交易的谨慎情绪与华尔街形成反差，AI相关高估值和借贷成本压力值得关注；菲律宾金融科技IPO显示新兴市场结构性机会仍存。",
+      "conclusion_en": "Caution over the AI trade in Asia contrasts with Wall Street, warranting attention to AI-related valuation and borrowing cost pressures; the Philippine fintech IPO shows structural opportunities remain in emerging markets.",
+      "key_points": [
+        {
+          "zh": "亚洲股市与华尔街芯片反弹背离，韩国领跌，AI交易情绪脆弱。",
+          "en": "Asian stocks diverged from Wall Street's chip rebound, with South Korea leading losses and AI trade sentiment fragile."
+        },
+        {
+          "zh": "韩国数据中心公司LS上市首日暴跌33%，反映投资者对AI相关借贷成本和竞争加剧的担忧。",
+          "en": "South Korean data center company LS plunged 33% on its debut, reflecting investor concerns over AI-related borrowing costs and intensifying competition."
+        },
+        {
+          "zh": "菲律宾Mynt（GCash母公司）IPO募资约8.4亿美元，成为菲律宾史上最大IPO，首日上涨约1.5%。",
+          "en": "Philippine Mynt (GCash parent) raised about $840 million in the Philippines' largest-ever IPO and rose about 1.5% on its debut."
+        },
+        {
+          "zh": "印尼交易所将剔除股权集中的公司以规避MSCI降级，股市在历史性暴跌后反弹。",
+          "en": "Indonesia's exchange will remove companies with concentrated ownership to avert an MSCI downgrade, and stocks bounced after a historic rout."
+        },
+        {
+          "zh": "中国央行可能用隔夜逆回购利率替代7天基准，部分经济学家认为相当于降息。",
+          "en": "China's central bank may replace its 7-day benchmark with an overnight reverse repo rate, which some economists see as effectively a rate cut."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "Asia stocks",
+        "IPO",
+        "fintech",
+        "MSCI"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:0lRmQctFz1Q",
       "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
