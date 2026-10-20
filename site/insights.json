@@ -1,6 +1,91 @@
 {
-  "generated_at": "2026-10-20T15:24:58.593506+00:00",
+  "generated_at": "2026-10-20T15:28:21.514066+00:00",
   "insights": [
+    {
+      "guid": "yt:U_y1PHBTM2I",
+      "title": "Europe Needs to Help End Ukraine War, Draghi Says",
+      "title_zh": "德拉吉：欧洲须在结束俄乌战争中发挥重要作用",
+      "url": "https://www.youtube.com/watch?v=U_y1PHBTM2I",
+      "published_at": "2026-10-20T15:02:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前欧洲央行行长、前意大利总理德拉吉表示，欧洲必须在结束俄乌战争中扮演重要角色，并指出乌克兰局势将定义美欧关系。",
+      "summary_en": "Former ECB President and former Italian Prime Minister Mario Draghi said Europe must play a large role in ending the war between Russia and Ukraine, and that what happens in Ukraine will define the relationship between the US and Europe.",
+      "detail_zh": "德拉吉在纽约Citadel Securities会议上对彭博的Lisa Abramowicz表示，欧洲必须在结束俄乌战争中发挥重要作用。他明确指出，乌克兰局势的发展将定义美国与欧洲之间的关系。此番言论将欧洲在结束战争中的角色与跨大西洋关系的未来直接挂钩。",
+      "detail_en": "Speaking to Bloomberg's Lisa Abramowicz at the Citadel Securities Conference in New York, Mario Draghi, the former ECB head and former Italian prime minister, said Europe has to play a large role in ending the war between Russia and Ukraine. He said what happens in Ukraine will define the relationship between the US and Europe. The remarks directly link Europe's role in ending the war to the future of transatlantic relations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "德拉吉认为欧洲必须在结束俄乌战争中发挥重要作用。",
+          "en": "Draghi believes Europe must play a large role in ending the Russia-Ukraine war."
+        },
+        {
+          "zh": "他表示乌克兰局势将定义美欧关系。",
+          "en": "He said what happens in Ukraine will define the US-Europe relationship."
+        },
+        {
+          "zh": "上述言论发表于纽约Citadel Securities会议，由彭博的Lisa Abramowicz采访。",
+          "en": "The remarks were made at the Citadel Securities Conference in New York in an interview with Bloomberg's Lisa Abramowicz."
+        }
+      ],
+      "tags": [
+        "Russia-Ukraine war",
+        "Europe",
+        "US-Europe relations",
+        "Draghi"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:LmSWQM_dmzI",
+      "title": "Where Is The Crypto Alpha Hiding This Cycle?",
+      "title_zh": "加密市场是否终于奖励勤奋的投资者？",
+      "url": "https://www.youtube.com/watch?v=LmSWQM_dmzI",
+      "published_at": "2026-10-20T14:42:48+00:00",
+      "source_name": "Forward Guidance",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "在DAS新加坡的讨论中，三位顶级配置者探讨了加密早期不平衡牛市中的真正alpha来源，包括加密与AI的结合点、流动性不足代币的建仓、$HYPE是否仍是共识赢家，以及下一周期的种子期与成长期投资选择。",
+      "summary_en": "At DAS Singapore, three top allocators discussed where real alpha lives in an early, uneven crypto bull market, covering crypto x AI, building size in illiquid tokens, whether $HYPE remains the consensus winner, and seed vs. growth for the next cycle.",
+      "detail_zh": "本周的Forward Guidance节目邀请了三位顶级配置者（Arthur Cheong、Rajiv Patel-O'Connor、Smac）在DAS新加坡进行讨论。他们探讨了加密与AI结合的实际有效场景、AI代理是否需要区块链、加密基金如何配置资本、在拥挤市场中寻找alpha、做多与做空以及跑赢比特币的策略，还有种子期与成长期投资的机会所在。讨论还涉及流动性不足代币的建仓问题，以及$HYPE是否仍是共识赢家。",
+      "detail_en": "This week's Forward Guidance episode features three top allocators (Arthur Cheong, Rajiv Patel-O'Connor, Smac) at DAS Singapore. They explored where crypto x AI actually works, whether AI agents need blockchains, how crypto funds allocate capital, finding alpha in a crowded market, longs, shorts, and beating Bitcoin, and seed vs. growth opportunities. The discussion also touched on building size in illiquid tokens and whether $HYPE stays the consensus winner.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "加密与AI结合的实际有效场景是讨论焦点之一。",
+          "en": "Where crypto x AI actually works was a key focus."
+        },
+        {
+          "zh": "在流动性不足的代币中建仓是配置者面临的挑战。",
+          "en": "Building size in illiquid tokens is a challenge for allocators."
+        },
+        {
+          "zh": "$HYPE是否仍是共识赢家受到关注。",
+          "en": "Whether $HYPE remains the consensus winner was discussed."
+        },
+        {
+          "zh": "种子期与成长期投资在下一周期的机会被比较。",
+          "en": "Seed vs. growth opportunities for the next cycle were compared."
+        }
+      ],
+      "tags": [
+        "crypto",
+        "AI",
+        "alpha",
+        "allocation",
+        "HYPE"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:Q_0D4NFI61M",
       "title": "Midterms Are a Clearing Event for Risk, Says Citadel's Rubner",
@@ -53,6 +138,137 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "https://bondvigilantes.com/?p=26825",
+      "title": "Rien de rien (Absolutely nothing)",
+      "title_zh": "法国国债与BBB级企业债利差趋同，市场重新定价主权信用风险",
+      "url": "https://bondvigilantes.com/blog/2026/10/rien-de-rien-absolutely-nothing/",
+      "published_at": "2026-10-20T14:26:11+00:00",
+      "source_name": "Bond Vigilantes (M&G)",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "法国7-10年期国债指数与同期限BBB级企业债指数的利差已基本消失，两者交易价格几乎持平。M&G指出，G7主权信用评级自本世纪以来持续缓慢恶化，政府在经济冲击后缺乏财政纪律修复债务，法国债务占GDP比重四十多年来持续上升。市场正在质疑法国国债相对企业债是否便宜，以及法国企业债是否应因质量更优而收益率低于国债。",
+      "summary_en": "The spread between the 7-10 year French government bond index and an equivalent-maturity BBB-rated corporate bond index has essentially collapsed, with the two now trading side by side. M&G notes that G7 sovereign credit ratings have deteriorated slowly but persistently since the turn of the century, as governments have lacked the fiscal discipline to repair debt damage after economic shocks, with French debt-to-GDP rising for over forty years. The market is questioning whether French government debt is cheap relative to French corporates, and whether French corporates should trade through governments given better quality.",
+      "detail_zh": "M&G在一份报告中指出，本季度重大经济事件之一是法国国债收益率的变动，最能说明问题的是其风险相对企业债的定价方式。图表显示，7-10年期法国国债指数与同期限BBB级企业债指数的利差已“崩溃”，两者几乎并排交易。市场传统上将债券资产分为三类：国债被视为无信用风险，投资级企业债信用风险有限且在经济下行中应相对稳定，高收益债信用风险更高。然而，G7自本世纪以来信用评级呈现缓慢但持续的恶化。政府财政恶化的原因包括金融危机、衰退和疫情应对，但更关键的是政府在风暴过后日益缺乏修复财政的纪律。以法国政府债务占GDP比重为例，全球金融危机和新冠疫情期间出现 spikes，整体呈稳步上升趋势，经济冲击带来支出台阶式增加。该图表覆盖四十多年债务上升期，逆转这一趋势需要持续的财政纪律，而这在多个选举周期中可能难以维持。报告提出两个问题：法国国债相对法国企业债是否便宜？法国企业债质量是否更优、应交易在国债收益率之下？最后以“法国选民是否会投票说‘Je ne regrette rien’（我无怨无悔）”作结。",
+      "detail_en": "M&G notes in a report that one of the major economic events this quarter has been the move in French government yields, best illustrated by how their risk is priced relative to corporate bonds. The chart shows the spread of the 7-10 year French government bond index to an equivalent-maturity BBB-rated corporate bond index has collapsed, with the two now trading side by side. Market convention divides bond asset classes into three categories: government bonds traditionally viewed as free of credit risk, investment grade with limited credit risk that should remain relatively stable in an economic downturn, and high yield with more credit risk and potential vulnerability. However, G7 credit ratings have shown a slow but fairly persistent deterioration since the turn of the century. Government finances have deteriorated due to the financial crisis, recession, and COVID response, but increasingly governments have lacked the fiscal discipline to repair the damage once the storm has passed. French government debt as a percentage of GDP shows spikes through the Global Financial Crisis and Covid-19, with a steady upward trend and step-ups for spending through economic shocks. The chart covers more than forty years of rising debt; reversing that trend would require sustained fiscal discipline, something that may prove difficult to maintain through several election cycles. The report asks: Is French debt cheap relative to French corporates? Are French corporates better quality and should trade through governments? It concludes with whether the French will vote and say 'Je ne regrette rien'.",
+      "conclusion_zh": "法国主权信用风险正被市场重新定价，国债与BBB级企业债利差趋同意味着投资者需重新审视主权债的“无风险”假设，并关注财政纪律缺失对欧元区核心国家债券的潜在冲击。",
+      "conclusion_en": "French sovereign credit risk is being repriced by the market, and the convergence of government and BBB corporate spreads means investors need to revisit the 'risk-free' assumption for sovereign debt and watch for potential shocks to core euro area bonds from the lack of fiscal discipline.",
+      "key_points": [
+        {
+          "zh": "7-10年期法国国债指数与同期限BBB级企业债指数的利差已基本消失，两者交易价格几乎持平。",
+          "en": "The spread between the 7-10 year French government bond index and an equivalent-maturity BBB-rated corporate bond index has essentially collapsed, with the two trading side by side."
+        },
+        {
+          "zh": "G7主权信用评级自本世纪以来缓慢但持续恶化，政府在经济冲击后缺乏财政纪律修复债务。",
+          "en": "G7 sovereign credit ratings have deteriorated slowly but persistently since the turn of the century, as governments lack fiscal discipline to repair debt after economic shocks."
+        },
+        {
+          "zh": "法国政府债务占GDP比重四十多年来持续上升，金融危机和疫情期间出现 spikes，经济冲击带来支出台阶式增加。",
+          "en": "French government debt-to-GDP has risen for over forty years, with spikes during the Global Financial Crisis and Covid-19, and step-ups in spending through economic shocks."
+        },
+        {
+          "zh": "逆转债务上升趋势需要持续的财政纪律，而这在多个选举周期中可能难以维持。",
+          "en": "Reversing the debt trend would require sustained fiscal discipline, which may prove difficult to maintain through several election cycles."
+        },
+        {
+          "zh": "报告提出两个问题：法国国债相对法国企业债是否便宜？法国企业债是否质量更优、应交易在国债收益率之下？",
+          "en": "The report asks: Is French debt cheap relative to French corporates? Are French corporates better quality and should trade through governments?"
+        }
+      ],
+      "tags": [
+        "French government bonds",
+        "credit spread",
+        "fiscal discipline",
+        "G7 sovereign ratings",
+        "corporate bonds"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:17AH6dUEwmE",
+      "title": "France Toughens Its Response To Protests After Riots and Looting",
+      "title_zh": "法国暴力与破坏事件后官员承认失败",
+      "url": "https://www.youtube.com/watch?v=17AH6dUEwmE",
+      "published_at": "2026-10-20T14:23:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "法国发生暴力与破坏事件后，官员承认失败。后续发展尚待观察。",
+      "summary_en": "After violence and vandalism rocked France, officials admitted failure. What happens next remains to be seen.",
+      "detail_zh": "原文仅提及法国经历暴力与破坏事件后，官员承认失败，并由Oliver Crook进行解释。未提供具体事件细节、数字、时间或后续措施。",
+      "detail_en": "The original text only mentions that after violence and vandalism rocked France, officials admitted failure, with Oliver Crook explaining. No specific details, numbers, dates, or follow-up measures are provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "法国发生暴力与破坏事件",
+          "en": "Violence and vandalism occurred in France"
+        },
+        {
+          "zh": "法国官员承认失败",
+          "en": "French officials admitted failure"
+        },
+        {
+          "zh": "后续发展不确定",
+          "en": "What happens next is uncertain"
+        }
+      ],
+      "tags": [
+        "France",
+        "violence",
+        "vandalism",
+        "political instability"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:qcwpzxyMezU",
+      "title": "Jeff Yan Plans to Bring the Entire Financial Industry onto Hyperliquid",
+      "title_zh": "Hyperliquid CEO 谈平台运作及将金融业引入链上的计划",
+      "url": "https://www.youtube.com/watch?v=qcwpzxyMezU",
+      "published_at": "2026-10-20T14:21:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统8月表示CFTC正推动加密平台Hyperliquid以完全合规合法的方式进入美国。Hyperliquid CEO兼联合创始人Jeff Yan在Odd Lots播客中解释平台运作方式，并阐述将整个金融行业引入Hyperliquid的计划。",
+      "summary_en": "In August, President Trump said the CFTC was working on bringing crypto platform Hyperliquid into the US in a fully compliant and legal fashion. CEO and co-founder Jeff Yan explains on the Odd Lots podcast how the platform works and his plan to bring the entire financial industry onto Hyperliquid.",
+      "detail_zh": "原文提及，美国总统特朗普在8月表示，美国商品期货交易委员会（CFTC）正在推动一个名为Hyperliquid的加密平台以“完全合规且合法的方式”进入美国。Hyperliquid的CEO兼联合创始人Jeff Yan做客Bloomberg的Odd Lots播客，与主持人Joe Weisenthal和Tracy Alloway讨论该平台。Yan在节目中解释了Hyperliquid的运作方式，并说明了他将整个金融行业引入Hyperliquid的计划。原文未提供平台的具体技术细节、监管进展或财务数据。",
+      "detail_en": "The source states that in August, President Trump said the CFTC was working on bringing a crypto platform called Hyperliquid into the United States 'in a fully compliant and legal fashion.' Hyperliquid CEO and co-founder Jeff Yan joined Joe Weisenthal and Tracy Alloway on the Odd Lots podcast. Yan explained how the platform works and discussed his plan to bring the entire financial industry onto Hyperliquid. The source does not provide specific technical details, regulatory progress, or financial data about the platform.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普总统8月称CFTC正推动Hyperliquid以完全合规合法的方式进入美国。",
+          "en": "In August, President Trump said the CFTC was working to bring Hyperliquid into the US in a fully compliant and legal fashion."
+        },
+        {
+          "zh": "Hyperliquid CEO兼联合创始人Jeff Yan在Odd Lots播客中解释平台运作方式。",
+          "en": "Hyperliquid CEO and co-founder Jeff Yan explained how the platform works on the Odd Lots podcast."
+        },
+        {
+          "zh": "Yan的计划是将整个金融行业引入Hyperliquid。",
+          "en": "Yan's plan is to bring the entire financial industry onto Hyperliquid."
+        }
+      ],
+      "tags": [
+        "Hyperliquid",
+        "crypto",
+        "CFTC",
+        "regulation",
+        "podcast"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:PIHtcbx0_6I",
       "title": "The Case for Mamdani-Style Populism",
       "title_zh": "通胀顽固，美联储加息思路遇挑战：战略价格管制引发讨论",
@@ -88,6 +304,49 @@
         "Fed",
         "price controls",
         "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:59OOOcgN9UI",
+      "title": "For Three Buffetts, a $150 Billion Puzzle Over Warren’s Riches",
+      "title_zh": "巴菲特子女协助分配其1500亿美元财富",
+      "url": "https://www.youtube.com/watch?v=59OOOcgN9UI",
+      "published_at": "2026-10-20T14:18:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "沃伦·巴菲特估计身价1500亿美元，他承诺去世前捐出大部分财富，但财富持续增长使捐赠难度加大，因此他的三个子女正介入协助分配。",
+      "summary_en": "Warren Buffett is worth an estimated $150 billion and has promised to divest himself of his vast wealth before he dies. But with the pot continuing to grow, his three children are stepping in to help spread it around.",
+      "detail_zh": "沃伦·巴菲特估计身价1500亿美元。他已承诺在去世前捐出自己庞大的财富。然而，由于财富规模持续增长，兑现这一承诺并不容易。因此，他的三个子女正在介入，协助将财富分配出去。Alexandre Rajbhandari对此进行了解释。",
+      "detail_en": "Warren Buffett is worth an estimated $150 billion. He has promised to divest himself of his vast wealth before he dies. However, it is hard to do so when the pot keeps growing. So his three children are stepping in to spread it around. Alexandre Rajbhandari explains.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "巴菲特估计身价1500亿美元。",
+          "en": "Buffett is worth an estimated $150 billion."
+        },
+        {
+          "zh": "他承诺去世前捐出大部分财富。",
+          "en": "He has promised to divest himself of his vast wealth before he dies."
+        },
+        {
+          "zh": "财富持续增长使捐赠难度加大。",
+          "en": "It's hard when the pot keeps growing."
+        },
+        {
+          "zh": "他的三个子女正介入协助分配财富。",
+          "en": "His three children are stepping in to spread it around."
+        }
+      ],
+      "tags": [
+        "Warren Buffett",
+        "wealth distribution",
+        "philanthropy"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -133,6 +392,46 @@
         "cost of capital",
         "risk management",
         "CoreWeave"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:MzqYDIwudng",
+      "title": "Odd Lots: Music Legend David Byrne on Being Rediscovered",
+      "title_zh": "Odd Lots播客：David Byrne谈“明斯基时刻”与音乐再发现",
+      "url": "https://www.youtube.com/watch?v=MzqYDIwudng",
+      "published_at": "2026-10-20T14:17:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在Odd Lots播客中，传奇音乐人David Byrne与主持人讨论“明斯基时刻”以及自己的音乐被新一代听众重新发现的经历。节目以“曾被抛弃的想法日后可能重获相关性”为引，但未展开具体投资分析。",
+      "summary_en": "On the Odd Lots podcast, legendary musician David Byrne discusses 'the Minsky Moment' and his experience of having his music rediscovered by a new generation. The episode opens with the idea that discarded ideas can regain relevance later, but offers no specific investment analysis.",
+      "detail_zh": "本期Odd Lots播客由Joe Weisenthal和Tracy Alloway主持，嘉宾是传奇音乐人David Byrne。节目围绕“明斯基时刻”展开讨论，Byrne也分享了自己的音乐被新一代听众重新发现的经历。节目开场提到，历史上不乏曾被抛弃、后来却重获相关性的想法。除此之外，原文未提供更多关于市场、经济或具体投资标的的细节。",
+      "detail_en": "This episode of the Odd Lots podcast is hosted by Joe Weisenthal and Tracy Alloway, with guest legendary musician David Byrne. The discussion centers on 'the Minsky Moment,' and Byrne also shares his experience of having his music rediscovered by a new generation. The episode opens with the observation that history is littered with ideas that were tossed aside only to gain relevance later. Beyond that, the source provides no further details on markets, the economy, or specific investment targets.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Odd Lots播客邀请传奇音乐人David Byrne讨论“明斯基时刻”。",
+          "en": "The Odd Lots podcast features legendary musician David Byrne discussing 'the Minsky Moment.'"
+        },
+        {
+          "zh": "Byrne分享了自己的音乐被新一代听众重新发现的经历。",
+          "en": "Byrne shares his experience of having his music rediscovered by a new generation."
+        },
+        {
+          "zh": "节目以“曾被抛弃的想法日后可能重获相关性”作为开场引子。",
+          "en": "The episode opens with the idea that discarded ideas can regain relevance later."
+        }
+      ],
+      "tags": [
+        "Odd Lots",
+        "David Byrne",
+        "Minsky Moment",
+        "podcast"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -433,6 +732,55 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:DslMjbwixiY",
+      "title": "Putin Seeking to Destabilize Europe, German Chancellor Warns",
+      "title_zh": "默茨警告勿低估俄罗斯威胁；英国就业数据意外向好",
+      "url": "https://www.youtube.com/watch?v=DslMjbwixiY",
+      "published_at": "2026-10-20T10:22:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "德国总理默茨警告欧洲勿对俄罗斯威胁自满，称普京意在破坏欧洲民主；法国抗议在当局加强安全措施后基本平息；英国失业率下降且雇主增加招聘，为财相下周预算提供意外利好。",
+      "summary_en": "German Chancellor Merz warned Europe against complacency over Russia, saying Putin seeks to undermine democracy in Europe; French protests largely subsided after tougher security measures; UK joblessness fell and employers added jobs, giving an unexpected boost to the Chancellor ahead of next week's budget.",
+      "detail_zh": "德国总理弗里德里希·默茨警告不要对俄罗斯构成的危险自满，称总统普京不仅寻求击败乌克兰，还意图破坏欧洲的民主。法国抗议活动在当局推出包括针对性宵禁在内的更严格安全措施后基本平息，此前周末的抗议演变为暴力、破坏和抢劫。英国官方数据显示失业率下降且雇主增加了工作岗位，这在下周关键预算前给财政大臣约翰·希利带来了意外的提振。节目嘉宾包括Sarasin & Partners首席经济学家Subitha Subramaniam、花旗英国CEO Tiina Lee、Match Group CEO Spencer Rascoff和美国银行法国CEO Vanessa Holtz。节目还提及默茨试图说服特朗普欧洲对美国的重要性，以及英伟达CEO出席“投资德国”峰会。",
+      "detail_en": "German Chancellor Friedrich Merz warned against complacency over the dangers posed by Russia, saying President Vladimir Putin is seeking not only to defeat Ukraine but also to undermine democracy in Europe. French protests largely died down after authorities rolled out tougher security measures, including targeted curfews, following weekend protests that degenerated into violence, vandalism and looting. Official UK figures showed joblessness fell and employers added jobs, giving an unexpected boost to Chancellor of the Exchequer John Healey ahead of his crucial budget next week. Guests included Sarasin & Partners Chief Economist Subitha Subramaniam, Citi UK CEO Tiina Lee, Match Group CEO Spencer Rascoff and Bank of America France CEO Vanessa Holtz. The program also noted Merz trying to convince Trump that Europe is important to the US, and Nvidia's CEO attending the Invest in Germany Summit.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "默茨警告欧洲勿低估俄罗斯威胁，称普京意图破坏欧洲民主。",
+          "en": "Merz warned Europe not to underestimate the Russia threat, saying Putin aims to undermine democracy in Europe."
+        },
+        {
+          "zh": "法国抗议在当局实施针对性宵禁等更严格安全措施后基本平息。",
+          "en": "French protests largely subsided after authorities imposed tougher security measures including targeted curfews."
+        },
+        {
+          "zh": "英国失业率下降且雇主增加招聘，为财相下周预算带来意外利好。",
+          "en": "UK joblessness fell and employers added jobs, an unexpected boost for the Chancellor ahead of next week's budget."
+        },
+        {
+          "zh": "默茨试图说服特朗普欧洲对美国的重要性。",
+          "en": "Merz sought to convince Trump that Europe is important to the US."
+        },
+        {
+          "zh": "英伟达CEO出席“投资德国”峰会。",
+          "en": "Nvidia's CEO attended the Invest in Germany Summit."
+        }
+      ],
+      "tags": [
+        "Russia",
+        "Europe",
+        "UK jobs",
+        "France protests",
+        "Germany"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:XizzOIcYKHM",
       "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks",
       "title_zh": "亚洲芯片股回落，AI交易面临利率与估值考验",
@@ -527,6 +875,90 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:CIp0s2KA1K0",
+      "title": "Is Netanyahu’s Grip on Israel Slipping?",
+      "title_zh": "以色列大选临近：内塔尼亚胡面临挑战，但政策议程或延续",
+      "url": "https://www.youtube.com/watch?v=CIp0s2KA1K0",
+      "published_at": "2026-10-20T08:00:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "以色列即将举行大选，前将军甘迪·艾森科特的政党在民调中略微领先，可能终结内塔尼亚胡的长期执政。但即使艾森科特获胜，以色列外交政策也不太可能出现重大转变，这反映了该国政治整体右转的趋势。选举结果具有重要的地区影响，可能重塑以色列与美国等国家的关系。",
+      "summary_en": "Israel is approaching an election where former general Gadi Eisenkot's party holds a slight lead in polls, potentially ending Benjamin Netanyahu's long tenure as prime minister. However, an Eisenkot victory is unlikely to signal a major shift in foreign policy, reflecting a broader rightward turn in Israeli politics. The election outcome carries significant regional stakes and could reshape Israel's ties with other countries, including the US.",
+      "detail_zh": "以色列即将举行大选，此次选举受到10月7日袭击事件及随后加沙战争的影响。前将军甘迪·艾森科特的政党在民调中略微领先，这可能意味着本杰明·内塔尼亚胡作为总理的长期统治即将结束。然而，艾森科特的胜利不太可能标志着外交政策的重大转变，这反映了以色列政治整体右转的趋势。除了国内政策，选举结果还具有重要的地区影响，可能重塑以色列与其他国家的关系，包括美国。文章还提到，即使以色列人抛弃内塔尼亚胡，他的议程仍将继续存在。作为以色列任职时间最长的领导人，内塔尼亚胡可能在本月选举中失利，但他已经按照自己的形象重塑了以色列政治。",
+      "detail_en": "Israel is approaching an election shaped by the October 7 attacks and the subsequent war in Gaza. Former general Gadi Eisenkot's party holds a slight lead in the polls, which could mean the end of Benjamin Netanyahu's long reign as prime minister. However, an Eisenkot victory is unlikely to signal a major shift in foreign policy, reflecting a broader rightward turn in Israeli politics. Beyond domestic policy, the election outcome carries significant regional stakes and could reshape Israel's ties with other countries, including the US. The article also notes that even if Israelis spurn Netanyahu, his agenda will live on. As Israel's longest-serving leader, Netanyahu risks losing this month's election, but he has reshaped Israeli politics in his image.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "以色列大选受10月7日袭击和加沙战争影响，前将军艾森科特的政党在民调中略微领先。",
+          "en": "Israel's election is shaped by the October 7 attacks and the Gaza war, with former general Eisenkot's party holding a slight lead in polls."
+        },
+        {
+          "zh": "艾森科特若获胜，外交政策也不太可能出现重大转变，反映以色列政治整体右转。",
+          "en": "An Eisenkot victory is unlikely to signal a major shift in foreign policy, reflecting a broader rightward turn in Israeli politics."
+        },
+        {
+          "zh": "选举结果具有重要的地区影响，可能重塑以色列与美国等国家的关系。",
+          "en": "The election outcome carries significant regional stakes and could reshape Israel's ties with other countries, including the US."
+        },
+        {
+          "zh": "即使内塔尼亚胡失利，他的议程仍将继续，他已按自己的形象重塑了以色列政治。",
+          "en": "Even if Netanyahu loses, his agenda will live on; he has reshaped Israeli politics in his image."
+        }
+      ],
+      "tags": [
+        "Israel election",
+        "Netanyahu",
+        "Eisenkot",
+        "foreign policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:7Gm6kvRqzrs",
+      "title": "South Korean Data Center Firm Elice Plunges in Trading Debut",
+      "title_zh": "首尔AI云服务商Elice上市首日股价暴跌，引发AI投资回报担忧",
+      "url": "https://www.youtube.com/watch?v=7Gm6kvRqzrs",
+      "published_at": "2026-10-20T07:44:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "总部位于首尔的新云服务提供商Elice在上市首日股价大幅下跌，凸显市场对人工智能热潮能否支撑行业数千亿美元投入的持续担忧。",
+      "summary_en": "Seoul-based neocloud service provider Elice saw its shares plunge on its trading debut, underscoring lingering concerns over whether the AI boom can justify the billions being poured into the industry.",
+      "detail_zh": "Bloomberg的Anthony Stephens报道，总部位于首尔的新云服务提供商Elice在交易首日股价重挫。这一表现反映出市场对人工智能热潮能否证明行业巨额资金投入合理性的疑虑仍未消散。报道未披露具体跌幅、募资规模或估值数据。",
+      "detail_en": "Bloomberg's Anthony Stephens reports that Seoul-based neocloud service provider Elice plunged in its trading debut. The move underscores lingering concerns about whether the AI boom can justify the billions of dollars being poured into the industry. No specific decline, deal size, or valuation figures were disclosed.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Elice上市首日股价大幅下跌。",
+          "en": "Elice shares plunged on their trading debut."
+        },
+        {
+          "zh": "该公司是总部位于首尔的新云服务提供商。",
+          "en": "The company is a Seoul-based neocloud service provider."
+        },
+        {
+          "zh": "市场持续担忧AI热潮能否支撑行业巨额投入。",
+          "en": "Concerns linger over whether the AI boom can justify the billions invested in the industry."
+        }
+      ],
+      "tags": [
+        "AI",
+        "neocloud",
+        "IPO",
+        "valuation"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
     },
     {
       "guid": "yt:qUIFxEJdMQs",
@@ -1432,6 +1864,95 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:nT7w2U3U8z4",
+      "title": "How a CIO Uses BlackRock Custom Models",
+      "title_zh": "Perigon Wealth Management首席投资官谈使用BlackRock定制模型简化投资组合管理",
+      "url": "https://www.youtube.com/watch?v=nT7w2U3U8z4",
+      "published_at": "2026-10-19T20:07:03+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Perigon Wealth Management首席投资官Rafia Hasan分享了其团队如何使用BlackRock定制模型来简化投资组合管理，从而释放时间以专注于更复杂的客户需求。",
+      "summary_en": "Rafia Hasan, CIO at Perigon Wealth Management, shares how her team uses BlackRock Custom Models to streamline portfolio management, freeing up time to focus on more complex client needs.",
+      "detail_zh": "Perigon Wealth Management首席投资官Rafia Hasan介绍了其团队使用BlackRock定制模型（BlackRock Custom Models）的情况。该工具旨在简化投资组合管理流程，帮助团队节省时间，从而将更多精力投入到更复杂的客户需求上。原文未提供具体财务数据、业绩表现或市场观点。",
+      "detail_en": "Rafia Hasan, CIO at Perigon Wealth Management, describes how her team uses BlackRock Custom Models. The tool is designed to streamline portfolio management, helping the team save time and focus more on complex client needs. The original text does not provide specific financial data, performance figures, or market views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Perigon Wealth Management首席投资官Rafia Hasan使用BlackRock定制模型。",
+          "en": "Rafia Hasan, CIO at Perigon Wealth Management, uses BlackRock Custom Models."
+        },
+        {
+          "zh": "该工具旨在简化投资组合管理流程。",
+          "en": "The tool aims to streamline portfolio management."
+        },
+        {
+          "zh": "节省的时间可用于专注于更复杂的客户需求。",
+          "en": "Time saved can be redirected to more complex client needs."
+        }
+      ],
+      "tags": [
+        "BlackRock",
+        "Custom Models",
+        "Portfolio Management",
+        "Wealth Management"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:nOsYndfIDVs",
+      "title": "Distribution Is Still King | Joe Smolen",
+      "title_zh": "Empower总裁谈退休记录保管行业整合与竞争",
+      "url": "https://www.youtube.com/watch?v=nOsYndfIDVs",
+      "published_at": "2026-10-19T19:27:37+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Empower Workplace Solutions总裁Joe Smolen在播客中回顾公司通过收购成为美国第二大退休记录保管机构，强调在费率压缩下多元化至关重要。他指出私募股权更关注顾问和TPA整合而非记录保管，金融科技和薪资提供商缺乏分销渠道，客户服务是计划更换提供商的首要原因。",
+      "summary_en": "Joe Smolen, President of Workplace Solutions at Empower, discusses on the podcast how acquisitions made Empower the second-largest retirement recordkeeper in the U.S., emphasizing diversification amid fee compression. He notes private equity is more active in advisor and TPA consolidation than recordkeeping, fintechs and payroll providers lack distribution, and customer service is the top reason plans switch providers.",
+      "detail_zh": "Stephen Dopp在《The Glide Path》播客中邀请Empower Workplace Solutions总裁Joe Smolen。Smolen在同一公司工作27年，从销售代表做起，当时Great-West Financial在500多家记录保管机构中排名第38位。2014年公司整合后，退休部门更名为Empower。Empower目前是第二大记录保管机构，服务约2200万美国人，行业记录保管机构已不足80家。Smolen解释收购如何推动公司增长，以及在费率压缩的业务中为何必须多元化。关于竞争，他认为私募股权更多出现在顾问和TPA整合中，而非记录保管领域；金融科技和薪资提供商技术出色但缺乏分销渠道，而“分销仍然是王道”。客户服务而非基金或费率是计划更换提供商的首要原因。在快问快答环节，Smolen称退休收入产品真实存在但普及缓慢，个性化管理账户是未来方向。他预计私募资产进入固定缴款计划的速度将快于退休收入产品，但每日估值和流动性障碍仍存。他认为 pooled employer plans 是行业吸收大量新计划的方式，CITs已覆盖所有计划规模。",
+      "detail_en": "Stephen Dopp welcomes Joe Smolen, President of Workplace Solutions at Empower, to The Glide Path. Smolen has spent 27 years at the same company, starting as a sales rep when Great-West Financial was the 38th largest of more than 500 recordkeepers. After corporate consolidation in 2014, the retirement division was rebranded as Empower. Empower is now the second-largest recordkeeper, serving about 22 million Americans, and fewer than 80 recordkeepers remain. Smolen explains how acquisitions drove growth and why diversifying beyond recordkeeping was essential in a fee-compressed business. On competition, he sees private equity showing up more in advisor and TPA consolidation than in recordkeeping, and says fintechs and payroll providers bring great technology but little else: 'They have absolutely no distribution. And distribution is still king.' Customer service, not funds or fees, is the No. 1 reason plans switch providers. In a lightning round, Smolen calls retirement income real but slow to catch on and sees personalized managed accounts as the future. He expects private assets to reach defined contribution plans faster than retirement income has, though daily valuation and liquidity hurdles remain. He believes pooled employer plans are how the industry will absorb a surge of new plans, and that CITs have arrived at every plan size.",
+      "conclusion_zh": "行业整合与费率压缩下，分销能力和客户服务是退休记录保管商的核心护城河，私募资产与个性化管理账户是值得关注的长期趋势。",
+      "conclusion_en": "Amid industry consolidation and fee compression, distribution and customer service are key moats for retirement recordkeepers, with private assets and personalized managed accounts as long-term trends to watch.",
+      "key_points": [
+        {
+          "zh": "Empower通过收购成为美国第二大退休记录保管机构，服务约2200万美国人，行业记录保管机构已不足80家。",
+          "en": "Empower became the second-largest retirement recordkeeper through acquisitions, serving about 22 million Americans, with fewer than 80 recordkeepers remaining."
+        },
+        {
+          "zh": "在费率压缩的业务中，多元化至关重要；私募股权更多关注顾问和TPA整合而非记录保管。",
+          "en": "Diversification is essential in a fee-compressed business; private equity is more focused on advisor and TPA consolidation than recordkeeping."
+        },
+        {
+          "zh": "金融科技和薪资提供商技术出色但缺乏分销渠道，分销仍然是王道。",
+          "en": "Fintechs and payroll providers have great technology but no distribution; distribution is still king."
+        },
+        {
+          "zh": "客户服务而非基金或费率是计划更换提供商的首要原因。",
+          "en": "Customer service, not funds or fees, is the top reason plans switch providers."
+        },
+        {
+          "zh": "私募资产进入固定缴款计划的速度可能快于退休收入产品，但每日估值和流动性障碍仍存。",
+          "en": "Private assets may reach defined contribution plans faster than retirement income, though daily valuation and liquidity hurdles remain."
+        }
+      ],
+      "tags": [
+        "retirement",
+        "recordkeeping",
+        "consolidation",
+        "private assets",
+        "distribution"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:g9QzZYf085U",
       "title": "Trump Accounts, Bonds Barometer, ‘Dividend Nomads’",
       "title_zh": "ETF资金流显示逢跌买入科技股，债券基金资金回流缓解债市压力",
@@ -1886,6 +2407,47 @@
         "inflation",
         "forward guidance",
         "Bank of America"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:goUzAZbjcJo",
+      "title": "French bonds: a lesson in selectivity",
+      "title_zh": "贝莱德：债券收益率上升带来机会，但需甄别驱动因素",
+      "url": "https://www.youtube.com/watch?v=goUzAZbjcJo",
+      "published_at": "2026-10-19T14:41:45+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "贝莱德投资研究院高级策略师Beata Harasim指出，债券收益率上升正在创造新的投资机会，但法国债券抛售表明收益率背后的驱动因素至关重要。她强调在主权债和信用债中应保持选择性。",
+      "summary_en": "Beata Harasim, Senior Investment Strategist at BlackRock Investment Institute, notes that higher bond yields are creating new investment opportunities, but the drivers behind those yields matter, as shown by France's bond selloff. She emphasizes selectivity is key across sovereign bonds and credit.",
+      "detail_zh": "贝莱德投资研究院高级策略师Beata Harasim表示，债券收益率上升正在创造新的投资机会。但她同时指出，法国债券的抛售表明，收益率上升背后的驱动因素至关重要。因此，在主权债券和信用债领域，选择性是关键。她解释了为何需要甄别，并指出了在主权债和信用债中看到的机会所在。",
+      "detail_en": "Beata Harasim, Senior Investment Strategist at BlackRock Investment Institute, states that higher bond yields are creating new investment opportunities. However, she notes that France's bond selloff demonstrates why the drivers of those yields matter. As a result, selectivity is key across sovereign bonds and credit. She explains why selectivity is important and where opportunities are seen across sovereign bonds and credit.",
+      "conclusion_zh": "债券收益率上升带来机会，但需甄别驱动因素，在主权债和信用债中保持选择性。",
+      "conclusion_en": "Higher bond yields present opportunities, but investors should differentiate the drivers and remain selective across sovereign bonds and credit.",
+      "key_points": [
+        {
+          "zh": "债券收益率上升正在创造新的投资机会。",
+          "en": "Higher bond yields are creating new investment opportunities."
+        },
+        {
+          "zh": "法国债券抛售表明，收益率上升的驱动因素至关重要。",
+          "en": "France's bond selloff shows why the drivers of higher yields matter."
+        },
+        {
+          "zh": "在主权债和信用债中，选择性是关键。",
+          "en": "Selectivity is key across sovereign bonds and credit."
+        }
+      ],
+      "tags": [
+        "bond yields",
+        "sovereign bonds",
+        "credit",
+        "selectivity",
+        "France"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -3420,6 +3982,55 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:e765emCgFS8",
+      "title": "Jamie Coutts: Crypto’s Payback Era Has Begun",
+      "title_zh": "Jamie Coutts：加密进入“回报时代”，周期低点或已过去",
+      "url": "https://www.youtube.com/watch?v=e765emCgFS8",
+      "published_at": "2026-10-18T13:00:30+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Real Vision 分析师 Jamie Coutts 认为加密市场已进入由代币排放降低、资本纪律增强和更多价值回流持币者驱动的“回报时代”。他指出回购、销毁、质押奖励和区块空间需求增长可能使本轮周期与以往不同，代币化和 AI 代理将带来额外需求。Coutts 还表示本轮周期最重要的低点可能已经过去，并分享了他重新买入 NEAR 的理由及宏观风险。",
+      "summary_en": "Real Vision analyst Jamie Coutts argues crypto has entered a \"payback era\" driven by lower token emissions, stronger capital discipline, and more value flowing back to token holders. He says buybacks, burns, staking rewards, and growing blockspace demand could make this cycle different, with tokenization and AI agents adding future demand. Coutts also believes the most important low of this cycle may already be behind us, and discusses why he reentered NEAR and the macro risks he is watching.",
+      "detail_zh": "Jamie Coutts 在 Real Vision 的 AMA 中提出，加密市场已进入新的“回报时代”，核心驱动力是代币排放降低、资本纪律增强以及更多价值回流给代币持有者。他认为回购、销毁、质押奖励和区块空间需求增长可能创造与以往周期非常不同的格局，而代币化和 AI 代理将增加另一层未来需求。Coutts 表示加密基本面正在增强，并解释了他重新买入 NEAR 的原因，包括 NEAR 削减代币通胀以及 NEAR Intents 的用例。他还讨论了 NEAR 是否被高估、其在加密互操作性中的角色，以及他所关注的宏观风险。Coutts 认为本轮加密周期最重要的低点可能已经过去，并解释了他为何没有提取更多利润，以及正在将仓位再平衡至 DeFi。",
+      "detail_en": "In a Real Vision AMA, Jamie Coutts argues crypto has entered a new \"payback era,\" driven by lower token emissions, stronger capital discipline, and more value flowing back to token holders. He says buybacks, burns, staking rewards, and growing demand for blockspace could create a very different setup from previous cycles, while tokenization and AI agents add another layer of future demand. Coutts says crypto fundamentals are strengthening and explains why he reentered NEAR, citing NEAR's cut to token inflation and the case for NEAR Intents. He also discusses whether NEAR is overvalued, its role in crypto interoperability, and the macro risks he is watching. Coutts believes the most important low of this new cycle may already be behind us, and explains why he isn't taking more profits and is rebalancing into DeFi.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Coutts 认为加密进入“回报时代”，由代币排放降低、资本纪律增强和价值回流持币者驱动。",
+          "en": "Coutts believes crypto has entered a \"payback era\" driven by lower token emissions, stronger capital discipline, and value flowing back to token holders."
+        },
+        {
+          "zh": "回购、销毁、质押奖励和区块空间需求增长可能使本轮周期与以往不同。",
+          "en": "Buybacks, burns, staking rewards, and growing blockspace demand could make this cycle different from previous ones."
+        },
+        {
+          "zh": "代币化和 AI 代理被视为未来需求的额外来源。",
+          "en": "Tokenization and AI agents are seen as an additional layer of future demand."
+        },
+        {
+          "zh": "Coutts 重新买入 NEAR，理由包括 NEAR 削减代币通胀和 NEAR Intents 的用例。",
+          "en": "Coutts reentered NEAR, citing NEAR's token inflation cut and the case for NEAR Intents."
+        },
+        {
+          "zh": "Coutts 认为本轮周期最重要的低点可能已经过去，且未提取更多利润，正在再平衡至 DeFi。",
+          "en": "Coutts believes the most important low of this cycle may already be behind us; he isn't taking more profits and is rebalancing into DeFi."
+        }
+      ],
+      "tags": [
+        "crypto",
+        "NEAR",
+        "tokenomics",
+        "DeFi",
+        "macro"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
       "guid": "yt:DVlgK0Fr14g",
       "title": "By The Way: Headlines You May Have Missed",
       "title_zh": "彭博周末：运动鞋泡沫破裂、休闲服饰退潮与消费新趋势",
@@ -4228,6 +4839,55 @@
         "Trump",
         "Ukraine",
         "midterms"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:JnceIDVMZyQ",
+      "title": "The Russian Bot Apocalypse",
+      "title_zh": "乌克兰无人机袭击Yandex数据中心与网络影响力基础设施",
+      "url": "https://www.youtube.com/watch?v=JnceIDVMZyQ",
+      "published_at": "2026-10-17T11:27:44+00:00",
+      "source_name": "Patrick Boyle",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "tech"
+      ],
+      "summary_zh": "2026年10月乌克兰无人机袭击摧毁了Yandex六个主要数据中心中的三个，但社交媒体上的俄罗斯机器人并未消失。视频探讨了袭击的实际目标、俄罗斯数据本地化法律的后果，以及网络影响力行动的真实基础设施，包括住宅代理僵尸网络、SIM卡农场和廉价Android电视盒子。",
+      "summary_en": "In October 2026, Ukrainian drone strikes destroyed three of Yandex's six major data centers, but Russian bots did not vanish from social media. The video examines what the strikes actually hit, the consequences of Russia's data localization law, and the real infrastructure of online influence operations, including residential proxy botnets, SIM farms, and cheap Android TV boxes.",
+      "detail_zh": "2026年10月，乌克兰无人机袭击摧毁了Yandex六个主要数据中心中的三个，一张病毒式传播的图表声称俄罗斯机器人一夜之间从社交媒体上消失，但事实并非如此。视频分析了袭击的实际目标：Yandex的搜索爬虫、俄罗斯的出租车和支付应用，以及莫斯科的公寓门禁。视频还探讨了俄罗斯数据本地化法律为何导致其大部分互联网基础设施处于无人机射程之内。随后，视频追踪了网络影响力行动的真实基础设施，从住宅代理僵尸网络和SIM卡农场，到出租所有者互联网连接的廉价55美元Android电视盒子。此外，视频还涵盖了来自俄罗斯、中国、伊朗和西方的国家支持虚假信息活动；斯里兰卡教授愤怒诱饵以获取Facebook广告收入的学院；Twitter上大多数假新闻背后的“超级分享者”；以及Anthropic关于可在相同廉价设备上运行的自我复制AI的新研究。",
+      "detail_en": "In October 2026, Ukrainian drone strikes destroyed three of Yandex's six major data centers, and a viral chart claimed that Russian bots had vanished from social media overnight. They hadn't. The video analyzes what the strikes actually hit: Yandex's search crawlers, Russia's taxi and payment apps, and the apartment gates of Moscow. It also examines why Russia's data localization law left so much of its internet within drone range. Then it follows the real infrastructure of online influence operations, from residential proxy botnets and SIM farms to the off-brand $55 Android TV boxes that rent out their owners' internet connections. Along the way, it covers state-backed disinformation campaigns from Russia, China, Iran, and the West; the Sri Lankan academies teaching rage bait for Facebook ad revenue; the \"supersharers\" behind most fake news on Twitter; and new research from Anthropic on self-replicating AI that could run on the same cheap devices.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "2026年10月乌克兰无人机袭击摧毁了Yandex六个主要数据中心中的三个，但社交媒体上的俄罗斯机器人并未消失。",
+          "en": "In October 2026, Ukrainian drone strikes destroyed three of Yandex's six major data centers, but Russian bots did not vanish from social media."
+        },
+        {
+          "zh": "俄罗斯的数据本地化法律导致其大部分互联网基础设施处于无人机射程之内。",
+          "en": "Russia's data localization law left much of its internet infrastructure within drone range."
+        },
+        {
+          "zh": "网络影响力行动依赖住宅代理僵尸网络、SIM卡农场和廉价Android电视盒子等真实基础设施。",
+          "en": "Online influence operations rely on real infrastructure such as residential proxy botnets, SIM farms, and cheap Android TV boxes."
+        },
+        {
+          "zh": "国家支持的虚假信息活动来自俄罗斯、中国、伊朗和西方。",
+          "en": "State-backed disinformation campaigns come from Russia, China, Iran, and the West."
+        },
+        {
+          "zh": "Anthropic的新研究涉及可在廉价设备上运行的自我复制AI。",
+          "en": "New research from Anthropic involves self-replicating AI that could run on cheap devices."
+        }
+      ],
+      "tags": [
+        "disinformation",
+        "infrastructure",
+        "AI",
+        "cybersecurity"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -7978,6 +8638,50 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:Fuu-FuldO5g",
+      "title": "3 Ways Financial Advisors Prepare For Tax Season",
+      "title_zh": "贝莱德：财务顾问年末税务规划三大要点",
+      "url": "https://www.youtube.com/watch?v=Fuu-FuldO5g",
+      "published_at": "2026-10-15T20:15:00+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "贝莱德建议财务顾问在年末税务季来临前，重点审视资本利得并识别潜在的税损收割机会，同时提供了税务工具与投资思路的获取渠道。",
+      "summary_en": "BlackRock advises financial advisors to prepare for tax season by reviewing capital gains and identifying potential tax-loss harvesting opportunities, and points to its tax center for tools and investment ideas.",
+      "detail_zh": "贝莱德发布面向财务顾问的年末税务规划提示，提出三项需要关注的考量。第一项是审视资本利得（reviewing capital gains）。第二项是识别潜在的税损收割机会（identifying potential tax-loss harvesting opportunities）。原文以“三项考量”为框架，但仅明确列出上述两项内容，第三项未在原文中具体说明。贝莱德同时引导读者前往其官网税务中心（BlackRock.com/taxcenter）获取税务工具、洞见与投资思路。该内容属于顾问实务操作层面的税务规划提示，未涉及具体市场判断、资产配置建议或个股观点。",
+      "detail_en": "BlackRock issued year-end tax-planning guidance for financial advisors, framing it around three considerations. The first is reviewing capital gains. The second is identifying potential tax-loss harvesting opportunities. Although the post refers to three considerations, only these two are explicitly named in the source text; the third is not specified. BlackRock also directs readers to its tax center at BlackRock.com/taxcenter to explore tax tools, insights and investment ideas. The content is practice-oriented tax-planning guidance for advisors and contains no specific market view, asset-allocation recommendation or individual stock opinion.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "年末税务规划应首先审视资本利得情况。",
+          "en": "Year-end tax planning should begin with a review of capital gains."
+        },
+        {
+          "zh": "识别潜在的税损收割机会是第二项重点考量。",
+          "en": "Identifying potential tax-loss harvesting opportunities is the second key consideration."
+        },
+        {
+          "zh": "原文提及三项考量，但仅明确列出资本利得审视与税损收割两项。",
+          "en": "The post references three considerations but explicitly names only capital gains review and tax-loss harvesting."
+        },
+        {
+          "zh": "贝莱德引导顾问通过其税务中心获取税务工具、洞见与投资思路。",
+          "en": "BlackRock directs advisors to its tax center for tax tools, insights and investment ideas."
+        }
+      ],
+      "tags": [
+        "tax-planning",
+        "capital-gains",
+        "tax-loss-harvesting",
+        "financial-advisors"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "6ad1248b94a3daa98eca62d9",
       "title": "The AI boom stumbles",
       "title_zh": "科技股与债券周四遭抛售，AI泡沫担忧升温",
@@ -8067,6 +8771,42 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fU0xg3fzljk",
+      "title": "Options Selling: Why Systematic Strategies Can Backfire",
+      "title_zh": "期权价差策略的风险警示：缺乏自适应风险管理将导致灾难性损失",
+      "url": "https://www.youtube.com/watch?v=fU0xg3fzljk",
+      "published_at": "2026-10-15T19:14:42+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility"
+      ],
+      "summary_zh": "原文指出，每日卖出期权价差以获取微小收益的策略，在市场环境变化时会带来灾难性损失。系统性策略若缺乏自适应风险管理，将难以持续。",
+      "summary_en": "The source warns that selling option spreads daily for minimal gains leads to catastrophic losses when markets shift, and that systematic strategies fail without adaptive risk management.",
+      "detail_zh": "原文强调，每日卖出期权价差以获取微小收益的做法，在市场发生变化时会导致灾难性损失。作者指出，系统性策略若没有自适应的风险管理，就会失败。原文未提供具体数字、案例或进一步论证。",
+      "detail_en": "The source states that selling option spreads daily for minimal gains leads to catastrophic losses when markets shift. It also notes that systematic strategies fail without adaptive risk management. No specific numbers, examples, or further elaboration are provided.",
+      "conclusion_zh": "该内容提示投资者关注期权卖方策略的尾部风险，并重视风险管理的自适应能力。",
+      "conclusion_en": "The content highlights tail risks in option-selling strategies and the importance of adaptive risk management.",
+      "key_points": [
+        {
+          "zh": "每日卖出期权价差以获取微小收益的策略，在市场变化时可能造成灾难性损失。",
+          "en": "Selling option spreads daily for minimal gains can lead to catastrophic losses when markets shift."
+        },
+        {
+          "zh": "系统性策略若缺乏自适应风险管理，将难以避免失败。",
+          "en": "Systematic strategies fail without adaptive risk management."
+        }
+      ],
+      "tags": [
+        "options",
+        "risk-management",
+        "option-spreads",
+        "systematic-strategies"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
     },
     {
       "guid": "yt:OoJBjnkpgF4",
@@ -8921,6 +9661,85 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:i-rp-yw9AGk",
+      "title": "What to Expect From the UK Budget",
+      "title_zh": "英国预算案前瞻：经济表现与预期分歧",
+      "url": "https://www.youtube.com/watch?v=i-rp-yw9AGk",
+      "published_at": "2026-10-14T21:17:38+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "摩根士丹利分析师Andrew Sheets与Bruna Skarica在英国预算案发布前，探讨了关于增长、通胀和公共财政的相互矛盾的预测，并分析了英国经济如何打破预期。",
+      "summary_en": "Ahead of the UK budget later this month, Morgan Stanley analysts Andrew Sheets and Bruna Skarica examine competing predictions on growth, inflation and public finances, and how the UK economy defies expectations.",
+      "detail_zh": "英国预算案将于本月晚些时候公布。围绕增长、通胀和公共财政，各方预测存在分歧。Andrew Sheets和Bruna Skarica对此进行了分析，并探讨了英国经济如何打破预期。原文未提供具体预测数据或分析结论。",
+      "detail_en": "The UK budget will be delivered later this month. There are competing predictions regarding growth, inflation and public finances. Andrew Sheets and Bruna Skarica examine these diverging forecasts and how the UK economy defies expectations. The original text does not provide specific forecast figures or analytical conclusions.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英国预算案将于本月晚些时候公布。",
+          "en": "The UK budget will be delivered later this month."
+        },
+        {
+          "zh": "围绕增长、通胀和公共财政的预测存在分歧。",
+          "en": "There are competing predictions on growth, inflation and public finances."
+        },
+        {
+          "zh": "Andrew Sheets和Bruna Skarica分析了英国经济如何打破预期。",
+          "en": "Andrew Sheets and Bruna Skarica examine how the UK economy defies expectations."
+        }
+      ],
+      "tags": [
+        "UK budget",
+        "growth",
+        "inflation",
+        "public finances"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:VWFhuXMEh4g",
+      "title": "Wall Street Thought It Was a Toy. Not Anymore. #shorts",
+      "title_zh": "华尔街对某事物的认知发生转变",
+      "url": "https://www.youtube.com/watch?v=VWFhuXMEh4g",
+      "published_at": "2026-10-14T18:23:32+00:00",
+      "source_name": "Forward Guidance",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "原文仅有一句标题式表述，称华尔街曾视某事物为玩具，如今已不再如此，但未提供具体标的、数据或论证。",
+      "summary_en": "The source consists only of a headline-style statement that Wall Street once regarded something as a toy but no longer does, without specifying the subject, data, or reasoning.",
+      "detail_zh": "原文内容仅为一句标题式表述：“Wall Street Thought It Was a Toy. Not Anymore.”，并带有 #shorts 标签。文中没有出现任何具体资产、公司、股票代码、数字、人物观点或因果分析，无法提炼出可验证的投资逻辑、方向或风险细节。因此本摘要仅如实反映原文的有限信息，不补充任何推测。",
+      "detail_en": "The source contains only a headline-style line: \"Wall Street Thought It Was a Toy. Not Anymore.\" with a #shorts tag. It includes no specific asset, company, ticker, figure, quoted view, or causal analysis, so no verifiable investment logic, direction, or risk detail can be extracted. This summary therefore reflects only the limited information in the source without adding speculation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文仅称华尔街对某事物的看法由“玩具”转变为重视。",
+          "en": "The source only states that Wall Street's view of something shifted from \"toy\" to serious."
+        },
+        {
+          "zh": "原文未指明该事物是什么。",
+          "en": "The source does not identify what that something is."
+        },
+        {
+          "zh": "原文未提供任何数字、股票代码或论证。",
+          "en": "The source provides no figures, tickers, or reasoning."
+        }
+      ],
+      "tags": [
+        "wall-street",
+        "sentiment-shift",
+        "unspecified"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:snkQwIOJqSw",
       "title": "Big Tech Went All In on AI. Washington Can’t Let It Fail. Who Pays for the Backstop?",
       "title_zh": "Ben Hunt：AI建设正变得\"大到不能倒\"",
@@ -9028,6 +9847,50 @@
         "NVDA"
       ],
       "sentiment": "negative"
+    },
+    {
+      "guid": "https://bondvigilantes.com/?p=26804",
+      "title": "Wigglesworth the Wait? A bond fund manager’s take on A Fabulous Debt.",
+      "title_zh": "《A Fabulous Debt》书评：债券市场历史的生动叙事",
+      "url": "https://bondvigilantes.com/blog/2026/10/wigglesworth-the-wait-a-bond-fund-managers-take-on-a-fabulous-debt/",
+      "published_at": "2026-10-14T15:26:05+00:00",
+      "source_name": "Bond Vigilantes (M&G)",
+      "source_kind": "article",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "本文是对Robin Wigglesworth新书《A Fabulous Debt》的书评，该书以人物为主线讲述了债券市场数百年的演变历史。书评认为该书研究扎实、可读性强，适合固收从业者及对金融历史感兴趣的读者。",
+      "summary_en": "This is a review of Robin Wigglesworth's new book 'A Fabulous Debt', which narrates the centuries-long evolution of the bond market through real-life protagonists. The review finds the book meticulously researched and highly readable, suitable for fixed-income professionals and anyone interested in financial history.",
+      "detail_zh": "书评作者指出，债券已深度嵌入金融体系，人们容易忘记其本身曾是创新产物。Wigglesworth围绕“我们是如何走到这一步的”这一核心问题，将数百年复杂的经济金融历史提炼为可读性强的叙述。全书按时间顺序展开，每章围绕一位真实历史人物构建，从12世纪欧洲的Doge Vitale II及其舰队开始，历经拿破仑与债券市场的较量、Jay Cooke与铁路狂热、罗斯柴尔德银行王朝的崛起，直至Michael Milken的高收益革命、Lewis Ranieri的MBS时代，以及新冠疫情冲击市场时的美联储与Jerome Powell。书中涵盖公司债到政府债、新兴市场、扬基债与欧洲债券、FRN、高收益、MBS、期货、互换、回购、货币市场基金和QE等主题。书评还提到一些轶事，如最早的债券本质上是强制富人提供的非自愿贷款，以及部分战时债券购买者误以为自己需要支付利息但仍出于爱国购买。书评认为该书不仅是一本历史人物与轶事的合集，更解释了当今金融体系的渊源，并推荐给固收从业者及普通读者。",
+      "detail_en": "The reviewer notes that bonds are so embedded in the financial landscape that it is easy to forget they were once an innovation. Wigglesworth centers the book on the question 'how did we get here?', distilling centuries of complex economic and financial history into a readable narrative. The book is chronological, with each chapter built around a real-life protagonist, starting from 12th-century Europe with Doge Vitale II and his fleet of warships, through Napoleon meeting his match against the bond market, Jay Cooke and railway mania, the rise of the Rothschild banking dynasty, to Michael Milken's high-yield revolution, Lewis Ranieri's MBS era, and the modern-day Fed with Jerome Powell as Covid-19 throws markets into turmoil. Topics covered include the journey from corporate to government bonds, emerging markets, yankee and eurobonds, FRNs, high yield, MBS, futures, swaps, repo, money market funds and QE. The review also mentions anecdotes such as the first bond being essentially an involuntary loan forced upon the wealthy, and some first-time wartime bond purchasers thinking they would have to make the interest payments but buying the bonds anyway out of patriotism. The reviewer concludes that the book is more than a collection of historical figures and anecdotes; it explains the ancestry of today's financial system and is recommended for fixed-income professionals and general readers alike.",
+      "conclusion_zh": "该书适合固收从业者及希望理解债券市场历史渊源的普通读者，有助于认识许多所谓现代金融创新其实有历史先例。",
+      "conclusion_en": "The book is suitable for fixed-income professionals and general readers seeking to understand the historical origins of the bond market, showing that many supposedly modern financial innovations have historical antecedents.",
+      "key_points": [
+        {
+          "zh": "该书以真实历史人物为主线，按时间顺序讲述债券市场从12世纪到现代美联储的演变。",
+          "en": "The book uses real-life protagonists to chronologically narrate the bond market's evolution from 12th-century Europe to the modern Fed."
+        },
+        {
+          "zh": "内容涵盖公司债、政府债、新兴市场、高收益、MBS、期货、互换、回购、货币市场基金和QE等广泛主题。",
+          "en": "It covers a wide range of topics including corporate and government bonds, emerging markets, high yield, MBS, futures, swaps, repo, money market funds and QE."
+        },
+        {
+          "zh": "书评认为该书研究扎实、叙事生动，将原本可能枯燥的金融史变得引人入胜。",
+          "en": "The reviewer finds the book meticulously researched and engagingly written, turning potentially dry financial history into an engaging read."
+        },
+        {
+          "zh": "书中包含诸多轶事，如最早的债券是强制富人的非自愿贷款，战时债券购买者误以为自己需付利息但仍购买。",
+          "en": "The book includes anecdotes such as the first bond being an involuntary loan forced upon the wealthy, and wartime bond buyers mistakenly thinking they had to pay interest but purchasing anyway."
+        }
+      ],
+      "tags": [
+        "bond market history",
+        "book review",
+        "fixed income",
+        "financial history"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:4Z6chlcUK7M",
@@ -9332,6 +10195,50 @@
         "duration hedging",
         "US Treasuries",
         "relative value"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:11PZRoJo48k",
+      "title": "Asia Fixed Income Needs a Bigger Map",
+      "title_zh": "亚洲信贷策略主管：投资者应从更广泛的亚洲固收市场中受益",
+      "url": "https://www.youtube.com/watch?v=11PZRoJo48k",
+      "published_at": "2026-10-13T21:03:44+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "亚洲信贷策略主管Kelvin Pang指出，投资者可通过覆盖更多国家、本币信贷及美元计价债券的更广泛亚洲固定收益市场获益。原文未提供具体数据或个券细节。",
+      "summary_en": "Head of Asia Credit Strategy Kelvin Pang explains that investors would benefit from a broader Asian fixed income market, with opportunities across more countries, local-currency credit and dollar-denominated bonds. No specific data or issuer details are provided.",
+      "detail_zh": "亚洲信贷策略主管Kelvin Pang表示，投资者将从更广泛的亚洲固定收益市场中受益。该市场提供的机会覆盖更多国家、本币信贷以及美元计价债券。原文未披露具体国家名单、收益率水平、久期建议或个券名称，也未给出对美股的影响判断。",
+      "detail_en": "Kelvin Pang, Head of Asia Credit Strategy, explains why investors would benefit from a broader fixed income market in Asia. Opportunities span more countries, local-currency credit and dollar-denominated bonds. The source does not provide specific country lists, yield levels, duration recommendations, issuer names, or any assessment of impact on US equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "更广泛的亚洲固收市场覆盖更多国家",
+          "en": "A broader Asian fixed income market spans more countries"
+        },
+        {
+          "zh": "机会包括本币信贷",
+          "en": "Opportunities include local-currency credit"
+        },
+        {
+          "zh": "机会包括美元计价债券",
+          "en": "Opportunities include dollar-denominated bonds"
+        },
+        {
+          "zh": "投资者可从更广泛的市场中受益",
+          "en": "Investors would benefit from the broader market"
+        }
+      ],
+      "tags": [
+        "Asia credit",
+        "fixed income",
+        "local currency",
+        "dollar bonds"
       ],
       "tickers": [],
       "sentiment": "neutral"
