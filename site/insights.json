@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-10-20T17:12:38.732284+00:00",
+  "generated_at": "2026-10-20T18:13:33.858512+00:00",
   "insights": [
+    {
+      "guid": "yt:tqvhjNiTZuQ",
+      "title": "Open Interest 10/20/2026",
+      "title_zh": "AI交易遭遇估值与债务担忧，通用汽车上调回购",
+      "url": "https://www.youtube.com/watch?v=tqvhjNiTZuQ",
+      "published_at": "2026-10-20T17:46:37+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博Open Interest节目指出，某数据中心首发因估值与债务担忧重挫，AI交易动能减弱，股市因AI焦虑回落；通用汽车收紧利润展望并启动200亿美元回购。节目还从Citadel证券会议带来关于AI、市场与劳动力/通胀前景的讨论。",
+      "summary_en": "Bloomberg Open Interest highlights a data-center debut that crashed on valuation and debt fears, sapping momentum from the AI trade and weighing on stocks. GM tightened its profit outlook and launched a $20 billion buyback, while guests at Citadel Securities' conference discussed AI, markets, the labor market and Fed expectations.",
+      "detail_zh": "节目开场聚焦AI板块的“体检”：一家数据中心的首次亮相因估值与债务担忧而重挫，成为AI基础设施投资风险的缩影。随后讨论覆盖英伟达、Anthropic、AI基础设施支出与半导体复苏，以及AI变现、CoreWeave风险与企业AI需求。盘面方面，随着AI焦虑回归，股市走低，AI交易失去动能。个股层面，通用汽车收紧利润展望并宣布200亿美元股票回购。节目还包含科技、工业与消费板块的重要分析师评级变动，以及运输趋势与物流成本等经济信号。此外，Dani Burger在Citadel证券“未来全球市场”会议上对话Scott Rubner、Jim Esposito与Konstantine Buhler，涉及AI、市场走向、劳动力市场健康度、通胀展望与美联储预期，以及风险投资与AI初创企业的私募市场机会。",
+      "detail_en": "The program opens with an AI gut-check: a data-center debut crashed on valuation and debt fears, underscoring risks in AI infrastructure spending. Discussion spans Nvidia, Anthropic, AI infrastructure spending and the semiconductor recovery, plus AI monetization, CoreWeave risks and enterprise AI demand. Stocks slipped as AI jitters returned and the AI trade lost momentum. On single names, GM tightened its profit outlook and launched a $20 billion buyback. The show also covers major analyst rating changes across tech, industrials and consumer stocks, and transportation trends and logistics costs as economic signals. Dani Burger speaks live from Citadel Securities' Future of Global Markets Conference with Scott Rubner, Jim Esposito and Konstantine Buhler on AI, markets, labor market health, the inflation outlook and Fed expectations, as well as venture capital and private-market opportunities in AI startups.",
+      "conclusion_zh": "AI基础设施的估值与债务风险正成为市场关注点，AI交易动能减弱；投资者需关注AI相关企业的融资结构与变现能力，同时留意美联储预期与劳动力市场信号。",
+      "conclusion_en": "Valuation and debt risks in AI infrastructure are coming into focus as the AI trade loses momentum; investors should watch AI-related financing structures and monetization, alongside Fed expectations and labor-market signals.",
+      "key_points": [
+        {
+          "zh": "一家数据中心的首次亮相因估值与债务担忧而重挫，引发对AI基础设施投资的审视。",
+          "en": "A data-center debut crashed on valuation and debt fears, prompting a gut-check on AI infrastructure spending."
+        },
+        {
+          "zh": "随着AI焦虑回归，股市走低，AI交易失去动能。",
+          "en": "Stocks slipped as AI jitters returned and the AI trade lost momentum."
+        },
+        {
+          "zh": "通用汽车收紧利润展望，并启动200亿美元股票回购。",
+          "en": "GM tightened its profit outlook and launched a $20 billion buyback."
+        },
+        {
+          "zh": "节目讨论覆盖英伟达、Anthropic、AI变现、CoreWeave风险与企业AI需求。",
+          "en": "Coverage included Nvidia, Anthropic, AI monetization, CoreWeave risks and enterprise AI demand."
+        },
+        {
+          "zh": "Citadel证券会议嘉宾就AI、市场、劳动力市场、通胀与美联储预期发表看法。",
+          "en": "Citadel Securities conference guests discussed AI, markets, the labor market, inflation and Fed expectations."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "data center",
+        "GM buyback",
+        "Fed expectations",
+        "market sentiment"
+      ],
+      "tickers": [
+        "GM",
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:g3AfNICarCI",
       "title": "Hard Lessons | Dan Ivascyn",
@@ -10617,57 +10669,6 @@
         "perpetual contracts",
         "CFDs",
         "derivatives"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:N2BIrJpEESs",
-      "title": "Private Equity: Beyond the Beta Play",
-      "title_zh": "黑石私募股权负责人：私募市场扩张下的PE配置逻辑与AI等主题机会",
-      "url": "https://www.youtube.com/watch?v=N2BIrJpEESs",
-      "published_at": "2026-10-13T17:40:16+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "other",
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "黑石私募股权高级董事总经理Viral Patel在摩根士丹利《The Alts Report》中指出，美国年收入超1亿美元的公司中逾80%为私有，上市公司数量自2000年以来减少约40%，私募市场已成为投资版图的重要部分。机构投资者配置私募股权的两大理由是分散化收益与潜在超额回报，代价是牺牲流动性。当前最看好的主题包括AI价值链、AI难以颠覆的航空航天与国防及体验经济、以及全球电力能源。",
-      "summary_en": "Viral Patel, Senior Managing Director at Blackstone Private Equity, said on Morgan Stanley's The Alts Report that over 80% of US companies with more than $100 million in revenue are private, and the number of US public companies has declined about 40% since 2000. Institutions allocate to private equity for diversification and potential excess returns, trading off liquidity. His top themes are the AI value chain, areas AI is less likely to disrupt such as aerospace and defense and experiential spending, and global power and energy.",
-      "detail_zh": "黑石私募股权高级董事总经理Viral Patel在摩根士丹利《The Alts Report》中表示，当今投资版图很大一部分已转向私募市场：美国年收入超过1亿美元的公司中，超过80%为私有企业，而美国上市公司数量自2000年以来下降约40%。他指出，养老金等大型机构通常将20%至30%的资产配置于另类资产（私募股权为其中一部分），而家族办公室和捐赠基金的比例有时可达50%至60%。这些投资者配置私募股权的两大原因是分散化收益和潜在更高回报；在公开市场只能覆盖全球经济的10%至20%，私募市场则提供更广泛的经济敞口，但需以牺牲流动性为代价。关于优秀PE管理人的能力，Patel强调三点：一是项目获取，需要有前瞻性观点、数据优势与广泛网络，因为许多交易并非来自公开竞标而是专有渠道；二是承销能力，即识别公司风险与机会的能力；三是主动的价值创造，他指出如今已不能仅靠买入并等待beta上涨，必须制定计划、推动转型，这也是区分强弱管理人的关键。在主题机会方面，Patel首先提到AI，看好沿AI价值链投资，从能源与电力生态、数据中心及其配套服务、模型层到应用层，当前数字基础设施机会最大，未来机会将更多转向应用端。其次是AI较难颠覆的领域，如航空航天与国防，以及与现场体验相关的旅行、休闲和酒店业。第三是全球电力能源，国家韧性日益重要，数据中心建设推动电力需求，能源安全正成为全球关注议题。",
-      "detail_en": "Viral Patel, Senior Managing Director at Blackstone Private Equity, said on Morgan Stanley's The Alts Report that much of today's investment universe has shifted to private markets: over 80% of US companies generating more than $100 million in revenue are private, while the number of US public companies has declined by about 40% since 2000. Large institutions such as pension plans typically allocate 20% to 30% of their portfolios to alternative assets, with private equity being a portion, while families and endowments can allocate 50% to 60%, he said. Investors add private equity for two reasons: diversification and the potential to earn increased returns. Public markets only give access to 10% to 20% of the global economy, whereas private markets may add diversification and access to the real economy, though investors give up some liquidity. On what makes a successful private equity manager, Patel highlighted three core capabilities: sourcing, which starts with a point of view on where the world is going, proprietary data sets and a broad network, since many deals are proprietarily sourced rather than broadly marketed; underwriting, meaning skill at identifying risks and opportunities within a company; and active value creation. He said gone are the days of buying something as a beta play and watching it increase over time—managers now need a plan to improve value, and being an active owner driving transformation is the key capability that differentiates strong managers from weaker ones. On megatrends, Patel first pointed to AI, with opportunities across the AI value chain from energy and the power ecosystem to data centers, the services economy around them, the model layer and increasingly applications; digital infrastructure is currently where Blackstone sees the most opportunity, with the opportunity set expected to evolve toward applications over time. Second, areas AI is less likely to disrupt, such as aerospace and defense, and areas tied to live experiences including travel, leisure and hospitality. Third, power and energy globally, driven by national resilience, data center build-out and growing energy security concerns.",
-      "conclusion_zh": "私募市场已承载大部分美国经济敞口，投资者需以流动性换取分散化与潜在超额回报；当前PE机会集中于AI价值链、AI难颠覆领域及全球电力能源。",
-      "conclusion_en": "Private markets now hold much of the US economic exposure, with investors trading liquidity for diversification and potential excess returns; current PE opportunities center on the AI value chain, areas AI is less likely to disrupt, and global power and energy.",
-      "key_points": [
-        {
-          "zh": "美国年收入超1亿美元的公司中逾80%为私有，上市公司数量自2000年以来减少约40%，私募市场成为投资版图重要组成。",
-          "en": "Over 80% of US companies with more than $100 million in revenue are private, and US public company count has fallen about 40% since 2000, making private markets a major part of the investable universe."
-        },
-        {
-          "zh": "机构配置私募股权的两大理由是分散化收益与潜在超额回报，代价是牺牲流动性；大型养老金配置20%-30%，家族与捐赠基金可达50%-60%。",
-          "en": "Institutions allocate to private equity for diversification and potential excess returns, trading off liquidity; large pensions allocate 20%-30%, while families and endowments can reach 50%-60%."
-        },
-        {
-          "zh": "优秀PE管理人的三大核心能力：专有项目获取、承销（识别风险与机会）、以及主动推动价值创造与转型。",
-          "en": "Three core capabilities of a successful PE manager: proprietary sourcing, underwriting (identifying risks and opportunities), and active value creation and transformation."
-        },
-        {
-          "zh": "黑石看好AI价值链投资，从能源与电力、数据中心及配套服务、模型层到应用层，当前数字基础设施机会最大，未来将向应用端转移。",
-          "en": "Blackstone favors investing across the AI value chain—energy and power, data centers and related services, the model layer and applications—with digital infrastructure currently offering the most opportunity and a shift toward applications over time."
-        },
-        {
-          "zh": "另两大主题为AI较难颠覆的领域（航空航天与国防、旅行休闲酒店等体验经济）以及全球电力能源与国家韧性。",
-          "en": "Two other themes are areas AI is less likely to disrupt (aerospace and defense, and experiential areas like travel, leisure and hospitality) and global power and energy tied to national resilience."
-        }
-      ],
-      "tags": [
-        "private equity",
-        "alternative investments",
-        "AI value chain",
-        "energy",
-        "aerospace defense"
       ],
       "tickers": [],
       "sentiment": "neutral"
