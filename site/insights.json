@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-20T11:15:18.701168+00:00",
+  "generated_at": "2026-10-20T12:19:45.284128+00:00",
   "insights": [
+    {
+      "guid": "yt:ZPMGnIr8vnQ",
+      "title": "AI Fears Return With Data Center IPO Flop; SpaceX, Netflix Earnings",
+      "title_zh": "亚洲AI数据中心IPO遇冷，软银CDS飙升，市场情绪承压",
+      "url": "https://www.youtube.com/watch?v=ZPMGnIr8vnQ",
+      "published_at": "2026-10-20T11:46:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "韩国数据中心公司IPO首日大跌32%，显示投资者对AI数据中心估值和商业模式的抵触情绪升温。软银信用违约互换升至近四年高位，亚洲AI与芯片股承压。市场关注后续Anthropic等大型IPO对AI主题的检验。",
+      "summary_en": "A South Korean data center firm's IPO plunged 32% on debut, signaling investor pushback against AI data center valuations and business models. SoftBank's credit default swaps rose to the highest in nearly four years, pressuring Asian AI and chip stocks. The market awaits major AI IPOs like Anthropic as a key test of the theme.",
+      "detail_zh": "亚洲股市尤其是AI和芯片板块表现疲软，软银的信用违约互换升至近四年最高水平。韩国一家数据中心公司规模1.5亿美元的IPO首日一度暴跌38%，收盘跌32%，成为韩国近年来大型融资中表现最差的一例。Paul Dobson指出，这加剧了市场对数据中心相关公司估值和商业模式的担忧，此前澳大利亚和欧洲也出现了类似投资者压价的情况。CoreWeave债券交易处于困境，但其商业模式被摩根大通和高盛视为类似利差交易，风险在于数据中心建设因能源、规划或施工延迟，且客户集中度极高。日本国债拍卖需求强劲，20年期利差创纪录，可能反映海外或保险需求，但也可能意味着资金从欧洲回流日本。Nscale在与微软交易告吹后，正与Anthropic洽谈价值450亿美元的算力出售协议，但项目交付风险仍存。",
+      "detail_en": "Asian stocks, particularly AI and chip players, were weak, with SoftBank's credit default swaps rising to the highest in nearly four years. A $150 million IPO by a South Korean data center firm plunged as much as 38% on debut and closed down 32%, the worst performance for any significant fundraising in South Korea in recent years. Paul Dobson noted this adds to concerns about valuations and business models of data center-related companies, following similar investor pushback in Australia and Europe. CoreWeave bonds are trading in distress, though its business model is seen by J.P. Morgan and Goldman Sachs as a spread trade, with risks including delays in data center construction due to energy, planning, or construction issues, and high customer concentration. Strong demand for Japanese government bonds, with a record spread for the 20-year sector, may reflect foreign or insurance demand, but could also indicate repatriation of funds from Europe. Nscale, after a failed deal with Microsoft, is in talks to sell computing power to Anthropic in a deal worth $45 billion, though delivery risks remain.",
+      "conclusion_zh": "AI数据中心板块的IPO遇冷和信用市场压力显示投资者正重新审视该领域的估值与执行风险，短期情绪偏谨慎，后续大型IPO将成为关键检验。",
+      "conclusion_en": "The cold reception for AI data center IPOs and credit market stress indicate investors are reassessing valuation and execution risks in the sector; near-term sentiment is cautious, and upcoming major IPOs will be a key test.",
+      "key_points": [
+        {
+          "zh": "韩国数据中心公司IPO首日暴跌32%，显示投资者对AI数据中心估值和商业模式的抵触。",
+          "en": "A South Korean data center IPO plunged 32% on debut, showing investor pushback against AI data center valuations and business models."
+        },
+        {
+          "zh": "软银信用违约互换升至近四年高位，亚洲AI与芯片股承压。",
+          "en": "SoftBank's credit default swaps rose to the highest in nearly four years, pressuring Asian AI and chip stocks."
+        },
+        {
+          "zh": "CoreWeave债券处于困境，但其商业模式被大行视为利差交易，风险在于建设延迟和客户集中。",
+          "en": "CoreWeave bonds are in distress, but its business model is viewed as a spread trade by major banks, with risks in construction delays and customer concentration."
+        },
+        {
+          "zh": "日本国债拍卖需求强劲，20年期利差创纪录，可能反映资金从欧洲回流日本。",
+          "en": "Strong demand for Japanese government bonds with a record 20-year spread may reflect repatriation of funds from Europe to Japan."
+        },
+        {
+          "zh": "Nscale在与微软交易告吹后，正与Anthropic洽谈价值450亿美元的算力协议。",
+          "en": "Nscale, after a failed Microsoft deal, is in talks with Anthropic for a $45 billion computing power agreement."
+        }
+      ],
+      "tags": [
+        "AI data centers",
+        "IPO",
+        "SoftBank",
+        "credit risk",
+        "Japan bonds"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "4955445",
       "title": "Wall Street Breakfast Podcast: 3M Makes A Prime Connection",
@@ -443,6 +492,55 @@
         "IPO",
         "Treasury yields",
         "energy prices"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:eJfKPH6mNDo",
+      "title": "US Tightens Federal Access to DeepSeek",
+      "title_zh": "中国科技股领跌，央行政策调整与AI监管成焦点",
+      "url": "https://www.youtube.com/watch?v=eJfKPH6mNDo",
+      "published_at": "2026-10-20T05:00:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "中国科技股大幅下挫，区域股指连续第二日下跌。央行释放信号，拟将隔夜逆回购利率替代7天逆回购作为新政策基准，前央行官员郭凯认为此举不应被解读为主动宽松。美国联邦机构被禁止使用DeepSeek AI模型，引发对中美科技脱钩的担忧。",
+      "summary_en": "Chinese tech stocks led steep declines as the regional gauge headed for a second day of losses. The PBOC signaled it may shift its policy benchmark from the 7-day reverse repo rate to the overnight rate, which former PBOC official Guo Kai said should not be read as active easing. U.S. federal agencies were banned from using DeepSeek AI models, raising concerns over U.S.-China tech decoupling.",
+      "detail_zh": "中国科技股领跌，区域股指势将连续第二日下跌，香港市场在假期后重新开盘。贷款市场报价利率（LPR）维持不变，1年期为3.0%，5年期为3.5%。央行在金融街论坛上释放信号，拟将隔夜逆回购利率替代当前的7天逆回购利率作为新的政策基准，该隔夜利率据报道设定在较低水平。前央行官员郭凯表示，此举是央行多年来推动的政策调整，旨在转向市场最活跃的部分，并让隔夜利率向收益率曲线其他部分传导，不应被解读为主动宽松。郭凯还指出，中国政府已推出多项刺激措施，包括5000亿元地方债额度、降低贷款利率以及补贴计划，加上年底前将部署的8000亿元新政策工具，合计足以实现增长目标。中国第三季度GDP增长4.5%，处于4.5%至5%目标区间的低端，第二季度为4.3%。此外，美国联邦机构被禁止使用DeepSeek AI模型，指控该中国初创公司收集美国人的潜在敏感数据。印尼市场面临MSCI警告，可能被降级为独立市场地位。",
+      "detail_en": "Chinese tech stocks led steep declines, with the regional gauge set for a second day of losses as Hong Kong markets prepared to reopen from a holiday. The loan prime rates (LPR) were unchanged at 3.0% for the one-year and 3.5% for the five-year. At the Financial Street Forum, the PBOC signaled it may shift its policy benchmark from the current 7-day reverse repo rate to the overnight reverse repo rate, which is reportedly set at a lower level. Former PBOC official Guo Kai said this is a multi-year policy adjustment aimed at moving to the most active part of the market and letting the overnight rate transmit to other parts of the yield curve, and should not be read as active easing. Guo also noted that the Chinese government has rolled out stimulus measures, including 500 billion yuan in local bond quotas, lower lending rates, and subsidy programs, plus another 800 billion yuan in new policy instruments to be deployed toward the end of the year, which together should be sufficient to achieve the growth target. China's Q3 GDP grew 4.5%, at the bottom of the 4.5%-5% target range, compared with 4.3% in Q2. Additionally, U.S. federal agencies were banned from using DeepSeek AI models, accusing the Chinese startup of collecting potentially sensitive data from Americans. Indonesia faces an MSCI warning of a potential downgrade to standalone status.",
+      "conclusion_zh": "央行政策基准调整更多是技术性优化而非主动宽松，结合GDP处于目标低端，市场对进一步刺激的预期可能需谨慎；同时美国对DeepSeek的禁令加剧中美科技领域紧张。",
+      "conclusion_en": "The PBOC's benchmark shift is more technical optimization than active easing; with GDP at the low end of the target, expectations for further stimulus may need caution, while the U.S. ban on DeepSeek heightens U.S.-China tech tensions.",
+      "key_points": [
+        {
+          "zh": "中国科技股领跌，区域股指连续第二日下跌，香港市场假期后重开。",
+          "en": "Chinese tech stocks led declines, with the regional gauge falling for a second day as Hong Kong markets reopened after a holiday."
+        },
+        {
+          "zh": "央行释放信号，拟将隔夜逆回购利率作为新政策基准，前官员郭凯称不应解读为主动宽松。",
+          "en": "The PBOC signaled a shift to the overnight reverse repo rate as the new policy benchmark; former official Guo Kai said it should not be read as active easing."
+        },
+        {
+          "zh": "LPR维持不变：1年期3.0%，5年期3.5%。",
+          "en": "LPR unchanged: 3.0% for the one-year, 3.5% for the five-year."
+        },
+        {
+          "zh": "中国Q3 GDP增长4.5%，处于目标区间低端；郭凯认为现有刺激措施合计足以实现增长目标。",
+          "en": "China's Q3 GDP grew 4.5%, at the low end of the target range; Guo Kai believes existing stimulus measures are sufficient to achieve the growth target."
+        },
+        {
+          "zh": "美国联邦机构被禁止使用DeepSeek AI模型，指控其收集敏感数据。",
+          "en": "U.S. federal agencies were banned from using DeepSeek AI models, accused of collecting sensitive data."
+        }
+      ],
+      "tags": [
+        "China",
+        "PBOC",
+        "DeepSeek",
+        "tech selloff",
+        "stimulus"
       ],
       "tickers": [],
       "sentiment": "negative"
