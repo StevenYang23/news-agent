@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:16:03.283605+00:00",
+  "generated_at": "2026-10-20T15:24:58.593506+00:00",
   "insights": [
     {
       "guid": "yt:Q_0D4NFI61M",
@@ -53,6 +53,46 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:PIHtcbx0_6I",
+      "title": "The Case for Mamdani-Style Populism",
+      "title_zh": "通胀顽固，美联储加息思路遇挑战：战略价格管制引发讨论",
+      "url": "https://www.youtube.com/watch?v=PIHtcbx0_6I",
+      "published_at": "2026-10-20T14:19:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在通胀鲜有降温迹象的背景下，美联储仍依赖加息工具，即使可能推高失业率。Amherst College经济学教授Isabella Weber在播客中提出，应优先保障公民负担得起的基本必需品，并指出战略价格管制的理念正获得更多关注。",
+      "summary_en": "With inflation showing little sign of cooling, the Fed keeps relying on higher interest rates, even at the risk of higher unemployment. Amherst College economics professor Isabella Weber argues on the podcast that affordable essentials should be a priority for democracy, and that the idea of strategic price controls is gaining momentum.",
+      "detail_zh": "原文指出，通胀几乎没有降温的迹象，美联储持续使用加息这一工具，即便这可能带来更高的失业率。Amherst College经济学教授Isabella Weber在Bloomberg的Everybody's Business播客中与Max Chafkin讨论了替代思路。Weber认为，让每个公民负担得起基本必需品应是民主制度的优先事项。她还表示，战略价格管制的理念正在获得更多关注。原文未提供具体通胀数据、利率水平或价格管制方案细节。",
+      "detail_en": "The original text notes that inflation shows little sign of cooling, and the Fed keeps reaching for the same lever of higher interest rates, even at the risk of higher unemployment. Amherst College economics professor Isabella Weber joins Max Chafkin on Bloomberg's Everybody's Business podcast to discuss an alternative approach. Weber argues that affordable essentials for every citizen should be the priority of a democracy. She also says the idea of strategic price controls is gaining momentum. The text does not provide specific inflation figures, interest rate levels, or details of price control proposals.",
+      "conclusion_zh": "在通胀顽固的背景下，战略价格管制作为替代政策思路正受到更多关注，投资者需留意政策辩论可能对通胀预期和利率路径产生的影响。",
+      "conclusion_en": "With inflation stubborn, strategic price controls are drawing more attention as an alternative policy idea; investors should watch how this policy debate may affect inflation expectations and the rate path.",
+      "key_points": [
+        {
+          "zh": "通胀鲜有降温迹象，美联储仍依赖加息，即使可能推高失业率。",
+          "en": "Inflation shows little sign of cooling, and the Fed keeps relying on higher interest rates, even at the risk of higher unemployment."
+        },
+        {
+          "zh": "Isabella Weber认为，让每个公民负担得起基本必需品应是民主制度的优先事项。",
+          "en": "Isabella Weber argues that affordable essentials for every citizen should be the priority of a democracy."
+        },
+        {
+          "zh": "Weber指出，战略价格管制的理念正在获得更多关注。",
+          "en": "Weber says the idea of strategic price controls is gaining momentum."
+        }
+      ],
+      "tags": [
+        "inflation",
+        "Fed",
+        "price controls",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:XsC7_Ejzd5w",
       "title": "Odd Lots: Don Wilson on the GPU Market’s Trillion-Dollar Question",
       "title_zh": "GPU期货缺失推高新型云厂商资本成本",
@@ -95,6 +135,48 @@
         "CoreWeave"
       ],
       "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Y-pDya96NZo",
+      "title": "RBC considers blocking Meta’s Muse AI agent, CEO Dave McKay says",
+      "title_zh": "加拿大皇家银行考虑阻止Meta的AI代理Muse访问客户信息",
+      "url": "https://www.youtube.com/watch?v=Y-pDya96NZo",
+      "published_at": "2026-10-20T14:04:42+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "加拿大皇家银行CEO Dave McKay表示，该行正考虑阻止Meta Platforms旗下热门AI代理Muse访问其客户信息。此举反映银行对第三方AI代理获取客户数据的警惕。",
+      "summary_en": "Royal Bank of Canada CEO Dave McKay said the bank is considering blocking Meta Platforms' popular AI agent Muse from accessing its customer information, highlighting bank caution over third-party AI agents' access to customer data.",
+      "detail_zh": "加拿大皇家银行（RBC）首席执行官Dave McKay表示，该行正在考虑阻止Meta Platforms旗下热门人工智能代理Muse访问RBC的客户信息。原文未披露RBC做出这一考虑的具体原因、时间表或最终决定，也未说明Muse目前是否已获得访问权限。该表态显示，大型银行对第三方AI代理接触客户数据持审慎态度。",
+      "detail_en": "Royal Bank of Canada CEO Dave McKay said the bank is considering blocking Muse, Meta Platforms' popular artificial intelligence agent, from accessing the bank's customer information. The source does not specify the reasons behind the consideration, any timeline, or a final decision, nor whether Muse currently has access. The remark indicates that a major bank is taking a cautious stance on third-party AI agents' access to customer data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "RBC CEO Dave McKay表示，该行正考虑阻止Meta的AI代理Muse访问客户信息。",
+          "en": "RBC CEO Dave McKay said the bank is considering blocking Meta's AI agent Muse from accessing customer information."
+        },
+        {
+          "zh": "Muse被描述为Meta Platforms旗下热门的人工智能代理。",
+          "en": "Muse is described as Meta Platforms' popular artificial intelligence agent."
+        },
+        {
+          "zh": "原文未说明RBC考虑此举的具体原因、时间表或最终决定。",
+          "en": "The source does not specify the reasons, timeline, or final decision behind RBC's consideration."
+        }
+      ],
+      "tags": [
+        "AI agents",
+        "banking",
+        "data access",
+        "Meta Platforms"
+      ],
+      "tickers": [
+        "META"
+      ],
       "sentiment": "neutral"
     },
     {
