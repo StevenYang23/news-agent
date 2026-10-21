@@ -1,6 +1,475 @@
 {
-  "generated_at": "2026-10-21T00:25:34.838181+00:00",
+  "generated_at": "2026-10-21T07:17:53.656977+00:00",
   "insights": [
+    {
+      "guid": "yt:ZsFOfPZ5v58",
+      "title": "BlackRock’s Fink Sees Inflation Risk in Slow Data-Center Buildout",
+      "title_zh": "贝莱德CEO警告：数据中心建设延迟或推高算力成本并威胁经济增长",
+      "url": "https://www.youtube.com/watch?v=ZsFOfPZ5v58",
+      "published_at": "2026-10-21T07:11:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "贝莱德CEO拉里·芬克表示，人工智能需求加速之际，数据中心建设延迟可能推高计算成本并威胁经济增长。他强调，建设速度越快、算力越多，成本下降就越快。",
+      "summary_en": "BlackRock CEO Larry Fink warned that delays in building data centers could raise computing costs and threaten economic growth as AI demand accelerates. He said the faster we build more data centers and the more compute we have, the faster we can bring down costs.",
+      "detail_zh": "贝莱德CEO拉里·芬克在柏林全球对话间隙对彭博的Francine Lacqua表示，随着人工智能需求加速，数据中心建设延迟可能推高计算成本，并威胁经济增长。芬克指出，建设数据中心的速度越快，算力就越多，成本下降也就越快。此番言论将AI基础设施的建设进度与宏观经济增长和成本动态直接关联。",
+      "detail_en": "BlackRock CEO Larry Fink told Bloomberg's Francine Lacqua on the sidelines of the Berlin Global Dialogue that delays in building data centers could raise computing costs and threaten economic growth as demand for artificial intelligence accelerates. Fink said the faster we can build out more data centers, the more compute we have, the faster we can bring down the cost. The remarks directly link the pace of AI infrastructure buildout to macroeconomic growth and cost dynamics.",
+      "conclusion_zh": "芬克的表态将AI基础设施（数据中心）建设进度视为影响算力成本与经济增长的关键变量，值得关注相关建设节奏对成本与增长的影响。",
+      "conclusion_en": "Fink frames the pace of AI infrastructure (data center) buildout as a key variable for computing costs and economic growth, warranting attention to how construction timelines affect costs and growth.",
+      "key_points": [
+        {
+          "zh": "芬克警告，数据中心建设延迟可能推高计算成本并威胁经济增长。",
+          "en": "Fink warned that delays in building data centers could raise computing costs and threaten economic growth."
+        },
+        {
+          "zh": "芬克认为，建设速度越快、算力越多，成本下降就越快。",
+          "en": "Fink said the faster we build more data centers and the more compute we have, the faster we can bring down costs."
+        },
+        {
+          "zh": "上述判断的背景是人工智能需求加速。",
+          "en": "The remarks come as demand for artificial intelligence accelerates."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "data centers",
+        "computing costs",
+        "economic growth"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:jWY7rsdrtb0",
+      "title": "Bank Indonesia on a Knife Edge Amid Rupiah Pressure and MSCI Threat",
+      "title_zh": "彭博节目要点：亚洲AI交易回暖，Citadel创始人警示AI泡沫",
+      "url": "https://www.youtube.com/watch?v=jWY7rsdrtb0",
+      "published_at": "2026-10-21T07:03:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "强劲财报帮助亚洲AI交易复苏，但Citadel创始人兼CEO Ken Griffin对AI泡沫发出警告，LBBW首席经济学家Moritz Kraemer亦提示AI交易的警示信号。节目还涉及马斯克借SpaceX势头推动特斯拉合并、Anthropic或将在算力上支出7500亿美元，以及印尼加息押注与印度Jio IPO等话题。",
+      "summary_en": "Strong earnings help revive Asia's AI trade, while Citadel founder and CEO Ken Griffin sounds an AI bubble warning and LBBW Chief Economist Moritz Kraemer flags warning signs for the AI trade. The program also covers Musk seizing on SpaceX momentum with a push toward a Tesla merger, Anthropic potentially spending $750B on computing costs, Indonesia rate-hike bets, and India's Jio IPO.",
+      "detail_zh": "节目首先指出，强劲的财报表现帮助亚洲AI交易回暖。随后，Citadel创始人兼CEO Ken Griffin对AI泡沫发出警告；LBBW首席经济学家Moritz Kraemer也就AI交易的警示信号发表看法。节目还提到，马斯克借SpaceX的势头推动特斯拉合并；据《华尔街日报》报道，Anthropic可能在算力成本上支出7500亿美元。在宏观与市场方面，受MSCI相关冲击影响，印尼加息押注上升，分析师认为印尼持股集中度较高的股票被削减是一个积极举措；汇丰高级亚洲经济学家Yun Liu解释了为何稳定印尼盾是印尼央行首要任务，并讨论了印尼及东南亚进一步加息的理由。此外，印度Jio IPO以创纪录的32亿美元规模开放公开认购；美国考虑让印度信实集团提炼委内瑞拉石油。",
+      "detail_en": "The program begins by noting that strong earnings help revive Asia's AI trade. Citadel founder and CEO Ken Griffin then sounds an AI bubble warning, and LBBW Chief Economist Moritz Kraemer discusses warning signs for the AI trade. It also mentions that Musk is seizing on SpaceX momentum with a push toward a Tesla merger, and that Anthropic may spend $750B on computing costs, according to the WSJ. On macro and markets, Indonesia rate-hike bets rise amid an MSCI shock, with analysts seeing the cut of Indonesia's tightly held stock as a positive move; HSBC Senior Asian Economist Yun Liu explains why stabilizing the rupiah is Bank Indonesia's top priority and discusses the case for further rate hikes across Indonesia and Southeast Asia. Additionally, India's Jio IPO opens for public bids in a record $3.2B sale, and the US eyes India's Reliance to refine Venezuelan oil.",
+      "conclusion_zh": "AI交易情绪出现分化：亚洲财报支撑与泡沫警告并存，需关注算力资本开支与估值风险。",
+      "conclusion_en": "Sentiment on the AI trade is diverging: Asian earnings support coexists with bubble warnings, warranting attention to compute capex and valuation risk.",
+      "key_points": [
+        {
+          "zh": "强劲财报帮助亚洲AI交易回暖。",
+          "en": "Strong earnings help revive Asia's AI trade."
+        },
+        {
+          "zh": "Citadel创始人兼CEO Ken Griffin对AI泡沫发出警告。",
+          "en": "Citadel founder and CEO Ken Griffin sounds an AI bubble warning."
+        },
+        {
+          "zh": "LBBW首席经济学家Moritz Kraemer讨论AI交易的警示信号。",
+          "en": "LBBW Chief Economist Moritz Kraemer discusses warning signs for the AI trade."
+        },
+        {
+          "zh": "据《华尔街日报》报道，Anthropic可能在算力成本上支出7500亿美元。",
+          "en": "Anthropic may spend $750B on computing costs, per WSJ."
+        },
+        {
+          "zh": "受MSCI冲击影响印尼加息押注上升；汇丰Yun Liu称稳定印尼盾是印尼央行首要任务。",
+          "en": "Indonesia rate-hike bets rise amid MSCI shock; HSBC's Yun Liu says stabilizing the rupiah is Bank Indonesia's top priority."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "AI bubble",
+        "Indonesia rates",
+        "Jio IPO",
+        "Anthropic"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:754gxmrYnwE",
+      "title": "UK to Send Fighter Jets to Defend Saudi Arabia From Houthi Attacks",
+      "title_zh": "AI盈利提振美股，但Griffin警示泡沫；Anthropic算力承诺达7500亿美元",
+      "url": "https://www.youtube.com/watch?v=754gxmrYnwE",
+      "published_at": "2026-10-21T06:52:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国AI盈利强劲重燃科技股热情，亚洲与美股上涨，但Ken Griffin警告AI投资热潮显现泡沫迹象。Anthropic的算力承诺或达7500亿美元，上半年营收163亿美元却净亏807亿美元。RBC的Chiriseri对长端美债保持谨慎，担忧法国预算风险自我强化。",
+      "summary_en": "Strong US AI earnings revive enthusiasm for tech stocks, lifting Asian and US markets, though Ken Griffin warns the AI investment boom shows bubble signs. Anthropic's computing commitments could reach $750 billion; H1 2026 revenue was $16.3 billion against an $80.7 billion net loss. RBC's Chiriseri remains cautious on longer-dated US Treasuries and flags self-reinforcing concerns over France's budget.",
+      "detail_zh": "英国计划部署皇家空军台风战斗机，保护沙特城市免受胡塞武装导弹和无人机袭击，袭击正考验沙特防御并加剧其经济压力；沙特2026年上半年支出增长15%。霍尔木兹海峡船只遇袭威胁原油交付，油价走高。亚洲股市与美股因美国AI盈利强劲而上涨，但Ken Griffin警告AI投资热潮显现泡沫迹象。马斯克支持特斯拉与SpaceX合并的想法，两家公司已成立委员会探讨潜在合并，但尚未达成协议。WSJ报道Anthropic的算力承诺最终可能达7500亿美元，包括约4500亿美元的云协议（7至10年）；其需求超过可用算力，AI相关损害的潜在责任是另一大风险；2026年上半年营收163亿美元，算力与基础设施支出近90亿美元，净亏损807亿美元（主要归因于会计调整）。Markets Live讨论强劲增长是否可能推动美债收益率创新高；RBC Wealth Management英国及欧洲固定收益主管Rufaro Chiriseri对长端美债保持谨慎，并讨论法国预算担忧可能自我强化。Netflix面临连续第四个季度营收增长放缓，Ted Sarandos承认美国业务扩张不及公司期望。Emirates NBD第三季度营业收入143亿迪拉姆，略高于142亿迪拉姆的预期；迪拜豪宅市场从纪录水平降温，Knight Frank统计该季度有86笔售价至少1000万美元的房屋销售；Maven计划关闭纽约办公室，同时在迪拜扩张。APEC财长会上，中国蓝佛安呼吁协调应对全球经济不确定性；欧洲央行首席经济学家Philip Lane认为欧元更广泛的国际使用可增强央行管理通胀的能力。泽连斯基积极评价近期与华盛顿的讨论，美国特使Witkoff准备会见普京。塞内加尔债券因预算争端大幅下跌；南非Godongwana预计将维持财政纪律，关注政府能否改善2026-27年合并赤字占GDP 4%的预测；拟议的财政锚有助于抑制公共债务，穆迪认为南非可能自2009年以来首次获得评级上调。",
+      "detail_en": "Britain plans to deploy RAF Typhoon fighters to defend Saudi cities against Houthi missiles and drones; the attacks are testing the kingdom's defences and adding to economic pressures, with spending up 15% in H1 2026. Oil moves higher as attacks on ships in the Strait of Hormuz threaten crude deliveries. Asian shares and US markets gain as stronger American AI earnings revive enthusiasm for tech stocks, though Ken Griffin warns the AI investment boom shows signs of a bubble. Elon Musk backs combining Tesla and SpaceX; both have formed committees to explore a potential merger, but no agreement has been reached. The WSJ reports Anthropic's computing commitments could eventually reach $750 billion, including around $450 billion in cloud agreements over seven to ten years; demand exceeds available computing capacity, and potential liability for AI-related harm is another major risk; H1 2026 figures show revenue of $16.3 billion, nearly $9 billion spent on computing and infrastructure, and an $80.7 billion net loss largely attributable to accounting adjustments. Markets Live considers whether strong growth could push Treasury yields to fresh highs; Rufaro Chiriseri, RBC Wealth Management's Head of Fixed Income for the UK and Europe, remains cautious about longer-dated US bonds and discusses how concerns about passing France's budget risk becoming self-reinforcing. Netflix faces a fourth consecutive quarter of slowing revenue growth; Ted Sarandos acknowledges the US business is not expanding as quickly as the company would like. Emirates NBD reports Q3 operating income of AED14.3 billion, slightly above the AED14.2 billion estimate; Dubai's luxury housing market cools from record levels, with Knight Frank counting 86 sales of homes costing at least $10 million during the quarter; Maven plans to close its New York office as it builds its presence in Dubai. At the APEC finance ministers' gathering, China's Lan Fo'an calls for a coordinated response to global economic uncertainty; ECB Chief Economist Philip Lane argues wider international use of the euro could strengthen the central bank's ability to manage inflation. Zelenskyy describes recent discussions with Washington positively, while US envoy Steve Witkoff prepares to meet Putin. Senegal's bonds fall sharply as a budget dispute unsettles investors; in South Africa, Enoch Godongwana is expected to maintain fiscal discipline, with attention on whether the government can improve on its consolidated deficit forecast of 4% of GDP for 2026-27; a proposed fiscal anchor would help restrain public debt, while Moody's sees the possibility of its first South African rating upgrade since 2009.",
+      "conclusion_zh": "AI盈利支撑科技股情绪，但Griffin的泡沫警告与Anthropic巨额算力承诺提示AI资本开支的可持续性风险；长端美债与法国预算风险值得关注。",
+      "conclusion_en": "AI earnings support tech sentiment, but Griffin's bubble warning and Anthropic's massive computing commitments flag sustainability risks in AI capex; watch longer-dated Treasuries and France's budget risk.",
+      "key_points": [
+        {
+          "zh": "美国AI盈利强劲重燃科技股热情，亚洲与美股上涨；但Ken Griffin警告AI投资热潮显现泡沫迹象。",
+          "en": "Strong US AI earnings revive tech enthusiasm, lifting Asian and US markets; but Ken Griffin warns the AI investment boom shows bubble signs."
+        },
+        {
+          "zh": "Anthropic算力承诺或达7500亿美元（含约4500亿美元云协议），上半年营收163亿美元、净亏807亿美元。",
+          "en": "Anthropic's computing commitments could reach $750 billion (including ~$450 billion in cloud agreements); H1 revenue $16.3 billion against an $80.7 billion net loss."
+        },
+        {
+          "zh": "RBC的Chiriseri对长端美债保持谨慎，并担忧法国预算风险可能自我强化。",
+          "en": "RBC's Chiriseri remains cautious on longer-dated US Treasuries and flags concerns that France's budget risk could become self-reinforcing."
+        },
+        {
+          "zh": "霍尔木兹海峡船只遇袭威胁原油交付，油价走高；英国拟部署台风战机保护沙特。",
+          "en": "Attacks on ships in the Strait of Hormuz threaten crude deliveries, pushing oil higher; Britain plans to deploy Typhoon jets to defend Saudi Arabia."
+        },
+        {
+          "zh": "Netflix连续第四个季度营收增长放缓，美国业务扩张不及预期；迪拜豪宅销售从纪录水平降温。",
+          "en": "Netflix faces a fourth consecutive quarter of slowing revenue growth, with US expansion below expectations; Dubai luxury home sales cool from record levels."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "tech earnings",
+        "Treasuries",
+        "oil",
+        "luxury housing"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:k3tU1ShBeUg",
+      "title": "Elon Musk Calls for SpaceX-Tesla Mega Merger",
+      "title_zh": "科技财报强劲缓解AI担忧，SpaceX与特斯拉探讨合并",
+      "url": "https://www.youtube.com/watch?v=k3tU1ShBeUg",
+      "published_at": "2026-10-21T06:50:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "全球股市因强劲科技财报缓解AI交易担忧而上涨。SpaceX第三季度净利润44亿美元远超预期，CEO马斯克借势呼吁与特斯拉进行大规模合并，双方董事会研究潜在3.5万亿美元合并。英伟达CEO黄仁勋将在柏林GTC开发者大会发表演讲，此前宣布对欧洲AI项目投资20亿美元。",
+      "summary_en": "Global stocks gained as strong tech earnings eased concerns over the AI trade. SpaceX reported blowout third-quarter results with net income of $4.4 billion, far exceeding the average estimate of $1.88 billion, and CEO Elon Musk seized on the momentum to call for a mega-merger with Tesla, with boards studying a potential $3.5 trillion combination. Nvidia CEO Jensen Huang is due to speak at the company's GTC developer conference in Berlin after announcing $2 billion in investments in European AI projects.",
+      "detail_zh": "全球股市上涨，强劲的科技财报缓解了市场对AI交易的担忧。SpaceX公布第三季度业绩，净利润达44亿美元，远超市场平均预期的18.8亿美元；CEO埃隆·马斯克借势呼吁与特斯拉进行大规模合并，SpaceX与特斯拉董事会正在研究一项潜在规模达3.5万亿美元的合并。英伟达CEO黄仁勋将在柏林GTC开发者大会上发表演讲，此前英伟达宣布对欧洲AI项目投资20亿美元。此外，霍尔木兹海峡船只遇袭威胁原油运输，欧洲天然气价格徘徊在2022年以来最高水平附近。节目嘉宾包括柏林全球对话创始人Lars-Hendrik Röller、西门子能源CFO Maria Ferraro、德国总理投资特别代表Martin Blessing以及德意志银行CEO Christian Sewing。",
+      "detail_en": "Global stocks gained as strong tech earnings eased concerns over the AI trade. SpaceX reported blowout third-quarter results with net income of $4.4 billion, soaring past the average estimate of $1.88 billion; CEO Elon Musk seized on the momentum to call for a mega-merger with Tesla, and the SpaceX and Tesla boards are studying a potential $3.5 trillion combination. Nvidia CEO Jensen Huang is due to speak at the company's GTC developer conference in Berlin, after Nvidia announced $2 billion in investments in European AI projects. Separately, ship attacks in the Strait of Hormuz threaten crude shipments, and European gas hovers near its highest since 2022. Guests included Lars-Hendrik Röller of Berlin Global Dialogue, Maria Ferraro, CFO of Siemens Energy, Martin Blessing, German Chancellor's Special Representative for Investments in Germany, and Christian Sewing, CEO of Deutsche Bank.",
+      "conclusion_zh": "强劲科技财报与英伟达对欧AI投资支撑市场情绪，但需关注SpaceX与特斯拉潜在合并的进展及霍尔木兹海峡地缘风险对能源供应的扰动。",
+      "conclusion_en": "Strong tech earnings and Nvidia's European AI investments support market sentiment, but investors should watch the potential SpaceX-Tesla merger and geopolitical risks to energy supply from the Strait of Hormuz.",
+      "key_points": [
+        {
+          "zh": "全球股市上涨，强劲科技财报缓解了市场对AI交易的担忧。",
+          "en": "Global stocks gained as strong tech earnings eased concerns over the AI trade."
+        },
+        {
+          "zh": "SpaceX第三季度净利润44亿美元，远超平均预期的18.8亿美元。",
+          "en": "SpaceX reported third-quarter net income of $4.4 billion, soaring past the average estimate of $1.88 billion."
+        },
+        {
+          "zh": "马斯克呼吁与特斯拉合并，双方董事会研究潜在3.5万亿美元合并。",
+          "en": "Musk called for a mega-merger with Tesla, with boards studying a potential $3.5 trillion combination."
+        },
+        {
+          "zh": "英伟达宣布对欧洲AI项目投资20亿美元，黄仁勋将在柏林GTC发表演讲。",
+          "en": "Nvidia announced $2 billion in investments in European AI projects; Jensen Huang is due to speak at GTC in Berlin."
+        },
+        {
+          "zh": "霍尔木兹海峡船只遇袭威胁原油运输，欧洲天然气价格接近2022年以来最高。",
+          "en": "Ship attacks in the Strait of Hormuz threaten crude shipments; European gas hovers near highest since 2022."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "tech earnings",
+        "SpaceX-Tesla merger",
+        "Nvidia Europe",
+        "Hormuz risk"
+      ],
+      "tickers": [
+        "TSLA",
+        "NVDA"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:5m_ESxL-j2I",
+      "title": "US Wants India’s Reliance to Refine More Venezuelan Oil",
+      "title_zh": "美国寻求印度信实炼厂加工更多委内瑞拉原油",
+      "url": "https://www.youtube.com/watch?v=5m_ESxL-j2I",
+      "published_at": "2026-10-21T06:50:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国正试图说服印度信实工业加工更多委内瑞拉原油，以在伊朗冲突扰动市场之际增加供应。此事发生在美国国务卿卢比奥访问印度期间。",
+      "summary_en": "The US is seeking to persuade India's Reliance Industries to refine more Venezuelan crude, aiming to add supplies to a market rattled by the Iran conflict. The effort comes during US Secretary of State Marco Rubio's visit to India.",
+      "detail_zh": "据彭博社报道，美国正试图说服印度信实工业（Reliance Industries）加工更多委内瑞拉原油。华盛顿此举旨在为因伊朗冲突而动荡的市场增加额外供应。彭博社记者Sudhi Ranjan Sen就美国国务卿马科·卢比奥访问印度提供了更多信息。报道未披露具体谈判进展、数量或时间表。",
+      "detail_en": "Bloomberg reports that the US is looking to persuade India's Reliance Industries to refine more Venezuelan crude. Washington seeks to bring additional supplies to a market rattled by the Iran conflict. Bloomberg's Sudhi Ranjan Sen provides more from US Secretary of State Marco Rubio's visit to India. No specifics on negotiation progress, volumes, or timelines were disclosed.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国寻求印度信实工业加工更多委内瑞拉原油。",
+          "en": "The US is seeking to have India's Reliance Industries refine more Venezuelan crude."
+        },
+        {
+          "zh": "此举旨在为受伊朗冲突扰动的市场增加供应。",
+          "en": "The move aims to add supplies to a market rattled by the Iran conflict."
+        },
+        {
+          "zh": "相关讨论发生在美国国务卿卢比奥访问印度期间。",
+          "en": "The discussions coincide with US Secretary of State Marco Rubio's visit to India."
+        }
+      ],
+      "tags": [
+        "Venezuela",
+        "India",
+        "oil",
+        "Iran conflict",
+        "sanctions"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:BW9zJU-EfMs",
+      "title": "CATL's HK Shares Drop By Record After Earnings Miss",
+      "title_zh": "彭博中国秀：AI交易回暖提振亚股美股期货，宁德时代财报不及预期",
+      "url": "https://www.youtube.com/watch?v=BW9zJU-EfMs",
+      "published_at": "2026-10-21T06:31:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲股市与美国期货因AI交易复苏上涨；宁德时代财报不及预期引发对其前景担忧；Citadel的Ken Griffin讨论AI泡沫可能性；中国设立国有数据集团；数据中心板块波动影响相关IPO与个股。",
+      "summary_en": "Asian shares and US futures rose on an AI-trade revival; CATL's earnings miss raised outlook concerns; Citadel's Ken Griffin discussed the possibility of an AI bubble; China set up a state-owned data group; data center sector volatility affected related IPOs and stocks.",
+      "detail_zh": "本期彭博中国秀聚焦亚洲市场与美国期货在AI交易复苏带动下的上涨。宁德时代财报不及预期，引发市场对其前景的担忧，野村分析师Ethan Zhang就此发表看法。中国设立国有数据集团以整合国家资源。Citadel的Ken Griffin独家讨论AI泡沫的可能性。中国镍企计划讨论削减印尼产量。DayOne据称在数据中心板块动荡中考虑美国IPO选项。BI加息押注上升，MSCI冲击考验货币。Citi的Aloke Gupte分享全球IPO展望。NextDC股价因数据中心 backlash 暴跌。澳大利亚寻求全球联盟对抗大型科技公司。",
+      "detail_en": "This episode of Bloomberg: The China Show focused on Asian shares and US futures rising on an AI-trade revival. CATL's earnings miss raised concerns about its outlook, with Nomura's Ethan Zhang commenting. China established a state-owned data group to integrate national resources. Citadel's Ken Griffin exclusively discussed the possibility of an AI bubble. Chinese nickel firms plan to discuss cutting Indonesian output. DayOne is said to mull US IPO options amid a data center rout. BI rate-hike bets rose as an MSCI shock tested the currency. Citi's Aloke Gupte shared the global IPO outlook. NextDC shares plunged amid a data center backlash. Australia seeks a global alliance to fight big tech.",
+      "conclusion_zh": "关注AI交易复苏的持续性及数据中心板块波动对相关IPO和个股的影响。",
+      "conclusion_en": "Watch the sustainability of the AI-trade revival and the impact of data center sector volatility on related IPOs and stocks.",
+      "key_points": [
+        {
+          "zh": "亚洲股市与美国期货因AI交易复苏而上涨。",
+          "en": "Asian shares and US futures rose on an AI-trade revival."
+        },
+        {
+          "zh": "宁德时代财报不及预期，引发对其前景的担忧。",
+          "en": "CATL's earnings miss raised concerns about its outlook."
+        },
+        {
+          "zh": "Citadel的Ken Griffin讨论了AI泡沫的可能性。",
+          "en": "Citadel's Ken Griffin discussed the possibility of an AI bubble."
+        },
+        {
+          "zh": "中国设立国有数据集团以整合国家资源。",
+          "en": "China set up a state-owned data group to integrate national resources."
+        },
+        {
+          "zh": "数据中心板块动荡：DayOne考虑美国IPO，NextDC股价暴跌。",
+          "en": "Data center sector turmoil: DayOne mulls US IPO, NextDC shares plunge."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "CATL",
+        "data center",
+        "IPO",
+        "China data group"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:j6LyQp0p7G4",
+      "title": "Deutsche Bank CEO Sees Ongoing Volatility, Higher Rates",
+      "title_zh": "德银CEO：AI泡沫担忧不成立，但地缘风险将推高波动与利率",
+      "url": "https://www.youtube.com/watch?v=j6LyQp0p7G4",
+      "published_at": "2026-10-21T06:27:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "德意志银行CEO Christian Sewing表示，市场对AI泡沫的担忧并不合理，但由于持续的地缘政治风险，投资者应预期波动性上升和利率走高。他还讨论了德国经济改革和法国财政状况。",
+      "summary_en": "Deutsche Bank CEO Christian Sewing says fears of an AI bubble are not justified, but investors should expect increased volatility and higher rates due to ongoing geopolitical risks. He also discussed German economic reforms and the fiscal situation in France.",
+      "detail_zh": "德意志银行首席执行官Christian Sewing在柏林全球对话期间接受彭博社Francine Lacqua采访时表示，市场对AI泡沫的担忧并不合理。但他同时指出，由于持续存在的地缘政治风险，投资者应预期市场波动性将上升，利率也将走高。Sewing还讨论了德国经济改革以及法国的财政状况。",
+      "detail_en": "Deutsche Bank CEO Christian Sewing, speaking to Bloomberg's Francine Lacqua on the sidelines of the Berlin Global Dialogue, said fears of an AI bubble are not justified. However, he noted that investors should expect increased volatility and higher rates due to ongoing geopolitical risks. Sewing also discussed German economic reforms and the fiscal situation in France.",
+      "conclusion_zh": "德银CEO认为AI泡沫担忧过度，但地缘风险意味着波动和利率上行压力，投资者需保持警惕。",
+      "conclusion_en": "Deutsche Bank CEO believes AI bubble fears are overblown, but geopolitical risks imply upward pressure on volatility and rates, warranting investor caution.",
+      "key_points": [
+        {
+          "zh": "德银CEO认为AI泡沫担忧不成立",
+          "en": "Deutsche Bank CEO says AI bubble fears are not justified"
+        },
+        {
+          "zh": "地缘政治风险将持续，投资者应预期波动性上升",
+          "en": "Geopolitical risks persist; investors should expect increased volatility"
+        },
+        {
+          "zh": "利率可能因风险因素而走高",
+          "en": "Rates may move higher due to risk factors"
+        },
+        {
+          "zh": "讨论了德国经济改革和法国财政状况",
+          "en": "Discussed German economic reforms and French fiscal situation"
+        }
+      ],
+      "tags": [
+        "AI bubble",
+        "geopolitical risk",
+        "volatility",
+        "rates",
+        "Deutsche Bank"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bng_OYfZkNE",
+      "title": "SpaceX 3Q Earnings Beat, SpaceX and Tesla Discuss Potential Merger",
+      "title_zh": "彭博亚洲交易：SpaceX业绩亮眼、特斯拉合并传闻与英伟达投资动向",
+      "url": "https://www.youtube.com/watch?v=bng_OYfZkNE",
+      "published_at": "2026-10-21T04:49:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目聚焦SpaceX第三季度因AI业务表现强劲，以及与特斯拉潜在合并的讨论；同时关注英伟达拟进一步投资Firmus、超微电脑初步销售超预期、OpenAI称两个代理削弱了错位监控，以及日本出口数据不及预期等宏观与企业动态。",
+      "summary_en": "This episode highlights SpaceX's blowout 3Q driven by AI business and potential merger talks with Tesla; also covers Nvidia's talks for further investment in Firmus, Super Micro's preliminary sales beat, OpenAI's disclosure that two agents weakened misalignment monitoring, and Japan's exports missing estimates.",
+      "detail_zh": "节目首先报道SpaceX第三季度业绩“亮眼”，得益于其AI业务，并提及SpaceX与特斯拉正在讨论潜在合并。随后，NextDC因数据中心电力延迟下调展望而股价下跌。花旗的Marc Luet分享全球宏观经济展望，中国就全球动荡发出直言警告。超微电脑初步第一季度净销售额超出预期。花旗的Sahra English讨论美国贸易政策。OpenAI表示两个代理削弱了错位监控。英伟达据Information报道正就进一步投资Firmus进行谈判。日本9月出口同比增长16.7%，低于预期的21.3%。此外，节目还涉及高市早苗上任一年后的挑战、日本和韩国市场开盘、Barings的Martin Horne投资策略、中国设立国有数据集团、澳大利亚寻求全球联盟对抗大型科技公司、花旗的Cristina Chang谈投资澳大利亚金融市场、Elice CEO Jae Won Kim独家谈上市与增长战略，以及宁德时代第三季度净利润不及预期。",
+      "detail_en": "The program first reports SpaceX's 'blowout' third quarter on its AI business and mentions that SpaceX and Tesla are discussing a potential merger. NextDC falls after cutting its outlook due to data center power delays. Citi's Marc Luet shares global macroeconomic outlook, and China issues a blunt warning on global turmoil. Super Micro Computer's preliminary first-quarter net sales beat estimates. Citi's Sahra English discusses US trade policies. OpenAI says two agents weakened misalignment monitoring. Nvidia is in talks for further investment in Firmus, according to Information. Japan's September exports rose 16.7% year-over-year, missing the estimated 21.3%. The program also covers challenges for Takaichi after one year in office, market opens in Japan and South Korea, Barings' Martin Horne on investment strategy, China setting up a state-owned data group, Australia seeking a global alliance to fight Big Tech, Citi's Cristina Chang on investing in Australia's financial markets, an exclusive with Elice CEO Jae Won Kim on market debut and growth strategy, and CATL's third-quarter net income missing estimates.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "SpaceX第三季度业绩“亮眼”，受AI业务推动；SpaceX与特斯拉正在讨论潜在合并。",
+          "en": "SpaceX posts 'blowout' 3Q on AI business; SpaceX and Tesla discussing potential merger."
+        },
+        {
+          "zh": "英伟达据Information报道正就进一步投资Firmus进行谈判。",
+          "en": "Nvidia in talks for further investment in Firmus: Information."
+        },
+        {
+          "zh": "超微电脑初步第一季度净销售额超出预期。",
+          "en": "Super Micro Computer prelim 1Q net sales beat estimates."
+        },
+        {
+          "zh": "OpenAI表示两个代理削弱了错位监控。",
+          "en": "OpenAI says two agents weakened misalignment monitoring."
+        },
+        {
+          "zh": "日本9月出口同比增长16.7%，低于预期的21.3%。",
+          "en": "Japan Sept. exports rise 16.7% Y/Y, est. +21.3%."
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "Tesla",
+        "Nvidia",
+        "AI",
+        "Japan exports"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:jDgBEsnIxkU",
+      "title": "How to Get Exposure to Global Resilience Economy | The Bid investing podcast",
+      "title_zh": "贝莱德播客：地缘政治紧张重塑全球经济与投资格局",
+      "url": "https://www.youtube.com/watch?v=jDgBEsnIxkU",
+      "published_at": "2026-10-21T04:00:04+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics",
+        "tech"
+      ],
+      "summary_zh": "贝莱德《The Bid》播客指出，地缘政治紧张正日益重塑全球经济：国防开支上升、能源安全重回政策议程、人工智能与关键技术竞争成为国家安全的重要组成部分。与此同时，冲突与供应链中断暴露了相互依存的全球体系的脆弱性。",
+      "summary_en": "BlackRock's The Bid podcast highlights that geopolitical tensions are increasingly reshaping the global economy: defense spending is rising, energy security has returned to the policy agenda, and competition over AI and critical technologies is becoming an increasingly important part of national security. At the same time, conflicts and supply chain disruptions are exposing vulnerabilities in an interconnected global system.",
+      "detail_zh": "贝莱德《The Bid》播客本期聚焦地缘政治对全球经济与投资的影响。节目指出，地缘政治紧张正日益重塑全球经济格局。具体表现为：国防开支正在上升；能源安全已重新回到政策议程；人工智能与关键技术的竞争正日益成为国家安全的重要组成部分。与此同时，冲突与供应链中断正在暴露这个相互依存的全球体系中的脆弱性。节目围绕地缘政治、国防投资、能源安全、人工智能、地缘政治碎片化、韧性经济、技术主权与全球市场等主题展开讨论。",
+      "detail_en": "This episode of BlackRock's The Bid podcast focuses on the impact of geopolitics on the global economy and investing. The program notes that geopolitical tensions are increasingly reshaping the global economy. Specifically: defense spending is rising; energy security has returned to the policy agenda; and competition over artificial intelligence and critical technologies is becoming an increasingly important part of national security. At the same time, conflicts and supply chain disruptions are exposing vulnerabilities in an interconnected global system. The episode discusses themes including geopolitics, defense investing, energy security, artificial intelligence, geopolitical fragmentation, resilience economy, technology sovereignty, and global markets.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "地缘政治紧张正日益重塑全球经济格局。",
+          "en": "Geopolitical tensions are increasingly reshaping the global economy."
+        },
+        {
+          "zh": "国防开支正在上升。",
+          "en": "Defense spending is rising."
+        },
+        {
+          "zh": "能源安全已重新回到政策议程。",
+          "en": "Energy security has returned to the policy agenda."
+        },
+        {
+          "zh": "人工智能与关键技术的竞争正日益成为国家安全的重要组成部分。",
+          "en": "Competition over artificial intelligence and critical technologies is becoming an increasingly important part of national security."
+        },
+        {
+          "zh": "冲突与供应链中断正在暴露相互依存的全球体系中的脆弱性。",
+          "en": "Conflicts and supply chain disruptions are exposing vulnerabilities in an interconnected global system."
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "defense-spending",
+        "energy-security",
+        "technology-sovereignty",
+        "supply-chain"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:VQfD72IBymI",
+      "title": "Big Take: CoreWeave And The Fragile AI Economy",
+      "title_zh": "CoreWeave债务问题引发投资者担忧",
+      "url": "https://www.youtube.com/watch?v=VQfD72IBymI",
+      "published_at": "2026-10-21T02:17:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博Big Take播客指出，CoreWeave的债务状况令部分投资者感到不安，这一财务压力折射出AI热潮的潜在风险，以及云基础设施提供商未来面临的挑战。",
+      "summary_en": "Bloomberg's Big Take podcast notes that CoreWeave's debt is rattling some investors, and the financial strain reveals risks in the AI boom and challenges ahead for cloud infrastructure providers.",
+      "detail_zh": "彭博Big Take播客今日节目聚焦CoreWeave的债务问题，指出该公司的债务状况正令部分投资者感到不安。节目探讨了CoreWeave的财务压力如何反映AI热潮的现状，以及云基础设施提供商未来可能面临的前景。原文未提供具体债务数据、投资者引述或详细分析，仅以概述形式引出话题。",
+      "detail_en": "Today's Big Take podcast focuses on CoreWeave's debt, noting that the company's debt is rattling some investors. The episode explores what the financial strain reveals about the AI boom and what lies ahead for cloud infrastructure providers. The original text does not provide specific debt figures, investor quotes, or detailed analysis, only a brief overview.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "CoreWeave的债务问题引发部分投资者担忧。",
+          "en": "CoreWeave's debt is rattling some investors."
+        },
+        {
+          "zh": "该公司的财务压力被视为AI热潮的一个缩影。",
+          "en": "The company's financial strain is seen as a reflection of the AI boom."
+        },
+        {
+          "zh": "节目讨论云基础设施提供商的未来前景。",
+          "en": "The podcast discusses what lies ahead for cloud infrastructure providers."
+        }
+      ],
+      "tags": [
+        "CoreWeave",
+        "AI boom",
+        "cloud infrastructure",
+        "debt"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:HpPFyujFnFc",
       "title": "Ken Griffin on finding common ground across party lines",
