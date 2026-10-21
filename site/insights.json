@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-10-21T07:17:53.656977+00:00",
+  "generated_at": "2026-10-21T08:14:20.023503+00:00",
   "insights": [
+    {
+      "guid": "yt:0YZ-DtAtQ4s",
+      "title": "James Robinson on What It Looks Like When a State is Failing | Odd Lots",
+      "title_zh": "诺奖得主James Robinson谈美国成为失败国家的条件",
+      "url": "https://www.youtube.com/watch?v=0YZ-DtAtQ4s",
+      "published_at": "2026-10-21T08:07:06+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "在Odd Lots芝加哥现场秀最后一集中，2024年诺贝尔经济学奖得主James Robinson讨论了其著作《国家为什么会失败》中的制度因素，并回应了“美国需要发生什么才会被视为失败国家”这一重大问题。",
+      "summary_en": "In the final episode of Odd Lots' Chicago live show, 2024 Nobel laureate James Robinson discussed the institutional factors from his book Why Nations Fail and addressed the big question: what would have to happen for the US to be considered a failed state.",
+      "detail_zh": "本期播客是Odd Lots芝加哥现场秀的第三集也是最后一集，嘉宾为芝加哥大学教授、2024年诺贝尔经济学奖得主James Robinson（与Daron Acemoglu和Simon Johnson共享该奖）。他最为人知的著作是2012年的《国家为什么会失败》，书中与Acemoglu一起记录了制度因素——例如可靠的选举或开放市场促进创新——如何决定一些国家繁荣而另一些国家不繁荣。主持人向Robinson提出了一个重大问题：美国需要发生什么才会被视为失败国家？节目由Bloomberg的Joe Weisenthal和Tracy Alloway主持，他们分析奇怪模式、复杂问题和最新市场热潮。",
+      "detail_en": "This episode is the third and last from the Odd Lots Chicago live show, featuring James Robinson, a professor at the University of Chicago and a recipient of the 2024 Nobel Prize in economics (shared with Daron Acemoglu and Simon Johnson). His most famous work is 2012's Why Nations Fail, in which he and co-author Acemoglu document the institutional factors—such as reliably run elections or open markets that help facilitate innovation—that determine why some states thrive and others don't. The hosts ask Robinson the big question: What would have to happen for the US to be considered a failed state? The show is hosted by Bloomberg's Joe Weisenthal and Tracy Alloway, who analyze weird patterns, complex issues and the newest market crazes.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "嘉宾James Robinson是2024年诺贝尔经济学奖得主，与Daron Acemoglu和Simon Johnson共享奖项。",
+          "en": "Guest James Robinson is a 2024 Nobel laureate in economics, sharing the prize with Daron Acemoglu and Simon Johnson."
+        },
+        {
+          "zh": "其2012年著作《国家为什么会失败》强调制度因素（如可靠选举和开放市场）对国家繁荣的重要性。",
+          "en": "His 2012 book Why Nations Fail emphasizes institutional factors (such as reliable elections and open markets) as determinants of national prosperity."
+        },
+        {
+          "zh": "节目讨论了美国成为失败国家所需的条件。",
+          "en": "The episode discusses what would have to happen for the US to be considered a failed state."
+        }
+      ],
+      "tags": [
+        "institutions",
+        "failed state",
+        "nobel prize",
+        "US economy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:ZsFOfPZ5v58",
       "title": "BlackRock’s Fink Sees Inflation Risk in Slow Data-Center Buildout",
@@ -11895,56 +11936,6 @@
         "tariffs",
         "housing",
         "401k"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "https://bondvigilantes.com/?p=26790",
-      "title": "Same Google, but cheaper: a risk worth taking in US credit",
-      "title_zh": "美债与互换利差背离：信用策略的对冲选择与风险",
-      "url": "https://bondvigilantes.com/blog/2026/10/same-google-but-cheaper-a-risk-worth-taking-in-us-credit-rc/",
-      "published_at": "2026-10-14T08:05:30+00:00",
-      "source_name": "Bond Vigilantes (M&G)",
-      "source_kind": "article",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "同一发行人、同等级信用风险下，Alphabet 20年期债券相对美债利差约90个基点，但相对利率互换利差约150个基点，差异显著。作者认为当前互换曲线更接近美元无风险利率，并已将部分美债期货久期对冲替换为利率互换，以获取额外40-70个基点利差，同时承担互换利差风险。",
-      "summary_en": "For the same issuer and credit risk, Alphabet's 20-year bond trades at roughly 90bp over Treasuries but about 150bp over interest rate swaps. The author argues the swap curve is currently the better proxy for the dollar risk-free rate, and has replaced part of the US Treasury futures duration hedge with swaps to capture an extra 40-70bp, while taking on swap spread risk.",
-      "detail_zh": "文章指出，同一发行人、相同优先级、评级和信用风险的债券，其相对政府债券的信用利差明显宽于相对利率互换的利差，这一差异对旨在隔离信用风险并对冲利率敞口的策略尤为重要。以Alphabet（谷歌母公司，AA评级）为例，其20年期债券相对美债利差约90个基点，看似回报微薄；但相对利率互换利差则升至约150个基点，收益率未变，但按互换衡量，这一AA级名字的回报更接近BBB级。该现象并非个例，而是遍及美国市场，并已改变作者在纯信用策略中对美元久期的对冲方式。作者在8月将部分基金中美元曲线长端的美债期货久期对冲替换为利率互换，因为对冲工具的选择决定了保留哪种利差。作者认为，当前美国国债收益率上附加的溢价异常大，互换曲线大部分低于同期限政府债券，即负互换利差，这颠覆了最安全借款人收益率应低于银行互换利率的常规逻辑；对政府预算赤字和国债持续供应的担忧推高了政府收益率，尤其是曲线远端。因此作者认为互换曲线目前是美元无风险利率的更好近似，看似紧张的信用利差部分只是被抬高的美债收益率所致。在操作上，作者8月发现20年期谷歌欧元债券相对相关政府债券利差约110个基点，美元债券相对美债约100个基点，表面看欧元债略具吸引力；但欧元市场缺乏美元市场债券与互换之间的错位，美元债券用互换对冲后利差接近170个基点，于是卖出欧元债、买入美元债，在未增加信用风险的情况下获取更高利差。作者还在谷歌之外发现类似机会，将Aegon和Rothesay换为Allianz和Munich Re，以提升组合质量而不牺牲太多收益。作者明确所承担的风险：由于美元债券通常以美债定价，现在承担了互换利差本身的风险；若美债遭抛售而互换利率未跟随，对冲将失效，债券相对互换利差走阔，基金将面临按市值计价的损失。作者认为这一风险值得承担，因为当前处于极端而非平均水平：金融危机前10年期互换利差为正，约60个基点；如今10年期约为-40，30年期约为-70，即使考虑2020年代初LIBOR转SOFR带来的约25个基点影响，也处于或超出2008年后经验的宽端。作者认为在当前水平，风险平衡更倾向于向零正常化，而非进一步大幅走阔。",
-      "detail_en": "The article notes that two bonds from the same issuer with identical seniority, rating and credit risk can show a meaningfully wider spread versus government bonds than versus interest rate swaps, which matters for strategies that isolate credit risk and hedge interest rate exposure. For Alphabet (AA rated parent of Google), the 20-year bond trades at around 90bp over US Treasuries, appearing to offer little reward, but around 150bp over interest rate swaps; the yield is unchanged, yet over swaps this AA name pays more like a BBB. This is not confined to one bond but is seen across the US market, and has changed how the author hedges dollar duration in credit-only strategies. In August, the author replaced part of the US futures duration hedge for the long part of the dollar curve in some funds with interest rate swaps, because the choice of hedge determines which spread is retained. The author argues the premium bolted onto Treasury yields is unusually large, with much of the swap curve trading below government bonds of the same maturity (negative swap spread), upending the usual logic that the safest borrower should yield less than the bank-based swap rate. Concerns over government budget deficits and relentless Treasury supply are pushing government yields up, particularly further out the curve. The author therefore views the swap curve as the better approximation of the dollar risk-free rate, with part of what looks like a tight credit spread simply reflecting the elevated Treasury yield. In practice, in August the 20-year Google bond traded at roughly 110bp over relevant government bonds in euros and roughly 100bp over Treasuries in dollars, so on the surface the euro bond looked slightly more attractive; but the euro market lacks the dollar market's dislocation between bonds and swaps, so once the dollar bond was hedged back with swaps it moved closer to 170bp over swaps. The author sold euro bonds, bought dollar ones, and captured a higher spread for no additional credit risk. Similar opportunities beyond Google were used to improve portfolio quality without giving up much spread: switching out of Aegon and Rothesay into Allianz and Munich Re. The author is explicit about the risk taken: because dollar bonds are conventionally priced over Treasuries, the fund now carries swap spread risk. If US Treasuries sell off and swap rates do not follow, the hedge fails to keep pace, the bond's spread over swaps widens, and the fund suffers a mark-to-market loss. The author considers this risk worth taking because the entry is at an extreme rather than the average: before the financial crisis swap spreads were positive, around 60bp at 10 years; today the 10-year sits at around -40 and the 30-year at -70, at or beyond the wide end of even the post-2008 experience, even allowing for the approximately 25bp attributable to the LIBOR-to-SOFR switch in the early 2020s. At these levels, the author believes the balance of risk favours some normalisation towards zero rather than substantial further widening.",
-      "conclusion_zh": "在美债与互换利差严重背离的当下，以互换而非美债衡量信用利差可获取额外40-70个基点，但需承担互换利差走阔风险；作者认为当前极端水平下风险回报偏向正常化。",
-      "conclusion_en": "With Treasury-swap spreads severely dislocated, measuring credit against swaps can capture an extra 40-70bp, but carries swap spread widening risk; the author sees the risk-reward at current extreme levels as favouring normalisation.",
-      "key_points": [
-        {
-          "zh": "Alphabet 20年期债券相对美债利差约90个基点，但相对利率互换利差约150个基点，收益率不变但风险补偿衡量差异巨大。",
-          "en": "Alphabet's 20-year bond trades at around 90bp over Treasuries but about 150bp over swaps, a large difference in measured compensation with an unchanged yield."
-        },
-        {
-          "zh": "作者认为当前互换曲线更接近美元无风险利率，负互换利差（10年期约-40bp、30年期约-70bp）反映美债收益率被赤字与供应担忧推高。",
-          "en": "The author views the swap curve as the better proxy for the dollar risk-free rate, with negative swap spreads (10-year around -40bp, 30-year around -70bp) reflecting Treasury yields pushed up by deficit and supply concerns."
-        },
-        {
-          "zh": "作者8月将部分基金中美元曲线长端的美债期货久期对冲替换为利率互换，以保留互换利差，获取额外40-70个基点。",
-          "en": "In August the author replaced part of the US futures duration hedge for the long part of the dollar curve with interest rate swaps to retain the swap spread and capture an extra 40-70bp."
-        },
-        {
-          "zh": "操作案例：卖出20年期谷歌欧元债（约110bp）买入美元债（约100bp），用互换对冲后利差接近170bp，未增加信用风险；并将Aegon、Rothesay换为Allianz、Munich Re以提升组合质量。",
-          "en": "Trade example: sold 20-year Google euro bonds (around 110bp) and bought dollar bonds (around 100bp), which moved closer to 170bp over swaps when hedged, with no additional credit risk; also switched out of Aegon and Rothesay into Allianz and Munich Re to improve portfolio quality."
-        },
-        {
-          "zh": "主要风险是互换利差本身：若美债遭抛售而互换利率未跟随，对冲失效，基金将面临按市值计价的损失；作者认为当前处于极端水平，风险平衡更倾向于向零正常化。",
-          "en": "The main risk is the swap spread itself: if Treasuries sell off and swap rates do not follow, the hedge fails and the fund suffers a mark-to-market loss; the author believes current levels are extreme and the balance of risk favours normalisation towards zero."
-        }
-      ],
-      "tags": [
-        "credit spreads",
-        "swap spreads",
-        "duration hedging",
-        "US Treasuries",
-        "relative value"
       ],
       "tickers": [],
       "sentiment": "neutral"
