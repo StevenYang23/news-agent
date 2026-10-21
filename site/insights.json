@@ -1,6 +1,135 @@
 {
-  "generated_at": "2026-10-21T17:09:17.616441+00:00",
+  "generated_at": "2026-10-21T18:14:04.989570+00:00",
   "insights": [
+    {
+      "guid": "yt:MFybU0OroOE",
+      "title": "The VIX Expiration Effect: Why Stocks Can Get a Tailwind",
+      "title_zh": "VIX期权持仓与到期或成股市顺风，VIX gamma机制有别于个股",
+      "url": "https://www.youtube.com/watch?v=MFybU0OroOE",
+      "published_at": "2026-10-21T17:47:04+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility"
+      ],
+      "summary_zh": "Brent Kochuba在SpotGamma订阅者问答中解释，VIX期权持仓和到期可能为股票创造顺风，并指出VIX gamma的作用机制与个股gamma不同。内容为教育性质，不构成投资建议。",
+      "summary_en": "Brent Kochuba explains in a SpotGamma subscriber Q&A that VIX options positioning and expiration can create a tailwind for stocks, and that VIX gamma works differently from single-stock gamma. The content is educational and not investment advice.",
+      "detail_zh": "该内容录制于2026年10月20日SpotGamma订阅者问答环节，市场水平和期权定价反映该场次情况。Brent Kochuba在讨论中说明，VIX期权的持仓分布与到期事件可能对股票市场形成顺风。他同时强调，VIX gamma的作用机制与单一股票gamma并不相同。原文未提供具体的VIX点位、期权持仓数据或股票目标位。内容标注为教育用途，不构成投资建议，并提示期权交易涉及风险。",
+      "detail_en": "Recorded on October 20, 2026 during the SpotGamma subscriber Q&A, with market levels and option pricing reflecting that session. Brent Kochuba explains that VIX options positioning and expiration can create a tailwind for stocks. He also notes that VIX gamma works differently from single-stock gamma. The original text does not provide specific VIX levels, options positioning data, or stock price targets. The content is marked for educational purposes only, not investment advice, and notes that options involve risk.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "VIX期权持仓和到期可能为股票创造顺风",
+          "en": "VIX options positioning and expiration can create a tailwind for stocks"
+        },
+        {
+          "zh": "VIX gamma的作用机制与个股gamma不同",
+          "en": "VIX gamma works differently from single-stock gamma"
+        },
+        {
+          "zh": "内容录制于2026年10月20日SpotGamma订阅者问答",
+          "en": "Recorded October 20, 2026 during the SpotGamma subscriber Q&A"
+        },
+        {
+          "zh": "内容为教育性质，不构成投资建议，期权涉及风险",
+          "en": "For educational purposes only; not investment advice; options involve risk"
+        }
+      ],
+      "tags": [
+        "VIX",
+        "options",
+        "gamma",
+        "volatility"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:M7PrSBTP5e8",
+      "title": "Why Gold Calls Looked Cheap: An Options Case Study",
+      "title_zh": "SpotGamma 问答：黄金期权偏斜与看涨逻辑",
+      "url": "https://www.youtube.com/watch?v=M7PrSBTP5e8",
+      "published_at": "2026-10-21T17:46:41+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility",
+        "macro"
+      ],
+      "summary_zh": "Brent Kochuba 在 SpotGamma 订阅者问答中分析了黄金期权的持仓与偏斜，指出当时看涨期权相对便宜，并讨论了支撑上行逻辑的宏观条件。内容为教育性质，不构成投资建议。",
+      "summary_en": "Brent Kochuba examined gold options positioning and skew during a SpotGamma subscriber Q&A, noting that calls looked relatively inexpensive at the time and discussing the macro conditions relevant to an upside thesis. The content is for educational purposes only and not investment advice.",
+      "detail_zh": "在 2026 年 10 月 20 日录制的 SpotGamma 订阅者问答中，Brent Kochuba 聚焦黄金期权的持仓与偏斜结构。他指出，从当时的期权定价看，看涨期权显得相对便宜。Kochuba 还讨论了若金价上行需要关注的宏观条件，但原文未展开具体条件内容。市场价位与期权定价均反映该场次时点。该内容仅供教育用途，不构成投资建议，且期权交易涉及风险。",
+      "detail_en": "In a SpotGamma subscriber Q&A recorded on October 20, 2026, Brent Kochuba focused on gold options positioning and skew. He noted that calls looked relatively inexpensive based on option pricing at the time. Kochuba also discussed the macro conditions that would matter for an upside thesis, though the original text does not elaborate on the specific conditions. Market levels and option pricing reflect that session. The content is for educational purposes only, not investment advice, and options involve risk.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Brent Kochuba 分析了黄金期权的持仓与偏斜结构。",
+          "en": "Brent Kochuba examined gold options positioning and skew."
+        },
+        {
+          "zh": "他指出当时看涨期权相对便宜。",
+          "en": "He noted that calls looked relatively inexpensive at the time."
+        },
+        {
+          "zh": "他讨论了黄金上行逻辑所依赖的宏观条件。",
+          "en": "He discussed the macro conditions relevant to an upside thesis for gold."
+        },
+        {
+          "zh": "内容录制于 2026 年 10 月 20 日 SpotGamma 订阅者问答。",
+          "en": "The content was recorded during the SpotGamma subscriber Q&A on October 20, 2026."
+        }
+      ],
+      "tags": [
+        "gold",
+        "options",
+        "skew",
+        "SpotGamma"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:sDMIzvqrros",
+      "title": "Legendary Entertainment Makes Bid for Lionsgate Studios",
+      "title_zh": "传奇娱乐重启对狮门影业的收购谈判",
+      "url": "https://www.youtube.com/watch?v=sDMIzvqrros",
+      "published_at": "2026-10-21T17:41:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据知情人士透露，传奇娱乐已重启谈判并向狮门影业提出收购要约。狮门影业是《饥饿游戏》和《疾速追杀》等影片的制片方。",
+      "summary_en": "Legendary Entertainment has revived talks and made a takeover offer for Lionsgate Studios Corp., according to people familiar with the matter. Lionsgate is the studio behind films such as The Hunger Games and John Wick.",
+      "detail_zh": "据知情人士透露，传奇娱乐已重启对狮门影业公司的收购谈判，并提出了收购要约。狮门影业是《饥饿游戏》和《疾速追杀》等电影的制片方。该消息由Chris Palmeri报道。原文未披露交易金额、具体条款或谈判进展等细节。",
+      "detail_en": "Legendary Entertainment has revived talks and made a takeover offer for Lionsgate Studios Corp., according to people familiar with the matter. Lionsgate is the studio behind movies such as The Hunger Games and John Wick. The report was by Chris Palmeri. No deal value, terms, or further details were disclosed in the original text.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "传奇娱乐重启对狮门影业的收购谈判并提出要约",
+          "en": "Legendary Entertainment has revived talks and made a takeover offer for Lionsgate Studios"
+        },
+        {
+          "zh": "狮门影业是《饥饿游戏》和《疾速追杀》等影片的制片方",
+          "en": "Lionsgate is the studio behind films such as The Hunger Games and John Wick"
+        },
+        {
+          "zh": "消息来自知情人士，由Chris Palmeri报道",
+          "en": "The information comes from people familiar with the matter, reported by Chris Palmeri"
+        }
+      ],
+      "tags": [
+        "M&A",
+        "media",
+        "entertainment",
+        "takeover"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:iT3t8-cqcFQ",
       "title": "Inside the Advisor Practice",
