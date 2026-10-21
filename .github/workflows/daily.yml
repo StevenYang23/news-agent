@@ -57,12 +57,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
-          git add site/insights.json site/usage.json
+          git add site/insights.json site/usage.json site/sources.json
           if git diff --cached --quiet; then
             echo "No data changes."
           else
             git commit -m "data: daily insights refresh"
+            git pull --rebase origin main
             git push
           fi
 
