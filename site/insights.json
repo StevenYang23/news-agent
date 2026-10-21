@@ -1,6 +1,293 @@
 {
-  "generated_at": "2026-10-21T11:10:14.740386+00:00",
+  "generated_at": "2026-10-21T12:16:30.729314+00:00",
   "insights": [
+    {
+      "guid": "yt:UrPHW3JcqYg",
+      "title": "Nvidia CEO Huang Says All Industries Across Europe Need to Adopt AI",
+      "title_zh": "黄仁勋呼吁欧洲加速采用人工智能",
+      "url": "https://www.youtube.com/watch?v=UrPHW3JcqYg",
+      "published_at": "2026-10-21T12:04:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋在柏林GTC会议上表示，欧洲要受益于AI并建立AI生态系统和经济，需要所有终端市场和行业采用AI。",
+      "summary_en": "Nvidia CEO Jensen Huang said at the GTC conference in Berlin that for Europe to benefit from AI and build an AI ecosystem and economy, all end markets and industries need to adopt AI.",
+      "detail_zh": "英伟达CEO黄仁勋周三在柏林举行的公司GTC会议上敦促欧洲更快地采用人工智能。他表示：“欧洲要受益于AI，并真正创建AI生态系统和AI经济，你需要所有终端市场、终端行业都采用AI。”黄仁勋的言论强调了欧洲各行业采用AI的必要性，以从AI中获益并建立AI生态系统和经济。",
+      "detail_en": "Nvidia CEO Jensen Huang on Wednesday urged Europe to adopt artificial intelligence more quickly, speaking at his company's GTC conference in Berlin. \"For Europe to benefit from AI, and to have really created an AI ecosystem and AI economy, you need all of the end markets, the end industries to adopt AI,\" Huang said. His remarks highlight the need for European industries to adopt AI in order to benefit from it and build an AI ecosystem and economy.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋在柏林GTC会议上呼吁欧洲加速AI采用。",
+          "en": "Jensen Huang called on Europe to accelerate AI adoption at the GTC conference in Berlin."
+        },
+        {
+          "zh": "他强调欧洲所有终端市场和行业都需要采用AI，才能受益并建立AI生态系统和经济。",
+          "en": "He stressed that all end markets and industries in Europe need to adopt AI to benefit and build an AI ecosystem and economy."
+        }
+      ],
+      "tags": [
+        "AI adoption",
+        "Europe",
+        "Nvidia",
+        "GTC"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-7YhOMFtgwo",
+      "title": "Managing IPO Wealth: Strategies for Financial Advisors",
+      "title_zh": "贝莱德播客：IPO格局演变下，顾问转向管理集中股票仓位",
+      "url": "https://www.youtube.com/watch?v=-7YhOMFtgwo",
+      "published_at": "2026-10-21T11:30:37+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "贝莱德新播客《Inside the Advisor Practice》首集聚焦IPO格局变化：公司上市更晚、估值更高，顾问对话从获取IPO份额转向管理集中股票仓位。讨论涵盖风险管理、收益生成、税务与流动性策略，以及期权策略、直接指数化、税务感知多空SMA和遗产规划等工具。",
+      "summary_en": "BlackRock's new podcast Inside the Advisor Practice debuts with a discussion on the evolving IPO landscape: as companies stay private longer and valuations rise, advisor conversations are shifting from accessing IPO shares to managing concentrated stock positions. The episode covers risk management, income generation, tax and liquidity strategies, and tools such as options-based strategies, direct indexing, tax-aware long/short SMAs, and estate planning.",
+      "detail_zh": "贝莱德推出新播客《Inside the Advisor Practice》，面向美国财务顾问，分享应对市场、构建投资组合和解决客户复杂问题的可操作思路。首集由贝莱德超高净值咨询主管Cullen Roberts与SpiderRock Advisors董事总经理Dave Donnelly对话，探讨不断演变的IPO格局以及管理新创造财富日益增加的复杂性。随着公司保持私有化的时间更长、估值上升，顾问与客户的对话重点正从获取IPO股份转向管理集中股票仓位。两人讨论了管理风险、生成收益、应对税务考量和创造流动性的策略，并探讨顾问如何帮助客户做出超越投资组合本身的决策。对话涉及的工具和主题包括期权策略、直接指数化、税务感知的多空独立管理账户（SMA）、遗产规划以及多代财富传承。播客鼓励订阅以获取更多关于财务顾问实践演变的观点和实用见解。内容仅供信息参考，不构成要约或招揽。",
+      "detail_en": "BlackRock launches a new podcast, Inside the Advisor Practice, aimed at U.S. financial advisors, sharing actionable ideas to help them navigate markets, build portfolios, and tackle complex client challenges. In the first episode, Cullen Roberts, Head of Ultra High Net Worth Consulting at BlackRock, sits down with Dave Donnelly, Managing Director at SpiderRock Advisors, to explore the evolving IPO landscape and the growing complexities of managing newly created wealth. As companies stay private longer and valuations rise, the advisor conversation is shifting from accessing IPO shares to managing concentrated stock positions. Cullen and Dave discuss strategies for managing risk, generating income, navigating tax considerations, and creating liquidity, while exploring how advisors can help clients make decisions that extend beyond their portfolios. The conversation covers tools and topics including options-based strategies, direct indexing, tax-aware long/short SMAs, estate planning, and multigenerational wealth. The podcast encourages listeners to subscribe for more perspectives and practical insights on the evolving practice of financial advice. The content is for informational purposes only and is not an offer or solicitation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "公司保持私有化时间更长、估值上升，顾问对话从获取IPO份额转向管理集中股票仓位。",
+          "en": "As companies stay private longer and valuations rise, advisor conversations shift from accessing IPO shares to managing concentrated stock positions."
+        },
+        {
+          "zh": "讨论聚焦管理风险、生成收益、税务考量和创造流动性等策略。",
+          "en": "The discussion focuses on strategies for managing risk, generating income, navigating tax considerations, and creating liquidity."
+        },
+        {
+          "zh": "涉及的工具包括期权策略、直接指数化和税务感知多空SMA。",
+          "en": "Tools covered include options-based strategies, direct indexing, and tax-aware long/short SMAs."
+        },
+        {
+          "zh": "话题延伸至遗产规划与多代财富传承，帮助客户做出超越投资组合的决策。",
+          "en": "Topics extend to estate planning and multigenerational wealth, helping clients make decisions beyond their portfolios."
+        }
+      ],
+      "tags": [
+        "IPO",
+        "wealth management",
+        "concentrated stock",
+        "options strategies",
+        "tax-aware investing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:JVPW7fiQOmY",
+      "title": "Why the AI Buildout Won't Stop",
+      "title_zh": "Andreas Steno：英伟达GPU租金年内涨近40%，AI基建放缓担忧或被高估",
+      "url": "https://www.youtube.com/watch?v=JVPW7fiQOmY",
+      "published_at": "2026-10-21T11:30:12+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "Andreas Steno指出，年初以来英伟达GPU租赁价格上涨近40%，AI算力收入增速仍快于融资成本。他认为市场对AI基础设施放缓的担忧可能被高估。",
+      "summary_en": "Andreas Steno highlights a nearly 40% surge in Nvidia GPU rental prices since the start of the year, arguing that AI compute revenues are still growing faster than funding costs. He believes fears of an AI infrastructure slowdown may be overblown.",
+      "detail_zh": "Andreas Steno提出，华尔街可能低估了AI热潮。他援引数据称，年初以来英伟达GPU的租赁价格上涨近40%。基于这一价格信号，他认为AI算力相关收入仍在以快于融资成本的速度增长。由此，他判断市场对AI基础设施放缓的担忧可能被高估。原文未提供更多关于融资成本水平、收入增速具体数值或相关公司财务细节。",
+      "detail_en": "Andreas Steno suggests Wall Street may be underestimating the AI boom. He cites a nearly 40% surge in Nvidia GPU rental prices since the start of the year. Based on this price signal, he argues that AI compute revenues are still growing faster than funding costs. He therefore believes fears of an AI infrastructure slowdown may be overblown. The source does not provide further details on funding cost levels, specific revenue growth figures, or company financials.",
+      "conclusion_zh": "GPU租赁价格强势上涨与算力收入快于融资成本，构成对AI基建放缓叙事的反驳信号，值得关注AI算力产业链的定价与需求韧性。",
+      "conclusion_en": "Strong GPU rental price gains and compute revenue growth outpacing funding costs challenge the AI infrastructure slowdown narrative, warranting attention to pricing and demand resilience in the AI compute supply chain.",
+      "key_points": [
+        {
+          "zh": "年初以来英伟达GPU租赁价格上涨近40%",
+          "en": "Nvidia GPU rental prices have surged nearly 40% since the start of the year"
+        },
+        {
+          "zh": "AI算力收入增速仍快于融资成本",
+          "en": "AI compute revenues are still growing faster than funding costs"
+        },
+        {
+          "zh": "市场对AI基础设施放缓的担忧可能被高估",
+          "en": "Fears of an AI infrastructure slowdown may be overblown"
+        }
+      ],
+      "tags": [
+        "AI",
+        "Nvidia",
+        "GPU",
+        "AI infrastructure",
+        "compute"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:9Ka4a2qoadE",
+      "title": "Stocks Rebound on Strong SpaceX Results; AI Bubble Dispute; Tech Earnings on Deck",
+      "title_zh": "美股期货上涨，SpaceX业绩与AI泡沫争论成焦点",
+      "url": "https://www.youtube.com/watch?v=9Ka4a2qoadE",
+      "published_at": "2026-10-21T11:21:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股期货上涨，SpaceX季度业绩及马斯克关于SpaceX与特斯拉潜在合并的言论提振投资者信心。Citadel的Ken Griffin警告投资者“几乎肯定”处于AI泡沫中，而德意志银行的Christian Sewing则表示不认为存在泡沫。特斯拉、Meta和IBM将公布财报。",
+      "summary_en": "US equity futures rose as SpaceX's quarterly earnings and Elon Musk's remarks on a potential SpaceX-Tesla merger boosted investor confidence. Citadel's Ken Griffin warned investors are \"almost certainly\" in an AI bubble, while Deutsche Bank's Christian Sewing said he doesn't see one. Tesla, Meta, and IBM are set to report earnings.",
+      "detail_zh": "美股期货上涨，主要受SpaceX季度业绩以及马斯克关于SpaceX与特斯拉可能合并的言论提振。市场关注即将发布财报的特斯拉、Meta和IBM。关于人工智能是否存在泡沫，Citadel的Ken Griffin警告投资者“几乎肯定”处于AI泡沫中，而德意志银行的Christian Sewing则表示不认为存在泡沫。英伟达CEO黄仁勋在柏林GTC活动上发表讲话。Peel Hunt首席经济学家Kallum Pickering在“Bloomberg Brief”节目中讨论了债务融资增长的风险。美国银行国际业务总裁Bernard Mensah在柏林全球对话会上与Bloomberg的Francine Lacqua进行了独家对话。节目还涵盖了英国通胀、数据中心IPO、乌克兰问题、中期选举诉讼以及美墨贸易紧张局势等话题。",
+      "detail_en": "US equity futures rose, primarily boosted by SpaceX's quarterly earnings and Elon Musk's remarks about a potential merger between SpaceX and Tesla. Investors are looking ahead to earnings from Tesla, Meta, and IBM. On the question of whether there is an AI bubble, Citadel's Ken Griffin warned that investors are \"almost certainly\" in an AI bubble, while Deutsche Bank's Christian Sewing said he doesn't see one. Nvidia CEO Jensen Huang spoke at the Nvidia GTC event in Berlin. Kallum Pickering, Chief Economist at Peel Hunt, discussed the risks around debt-financed growth on \"Bloomberg Brief.\" Bernard Mensah, President of Bank of America International, had an exclusive conversation with Bloomberg's Francine Lacqua at the Berlin Global Dialogue. The program also covered UK inflation, a data center IPO, Ukraine, a midterm election lawsuit, and US-Mexico trade tensions.",
+      "conclusion_zh": "市场情绪受企业消息和AI泡沫争论影响，投资者需关注即将发布的财报以及AI相关风险。",
+      "conclusion_en": "Market sentiment is influenced by corporate news and the AI bubble debate; investors should watch upcoming earnings and AI-related risks.",
+      "key_points": [
+        {
+          "zh": "美股期货上涨，受SpaceX业绩和马斯克关于SpaceX-Tesla合并的言论提振。",
+          "en": "US equity futures rose, boosted by SpaceX earnings and Musk's remarks on a potential SpaceX-Tesla merger."
+        },
+        {
+          "zh": "Citadel的Ken Griffin警告投资者“几乎肯定”处于AI泡沫中。",
+          "en": "Citadel's Ken Griffin warned investors are \"almost certainly\" in an AI bubble."
+        },
+        {
+          "zh": "德意志银行的Christian Sewing表示不认为存在AI泡沫。",
+          "en": "Deutsche Bank's Christian Sewing said he doesn't see an AI bubble."
+        },
+        {
+          "zh": "特斯拉、Meta和IBM即将公布财报。",
+          "en": "Tesla, Meta, and IBM are set to report earnings."
+        },
+        {
+          "zh": "英伟达CEO黄仁勋在柏林GTC活动上发表讲话。",
+          "en": "Nvidia CEO Jensen Huang spoke at the Nvidia GTC event in Berlin."
+        }
+      ],
+      "tags": [
+        "AI bubble",
+        "earnings",
+        "SpaceX",
+        "Tesla",
+        "futures"
+      ],
+      "tickers": [
+        "TSLA",
+        "META",
+        "IBM",
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4955847",
+      "title": "Wall Street Breakfast Podcast: One Giant Earnings Leap For SpaceX",
+      "title_zh": "SpaceX财报超预期大涨，AI业务驱动；马斯克面临Starlink乌克兰争议；微软新Xbox或高价",
+      "url": "https://seekingalpha.com/article/4955847-wall-street-breakfast-podcast-one-giant-earnings-leap-for-spacex?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-21T11:10:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "politics",
+        "other"
+      ],
+      "summary_zh": "SpaceX第三季度业绩远超预期，AI业务爆发式增长，股价盘前涨9%；马斯克透露SpaceX与特斯拉已成立委员会评估潜在合并。同时，马斯克因Starlink限制令面临政治审查，微软下一代Xbox主机可能定价高达1800美元。",
+      "summary_en": "SpaceX surged 9% premarket after Q3 results crushed estimates, driven by explosive AI growth; Musk said SpaceX and Tesla have formed committees to evaluate a potential merger. Meanwhile, Musk faces scrutiny over Starlink restrictions in Ukraine, and Microsoft's next Xbox could cost up to $1,800.",
+      "detail_zh": "SpaceX公布第三季度财报，净利润44亿美元（每股0.35美元），远超分析师预期的0.16美元，并扭转去年同期11亿美元净亏损。营收同比激增161%至146亿美元，超过华尔街预期的130亿美元；调整后EBITDA增长306%至88亿美元，营业利润达28亿美元。马斯克在财报电话会上表示，SpaceX与特斯拉已成立委员会评估潜在合并，并称“我们几乎处于超级智能奇点，合作开发超级智能软件有很大收益”。特斯拉当日盘后公布财报，盘前涨1.9%。《华尔街日报》报道称，是马斯克下令限制Starlink卫星网络，扰乱了乌克兰军事行动，此举引发基辅警觉和特朗普政府内部困惑，对投资者而言凸显了该公司面临的政治和监管风险。微软计划2027年假日季推出新一代Xbox掌机、2028年推出新一代主机，据Fortune报道，新主机将采用AMD的FSR 4.1机器学习技术，成本在1200至1800美元之间（除非微软补贴硬件成本）。Xbox CEO Asha Sharma称Project Helix为“设备家族”，暗示将推出多款新设备。微软还在考虑调整Xbox Game Pass，可能包括广告和无广告层级，并据报考虑本月晚些时候在该部门裁员。其他市场动态：Netflix股价跌6%，尽管Q3营业利润增长37%至45.8亿美元超预期，但营收同比增长12%为三年来最慢。原油上涨，WTI涨1.6%至99美元，布伦特涨1.3%至110美元。",
+      "detail_en": "SpaceX reported Q3 net income of $4.4 billion, or $0.35 per share, beating consensus of $0.16 and reversing a year-earlier net loss of $1.1 billion. Revenue surged 161% to $14.6 billion from $5.6 billion, exceeding the $13 billion estimate; adjusted EBITDA climbed 306% to $8.8 billion, and operating income reached $2.8 billion. Musk said on the earnings call that SpaceX and Tesla have established committees to evaluate a possible merger, noting 'we are pretty much in the superintelligence singularity, and there's a lot to be gained from cooperating on developing superintelligence software.' Tesla reports after the bell today and was up 1.9% premarket. The Wall Street Journal reported that Musk ordered restrictions on Starlink that disrupted Ukrainian military operations, citing U.S. officials; the move sparked alarm in Kyiv and confusion within the Trump administration, underscoring political and regulatory risks for investors. Microsoft plans to launch a next-gen Xbox handheld for the 2027 holiday season and a next-gen console for 2028; according to Fortune, the console will run on AMD's FSR 4.1 machine-learning technology and cost between $1,200 and $1,800 unless Microsoft subsidizes hardware costs. Xbox CEO Asha Sharma called Project Helix a 'family of devices.' Microsoft is also considering changes to Xbox Game Pass, potentially including ad and no-ad tiers, and reportedly weighing layoffs at the division later this month. Netflix fell 6% despite Q3 operating income rising 37% to $4.58 billion and beating the $4.27 billion consensus, as revenue growth of 12% Y/Y was the slowest in three years. Crude oil rose, with WTI up 1.6% at $99 and Brent up 1.3% at $110.",
+      "conclusion_zh": "SpaceX的强劲业绩和潜在的特斯拉合并计划可能强化市场对马斯克系公司的关注，但Starlink争议提示政治监管风险；微软Xbox的高定价策略和成本控制举措值得留意。",
+      "conclusion_en": "SpaceX's strong results and potential Tesla merger could reinforce market focus on Musk-linked companies, while the Starlink controversy flags political/regulatory risks; Microsoft's high Xbox pricing and cost-control moves warrant attention.",
+      "key_points": [
+        {
+          "zh": "SpaceX第三季度营收146亿美元、净利润44亿美元，均远超预期，AI业务是主要驱动力。",
+          "en": "SpaceX Q3 revenue of $14.6B and net income of $4.4B both crushed estimates, driven by AI business."
+        },
+        {
+          "zh": "马斯克称SpaceX与特斯拉已成立委员会评估合并，可能成为史上最大企业合并。",
+          "en": "Musk said SpaceX and Tesla have formed committees to evaluate a merger, potentially the largest in history."
+        },
+        {
+          "zh": "《华尔街日报》报道马斯克下令限制Starlink，干扰乌克兰军事行动，凸显政治监管风险。",
+          "en": "WSJ reported Musk ordered Starlink restrictions that disrupted Ukraine's military, highlighting political/regulatory risks."
+        },
+        {
+          "zh": "微软下一代Xbox主机据报成本在1200-1800美元，采用AMD FSR 4.1技术，并考虑Game Pass调整和裁员。",
+          "en": "Microsoft's next Xbox console reportedly costs $1,200-$1,800, uses AMD FSR 4.1, and the company is considering Game Pass changes and layoffs."
+        },
+        {
+          "zh": "Netflix股价跌6%，尽管营业利润超预期，但营收增速12%为三年来最慢。",
+          "en": "Netflix fell 6% as revenue growth of 12% was the slowest in three years, despite beating operating income estimates."
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "Tesla",
+        "Microsoft",
+        "Xbox",
+        "Starlink"
+      ],
+      "tickers": [
+        "SPCX",
+        "TSLA",
+        "MSFT",
+        "AMD",
+        "NFLX",
+        "HOOD",
+        "KALSHI"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:f3cuhKNMiRg",
+      "title": "SpaceX Results Reignite AI Trade, Meta Results on Deck",
+      "title_zh": "SpaceX业绩缓解AI投资可持续性担忧，Meta财报成焦点",
+      "url": "https://www.youtube.com/watch?v=f3cuhKNMiRg",
+      "published_at": "2026-10-21T11:09:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股期货在SpaceX强劲业绩后上涨，缓解了市场对全球AI投资热潮可持续性的担忧。投资者关注Meta即将发布的季度财报，重点考察其AI支出及云业务变现进展。",
+      "summary_en": "US stock futures rose after strong results from SpaceX eased concerns over whether the global AI investment spree is sustainable. Investors are focused on Meta's upcoming quarterly earnings, watching AI spending and cloud monetization progress.",
+      "detail_zh": "美股期货上涨，此前SpaceX公布的强劲业绩缓解了市场对全球人工智能投资热潮能否持续的担忧。Meta投资者将在周三盘后发布的季度财报中寻找该公司AI支出方面的最新信息，同时关注其云业务变现以抵消相关成本的进展。节目还讨论了AI股票上涨、英伟达CEO黄仁勋在柏林的活动、英国通胀数据超预期、贝莱德CEO Larry Fink对利率、赤字与AI的看法、以及多位嘉宾对AI交易是否泡沫、美国中期选举、AI政策与赤字风险的讨论。此外，节目涵盖了欧洲科技与法国股票、家乐福受法国骚乱影响、EssilorLuxottica财报与AI眼镜、GPU与代币定价、科技财报与AI融资风险、英国通胀与英国央行展望、以及英国能源政策与电网瓶颈等话题。",
+      "detail_en": "US stock futures rose after SpaceX reported strong results, easing concerns about whether the global AI investment spree can be sustained. Meta investors will look for updates on the company's AI spending in its quarterly report due Wednesday after the market close, and for signs of progress in offsetting those costs by monetizing its cloud business. The program also covered AI stocks rallying, Nvidia CEO Jensen Huang in Berlin, hotter-than-expected UK inflation, BlackRock CEO Larry Fink on rates, deficits and AI, and guests discussing whether the AI trade is a bubble, US midterms, AI policy and deficit risks. Other topics included European tech and French stocks, Carrefour hit by French unrest, EssilorLuxottica earnings and AI glasses, GPU and token pricing, tech earnings and AI financing risks, UK inflation and Bank of England outlook, and UK energy policy and grid bottlenecks.",
+      "conclusion_zh": "SpaceX业绩暂时缓解AI投资担忧，但Meta财报将检验AI支出与变现的平衡，是评估AI交易可持续性的关键。",
+      "conclusion_en": "SpaceX results temporarily eased AI investment concerns, but Meta's earnings will test the balance between AI spending and monetization, a key gauge for the sustainability of the AI trade.",
+      "key_points": [
+        {
+          "zh": "SpaceX强劲业绩缓解了市场对AI投资可持续性的担忧，美股期货上涨。",
+          "en": "Strong SpaceX results eased concerns over AI investment sustainability, lifting US stock futures."
+        },
+        {
+          "zh": "Meta即将发布的财报是焦点，投资者关注其AI支出及云业务变现进展。",
+          "en": "Meta's upcoming earnings are in focus, with investors watching AI spending and cloud monetization progress."
+        },
+        {
+          "zh": "节目讨论了AI交易是否泡沫、美国中期选举、AI政策与赤字风险等议题。",
+          "en": "The program discussed whether the AI trade is a bubble, US midterms, AI policy and deficit risks."
+        },
+        {
+          "zh": "英国通胀数据超预期，市场关注英国央行展望。",
+          "en": "UK inflation came in hot, with attention on the Bank of England outlook."
+        }
+      ],
+      "tags": [
+        "AI",
+        "Meta",
+        "SpaceX",
+        "UK inflation",
+        "earnings"
+      ],
+      "tickers": [
+        "META"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:0tRhtNBdSb0",
       "title": "Elon Musk Backs Tesla-SpaceX Mega Merger",
@@ -11918,53 +12205,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "4954041",
-      "title": "The Diesel Squeeze Is Deepening",
-      "title_zh": "柴油价格飙升成为全球经济新压力点",
-      "url": "https://seekingalpha.com/article/4954041-the-diesel-squeeze-is-deepening?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-14T11:15:56+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "自2月28日伊朗战争爆发以来，美国柴油均价上涨逾70%至每加仑6.29美元，涨幅远超汽油的45%。霍尔木兹海峡运输中断与库存耗尽导致柴油供应紧张，IEA警告市场紧张将持续至2027年，柴油价格高企正推升商品成本、实际收入压力和通胀。",
-      "summary_en": "U.S. diesel prices have surged over 70% to $6.29 per gallon since the Iran war began on Feb. 28, outpacing the 45% rise in gasoline. Shipping disruptions through the Strait of Hormuz and depleted inventories have tightened supply, with the IEA warning market tightness will extend into 2027, raising goods costs, pressuring real incomes, and fueling inflation.",
-      "detail_zh": "柴油被称为全球经济的支柱燃料，支撑货运、制造、农业和建筑等关键供应链，其价格波动会对多个行业产生连锁反应。自2月28日伊朗战争爆发以来，美国汽油均价上涨45%至每加仑4.33美元，而柴油均价飙升逾70%至每加仑6.29美元。战争相关的供应中断和霍尔木兹海峡航运受阻大幅削减了海运柴油出口，加之本已偏低的柴油库存被进一步消耗，令仍需持续运转的经济面临挑战。特朗普政府近期取消了针对俄罗斯柴油的制裁，并发布关于红色染料柴油的行政命令，但这些措施迄今未能压低价格。周二美国柴油期货再涨5%，因胡塞武装持续袭击沙特基础设施且霍尔木兹石油流量大幅下降。美国柴油出口禁令等其他政策也曾被考虑，但因警告可能适得其反而被排除。IEA在最新《石油市场报告》中警告，创纪录的柴油价格已通过推高商品成本、影响实际收入、经济活动和通胀产生广泛经济后果，市场紧张态势将延续至2027年，库存下降、裂解价差飙升和现货升水加剧均表明需要额外供应。",
-      "detail_en": "Diesel is known as the backbone of the global economy, powering freight transport, manufacturing, agriculture, and construction, and its price changes and volatility can have knock-on effects across many sectors. Since the Iran war began on Feb. 28, the average U.S. gasoline price has climbed 45% to $4.33 per gallon, while diesel has skyrocketed over 70% to $6.29 per gallon. War-related outages and shipping disruptions through the Strait of Hormuz have sharply cut seaborne diesel exports, while already low diesel inventories have been depleted, challenging an economy that still needs to keep running. The Trump administration recently lifted sanctions on Russian diesel and issued an executive order for red-dye diesel, but those measures have so far failed to bring down prices. U.S. diesel futures surged another 5% on Tuesday as Houthi strikes continued on Saudi infrastructure and Hormuz oil flows fell sharply. Other policies like a U.S. diesel export ban have been considered but ruled out amid warnings it could backfire. The IEA warned in its latest Oil Market Report that record diesel prices are already having broad economic consequences by raising the cost of goods and impacting real incomes, economic activity, and inflation, adding that market tightness is set to extend into 2027, with falling inventories, soaring cracks, and steepening backwardation signaling the need for additional supplies.",
-      "key_points": [
-        {
-          "zh": "美国柴油均价自伊朗战争爆发以来上涨逾70%至每加仑6.29美元，涨幅远超汽油的45%（4.33美元/加仑）。",
-          "en": "U.S. diesel prices have risen over 70% to $6.29 per gallon since the Iran war began, far outpacing the 45% rise in gasoline to $4.33 per gallon."
-        },
-        {
-          "zh": "霍尔木兹海峡航运中断与库存耗尽导致柴油供应紧张，周二柴油期货再涨5%。",
-          "en": "Shipping disruptions through the Strait of Hormuz and depleted inventories have tightened diesel supply, with futures surging another 5% on Tuesday."
-        },
-        {
-          "zh": "取消俄罗斯柴油制裁和红色染料柴油行政命令等措施迄今未能压低价格，出口禁令因可能适得其反被排除。",
-          "en": "Measures including lifting sanctions on Russian diesel and an executive order for red-dye diesel have failed to bring down prices, while an export ban was ruled out amid warnings it could backfire."
-        },
-        {
-          "zh": "IEA警告柴油价格高企已推升商品成本、冲击实际收入并加剧通胀，市场紧张将持续至2027年。",
-          "en": "The IEA warned that record diesel prices are raising goods costs, impacting real incomes, and fueling inflation, with market tightness set to extend into 2027."
-        },
-        {
-          "zh": "IEA指出库存下降、裂解价差飙升和现货升水加剧均表明需要额外供应。",
-          "en": "The IEA noted that falling inventories, soaring cracks, and steepening backwardation signal the need for additional supplies."
-        }
-      ],
-      "tags": [
-        "diesel",
-        "oil",
-        "inflation",
-        "Iran war",
-        "Hormuz"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
