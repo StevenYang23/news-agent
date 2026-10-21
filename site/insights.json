@@ -1,6 +1,481 @@
 {
-  "generated_at": "2026-10-21T21:10:48.160001+00:00",
+  "generated_at": "2026-10-21T22:11:19.493739+00:00",
   "insights": [
+    {
+      "guid": "yt:T8brA63WlgU",
+      "title": "Tesla, IBM & Meta Report Earnings as AI Takes Center Stage",
+      "title_zh": "彭博《收盘》节目：沙特油田遇袭推高油价，CME谈波动率与地缘风险",
+      "url": "https://www.youtube.com/watch?v=T8brA63WlgU",
+      "published_at": "2026-10-21T22:01:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博《收盘》节目涵盖沙特油田遇袭推升原油价格、CME CEO Terry Duffy讨论波动率与地缘政治风险、24/7交易与AI算力，以及社区银行、稳定币竞争、AI服务投资、数据中心与私募股权回报、Bose收购Skullcandy、Meta与IBM财报、特斯拉财报及ARK的Robotaxi展望等议题。",
+      "summary_en": "This episode of Bloomberg The Close covers the Saudi oil field attack pushing crude prices higher, CME CEO Terry Duffy on volatility and geopolitical risk, 24/7 trading and AI compute, community banks and stablecoin competition, investing in AI services, data centers and private equity returns, Bose's Skullcandy acquisition, Meta and IBM earnings, Tesla earnings and ARK's robotaxi outlook, and more.",
+      "detail_zh": "节目首先关注沙特油田遇袭事件，该事件推动原油价格上涨。贝莱德美洲机构业务主管Armando Senra讨论家族办公室、地缘政治与投资。CME集团董事长兼CEO Terry Duffy就波动率与地缘政治风险、24/7交易、AI算力与风险管理发表看法。第一独立银行董事长兼CEO Kenneth Kelly讨论社区银行、技术与稳定币竞争。October Capital创始人Frank Baker分享对AI服务投资的看法，并涉及数据中心、更高利率与私募股权回报。Bose CEO Lila Snyder谈论收购Skullcandy以及音频技术与供应链挑战。Man Group董事总经理Matt Rowe讨论市场波动、AI风险与经济展望，以及AI融资、CoreWeave与数据中心产能过剩。收盘后，节目关注Meta财报、AI支出与Muse机会，IBM财报超预期且AI与软件增长反弹，Meta新股份与扎克伯格AI投资，特斯拉财报与ARK的Robotaxi展望，特斯拉-SpaceX合并与马斯克AI帝国未来，前Meta内部人士谈扎克伯格AI雄心，Meta AI支出、Reality Labs与苹果合作，大型科技股财报、AI资本支出与市场多元化，美联储加息、通胀与经济风险，以及AI数据中心、能源需求与电力基础设施。",
+      "detail_en": "The program begins with the Saudi oil field attack that sent crude prices higher. BlackRock Head of the Americas Institutional Business Armando Senra discusses family offices, geopolitics and investing. CME Group CEO & Chairman Terry Duffy shares views on volatility and geopolitical risk, 24/7 trading, AI compute and risk management. First Independence Bank Chairman & CEO Kenneth Kelly discusses community banks, technology and stablecoin competition. October Capital CEO & Managing Partner Frank Baker talks about investing in AI services, data centers, higher rates and private equity returns. Bose CEO Lila Snyder discusses the Skullcandy acquisition, audio technology and supply chain challenges. Man Group Managing Director Matt Rowe covers market volatility, AI risks and the economic outlook, as well as AI financing, CoreWeave and data center overcapacity. After the closing bell, the show covers Meta earnings, AI spending and the Muse opportunity; IBM earnings beat as AI and software growth rebound; Meta's new shares, Zuckerberg and AI investment; Tesla earnings and ARK's robotaxi outlook; the Tesla-SpaceX merger and the future of Elon's AI empire; a former Meta insider on Zuckerberg's AI ambitions; Meta's AI spending, Reality Labs and the Apple partnership; Big Tech earnings, AI capex and market diversification; Fed rate hikes, inflation and risks to the economy; and AI data centers, energy demand and power infrastructure.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "沙特油田遇袭推动原油价格上涨。",
+          "en": "Saudi oil field attack sends crude prices higher."
+        },
+        {
+          "zh": "CME CEO Terry Duffy讨论波动率、地缘政治风险、24/7交易与AI算力。",
+          "en": "CME CEO Terry Duffy discusses volatility, geopolitical risk, 24/7 trading and AI compute."
+        },
+        {
+          "zh": "社区银行面临技术与稳定币竞争。",
+          "en": "Community banks face technology and stablecoin competition."
+        },
+        {
+          "zh": "Meta与IBM财报及AI支出成为焦点，IBM财报超预期且AI与软件增长反弹。",
+          "en": "Meta and IBM earnings and AI spending in focus; IBM beats with AI and software growth rebound."
+        },
+        {
+          "zh": "特斯拉财报与ARK的Robotaxi展望，以及特斯拉-SpaceX合并讨论。",
+          "en": "Tesla earnings and ARK's robotaxi outlook, plus discussion of a Tesla-SpaceX merger."
+        }
+      ],
+      "tags": [
+        "oil",
+        "CME",
+        "AI",
+        "earnings",
+        "volatility"
+      ],
+      "tickers": [
+        "META",
+        "IBM",
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:OzBzE3yxphg",
+      "title": "Inside the Biggest Bond Boom in Years",
+      "title_zh": "AI资本开支与并购推动债券发行创纪录，投资级与CCC级信用分化加剧",
+      "url": "https://www.youtube.com/watch?v=OzBzE3yxphg",
+      "published_at": "2026-10-21T21:38:08+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "摩根士丹利固收团队讨论债券发行历史高位对市场的影响。投资级债券发行量同比增长近25%，受AI资本开支和并购复苏驱动，同时1000亿美元新资金流入投资级信用。投资级基本面强劲，而CCC级信用出现明显分化，再融资压力成为挑战。",
+      "summary_en": "Morgan Stanley's fixed income team discusses the impact of historically high bond issuance on markets. Investment grade debt volumes are up nearly 25% year-over-year, driven by AI capex and resurgent M&A, with $100 billion of new cash flowing into IG credit. IG fundamentals are strong, while CCC-rated credit shows significant dispersion and refinancing challenges.",
+      "detail_zh": "摩根士丹利全球固收研究主管Andrew Sheets主持讨论，与债务资本市场主管Anisha、全球信用交易主管Rahan Nativ及外汇与新兴市场主管Samara共同分析债券发行浪潮。Anisha指出，投资级债券发行量同比增长近25%，受AI资本开支主题和并购活动复苏推动；利率环境对信用市场构成支撑，1000亿美元新现金流入投资级信用，保险资本和私人信贷等新投资者群体带来巨大容量。AI生态系统的复杂性（超大规模企业、芯片制造商、新云、数据中心之间的互联）要求前所未有的结构创新。Rahan Nativ提出公共信用交易的三个叙事：投资级异常强劲，高收益率环境下吸引力突出；CCC级市场出现真正分化，困境投资者和高收益投资者需解决再融资难题；超大规模企业已大规模进入多个资本市场。Samara补充，企业衍生品业务因发行浪潮和不确定性（能源价格高企、通胀粘性、财政担忧）而异常繁忙，客户对冲需求上升，宏观模型正在重新校准利率水平对经济及行业赢家输家的影响。资本流向具有积极大宗商品和AI超大规模企业故事的发行人和主权，而避开缺乏这些故事的司法管辖区。Anisha还提到，AI生态系统内的发行人对利率相对不敏感，因对长期回报乐观，第一波AI资本开支主要进入投资级债券市场。",
+      "detail_en": "Morgan Stanley's global head of fixed income research Andrew Sheets hosts a discussion with Anisha (global head of debt capital markets), Rahan Nativ (global head of credit trading), and Samara (global head of FX and EM) on the bond issuance wave. Anisha notes IG debt volumes are up nearly 25% year-over-year, driven by AI capex and resurgent M&A; the rate backdrop is constructive, with $100 billion of new cash into IG credit and new investor pools like insurance capital and private credit adding capacity. Complexity from the AI ecosystem (hyperscalers, chip makers, neoclouds, data centers) demands unprecedented structuring innovation. Rahan Nativ offers three narratives in public credit: IG is incredibly strong and attractive at current yields; CCC-rated credit shows real dispersion with refinancing challenges for distress and high yield investors; hyperscalers have accessed multiple capital markets. Samara adds that corporate derivatives business is exceptionally busy due to issuance and uncertainty (high energy prices, sticky inflation, fiscal concerns), with clients hedging more and recalibrating macro models on rate levels and winners/losers by jurisdiction and sector. Capital flows toward names with positive commodity and AI hyperscaler stories, away from those without. Anisha notes AI ecosystem issuers are relatively insensitive to rates given optimism on long-term returns, with the first AI capex wave predominantly in IG bonds.",
+      "conclusion_zh": "投资级信用在AI资本开支和并购浪潮下基本面强劲且供需两旺，但需关注CCC级信用分化加剧带来的再融资风险。",
+      "conclusion_en": "IG credit fundamentals are strong with robust supply and demand amid AI capex and M&A, but watch for rising refinancing risks from growing CCC-rated dispersion.",
+      "key_points": [
+        {
+          "zh": "投资级债券发行量同比增长近25%，受AI资本开支和并购复苏驱动。",
+          "en": "IG debt volumes are up nearly 25% year-over-year, driven by AI capex and resurgent M&A."
+        },
+        {
+          "zh": "1000亿美元新现金流入投资级信用，保险资本和私人信贷等新投资者群体扩大市场容量。",
+          "en": "$100 billion of new cash has flowed into IG credit, with new investor pools like insurance capital and private credit expanding market capacity."
+        },
+        {
+          "zh": "投资级信用基本面强劲，当前收益率下吸引力突出；CCC级信用出现明显分化和再融资压力。",
+          "en": "IG credit fundamentals are strong and attractive at current yields; CCC-rated credit shows significant dispersion and refinancing pressure."
+        },
+        {
+          "zh": "AI生态系统的复杂性要求结构性创新，超大规模企业已大规模进入多个资本市场。",
+          "en": "Complexity in the AI ecosystem demands structuring innovation, and hyperscalers have accessed multiple capital markets at scale."
+        },
+        {
+          "zh": "宏观不确定性（能源价格高企、通胀粘性、财政担忧）推动客户对冲需求上升，资本流向具有积极AI和大宗商品故事的发行人和主权。",
+          "en": "Macro uncertainty (high energy prices, sticky inflation, fiscal concerns) drives hedging demand, with capital flowing to issuers and sovereigns with positive AI and commodity stories."
+        }
+      ],
+      "tags": [
+        "bond issuance",
+        "investment grade",
+        "AI capex",
+        "credit dispersion",
+        "M&A"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:QiRBaSExqOY",
+      "title": "SpaceX and Tesla Will Combine, Steve Westly Predicts",
+      "title_zh": "前特斯拉董事预计SpaceX与特斯拉将合并",
+      "url": "https://www.youtube.com/watch?v=QiRBaSExqOY",
+      "published_at": "2026-10-21T21:14:03+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "The Westly Group创始人、前特斯拉董事会成员Steve Westly表示，他预计SpaceX与特斯拉将会合并。该观点在Bloomberg The Close节目中发表。",
+      "summary_en": "Steve Westly, founder of The Westly Group and former Tesla board member, said he expects SpaceX and Tesla to combine, speaking on Bloomberg The Close.",
+      "detail_zh": "The Westly Group创始人兼管理合伙人、前特斯拉董事会成员Steve Westly在Bloomberg The Close节目中表示，他预计SpaceX与特斯拉将会合并。原文未提供合并的时间表、交易结构、估值或具体理由。Westly的身份使其观点具有一定市场关注度，但该表述属于个人预期，并非公司官方公告。",
+      "detail_en": "Steve Westly, founder and managing partner of The Westly Group and a former Tesla board member, said on Bloomberg The Close that he expects SpaceX and Tesla to combine. The source does not provide a timeline, deal structure, valuation, or specific rationale for the expected combination. Westly's background gives the view some market attention, but it is a personal expectation rather than an official company announcement.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "前特斯拉董事会成员Steve Westly预计SpaceX与特斯拉将合并。",
+          "en": "Former Tesla board member Steve Westly expects SpaceX and Tesla to combine."
+        },
+        {
+          "zh": "该观点发表于Bloomberg The Close节目。",
+          "en": "The view was expressed on Bloomberg The Close."
+        },
+        {
+          "zh": "原文未提供合并时间表、交易结构或估值等细节。",
+          "en": "The source provides no timeline, deal structure, or valuation details."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "SpaceX",
+        "merger",
+        "Bloomberg"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bbBaJCFyLs0",
+      "title": "Elice CEO Shrugs Off Choppy IPO, Eyes Revenue Boost",
+      "title_zh": "Elice集团CEO计划通过边缘数据中心硬件出口和主权AI合同实现年收入翻倍",
+      "url": "https://www.youtube.com/watch?v=bbBaJCFyLs0",
+      "published_at": "2026-10-21T21:13:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Elice集团CEO Jae Won Kim表示，在度过上市初期的动荡后，公司目标是通过出口边缘数据中心硬件和获取主权AI合同，实现每年收入翻倍。",
+      "summary_en": "Elice Group CEO Jae Won Kim aims to double revenue each year by exporting edge data center hardware and capturing sovereign AI contracts, looking past debut turbulence.",
+      "detail_zh": "Elice集团首席执行官Jae Won Kim在采访中表示，公司计划通过两项核心战略实现年收入翻倍：一是出口边缘数据中心硬件，二是获取主权AI合同。Kim的言论表明，公司正将目光投向上市初期的波动之外，聚焦于扩张。",
+      "detail_en": "Elice Group Chief Executive Officer Jae Won Kim said in an interview that the company aims to double revenue each year through two core strategies: exporting edge data center hardware and capturing sovereign AI contracts. Kim's remarks indicate the company is looking past its debut turbulence and focusing on expansion.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Elice集团CEO Jae Won Kim计划每年将收入翻倍。",
+          "en": "Elice Group CEO Jae Won Kim aims to double revenue each year."
+        },
+        {
+          "zh": "增长战略包括出口边缘数据中心硬件。",
+          "en": "Growth strategy includes exporting edge data center hardware."
+        },
+        {
+          "zh": "公司还计划获取主权AI合同。",
+          "en": "The company also plans to capture sovereign AI contracts."
+        },
+        {
+          "zh": "这些计划是在公司上市初期经历动荡后提出的。",
+          "en": "These plans come after the company experienced debut turbulence."
+        }
+      ],
+      "tags": [
+        "Elice Group",
+        "edge data center",
+        "sovereign AI",
+        "revenue growth"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5E73Lwf1f7s",
+      "title": "UK Will Send Air Force Jets to Defend Saudi Arabia",
+      "title_zh": "英国首相要求皇家空军保护沙特免受胡塞武装袭击",
+      "url": "https://www.youtube.com/watch?v=5E73Lwf1f7s",
+      "published_at": "2026-10-21T21:13:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英国首相安迪·伯纳姆要求皇家空军执行任务，保护沙特阿拉伯免受伊朗支持的也门胡塞武装的空中袭击。皇家空军战斗机将部署以保卫沙特城市和基础设施。",
+      "summary_en": "UK Prime Minister Andy Burnham asked the Royal Air Force to fly missions to protect Saudi Arabia from Houthi attacks. RAF fighter jets will be deployed to defend Saudi cities and infrastructure against aerial attacks from the Iran-backed Yemeni militant group.",
+      "detail_zh": "英国首相安迪·伯纳姆已要求皇家空军执行飞行任务，以保护沙特阿拉伯免受胡塞武装的袭击。皇家空军战斗机将被部署，用于保卫沙特城市和基础设施，抵御来自伊朗支持的也门激进组织的空中攻击。彭博的Stuart Livingstone-Wallace和彭博经济研究的Ziad Daoud对局势进行了分析。原文未提供更多关于部署规模、时间或具体影响的细节。",
+      "detail_en": "UK Prime Minister Andy Burnham has asked the Royal Air Force to fly missions to protect Saudi Arabia from Houthi attacks. RAF fighter jets will be deployed to defend Saudi cities and infrastructure against aerial attacks from the Iran-backed Yemeni militant group. Bloomberg's Stuart Livingstone-Wallace and Bloomberg Economics' Ziad Daoud break down the situation. The original text does not provide further details on the scale, timing, or specific implications of the deployment.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英国首相安迪·伯纳姆要求皇家空军执行保护沙特阿拉伯的任务。",
+          "en": "UK Prime Minister Andy Burnham asked the Royal Air Force to fly missions to protect Saudi Arabia."
+        },
+        {
+          "zh": "皇家空军战斗机将被部署，以保卫沙特城市和基础设施免受胡塞武装的空中袭击。",
+          "en": "RAF fighter jets will be deployed to defend Saudi cities and infrastructure against aerial attacks from the Houthi group."
+        },
+        {
+          "zh": "胡塞武装是伊朗支持的也门激进组织。",
+          "en": "The Houthis are an Iran-backed Yemeni militant group."
+        },
+        {
+          "zh": "彭博的Stuart Livingstone-Wallace和彭博经济研究的Ziad Daoud对局势进行了分析。",
+          "en": "Bloomberg's Stuart Livingstone-Wallace and Bloomberg Economics' Ziad Daoud break down the situation."
+        }
+      ],
+      "tags": [
+        "UK",
+        "Saudi Arabia",
+        "Houthi",
+        "RAF",
+        "military"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:093sWJwRbSg",
+      "title": "Rubio Says Ukraine Wouldn’t Exist Without US Support",
+      "title_zh": "鲁比奥访印期间为特朗普政府支持乌克兰辩护",
+      "url": "https://www.youtube.com/watch?v=093sWJwRbSg",
+      "published_at": "2026-10-21T21:10:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国国务卿马可·鲁比奥在访问印度期间为特朗普政府对乌克兰的支持进行辩护，称若无美国援助，乌克兰“作为一个主权国家将不复存在”。该表态由彭博政府频道的Mica Soellner报道。",
+      "summary_en": "Secretary of State Marco Rubio defended the Trump administration's support for Ukraine during a visit to India, stating that the nation \"as a sovereign state would not exist\" without US assistance. The remarks were reported by Mica Soellner of Bloomberg Government.",
+      "detail_zh": "美国国务卿马可·鲁比奥周三在访问印度期间，为特朗普政府对乌克兰的支持进行了辩护。鲁比奥对记者表示，如果没有美国的援助，乌克兰“作为一个主权国家将不复存在”。彭博政府频道的Mica Soellner对此进行了报道。原文未提供更多关于援助规模、具体政策或市场影响的细节。",
+      "detail_en": "Secretary of State Marco Rubio on Wednesday defended the Trump administration's support for Ukraine during a visit to India. Rubio told reporters that without US assistance, the nation \"as a sovereign state would not exist.\" The remarks were reported by Mica Soellner of Bloomberg Government. The original text does not provide further details on the scale of aid, specific policies, or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "鲁比奥在访问印度期间为特朗普政府的乌克兰政策辩护。",
+          "en": "Rubio defended the Trump administration's Ukraine policy during a visit to India."
+        },
+        {
+          "zh": "鲁比奥称若无美国援助，乌克兰“作为一个主权国家将不复存在”。",
+          "en": "Rubio stated that without US assistance, Ukraine \"as a sovereign state would not exist.\""
+        },
+        {
+          "zh": "该报道由彭博政府频道的Mica Soellner提供。",
+          "en": "The report was provided by Mica Soellner of Bloomberg Government."
+        }
+      ],
+      "tags": [
+        "Ukraine",
+        "US foreign policy",
+        "Rubio",
+        "India visit"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:qxvf0kKg4zM",
+      "title": "BofA’s Cabana Asks Fed on Rate Hikes ‘Why Wait Now?’",
+      "title_zh": "美银证券策略师谈美联储利率决议及内部政策分歧",
+      "url": "https://www.youtube.com/watch?v=qxvf0kKg4zM",
+      "published_at": "2026-10-21T21:10:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美银证券全球利率策略联席主管Mark Cabana在彭博电视节目中讨论了美联储即将到来的利率决议，并指出美联储内部存在政策前景分歧。",
+      "summary_en": "Mark Cabana, co-head of global rates strategy at BofA Securities, discussed the Federal Reserve's upcoming interest-rate decision and noted divisions within the Fed over the policy outlook on Bloomberg Surveillance.",
+      "detail_zh": "美银证券全球利率策略联席主管Mark Cabana做客彭博“Surveillance”节目，围绕美联储即将公布的利率决议发表看法。他表示，美联储内部在政策前景上存在分歧。节目内容未披露更多具体细节。",
+      "detail_en": "Mark Cabana, co-head of global rates strategy at BofA Securities, appeared on Bloomberg Surveillance to discuss the Federal Reserve's upcoming interest-rate decision. He highlighted divisions within the Fed regarding the policy outlook. No further specifics were provided in the excerpt.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美银证券的Mark Cabana讨论了美联储即将到来的利率决议。",
+          "en": "Mark Cabana of BofA Securities discussed the Fed's upcoming rate decision."
+        },
+        {
+          "zh": "他指出美联储内部在政策前景上存在分歧。",
+          "en": "He pointed to divisions within the Fed over the policy outlook."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rates",
+        "policy outlook",
+        "BofA"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bg2krTXKrpI",
+      "title": "United ‘Still Solidly Profitable’ as Fuels Costs Rise, CEO Kirby Says",
+      "title_zh": "美联航CEO：可转嫁燃油成本上涨，需求持续强劲",
+      "url": "https://www.youtube.com/watch?v=bg2krTXKrpI",
+      "published_at": "2026-10-21T21:09:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联航CEO Scott Kirby表示公司有能力转嫁更高的燃油成本，并看到客户需求持续强劲。他还就财富税等美国社会与政策议题发表了看法。",
+      "summary_en": "United Airlines CEO Scott Kirby said the company can pass along higher fuel costs and is seeing continued strength in customer demand. He also shared views on a wealth tax and other US social and policy issues.",
+      "detail_zh": "在“Bloomberg Surveillance”节目中，美联航CEO Scott Kirby讨论了公司转嫁更高燃油成本的能力。他表示，客户需求持续强劲。Kirby还就财富税以及其他美国社会和政策议题分享了自己的看法。",
+      "detail_en": "Speaking on \"Bloomberg Surveillance,\" United Airlines CEO Scott Kirby discussed the company's ability to pass along higher fuel costs. He noted continued strength in customer demand. Kirby also shared his thoughts on a wealth tax and other US social and policy points.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联航CEO称公司有能力转嫁更高的燃油成本",
+          "en": "United CEO says the company can pass along higher fuel costs"
+        },
+        {
+          "zh": "客户需求持续强劲",
+          "en": "Customer demand remains strong"
+        },
+        {
+          "zh": "CEO就财富税等美国政策议题发表看法",
+          "en": "CEO shares views on a wealth tax and other US policy issues"
+        }
+      ],
+      "tags": [
+        "airlines",
+        "fuel costs",
+        "demand",
+        "wealth tax"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:r6iTT65iMXk",
+      "title": "United CEO Kirby on Why he supports a wealth tax",
+      "title_zh": "美联航CEO支持对财富增长征税并降低所得税",
+      "url": "https://www.youtube.com/watch?v=r6iTT65iMXk",
+      "published_at": "2026-10-21T21:09:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联航CEO Scott Kirby 在 Bloomberg Surveillance 节目中表示，他认为公平的税制应对财富增长征税，同时降低所得税。",
+      "summary_en": "United Airlines CEO Scott Kirby said on Bloomberg Surveillance that his view of a fair system would involve taxing wealth growth coupled with lower income taxes.",
+      "detail_zh": "美联航首席执行官 Scott Kirby 在“Bloomberg Surveillance”节目中谈及美国财富税问题。他表示，他心目中公平的税制应该是通过对财富增长征税，同时配合降低所得税的方式来实现。Kirby 是在接受彭博电视台采访时发表上述观点的。",
+      "detail_en": "United Airlines CEO Scott Kirby addressed his thoughts on a wealth tax in the United States during an appearance on \"Bloomberg Surveillance.\" He said his view of a fair system would be some way of taxing wealth growth coupled with lower income taxes. Kirby made these remarks in an interview with Bloomberg Television.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联航CEO Scott Kirby 认为公平的税制应对财富增长征税。",
+          "en": "United Airlines CEO Scott Kirby believes a fair tax system should tax wealth growth."
+        },
+        {
+          "zh": "他同时主张降低所得税。",
+          "en": "He also advocates for lower income taxes."
+        },
+        {
+          "zh": "上述观点是在 Bloomberg Surveillance 节目中发表的。",
+          "en": "These views were expressed on Bloomberg Surveillance."
+        }
+      ],
+      "tags": [
+        "wealth tax",
+        "income tax",
+        "United Airlines",
+        "tax policy"
+      ],
+      "tickers": [
+        "UAL"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ZJoayvFU4Zo",
+      "title": "Coke's Struggle to Break Into the $500 Billion Global Coffee Market",
+      "title_zh": "可口可乐收购Costa咖啡未达预期",
+      "url": "https://www.youtube.com/watch?v=ZJoayvFU4Zo",
+      "published_at": "2026-10-21T21:04:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "可口可乐收购Costa咖啡本意是推广其自助浓缩咖啡机及饮品至全球，但结果事与愿违，可口可乐因此受损。",
+      "summary_en": "Coca-Cola's acquisition of Costa Coffee was intended to spread the brand's self-serve espresso machines and drinks globally, but instead Coke got burned.",
+      "detail_zh": "据Kristina Peterson报道，可口可乐收购Costa咖啡的初衷是借助Costa品牌推广其自助浓缩咖啡机及饮品至全球市场。然而，这一收购并未按计划进行，反而令可口可乐受损。原文未提供具体财务数据或失败原因细节。",
+      "detail_en": "According to Kristina Peterson, Coca-Cola's acquisition of Costa Coffee was supposed to spread the brand's self-serve espresso machines and drinks around the world. Instead, Coke got burned. The original text does not provide specific financial figures or details on why the acquisition failed.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "可口可乐收购Costa咖啡旨在全球推广自助浓缩咖啡机及饮品。",
+          "en": "Coca-Cola acquired Costa Coffee to globally promote self-serve espresso machines and drinks."
+        },
+        {
+          "zh": "收购结果未达预期，可口可乐因此受损。",
+          "en": "The acquisition did not meet expectations, and Coca-Cola got burned."
+        }
+      ],
+      "tags": [
+        "Coca-Cola",
+        "Costa Coffee",
+        "acquisition",
+        "beverages"
+      ],
+      "tickers": [
+        "KO"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:RrP2jDSIuoI",
+      "title": "Bose CEO Lila Snyder on Skullcandy Acquisition",
+      "title_zh": "Bose收购Skullcandy，CEO谈交易意义与AI布局",
+      "url": "https://www.youtube.com/watch?v=RrP2jDSIuoI",
+      "published_at": "2026-10-21T21:02:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Bose今日收购Skullcandy，CEO Lila Snyder接受彭博采访，讨论交易对双方的意义、公司如何通过有线耳机吸引下一代用户，以及AI在未来产品中的作用。",
+      "summary_en": "Bose acquired Skullcandy today. CEO Lila Snyder spoke with Bloomberg's Romaine Bostick about what the deal means for both companies, how the audio company is trying to reach the next generation with wired headphones, and the role AI will play in future products.",
+      "detail_zh": "Bose今日宣布收购Skullcandy。Bose CEO Lila Snyder在接受彭博电视台Romaine Bostick采访时讨论了这笔交易对两家公司的意义。Snyder还谈及Bose如何通过有线耳机产品来触达下一代用户。此外，她提到了AI在未来产品中将扮演的角色。采访未披露交易金额、财务细节或具体产品规划。",
+      "detail_en": "Bose announced the acquisition of Skullcandy today. Bose CEO Lila Snyder sat down with Bloomberg's Romaine Bostick to discuss what the deal means for both companies. Snyder also discussed how the audio company is trying to reach the next generation with wired headphones. Additionally, she mentioned the role AI will play in future products. The interview did not disclose deal terms, financial details, or specific product plans.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Bose今日收购Skullcandy。",
+          "en": "Bose acquired Skullcandy today."
+        },
+        {
+          "zh": "Bose CEO Lila Snyder接受彭博采访，讨论交易对双方的意义。",
+          "en": "Bose CEO Lila Snyder spoke with Bloomberg about what the deal means for both companies."
+        },
+        {
+          "zh": "Bose试图通过有线耳机吸引下一代用户。",
+          "en": "Bose is trying to reach the next generation with wired headphones."
+        },
+        {
+          "zh": "AI将在Bose未来产品中发挥作用。",
+          "en": "AI will play a role in future products."
+        }
+      ],
+      "tags": [
+        "Bose",
+        "Skullcandy",
+        "acquisition",
+        "AI",
+        "audio"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:1pB7zhFt_8Y",
       "title": "Kuwait Petroleum Corporation CEO says oil output tops 2 million barrels a day",
@@ -13510,46 +13985,6 @@
         "energy",
         "mass production",
         "sodium-cooled reactor"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:i-rp-yw9AGk",
-      "title": "What to Expect From the UK Budget",
-      "title_zh": "英国预算案前瞻：经济表现与预期分歧",
-      "url": "https://www.youtube.com/watch?v=i-rp-yw9AGk",
-      "published_at": "2026-10-14T21:17:38+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "摩根士丹利分析师Andrew Sheets与Bruna Skarica在英国预算案发布前，探讨了关于增长、通胀和公共财政的相互矛盾的预测，并分析了英国经济如何打破预期。",
-      "summary_en": "Ahead of the UK budget later this month, Morgan Stanley analysts Andrew Sheets and Bruna Skarica examine competing predictions on growth, inflation and public finances, and how the UK economy defies expectations.",
-      "detail_zh": "英国预算案将于本月晚些时候公布。围绕增长、通胀和公共财政，各方预测存在分歧。Andrew Sheets和Bruna Skarica对此进行了分析，并探讨了英国经济如何打破预期。原文未提供具体预测数据或分析结论。",
-      "detail_en": "The UK budget will be delivered later this month. There are competing predictions regarding growth, inflation and public finances. Andrew Sheets and Bruna Skarica examine these diverging forecasts and how the UK economy defies expectations. The original text does not provide specific forecast figures or analytical conclusions.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英国预算案将于本月晚些时候公布。",
-          "en": "The UK budget will be delivered later this month."
-        },
-        {
-          "zh": "围绕增长、通胀和公共财政的预测存在分歧。",
-          "en": "There are competing predictions on growth, inflation and public finances."
-        },
-        {
-          "zh": "Andrew Sheets和Bruna Skarica分析了英国经济如何打破预期。",
-          "en": "Andrew Sheets and Bruna Skarica examine how the UK economy defies expectations."
-        }
-      ],
-      "tags": [
-        "UK budget",
-        "growth",
-        "inflation",
-        "public finances"
       ],
       "tickers": [],
       "sentiment": "neutral"
