@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:14:04.989570+00:00",
+  "generated_at": "2026-10-21T18:24:57.572192+00:00",
   "insights": [
     {
       "guid": "yt:MFybU0OroOE",
@@ -12706,45 +12706,6 @@
         "growth",
         "inflation",
         "public finances"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:VWFhuXMEh4g",
-      "title": "Wall Street Thought It Was a Toy. Not Anymore. #shorts",
-      "title_zh": "华尔街对某事物的认知发生转变",
-      "url": "https://www.youtube.com/watch?v=VWFhuXMEh4g",
-      "published_at": "2026-10-14T18:23:32+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "原文仅有一句标题式表述，称华尔街曾视某事物为玩具，如今已不再如此，但未提供具体标的、数据或论证。",
-      "summary_en": "The source consists only of a headline-style statement that Wall Street once regarded something as a toy but no longer does, without specifying the subject, data, or reasoning.",
-      "detail_zh": "原文内容仅为一句标题式表述：“Wall Street Thought It Was a Toy. Not Anymore.”，并带有 #shorts 标签。文中没有出现任何具体资产、公司、股票代码、数字、人物观点或因果分析，无法提炼出可验证的投资逻辑、方向或风险细节。因此本摘要仅如实反映原文的有限信息，不补充任何推测。",
-      "detail_en": "The source contains only a headline-style line: \"Wall Street Thought It Was a Toy. Not Anymore.\" with a #shorts tag. It includes no specific asset, company, ticker, figure, quoted view, or causal analysis, so no verifiable investment logic, direction, or risk detail can be extracted. This summary therefore reflects only the limited information in the source without adding speculation.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "原文仅称华尔街对某事物的看法由“玩具”转变为重视。",
-          "en": "The source only states that Wall Street's view of something shifted from \"toy\" to serious."
-        },
-        {
-          "zh": "原文未指明该事物是什么。",
-          "en": "The source does not identify what that something is."
-        },
-        {
-          "zh": "原文未提供任何数字、股票代码或论证。",
-          "en": "The source provides no figures, tickers, or reasoning."
-        }
-      ],
-      "tags": [
-        "wall-street",
-        "sentiment-shift",
-        "unspecified"
       ],
       "tickers": [],
       "sentiment": "neutral"
