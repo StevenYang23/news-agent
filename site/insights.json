@@ -1,6 +1,622 @@
 {
-  "generated_at": "2026-10-21T20:10:55.735211+00:00",
+  "generated_at": "2026-10-21T21:10:48.160001+00:00",
   "insights": [
+    {
+      "guid": "yt:1pB7zhFt_8Y",
+      "title": "Kuwait Petroleum Corporation CEO says oil output tops 2 million barrels a day",
+      "title_zh": "科威特石油公司称原油产量恢复至200万桶/日以上，但进一步增产需海峡安全保障",
+      "url": "https://www.youtube.com/watch?v=1pB7zhFt_8Y",
+      "published_at": "2026-10-21T20:53:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "科威特石油公司CEO表示，科威特原油产量已从危机最严重时的几乎为零恢复至超过200万桶/日，出口恢复至战前水平。但要恢复至此前270万桶/日的产量水平，还需为通过海峡的船只提供额外安全保障。",
+      "summary_en": "Kuwait Petroleum Corporation's CEO said Kuwait has restored oil production to more than 2 million barrels a day from almost nothing at the height of the crisis, with crude exports back to prewar levels. Additional security for ships transiting the Strait is needed to bring output back to its previous level of 2.7 million barrels a day.",
+      "detail_zh": "科威特石油公司（Kuwait Petroleum Corporation）首席执行官Sheikh Nawaf Al-Sabah在接受Bloomberg Balance of Power采访时表示，科威特已将原油产量从危机最严重时期的几乎为零恢复至超过200万桶/日。他同时指出，原油出口已恢复至战前水平。不过，Al-Sabah强调，若要产量进一步恢复至此前270万桶/日的水平，还需要为通过海峡的船只提供额外安全保障。这一表态凸显了地缘安全因素对科威特石油产能完全恢复的制约。",
+      "detail_en": "Kuwait Petroleum Corporation CEO Sheikh Nawaf Al-Sabah told Bloomberg Balance of Power that Kuwait has restored oil production to more than 2 million barrels a day, up from almost nothing at the height of the crisis. He also said crude exports have returned to prewar levels. However, Al-Sabah noted that additional security for ships transiting the Strait is needed to bring output back to its previous level of 2.7 million barrels a day. The remarks highlight how geopolitical security concerns constrain a full recovery of Kuwait's oil output.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科威特原油产量已从危机最严重时的几乎为零恢复至超过200万桶/日。",
+          "en": "Kuwait's oil production has recovered to more than 2 million barrels a day from almost nothing at the height of the crisis."
+        },
+        {
+          "zh": "原油出口已恢复至战前水平。",
+          "en": "Crude exports have returned to prewar levels."
+        },
+        {
+          "zh": "要进一步恢复至270万桶/日的前期产量，需为通过海峡的船只提供额外安全保障。",
+          "en": "Additional security for ships transiting the Strait is needed to bring output back to the previous level of 2.7 million barrels a day."
+        }
+      ],
+      "tags": [
+        "Kuwait",
+        "oil production",
+        "Strait security",
+        "crude exports"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:iQi4H_rRx0Q",
+      "title": "Tesla's Future Is Robotaxis, Says Ark's Keeney",
+      "title_zh": "方舟投资：Robotaxi是特斯拉的未来，Cybercab运营成本低于Waymo",
+      "url": "https://www.youtube.com/watch?v=iQi4H_rRx0Q",
+      "published_at": "2026-10-21T20:52:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "方舟投资投资分析总监Tasha Keeney表示，Robotaxi是特斯拉的未来，特斯拉在竞争中处于有利地位，其Cybercab的运营成本低于Waymo的下一代车型。特斯拉第三季度利润超出预期。",
+      "summary_en": "Tasha Keeney, Ark Investment's director of investment analysis, says robotaxis are the future for Tesla, that the company is well positioned versus peers, and that its Cybercab is cheaper to operate than Waymo's next-generation vehicle. Tesla reported third-quarter profits that beat estimates.",
+      "detail_zh": "方舟投资（Ark Investment）投资分析总监Tasha Keeney在彭博电视台表示，Robotaxi（自动驾驶出租车）是特斯拉的未来。她认为，特斯拉相对于同行处于有利地位。她具体指出，特斯拉的Cybercab相比Waymo的下一代车型，运营成本更低。此外，特斯拉公布的第三季度利润超出了市场预期。",
+      "detail_en": "Tasha Keeney, director of investment analysis at Ark Investment, said on Bloomberg Television that robotaxis are the future for Tesla. She stated that the company is well positioned relative to its peers. Specifically, she noted that Tesla's Cybercab is cheaper to operate compared to Waymo's next-generation vehicle. Additionally, Tesla reported third-quarter profits that beat estimates.",
+      "conclusion_zh": "方舟投资看好特斯拉Robotaxi战略，认为其Cybercab在运营成本上优于Waymo，叠加三季度利润超预期，构成对特斯拉的积极观点。",
+      "conclusion_en": "Ark Investment is bullish on Tesla's robotaxi strategy, viewing its Cybercab as having a operating-cost advantage over Waymo, which together with better-than-expected Q3 profits forms a positive view on Tesla.",
+      "key_points": [
+        {
+          "zh": "方舟投资的Tasha Keeney认为Robotaxi是特斯拉的未来。",
+          "en": "Ark Investment's Tasha Keeney believes robotaxis are the future for Tesla."
+        },
+        {
+          "zh": "Keeney称特斯拉在竞争中处于有利地位。",
+          "en": "Keeney says Tesla is well positioned versus its peers."
+        },
+        {
+          "zh": "Keeney指出Cybercab的运营成本低于Waymo的下一代车型。",
+          "en": "Keeney notes the Cybercab is cheaper to operate than Waymo's next-generation vehicle."
+        },
+        {
+          "zh": "特斯拉第三季度利润超出预期。",
+          "en": "Tesla's third-quarter profits beat estimates."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "Robotaxi",
+        "Ark Investment",
+        "Cybercab",
+        "Waymo"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:K2Su4WQ_BpA",
+      "title": "Small Business Resilience Boosting Growth",
+      "title_zh": "小企业信心分化：自身乐观但整体经济悲观",
+      "url": "https://www.youtube.com/watch?v=K2Su4WQ_BpA",
+      "published_at": "2026-10-21T20:45:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在Bloomberg Businessweek Daily直播中，Chase for Business CEO Stevie Baron指出，多数小企业主对自身前景乐观，但对整体经济的看法并不匹配。讨论还涉及小企业如何提振阳光地带经济，以及亚特兰大商会和JPMorganChase高管对社区投资拉动本地经济的看法。",
+      "summary_en": "Speaking on Bloomberg Businessweek Daily, Chase for Business CEO Stevie Baron noted that most small business owners are optimistic about their own outlook, but that sentiment does not match how they feel about the overall economy. The discussion also covered how small businesses are boosting the Sun Belt economy, with perspectives from the Metro Atlanta Chamber and JPMorganChase on community investment.",
+      "detail_zh": "Bloomberg Businessweek Daily在Chase for Business Make Your Move Summit现场直播，聚焦小企业作为全美经济增长、就业创造和机会驱动力的角色。Chase for Business CEO Stevie Baron表示，多数小企业主对自身前景乐观，但这种情绪与他们对整体经济的感受并不一致。Chase for Business执行董事Dan Russell讨论了小企业如何提振阳光地带经济。Metro Atlanta Chamber总裁兼CEO Katie Kirkpatrick与JPMorganChase社区与业务发展全国主管Diedra Porché讨论了小企业投资如何提振本地经济。节目章节还涉及通胀与经济、小企业乐观情绪与AI、亚特兰大及阳光地带商业增长、住房可负担性与中期选举、世界杯对亚特兰大的经济影响，以及SpaceX、Netflix和Super Micro的股票走势。",
+      "detail_en": "Bloomberg Businessweek Daily was live from the Chase for Business Make Your Move Summit, highlighting small businesses as a driving force behind economic growth, job creation, and opportunity across the country. Chase for Business CEO Stevie Baron said most small business owners are optimistic about their own outlook, but that sentiment does not match how they feel about the overall economy. Chase for Business Executive Director Dan Russell discussed how small businesses are boosting the Sun Belt economy. Katie Kirkpatrick, President & CEO of the Metro Atlanta Chamber, and Diedra Porché, National Head of Community and Business Development at JPMorganChase, discussed how investments in small businesses boost local economies. Chapters also covered inflation and the economy, small business optimism and AI, Atlanta and Sun Belt business growth, affordability, housing and the midterms, the World Cup's economic impact on Atlanta, and stock movers including SpaceX, Netflix, and Super Micro.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Chase for Business CEO Stevie Baron指出，多数小企业主对自身前景乐观，但对整体经济的看法并不匹配。",
+          "en": "Chase for Business CEO Stevie Baron noted that most small business owners are optimistic about their own outlook, but that sentiment does not match their view of the overall economy."
+        },
+        {
+          "zh": "小企业被视为全美经济增长、就业创造和机会的驱动力。",
+          "en": "Small businesses are seen as a driving force behind economic growth, job creation, and opportunity across the country."
+        },
+        {
+          "zh": "讨论涉及小企业如何提振阳光地带经济，以及亚特兰大商会和JPMorganChase对社区投资的看法。",
+          "en": "The discussion covered how small businesses are boosting the Sun Belt economy, with views from the Metro Atlanta Chamber and JPMorganChase on community investment."
+        },
+        {
+          "zh": "节目章节涵盖通胀、AI、住房可负担性、中期选举及世界杯对亚特兰大的经济影响。",
+          "en": "Chapters covered inflation, AI, housing affordability, the midterms, and the World Cup's economic impact on Atlanta."
+        }
+      ],
+      "tags": [
+        "small business",
+        "sentiment",
+        "Sun Belt",
+        "community investment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Ww5XIQSpnM4",
+      "title": "The Takeaways From Meta's Earnings and AI Spending Plans",
+      "title_zh": "Wedbush分析师点评Meta三季度财报及资本支出上调",
+      "url": "https://www.youtube.com/watch?v=Ww5XIQSpnM4",
+      "published_at": "2026-10-21T20:40:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Wedbush互联网股票研究董事总经理Ygal Arounian就Meta Platforms第三季度财报及上调的资本支出展望发表评论。",
+      "summary_en": "Wedbush Internet equity research managing director Ygal Arounian reacts to Meta Platforms' third-quarter earnings and boosted capital spending outlook.",
+      "detail_zh": "Wedbush互联网股票研究董事总经理Ygal Arounian在Bloomberg The Close节目中，对Meta Platforms第三季度财报及上调的资本支出展望作出反应。原文仅提及该分析师的身份、评论主题及节目名称，未包含具体财务数据、分析师观点细节或投资建议。",
+      "detail_en": "Wedbush Internet equity research managing director Ygal Arounian reacts to Meta Platforms' third-quarter earnings and boosted capital spending outlook on Bloomberg The Close. The source only mentions the analyst's identity, the topic of commentary, and the program name, without specific financial figures, analyst opinion details, or investment recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Wedbush分析师Ygal Arounian点评Meta三季度财报",
+          "en": "Wedbush analyst Ygal Arounian comments on Meta's Q3 earnings"
+        },
+        {
+          "zh": "关注点包括Meta上调的资本支出展望",
+          "en": "Focus includes Meta's boosted capital spending outlook"
+        },
+        {
+          "zh": "评论出自Bloomberg The Close节目",
+          "en": "Commentary aired on Bloomberg The Close"
+        }
+      ],
+      "tags": [
+        "Meta",
+        "earnings",
+        "capex",
+        "Wedbush"
+      ],
+      "tickers": [
+        "META"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:X3Ss07Si9Cg",
+      "title": "French Bond Risk Hits 15-Year High as Risk Gauge Climbs",
+      "title_zh": "法国基准国债收益率自2002年以来首次触及5%",
+      "url": "https://www.youtube.com/watch?v=X3Ss07Si9Cg",
+      "published_at": "2026-10-21T20:37:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "法国基准国债收益率自2002年以来首次升至5%，能源价格上涨加剧了市场对法国财政前景的担忧。该消息由彭博的Alice Gledhill在“Bloomberg Open Interest”节目中报道。",
+      "summary_en": "The yield on benchmark French debt hit 5% for the first time since 2002, as rising energy prices exacerbated concerns over the country's fiscal outlook, according to Bloomberg's Alice Gledhill on \"Bloomberg Open Interest.\"",
+      "detail_zh": "法国基准国债收益率升至5%，为2002年以来首次。报道指出，能源价格上涨加剧了市场对法国财政前景的担忧。该信息来自彭博电视节目“Bloomberg Open Interest”，由Alice Gledhill报道。原文未提供更多关于收益率变动幅度、具体债务品种或市场反应细节。",
+      "detail_en": "The yield on benchmark French debt reached 5%, the first time since 2002. The report attributes the move to rising energy prices, which have exacerbated concerns over the country's fiscal outlook. The information comes from Bloomberg Television's \"Bloomberg Open Interest,\" reported by Alice Gledhill. No further details on the magnitude of the yield move, specific debt instruments, or market reaction were provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "法国基准国债收益率自2002年以来首次达到5%。",
+          "en": "The yield on benchmark French debt hit 5% for the first time since 2002."
+        },
+        {
+          "zh": "能源价格上涨加剧了市场对法国财政前景的担忧。",
+          "en": "Rising energy prices exacerbated concerns over the country's fiscal outlook."
+        },
+        {
+          "zh": "该报道来自彭博电视节目“Bloomberg Open Interest”，由Alice Gledhill提供。",
+          "en": "The report is from Bloomberg Television's \"Bloomberg Open Interest,\" with Alice Gledhill."
+        }
+      ],
+      "tags": [
+        "France",
+        "government bonds",
+        "yields",
+        "fiscal outlook",
+        "energy prices"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:c8SVTcTcF8k",
+      "title": "AI Is Tailwind, IBM CEO Says as Sales Rise",
+      "title_zh": "IBM第三季度营收增长5%至171亿美元，超预期",
+      "url": "https://www.youtube.com/watch?v=c8SVTcTcF8k",
+      "published_at": "2026-10-21T20:35:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "IBM第三季度销售额同比增长5%至171亿美元，超出市场预期，软件部门销售额也有所增长。公司每股收益为2.95美元。CEO Arvind Krishna表示AI是顺风因素。",
+      "summary_en": "IBM reported third-quarter sales of $17.1 billion, up 5% year-over-year, topping estimates. Software unit sales also expanded. The company posted earnings of $2.95 per share. CEO Arvind Krishna said AI is a tailwind.",
+      "detail_zh": "IBM公布第三季度业绩，销售额同比增长5%至171亿美元，超过市场预期。其中软件部门的销售额也实现增长。公司报告每股收益为2.95美元。首席执行官Arvind Krishna表示，人工智能（AI）是一个顺风因素。彭博情报分析师Mandeep Singh和Anurag Rana与Romaine Bostick讨论了这一业绩。",
+      "detail_en": "IBM reported third-quarter results, with sales increasing 5% year-over-year to $17.1 billion, topping estimates. Sales in the software unit also expanded. The company reported earnings of $2.95 per share. CEO Arvind Krishna said AI is a tailwind. Romaine Bostick discussed the results with Mandeep Singh and Anurag Rana of Bloomberg Intelligence.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "IBM第三季度销售额171亿美元，同比增长5%，超出预期。",
+          "en": "IBM Q3 sales were $17.1 billion, up 5% year-over-year, topping estimates."
+        },
+        {
+          "zh": "软件部门销售额实现增长。",
+          "en": "Software unit sales expanded."
+        },
+        {
+          "zh": "每股收益为2.95美元。",
+          "en": "Earnings per share were $2.95."
+        },
+        {
+          "zh": "CEO Arvind Krishna表示AI是顺风因素。",
+          "en": "CEO Arvind Krishna said AI is a tailwind."
+        }
+      ],
+      "tags": [
+        "IBM",
+        "earnings",
+        "AI",
+        "software"
+      ],
+      "tickers": [
+        "IBM"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:jQ_AKUxdxtQ",
+      "title": "SpaceX, Tesla Boards Study Possible $3.5 Trillion Merger",
+      "title_zh": "马斯克公开支持SpaceX与特斯拉合并设想",
+      "url": "https://www.youtube.com/watch?v=jQ_AKUxdxtQ",
+      "published_at": "2026-10-21T20:28:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "马斯克公开表态支持将SpaceX与特斯拉合并的设想，若成真将成为史上最大规模企业合并，整合电动车、AI数据中心、火箭与卫星等资产。彭博情报讨论了该话题及SpaceX近期业绩。",
+      "summary_en": "Elon Musk openly endorsed the prospect of combining SpaceX with Tesla, a deal that would be the biggest-ever corporate merger, uniting assets from electric cars to AI data centers to rockets and satellites. Bloomberg Intelligence discussed this and SpaceX's recent earnings.",
+      "detail_zh": "马斯克公开支持将SpaceX与特斯拉合并的设想。若交易达成，这将是史上最大规模的企业合并，合并后的实体将整合电动车、AI数据中心、火箭及卫星能力等资产。彭博的Sana Pashankar做客彭博情报，就这一合并设想以及SpaceX近期业绩进行了讨论。原文未披露合并的具体结构、估值、时间表或监管障碍等细节。",
+      "detail_en": "Elon Musk openly endorsed the prospect of combining SpaceX with Tesla. If realized, the deal would be the biggest-ever corporate merger, uniting assets spanning electric vehicles, AI data centers, and rocket and satellite capabilities. Bloomberg's Sana Pashankar joined Bloomberg Intelligence to discuss the merger prospect as well as SpaceX's recent earnings. The source did not disclose specifics on deal structure, valuation, timeline, or regulatory hurdles.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "马斯克公开支持SpaceX与特斯拉合并的设想",
+          "en": "Musk openly endorsed the idea of combining SpaceX with Tesla"
+        },
+        {
+          "zh": "若成真，将是史上最大规模企业合并",
+          "en": "If realized, it would be the biggest-ever corporate merger"
+        },
+        {
+          "zh": "合并实体将整合电动车、AI数据中心、火箭与卫星能力",
+          "en": "The combined entity would unite EVs, AI data centers, rockets and satellites"
+        },
+        {
+          "zh": "彭博情报同时讨论了SpaceX近期业绩",
+          "en": "Bloomberg Intelligence also discussed SpaceX's recent earnings"
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "SpaceX",
+        "Musk",
+        "merger"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Ny8N_DzdTcc",
+      "title": "Strong Tech Earnings May Not Convince AI Skeptics | Presented by CME Group",
+      "title_zh": "纳斯达克100前十大公司市值占比约65%，科技财报季风险集中",
+      "url": "https://www.youtube.com/watch?v=Ny8N_DzdTcc",
+      "published_at": "2026-10-21T20:25:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "纳斯达克100指数前十大公司合计市值占比约65%，风险高度集中。若财报大幅不及预期可能拖累指数，但更值得警惕的信号是财报强劲却引发抛售，或暗示AI交易已被充分定价。",
+      "summary_en": "The top 10 companies in the Nasdaq 100 now account for roughly 65% of the index's market cap, concentrating risk into tech earnings season. A major miss could weigh on the broader index, but an even bigger warning sign may be a strong earnings report followed by a sell-off, potentially suggesting the AI trade is already fully priced.",
+      "detail_zh": "纳斯达克100指数前十大成分股合计市值占比约65%，指数风险高度集中。随着科技财报季临近，这种集中度意味着单一权重股的业绩波动可能对整体指数产生显著影响。原文指出，若出现重大业绩不及预期，可能拖累更广泛的指数表现。但更值得警惕的信号可能是：财报本身强劲，股价却遭遇抛售。这种“利好出尽”式的反应可能暗示AI交易已被市场充分定价。",
+      "detail_en": "The top 10 companies in the Nasdaq 100 now account for roughly 65% of the index's market cap, leaving the index highly concentrated. As tech earnings season approaches, this concentration means earnings volatility from a single heavyweight could significantly impact the broader index. The source notes that a major earnings miss could weigh on the broader index. However, an even bigger warning sign may be a strong earnings report that is followed by a sell-off. Such a 'sell the news' reaction could suggest the AI trade is already fully priced.",
+      "conclusion_zh": "关注科技财报季中权重股“利好出尽”式抛售信号，这可能比业绩不及预期更能说明AI交易已被充分定价。",
+      "conclusion_en": "Watch for 'sell the news' reactions in heavyweight tech earnings, which may signal the AI trade is fully priced more than an earnings miss would.",
+      "key_points": [
+        {
+          "zh": "纳斯达克100前十大公司合计市值占比约65%，风险高度集中。",
+          "en": "The top 10 companies in the Nasdaq 100 account for roughly 65% of the index's market cap, concentrating risk."
+        },
+        {
+          "zh": "科技财报季临近，权重股业绩可能显著影响整体指数。",
+          "en": "With tech earnings season approaching, heavyweight earnings could significantly impact the broader index."
+        },
+        {
+          "zh": "重大业绩不及预期可能拖累更广泛的指数表现。",
+          "en": "A major earnings miss could weigh on the broader index."
+        },
+        {
+          "zh": "更值得警惕的信号是财报强劲却引发抛售，或暗示AI交易已被充分定价。",
+          "en": "An even bigger warning sign may be a strong earnings report followed by a sell-off, potentially suggesting the AI trade is already fully priced."
+        }
+      ],
+      "tags": [
+        "Nasdaq 100",
+        "concentration risk",
+        "tech earnings",
+        "AI trade"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uDuXJozO5TI",
+      "title": "Can China Demand Offset Soybean Harvest Pressure? | Presented by CME Group",
+      "title_zh": "中国推进美豆采购目标，收割加速与超级厄尔尼诺预期博弈",
+      "url": "https://www.youtube.com/watch?v=uDuXJozO5TI",
+      "published_at": "2026-10-21T20:23:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "中国正朝着2026年美豆采购目标推进，但美国收割进度快速提升给价格带来新的压力。南美播种正在进行，超级厄尔尼诺可能影响生长季，两股力量将决定大豆市场走向。",
+      "summary_en": "China is moving toward its 2026 US soybean purchase target, but a rapid jump in harvest progress has put fresh pressure on prices. With South American planting underway and a Super El Niño looming over the growing season, these forces will determine the soybean market's direction.",
+      "detail_zh": "中国正在向2026年美国大豆采购目标迈进，这一需求端因素对市场构成支撑。然而，美国大豆收割进度快速提升，给价格带来了新的下行压力。与此同时，南美大豆播种正在进行中。市场还面临超级厄尔尼诺现象可能影响生长季的预期。这些因素相互交织，最终哪股力量将主导大豆市场走势，成为当前的核心问题。原文未提供具体采购数量、收割进度百分比或价格变动数据。",
+      "detail_en": "China is progressing toward its 2026 US soybean purchase target, a demand-side factor that supports the market. However, a rapid jump in US harvest progress has introduced fresh downward pressure on prices. Meanwhile, South American soybean planting is underway. The market also faces expectations that a Super El Niño could affect the growing season. These intertwined forces raise the central question of which will ultimately drive the soybean market. The original text does not provide specific purchase volumes, harvest progress percentages, or price change data.",
+      "conclusion_zh": "中国采购需求与美国收割加速、南美天气风险形成多空拉锯，大豆价格方向取决于这些力量的相对强弱。",
+      "conclusion_en": "Chinese purchase demand is pitted against accelerated US harvest and South American weather risks, with soybean price direction hinging on the relative strength of these forces.",
+      "key_points": [
+        {
+          "zh": "中国正朝着2026年美国大豆采购目标推进，构成需求端支撑。",
+          "en": "China is moving toward its 2026 US soybean purchase target, providing demand-side support."
+        },
+        {
+          "zh": "美国收割进度快速提升，给大豆价格带来新的压力。",
+          "en": "A rapid jump in US harvest progress has put fresh pressure on soybean prices."
+        },
+        {
+          "zh": "南美播种正在进行，且超级厄尔尼诺可能影响生长季。",
+          "en": "South American planting is underway, and a Super El Niño may affect the growing season."
+        },
+        {
+          "zh": "需求与供给因素博弈，将决定大豆市场方向。",
+          "en": "The interplay between demand and supply factors will determine the soybean market's direction."
+        }
+      ],
+      "tags": [
+        "soybeans",
+        "China demand",
+        "harvest progress",
+        "El Niño",
+        "agriculture"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:479GliTt0ZQ",
+      "title": "Is AI the Prescription for Better Health Care?",
+      "title_zh": "摩根士丹利：AI医疗投资应聚焦医疗服务交付，而非药物发现",
+      "url": "https://www.youtube.com/watch?v=479GliTt0ZQ",
+      "published_at": "2026-10-21T20:22:50+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "摩根士丹利财富管理首席经济策略师Ellen Zentner指出，AI虽能降低科学发现成本，但药物在患者身上的验证仍昂贵且困难，这一差距决定谁能捕获AI医疗的经济效益。该机构对AI应用与医疗服务交付更为建设性，认为其收入路径比开发全新疗法更清晰，对AI原生药物开发商则持选择性乐观并强调临床与估值风险。",
+      "summary_en": "Morgan Stanley Wealth Management Chief Economic Strategist Ellen Zentner notes that while AI makes generating scientific ideas cheaper, proving them in patients remains difficult and expensive—a gap that will determine who captures AI's healthcare economics. The firm is more constructive on AI applications and care delivery, which offer a clearer path to revenue than developing entirely new treatments, and is selectively optimistic on AI-native drug developers while flagging clinical and valuation risks.",
+      "detail_zh": "Ellen Zentner在2020年10月19日的播客中指出，过去约七十年药物研究生产率持续下降，而2024年美国医疗支出达5.3万亿美元，约占GDP的18%。AI通过更好的模型、更丰富的数据和更便宜的算力，使研究者能更快识别有前景的候选药物，早期证据显示AI设计的药物通过安全性测试的比例更高。但投资者不应过度外推早期结果：通过安全性测试的药物仍需证明在患者中有效、完成临床试验并获得报销，AI可加速发现却未必缩短后续流程；更便宜的发现甚至可能增加总研发支出，而实验室与临床试验能力已受限。因此该机构更看好AI应用与医疗服务交付，医学影像、临床文档和工作流工具已在帮助提供方更高效利用现有资源，且有随机试验证据支持AI在医学影像中的作用。随时间推移，投资机会有望扩大：合同研究组织与科学软件提供商可能受益于研究活动扩张，大型药企的专有数据集在AI进步中可能更重要；AI原生药物开发商上行潜力大，但单一临床试验即可决定多年投资能否产生商业可行疗法，风险特征与已通过临床工作流创收的企业截然不同。长期宏观层面，医疗占美国经济近五分之一，健康寿命延长可能对劳动力参与、家庭财务及退休与公共卫生项目成本产生重要影响。",
+      "detail_en": "In the October 19, 2020 podcast, Ellen Zentner noted that drug research productivity has declined for roughly seventy years, while US healthcare spending reached $5.3 trillion in 2024—about 18% of GDP. AI offers a credible path to improve this equation: better models, richer data sets, and cheaper computing allow researchers to identify promising drug candidates faster, with early evidence suggesting AI-designed drugs pass safety testing more often. But investors should be careful about extrapolating these early results: a drug that clears safety testing must still demonstrate efficacy in patients, navigate clinical trials, and secure reimbursement; AI can accelerate discovery without meaningfully shortening what follows, and cheaper discovery could actually increase total research spending as companies pursue more candidates, with lab and clinical trial capacity already constrained. The firm is therefore more constructive on AI applications and care delivery—medical imaging, clinical documentation, and workflow tools are already helping providers use existing resources more efficiently, with randomized trial evidence supporting AI's role in medical imaging. Over time, the opportunity should broaden: contract research organizations and scientific software providers could benefit as research activity expands, while large pharmaceutical companies hold valuable proprietary data sets that may become more important as AI advances. AI-native drug developers offer substantial upside potential, but a single clinical trial can determine whether years of investment produce a commercially viable treatment—a very different risk profile from businesses already generating revenue through improved clinical workflows. On the longer-term macro side, with healthcare accounting for nearly a fifth of the US economy, extending health span could have meaningful implications for labor force participation, household finances, and the cost of retirement and public health programs.",
+      "conclusion_zh": "近期更看好能将AI转化为医疗服务可量化改善的企业，对AI药物发现保持选择性乐观并警惕估值已反映的未来成功。",
+      "conclusion_en": "Near term, favor businesses turning AI into measurable improvements in healthcare delivery, and remain selectively optimistic on AI drug discovery while staying disciplined about how much future success is already reflected in valuations.",
+      "key_points": [
+        {
+          "zh": "AI降低发现成本，但患者验证仍昂贵困难，这一差距决定谁能捕获AI医疗的经济效益。",
+          "en": "AI lowers discovery costs, but proving ideas in patients remains difficult and expensive—a gap that determines who captures AI's healthcare economics."
+        },
+        {
+          "zh": "2024年美国医疗支出达5.3万亿美元，约占GDP的18%，行业仍难以高效将科学进步转化为获批疗法。",
+          "en": "US healthcare spending reached $5.3 trillion in 2024, about 18% of GDP, yet the industry still struggles to efficiently translate scientific advances into approved treatments."
+        },
+        {
+          "zh": "更便宜的发现可能增加总研发支出，而实验室与临床试验能力已受限，行业或更快产生想法却难以测试。",
+          "en": "Cheaper discovery could increase total research spending, and with lab and clinical trial capacity already constrained, the industry may generate ideas faster than it can test them."
+        },
+        {
+          "zh": "该机构更看好AI应用与医疗服务交付（医学影像、临床文档、工作流工具），其收入路径比开发全新疗法更清晰。",
+          "en": "The firm is more constructive on AI applications and care delivery—medical imaging, clinical documentation, and workflow tools—which have a clearer path to revenue than developing entirely new treatments."
+        },
+        {
+          "zh": "AI原生药物开发商上行潜力大，但单一临床试验即可决定成败，风险特征与已创收的临床工作流企业截然不同。",
+          "en": "AI-native drug developers offer substantial upside, but a single clinical trial can determine success—a very different risk profile from businesses already generating revenue through clinical workflows."
+        }
+      ],
+      "tags": [
+        "AI in healthcare",
+        "care delivery",
+        "drug discovery",
+        "healthcare spending",
+        "valuation risk"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:xhTCt1UNIxw",
+      "title": "Higher Rates Overshadow Strong Bank Earnings | Presented by CME Group",
+      "title_zh": "大型银行录得创纪录季度，但国债收益率飙升构成压力",
+      "url": "https://www.youtube.com/watch?v=xhTCt1UNIxw",
+      "published_at": "2026-10-21T20:22:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "大型银行刚经历创纪录的季度，净利息收入上升且股票交易收入保持稳健。但国债收益率急剧上升正对该板块施压，并引发对贷款增长和交易撮合的担忧。市场是否正越过强劲盈利、转向更严峻的利率环境？",
+      "summary_en": "Big banks are coming off a record quarter, with net interest income rising and equity trading revenues holding up. However, a sharp rise in Treasury yields is pressuring the sector and raising concerns over loan growth and dealmaking. Are markets looking past strong earnings toward a tougher rate environment?",
+      "detail_zh": "大型银行刚经历了一个创纪录的季度，净利息收入上升，股票交易收入也保持稳健。但国债收益率的急剧上升正在对该板块构成压力。这一利率环境引发了市场对贷款增长和交易撮合活动的担忧。核心问题是：市场是否正在越过强劲的盈利表现，转而定价一个更严峻的利率环境。",
+      "detail_en": "Big banks are coming off a record quarter, with net interest income rising and equity trading revenues holding up. But a sharp rise in Treasury yields is pressuring the sector. This rate environment is raising concerns over loan growth and dealmaking. The key question: are markets looking past strong earnings toward a tougher rate environment?",
+      "conclusion_zh": "银行盈利强劲，但国债收益率飙升带来的贷款增长与交易撮合担忧可能压制板块表现，需关注市场是否已转向定价更严峻的利率环境。",
+      "conclusion_en": "Bank earnings are strong, but concerns over loan growth and dealmaking from surging Treasury yields could weigh on the sector; watch whether the market has shifted to pricing a tougher rate environment.",
+      "key_points": [
+        {
+          "zh": "大型银行刚经历创纪录季度，净利息收入上升。",
+          "en": "Big banks are coming off a record quarter, with net interest income rising."
+        },
+        {
+          "zh": "股票交易收入保持稳健。",
+          "en": "Equity trading revenues are holding up."
+        },
+        {
+          "zh": "国债收益率急剧上升正对银行板块构成压力。",
+          "en": "A sharp rise in Treasury yields is pressuring the sector."
+        },
+        {
+          "zh": "收益率上升引发对贷款增长和交易撮合的担忧。",
+          "en": "The rise in yields raises concerns over loan growth and dealmaking."
+        },
+        {
+          "zh": "市场关注点在于是否正越过强劲盈利、转向更严峻的利率环境。",
+          "en": "The market focus is whether it is looking past strong earnings toward a tougher rate environment."
+        }
+      ],
+      "tags": [
+        "banks",
+        "treasury-yields",
+        "net-interest-income",
+        "loan-growth",
+        "dealmaking"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:G3x4U1waihc",
+      "title": "Could AI Demand Be Fueling “Chipflation”? | Presented by CME Group",
+      "title_zh": "AI需求挤压芯片产能，或引发二次通胀压力",
+      "url": "https://www.youtube.com/watch?v=G3x4U1waihc",
+      "published_at": "2026-10-21T20:19:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "AI需求推动半导体和存储产能转向高毛利的数据中心组件，导致汽车、工业设备、家电等芯片依赖行业的供应趋紧。芯片成本上升可能产生更广泛的二次通胀压力。",
+      "summary_en": "AI demand is shifting semiconductor and memory capacity toward high-margin data center components, tightening supply for chip-dependent sectors such as autos, industrial equipment, and appliances. Rising chip costs could create broader second-order inflation pressures.",
+      "detail_zh": "原文指出，AI需求正推动半导体和存储产能向高毛利的数据中心组件倾斜。这一产能转移导致汽车、工业设备、家电及其他芯片依赖行业的供应趋紧。原文提出疑问：芯片成本上升是否会创造更广泛的二次通胀压力。内容由CME Group呈现，未提供具体数据或公司名称。",
+      "detail_en": "The original text states that AI demand is pushing semiconductor and memory capacity toward high-margin data center components. This capacity shift is tightening supply for autos, industrial equipment, appliances, and other chip-dependent sectors. The text raises the question of whether rising chip costs could create broader second-order inflation pressures. Presented by CME Group, it provides no specific figures or company names.",
+      "conclusion_zh": "AI驱动的芯片产能转移可能通过成本传导对更广泛经济领域产生通胀影响，值得关注芯片依赖行业的成本压力。",
+      "conclusion_en": "AI-driven chip capacity shifts may have inflationary implications for broader economic sectors through cost pass-through, warranting attention to cost pressures in chip-dependent industries.",
+      "key_points": [
+        {
+          "zh": "AI需求推动半导体和存储产能转向高毛利数据中心组件。",
+          "en": "AI demand is pushing semiconductor and memory capacity toward high-margin data center components."
+        },
+        {
+          "zh": "汽车、工业设备、家电等芯片依赖行业的供应趋紧。",
+          "en": "Supply is tightening for chip-dependent sectors such as autos, industrial equipment, and appliances."
+        },
+        {
+          "zh": "芯片成本上升可能产生更广泛的二次通胀压力。",
+          "en": "Rising chip costs could create broader second-order inflation pressures."
+        }
+      ],
+      "tags": [
+        "AI demand",
+        "semiconductor supply",
+        "inflation",
+        "chip costs"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6mWxb7sqC7U",
+      "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble Right Now",
+      "title_zh": "Citadel创始人Griffin：投资者“几乎肯定”处于AI泡沫之中",
+      "url": "https://www.youtube.com/watch?v=6mWxb7sqC7U",
+      "published_at": "2026-10-21T20:13:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Citadel创始人兼CEO Ken Griffin在纽约举行的Citadel年度全球市场未来会议上接受彭博采访时表示，投资者“几乎肯定”正处于人工智能泡沫之中。",
+      "summary_en": "Citadel founder and CEO Ken Griffin said investors are \"almost certainly\" in an artificial intelligence bubble, speaking in an interview with Bloomberg at Citadel's annual Future of Global Markets Conference in New York.",
+      "detail_zh": "Citadel创始人兼首席执行官Ken Griffin在纽约举行的Citadel年度全球市场未来会议上接受彭博的Dani Burger采访时表示，投资者“几乎肯定”正处于人工智能泡沫之中。该言论直接指向当前AI相关投资热潮，暗示市场可能存在泡沫风险。原文未提供更多关于泡沫程度、影响范围或具体投资建议的细节。",
+      "detail_en": "Citadel founder and CEO Ken Griffin said investors are \"almost certainly\" in an artificial intelligence bubble during an interview with Bloomberg's Dani Burger at Citadel's annual Future of Global Markets Conference in New York. The remark directly points to the current AI investment boom, suggesting potential bubble risk in the market. The original text does not provide further details on the extent of the bubble, its scope, or specific investment advice.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Citadel创始人Ken Griffin认为投资者“几乎肯定”处于AI泡沫中。",
+          "en": "Citadel founder Ken Griffin believes investors are \"almost certainly\" in an AI bubble."
+        },
+        {
+          "zh": "该言论发表于Citadel年度全球市场未来会议期间接受彭博采访。",
+          "en": "The comment was made during a Bloomberg interview at Citadel's annual Future of Global Markets Conference."
+        }
+      ],
+      "tags": [
+        "AI bubble",
+        "Ken Griffin",
+        "Citadel",
+        "market outlook"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:La55y6f1Qrg",
+      "title": "Midterm Elections: Sabato's Crystal Ball Moves 28 House Races Toward Dems",
+      "title_zh": "中期选举展望：民主党众议院选情改善，参议院控制权未定",
+      "url": "https://www.youtube.com/watch?v=La55y6f1Qrg",
+      "published_at": "2026-10-21T19:55:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "弗吉尼亚大学政治中心《萨巴托水晶球》主编Kyle Kondik表示，中期选举更取决于整体环境而非个别选区。该机构本周将28个众议院选区评级调向民主党，Kondik称民主党在摇摆众议院选区将表现“相当好”，但参议院控制权仍“悬而未决”。",
+      "summary_en": "Kyle Kondik, managing editor of Sabato's Crystal Ball at the University of Virginia's Center for Politics, said the midterm elections will hinge on the 'overall environment' rather than individual races. The Crystal Ball moved 28 House ratings toward Democrats this week, and Kondik said Democrats will do 'quite well' in swing House districts, while Senate control remains 'up in the air.'",
+      "detail_zh": "弗吉尼亚大学政治中心《萨巴托水晶球》主编Kyle Kondik指出，即将到来的中期选举将更多由“整体环境”决定，而非个别选区的事态发展。本周早些时候，该机构将28个众议院选区的评级调向民主党。Kondik表示，民主党在摇摆众议院选区将表现“相当好”。但他同时强调，参议院的控制权仍“悬而未决”。",
+      "detail_en": "Kyle Kondik, managing editor of Sabato's Crystal Ball at the University of Virginia's Center for Politics, said the upcoming midterm elections will be about the 'overall environment' rather than developments in individual races. Earlier this week, the Crystal Ball moved 28 House ratings toward Democrats. Kondik said Democrats will do 'quite well' in swing House districts, but control of the Senate is still 'up in the air.'",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "中期选举更取决于整体环境，而非个别选区动态。",
+          "en": "Midterm elections will be driven by the overall environment, not individual race developments."
+        },
+        {
+          "zh": "《萨巴托水晶球》本周将28个众议院选区评级调向民主党。",
+          "en": "Sabato's Crystal Ball moved 28 House ratings toward Democrats this week."
+        },
+        {
+          "zh": "Kondik预计民主党在摇摆众议院选区将表现“相当好”。",
+          "en": "Kondik expects Democrats to do 'quite well' in swing House districts."
+        },
+        {
+          "zh": "参议院控制权仍“悬而未决”。",
+          "en": "Control of the Senate remains 'up in the air.'"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "House",
+        "Senate",
+        "polling",
+        "US politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:hH7hHe4AxZ4",
       "title": "Putin Says Russia Ready for Talks",
