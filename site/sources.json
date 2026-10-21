@@ -9,6 +9,14 @@
       "note": "Daily flagship podcast + article transcript (text feed, no transcription)."
     },
     {
+      "name": "Odd Lots (Bloomberg)",
+      "url": "https://www.youtube.com/@bloombergpodcasts",
+      "type": "youtube",
+      "kind": "podcast",
+      "category": "macro",
+      "note": "Bloomberg Podcasts YouTube channel, filtered to Odd Lots episodes (captions via TranscriptAPI)."
+    },
+    {
       "name": "Bond Vigilantes (M&G)",
       "url": "https://bondvigilantes.com/",
       "type": "rss",
@@ -41,12 +49,28 @@
       "note": "Daily news clips; forced into BBG TV news category."
     },
     {
+      "name": "Morgan Stanley",
+      "url": "https://www.youtube.com/@morganstanley",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "Institutional market commentary via YouTube auto-captions."
+    },
+    {
       "name": "Goldman Sachs",
       "url": "https://www.youtube.com/@GoldmanSachs",
       "type": "youtube",
       "kind": "video",
       "category": "macro",
       "note": "Market commentary + Exchanges podcast clips via YouTube auto-captions."
+    },
+    {
+      "name": "BlackRock",
+      "url": "https://www.youtube.com/@BlackRock",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "Market commentary via YouTube auto-captions."
     },
     {
       "name": "Patrick Boyle",
@@ -57,12 +81,52 @@
       "note": "Weekly finance/markets analysis via YouTube auto-captions."
     },
     {
+      "name": "CNBC",
+      "url": "https://www.youtube.com/@CNBC",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "High-frequency financial news; capped at 8 clips/day."
+    },
+    {
       "name": "SpotGamma",
       "url": "https://www.youtube.com/@SpotGamma",
       "type": "youtube",
       "kind": "video",
       "category": "volatility",
       "note": "SPX/NDX options positioning, gamma/dealer flows, volatility."
+    },
+    {
+      "name": "Real Vision",
+      "url": "https://www.youtube.com/@RealVisionFinance",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "Macro/markets interviews; capped to reduce volume."
+    },
+    {
+      "name": "Excess Returns",
+      "url": "https://www.youtube.com/@ExcessReturns",
+      "type": "youtube",
+      "kind": "video",
+      "category": "macro",
+      "note": "Markets/investing podcast."
+    },
+    {
+      "name": "Flirting with Models",
+      "url": "https://www.youtube.com/@FlirtingwithModels",
+      "type": "youtube",
+      "kind": "video",
+      "category": "volatility",
+      "note": "Quant/systematic investing."
+    },
+    {
+      "name": "Credit Edge (Bloomberg Intelligence)",
+      "url": "https://www.youtube.com/@bloombergpodcasts",
+      "type": "youtube",
+      "kind": "podcast",
+      "category": "macro",
+      "note": "Bloomberg Podcasts YouTube, filtered to Credit Edge."
     },
     {
       "name": "Principles by Ray Dalio",
@@ -73,12 +137,28 @@
       "note": "Macro / debt-cycle commentary via YouTube auto-captions."
     },
     {
+      "name": "The Memo by Howard Marks",
+      "url": "https://www.youtube.com/@OaktreeCapital",
+      "type": "youtube",
+      "kind": "podcast",
+      "category": "other",
+      "note": "Oaktree Capital YouTube (Howard Marks memos)."
+    },
+    {
       "name": "Macro Voices",
       "url": "https://www.macrovoices.com/guest-content/list-guest-transcripts",
       "type": "web",
       "kind": "article",
       "category": "macro",
       "note": "Weekly macro podcast; guest transcripts published as free PDFs (scraped)."
+    },
+    {
+      "name": "Animal Spirits",
+      "url": "https://www.youtube.com/@thecompoundnews",
+      "type": "youtube",
+      "kind": "podcast",
+      "category": "macro",
+      "note": "The Compound YouTube, filtered to Animal Spirits."
     },
     {
       "name": "FT Unhedged",
@@ -95,6 +175,22 @@
       "kind": "article",
       "category": "volatility",
       "note": "Derivatives/vol/managed-futures podcast; RSS show notes are ~5000 chars."
+    },
+    {
+      "name": "Trillions (Bloomberg)",
+      "url": "https://www.youtube.com/@bloombergpodcasts",
+      "type": "youtube",
+      "kind": "podcast",
+      "category": "macro",
+      "note": "Bloomberg Podcasts YouTube, filtered to Trillions."
+    },
+    {
+      "name": "The Big Take (Bloomberg)",
+      "url": "https://www.youtube.com/@bloombergpodcasts",
+      "type": "youtube",
+      "kind": "podcast",
+      "category": "macro",
+      "note": "Bloomberg Podcasts YouTube, filtered to The Big Take."
     }
   ]
 }
