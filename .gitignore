@@ -7,7 +7,6 @@ venv/
 
 # Env / secrets
 .env
-cookies.txt
 
 # Data (generated)
 data/

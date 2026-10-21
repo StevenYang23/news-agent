@@ -17,9 +17,6 @@ DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
 
 # TranscriptAPI (YouTube transcript API) — cheap reliable cloud caption fetching
 TRANSCRIPT_API_KEY = os.getenv("TRANSCRIPT_API_KEY", "").strip()
-# YouTube cookies (Netscape-format cookies.txt) to let yt-dlp bypass bot checks
-# in GitHub Actions. Optional: when present, yt-dlp can fetch captions for free.
-YOUTUBE_COOKIES_FILE = os.getenv("YOUTUBE_COOKIES_FILE", "cookies.txt").strip()
 # Monthly transcript budget (credits). When exceeded, only fetch transcripts
 # for long videos (>10 min) and fall back to descriptions for short clips.
 TRANSCRIPT_MONTHLY_BUDGET = int(os.getenv("TRANSCRIPT_MONTHLY_BUDGET", "1000"))

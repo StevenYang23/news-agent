@@ -9,7 +9,6 @@ from __future__ import annotations
 import re
 import time
 from datetime import datetime, timezone
-from pathlib import Path
 
 import feedparser
 
@@ -139,33 +138,12 @@ def list_recent_videos(channel_url: str, limit: int = 10, title_filter: str | No
     return videos
 
 
-def _cookies() -> str | None:
-    """Return the path to a YouTube cookies.txt if configured and present."""
-    from .. import config  # noqa: PLC0415
-
-    if not config.YOUTUBE_COOKIES_FILE:
-        return None
-    p = Path(config.YOUTUBE_COOKIES_FILE)
-    if not p.is_absolute():
-        p = config.ROOT / p
-    return str(p) if p.exists() else None
-
-
-def _ytdlp_opts() -> dict:
-    """Base yt-dlp options shared by duration lookup and caption download."""
-    opts: dict = {"quiet": True, "no_warnings": True, "skip_download": True}
-    cookies = _cookies()
-    if cookies:
-        opts["cookiefile"] = cookies
-    return opts
-
-
 def get_duration(video_id: str) -> int | None:
     """Return video duration in seconds (best-effort via yt-dlp), or None."""
     try:
         import yt_dlp  # noqa: PLC0415
 
-        with yt_dlp.YoutubeDL(_ytdlp_opts()) as ydl:
+        with yt_dlp.YoutubeDL({"quiet": True, "no_warnings": True, "skip_download": True}) as ydl:
             info = ydl.extract_info(f"https://www.youtube.com/watch?v={video_id}", download=False)
         return int(info.get("duration") or 0) or None
     except Exception:  # noqa: BLE001
@@ -189,17 +167,10 @@ class OutOfCredits(TranscriptError):
 
 
 def get_captions(video_id: str, retries: int = 2) -> str:
-    """Fetch YouTube captions: yt-dlp (free) → TranscriptAPI (cloud) → youtube-transcript-api."""
+    """Fetch YouTube captions, preferring TranscriptAPI (reliable) when configured."""
     from .. import config  # noqa: PLC0415
 
-    # 1) yt-dlp with cookies (free) — works in CI once cookies are provided
-    if _cookies():
-        try:
-            return _captions_ytdlp(video_id)
-        except Exception as e:  # noqa: BLE001
-            log_fallback(video_id, e)
-
-    # 2) TranscriptAPI (cloud, reliable)
+    # 1) TranscriptAPI (cloud, reliable)
     if config.TRANSCRIPT_API_KEY:
         for attempt in range(retries + 1):
             try:
@@ -219,7 +190,7 @@ def get_captions(video_id: str, retries: int = 2) -> str:
                     break
                 time.sleep(2 * (attempt + 1))
 
-    # 3) Free youtube-transcript-api fallback
+    # 2) Free youtube-transcript-api fallback
     from youtube_transcript_api import YouTubeTranscriptApi  # noqa: PLC0415
 
     last = None
@@ -234,57 +205,6 @@ def get_captions(video_id: str, retries: int = 2) -> str:
             if attempt < retries:
                 time.sleep(3 * (attempt + 1))
     raise RuntimeError(f"No captions for {video_id}: {last}")
-
-
-def _captions_ytdlp(video_id: str) -> str:
-    """Fetch captions for free via yt-dlp (cookies needed to bypass CI bot checks)."""
-    import shutil  # noqa: PLC0415
-    import tempfile  # noqa: PLC0415
-    import yt_dlp  # noqa: PLC0415
-
-    tmpdir = tempfile.mkdtemp(prefix="ytdlp_subs_")
-    try:
-        opts = dict(_ytdlp_opts())
-        opts.update(
-            {
-                "writesubtitles": True,
-                "writeautosubtitles": True,
-                "subtitleslangs": ["en"],
-                "outtmpl": str(Path(tmpdir) / "%(id)s.%(ext)s"),
-            }
-        )
-        with yt_dlp.YoutubeDL(opts) as ydl:
-            ydl.download([f"https://www.youtube.com/watch?v={video_id}"])
-
-        files = [p for p in Path(tmpdir).iterdir() if p.suffix in (".vtt", ".srt")]
-        if not files:
-            raise RuntimeError("yt-dlp produced no subtitle file")
-        text = _parse_subtitle_file(str(files[0]))
-        if not text.strip():
-            raise RuntimeError("empty subtitle from yt-dlp")
-        return text
-    finally:
-        shutil.rmtree(tmpdir, ignore_errors=True)
-
-
-def _parse_subtitle_file(path: str) -> str:
-    """Extract plain text from a .vtt/.srt subtitle file."""
-    with open(path, encoding="utf-8", errors="replace") as f:
-        content = f.read()
-    lines = []
-    for line in content.splitlines():
-        s = line.strip()
-        if not s:
-            continue
-        if "-->" in s:  # timestamp line
-            continue
-        if s.startswith(("WEBVTT", "Kind:", "Language:")):
-            continue
-        s = re.sub(r"<[^>]+>", "", s)  # strip inline tags
-        s = re.sub(r"\s+", " ", s).strip()
-        if s:
-            lines.append(s)
-    return " ".join(lines)
 
 
 def _captions_transcriptapi(video_id: str) -> str:
