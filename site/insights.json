@@ -1,6 +1,107 @@
 {
-  "generated_at": "2026-10-22T07:17:59.598355+00:00",
+  "generated_at": "2026-10-22T08:14:45.300044+00:00",
   "insights": [
+    {
+      "guid": "yt:YDwzCuO-Wqc",
+      "title": "Tech Stocks Lead Asia Rout, Houthi Attacks Prompt US Diplomat Departures",
+      "title_zh": "彭博节目要点：亚洲股市下滑、印尼MSCI审查、美中AI差距",
+      "url": "https://www.youtube.com/watch?v=YDwzCuO-Wqc",
+      "published_at": "2026-10-22T07:45:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博《Insight with Haslinda Amin》节目涵盖亚洲股市在大型科技股财报分化后走低、香港录得7月以来最差单日表现、印尼总统对MSCI降级警告态度强硬，以及美中AI技术差距和印度市场策略等议题。",
+      "summary_en": "Bloomberg's 'Insight with Haslinda Amin' covered Asian stocks slipping after mixed megacap earnings, Hong Kong's worst session since July, Indonesia's president defying MSCI downgrade warnings, and discussions on the US-China AI gap and Indian market strategy.",
+      "detail_zh": "节目首先报道亚洲股市在大型科技股财报表现分化后走低。地缘政治方面，美国因胡塞武装袭击下令部分外交官撤离沙特阿拉伯。前美国国家情报总监Avril Haines就特朗普与习近平如何处理台湾问题发表看法。印尼总统Prabowo Subianto对MSCI的降级警告态度强硬，节目讨论了印尼在MSCI审查下的可投资性问题。香港股市录得自7月以来最差单日表现。《芯片战争》作者Chris Miller讨论了美中之间的AI技术差距。巴克莱的Taylor Wright分享了印度市场策略，并谈及更高收益率是否拖累交易。",
+      "detail_en": "The program reported Asian stocks slipping after mixed megacap earnings. On geopolitics, the US ordered some diplomats to leave Saudi Arabia amid Houthi attacks. Former US Director of National Intelligence Avril Haines discussed how Trump and Xi approach Taiwan. Indonesian President Prabowo Subianto was defiant over an MSCI downgrade warning, with discussion on Indonesia's investability concerns amid MSCI scrutiny. Hong Kong headed for its worst session since July. 'Chip War' author Chris Miller discussed the AI technology gap between the US and China. Barclays' Taylor Wright shared Indian market strategy and whether higher yields are weighing on deals.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "亚洲股市在大型科技股财报分化后走低",
+          "en": "Asian stocks slipped after mixed megacap earnings"
+        },
+        {
+          "zh": "美国因胡塞武装袭击下令部分外交官撤离沙特阿拉伯",
+          "en": "US ordered some diplomats to leave Saudi Arabia amid Houthi attacks"
+        },
+        {
+          "zh": "印尼总统Prabowo Subianto对MSCI降级警告态度强硬",
+          "en": "Indonesian President Prabowo Subianto defiant over MSCI downgrade warning"
+        },
+        {
+          "zh": "香港股市录得自7月以来最差单日表现",
+          "en": "Hong Kong headed for its worst session since July"
+        },
+        {
+          "zh": "Chris Miller讨论美中AI技术差距；巴克莱的Taylor Wright谈印度市场策略及高收益率对交易的影响",
+          "en": "Chris Miller discussed the US-China AI gap; Barclays' Taylor Wright on Indian market strategy and whether higher yields weigh on deals"
+        }
+      ],
+      "tags": [
+        "Asia stocks",
+        "MSCI",
+        "US-China AI",
+        "India strategy",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ETG9r3ReiQ4",
+      "title": "US Orders Some Diplomats Out of Saudi Arabia After Deadly Attacks, Brent Tops $110",
+      "title_zh": "胡塞武装袭击升级推升布伦特原油突破110美元，Meta与特斯拉财报分化拖累美股",
+      "url": "https://www.youtube.com/watch?v=ETG9r3ReiQ4",
+      "published_at": "2026-10-22T07:16:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国下令部分外交人员撤离沙特，胡塞武装袭击加剧，布伦特原油突破110美元。美股因Meta与特斯拉财报分化及AI投资规模评估而回落，Meta业绩超预期，特斯拉表现不均并下调2026年资本开支计划。",
+      "summary_en": "The US ordered some diplomats to leave Saudi Arabia as Houthi attacks intensified, pushing Brent above $110. US stocks retreated as investors weighed contrasting results from Meta and Tesla and the scale of AI investment; Meta beat estimates while Tesla's performance was uneven and it cut its 2026 capex plan.",
+      "detail_zh": "美国下令部分外交官及其家属离开沙特，因胡塞武装袭击加剧；在Aramco油田和沙特机场的分别事件中有三人死亡，布伦特原油因安全风险升至110美元上方。伊朗表示华盛顿必须解除封锁以展示对和平的真诚承诺，沙特王储穆罕默德·本·萨勒曼在利雅得会见马克龙，外交与战斗并行。美股回落，投资者评估Meta与特斯拉截然不同的业绩及AI投资规模；Meta明确超预期，特斯拉表现更为不均，并将2026年资本开支计划从超过250亿美元下调至200亿美元。Equiti Group高级市场分析师Nadia Elbilassy在Horizons节目中认为AI并非泡沫，黄金的长期吸引力依然完好，更稳定的收益率可能帮助金价重获动能。科威特石油公司CEO Sheikh Nawaf Al-Sabah在早前彭博采访中表示石油出口已恢复至冲突前水平，呼吁加强对经霍尔木兹海峡运输喷气燃料和柴油船只的保护，并称赞美国军事援助。阿联酋环球铝业已重启其受战争破坏的Al Taweelah冶炼厂一半的生产槽；私募股权公司Advent在阿布扎比设办事处扩展海湾业务。阿联酋航天局主席Ahmad Belhoul Al Falasi讨论该国首颗国产商业卫星发射及投资者对其太空雄心的兴趣，涉及Thuraya-1于2000年发射、2019和2023年阿联酋宇航员任务以及阿联酋与法国10亿美元的卫星合作。南非工业发展公司据报接近以6.1亿美元收购ArcelorMittal South Africa，交易包含现金和债务；Ninety One的Hendrik du Toit看好约翰内斯堡复苏前景，计划支持扭转城市衰退的基础设施项目，新财政锚定伴随被视为支持政府债券的预算。摩根大通土耳其证券子公司计划停止运营，涉及经纪业务而非该行在伊斯坦布尔的持续运营。",
+      "detail_en": "The US ordered some diplomats and their families to leave Saudi Arabia as Houthi attacks intensified; three people were killed in separate incidents at an Aramco oil field and a Saudi airport, and Brent moved above $110 as security risks lifted oil prices. Iran said Washington must lift its blockade to demonstrate a genuine commitment to peace, and Saudi Crown Prince Mohammed bin Salman met Emmanuel Macron in Riyadh as diplomacy continued alongside fighting. Stocks retreated as investors assessed contrasting results from Meta and Tesla and the scale of AI investment; Meta delivered a clear earnings beat, while Tesla's performance was more uneven and it reduced its 2026 capital-spending plan to $20 billion from more than $25 billion. On Horizons, Equiti Group Senior Market Analyst Nadia Elbilassy argued that AI is not in a bubble and that gold's longer-term appeal remains intact, with steadier yields potentially helping prices regain momentum. In an earlier Bloomberg interview, Kuwait Petroleum CEO Sheikh Nawaf Al-Sabah said oil exports had recovered to pre-conflict levels, called for stronger protection for ships carrying jet fuel and diesel through Hormuz, described efforts to keep cargoes moving, and praised US military assistance. The UAE's Emirates Global Aluminium restarted half the production cells at its war-damaged Al Taweelah smelter, and private-equity firm Advent is extending its Gulf presence with an Abu Dhabi office. UAE Space Agency Chairman Ahmad Belhoul Al Falasi discussed the launch of the country's first domestically built commercial satellite and investor interest in its space ambitions, spanning Thuraya-1's launch in 2000, Emirati astronaut missions in 2019 and 2023, and a $1 billion satellite partnership linking the UAE and France. In South Africa, the Industrial Development Corporation is reportedly nearing a $610 million deal for ArcelorMittal South Africa, with cash and debt forming part of the proposed transaction; Ninety One's Hendrik du Toit sees promising prospects for Johannesburg's recovery, with the firm planning to support infrastructure projects aimed at reversing the city's decline, and a new fiscal anchor accompanies a budget seen as supportive for government bonds. JPMorgan's Turkish securities subsidiary plans to cease operations, concerning the brokerage business rather than the bank's continuing operations in Istanbul.",
+      "conclusion_zh": "地缘风险推升油价，美股在AI投资与财报分化中震荡；关注能源价格对通胀与美股的传导，以及AI资本开支节奏。",
+      "conclusion_en": "Geopolitical risk is lifting oil prices while US equities wobble on AI investment and mixed earnings; watch energy-driven inflation pass-through and the pace of AI capex.",
+      "key_points": [
+        {
+          "zh": "胡塞武装袭击加剧，美国下令部分外交人员撤离沙特，布伦特原油突破110美元。",
+          "en": "Intensifying Houthi attacks led the US to order some diplomats out of Saudi Arabia, with Brent crude moving above $110."
+        },
+        {
+          "zh": "美股回落，Meta财报明确超预期，特斯拉表现不均并将2026年资本开支计划从超250亿美元下调至200亿美元。",
+          "en": "US stocks retreated; Meta delivered a clear earnings beat while Tesla's results were uneven and it cut its 2026 capex plan to $20 billion from more than $25 billion."
+        },
+        {
+          "zh": "Equiti Group的Nadia Elbilassy认为AI并非泡沫，黄金长期吸引力完好，更稳定的收益率可能助金价重获动能。",
+          "en": "Equiti Group's Nadia Elbilassy argued AI is not in a bubble and gold's longer-term appeal remains intact, with steadier yields potentially helping prices regain momentum."
+        },
+        {
+          "zh": "科威特石油CEO称石油出口已恢复至冲突前水平，呼吁加强霍尔木兹海峡运输保护。",
+          "en": "Kuwait Petroleum's CEO said oil exports have recovered to pre-conflict levels and called for stronger protection for ships through Hormuz."
+        },
+        {
+          "zh": "南非IDC据报接近以6.1亿美元收购ArcelorMittal South Africa；摩根大通土耳其证券子公司计划停止经纪业务。",
+          "en": "South Africa's IDC is reportedly nearing a $610 million deal for ArcelorMittal South Africa; JPMorgan's Turkish securities subsidiary plans to cease brokerage operations."
+        }
+      ],
+      "tags": [
+        "oil",
+        "Houthi attacks",
+        "Meta earnings",
+        "Tesla capex",
+        "AI investment"
+      ],
+      "tickers": [
+        "META",
+        "TSLA"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:2uUSOH3GCQo",
       "title": "AI Trade Jitters Return, Oil Gains After Deadly Saudi Attacks",
