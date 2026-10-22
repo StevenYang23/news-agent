@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-22T21:11:21.238261+00:00",
+  "generated_at": "2026-10-22T22:10:24.697312+00:00",
   "insights": [
+    {
+      "guid": "yt:FsKWqc-Dkzo",
+      "title": "Russia Is Trying to Intensify War With Ukraine, Says Romania's President",
+      "title_zh": "罗马尼亚总统：俄罗斯试图加剧乌克兰战争并挑衅邻国，无意终止星链合同",
+      "url": "https://www.youtube.com/watch?v=FsKWqc-Dkzo",
+      "published_at": "2026-10-22T21:08:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "罗马尼亚总统Nicusor Dan表示，俄罗斯正试图加剧乌克兰战争并挑衅欧洲邻国，罗马尼亚与北约讨论安全及防御俄罗斯无人机攻击。Dan还表示，罗马尼亚没有计划终止与马斯克旗下Starlink卫星服务的合同。",
+      "summary_en": "Romanian President Nicusor Dan says Russia is trying to intensify the war in Ukraine and provoke European neighbors. He discussed security with NATO and defending against Russian drone attacks. Dan also said Romania has no plans to end its contract with Elon Musk's Starlink satellite service.",
+      "detail_zh": "罗马尼亚总统Nicusor Dan在“Balance of Power”节目中表示，俄罗斯正试图加剧乌克兰战争并挑衅欧洲邻国。他谈到与北约的安全合作以及防御俄罗斯无人机攻击。Dan还明确表示，罗马尼亚没有计划终止与Elon Musk旗下Starlink卫星服务的合同。",
+      "detail_en": "Romanian President Nicusor Dan said on \"Balance of Power\" that Russia is trying to intensify the war in Ukraine and provoke European neighbors. He discussed security with NATO and defending against Russian drone attacks. Dan also stated clearly that his country has no plans to end its contract with Elon Musk's Starlink satellite service.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "罗马尼亚总统称俄罗斯试图加剧乌克兰战争并挑衅欧洲邻国。",
+          "en": "Romanian President says Russia is trying to intensify the war in Ukraine and provoke European neighbors."
+        },
+        {
+          "zh": "罗马尼亚与北约讨论安全及防御俄罗斯无人机攻击。",
+          "en": "Romania discusses security with NATO and defending against Russian drone attacks."
+        },
+        {
+          "zh": "罗马尼亚没有计划终止与Starlink的合同。",
+          "en": "Romania has no plans to end its contract with Starlink."
+        }
+      ],
+      "tags": [
+        "Romania",
+        "Russia-Ukraine war",
+        "NATO",
+        "Starlink"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:P_L9aTswobs",
       "title": "Mark Zuckerberg Plots Deal to Pay Wealth Tax, Keep Meta Control",
@@ -1680,6 +1720,55 @@
         "TSLA",
         "IBM",
         "CSX"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "4956240",
+      "title": "Patch Me If You Can",
+      "title_zh": "AI发现PHP重大漏洞引发全球网络安全紧急事件",
+      "url": "https://seekingalpha.com/article/4956240-patch-me-if-you-can?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-22T11:30:04+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "AI模型发现潜伏十余年的PHP安全漏洞，影响高达70%的网站，引发全球网络安全紧急响应。Cloudflare等公司部署防护，但漏洞在公开前已遭泄露，凸显AI驱动的自动化网络战风险。",
+      "summary_en": "AI models uncovered a decade-old PHP security flaw affecting up to 70% of websites, triggering a global cybersecurity emergency. Cloudflare and others deployed protections, but the leak before disclosure highlights risks of AI-driven automated cyber warfare.",
+      "detail_zh": "一个名为“PHP2Shell”的PHP安全漏洞影响了高达70%的互联网网站，包括WordPress、Drupal和Joomla等平台。该漏洞已隐藏超过十年，由网络安全公司Calif和Wiz的研究人员利用前沿AI模型发现。Cloudflare CEO Matthew Prince表示，在公开宣布前的10小时内，其网络观察到数千次利用尝试，宣布后45分钟内跃升至数万次，2小时内达数十万次，目前已有数百万次。Cloudflare在公开披露前部署了防护措施，阻止可疑流量，并为所有客户（包括免费计划用户）提供保护。白宫声明称政府正在协调联邦机构和领先AI实验室加速发布修复程序。漏洞在计划披露前一天在社交媒体上泄露。攻击者和防御者均可使用AI工具逆向工程更新，在补丁部署前快速利用漏洞，引发对自动化网络战的担忧。",
+      "detail_en": "A PHP security flaw dubbed \"PHP2Shell\" affected up to 70% of websites, including platforms like WordPress, Drupal, and Joomla. The vulnerability hid for over a decade and was uncovered by researchers at cyber firms Calif and Wiz using frontier AI models. Cloudflare CEO Matthew Prince said on X that in the 10 hours before public announcement, thousands of exploit attempts were seen across its network, jumping to tens of thousands within 45 minutes post-announcement, hundreds of thousands within 2 hours, and millions now. Cloudflare deployed protections to block suspicious traffic and safeguards for all customers, including free-plan users, prior to disclosure. The White House stated the Administration is coordinating with federal agencies and leading AI labs to expedite the fix. The flaw leaked on social media a day before planned disclosure. Attackers and defenders alike have access to AI tools that can reverse engineer updates and quickly turn them into exploits before patches are deployed, fueling concerns about automated cyber warfare.",
+      "conclusion_zh": "AI驱动的漏洞发现与利用正在加速，网络安全威胁进入自动化时代，相关安全公司与AI防御需求值得关注。",
+      "conclusion_en": "AI-driven vulnerability discovery and exploitation are accelerating, marking an era of automated cyber threats; cybersecurity firms and AI defense demand warrant attention.",
+      "key_points": [
+        {
+          "zh": "PHP漏洞影响高达70%的网站，允许黑客无需密码完全控制服务器。",
+          "en": "The PHP flaw affects up to 70% of websites, allowing hackers to take complete control of servers without passwords."
+        },
+        {
+          "zh": "Cloudflare在公开前部署防护，但披露后利用尝试激增至数百万次。",
+          "en": "Cloudflare deployed protections before disclosure, but exploit attempts surged to millions after announcement."
+        },
+        {
+          "zh": "漏洞由AI模型发现，攻击者也可能用AI快速武器化零日漏洞。",
+          "en": "The flaw was found using AI models, and attackers may also use AI to rapidly weaponize zero-days."
+        },
+        {
+          "zh": "白宫协调联邦机构和AI实验室加速修复，凸显国家级响应。",
+          "en": "The White House is coordinating with federal agencies and AI labs to expedite the fix, highlighting a national-level response."
+        }
+      ],
+      "tags": [
+        "cybersecurity",
+        "AI",
+        "PHP vulnerability",
+        "Cloudflare",
+        "automated cyber warfare"
+      ],
+      "tickers": [
+        "NET",
+        "GOOGL"
       ],
       "sentiment": "negative"
     },
