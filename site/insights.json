@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-10-22T10:10:37.601750+00:00",
+  "generated_at": "2026-10-22T11:10:29.843133+00:00",
   "insights": [
+    {
+      "guid": "yt:5yShy-yQusQ",
+      "title": "Saudi Attacks Push Oil Higher as Stocks Slide on Tech Earnings",
+      "title_zh": "科技财报不及预期与中东局势升温拖累美股，油价走高",
+      "url": "https://www.youtube.com/watch?v=5yShy-yQusQ",
+      "published_at": "2026-10-22T10:44:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股因科技股财报未达高预期而普遍回调，中东敌对行动升级及沙特致命袭击推高油价，加剧供应担忧。Meta CEO扎克伯格称AI押注正见成效，特斯拉因上季投资低于预期而收缩支出计划。",
+      "summary_en": "US stocks fell in a broad retreat as technology earnings fell short of elevated expectations and escalating Middle East hostilities pushed oil prices higher. Meta's Zuckerberg said its AI bet is delivering results, while Tesla pulled back spending plans after last quarter's investment trailed expectations.",
+      "detail_zh": "美股出现广泛的风险资产撤离，科技股财报未能达到已抬高的预期，同时中东敌对行动升级推动油价上涨。沙特发生致命袭击，加剧了市场对中东紧张局势可能冲击供应的担忧，尽管霍尔木兹海峡的出口正在加速。Meta CEO马克·扎克伯格向投资者表示，公司在人工智能上的昂贵押注正在产生结果，这为公司更激进地押注该市场奠定基础。特斯拉在上季度投资低于预期后收缩了支出计划，这给埃隆·马斯克将电动车制造商转型为AI和机器人公司的努力蒙上阴影。节目嘉宾包括贝莱德全球首席投资策略师Wei Li和M&G资产管理CEO Joseph Pinto。其他章节涉及黄仁勋称全球AI发展节奏“荒谬”、英伟达宣布一系列德国投资，以及普京释放人质获美国赞扬。",
+      "detail_en": "US stocks slid in a broad retreat from riskier assets as a slate of technology earnings fell short of elevated expectations and escalating hostilities in the Middle East pushed oil prices higher. Deadly attacks in Saudi Arabia heightened concerns that rising Middle East tensions could hit supply, even as exports through the Strait of Hormuz accelerate. Meta CEO Mark Zuckerberg told investors that a pricey wager on artificial intelligence is delivering results, setting the stage for the company to bet even more aggressively on the market. Tesla pulled back its spending plans after investment last quarter trailed expectations, clouding Elon Musk's effort to transform the electric vehicle maker into an AI and robotics company. Guests included Wei Li, BlackRock Global Chief Investment Strategist, and Joseph Pinto, M&G Asset Management CEO. Other chapters covered Jensen Huang calling the global pacing of AI development 'ridiculous,' Nvidia announcing a slew of German investments, and Putin releasing a hostage and earning US praise as a humanitarian.",
+      "conclusion_zh": "科技股高预期面临财报检验，中东局势推升油价构成双重压力，关注AI投入兑现节奏与能源供应风险。",
+      "conclusion_en": "Elevated tech expectations face earnings scrutiny while Middle East tensions lift oil, creating dual pressure; watch AI investment delivery and energy supply risks.",
+      "key_points": [
+        {
+          "zh": "科技股财报未达高预期，引发风险资产广泛回调",
+          "en": "Technology earnings fell short of elevated expectations, triggering a broad retreat from riskier assets"
+        },
+        {
+          "zh": "中东敌对行动升级及沙特致命袭击推高油价，加剧供应担忧",
+          "en": "Escalating Middle East hostilities and deadly attacks in Saudi Arabia pushed oil prices higher, heightening supply concerns"
+        },
+        {
+          "zh": "扎克伯格称Meta的AI押注正产生结果，或更激进下注",
+          "en": "Zuckerberg said Meta's AI bet is delivering results, setting the stage for more aggressive bets"
+        },
+        {
+          "zh": "特斯拉上季投资低于预期后收缩支出计划，转型AI与机器人前景蒙阴",
+          "en": "Tesla pulled back spending plans after last quarter's investment trailed expectations, clouding its AI and robotics transformation"
+        }
+      ],
+      "tags": [
+        "tech earnings",
+        "Middle East",
+        "oil prices",
+        "AI investment",
+        "risk-off"
+      ],
+      "tickers": [
+        "META",
+        "TSLA",
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:xpk0Wuo74uk",
+      "title": "New ETFs to Watch: A $2.5 Billion Launch, Anthropic and S&P 10,000, Anyone? | Trillions",
+      "title_zh": "State Street推出90/10配置ETF，获UC 25亿美元种子资金",
+      "url": "https://www.youtube.com/watch?v=xpk0Wuo74uk",
+      "published_at": "2026-10-22T10:15:24+00:00",
+      "source_name": "Trillions (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "State Street推出UC Investments 90/10捐赠基金策略ETF（UCBG），采用90%标普500+10%短债配置，模仿巴菲特遗嘱建议，获加州大学投资部门25亿美元种子资金，创ETF种子资金纪录。但播客嘉宾认为，该产品对多数投资者冗余，且机构种子ETF鲜有引发市场热潮的先例，后续推广面临挑战。",
+      "summary_en": "State Street launched the UC Investments 90/10 Endowment Strategy Index ETF (UCBG), allocating 90% to the S&P 500 and 10% to short-dated bonds, mirroring Warren Buffett's will advice. It received a $2.5 billion seed from the University of California's investment arm, a record seed for an ETF. However, podcast guests believe the product is redundant for most investors and that institution-seeded ETFs rarely spark broader adoption, making traction challenging.",
+      "detail_zh": "State Street推出名为UC Investments 90/10 Endowment Strategy Index ETF的产品，代码UCBG，配置为90%标普500指数和10%短久期债券，费率约6个基点。该策略模仿沃伦·巴菲特此前的建议：若投资者不全天候监控市场，应将90%资金投入指数基金（ preferably Vanguard），10%投入短期国债。加州大学投资部门（UC Investments）为该ETF提供了25亿美元种子资金，播客称这可能是ETF史上最大的种子资金之一，此前iShares和XTrackers曾为欧洲养老金种子约20亿美元的ESG基金。该ETF据称模仿UC的“蓝金捐赠基金池”（Blue and Gold Endowment Pool）。播客嘉宾指出，多数投资者已持有标普500和债券，该产品对他们而言近乎冗余；且机构种子ETF通常高度定制化，难以吸引外部资金，此前ESG种子基金也面临类似问题。嘉宾认为，UC选择ETF形式主要是为了流动性和便捷访问，而非需要暴露本身，因为机构可直接从State Street以约2个基点获得标普500暴露。State Street近期已吸引Bridgewater、Apollo等机构合作，其优势在于拥有大量高流动性ETF。",
+      "detail_en": "State Street launched the UC Investments 90/10 Endowment Strategy Index ETF (ticker UCBG), allocating 90% to the S&P 500 and 10% to short-dated bonds, with a fee of about 6 basis points. The strategy mirrors Warren Buffett's advice that investors not monitoring markets all day should put 90% in an index fund (preferably Vanguard) and 10% in short-term Treasuries. The University of California's investment arm seeded the ETF with $2.5 billion, which the podcast says may be one of the largest ETF seeds ever; previously iShares and XTrackers seeded ESG funds with about $2 billion for European pensions. The ETF is reportedly modeled after UC's Blue and Gold Endowment Pool. Podcast guests noted that most investors already own the S&P 500 and bonds, making the product largely redundant for them, and that institution-seeded ETFs are often highly customized and fail to attract outside money, as seen with prior ESG seed funds. Guests argued UC chose the ETF wrapper mainly for liquidity and easy access, not because it needs exposure, since institutions can get S&P 500 exposure directly from State Street for about 2 basis points. State Street has recently attracted institutions like Bridgewater and Apollo, and its advantage lies in its large suite of liquid ETFs.",
+      "conclusion_zh": "该ETF象征意义大于实际：展示机构对低成本配置的需求，但普通投资者已有类似暴露，且机构种子ETF鲜有破圈先例，后续资金流入存疑。",
+      "conclusion_en": "The ETF is more symbolic than practical: it highlights institutional demand for low-cost allocation, but ordinary investors already have similar exposure, and institution-seeded ETFs rarely break out, leaving follow-on flows uncertain.",
+      "key_points": [
+        {
+          "zh": "State Street推出UCBG，配置90%标普500+10%短债，费率约6个基点，模仿巴菲特遗嘱建议。",
+          "en": "State Street launched UCBG, allocating 90% to the S&P 500 and 10% to short-dated bonds, with a fee of about 6 basis points, mirroring Buffett's will advice."
+        },
+        {
+          "zh": "加州大学投资部门提供25亿美元种子资金，可能创ETF种子资金纪录。",
+          "en": "The University of California's investment arm provided a $2.5 billion seed, potentially a record for an ETF."
+        },
+        {
+          "zh": "播客嘉宾认为该产品对多数投资者冗余，因他们已持有标普500和债券。",
+          "en": "Podcast guests view the product as redundant for most investors who already own the S&P 500 and bonds."
+        },
+        {
+          "zh": "机构种子ETF通常高度定制化，难以吸引外部资金，此前ESG种子基金也有类似问题。",
+          "en": "Institution-seeded ETFs are often highly customized and struggle to attract outside money, as seen with prior ESG seed funds."
+        },
+        {
+          "zh": "UC选择ETF形式主要为了流动性和便捷访问，而非需要暴露本身。",
+          "en": "UC chose the ETF wrapper mainly for liquidity and easy access, not because it needs exposure."
+        }
+      ],
+      "tags": [
+        "ETF",
+        "asset allocation",
+        "State Street",
+        "Buffett",
+        "endowment"
+      ],
+      "tickers": [
+        "UCBG"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:3Mm2r4zcHXg",
       "title": "The Volatility Warning Signs Brent Watches Before a Selloff",
@@ -14376,59 +14476,6 @@
         "SCHW"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "4954386",
-      "title": "Wall Street Breakfast Podcast: CoreWeave CEO Defends The Math",
-      "title_zh": "CoreWeave CEO 称股价暴跌源于市场非理性；苹果市值首破5万亿美元",
-      "url": "https://seekingalpha.com/article/4954386-wall-street-breakfast-podcast-coreweave-ceo-defends-the-math?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-15T10:30:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "CoreWeave CEO 将股价大跌归因于市场非理性，并强调公司商业模式与财务纪律；但 Gartner 预测到2030年80%的 neocloud 将停止独立运营，其2032年无担保债务价格跌破80美分、收益率触及15%。苹果首次收盘市值突破5万亿美元，成为继英伟达之后第二家达此里程碑的公司。Jefferies 将 Kontoor Brands 上调至买入，目标价89美元，看好 Lee 出售后 Wrangler 加速增长。",
-      "summary_en": "CoreWeave's CEO attributed the stock's sharp decline to an irrational market while defending the company's business model and financial discipline; however, Gartner predicted 80% of neoclouds will cease independent operations by 2030, and CoreWeave's unsecured debt due 2032 traded below 80 cents on the dollar with yields touching 15%. Apple closed above a $5T market value for the first time, becoming the second company to do so after Nvidia. Jefferies upgraded Kontoor Brands to Buy with an $89 price target, citing accelerated Wrangler growth after the Lee divestiture.",
-      "detail_zh": "CoreWeave（CRWV）CEO Michael Intrator 在彭博看到的内部备忘录中表示，当构建新型科技公司时，市场会有一段时间误解并表现非理性，并称对公司商业模式、客户、执行质量及财务纪律充满信心。CoreWeave 股价周三下跌逾15%，盘前再跌6%，过去一年累计跌幅超过50%。Gartner 周三报告预测，若 AI 基础设施支出维持当前速度，到2030年80%的 neocloud 将停止独立运营。风险投资人 Chamath Palihapitiya 在 X 上称 CoreWeave 2032年到期的无担保债务交易价格低于80美分，债券收益率触及15%，马斯克回复'Yikes!'。CoreWeave 今年通过芯片抵押贷款、高收益债券、可转债和股票发行筹集超过350亿美元，截至6月底债务和租赁义务合计约520亿美元。苹果（AAPL）周三收盘市值达5.005万亿美元，首次收于5万亿美元上方，成为继英伟达（NVDA）之后第二家达此里程碑的公司，这标志着库克任期的收官，也为新任CEO John Ternus 设定了高门槛。Kontoor Brands（KTB）以最高10亿美元将 Lee 出售给 Authentic Brands，交易预计年底完成；Jefferies 分析师 Blake Anderson 将评级从持有上调至买入，目标价89美元，较周二收盘价有30%上行空间，认为 Wrangler 将获得应有的投资和关注，7.5亿美元收益可用于加速回购和偿债，预计未来三年 Wrangler 增速从当前的2%-3%提升至4%以上，Lee 损失的 EPS 将在交易完成后12-18个月内收回。",
-      "detail_en": "CoreWeave (CRWV) CEO Michael Intrator said in an internal memo viewed by Bloomberg that when building a new type of technology company, there will be periods when the market misunderstands and acts irrationally, adding confidence in the business model, customers, execution quality, and financial discipline. CoreWeave shares sank more than 15% on Wednesday, fell 6% in premarket, and have declined more than 50% over the past year. A Gartner report on Wednesday predicted 80% of neoclouds will cease independent operations by 2030 if AI infrastructure spending continues at its current pace. Venture capitalist Chamath Palihapitiya posted on X that CoreWeave's unsecured debt due 2032 was trading below 80 cents on the dollar with bond yields touching 15%, prompting Elon Musk to reply 'Yikes!' CoreWeave has raised more than $35B this year through chip-backed loans, high-yield bonds, convertible bonds and share sales, with debt and lease obligations totaling about $52B at the end of June. Apple (AAPL) ended Wednesday at $5.005T, closing above $5T for the first time and becoming the second company to do so after Nvidia (NVDA), marking the culmination of Tim Cook's tenure and setting a high bar for new CEO John Ternus. Kontoor Brands (KTB) is selling Lee to Authentic Brands for up to $1B, expected to close by year-end; Jefferies analyst Blake Anderson upgraded KTB to Buy from Hold with an $89 price target, 30% upside to Tuesday's close, noting Wrangler finally gets the investment and attention it deserves, the $750M proceeds can fund accelerated share repurchases and debt paydown, Wrangler growth is expected to accelerate to more than 4% over the next three years from 2%-3%, and EPS lost from Lee should be recaptured within 12-18 months from closing.",
-      "key_points": [
-        {
-          "zh": "CoreWeave CEO 将股价暴跌归因于市场非理性，强调商业模式与财务纪律，但股价周三跌逾15%，过去一年跌超50%。",
-          "en": "CoreWeave's CEO blamed the stock plunge on an irrational market and emphasized business model and financial discipline, but shares fell over 15% Wednesday and more than 50% over the past year."
-        },
-        {
-          "zh": "Gartner 预测若 AI 基础设施支出维持当前速度，到2030年80%的 neocloud 将停止独立运营；CoreWeave 2032年无担保债务价格跌破80美分，收益率触及15%。",
-          "en": "Gartner predicted 80% of neoclouds will cease independent operations by 2030 if AI infrastructure spending continues at its current pace; CoreWeave's unsecured debt due 2032 traded below 80 cents with yields touching 15%."
-        },
-        {
-          "zh": "苹果首次收盘市值突破5万亿美元，达5.005万亿美元，成为继英伟达之后第二家达此里程碑的公司。",
-          "en": "Apple closed above a $5T market value for the first time at $5.005T, becoming the second company after Nvidia to reach this milestone."
-        },
-        {
-          "zh": "Jefferies 将 Kontoor Brands 上调至买入，目标价89美元，看好 Lee 出售后 Wrangler 增速从2%-3%提升至4%以上。",
-          "en": "Jefferies upgraded Kontoor Brands to Buy with an $89 price target, expecting Wrangler growth to accelerate from 2%-3% to over 4% after the Lee divestiture."
-        }
-      ],
-      "tags": [
-        "CoreWeave",
-        "Apple",
-        "Kontoor Brands",
-        "AI infrastructure",
-        "neocloud"
-      ],
-      "tickers": [
-        "CRWV",
-        "AAPL",
-        "NVDA",
-        "KTB",
-        "TSLA",
-        "SPCX",
-        "RGLD",
-        "NFG"
-      ],
-      "sentiment": "neutral"
     }
   ]
 }
