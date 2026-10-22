@@ -1,6 +1,195 @@
 {
-  "generated_at": "2026-10-22T16:13:54.897266+00:00",
+  "generated_at": "2026-10-22T17:10:46.503836+00:00",
   "insights": [
+    {
+      "guid": "yt:Na8RYe-OSHY",
+      "title": "Is the Genius Act the Regulatory Shift You've Been Waiting For? w/ Jonathan Gould Ash Bennington",
+      "title_zh": "OCC 发布 GENIUS 法案稳定币最终规则，申请通道 1 月 18 日开启",
+      "url": "https://www.youtube.com/watch?v=Na8RYe-OSHY",
+      "published_at": "2026-10-22T16:50:52+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "other"
+      ],
+      "summary_zh": "美国货币监理署（OCC）发布实施 GENIUS 法案的最终规则，建立支付稳定币发行方的联邦监管框架，涵盖储备要求、赎回流动性、监督与申请流程。OCC 审计长 Jonathan Gould 表示，申请将于 1 月 18 日开始，该框架旨在平衡创新与监管，并服务于美国 competitiveness 与美元主导地位。",
+      "summary_en": "The OCC released its final rule implementing the GENIUS Act, establishing a federal framework for payment stablecoin issuers covering reserve requirements, redemption liquidity, supervision, and the application process. Comptroller Jonathan Gould said applications begin January 18, and the framework aims to balance innovation and regulation while supporting U.S. competitiveness and dollar dominance.",
+      "detail_zh": "在 Real Vision 的访谈中，OCC 审计长 Jonathan Gould 详细解读了 OCC 实施 GENIUS 法案的最终规则。该规则为支付稳定币发行方建立联邦监管框架，核心内容包括储备要求、赎回流动性、监督机制以及申请流程。Gould 表示，稳定币发行方的申请将于 1 月 18 日开始。双方还讨论了稳定币奖励与收益（yield vs. rewards）、跨境支付、美国竞争力以及美元主导地位等议题。Gould 解释了储备要求为何重要、流动性为何关键，以及如何在创新与监管之间取得平衡。访谈还涉及稳定币监督的具体运作方式、报告与 oversight 要求，以及美国与外国稳定币发行方之间的差异。Gould 表示，政府将数字资产视为实现美国金融体系现代化的机会。该访谈录制于 2026 年 10 月 21 日。",
+      "detail_en": "In a Real Vision interview, OCC Comptroller Jonathan Gould detailed the OCC's final rule implementing the GENIUS Act. The rule establishes a federal regulatory framework for payment stablecoin issuers, covering reserve requirements, redemption liquidity, supervision, and the application process. Gould said applications for stablecoin issuers will begin on January 18. The discussion also covered stablecoin rewards and yield, cross-border payments, U.S. competitiveness, and U.S. dollar dominance. Gould explained why reserve requirements matter, why liquidity is critical, and how to balance innovation and regulation. The interview also addressed how stablecoin supervision will work, reporting and oversight requirements, and differences between U.S. and foreign stablecoin issuers. Gould said the administration sees digital assets as an opportunity to modernize the American financial system. The interview was recorded on October 21, 2026.",
+      "conclusion_zh": "OCC 最终规则为支付稳定币发行方提供了联邦监管路径，申请 1 月 18 日开启，标志着美国稳定币监管框架进入实施阶段，值得关注其对数字资产及支付相关板块的影响。",
+      "conclusion_en": "The OCC final rule provides a federal regulatory path for payment stablecoin issuers, with applications opening January 18, marking the implementation phase of the U.S. stablecoin regulatory framework and warranting attention for its impact on digital assets and payments-related sectors.",
+      "key_points": [
+        {
+          "zh": "OCC 发布实施 GENIUS 法案的最终规则，为支付稳定币发行方建立联邦监管框架。",
+          "en": "The OCC released its final rule implementing the GENIUS Act, establishing a federal regulatory framework for payment stablecoin issuers."
+        },
+        {
+          "zh": "稳定币发行方申请将于 1 月 18 日开始。",
+          "en": "Applications for stablecoin issuers will begin on January 18."
+        },
+        {
+          "zh": "框架涵盖储备要求、赎回流动性、监督与申请流程。",
+          "en": "The framework covers reserve requirements, redemption liquidity, supervision, and the application process."
+        },
+        {
+          "zh": "讨论涉及稳定币奖励与收益、跨境支付、美国竞争力及美元主导地位。",
+          "en": "The discussion covered stablecoin rewards and yield, cross-border payments, U.S. competitiveness, and dollar dominance."
+        },
+        {
+          "zh": "Gould 表示政府将数字资产视为美国金融体系现代化的机会。",
+          "en": "Gould said the administration sees digital assets as an opportunity to modernize the American financial system."
+        }
+      ],
+      "tags": [
+        "stablecoins",
+        "GENIUS Act",
+        "OCC",
+        "regulation",
+        "digital assets"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PkOMBVEXoM8",
+      "title": "Open Interest 10/22/2026",
+      "title_zh": "Meta业绩超预期但AI支出激增引发担忧，特斯拉削减开支",
+      "url": "https://www.youtube.com/watch?v=PkOMBVEXoM8",
+      "published_at": "2026-10-22T16:39:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Meta业绩超出华尔街目标，但其AI支出激增引发新的担忧；特斯拉则回撤开支。Blackstone总裁Jonathan Gray反驳AI泡沫论，JPMorgan的Gabriela Santos与Goldman Sachs的Ben Snider探讨AI繁荣能否兑现利润以及投资者如何寻找下一个赢家。",
+      "summary_en": "Meta topped Wall Street targets, but its AI spending surge raised fresh concerns, while Tesla pulled back on spending. Blackstone President Jonathan Gray pushed back on AI bubble fears, and JPMorgan's Gabriela Santos and Goldman Sachs' Ben Snider discussed whether the AI boom can deliver profits and where investors can find the next winners.",
+      "detail_zh": "本期节目围绕美股交易日的开局展开。Meta业绩超出华尔街目标，但其AI支出激增引发新的担忧，同时涉及MUSE采用情况、扎克伯格持股结构以及核心广告业务与MUSE前景的讨论。特斯拉财报反应、SpaceX合并辩论以及资本开支担忧成为另一焦点，特斯拉回撤开支。地缘政治方面提及沙特阿拉伯撤离、伊朗威胁及中期选举后风险。JPMorgan Asset Management的Gabriela Santos讨论AI资本开支、超大规模企业估值与长期采用趋势；Goldman Sachs的Ben Snider分析AI投资周期、防御性交易与盈利集中度。Blackstone总裁Jonathan Gray反驳AI泡沫担忧，并谈及Blackstone前景、AI需求激增与基础设施投资。此外，节目还涉及私人信贷压力、AI融资与数据中心风险、航空股财报与高端旅行需求及燃料成本压力、Netflix降级与特斯拉看涨理由及Meta评级上调等顶级调用，以及AI对银行业和裁员的影响。",
+      "detail_en": "The program covers the start of the US trading day. Meta topped Wall Street targets, but its AI spending surge raised fresh concerns, with discussion of MUSE adoption, Zuckerberg's share structure, and the core ad business and MUSE outlook. Tesla earnings reaction, the SpaceX merger debate, and capital spending concerns were another focus, as Tesla pulled back on spending. Geopolitical topics included Saudi Arabia evacuations, Iran threats, and post-midterm risks. Gabriela Santos of JPMorgan Asset Management discussed AI capex, hyperscaler valuations, and long-term adoption trends; Ben Snider of Goldman Sachs analyzed AI investment cycles, defensive trades, and earnings concentration. Blackstone President Jonathan Gray pushed back on AI bubble fears and discussed Blackstone's outlook, surging AI demand, and infrastructure investing. Other segments covered private credit stress, AI financing and data center risks, airline earnings and premium travel demand with fuel cost pressures, top calls including a Netflix downgrade, Tesla bull case, and Meta rating upgrades, and AI's impact on banking and job cuts.",
+      "conclusion_zh": "AI资本开支的可持续性与盈利兑现成为市场核心辩论，Meta的支出激增与特斯拉的回撤形成对比，投资者需关注AI投资周期中的估值与盈利集中度风险。",
+      "conclusion_en": "The sustainability of AI capex and its profit delivery are central to the market debate, with Meta's spending surge contrasting Tesla's pullback; investors should watch valuation and earnings concentration risks in the AI investment cycle.",
+      "key_points": [
+        {
+          "zh": "Meta业绩超出华尔街目标，但AI支出激增引发新的担忧。",
+          "en": "Meta topped Wall Street targets, but its AI spending surge raised fresh concerns."
+        },
+        {
+          "zh": "特斯拉回撤开支，市场关注其财报反应、SpaceX合并辩论及资本开支担忧。",
+          "en": "Tesla pulled back on spending, with focus on its earnings reaction, the SpaceX merger debate, and capital spending concerns."
+        },
+        {
+          "zh": "Blackstone总裁Jonathan Gray反驳AI泡沫担忧，并谈及AI需求激增与基础设施投资。",
+          "en": "Blackstone President Jonathan Gray pushed back on AI bubble fears and discussed surging AI demand and infrastructure investing."
+        },
+        {
+          "zh": "JPMorgan的Gabriela Santos与Goldman Sachs的Ben Snider探讨AI繁荣能否兑现利润及投资者如何寻找下一个赢家。",
+          "en": "JPMorgan's Gabriela Santos and Goldman Sachs' Ben Snider discussed whether the AI boom can deliver profits and where investors can find the next winners."
+        },
+        {
+          "zh": "节目还涉及私人信贷压力、AI融资与数据中心风险、航空股财报及AI对银行业和裁员的影响。",
+          "en": "The program also covered private credit stress, AI financing and data center risks, airline earnings, and AI's impact on banking and job cuts."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "Meta",
+        "Tesla",
+        "earnings",
+        "private credit"
+      ],
+      "tickers": [
+        "META",
+        "TSLA",
+        "NFLX"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:vJ5ARaepS0Q",
+      "title": "Putin Says Russia Ready for New Peace Talks With US, Ukraine",
+      "title_zh": "普京表示俄罗斯准备恢复与美乌的三方和平谈判",
+      "url": "https://www.youtube.com/watch?v=vJ5ARaepS0Q",
+      "published_at": "2026-10-22T16:20:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据克里姆林宫消息，普京在与特朗普特使Steve Witkoff于圣彼得堡进行超过三小时会谈后，表示俄罗斯准备恢复与美国和乌克兰的三方和平谈判。Oliver Wyman合伙人、大西洋理事会高级研究员Dan Tannebaum就此冲突及最新谈判动向进行了讨论。",
+      "summary_en": "According to the Kremlin, President Vladimir Putin said Russia is ready to resume trilateral negotiations with the US and Ukraine on a potential peace deal, after more than three hours of talks in St. Petersburg with US President Donald Trump's envoy Steve Witkoff. Dan Tannebaum, Partner at Oliver Wyman and Senior Fellow at the Atlantic Council, discussed the conflict and what this latest push for talks signifies.",
+      "detail_zh": "克里姆林宫称，俄罗斯总统普京表示俄罗斯准备恢复与美国和乌克兰就潜在和平协议进行的三方谈判。普京是在周三于圣彼得堡与美国总统特朗普的特使Steve Witkoff进行了超过三小时的会谈后提出这一提议的。Oliver Wyman合伙人、大西洋理事会高级研究员Dan Tannebaum就冲突及最新谈判推动的意义进行了讨论。原文未提供更多关于谈判条件、时间表或市场影响的细节。",
+      "detail_en": "The Kremlin said President Vladimir Putin indicated Russia is ready to resume trilateral negotiations with the US and Ukraine on a potential peace deal. Putin made the offer during more than three hours of talks in St. Petersburg on Wednesday with Steve Witkoff, US President Donald Trump's envoy. Dan Tannebaum, Partner at Oliver Wyman and Senior Fellow at the Atlantic Council, discussed the conflict and what this latest push for talks signifies. The original text does not provide further details on negotiation terms, timeline, or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "普京表示俄罗斯准备恢复与美国和乌克兰的三方和平谈判。",
+          "en": "Putin said Russia is ready to resume trilateral peace negotiations with the US and Ukraine."
+        },
+        {
+          "zh": "该提议是在普京与特朗普特使Steve Witkoff于圣彼得堡进行超过三小时会谈后提出的。",
+          "en": "The offer was made after more than three hours of talks in St. Petersburg between Putin and Trump's envoy Steve Witkoff."
+        },
+        {
+          "zh": "Oliver Wyman合伙人Dan Tannebaum讨论了冲突及最新谈判推动的意义。",
+          "en": "Dan Tannebaum, Partner at Oliver Wyman, discussed the conflict and what the latest push for talks signifies."
+        }
+      ],
+      "tags": [
+        "Russia-Ukraine",
+        "peace talks",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uuTOMQi94B8",
+      "title": "Meta Cuts Tax Deal to Keep Zuckerberg in California",
+      "title_zh": "Meta设立无投票权新股，或为扎克伯格提供数十亿美元流动性而不削弱控制权",
+      "url": "https://www.youtube.com/watch?v=uuTOMQi94B8",
+      "published_at": "2026-10-22T16:10:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Meta悄然创建了一种新的无投票权股票类别，可能在不削弱马克·扎克伯格对公司控制权的情况下，为其提供数十亿美元的流动性。据彭博社的Ed Ludlow解释，监管文件显示此举与扎克伯格对加州拟议的亿万富翁税的担忧有关，Meta表示这也是为了资助其庞大的AI雄心。",
+      "summary_en": "Meta quietly created a new class of non-voting shares that could give Mark Zuckerberg billions in liquidity without weakening his control of the company. According to Bloomberg's Ed Ludlow, regulatory filings show the move is linked to Zuckerberg's concerns over California's proposed billionaire tax, and Meta says it is also about funding its massive AI ambitions.",
+      "detail_zh": "Meta悄然创建了一种新的无投票权股票类别。这一结构可能在不削弱马克·扎克伯格对公司控制权的情况下，为其提供数十亿美元的流动性。彭博社的Ed Ludlow解读了相关监管文件，并提到扎克伯格对加州拟议的亿万富翁税的担忧。Meta表示，此举也是为了资助其庞大的AI雄心。",
+      "detail_en": "Meta quietly created a new class of non-voting shares. This structure could give Mark Zuckerberg billions in liquidity without weakening his control of the company. Bloomberg's Ed Ludlow explains the regulatory filings and notes Zuckerberg's concerns over California's proposed billionaire tax. Meta says the move is also about funding its massive AI ambitions.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Meta创建了新的无投票权股票类别。",
+          "en": "Meta created a new class of non-voting shares."
+        },
+        {
+          "zh": "此举可能为扎克伯格提供数十亿美元流动性，同时不削弱其控制权。",
+          "en": "The move could give Zuckerberg billions in liquidity without weakening his control."
+        },
+        {
+          "zh": "监管文件显示与扎克伯格对加州拟议亿万富翁税的担忧有关。",
+          "en": "Regulatory filings show a link to Zuckerberg's concerns over California's proposed billionaire tax."
+        },
+        {
+          "zh": "Meta表示此举也是为了资助其庞大的AI雄心。",
+          "en": "Meta says the move is also about funding its massive AI ambitions."
+        }
+      ],
+      "tags": [
+        "Meta",
+        "Zuckerberg",
+        "non-voting shares",
+        "AI funding",
+        "billionaire tax"
+      ],
+      "tickers": [
+        "META"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:s9p-SLVYPpQ",
       "title": "AI Spending: Boom or Breaking Point?",
@@ -1604,6 +1793,56 @@
         "Yemen",
         "State Department",
         "evacuation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "/guest-content/list-guest-transcripts/6232-transcript-of-the-podcast-interview-between-erik-townsend-louis-vincent-gave-and-dr-anas-alhajji/file",
+      "title": "Transcript of the Podcast Interview between Erik Townsend, Louis-Vincent Gave and Dr. Anas Alhajji (\n                                                                                                            pdf,                                                                                                                                                                 409 KB                                                                                                    )",
+      "title_zh": "沙特能源会议聚焦“三海危机”与管道扩容，法国局势引关注",
+      "url": "https://www.macrovoices.com/guest-content/list-guest-transcripts/6232-transcript-of-the-podcast-interview-between-erik-townsend-louis-vincent-gave-and-dr-anas-alhajji/file",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "source_name": "Macro Voices",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "MacroVoices第555期节目中，Energy Outlook Advisors创始人Anas Alhajji博士分享利雅得能源周见闻，指出海湾、红海、黑海“三海危机”已永久改变能源市场，沙特正通过管道扩容与替代路线降低对霍尔木兹海峡的依赖。Gavekal创始人Louis-Vincent Gave加场讨论法国局势恶化及其对交易者的影响。",
+      "summary_en": "In MacroVoices Episode 555, Dr. Anas Alhajji of Energy Outlook Advisors shared insights from Riyadh Energy Week, stating that the 'Three Cs crisis'—Gulf, Red Sea, and Black Sea—has forever changed energy markets, with Saudi Arabia expanding pipeline capacity and alternative routes to reduce reliance on the Strait of Hormuz. Gavekal founder Louis-Vincent Gave joined to discuss France's deteriorating situation and its implications for traders.",
+      "detail_zh": "Anas Alhajji博士在利雅得能源周后表示，海湾、红海、黑海构成的“三海危机”已永久改变能源市场，并波及化肥、农产品贸易等领域，凸显全球经济的高度相互依存。沙特能源部长Abdulaziz亲王强调“没有所有人的能源安全，就没有所有人的能源未来”，意指沙特受袭将波及全球。沙特东西向管道运力已从550万桶/日扩至700万桶/日，并计划将绕开霍尔木兹海峡的总管道运力提升至1000万桶/日，包括建设穿越“空白之地”直达阿曼、通往阿拉伯海与印度洋的管道，预计两到三年内完成；伊拉克、科威特等海湾国家也可接入。此外，沙特东西向天然气管道可在数周内清理并转输石油，至5月前可增加约120万桶/日，之后恢复输气，提供一定灵活性。Alhajji还称，在机场关闭、多面受袭背景下，沙特仍成功举办五场国际会议，世界石油大会注册人数创90年新高，堪称物流管理典范。节目另邀Gavekal创始人Louis-Vincent Gave讨论法国局势恶化及其驱动因素和对交易者的含义，并与能源危机相联系。",
+      "detail_en": "Dr. Anas Alhajji, after attending Riyadh Energy Week, said the 'Three Cs crisis'—Gulf, Red Sea, and Black Sea—has forever changed energy markets, affecting fertilizers and agricultural trade and highlighting global economic interdependence. Saudi Energy Minister Prince Abdulaziz stressed that 'there can be no energy future for all without energy security for all,' meaning attacks on Saudi Arabia would hit everyone. The Saudi east-west pipeline capacity has been expanded from 5.5 million b/d to 7 million b/d, with plans to raise total pipeline capacity circumventing the Strait of Hormuz to 10 million b/d, including a pipeline through the Empty Quarter to Oman reaching the Arabian Sea and Indian Ocean, potentially completed in two to three years; Iraq and Kuwait could connect. The east-west gas pipeline can be cleaned and switched to oil within weeks, adding about 1.2 million b/d until May before reverting to gas. Alhajji also noted Saudi Arabia successfully hosted five international conferences despite airport closures and attacks, with record registration for the 90-year-old World Petroleum Congress, a logistics masterclass. Gavekal founder Louis-Vincent Gave joined to discuss France's deteriorating situation, its drivers, and implications for traders, tying it to the energy crisis.",
+      "conclusion_zh": "能源市场的地缘风险已结构性抬升，沙特绕开霍尔木兹的管道扩容与替代路线建设是值得跟踪的长期变量；同时法国局势恶化可能增添欧洲宏观不确定性。",
+      "conclusion_en": "Geopolitical risk in energy markets has structurally risen; Saudi pipeline expansion and alternative routes bypassing Hormuz are long-term variables to watch, while France's deterioration may add European macro uncertainty.",
+      "key_points": [
+        {
+          "zh": "“三海危机”（海湾、红海、黑海）已永久改变能源市场，并影响化肥与农产品贸易。",
+          "en": "The 'Three Cs crisis' (Gulf, Red Sea, Black Sea) has forever changed energy markets and affected fertilizers and agricultural trade."
+        },
+        {
+          "zh": "沙特东西向管道运力已从550万桶/日扩至700万桶/日，目标将绕开霍尔木兹的总运力提升至1000万桶/日。",
+          "en": "Saudi east-west pipeline capacity has expanded from 5.5 million b/d to 7 million b/d, with a goal to raise total capacity circumventing Hormuz to 10 million b/d."
+        },
+        {
+          "zh": "计划建设穿越“空白之地”至阿曼的管道，直达阿拉伯海与印度洋，预计两到三年内完成，伊拉克、科威特可接入。",
+          "en": "A pipeline through the Empty Quarter to Oman, reaching the Arabian Sea and Indian Ocean, is planned within two to three years, with Iraq and Kuwait able to connect."
+        },
+        {
+          "zh": "沙特东西向天然气管道可在数周内转输石油，至5月前增加约120万桶/日，之后恢复输气。",
+          "en": "The Saudi east-west gas pipeline can switch to oil within weeks, adding about 1.2 million b/d until May before reverting to gas."
+        },
+        {
+          "zh": "沙特能源部长称“没有所有人的能源安全，就没有所有人的能源未来”，强调沙特受袭将波及全球。",
+          "en": "The Saudi energy minister said 'there can be no energy future for all without energy security for all,' stressing that attacks on Saudi Arabia would hit everyone."
+        }
+      ],
+      "tags": [
+        "energy",
+        "geopolitics",
+        "saudi-arabia",
+        "pipelines",
+        "france"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -6350,6 +6589,52 @@
       "tickers": [
         "NVDA"
       ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6SwuZmT1Pvc",
+      "title": "Oil Prices Could Crash — Diesel Might Not with Rory Johnston and Mikkel Rosenvold",
+      "title_zh": "中国削减原油进口如何阻止油价冲击200美元",
+      "url": "https://www.youtube.com/watch?v=6SwuZmT1Pvc",
+      "published_at": "2026-10-20T14:39:17+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "尽管伊朗战争与霍尔木兹海峡持续中断，油价并未触及200美元，Commodity Context创始人Rory Johnston认为中国大幅减少原油进口是避免更大全球能源冲击的关键原因。全球柴油短缺与俄罗斯炼油厂受损导致燃料价格居高不下，而原油供应恢复未能拉低成品油价。Johnston预计2027年布伦特原油可能回落至60美元区间，但柴油价格仍将高企。",
+      "summary_en": "Despite the war in Iran and ongoing disruptions in the Strait of Hormuz, oil never hit $200. Rory Johnston, founder of Commodity Context, argues that China's dramatic reduction in crude oil imports was key to preventing a much bigger global energy shock. A global diesel shortage and damaged Russian refineries have kept fuel prices elevated even as crude supply recovers. Johnston expects Brent could fall back into the $60s in 2027 while diesel remains painfully high.",
+      "detail_zh": "在Real Vision的访谈中，Mikkel Rosenvold与Commodity Context创始人Rory Johnston讨论了为何伊朗战争和霍尔木兹海峡中断未能将油价推升至200美元。Johnston指出，中国大幅减少原油进口帮助避免了更严重的全球能源冲击。访谈还深入探讨了全球柴油供应危机、俄罗斯炼油厂遭受重创、特朗普与普京达成的柴油协议，以及为何原油供应恢复未能带动燃料价格下降。Johnston分享了对2027年石油的展望，包括布伦特原油可能回落至60美元区间，而柴油价格仍将居高不下。讨论还涉及能源通胀持续高企的原因、中国石油需求的变化、高油价为何未摧毁需求，以及伊朗战争可能结束的时间点。",
+      "detail_en": "In a Real Vision interview, Mikkel Rosenvold sits down with Rory Johnston, founder of Commodity Context, to discuss why the war in Iran and disruptions in the Strait of Hormuz have not pushed oil to $200. Johnston explains that China's dramatic reduction in crude oil imports helped prevent a much bigger global energy shock. The conversation also unpacks the global diesel shortage, Russia's battered refineries, Trump's diesel deal with Putin, and why recovering crude supply hasn't brought fuel prices down. Johnston shares his outlook for oil in 2027, including why Brent could fall back into the $60s even as diesel prices remain painfully high. The discussion also covers why energy inflation remains high, China's changing oil demand, why high prices haven't destroyed demand, and when the Iran war could end.",
+      "conclusion_zh": "原油与成品油市场分化：布伦特2027年或回落至60美元区间，但柴油供应危机意味着燃料价格与能源通胀压力将持续更久。",
+      "conclusion_en": "Crude and refined products are diverging: Brent may fall into the $60s by 2027, but the diesel supply crisis means fuel prices and energy inflation pressures will persist longer.",
+      "key_points": [
+        {
+          "zh": "中国大幅减少原油进口是油价未触及200美元的关键原因，帮助避免了更大的全球能源冲击。",
+          "en": "China's dramatic reduction in crude oil imports was a key reason oil never hit $200, helping prevent a much bigger global energy shock."
+        },
+        {
+          "zh": "全球柴油供应危机持续，俄罗斯炼油厂受损，特朗普与普京达成柴油协议，但原油供应恢复未能拉低燃料价格。",
+          "en": "A global diesel supply crisis persists, with Russia's refineries battered and Trump striking a diesel deal with Putin, yet recovering crude supply hasn't brought fuel prices down."
+        },
+        {
+          "zh": "能源通胀持续高企，高油价尚未摧毁需求。",
+          "en": "Energy inflation remains high, and high prices haven't destroyed demand."
+        },
+        {
+          "zh": "Johnston预计2027年布伦特原油可能回落至60美元区间，但柴油价格仍将高企。",
+          "en": "Johnston expects Brent could fall back into the $60s in 2027, even as diesel prices remain painfully high."
+        }
+      ],
+      "tags": [
+        "oil",
+        "diesel",
+        "china",
+        "energy-inflation",
+        "geopolitics"
+      ],
+      "tickers": [],
       "sentiment": "neutral"
     },
     {
