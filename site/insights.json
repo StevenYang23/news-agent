@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-10-22T08:14:45.300044+00:00",
+  "generated_at": "2026-10-22T09:12:36.690151+00:00",
   "insights": [
+    {
+      "guid": "yt:M-BtRs0bnt0",
+      "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism | Odd Lots",
+      "title_zh": "市场社会主义：一种可行的替代方案？",
+      "url": "https://www.youtube.com/watch?v=M-BtRs0bnt0",
+      "published_at": "2026-10-22T08:12:20+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "other"
+      ],
+      "summary_zh": "Odd Lots播客邀请Bhaskar Sunkara讨论其新书《蓝图：社会主义如何在现实世界中运作》，探讨市场社会主义模型。Sunkara认为社会主义需要提供可行的经济模型，而非仅停留在批评和诉求上，市场社会主义是值得探索的方向。",
+      "summary_en": "Odd Lots podcast hosts Bhaskar Sunkara to discuss his book 'The Blueprint: How Socialism Can Work in the Real World,' exploring market socialism. Sunkara argues socialism needs a viable economic model, not just critique and demands, and market socialism is a direction worth exploring.",
+      "detail_zh": "播客讨论了社会主义在美国政治中上升的关注度，特别是DSA（美国民主社会主义者）的影响。嘉宾Bhaskar Sunkara是DSA长期成员、Jacobin杂志创始编辑、The Nation总裁，他与Ben Burgess和Mike Beggs合著了《蓝图：社会主义如何在现实世界中运作》。Sunkara表示，他14岁对社会主义产生兴趣时，第一个问题就是“这难道不会导致面包排队吗？”，而当时得到的回答质量很差。他认为，社会主义者不能只从对现状的批评和即时诉求出发，还需要提供一个可行的模型。他提到，1930年代和60-70年代左翼最强盛时都有模型可参考，但后来人们知道苏联模式并不成功。因此，有必要深入探讨社会主义在技术上是否可能，然后再辩论其是否可取。Sunkara认为市场社会主义模型是值得认真对待的替代方案，并指出当今资本主义已与19世纪不同。",
+      "detail_en": "The podcast discusses the rising attention to socialism in U.S. politics, particularly the influence of DSA (Democratic Socialists of America). Guest Bhaskar Sunkara is a longtime DSA member, founding editor of Jacobin magazine, and president of The Nation. He co-authored 'The Blueprint: How Socialism Can Work in the Real World' with Ben Burgess and Mike Beggs. Sunkara says when he became interested in socialism at 14, his first question was 'wouldn't this just lead to bread lines?' and the responses he got were poor. He argues socialists cannot start only from critique of the present and immediate demands; they need a viable model. He notes that when the left was strongest in the 1930s and 60s-70s, there were models to point to, but the Soviet model is now known to have been flawed. Therefore, it is necessary to dive into whether socialism is technically possible, and then debate whether it is desirable. Sunkara sees market socialism as a serious alternative model, noting that today's capitalism is different from that of the 19th century.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Sunkara认为社会主义需要提供可行的经济模型，而不仅仅是批评和诉求。",
+          "en": "Sunkara argues socialism needs to offer a viable economic model, not just critique and demands."
+        },
+        {
+          "zh": "市场社会主义被视为一种可能的替代方案，区别于传统的国家社会主义。",
+          "en": "Market socialism is seen as a possible alternative, distinct from traditional state socialism."
+        },
+        {
+          "zh": "Sunkara指出，1930年代和60-70年代左翼有模型可参考，但苏联模式已被证明失败。",
+          "en": "Sunkara notes the left had models in the 1930s and 60s-70s, but the Soviet model proved flawed."
+        },
+        {
+          "zh": "播客提到社会主义在美国政治中关注度上升，DSA成为热词。",
+          "en": "The podcast mentions rising attention to socialism in U.S. politics, with DSA becoming a buzzword."
+        }
+      ],
+      "tags": [
+        "socialism",
+        "market socialism",
+        "DSA",
+        "politics",
+        "economic model"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:YDwzCuO-Wqc",
       "title": "Tech Stocks Lead Asia Rout, Houthi Attacks Prompt US Diplomat Departures",
@@ -14300,57 +14346,6 @@
         "index methodology",
         "hedging",
         "ETF innovation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:GqJhyuIgd1s",
-      "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid | Odd Lots",
-      "title_zh": "Hyperliquid：从交易协议到「承载一切金融」的野心",
-      "url": "https://www.youtube.com/watch?v=GqJhyuIgd1s",
-      "published_at": "2026-10-15T09:02:40.249937+00:00",
-      "source_name": "Odd Lots (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "politics",
-        "other"
-      ],
-      "summary_zh": "Odd Lots 播客邀请 Hyperliquid Labs 联合创始人兼 CEO Jeff Yan，讨论 Hyperliquid 作为「承载一切金融」的中立协议定位。对话涉及特朗普曾提及 Hyperliquid 及美国监管机构希望将其引入美国，以及当前美国用户被禁止使用其衍生品交易、部分人通过 VPN 绕过限制的现象。节目还讨论了金融工具层层叠加（衍生品、预测市场、代币化）的趋势。",
-      "summary_en": "On the Odd Lots podcast, Hyperliquid Labs co-founder and CEO Jeff Yan discusses Hyperliquid's positioning as a neutral protocol aspiring to 'house all the finance.' The conversation covers Trump having mentioned Hyperliquid and US regulators wanting to bring it to the US, as well as the current situation where US users are barred from its derivatives trading, with some reportedly using VPNs to get around it. The episode also discusses the trend of layered financial instruments (derivatives, prediction markets, tokenization).",
-      "detail_zh": "本期 Odd Lots 于 10 月 13 日录制，主持人 Joe Weisenthal 与 Tracy Alloway 邀请 Hyperliquid Labs 联合创始人兼 CEO Jeff Yan。Yan 将 Hyperliquid 描述为一个协议，其口号或愿景目标是「承载一切金融」（housing all the finance），定位为一个金融最终可以在其上发生的中立层，并将其类比为几十年前电子交易相对场内交易的阶跃式改进，认为 Hyperliquid 是对电子化但碎片化市场的阶跃式改进。Yan 表示，Hyperliquid Labs 是一个为这条区块链构建技术的团队，规模非常小；协议本身是一条中立区块链，由一组无需许可的验证者共同运营网络，形成单一一致状态的全局视图。主持人提到，几个月前特朗普曾谈及 Hyperliquid，并谈到美国监管机构正努力将 Hyperliquid 引入美国；Yan 表示当时他并不知情，对此感到非常意外。Yan 指出，目前美国用户按服务条款不被允许使用 Hyperliquid 的衍生品交易，但据主持人了解许多人通过 VPN 绕过；Yan 提到 CFTC 及当前政府希望对链上金融轨道采取更主动的态度，认为市场可以被改进，美国不应采取极度限制性的立场，而应找到将该技术纳入现有金融体系的方式。节目还讨论了金融工具层层叠加的趋势：主持人提出「倒金字塔」媒体理论，认为原始报道是最小的一层，而如今金融领域也类似——底层资产是市场中最小的部分，其上叠加了衍生品、期货期权、预测市场等越来越多的新工具。",
-      "detail_en": "This episode of Odd Lots was recorded on October 13, with hosts Joe Weisenthal and Tracy Alloway joined by Jeff Yan, co-founder and CEO of Hyperliquid Labs. Yan describes Hyperliquid as a protocol whose tagline or aspirational goal is 'housing all the finance,' positioning it as a neutral layer on which finance can ultimately happen, analogous to how electronic trading was a step-function improvement over pit trading only a couple of decades ago; he views Hyperliquid as a step-function improvement over electronic but fragmented markets. Yan says Hyperliquid Labs is a team that builds technology for this blockchain and is a super small team; the protocol itself is a neutral blockchain operated collectively by a permissionless set of validators, forming a global view of a single consistent state. The hosts note that a couple of months ago Donald Trump talked about Hyperliquid and about US regulators working to bring Hyperliquid to the US; Yan says he was not aware beforehand and it was a huge surprise. Yan notes that US users are currently not allowed to use Hyperliquid's derivatives trading per terms of service, though the host understands many get around it using a VPN; Yan mentions the CFTC and the current administration want to take a proactive approach toward on-chain rails for finance, believing markets can be improved and the US should not take an extremely restrictive view but rather find ways to incorporate the technology into the existing financial system. The episode also discusses the trend of layered financial instruments: the host offers an 'inverse pyramid' media theory, arguing original reporting is the smallest layer, and sees finance today similarly—the underlying is the smallest part of the market, with derivatives, futures and options, prediction markets and more built on top.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Hyperliquid 定位为「承载一切金融」的中立协议，Yan 将其类比为电子交易相对场内交易的阶跃式改进。",
-          "en": "Hyperliquid is positioned as a neutral protocol aspiring to 'house all the finance,' which Yan analogizes to electronic trading's step-function improvement over pit trading."
-        },
-        {
-          "zh": "特朗普曾谈及 Hyperliquid 及美国监管机构希望将其引入美国，Yan 表示事先并不知情、感到意外。",
-          "en": "Trump talked about Hyperliquid and US regulators wanting to bring it to the US; Yan says he was not aware beforehand and was surprised."
-        },
-        {
-          "zh": "美国用户目前按服务条款不被允许使用 Hyperliquid 的衍生品交易，但据报道许多人通过 VPN 绕过。",
-          "en": "US users are currently not allowed to use Hyperliquid's derivatives trading per terms of service, though many reportedly get around it via VPN."
-        },
-        {
-          "zh": "Yan 称 CFTC 与当前政府希望对链上金融轨道采取更主动态度，将技术纳入现有金融体系。",
-          "en": "Yan says the CFTC and the current administration want a proactive approach toward on-chain rails for finance, incorporating the technology into the existing financial system."
-        },
-        {
-          "zh": "主持人提出「倒金字塔」理论：底层资产是市场最小部分，衍生品、预测市场、代币化等层层叠加。",
-          "en": "The host offers an 'inverse pyramid' theory: the underlying is the smallest part of the market, with derivatives, prediction markets, and tokenization layered on top."
-        }
-      ],
-      "tags": [
-        "Hyperliquid",
-        "crypto",
-        "prediction markets",
-        "regulation",
-        "derivatives"
       ],
       "tickers": [],
       "sentiment": "neutral"
