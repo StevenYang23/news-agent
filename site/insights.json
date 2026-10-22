@@ -1,6 +1,245 @@
 {
-  "generated_at": "2026-10-22T06:17:35.607288+00:00",
+  "generated_at": "2026-10-22T07:17:59.598355+00:00",
   "insights": [
+    {
+      "guid": "yt:2uUSOH3GCQo",
+      "title": "AI Trade Jitters Return, Oil Gains After Deadly Saudi Attacks",
+      "title_zh": "全球股市因AI交易不安下跌，Meta加码资本支出，特斯拉转向AI与机器人",
+      "url": "https://www.youtube.com/watch?v=2uUSOH3GCQo",
+      "published_at": "2026-10-22T07:00:16+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国科技股财报开局好坏参半，未能缓解市场对AI交易的担忧，全球股市下跌。Meta上调全年资本支出预测，加倍投资；特斯拉则从电动汽车转向人工智能和机器人。沙特阿美油田遭胡塞武装无人机袭击致两人死亡，油价上涨。",
+      "summary_en": "Global stocks fell after a mixed start to US tech earnings failed to calm nerves around the AI trade. Meta doubled down on its investment plans, boosting its capital spending forecast for the year, while Tesla is pulling back as it pivots from EVs to AI and robotics. Oil advanced after deadly Houthi attacks on Saudi Arabia, including a drone strike on an Aramco oil field that killed two people.",
+      "detail_zh": "全球股市下跌，因美国科技股财报季开局好坏参半，未能平息市场对AI交易的紧张情绪。Meta加倍推进投资计划，上调了全年资本支出预测。特斯拉则在从电动汽车转向人工智能和机器人的过程中有所收缩。油价上涨，此前沙特阿拉伯发生致命的胡塞武装袭击：阿美油田遭无人机袭击导致两人死亡，另有机场袭击导致一人死亡；美国已下令非紧急人员及其家属撤离该国。法国债券收益率升至2002年以来最高。云业务增长超出预期。节目嘉宾包括美国银行全球大宗商品与衍生品研究主管Francisco Blanch和巴克莱经济研究主管Christian Keller。其他话题包括意大利批准对奶酪运输卡车司机的援助、普京暗示新的乌克兰和平谈判、英国银行在利润有望上升之际准备应对税收压力，以及黄仁勋谈欧洲AI采用。",
+      "detail_en": "Global stocks fell after a mixed start to US tech earnings failed to calm nerves around the AI trade. Meta doubled down on its investment plans, boosting its capital spending forecast for the year. Tesla is pulling back as it pivots from EVs to artificial intelligence and robotics. Oil advanced after deadly Houthi attacks in Saudi Arabia: a drone strike on an Aramco oil field killed two people and an attack on an airport killed one person; the US has ordered non-emergency personnel and their families to leave the country. French bond yields hit their highest since 2002. Cloud growth beat forecasts. Guests include Francisco Blanch, Bank of America's Head of Global Commodities & Derivatives Research, and Christian Keller, Barclays' Head of Economic Research. Other topics include Italy approving aid for cheese-off truckers, Putin signaling new Ukraine peace talks, UK banks girding for pushing taxes as profit is set to push higher, and Huang on AI adoption in Europe.",
+      "conclusion_zh": "科技巨头财报季开局好坏参半，AI交易情绪脆弱；Meta加码资本支出与特斯拉战略转向形成对比，同时中东地缘风险推升油价，需关注AI叙事与能源供应的双重不确定性。",
+      "conclusion_en": "The mixed start to megacap tech earnings leaves the AI trade on edge; Meta's increased capex contrasts with Tesla's strategic pivot, while Middle East geopolitical risk lifts oil, highlighting dual uncertainties around the AI narrative and energy supply.",
+      "key_points": [
+        {
+          "zh": "全球股市下跌，因美国科技股财报开局好坏参半，未能缓解市场对AI交易的担忧。",
+          "en": "Global stocks fell after a mixed start to US tech earnings failed to calm nerves around the AI trade."
+        },
+        {
+          "zh": "Meta上调全年资本支出预测，加倍推进投资计划。",
+          "en": "Meta doubled down on its investment plans, boosting its capital spending forecast for the year."
+        },
+        {
+          "zh": "特斯拉从电动汽车转向人工智能和机器人，有所收缩。",
+          "en": "Tesla is pulling back as it pivots from EVs to artificial intelligence and robotics."
+        },
+        {
+          "zh": "沙特阿美油田遭胡塞武装无人机袭击致两人死亡，另有机场袭击致一人死亡，油价上涨。",
+          "en": "Oil advanced after a drone strike on an Aramco oil field killed two people and an attack on an airport killed one person."
+        },
+        {
+          "zh": "美国已下令非紧急人员及其家属撤离沙特阿拉伯。",
+          "en": "The US has ordered non-emergency personnel and their families to leave Saudi Arabia."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "tech earnings",
+        "Meta capex",
+        "Tesla pivot",
+        "oil supply risk"
+      ],
+      "tickers": [
+        "META",
+        "TSLA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:TkQ7c1wbjMM",
+      "title": "China Stocks Drop Most Since Liberation Day",
+      "title_zh": "彭博中国秀：Meta财报超预期，特斯拉喜忧参半；恒生科技跌破4000点，沪深300较6月高点回落20%",
+      "url": "https://www.youtube.com/watch?v=TkQ7c1wbjMM",
+      "published_at": "2026-10-22T06:54:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博中国秀聚焦美股财报与亚洲市场：Meta业绩明显超预期，特斯拉结果好坏参半；亚洲科技股领跌，恒生科技指数两年来首次跌破4000点，沪深300较6月高点下跌20%。此外，DeepSeek获腾讯、宁德时代参与的150亿美元融资，旨在挑战美国AI实验室。",
+      "summary_en": "This episode of Bloomberg: The China Show covers US earnings and Asian markets: Meta posted a clear earnings beat while Tesla results remained mixed; tech stocks led losses in Asia, with the HSTECH falling below 4,000 for the first time in two years and the CSI 300 down 20% from its June high. Separately, DeepSeek raised $15B in a funding deal joined by Tencent and CATL, seeking to challenge US AI labs.",
+      "detail_zh": "节目首先关注美股财报：Meta业绩明显超预期，特斯拉业绩则好坏参半。亚洲市场方面，科技股领跌，恒生科技指数两年来首次跌破4000点；中国与香港股市延续跌势，沪深300较6月高点下跌20%。巴克莱的Kaanhari Singh在独家访谈中讨论亚洲股票资金流。中国监管机构敦促电商加强质量控制。韩国央行表示2026年和2027年经济增长将超过此前展望。美国前众议院议长凯文·麦卡锡就中期选举发表看法。亚太地区利率决策受到关注。前英国军情六处负责人谈及伊朗战争的影响。DeepSeek在腾讯和宁德时代参与的融资交易中筹集150亿美元，该交易旨在挑战美国AI实验室。波士顿动力创始人Marc Raibert讨论机器人技术的未来。中国混合动力汽车出口激增，预计将提振汽车制造商第三季度盈利。",
+      "detail_en": "The program begins with US earnings: Meta posted a clear earnings beat, while Tesla results remained mixed. In Asia, tech stocks led losses, with the HSTECH falling below 4,000 for the first time in two years; China and Hong Kong stocks extended losses, and the CSI 300 fell 20% from its June high. Barclays' Kaanhari Singh discussed Asia equity flows in an exclusive interview. China's regulator urged e-commerce quality controls. The BOK said 2026 and 2027 growth will outpace its previous outlook. Former US House Speaker Kevin McCarthy commented on the midterm elections. APAC rate decisions were in focus. A former MI6 chief discussed the fallout from the Iran war. DeepSeek raised $15B in a funding deal joined by Tencent and CATL, aimed at challenging US AI labs. Boston Dynamics founder Marc Raibert discussed the future of robotics. China's hybrid export surge is set to boost automakers' 3Q earnings.",
+      "conclusion_zh": "美股财报分化（Meta超预期、特斯拉喜忧参半），亚洲科技股承压且中国股市大幅回调，同时DeepSeek大额融资凸显AI竞争加剧，投资者需关注亚洲资金流与科技股波动。",
+      "conclusion_en": "US earnings are diverging (Meta beat, Tesla mixed), Asian tech is under pressure with Chinese equities in a sharp pullback, and DeepSeek's large funding round highlights intensifying AI competition; investors should watch Asia equity flows and tech volatility.",
+      "key_points": [
+        {
+          "zh": "Meta业绩明显超预期，特斯拉业绩好坏参半。",
+          "en": "Meta posted a clear earnings beat, while Tesla results remained mixed."
+        },
+        {
+          "zh": "亚洲科技股领跌，恒生科技指数两年来首次跌破4000点；沪深300较6月高点下跌20%。",
+          "en": "Tech stocks led losses in Asia; the HSTECH fell below 4,000 for the first time in two years, and the CSI 300 is down 20% from its June high."
+        },
+        {
+          "zh": "DeepSeek在腾讯和宁德时代参与的融资交易中筹集150亿美元，旨在挑战美国AI实验室。",
+          "en": "DeepSeek raised $15B in a funding deal joined by Tencent and CATL, seeking to challenge US AI labs."
+        },
+        {
+          "zh": "韩国央行表示2026年和2027年经济增长将超过此前展望。",
+          "en": "The BOK said 2026 and 2027 growth will outpace its previous outlook."
+        },
+        {
+          "zh": "中国混合动力汽车出口激增，预计将提振汽车制造商第三季度盈利。",
+          "en": "China's hybrid export surge is set to boost automakers' 3Q earnings."
+        }
+      ],
+      "tags": [
+        "earnings",
+        "asia-markets",
+        "ai",
+        "china",
+        "equity-flows"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:xIX-4-cQOsI",
+      "title": "Putin Gets Praised as 'Humanitarian' by Witkoff",
+      "title_zh": "特朗普政府官员称赞普京为“人道主义者”，以换取美公民获释",
+      "url": "https://www.youtube.com/watch?v=xIX-4-cQOsI",
+      "published_at": "2026-10-22T06:25:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普政府官员Steve Witkoff在俄罗斯称赞普京为“人道主义者”，并成功争取到被拘美国教师Stephen Hubbard获释。Hubbard四年前因在乌克兰作战被定罪。该事件由彭博的Anthony Halpin报道。",
+      "summary_en": "Trump administration official Steve Witkoff praised Vladimir Putin as a \"humanitarian\" in Russia while securing the release of Stephen Hubbard, an American teacher convicted four years ago of fighting for Ukraine. Reported by Bloomberg's Anthony Halpin.",
+      "detail_zh": "特朗普政府官员Steve Witkoff在俄罗斯与俄方交涉期间，称赞俄罗斯总统普京为“人道主义者”。此次交涉的结果是，被拘押的美国教师Stephen Hubbard获得释放。Hubbard四年前因在乌克兰作战而被定罪。彭博的Anthony Halpin对此进行了报道。原文未提供更多关于释放条件、时间细节或市场影响的说明。",
+      "detail_en": "Trump administration official Steve Witkoff, while in Russia, complimented President Vladimir Putin as a \"humanitarian.\" The engagement secured the release of Stephen Hubbard, an American teacher who was convicted four years ago of fighting for Ukraine. Bloomberg's Anthony Halpin reported the news. The original text does not provide further details on the terms of release, timing, or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普政府官员Steve Witkoff在俄罗斯称赞普京为“人道主义者”。",
+          "en": "Trump administration official Steve Witkoff praised Putin as a \"humanitarian\" while in Russia."
+        },
+        {
+          "zh": "Witkoff成功争取到被拘美国教师Stephen Hubbard获释。",
+          "en": "Witkoff secured the release of detained American teacher Stephen Hubbard."
+        },
+        {
+          "zh": "Hubbard四年前因在乌克兰作战被定罪。",
+          "en": "Hubbard was convicted four years ago of fighting for Ukraine."
+        },
+        {
+          "zh": "该消息由彭博的Anthony Halpin报道。",
+          "en": "The report was by Bloomberg's Anthony Halpin."
+        }
+      ],
+      "tags": [
+        "Russia",
+        "US-Russia relations",
+        "prisoner release",
+        "Trump administration"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:NIBwhc3-ob0",
+      "title": "Tesla Cuts Capex Guidance, Meta Hikes AI Spending Outlook, Announces New Stock Class",
+      "title_zh": "彭博亚洲交易：AI支出与财报成焦点，韩国央行维持利率不变",
+      "url": "https://www.youtube.com/watch?v=NIBwhc3-ob0",
+      "published_at": "2026-10-22T06:10:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目聚焦AI支出与财报，特斯拉和Meta业绩分化，贝莱德Fink警告AI建设缓慢将推高通胀。此外，沙特阿美遭无人机袭击引发石油供应担忧，韩国央行维持政策利率在3%不变。",
+      "summary_en": "This episode focuses on AI spending and earnings, with Tesla and Meta reporting mixed results. BlackRock's Fink warns that a slow AI buildout would spur inflation. Additionally, a drone strike on Aramco raises oil supply fears, and the Bank of Korea leaves its policy rate unchanged at 3%.",
+      "detail_zh": "节目讨论了特斯拉和Meta的财报，其中Meta业绩明显超预期，特斯拉表现则较为分化。贝莱德CEO Fink指出，AI建设缓慢可能会推高通胀。PGIM的Cathy Marcus分享了全球及亚太房地产展望，巴克莱的Ajay Rajadhyaksha讨论了2027年全球宏观展望。英伟达CEO黄仁勋敦促欧洲各行业采用AI，UniSuper CIO John Pearce则探讨了AI商业模式与风险。市场方面，日本和韩国股市开盘，沙特阿美遭无人机袭击引发石油供应担忧。巴克莱的Navin Saigal分享了全球固定收益展望，Merz表示欧盟不寻求与中国发生贸易冲突。此外，美团考虑发行点心债，韩国央行维持政策利率在3%不变。",
+      "detail_en": "The program discusses earnings from Tesla and Meta, with Meta posting a clear beat while Tesla's results were more mixed. BlackRock CEO Fink notes that a slow AI buildout would spur inflation. PGIM's Cathy Marcus shares global and APAC real estate outlook, and Barclays' Ajay Rajadhyaksha discusses the global macro outlook for 2027. Nvidia CEO Huang pushes Europe on all industries adopting AI, while UniSuper CIO John Pearce explores AI business models and risks. Markets open in Japan and South Korea, and a drone strike on Aramco fans oil supply fears. Barclays' Navin Saigal shares global fixed income outlook, and Merz says the EU doesn't seek trade conflict with China. Additionally, Meituan considers a dim sum bond sale, and the Bank of Korea leaves its policy rate unchanged at 3%.",
+      "conclusion_zh": "关注AI相关资本开支对通胀的潜在影响，以及地缘政治事件对石油供应的扰动。",
+      "conclusion_en": "Watch the potential inflation impact of AI-related capex and geopolitical disruptions to oil supply.",
+      "key_points": [
+        {
+          "zh": "Meta财报明显超预期，特斯拉业绩表现分化。",
+          "en": "Meta posts a clear earnings beat, while Tesla's results are more mixed."
+        },
+        {
+          "zh": "贝莱德Fink：AI建设缓慢将推高通胀。",
+          "en": "BlackRock's Fink: slow AI buildout would spur inflation."
+        },
+        {
+          "zh": "沙特阿美遭无人机袭击，引发石油供应担忧。",
+          "en": "Drone strike on Aramco fans oil supply fears."
+        },
+        {
+          "zh": "韩国央行维持政策利率在3%不变。",
+          "en": "Bank of Korea leaves policy rate unchanged at 3%."
+        },
+        {
+          "zh": "英伟达CEO黄仁勋敦促欧洲各行业采用AI。",
+          "en": "Nvidia CEO Huang pushes Europe on all industries adopting AI."
+        }
+      ],
+      "tags": [
+        "AI spending",
+        "earnings",
+        "oil supply",
+        "Bank of Korea",
+        "inflation"
+      ],
+      "tickers": [
+        "TSLA",
+        "META",
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:A36OonNwTsg",
+      "title": "US Orders Some Diplomats to Leave Saudi Arabia",
+      "title_zh": "美国务院因胡塞武装威胁下令沙特非紧急人员撤离",
+      "url": "https://www.youtube.com/watch?v=A36OonNwTsg",
+      "published_at": "2026-10-22T05:17:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国国务院因也门胡塞武装威胁加剧，下令沙特阿拉伯的非紧急人员及家属撤离。彭博的Stuart Livingstone-Wallace对此进行了解读。",
+      "summary_en": "The US State Department ordered the departure of non-emergency personnel and their families from Saudi Arabia due to the growing threat from Houthi militants in Yemen. Bloomberg's Stuart Livingstone-Wallace breaks down the situation.",
+      "detail_zh": "美国国务院发布命令，要求沙特阿拉伯的非紧急人员及其家属撤离，原因是邻国也门的胡塞武装威胁不断加剧。彭博的Stuart Livingstone-Wallace对此局势进行了分析。原文未提供更多细节，如具体威胁内容、撤离人数或时间表。",
+      "detail_en": "The US State Department issued an ordered departure for non-emergency personnel and their families from Saudi Arabia because of the growing threat from Houthi militants in neighboring Yemen. Bloomberg's Stuart Livingstone-Wallace breaks down the situation. The original text does not provide further details, such as the specific nature of the threat, the number of evacuees, or a timeline.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国国务院下令从沙特撤离非紧急人员及家属。",
+          "en": "The US State Department ordered the departure of non-emergency personnel and families from Saudi Arabia."
+        },
+        {
+          "zh": "撤离原因是也门胡塞武装威胁加剧。",
+          "en": "The departure is due to the growing threat from Houthi militants in Yemen."
+        },
+        {
+          "zh": "彭博的Stuart Livingstone-Wallace对局势进行了解读。",
+          "en": "Bloomberg's Stuart Livingstone-Wallace breaks down the situation."
+        }
+      ],
+      "tags": [
+        "Saudi Arabia",
+        "Houthi",
+        "Yemen",
+        "State Department",
+        "evacuation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:wXVdlO3npqw",
       "title": "Putin Releases Hostage, Earns US Praise as Humanitarian",
