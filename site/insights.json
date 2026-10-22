@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-10-22T13:12:03.000907+00:00",
+  "generated_at": "2026-10-22T14:11:59.461395+00:00",
   "insights": [
+    {
+      "guid": "yt:0Ri4QtEwLXs",
+      "title": "Inside Texas' growing political fight over data centers",
+      "title_zh": "得州数据中心扩张引发共和党选民反弹",
+      "url": "https://www.youtube.com/watch?v=0Ri4QtEwLXs",
+      "published_at": "2026-10-22T14:00:26+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "tech"
+      ],
+      "summary_zh": "得州农村地区数据中心建设快速扩张，引发通常支持共和党的选民对透明度、水耗、电费和房产价值等问题的担忧。这一反弹可能影响寻求连任的州长Greg Abbott及竞选参议员的Ken Paxton等共和党人。得州凭借亲商政策和土地资源，预计到2030年将成为全球最大数据中心市场之一。",
+      "summary_en": "The rapid expansion of data centers in rural Texas is sparking backlash among constituents who typically vote Republican, over concerns including transparency, water use, power bills, and property values. This could be problematic for Republicans like Governor Greg Abbott, who is running for reelection, and Attorney General Ken Paxton, who is in a tight Senate race. Texas, attracting data centers with pro-business policies and abundant land, is poised to become one of the world's largest markets by 2030.",
+      "detail_zh": "文章以一位居民在驾车途中看到测量标记、意识到数据中心正在建设的场景开篇，指出数据中心建设正在得州农村地区蔓延。这种扩张引发了通常投票给共和党的选民的反弹，可能对寻求连任的得州州长Greg Abbott（对阵民主党人Gina Hinosa）以及正在参议院竞选中与James Talerico激烈竞争的司法部长Ken Paxton构成政治压力。一位受访者认为，数据中心汇集了人们关心的诸多问题：生活成本、政府腐败、人工智能，以及政府在为这项新技术制定护栏方面似乎缺位。多年来，得州凭借亲商政策和充足土地吸引数据中心，如今预计到2030年将成为全球最大的数据中心市场之一。但随着新项目不断出现，居民对透明度、光污染、水资源使用、电费和房产价值提出担忧。",
+      "detail_en": "The article opens with a resident driving home from church, seeing survey markers everywhere and recognizing that a data center is being built. It notes that as the data center buildout spreads across rural Texas, backlash is rising among constituents who typically vote Republican. This could be problematic for Republicans like Texas Governor Greg Abbott, who is running for reelection against Democrat Gina Hinosa, and Attorney General Ken Paxton, who is in a tight race for Senate against James Talerico. One interviewee says data centers bring together many issues people are concerned about: cost of living, corruption in government, artificial intelligence, and the fact that government seems MIA when it comes to creating guard rails for this new technology. For years, Texas has attracted data centers with its pro-business policies and abundance of land. Today, it's poised to become one of the world's largest markets by 2030. But as new projects pop up, residents are raising concerns about transparency, light pollution, water use, power bills, and property values.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "得州农村数据中心建设扩张引发通常支持共和党的选民反弹。",
+          "en": "Data center buildout in rural Texas is sparking backlash among constituents who typically vote Republican."
+        },
+        {
+          "zh": "反弹可能影响寻求连任的州长Greg Abbott及竞选参议员的Ken Paxton。",
+          "en": "The backlash could be problematic for Governor Greg Abbott, who is running for reelection, and Attorney General Ken Paxton, who is in a tight Senate race."
+        },
+        {
+          "zh": "居民担忧包括透明度、光污染、水资源使用、电费和房产价值。",
+          "en": "Residents' concerns include transparency, light pollution, water use, power bills, and property values."
+        },
+        {
+          "zh": "得州凭借亲商政策和充足土地吸引数据中心，预计到2030年成为全球最大市场之一。",
+          "en": "Texas has attracted data centers with pro-business policies and abundant land, and is poised to become one of the world's largest markets by 2030."
+        }
+      ],
+      "tags": [
+        "data centers",
+        "Texas",
+        "Republican backlash",
+        "AI regulation",
+        "infrastructure"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:B6mHyh6mBNA",
+      "title": "Blackstone's Gray Says AI Demand Is 'Parabolic'",
+      "title_zh": "黑石总裁Gray反驳AI泡沫论，称AI需求近乎抛物线式增长",
+      "url": "https://www.youtube.com/watch?v=B6mHyh6mBNA",
+      "published_at": "2026-10-22T13:57:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "黑石集团总裁Jon Gray否认存在AI泡沫，称AI需求“近乎抛物线式”增长。他在彭博电视采访中讨论了AI投资及公司第三季度财报。",
+      "summary_en": "Blackstone President Jon Gray pushes back against the idea of an AI bubble, saying demand for AI is \"almost parabolic.\" He discussed AI investing and the firm's Q3 earnings on Bloomberg Television.",
+      "detail_zh": "黑石集团总裁Jon Gray在彭博“Bloomberg Open Interest”节目中接受Dani Burger采访时，反驳了市场关于AI存在泡沫的观点。他表示，对AI的需求“近乎抛物线式”（almost parabolic）。Gray还谈及了黑石在AI领域的投资以及公司第三季度财报业绩。原文未提供具体财务数据或投资细节。",
+      "detail_en": "Blackstone President Jon Gray, speaking to Dani Burger on Bloomberg's \"Bloomberg Open Interest,\" pushed back against the notion of an AI bubble. He stated that demand for AI is \"almost parabolic.\" Gray also discussed investing in AI and the firm's third-quarter earnings results. The source does not provide specific financial figures or investment details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黑石总裁Jon Gray否认AI泡沫论",
+          "en": "Blackstone President Jon Gray rejects the idea of an AI bubble"
+        },
+        {
+          "zh": "Gray称AI需求“近乎抛物线式”增长",
+          "en": "Gray says demand for AI is \"almost parabolic\""
+        },
+        {
+          "zh": "采访涉及黑石在AI领域的投资",
+          "en": "The interview covered Blackstone's investing in AI"
+        },
+        {
+          "zh": "采访还提及黑石第三季度财报业绩",
+          "en": "The interview also touched on Blackstone's Q3 earnings results"
+        }
+      ],
+      "tags": [
+        "AI",
+        "Blackstone",
+        "private equity",
+        "earnings"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "https://bondvigilantes.com/?p=26841",
+      "title": "The Best Relative Value Trade We Have Ever Seen",
+      "title_zh": "英国指数挂钩国债10-15年期出现历史性相对价值机会",
+      "url": "https://bondvigilantes.com/blog/2026/10/the-best-relative-value-trade-we-have-ever-seen/",
+      "published_at": "2026-10-22T13:23:27+00:00",
+      "source_name": "Bond Vigilantes (M&G)",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "英国债务管理办公室（DMO）过去18个月持续缩短国债发行期限，导致10-15年期指数挂钩国债供给饱和，该段收益率曲线相对两侧期限处于历史最便宜水平。若以久期中性方式卖出5年和50年期、买入10年期，可获显著收益率优势，叠加滚降效应后年化超额回报约1.5%，5年持有期约7.5%。",
+      "summary_en": "The UK Debt Management Office's rapid shortening of gilt issuance maturities over the past 18 months has saturated the 10–15-year index-linked sector, leaving it the cheapest ever relative to adjacent maturities. A duration-neutral trade selling 5-year and 50-year linkers to buy 10-year linkers offers a substantial yield pickup, and with roll-down the total excess return could be around 1.5% per annum, or roughly 7.5% over a five-year holding period.",
+      "detail_zh": "文章指出，英国债务管理办公室（DMO）在过去18个月快速缩短了国债发行期限，这一趋势适用于所有类型国债，但在发行事件较少的指数挂钩市场中造成了显著扭曲。最近三次指数挂钩国债银团发行均集中在10-15年期，使该段收益率曲线饱和，目前相对两侧期限交易在历史最便宜水平。曲线形态呈现明显分化：5年期与10年期指数挂钩国债利差持续走阔，曲线趋陡；而长端50年期指数挂钩国债收益率低于30年期，曲线倒挂且仍有进一步倒挂空间。若卖出短端与长端组合、以久期中性方式买入10年期，可获得可观的收益率提升，该收益率优势目前处于历史纪录水平。此外，随着时间推移，10年期债券将向5年期滚降，期限溢价侵蚀带来资本利得，叠加持有收益；而长端债券可能因向30年期靠拢而收益率上升、价格下跌。计入滚降后，10年期相对5年+50年组合的总超额回报约为每年1.5%，5年持有期约7.5%。若扭曲不修正，需5年逐步实现；若扭曲修正，则超额回报将在修正当年集中实现，作者认为后者更可能。",
+      "detail_en": "The article notes that the UK Debt Management Office (DMO) has rapidly shortened gilt issuance maturities over the past 18 months. This applies to all gilt types, but in the index-linked market, where issuance events are less frequent, it has caused significant distortions. The last three index-linked syndications were all in the 10–15-year area, saturating this part of the curve, which now trades the cheapest it has ever been relative to maturities on either side. The curve shape shows a striking divergence: the spread between 5- and 10-year linkers has steadily widened, reflecting a steeper curve, while at the long end 50-year linkers yield less than 30-year linkers, leaving that part inverted with room to invert further. Selling a combination of short- and long-dated bonds to buy the 10-year on a duration-neutral basis offers a substantial yield pickup, currently at record levels. Over time, the 10-year bond will roll down the curve toward becoming a 5-year bond, eroding term premium and producing capital gains in addition to carrying income, while long-dated bonds may see yields rise and prices fall as they become more like 30-year bonds. Incorporating roll-down, the total excess return from owning 10-year bonds relative to a combination of 5-year and 50-year bonds could be around 1.5% per annum, or roughly 7.5% over a five-year holding period. If nothing changes, the 7.5% relative gain would be realised over the full five years; if the distortion corrects, the large excess return would be realised in the year it happens, which the author suspects is more likely.",
+      "conclusion_zh": "英国指数挂钩国债10-15年期因发行饱和出现历史性相对价值扭曲，久期中性做多10年期、做空5年与50年组合，有望获得约1.5%的年化超额回报，且扭曲修正可能加速收益实现。",
+      "conclusion_en": "A historic relative-value distortion in the UK 10–15-year index-linked gilt sector, driven by saturated issuance, offers a duration-neutral long 10-year versus short 5-year and 50-year combination with potential excess returns of around 1.5% per annum, and a correction could accelerate realisation.",
+      "key_points": [
+        {
+          "zh": "DMO过去18个月快速缩短国债发行期限，最近三次指数挂钩银团发行均集中在10-15年期，导致该段曲线饱和。",
+          "en": "The DMO has rapidly shortened gilt issuance maturities over the past 18 months, with the last three index-linked syndications all in the 10–15-year area, saturating that segment."
+        },
+        {
+          "zh": "10-15年期指数挂钩国债目前相对两侧期限交易在历史最便宜水平。",
+          "en": "The 10–15-year index-linked sector now trades the cheapest it has ever been relative to maturities on either side."
+        },
+        {
+          "zh": "曲线形态分化：5年与10年利差走阔趋陡，而50年期收益率低于30年期，长端倒挂。",
+          "en": "The curve shape is divergent: the 5s–10s spread has widened and steepened, while 50-year linkers yield less than 30-year linkers, leaving the long end inverted."
+        },
+        {
+          "zh": "久期中性卖出5年和50年、买入10年，收益率优势处于历史纪录水平。",
+          "en": "A duration-neutral trade selling 5-year and 50-year linkers to buy 10-year linkers offers a yield advantage at record levels."
+        },
+        {
+          "zh": "计入滚降后，10年期相对5年+50年组合的总超额回报约每年1.5%，5年持有期约7.5%。",
+          "en": "Incorporating roll-down, the total excess return from 10-year linkers versus a 5-year plus 50-year combination is around 1.5% per annum, or roughly 7.5% over a five-year holding period."
+        }
+      ],
+      "tags": [
+        "UK gilts",
+        "index-linked",
+        "relative value",
+        "roll-down",
+        "yield curve"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:EquBJXInkOg",
       "title": "Stocks Fall Amid Tech Earnings; Oil Climbs as MidEast Tensions Rise",
@@ -3038,6 +3178,59 @@
         "Morgan Stanley"
       ],
       "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "https://bondvigilantes.com/?p=26811",
+      "title": "What the Past Gets Wrong About the Future",
+      "title_zh": "PSKY 1100亿美元收购WBD：TMT高收益债格局生变，能源与TMT命运逆转",
+      "url": "https://bondvigilantes.com/blog/2026/10/what-the-past-gets-wrong-about-the-future/",
+      "published_at": "2026-10-21T12:47:38+00:00",
+      "source_name": "Bond Vigilantes (M&G)",
+      "source_kind": "article",
+      "categories": [
+        "other",
+        "macro"
+      ],
+      "summary_zh": "Paramount Skydance 以1100亿美元收购Warner Bros. Discovery，需新增520亿美元债务融资，其中124亿美元高收益债将占ICE BofA高收益指数的1.3%-2.0%以上，指数型经理难以忽视。文章回顾2017年以来美国TMT板块的整合与演变，指出TMT正面临曾属于能源行业的挑战，而能源企业因资产负债表纪律反而走强，命运出现逆转。",
+      "summary_en": "Paramount Skydance's $110 billion acquisition of Warner Bros. Discovery requires $52 billion in new debt financing, including $12.4 billion of high-yield bonds that will represent 1.3%-2.0%+ of the ICE BofA High Yield indices, making it hard for index-aware managers to ignore. The article reviews US TMT consolidation since 2017 and notes a reversal of fortunes: TMT now faces challenges once reserved for energy, while energy companies have strengthened balance sheets.",
+      "detail_zh": "Paramount Skydance（PSKY）以1100亿美元收购Warner Bros. Discovery（WBD），是史上最大企业收购之一。尽管收购方股权资金雄厚，交易仍需520亿美元新债务融资，涵盖投资级债券、高收益债券和杠杆贷款，为史上最大债务融资之一。对于高收益投资者，新增124亿美元债券加上现有债券，预计将分别占ICE BofA全球高收益指数和美国高收益指数的1.3%至2.0%以上，指数型经理难以忽视。文章回顾2017年博客，当时美国TMT板块并购整合猜测盛行，部分交易成真（AT&T收购Time Warner、Disney收购Fox大部分娱乐资产、CenturyLink收购Level 3、T-Mobile与Sprint合并），但Netflix、Apple、Amazon的演变超出预期：Netflix以630亿美元企业价值起步，成为全球流媒体主导者；Apple选择有机发展内容；Amazon大举投资原创内容并竞逐体育版权。John Malone的Liberty Media 2017年收购Formula One预示了后续意外转折，包括Oracle支持PSKY收购WBD、SoftBank从出售Sprint转向AI豪赌、Elon Musk的Starlink收购DISH频谱。传统TMT企业则因技术改变消费者行为而沦为“融化的冰块”，Time Warner最终成为WBD并因杠杆高企和线性电视下滑落入高收益债；Altice USA因竞争、用户流失和杠杆上升陷入与债权人的诉讼，并更名为Optimum；Charter面临宽带竞争，杠杆资产负债表下将信用指标目标从4.0-4.5倍收紧至3.5倍（3年内），近期Cox合并带来10亿美元协同效应，未来与Comcast合并值得关注；DISH积累频谱后出售给AT&T和SpaceX，债券持有人经历资产转移纠纷、困境交换和预打包破产。文章指出，十年前美国能源是高收益债的问题儿童，TMT被视为安全可靠，如今TMT投资者面临曾属于能源的挑战，命运逆转。",
+      "detail_en": "Paramount Skydance's (PSKY) $110 billion acquisition of Warner Bros. Discovery (WBD) is one of the largest corporate takeovers in history. Despite deep equity pockets, it required $52 billion in new debt financing across investment-grade bonds, high-yield bonds and leveraged loans, making it one of the largest debt financings ever. For high-yield investors, the $12.4 billion of new bonds plus existing bonds will represent 1.3% to 2.0%+ of the ICE BofA Global and US High Yield indices respectively, hard for index-aware managers to ignore. The article revisits a 2017 blog when US TMT was rife with M&A speculation; some deals materialized (AT&T/Time Warner, Disney/Fox assets, CenturyLink/Level 3, T-Mobile/Sprint), but Netflix, Apple and Amazon evolved unexpectedly: Netflix grew from a $63 billion EV to dominant global streamer; Apple pursued organic content; Amazon spent billions on original content and sports rights. Liberty Media's 2017 purchase of Formula One foreshadowed twists including Oracle backstopping PSKY's WBD takeover, SoftBank shifting from Sprint to AI bets, and Starlink acquiring DISH spectrum. Incumbent TMT players became 'melting ice cubes': Time Warner became WBD and descended into high yield due to elevated leverage and linear-TV declines; Altice USA faced litigation with creditors over liability management and alleged asset transfers, and renamed itself Optimum; Charter faces broadband competition and aims to tighten credit metrics from 4.0-4.5x to 3.5x within 3 years, aided by the Cox merger's $1bn synergies, with a future Comcast merger worth watching; DISH sold billions of spectrum to AT&T and SpaceX while bondholders endured asset-transfer disputes, distressed exchanges and prepackaged bankruptcies. A decade ago, US Energy was high yield's problem child while TMT was seen as safe; today TMT investors face challenges once reserved for energy—a reversal of fortunes.",
+      "conclusion_zh": "TMT与能源的命运逆转提醒投资者：行业护城河并非永恒，需警惕管理层与投资者的自满，并关注指数纳入带来的被动资金流影响。",
+      "conclusion_en": "The reversal of fortunes between TMT and energy is a reminder that industry moats are not permanent; watch for hubris and complacency, and note the passive flow impact from index inclusion.",
+      "key_points": [
+        {
+          "zh": "PSKY以1100亿美元收购WBD，需520亿美元新债务融资，其中124亿美元高收益债将占ICE BofA高收益指数1.3%-2.0%以上，指数型经理难以回避。",
+          "en": "PSKY's $110bn WBD acquisition requires $52bn new debt, with $12.4bn high-yield bonds representing 1.3%-2.0%+ of ICE BofA HY indices, hard for index managers to ignore."
+        },
+        {
+          "zh": "2017年TMT并购潮中部分交易成真，但Netflix、Apple、Amazon的有机演变超出预期，Netflix从630亿美元EV成长为全球流媒体龙头。",
+          "en": "Some 2017 TMT M&A materialized, but Netflix, Apple and Amazon evolved organically beyond expectations; Netflix grew from $63bn EV to global streaming leader."
+        },
+        {
+          "zh": "传统TMT企业沦为“融化的冰块”：WBD因杠杆和线性电视下滑落入高收益债，Altice USA陷入诉讼并更名Optimum，Charter收紧信用指标至3.5倍。",
+          "en": "Incumbent TMT names became 'melting ice cubes': WBD fell into high yield on leverage and linear-TV declines, Altice USA faced litigation and renamed Optimum, Charter tightened credit targets to 3.5x."
+        },
+        {
+          "zh": "DISH积累频谱后出售给AT&T和SpaceX，债券持有人经历资产转移纠纷、困境交换和预打包破产。",
+          "en": "DISH sold spectrum to AT&T and SpaceX after accumulating it, while bondholders endured asset-transfer disputes, distressed exchanges and prepackaged bankruptcies."
+        },
+        {
+          "zh": "十年前能源是高收益债的问题儿童、TMT被视为安全，如今TMT面临曾属于能源的挑战，命运逆转。",
+          "en": "A decade ago energy was high yield's problem child and TMT was seen as safe; today TMT faces challenges once reserved for energy—a reversal of fortunes."
+        }
+      ],
+      "tags": [
+        "TMT",
+        "high yield",
+        "M&A",
+        "credit",
+        "index inclusion"
+      ],
+      "tickers": [
+        "PSKY",
+        "WBD"
+      ],
       "sentiment": "neutral"
     },
     {
@@ -14369,106 +14562,6 @@
         "TLT",
         "LQD"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:1Ims_JgO2Wk",
-      "title": "Tech Is Rolling Over. Yields Are Falling. Why Jim Paulsen is Watching the Walmart Recession Signal",
-      "title_zh": "Jim Paulsen：金融条件收紧下美股回调风险上升，但不预示熊市",
-      "url": "https://www.youtube.com/watch?v=1Ims_JgO2Wk",
-      "published_at": "2026-10-15T14:00:26+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "Jim Paulsen认为金融条件收紧叠加投资者对科技股长期领涨的过度自信，美股面临急跌风险，但这不需要以衰退或牛市终结为前提。他通过收益率、油价、美元走强对经济的滞后影响，以及科技支出放缓对市场领导地位的挑战，勾勒出一条可能的回调路径：增长放缓、通胀与收益率回落，随后复苏并推动牛市再启。",
-      "summary_en": "Jim Paulsen sees a risk of a sharp stock market correction as financial conditions tighten and investors grow complacent about tech's long leadership, though this does not require a recession or the end of the bull market. He outlines how rising yields, oil prices, and a firmer dollar hit the economy with a lag, and how slower technology spending could challenge market leadership, sketching a possible path through a correction: slowing growth, lower inflation and yields, and a recovery that could give the bull market another run.",
-      "detail_zh": "Jim Paulsen在本期节目中表示，随着金融条件收紧、投资者对科技股长期领涨习以为常，美股存在急跌回调的风险，但他并不因此预测衰退或熊市。他通过一系列图表说明，债券收益率、油价和美元走强会以滞后方式影响经济，而有利的季节性因素（11月至4月）在限制性条件下可能提供的支撑弱于投资者预期。他关注科技支出相对GDP的比重，认为科技支出放缓可能挑战当前的市场领导格局，并讨论AI应用、定价以及将投资转化为利润的难度。他指出，科技股长达二十年的领涨可能助长自满情绪和拥挤持仓，并区分了AI、通胀受益板块与他所称的\"Modest Seven\"（七个落后板块）。他还从零售、住房、就业以及沃尔玛相对表现中寻找信号，并提到\"沃尔玛衰退信号\"。他给出的可能路径是：增长放缓、通胀与收益率回落，随后复苏，从而为牛市提供又一轮上涨机会。",
-      "detail_en": "In this episode, Jim Paulsen says a sharp stock market correction is a risk as financial conditions tighten and investors grow comfortable with tech's long run of leadership, but his warning does not require a recession or the end of the bull market. Using charts, he explains how rising bond yields, oil prices, and a firmer dollar affect the economy with a lag, and why favorable November-to-April seasonality may offer less support than investors expect under restrictive conditions. He examines technology spending relative to GDP and argues a slowdown in tech spending could challenge market leadership, while also discussing AI adoption, pricing, and the challenge of turning investment into profits. He notes that two decades of tech leadership may encourage complacency and crowded positioning, and distinguishes between AI, inflation-assisted sectors, and what he calls the \"Modest Seven\" lagging sectors. He also looks for signals in retail, housing, employment, and Walmart's relative performance, referencing the Walmart Recession Signal. He closes with a possible path through a correction: slowing growth, lower inflation and yields, and a recovery that could give the bull market another run.",
-      "conclusion_zh": "投资者应关注金融条件收紧、科技支出放缓及滞后宏观信号的叠加风险，回调可能为下一轮牛市上涨创造条件。",
-      "conclusion_en": "Investors should watch the combined risks of tightening financial conditions, slower tech spending, and lagged macro signals; a correction could set up the next bull-market advance.",
-      "key_points": [
-        {
-          "zh": "Jim Paulsen认为金融条件收紧带来急跌回调风险，但不需要以衰退或熊市为前提。",
-          "en": "Jim Paulsen sees correction risk from tightening financial conditions, but it does not require a recession or bear market."
-        },
-        {
-          "zh": "债券收益率、油价和美元走强对经济的影响存在滞后，可能削弱11月至4月的季节性优势。",
-          "en": "Rising bond yields, oil prices, and a firmer dollar affect the economy with a lag and may weaken the November-to-April seasonal advantage."
-        },
-        {
-          "zh": "科技支出相对GDP放缓可能挑战科技股的市场领导地位，AI投资转化为利润存在难度。",
-          "en": "Slower technology spending relative to GDP could challenge tech leadership, and turning AI investment into profits is a challenge."
-        },
-        {
-          "zh": "科技股二十年领涨可能助长自满与拥挤持仓，AI、通胀受益板块与\"Modest Seven\"之间出现分化。",
-          "en": "Two decades of tech leadership may encourage complacency and crowded positioning, with a divide between AI, inflation-assisted sectors, and the \"Modest Seven.\""
-        },
-        {
-          "zh": "可能的回调路径：增长放缓、通胀与收益率回落，随后复苏并推动牛市再启。",
-          "en": "A possible path through a correction: slowing growth, lower inflation and yields, then a recovery that could give the bull market another run."
-        }
-      ],
-      "tags": [
-        "financial conditions",
-        "tech leadership",
-        "correction risk",
-        "seasonality",
-        "AI spending"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:bOkezytkLL4",
-      "title": "Why There’s An ‘Extremely Fierce’ Battle For TSMC's Limited Chip Manufacturing Capacity",
-      "title_zh": "台积电产能争夺战：逻辑晶圆成AI算力新瓶颈",
-      "url": "https://www.youtube.com/watch?v=bOkezytkLL4",
-      "published_at": "2026-10-15T14:00:08+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "台积电产能极度紧张，北美总裁Sajiv Dalal每天接到至少十通关于晶圆产能的电话。逻辑晶圆（GPU/CPU）与存储晶圆不同，需长期规划、定制设计且不可互换，Nvidia、AMD、苹果等巨头正激烈争夺每一片晶圆。台积电2025年出货1500万片晶圆仍供不应求，订单持续增长，可能将产能目标上调10%至20%。",
-      "summary_en": "TSMC capacity is extremely tight, with North America President Sajiv Dalal receiving at least ten calls a day about wafer capacity. Logic wafers (GPUs/CPUs) differ from memory wafers—they require long-term planning, custom design, and are not interchangeable. Giants like Nvidia, AMD, and Apple are fiercely competing for every wafer. TSMC shipped 15 million wafers in 2025 but it wasn't enough; orders are increasing and capacity targets may be raised by 10-20%.",
-      "detail_zh": "台积电制造了全球超过90%的最先进半导体，从苹果到英伟达到小型初创公司，每家芯片公司都需要在其产线上获得空间。台积电北美总裁Sajiv Dalal表示每天至少接到十通关于晶圆产能的电话。逻辑晶圆（负责AI最大工作负载的GPU和CPU）与存储晶圆不同，是长期规划、定制设计且不可互换的，Nvidia、AMD、苹果正在为每一片晶圆激烈争夺。台积电2025年出货1500万片晶圆，但订单持续增长，可能将产能目标上调10%至20%，达到每月12万片晶圆启动量。台积电共有534家客户，前十大客户占2025年净营收的78%，最大客户占19%，第二大客户占17%。大型客户如苹果和Nvidia承诺大量采购最先进、最昂贵的领先节点，可能获得最优惠定价。台积电通过预测需求来分配晶圆，希望了解客户的计划、目标终端市场及长期供应需求，避免客户大量采购后消失。小型初创公司如D-Matrix在较不紧张的6纳米节点生产，Cerebras则因小批量、设计复杂且利润率高而获得产能。与已锁定供应的长期客户结盟也是新进入者获取产能的途径之一。",
-      "detail_en": "TSMC makes more than 90% of the world's most advanced semiconductors, and every chip company from Apple to Nvidia to small startups needs space on its manufacturing lines. TSMC North America President Sajiv Dalal said he gets at least ten calls a day about wafer capacity. Logic wafers (GPUs and CPUs responsible for the biggest AI workloads) differ from memory wafers—they are planned long-term, custom designed, and not interchangeable. Nvidia, AMD, and Apple are fighting for every wafer. TSMC shipped 15 million wafers in 2025 but it wasn't enough; orders are increasing and capacity targets may be raised by 10-20% to 120,000 wafer starts per month. TSMC has 534 customers, with its top ten accounting for 78% of net revenue in 2025, the largest at 19% and second largest at 17%. Larger customers like Apple and Nvidia committing to large volumes at the most advanced and expensive leading-edge nodes get probably the most favorable pricing. TSMC allocates wafers by forecasting demand, wanting to know customers' plans, target end markets, and long-term supply needs to avoid customers who buy up a bunch and then disappear. Small startups like D-Matrix make chips on the less constrained 6-nanometer node, while Cerebras got capacity due to smaller volume, less risk, and complex designs with good margins. Aligning with longtime customers who've already locked in supply is another way for new entrants to get capacity.",
-      "conclusion_zh": "台积电逻辑晶圆产能已成为AI算力扩张的关键瓶颈，Nvidia、AMD、苹果等巨头争夺有限产能，小型初创公司需通过关系、低风险设计或与长期客户结盟获取产能，产能扩张进度将直接影响AI资本开支和收入增长目标的实现。",
-      "conclusion_en": "TSMC's logic wafer capacity has become a key bottleneck for AI compute expansion. Giants like Nvidia, AMD, and Apple are competing for limited capacity, while small startups must secure capacity through relationships, lower-risk designs, or aligning with longtime customers. The pace of capacity expansion will directly impact AI capex and revenue growth targets.",
-      "key_points": [
-        {
-          "zh": "台积电制造全球超90%最先进半导体，产能极度紧张，北美总裁每天接到至少十通关于晶圆产能的电话。",
-          "en": "TSMC makes over 90% of the world's most advanced semiconductors; capacity is extremely tight, with the North America President receiving at least ten calls a day about wafer capacity."
-        },
-        {
-          "zh": "逻辑晶圆（GPU/CPU）与存储晶圆不同，需长期规划、定制设计且不可互换，Nvidia、AMD、苹果正激烈争夺每一片晶圆。",
-          "en": "Logic wafers (GPUs/CPUs) differ from memory wafers—they require long-term planning, custom design, and are not interchangeable; Nvidia, AMD, and Apple are fiercely competing for every wafer."
-        },
-        {
-          "zh": "台积电2025年出货1500万片晶圆仍供不应求，可能将产能目标上调10%至20%，达到每月12万片晶圆启动量。",
-          "en": "TSMC shipped 15 million wafers in 2025 but it wasn't enough; capacity targets may be raised by 10-20% to 120,000 wafer starts per month."
-        },
-        {
-          "zh": "台积电前十大客户占2025年净营收78%，最大客户占19%，第二大客户占17%；大型客户可能获得最优惠定价。",
-          "en": "TSMC's top ten customers accounted for 78% of 2025 net revenue, with the largest at 19% and second largest at 17%; larger customers likely get the most favorable pricing."
-        },
-        {
-          "zh": "台积电通过预测需求分配晶圆，关注客户计划、目标终端市场及长期供应需求，避免客户大量采购后消失。",
-          "en": "TSMC allocates wafers by forecasting demand, focusing on customers' plans, target end markets, and long-term supply needs to avoid customers who buy up a bunch and then disappear."
-        }
-      ],
-      "tags": [
-        "TSMC",
-        "AI chips",
-        "wafer capacity",
-        "semiconductor supply chain",
-        "Nvidia"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
