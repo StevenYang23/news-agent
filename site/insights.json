@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-10-22T09:12:36.690151+00:00",
+  "generated_at": "2026-10-22T10:10:37.601750+00:00",
   "insights": [
+    {
+      "guid": "yt:3Mm2r4zcHXg",
+      "title": "The Volatility Warning Signs Brent Watches Before a Selloff",
+      "title_zh": "波动率期限结构走平被视为市场下跌的早期信号",
+      "url": "https://www.youtube.com/watch?v=3Mm2r4zcHXg",
+      "published_at": "2026-10-22T10:00:20+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility"
+      ],
+      "summary_zh": "播客嘉宾指出，市场通常不会从极低隐含波动率直接崩盘，VIX往往先升至20附近并在此停留，波动率期限结构先走平、后进入全面倒挂。因此，期限结构开始走低、平值波动率抬升、看跌偏斜加剧，反而是加空仓、看跌市场的早期信号。",
+      "summary_en": "The podcast guest argues that markets generally do not crash from ultra-low implied volatility; the VIX typically rises to around 20 and stalls there first, with the volatility term structure flattening before full backwardation. Therefore, a flattening term structure, rising at-the-money vol, and steeper put skew are the early signals to add short positions and position for downside.",
+      "detail_zh": "嘉宾强调，市场一般不会从极低隐含波动率直接崩盘，不会从VIX 10直接跳到VIX 80；通常先看到VIX升至20，然后才出现真正疯狂的行情。虽然VIX从10到80必然经过20，但关键在于市场往往先在20附近停留一段时间，之后才进入极端状态。另一个观察角度是VIX期限结构：它会先走平并在该区域维持，之后才进入全面倒挂。全面倒挂对应的是标普500单日下跌2%至3%这类最剧烈的走势。因此，具有讽刺意味的是，市场即将崩盘的最佳信号反而是VIX期限结构开始走低，出现第一个预警信号。届时可考虑增加空头仓位、看跌市场，因为波动率期限结构正在走平、平值波动率开始抬升、看跌偏斜进一步加剧。这些是真正需要关注的信号。",
+      "detail_en": "The guest stresses that markets generally do not crash from ultra-low implied volatility—you don't go from VIX 10 to VIX 80; you typically see the VIX rise to 20 first, and then things really go crazy. While the VIX must pass through 20 to reach 80, the key point is that the market often stalls around 20 first before entering extreme conditions. Another way to view this is the VIX term structure: it flattens out and holds in that area before going into full backwardation. Full backwardation corresponds to the ugliest moves, such as the S&P falling 2-3% in a day. Ironically, the best signal that a crash is coming is the VIX term structure starting to move lower—the first shot across the bow. At that point, one might consider adding short positions and positioning for downside, because the volatility term structure is flattening, the at-the-money vol is starting to lift, and put skew is steepening further. Those are the signals to watch.",
+      "conclusion_zh": "关注VIX期限结构走平、平值波动率抬升与看跌偏斜加剧，这些是市场下跌前的早期预警信号。",
+      "conclusion_en": "Watch for a flattening VIX term structure, rising at-the-money vol, and steeper put skew as early warning signals of a market downturn.",
+      "key_points": [
+        {
+          "zh": "市场通常不会从极低隐含波动率直接崩盘，VIX往往先升至20附近并停留。",
+          "en": "Markets generally don't crash from ultra-low implied volatility; the VIX typically rises to around 20 and stalls first."
+        },
+        {
+          "zh": "VIX期限结构会先走平并维持，之后才进入全面倒挂。",
+          "en": "The VIX term structure flattens and holds before entering full backwardation."
+        },
+        {
+          "zh": "全面倒挂对应标普500单日下跌2%-3%等最剧烈走势。",
+          "en": "Full backwardation corresponds to the ugliest moves, such as the S&P falling 2-3% in a day."
+        },
+        {
+          "zh": "期限结构开始走低、平值波动率抬升、看跌偏斜加剧，是加空仓的早期信号。",
+          "en": "A flattening term structure, rising at-the-money vol, and steeper put skew are early signals to add short positions."
+        }
+      ],
+      "tags": [
+        "VIX",
+        "term structure",
+        "implied volatility",
+        "put skew",
+        "market crash"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:33qTrBrbBu4",
+      "title": "Nvidia's Huang Says Neoclouds Are 'Good Investment'",
+      "title_zh": "黄仁勋：新云算力需求强劲，看好其投资前景",
+      "url": "https://www.youtube.com/watch?v=33qTrBrbBu4",
+      "published_at": "2026-10-22T09:15:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋表示，新云（neoclouds）的算力需求“惊人”，并认为其是良好的投资标的。他承认新云需要更多营运资金以满足高涨的计算机和AI需求，但强调“只要需求高，其他问题都会解决”，对新云找到解决方案“相当有信心”。",
+      "summary_en": "Nvidia CEO Jensen Huang says demand for neoclouds' compute is \"incredible\" and views them as a good investment. He acknowledges neoclouds need more working capital to meet high demand for computers and AI, but stresses that \"everything else will get solved when demand is high\" and is \"quite confident\" they will find solutions.",
+      "detail_zh": "英伟达首席执行官黄仁勋在接受彭博社Tom Mackenzie采访时讨论了新云（neoclouds）并解释了为何它们是一项良好的投资。黄仁勋表示：“它们的算力需求是惊人的。”他还提到，由于对计算机和AI的需求很高，新云需要获得更多营运资金。黄仁勋称：“只要需求高，其他一切都会得到解决”，并补充说他“相当有信心”新云会找到解决方案。",
+      "detail_en": "Nvidia CEO Jensen Huang discussed neoclouds and why they are a good investment in an interview with Bloomberg's Tom Mackenzie. Huang said, \"The demand of their compute is incredible.\" He also addressed the need for neoclouds to acquire more working capital as demand for computers and AI is high. \"Everything else will get solved when demand is high,\" Huang said, adding he is \"quite confident\" neoclouds will find solutions.",
+      "conclusion_zh": "黄仁勋的评论凸显了AI算力需求的强劲，并表达了对新云商业模式和融资能力的信心，这对AI基础设施相关投资具有参考意义。",
+      "conclusion_en": "Huang's comments highlight strong AI compute demand and express confidence in neoclouds' business model and financing ability, which is relevant for AI infrastructure-related investments.",
+      "key_points": [
+        {
+          "zh": "黄仁勋称新云的算力需求“惊人”。",
+          "en": "Huang says demand for neoclouds' compute is \"incredible.\""
+        },
+        {
+          "zh": "黄仁勋认为新云是良好的投资标的。",
+          "en": "Huang views neoclouds as a good investment."
+        },
+        {
+          "zh": "新云需要更多营运资金以满足高涨的计算机和AI需求。",
+          "en": "Neoclouds need more working capital to meet high demand for computers and AI."
+        },
+        {
+          "zh": "黄仁勋强调“只要需求高，其他问题都会解决”，并对此“相当有信心”。",
+          "en": "Huang stresses \"everything else will get solved when demand is high\" and is \"quite confident.\""
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "neoclouds",
+        "AI",
+        "compute demand"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:R5WcYifGaT8",
+      "title": "Bruising Day for Stocks as Havens Rally: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目预告，无实质市场内容",
+      "url": "https://www.youtube.com/watch?v=R5WcYifGaT8",
+      "published_at": "2026-10-22T09:11:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介与社交媒体链接，未包含任何具体的市场数据、观点或投资分析。因此无法提炼投资洞见。",
+      "summary_en": "The source text is merely a program description and social media links for Bloomberg's 'The Opening Trade,' with no substantive market data, views, or investment analysis. No investment insights can be extracted.",
+      "detail_zh": "原文仅说明Anna Edwards、Guy Johnson和Paul Dobson将在彭博电视节目《Bloomberg: The Opening Trade》中为分析师和投资者解读当日关键主题，随后全部为彭博电视与商业新闻的社交媒体链接及订阅指引。文中未出现任何具体数字、股票代码、人物引述、事件或因果判断，因此无法提供有实质内容的摘要。",
+      "detail_en": "The text only states that Anna Edwards, Guy Johnson, and Paul Dobson will break down key themes for analysts and investors on Bloomberg Television's 'The Opening Trade.' The remainder consists entirely of social media links and subscription prompts for Bloomberg Television and Bloomberg Business. No specific figures, ticker symbols, quotations, events, or causal judgments appear, so no substantive summary is possible.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视节目简介，非研究内容。",
+          "en": "The text is a Bloomberg TV program description, not research content."
+        },
+        {
+          "zh": "未提供任何市场数据、观点或投资分析。",
+          "en": "No market data, views, or investment analysis are provided."
+        },
+        {
+          "zh": "其余内容均为社交媒体链接与订阅指引。",
+          "en": "The rest consists of social media links and subscription prompts."
+        }
+      ],
+      "tags": [
+        "bloomberg-tv",
+        "program-description",
+        "no-substance"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:M-BtRs0bnt0",
       "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism | Odd Lots",
@@ -14300,54 +14428,6 @@
         "RGLD",
         "NFG"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Qox1fz2T28Q",
-      "title": "Wall Street’s Plan to Make Sports an Investable Asset | Trillions",
-      "title_zh": "体育球队ETF新赛道：Future Sports推出体育统计指数",
-      "url": "https://www.youtube.com/watch?v=Qox1fz2T28Q",
-      "published_at": "2026-10-15T09:37:40+00:00",
-      "source_name": "Trillions (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "Apollo Sports Capital报告称体育市场规模达2.5万亿美元，Future Sports联合创始人估计每年约有6500亿美元投入体育领域的票务、媒体版权和商品。Future Sports正构建基于体育统计数据的指数，旨在为投资体育的机构提供对冲工具，并已有多个发行商提交体育球队ETF（含杠杆产品）申请。",
-      "summary_en": "Apollo Sports Capital pegs the sports market at $2.5 trillion, while Future Sports co-founders estimate roughly $650 billion is invested annually across ticketing, media rights and merchandise. Future Sports is building indexes based on sports statistics designed to give institutions a hedging tool, and multiple issuers have filed for sports team ETFs, including leveraged products.",
-      "detail_zh": "Apollo Sports Capital近期报告称体育是一个2.5万亿美元的市场；Future Sports方面估计每年约有6500亿美元投入体育领域的票务、媒体版权和商品。过去两个月出现了一批体育球队ETF的申报，例如针对费城飞人队、棒球（如纽约大都会队）的产品，多家发行商提交了不同体育球队ETF申请，包括杠杆产品。Future Sports联合创始人Lee Tailfor与指数服务负责人Jody Gunsburg介绍，两人均为拥有20多年衍生品交易经验的前交易员，因认为市场未处于均衡状态而决定转向。他们以体育统计数据为标的构建指数方法论，冰球有53项统计、棒球有70项统计，统计分值基于10年历史数据、稀有性及其对比赛和表现的影响来确定。指数在比赛过程中随统计数据实时计算，官方收盘值于中部时间上午9点发布。该指数主要面向投资体育的机构（媒体版权、场馆运营、赞助商等），为其提供对冲体育投资下行风险的工具；Robin Hood在其股东名册中，但双方未讨论过指数构成。",
-      "detail_en": "Apollo Sports Capital recently produced a report saying sports is a $2.5 trillion market; Future Sports estimates roughly $650 billion per year is invested into sports across ticketing, media rights and merchandise. Over the past two months, a wave of sports team ETF filings has appeared, such as products for the Philadelphia Flyers and baseball (e.g., the New York Mets), with multiple issuers filing for various sports team ETFs including leveraged ones. Future Sports co-founder Lee Tailfor and head of index services Jody Gunsburg — both former traders with 20-plus years in derivatives — said they moved on after concluding markets were not behaving in equilibrium. They built an index methodology around sporting statistics: hockey has 53 stats and baseball 70, with point values determined by 10 years of history, rarity, and how much a stat influences the game and performance. The indexes are calculated throughout games as stats come in, with the official close published at 9:00 a.m. Central time. The indexes are aimed primarily at institutions invested in sports — media rights, stadium owner-operators, sponsors and endorsers — to hedge downside risk; Robin Hood is on the cap table, though index composition has not been discussed with them.",
-      "conclusion_zh": "体育球队ETF与体育统计指数代表ETF领域的新空白市场，其成败将检验投资者是否愿意将资金配置到这一非相关资产类别。",
-      "conclusion_en": "Sports team ETFs and sports-statistics indexes represent new white space in the ETF world, and their success will test whether investors are willing to allocate capital to this non-correlated asset class.",
-      "key_points": [
-        {
-          "zh": "Apollo Sports Capital报告称体育市场规模达2.5万亿美元；Future Sports估计每年约6500亿美元投入体育的票务、媒体版权和商品。",
-          "en": "Apollo Sports Capital pegs the sports market at $2.5 trillion; Future Sports estimates about $650 billion per year goes into sports ticketing, media rights and merchandise."
-        },
-        {
-          "zh": "过去两个月出现多份体育球队ETF申报，涵盖费城飞人队、棒球（如纽约大都会队）等，部分为杠杆产品。",
-          "en": "Multiple sports team ETF filings have appeared over the past two months, covering the Philadelphia Flyers, baseball (e.g., the New York Mets) and more, some leveraged."
-        },
-        {
-          "zh": "Future Sports以体育统计数据构建指数：冰球53项统计、棒球70项统计，分值基于10年历史、稀有性及对比赛的影响。",
-          "en": "Future Sports builds indexes on sports statistics: 53 stats for hockey and 70 for baseball, with point values based on 10 years of history, rarity and game impact."
-        },
-        {
-          "zh": "指数在比赛过程中实时计算，官方收盘值于中部时间上午9点发布。",
-          "en": "Indexes are calculated throughout games, with the official close published at 9:00 a.m. Central time."
-        },
-        {
-          "zh": "核心目标客户是投资体育的机构，用于对冲体育投资的下行风险；Robin Hood在股东名册中但未参与指数构成讨论。",
-          "en": "The core target is institutions invested in sports seeking to hedge downside risk; Robin Hood is on the cap table but has not been involved in index composition discussions."
-        }
-      ],
-      "tags": [
-        "sports ETFs",
-        "index methodology",
-        "hedging",
-        "ETF innovation"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
