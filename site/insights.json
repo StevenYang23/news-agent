@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:20:54.643878+00:00",
+  "generated_at": "2026-10-22T02:16:03.166056+00:00",
   "insights": [
     {
       "guid": "yt:wXVdlO3npqw",
@@ -14115,54 +14115,6 @@
       "tickers": [
         "HOOD"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6D5LkmX9Iyc",
-      "title": "Jeffrey Sherman: The Bond Market is in Charge | CNBC",
-      "title_zh": "DoubleLine副CIO：CPI超预期后美联储仍需加息，AI建设融资端压力显现",
-      "url": "https://www.youtube.com/watch?v=6D5LkmX9Iyc",
-      "published_at": "2026-10-15T02:15:54+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "CPI数据高于预期令债市剧烈波动，DoubleLine副CIO Jeffrey Sherman认为美联储仍需加息并逆转去年的风险管理式降息以建立信誉，同时指出债市已替美联储完成了紧缩工作。他还看到压力正向AI建设的融资端蔓延，部分承压较重的运营方已现困境，庞大的资本需求可能长期压制长端利率。",
-      "summary_en": "A hotter-than-expected CPI report sent the bond market on a rough ride, and DoubleLine Deputy CIO Jeffrey Sherman argues the Fed still needs to hike and reverse last year's risk-management cuts to establish credibility, while noting the bond market has already done the Fed's job. He also sees stress spreading into the financing side of the AI buildout, with some more stressed operators already struggling and heavy capital needs likely to weigh on the long end for some time.",
-      "detail_zh": "CPI数据高于预期，债市随之经历剧烈波动。美联储官员此前在数据公布前一直主张无需加息，但这份数据打破了这一论调。DoubleLine副CIO Jeffrey Sherman认为，美联储仍需加息，并逆转去年出于风险管理考虑而实施的降息，以建立信誉；他同时表示“债市已经替美联储完成了工作”。Sherman还看到压力正向AI建设的融资端蔓延，一些承压较重的运营方已经陷入困境，而庞大的资本需求可能在一段时间内持续压制长端利率。在固收策略上，他主张保持简单：配置可分析的短久期信用债，收益率接近6%，并用5至7年期部分获取利率敞口。对于与AI建设相关的超长久期债券，他保持谨慎，因为融资需求巨大，且回报取决于相关技术能否在未来数十年持续奏效。",
-      "detail_en": "A hotter-than-expected CPI report sent the bond market on a rough ride. Fed governors had spent the run-up arguing a hike wasn't needed, and the data blew that up. DoubleLine Deputy CIO Jeffrey Sherman says the Fed still needs to hike and reverse last year's risk-management cuts to establish credibility, and that \"the bond market has already done the Fed's job.\" He also sees stress spreading into the financing side of the AI buildout, with some of the more stressed operators already struggling and heavy capital needs likely to weigh on the long end for some time. On fixed income, Sherman keeps it simple: short duration credit he can analyze, yielding near 6%, with the five to seven year part of the curve for rate exposure. He stays cautious on very long-dated bonds tied to the AI buildout, where financing needs are significant and the payoff depends on the technology working for decades.",
-      "key_points": [
-        {
-          "zh": "CPI高于预期，打破了美联储官员此前“无需加息”的论调，债市剧烈波动。",
-          "en": "A hotter-than-expected CPI report blew up the Fed governors' prior argument that a hike wasn't needed, sending the bond market on a rough ride."
-        },
-        {
-          "zh": "Sherman认为美联储仍需加息并逆转去年的风险管理式降息以建立信誉，且“债市已替美联储完成了工作”。",
-          "en": "Sherman says the Fed still needs to hike and reverse last year's risk-management cuts to establish credibility, and that \"the bond market has already done the Fed's job.\""
-        },
-        {
-          "zh": "压力正向AI建设的融资端蔓延，部分承压较重的运营方已现困境，庞大资本需求可能长期压制长端利率。",
-          "en": "Stress is spreading into the financing side of the AI buildout, with some more stressed operators already struggling and heavy capital needs likely to weigh on the long end for some time."
-        },
-        {
-          "zh": "固收策略上，Sherman偏好可分析的短久期信用债（收益率近6%），并以5至7年期获取利率敞口。",
-          "en": "On fixed income, Sherman favors short duration credit he can analyze (yielding near 6%), using the five to seven year part of the curve for rate exposure."
-        },
-        {
-          "zh": "对与AI建设相关的超长久期债券保持谨慎，因融资需求巨大且回报取决于技术能否在未来数十年奏效。",
-          "en": "He stays cautious on very long-dated bonds tied to the AI buildout, where financing needs are significant and the payoff depends on the technology working for decades."
-        }
-      ],
-      "tags": [
-        "CPI",
-        "Fed",
-        "bonds",
-        "AI buildout",
-        "duration"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
