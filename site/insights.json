@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-10-21T23:09:18.290648+00:00",
+  "generated_at": "2026-10-22T00:26:31.043939+00:00",
   "insights": [
+    {
+      "guid": "yt:wXVdlO3npqw",
+      "title": "Putin Releases Hostage, Earns US Praise as Humanitarian",
+      "title_zh": "Bloomberg《Balance of Power》节目：美国对乌政策急转引争议，中期选举外交议题升温",
+      "url": "https://www.youtube.com/watch?v=wXVdlO3npqw",
+      "published_at": "2026-10-21T23:26:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前弗吉尼亚州州长Jim Gilmore批评美国对乌克兰政策出现“戏剧性逆转”，认为选民应得到解释，并指出外交政策可能影响中期选举。节目还涉及Meta与特斯拉财报、中期选举选情及国会安全等话题。",
+      "summary_en": "Former Virginia Governor Jim Gilmore criticized a dramatic U.S. policy reversal on Ukraine, arguing Americans deserve an explanation and that foreign policy could matter in the midterms. The show also covered Meta and Tesla earnings, midterm races, and congressional security.",
+      "detail_zh": "Bloomberg《Balance of Power》节目聚焦政治与全球商业的交汇。前弗吉尼亚州州长、前共和党全国委员会主席及前驻欧安组织大使Jim Gilmore表示，美国对乌克兰政策出现“戏剧性逆转”，并认为美国人应得到这一转变的解释；他随后批评美国在俄罗斯与乌克兰问题上的转向，并讨论外交政策为何可能在中期选举中产生影响。节目还提到Meta与特斯拉发布第三季度财报、特朗普前往南卡罗来纳州且共和党参议院选情趋紧、密歇根州参议员候选人准备最后辩论，以及加州民主党众议员Sydney Kamlager-Dove表示将“100%”支持众议员Thomas Massie弹劾国防部长Pete Hegseth的决议，并称中期选举后议员返回华盛顿时Hegseth将“如坐针毡”。此外，节目涉及扎克伯格因第40号提案威胁退出加州、选举安全与洛杉矶县选票处理、寄给国会议员的白色粉末、中东安全担忧，以及Ramaswamy广告争议和堪萨斯州参议院辩论聚焦医疗与成本等话题。",
+      "detail_en": "Bloomberg's \"Balance of Power\" focuses on the intersection of politics and global business. Former Virginia Governor, former RNC chair and former Ambassador to the OSCE Jim Gilmore said the U.S. has made a dramatic reversal in its policy toward Ukraine and argued Americans deserve an explanation for the shift; he later criticized the U.S. shift on Russia and Ukraine and discussed why foreign policy could matter in the midterms. The show also noted Meta and Tesla reporting third-quarter earnings, Trump heading to South Carolina as the GOP Senate race tightens, Michigan Senate candidates preparing for their final debate, and Rep. Sydney Kamlager-Dove (D-CA) saying she would \"100%\" support Rep. Thomas Massie's resolution to impeach Defense Secretary Pete Hegseth and that he would be \"on the hot seat\" when lawmakers return after the midterms. Other segments covered Zuckerberg threatening a California exit over Proposition 40, election security and LA County ballot processing, mysterious white powder sent to members of Congress, growing Middle East security concerns, and backlash over a Ramaswamy ad plus a Kansas Senate debate focused on health care and costs.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Jim Gilmore称美国对乌克兰政策出现“戏剧性逆转”，认为美国人应得到解释。",
+          "en": "Jim Gilmore said the U.S. made a dramatic reversal in its Ukraine policy and argued Americans deserve an explanation."
+        },
+        {
+          "zh": "Gilmore批评美国在俄罗斯与乌克兰问题上的转向，并认为外交政策可能在中期选举中产生影响。",
+          "en": "Gilmore criticized the U.S. shift on Russia and Ukraine and said foreign policy could matter in the midterms."
+        },
+        {
+          "zh": "众议员Sydney Kamlager-Dove表示将“100%”支持弹劾国防部长Pete Hegseth的决议。",
+          "en": "Rep. Sydney Kamlager-Dove said she would \"100%\" support the resolution to impeach Defense Secretary Pete Hegseth."
+        },
+        {
+          "zh": "节目提及Meta与特斯拉发布第三季度财报。",
+          "en": "The show noted Meta and Tesla reported third-quarter earnings."
+        },
+        {
+          "zh": "节目涉及扎克伯格因第40号提案威胁退出加州，以及国会安全与中东安全担忧。",
+          "en": "Segments covered Zuckerberg threatening a California exit over Proposition 40, plus congressional and Middle East security concerns."
+        }
+      ],
+      "tags": [
+        "Ukraine policy",
+        "midterms",
+        "Hegseth impeachment",
+        "Meta earnings",
+        "Tesla earnings"
+      ],
+      "tickers": [
+        "META",
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:lloJiNAPZdQ",
       "title": "Rep. Kamlager-Dove Says She Would Back Hegseth Impeachment",
@@ -14063,56 +14115,6 @@
         "bonds",
         "AI buildout",
         "duration"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "/guest-content/list-guest-transcripts/6231-transcript-of-the-podcast-interview-between-erik-townsend-and-yasir-arafat/file",
-      "title": "Transcript of the Podcast Interview between Erik Townsend and Yasir Arafat (\n                                                                                                            pdf,                                                                                                                                                                 373 KB                                                                                                    )",
-      "title_zh": "Aalo Atomics：核反应堆流水线量产与核电成本下降路径",
-      "url": "https://www.macrovoices.com/guest-content/list-guest-transcripts/6231-transcript-of-the-podcast-interview-between-erik-townsend-and-yasir-arafat/file",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "source_name": "Macro Voices",
-      "source_kind": "article",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Aalo Atomics 联合创始人兼 CTO Yasir Arafat 在 Macro Voices 访谈中阐述公司以流水线方式量产核反应堆、首攻 AI 数据中心市场的战略。他认为通过标准化设计、规模化生产与逐代改进，核电成本有望比市场预期更早降至低于煤电与天然气。",
-      "summary_en": "Aalo Atomics co-founder and CTO Yasir Arafat explains the company's strategy of mass-producing nuclear reactors on an assembly line, targeting AI data centers first. He argues that standardized design, scale production and generational improvement can bring nuclear costs below coal and gas sooner than the market expects.",
-      "detail_zh": "Aalo Atomics 正在建设一座位于得克萨斯州的工厂，计划以流水线方式每年量产 100 台核反应堆。公司首个目标市场是 AI 数据中心，因为其能源需求最为紧迫；随着成本曲线下降，将拓展至其他进口能源的国家和能源匮乏的社区。Yasir 以亚马逊从卖书起步、后发展为万物商店作类比，称数据中心是 Aalo 的“书”。他反驳了行业历史上 75 年仅建成不到 450 座反应堆、年均约 6 座、不足以支撑量产的观点，类比马斯克可回收火箭最初被嘲笑、如今被包括中国在内的同行效仿。他强调 Aalo 并非量产老旧的大型反应堆，而是选择钠冷反应堆技术，以“一辆卡车能装载的最大功率”为设计起点，设计一次、建造多次。他以 Vogtle 为例指出，美国 35 年来首座新建核电站工期超出一倍、预算超出一倍以上，说明“造一座完美反应堆”的路径失败。Yasir 认为，核电降本靠的是把同样好的反应堆造一千次并在每一代持续改进，而非追求单座完美。访谈中 Erik Townsend 披露自己是 Aalo 的早期投资人，且是其持有的最大私募股权头寸，并声明内容不构成投资建议。",
-      "detail_en": "Aalo Atomics is building a factory in Texas to mass-produce 100 nuclear reactors per year on an assembly line. Its first target market is AI data centers, which need energy most urgently; as costs come down the curve, it plans to expand to energy-importing countries and energy-poor communities. Yasir compares data centers to Amazon's books—a starting point before the 'everything store.' He rebuts the objection that the industry built fewer than 450 reactors in 75 years (about six units a year), citing Elon Musk's reusable rockets being mocked before being copied, including by China. He stresses Aalo is not mass-producing legacy large reactors, but has chosen sodium-cooled reactor technology, designing for the maximum power that fits on the back of a truck—design once, build many. He cites Vogtle, the first US nuclear plant built after 35 years, which took twice as long and more than twice the budget, as evidence that the 'one perfect reactor' approach failed. Yasir argues nuclear gets cheap by building the same good reactor a thousand times and improving each generation, not by chasing a single perfect unit. Erik Townsend discloses he is an early investor in Aalo and that it is his largest private equity position, and states nothing in the interview is investment advice.",
-      "conclusion_zh": "Aalo 押注核反应堆流水线量产与钠冷技术，若成本曲线如期下降，AI 数据中心及更广泛能源市场或迎来核电渗透率的结构性提升，但量产可行性与成本下降节奏仍是核心风险。",
-      "conclusion_en": "Aalo is betting on assembly-line reactor mass production and sodium-cooled technology; if the cost curve falls as expected, nuclear penetration could rise structurally across AI data centers and broader energy markets, though mass-production feasibility and the pace of cost declines remain key risks.",
-      "key_points": [
-        {
-          "zh": "Aalo 正在得克萨斯州建厂，计划以流水线方式每年量产 100 台核反应堆。",
-          "en": "Aalo is building a Texas factory to mass-produce 100 nuclear reactors per year on an assembly line."
-        },
-        {
-          "zh": "首个目标市场是 AI 数据中心，随后随成本下降拓展至其他能源匮乏市场。",
-          "en": "The first target market is AI data centers, with expansion to other energy-poor markets as costs decline."
-        },
-        {
-          "zh": "Yasir 认为核电降本靠标准化量产与逐代改进，而非建造单座完美的大型反应堆。",
-          "en": "Yasir argues nuclear cost reduction comes from standardized mass production and generational improvement, not one perfect large reactor."
-        },
-        {
-          "zh": "Aalo 选择钠冷反应堆技术，以“一辆卡车可装载的最大功率”为设计起点。",
-          "en": "Aalo chose sodium-cooled reactor technology, designing for the maximum power that fits on a truck."
-        },
-        {
-          "zh": "Yasir 认为核电成本降至低于煤电与天然气的时间点比主持人 Erik 预期的 15 年更早。",
-          "en": "Yasir believes nuclear costs will fall below coal and gas sooner than host Erik's 15-year expectation."
-        }
-      ],
-      "tags": [
-        "nuclear",
-        "AI data centers",
-        "energy",
-        "mass production",
-        "sodium-cooled reactor"
       ],
       "tickers": [],
       "sentiment": "neutral"
