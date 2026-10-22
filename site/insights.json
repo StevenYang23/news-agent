@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-10-22T14:11:59.461395+00:00",
+  "generated_at": "2026-10-22T15:11:59.934380+00:00",
   "insights": [
+    {
+      "guid": "4956394",
+      "title": "Wall Street Lunch: Tesla Falls As Analysts Weigh FSD Potential Against Lofty Valuation",
+      "title_zh": "IBM警告企业质疑AI投资回报，特斯拉营收持平，Anthropic推出Claude Duet",
+      "url": "https://seekingalpha.com/article/4956394-wall-street-lunch-tesla-falls-as-analysts-weigh-fsd-potential-against-lofty-valuation?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-22T15:02:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "IBM CEO指出大型企业对AI投资回报趋于谨慎，引发市场关注；特斯拉Q3营收持平且交付量同比下降，分析师对其估值分歧明显；Anthropic发布新代理Claude Duet，挑战Meta等竞争对手。",
+      "summary_en": "IBM's CEO warned that large enterprises are questioning returns on AI spending; Tesla reported flat Q3 revenue and a YoY decline in deliveries, with analysts split on valuation; Anthropic unveiled its new agent Claude Duet to compete with Meta and others.",
+      "detail_zh": "IBM第三季度业绩超预期，但CEO Arvind Krishna表示大型企业对AI投资回报越来越谨慎，担心部分AI支出完全失控且没有实际回报，股价下跌。特斯拉Q3营收持平，每股收益略超预期，但电动汽车交付量同比下降，股价走低；分析师Justin Purohit认为长期前景积极，理由包括汽车利润率改善、储能需求强劲和FSD订阅增长，而Daniel Jones则认为估值过高，重申“强力卖出”。马斯克称正推动FSD在更多地区获批，Optimus机器人处于早期生产阶段。美国航空Q3业绩凸显其对未对冲燃油成本上涨的脆弱性，燃油费用激增67.5%近20亿美元，股价承压。Snap-on因营收和盈利不及预期成为标普500跌幅最大个股，柴油价格飙升导致加盟商减少库存。Anthropic推出基于Claude Opus 5.5模型的代理Claude Duet，可处理简报和连接应用等任务，目前面向美国Pro和Max用户开放候补名单研究预览。",
+      "detail_en": "IBM beat Q3 estimates but shares fell as CEO Arvind Krishna said large enterprises are becoming more cautious about returns on AI investments, worried that some AI spending is out of control with no real return. Tesla reported flat Q3 revenue and EPS slightly above forecasts, but a YoY decline in EV deliveries pressured shares; analyst Justin Purohit remains positive long-term, citing improving auto margins, strong energy storage demand, and growing FSD subscriptions, while Daniel Jones calls the stock 'woefully overpriced' and reaffirms a Strong Sell. Musk said Tesla is pushing for FSD approvals in more regions and that Optimus is in early production. American Airlines is under pressure as Q3 results showed vulnerability to rising unhedged fuel costs, with fuel expenses surging 67.5% (~$2B). Snap-on was the biggest S&P 500 decliner after missing Q3 revenue and earnings targets, as soaring diesel prices prompted franchisees to cut inventories. Anthropic unveiled Claude Duet, built on Claude Opus 5.5, available in research preview via waitlist for U.S. Pro and Max users.",
+      "conclusion_zh": "IBM的评论暗示企业AI支出可能面临更严格审查，而特斯拉的估值分歧和航空业的成本压力提醒投资者关注基本面与风险对冲。",
+      "conclusion_en": "IBM's comments suggest corporate AI spending may face stricter scrutiny, while Tesla's valuation debate and airline cost pressures remind investors to focus on fundamentals and risk hedging.",
+      "key_points": [
+        {
+          "zh": "IBM CEO称大型企业开始质疑AI投资回报，担心支出失控。",
+          "en": "IBM CEO said large enterprises are questioning AI returns and worried about uncontrolled spending."
+        },
+        {
+          "zh": "特斯拉Q3营收持平，交付量同比下降，分析师对估值分歧巨大。",
+          "en": "Tesla Q3 revenue flat with YoY delivery decline; analysts sharply divided on valuation."
+        },
+        {
+          "zh": "美国航空燃油成本激增67.5%近20亿美元，凸显未对冲风险。",
+          "en": "American Airlines fuel costs surged 67.5% (~$2B), highlighting unhedged exposure."
+        },
+        {
+          "zh": "Snap-on因营收盈利不及预期成为标普500最大跌幅股，柴油价格飙升致加盟商减少库存。",
+          "en": "Snap-on was the biggest S&P 500 decliner after missing estimates; soaring diesel prices led franchisees to cut inventories."
+        },
+        {
+          "zh": "Anthropic推出基于Claude Opus 5.5的代理Claude Duet，挑战Meta等竞争对手。",
+          "en": "Anthropic launched Claude Duet, built on Claude Opus 5.5, to compete with Meta and others."
+        }
+      ],
+      "tags": [
+        "AI spending",
+        "Tesla",
+        "IBM",
+        "Anthropic",
+        "fuel costs"
+      ],
+      "tickers": [
+        "TSLA",
+        "IBM",
+        "AAL",
+        "SNA",
+        "LRCX",
+        "PG",
+        "META"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5R0ahNw-kpk",
+      "title": "Oil Climbs as Houthi Attacks on Saudi Arabia Continue",
+      "title_zh": "沙特东部省阿美油田与机场遭袭，美国务院下令非紧急人员撤离",
+      "url": "https://www.youtube.com/watch?v=5R0ahNw-kpk",
+      "published_at": "2026-10-22T14:58:37+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "周三沙特东部省一处阿美油田和一座机场遭到两次袭击，造成三人死亡。美国国务院因也门胡塞武装威胁上升，下令非紧急人员及其家属撤离沙特。",
+      "summary_en": "Three people were killed in two attacks on an Aramco oil field and an airport in Saudi Arabia's Eastern Province on Wednesday. The US State Department ordered the departure of non-emergency personnel and their families from the kingdom due to the growing threat from Houthi militants in neighboring Yemen.",
+      "detail_zh": "周三，沙特阿拉伯东部省发生两起袭击事件，目标分别是一处阿美油田和一座机场，共造成三人死亡。美国国务院随后下令非紧急人员及其家属撤离沙特阿拉伯。美方表示，这一决定是由于邻国也门的胡塞武装分子威胁不断上升。彭博电视台记者Abeer Abu Omar报道了此事。原文未提供袭击的具体实施者、袭击方式或对石油生产的影响等细节。",
+      "detail_en": "On Wednesday, two attacks targeted an Aramco oil field and an airport in Saudi Arabia's Eastern Province, killing three people. The US State Department subsequently ordered the departure of non-emergency personnel and their families from Saudi Arabia. The US cited the growing threat from Houthi militants in neighboring Yemen as the reason. Bloomberg Television's Abeer Abu Omar reported the story. The original text does not specify the perpetrators, the method of attack, or any impact on oil production.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "沙特东部省阿美油田和机场遭两次袭击，三人死亡。",
+          "en": "Two attacks on an Aramco oil field and an airport in Saudi Arabia's Eastern Province killed three people."
+        },
+        {
+          "zh": "美国国务院下令非紧急人员及其家属撤离沙特。",
+          "en": "The US State Department ordered the departure of non-emergency personnel and their families from Saudi Arabia."
+        },
+        {
+          "zh": "美方称撤离原因是也门胡塞武装威胁上升。",
+          "en": "The US cited the growing threat from Houthi militants in Yemen as the reason for the departure."
+        }
+      ],
+      "tags": [
+        "Saudi Arabia",
+        "Aramco",
+        "Houthi",
+        "US State Department",
+        "security"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:0Ri4QtEwLXs",
       "title": "Inside Texas' growing political fight over data centers",
