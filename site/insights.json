@@ -1,6 +1,210 @@
 {
-  "generated_at": "2026-10-22T19:09:17.705052+00:00",
+  "generated_at": "2026-10-22T20:11:54.258731+00:00",
   "insights": [
+    {
+      "guid": "6ada6a144281670f07aebaba",
+      "title": "Breaking down the bond market",
+      "title_zh": "FT播客：债券市场动荡与认知鸿沟",
+      "url": "https://shows.acast.com/unhedged/episodes/breaking-down-the-bond-market",
+      "published_at": "2026-10-22T20:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "FT的Robin Wigglesworth与Katie Martin讨论债券市场经历动荡一年，公众对此缺乏认知，专家也难以解释。Wigglesworth认为债券难以理解，并探讨是否正走向缓慢发展的危机。",
+      "summary_en": "FT's Robin Wigglesworth and Katie Martin discuss a rocky year for government bonds, public unawareness, and experts' inability to explain what's happening. Wigglesworth thinks bonds are hard to understand and asks whether we're approaching a slow-rolling crisis.",
+      "detail_zh": "在FT播客中，Robin Wigglesworth（《A Fabulous Debt》作者、《The Story of Money》播客主持人）对Katie Martin表示，政府债券为世界各国提供资金，并为从美国到抵押贷款机构的每个人设定资金成本。然而，尽管债券经历了动荡的一年，公众似乎并未意识到，专家也无法完全解释正在发生什么。Wigglesworth认为债券难以理解，并探讨我们是否正接近一场缓慢发展的危机。节目中还包含Robin做多女巫、Katie做空超级游艇的轻松话题。",
+      "detail_en": "In the FT podcast, Robin Wigglesworth (author of A Fabulous Debt and host of The Story of Money podcast) tells Katie Martin that government bonds keep the lights on for countries and set the cost of money for everyone from the US to mortgage lenders. But even as bonds experience a rocky year, the public seems unaware and experts can't quite explain what's going on. Wigglesworth thinks bonds are hard to understand and discusses whether we're approaching a slow-rolling crisis. The episode also includes light-hearted segments: Robin goes long witches, and Katie shorts superyachts.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "政府债券为全球国家提供资金，并设定从美国到抵押贷款机构的资金成本。",
+          "en": "Government bonds fund countries worldwide and set the cost of money from the US to mortgage lenders."
+        },
+        {
+          "zh": "债券市场经历动荡一年，但公众似乎未察觉，专家也难以解释。",
+          "en": "Bonds have had a rocky year, yet the public seems unaware and experts can't quite explain it."
+        },
+        {
+          "zh": "Wigglesworth认为债券难以理解，并探讨是否正走向缓慢发展的危机。",
+          "en": "Wigglesworth thinks bonds are hard to understand and asks whether we're approaching a slow-rolling crisis."
+        }
+      ],
+      "tags": [
+        "bonds",
+        "market volatility",
+        "financial literacy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:huCtwkDP_A4",
+      "title": "NYC Public Schools to Consider Merging Sites as Enrollment Drops",
+      "title_zh": "纽约市公立学校因入学人数下降考虑合并学校",
+      "url": "https://www.youtube.com/watch?v=huCtwkDP_A4",
+      "published_at": "2026-10-22T19:52:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "纽约市公立学校校长Kamar Samuels表示，学校领导层正在制定应对学生入学人数下降的计划，可能包括合并学校。该内容与美股投资无直接关联。",
+      "summary_en": "New York City Public Schools Chancellor Kamar Samuels said school leaders are working on plans to address declining student enrollment, which could include merging schools. The content has no direct relevance to US equity investing.",
+      "detail_zh": "在Bloomberg Real Yield节目中，Erin Hudson向Scarlet Fu报道，纽约市公立学校校长Kamar Samuels在接受采访时表示，学校领导层正在制定应对学生入学人数下降的计划。Samuels指出，这些计划可能包括合并学校。原文未提供具体的入学人数变化数据、合并规模或时间表，也未涉及对金融市场或美股的影响。",
+      "detail_en": "On Bloomberg Real Yield, Erin Hudson reported to Scarlet Fu that New York City Public Schools Chancellor Kamar Samuels said in an interview that school leaders are working on plans to address declining student enrollment. Samuels noted that these plans could include merging schools. The original text does not provide specific enrollment figures, merger scale, or timeline, nor does it discuss any impact on financial markets or US equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "纽约市公立学校面临学生入学人数下降的问题。",
+          "en": "New York City Public Schools is facing declining student enrollment."
+        },
+        {
+          "zh": "校长Kamar Samuels表示正在制定应对计划。",
+          "en": "Chancellor Kamar Samuels said plans are being developed to address it."
+        },
+        {
+          "zh": "可能的措施包括合并学校。",
+          "en": "Possible measures include merging schools."
+        }
+      ],
+      "tags": [
+        "education",
+        "enrollment",
+        "school-mergers"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:59arl8YObcc",
+      "title": "OpenAI co-founder and Cloudflare CEO on AI-discovered security flaws",
+      "title_zh": "OpenAI联合创始人与Cloudflare CEO：前沿AI模型正改变网络安全格局",
+      "url": "https://www.youtube.com/watch?v=59arl8YObcc",
+      "published_at": "2026-10-22T19:34:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "OpenAI联合创始人Greg Brockman与Cloudflare CEO Matthew Prince表示，前沿AI模型在帮助识别PHP中两个严重漏洞后，正在改变网络安全格局。这既凸显了AI发现安全威胁的潜力，也强调了解决这些威胁的紧迫性。",
+      "summary_en": "OpenAI co-founder Greg Brockman and Cloudflare CEO Matthew Prince say frontier AI models are changing the cybersecurity landscape after helping identify two serious vulnerabilities in PHP, highlighting both AI's potential to uncover security threats and the urgency of addressing them.",
+      "detail_zh": "OpenAI联合创始人Greg Brockman与Cloudflare CEO Matthew Prince指出，前沿AI模型正在改变网络安全格局。他们提到，AI模型帮助识别了PHP中的两个严重漏洞。这一事件既展示了AI在发现安全威胁方面的潜力，也凸显了应对这些威胁的紧迫性。",
+      "detail_en": "OpenAI co-founder Greg Brockman and Cloudflare CEO Matthew Prince state that frontier AI models are changing the cybersecurity landscape. They note that AI models helped identify two serious vulnerabilities in PHP. This highlights both AI's potential to uncover security threats and the urgency of addressing them.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "OpenAI联合创始人Greg Brockman与Cloudflare CEO Matthew Prince认为前沿AI模型正在改变网络安全格局。",
+          "en": "OpenAI co-founder Greg Brockman and Cloudflare CEO Matthew Prince believe frontier AI models are changing the cybersecurity landscape."
+        },
+        {
+          "zh": "AI模型帮助识别了PHP中的两个严重漏洞。",
+          "en": "AI models helped identify two serious vulnerabilities in PHP."
+        },
+        {
+          "zh": "这凸显了AI发现安全威胁的潜力，也强调了解决这些威胁的紧迫性。",
+          "en": "This highlights both AI's potential to uncover security threats and the urgency of addressing them."
+        }
+      ],
+      "tags": [
+        "AI",
+        "cybersecurity",
+        "vulnerabilities",
+        "PHP"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:FcEApy1bzME",
+      "title": "Ohio Gubernatorial Race: Ramaswamy Criticized for Ad Against Opponent Amy Acton",
+      "title_zh": "俄亥俄州州长竞选广告引发争议，特朗普与万斯为拉马斯瓦米辩护",
+      "url": "https://www.youtube.com/watch?v=FcEApy1bzME",
+      "published_at": "2026-10-22T19:15:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "俄亥俄州共和党州长候选人维韦克·拉马斯瓦米因一则涉及民主党对手艾米·阿克顿母亲的广告而受到猛烈批评。总统唐纳德·特朗普和副总统JD·万斯为该广告辩护。",
+      "summary_en": "Ohio Republican gubernatorial candidate Vivek Ramaswamy is facing heavy criticism over an ad featuring the mother of his Democratic opponent, Amy Acton. President Donald Trump and Vice President JD Vance defended the ad.",
+      "detail_zh": "俄亥俄州共和党州长候选人维韦克·拉马斯瓦米因一则广告而受到严厉批评，该广告中出现了其民主党对手艾米·阿克顿的母亲。总统唐纳德·特朗普和副总统JD·万斯为该广告进行了辩护。彭博社的马克·尼凯特报道了这一消息。",
+      "detail_en": "Ohio Republican gubernatorial candidate Vivek Ramaswamy is being heavily criticized for an ad featuring the mother of his Democratic opponent, Amy Acton. President Donald Trump and Vice President JD Vance defended the ad. Bloomberg's Mark Niquette reports.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "拉马斯瓦米因广告涉及对手母亲而受到批评",
+          "en": "Ramaswamy criticized for ad featuring opponent's mother"
+        },
+        {
+          "zh": "特朗普和万斯为广告辩护",
+          "en": "Trump and Vance defended the ad"
+        },
+        {
+          "zh": "广告涉及民主党对手艾米·阿克顿的母亲",
+          "en": "Ad features mother of Democratic opponent Amy Acton"
+        }
+      ],
+      "tags": [
+        "Ohio",
+        "gubernatorial race",
+        "political ad",
+        "Ramaswamy",
+        "Trump"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:53uq2Mn4K4w",
+      "title": "Why Stablecoins Could Transform America's Financial System",
+      "title_zh": "美方官员：以支付稳定币强化美元储备货币地位",
+      "url": "https://www.youtube.com/watch?v=53uq2Mn4K4w",
+      "published_at": "2026-10-22T19:05:03+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "一位美国官员表示，在特朗普总统与贝森特部长的领导下，美国正通过支付稳定币机制来巩固并扩展美元的全球储备货币地位。该机制旨在为使用者提供更快、更便宜的支付，被视为美国支付基础设施的升级，并与行政部门的整体战略目标一致。",
+      "summary_en": "A U.S. official said that under President Trump and Secretary Bessent, the United States is using payment stablecoins to reinforce and further extend the dollar's global reserve currency status. The mechanism aims to provide faster, cheaper payments for users and is framed as an upgrade to the country's payments infrastructure consistent with broader executive branch strategic objectives.",
+      "detail_zh": "该官员强调，美元作为全球储备货币的地位至关重要，不仅对美国公民，也对全球众多使用者具有价值，且围绕美元已建立起完整的市场基础设施。他表示，在特朗普总统和贝森特部长的领导下，美国正在创建一个通过支付稳定币的机制，以强化并进一步输出美元的影响力。这一举措最终有利于使用支付稳定币的客户，使他们获得更快、更便宜的交易。该官员将此描述为将美国带入21世纪，是对美国支付基础设施的升级，且与行政部门的更广泛战略目标完全一致。",
+      "detail_en": "The official stressed that the dollar's role as the world's reserve currency is crucial, valuable not only to American citizens but to a whole host of others globally, and that an entire market infrastructure has been built around it. He said that under President Trump and Secretary Bessent, the United States is creating a mechanism through payment stablecoins to reinforce and further export the dollar's influence. This ultimately benefits customers using payment stablecoins by giving them faster and cheaper payments. The official described this as bringing the country into the 21st century, an upgrade to the U.S. payments infrastructure that is entirely consistent with the broader strategic objectives of the executive branch.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美元作为全球储备货币的地位被强调为至关重要，且围绕美元已建立完整的市场基础设施。",
+          "en": "The dollar's status as the global reserve currency is emphasized as crucial, with an entire market infrastructure built around it."
+        },
+        {
+          "zh": "在特朗普总统与贝森特部长领导下，美国正通过支付稳定币机制强化并扩展美元的影响力。",
+          "en": "Under President Trump and Secretary Bessent, the U.S. is reinforcing and extending the dollar's influence through payment stablecoins."
+        },
+        {
+          "zh": "该机制旨在为使用者提供更快、更便宜的支付，被视为美国支付基础设施的升级。",
+          "en": "The mechanism aims to provide faster, cheaper payments for users and is seen as an upgrade to U.S. payments infrastructure."
+        },
+        {
+          "zh": "此举被描述为与行政部门更广泛的战略目标完全一致。",
+          "en": "The move is described as entirely consistent with the broader strategic objectives of the executive branch."
+        }
+      ],
+      "tags": [
+        "stablecoins",
+        "US dollar",
+        "reserve currency",
+        "payments infrastructure"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:9aQ4yuCbDTo",
       "title": "AI Spending Woes, Investors Seek Havens, France Debt Crisis",
@@ -15361,133 +15565,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "6ad1248b94a3daa98eca62d9",
-      "title": "The AI boom stumbles",
-      "title_zh": "科技股与债券周四遭抛售，AI泡沫担忧升温",
-      "url": "https://shows.acast.com/unhedged/episodes/the-ai-boom-stumbles",
-      "published_at": "2026-10-15T20:00:00+00:00",
-      "source_name": "FT Unhedged",
-      "source_kind": "article",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "周四科技股与债券同时遭到抛售，令投资者对AI行情是否即将破裂的疑问更加紧迫。播客主持人Katie Martin与Rob Armstrong讨论了这一市场动荡，并提出若泡沫破裂投资者可寻求何处避险的问题。",
-      "summary_en": "Tech stocks and bonds took a beating on Thursday, intensifying investor concerns over whether the AI boom is about to burst. Hosts Katie Martin and Rob Armstrong discuss the market disturbance and ask where investors could seek shelter if the bubble really is about to pop.",
-      "detail_zh": "周四科技股和债券双双遭到抛售，这加剧了投资者数月来一直在思考的问题：AI热潮是否即将破裂。Katie Martin和Rob Armstrong在播客中表示，他们感受到市场出现了巨大的扰动。节目还探讨了如果泡沫真的即将破裂，投资者可以去哪里寻求避险。此外，Rob在节目中做空了字母K，Katie则做空了蛋白质回收。",
-      "detail_en": "Tech stocks and bonds took a kicking on Thursday, adding urgency to the question investors have been asking for months: is the AI boom about to go splat? Katie Martin and Rob Armstrong said they sense a great disturbance in the Force. The episode also explored where investors can run for shelter if the bubble really is about to burst. Additionally, Rob shorts the letter K, and Katie shorts protein recycling.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "周四科技股与债券同时遭到抛售，市场动荡明显。",
-          "en": "Tech stocks and bonds both took a beating on Thursday, signaling notable market turbulence."
-        },
-        {
-          "zh": "投资者对AI行情是否即将破裂的担忧加剧。",
-          "en": "Investor concerns over whether the AI boom is about to burst have intensified."
-        },
-        {
-          "zh": "主持人Katie Martin和Rob Armstrong认为市场出现了重大扰动。",
-          "en": "Hosts Katie Martin and Rob Armstrong sense a great disturbance in the market."
-        },
-        {
-          "zh": "节目讨论了若泡沫破裂，投资者可寻求何处避险。",
-          "en": "The episode discussed where investors can seek shelter if the bubble bursts."
-        }
-      ],
-      "tags": [
-        "AI bubble",
-        "tech selloff",
-        "bonds",
-        "market turbulence"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "32ad6c38-6bad-4375-8aba-837f9d11834a",
-      "title": "Running an \"Old Fashioned\" Hedge Fund with Adrian Keevil of Plustick Partners",
-      "title_zh": "Plustick Partners谈困境投资、信贷市场与AI影响",
-      "url": "https://podcasters.spotify.com/pod/show/rcm-alts-the-derivative/episodes/Running-an-Old-Fashioned-Hedge-Fund-with-Adrian-Keevil-of-Plustick-Partners-e3qid2f",
-      "published_at": "2026-10-15T19:48:22+00:00",
-      "source_name": "The Derivative",
-      "source_kind": "article",
-      "categories": [
-        "other",
-        "tech"
-      ],
-      "summary_zh": "Jeff Malec与Plustick Partners的Adrian Keevil对话，探讨其从公司金融和学术研究转向投资的路径，以及Plustick的老派合伙制理念。Keevil介绍了公司在困境、事件驱动和特殊机会投资方面的策略，包括被忽视的资产、被误解的企业以及做空无担保债券，并讨论了信贷市场、私人信贷、AI的潜在经济影响及其伦理问题。",
-      "summary_en": "Jeff Malec speaks with Adrian Keevil of Plustick Partners about his path from corporate finance and academic research to investing, and Plustick's old-fashioned partnership philosophy. Keevil discusses the firm's focus on distressed, event-driven, and special-situations investing—from overlooked assets and misunderstood businesses to shorting unsecured bonds—and explores credit markets, private credit, and the potential economic and ethical effects of AI.",
-      "detail_zh": "本期播客中，Jeff Malec与Plustick Partners的Adrian Keevil对话，回顾了Keevil从公司金融和学术研究转向投资的职业路径，以及他对利益相关者关系的研究如何影响公司的投资方法。Keevil阐述了Plustick的老派合伙制理念，以及公司对困境、事件驱动和特殊机会投资的专注，涵盖被忽视的资产、被误解的企业，以及做空无担保债券。他还分享了个人和职业经历对其视角的塑造，包括家族在市场交易方面的历史，以及研究真实企业运作所获得的经验。对话涉及组合构建、信贷市场和私人信贷、AI的潜在经济影响，以及AI在商业和教育中引发的伦理问题。节目最后以Keevil推荐的Charlottesville餐厅收尾。",
-      "detail_en": "In this episode, Jeff Malec talks with Adrian Keevil of Plustick Partners about his path from corporate finance and academic research to investing, and how his work on stakeholder relationships informs the firm's approach. Keevil explains Plustick's old-fashioned partnership philosophy and its focus on distressed, event-driven, and special-situations investing, from overlooked assets and misunderstood businesses to shorting unsecured bonds. He also shares the personal and professional experiences behind his perspective, including his family's history in market trading and lessons from studying how real businesses operate. The conversation explores portfolio construction, credit markets and private credit, the potential economic effects of AI, and the ethical questions AI raises in business and education. It wraps up with Keevil's Charlottesville restaurant recommendations.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Plustick Partners采用老派合伙制模式，专注于困境、事件驱动和特殊机会投资。",
-          "en": "Plustick Partners employs an old-school partnership model focused on distressed, event-driven, and special-situations investing."
-        },
-        {
-          "zh": "投资范围涵盖被忽视的资产、被误解的企业，以及做空无担保债券。",
-          "en": "The investment scope includes overlooked assets, misunderstood businesses, and shorting unsecured bonds."
-        },
-        {
-          "zh": "对话涉及组合构建、信贷市场和私人信贷的讨论。",
-          "en": "The conversation covers portfolio construction, credit markets, and private credit."
-        },
-        {
-          "zh": "探讨了AI的潜在经济影响及其在商业和教育中引发的伦理问题。",
-          "en": "The potential economic effects of AI and the ethical questions it raises in business and education are explored."
-        }
-      ],
-      "tags": [
-        "distressed investing",
-        "credit markets",
-        "private credit",
-        "AI",
-        "hedge fund"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:fU0xg3fzljk",
-      "title": "Options Selling: Why Systematic Strategies Can Backfire",
-      "title_zh": "期权价差策略的风险警示：缺乏自适应风险管理将导致灾难性损失",
-      "url": "https://www.youtube.com/watch?v=fU0xg3fzljk",
-      "published_at": "2026-10-15T19:14:42+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility"
-      ],
-      "summary_zh": "原文指出，每日卖出期权价差以获取微小收益的策略，在市场环境变化时会带来灾难性损失。系统性策略若缺乏自适应风险管理，将难以持续。",
-      "summary_en": "The source warns that selling option spreads daily for minimal gains leads to catastrophic losses when markets shift, and that systematic strategies fail without adaptive risk management.",
-      "detail_zh": "原文强调，每日卖出期权价差以获取微小收益的做法，在市场发生变化时会导致灾难性损失。作者指出，系统性策略若没有自适应的风险管理，就会失败。原文未提供具体数字、案例或进一步论证。",
-      "detail_en": "The source states that selling option spreads daily for minimal gains leads to catastrophic losses when markets shift. It also notes that systematic strategies fail without adaptive risk management. No specific numbers, examples, or further elaboration are provided.",
-      "conclusion_zh": "该内容提示投资者关注期权卖方策略的尾部风险，并重视风险管理的自适应能力。",
-      "conclusion_en": "The content highlights tail risks in option-selling strategies and the importance of adaptive risk management.",
-      "key_points": [
-        {
-          "zh": "每日卖出期权价差以获取微小收益的策略，在市场变化时可能造成灾难性损失。",
-          "en": "Selling option spreads daily for minimal gains can lead to catastrophic losses when markets shift."
-        },
-        {
-          "zh": "系统性策略若缺乏自适应风险管理，将难以避免失败。",
-          "en": "Systematic strategies fail without adaptive risk management."
-        }
-      ],
-      "tags": [
-        "options",
-        "risk-management",
-        "option-spreads",
-        "systematic-strategies"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
