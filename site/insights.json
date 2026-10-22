@@ -1,6 +1,553 @@
 {
-  "generated_at": "2026-10-22T15:11:59.934380+00:00",
+  "generated_at": "2026-10-22T16:13:54.897266+00:00",
   "insights": [
+    {
+      "guid": "yt:s9p-SLVYPpQ",
+      "title": "AI Spending: Boom or Breaking Point?",
+      "title_zh": "摩根资产管理Santos：AI需求激增，关注自由现金流与从基建到应用的转变",
+      "url": "https://www.youtube.com/watch?v=s9p-SLVYPpQ",
+      "published_at": "2026-10-22T16:02:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "摩根资产管理Gabriela Santos在彭博电视讨论AI需求激增背景下的大规模支出能否带来回报，聚焦自由现金流、质量以及从建设AI基础设施向采用AI的转变，并分析其对市场赢家、盈利和债券的潜在含义。",
+      "summary_en": "JPMorgan Asset Management's Gabriela Santos discusses whether massive AI spending will pay off amid surging demand, focusing on free cash flow, quality, and the shift from building AI infrastructure to adopting it—and what that could mean for market winners, earnings and bonds.",
+      "detail_zh": "摩根资产管理（JPMorgan Asset Management）的Gabriela Santos在彭博电视节目中讨论了AI需求激增的背景。她提出的核心问题是：大规模支出能否带来回报。她重点分析了自由现金流（free cash flow）和质量（quality）两个维度，并指出行业正从建设AI基础设施向采用AI转变。她进一步探讨了这一转变对市场赢家、企业盈利以及债券可能意味着什么。原文未提供具体数字、个股名称或明确的方向性判断。",
+      "detail_en": "JPMorgan Asset Management's Gabriela Santos discussed on Bloomberg Television the backdrop of surging AI demand. She raised the core question of whether massive spending will pay off. She focused on free cash flow and quality, and noted a shift from building AI infrastructure to adopting it. She further explored what this shift could mean for market winners, earnings and bonds. The source provides no specific figures, individual stock names, or explicit directional judgments.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "AI需求激增，但大规模支出能否带来回报是核心问题",
+          "en": "AI demand is surging, but whether massive spending will pay off is the core question"
+        },
+        {
+          "zh": "分析框架聚焦自由现金流与质量",
+          "en": "The analytical framework focuses on free cash flow and quality"
+        },
+        {
+          "zh": "行业正从建设AI基础设施转向采用AI",
+          "en": "The industry is shifting from building AI infrastructure to adopting it"
+        },
+        {
+          "zh": "这一转变可能影响市场赢家、盈利和债券",
+          "en": "This shift could affect market winners, earnings and bonds"
+        }
+      ],
+      "tags": [
+        "AI",
+        "free cash flow",
+        "quality",
+        "infrastructure",
+        "adoption"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:kePb3Txw434",
+      "title": "Rising Volatility Is Not Proof of New Hedging",
+      "title_zh": "标普期权：看跌偏斜抬升但ATM隐含波动率墙未动，对冲尚未实质性入场",
+      "url": "https://www.youtube.com/watch?v=kePb3Txw434",
+      "published_at": "2026-10-22T16:00:33+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility"
+      ],
+      "summary_zh": "分析师指出，自10月6日高点以来，三个月期权的看跌偏斜（put skew）开始被买入，但更长期限的平值（ATM）隐含波动率墙尚未被推高。若标普ATM隐含波动率墙开始抬升，才意味着对冲资金实质性入场；目前尚未出现。分析师反驳了交易所关于隐含波动率墙上升即代表仓位被买入的说法，认为股价大幅波动本身也会导致隐含波动率墙移动。",
+      "summary_en": "The analyst notes that since the October 6 high, three-month put skew has started to get bid, but the longer-dated at-the-money (ATM) implied wall has not yet been lifted. A rise in the S&P ATM implied wall would signal material hedging demand, which has not yet appeared. The analyst pushes back on an exchange note suggesting that rising implied walls imply positioning got bid, arguing that large stock moves alone can shift implied walls.",
+      "detail_zh": "分析师展示了一张图表，绿色柱状图显示从10月6日高点至今，三个月期权的看跌偏斜开始被买入。然而，更长期限的期权中，平值（ATM）隐含波动率墙尚未被买入。分析师表示，如果标普的ATM隐含波动率墙开始抬升或被买入，那才会令他担忧，因为那将表明对冲开始实质性入场。他强调，尽管过去几天读到很多相关说法，但尚未看到实质性的对冲行为。他举例反驳了交易所昨日的一份报告，该报告称隐含波动率墙上升可能意味着仓位被买入；分析师指出，很多时候隐含波动率墙的移动是因为股票开始大幅波动，而不一定是仓位入场。换言之，如果标普下跌3%，即使没有人真正布局，看跌期权翼也可能增加。",
+      "detail_en": "The analyst presents a chart where green bars indicate that from the October 6 high to now, three-month put skew has started to get bid. However, in longer-dated options, the at-the-money (ATM) implied wall has not yet been bid. The analyst says it would become concerning if the S&P ATM implied wall starts to lift or get bid, as that would signal hedges are coming in materially. He emphasizes that despite reading a lot of 'garbage' over the past couple of days, material hedging has not been seen. He cites an exchange note from yesterday suggesting that rising implied walls likely mean positioning got bid, and counters that implied walls often shift because stocks start making a big move, not necessarily because positioning comes in. In other words, if the S&P drops 3%, the put wing is likely to increase even if no one really positioned there.",
+      "conclusion_zh": "目前期权市场仅显示看跌偏斜抬升，但ATM隐含波动率墙未动，表明对冲尚未实质性入场；若标普ATM隐含波动率墙开始被买入，则需警惕对冲资金入场带来的市场压力。",
+      "conclusion_en": "The options market currently shows only put skew getting bid, while the ATM implied wall remains unchanged, indicating no material hedging yet; if the S&P ATM implied wall starts to get bid, watch for market pressure from hedging flows.",
+      "key_points": [
+        {
+          "zh": "自10月6日高点以来，三个月期权看跌偏斜开始被买入。",
+          "en": "Since the October 6 high, three-month put skew has started to get bid."
+        },
+        {
+          "zh": "更长期限的平值（ATM）隐含波动率墙尚未被推高。",
+          "en": "The longer-dated at-the-money (ATM) implied wall has not yet been lifted."
+        },
+        {
+          "zh": "若标普ATM隐含波动率墙开始抬升，将表明对冲实质性入场。",
+          "en": "A rise in the S&P ATM implied wall would signal material hedging demand."
+        },
+        {
+          "zh": "分析师反驳交易所观点：隐含波动率墙移动可能源于股价大幅波动，而非仓位买入。",
+          "en": "The analyst pushes back on the exchange's view: implied wall shifts can result from large stock moves, not necessarily positioning."
+        }
+      ],
+      "tags": [
+        "options",
+        "put-skew",
+        "implied-volatility",
+        "hedging",
+        "S&P"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fMit1D0aZk0",
+      "title": "Blackstone’s Jon Gray: AI is not a bubble",
+      "title_zh": "黑石总裁Gray：AI热潮与90年代电信泡沫不同，无需担忧",
+      "url": "https://www.youtube.com/watch?v=fMit1D0aZk0",
+      "published_at": "2026-10-22T15:46:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "黑石总裁兼COO Jon Gray表示，投资者不必担心AI热潮会演变成泡沫，并称其与1990年代电信泡沫等现象相比是“非常不同的动态”。",
+      "summary_en": "Blackstone President and COO Jon Gray said investors need not fear that the AI boom will become a bubble, calling it \"a very different dynamic\" from phenomena such as the 1990s telecom bubble.",
+      "detail_zh": "黑石总裁兼COO Jon Gray就AI热潮是否形成泡沫发表看法。他表示，投资者不需要担心AI热潮会演变成泡沫。Gray将当前的AI热潮与1990年代的电信泡沫进行对比，称两者是“非常不同的动态”。原文未进一步阐述这一判断的具体依据或细节。",
+      "detail_en": "Blackstone President and COO Jon Gray commented on whether the AI boom is forming a bubble. He said investors do not need to fear that the AI boom will turn into a bubble. Gray contrasted the current AI boom with the 1990s telecom bubble, calling it \"a very different dynamic.\" The source did not elaborate on the specific basis or details behind this judgment.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黑石总裁兼COO Jon Gray认为投资者无需担心AI热潮演变成泡沫。",
+          "en": "Blackstone President and COO Jon Gray believes investors need not fear the AI boom turning into a bubble."
+        },
+        {
+          "zh": "Gray称当前AI热潮与1990年代电信泡沫相比是“非常不同的动态”。",
+          "en": "Gray called the current AI boom \"a very different dynamic\" compared with the 1990s telecom bubble."
+        }
+      ],
+      "tags": [
+        "AI",
+        "bubble",
+        "Blackstone",
+        "telecom bubble"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:g9WBYog0cVc",
+      "title": "Houthis Step Up Attacks on Saudi, Sending Oil Higher",
+      "title_zh": "胡塞武装加大对沙特袭击，油价飙升",
+      "url": "https://www.youtube.com/watch?v=g9WBYog0cVc",
+      "published_at": "2026-10-22T15:23:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "伊朗支持的也门胡塞武装加强对沙特阿拉伯的袭击，沙特阿美总部被迫疏散，沙特全国处于高度戒备状态。美国国务院已下令非紧急人员撤离该国。油价正在飙升。",
+      "summary_en": "Iran-backed Houthi rebels in Yemen have stepped up attacks on Saudi Arabia, forcing Saudi Aramco to evacuate its headquarters and putting the kingdom on alert for more strikes. The US State Department has ordered non-emergency personnel to leave the country. Oil prices are spiking.",
+      "detail_zh": "据彭博社的Tyler Kendall报道，伊朗支持的也门胡塞武装正加大对沙特阿拉伯的袭击力度。沙特阿美（Saudi Aramco）不得不疏散其总部，沙特全国处于高度戒备状态，以防更多袭击。美国国务院已下令非紧急人员撤离该国。受此影响，油价正在飙升。报道未提供具体油价涨幅或袭击细节。",
+      "detail_en": "According to Bloomberg's Tyler Kendall, Iran-backed Houthi rebels in Yemen are stepping up attacks on Saudi Arabia. Saudi Aramco had to evacuate its headquarters, and the kingdom is on alert for more strikes. The US State Department has ordered non-emergency personnel to leave the country. As a result, oil prices are spiking. The report did not provide specific oil price increases or attack details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "胡塞武装加大对沙特袭击",
+          "en": "Houthi rebels step up attacks on Saudi Arabia"
+        },
+        {
+          "zh": "沙特阿美总部疏散",
+          "en": "Saudi Aramco evacuates headquarters"
+        },
+        {
+          "zh": "美国国务院下令非紧急人员撤离",
+          "en": "US State Department orders non-emergency personnel to leave"
+        },
+        {
+          "zh": "油价飙升",
+          "en": "Oil prices are spiking"
+        }
+      ],
+      "tags": [
+        "Houthi",
+        "Saudi Arabia",
+        "oil",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:RT7Wizxyy_w",
+      "title": "Bloomberg Surveillance 10/22/2026",
+      "title_zh": "彭博观察：科技股抛售、中东局势与法国债务压力",
+      "url": "https://www.youtube.com/watch?v=RT7Wizxyy_w",
+      "published_at": "2026-10-22T15:19:26+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博观察讨论了科技股抛售、中东局势升级和法国债务压力，并涵盖芯片盈利、油价对美联储政策的影响、Meta现金流、法国风险资产化、牛市前景、中期选举政策影响、Anthropic IPO、信贷压力对数据中心建设的影响、AI交易转向回报、特斯拉资本支出、美国失业救济申请人数、AI对劳动力市场的影响以及西南航空利润率等话题。",
+      "summary_en": "This episode of Bloomberg Surveillance covers the tech selloff, Middle East escalation, and France debt stress, along with discussions on chip earnings peaking, oil spike impact on Fed policy, Meta's cash flow, France trading as a risk asset, bull market outlook, midterm policy impact, Anthropic's IPO, credit stress on data center buildout, AI trade shifting to returns, Tesla's capex cut, US jobless claims, AI and labor market, and Southwest Airlines margins.",
+      "detail_zh": "节目由Jonathan Ferro、Lisa Abramowicz和Annmarie Hordern主持，首先讨论了科技股抛售、中东局势升级和法国债务压力。NewEdge Wealth的Cameron Dawson认为芯片盈利可能在2027年见顶，并指出油价飙升可能促使美联储继续加息。BNP Paribas的Nick Jones表示Meta的负现金流不会动摇其看涨观点。BofA Global Research的Sphia Salim认为法国开始像风险资产一样交易。Edward Jones的Mona Mahajan指出盈利增长放缓不会结束牛市。Morgan Stanley的Ariana Salvatore表示中期选举政策影响取决于多数党优势的大小。Wellington Management的Matt Witheiler认为Anthropic的IPO将检验AI经济学。Apollo的Torsten Slok警告信贷压力可能减缓数据中心建设。JPMorgan Asset Management的David Lebovitz指出AI交易正从支出转向回报。Baird的Ben Kallo认为特斯拉削减资本支出并不信号着野心减小。美国失业救济申请人数降至三个月低点194,000。ADP的Nela Richardson表示AI并非驱动劳动力市场转变的因素。Southwest Airlines的Tom Doxey表示尽管遭受8亿美元燃料冲击，公司仍提高了利润率。",
+      "detail_en": "Hosted by Jonathan Ferro, Lisa Abramowicz, and Annmarie Hordern, the program begins with tech selloff, Middle East escalation, and France debt stress. Cameron Dawson of NewEdge Wealth suggests chip earnings could peak in 2027 and notes an oil spike could keep the Fed hiking. Nick Jones of BNP Paribas says Meta's negative cash flow doesn't shake the bull case. Sphia Salim of BofA Global Research says France is starting to trade like a risk asset. Mona Mahajan of Edward Jones says slower earnings growth doesn't end the bull market. Ariana Salvatore of Morgan Stanley says midterm policy impact depends on the size of the majority. Matt Witheiler of Wellington Management says Anthropic's IPO will put AI economics to the test. Torsten Slok of Apollo warns credit stress could slow the data center buildout. David Lebovitz of JPMorgan Asset Management says the AI trade shifts from spending to returns. Ben Kallo of Baird says Tesla's capex cut doesn't signal smaller ambitions. US jobless claims hit a three-month low at 194,000. Nela Richardson of ADP says AI isn't driving the labor market shift. Tom Doxey of Southwest Airlines says the company improved margins despite an $800 million fuel hit.",
+      "conclusion_zh": "投资者需关注科技股抛售、中东局势和法国债务压力对市场的影响，同时留意芯片盈利周期、油价对美联储政策的潜在冲击以及信贷压力对数据中心建设的制约。",
+      "conclusion_en": "Investors should watch the impact of the tech selloff, Middle East tensions, and France debt stress on markets, while monitoring chip earnings cycle, oil price risks to Fed policy, and credit stress on data center buildout.",
+      "key_points": [
+        {
+          "zh": "NewEdge Wealth的Cameron Dawson认为芯片盈利可能在2027年见顶，油价飙升可能促使美联储继续加息。",
+          "en": "Cameron Dawson of NewEdge Wealth believes chip earnings could peak in 2027, and an oil spike could keep the Fed hiking."
+        },
+        {
+          "zh": "BofA的Sphia Salim指出法国开始像风险资产一样交易。",
+          "en": "Sphia Salim of BofA notes France is starting to trade like a risk asset."
+        },
+        {
+          "zh": "Morgan Stanley的Ariana Salvatore表示中期选举政策影响取决于多数党优势的大小。",
+          "en": "Ariana Salvatore of Morgan Stanley says midterm policy impact depends on the size of the majority."
+        },
+        {
+          "zh": "Apollo的Torsten Slok警告信贷压力可能减缓数据中心建设。",
+          "en": "Torsten Slok of Apollo warns credit stress could slow the data center buildout."
+        },
+        {
+          "zh": "美国失业救济申请人数降至三个月低点194,000。",
+          "en": "US jobless claims hit a three-month low at 194,000."
+        }
+      ],
+      "tags": [
+        "tech selloff",
+        "Middle East",
+        "France debt",
+        "chip earnings",
+        "Fed policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fuLt-vDF41k",
+      "title": "Barclays to Cut 5,000 Jobs as AI Starts to Create Efficiency",
+      "title_zh": "巴克莱宣布裁员5000人，AI开始提升效率",
+      "url": "https://www.youtube.com/watch?v=fuLt-vDF41k",
+      "published_at": "2026-10-22T15:13:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "巴克莱银行宣布裁员5000人，作为降低成本努力的一部分，并指出人工智能正开始创造效率。",
+      "summary_en": "Barclays Plc is cutting 5,000 jobs as part of cost-reduction efforts, noting that artificial intelligence is starting to create efficiency.",
+      "detail_zh": "巴克莱银行表示将裁减5000个工作岗位，这是其降低成本计划的一部分。该行补充称，人工智能正开始带来效率提升。彭博社的Charlie Wells对此进行了分析。",
+      "detail_en": "Barclays Plc said it is cutting 5,000 jobs as part of an effort to reduce costs. The bank added that artificial intelligence is starting to create efficiency. Bloomberg's Charlie Wells breaks down the situation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "巴克莱宣布裁员5000人，旨在降低成本。",
+          "en": "Barclays announced 5,000 job cuts aimed at reducing costs."
+        },
+        {
+          "zh": "巴克莱表示人工智能正开始创造效率。",
+          "en": "Barclays said AI is starting to create efficiency."
+        }
+      ],
+      "tags": [
+        "Barclays",
+        "job cuts",
+        "cost reduction",
+        "AI efficiency"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:GaGhy3veI60",
+      "title": "Has Sanae Takaichi Made Japan Great Again?",
+      "title_zh": "高市早苗执政一年：承诺与兑现的评估",
+      "url": "https://www.youtube.com/watch?v=GaGhy3veI60",
+      "published_at": "2026-10-22T15:12:36+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅提出评估高市早苗一年前承诺通过大胆投资和积极全球角色强化日本的兑现情况，但未提供任何具体数据、政策细节或市场影响分析。内容实质信息极少，无法形成投资洞见。",
+      "summary_en": "The original text only poses the question of how much Sanae Takaichi has delivered on her promise of a stronger Japan through bold investment and an assertive global role one year in, without providing any specific data, policy details, or market impact analysis. The content has minimal substantive information and cannot form investment insights.",
+      "detail_zh": "原文仅包含一句设问：高市早苗承诺通过大胆投资和积极的全球角色来强化日本，一年后她兑现了多少，接下来会发生什么。除此之外，原文均为彭博电视与市场的订阅、社交媒体链接等推广信息，未提供任何具体政策、数字、事件或市场反应。因此无法提炼出关于日本经济、财政政策或美股相关性的实质内容。",
+      "detail_en": "The original text contains only one rhetorical question: Sanae Takaichi promised a stronger Japan through bold investment and an assertive global role; one year in, how much has she delivered and what comes next? The rest of the text consists of promotional information such as subscription and social media links for Bloomberg Television and Markets. No specific policies, numbers, events, or market reactions are provided. Therefore, no substantive content can be extracted regarding Japan's economy, fiscal policy, or US equity relevance.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文仅提出评估高市早苗一年执政兑现情况的问题，未提供任何具体数据或政策细节。",
+          "en": "The original text only raises the question of assessing Takaichi's first-year delivery, without providing any specific data or policy details."
+        },
+        {
+          "zh": "原文提及高市早苗的承诺包括大胆投资和积极的全球角色，但未展开说明。",
+          "en": "The original text mentions Takaichi's promises include bold investment and an assertive global role, but does not elaborate."
+        },
+        {
+          "zh": "原文其余内容为彭博电视与市场的推广链接，无实质信息。",
+          "en": "The rest of the original text consists of promotional links for Bloomberg Television and Markets, with no substantive information."
+        }
+      ],
+      "tags": [
+        "Japan",
+        "Takaichi",
+        "policy assessment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:3gidDTruzkg",
+      "title": "Businessweek This Month: It’s Game On For Women’s Sports",
+      "title_zh": "彭博商业周刊11月刊：女子体育商业热潮与Rockstar Games内幕",
+      "url": "https://www.youtube.com/watch?v=3gidDTruzkg",
+      "published_at": "2026-10-22T15:10:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博商业周刊11月刊聚焦女子体育商业的繁荣，并由Brad Stone分享对Rockstar Games（GTA VI开发商）的内部观察。内容为媒体预告，未涉及具体投资数据或市场判断。",
+      "summary_en": "The November issue of Bloomberg Businessweek highlights the boom in the business of women's sports and offers an inside look at Rockstar Games, the company behind GTA VI, as shared by Brad Stone. This is a media preview without specific investment data or market judgments.",
+      "detail_zh": "该内容为彭博商业周刊11月刊的预告，主要提及两个主题：一是女子体育商业的繁荣，由Brad Stone进行剖析；二是对Rockstar Games（GTA VI背后的视频游戏公司）的内部观察。原文未提供具体数字、公司财务信息或市场影响分析，仅作为媒体内容推广。",
+      "detail_en": "This content is a preview of the November issue of Bloomberg Businessweek, highlighting two main topics: the boom in the business of women's sports, analyzed by Brad Stone, and an inside look at Rockstar Games, the video game company behind GTA VI. The original text does not provide specific figures, company financial information, or market impact analysis; it serves solely as media content promotion.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "彭博商业周刊11月刊关注女子体育商业的繁荣。",
+          "en": "Bloomberg Businessweek's November issue focuses on the boom in the business of women's sports."
+        },
+        {
+          "zh": "Brad Stone分享对Rockstar Games（GTA VI开发商）的内部观察。",
+          "en": "Brad Stone shares an inside look at Rockstar Games, the company behind GTA VI."
+        },
+        {
+          "zh": "内容为媒体预告，未包含具体投资数据或市场分析。",
+          "en": "The content is a media preview and does not include specific investment data or market analysis."
+        }
+      ],
+      "tags": [
+        "women's sports",
+        "Rockstar Games",
+        "GTA VI",
+        "Bloomberg Businessweek"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:LSBOuXbeOes",
+      "title": "Albania's Protests Pile Pressure on Edi Rama",
+      "title_zh": "阿尔巴尼亚反政府抗议与库什纳开发协议相关",
+      "url": "https://www.youtube.com/watch?v=LSBOuXbeOes",
+      "published_at": "2026-10-22T15:09:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "阿尔巴尼亚爆发暴力反政府抗议，此前已有多月针对与贾里德·库什纳达成的豪华开发协议的示威活动。Gresa Kraja 解释了此事与唐纳德·特朗普女婿的关联。",
+      "summary_en": "Albania experienced violent anti-government protests, following months of demonstrations against a luxury development deal with Jared Kushner. Gresa Kraja explains the link to Donald Trump's son-in-law.",
+      "detail_zh": "阿尔巴尼亚发生了暴力反政府抗议活动。这些抗议是在数月示威活动之后发生的，示威针对的是与贾里德·库什纳达成的一项豪华开发协议。Gresa Kraja 解释了该协议与唐纳德·特朗普女婿之间的关联。原文未提供更多关于协议细节、抗议规模或经济影响的详细信息。",
+      "detail_en": "Violent anti-government protests broke out in Albania. These protests followed months of demonstrations against a luxury development deal with Jared Kushner. Gresa Kraja explains the link to Donald Trump's son-in-law. The original text does not provide further details on the deal, the scale of protests, or economic implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "阿尔巴尼亚爆发暴力反政府抗议。",
+          "en": "Violent anti-government protests erupted in Albania."
+        },
+        {
+          "zh": "抗议针对与贾里德·库什纳的豪华开发协议。",
+          "en": "Protests target a luxury development deal with Jared Kushner."
+        },
+        {
+          "zh": "示威活动已持续数月。",
+          "en": "Demonstrations have been ongoing for months."
+        },
+        {
+          "zh": "Gresa Kraja 解释了与特朗普女婿的关联。",
+          "en": "Gresa Kraja explains the link to Trump's son-in-law."
+        }
+      ],
+      "tags": [
+        "Albania",
+        "protests",
+        "Kushner",
+        "development deal"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_Nc5wrlCK3g",
+      "title": "Barclays to Cut 5,000 Jobs in AI Push",
+      "title_zh": "巴克莱裁员5000人，借AI降本增效",
+      "url": "https://www.youtube.com/watch?v=_Nc5wrlCK3g",
+      "published_at": "2026-10-22T15:08:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "巴克莱银行宣布裁员5000人，并采用人工智能技术以削减成本、提升效率。该消息由Charlie Wells在彭博电视节目中解读。",
+      "summary_en": "Barclays is cutting 5,000 jobs as the bank adopts AI to cut costs and drive efficiency, according to Charlie Wells on Bloomberg Television.",
+      "detail_zh": "巴克莱银行正在裁减5000个工作岗位。该行同时采用人工智能技术，目的是削减成本并提升运营效率。Charlie Wells对此进行了说明。原文未提供裁员的具体时间表、涉及部门、成本节约规模或AI部署的详细方案。",
+      "detail_en": "Barclays is cutting 5,000 jobs. The bank is adopting AI to cut costs and drive efficiency. The information was explained by Charlie Wells. No further details on timing, departments affected, cost savings, or AI deployment were provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "巴克莱宣布裁员5000人。",
+          "en": "Barclays is cutting 5,000 jobs."
+        },
+        {
+          "zh": "裁员与采用AI降本增效相关。",
+          "en": "The job cuts are tied to adopting AI to cut costs and drive efficiency."
+        },
+        {
+          "zh": "消息由Charlie Wells在彭博电视解读。",
+          "en": "The news was explained by Charlie Wells on Bloomberg Television."
+        }
+      ],
+      "tags": [
+        "Barclays",
+        "layoffs",
+        "AI",
+        "cost-cutting",
+        "banking"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:3SGZnrlZsio",
+      "title": "Odd Lots: Why Politics Is Economists’ Blindspot",
+      "title_zh": "芝加哥大学教授James Robinson：经济学需纳入政治因素以建立包容性制度",
+      "url": "https://www.youtube.com/watch?v=3SGZnrlZsio",
+      "published_at": "2026-10-22T15:07:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "芝加哥大学教授James Robinson在Odd Lots播客中表示，传统经济学认为资本主义在没有工会、租金稳定和价格管制的情况下会更好，但他认为经济学家需要考量政治因素，以建立更具包容性的制度。",
+      "summary_en": "Professor James Robinson of the University of Chicago argued on the Odd Lots podcast that while conventional economics suggests capitalism is better off without trade unions, rent stabilization, and price controls, economists need to consider politics to establish more inclusive institutions.",
+      "detail_zh": "在芝加哥City Winery现场录制的Odd Lots播客中，芝加哥大学教授James Robinson向主持人Joe Weisenthal和Tracy Alloway阐述了他的观点。他指出，传统经济学教导人们，资本主义在没有工会、租金稳定和价格管制的情况下会运行得更好。然而，Robinson认为经济学家需要将政治因素纳入考量，以建立更具包容性的制度。该讨论围绕政治与经济学的关系展开，但原文未提供更多具体论证或数据。",
+      "detail_en": "Speaking on the Odd Lots podcast recorded live at Chicago's City Winery, Professor James Robinson of the University of Chicago shared his views with hosts Joe Weisenthal and Tracy Alloway. He noted that conventional economics teaches that capitalism would be better off without trade unions, rent stabilization, and price controls. However, Robinson argued that economists need to consider politics in order to establish more inclusive institutions. The discussion centered on the relationship between politics and economics, but the original text does not provide further specific arguments or data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "传统经济学认为工会、租金稳定和价格管制对资本主义不利。",
+          "en": "Conventional economics holds that trade unions, rent stabilization, and price controls are detrimental to capitalism."
+        },
+        {
+          "zh": "James Robinson教授认为经济学家需要考量政治因素。",
+          "en": "Professor James Robinson believes economists need to consider political factors."
+        },
+        {
+          "zh": "目标是建立更具包容性的制度。",
+          "en": "The goal is to establish more inclusive institutions."
+        }
+      ],
+      "tags": [
+        "inclusive institutions",
+        "political economy",
+        "trade unions",
+        "rent stabilization",
+        "price controls"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:H5l-v_FnYwQ",
+      "title": "University of Chicago Professor on What Made the US Economy Thrive",
+      "title_zh": "芝加哥大学教授James Robinson谈包容性、创新与美国是否走向失败国家",
+      "url": "https://www.youtube.com/watch?v=H5l-v_FnYwQ",
+      "published_at": "2026-10-22T15:06:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "芝加哥大学教授James Robinson在Odd Lots播客中讨论了包容性、创新和创造力对成功经济的作用，并探讨美国是否已成为一个失败国家。",
+      "summary_en": "Professor James Robinson of the University of Chicago discussed the role of inclusivity, innovation, and creativity in a successful economy and whether the US has become a failing state on the Odd Lots podcast.",
+      "detail_zh": "在芝加哥City Winery现场录制的Odd Lots播客中，芝加哥大学教授James Robinson与主持人Joe Weisenthal和Tracy Alloway探讨了包容性、创新和创造力在成功经济中扮演的角色。讨论还涉及美国是否已经成为一个失败国家。节目未提供更多具体数据或结论。",
+      "detail_en": "Speaking on the Odd Lots podcast recorded live at Chicago's City Winery, University of Chicago Professor James Robinson joined hosts Joe Weisenthal and Tracy Alloway to discuss the role that inclusivity, innovation, and creativity play in a successful economy. The conversation also addressed whether the US has become a failing state. No further specific data or conclusions were provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论聚焦包容性、创新和创造力对经济成功的作用。",
+          "en": "The discussion focused on the role of inclusivity, innovation, and creativity in economic success."
+        },
+        {
+          "zh": "探讨美国是否已成为失败国家。",
+          "en": "It explored whether the US has become a failing state."
+        },
+        {
+          "zh": "节目在芝加哥City Winery现场录制。",
+          "en": "The episode was recorded live at Chicago's City Winery."
+        }
+      ],
+      "tags": [
+        "inclusivity",
+        "innovation",
+        "US economy",
+        "failing state"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:u4wqZLa5QE8",
+      "title": "Meta's AI Bet Faces Questions",
+      "title_zh": "Meta广告业务强劲增长26%，但利润率与支出指引引发担忧",
+      "url": "https://www.youtube.com/watch?v=u4wqZLa5QE8",
+      "published_at": "2026-10-22T15:03:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Meta核心广告业务增长26%，但投资者关注利润率下降、2027年支出指引不明确及潜在股份稀释。分析师Michael Nathanson对核心业务估值约每股900美元，并认为依赖Muse带来额外上行空间为时过早。",
+      "summary_en": "Meta's core ad business grew 26%, but investors are weighing lower margins, unclear 2027 spending guidance, and potential share dilution. Analyst Michael Nathanson values the core business at about $900 per share and says it's too early to count on Muse for additional upside.",
+      "detail_zh": "Meta的核心广告业务保持强劲，增长26%。然而，投资者正在权衡几个负面因素：利润率下降、2027年支出指引不明确以及潜在的股份稀释。分析师Michael Nathanson解释了他对Meta核心业务的估值约为每股900美元。他还表示，现在指望Muse带来额外上行空间还为时过早。",
+      "detail_en": "Meta's core advertising business remains strong, growing 26%. However, investors are weighing several negative factors: lower margins, unclear 2027 spending guidance, and potential share dilution. Analyst Michael Nathanson explained why he values Meta's core business at about $900 per share. He also said it's too early to count on Muse for additional upside.",
+      "conclusion_zh": "Meta核心广告业务仍具韧性，但利润率压力与支出不确定性可能限制短期估值扩张；分析师对核心业务给出约900美元/股的估值参考，并提示Muse的增量贡献尚需观察。",
+      "conclusion_en": "Meta's core ad business remains resilient, but margin pressure and spending uncertainty may limit near-term valuation expansion; the analyst provides a ~$900/share valuation reference for the core business and suggests Muse's incremental contribution is still to be seen.",
+      "key_points": [
+        {
+          "zh": "Meta核心广告业务增长26%，表现强劲。",
+          "en": "Meta's core ad business grew 26%, showing strength."
+        },
+        {
+          "zh": "投资者担忧利润率下降、2027年支出指引不明确及潜在股份稀释。",
+          "en": "Investors are concerned about lower margins, unclear 2027 spending guidance, and potential share dilution."
+        },
+        {
+          "zh": "分析师Michael Nathanson对Meta核心业务估值约每股900美元。",
+          "en": "Analyst Michael Nathanson values Meta's core business at about $900 per share."
+        },
+        {
+          "zh": "Nathanson认为现在指望Muse带来额外上行空间为时过早。",
+          "en": "Nathanson believes it's too early to count on Muse for additional upside."
+        }
+      ],
+      "tags": [
+        "Meta",
+        "advertising",
+        "valuation",
+        "margins",
+        "guidance"
+      ],
+      "tickers": [
+        "META"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4956394",
       "title": "Wall Street Lunch: Tesla Falls As Analysts Weigh FSD Potential Against Lofty Valuation",
@@ -439,6 +986,62 @@
         "NVDA"
       ],
       "sentiment": "negative"
+    },
+    {
+      "guid": "4956281",
+      "title": "Wall Street Breakfast Podcast: PHP Flaws Set Off Cyber Alarm",
+      "title_zh": "AI发现PHP关键漏洞引发全球安全警告；Meta业绩超预期但面临250亿美元罚款；阿里因中国监管压力下跌",
+      "url": "https://seekingalpha.com/article/4956281-wall-street-breakfast-podcast-php-flaws-set-off-cyber-alarm?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-22T10:30:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "politics",
+        "other"
+      ],
+      "summary_zh": "AI模型协助发现PHP编程语言存在多年的关键漏洞，全球发布紧急安全警告，Cloudflare等公司迅速部署防护。Meta Platforms季度业绩超预期，营收增长26%至646亿美元，但被新墨西哥州陪审团裁定违反消费者保护法近4390万次，面临250亿美元民事罚款，公司计划上诉。阿里巴巴因中国市场监管总局指出电商质量安全风险，港股拖累恒指下跌，美股亦下挫。",
+      "summary_en": "AI models helped uncover critical, years-old vulnerabilities in PHP, prompting urgent global security warnings and rapid protective deployments by firms like Cloudflare. Meta Platforms beat earnings expectations with 26% revenue growth to $64.6B, but a New Mexico jury found it liable for nearly 43.9M violations of consumer protection law, resulting in a $25B civil penalty; Meta plans to appeal. Alibaba shares fell as China's market regulator flagged ongoing quality and safety risks in e-commerce.",
+      "detail_zh": "PHP编程语言开发者周三发布了紧急修复补丁，称所有用户应“立即更新”。网络安全研究人员表示，这两个统称为“PHP2Shell”的漏洞可能允许黑客在受影响服务器上远程执行恶意代码，可能暴露敏感数据。OpenAI表示，其AI模型的研究人员帮助发现了这些漏洞，并花了两个月协调修复和准备防护措施，称这是近期最严重的安全问题之一。Cloudflare在公开披露前约九小时部署了防护措施，启用Web应用防火墙的客户（包括免费计划用户）可使用。Meta方面，新墨西哥州陪审团认定Meta在Facebook数据隐私实践和平台安全方面误导用户，违反州消费者保护法近4390万次，需支付250亿美元民事罚款，案件还涉及剑桥分析丑闻中多达8700万用户数据被第三方应用获取。Meta计划上诉。同时，Meta公布财报，未调整利润几乎同比增长两倍至每股3.83美元，营收增长26%至646亿美元，均超预期（预期分别为3.56美元和633.2亿美元）。阿里巴巴成为周四恒生指数下跌最多3.2%的最大拖累，此前中国国家市场监督管理总局表示“近期”在北京举行了关于提升阿里巴巴、京东等平台产品和服务质量的特别研讨会，指出电商经营者虽已采取措施，但直播电商和即时零售等业态仍存在质量安全风险。阿里美股周三下跌3.9%，盘前再跌4.5%。股指期货下跌，原油上涨2.7%至99美元，布伦特原油上涨3.1%至112美元，富时100指数下跌0.5%，DAX指数下跌0.9%。IBM尽管第三季度业绩向好，股价仍下跌6%。",
+      "detail_en": "PHP developers released urgent fixes on Wednesday, saying all users were 'encouraged to update immediately.' Cybersecurity researchers said the two vulnerabilities, collectively known as 'PHP2Shell,' could allow hackers to remotely execute malicious code on affected servers, potentially exposing sensitive data. OpenAI said researchers working with its AI models helped uncover the flaws and spent two months coordinating fixes and protective measures, describing them as among the most significant security issues in recent memory. Cloudflare deployed protections about nine hours before public disclosure, available to customers with web application firewall enabled, including free-plan users. Regarding Meta, a New Mexico jury found the company committed nearly 43.9M violations of state consumer protection law by misleading users about Facebook's data privacy practices and platform safety, ordering $25B in civil penalties; the case also addressed third-party access to Facebook user data, including the Cambridge Analytica scandal in which data from as many as 87M users was obtained through a third-party app. Meta plans to appeal. Meanwhile, Meta reported unadjusted profit nearly tripled year-over-year to $3.83 per share on a 26% revenue increase to $64.6B, both beating expectations of $3.56 and $63.32B, respectively. Alibaba was the biggest contributor to Hong Kong's Hang Seng Index decline of as much as 3.2% on Thursday, after China's State Administration for Market Regulation said it 'recently' held a special symposium in Beijing on improving product and service quality offered by Alibaba, JD, and peers, noting that while e-commerce operators had undertaken measures, quality and safety risks remained, especially in livestreaming e-commerce and quick retail. BABA fell 3.9% in the U.S. on Wednesday and is down 4.5% in premarket action. Stock index futures are in the red; crude oil is up 2.7% at $99, Brent up 3.1% at $112; FTSE 100 down 0.5% and DAX down 0.9%. IBM shares slid 6% despite upbeat Q3 results.",
+      "conclusion_zh": "Meta业绩强劲但巨额法律罚款构成重大风险，上诉结果值得关注；AI驱动的安全漏洞发现凸显网络安全需求，Cloudflare等防护提供商受益；阿里面临中国监管压力，电商板块情绪承压。",
+      "conclusion_en": "Meta's strong earnings are overshadowed by a massive legal penalty, with the appeal outcome a key risk; AI-driven vulnerability discovery highlights cybersecurity demand, benefiting providers like Cloudflare; Alibaba faces Chinese regulatory pressure, weighing on e-commerce sentiment.",
+      "key_points": [
+        {
+          "zh": "AI模型协助发现PHP关键漏洞“PHP2Shell”，可远程执行恶意代码，全球发布紧急安全警告，Cloudflare提前部署防护。",
+          "en": "AI models helped uncover critical PHP vulnerabilities 'PHP2Shell' allowing remote code execution, triggering global security warnings; Cloudflare deployed protections ahead of disclosure."
+        },
+        {
+          "zh": "Meta季度业绩超预期：营收增长26%至646亿美元，每股收益3.83美元，均高于预期。",
+          "en": "Meta beat earnings expectations: revenue grew 26% to $64.6B and EPS was $3.83, both above consensus."
+        },
+        {
+          "zh": "Meta因新墨西哥州消费者保护法违规近4390万次，面临250亿美元民事罚款，计划上诉。",
+          "en": "Meta faces a $25B civil penalty for nearly 43.9M violations of New Mexico consumer protection law and plans to appeal."
+        },
+        {
+          "zh": "中国市场监管总局指出电商质量安全风险，阿里巴巴港股拖累恒指下跌，美股亦下挫。",
+          "en": "China's SAMR flagged quality and safety risks in e-commerce; Alibaba dragged the Hang Seng Index lower and its U.S. shares fell."
+        },
+        {
+          "zh": "股指期货下跌，原油上涨（WTI 2.7%至99美元，布伦特3.1%至112美元），IBM尽管业绩向好仍跌6%。",
+          "en": "Stock index futures fell, crude oil rose (WTI +2.7% to $99, Brent +3.1% to $112), and IBM slid 6% despite upbeat results."
+        }
+      ],
+      "tags": [
+        "PHP vulnerability",
+        "Meta earnings",
+        "Alibaba regulation",
+        "cybersecurity",
+        "China e-commerce"
+      ],
+      "tickers": [
+        "META",
+        "BABA",
+        "NET",
+        "IBM"
+      ],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:xpk0Wuo74uk",
