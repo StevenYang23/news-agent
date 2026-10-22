@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:26:31.043939+00:00",
+  "generated_at": "2026-10-22T01:20:54.643878+00:00",
   "insights": [
     {
       "guid": "yt:wXVdlO3npqw",
@@ -51,6 +51,52 @@
         "META",
         "TSLA"
       ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:nA1WXcbbb6Y",
+      "title": "Is the Genius Act the Regulatory Shift You've Been Waiting For? w/ Jonathan Gould Ash Bennington",
+      "title_zh": "OCC 发布 GENIUS 法案最终规则，稳定币监管框架落地",
+      "url": "https://www.youtube.com/watch?v=nA1WXcbbb6Y",
+      "published_at": "2026-10-21T23:05:33+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "other"
+      ],
+      "summary_zh": "美国货币监理署（OCC）发布实施 GENIUS 法案的最终规则，将建立联邦框架监管支付稳定币发行人，涵盖储备要求、赎回流动性、监督及申请流程，申请于 1 月 18 日开始。OCC 审计长 Jonathan Gould 表示，该框架旨在平衡创新与监管，并视数字资产为现代化美国金融体系的机会。",
+      "summary_en": "The OCC has issued its final rule implementing the GENIUS Act, establishing a federal framework to regulate payment stablecoin issuers, covering reserve requirements, redemption liquidity, supervision, and an application process starting January 18. Comptroller Jonathan Gould said the framework aims to balance innovation and regulation, viewing digital assets as an opportunity to modernize the U.S. financial system.",
+      "detail_zh": "OCC 审计长 Jonathan Gould 与 Ash Bennington 讨论了 OCC 实施 GENIUS 法案的最终规则。该规则为支付稳定币发行人建立联邦监管框架，包括储备要求、赎回流动性、监督和申请流程。申请流程将于 1 月 18 日开始。Gould 解释了新框架如何运作，并讨论了稳定币奖励与收益、跨境支付、美元主导地位，以及为何政府将数字资产视为现代化美国金融体系的机会。对话还涉及美国与外国稳定币发行人的对比，以及华盛顿对加密货币看法的转变。",
+      "detail_en": "OCC Comptroller Jonathan Gould spoke with Ash Bennington about the OCC's final rule implementing the GENIUS Act. The rule establishes a federal regulatory framework for payment stablecoin issuers, including reserve requirements, redemption liquidity, supervision, and the application process. The application process begins on January 18. Gould explained how the new framework will work and discussed stablecoin rewards and yield, cross-border payments, U.S. dollar dominance, and why the administration sees digital assets as an opportunity to modernize the American financial system. The conversation also covered U.S. versus foreign stablecoin issuers and how Washington's view of crypto has shifted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "OCC 发布 GENIUS 法案最终规则，建立支付稳定币发行人的联邦监管框架。",
+          "en": "The OCC issued its final rule implementing the GENIUS Act, establishing a federal regulatory framework for payment stablecoin issuers."
+        },
+        {
+          "zh": "框架涵盖储备要求、赎回流动性、监督和申请流程，申请于 1 月 18 日开始。",
+          "en": "The framework covers reserve requirements, redemption liquidity, supervision, and the application process, which begins on January 18."
+        },
+        {
+          "zh": "讨论涉及稳定币奖励与收益、跨境支付及美元主导地位。",
+          "en": "The discussion covered stablecoin rewards and yield, cross-border payments, and U.S. dollar dominance."
+        },
+        {
+          "zh": "政府将数字资产视为现代化美国金融体系的机会。",
+          "en": "The administration sees digital assets as an opportunity to modernize the American financial system."
+        }
+      ],
+      "tags": [
+        "stablecoins",
+        "GENIUS Act",
+        "OCC",
+        "regulation",
+        "digital assets"
+      ],
+      "tickers": [],
       "sentiment": "neutral"
     },
     {
