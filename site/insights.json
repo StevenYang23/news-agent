@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-10-23T07:18:08.461234+00:00",
+  "generated_at": "2026-10-23T08:14:38.898517+00:00",
   "insights": [
+    {
+      "guid": "yt:8_PhNY5j81g",
+      "title": "The Forgotten Godmother of Economic Literature | Odd Lots",
+      "title_zh": "播客：玛丽亚·埃奇沃思如何用小说传播经济学思想",
+      "url": "https://www.youtube.com/watch?v=8_PhNY5j81g",
+      "published_at": "2026-10-23T08:08:30+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "Odd Lots 播客讨论 19 世纪小说家玛丽亚·埃奇沃思，她通过小说传播亚当·斯密等经济学思想，曾销量超过简·奥斯汀，但如今在经济学和文学领域均被遗忘。嘉宾 Jeanna Smialek 认为当前 AI 与经济的时刻类似 1800 年工业革命黎明，技术变革与政治动荡并存。",
+      "summary_en": "The Odd Lots podcast discusses Maria Edgeworth, a 19th-century novelist who popularized economic ideas through fiction, outselling Jane Austen in her day but now forgotten in both economics and literature. Guest Jeanna Smialek sees parallels between the current AI moment and the dawn of the Industrial Revolution around 1800, with technological change and political upheaval.",
+      "detail_zh": "播客主持人 Tracy Alloway 和 Joe Weisenthal 与嘉宾 Jeanna Smialek 讨论她的新书《The Invisible Hand of Maria Edgeworth: How a 19th Century Novelist Taught the World Economics》。Smialek 约十年前在报道美联储时，从 Robert Heilbroner 的《The Worldly Philosophers》中偶然读到，大卫·李嘉图与玛丽亚·埃奇沃思是好友，她可能是第一位思考经济学的女性。埃奇沃思在当时销量超过简·奥斯汀，但如今在经济学和文学领域均被遗忘。讨论还涉及思想传播方式：在社交媒体和播客出现前，小说和故事是传播经济思想的重要媒介。Smialek 认为当前时刻类似 1800 年工业革命黎明：分工开始应用、工厂效率提升、人们担忧机器将人变成机器人，同时法国大革命后政治动荡和民粹浪潮兴起，这些经济力量碰撞催生了现代经济学。",
+      "detail_en": "Podcast hosts Tracy Alloway and Joe Weisenthal speak with guest Jeanna Smialek about her book 'The Invisible Hand of Maria Edgeworth: How a 19th Century Novelist Taught the World Economics.' Smialek, while covering the Fed about a decade ago, came across an aside in Robert Heilbroner's 'The Worldly Philosophers' noting that David Ricardo was friends with Maria Edgeworth, possibly the first woman to think about economics. Edgeworth outsold Jane Austen in her day but is now forgotten in both economics and literature. The discussion also covers how ideas spread: before social media and podcasts, fiction and stories were important media for transmitting economic ideas. Smialek sees the current moment as similar to the dawn of the Industrial Revolution around 1800: division of labor being applied, factories becoming more efficient, concerns that machines would turn people into robots, and political upheaval and populist waves after the French Revolution—colliding economic forces that gave rise to modern economics.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "玛丽亚·埃奇沃思是 19 世纪初小说家，通过小说传播经济学思想，当时销量超过简·奥斯汀。",
+          "en": "Maria Edgeworth was an early 19th-century novelist who spread economic ideas through fiction and outsold Jane Austen in her day."
+        },
+        {
+          "zh": "她与大卫·李嘉图是好友，可能是第一位思考经济学的女性，但如今在经济学和文学领域均被遗忘。",
+          "en": "She was friends with David Ricardo and possibly the first woman to think about economics, but is now forgotten in both economics and literature."
+        },
+        {
+          "zh": "在社交媒体出现前，小说和故事是传播经济思想的重要媒介。",
+          "en": "Before social media, novels and stories were important media for spreading economic ideas."
+        },
+        {
+          "zh": "嘉宾认为当前 AI 与经济的时刻类似 1800 年工业革命黎明，技术变革与政治动荡并存。",
+          "en": "The guest sees the current AI and economy moment as similar to the dawn of the Industrial Revolution around 1800, with technological change and political upheaval."
+        }
+      ],
+      "tags": [
+        "Maria Edgeworth",
+        "economic history",
+        "AI",
+        "Industrial Revolution",
+        "Odd Lots"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:XRHGmpv8wSE",
       "title": "OpenAI Trims Target Value & Volvo Cars Cuts 2,500 Jobs",
@@ -15752,203 +15798,6 @@
         "TLT"
       ],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:JmM0sC1FKwU",
-      "title": "The French Political Crisis That's Turning Into a Debt Crisis | Odd Lots",
-      "title_zh": "法国债券收益率飙升：政治风险与财政困局引发新一轮欧债担忧",
-      "url": "https://www.youtube.com/watch?v=JmM0sC1FKwU",
-      "published_at": "2026-10-16T08:11:17.093570+00:00",
-      "source_name": "Odd Lots (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "Odd Lots播客讨论法国债券收益率失控问题，核心担忧并非财政基本面突变，而是2027年大选前缺乏中间派候选人，以及左翼势力可能重蹈希腊式对抗覆辙。嘉宾Shahin Vallée指出，法国50多年来从未实现预算盈余，真正的催化剂是政治不确定性。",
-      "summary_en": "The Odd Lots podcast discusses French bond yields spiraling out of control, with the core concern being not a sudden change in fiscal fundamentals but the lack of a centrist candidate ahead of the 2027 election and the risk of left-wing forces repeating Greece-style confrontations. Guest Shahin Vallée notes France hasn't run a budget surplus in over 50 years, and the real catalyst is political uncertainty.",
-      "detail_zh": "播客主持人Joe Weisenthal和Tracy Alloway指出，当前市场对法国的担忧与2011-2015年欧债危机不同：当时焦点是希腊等外围国家，而如今被关注的是15年前被视为相对强劲的法国。法国债券收益率已失控，但法国50多年来从未实现预算盈余，财政基本面并非新变化。真正的催化剂是政治：2027年大选前，市场看不到中间派、马克龙式候选人的前景，对谁将治理国家感到担忧。嘉宾Shahin Vallée曾是马克龙的经济顾问（2014-2015年），他回忆了希腊危机时期与Varoufakis的互动，并警告La France Insoumise可能未吸取希腊教训，或走向与欧元集团和ECB的对抗。Vallée认为，如果法国有政治意愿进行财政整顿，就不会陷入当前局面，这是一个'第22条军规'式的困境。",
-      "detail_en": "Hosts Joe Weisenthal and Tracy Alloway note that current concerns about France differ from the 2011-2015 euro crisis: then the focus was on peripheral countries like Greece, whereas now it's France, viewed as relatively strong just 15 years ago. French bond yields are out of control, yet France hasn't run a budget surplus in over 50 years, so fiscal fundamentals aren't new. The real catalyst is political: ahead of the 2027 election, markets see little prospect for a centrist, Macron-esque candidate and worry about who will run the country. Guest Shahin Vallée, a former Macron economic advisor (2014-2015), recalls interactions with Varoufakis during the Greek crisis and warns that La France Insoumise may not have learned Greece's lesson, potentially heading toward confrontation with the Eurogroup and ECB. Vallée argues that if France had the political will for fiscal consolidation, it wouldn't be in this situation—a catch-22.",
-      "conclusion_zh": "法国债券市场的核心风险在于政治而非财政：2027年大选前中间派缺位与左翼对抗风险，可能持续压制法国资产并波及欧元区。",
-      "conclusion_en": "The core risk in French bonds is political, not fiscal: the absence of a centrist candidate ahead of the 2027 election and the risk of left-wing confrontation could continue to weigh on French assets and spill over into the eurozone.",
-      "key_points": [
-        {
-          "zh": "法国债券收益率飙升，但财政基本面并非新变化——法国50多年来从未实现预算盈余。",
-          "en": "French bond yields are surging, but fiscal fundamentals aren't new—France hasn't run a budget surplus in over 50 years."
-        },
-        {
-          "zh": "真正的催化剂是政治不确定性：2027年大选前缺乏中间派候选人，市场担忧谁将治理国家。",
-          "en": "The real catalyst is political uncertainty: lack of a centrist candidate ahead of the 2027 election, with markets worried about who will govern."
-        },
-        {
-          "zh": "嘉宾Shahin Vallée警告La France Insoumise可能重蹈希腊式对抗覆辙，与欧元集团和ECB正面冲突。",
-          "en": "Guest Shahin Vallée warns La France Insoumise may repeat Greece-style confrontation with the Eurogroup and ECB."
-        },
-        {
-          "zh": "Vallée指出，若法国有政治意愿进行财政整顿，就不会陷入当前困局，这是一个'第22条军规'。",
-          "en": "Vallée notes that if France had the political will for fiscal consolidation, it wouldn't be in this predicament—a catch-22."
-        }
-      ],
-      "tags": [
-        "France",
-        "bond yields",
-        "euro crisis",
-        "fiscal policy",
-        "political risk"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:-tFcscrwpTo",
-      "title": "How Geopolitics is Redefining Defense, Energy and Technology Investing | The Bid investing podcast",
-      "title_zh": "贝莱德：地缘政治重塑市场，\"韧性经济\"聚焦能源、国防与科技三大支柱",
-      "url": "https://www.youtube.com/watch?v=-tFcscrwpTo",
-      "published_at": "2026-10-16T07:48:19+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics",
-        "tech"
-      ],
-      "summary_zh": "贝莱德《The Bid》播客探讨地缘政治紧张如何重塑全球经济，提出\"韧性经济\"概念——即在能源、国防和技术领域加强安全、减少战略依赖。节目围绕三大支柱展开投资讨论，并关注能源冲击教训、国防创新（无人机、软件定义军事）、AI竞争与主权，以及值得关注的供应链\"卡点\"。",
-      "summary_en": "BlackRock's The Bid podcast explores how geopolitical tensions are reshaping the global economy, introducing the concept of the \"resilience economy\"—a growing focus on strengthening security and reducing strategic dependencies across energy, defense and technology. The episode discusses investing across three pillars and covers energy shock lessons, defense innovation (drones, software-defined military), AI rivalry and sovereignty, and chokepoints to watch.",
-      "detail_zh": "贝莱德《The Bid》播客主持人Oscar Pulido与贝莱德地缘政治研究与策略团队的Anna Parker、主题策略投资组合经理Yasmin Meissner对话，探讨地缘政治紧张如何日益重塑全球经济。节目指出，国防开支正在上升，能源安全重回政策议程，围绕人工智能和关键技术的竞争正成为国家安全日益重要的组成部分；与此同时，冲突和供应链中断正暴露出一个相互关联的全球体系的脆弱性。嘉宾们超越短期地缘政治头条，探讨贝莱德所称的\"韧性经济\"——即在能源、国防和技术领域加强安全、减少战略依赖的日益增长的关注。节目分章节讨论了韧性经济的含义、三大支柱的投资、能源冲击的教训、构建未来能源韧性、国防创新与无人机、软件定义军事、AI竞争与主权，以及值得关注的\"卡点\"。节目来源引用了2025-2026年间多家机构的研究，涉及国防预算、无人机、定向能武器、数据中心、云计算、石油市场与军事支出等主题。",
-      "detail_en": "In this episode of The Bid, host Oscar Pulido speaks with Anna Parker of BlackRock's Geopolitical Research and Strategy team and Yasmin Meissner, portfolio manager for Thematic Strategies at BlackRock, about how geopolitical tensions are increasingly reshaping the global economy. The episode notes that defense spending is rising, energy security has returned to the policy agenda, and competition over artificial intelligence and critical technologies is becoming an increasingly important part of national security; at the same time, conflicts and supply chain disruptions are exposing vulnerabilities in an interconnected global system. The guests look beyond short-term geopolitical headlines to explore what BlackRock calls the \"resilience economy\"—the growing focus on strengthening security and reducing strategic dependencies across energy, defense and technology. Episode chapters cover the resilience economy explained, investing across three pillars, energy shock lessons, building future energy resilience, defense innovation and drones, software-defined military, AI rivalry and sovereignty, chokepoints to watch, and closing takeaways. Sources cited span 2025-2026 research on defense budgets, drones, directed energy, data centers, cloud computing, oil markets and military expenditure.",
-      "conclusion_zh": "地缘政治正从背景噪音转变为核心投资变量，能源、国防与科技三大领域的\"韧性\"主题值得投资者持续关注。",
-      "conclusion_en": "Geopolitics is shifting from background noise to a core investment variable, and the \"resilience\" theme across energy, defense and technology warrants sustained investor attention.",
-      "key_points": [
-        {
-          "zh": "地缘政治紧张正日益重塑全球经济：国防开支上升、能源安全重回政策议程、AI与关键技术竞争成为国家安全重要组成部分。",
-          "en": "Geopolitical tensions are increasingly reshaping the global economy: defense spending is rising, energy security has returned to the policy agenda, and competition over AI and critical technologies is becoming an increasingly important part of national security."
-        },
-        {
-          "zh": "贝莱德提出\"韧性经济\"概念，指在能源、国防和技术领域加强安全、减少战略依赖的日益增长的关注。",
-          "en": "BlackRock introduces the \"resilience economy\"—the growing focus on strengthening security and reducing strategic dependencies across energy, defense and technology."
-        },
-        {
-          "zh": "节目围绕三大支柱展开投资讨论，并涵盖能源冲击教训、国防创新（无人机、软件定义军事）、AI竞争与主权等主题。",
-          "en": "The episode discusses investing across three pillars and covers energy shock lessons, defense innovation (drones, software-defined military), and AI rivalry and sovereignty."
-        },
-        {
-          "zh": "冲突和供应链中断正暴露相互关联的全球体系的脆弱性，节目特别关注值得留意的\"卡点\"。",
-          "en": "Conflicts and supply chain disruptions are exposing vulnerabilities in an interconnected global system, with the episode highlighting chokepoints to watch."
-        }
-      ],
-      "tags": [
-        "geopolitics",
-        "resilience-economy",
-        "defense",
-        "energy-security",
-        "AI-sovereignty"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:9Non8iHpSDw",
-      "title": "Asia Tech's Muted Rebound Shows AI Doubts Persist: Market Analysis",
-      "title_zh": "AI交易波动未平：资本开支之外，市场转向关注融资与外部需求",
-      "url": "https://www.youtube.com/watch?v=9Non8iHpSDw",
-      "published_at": "2026-10-16T07:43:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "亚洲股市小幅反弹，但市场对AI交易的波动是否结束仍存疑虑。分析师指出，市场已不再只看资本开支周期，而是更关注融资环节以及资本开支循环之外的外部需求。美国CPI与PPI数据偏热，但美联储主席Walsh未表现鹰派，市场对10月加息的预期从约25%降至约15%。",
-      "summary_en": "Asian equities bounced modestly, but investors remain unconvinced the volatility in the AI trade is over. The market is moving past the point where the CapEx cycle alone dictates the AI trade, with focus shifting to the financing component and exogenous AI demand. Despite hot US CPI and PPI prints, Fed Chair Walsh did not come across as overtly hawkish, and October rate-hike expectations fell from around 25% to about 15%.",
-      "detail_zh": "亚洲股市小幅反弹，欧洲和美国期货在当日交易中显得更为稳定，但韩国、台湾和日本的温和反弹不足以让投资者相信AI交易的波动已经结束。分析师认为，市场正在越过仅由资本开支周期主导AI交易的阶段：三星的初步数据、ASML和台积电的业绩都不错，市场也清楚资本开支非常强劲，但真正担忧的是融资环节，以及资本开支循环之外的外部AI需求。美国CPI和PPI数据均高于预期，但美联储主席Walsh并未明显偏鹰，这反而压低了市场对加息的预期，尤其是10月加息概率已从约25%降至约15%，风险资产因此获得一定支撑。印尼资产今年表现艰难，当日印尼股市大跌约11%，为亚洲金融危机以来最差，并拖累印尼盾；此前MSCI表示可能将该国从新兴市场降级，不仅降至前沿市场，还可能归入某种单独类别。对新兴市场投资者而言，可去之处有限，MSCI指数约70%集中在韩国、中国和台湾，因此很难避开AI交易。",
-      "detail_en": "Asian equities bounced modestly, and futures in Europe and the US looked more stable for the session, but a muted bounce across Korea, Taiwan and Japan is unlikely to convince investors that the volatility in the AI trade is over. The market is moving past the point where the CapEx cycle alone dictates the AI trade: Samsung's preliminary numbers were good, and ASML and TSMC also posted good numbers, and the market knows CapEx spending is strong. What concerns investors is the financing component and what exogenous AI demand looks like outside the circular CapEx cycle. US CPI and PPI came in hotter than expected, but Fed Chair Walsh did not come out as overtly hawkish, which dialed back expectations for Fed rate hikes, particularly in October, from around 25% to about 15%, supporting risk assets. Indonesian assets have had a difficult year, and Indonesian stocks sold off about 11%, the worst selloff since the Asian financial crisis, spilling over to the currency; MSCI had said it was looking to potentially downgrade the country, not just to frontier status from EM but to a separate status. For EM investors, there are very few places to go, with about 70% of the MSCI index in South Korea, China and Taiwan, making it difficult to escape the AI trade.",
-      "conclusion_zh": "AI交易的驱动逻辑正从资本开支转向融资与外部需求，这一转变是当前波动的核心；同时美联储主席未因通胀数据偏热而转鹰，短期加息预期回落，但新兴市场可避险空间有限，AI交易难以回避。",
-      "conclusion_en": "The AI trade's driver is shifting from CapEx to financing and exogenous demand, which is central to current volatility; meanwhile, the Fed chair did not turn hawkish despite hot inflation data, easing near-term hike expectations, but EM investors have few places to hide from the AI trade.",
-      "key_points": [
-        {
-          "zh": "亚洲股市小幅反弹，但韩国、台湾和日本的温和反弹不足以证明AI交易的波动已经结束。",
-          "en": "Asian equities bounced modestly, but the muted rebound across Korea, Taiwan and Japan is not enough to convince investors the AI trade volatility is over."
-        },
-        {
-          "zh": "市场正越过仅由资本开支周期主导AI交易的阶段，转而关注融资环节和资本开支循环之外的外部需求。",
-          "en": "The market is moving past the point where the CapEx cycle alone dictates the AI trade, focusing instead on the financing component and exogenous demand outside the CapEx cycle."
-        },
-        {
-          "zh": "三星初步数据、ASML和台积电业绩良好，市场清楚资本开支强劲，但担忧融资和外部需求。",
-          "en": "Samsung's preliminary numbers, ASML and TSMC results were good, and the market knows CapEx is strong, but it worries about financing and external demand."
-        },
-        {
-          "zh": "美国CPI和PPI偏热，但美联储主席Walsh未明显鹰派，10月加息预期从约25%降至约15%。",
-          "en": "US CPI and PPI were hot, but Fed Chair Walsh was not overtly hawkish, and October rate-hike expectations fell from around 25% to about 15%."
-        },
-        {
-          "zh": "印尼股市大跌约11%，为亚洲金融危机以来最差，并拖累印尼盾；MSCI可能将其降级。",
-          "en": "Indonesian stocks fell about 11%, the worst since the Asian financial crisis, dragging the currency; MSCI may downgrade the country."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "CapEx",
-        "Fed",
-        "EM equities",
-        "Indonesia"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Fxb8-BY_qug",
-      "title": "AI Capex, Gamble or Jackpot?: Market Snapshot",
-      "title_zh": "AI交易三大核心问题悬而未决，资本开支与回报担忧升温",
-      "url": "https://www.youtube.com/watch?v=Fxb8-BY_qug",
-      "published_at": "2026-10-16T07:23:58+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "博通CEO指出当前市场存在投机行为、缺乏可见性，投资者对AI相关资本开支能否带来回报的担忧加剧。分析师认为AI交易面临三个关键问题——市场规模、经济模型与护城河，短期内难以得到令人信服的答案，而资本开支加速放缓正引发警惕。",
-      "summary_en": "Broadcom's CEO flagged speculative behavior and a lack of visibility in the market, intensifying investor concerns over whether AI-related capex will deliver returns. Analysts argue the AI trade hinges on three key unanswered questions—market size, economics, and moats—while a slowing pace of acceleration is raising alarm bells.",
-      "detail_zh": "博通CEO本周早些时候表示，当前市场存在赌博行为，没有人拥有任何可见性。分析师认为这是非常合理的担忧，也是关键驱动因素之一，并指出这正是英伟达或博通等股票出现分歧的原因——市场真正担忧的是投入的资金规模正变得相当可观。人们正在为token付费，却不知道在ROI基础上是否能获得回报，这已成为围绕AI公司担忧的核心。分析师指出，AI交易的核心有三个关键问题：市场的最终规模有多大、经济模型如何、潜在护城河在哪里，这些问题在一段时间内不会得到令人信服或连贯的答案。资本开支加速的步伐正在显著放缓，这开始敲响警钟——企业确实在增加支出，但增速是否达到使这些投资在投资者评判这些股票的时间框架内合理的水平，值得关注。分析师表示将关注自由现金流，并指出Alphabet的自由现金流已转为负值，此前亚马逊和甲骨文也出现类似情况；当收益率走高时，投资者将关注这些巨额支出如何融资。此外，一家大型贷款机构表示，AI可提升KYC等运营效率，但也带来网络安全相关的更多成本，同时该机构正在持续审查自身贷款组合，以理解AI对其企业客户的影响。",
-      "detail_en": "Broadcom's CEO said earlier this week that people are gambling at the moment and nobody has any visibility. Analysts view this as a very valid concern and one of the key drivers, noting it explains why stocks like Nvidia or Broadcom have been debated—there is real concern that the sums of money are getting pretty serious. People are spending on tokens without any idea of whether it will pay off on an ROI basis, which has been at the core of worries around AI companies. Analysts note there are three key questions at the heart of the AI trade: the ultimate size of the market, what the economics look like, and where the potential moats are—and these will not be answered convincingly or coherently for some time. The pace of acceleration is slowing down significantly, ringing alarm bells: enterprises are spending more, but are they spending at the pace needed for these investments to make sense within the timeframe investors judge these stocks this earnings season. Analysts say they will look at free cash flows, noting Alphabet's flipped negative, on top of Amazon and Oracle; when yields go higher, investors will look at how these massive expenditures are financed. A large lender noted AI can make KYC operations more efficient, but also brings more costs tied to cybersecurity stemming from AI, and that it is constantly reviewing its own loan portfolio to understand AI's impact on its corporate clients.",
-      "conclusion_zh": "AI交易的核心问题短期内难以解答，资本开支加速放缓与自由现金流转负值得密切关注，投资者应聚焦企业如何为巨额支出融资及其ROI可见性。",
-      "conclusion_en": "The core questions of the AI trade won't be answered soon; the slowing capex acceleration and negative free cash flows warrant close attention, with investors focused on how companies finance massive spending and the visibility of ROI.",
-      "key_points": [
-        {
-          "zh": "博通CEO称当前市场存在赌博行为、缺乏可见性，分析师认为这是合理的担忧，也是英伟达、博通等股票出现分歧的关键原因。",
-          "en": "Broadcom's CEO said people are gambling with no visibility; analysts see this as a valid concern and a key driver behind the debate over stocks like Nvidia and Broadcom."
-        },
-        {
-          "zh": "AI交易的核心是三个尚未解答的问题：市场最终规模、经济模型、潜在护城河，短期内难以获得令人信服的答案。",
-          "en": "The AI trade hinges on three unanswered questions: ultimate market size, economics, and potential moats—unlikely to be answered convincingly for some time."
-        },
-        {
-          "zh": "资本开支加速步伐显著放缓，引发对企业支出增速能否支撑这些投资在投资者评判时间框架内合理的担忧。",
-          "en": "The pace of acceleration is slowing significantly, raising concerns over whether enterprise spending growth can justify these investments within investors' timeframe."
-        },
-        {
-          "zh": "Alphabet自由现金流已转为负值，此前亚马逊和甲骨文也出现类似情况；收益率走高时投资者将关注这些巨额支出的融资方式。",
-          "en": "Alphabet's free cash flow flipped negative, on top of Amazon and Oracle; with higher yields, investors will focus on how these massive expenditures are financed."
-        },
-        {
-          "zh": "一家大型贷款机构指出AI可提升KYC等运营效率，但也带来网络安全相关成本，并正持续审查贷款组合以评估AI对企业客户的影响。",
-          "en": "A large lender notes AI improves KYC efficiency but adds cybersecurity costs, and is constantly reviewing its loan portfolio to assess AI's impact on corporate clients."
-        }
-      ],
-      "tags": [
-        "AI capex",
-        "ROI",
-        "free cash flow",
-        "semiconductors",
-        "market visibility"
-      ],
-      "tickers": [
-        "AVGO",
-        "NVDA",
-        "GOOGL",
-        "AMZN",
-        "ORCL"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
