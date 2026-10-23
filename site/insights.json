@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-10-23T16:14:27.802683+00:00",
+  "generated_at": "2026-10-23T17:10:07.001789+00:00",
   "insights": [
+    {
+      "guid": "yt:pi3IhaS5zgc",
+      "title": "CFTC chair warns against another FTX after Clarity Act fails to pass",
+      "title_zh": "CFTC主席Selig呼吁加强加密市场保护，警示FTX式欺诈风险",
+      "url": "https://www.youtube.com/watch?v=pi3IhaS5zgc",
+      "published_at": "2026-10-23T16:55:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在国会未能通过《Clarity Act》后，CFTC主席Michael Selig表示需要为加密市场提供更强保护，并警告不能允许类似FTX和Sam Bankman-Fried的欺诈行为破坏市场。",
+      "summary_en": "After Congress failed to pass the Clarity Act, CFTC Chairman Michael Selig said stronger protections are needed for crypto markets, warning that another FTX/Sam Bankman-Fried-style scam cannot be allowed to undermine the markets.",
+      "detail_zh": "CFTC主席Michael Selig在国会未能通过《Clarity Act》后发表讲话，强调加密市场需要更强的保护措施。他明确警告称，“我们不能允许另一个FTX、Sam Bankman-Fried式的骗局来破坏我们的市场”。这一表态凸显了在立法缺位的情况下，监管机构对加密市场欺诈风险的担忧。Selig的言论直接指向FTX事件作为反面案例，暗示当前监管框架可能不足以防范类似风险。",
+      "detail_en": "CFTC Chairman Michael Selig, speaking after Congress failed to pass the Clarity Act, stressed the need for stronger protections in crypto markets. He explicitly warned, \"we can't allow for another FTX, Sam Bankman-Fried-style scam to undermine our markets.\" The remarks highlight regulatory concerns about fraud risk in crypto markets amid a legislative gap. Selig's comments directly cite the FTX case as a cautionary example, suggesting the current regulatory framework may be insufficient to prevent similar risks.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "CFTC主席Selig呼吁为加密市场提供更强保护。",
+          "en": "CFTC Chairman Selig calls for stronger protections in crypto markets."
+        },
+        {
+          "zh": "国会未能通过《Clarity Act》，立法缺位。",
+          "en": "Congress failed to pass the Clarity Act, leaving a legislative gap."
+        },
+        {
+          "zh": "Selig警告不能允许另一个FTX式骗局破坏市场。",
+          "en": "Selig warns against allowing another FTX-style scam to undermine markets."
+        }
+      ],
+      "tags": [
+        "crypto regulation",
+        "CFTC",
+        "FTX",
+        "Clarity Act"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:o8HokvTKlzw",
+      "title": "Jeffrey Sherman on AI Debt Issuance and the Stress in Triple C | Bloomberg",
+      "title_zh": "买方：超大规模科技公司发债潮下，信用市场现分化与机会",
+      "url": "https://www.youtube.com/watch?v=o8HokvTKlzw",
+      "published_at": "2026-10-23T16:31:44+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "tech"
+      ],
+      "summary_zh": "播客讨论指出，超大规模科技公司为AI基建大举发债，尽管借贷成本上升，发行仍被市场吸收，且发行人还有商业抵押贷款和ABS等渠道。信用投资者此前低配该板块，现因部分债券价格跌至高位70至低80区间、收益率达12%-15%而开始小幅买入。CCC级利差大幅走阔但尚未传导至低质量B级， contagion风险有限，但CCC级仍不适合传统组合。",
+      "summary_en": "The podcast discusses that hyperscalers are issuing large amounts of debt to fund AI buildouts; despite higher borrowing costs, the supply has been absorbed by the market, and issuers have other levers such as commercial mortgage and ABS markets. Credit investors who were underweight are now nibbling as some bonds trade at high-70s to low-80s dollar prices with 12-15% yields. CCC spreads have widened significantly but have not bled into low-quality single Bs, limiting contagion, though CCCs remain unsuitable for traditional portfolios.",
+      "detail_zh": "播客嘉宾Jeff指出，超大规模科技公司为AI基建需要大量资金，即便借贷成本上升，发债节奏也未受明显影响，因为如果预期成本继续上升，当下多借是合理激励。低质量高收益债利差已明显走阔，但发行人同时通过商业抵押贷款市场和ABS市场融资，拥有其他杠杆。三到四个月前利差过紧，该机构对该板块严重低配、对科技债敞口极为有限；如今部分债券价格跌至高位70至低80区间，可开始构建有缓冲的组合，二级市场收益率达12%-15%，对信用投资者具有吸引力。Jeff表示已开始小幅买入部分超大规模科技公司及少量Neo clouds，但仍有大量买入空间，并非大举押注。关于高收益债传染风险，嘉宾称历史表明CCC利差走阔通常会传导，但目前为止尚未波及低质量单B级，关键观察指标是CCC与单B的利差关系；CCC集中在少数行业和很小 cohort，因此未见传染，且债券市场整体风险辨别能力较好。随着资本开支和融资需求问题增多，CCC资产可能继续承压，不适合传统组合，更适合困境债投资者。",
+      "detail_en": "Podcast guest Jeff noted that hyperscalers need tremendous amounts of money for AI buildouts, and even with higher borrowing costs, issuance has not been derailed; if borrowing costs are expected to rise, there is an incentive to borrow more today. Lower-quality high-yield spreads have widened, but issuers also access commercial mortgage and ABS markets, giving them other levers. Three to four months ago spreads were too tight, and the firm was very underweight the sector with limited exposure to tech bonds; now some bonds trade at high-70s to low-80s dollar prices, allowing a portfolio with a meaningful cushion, and secondary yields of 12-15% are interesting for credit investors. Jeff said they started nibbling on some hyperscalers and a little bit of Neo clouds, but still have a lot of capacity to buy and are not making a huge bet. On contagion risk, the guest said history says CCC widening usually spreads, but so far it has not bled into low-quality single Bs; the key metric to watch is the CCC versus single-B relationship. CCCs are concentrated in a small cohort and a few industries, which explains the lack of contagion, and the bond market has done a good job discerning risk. As questions about capex buildout and funding needs grow, CCC assets may face more pressure; they are for distressed debt investors, not traditional portfolios.",
+      "conclusion_zh": "信用市场对超大规模科技公司发债的消化能力仍强，部分科技债在价格下跌后开始具备配置价值，但CCC级信用风险尚未消除，需关注其向单B级传导的迹象。",
+      "conclusion_en": "The credit market is still absorbing hyperscaler issuance, and some tech bonds are becoming investable after price declines, but CCC credit risk persists and investors should watch for signs of contagion into single Bs.",
+      "key_points": [
+        {
+          "zh": "超大规模科技公司发债需求强劲，即便成本上升，发行仍被市场吸收，且还有商业抵押贷款和ABS等融资渠道。",
+          "en": "Hyperscaler debt issuance is strong; even with higher costs, supply is absorbed, and issuers have other funding channels like commercial mortgage and ABS."
+        },
+        {
+          "zh": "信用投资者此前严重低配科技债，现因部分债券价格跌至高位70至低80区间、收益率达12%-15%而开始小幅买入。",
+          "en": "Credit investors were significantly underweight tech bonds and are now nibbling as some bonds trade at high-70s to low-80s with 12-15% yields."
+        },
+        {
+          "zh": "CCC级利差大幅走阔，但尚未传导至低质量单B级，传染风险目前有限，关键观察指标是CCC与单B的利差关系。",
+          "en": "CCC spreads have widened sharply but have not bled into low-quality single Bs; contagion is limited so far, and the key metric is the CCC versus single-B relationship."
+        },
+        {
+          "zh": "CCC级资产集中在少数行业和很小 cohort，随着资本开支和融资需求问题增多，可能继续承压，不适合传统组合。",
+          "en": "CCC assets are concentrated in a few industries and a small cohort; as capex and funding questions grow, they may face more pressure and are unsuitable for traditional portfolios."
+        }
+      ],
+      "tags": [
+        "hyperscaler debt",
+        "credit spreads",
+        "high yield",
+        "CCC contagion",
+        "AI capex"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:UEDT8hSsjvw",
       "title": "Open Interest 10/23/2026",
@@ -15574,147 +15660,6 @@
         "MCP",
         "LLM access control",
         "fintech"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:fbYXfVtUePU",
-      "title": "Break the Playbook with Justin Lubell",
-      "title_zh": "Citadel全球股票主管谈选才、信念与协作",
-      "url": "https://www.youtube.com/watch?v=fbYXfVtUePU",
-      "published_at": "2026-10-16T16:50:27+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "Citadel全球股票主管Justin Lubell在访谈中阐述其选人标准：热情、谦逊、可教、勤奋、适应力强，并强调\"智识信念\"优于\"情绪信念\"。他指出投资仍是\"深度人性化\"的业务，技术平台如同\"外骨骼\"，但无法替代优秀的选股能力；Citadel不追求观点多元化，而是追求最佳观点，并鼓励内部跨行业协作。",
-      "summary_en": "Justin Lubell, Head of Global Equities at Citadel, discusses his hiring criteria—passion, humility, coachability, work ethic, and adaptability—and emphasizes \"intellectual conviction\" over \"emotional conviction.\" He argues investing remains a \"deeply human\" business, with technology serving as an \"exoskeleton\" that cannot substitute for great stock picking. Citadel does not seek diversity of thought but the best thought, and encourages internal cross-sector collaboration.",
-      "detail_zh": "Citadel全球股票主管Justin Lubell在访谈中表示，Citadel寻找的是被长期验证为成功预测指标的品质：热情、谦逊、可教、极强的职业道德和适应力。他区分了\"智识信念\"与\"情绪信念\"，认为前者基于扎实研究和信息，后者则价值较低。在面试中，他刻意不重复提问，试图了解候选人是谁，并观察其在被意外问题难住时的反应。他强调投资是\"深度人性化\"的业务，分析师需要会见管理层、实地考察设施和渠道，技术平台和基础设施如同\"外骨骼\"，为有才华的人提供工具，但\"如果你不是伟大的选股者，我们帮不了太多\"。关于群体思维，他表示Citadel不担心人们意见一致，因为资本基础大，好主意可以持有更多仓位，\"如果三个人同意，没问题；两个人同意一个人反对，也没问题\"。协作方面，他举例称新冠期间汽车分析师通过内部半导体分析师了解芯片到货时间，以及GLP-1相关投资中医疗团队与消费团队的协作，公司鼓励但不强制协作。",
-      "detail_en": "Justin Lubell, Head of Global Equities at Citadel, said in an interview that Citadel looks for qualities proven over time to be the best predictors of success: passion, humility, coachability, a strong work ethic, and adaptability. He distinguished \"intellectual conviction\" from \"emotional conviction,\" arguing the former is grounded in research and information while the latter is less valuable. In interviews, he deliberately avoids repeating questions, seeks to understand who the candidate is, and observes how they handle being surprised. He stressed that investing is a \"deeply human\" business—analysts meet management teams, visit facilities and sites, and do channel work—with technology and infrastructure serving as an \"exoskeleton\" that provides tools, but \"if you're not a great stock picker, there's not so much we can do to help.\" On groupthink, he said Citadel does not worry if people agree, because with a large capital base, a great idea can be owned in larger size: \"if three people agree, that's fine; if two agree and one disagrees, that's fine too.\" On collaboration, he cited how during Covid an autos analyst worked with an in-house semiconductor analyst on chip timelines, and how GLP-1 antagonist investing involves collaboration between healthcare and consumer teams—encouraged but not forced.",
-      "conclusion_zh": "对投资者而言，Citadel的实践提示：在数据日益商品化的环境中，差异化优势来自人的判断力、智识信念与跨领域协作，而非单纯的技术或数据获取。",
-      "conclusion_en": "For investors, Citadel's approach suggests that as data becomes commoditized, differentiated advantage comes from human judgment, intellectual conviction, and cross-domain collaboration—not technology or data access alone.",
-      "key_points": [
-        {
-          "zh": "Citadel选人标准：热情、谦逊、可教、勤奋、适应力强，这些是长期成功的最佳预测指标。",
-          "en": "Citadel's hiring criteria: passion, humility, coachability, strong work ethic, and adaptability—the best predictors of long-term success."
-        },
-        {
-          "zh": "信念应基于智识而非情绪：有信念的人能展示其研究和信息依据。",
-          "en": "Conviction should be intellectual, not emotional: a convicted person can show the research and information behind their idea."
-        },
-        {
-          "zh": "投资仍是深度人性化的业务，技术平台如同\"外骨骼\"，但无法替代选股能力。",
-          "en": "Investing remains a deeply human business; technology is an \"exoskeleton\" but cannot replace stock-picking skill."
-        },
-        {
-          "zh": "Citadel不追求观点多元化，而是追求最佳观点；资本基础大，好主意可以持有更大仓位。",
-          "en": "Citadel does not seek diversity of thought but the best thought; with a large capital base, great ideas can be owned in larger size."
-        },
-        {
-          "zh": "内部跨行业协作（如汽车与半导体、医疗与消费）被鼓励但不强制。",
-          "en": "Internal cross-sector collaboration (e.g., autos and semis, healthcare and consumer) is encouraged but not forced."
-        }
-      ],
-      "tags": [
-        "Citadel",
-        "talent",
-        "conviction",
-        "collaboration",
-        "stock-picking"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:FNKloNiWMw0",
-      "title": "Open Interest 10/16/2026",
-      "title_zh": "沃什对利率保持沉默，特斯拉Roadster亮相，CoreWeave承压",
-      "url": "https://www.youtube.com/watch?v=FNKloNiWMw0",
-      "published_at": "2026-10-16T16:48:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美联储主席沃什在曼谷讲话中拒绝预判年内剩余会议的政策路径，市场解读为10月不会加息，本周三市场对加息的定价随即消退。特斯拉发布新一代Roadster，搭载与SpaceX工程师合作开发的推进器，股价上涨3%，但分析师质疑其量产前景及对基本面的意义。CoreWeave因数据中心债务策略担忧再度下跌逾5%，其债券收益率一度高达50%。",
-      "summary_en": "Fed Chair Kevin Warsh declined to prejudge the path of rates at remaining meetings this year, fueling bets the Fed will stay on hold this month; markets had priced in a Fed move on Wednesday that then faded. Tesla unveiled its next-generation Roadster with thrusters developed in partnership with SpaceX engineers, sending shares up 3%, though analysts questioned whether it will reach production and its relevance to the bottom line. CoreWeave fell more than 5% again amid concerns over its data center debt strategy, with yields as high as 50% on its bonds.",
-      "detail_zh": "美联储主席凯文·沃什在曼谷表示，美联储已明确将实现价格稳定，并在约一个月前移除了一剂宽松，但他不会预判年内剩余会议的行动，称\"这是美联储的新篇章，我们不再从事那项业务\"。彭博记者Michael McKee指出，公开市场委员会副主席与理事会副主席均表示不认为需要急于加息，这向市场释放了10月不会加息的信号，沃什的讲话未对此作出反驳；本周三市场一度定价美联储将行动，随后又撤回，因CPI显示通胀上升，纳斯达克下跌，资金转向债券避险。特斯拉发布新一代Roadster，配备与SpaceX工程师合作开发的推进器，股价上涨3%，摩根大通分析师称其获得\"火箭升级\"，体现深度合作。彭博管理编辑Craig Trudell认为该产品\"几乎完全不实用\"，并质疑其能否真正上市——九年前展示的第二代Roadster至今未落地，此次计划2028年才投产；他认为这更多是展示特斯拉与SpaceX日益紧密的关系，并为马斯克推动两家公司合并提供理由，但中国业务可能成为合并的障碍。Trudell还指出，Roadster与马斯克长期宣扬的\"未来是自动驾驶、只需Cybercab\"的叙事存在矛盾，对特斯拉利润贡献不大。CoreWeave在经历一个多月来最佳单日表现后再度下跌逾5%，本周股价剧烈波动，源于市场对其数据中心债务策略的担忧，其债券收益率一度高达50%。Mandeep Singh表示，在Anthropic IPO之后，市场关注前沿实验室的增长情况，其增速明显放缓；开放权重模型正在抢占份额，且更多部署在超大规模云或非本地环境，而非新兴云厂商，这可能对CoreWeave等公司的基本面构成压力。此外，台湾经济事务主管部门负责人表示，台湾计划将人工智能服务和尖端半导体列入管制清单，目前这些项目尚未在清单上。",
-      "detail_en": "Fed Chair Kevin Warsh said in Bangkok that the Fed has made clear it will deliver price stability and removed a dose of accommodation about a month ago, but he does not prejudge meetings or say now what he might do at the remaining meetings this year, calling it \"a new chapter at the Fed\" and saying \"we are not in that business anymore.\" Bloomberg's Michael McKee noted that both the vice chair of the Open Market Committee and the vice chair of the Board of Governors said they don't think rates need to be raised in a hurry, signaling no October hike, and Warsh did nothing to disabuse that view; on Wednesday markets had priced in a Fed move and then abruptly reversed as CPI showed inflation up and the Nasdaq fell, with a haven trade into bonds. Tesla unveiled its next-generation Roadster with thrusters developed in partnership with SpaceX engineers, sending shares up 3%; a J.P. Morgan analyst called it a rocket upgrade showcasing deep collaboration. Bloomberg Managing Editor Craig Trudell called it \"almost entirely impractical\" and questioned whether it will actually come to market—a second-generation Roadster shown nine years ago never came to pass, and this one is only supposed to go into production in 2028. He said it was as much a demonstration of how close Tesla and SpaceX are getting and more fodder for Musk trying to justify combining the two, though China could be a stumbling block given Tesla's huge presence there and SpaceX's Starlink. Trudell also noted a contradiction with Musk's long-running narrative that the future is self-driving and only the Cybercab is needed, and said the Roadster is not very important to Tesla's bottom line. CoreWeave fell more than 5% again after its best day in over a month, capping a roller-coaster week driven by fears over its data center debt strategy, with yields as high as 50% on its bonds. Mandeep Singh said that in the wake of the Anthropic IPO everyone is fixated on frontier labs' growth rates, which are clearly decelerating; open-weight models are taking share and are likely being deployed at hyperscalers or non-premise rather than neo-clouds, which may have a bearing on fundamentals for a company like CoreWeave. Separately, Taiwan's minister of economic affairs indicated Taiwan plans to add AI services and cutting-edge semiconductors to a list of controlled items, where they are not currently listed.",
-      "conclusion_zh": "市场对美联储10月按兵不动的预期升温，短期利率路径的不确定性下降；AI板块内部，前沿实验室增速放缓与开放权重模型的分流值得关注，可能对新兴云厂商构成压力。",
-      "conclusion_en": "Expectations that the Fed will stay on hold in October are rising, reducing near-term rate-path uncertainty; within AI, decelerating frontier-lab growth and share gains by open-weight models warrant attention and could pressure neo-clouds.",
-      "key_points": [
-        {
-          "zh": "沃什拒绝预判年内剩余会议的政策路径，市场解读为10月不会加息，本周三一度定价的加息预期随之消退。",
-          "en": "Warsh declined to prejudge the path for rates at remaining meetings this year, fueling bets the Fed will stay on hold this month; a Fed move priced in on Wednesday faded."
-        },
-        {
-          "zh": "特斯拉发布新一代Roadster，配备与SpaceX工程师合作开发的推进器，股价上涨3%，摩根大通分析师称其获得\"火箭升级\"。",
-          "en": "Tesla unveiled its next-generation Roadster with thrusters developed with SpaceX engineers, sending shares up 3%; a J.P. Morgan analyst called it a rocket upgrade."
-        },
-        {
-          "zh": "彭博管理编辑Craig Trudell质疑Roadster能否量产（计划2028年投产），认为其更多是展示特斯拉与SpaceX的紧密关系，并为合并提供理由，但中国业务可能是障碍。",
-          "en": "Bloomberg Managing Editor Craig Trudell questioned whether the Roadster will reach production (planned for 2028), seeing it as a demonstration of Tesla-SpaceX ties and fodder for a combination, with China a potential stumbling block."
-        },
-        {
-          "zh": "CoreWeave再度下跌逾5%，本周股价剧烈波动，源于对其数据中心债务策略的担忧，其债券收益率一度高达50%。",
-          "en": "CoreWeave fell more than 5% again amid a roller-coaster week driven by fears over its data center debt strategy, with yields as high as 50% on its bonds."
-        },
-        {
-          "zh": "Mandeep Singh指出，前沿实验室增速明显放缓，开放权重模型抢占份额并更多部署在超大规模云或非本地环境，可能对CoreWeave等新兴云厂商基本面构成压力。",
-          "en": "Mandeep Singh noted frontier labs' growth is clearly decelerating, and open-weight models taking share are likely deployed at hyperscalers or non-premise, potentially pressuring neo-cloud fundamentals like CoreWeave's."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "Tesla",
-        "CoreWeave",
-        "AI",
-        "semiconductors"
-      ],
-      "tickers": [
-        "TSLA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:OrrVOln43wM",
-      "title": "A Midterm Crossroads for AI Investment | Thoughts on the Market",
-      "title_zh": "摩根士丹利：数据中心反对派在州与地方选举中的进展是AI投资关键信号",
-      "url": "https://www.youtube.com/watch?v=OrrVOln43wM",
-      "published_at": "2026-10-16T16:30:13+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "tech"
-      ],
-      "summary_zh": "摩根士丹利公共政策研究主管Ariana Salvatore指出，AI基础设施投资的关键信号在于数据中心反对派能否在州与地方选举中取得进展。她认为，对AI基础设施情绪最负面的结果是民主党大胜，因为这可能带来更多数据中心建设限制；反之共和党维持现状则可能意味着中期选举成为出清事件，大部分限制已过去。",
-      "summary_en": "Morgan Stanley's head of public policy research, Ariana Salvatore, says a key signal for AI investment is whether data center opponents gain ground in state and local races. She views a Democratic sweep as the most negative outcome for AI infrastructure sentiment, likely inviting more restrictions on data center construction, while a Republican hold (the status quo) would probably signal the midterms were a clearing event with most restrictions behind us.",
-      "detail_zh": "摩根士丹利公共政策研究主管Ariana Salvatore表示，在AI投资方面，一个关键信号是数据中心反对派能否在州与地方选举中取得进展。她指出，从当前来看，对AI基础设施与投资情绪而言，最负面的结果是民主党大胜（Democratic sweep）情景，因为这一结果可能招致对数据中心建设更多的限制。相反，共和党维持现状（Republican hold）的情景，可能意味着中期选举成为一次出清事件，大部分限制很可能已经过去。她建议投资者关注其观点及其他信号，可订阅Thoughts on the Market获取更多内容。",
-      "detail_en": "Ariana Salvatore, head of public policy research at Morgan Stanley, said that when it comes to AI investment, a key signal will be whether data center opponents gain ground in state and local races. She noted that from here, the most negative outcome for sentiment around AI infrastructure and investment is a Democratic sweep scenario, because that outcome likely invites more restrictions on data center construction. Conversely, a Republican hold scenario—the status quo—would probably signal the midterms were a clearing event and the bulk of the restrictions are likely behind us. She encouraged investors to subscribe to Thoughts on the Market for more on their views and other signals to watch.",
-      "conclusion_zh": "投资者应关注州与地方选举中数据中心反对派的进展，民主党大胜可能加剧AI基础设施限制，而共和党维持现状则可能意味着政策风险出清。",
-      "conclusion_en": "Investors should watch whether data center opponents gain ground in state and local races; a Democratic sweep could intensify restrictions on AI infrastructure, while a Republican hold may signal policy risks are largely cleared.",
-      "key_points": [
-        {
-          "zh": "数据中心反对派在州与地方选举中的进展是AI投资的关键信号。",
-          "en": "Whether data center opponents gain ground in state and local races is a key signal for AI investment."
-        },
-        {
-          "zh": "摩根士丹利认为，对AI基础设施情绪最负面的结果是民主党大胜，可能带来更多数据中心建设限制。",
-          "en": "Morgan Stanley views a Democratic sweep as the most negative outcome for AI infrastructure sentiment, likely inviting more restrictions on data center construction."
-        },
-        {
-          "zh": "共和党维持现状的情景可能意味着中期选举是出清事件，大部分限制已过去。",
-          "en": "A Republican hold scenario would probably signal the midterms were a clearing event and the bulk of restrictions are likely behind us."
-        }
-      ],
-      "tags": [
-        "AI infrastructure",
-        "data centers",
-        "elections",
-        "policy risk"
       ],
       "tickers": [],
       "sentiment": "neutral"
