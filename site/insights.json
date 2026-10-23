@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-22T23:10:04.119279+00:00",
+  "generated_at": "2026-10-23T01:24:09.610364+00:00",
   "insights": [
+    {
+      "guid": "yt:7Lkr-GIWNoc",
+      "title": "Trump: Musk ‘Put Back’ Ukraine Starlink Access",
+      "title_zh": "Bloomberg《Balance of Power》聚焦中期选举、乌克兰星链与农民成本压力",
+      "url": "https://www.youtube.com/watch?v=7Lkr-GIWNoc",
+      "published_at": "2026-10-22T23:05:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目涵盖中期选举政治展望、乌克兰星链限速争议及美国农民面临的柴油、关税与化肥成本压力。民主党和共和党各有挑战，投资者需关注政治与地缘风险对市场的影响。",
+      "summary_en": "This episode of Balance of Power covers the midterm election outlook, the controversy over Starlink speed limits in Ukraine, and cost pressures on U.S. farmers from diesel, tariffs, and fertilizer. Both parties face challenges, and investors should watch political and geopolitical risks.",
+      "detail_zh": "节目首先讨论中期选举政治格局。民主党民调专家Celinda Lake认为共和党陷入深度麻烦，但民主党仍需证明自己。她提到爱荷华农民成为选举负担。前国防部副助理部长Evelyn Farkas批评美国在乌克兰人试图拦截针对平民的导弹和无人机时降低星链速度，称这是道德问题。她还讨论了中东紧张局势升级。爱荷华农民联盟主席Aaron Lehman表示柴油价格和关税对农民造成毁灭性打击，化肥价格挤压农民利润，并提到俄罗斯柴油交易引发批评。农民希望华盛顿提供支持。政治小组还讨论了50-50参议院的可能性、年轻选民转向民主党以及民主党能否翻转德克萨斯州。",
+      "detail_en": "The program begins with the midterm election political landscape. Democratic pollster Celinda Lake says Republicans are in deep trouble, but Democrats have a lot to prove. She mentions Iowa farmers becoming an election liability. Former Deputy Assistant Secretary of Defense Evelyn Farkas criticizes the U.S. for slowing Starlink speeds while Ukrainians were trying to intercept missiles and drones targeting civilians, calling it a moral problem. She also discusses rising tensions in the Middle East. Aaron Lehman, president of the Iowa Farmers Union, says diesel prices and tariffs have been devastating for farmers, fertilizer prices are squeezing farmers, and a Russian diesel deal draws criticism. Farmers want support from Washington. The political panel also discusses what a 50-50 Senate could look like, young voters shifting toward Democrats, and whether Democrats can flip Texas.",
+      "conclusion_zh": "本期内容以政治和地缘议题为主，对美股直接影响有限，但中期选举选情、乌克兰局势及农民成本压力值得关注。",
+      "conclusion_en": "This episode focuses on political and geopolitical issues with limited direct impact on U.S. equities, but the midterm election outlook, Ukraine situation, and farmer cost pressures are worth watching.",
+      "key_points": [
+        {
+          "zh": "民主党民调专家Celinda Lake：共和党陷入深度麻烦，但民主党仍需证明自己。",
+          "en": "Democratic pollster Celinda Lake: Republicans are in deep trouble, but Democrats have a lot to prove."
+        },
+        {
+          "zh": "Evelyn Farkas：美国在乌克兰人拦截针对平民的导弹和无人机时降低星链速度，是道德问题。",
+          "en": "Evelyn Farkas: It's a moral problem for the U.S. that Starlink speeds were slowed while Ukrainians were trying to intercept missiles and drones targeting civilians."
+        },
+        {
+          "zh": "爱荷华农民联盟主席Aaron Lehman：柴油价格和关税对农民造成毁灭性打击，化肥价格挤压利润。",
+          "en": "Iowa Farmers Union President Aaron Lehman: diesel prices and tariffs have been devastating for farmers, and fertilizer prices are squeezing them."
+        },
+        {
+          "zh": "政治小组讨论50-50参议院的可能性、年轻选民转向民主党以及民主党能否翻转德克萨斯州。",
+          "en": "Political panel discusses what a 50-50 Senate could look like, young voters shifting toward Democrats, and whether Democrats can flip Texas."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Ukraine",
+        "Starlink",
+        "farmers",
+        "tariffs"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:DUD-mwGkAkA",
       "title": "Lehman Says Diesel, Tariffs Have Been Devastating for Farmers",
@@ -15879,56 +15924,6 @@
         "TSLA"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:emCGf9Kuqjg",
-      "title": "Quarterly Market Update 3Q 2026",
-      "title_zh": "季度市场更新：债市收益率高企、美联储改革、强劲盈利与中期选举",
-      "url": "https://www.youtube.com/watch?v=emCGf9Kuqjg",
-      "published_at": "2026-10-16T00:45:32+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "本季度股市在政策、利率与地缘政治不确定性中继续走高，受强劲盈利与基本面驱动。30年期美债收益率升至2000年代初以来最高，美联储9月加息25个基点，投资策略组预计12月再加息一次后按兵不动至2027年。标普500二季度盈利同比增长超50%（剔除两科技公司逾1500亿美元非经营性收益后为33%），中期选举或产生分裂政府，被视为利好股市。",
-      "summary_en": "Equities climbed this quarter amid policy, rate, and geopolitical uncertainty, driven by strong earnings and fundamentals. The 30-year Treasury yield reached its highest since the early 2000s, and the Fed hiked 25bp in September, with the Investment Strategy Group expecting one more hike in December and a hold through 2027. S&P 500 Q2 earnings grew over 50% year-over-year (33% excluding over $150 billion in non-operating gains from two tech companies), and the midterms are expected to yield a divided government, seen as market-friendly.",
-      "detail_zh": "本季度市场环境以政策、利率和地缘政治的不确定性为特征，但股市在强劲盈利和基本面驱动下继续攀升。债市方面，30年期美债收益率近期升至2000年代初以来最高水平，因市场预期美联储因通胀高企和增长预期走强而更趋鹰派。美联储在9月会议上加息25个基点，为2023年以来首次加息。投资策略组预计12月将再加息一次，随后美联储将按兵不动至2027年。期限溢价在收益率上行中作用有限。受收益率上升影响，投资级债券指数年初至今下跌，价格贬值抵消了票息收入；但高收益率叠加投资策略组对年底收益率走低的预测，可能使未来回报更具吸引力，且投资级债券在多元化组合中仍发挥波动缓冲和衰退对冲的风险管理作用。美联储新领导层方面，主席Kevin Warsh设立五个工作组推进改革，分别聚焦沟通、资产负债表、数据来源、生产率与就业、通胀框架，相关变化预计将是渐进的。Warsh希望减少关于美联储内部思考的沟通，让市场形成独立的经济观点，称希望市场“学会看球，而不是看裁判”；但投资者担心信息减少可能拉长货币政策时滞并给金融条件和实体经济带来不必要的波动。股市方面，标普500二季度盈利同比增长超50%，受两家科技公司逾1500亿美元股权投资的非经营性收益提振；剔除这些一次性收益后，混合盈利增长为强劲的33%，远高于二季度财报前23%的共识预期，表明今年涨势有基本面支撑而非估值扩张。展望未来，中期选举是焦点，预计将产生分裂政府；预测市场显示民主党将赢得众议院，参议院结果可能非常接近，民主党需净增四席才能取得控制权。分析1928年以来市场回报，投资策略组发现非衰退时期分裂政府下股票回报更高；鉴于未来12个月衰退概率仅20%，分裂政府可能支撑股市。风险方面，地缘政治风险突出：波斯湾冲突未解决并持续推高能源价格，冲突再度加剧可能进一步推高能源价格；8月底CIA局长John Ratcliffe访问莫斯科，以及德国东部机场靠近乌克兰货运飞机处发现武装无人机，引发对俄罗斯可能对北约采取侵略行动的担忧；与中国持续的地缘政治紧张也值得投资者警惕。尽管不确定性仍存，仍建议客户按长期战略资产配置保持投资。",
-      "detail_en": "This quarter's market environment was characterized by uncertainty around policy, rates, and geopolitics, yet equities continued to climb, driven by strong earnings and fundamentals. In bonds, the 30-year Treasury yield recently reached its highest levels since the early 2000s, as the market anticipated a more hawkish Fed due to elevated inflation and stronger growth expectations. The Fed hiked 25 basis points at its September meeting, the first hike since 2023. The Investment Strategy Group expects one more hike in December, followed by the Fed staying on hold through 2027. Term premium played a more limited role in the move higher in yields. Investment grade bond indices are down year to date as price depreciation offset income; however, elevated yields combined with the group's forecast of lower yields by year end could make future returns more attractive, and investment grade bonds still play a risk-management role as a volatility dampener and recession hedge. On Fed leadership, Chairman Kevin Warsh established five task forces on communications, the balance sheet, data sources, productivity and jobs, and the inflation framework, with changes likely gradual. Warsh wants to reduce communication about the Fed's internal thinking, saying he wants the market to 'learn to play the ball, not the referee'; but investors worry less information could lengthen monetary-policy lags and introduce unnecessary volatility into financial conditions and the real economy. In equities, the S&P 500 posted year-over-year earnings growth of over 50% in Q2, boosted by over $150 billion in non-operating gains from two technology companies' equity investments; excluding these one-time gains, blended earnings growth was a strong 33%, well above the 23% consensus heading into Q2 reporting, indicating the rally has a foundation in fundamentals rather than multiple expansion. Looking ahead, the midterms are front and center, likely resulting in a divided government; prediction markets point to Democrats winning the House, with the Senate outcome likely close (Democrats need a net of four seats). Analyzing returns since 1928, the group found that in non-recessionary periods, equity returns were higher under divided governments; with only a 20% probability of recession in the next 12 months, a divided government could be supportive of equities. On risks, geopolitical risk remains prominent: the Persian Gulf conflict is unresolved and keeps energy prices elevated, and a shift back to more intense conflict could send energy prices even higher; the late-August visit of CIA Chief John Ratcliffe to Moscow and the discovery of armed drones at an airport in eastern Germany close to Ukrainian cargo planes have raised concerns of potential Russian aggression toward NATO; continued geopolitical tension with China warrants vigilance. While uncertainty remains, clients are advised to stay invested at their long-term strategic asset allocation.",
-      "conclusion_zh": "在盈利基本面支撑、分裂政府或利好股市的背景下，尽管地缘政治风险（波斯湾、俄罗斯对北约、中国）值得警惕，仍建议按长期战略资产配置保持投资。",
-      "conclusion_en": "With earnings fundamentals supporting equities and a divided government potentially market-friendly, clients are advised to stay invested at their long-term strategic asset allocation despite geopolitical risks (Persian Gulf, Russia-NATO, China).",
-      "key_points": [
-        {
-          "zh": "30年期美债收益率升至2000年代初以来最高，美联储9月加息25个基点（2023年以来首次），投资策略组预计12月再加息一次后按兵不动至2027年。",
-          "en": "The 30-year Treasury yield reached its highest since the early 2000s; the Fed hiked 25bp in September (first since 2023), and the Investment Strategy Group expects one more hike in December followed by a hold through 2027."
-        },
-        {
-          "zh": "投资级债券指数年初至今下跌，但高收益率叠加年底收益率走低的预测可能使未来回报更具吸引力，且仍具波动缓冲和衰退对冲作用。",
-          "en": "Investment grade bond indices are down year to date, but elevated yields plus a forecast of lower yields by year end could make future returns more attractive, and they still serve as a volatility dampener and recession hedge."
-        },
-        {
-          "zh": "美联储主席Kevin Warsh设立五个工作组推进改革（沟通、资产负债表、数据来源、生产率与就业、通胀框架），变化预计渐进；其减少沟通的倾向引发对政策时滞和波动的担忧。",
-          "en": "Fed Chairman Kevin Warsh established five task forces (communications, balance sheet, data sources, productivity and jobs, inflation framework) with changes likely gradual; his preference for less communication raises concerns about policy lags and volatility."
-        },
-        {
-          "zh": "标普500二季度盈利同比增长超50%，剔除两科技公司逾1500亿美元非经营性收益后为33%，高于23%的共识，显示涨势有基本面支撑而非估值扩张。",
-          "en": "S&P 500 Q2 earnings grew over 50% year-over-year; excluding over $150 billion in non-operating gains from two tech companies, growth was 33%, above the 23% consensus, showing the rally is fundamentals-driven rather than multiple expansion."
-        },
-        {
-          "zh": "中期选举预计产生分裂政府（预测市场显示民主党赢众议院，参议院接近），历史上非衰退期分裂政府下股票回报更高，衰退概率仅20%。",
-          "en": "The midterms are expected to yield a divided government (prediction markets point to Democrats winning the House, Senate close); historically, non-recessionary periods saw higher equity returns under divided governments, with only a 20% recession probability."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "Treasury yields",
-        "earnings",
-        "midterms",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
