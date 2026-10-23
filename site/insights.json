@@ -1,6 +1,353 @@
 {
-  "generated_at": "2026-10-23T15:10:46.345856+00:00",
+  "generated_at": "2026-10-23T16:14:27.802683+00:00",
   "insights": [
+    {
+      "guid": "yt:UEDT8hSsjvw",
+      "title": "Open Interest 10/23/2026",
+      "title_zh": "Bloomberg Open Interest 节目要点：OpenAI 融资、SpaceX 无线业务与 AI 投资讨论",
+      "url": "https://www.youtube.com/watch?v=UEDT8hSsjvw",
+      "published_at": "2026-10-23T16:04:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期 Bloomberg Open Interest 聚焦 OpenAI 寻求新融资、投资者重新评估 AI 交易，以及 SpaceX 探索进军无线业务。节目还包含 UBS 的 Nadia Lovell 谈市场展望、CFTC 主席 Michael Selig 讨论预测市场与加密监管，以及 Gabelli Funds 的 Chris Marangi 分析 AI 投资与科技以外机会。",
+      "summary_en": "This episode of Bloomberg Open Interest focuses on OpenAI seeking fresh funding as investors reassess the AI trade, and SpaceX exploring a push into wireless. It also features UBS's Nadia Lovell on the market outlook, CFTC Chair Michael Selig discussing prediction markets and crypto regulation, and Chris Marangi of Gabelli Funds on AI investing and opportunities beyond tech.",
+      "detail_zh": "节目开场指出，OpenAI 正在寻求新融资，同时投资者在重新评估 AI 交易。SpaceX 正在探索进军无线业务。UBS 的 Nadia Lovell 参与讨论市场展望。CFTC 主席 Michael Selig 与 Tyler Kendall 对话，讨论预测市场和加密监管。Gabelli Funds 的 Chris Marangi 分析 AI 投资以及科技领域之外的机会。节目还涉及美国中期选举、股息策略（Dividend Nomads）、对冲基金、Forge Nano CEO Paul Lichty、沃尔沃与中国、巴西总统决选、未来一周展望以及汽油价格与可负担性等话题。",
+      "detail_en": "The program notes that OpenAI is seeking fresh funding while investors reassess the AI trade, and that SpaceX is exploring a push into wireless. UBS's Nadia Lovell joins to discuss the market outlook. CFTC Chair Michael Selig speaks with Tyler Kendall about prediction markets and crypto regulation. Chris Marangi of Gabelli Funds breaks down AI investing and opportunities beyond tech. Other segments cover the US midterms, dividend strategies (Dividend Nomads), hedge funds, Forge Nano CEO Paul Lichty, Volvo and China, the Brazil presidential runoff, the week ahead, and gas prices and affordability.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "OpenAI 正在寻求新融资，投资者重新评估 AI 交易。",
+          "en": "OpenAI is seeking fresh funding as investors reassess the AI trade."
+        },
+        {
+          "zh": "SpaceX 正在探索进军无线业务。",
+          "en": "SpaceX is exploring a push into wireless."
+        },
+        {
+          "zh": "UBS 的 Nadia Lovell 讨论市场展望。",
+          "en": "UBS's Nadia Lovell discusses the market outlook."
+        },
+        {
+          "zh": "CFTC 主席 Michael Selig 讨论预测市场和加密监管。",
+          "en": "CFTC Chair Michael Selig discusses prediction markets and crypto regulation."
+        },
+        {
+          "zh": "Gabelli Funds 的 Chris Marangi 分析 AI 投资及科技以外机会。",
+          "en": "Chris Marangi of Gabelli Funds analyzes AI investing and opportunities beyond tech."
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "SpaceX",
+        "AI investing",
+        "crypto regulation",
+        "market outlook"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fhBbfJOwaO4",
+      "title": "SpaceX Aims to Secure 80,000 Cell Sites for New Network",
+      "title_zh": "SpaceX据报洽谈锁定全美至少8万个蜂窝站点，推进第四家全国性无线运营商",
+      "url": "https://www.youtube.com/watch?v=fhBbfJOwaO4",
+      "published_at": "2026-10-23T15:25:45+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据Bloomberg Television报道，SpaceX正洽谈在全美锁定至少8万个蜂窝站点，此举将巩固其建设第四家全国性无线运营商的路径。该消息由Ruhell Amin报道，但未披露交易金额、合作方或时间表。",
+      "summary_en": "SpaceX is reportedly in talks to secure a minimum of 80,000 cell sites across the US, a move that would solidify its path toward building a fourth nationwide wireless carrier, according to Bloomberg Television's Ruhell Amin. No deal value, partners, or timeline were disclosed.",
+      "detail_zh": "Bloomberg Television的Ruhell Amin报道称，SpaceX正在洽谈在全美范围内锁定至少8万个蜂窝站点。报道指出，这一举措将巩固这家火箭与卫星巨头建设第四家全国性无线运营商的路径。原文未披露潜在交易金额、合作方、站点来源或时间表，也未说明这些站点将用于何种具体服务。该报道属于简短新闻播报，未提供进一步的财务或战略细节。",
+      "detail_en": "Bloomberg Television's Ruhell Amin reported that SpaceX is in talks to secure a minimum of 80,000 cell sites across the US. The report said the move would solidify the rocket and satellite giant's path toward building a fourth nationwide wireless carrier. The original item did not disclose a potential deal value, partners, site sources, or a timeline, nor did it specify what services the sites would support. The report is a brief news segment without further financial or strategic detail.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "SpaceX据报正洽谈在全美锁定至少8万个蜂窝站点。",
+          "en": "SpaceX is reportedly in talks to secure at least 80,000 cell sites across the US."
+        },
+        {
+          "zh": "此举将巩固其建设第四家全国性无线运营商的路径。",
+          "en": "The move would solidify its path toward building a fourth nationwide wireless carrier."
+        },
+        {
+          "zh": "报道未披露交易金额、合作方或时间表。",
+          "en": "The report did not disclose deal value, partners, or a timeline."
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "wireless carrier",
+        "cell sites",
+        "telecom"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:0HRn8JGofG0",
+      "title": "Dudley Sees Fed Likely to Hold With a Hike Coming in December",
+      "title_zh": "前纽约联储主席Dudley：预计美联储10月按兵不动，关注AI建设对利率的影响",
+      "url": "https://www.youtube.com/watch?v=0HRn8JGofG0",
+      "published_at": "2026-10-23T15:25:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Bill Dudley讨论美联储“三驾马车”的利率沟通、AI建设对利率的影响，并预计美联储10月将维持利率不变。其观点仅代表个人。",
+      "summary_en": "Bill Dudley discusses the Fed troika's rate messaging, the influence of the AI buildout on rates, and expects the central bank to hold steady in October. His opinions are his own.",
+      "detail_zh": "前纽约联储主席、彭博专栏作家Bill Dudley就美联储所谓“三驾马车”的利率沟通发表看法。他还讨论了人工智能建设对利率的影响。Dudley表示，他预计美联储将在10月维持利率不变。上述观点仅代表其个人。",
+      "detail_en": "Bill Dudley, former New York Fed President and Bloomberg Opinion columnist, discusses messaging on interest rates from the Federal Reserve's so-called troika. He also addresses the influence of the artificial intelligence buildout on rates. Dudley says he expects the central bank to hold steady in October. His opinions are his own.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Dudley讨论美联储“三驾马车”的利率沟通",
+          "en": "Dudley discusses the Fed troika's messaging on interest rates"
+        },
+        {
+          "zh": "Dudley关注AI建设对利率的影响",
+          "en": "Dudley addresses the influence of the AI buildout on rates"
+        },
+        {
+          "zh": "Dudley预计美联储10月将维持利率不变",
+          "en": "Dudley expects the Fed to hold steady in October"
+        }
+      ],
+      "tags": [
+        "Fed",
+        "interest rates",
+        "AI buildout",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:pm8nQQlbAQQ",
+      "title": "Oil Climbs on Threats of a Widening War in Middle East",
+      "title_zh": "布伦特原油升至5月以来最高，也门胡塞武装袭击沙特红海港口",
+      "url": "https://www.youtube.com/watch?v=pm8nQQlbAQQ",
+      "published_at": "2026-10-23T15:25:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "布伦特原油周五升至5月以来最高水平，此前伊朗支持的胡塞武装宣称袭击了沙特红海港口延布及一处油田和机场。此次冲突升级可能扩大霍尔木兹海峡周边的敌对行动，该海峡原油出口已恢复至接近战前水平。",
+      "summary_en": "Brent crude traded at its highest level since May on Friday after Iran-backed Houthi militants claimed attacks on Saudi Arabia's Red Sea port of Yanbu, an oil field and an airport. The flare-up threatens to widen hostilities around the Strait of Hormuz, where crude exports have recovered to near prewar levels.",
+      "detail_zh": "布伦特原油周五交易于5月以来的最高水平。伊朗支持的胡塞武装分子宣称对沙特红海港口延布发动了近期袭击，并声称对沙特境内一处油田和机场进行了致命打击。此次冲突升级可能扩大霍尔木兹海峡周边的敌对行动。该海峡的原油出口已恢复至接近战前水平。上述信息由Abeer Abu Omar在Bloomberg Television报道。",
+      "detail_en": "Brent oil traded at the highest level since May on Friday. Iran-backed Houthi militants claimed recent attacks on the Saudi Red Sea port of Yanbu, as well as deadly strikes on an oil field and an airport in the kingdom. The flare-up threatens to widen hostilities around the Strait of Hormuz, where crude exports have recovered to near prewar levels. Abeer Abu Omar reported on Bloomberg Television.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "布伦特原油周五升至5月以来最高水平",
+          "en": "Brent crude traded at its highest level since May on Friday"
+        },
+        {
+          "zh": "伊朗支持的胡塞武装宣称袭击沙特红海港口延布、一处油田和机场",
+          "en": "Iran-backed Houthi militants claimed attacks on Saudi Red Sea port Yanbu, an oil field and an airport"
+        },
+        {
+          "zh": "冲突升级可能扩大霍尔木兹海峡周边的敌对行动",
+          "en": "The flare-up threatens to widen hostilities around the Strait of Hormuz"
+        },
+        {
+          "zh": "霍尔木兹海峡原油出口已恢复至接近战前水平",
+          "en": "Crude exports through the Strait of Hormuz have recovered to near prewar levels"
+        }
+      ],
+      "tags": [
+        "oil",
+        "Brent",
+        "Houthi",
+        "Saudi Arabia",
+        "Strait of Hormuz"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:jBSCd9acVfo",
+      "title": "Hedge Funds Suffer Widest Daily Drawdown Since Covid",
+      "title_zh": "高盛：全球对冲基金遭遇疫情以来最广泛回撤之一",
+      "url": "https://www.youtube.com/watch?v=jBSCd9acVfo",
+      "published_at": "2026-10-23T15:23:16+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据高盛主经纪业务部门，周四股市抛售后，全球对冲基金录得自新冠疫情以来最广泛的跌幅之一。该信息由Nishant Kumar在Bloomberg Television报道。",
+      "summary_en": "Global hedge funds logged one of their broadest declines since the Covid pandemic on Thursday following the stock market selloff, according to Goldman Sachs Group Inc.'s prime brokerage desk, as reported by Nishant Kumar on Bloomberg Television.",
+      "detail_zh": "高盛集团主经纪业务部门的数据显示，周四股市抛售之后，全球对冲基金录得了自新冠疫情以来最广泛的跌幅之一。该信息由Nishant Kumar在Bloomberg Television上报道。原文未提供具体跌幅数字、涉及的具体基金或股票代码，也未说明抛售的触发因素或后续影响。",
+      "detail_en": "According to Goldman Sachs Group Inc.'s prime brokerage desk, global hedge funds logged one of their broadest declines since the Covid pandemic on Thursday following the stock market selloff. The information was reported by Nishant Kumar on Bloomberg Television. The original text does not provide specific decline figures, affected funds or tickers, nor does it explain the triggers or implications of the selloff.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "高盛主经纪业务数据显示，全球对冲基金周四录得自疫情以来最广泛跌幅之一。",
+          "en": "Goldman Sachs prime brokerage data shows global hedge funds logged one of their broadest declines since the pandemic on Thursday."
+        },
+        {
+          "zh": "此次回撤发生在股市抛售之后。",
+          "en": "The drawdown followed a stock market selloff."
+        },
+        {
+          "zh": "信息由Nishant Kumar在Bloomberg Television报道。",
+          "en": "The information was reported by Nishant Kumar on Bloomberg Television."
+        }
+      ],
+      "tags": [
+        "hedge funds",
+        "selloff",
+        "Goldman Sachs",
+        "prime brokerage"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:mcbTvtgXthI",
+      "title": "The Rundown: SpaceX-Tesla merger talks, Zuckerberg’s tax bill",
+      "title_zh": "科技要闻速览：SpaceX-Tesla潜在合并、Meta税务方案与AI代理之争",
+      "url": "https://www.youtube.com/watch?v=mcbTvtgXthI",
+      "published_at": "2026-10-23T15:22:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期The Rundown聚焦三大科技议题：SpaceX与Tesla可能合并、Meta为扎克伯格潜在数十亿美元税单寻求解决方案，以及AI代理竞争加剧。内容仅为节目预告，未提供具体细节或投资判断。",
+      "summary_en": "This episode of The Rundown highlights three tech stories: a potential SpaceX-Tesla merger, Meta's solution for Mark Zuckerberg's potential multibillion-dollar tax bill, and the growing battle of AI agents. The content is a preview without specific details or investment judgments.",
+      "detail_zh": "Ed Ludlow在The Rundown节目中概述了本周最重大的科技新闻。首先，市场关注SpaceX与Tesla之间可能进行的合并。其次，Meta正在为CEO马克·扎克伯格潜在的数十亿美元税单寻找解决方案。第三，AI代理领域的竞争日益激烈。节目仅提及这些话题，未展开具体内容、数字或分析。",
+      "detail_en": "Ed Ludlow outlines the biggest tech stories of the week on The Rundown. First, attention is on a potential merger between SpaceX and Tesla. Second, Meta is seeking a solution for CEO Mark Zuckerberg's potential multibillion-dollar tax bill. Third, competition in the AI agent space is intensifying. The episode only mentions these topics without providing specific details, figures, or analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "SpaceX与Tesla可能合并",
+          "en": "Potential SpaceX-Tesla merger"
+        },
+        {
+          "zh": "Meta为扎克伯格潜在数十亿美元税单寻求解决方案",
+          "en": "Meta's solution for Mark Zuckerberg's potential multibillion-dollar tax bill"
+        },
+        {
+          "zh": "AI代理竞争加剧",
+          "en": "Growing battle of AI agents"
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "Tesla",
+        "Meta",
+        "AI agents",
+        "tech news"
+      ],
+      "tickers": [
+        "TSLA",
+        "META"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:1cpN2NvJepQ",
+      "title": "Bloomberg Surveillance 10/23/2026",
+      "title_zh": "彭博观察：信贷压力、科技股走弱与油价飙升",
+      "url": "https://www.youtube.com/watch?v=1cpN2NvJepQ",
+      "published_at": "2026-10-23T15:18:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博观察讨论了信贷市场压力、科技股回调以及油价上涨的背景。嘉宾观点涉及债券配置价值回升、美联储政策路径分歧、选举对科技股和长期收益率的影响，以及AI交易逻辑从支出能力转向负担能力的转变。",
+      "summary_en": "Bloomberg Surveillance discusses credit stress, a tech rout, and an oil surge. Guests weigh in on bonds regaining appeal, diverging views on the Fed's path, election implications for tech and long-term yields, and the AI trade shifting from spending capacity to affordability.",
+      "detail_zh": "节目围绕信贷压力、科技股走弱和油价飙升展开。Manulife John Hancock Investments的Matt Miskin认为，随着科技风险上升，债券重新发挥作用。Eurasia Group的Jon Lieber讨论美国可能在中期选举后恢复对伊朗的打击。Yorkville Ives & Co的Dan Ives表示，蓝色浪潮对科技股不利。Bloomberg Economics的Bill Dudley预计美联储将按兵不动，然后在12月加息。BlackRock Investment Institute的Jean Boivin对长期美债转为看多。UBS的Kurt Reiman认为选举结果可能使长期收益率维持高位。CIBC Private Wealth的Rebecca Babin指出霍尔木兹海峡的石油运输成本高出五倍。Morgan Stanley的Vishy Tirupattur表示超大规模企业的信用质量依然强劲。Schwab的Liz Ann Sonders认为AI交易正从“谁能支出”转向“谁能负担”。Baird的Ted Mortonson讨论Anthropic的IPO面临艰难市场。The Conference Board的Erin McLaughlin指出美联储信号是观望，但数据指向加息。Mackenzie Investments的Lesley Marks认为市场轮动创造了科技以外的机会。",
+      "detail_en": "The program covers credit stress, a tech rout, and an oil surge. Matt Miskin of Manulife John Hancock Investments argues bonds are working again as tech risk rises. Jon Lieber of Eurasia Group discusses the US potentially resuming Iran strikes after the midterms. Dan Ives of Yorkville Ives & Co says a blue wave would be negative for tech. Bill Dudley of Bloomberg Economics expects the Fed to hold and then hike in December. Jean Boivin of BlackRock Investment Institute turns positive on long-term Treasuries. Kurt Reiman of UBS says the election outcome could keep long-term yields higher. Rebecca Babin of CIBC Private Wealth notes Hormuz oil flows are five times more expensive. Vishy Tirupattur of Morgan Stanley says hyperscaler credit quality remains strong. Liz Ann Sonders of Schwab says the AI trade shifts from who can spend to who can afford it. Ted Mortonson of Baird discusses Anthropic facing a tough market for its IPO. Erin McLaughlin of The Conference Board notes the Fed signals a hold but data says hike. Lesley Marks of Mackenzie Investments sees market rotation creating opportunity beyond tech.",
+      "conclusion_zh": "在科技风险上升与政策不确定性交织的背景下，债券的配置价值重新显现，AI交易逻辑正转向对负担能力的审视。",
+      "conclusion_en": "With rising tech risk and policy uncertainty, bonds are regaining allocation appeal, while the AI trade shifts toward affordability.",
+      "key_points": [
+        {
+          "zh": "Matt Miskin：随着科技风险上升，债券重新发挥作用。",
+          "en": "Matt Miskin: Bonds are working again as tech risk rises."
+        },
+        {
+          "zh": "Bill Dudley：美联储可能按兵不动，然后在12月加息。",
+          "en": "Bill Dudley: The Fed is likely to hold, then hike in December."
+        },
+        {
+          "zh": "Jean Boivin：贝莱德对长期美债转为看多。",
+          "en": "Jean Boivin: BlackRock turns positive on long-term Treasuries."
+        },
+        {
+          "zh": "Liz Ann Sonders：AI交易从“谁能支出”转向“谁能负担”。",
+          "en": "Liz Ann Sonders: The AI trade shifts from who can spend to who can afford it."
+        },
+        {
+          "zh": "Dan Ives：蓝色浪潮对科技股不利。",
+          "en": "Dan Ives: A blue wave would be negative for tech."
+        }
+      ],
+      "tags": [
+        "credit stress",
+        "tech rout",
+        "oil surge",
+        "Fed policy",
+        "AI trade"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:wYNO7ax-Bq4",
+      "title": "Brazil's Lula and Bolsonaro Tied Heading Into Runoff",
+      "title_zh": "巴西总统大选进入决选，民调显示两位候选人支持率持平",
+      "url": "https://www.youtube.com/watch?v=wYNO7ax-Bq4",
+      "published_at": "2026-10-23T15:14:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "最新民调显示，巴西参议员弗拉维奥·博索纳罗与总统卢拉·达席尔瓦在周日决选前支持率持平。彭博社的罗德里戈·奥里纽埃拉表示，在博索纳罗首轮表现良好后，卢拉一直在动员选民。",
+      "summary_en": "New polling shows Senator Flávio Bolsonaro and President Luiz Inácio Lula da Silva are tied ahead of Sunday's runoff presidential election in Brazil. Bloomberg's Rodrigo Orinhuela says Lula has been mobilizing voters after Bolsonaro had a good showing in the first round.",
+      "detail_zh": "最新民调显示，巴西参议员弗拉维奥·博索纳罗与总统卢拉·达席尔瓦在周日决选前支持率持平。彭博社的罗德里戈·奥里纽埃拉指出，在博索纳罗首轮表现良好后，卢拉一直在动员选民。报道未提供具体民调数字、决选日期细节或对市场的影响分析。",
+      "detail_en": "New polling shows Senator Flávio Bolsonaro and President Luiz Inácio Lula da Silva are tied ahead of Sunday's runoff presidential election in Brazil. Bloomberg's Rodrigo Orinhuela says Lula has been mobilizing voters after Bolsonaro had a good showing in the first round. The report does not provide specific poll numbers, runoff date details, or market impact analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民调显示弗拉维奥·博索纳罗与卢拉在决选前支持率持平。",
+          "en": "Polling shows Flávio Bolsonaro and Lula tied ahead of the runoff."
+        },
+        {
+          "zh": "彭博社的罗德里戈·奥里纽埃拉表示，卢拉在博索纳罗首轮表现良好后一直在动员选民。",
+          "en": "Bloomberg's Rodrigo Orinhuela says Lula has been mobilizing voters after Bolsonaro's strong first-round showing."
+        },
+        {
+          "zh": "巴西总统决选定于周日举行。",
+          "en": "Brazil's presidential runoff is scheduled for Sunday."
+        }
+      ],
+      "tags": [
+        "Brazil election",
+        "Lula",
+        "Bolsonaro",
+        "runoff"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:5P5Rz3nQT_M",
       "title": "CFTC Chair on Prediction Markets, Election, Oil Trades",
@@ -15370,294 +15717,6 @@
         "policy risk"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:j2jSLruhTz8",
-      "title": "Bloomberg Surveillance 10/16/2026",
-      "title_zh": "AI交易波动加剧，科技股回调与信贷利差走阔",
-      "url": "https://www.youtube.com/watch?v=j2jSLruhTz8",
-      "published_at": "2026-10-16T15:45:26+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "买方观点认为AI主题长期基本面依然重要，但短期波动难免。科技股经历五轮两位数回调，资金正从科技轮动至医疗、小盘股与等权指数。与此同时，AI相关企业信贷利差连续第五周走阔，CoreWeave债务信号引发关注，市场对美联储加息路径与资本开支回报的担忧升温。",
-      "summary_en": "Buy-side views suggest the AI theme remains fundamentally important long term, but near-term volatility is inevitable. Tech has seen five double-digit pullbacks, with money rotating into healthcare, small caps and equal-weight indices. Meanwhile, AI-related credit spreads have widened for a fifth week, CoreWeave debt signals drew attention, and concerns over the Fed's hiking path and capex returns are rising.",
-      "detail_zh": "节目讨论指出，AI交易将伴随波动与波折，但AI主题对整体经济活动故事非常重要，长期基本面影响才是关键。美联储主席Kevin Warsh对利率保持不置可否，称不预判会议、不评论可能行动，市场普遍认为10月加息可能已被排除，但Williams也未表达10月加息的紧迫感。此前CPI与PPI数据偏热，长端债券收益率在数据偏软情况下仍出现反弹。信贷方面，利差已连续第五周走阔，8月收于260，后扩大至320，走阔超60个基点，资本成本上升，令所谓资本开支交易的成长引擎受损；CoreWeave债务被指释放出困境水平信号。股票方面，芯片股此前连续七日下跌，股指期货小幅上涨约0.1%试图止跌。Truist的Keith Lerner表示，投资者对科技的爱恨关系持续，长期看多但科技重置可能还有空间；上月标普仅两个板块上涨，而本月11个板块中10个上涨、仅科技下跌，资金轮动至医疗、小盘股与等权指数。他提到科技自低点以来已翻倍于标普，但期间出现五次两位数回调，担忧来自资本开支能否转化为利润以及更高利率。他称科技远期盈利预估上升18%，未见变化，超大规模企业核心业务（含云）增长仍强，边际依赖杠杆与债市的参与者问题更大，偏好资产负债表强劲的高质量公司。",
-      "detail_en": "The discussion noted the AI trade will come with volatility and potholes, but the AI theme is very important for the broader economic activity story, with long-term fundamental impact being key. Fed Chair Kevin Warsh remained noncommittal on rates, saying he does not prejudge meetings and is not in that business; many believe October is off the table, while Williams also injected no sense of urgency about an October hike. This followed a double dose of hotter CPI and PPI, with a rally at the back end of the curve even amid softer-than-expected data. On credit, spreads widened for a fifth week, closing August at 260 and blowing out to 320, a move of over 60 basis points, raising the cost of capital and compromising growth engines of the so-called capex trade; CoreWeave was said to signal distress levels on its debt. On equities, chip stocks were looking to snap a seven-day losing streak, with S&P futures up about 0.1%. Truist's Keith Lerner said the love-hate relationship with tech continues, remaining a long-term bull but seeing the tech reset likely having further to go; last month only two S&P sectors were up, while this month 10 of 11 sectors are up and only tech is down, with rotation into healthcare, small caps and equal weight. He noted tech has more than doubled the S&P but had five double-digit pullbacks, with concerns over whether capex turns into profits and higher rates. He cited forward tech earnings estimates up 18% with no change, strong hyperscaler core growth including cloud, bigger problems among marginal leveraged players, and a preference for quality companies with big balance sheets.",
-      "conclusion_zh": "AI主题长期逻辑未变，但短期需警惕科技股进一步重置与AI相关信贷利差走阔带来的资本成本压力，资金轮动与高质量标的或是当前更稳妥的方向。",
-      "conclusion_en": "The long-term AI thesis is intact, but near-term risks include further tech reset and rising capital costs from widening AI-related credit spreads; rotation and quality names may be the safer positioning for now.",
-      "key_points": [
-        {
-          "zh": "AI交易将伴随波动，但AI主题对整体经济活动与长期基本面仍非常重要。",
-          "en": "The AI trade will see volatility, but the AI theme remains very important for broader economic activity and long-term fundamentals."
-        },
-        {
-          "zh": "美联储主席Warsh对利率不置可否，市场认为10月加息可能已被排除，但CPI与PPI偏热令加息辩论持续。",
-          "en": "Fed Chair Warsh remained noncommittal on rates; markets see October as likely off the table, but hotter CPI and PPI keep the hiking debate alive."
-        },
-        {
-          "zh": "AI相关信贷利差连续第五周走阔，从260扩大至320，资本成本上升，CoreWeave债务被指释放困境信号。",
-          "en": "AI-related credit spreads widened for a fifth week, from 260 to 320, raising the cost of capital, with CoreWeave debt signaling distress."
-        },
-        {
-          "zh": "科技股经历五次两位数回调，本月11个板块中10个上涨、仅科技下跌，资金轮动至医疗、小盘股与等权指数。",
-          "en": "Tech has seen five double-digit pullbacks; this month 10 of 11 sectors are up with only tech down, as money rotates into healthcare, small caps and equal weight."
-        },
-        {
-          "zh": "Truist的Lerner长期看多科技，但认为重置可能还有空间，偏好资产负债表强劲的高质量公司，边际杠杆参与者问题更大。",
-          "en": "Truist's Lerner remains a long-term tech bull but sees the reset likely having further to go, preferring quality companies with big balance sheets as marginal leveraged players face bigger problems."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "tech rotation",
-        "credit spreads",
-        "Fed policy",
-        "capex"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:1hv5rgcpRUg",
-      "title": "Molavi: Saudis & Houthis Can Hit Hard; Not End War",
-      "title_zh": "沙特与胡塞武装冲突升级：伊朗角色、美国介入时机与战争困境",
-      "url": "https://www.youtube.com/watch?v=1hv5rgcpRUg",
-      "published_at": "2026-10-16T15:41:18+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "沙特与胡塞武装的冲突正在升级，胡塞武装通过无人机和弹道导弹展示了深入打击沙特的能力，背后有伊朗支持但保持一定独立性。分析人士认为特朗普在中期选举（11月3日）前不太可能直接介入，但选举后美国可能恢复对也门和伊朗的军事打击。核心困境在于：即使拥有压倒性常规军力，也无法单靠空袭决定战争何时结束。",
-      "summary_en": "The conflict between Saudi Arabia and the Houthis is escalating, with the Houthis demonstrating the ability to strike deep into the kingdom using drones and ballistic missiles, backed by Iran but exercising some independence. The analyst believes Trump is unlikely to get directly involved before the midterm elections on November 3rd, but after the midterms the U.S. could resume military strikes in Yemen and Iran. The central dilemma: even with overwhelming conventional power, you cannot dictate when these wars end through airstrikes alone.",
-      "detail_zh": "沙特与胡塞武装之间的冲突已持续十余年，目前正在升级。分析人士指出，胡塞武装已展示出用无人机和弹道导弹深入打击沙特不同地区的能力。从大约2022年到2025年，沙特与胡塞武装处于\"不战不和\"状态，在此期间胡塞武装持续扩充武器库，获得伊朗支持，并有报道称其从中国进行采购。分析人士认为这代表了\"新的战争方式\"——不再只有拥有常规军事力量的一方才能占据主导。关于伊朗的控制力，分析人士认为伊朗确实支持胡塞武装，但胡塞武装并非总是听命于伊朗，其在行动中拥有一定独立性，不像黎巴嫩真主党那样与伊朗伊斯兰革命卫队紧密绑定。在美方介入问题上，分析人士判断特朗普在11月3日中期选举前直接介入的可能性较低，因为他正忙于竞选活动、支持共和党候选人，且支持率低于40%。但中期选举后，美国在中东已有兵力部署，可能开始打击也门胡塞武装并恢复对伊朗的打击。分析人士强调应关注11月3日之后而非接下来三周。关于沙特是否会被拖入长期冲突，分析人士指出沙特愿意继续战斗，这对他们而言正变得更加关乎存亡。美国和一特朗普可以随时发动毁灭性空袭，沙特也拥有能重创胡塞武装的常规力量，但能造成破坏并不意味着能按自己的意愿宣布战争结束，尤其是面对伊朗伊斯兰共和国或胡塞民兵——这些实体对本国人民的福祉漠不关心，并展现出反击意愿。这是沙特和美国面临的核心困境。",
-      "detail_en": "The conflict between Saudi Arabia and the Houthis has been ongoing for over a decade and is now escalating. The analyst notes the Houthis have demonstrated the ability to strike deep into different parts of Saudi Arabia using drones and ballistic missiles. From roughly 2022 to 2025, Saudi Arabia and the Houthis were in a 'no war, no peace' period, during which the Houthis clearly built up their arsenal, received support from Iran, and there were reports of purchases from China. The analyst describes this as 'the new way of war' — no longer will only those with conventional military power dominate. On Iran's control, the analyst says Iran certainly backs the Houthis, but the Houthis do not always take orders from Iran; they are aligned in many objectives but exercise a certain independence, unlike Hezbollah in Lebanon which is much more intricately tied to Iran's Islamic Revolutionary Guard Corps. On U.S. involvement, the analyst judges it less likely that President Trump will get involved before November 3rd, as he is busy on the campaign trail supporting Republican candidates and looking at sub-40% approval ratings. But after the midterms, the U.S. has the force posture in the Middle East to begin striking the Houthis in Yemen and renewing strikes in Iran. The analyst stresses focusing on what happens after November 3rd rather than the next three weeks. On whether Saudi Arabia could be dragged into a prolonged conflict, the analyst notes Saudi Arabia is willing to continue this battle, which is becoming more existential for them. The U.S. and President Trump can inflict devastating damage with airstrikes at a time of his choosing, and Saudi Arabia has conventional powers to hit and hurt the Houthis. But just because you can inflict damage at the time of your choosing doesn't mean you can declare the end of these wars at the time of your choosing, particularly when dealing with the Islamic Republic of Iran or the Houthi militias — entities that have shown a low regard for the health and welfare of their own people and a willingness to fight back. This is the central dilemma faced by both Saudi Arabia and the United States.",
-      "conclusion_zh": "中东地缘风险在中期选举后可能显著上升，美国或恢复对也门和伊朗的军事打击，投资者应关注11月3日之后中东局势升级对能源价格和风险资产的潜在冲击。",
-      "conclusion_en": "Middle East geopolitical risk could rise significantly after the midterm elections, with the U.S. potentially resuming military strikes in Yemen and Iran; investors should watch for post-November 3rd escalation risks to energy prices and risk assets.",
-      "key_points": [
-        {
-          "zh": "胡塞武装已展示出用无人机和弹道导弹深入打击沙特的能力，在2022至2025年\"不战不和\"期间持续扩充武器库，获得伊朗支持并有报道称从中国采购。",
-          "en": "The Houthis have demonstrated the ability to strike deep into Saudi Arabia with drones and ballistic missiles, building up their arsenal during the 2022-2025 'no war, no peace' period with Iranian support and reported purchases from China."
-        },
-        {
-          "zh": "伊朗支持胡塞武装，但胡塞武装并非总是听命于伊朗，其独立性高于黎巴嫩真主党与伊朗革命卫队的关系。",
-          "en": "Iran backs the Houthis, but the Houthis do not always take orders from Iran and exercise more independence than Hezbollah does in its ties to Iran's IRGC."
-        },
-        {
-          "zh": "分析人士判断特朗普在11月3日中期选举前直接介入的可能性较低，但选举后美国可能恢复对也门胡塞武装和伊朗的军事打击。",
-          "en": "The analyst judges it less likely Trump will get directly involved before the November 3rd midterms, but after the midterms the U.S. could resume military strikes against the Houthis in Yemen and Iran."
-        },
-        {
-          "zh": "沙特愿意继续战斗，冲突对其正变得更加关乎存亡；但核心困境在于，即使能随时发动毁灭性空袭，也无法按自己的意愿宣布战争结束。",
-          "en": "Saudi Arabia is willing to continue the battle, which is becoming more existential for them; but the central dilemma is that even with the ability to inflict devastating airstrikes at will, you cannot declare the end of these wars at the time of your choosing."
-        }
-      ],
-      "tags": [
-        "Middle East",
-        "Saudi Arabia",
-        "Houthis",
-        "Iran",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:Gc7Zsxb-Gx0",
-      "title": "Full Interview: Fed's Warsh on the Global Economy, AI",
-      "title_zh": "美联储主席沃什：全球投资热潮与顽固通胀并存",
-      "url": "https://www.youtube.com/watch?v=Gc7Zsxb-Gx0",
-      "published_at": "2026-10-16T15:40:36+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美联储主席凯文·沃什在IMF年会期间表示，全球经济正经历由良好政策驱动的结构性增长与投资热潮，美国投资激增尤为显著，这与二十年前盛行的\"长期停滞\"论形成鲜明对比。但他同时指出，各国央行普遍面临顽固的价格压力，美联储已在一个月前撤出一部分宽松，并强调政策制定至关重要。",
-      "summary_en": "Fed Chairman Kevin Warsh said at the IMF annual meetings that the global economy is experiencing structural growth and an investment surge driven by good policy, with a particularly massive investment surge in the United States—a sharp contrast to the \"secular stagnation\" narrative of 20 years ago. He also noted stubborn price pressures facing central banks everywhere, and that the Fed removed a dose of accommodation about a month ago, stressing that policy matters.",
-      "detail_zh": "沃什在IMF年会期间回顾了其职业生涯，包括在全球金融危机期间担任美联储史上最年轻理事（35岁）的经历，并称自己至今仍带着那段\"最黑暗日子\"的\"疤痕\"，宁可\"疤痕过多\"也不要\"疤痕不足\"。他表示，作为政策制定者，他倾向于\"看向窗外\"，而非只关注滞后数据或试图精准预测未来，美联储每年约八次FOMC会议就是这样的\"看向窗外\"时刻。他提到约一个月前的9月会议已做出判断，此后全球大体符合美联储预期，年内还将有更多会议作为\"结晶时刻\"。沃什指出，二十年前此类会议讨论的是\"长期停滞\"，而如今是结构性增长与投资热潮，美国正经历大规模投资激增，这并非偶然，而是良好宏观政策与强劲微观基础的成果，可能是全球经济上行中最重要的现象。但他同时强调，与各国央行交流时普遍听到价格飙升的问题，美联储已明确承诺实现价格稳定，并在约一个月前撤出一部分宽松。他表示不预先判断会议决定，也不愿提前说明年内剩余会议可能采取的行动。",
-      "detail_en": "At the IMF annual meetings, Warsh reviewed his career, including serving as the youngest-ever Fed governor at age 35 during the global financial crisis, saying he still carries \"scar tissue\" from those \"deepest darkest days\" and would rather be \"over scarred than under scarred.\" He said that as a policymaker he tries to \"look outside the window\" rather than focus only on lag data or attempt precise forecasts, and that the Fed does this about eight times a year at FOMC meetings. He noted the September meeting about a month ago reached a judgment, that the world has broadly conformed to Fed expectations since, and that more meetings this year will be \"crystallizing\" moments. Warsh said that 20 years ago such meetings discussed \"secular stagnation,\" whereas now there is structural growth and an investment surge, with a massive investment surge in the United States—not by accident but as a consequence of good macroeconomic policy and strong micro foundations, possibly the most important upside development in the global economy. He also stressed that in discussions with central bankers he hears the same thing about surging prices, that the Fed has made clear it will deliver price stability and removed a dose of accommodation about a month ago. He said he does not prejudge meetings or say now what he might do at remaining meetings this year.",
-      "conclusion_zh": "沃什的讲话显示美联储在承认结构性增长与投资热潮的同时，仍将价格稳定置于核心，并已撤出一部分宽松；投资者需关注年内剩余FOMC会议对通胀与政策路径的进一步确认。",
-      "conclusion_en": "Warsh's remarks suggest the Fed acknowledges structural growth and an investment surge while keeping price stability central and having already removed a dose of accommodation; investors should watch the remaining FOMC meetings this year for further confirmation on inflation and the policy path.",
-      "key_points": [
-        {
-          "zh": "沃什认为全球经济正从\"长期停滞\"叙事转向结构性增长与投资热潮，美国投资激增尤为突出，且这源于良好政策而非偶然。",
-          "en": "Warsh sees the global economy shifting from a \"secular stagnation\" narrative to structural growth and an investment surge, with a particularly massive US investment surge driven by good policy rather than by accident."
-        },
-        {
-          "zh": "各国央行普遍面临顽固的价格压力，美联储已明确承诺价格稳定，并在约一个月前撤出一部分宽松。",
-          "en": "Central banks everywhere face stubborn price pressures; the Fed has made clear it will deliver price stability and removed a dose of accommodation about a month ago."
-        },
-        {
-          "zh": "沃什强调政策制定至关重要，良好的宏观政策与强劲的微观基础可以带来投资热潮。",
-          "en": "Warsh stressed that policy matters, and that decent macro policy and strong micro foundations can lead to an investment surge."
-        },
-        {
-          "zh": "沃什表示不预先判断FOMC会议决定，也不提前说明年内剩余会议可能采取的行动。",
-          "en": "Warsh said he does not prejudge FOMC meetings or say now what he might do at the remaining meetings this year."
-        },
-        {
-          "zh": "沃什称其全球金融危机期间的经历留下\"疤痕\"，宁可\"疤痕过多\"也不要\"疤痕不足\"。",
-          "en": "Warsh said his experience during the global financial crisis left \"scar tissue,\" and he would rather be \"over scarred than under scarred.\""
-        }
-      ],
-      "tags": [
-        "Fed",
-        "monetary policy",
-        "inflation",
-        "investment surge",
-        "global economy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:PqhvFL24pt4",
-      "title": "Trump’s Russia Sanctions Waiver Fallout, Violence In France | Bloomberg This Weekend: Oct 18th, 2026",
-      "title_zh": "彭博周末节目预告：特朗普对俄关税豁免引共和党批评，布伦特原油突破110美元",
-      "url": "https://www.youtube.com/watch?v=PqhvFL24pt4",
-      "published_at": "2026-10-16T15:40:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博周末节目涵盖多项议题：共和党议员批评特朗普豁免对俄新关税与制裁；特朗普威胁对伊朗使用“炸弹之母”；布伦特原油自5月以来首次突破110美元/桶，因供应缓解前景渺茫。节目还采访了PIMCO市场策略师Tony Crescenzi等嘉宾。",
-      "summary_en": "This weekend's Bloomberg program covers several topics: Republican lawmakers criticized Donald Trump for waiving new tariffs and sanctions on Russia; Trump threatened to use the 'Mother Of All Bombs' against Iran; Brent oil hit $110 a barrel for the first time since May as prospects for imminent supply relief dwindle. The show also features interviews with PIMCO market strategist Tony Crescenzi and others.",
-      "detail_zh": "彭博周末节目预告列出今日节目要点：共和党议员严厉批评特朗普豁免对俄罗斯的新关税与制裁；特朗普总统威胁对伊朗使用被称为“炸弹之母”的武器；布伦特原油自5月以来首次触及110美元/桶，因即将到来的供应缓解前景日渐渺茫。此外，教皇利奥十四世被诊断出肺癌，手术中切除了右肺下叶；OpenAI一名员工在旧金山办公室使用隐藏录音设备被捕并遭指控。节目采访嘉宾包括新罕布什尔州民主党参议员候选人Chris Pappas众议员、得克萨斯州民主党众议员Marc Veasey、PIMCO执行副总裁兼市场策略师Tony Crescenzi，以及《康泰纳仕旅行者》高级专题编辑Megan Spurrell。节目还将于本周日在卡塔尔经济论坛进行六小时扩展直播。",
-      "detail_en": "The Bloomberg This Weekend program preview lists today's show highlights: Republican lawmakers blasted Donald Trump for waiving new tariffs and sanctions on Russia; President Donald Trump threatened to use what's known as the 'Mother Of All Bombs' to hit Iran; Brent oil hit $110 a barrel for the first time since May as prospects for imminent supply relief dwindle. Additionally, doctors diagnosed Pope Leo XIV with lung cancer and removed the lower lobe of his right lung during surgery; an OpenAI employee was arrested and charged with using a hidden recording device in one of the company's San Francisco offices. Guests include Rep. Chris Pappas (D-NH), US Senate Candidate; Rep. Marc Veasey (D-TX); Tony Crescenzi, PIMCO EVP & Market Strategist; and Megan Spurrell, Senior Features Editor at Condé Nast Traveler. The show will also be live at the Qatar Economic Forum this Sunday with an expanded six-hour program.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "共和党议员批评特朗普豁免对俄新关税与制裁",
-          "en": "Republican lawmakers criticized Trump for waiving new tariffs and sanctions on Russia"
-        },
-        {
-          "zh": "特朗普威胁对伊朗使用“炸弹之母”",
-          "en": "Trump threatened to use the 'Mother Of All Bombs' against Iran"
-        },
-        {
-          "zh": "布伦特原油自5月以来首次突破110美元/桶，供应缓解前景渺茫",
-          "en": "Brent oil hit $110 a barrel for the first time since May as supply relief prospects dwindle"
-        },
-        {
-          "zh": "节目采访PIMCO执行副总裁兼市场策略师Tony Crescenzi等嘉宾",
-          "en": "Guests include Tony Crescenzi, PIMCO EVP & Market Strategist, among others"
-        }
-      ],
-      "tags": [
-        "oil",
-        "sanctions",
-        "geopolitics",
-        "Bloomberg This Weekend"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:U87Mk57oimw",
-      "title": "Trump Waives Russia Energy Tariffs, CoreWeave Wipeout | Bloomberg This Weekend: Oct 17th, 2026",
-      "title_zh": "彭博周末节目预告：乌克兰、伊朗、美联储与市场对话",
-      "url": "https://www.youtube.com/watch?v=U87Mk57oimw",
-      "published_at": "2026-10-16T15:38:17+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博周末节目将讨论乌克兰战争最新进展、特朗普威胁对伊朗使用“炸弹之母”、特朗普新闻秘书更替、美联储主席沃什未排除市场对利率不变的预期，并对话巴里·里索尔茨等嘉宾。",
-      "summary_en": "Bloomberg This Weekend will cover the latest on the war in Ukraine, Trump's threat to use the 'Mother Of All Bombs' against Iran, a change in Trump's press secretary, and Fed Chair Kevin Warsh doing nothing to dispel expectations of steady rates; guests include Barry Ritholtz.",
-      "detail_zh": "节目预告显示，本期彭博周末将关注乌克兰战争的最新情况。其中提到，美国总统唐纳德·特朗普威胁对伊朗使用被称为“炸弹之母”的武器。此外，凯蒂·扎卡里亚将不再担任特朗普的新闻秘书。美联储主席凯文·沃什的言论未能消除市场对央行将在月底会议上维持利率不变的预期。节目还包含对国际救援委员会CEO、前英国外交大臣大卫·米利班德的对话，对Ritholtz财富管理创始人巴里·里索尔茨的对话，对保时捷CEO迈克尔·莱特斯的对话，对加拿大前副总理克里斯蒂亚·弗里兰的对话，以及对Northwell Health CEO约翰·德安杰洛博士的对话。其他话题包括《侠盗猎车手VI》的幕后故事和保时捷新款豪华超级跑车。",
-      "detail_en": "The show preview indicates Bloomberg This Weekend will cover the latest on the war in Ukraine. It mentions President Donald Trump threatening to use what is known as the 'Mother Of All Bombs' against Iran. Additionally, Katie Zacharia will no longer serve as Trump's press secretary. Federal Reserve Chairman Kevin Warsh did nothing to dispel market expectations that the central bank will hold rates steady at its month-end meeting. The show includes conversations with David Miliband, CEO of the International Rescue Committee and former UK Foreign Secretary; Barry Ritholtz, founder of Ritholtz Wealth Management; Porsche CEO Michael Leiters; Chrystia Freeland, former Deputy Prime Minister of Canada; and Dr. John D'Angelo, CEO of Northwell Health. Other topics include behind the scenes of 'Grand Theft Auto VI' and Porsche's new luxury supercar.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "乌克兰战争最新进展是节目关注点之一。",
-          "en": "The latest on the war in Ukraine is a focus of the show."
-        },
-        {
-          "zh": "特朗普威胁对伊朗使用“炸弹之母”。",
-          "en": "Trump threatens to use the 'Mother Of All Bombs' against Iran."
-        },
-        {
-          "zh": "凯蒂·扎卡里亚将不再担任特朗普的新闻秘书。",
-          "en": "Katie Zacharia will no longer serve as Trump's press secretary."
-        },
-        {
-          "zh": "美联储主席沃什未消除市场对利率维持不变的预期。",
-          "en": "Fed Chair Warsh did nothing to dispel expectations of steady rates."
-        },
-        {
-          "zh": "嘉宾包括巴里·里索尔茨、大卫·米利班德、保时捷CEO等。",
-          "en": "Guests include Barry Ritholtz, David Miliband, Porsche CEO, and others."
-        }
-      ],
-      "tags": [
-        "Ukraine",
-        "Iran",
-        "Fed",
-        "Trump",
-        "Bloomberg"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:NGLe13uQBs0",
-      "title": "Debt Worries Keep Driving Down CoreWeave Stock",
-      "title_zh": "英伟达CEO力挺CoreWeave，但AI新云增长逻辑受质疑",
-      "url": "https://www.youtube.com/watch?v=NGLe13uQBs0",
-      "published_at": "2026-10-16T15:22:21+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "CoreWeave持续承压，投资者质疑其债务策略，英伟达CEO黄仁勋称公司财务健康度每日改善、资本成本下降。彭博情报的Mandeep Singh指出，Anthropic IPO后市场聚焦前沿实验室增速放缓，开源模型份额上升且多部署于超大规模厂商或本地，可能不利于以这些实验室为客户的新云厂商。",
-      "summary_en": "CoreWeave remains under pressure as investors question its debt strategy, while Nvidia CEO Jensen Huang defended the company's financial health, saying its strength is improving daily and its cost of capital is decreasing. Bloomberg Intelligence's Mandeep Singh noted that after the Anthropic IPO, focus has shifted to decelerating growth at frontier labs, and open-source models gaining share are likely deployed at hyperscalers or on-premise, which may not benefit neoclouds that count those labs as customers.",
-      "detail_zh": "CoreWeave股价持续承压，投资者继续质疑其债务策略。英伟达CEO黄仁勋在接受彭博采访时为公司财务健康辩护，称其财务实力每天都在改善，并表示“资本成本实际上在下降”，同时表达乐观态度。彭博情报全球科技研究主管Mandeep Singh被问及黄仁勋的言论是否足以拯救CoreWeave，尤其是考虑到英伟达本身也投资了CoreWeave。Singh表示，当前底层趋势是，在Anthropic IPO之后，所有人都紧盯前沿实验室的增长情况，而这些实验室的增长显然正在减速，尽管增速仍然非常可观。他将此归因于开源模型正在抢占份额，并指出开源模型并非部署在“新云”上，而可能部署在超大规模厂商或本地。因此他认为，至少从一个角度看，开源模型表现良好可能对以这些前沿实验室为直接客户的新云厂商并不利。Singh认为这些新云厂商的产能会被吸收，但目前关键在于前沿实验室是否会直接与新云签约，而如果增速放缓，可能会影响CoreWeave这类公司（原文称“Corby”）的基本面。此外，彭博新闻采访了台湾经济事务主管部门负责人，其表示台湾计划将人工智能服务器和尖端半导体列入管制物品清单，目前这些物品不在清单上。Singh被问及此举的影响以及对更广泛贸易格局的意义。他表示，美国内外在模型能力上存在竞争因素，这显然会有影响；但观察台积电本周的财报和资本开支指引，台积电正寻求扩大产能，并显然希望解决供应链问题，以应对美国的具体因素。他认为台积电增加资本开支总体是重大利好，但同时也始终需要应对地缘政治因素，并认为台积电可能正将自己定位为中立参与者。",
-      "detail_en": "CoreWeave remains under pressure as investors continue to question its debt strategy. Nvidia CEO Jensen Huang defended the company's financial health in an interview with Bloomberg, saying its strength is improving every day, that the cost of capital is actually decreasing, and expressing optimism. Bloomberg Intelligence Head of Global Tech Research Mandeep Singh was asked whether Huang's comments are enough to save CoreWeave, especially given that Nvidia itself has invested in CoreWeave. Singh said the underlying trend is that in the wake of the Anthropic IPO, everyone is fixated on how the frontier labs are doing in terms of growth rates, and they clearly are decelerating even though growth rates are still very impressive. He attributed this to open-source models taking share, noting that open-source models are not being deployed in neoclouds but probably at hyperscalers or on-premise. From that perspective, he said he cannot see at least one angle where open-source models doing well may not be as good for the neoclouds that had these frontier labs as their direct customers. Singh said their capacity will get absorbed, but right now it is more about where the frontier labs are and whether they will contract directly with the neoclouds, and if growth rates are slowing down, that may have a bearing on the fundamentals for someone like CoreWeave (referred to as \"Corby\" in the transcript). Separately, Bloomberg News sat down with Taiwan's minister of economic affairs, who indicated Taiwan plans to add AI servers and cutting-edge semiconductors to a list of controlled items; they are not on that list right now. Asked about the ramifications and what it means for the broader trade picture for companies trying to get access to these chips, Singh said there will be a competitive element in terms of model capabilities in the US versus outside the US, so that obviously has a bearing. But looking at TSMC's print this week and its CapEx guide, TSMC is looking to expand capacity and obviously wants to solve supply chain issues in terms of addressing specific elements in the US. He thinks it is overall a big positive that TSMC is looking to increase its CapEx, but at the same time there will always be geopolitical elements they have to deal with, and he thinks TSMC is probably positioning itself as a neutral player.",
-      "conclusion_zh": "英伟达CEO的背书或难完全化解CoreWeave的债务与需求担忧，前沿实验室增速放缓及开源模型部署偏好可能压制新云厂商基本面；同时台积电扩产与台湾出口管制动向值得关注。",
-      "conclusion_en": "Nvidia CEO's endorsement may not fully ease CoreWeave's debt and demand concerns, as decelerating frontier lab growth and open-source model deployment preferences could weigh on neocloud fundamentals; meanwhile, TSMC's capacity expansion and Taiwan's export control moves are worth watching.",
-      "key_points": [
-        {
-          "zh": "CoreWeave持续承压，投资者质疑其债务策略；英伟达CEO黄仁勋称公司财务健康度每日改善、资本成本下降，并表达乐观。",
-          "en": "CoreWeave remains under pressure as investors question its debt strategy; Nvidia CEO Jensen Huang said its financial health is improving daily, its cost of capital is decreasing, and expressed optimism."
-        },
-        {
-          "zh": "彭博情报的Mandeep Singh指出，Anthropic IPO后市场聚焦前沿实验室增速，这些实验室增长明显减速，尽管增速仍非常可观。",
-          "en": "Bloomberg Intelligence's Mandeep Singh noted that after the Anthropic IPO, the market is fixated on frontier lab growth, which is clearly decelerating even though growth rates remain very impressive."
-        },
-        {
-          "zh": "Singh认为开源模型正在抢占份额，且多部署于超大规模厂商或本地，而非新云，这可能不利于以前沿实验室为直接客户的新云厂商。",
-          "en": "Singh said open-source models are taking share and are likely deployed at hyperscalers or on-premise rather than neoclouds, which may not be good for neoclouds that had frontier labs as direct customers."
-        },
-        {
-          "zh": "Singh表示新云产能会被吸收，但关键在于前沿实验室是否直接与新云签约；若增速放缓，可能影响CoreWeave这类公司的基本面。",
-          "en": "Singh said neocloud capacity will get absorbed, but the key question is whether frontier labs will contract directly with neoclouds; if growth rates slow, that may have a bearing on fundamentals for companies like CoreWeave."
-        },
-        {
-          "zh": "台湾计划将AI服务器和尖端半导体列入管制清单；Singh认为台积电本周财报及资本开支指引显示其寻求扩产并解决供应链问题，增加资本开支总体是重大利好，但地缘政治因素始终存在，台积电可能定位为中立参与者。",
-          "en": "Taiwan plans to add AI servers and cutting-edge semiconductors to a controlled items list; Singh said TSMC's print this week and CapEx guide show it is looking to expand capacity and solve supply chain issues, and increasing CapEx is overall a big positive, but geopolitical elements remain and TSMC is probably positioning itself as a neutral player."
-        }
-      ],
-      "tags": [
-        "CoreWeave",
-        "Nvidia",
-        "AI",
-        "TSMC",
-        "export controls"
-      ],
-      "tickers": [
-        "NVDA",
-        "TSM"
-      ],
       "sentiment": "neutral"
     }
   ]
