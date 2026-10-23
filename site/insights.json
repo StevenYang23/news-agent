@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-10-23T09:14:26.110015+00:00",
+  "generated_at": "2026-10-23T10:11:29.224294+00:00",
   "insights": [
+    {
+      "guid": "yt:WOz29qDc2Ww",
+      "title": "AI IPOs Stall While Private Markets Heat Up",
+      "title_zh": "AI公司IPO遇冷，私募资金充裕或延长私有化周期",
+      "url": "https://www.youtube.com/watch?v=WOz29qDc2Ww",
+      "published_at": "2026-10-23T09:23:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "公开市场降温导致AI公司IPO放缓，但私募资金仍持续流向OpenAI、DeepSeek等巨头，这可能使企业更倾向于保持私有状态更长时间。",
+      "summary_en": "AI IPOs are slowing as public markets cool, but private capital continues to flow to giants like OpenAI and DeepSeek, potentially encouraging companies to stay private longer.",
+      "detail_zh": "公开市场对AI公司的IPO热情正在减退，IPO节奏明显放缓。然而，私募资金仍在持续流入OpenAI和DeepSeek等大型AI企业。这种私募资金的充裕可能使这些公司倾向于推迟上市，选择在私有状态下停留更长时间。Anthony Stephens在报道中指出了这一趋势。",
+      "detail_en": "The enthusiasm for AI IPOs in the public markets is waning, leading to a slowdown in IPO activity. However, private capital continues to flow into major AI companies such as OpenAI and DeepSeek. This abundance of private funding may encourage these companies to delay going public and remain private for longer, as noted by Anthony Stephens in the report.",
+      "conclusion_zh": "AI企业上市步伐可能因私募资金充裕而进一步推迟，投资者需关注私募市场动态对公开市场AI标的供给的影响。",
+      "conclusion_en": "AI companies may further delay their public listings due to ample private funding, and investors should watch private market trends for their impact on the supply of public AI equities.",
+      "key_points": [
+        {
+          "zh": "公开市场降温导致AI公司IPO放缓",
+          "en": "Cooling public markets are slowing AI IPOs"
+        },
+        {
+          "zh": "私募资金仍持续流向OpenAI、DeepSeek等AI巨头",
+          "en": "Private capital continues to flow to AI giants like OpenAI and DeepSeek"
+        },
+        {
+          "zh": "企业可能因此选择更长时间保持私有状态",
+          "en": "Companies may choose to stay private for longer as a result"
+        }
+      ],
+      "tags": [
+        "AI IPOs",
+        "private funding",
+        "public markets",
+        "OpenAI",
+        "DeepSeek"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:vFgWXF3iHlo",
       "title": "French Authorities Brace for Weekend Protests",
@@ -15825,58 +15866,6 @@
         "hedging"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Y7XEH6BCmjw",
-      "title": "The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup",
-      "title_zh": "通胀数据超预期与AI交易波动下的债市博弈",
-      "url": "https://www.youtube.com/watch?v=Y7XEH6BCmjw",
-      "published_at": "2026-10-16T10:00:25+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "volatility"
-      ],
-      "summary_zh": "本周CPI与PPI均超预期，但债市收益率反而大幅下行，反映出市场仓位极度偏空后的逼空行情。嘉宾认为长端收益率可能已见顶，但进一步下行需要经济结构性放缓或股市崩盘，因此选择平掉长端多头并短线做空长端。",
-      "summary_en": "Both CPI and PPI came in hotter than expected this week, yet bond yields rallied sharply lower, reflecting a squeeze on extremely stretched short positioning. The guest believes long-end yields may have peaked but further declines require structural economic slowdown or an equity crash, so he flattened long-end longs and shorted the long end as a trade.",
-      "detail_zh": "本周CPI和PPI数据均超预期，核心通胀也偏热，能源价格是边际驱动因素之一。然而债市收益率在两个数据日都大幅下行，一度市场对10月加息的定价上升，随后又回落。嘉宾指出，此前市场积累了数周的创纪录债券空头仓位，长端收益率率先停止上行，曲线显著趋平，随后前端也加入反弹，为逼空埋下伏笔。通胀数据公布后市场明显站错边，最初反应是美联储需更鹰派，但叠加AI交易出现崩盘迹象，逻辑迅速转向避险买债，收益率被大幅压低。嘉宾当日短线做空长端，可能持有数周，理由是经济仍尚可，不认为会放任AI交易崩盘，且风险整体偏向上行。他认为收益率峰值可能已现，但短线仓位清洗已相当极端。另一位嘉宾此前持有TLT看涨期权，今晨权利金翻倍后选择离场，同样认为长端已有较好价值，但进一步上涨需要经济显著放缓或股市全面崩盘，因此选择在长端保持空仓。",
-      "detail_en": "Both CPI and PPI came in hotter than expected this week, with core inflation also running hot and energy prices a marginal driver. Yet bond yields fell sharply on both data days; at one point the market priced a higher chance of an October hike, then pulled back. The guest noted that weeks of record bond shorts had built up, with the long end first stopping its rise, the curve flattening substantially, and the front end then joining the reprieve, setting up a squeeze. After the hot inflation print the market was clearly offside; the initial reaction was that the Fed needed to be more hawkish, but combined with signs of the AI trade imploding, the narrative quickly shifted to a flight to safety into bonds, crushing yields lower. The guest shorted the long end as a trade that day, potentially holding for a week or two, reasoning the economy is still okay, the AI trade won't be allowed to implode, and risks generally skew to the upside. He thinks the peak in yields may be in, but the positioning rinse became quite extreme. The other guest had held TLT calls, saw premiums double this morning, and exited, similarly viewing the long end as good value but believing further gains require a gross slowdown or an all-out equity crash, so he is flat on the long end.",
-      "conclusion_zh": "长端收益率可能已见顶，但短线仓位清洗极端，进一步下行需经济结构性放缓或股市崩盘；当前债市博弈以短线交易为主。",
-      "conclusion_en": "Long-end yields may have peaked, but with positioning rinsed to extremes, further declines require a structural slowdown or an equity crash; the current bond trade is primarily tactical.",
-      "key_points": [
-        {
-          "zh": "CPI和PPI均超预期，核心通胀偏热，能源价格是边际驱动因素。",
-          "en": "Both CPI and PPI came in hotter than expected, with core inflation hot and energy prices a marginal driver."
-        },
-        {
-          "zh": "债市收益率在通胀数据后反而大幅下行，因市场此前积累了数周的创纪录空头仓位，形成逼空。",
-          "en": "Bond yields fell sharply despite hot inflation data, as weeks of record short positioning triggered a squeeze."
-        },
-        {
-          "zh": "AI交易出现崩盘迹象，叠加通胀担忧，逻辑迅速转向避险买债，压低收益率。",
-          "en": "Signs of the AI trade imploding, combined with inflation concerns, quickly shifted the narrative to a flight to safety into bonds, pushing yields lower."
-        },
-        {
-          "zh": "嘉宾短线做空长端，认为经济仍尚可、AI交易不会被放任崩盘，风险偏向上行。",
-          "en": "The guest shorted the long end as a trade, believing the economy is still okay, the AI trade won't be allowed to implode, and risks skew to the upside."
-        },
-        {
-          "zh": "另一位嘉宾平掉TLT看涨期权，认为长端有价值但进一步上涨需经济显著放缓或股市崩盘。",
-          "en": "The other guest exited TLT calls, viewing the long end as good value but believing further gains require a gross slowdown or an equity crash."
-        }
-      ],
-      "tags": [
-        "inflation",
-        "bond-yields",
-        "positioning",
-        "AI-trade",
-        "Fed"
-      ],
-      "tickers": [
-        "TLT"
-      ],
       "sentiment": "neutral"
     }
   ]
