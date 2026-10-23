@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-10-23T08:14:38.898517+00:00",
+  "generated_at": "2026-10-23T09:14:26.110015+00:00",
   "insights": [
+    {
+      "guid": "yt:vFgWXF3iHlo",
+      "title": "French Authorities Brace for Weekend Protests",
+      "title_zh": "法国当局准备应对新一轮抗议，军队待命支援警察",
+      "url": "https://www.youtube.com/watch?v=vFgWXF3iHlo",
+      "published_at": "2026-10-23T08:45:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "法国当局正为周六的新一轮抗议做准备，军队准备支援警察，以防止上周末骚乱重演。彭博社的Alan Katz报道。",
+      "summary_en": "French authorities are bracing for a new round of protests on Saturday, with the military preparing to back up police to prevent a repeat of last weekend's riots. Bloomberg's Alan Katz reports.",
+      "detail_zh": "法国当局正在为周六的新一轮抗议活动做准备。军队准备支援警察，目的是防止上周末骚乱事件重演。彭博社的Alan Katz对此进行了报道。原文未提供更多关于抗议原因、规模或具体措施的细节。",
+      "detail_en": "French authorities are bracing for a new round of protests on Saturday. The military is preparing to back up police in a bid to prevent a repeat of last weekend's riots. Bloomberg's Alan Katz reports. The original text does not provide further details on the reasons, scale, or specific measures of the protests.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "法国当局准备应对周六的新一轮抗议。",
+          "en": "French authorities are bracing for a new round of protests on Saturday."
+        },
+        {
+          "zh": "军队准备支援警察，以防止上周末骚乱重演。",
+          "en": "The military is preparing to back up police to prevent a repeat of last weekend's riots."
+        },
+        {
+          "zh": "彭博社的Alan Katz报道了这一消息。",
+          "en": "Bloomberg's Alan Katz reported the story."
+        }
+      ],
+      "tags": [
+        "France",
+        "protests",
+        "riots",
+        "military",
+        "police"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:8_PhNY5j81g",
       "title": "The Forgotten Godmother of Economic Literature | Odd Lots",
@@ -43,6 +84,45 @@
         "AI",
         "Industrial Revolution",
         "Odd Lots"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:rypQhr4C2ho",
+      "title": "Hidden Rallies Emerge From Tech Selloff: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目预告：分析师与投资者今日关键主题",
+      "url": "https://www.youtube.com/watch?v=rypQhr4C2ho",
+      "published_at": "2026-10-23T08:07:36+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《开盘交易》的简介，说明Anna Edwards、Guy Johnson和Paul Dobson将解析当日分析师与投资者关注的关键主题，未提供任何具体市场数据、观点或事件细节。",
+      "summary_en": "The original text is merely a brief description of Bloomberg's 'The Opening Trade' program, stating that Anna Edwards, Guy Johnson, and Paul Dobson will break down key themes for analysts and investors, without providing any specific market data, views, or event details.",
+      "detail_zh": "原文内容为彭博电视节目《开盘交易》的简短介绍，指出Anna Edwards、Guy Johnson和Paul Dobson将解析当日分析师和投资者关注的关键主题。除此之外，原文仅包含彭博电视与市场的社交媒体链接和订阅信息，未涉及任何具体的市场动态、经济数据、公司新闻或投资观点。因此，无法从中提炼出实质性的投资洞见。",
+      "detail_en": "The original text is a brief introduction to Bloomberg's 'The Opening Trade' program, noting that Anna Edwards, Guy Johnson, and Paul Dobson will break down today's key themes for analysts and investors. Apart from that, it only contains social media links and subscription information for Bloomberg Television and Markets, with no specific market developments, economic data, company news, or investment views. Therefore, no substantive investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目由Anna Edwards、Guy Johnson和Paul Dobson主持。",
+          "en": "The program is hosted by Anna Edwards, Guy Johnson, and Paul Dobson."
+        },
+        {
+          "zh": "节目内容为解析当日分析师和投资者关注的关键主题。",
+          "en": "The program breaks down key themes for analysts and investors."
+        },
+        {
+          "zh": "原文未提供任何具体市场数据、观点或事件细节。",
+          "en": "The original text provides no specific market data, views, or event details."
+        }
+      ],
+      "tags": [
+        "Bloomberg",
+        "Opening Trade",
+        "market themes"
       ],
       "tickers": [],
       "sentiment": "neutral"
