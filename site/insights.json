@@ -1,6 +1,378 @@
 {
-  "generated_at": "2026-10-23T06:18:08.501896+00:00",
+  "generated_at": "2026-10-23T07:18:08.461234+00:00",
   "insights": [
+    {
+      "guid": "yt:XRHGmpv8wSE",
+      "title": "OpenAI Trims Target Value & Volvo Cars Cuts 2,500 Jobs",
+      "title_zh": "全球科技股抛售加深，OpenAI估值目标下调1500亿美元",
+      "url": "https://www.youtube.com/watch?v=XRHGmpv8wSE",
+      "published_at": "2026-10-23T06:58:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "纳斯达克录得6月以来最差单日表现后，全球科技股抛售加深；市场对AI支出的担忧再起，彭博获悉OpenAI在最新一轮300亿美元融资中将其估值目标下调1500亿美元。沃尔沃汽车因中国销量骤降与美国关税，计划再裁员2500人。",
+      "summary_en": "The global tech selloff deepened after the Nasdaq's worst day since June. Amid renewed concerns over AI spending, Bloomberg learned that OpenAI is cutting its valuation target by $150 billion as it seeks to raise $30 billion in its latest funding round. Volvo Cars plans to cut another 2,500 jobs as cratering sales in China and US tariffs complicate its turnaround.",
+      "detail_zh": "彭博《Daybreak Europe》节目指出，纳斯达克经历6月以来最差单日后，全球科技股抛售进一步加深。市场对AI支出的担忧再度升温：彭博获悉，OpenAI正寻求在最新一轮融资中筹集300亿美元，同时将其估值目标下调1500亿美元。个股层面，沃尔沃汽车计划再裁减2500个岗位，原因是其在中国市场的销量骤降，加上美国关税，令这家瑞典车企的转型更加复杂；沃尔沃汽车CEO Håkan Samuelsson将作为嘉宾接受采访。节目还提及美国国债大涨、法国债券压力上升、沙特阿美据称疏散总部、以色列下周二的选举，以及Gucci、Moderna-Merk、SpaceX等公司新闻，并预览欧洲PMI数据。",
+      "detail_en": "Bloomberg Daybreak Europe noted that the global tech rout deepened after the Nasdaq's worst day since June. Concerns over AI spending resurfaced: Bloomberg learned that OpenAI is cutting its valuation target by $150 billion as it seeks to raise $30 billion in its latest funding round. On single stocks, Volvo Cars plans to cut another 2,500 jobs as cratering sales in China and US tariffs complicate the Swedish automaker's turnaround; Volvo Cars CEO Håkan Samuelsson is the guest. The program also referenced a surge in Treasuries, mounting pressure on French bonds, Saudi Aramco said to evacuate its HQ, Israeli elections next Tuesday, corporate news on Gucci, Moderna-Merk and SpaceX, and a preview of European PMI data.",
+      "conclusion_zh": "AI支出担忧与科技股抛售相互强化，OpenAI下调估值目标显示融资环境趋紧，需关注科技板块波动外溢及欧洲宏观数据。",
+      "conclusion_en": "AI spending concerns and the tech selloff are reinforcing each other; OpenAI's lower valuation target signals a tighter funding environment, warranting attention to spillover volatility in tech and European macro data.",
+      "key_points": [
+        {
+          "zh": "纳斯达克录得6月以来最差单日后，全球科技股抛售加深。",
+          "en": "The global tech rout deepened after the Nasdaq's worst day since June."
+        },
+        {
+          "zh": "彭博获悉OpenAI在寻求筹集300亿美元的最新一轮融资中，将估值目标下调1500亿美元。",
+          "en": "Bloomberg learned OpenAI is cutting its valuation target by $150 billion as it seeks to raise $30 billion in its latest funding round."
+        },
+        {
+          "zh": "沃尔沃汽车计划再裁员2500人，因中国销量骤降与美国关税令转型复杂化。",
+          "en": "Volvo Cars plans to cut another 2,500 jobs as cratering sales in China and US tariffs complicate its turnaround."
+        },
+        {
+          "zh": "节目还提及美国国债大涨、法国债券压力上升及欧洲PMI数据预览。",
+          "en": "The program also cited a surge in Treasuries, mounting pressure on French bonds and a preview of European PMI data."
+        }
+      ],
+      "tags": [
+        "AI spending",
+        "tech selloff",
+        "OpenAI funding",
+        "Volvo layoffs",
+        "Treasuries"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:eOib5PyyJDw",
+      "title": "AI Trade Faces Earnings Test: Market Snapshot",
+      "title_zh": "科技巨头财报引发AI融资担忧，市场关注AI热潮是否见顶",
+      "url": "https://www.youtube.com/watch?v=eOib5PyyJDw",
+      "published_at": "2026-10-23T06:57:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本周多家科技巨头发布财报，投资者反应不一。市场对AI的担忧正从现金流和利润转向大规模建设如何融资。彭博电视采访的策略师和CEO们讨论了AI热潮是否接近顶峰或仍有空间。",
+      "summary_en": "Several tech giants reported earnings this week, drawing mixed investor reactions. Jitters over AI are shifting from cash flows and profits to how the massive build-out is being financed. Bloomberg TV spoke with strategists and CEOs about whether the AI boom is nearing its peak or still has room to run.",
+      "detail_zh": "本周，一些全球最大的科技公司公布了财报，投资者反应不一。这些财报发布之际，市场对AI的担忧正日益从现金流和利润转向该技术的巨大建设如何融资。彭博电视的“The Opening Trade”团队采访了市场策略师和CEO，讨论本周的财报是否表明人工智能热潮正接近顶峰，还是仍有增长空间。原文未提供具体公司名称、财务数据或融资金额。",
+      "detail_en": "This week, some of the world's biggest tech names delivered earnings that drew mixed reactions from investors. The results come as jitters over AI increasingly shift from cash flows and profits to how the technology's massive build-out is being financed. Bloomberg TV's \"The Opening Trade\" team spoke to market strategists and CEOs about whether this week's results suggest the AI boom is nearing its peak, or still has room to run. The original text does not provide specific company names, financial figures, or financing amounts.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技巨头财报引发投资者混合反应",
+          "en": "Tech giants' earnings drew mixed investor reactions"
+        },
+        {
+          "zh": "市场对AI的担忧从现金流和利润转向大规模建设的融资方式",
+          "en": "AI jitters shift from cash flows and profits to financing of the massive build-out"
+        },
+        {
+          "zh": "讨论焦点：AI热潮是否接近顶峰或仍有空间",
+          "en": "Debate centers on whether the AI boom is nearing its peak or still has room to run"
+        }
+      ],
+      "tags": [
+        "AI",
+        "earnings",
+        "tech",
+        "financing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:LrLW7E-3MA0",
+      "title": "Saudi Aramco Said to Order HQ Evacuation, Oil Prices Set for Weekly Gain",
+      "title_zh": "全球科技股抛售加剧，AI交易退潮；中东局势与网络安全风险交织",
+      "url": "https://www.youtube.com/watch?v=LrLW7E-3MA0",
+      "published_at": "2026-10-23T06:56:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "全球科技股抛售加速，投资者撤离AI交易，韩国Kospi下跌，中概科技股与美国同行估值差距扩大。沙特阿美因与胡塞武装冲突要求员工居家办公，中东石油流动接近战前水平。Ten Cap创始人认为抛售带来更具吸引力的入场价格，但预计复苏将惠及更窄的公司群体。",
+      "summary_en": "The global technology selloff accelerates as investors retreat from the AI trade, with South Korea's Kospi falling and the valuation gap between Chinese and US tech companies widening. Saudi Aramco reportedly instructed employees to work from home amid ongoing fighting with the Houthis, while Middle Eastern oil flows approach prewar levels. Ten Cap's Jun Bei Liu sees the selloff offering more attractive entry prices but expects a recovery to favor a narrower group of companies.",
+      "detail_zh": "全球科技股抛售加剧，投资者正从AI交易中撤退。韩国Kospi指数下跌，中国科技公司与美国同行的估值差距扩大，对AI、中东局势和法国的担忧推动资金流向更安全的资产。SK海力士在重新评估市场状况和现有股东利益后，放弃了Solidigm的IPO计划。Blackstone总裁兼COO Jonathan Gray称AI需求正在迅速加速。Ten Cap创始人Jun Bei Liu表示，抛售提供了更具吸引力的入场价格，但预计复苏将有利于更窄的公司群体；她对股票保持积极看法，同时关注更大幅度的利率上升、通胀压力以及令人失望的盈利。沙特阿美据报道已指示员工离开达兰总部居家办公，因与胡塞武装的战斗持续；沙特报告拦截了无人机和导弹，石油有望录得周度上涨。中东石油流动接近战前水平，尽管特朗普提出对伊朗采取进一步行动的可能性。沙特还在为阿美寻求海外储存，以增强中断期间供应客户的能力。各国政府和企业正争相应对广泛的网络安全弱点。IMF中东和中亚主任Jihad Azour表示，战争对油气的影响在全球和区域层面仍然可控，阿曼的中立降低了其风险溢价，伊拉克则因依赖石油和霍尔木兹海峡而面临风险。",
+      "detail_en": "The global technology selloff is gathering pace as investors retreat from the AI trade. South Korea's Kospi fell, the valuation gap between Chinese technology companies and their US counterparts widened, and concerns over AI, the Middle East and France drew money toward safer assets. SK Hynix dropped plans for a Solidigm IPO after reassessing market conditions and the interests of existing shareholders. Blackstone President and COO Jonathan Gray described rapidly accelerating AI demand. Ten Cap founder Jun Bei Liu said the selloff offers more attractive entry prices but expects a recovery to favor a narrower group of companies; she remains positive on equities while watching for sharper interest-rate increases, inflation pressures and disappointing earnings. Saudi Aramco reportedly instructed employees to leave its Dhahran headquarters and work from home as fighting with the Houthis continues; Saudi Arabia reported intercepting drones and missiles, and oil headed for a weekly gain. Middle Eastern oil flows approach prewar levels, even as Trump raised the prospect of further action against Iran. The kingdom is also seeking overseas storage for Aramco to strengthen its ability to supply customers during disruptions. Governments and businesses are racing to address a widespread cybersecurity weakness. IMF Middle East and Central Asia Director Jihad Azour said the war's effects on oil and gas remain manageable globally and regionally, credited Oman's neutrality with lowering its risk premium, and highlighted Iraq's exposure through its dependence on oil and Hormuz.",
+      "conclusion_zh": "科技股抛售与AI交易退潮带来更具吸引力的入场价格，但复苏可能更集中；同时需关注中东地缘风险对油气的可控影响及网络安全弱点。",
+      "conclusion_en": "The tech selloff and retreat from the AI trade offer more attractive entry prices, but a recovery may be narrower; meanwhile, watch the manageable oil and gas impact of Middle East geopolitical risks and cybersecurity weaknesses.",
+      "key_points": [
+        {
+          "zh": "全球科技股抛售加速，投资者撤离AI交易，韩国Kospi下跌，中概科技股与美国同行估值差距扩大。",
+          "en": "The global tech selloff accelerates as investors retreat from the AI trade; South Korea's Kospi falls and the valuation gap between Chinese and US tech companies widens."
+        },
+        {
+          "zh": "SK海力士在重新评估市场状况和现有股东利益后，放弃Solidigm的IPO计划。",
+          "en": "SK Hynix drops plans for a Solidigm IPO after reassessing market conditions and the interests of existing shareholders."
+        },
+        {
+          "zh": "Ten Cap的Jun Bei Liu认为抛售带来更具吸引力的入场价格，但预计复苏将有利于更窄的公司群体，同时对股票保持积极看法。",
+          "en": "Ten Cap's Jun Bei Liu sees the selloff offering more attractive entry prices but expects a recovery to favor a narrower group of companies, while remaining positive on equities."
+        },
+        {
+          "zh": "沙特阿美因与胡塞武装冲突要求员工居家办公，中东石油流动接近战前水平，沙特寻求海外储存以增强供应韧性。",
+          "en": "Saudi Aramco instructed employees to work from home amid fighting with the Houthis; Middle Eastern oil flows approach prewar levels and the kingdom seeks overseas storage to strengthen supply resilience."
+        },
+        {
+          "zh": "IMF的Jihad Azour称战争对油气的影响在全球和区域层面仍然可控，阿曼中立降低其风险溢价，伊拉克因依赖石油和霍尔木兹海峡而面临风险。",
+          "en": "The IMF's Jihad Azour says the war's effects on oil and gas remain manageable globally and regionally, Oman's neutrality lowers its risk premium, and Iraq is exposed through its dependence on oil and Hormuz."
+        }
+      ],
+      "tags": [
+        "tech-selloff",
+        "AI-trade",
+        "Middle-East",
+        "oil",
+        "cybersecurity"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:BLusXFREYT8",
+      "title": "Oil Set for Weekly Gain as Supply Risks Grow",
+      "title_zh": "布伦特原油有望连续第三周上涨，因沙特遇袭引发供应担忧",
+      "url": "https://www.youtube.com/watch?v=BLusXFREYT8",
+      "published_at": "2026-10-23T05:53:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "布伦特原油有望连续第三周上涨，因沙特阿拉伯遭袭加剧了中东供应中断的风险。此次冲突可能扩大霍尔木兹海峡周边的敌对行动，该海峡的原油出口已恢复至接近战前水平。",
+      "summary_en": "Brent oil is headed for a third weekly gain as attacks on Saudi Arabia raise the risk of wider Middle East supply disruptions. The flareup threatens to widen hostilities around the Strait of Hormuz, where crude exports have recovered to near prewar levels.",
+      "detail_zh": "布伦特原油正朝着连续第三周上涨的方向迈进，原因是沙特阿拉伯遭受袭击，增加了中东地区更广泛供应中断的风险。此次冲突升级可能扩大霍尔木兹海峡周边的敌对行动，而该海峡的原油出口已恢复至接近战前水平。彭博社的Abeer Abu Omar报道了此事。",
+      "detail_en": "Brent oil is headed for a third weekly gain as attacks on Saudi Arabia raise the risk of wider Middle East supply disruptions. The flareup threatens to widen hostilities around the Strait of Hormuz, where crude exports have recovered to near prewar levels. Bloomberg's Abeer Abu Omar reports.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "布伦特原油有望连续第三周上涨。",
+          "en": "Brent oil is headed for a third weekly gain."
+        },
+        {
+          "zh": "沙特阿拉伯遭袭增加了中东供应中断的风险。",
+          "en": "Attacks on Saudi Arabia raise the risk of wider Middle East supply disruptions."
+        },
+        {
+          "zh": "冲突可能扩大霍尔木兹海峡周边的敌对行动。",
+          "en": "The flareup threatens to widen hostilities around the Strait of Hormuz."
+        },
+        {
+          "zh": "霍尔木兹海峡的原油出口已恢复至接近战前水平。",
+          "en": "Crude exports through the Strait of Hormuz have recovered to near prewar levels."
+        }
+      ],
+      "tags": [
+        "oil",
+        "middle-east",
+        "supply-disruption",
+        "strait-of-hormuz"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:H3vyjKCQs9E",
+      "title": "US Eyes Investment Curbs Against China Biotech Firms",
+      "title_zh": "彭博中国秀：SK海力士放弃Solidigm IPO，美国拟限制对华生物技术投资",
+      "url": "https://www.youtube.com/watch?v=H3vyjKCQs9E",
+      "published_at": "2026-10-23T05:17:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博中国秀涵盖多项议题：SK海力士因股东利益考量放弃Solidigm IPO计划；美国提议对中国生物技术领域实施投资限制；瑞银资产管理、美银等机构讨论亚洲AI板块疲软及AI出口繁荣对亚洲经济的影响；中国证监会据称考虑2027年分拆新规并收紧对上市公司分拆的审查。",
+      "summary_en": "This episode of Bloomberg: The China Show covers SK Hynix scrapping Solidigm IPO plans citing shareholder interest, a US proposal to curb investment in Chinese biotech, and discussions from UBS Asset Management and BofA on Asia's AI slump and the AI export boom's impact on Asian economies. The CSRC is said to be considering new spinoff guidelines for 2027 and tightening scrutiny of listed-company spinoffs.",
+      "detail_zh": "节目首先报道SK海力士 scrapped Solidigm IPO plans，随后SK海力士在后续章节中解释称是出于股东利益考量而重新审视Solidigm IPO。美国方面提出对中国生物技术领域的投资限制。瑞银资产管理Jade Fu讨论亚洲AI板块的下跌，中国大语言模型相关股票难以获得上涨动能。美银Anna Zhou分析AI出口繁荣对亚洲经济体的影响。此外，巴西将于周日举行总统决选。彭博行业研究讨论中国市场。Bicester Collection的Desiree Bollier谈论奢侈品需求。突发新闻：中国证监会据称正在考虑2027年新的分拆指引，并收紧对上市公司分拆的审查。彭博观点指出中国健康保险体系难以跟上突破性疗法的成本。贝莱德的Aarti Angara解释主动型ETF在增长和采用方面为何突出。",
+      "detail_en": "The program first reports that SK Hynix scrapped Solidigm IPO plans, with SK Hynix later citing shareholder interest in its review of the Solidigm IPO. The US proposes investment curbs on Chinese biotech. UBS Asset Management's Jade Fu discusses Asia's AI slump, and Chinese LLM shares struggle for momentum. BofA's Anna Zhou analyzes the AI export boom's impact on Asian economies. Brazil heads for a presidential runoff on Sunday. Bloomberg Intelligence discusses Chinese markets. Bicester Collection's Desiree Bollier talks luxury goods demand. Breaking news: the CSRC is said to be considering new spinoff guidelines for 2027 and tightening scrutiny of listed-company spinoffs. Bloomberg Opinion notes China's health insurance system struggles to keep pace with the cost of breakthroughs. BlackRock's Aarti Angara explains why active ETFs stand out in growth and adoption.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "SK海力士放弃Solidigm IPO计划，称出于股东利益考量重新审视该IPO。",
+          "en": "SK Hynix scraps Solidigm IPO plans, citing shareholder interest in its review of the IPO."
+        },
+        {
+          "zh": "美国提议对中国生物技术领域实施投资限制。",
+          "en": "The US proposes investment curbs on Chinese biotech."
+        },
+        {
+          "zh": "瑞银资产管理Jade Fu讨论亚洲AI板块下跌，中国大语言模型股票难以获得动能。",
+          "en": "UBS Asset Management's Jade Fu discusses Asia's AI slump; Chinese LLM shares struggle for momentum."
+        },
+        {
+          "zh": "美银Anna Zhou分析AI出口繁荣对亚洲经济体的影响。",
+          "en": "BofA's Anna Zhou analyzes the AI export boom's impact on Asian economies."
+        },
+        {
+          "zh": "中国证监会据称考虑2027年分拆新指引，并收紧对上市公司分拆的审查。",
+          "en": "The CSRC is said to be considering new spinoff guidelines for 2027 and tightening scrutiny of listed-company spinoffs."
+        }
+      ],
+      "tags": [
+        "SK Hynix",
+        "Solidigm IPO",
+        "China biotech",
+        "AI slump",
+        "CSRC spinoff rules"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:G3WdEiLSxNw",
+      "title": "Tech Selloff Deepens, SK Hynix Scraps Solidigm US IPO Plans",
+      "title_zh": "AI支出担忧拖累纳指，中国股市跌入熊市，日元走强",
+      "url": "https://www.youtube.com/watch?v=G3WdEiLSxNw",
+      "published_at": "2026-10-23T04:47:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博亚洲交易时段节目显示，AI支出担忧导致纳斯达克100指数下滑，交易员削减美联储加息押注，日元在全球股市抛售中走强。中国股市跌入熊市，市值蒸发2.4万亿美元；SK海力士取消Solidigm美国IPO计划；DeepSeek融资150亿美元挑战美国实验室。",
+      "summary_en": "Bloomberg's Asia Trade program highlights Nasdaq 100 sliding on AI spending concerns, traders scaling back Fed rate hike bets, and the yen surging amid a global equity selloff. Chinese stocks tumbled into a bear market with $2.4 trillion vanishing; SK Hynix scrapped Solidigm's US IPO plans; DeepSeek raised $15 billion to challenge leading US labs.",
+      "detail_zh": "节目要点包括：纳斯达克100指数因AI支出担忧下滑；SK海力士取消Solidigm美国IPO计划；黑石总裁兼COO Jonathan Gray讨论AI产能建设；交易员削减美联储加息押注；日元在全球股市抛售中走强；日本最大工会组织呼吁2027年加薪6%；英伟达CEO黄仁勋谈论neocloud需求；日本9月核心CPI同比上涨2.1%，符合预期；中国股市跌入熊市，2.4万亿美元市值蒸发；OpenAI总裁Greg Brockman讨论安全与AI实用性；DeepSeek和MiniMax获准海外使用；MiniMax上市后涨幅回吐；DeepSeek融资150亿美元挑战美国领先实验室；AI数据中心反对声浪威胁澳大利亚700亿美元计划。",
+      "detail_en": "Key points from the program: Nasdaq 100 slid on AI spending concerns; SK Hynix scrapped plans for Solidigm's US IPO; Blackstone President and COO Jonathan Gray discussed building out AI capacity; traders scaled back Fed rate hike bets; the yen surged amid a global equity selloff; Japan's top union group called for 6% wage increases in 2027; Nvidia CEO Jensen Huang discussed demand for neoclouds; Japan's September core CPI rose 2.1% Y/Y, matching estimates; Chinese stocks tumbled into a bear market with $2.4 trillion vanishing; OpenAI President Greg Brockman discussed security and AI usefulness; DeepSeek and MiniMax were cleared for overseas use; MiniMax erased post-IPO gains; DeepSeek raised $15 billion to challenge leading US labs; AI data center backlash threatens Australia's $70 billion dream.",
+      "conclusion_zh": "AI支出担忧与全球股市抛售引发风险资产调整，日元走强，中国股市进入熊市，投资者需关注AI相关资本开支变化及美联储政策预期。",
+      "conclusion_en": "AI spending concerns and a global equity selloff triggered risk-asset adjustments, with the yen strengthening and Chinese stocks entering a bear market; investors should watch AI-related capex trends and Fed policy expectations.",
+      "key_points": [
+        {
+          "zh": "纳斯达克100指数因AI支出担忧下滑，交易员削减美联储加息押注。",
+          "en": "Nasdaq 100 slid on AI spending concerns; traders scaled back Fed rate hike bets."
+        },
+        {
+          "zh": "中国股市跌入熊市，市值蒸发2.4万亿美元。",
+          "en": "Chinese stocks tumbled into a bear market, with $2.4 trillion vanishing."
+        },
+        {
+          "zh": "SK海力士取消Solidigm美国IPO计划。",
+          "en": "SK Hynix scrapped plans for Solidigm's US IPO."
+        },
+        {
+          "zh": "日元在全球股市抛售中走强。",
+          "en": "The yen surged amid a global equity selloff."
+        },
+        {
+          "zh": "DeepSeek融资150亿美元，挑战美国领先实验室。",
+          "en": "DeepSeek raised $15 billion to challenge leading US labs."
+        }
+      ],
+      "tags": [
+        "AI spending",
+        "Nasdaq 100",
+        "China bear market",
+        "Yen",
+        "Fed bets"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:SgcQxTLeBrs",
+      "title": "Why Oil Prices Are Surging Despite Recovering Supply",
+      "title_zh": "高盛：预防性买盘与组合对冲支撑油价，铜金亦看涨",
+      "url": "https://www.youtube.com/watch?v=SgcQxTLeBrs",
+      "published_at": "2026-10-23T04:00:07+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "高盛Daan Struyven指出，中东原油流量虽已回升，但预防性实物买盘和机构为对冲股债对油价敏感度而买入原油，令油价维持高位。成品油供应受炼厂受损和投资不足制约，波斯湾柴油汽油出口仅为2025年均值约40%。他预计铜价到2027年底再涨10%，黄金受央行需求支撑可能上行。",
+      "summary_en": "Goldman Sachs' Daan Struyven notes that while Middle East crude flows have rebounded, precautionary physical buying and institutional crude purchases to hedge portfolios' unusual sensitivity to oil are keeping prices elevated. Refined product supply is constrained by refinery damage and underinvestment, with Persian Gulf diesel and gasoline exports at only about 40% of their 2025 average. He expects copper to rise another 10% by end-2027 and gold to climb on central bank demand.",
+      "detail_zh": "高盛全球商品研究联席主管兼石油研究主管Daan Struyven在Goldman Sachs Exchanges播客中表示，中东原油流量已经回升，但油价仍被多重因素支撑。首先是预防性实物买盘：在供应下行风险上升的背景下，实物买家推高了可获得的原油价格。其次是组合对冲：债券和股票价格对油价的敏感度异常高，促使机构投资者买入原油以对冲其投资组合。成品油方面，由于炼厂受损以及制造业投资不足，波斯湾柴油和汽油等成品油出口仍仅约为2025年平均水平的40%。此外，Struyven预计到2027年底铜价将再上涨10%，并称黄金可能因央行对黄金的需求而攀升。",
+      "detail_en": "Daan Struyven, co-head of Global Commodities Research and head of Oil Research at Goldman Sachs, said on the Goldman Sachs Exchanges podcast that Middle East crude flows have rebounded, but oil prices remain supported by multiple factors. First, precautionary physical buying: physical buyers are bidding up available crude amid growing downside risks to supply. Second, portfolio hedging: bond and equity prices are unusually sensitive to oil prices, prompting institutional investors to buy crude to hedge their portfolios. On refined products, Persian Gulf exports of diesel and gasoline are still only around 40% of their 2025 average levels due to damage to refineries and underinvestment in manufacturing. Additionally, Struyven expects copper prices to increase another 10% by the end of 2027 and says gold may climb amid central bank demand for the metal.",
+      "conclusion_zh": "油价高位受预防性买盘与组合对冲支撑，成品油供应紧张；铜金亦存上行空间，关注商品对冲需求对股债的传导。",
+      "conclusion_en": "Oil prices are supported by precautionary buying and portfolio hedging, with refined product supply tight; copper and gold also have upside, and investors should watch how commodity hedging demand transmits to equities and bonds.",
+      "key_points": [
+        {
+          "zh": "中东原油流量已回升，但预防性实物买盘和组合对冲令油价维持高位。",
+          "en": "Middle East crude flows have rebounded, but precautionary physical buying and portfolio hedging are keeping prices elevated."
+        },
+        {
+          "zh": "债券和股票价格对油价异常敏感，机构投资者买入原油以对冲投资组合。",
+          "en": "Bond and equity prices are unusually sensitive to oil prices, prompting institutional investors to buy crude to hedge portfolios."
+        },
+        {
+          "zh": "波斯湾柴油和汽油出口仅约为2025年平均水平的40%，因炼厂受损和制造业投资不足。",
+          "en": "Persian Gulf diesel and gasoline exports are only around 40% of their 2025 average levels amid refinery damage and underinvestment in manufacturing."
+        },
+        {
+          "zh": "Struyven预计铜价到2027年底将再涨10%，黄金可能因央行需求而攀升。",
+          "en": "Struyven expects copper prices to rise another 10% by end-2027, and gold may climb amid central bank demand."
+        }
+      ],
+      "tags": [
+        "oil",
+        "commodities",
+        "copper",
+        "gold",
+        "hedging"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:tb2YM6EjL7Q",
+      "title": "Economic Roundtable: Why Is Global Growth So Resilient?",
+      "title_zh": "摩根士丹利：AI资本开支与全球增长韧性",
+      "url": "https://www.youtube.com/watch?v=tb2YM6EjL7Q",
+      "published_at": "2026-10-22T23:59:00+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "摩根士丹利全球经济学家圆桌讨论认为，全球经济增长在加息、能源价格上涨和地缘不确定性中保持韧性，美国主要受AI相关支出驱动，欧洲受益于AI外需和国防投资，亚洲则经历资本开支周期扩散。",
+      "summary_en": "Morgan Stanley's global economists roundtable attributes global growth resilience amid higher rates, energy prices, and geopolitical uncertainty to AI-related spending in the US, AI external demand and defense investment in Europe, and a broadening capex cycle in Asia.",
+      "detail_zh": "摩根士丹利全球首席经济学家Seth Carpenter主持第四季度经济圆桌，美国首席经济学家Michael Gapen、欧洲首席经济学家Jens Eisenschmidt和亚洲首席经济学家Jathan Aya参与。Gapen指出，AI相关支出对利率和地缘政治不敏感，直接贡献美国季度增长的4%至6%，若计入生产率提升则可能更高，并支撑资产市场上涨和 upper-income 家庭消费。Eisenschmidt表示，欧洲二季度增长受AI相关外需和地缘紧张下部分化学工业等生产转移的出口推动，消费者表现好于预期，预计三季度类似。Aya称亚洲资本开支周期从科技扩展至能源、国防和工业，出口从科技向非科技扩散，贸易条件改善，经常账户盈余达1.6万亿美元（占GDP 4.2%），除中国外私人部门资产负债表健康。Gapen认为美国投资故事正从AI向制造业扩散，但制造业仅占产出和就业约10%。Eisenschmidt指出欧洲消费占GDP约50%，投资占20%，未来投资对增长的贡献应上升，但能源价格可能抑制消费。",
+      "detail_en": "Morgan Stanley's global chief economist Seth Carpenter hosted the fourth quarterly economic roundtable with US chief economist Michael Gapen, Europe chief economist Jens Eisenschmidt, and Asia chief economist Jathan Aya. Gapen noted AI-related spending is interest-rate and geopolitically insensitive, directly contributing 4-6% to US quarterly growth, potentially higher with productivity gains, and underpinning asset market appreciation and upper-income household spending. Eisenschmidt said Europe's Q2 growth was driven by AI-related external demand and export shifts due to geopolitical tensions, with consumers holding up better than expected; Q3 is expected to be similar. Aya said Asia's capex cycle is broadening from tech to energy, defense, and industry, with exports broadening from tech to non-tech, improved terms of trade, a current account surplus of $1.6 trillion (4.2% of GDP), and healthy private-sector balance sheets outside China. Gapen sees US investment broadening beyond AI into manufacturing, though manufacturing is only about 10% of output and employment. Eisenschmidt noted European consumption is about 50% of GDP versus 20% for investment, with investment's growth contribution expected to rise, but energy prices may weigh on consumption.",
+      "conclusion_zh": "AI资本开支是当前全球增长的核心支柱，其扩散效应和亚洲资本开支周期值得关注，但欧洲消费面临能源价格风险。",
+      "conclusion_en": "AI capex is a core pillar of global growth; its broadening effects and Asia's capex cycle warrant attention, while European consumption faces energy price risks.",
+      "key_points": [
+        {
+          "zh": "AI相关支出直接贡献美国季度增长的4%至6%，且对利率和地缘政治不敏感。",
+          "en": "AI-related spending directly contributes 4-6% to US quarterly growth and is insensitive to rates and geopolitics."
+        },
+        {
+          "zh": "欧洲二季度增长受AI外需和地缘紧张下出口转移推动，消费者韧性超预期。",
+          "en": "Europe's Q2 growth was driven by AI external demand and export shifts amid geopolitical tensions, with consumers more resilient than expected."
+        },
+        {
+          "zh": "亚洲资本开支周期从科技扩展至能源、国防和工业，经常账户盈余占GDP 4.2%。",
+          "en": "Asia's capex cycle is broadening from tech to energy, defense, and industry; current account surplus is 4.2% of GDP."
+        },
+        {
+          "zh": "美国投资故事正从AI向制造业扩散，但制造业仅占产出和就业约10%。",
+          "en": "US investment is broadening from AI into manufacturing, but manufacturing is only about 10% of output and employment."
+        },
+        {
+          "zh": "欧洲投资占GDP约20%，未来对增长贡献应上升，但能源价格可能抑制消费。",
+          "en": "European investment is about 20% of GDP and its growth contribution should rise, but energy prices may weigh on consumption."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "global growth",
+        "resilience",
+        "manufacturing",
+        "consumption"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:7Lkr-GIWNoc",
       "title": "Trump: Musk ‘Put Back’ Ukraine Starlink Access",
@@ -15577,106 +15949,6 @@
         "ORCL"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:w0ZpSER65aA",
-      "title": "Yemen Says Houthis Hit Presidential Palace, EU-Gulf Summit in Saudi Arabia Postponed",
-      "title_zh": "IMF会议：沃什未给前瞻指引，市场押注美联储继续加息",
-      "url": "https://www.youtube.com/watch?v=w0ZpSER65aA",
-      "published_at": "2026-10-16T06:58:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在IMF曼谷会议上，美联储官员沃什未就10月与12月利率决定给出前瞻指引，重申价格稳定是核心使命，并提及AI与11月16日的美联储工作组。市场在CPI数据偏热后已定价到明年3月前两次加息，BNP策略师认为沃什表态略偏鹰派，10月会议结果可能接近。",
-      "summary_en": "At the IMF meetings in Bangkok, Fed official Warsh gave no forward guidance on October and December rate decisions, reiterating price stability as the Fed's main mandate and mentioning AI and a Fed task force set for November 16. After a hot CPI print, markets are pricing in two Fed rate hikes by March, and a BNP strategist viewed Warsh's remarks as slightly hawkish, with the October meeting likely a close call.",
-      "detail_zh": "盘前美股期货小幅上行，标普与纳指走高，MSCI太平洋指数上涨1.5%，布伦特原油下跌0.6%，基准收益率报5.1%。IMF总裁与美联储主席在曼谷IMF会议进行了约半小时炉边对话，沃什未提供前瞻指引，称10月和12月的决定需要届时做出，但未说明具体内容，并重申价格稳定是美联储的主要使命，同时提到AI以及定于11月16日的美联储工作组。沃什表示美联储将在此时期后变得更强，并强调国际合作的重要性；财政部长贝森特未出席。BNP策略师认为沃什的言论略偏鹰派，尤其考虑到本周CPI偏热且经济未见放缓证据，他提到AI带来的需求压力正在传导，并称全球经济在美国以外具有韧性；但委员会其他成员可能更偏鸽派，10月会议将是接近的决定。该策略师称其基准情形是至少还有多次加息，原本预计9月加息，基准情形为12月和1月进一步加息，并认为存在额外加息风险。关于油市冲击，其认为已出现向债市的溢出效应，AI主题下股市走弱（包括KOSPI和美国股市）值得担忧，若AI情绪进一步动摇，美元尤其兑瑞郎等避险货币可能承压；该行昨日发布了做空美元兑瑞郎的交易想法。对于美债，其仍认为路径指向更高收益率，财政风险尚未被完全定价，这可能支撑长端。",
-      "detail_en": "U.S. equity futures edged higher pre-market, with the S&P and Nasdaq up and the MSCI Pacific index rising 1.5%; Brent crude fell 0.6% and the benchmark yield stood at 5.1%. The IMF Managing Director and the Fed Chair held a roughly half-hour fireside chat at the IMF meeting in Bangkok. Warsh gave no forward guidance, saying decisions in October and December would have to be made but not specifying what they would be, and reiterated that price stability is the Fed's main mandate, while mentioning AI and a Fed task force set for November 16. Warsh said the Fed will come out of this period stronger and stressed the importance of international cooperation; Treasury Secretary Bessent did not attend. A BNP strategist viewed Warsh's comments as slightly more hawkish, especially given this week's hot CPI and little evidence of an economic slowdown; he noted AI demand pressures are starting to filter through and that the global economy has good resilience outside the U.S. However, other committee members may be more dovish, making the October meeting a close call. The strategist said the base case is a minimum of several total hikes, having called for a September hike, with further hikes in December and January, and sees risk of an additional hike. On the oil shock, he said spillover effects are appearing in the bond market, and AI-related equity weakness (including KOSPI and the U.S.) is a concern; if AI sentiment wobbles further, the dollar could come under pressure, particularly against safe-haven currencies like the Swiss franc, and the bank issued a short dollar-Swiss franc trade idea yesterday. On Treasuries, he still sees a path to higher yields, with fiscal risks not fully priced in, which could keep the back end supported.",
-      "conclusion_zh": "市场在偏热CPI后押注美联储继续加息，10月会议结果接近；投资者需关注AI情绪走弱对股市与美元的潜在传导，以及财政风险对长端美债的影响。",
-      "conclusion_en": "After a hot CPI, markets are betting on further Fed hikes with October a close call; investors should watch potential spillover from weakening AI sentiment into equities and the dollar, and fiscal risks affecting the long end of Treasuries.",
-      "key_points": [
-        {
-          "zh": "沃什在IMF会议上未就10月和12月利率决定给出前瞻指引，重申价格稳定是美联储主要使命。",
-          "en": "Warsh gave no forward guidance on October and December rate decisions at the IMF meeting, reiterating price stability as the Fed's main mandate."
-        },
-        {
-          "zh": "CPI偏热后，市场定价到明年3月前两次美联储加息；BNP基准情形为12月和1月进一步加息，并认为存在额外加息风险。",
-          "en": "After a hot CPI print, markets are pricing in two Fed hikes by March; BNP's base case is further hikes in December and January, with risk of an additional hike."
-        },
-        {
-          "zh": "BNP策略师认为沃什表态略偏鹰派，但委员会其他成员可能更偏鸽派，10月会议将是接近的决定。",
-          "en": "The BNP strategist viewed Warsh's remarks as slightly hawkish, but other committee members may be more dovish, making October a close call."
-        },
-        {
-          "zh": "油市冲击已出现向债市的溢出效应，AI主题下股市走弱（含KOSPI和美国股市）值得担忧。",
-          "en": "The oil shock has shown spillover into the bond market, and AI-related equity weakness (including KOSPI and the U.S.) is a concern."
-        },
-        {
-          "zh": "BNP仍认为美债路径指向更高收益率，财政风险尚未被完全定价，可能支撑长端。",
-          "en": "BNP still sees a path to higher Treasury yields, with fiscal risks not fully priced in, potentially supporting the back end."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "IMF",
-        "CPI",
-        "AI",
-        "Treasuries"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_OF3QHnK97Y",
-      "title": "UK's Healey Plans to Raise Bank Taxes",
-      "title_zh": "全球股市反弹，AI交易情绪脆弱，CoreWeave债务风险引关注",
-      "url": "https://www.youtube.com/watch?v=_OF3QHnK97Y",
-      "published_at": "2026-10-16T06:49:18+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "全球股市在芯片股抛售后反弹，MSCI亚太指数涨1.7%，但本周仍跌3%。美联储主席沃什（Kevin Warsh）关于AI利好美国经济的言论提振市场，10月加息概率从25%降至15%。CoreWeave的债务融资问题引发AI基础设施融资风险的担忧，信用违约互换成本本周大幅上升。",
-      "summary_en": "Global stocks rebounded after the chip selloff, with the MSCI Asia Pacific index up 1.7% though still down 3% for the week. Fed Chair Kevin Warsh's comments on AI benefiting the U.S. economy lifted sentiment, with October rate hike odds falling from 25% to 15%. CoreWeave's debt financing concerns raised worries about AI infrastructure funding risks, with credit default swap costs rising sharply this week.",
-      "detail_zh": "全球股市在经历芯片股抛售后反弹，MSCI亚太指数上涨1.7%，但本周累计仍下跌3%。欧洲股指期货上涨，纳斯达克期货走强，此前美联储主席沃什（Kevin Warsh）在IMF讲话中强调AI将给美国经济带来巨大好处，并称价格稳定是美联储的主要使命。市场对10月加息的定价从讲话前的25%降至15%。亚洲市场中，韩国KOSPI指数上涨4.5%，三星、海力士、阿里巴巴等大型科技股领涨；但台湾市场表现平淡，台积电下跌，台湾昨日遭遇史上最大规模外资流出。印尼市场因MSCI考虑将其降级为独立市场而大跌11%，银行股和电信股均遭抛售，土耳其也面临类似警告。油价小幅走低，但布伦特原油仍高于105美元/桶，中东供应风险重回焦点，油价有望连续第二周上涨。美元进一步走弱，欧元兑美元升破1.12，10年期美债收益率为5.08%。CoreWeave的债务融资问题成为本周AI抛售的导火索，其信用违约互换成本本周大幅上升，公司预计将烧掉超过300亿美元的自由现金流，远超其收入，这引发了对AI基础设施融资模式的担忧。英伟达CEO的支撑性言论部分扭转了市场情绪，但AI交易的情绪依然脆弱。",
-      "detail_en": "Global stocks rebounded after the chip selloff, with the MSCI Asia Pacific index up 1.7% though still down 3% for the week. European stock futures gained and Nasdaq futures were positive after Fed Chair Kevin Warsh, speaking at the IMF, emphasized AI would be a huge benefit to the U.S. economy and said price stability is the Fed's main mandate. Market pricing for an October rate hike fell from 25% before the remarks to 15%. In Asia, South Korea's KOSPI rose 4.5%, led by large-cap tech including Samsung, Hynix, and Alibaba; Taiwan was flat with TSMC down, after recording its biggest day of foreign outflows ever yesterday. Indonesia dropped 11% as MSCI considers downgrading it to a standalone market, with banks and telecoms sold off; Turkey faces a similar warning. Oil prices were slightly lower but Brent remained above $105/barrel, on track for a second weekly gain as Middle East supply risks returned to focus. The dollar weakened further, with the euro above 1.12, and the 10-year Treasury yield at 5.08%. CoreWeave's debt financing issues sparked this week's AI selloff, with its credit default swap costs rising exponentially; the company is expected to burn more than $30 billion of free cash flow, far exceeding revenues, raising concerns about AI infrastructure funding models. Supportive comments from Nvidia's CEO partially turned sentiment around, but AI trade sentiment remains fragile.",
-      "conclusion_zh": "AI交易情绪脆弱，CoreWeave的债务问题凸显AI基础设施融资的结构性风险，投资者需关注信用市场压力与美联储政策路径的相互作用。",
-      "conclusion_en": "AI trade sentiment is fragile, and CoreWeave's debt issues highlight structural risks in AI infrastructure financing; investors should watch the interplay between credit market stress and the Fed's policy path.",
-      "key_points": [
-        {
-          "zh": "全球股市反弹，MSCI亚太指数涨1.7%，但本周仍跌3%；韩国KOSPI涨4.5%领涨，台湾因外资创纪录流出而承压。",
-          "en": "Global stocks rebounded with MSCI Asia Pacific up 1.7% though still down 3% for the week; Korea's KOSPI rose 4.5% while Taiwan struggled amid record foreign outflows."
-        },
-        {
-          "zh": "美联储主席沃什称AI将给美国经济带来巨大好处，市场对10月加息定价从25%降至15%。",
-          "en": "Fed Chair Kevin Warsh said AI will be a huge benefit to the U.S. economy, with October rate hike odds falling from 25% to 15%."
-        },
-        {
-          "zh": "CoreWeave的债务融资问题引发AI基础设施融资风险担忧，其CDS成本本周大幅上升，预计烧掉超300亿美元自由现金流。",
-          "en": "CoreWeave's debt financing issues raised concerns about AI infrastructure funding risks, with CDS costs rising sharply this week and expected free cash flow burn exceeding $30 billion."
-        },
-        {
-          "zh": "印尼市场因MSCI考虑将其降级为独立市场而大跌11%，银行和电信股遭抛售，土耳其面临类似警告。",
-          "en": "Indonesia dropped 11% as MSCI considers downgrading it to a standalone market, with banks and telecoms sold off; Turkey faces a similar warning."
-        },
-        {
-          "zh": "油价小幅走低但布伦特仍高于105美元/桶，中东供应风险重回焦点；美元走弱，欧元升破1.12，10年期美债收益率为5.08%。",
-          "en": "Oil slightly lower but Brent above $105/barrel as Middle East supply risks return; dollar weakened with euro above 1.12, and 10-year Treasury yield at 5.08%."
-        }
-      ],
-      "tags": [
-        "AI",
-        "Fed",
-        "CoreWeave",
-        "Asia markets",
-        "credit risk"
-      ],
-      "tickers": [
-        "TSM"
-      ],
-      "sentiment": "neutral"
     }
   ]
 }
