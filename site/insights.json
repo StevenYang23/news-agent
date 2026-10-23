@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:24:09.610364+00:00",
+  "generated_at": "2026-10-23T03:12:28.573999+00:00",
   "insights": [
     {
       "guid": "yt:7Lkr-GIWNoc",
@@ -15877,53 +15877,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:wcz3cSFXF_M",
-      "title": "Ross Gerber on Tesla Roadster, Potential SpaceX Merger",
-      "title_zh": "特斯拉Roadster发布与Robotaxi前景：分析师质疑Musk对汽车业务的投入",
-      "url": "https://www.youtube.com/watch?v=wcz3cSFXF_M",
-      "published_at": "2026-10-16T03:10:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特斯拉发布Roadster，但分析师认为这款高价低产量的车型对财务影响甚微，并批评Musk已放弃汽车业务。分析师在Austin实测CyberCab后指出Robotaxi仍面临诸多挑战，距离大规模商业化尚远。",
-      "summary_en": "Tesla unveiled the Roadster, but analysts believe this expensive, low-volume vehicle will have minimal financial impact and criticize Musk for abandoning the car business. After testing the CyberCab in Austin, analysts note Robotaxi still faces many challenges before meaningful scaling.",
-      "detail_zh": "特斯拉发布了Roadster，这是自Cybertruck以来首次重大车型发布。分析师认为，发布一款价格昂贵且产量低的车型对特斯拉财务影响不大，并指出特斯拉似乎不再开发其他新车型，这可能是对开发新车的\"最后告别\"。分析师批评Musk已抛弃汽车业务，停售了Model S，而当前电动车需求空前强劲，特斯拉却未推出售价2.5万美元的电动车，错失了数百万销量。关于Robotaxi，分析师在Austin实测了CyberCab，认为其外观优于Waymo和Uber的竞品，但两座设计放弃了部分市场。分析师在Austin观察到Robotaxi竞争激烈，且系统存在缺陷，例如CyberCab绕路导致行程时间增加三倍，认为距离大规模自动驾驶时代尚远。",
-      "detail_en": "Tesla unveiled the Roadster, its first major car unveiling since the Cybertruck. Analysts believe an expensive, low-production vehicle will have little financial impact and note Tesla appears to have stopped developing other new vehicles, possibly a 'final goodbye' to new car development. Analysts criticize Musk for jettisoning the car business, discontinuing the Model S, and missing the opportunity for a $25,000 EV that could have sold millions amid strong EV demand. On Robotaxi, analysts tested the CyberCab in Austin, finding it better looking than Waymo and Uber competitors, but the two-seater design gives up part of the market. Analysts observed intense competition in Austin and system flaws, such as a CyberCab taking a circuitous route that tripled travel time, suggesting a widespread autonomous era is still far off.",
-      "conclusion_zh": "特斯拉在汽车业务上的创新乏力与Robotaxi的早期挑战，可能使其短期增长受限，投资者需关注其战略重心转移的风险。",
-      "conclusion_en": "Tesla's lack of innovation in the car business and early challenges in Robotaxi may limit near-term growth; investors should watch the risk of strategic pivot.",
-      "key_points": [
-        {
-          "zh": "Roadster发布对特斯拉财务影响甚微，因产量低且价格高。",
-          "en": "Roadster unveiling has minimal financial impact due to low production and high price."
-        },
-        {
-          "zh": "分析师批评Musk已放弃汽车业务，未推出大众市场电动车。",
-          "en": "Analysts criticize Musk for abandoning the car business and not launching a mass-market EV."
-        },
-        {
-          "zh": "CyberCab在Austin实测中表现优于竞品，但两座设计限制市场。",
-          "en": "CyberCab tested better than competitors in Austin, but two-seater limits market."
-        },
-        {
-          "zh": "Robotaxi系统仍存缺陷，大规模商业化尚需时日。",
-          "en": "Robotaxi systems still have flaws; meaningful scaling is far off."
-        }
-      ],
-      "tags": [
-        "Tesla",
-        "Roadster",
-        "Robotaxi",
-        "EV",
-        "Autonomous Driving"
-      ],
-      "tickers": [
-        "TSLA"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
