@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:10:36.430623+00:00",
+  "generated_at": "2026-10-23T06:18:08.501896+00:00",
   "insights": [
     {
       "guid": "yt:7Lkr-GIWNoc",
@@ -15676,55 +15676,6 @@
       "tickers": [
         "TSM"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:SyJPYQMhkcg",
-      "title": "Indonesian Stocks Sink as MSCI Mulls Downgrade",
-      "title_zh": "亚洲市场反弹与中国数据前瞻：买方视角",
-      "url": "https://www.youtube.com/watch?v=SyJPYQMhkcg",
-      "published_at": "2026-10-16T05:50:44+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "亚洲股市在逢低买入推动下反弹，美债因避险资金流入而上涨。市场关注即将公布的中国GDP数据及可能的刺激措施，同时印尼面临MSCI降级风险，韩国市场出现投机性反弹。",
-      "summary_en": "Asian stocks rebounded on bargain hunting, while U.S. Treasuries rallied on safe-haven flows. Markets are focused on China's upcoming GDP data and potential stimulus, while Indonesia faces MSCI downgrade risk and South Korea sees a speculative rally.",
-      "detail_zh": "亚洲市场周五普遍反弹，逢低买入推动复苏，美债因避险资金流入而上涨。市场关注中国周一将公布的经济数据，包括GDP，以及决策者在上海会议上的信号。中国一年期利率互换降至六年来最低，市场预期数据疲软可能促使刺激措施出台。台湾市场在昨日大幅资金流出后出现反弹，台积电财报超预期并上调预测，但科技硬件板块仍面临压力。韩国市场上涨2.9%，但基本面担忧犹存，昨日有近9亿美元流入三倍杠杆美国ETF，显示短期投机行为。印尼因公司治理和市场微观结构问题面临MSCI降级风险，可能被剔除全球股票指数，印尼盾已走弱，下周还有利率决策。美联储主席Kevin Warsh将在IMF/世界银行会议上发表讲话，投资者关注本月利率决策线索。",
-      "detail_en": "Asian markets rebounded broadly on Friday, fueled by bargain hunting, while U.S. Treasuries rallied on safe-haven flows. Markets are focused on China's upcoming economic data on Monday, including GDP, and signals from policymakers at a conference in Shanghai. China's one-year interest rate swaps fell to a six-year low, with expectations that weak data could prompt stimulus measures. Taiwan's market bounced after yesterday's massive outflows, with TSMC beating expectations and raising forecasts, though the tech hardware sector still faces pressure. South Korea's market rose 2.9%, but fundamental concerns persist; nearly $900 million flowed into a triple-leveraged U.S. ETF yesterday, indicating short-term speculation. Indonesia faces MSCI downgrade risk due to corporate governance and market microstructure issues, potentially being ejected from global stock indexes, with the rupiah already weak and a rate decision next week. Fed Chairman Kevin Warsh is set to speak at the IMF/World Bank meetings, with investors watching for clues on this month's rate decision.",
-      "conclusion_zh": "市场关注中国数据与刺激预期，以及美联储主席讲话，亚洲市场短期反弹但基本面风险犹存。",
-      "conclusion_en": "Markets focus on China data and stimulus expectations, as well as Fed Chair's speech; Asian markets rebound short-term but fundamental risks remain.",
-      "key_points": [
-        {
-          "zh": "亚洲股市反弹，逢低买入推动，美债因避险资金流入上涨。",
-          "en": "Asian stocks rebounded on bargain hunting, while U.S. Treasuries rallied on safe-haven flows."
-        },
-        {
-          "zh": "中国一年期利率互换降至六年来最低，市场预期疲软数据可能促使刺激措施。",
-          "en": "China's one-year interest rate swaps fell to a six-year low, with expectations that weak data could prompt stimulus."
-        },
-        {
-          "zh": "台积电财报超预期并上调预测，但科技硬件板块仍面临压力。",
-          "en": "TSMC beat expectations and raised forecasts, but the tech hardware sector still faces pressure."
-        },
-        {
-          "zh": "韩国市场上涨2.9%，但基本面担忧犹存，短期投机资金流入杠杆ETF。",
-          "en": "South Korea's market rose 2.9%, but fundamental concerns persist, with short-term speculative flows into leveraged ETFs."
-        },
-        {
-          "zh": "印尼面临MSCI降级风险，可能被剔除全球股票指数，印尼盾走弱。",
-          "en": "Indonesia faces MSCI downgrade risk, potentially being ejected from global stock indexes, with the rupiah weak."
-        }
-      ],
-      "tags": [
-        "Asia markets",
-        "China data",
-        "Fed",
-        "MSCI",
-        "TSMC"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
