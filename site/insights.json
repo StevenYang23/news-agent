@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-23T11:11:09.902274+00:00",
+  "generated_at": "2026-10-23T12:15:23.742196+00:00",
   "insights": [
+    {
+      "guid": "yt:J08RoxSQZ8s",
+      "title": "Treasury Rally Pauses After Rush to Safety; Oil Extends Gain Amid Supply Woes",
+      "title_zh": "科技股抛售推升美债，收益率回落；油价因沙特袭击周线三连涨；SpaceX寻求美国8万基站，铁塔股涨运营商跌",
+      "url": "https://www.youtube.com/watch?v=J08RoxSQZ8s",
+      "published_at": "2026-10-23T11:23:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "科技股抛售促使资金涌入美债，收益率下跌后企稳；沙特遭袭升级引发供应担忧，油价有望连续第三周上涨；SpaceX据称寻求接入美国8万个蜂窝基站以建新网络，盘前铁塔公司上涨、无线运营商下跌。Nuveen的Laura Cooper讨论股市面临的结构性挑战。",
+      "summary_en": "A selloff in tech stocks drove investors to Treasuries, with yield declines easing; escalating attacks on Saudi Arabia stoked supply concerns, putting oil on track for a third consecutive weekly gain; SpaceX is said to be seeking access to 80,000 US cell sites for new networks, lifting tower companies and weighing on wireless carriers in pre-market trading. Laura Cooper of Nuveen discussed structural challenges facing the equity market.",
+      "detail_zh": "科技股遭遇抛售，投资者转向美国国债，收益率下跌后跌势有所缓和。原油有望连续第三周上涨，因沙特阿拉伯遭受的袭击升级，加剧了市场对供应的担忧。盘前交易中，铁塔公司股价上涨，而无线运营商股价下跌，此前有消息称SpaceX正寻求接入美国各地8万个蜂窝基站，以建设新网络。Nuveen的Laura Cooper在“Bloomberg Brief”节目中讨论了股市面临的结构性挑战。",
+      "detail_en": "A selloff in tech stocks drove investors into Treasuries, with the decline in yields easing after the move. Oil is headed for a third consecutive weekly gain as escalating attacks on Saudi Arabia stoke supply concerns. In pre-market trading, shares of tower companies rose while wireless carriers fell after SpaceX was said to be seeking access to 80,000 cell sites across the US for new networks. Laura Cooper of Nuveen joined \"Bloomberg Brief\" to discuss structural challenges facing the equity market.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技股抛售推动资金流入美债，收益率下跌后企稳。",
+          "en": "Tech stock selloff drove flows into Treasuries, with yield declines easing."
+        },
+        {
+          "zh": "沙特袭击升级引发供应担忧，油价有望连续第三周上涨。",
+          "en": "Escalating attacks on Saudi Arabia stoke supply concerns, putting oil on track for a third weekly gain."
+        },
+        {
+          "zh": "SpaceX据称寻求接入美国8万个蜂窝基站以建新网络，盘前铁塔公司上涨、无线运营商下跌。",
+          "en": "SpaceX is said to seek access to 80,000 US cell sites for new networks; tower companies rise, wireless carriers fall pre-market."
+        },
+        {
+          "zh": "Nuveen的Laura Cooper讨论股市面临的结构性挑战。",
+          "en": "Laura Cooper of Nuveen discussed structural challenges facing the equity market."
+        }
+      ],
+      "tags": [
+        "Treasuries",
+        "Oil",
+        "SpaceX",
+        "Telecom",
+        "Equity Market"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:nCzsxmgD7ls",
       "title": "Volvo CEO Says China Market Gone, Luxury Weakness Remains",
@@ -49,6 +94,68 @@
       ],
       "tickers": [],
       "sentiment": "negative"
+    },
+    {
+      "guid": "4956858",
+      "title": "Wall Street Breakfast Podcast: Moderna's Good News Goes Bad",
+      "title_zh": "Moderna癌症疫苗数据积极但股价大跌；SpaceX大规模基站计划提振铁塔股；Kohl's获唯一买入评级",
+      "url": "https://seekingalpha.com/article/4956858-wall-street-breakfast-podcast-modernas-good-news-goes-bad?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-23T10:45:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "Moderna与默克的个性化黑色素瘤疫苗三期数据积极，但股价因数据集不完整和估值担忧下跌近18%。SpaceX计划在美国获取至少8万个蜂窝站点，与Crown Castle等基础设施公司洽谈，推动CCI和AMT盘前大涨，而无线运营商AT&T、Verizon、T-Mobile下跌。Kohl's获Gordon Haskett上调至买入，股价大涨。",
+      "summary_en": "Moderna and Merck's personalized melanoma vaccine met Phase 3 endpoints, but MRNA plunged nearly 18% as the full dataset remained unavailable and investors weighed valuation. SpaceX's plan to secure at least 80,000 U.S. cell sites lifted tower stocks CCI and AMT premarket, while carriers T, VZ, and TMUS fell. Kohl's surged after Gordon Haskett issued its only Buy rating.",
+      "detail_zh": "Moderna（MRNA）周四收跌近18%，盘前再跌3%。其与默克（MRK）合作开发的个性化癌症疫苗intismeran autogene联合Keytruda（pembrolizumab）的三期数据显示，在中位随访24.6个月后，相比单用Keytruda，将黑色素瘤复发或死亡风险降低42%，达到主要终点；将癌症扩散或死亡风险降低38%，达到次要终点。数据原定于10月24日在ESMO大会上发布，但因泄露而提前解禁，默克和Moderna也公布了数据。默克周四收跌约2%。市场反应负面，因完整数据集仍不可得，投资者在估值预期与信息披露之间权衡。SpaceX（SPCX）据报计划在美国获取至少8万个蜂窝站点，并与至少一家大型蜂窝基础设施公司洽谈，彭博报道称Crown Castle（CCI）是洽谈对象之一。CCI和American Tower（AMT）是最大蜂窝塔所有者之一。AMT盘前涨4.3%，CCI涨6.5%。8万个站点将超过去年美国158,500座专用蜂窝塔的一半（据无线基础设施协会）。Crown Castle CEO Christian Hillabrant周三表示，在被问及与SpaceX和亚马逊（AMZN）的潜在租约时，公司正在与“所有各方”洽谈。无线运营商AT&T（T）、Verizon（VZ）和T-Mobile（TMUS）盘前均跌超3%。Kohl's（KSS）周四股价大涨，因Gordon Haskett分析师将其评级上调至买入，成为该股唯一买入评级。分析师预计假日季有利， citing 两年流量趋势改善，从1月至5月的下降高个位数加速至6月至今的下降中个位数。此次上调使KSS股价达到去年12月以来最高，并创下去年5月公布Q1业绩以来最佳单日涨幅。股指期货涨跌互现。原油涨1.3%至100美元，布伦特原油涨0.7%至114美元。富时100跌0.5%，DAX跌0.7%。Deckers Outdoor（DECK）跌10%，因Q2营收创纪录、利润增长27%，但销售额超20个季度以来首次不及预期，并下调FY2027营收展望。经济日历：10:00消费者信心指数。",
+      "detail_en": "Moderna (MRNA) closed nearly 18% lower on Thursday and fell another 3% premarket. Phase 3 data for its personalized cancer vaccine intismeran autogene, developed with Merck (MRK), showed that when combined with Keytruda (pembrolizumab), it cut the risk of melanoma recurrence or death by 42% versus Keytruda alone after a median follow-up of 24.6 months, meeting the primary endpoint. The combo also reduced the risk of cancer spreading or death by 38% versus Keytruda alone, meeting the secondary endpoint. The data was slated for release on Oct. 24 at the ESMO Congress in Madrid but was released early after a leak; Merck and Moderna also published the data. Merck closed down about 2% on Thursday. Markets reacted negatively as the complete dataset remained unavailable and investors weighed valuation expectations against disclosure. SpaceX (SPCX) reportedly aims to secure at least 80,000 cell sites across the U.S. and is in talks with at least one major cellular infrastructure company. Bloomberg reported that Crown Castle (CCI) is one of the companies in talks; CCI, American Tower (AMT), and Vertical Bridge Holdings are among the largest owners of cellular towers. AMT rose 4.3% premarket and CCI rose 6.5%. The 80,000 sites would be more than half of the 158,500 purpose-built cell towers operational in the U.S. last year, according to the Wireless Infrastructure Association. Crown Castle CEO Christian Hillabrant said Wednesday the company was talking to 'all parties' when asked about potential leases with SpaceX and Amazon (AMZN). Wireless carriers AT&T (T), Verizon (VZ), and T-Mobile (TMUS) all fell more than 3% premarket. Kohl's (KSS) surged Thursday after Gordon Haskett upgraded the stock to Buy, its only Buy rating, expecting a favorable holiday season. The analyst cited a two-year traffic trend that appears to be improving, accelerating from down high-single digits from January to May to down mid-single digits from June to the present. The upgrade put KSS at its highest level since last December and its best one-day gain since reporting Q1 results last May. Stock index futures were mixed. Crude oil rose 1.3% to $100, and Brent rose 0.7% to $114. The FTSE 100 fell 0.5% and the DAX fell 0.7%. Deckers Outdoor (DECK) plunged 10% after the footwear maker reported record Q2 revenue and a 27% increase in profit but missed sales estimates for the first time in more than 20 quarters and lowered its FY2027 revenue outlook. Economic calendar: 10:00 am Consumer Sentiment.",
+      "conclusion_zh": "Moderna的积极数据未能抵消市场对信息透明度和估值的担忧，而SpaceX的基站计划可能重塑美国铁塔与运营商格局，值得关注相关基础设施类股票的持续反应。",
+      "conclusion_en": "Moderna's positive data failed to offset concerns over disclosure and valuation, while SpaceX's cell site plan could reshape the U.S. tower and carrier landscape, warranting attention to infrastructure stocks' reaction.",
+      "key_points": [
+        {
+          "zh": "Moderna与默克的个性化癌症疫苗三期达到主要和次要终点，但MRNA因数据集不完整和估值担忧大跌近18%。",
+          "en": "Moderna and Merck's personalized cancer vaccine met primary and secondary endpoints in Phase 3, but MRNA plunged nearly 18% on incomplete dataset and valuation concerns."
+        },
+        {
+          "zh": "SpaceX计划在美国获取至少8万个蜂窝站点，与Crown Castle等洽谈，CCI和AMT盘前分别涨6.5%和4.3%。",
+          "en": "SpaceX aims to secure at least 80,000 U.S. cell sites and is in talks with Crown Castle, among others; CCI and AMT rose 6.5% and 4.3% premarket."
+        },
+        {
+          "zh": "无线运营商AT&T、Verizon和T-Mobile因SpaceX基础设施计划盘前均跌超3%。",
+          "en": "Wireless carriers AT&T, Verizon, and T-Mobile all fell more than 3% premarket on SpaceX's infrastructure plan."
+        },
+        {
+          "zh": "Kohl's获Gordon Haskett上调至买入，成为唯一买入评级，股价创去年12月以来新高。",
+          "en": "Kohl's was upgraded to Buy by Gordon Haskett, its only Buy rating, sending shares to their highest since last December."
+        },
+        {
+          "zh": "Deckers Outdoor虽录得创纪录Q2营收和27%利润增长，但销售额超20个季度以来首次不及预期，并下调FY2027营收展望，股价跌10%。",
+          "en": "Deckers Outdoor fell 10% despite record Q2 revenue and 27% profit growth, as sales missed estimates for the first time in over 20 quarters and FY2027 revenue outlook was lowered."
+        }
+      ],
+      "tags": [
+        "Moderna",
+        "SpaceX",
+        "cell towers",
+        "Kohl's",
+        "Deckers"
+      ],
+      "tickers": [
+        "MRNA",
+        "MRK",
+        "CCI",
+        "AMT",
+        "T",
+        "VZ",
+        "TMUS",
+        "KSS",
+        "DECK",
+        "AMZN",
+        "SPCX"
+      ],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:WOz29qDc2Ww",
@@ -15599,108 +15706,6 @@
         "critical minerals"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:4U1nFgBVhPM",
-      "title": "Tesla Showcases Roadster, China Moves to Prop Up Stocks",
-      "title_zh": "芯片股反弹、沃什讲话与欧盟对华贸易工具",
-      "url": "https://www.youtube.com/watch?v=4U1nFgBVhPM",
-      "published_at": "2026-10-16T12:01:22+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "芯片股在英伟达高管表态后反弹，KOSPI涨3%，科技板块本周承压后周五小幅回升。美联储主席沃什在曼谷讲话未释放鹰派信号，10月加息预期从30%降至17%，债券收益率下行、股市小幅走高。欧盟领导人要求委员会研究极端情况下可切断中国进入单一市场的贸易工具，德国立场转变值得关注。",
-      "summary_en": "Chip stocks rebounded with a helping hand from Nvidia's boss, with the KOSPI up 3% after tech was battered this week. Fed Chair Kevin Warsh's remarks in Bangkok did not push back on rate expectations, cutting October hike odds from 30% to 17%, sending bond yields lower and stocks slightly higher. EU leaders demanded the Commission explore a trade tool that could, in extreme scenarios, cut off China's access to the single market, with Germany's shift notable.",
-      "detail_zh": "芯片股在英伟达高管的表态助力下反弹，KOSPI上涨3%，此前科技板块本周遭受重创，周五出现小幅反弹。美联储主席沃什在曼谷的讲话及问答环节中，并未试图重置加息预期，10月加息预期从讲话前的30%降至17%，债券收益率随之下降，股市小幅走高。沃什强调AI投资是积极因素，且认为无需过多干扰；但他提到AI带来的好处与回报是「跨越周期的」，市场目前难以对此定价。嘉宾指出，当前需求端正在推升通胀，这是沃什眼下必须应对的问题。在布鲁塞尔，欧盟领导人要求委员会研究一种工具，使其在极端情况下能够切断中国进入单一市场的贸易通道，以展示欧盟在贸易上更有「牙齿」。德国立场的转变被认为非常值得关注，德国企业在中国市场增长乏力，可能促使其政府转向更强硬立场。英国方面，财政大臣预计将对银行业加税，银行附加税可能从目前的3%上调至8%，此前已排除上调资本利得税等选项。",
-      "detail_en": "Chip stocks rebounded with a helping hand from Nvidia's boss, with the KOSPI up 3% after tech was battered this week, seeing a modest Friday rebound. Fed Chair Kevin Warsh's speech and Q&A in Bangkok did not attempt to reset rate-hike expectations; October hike odds fell from 30% before the remarks to 17% after, sending bond yields lower and stocks slightly higher. Warsh stressed AI investment as a positive and suggested little need to disrupt it, but noted the benefits and payback from AI are 'over the horizon,' which the market struggles to price. The guest noted that demand-side pressures are currently pushing up inflation, which is the problem Warsh must deal with now. In Brussels, EU leaders requested the Commission explore a tool that would, in extreme scenarios, allow the EU to cut off China's trade and access to the single market, aiming to show the EU has more teeth on trade. Germany's shift was highlighted as particularly interesting, with German companies not growing in China potentially enabling a pivot toward tougher measures. In the UK, the Chancellor is expected to target the banking sector, with the bank surcharge potentially rising from the current 3% to 8%, after ruling out increases to capital gains tax and other options.",
-      "conclusion_zh": "沃什讲话后加息预期降温、债券收益率下行，为科技股反弹提供喘息；但AI回报「跨越周期」意味着市场短期难以定价，而欧盟对华贸易工具与英国银行加税构成政策风险点。",
-      "conclusion_en": "Warsh's remarks cooled rate-hike expectations and pushed bond yields lower, giving tech stocks a breather; however, AI payback being 'over the horizon' means the market struggles to price it near-term, while EU trade tools against China and UK bank tax hikes pose policy risks.",
-      "key_points": [
-        {
-          "zh": "芯片股在英伟达高管表态后反弹，KOSPI涨3%，但本周科技板块整体承压。",
-          "en": "Chip stocks rebounded with a helping hand from Nvidia's boss, KOSPI up 3%, though tech was battered this week."
-        },
-        {
-          "zh": "沃什讲话未释放鹰派信号，10月加息预期从30%降至17%，债券收益率下行、股市小幅走高。",
-          "en": "Warsh's remarks did not push back on rate expectations; October hike odds fell from 30% to 17%, sending bond yields lower and stocks slightly higher."
-        },
-        {
-          "zh": "沃什强调AI投资是积极因素，但AI的好处与回报是「跨越周期的」，市场目前难以定价。",
-          "en": "Warsh stressed AI investment as a positive, but noted AI's benefits and payback are 'over the horizon,' which the market struggles to price."
-        },
-        {
-          "zh": "欧盟领导人要求委员会研究极端情况下可切断中国进入单一市场的贸易工具，德国立场转变值得关注。",
-          "en": "EU leaders requested the Commission explore a tool to cut off China's access to the single market in extreme scenarios, with Germany's shift notable."
-        },
-        {
-          "zh": "英国财政大臣预计对银行业加税，银行附加税可能从3%上调至8%。",
-          "en": "The UK Chancellor is expected to target banks, with the surcharge potentially rising from 3% to 8%."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "AI",
-        "chips",
-        "EU-China trade",
-        "UK banks"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:IetE5QVUxuA",
-      "title": "Investors Dial Back October Hike Bets After Warsh; Taiwan to Curb AI Chip Exports to China",
-      "title_zh": "市场下调10月加息预期，沃什未就货币政策表态",
-      "url": "https://www.youtube.com/watch?v=IetE5QVUxuA",
-      "published_at": "2026-10-16T11:27:49+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美联储主席沃什在IMF会议上未对货币政策给出前瞻指引，市场将10月加息概率从约27%下调至15%或更低，美债收益率小幅走低、曲线略趋陡。亚洲科技股反弹，中国当局出手支撑股市；印尼股市因MSCI可能将其降级而创28年最差单日表现。",
-      "summary_en": "Fed Chair Warsh gave no forward guidance on monetary policy at the IMF meetings, prompting markets to cut October rate-hike odds from about 27% to 15% or lower, with Treasury yields easing and the curve steepening slightly. Asian tech stocks rebounded and Chinese authorities moved to support equities, while Indonesian stocks posted their worst day in 28 years on a possible MSCI downgrade.",
-      "detail_zh": "美联储主席沃什在IMF会议上表示自己不做前瞻指引，也未就即将公布的数据给出任何暗示，市场因此将10月加息概率从讲话前的约27%下调至15%或更低（联邦基金期货）。10年期美债收益率报5.0978%，30年期报5.44%，曲线出现小幅陡峭化。沃什承认经济面临供给冲击，同时强调需求端强劲，并提到美国由人工智能驱动的投资与资本开支热潮，认为其影响将不均衡，AI投资当前可能具有通胀性、未来或转为通缩性，但核心是时点问题。亚洲市场多数收涨，韩国、日本科技板块收复本周部分失地，中国股市获“国家队”式支撑，盘后消息显示这是当局更广泛护盘行动的一部分。印尼股市创28年最差单日表现、货币连续第六日下跌，因MSCI启动磋商，可能将印尼从新兴市场指数中剔除并绕过前沿市场、将其列为独立市场。欧洲股市小幅反弹，科技、工业与金融板块走强，德国商业银行与裕信银行获准合并；欧元回升至1.12上方，美元走弱。个股方面，特斯拉发布新款Roadster、2028年投产，盘前涨超4.5%；美铝因铝业务价格与产量提升财报良好；J.B. Hunt盘前下跌，分析师称成本对利润率的压力短期难以缓解。",
-      "detail_en": "Fed Chair Warsh said at the IMF meetings that he does not do forward guidance and gave no hint about incoming data, prompting markets to cut October rate-hike odds from about 27% before he spoke to 15% or lower in fed funds futures. The 10-year Treasury yield stood at 5.0978% and the 30-year at 5.44%, with a slight steepening of the curve. Warsh acknowledged supply shocks hitting the economy while stressing strong demand, and pointed to an AI-driven investment and capex boom in the United States that will hit unevenly, with AI investment inflationary now and potentially disinflationary later — ultimately a timing issue. Most Asian markets closed higher, with South Korea and Japan tech recouping some of the week's losses, and Chinese equities drawing national-team support that was later reported to be part of a broader official push. Indonesian stocks had their worst day in 28 years and the currency fell for a sixth day after MSCI launched a consultation that could remove Indonesia from the emerging-market index, bypass frontier markets and leave it as a standalone market. European shares rebounded modestly on tech, industrials and financials, with Commerzbank and UniCredit cleared to merge; the euro recovered above 1.12 as the dollar weakened. Single stocks: Tesla rose more than 4.5% premarket after unveiling its new Roadster, slated for 2028 production; Alcoa reported a good quarter on aluminum pricing and output; J.B. Hunt fell premarket, with analysts saying cost pressure on margins is unlikely to ease soon.",
-      "conclusion_zh": "沃什的“不表态”本身构成鸽派信号，短期缓解了利率担忧并支撑风险资产；但AI资本开支的通胀属性与印尼等新兴市场的结构性风险仍需关注。",
-      "conclusion_en": "Warsh's refusal to signal hawkishness was itself read as dovish, easing rate fears and supporting risk assets near term; still, the inflationary nature of AI capex and structural risks in markets like Indonesia warrant attention.",
-      "key_points": [
-        {
-          "zh": "沃什未就货币政策给出前瞻指引，市场将10月加息概率从约27%下调至15%或更低。",
-          "en": "Warsh gave no forward guidance, and markets cut October hike odds from about 27% to 15% or lower."
-        },
-        {
-          "zh": "10年期美债收益率5.0978%、30年期5.44%，曲线小幅陡峭化。",
-          "en": "The 10-year yield was 5.0978% and the 30-year 5.44%, with a slight curve steepening."
-        },
-        {
-          "zh": "沃什称美国存在AI驱动的投资与资本开支热潮，影响将不均衡，当前偏通胀、未来或偏通缩，关键在时点。",
-          "en": "Warsh cited an AI-driven US investment and capex boom that will hit unevenly — inflationary now, potentially disinflationary later, with timing the key issue."
-        },
-        {
-          "zh": "亚洲科技股反弹，中国当局出手支撑股市；印尼股市因MSCI可能降级创28年最差单日表现。",
-          "en": "Asian tech rebounded and Chinese authorities supported equities, while Indonesian stocks had their worst day in 28 years on a possible MSCI downgrade."
-        },
-        {
-          "zh": "特斯拉发布新款Roadster（2028年投产），盘前涨超4.5%；美铝财报良好；J.B. Hunt因成本压力下跌。",
-          "en": "Tesla rose over 4.5% premarket on its new Roadster (2028 production); Alcoa posted a good quarter; J.B. Hunt fell on cost pressure."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "rate-hike-odds",
-        "Treasury-yields",
-        "AI-capex",
-        "MSCI-Indonesia"
-      ],
-      "tickers": [
-        "TSLA",
-        "AA",
-        "JBHT"
-      ],
       "sentiment": "neutral"
     }
   ]
