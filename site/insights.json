@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:11:56.520830+00:00",
+  "generated_at": "2026-10-23T05:10:36.430623+00:00",
   "insights": [
     {
       "guid": "yt:7Lkr-GIWNoc",
@@ -15723,106 +15723,6 @@
         "Fed",
         "MSCI",
         "TSMC"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:13v50BGzPQs",
-      "title": "Chip Selloff Eases as Nvidia CEO Downplays CoreWeave Concerns",
-      "title_zh": "AI估值担忧蔓延至信贷市场，新云厂商融资模式受质疑",
-      "url": "https://www.youtube.com/watch?v=13v50BGzPQs",
-      "published_at": "2026-10-16T04:52:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "亚洲市场在美债收益率走低带动下有望反弹，但AI板块估值担忧并未消散，并已从股市传导至信贷市场，市场开始质疑新云厂商（neo-clouds）的融资模式与商业可行性。策略师指出，利率上行令CoreWeave等新云厂商的债务融资成本成为关键风险，而超大规模云厂商因现金充裕反而受益。",
-      "summary_en": "Asian markets are set to rebound as Treasury yields move lower, but AI valuation concerns have not disappeared and have now spread from equities into credit markets, where the funding models of neo-clouds are being openly questioned. Strategists note that rising rates make debt funding costs critical for neo-clouds like CoreWeave, while cash-rich hyperscalers stand to benefit.",
-      "detail_zh": "亚洲市场有望反弹，美债收益率走低，澳洲市场表现积极，反弹可能蔓延至日本。围绕AI估值过高的担忧虽有所缓解但并未消失，该地区有望录得首次上涨。策略师指出，科技板块尤其是半导体承压，相关问题已传导至信贷市场，市场开始公开质疑新云厂商（neo-clouds）的融资模式，这构成另一层风险，投资者需理解其对商业模式可行性的含义，并寻找市场中滞涨、可能提供支撑的领域（如低收益率板块）。TSMC业绩显示其有意增加资本开支，或认为周期处于中点，AI的实用性仅在过去数月显现，早期阶段出现洗牌可能是必要且健康的。超大规模云厂商是新云厂商融资困境的受益者。英伟达的黄仁勋为CoreWeave的客户关系辩护，反映出该领域关系与融资的循环性。利率预期重定价对新云厂商融资构成压力：两三个月前市场并不太担心CoreWeave，但利率上行将这一问题推到台前，部分新云厂商需重新评估债市融资意愿，CoreWeave未来四到五年有债券到期，融资市场可能要求更高溢价。超大规模云厂商现金充裕，融资市场对微软、亚马逊、谷歌开放。市场关注Kevin Warsh在曼谷IMF的炉边对话，尤其是前瞻指引；作为新任美联储理事，他可能乐见债市已完成部分紧缩。韩国9月失业率数据略好于预期，三星上涨3.2%，SK海力士亦上涨。",
-      "detail_en": "Asian markets are set to rebound as Treasury yields move lower, with Australian markets showing positivity and the rebound potentially spreading to Japan. Concerns over stretched AI valuations have eased somewhat but not disappeared, and the region is on pace for its first gain. A strategist noted that the tech sector, particularly semiconductors, has been under pressure, and these issues have now translated into credit markets, where the funding models of neo-clouds are being openly questioned—another layer of risk. Markets must understand what this means for business model viability and look for other areas of the market that could offer support, possibly in lagging, lower-yield areas. TSMC results broadly highlight its interest in increasing capex, and it may feel the cycle is at its midway point; the usefulness of AI has only emerged in the last several months, and shakeouts in this early phase could be necessary and healthy. Hyperscalers are beneficiaries of neo-cloud funding woes. Jensen Huang defended the CoreWeave story and customer relationship, speaking to the circularity of relationships and funding in the space. Repricing of interest rate expectations puts pressure on funding: two or three months ago markets weren't as worried about CoreWeave, but the move up in rates brought that to the fore. Some neo-clouds will need to reassess how much debt markets are willing to fund them; CoreWeave has bonds due in the next four to five years and funding markets may require a higher premium. Hyperscalers are cash rich and funding markets are open to Microsoft, Amazon, and Google. Markets await Kevin Warsh's fireside chat at the IMF in Bangkok, especially forward guidance; as a new Fed governor, he may be happy the bond market has done some tightening. South Korea's September jobless rate came in slightly more reassuring than estimates, with Samsung up 3.2% and SK Hynix also gaining.",
-      "conclusion_zh": "AI交易的风险正从估值层面扩散至融资与信贷层面，新云厂商的债务可持续性是关键观察点，而现金充裕的超大规模云厂商相对占优。",
-      "conclusion_en": "Risks in the AI trade are spreading from valuations to funding and credit, with neo-cloud debt sustainability a key watch point, while cash-rich hyperscalers are relatively advantaged.",
-      "key_points": [
-        {
-          "zh": "AI估值担忧已从股市传导至信贷市场，市场公开质疑新云厂商的融资模式与商业可行性。",
-          "en": "AI valuation concerns have spread from equities to credit markets, with neo-cloud funding models and business viability openly questioned."
-        },
-        {
-          "zh": "利率上行使融资成本成为关键，CoreWeave未来四到五年有债券到期，融资市场可能要求更高溢价。",
-          "en": "Rising rates make funding costs critical; CoreWeave has bonds due in four to five years and funding markets may demand a higher premium."
-        },
-        {
-          "zh": "超大规模云厂商因现金充裕而是新云厂商融资困境的受益者，融资市场对其开放。",
-          "en": "Cash-rich hyperscalers benefit from neo-cloud funding woes, with funding markets open to them."
-        },
-        {
-          "zh": "TSMC业绩显示其有意增加资本开支，或认为周期处于中点，早期洗牌可能必要且健康。",
-          "en": "TSMC results show intent to increase capex and a possible view that the cycle is at its midway point; early shakeouts may be necessary and healthy."
-        },
-        {
-          "zh": "市场关注Kevin Warsh在IMF的前瞻指引，他可能乐见债市已完成部分紧缩。",
-          "en": "Markets await Kevin Warsh's forward guidance at the IMF; he may welcome that the bond market has done some tightening."
-        }
-      ],
-      "tags": [
-        "AI",
-        "neo-clouds",
-        "credit",
-        "semiconductors",
-        "Fed"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:yFKTXIFaZLQ",
-      "title": "275: How Geopolitics Is Redefining Defense, Energy, Technology and Global Markets",
-      "title_zh": "地缘政治重塑全球经济：韧性经济的三大支柱与投资含义",
-      "url": "https://www.youtube.com/watch?v=yFKTXIFaZLQ",
-      "published_at": "2026-10-16T04:16:34+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "贝莱德地缘政治研究团队指出，投资者应超越地缘政治头条的短期波动，聚焦全球经济因竞争、碎片化与冲击而向\"韧性\"重构的结构性趋势。这一\"韧性经济\"围绕AI、国防、能源三大相互关联的支柱展开，三者正日益争夺资本，投资者需考虑如何在这三大支柱中配置敞口，以及该韧性经济在不同宏观情景下的表现。",
-      "summary_en": "BlackRock's geopolitical research team argues investors should look beyond short-term geopolitical headlines and focus on the structural rewiring of the global economy toward resilience, driven by competition, fragmentation, and shocks. This 'resilience economy' centers on three interlinked pillars—AI, defense, and energy—which are increasingly competing for capital, and investors must consider how to gain exposure across these pillars and how the resilience economy performs across different macro regimes.",
-      "detail_zh": "贝莱德地缘政治研究团队的Anna Parker指出，头条新闻聚焦于波动、冲击与混乱，但这并非长期投资者最应关注的主题；真正重要的主题是全球经济正因地缘政治竞争、碎片化和一系列冲击而向更注重\"韧性\"的方向重构。她提出三大驱动因素：一是美中竞争加速且加剧，尤其在AI领域，这是结构性的、持久的，将超越当前美中关系的稳定期；二是碎片化，世界因美中竞争而组织成不同阵营，而美国正重置其与全球其他地区的 geopolitical 和经济关系，带来新一轮碎片化；三是伊朗战争，这是过去五年中继创纪录通胀、贸易中断、新冠疫情、俄罗斯入侵乌克兰之后的最新冲击。这些因素共同暴露了全球经济因依赖关系而产生的脆弱性，以及这些依赖在冲突或压力下可能被\"武器化\"。过去两年出现两个例子：技术供应链中围绕关键矿产和稀土的瓶颈，以及伊朗战争期间霍尔木兹海峡这一全球能源市场的物理瓶颈。各国正通过大规模投资降低战略部门（能源、国防、技术）的依赖，形成\"全球韧性经济\"：能源安全投资巨大；全球国防开支连续11年增长，过去十年增长约40%；技术领域则是有史以来最大的资本开支周期，既受美中竞争驱动，也受中间国家追求技术主权的愿望推动。",
-      "detail_en": "Anna Parker of BlackRock's geopolitical research team notes that headlines focus on volatility, shock, and chaos, but that is not the most important theme for long-term investors; the key theme is the global economy rewiring toward resilience due to geopolitical competition, fragmentation, and a series of shocks. She identifies three drivers: first, accelerating and intensifying US-China competition, particularly around AI, which is structural and durable and extends beyond the current period of stability in the US-China relationship; second, fragmentation, as the world organizes into different blocks due to US-China competition, with the US moving to reset its geopolitical and economic relationships with the rest of the world, creating yet another round of fragmentation; third, the Iran war, the latest in a series of shocks over the past five years including record inflation, trade disruption, the COVID pandemic, and Russia's invasion of Ukraine. These factors expose vulnerabilities stemming from dependency and how those dependencies can be weaponized in times of conflict or stress. Two examples in the last two years: a choke point in the technology supply chain around critical minerals and rare earths, and a physical choke point in the global energy market at the Strait of Hormuz during the Iran war. Countries are making major investments to reduce dependencies in strategic sectors—energy, defense, and technology—forming the 'global resilience economy': huge investment in energy security; global defense spending increased for 11 consecutive years, up about 40% over the last decade; and technology is the largest CAPEX cycle in history, driven by US-China competition and the desire of countries in between to pursue technology sovereignty.",
-      "conclusion_zh": "投资者应关注韧性经济三大支柱（AI、国防、能源）的配置方式（股票、信贷或私募市场），并评估该韧性经济在不同宏观情景下的表现。",
-      "conclusion_en": "Investors should consider how to gain exposure to the resilience economy's three pillars (AI, defense, energy) across equities, credit, or private markets, and assess how the resilience economy performs across different macro regimes.",
-      "key_points": [
-        {
-          "zh": "投资者应超越地缘政治头条的短期波动，聚焦全球经济向\"韧性\"重构的结构性趋势。",
-          "en": "Investors should look beyond short-term geopolitical headlines and focus on the structural rewiring of the global economy toward resilience."
-        },
-        {
-          "zh": "美中竞争（尤其AI领域）、碎片化、以及伊朗战争等冲击，共同暴露了全球经济依赖关系的脆弱性及其被武器化的风险。",
-          "en": "US-China competition (especially in AI), fragmentation, and shocks like the Iran war expose the vulnerabilities of global economic dependencies and the risk of weaponization."
-        },
-        {
-          "zh": "韧性经济围绕AI、国防、能源三大相互关联的支柱，三者正日益争夺资本。",
-          "en": "The resilience economy centers on three interlinked pillars—AI, defense, and energy—which are increasingly competing for capital."
-        },
-        {
-          "zh": "全球国防开支连续11年增长，过去十年增长约40%；NATO盟国承诺到2035年将约5%的GDP用于国防。",
-          "en": "Global defense spending has risen for 11 consecutive years, up about 40% over the past decade; NATO allies committed around 5% of GDP to defense by 2035."
-        },
-        {
-          "zh": "大型美国超大规模企业AI投资规模据最新评估明年将超过1.3万亿美元，且越来越多地转向信贷市场融资。",
-          "en": "US hyperscaler AI investment is assessed at over $1.3 trillion next year, with a growing share moving into credit markets for funding."
-        }
-      ],
-      "tags": [
-        "geopolitics",
-        "resilience",
-        "defense",
-        "energy",
-        "AI"
       ],
       "tickers": [],
       "sentiment": "neutral"
