@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-23T10:11:29.224294+00:00",
+  "generated_at": "2026-10-23T11:11:09.902274+00:00",
   "insights": [
+    {
+      "guid": "yt:nCzsxmgD7ls",
+      "title": "Volvo CEO Says China Market Gone, Luxury Weakness Remains",
+      "title_zh": "沃尔沃暴跌30%创纪录，中国市场需求萎缩与科技股抛售拖累欧股",
+      "url": "https://www.youtube.com/watch?v=nCzsxmgD7ls",
+      "published_at": "2026-10-23T10:59:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "沃尔沃CEO称西方开发车型在中国市场正快速消失，公司再裁2500人，股价暴跌约30%至纪录低点；爱马仕、卡地亚等奢侈品牌在华销售亦加速下滑。节目还讨论了科技股抛售后的资金轮动、美债避险需求、法国PMI疲软与债务风险，以及欧洲汽车业面临的中欧贸易紧张。",
+      "summary_en": "Volvo plunged about 30% to a record low after its CEO said the market for Western-developed cars in China is disappearing fast, prompting 2,500 more job cuts; luxury brands including Hermès and Cartier are also seeing steeper China slumps. The program also covered post-tech-selloff rotation, Treasury safe-haven demand, weak French PMI and debt risks, and Europe-China auto trade tensions.",
+      "detail_zh": "沃尔沃股价暴跌约30%至纪录低点，此前其CEO表示西方开发的汽车在中国市场正快速消失，公司因此再裁减2500个岗位。爱马仕和卡地亚等奢侈品巨头在中国市场遭遇更严重的下滑，显示中国富裕消费者的支出回落正冲击即便最具韧性的品牌。节目议程聚焦科技股抛售后的市场情绪、OpenAI估值下调以及交易员寻求债券避险。Tradition Dubai的Steven Major讨论了美债是否成为新避险资产、法国债务危机及欧洲央行选项。高盛的Kamakshya Trivedi就外汇、美元与日元、油价及法国债务风险发表看法。UBS投资银行的Bhanu Baweja探讨AI、石油与市场轮动，以及超大规模云厂商的AI支出能否获得回报。法国PMI疲软打击欧元，德国PMI则显示韧性；节目还关注法国债务、穆迪评级及传染风险，以及欧洲与中国汽车贸易紧张局势。",
+      "detail_en": "Volvo shares plunged about 30% to a record low after its CEO said the market for Western-developed cars in China is disappearing fast, prompting the company to cut 2,500 more jobs. Luxury powerhouses including Hermès and Cartier are suffering steeper slumps in China, a sign that a spending pullback by wealthy Chinese consumers is hitting even the most resilient brands. The agenda focused on market sentiment after a tech selloff, OpenAI trimming its valuation, and traders seeking safety in bonds. Tradition Dubai's Steven Major discussed whether Treasuries are the new safe haven, the French debt crisis and ECB options. Goldman Sachs' Kamakshya Trivedi weighed in on FX, the dollar and yen, oil prices, French debt risks and the euro. UBS Investment Bank's Bhanu Baweja discussed AI, oil and market rotation, and whether hyperscalers will be rewarded for AI spending. Weak French PMI hit the euro while German PMI showed resilience; the program also covered French debt, Moody's rating and contagion risks, as well as Europe-China auto trade tensions.",
+      "conclusion_zh": "沃尔沃与奢侈品巨头在华疲软凸显中国需求萎缩对欧洲企业的冲击，叠加科技股抛售与法国财政风险，市场避险情绪升温，美债与外汇市场成为关注焦点。",
+      "conclusion_en": "Weakness at Volvo and luxury giants in China highlights the impact of shrinking Chinese demand on European companies; combined with the tech selloff and French fiscal risks, safe-haven demand is rising, with Treasuries and FX in focus.",
+      "key_points": [
+        {
+          "zh": "沃尔沃CEO称西方开发车型在中国市场快速消失，公司再裁2500人，股价暴跌约30%至纪录低点。",
+          "en": "Volvo's CEO said the market for Western-developed cars in China is disappearing fast; the company is cutting 2,500 more jobs and shares plunged about 30% to a record low."
+        },
+        {
+          "zh": "爱马仕、卡地亚等奢侈品牌在华销售加速下滑，显示中国富裕消费者支出回落。",
+          "en": "Luxury brands including Hermès and Cartier are seeing steeper China slumps, signaling a pullback in spending by wealthy Chinese consumers."
+        },
+        {
+          "zh": "科技股抛售后交易员寻求债券避险，OpenAI估值被下调。",
+          "en": "Traders sought safety in bonds after a tech selloff, and OpenAI trimmed its valuation."
+        },
+        {
+          "zh": "法国PMI疲软打击欧元，德国PMI显示韧性；市场关注法国债务、穆迪评级与传染风险。",
+          "en": "Weak French PMI hit the euro while German PMI showed resilience; focus was on French debt, Moody's rating and contagion risks."
+        },
+        {
+          "zh": "节目讨论AI交易压力、市场轮动以及超大规模云厂商AI支出能否获得回报。",
+          "en": "The program discussed pressure on the AI trade, market rotation, and whether hyperscalers will be rewarded for AI spending."
+        }
+      ],
+      "tags": [
+        "China demand",
+        "Volvo",
+        "luxury",
+        "tech selloff",
+        "French debt"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:WOz29qDc2Ww",
       "title": "AI IPOs Stall While Private Markets Heat Up",
@@ -15652,220 +15701,6 @@
         "AA",
         "JBHT"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4954730",
-      "title": "Wall Street Breakfast Podcast: Tesla Roadster Takes Flight",
-      "title_zh": "特斯拉发布新一代Roadster，3M抗辩PFAS诉讼，肯德基转投可口可乐",
-      "url": "https://seekingalpha.com/article/4954730-wall-street-breakfast-podcast-tesla-roadster-takes-flight?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-16T11:00:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "other",
-        "macro"
-      ],
-      "summary_zh": "特斯拉发布新一代Roadster，演示0.81秒破百及推进器空中机动，量产定于2028年；3M就澳大利亚13.8亿美元PFAS诉讼提出抗辩，案件12月再开庭；肯德基美国门店将从百事转投可口可乐供应饮料。此外西南航空改革Rapid Rewards忠诚度计划，股价收涨3.8%。",
-      "summary_en": "Tesla unveiled its next-gen Roadster with a 0.81s 0-60 mph demo and thruster-based aerial maneuvers, with production slated for 2028; 3M is contesting Australia's $1.38B PFAS lawsuit, with the case returning to court in December; KFC's U.S. restaurants will switch beverage supply from PepsiCo to Coca-Cola. Separately, Southwest Airlines is overhauling its Rapid Rewards loyalty program, with shares closing 3.8% higher.",
-      "detail_zh": "特斯拉周四晚在得克萨斯州McGregor的SpaceX测试设施举办Roadster活动，马斯克表示新Roadster最终将成为特斯拉唯一的手动驾驶车型。演示中，Roadster利用2G吸附技术沿陡坡行驶至倒置位置，随后启动推进器在空中完成桶滚并平稳落地；后续演示中该车借助推进器以同样的空中旋转动作跃过一辆特斯拉Semi。实测中Roadster 0-60英里加速为0.81秒，马斯克希望该车能达到0.5马赫（约383英里/小时）。Roadster量产计划于2028年，官网显示性能版可支付5000美元可退还订金预订，10天内再付45000美元。特斯拉盘前上涨4.5%。3M计划就澳大利亚20亿澳元（13.8亿美元）PFAS污染诉讼的法律依据提出质疑，澳政府寻求赔偿28个军事基地因含PFAS消防泡沫造成污染的历史与未来成本，并指称3M知情或应知相关环境与健康风险却未充分警示。3M在周五听证会上还就消费者保护法下的指控提出异议，包括部分指控是否超出适用时效；该公司1966至2003年在澳销售该消防泡沫，案件定于12月再开庭。百胜旗下肯德基宣布与可口可乐签约，自1月起将美国饮料合作转至可口可乐，预计明年春季覆盖全美门店；值得注意的是百事仍是百胜旗下必胜客和塔可钟的供应商。西南航空周四宣布Rapid Rewards计划自1月起推出Silver、Gold、Platinum三档会员，取代现有A-List与A-List Preferred，新Platinum档包含西南航空自营航班无限次Companion Pass行程，股价周四收涨3.8%。市场方面，股指期货涨跌互现，原油下跌1%至97美元，布伦特跌0.8%至105美元，富时100跌0.1%，DAX涨1%；Cohen & Steers涨7%，因三季度业绩好坏参半但总收入同比增长11%。",
-      "detail_en": "Tesla held its Roadster event Thursday night at a SpaceX testing facility in McGregor, Texas, where Elon Musk said the new Roadster will eventually be Tesla's only manually driven car. In the demo, the Roadster drove up a steep ramp to an upside-down position using 2G suction technology, then engaged thrusters to spin around in the air in a barrel roll and land flawlessly; in a follow-up demo it used thrusters to jump over a Tesla Semi with the same mid-air spin move. The Roadster accelerated to 60 mph in exactly 0.81 seconds in a live test, and Musk hopes it will reach 0.5 Mach (~383 mph). Production is scheduled for 2028, and Tesla's website shows the performance variant can be reserved with a $5K refundable deposit plus another $45K due within 10 days. Tesla rose 4.5% in premarket. 3M plans to challenge the legal basis of Australia's A$2B ($1.38B) PFAS lawsuit; the Australian government seeks damages for past and future costs tied to contamination at 28 military bases where PFAS-containing firefighting foam was used, alleging 3M knew or should have known of environmental and health risks but failed to warn adequately. At a Friday hearing, 3M also challenged claims under consumer protection laws, including whether some allegations fall outside applicable time limits; the company sold the foam in Australia from 1966 to 2003, and the case returns to court in December. Yum! Brands' KFC announced Coca-Cola as its beverage provider at thousands of U.S. restaurants, transitioning from January with Coca-Cola products expected in all U.S. restaurants by next spring; notably PepsiCo remains the supplier to Yum's Pizza Hut and Taco Bell. Southwest Airlines said Thursday its Rapid Rewards program will introduce Silver, Gold, and Platinum tiers starting in January, replacing A-List and A-List Preferred with Silver and Gold respectively, with the new Platinum tier including unlimited Companion Pass trips on Southwest-operated flights; shares ended 3.8% higher Thursday. Markets: stock index futures mixed, crude oil down 1% at $97, Brent down 0.8% at $105, FTSE 100 down 0.1%, DAX up 1%; Cohen & Steers rose 7% after mixed Q3 results with total revenue up 11% Y/Y.",
-      "conclusion_zh": "当日新闻以公司层面事件为主：特斯拉Roadster发布提振股价，3M面临PFAS诉讼不确定性，肯德基饮料供应商更替影响百事与可口可乐，西南航空忠诚度改革获市场正面反应。",
-      "conclusion_en": "The day's news is largely company-specific: Tesla's Roadster unveiling lifted its shares, 3M faces PFAS litigation uncertainty, KFC's beverage supplier switch affects PepsiCo and Coca-Cola, and Southwest's loyalty overhaul drew a positive market reaction.",
-      "key_points": [
-        {
-          "zh": "特斯拉发布新一代Roadster，实测0-60英里加速0.81秒，马斯克希望达到0.5马赫（约383英里/小时），量产定于2028年，特斯拉盘前涨4.5%。",
-          "en": "Tesla unveiled its next-gen Roadster with a 0.81s 0-60 mph live test, Musk hopes for 0.5 Mach (~383 mph), production slated for 2028; TSLA up 4.5% premarket."
-        },
-        {
-          "zh": "3M就澳大利亚13.8亿美元PFAS诉讼提出抗辩，质疑法律依据及消费者保护法下的指控（含时效问题），案件12月再开庭。",
-          "en": "3M is contesting Australia's $1.38B PFAS lawsuit, challenging the legal basis and consumer protection claims including time limits; the case returns to court in December."
-        },
-        {
-          "zh": "肯德基美国门店将从1月起把饮料合作从百事转至可口可乐，预计明年春季覆盖全美；百事仍是必胜客和塔可钟的供应商。",
-          "en": "KFC's U.S. restaurants will switch beverage supply from PepsiCo to Coca-Cola starting January, expected in all U.S. restaurants by next spring; PepsiCo remains supplier to Pizza Hut and Taco Bell."
-        },
-        {
-          "zh": "西南航空改革Rapid Rewards计划，自1月推出Silver、Gold、Platinum三档会员，Platinum含无限次Companion Pass行程，股价周四收涨3.8%。",
-          "en": "Southwest is overhauling Rapid Rewards with Silver, Gold, and Platinum tiers starting January; Platinum includes unlimited Companion Pass trips; shares closed 3.8% higher Thursday."
-        },
-        {
-          "zh": "市场方面：股指期货涨跌互现，原油跌1%至97美元，布伦特跌0.8%至105美元，DAX涨1%；Cohen & Steers涨7%，三季度总收入同比增长11%。",
-          "en": "Markets: index futures mixed, crude down 1% at $97, Brent down 0.8% at $105, DAX up 1%; Cohen & Steers rose 7% on mixed Q3 results with total revenue up 11% Y/Y."
-        }
-      ],
-      "tags": [
-        "Tesla Roadster",
-        "PFAS litigation",
-        "KFC Coca-Cola",
-        "Southwest loyalty",
-        "market futures"
-      ],
-      "tickers": [
-        "TSLA",
-        "MMM",
-        "YUM",
-        "KO",
-        "PEP",
-        "LUV",
-        "CNS"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4954716",
-      "title": "Elon Musk Takes Out The Thrusters",
-      "title_zh": "特斯拉发布新一代Roadster，盘前上涨4.4%",
-      "url": "https://seekingalpha.com/article/4954716-elon-musk-takes-out-the-thrusters?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-16T10:50:33+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "特斯拉在近十年延迟后发布新一代Roadster，采用冷气推进器与SpaceX合作技术，演示了0-60英里加速0.81秒等性能，计划2028年投产。马斯克称这将是特斯拉唯一的手动驾驶车型，公司全面转向自动驾驶与机器人。特斯拉盘前上涨4.4%。",
-      "summary_en": "Tesla unveiled its next-generation Roadster after nearly a decade of delays, featuring cold-gas thrusters developed with SpaceX, with demos showing 0-60 mph in 0.81 seconds; production is scheduled for 2028. Musk said it will be Tesla's only manually-driven car as the company goes all-in on self-driving and robotics. Tesla shares rose 4.4% premarket.",
-      "detail_zh": "特斯拉发布新一代Roadster，配备周向安装的冷气推进器，该技术得益于与马斯克旗下SpaceX的合作。演示中，Roadster利用2G吸附技术驶上陡坡至倒置位置，再启动推进器在空中旋转并平稳落地；随后又用同样的翻滚动作跳过一辆特斯拉Semi及其余车型。该车演示0-60英里加速仅0.81秒，目标达到0.5马赫（约383英里/小时）。马斯克称推进器不仅是表演，还将通过大幅提升速度与过弯等性能指标来'打破物理极限'。Roadster包括Performance和Thrust版本，计划2028年投产。马斯克表示，长期来看这将是特斯拉唯一的手动驾驶车型，公司正全面押注自动驾驶与机器人，并称'我们要去不需要轮胎的地方'。特斯拉股价盘前上涨4.4%。",
-      "detail_en": "Tesla unveiled its next-generation Roadster, equipped with perimeter-mounted cold-gas thrusters made possible by working with Musk's SpaceX. In the demo, the Roadster drove up a steep ramp to an upside-down position using 2G suction technology, then engaged thrusters to spin in the air and land flawlessly; a follow-up demo had it jump over a Tesla Semi and the rest of the lineup using the same barrel roll. The car was shown accelerating to 60 mph in 0.81 seconds, with the hope of reaching 0.5 Mach (~383 mph). Musk said the fans and thrusters are not just theatrics but will help 'break physics' by dramatically improving performance metrics like speed and cornering. Roadster production, including Performance and Thrust variants, is scheduled for 2028. Musk declared it will be 'the only manually-driven car that Tesla makes' long term, as the company goes all in on self-driving and robotics, adding 'We're going where you don't need tires.' Tesla shares are ahead by 4.4% in premarket trading.",
-      "conclusion_zh": "特斯拉借Roadster发布会强化其自动驾驶与机器人叙事，短期股价获提振，但产品2028年才投产，投资者需关注其长期战略兑现节奏。",
-      "conclusion_en": "Tesla used the Roadster launch to reinforce its self-driving and robotics narrative, giving the stock a short-term boost, but with production not until 2028, investors should watch the pace of execution on its long-term strategy.",
-      "key_points": [
-        {
-          "zh": "特斯拉发布新一代Roadster，配备与SpaceX合作开发的冷气推进器，演示0-60英里加速0.81秒。",
-          "en": "Tesla unveiled the next-gen Roadster with cold-gas thrusters developed with SpaceX, demoing 0-60 mph in 0.81 seconds."
-        },
-        {
-          "zh": "Roadster计划2028年投产，包括Performance和Thrust版本；特斯拉股价盘前上涨4.4%。",
-          "en": "Roadster production, including Performance and Thrust variants, is scheduled for 2028; Tesla shares rose 4.4% premarket."
-        },
-        {
-          "zh": "马斯克称该车长期将是特斯拉唯一的手动驾驶车型，公司全面押注自动驾驶与机器人。",
-          "en": "Musk said it will long term be Tesla's only manually-driven car as the company goes all in on self-driving and robotics."
-        },
-        {
-          "zh": "市场其他动态：Warsh认为AI是正向供给冲击，未释放10月利率信号；Anthropic投资者据称讨论大幅下调估值。",
-          "en": "Other market news: Warsh sees AI as a positive supply shock and avoids an October rate signal; Anthropic investors are said to discuss a big valuation cut."
-        }
-      ],
-      "tags": [
-        "Tesla",
-        "Roadster",
-        "EV",
-        "SpaceX",
-        "autonomous driving"
-      ],
-      "tickers": [
-        "TSLA",
-        "SPCX",
-        "NFLX",
-        "YUM",
-        "PEP",
-        "KO",
-        "GFS",
-        "MMM",
-        "TRV",
-        "TFC"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:PyBPpjTWysk",
-      "title": "Trump Won’t Rule Out ‘Mother of All Bombs’ on Iran, Taiwan Tightens Chip Curbs",
-      "title_zh": "美联储主席沃什未释放加息紧迫信号，交易员下调加息押注",
-      "url": "https://www.youtube.com/watch?v=PyBPpjTWysk",
-      "published_at": "2026-10-16T10:50:18+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美联储主席沃什在曼谷IMF会议讲话中未对高于预期的CPI和PPI通胀数据作出回应，也未释放加息紧迫信号，交易员因此下调了对本月加息的押注。一位首席投资官认为沃什不愿在中期选举期间加息，但预计今年至少还有两次加息，并指出AI交易与美国消费者是未来六个月市场的核心驱动力。",
-      "summary_en": "Fed Chair Kevin Warsh did not signal urgency to tighten policy at the IMF meetings in Bangkok, despite hotter-than-expected CPI and PPI data, prompting traders to pare bets on a rate hike this month. A CIO argued Warsh is reluctant to hike during midterm elections but still expects at least two more hikes this year, with the AI trade and the U.S. consumer as key market drivers over the next six months.",
-      "detail_zh": "美联储主席凯文·沃什在曼谷IMF世界会议讲话中，未就货币政策或高于预期的通胀数据（CPI与PPI，其中PPI为2022年以来最热）发表任何与本月FOMC决策相关的内容，交易员因此下调了对本月加息的押注。有分析人士提醒，本周市场出现避险情绪，可能削弱对沃什讲话信号的解读，但总体而言沃什并未表现出鹰派姿态，从而移除了一项潜在风险。值得注意的是，沃什是出席此次会议的最高级别美国官员，财政部长斯科特·贝森特未出席，这使沃什处于首席外交官的位置。一位首席投资官认为，沃什不愿在中期选举期间加息，但预计今年至少还有两次加息，明年一季度可能再加两次，并称美联储将不得不降息三到四次，形成一个“超级迷你周期”。该CIO指出，美国经济过热，通胀压力来自能源和AI两方面，AI交易带来的波动（-8%、+3%而非-0.2%、+0.5%）将主导未来六个月。在能源方面，尽管石油流量已恢复至接近战前水平的80%-85%，但价格并未下降，反映出市场对沙特方面局势及缺乏解决方案的担忧；该CIO预计在战争结束前价格最多只能企稳，且解决方案短期内无望，欧洲天然气和美国柴油的替代问题将使局势先恶化后好转。关于AI，该CIO认为AI目前对通胀略有正面影响，预计几年后转为负面，但转型期AI相关一切都在“过热”，对通胀有正面推动；就业市场尚未计入AI替代，但生产率在提升。消费者方面，该CIO表示美国消费者除AI外是关键，但消费者一直在走弱，股市财富效应强劲使消费未下降，消费的粘性正阻碍央行遏制通胀，并预计美国收益率将因增长放缓而下降。",
-      "detail_en": "Fed Chair Kevin Warsh, speaking at the IMF World Meetings in Bangkok, made no comments relevant to the Fed's decision later this month and did not address the hotter-than-expected CPI and PPI data (PPI at its hottest pace since 2022), prompting traders to pare bets on a rate hike this month. One analyst cautioned that a flight to safety this week could dampen the signal from his fireside chat, but ultimately Warsh did not feel the need to come out especially hawkish, taking a potential risk off the table. Notably, Warsh was the highest-ranking U.S. official at these meetings, as Treasury Secretary Scott Bessent did not attend, putting Warsh in position as chief diplomat. A CIO argued Warsh doesn't want to deliver a rate hike in the middle of the midterm elections, but expects at least two more hikes this year and possibly another two into Q1 next year, and that the Fed will have to cut rates three or four times, forming a 'super mini cycle.' The CIO said the U.S. is running hot, with inflation pressure from both energy and AI, and that the AI trade's volatility (minus eight, plus three, not minus 0.2, plus 0.5) will drive the next six months. On energy, despite oil flows returning to almost prewar levels at 80-85%, prices are not going down, reflecting extreme concern about the Saudi side and lack of a solution; the CIO expects prices to stabilize at best before the war ends, with no resolution in the cards, and that Europe's gas and U.S. diesel alternatives mean it will get worse before it gets better. On AI, the CIO sees it as slightly positive for inflation now, expected to be negative a couple of years down the road, but during the transition everything AI is running hot, which is positive for inflation; the job market is not yet pricing in AI job replacement, though productivity is increasing. On the consumer, the CIO said outside of AI the U.S. consumer is key and has been faltering, but the strong wealth effect from the stock market has prevented consumption from falling; the stickiness of consumption is hindering the central bank's taming of inflation, and the CIO expects U.S. yields to go down due to growth in the pipeline.",
-      "conclusion_zh": "沃什未释放加息紧迫信号短期缓解了加息担忧，但受访CIO仍预计今年至少两次加息，并提示AI交易波动与美国消费者走弱是未来六个月的关键变量。",
-      "conclusion_en": "Warsh's lack of urgency on tightening eased near-term hike concerns, but the CIO still expects at least two hikes this year and flags AI trade volatility and a faltering U.S. consumer as key variables over the next six months.",
-      "key_points": [
-        {
-          "zh": "沃什未就货币政策或高于预期的CPI/PPI通胀数据发表评论，交易员下调本月加息押注。",
-          "en": "Warsh made no comments on monetary policy or the hotter-than-expected CPI/PPI data, leading traders to pare bets on a hike this month."
-        },
-        {
-          "zh": "沃什是出席IMF会议的最高级别美国官员，财政部长贝森特未出席。",
-          "en": "Warsh was the highest-ranking U.S. official at the IMF meetings; Treasury Secretary Bessent did not attend."
-        },
-        {
-          "zh": "一位CIO预计今年至少还有两次加息，明年一季度可能再加两次，并称美联储将不得不降息三到四次。",
-          "en": "A CIO expects at least two more hikes this year and possibly two more into Q1 next year, and says the Fed will have to cut rates three or four times."
-        },
-        {
-          "zh": "该CIO认为AI交易和美国消费者是未来六个月市场的核心驱动力，AI目前对通胀略有正面影响。",
-          "en": "The CIO sees the AI trade and the U.S. consumer as key drivers over the next six months, with AI currently slightly positive for inflation."
-        },
-        {
-          "zh": "能源方面，尽管石油流量恢复至接近战前水平的80%-85%，价格并未下降，解决方案短期内无望。",
-          "en": "On energy, despite oil flows returning to almost prewar levels at 80-85%, prices are not falling, with no resolution in sight."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "rate hike",
-        "inflation",
-        "AI trade",
-        "energy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-chyckWWOuI",
-      "title": "How Rising Rates and AI Issuance Are Affecting Credit Markets",
-      "title_zh": "高盛：利率上行与AI审视下，信用市场保持韧性",
-      "url": "https://www.youtube.com/watch?v=-chyckWWOuI",
-      "published_at": "2026-10-16T10:14:20+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "高盛FICC与股票部门美国及亚洲信用交易联席主管Alex Finston指出，尽管利率上升且投资者审视AI前景，信用市场仍保持韧性。他认为历史上只要利率上行是平稳的，投资者往往将债券收益率上升视为机会。他还就高质量AI信用、投资者是否应对冲组合以及市政债发表了看法。",
-      "summary_en": "Alex Finston, co-head of US and Asia Credit Trading in Goldman Sachs FICC and Equities, says credit markets have stayed resilient even as interest rates rise and investors scrutinize the AI outlook. He notes that historically, as long as the increase in rates is steady, investors have often seen rising bond yields as an opportunity. He also shares his take on higher-quality AI credit, whether investors should hedge their portfolios, and municipal bonds.",
-      "detail_zh": "高盛FICC与股票部门美国及亚洲信用交易联席主管Alex Finston在The Markets播客中表示，尽管利率上升、投资者对人工智能前景进行审视，信用市场依然保持韧性。他指出，从历史经验看，只要利率上行的过程是平稳的，投资者往往会把债券收益率上升视为机会。Finston还分享了他对更高质量AI信用的看法，并讨论了投资者是否应当对冲其投资组合，以及市政债相关话题。该内容录制于2026年10月15日。",
-      "detail_en": "Alex Finston, co-head of US and Asia Credit Trading in Goldman Sachs FICC and Equities, said on The Markets podcast that credit markets have stayed resilient even as interest rates rise and investors scrutinize the outlook for artificial intelligence. He pointed out that historically, as long as the increase in rates is steady, investors have often seen rising bond yields as an opportunity. Finston also shared his take on higher-quality AI credit, and discussed whether investors should be hedging their portfolios, as well as municipal bonds. The content was filmed on October 15, 2026.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "尽管利率上升且投资者审视AI前景，信用市场仍保持韧性。",
-          "en": "Credit markets have stayed resilient even as interest rates rise and investors scrutinize the AI outlook."
-        },
-        {
-          "zh": "Finston指出，历史上只要利率上行是平稳的，投资者往往将债券收益率上升视为机会。",
-          "en": "Finston notes that historically, as long as the increase in rates is steady, investors have often seen rising bond yields as an opportunity."
-        },
-        {
-          "zh": "Finston分享了对更高质量AI信用的看法。",
-          "en": "Finston shares his take on higher-quality AI credit."
-        },
-        {
-          "zh": "Finston讨论了投资者是否应对其投资组合进行对冲。",
-          "en": "Finston discusses whether investors should be hedging their portfolios."
-        },
-        {
-          "zh": "Finston还谈及市政债。",
-          "en": "Finston also addresses municipal bonds."
-        }
-      ],
-      "tags": [
-        "credit markets",
-        "interest rates",
-        "AI credit",
-        "municipal bonds",
-        "hedging"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
