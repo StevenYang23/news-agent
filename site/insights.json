@@ -1,6 +1,233 @@
 {
-  "generated_at": "2026-10-23T12:15:23.742196+00:00",
+  "generated_at": "2026-10-23T13:11:36.345173+00:00",
   "insights": [
+    {
+      "guid": "yt:IlrBYoLZEis",
+      "title": "He Asked 25 Finance Pros How They Invest Their Own Money: Brian Portnoy on What the Models Get Wrong",
+      "title_zh": "《我如何投资我的钱》第二卷：投资既是已解决的问题，也是未解决的问题",
+      "url": "https://www.youtube.com/watch?v=IlrBYoLZEis",
+      "published_at": "2026-10-23T13:00:11+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Brian Portnoy 推出《How I Invest My Money》第二卷，收录25篇新文章，加上首卷共50篇，风格各异。他提出投资在获取低成本、分散化、流动性好的市场敞口层面已基本解决，但在“为何投资、何为成功”的深层问题上无法解决，因为人是不断变化的未完成作品。",
+      "summary_en": "Brian Portnoy releases Volume 2 of 'How I Invest My Money' with 25 new essays, bringing the total to 50 distinct approaches. He argues investing is largely solved at the level of accessing low-cost, diversified, liquid market exposure, but remains unsolvable at the deeper level of 'what are we solving for and what counts as success,' because humans are works in progress.",
+      "detail_zh": "Brian Portnoy 在播客中介绍《How I Invest My Money》第二卷，由 Harriman House 出版，Josh Brown 作序，收录25位新贡献者的文章，加上首卷共50篇，彼此风格迥异。Portnoy 认为，投资在“获取广泛、分散、低成本、流动性的市场敞口”这一层面已基本解决，长期跑赢宽基指数的人很少；但在“为何投资、何为成功”的层面无法解决，因为这涉及个人价值观、信念与未来期望。他引用 Dan Gilbert 的话“人是未完成的作品，却误以为自己已经完成”，强调投资框架会随人变化而持续调整。书中还拓宽了投资的定义，将金钱、时间、技能、关系都视为资本，如何配置这些资本是每个人必须做出的选择。",
+      "detail_en": "Brian Portnoy discusses Volume 2 of 'How I Invest My Money,' published by Harriman House with a foreword by Josh Brown, featuring 25 new contributors and 50 essays total that are all distinct. Portnoy argues investing is largely solved at the level of gaining broad, diversified, low-cost, liquid market exposure, with few able to outperform broad indices over decades; but it is unsolvable at the level of 'what are we solving for and what counts as success,' which involves personal values, beliefs, and future aspirations. He cites Dan Gilbert's line that 'human beings are works in progress who mistakenly think they're finished,' emphasizing that investment frameworks must evolve as people change. The book also broadens the definition of investing to include money, time, skill, and relationships as forms of capital, and how to allocate them is a choice everyone must make.",
+      "conclusion_zh": "对投资者而言，低成本宽基指数是可靠的起点，但真正的投资难题在于不断厘清个人目标与价值观，并随人生变化调整框架。",
+      "conclusion_en": "For investors, low-cost broad index funds are a reliable starting point, but the real challenge is continually clarifying personal goals and values and adjusting the framework as life changes.",
+      "key_points": [
+        {
+          "zh": "投资在获取低成本、分散化、流动性好的市场敞口层面已基本解决，长期跑赢宽基指数的人很少。",
+          "en": "Investing is largely solved at the level of accessing low-cost, diversified, liquid market exposure; few outperform broad indices over decades."
+        },
+        {
+          "zh": "投资在“为何投资、何为成功”的深层问题上无法解决，因为人是不断变化的未完成作品。",
+          "en": "Investing is unsolvable at the deeper level of 'what are we solving for and what counts as success,' because humans are works in progress."
+        },
+        {
+          "zh": "50位贡献者的文章风格各异，说明每个人都可以信任自己的判断，按自身情况投资。",
+          "en": "The 50 contributors' essays are all distinct, showing that everyone can trust their own judgment and invest according to their own circumstances."
+        },
+        {
+          "zh": "投资的定义可以拓宽到金钱、时间、技能和关系等不同形式的资本。",
+          "en": "The definition of investing can broaden to include money, time, skill, and relationships as different forms of capital."
+        }
+      ],
+      "tags": [
+        "investing",
+        "indexing",
+        "behavioral finance",
+        "book"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uDedq6GrNFU",
+      "title": "How Big Law Makes Billions: The Power of Law Firm Leverage",
+      "title_zh": "律所杠杆模式与AI的潜在影响",
+      "url": "https://www.youtube.com/watch?v=uDedq6GrNFU",
+      "published_at": "2026-10-23T12:57:03+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博视频探讨大型律所如何通过杠杆经济模型（权益合伙人借助律师和助理团队扩大业务）创造数十亿美元收入，并分析人工智能可能如何改变这一模式。",
+      "summary_en": "Bloomberg video explores how big law firms generate billions in revenue through a leverage economic model—equity partners scaling work via teams of lawyers and associates—and how AI could change it.",
+      "detail_zh": "该视频解释大型律所的收入生成机制：权益合伙人通过杠杆经济模型，利用律师和助理团队来扩大工作规模，从而创造数十亿美元收入。视频还讨论了人工智能可能对这一模式产生的影响。内容未提供具体数字、案例或详细分析。",
+      "detail_en": "The video explains the revenue model of large law firms: equity partners scale their work through teams of lawyers and associates via a leverage economic model, generating billions in revenue. It also discusses how artificial intelligence could change this model. No specific figures, cases, or detailed analysis are provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "大型律所通过杠杆经济模型创造数十亿美元收入。",
+          "en": "Big law firms generate billions in revenue through a leverage economic model."
+        },
+        {
+          "zh": "权益合伙人借助律师和助理团队扩大工作规模。",
+          "en": "Equity partners scale their work through teams of lawyers and associates."
+        },
+        {
+          "zh": "人工智能可能改变律所的杠杆模式。",
+          "en": "AI could change the leverage model of law firms."
+        }
+      ],
+      "tags": [
+        "law firms",
+        "leverage model",
+        "artificial intelligence",
+        "legal industry"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:HOhRvznArH4",
+      "title": "How Chief Judge Rowan Wilson Is Shaping New York's Highest Court",
+      "title_zh": "纽约首席法官Rowan Wilson谈领导州最高法院",
+      "url": "https://www.youtube.com/watch?v=HOhRvznArH4",
+      "published_at": "2026-10-23T12:42:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博电视人物特稿介绍纽约州首席法官Rowan Wilson，追溯其从童年到Cravath律所职业生涯，再到执掌纽约州法院系统的经历，并讨论其领导上诉法院的方式。内容为人物专访，不涉及市场或投资观点。",
+      "summary_en": "A Bloomberg Television profile of New York Chief Judge Rowan Wilson traces his path from childhood through a career at Cravath to leading New York's court system, and discusses his approach to leading the Court of Appeals. The piece is a personal profile with no market or investment content.",
+      "detail_zh": "该内容为彭博电视制作的人物特稿，主题是纽约州首席法官Rowan Wilson如何领导该州最高法院。特稿追溯了Wilson从童年开始的人生轨迹，包括其在律所Cravath的职业经历，以及最终执掌纽约州法院系统的过程。文中提到Wilson在专访中讨论了自己领导上诉法院（Court of Appeals）的方式。该内容由Paul Detrick制作，高级制片人Andrew Satter，执行制片人Josh Block。除此之外，原文为彭博电视和市场的推广链接及社交媒体信息，不包含任何市场数据、投资观点或美股相关信息。",
+      "detail_en": "This is a Bloomberg Television profile of New York Chief Judge Rowan Wilson, focused on how he is shaping the state's highest court. The profile traces his path from childhood, through a career at Cravath, to the helm of New York's court system, and notes that Wilson discusses his approach to leading the Court of Appeals in the interview. The piece was produced by Paul Detrick, with Senior Producer Andrew Satter and Executive Producer Josh Block. The remainder of the text consists of Bloomberg Television and Markets promotional links and social media information, and contains no market data, investment views, or US equity-related content.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "彭博电视人物特稿聚焦纽约州首席法官Rowan Wilson如何领导州最高法院。",
+          "en": "Bloomberg Television profile focuses on how New York Chief Judge Rowan Wilson is leading the state's highest court."
+        },
+        {
+          "zh": "特稿追溯Wilson从童年到Cravath律所职业生涯，再到执掌纽约州法院系统的经历。",
+          "en": "The profile traces Wilson's path from childhood through a career at Cravath to the helm of New York's court system."
+        },
+        {
+          "zh": "Wilson在专访中讨论其领导上诉法院（Court of Appeals）的方式。",
+          "en": "Wilson discusses his approach to leading the Court of Appeals in the interview."
+        },
+        {
+          "zh": "内容为人物专访，不涉及市场、投资或美股相关信息。",
+          "en": "The content is a personal profile and does not involve market, investment, or US equity-related information."
+        }
+      ],
+      "tags": [
+        "New York Court of Appeals",
+        "Rowan Wilson",
+        "judiciary",
+        "profile"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:NaQhlXV5bOI",
+      "title": "The Only Way Out Is Through | Weekly Roundup",
+      "title_zh": "市场轮动加剧：债油负相关与风险偏好转向",
+      "url": "https://www.youtube.com/watch?v=NaQhlXV5bOI",
+      "published_at": "2026-10-23T12:31:53+00:00",
+      "source_name": "Forward Guidance",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "volatility"
+      ],
+      "summary_zh": "10月22日市场出现典型风险规避轮动：纳斯达克跌近3%，长债大涨，油价维持高位，油债20日滚动相关性转负。嘉宾认为这可能是从“经济过热”担忧转向“增长放缓”的早期信号，但股市要持久见底需油价先见顶；同时指出油市持仓并不拥挤，供应短缺逻辑支撑油价继续上行。",
+      "summary_en": "Markets saw a classic risk-off rotation on Oct 22: Nasdaq fell nearly 3%, long bonds rallied sharply, oil held multi-month highs, and the 20-day rolling oil-bond correlation turned negative. The guest sees this as a potential early shift from 'overheated economy' concerns toward 'slowing growth,' but argues equities cannot durably bottom without oil durably topping; oil positioning is not crowded and supply-shortage dynamics support higher prices.",
+      "detail_zh": "10月22日（周四）收盘后录制，市场出现剧烈轮动：纳斯达克跌近3%，长债大幅上涨，2年期收益率上行15个基点，10年期收益率下行约15个基点，曲线中段涨幅显著。嘉宾指出，长债要出现可观涨势需要股市走低，当日正是如此，显示资金从风险资产向债券轮动。油债20日滚动相关性刚刚转负：过去几个月油价与债券收益率同步上行，而近一周油价继续走高、债券收益率却下行。嘉宾将此解读为市场从“经济过热”担忧转向“增长放缓”的轮动，并称这是经典的风险规避相关性表现，可能是衰退轮动的早期阶段。嘉宾还提到AI债券资本开支放缓的讨论可能影响增长预期。关于油市，嘉宾认为油价持续上涨最终可能反噬增长、带有通缩属性，市场正在试探是否接近该临界点。另一位嘉宾指出，债市波动率（MOVE指数衡量长久期收益率波动）高企，而油价波动率更高；当日标普跌约1%、纳斯达克跌近3%，但罗素指数收涨，轮动极为剧烈。该嘉宾表示，在油价持久见顶之前，股市很难持久见底；油市期货持仓并未大量做多，波动率偏低，尽管供需画面黯淡，但并无泡沫迹象。供应面除伊朗和霍尔木兹海峡外，全球库存和储备消耗已移除压制油价的缓冲。嘉宾还提到黄金继续承压，部分因各国需捍卫本币、动用储备稳定市场；但长期来看，法币贬值和债务货币化担忧仍存，只是需先度过追加保证金和VAR冲击。",
+      "detail_en": "Recorded after the close on Thursday, Oct 22, markets saw violent rotation: Nasdaq fell nearly 3%, long bonds rallied sharply, the 2-year yield rose 15 bps, the 10-year yield fell about 15 bps, and the belly of the curve rallied significantly. The guest noted that a sizable long-bond rally requires equities lower, which was exactly the case, showing rotation from risk assets into bonds. The 20-day rolling oil-bond correlation just turned negative: for months oil prices and bond yields moved in lockstep, but over the past week oil continued higher while bond yields fell. The guest interpreted this as a rotation from 'overheated economy' concerns toward 'slowing growth,' calling it a classic risk-off correlation day and potentially the early innings of a recession rotation. He also mentioned AI bond capex slowdown discussions as a possible growth concern. On oil, the guest argued that persistently higher oil prices could eventually hamper growth and take on a deflationary aspect, and the market is trying to figure out if that point is near. Another guest noted bond volatility (MOVE index measures longer-duration yield volatility) is high, but oil volatility is even higher; on the day the S&P fell about 1%, Nasdaq nearly 3%, but the Russell finished green, showing extremely violent rotation. That guest said equities cannot durably bottom without oil durably topping; oil futures positioning shows little length, volatility is low, and there are few signs of froth despite a bleak supply-demand picture. Beyond Iran and the Strait of Hormuz, depletion of global inventories and reserves has removed buffers that suppressed oil prices. The guest also noted gold continues to get hit partly as countries defend currencies and tap reserves to stabilize markets; longer term, fiat debasement and debt monetization concerns remain, but margin calls and VAR shocks must be navigated first.",
+      "conclusion_zh": "当前市场轮动剧烈，油债负相关与增长放缓信号值得关注；在油价持久见顶前，股市难以持久见底，油市供应短缺逻辑仍是关键变量。",
+      "conclusion_en": "Market rotation is violent; the negative oil-bond correlation and slowing-growth signals warrant attention. Equities are unlikely to durably bottom before oil durably tops, and the oil supply-shortage thesis remains a key variable.",
+      "key_points": [
+        {
+          "zh": "10月22日市场呈现经典风险规避轮动：纳斯达克跌近3%，长债大涨，10年期收益率下行约15个基点。",
+          "en": "Markets showed a classic risk-off rotation on Oct 22: Nasdaq fell nearly 3%, long bonds rallied, and the 10-year yield fell about 15 bps."
+        },
+        {
+          "zh": "油债20日滚动相关性转负，嘉宾认为这可能标志着从“经济过热”担忧转向“增长放缓”的早期轮动。",
+          "en": "The 20-day rolling oil-bond correlation turned negative, which the guest sees as a potential early rotation from 'overheated economy' concerns toward 'slowing growth.'"
+        },
+        {
+          "zh": "嘉宾认为股市要持久见底，需油价先持久见顶；油市持仓不拥挤、波动率低，供应短缺逻辑支撑油价继续上行。",
+          "en": "The guest argues equities cannot durably bottom without oil durably topping; oil positioning is not crowded, volatility is low, and supply-shortage dynamics support higher prices."
+        },
+        {
+          "zh": "当日轮动剧烈：标普跌约1%、纳斯达克跌近3%，但罗素指数收涨；债市和油市波动率均处高位。",
+          "en": "Rotation was violent: the S&P fell about 1%, Nasdaq nearly 3%, but the Russell finished green; both bond and oil volatility are elevated."
+        },
+        {
+          "zh": "黄金继续承压，部分因各国捍卫本币、动用储备稳定市场；但长期法币贬值和债务货币化担忧仍存。",
+          "en": "Gold remains under pressure partly as countries defend currencies and tap reserves to stabilize markets; longer-term fiat debasement and debt monetization concerns persist."
+        }
+      ],
+      "tags": [
+        "oil",
+        "bonds",
+        "rotation",
+        "risk-off",
+        "volatility"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:-DTZRLWncNc",
+      "title": "OpenAI Targets $1.25 Trillion Valuation in New Funding Round",
+      "title_zh": "AI交易抛售潮消退，OpenAI估值目标1.25万亿美元",
+      "url": "https://www.youtube.com/watch?v=-DTZRLWncNc",
+      "published_at": "2026-10-23T12:11:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "AI交易的大幅抛售在波动一周的最后一个交易日消退，全球股市获得喘息，但油价继续上涨令情绪保持谨慎。据彭博获悉，正在寻求约300亿美元新融资的OpenAI，在谈判最后阶段目标估值达1.25万亿美元。法国部署军队协助警察应对周六新一轮抗议，以防上周末骚乱重演并安抚市场。",
+      "summary_en": "A rout in the artificial intelligence trade faded in the final session of a volatile week, offering global stock investors some respite, though further oil price gains kept sentiment cautious. Bloomberg learned that OpenAI, seeking to raise around $30 billion in a fresh round, is targeting a $1.25 trillion valuation in the final stages of negotiations. French authorities are deploying the military to back up police ahead of Saturday protests, aiming to prevent a repeat of last weekend's riots and reassure markets.",
+      "detail_zh": "AI交易的大幅抛售在波动一周的最后一个交易日消退，为全球股票投资者提供了一定喘息空间，但油价进一步上涨令市场情绪保持谨慎。彭博获悉，正在寻求在新一轮融资中筹集约300亿美元的OpenAI，在谈判最后阶段的目标估值为1.25万亿美元。法国当局正准备应对周六的新一轮抗议活动，部署军队支援警察，以防止上周末骚乱重演，并安抚因暴力事件而不安的市场。节目还讨论了中东紧张局势升级推动油价上涨、全球担忧引发避险资金涌入美债导致美债收益率大跌、美国中期选举展望、以色列选举准备、开云集团（Kering）财报后股价下挫以及关键矿产竞争加剧等话题。",
+      "detail_en": "A rout in the artificial intelligence trade faded in the final session of a volatile week, offering global stock investors some respite, though further gains in oil prices kept sentiment cautious. Bloomberg learned that OpenAI, which is seeking to raise around $30 billion in a fresh funding round, is now targeting a valuation of $1.25 trillion during the final stages of negotiations. French authorities are bracing for a new round of protests on Saturday, rolling out the military to back up police to prevent a repeat of last weekend's riots and reassure markets unnerved by the violence. The program also covered oil rising as Middle East tensions ratchet up, Treasuries surging as worldwide worries sparked a rush to safety, a lookahead to US midterms, Israel gearing up for elections, Kering slumping after earnings, and the intensifying critical minerals race.",
+      "conclusion_zh": "AI交易抛售暂歇但油价与地缘风险仍压制风险偏好，OpenAI高达1.25万亿美元的估值目标显示AI资本竞赛未降温，避险资金流向美债值得关注。",
+      "conclusion_en": "The AI selloff paused, but oil and geopolitical risks still weigh on risk appetite; OpenAI's $1.25 trillion valuation target shows the AI capital race remains hot, and the flight to Treasuries bears watching.",
+      "key_points": [
+        {
+          "zh": "AI交易抛售潮消退，全球股市在波动一周的最后一个交易日获得喘息。",
+          "en": "The AI trade rout faded, giving global stocks some respite in the final session of a volatile week."
+        },
+        {
+          "zh": "OpenAI在新一轮融资中寻求约300亿美元，谈判最后阶段目标估值1.25万亿美元。",
+          "en": "OpenAI is seeking around $30 billion in a fresh funding round and targeting a $1.25 trillion valuation in final negotiations."
+        },
+        {
+          "zh": "油价继续上涨，因中东紧张局势升级，令市场情绪保持谨慎。",
+          "en": "Oil prices kept rising as Middle East tensions ratcheted up, keeping sentiment cautious."
+        },
+        {
+          "zh": "全球担忧引发避险资金涌入，美债收益率大幅下跌。",
+          "en": "Treasuries surged as worldwide worries sparked a rush to safety."
+        },
+        {
+          "zh": "法国部署军队支援警察，以应对周六抗议并防止上周末骚乱重演。",
+          "en": "France is deploying the military to back up police ahead of Saturday protests to prevent a repeat of last weekend's riots."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "OpenAI funding",
+        "oil prices",
+        "Treasuries",
+        "France protests"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:J08RoxSQZ8s",
       "title": "Treasury Rally Pauses After Rush to Safety; Oil Extends Gain Amid Supply Woes",
@@ -15558,155 +15785,6 @@
       ],
       "tickers": [],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:uxcbOYlM4Hw",
-      "title": "CoreWeave Faces Funding Risks as Costs Rise",
-      "title_zh": "CoreWeave 商业模式承压：融资成本飙升与自由现金流缺口",
-      "url": "https://www.youtube.com/watch?v=uxcbOYlM4Hw",
-      "published_at": "2026-10-16T12:55:32+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "CoreWeave 与英伟达关系紧密（既是合作伙伴、投资者，又是芯片采购方），但核心问题在于融资：信用违约互换成本本周大幅上升，融资愈发昂贵。公司收入尚不足以支撑商业模式，更谈不上盈利，且产能尚未建成；市场预期明年自由现金流消耗将超过 300 亿美元，远超其预期收入。",
-      "summary_en": "CoreWeave has a tightly interlinked relationship with Nvidia (partner, investor, and chip purchaser), but the core issue is funding: credit default swap costs rose sharply this week, making capital raising increasingly expensive. Revenue is not yet sufficient to support the business model, let alone profitability, given capacity has not yet been built out; consensus estimates point to more than $30 billion of free cash flow burn next year, far exceeding expected revenue.",
-      "detail_zh": "CoreWeave 与英伟达的关系高度交织：英伟达既是其合作伙伴，也是投资者，同时 CoreWeave 还是英伟达芯片的采购方，英伟达为其提供背书。当前主要问题集中在融资端——信用违约互换（CDS）成本本周大幅上升，意味着公司进一步融资的成本越来越高。与此同时，公司收入尚不足以支撑其商业模式，更不用说实现盈利，因为产能尚未建成。展望明年，按市场一致预期，公司预计将消耗超过 300 亿美元的自由现金流，远高于其预期产生的收入。这对公司本身以及其它新型云厂商（neo clouds）都是重大问题：大部分产能建设要到很久以后才能落地，而目前尚无自由现金流来支撑。它们需要持续进入市场融资，而这正变得越来越昂贵，并对股价及围绕该生态的投资者构成压力。",
-      "detail_en": "CoreWeave's relationship with Nvidia is highly interlinked: Nvidia is a partner and an investor, and CoreWeave is also a purchaser of Nvidia chips, with Nvidia providing backing. The primary issue centers on funding—credit default swap costs have risen sharply this week, meaning it is becoming increasingly expensive for the company to raise more capital. At the same time, revenue is not yet there to support the business model, let alone profitability, since capacity has not yet been built out. Looking to next year, consensus estimates suggest the company is expected to burn more than $30 billion of free cash flow, far greater than the revenue it is due to generate. This is a big issue for the company and for other neo clouds: most of the capacity build is far in the future, and there is not yet free cash flow to support it. They need to come to the markets for more funding help, which is becoming increasingly expensive and pressuring the stock and the investors around that ecosystem.",
-      "conclusion_zh": "CoreWeave 及同类新型云厂商的产能扩张高度依赖外部融资，而融资成本正在上升、自由现金流缺口巨大，这一生态的股价与投资者将持续承压。",
-      "conclusion_en": "CoreWeave and similar neo clouds rely heavily on external funding for capacity expansion, while funding costs are rising and the free cash flow gap is large—pressuring the stock and investors across this ecosystem.",
-      "key_points": [
-        {
-          "zh": "CoreWeave 与英伟达关系交织：英伟达既是合作伙伴和投资者，CoreWeave 也是其芯片采购方，英伟达提供背书。",
-          "en": "CoreWeave and Nvidia are tightly interlinked: Nvidia is a partner and investor, CoreWeave is a chip purchaser, and Nvidia provides backing."
-        },
-        {
-          "zh": "融资是核心问题：信用违约互换成本本周大幅上升，公司融资成本越来越高。",
-          "en": "Funding is the core issue: credit default swap costs rose sharply this week, making capital raising increasingly expensive."
-        },
-        {
-          "zh": "收入尚不足以支撑商业模式，更谈不上盈利，产能尚未建成。",
-          "en": "Revenue is not yet sufficient to support the business model, let alone profitability, and capacity has not yet been built out."
-        },
-        {
-          "zh": "按一致预期，公司明年预计消耗超过 300 亿美元自由现金流，远超其预期收入。",
-          "en": "Consensus estimates point to more than $30 billion of free cash flow burn next year, far exceeding expected revenue."
-        },
-        {
-          "zh": "问题不仅限于 CoreWeave，其它新型云厂商同样面临产能建设周期长、缺乏自由现金流支撑、需持续融资的压力。",
-          "en": "The issue extends beyond CoreWeave: other neo clouds also face long capacity build timelines, lack of free cash flow support, and the need for continuous funding."
-        }
-      ],
-      "tags": [
-        "CoreWeave",
-        "Nvidia",
-        "neo clouds",
-        "funding costs",
-        "free cash flow"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:nL5F2M2SR7o",
-      "title": "What to watch ahead of OPEX",
-      "title_zh": "单股看跌期权持续被卖出，期权定位仍偏多",
-      "url": "https://www.youtube.com/watch?v=nL5F2M2SR7o",
-      "published_at": "2026-10-16T12:45:26+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility"
-      ],
-      "summary_zh": "期权资金流显示，投资者持续净卖出单股看跌期权，为做市商创造正Gamma，整体定位仍强烈看多。作者认为，与其依赖宏观预测做空，不如等待这些定位指标转向看空，再考虑做空或买入看跌期权。",
-      "summary_en": "Options flow shows investors continue to net sell single-stock puts, creating positive gamma for dealers and keeping positioning strongly bullish. The speaker argues that rather than shorting based on macro forecasts, it is better to wait for these positioning metrics to turn bearish before considering shorting or owning puts.",
-      "detail_zh": "作者引用此前展示的Gamma图表，指出单股看跌期权持续被净卖出，这一指数同样反映了该趋势。看跌期权资金流保持强烈看多，因为投资者卖出单股看跌期权，为做市商群体创造了正Gamma。从情绪角度看，几乎没有人愿意持有单股看跌期权的多头，指数看跌期权方面也是如此。作者承认，这种单边定位本身可能在市场快速转向时带来风险，但通常市场会先经历“弯曲—断裂”的过程。作者关注这些指标是否向左移动、转向更看空的立场，以此判断定位是否支持更持久或更强烈的抛售。作者认为这比单纯依赖宏观预测更好，因为过去两到四个月里，关于利率将导致股市崩盘的预测并未兑现，反而会错过历史新高。因此，作者希望看到定位变化来确认市场立场转变，届时才会更有兴趣做空市场或持有看跌期权。",
-      "detail_en": "The speaker references a previously shown gamma chart, noting that single-stock puts continue to be net sold, and this index measures the same trend. Put flow remains strongly bullish because investors are selling single-stock puts, which creates positive gamma for the dealer community. From a sentiment perspective, almost no one is interested in owning long puts on single stocks, and the same applies to the put side on the index side. The speaker acknowledges that this one-sided positioning itself could create risk if things quickly turn, but generally the market would first bend and then break. The speaker is watching for these metrics to shift to the left into a more bearish stance to signal that positioning would support a longer or stronger sell-off. The speaker thinks this is a better approach than relying on macro forecasts, because over the past two to four months, predictions that rates would cause a stock market crash have not materialized, and one would have missed all-time highs. Therefore, the speaker wants to see positioning change to confirm the market is switching its stance, and then would be more interested in shorting the market or owning puts.",
-      "conclusion_zh": "当前期权定位仍强烈看多，做空时机未到；应关注定位指标是否转向看空，作为市场立场转变的确认信号。",
-      "conclusion_en": "Current options positioning remains strongly bullish, so it is not yet time to short; watch for positioning metrics to turn bearish as a confirmation signal of a market stance shift.",
-      "key_points": [
-        {
-          "zh": "单股看跌期权持续被净卖出，看跌期权资金流保持强烈看多。",
-          "en": "Single-stock puts continue to be net sold, and put flow remains strongly bullish."
-        },
-        {
-          "zh": "卖出单股看跌期权为做市商创造正Gamma。",
-          "en": "Selling single-stock puts creates positive gamma for dealers."
-        },
-        {
-          "zh": "几乎无人愿意持有单股或指数看跌期权的多头。",
-          "en": "Almost no one is interested in owning long puts on single stocks or on the index side."
-        },
-        {
-          "zh": "单边定位本身可能在市场快速转向时带来风险，但通常市场会先弯曲后断裂。",
-          "en": "One-sided positioning itself could create risk if things quickly turn, but generally the market bends before it breaks."
-        },
-        {
-          "zh": "作者等待定位指标转向看空，再考虑做空或持有看跌期权，而非依赖宏观预测。",
-          "en": "The speaker waits for positioning metrics to turn bearish before considering shorting or owning puts, rather than relying on macro forecasts."
-        }
-      ],
-      "tags": [
-        "options-flow",
-        "put-selling",
-        "gamma",
-        "positioning",
-        "sentiment"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:u3knu-u_EXo",
-      "title": "The Missing Piece in Latin America’s Bull Case",
-      "title_zh": "摩根士丹利：巴西或成\"拉美之春\"最关键拼图，AI资本开支周期成推手",
-      "url": "https://www.youtube.com/watch?v=u3knu-u_EXo",
-      "published_at": "2026-10-16T12:36:27+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "摩根士丹利首席拉美股票策略师Nick Lipman认为，拉美正从消费驱动转向投资周期，巴西是其中最大的缺失拼图。巴西具备三大潜在驱动力：资本成本下降（需可信财政改革）、AI基础设施带动的能源与关键矿产需求、以及东西方之间的地缘平衡。但选举结果本身不保证变革，财政纪律、政策执行和全球融资条件仍是关键风险。",
-      "summary_en": "Morgan Stanley's chief Latin American equity strategist Nick Lipman argues that Latin America is shifting from a consumption-led to an investment-led economy, with Brazil as the largest missing piece. Three potential drivers for Brazil: lower cost of capital (requiring credible fiscal reform), AI infrastructure demand for energy and critical minerals, and a balanced geopolitical position between East and West. However, an election result alone does not guarantee change—fiscal discipline, policy execution, and global financing conditions remain critical risks.",
-      "detail_zh": "摩根士丹利首席拉美股票策略师Nick Lipman在10月15日的播客中指出，巴西股市上周因首轮总统选举结果出人意料而大幅上涨，Flavio Bolsonaro领先总统Lula，将于本月晚些时候进入决选，结果仍不确定。他认为投资者应关注更大的问题：巴西能否实现政策转向，释放该国多年缺失的投资。摩根士丹利长期认为，拉美正从消费驱动型经济转向投资周期，背后有三个因素：地缘政治变化、投资友好政策、以及低利率潜力。这一框架与Mike Gabin（摩根士丹利美国经济学家）提出的AI资本开支周期驱动全球尤其是美国经济从消费转向资本开支的判断相吻合。拉美之春的迹象已在阿根廷、智利、秘鲁和哥伦比亚出现，巴西可能是最大的缺失拼图。三大理由：第一，资本成本——巴西仍是全球投资成本最高的地方之一，高政府债务和高利率使固定收益投资比股票或创业风险承担更具吸引力，但可信的财政改革可能改变这一局面，降低政府支出可减少借贷、强化货币、鼓励私人投资，资本可能从固定收益资产转向支持增长。第二，AI——摩根士丹利全球框架显示，随着企业建设全球AI基础设施，年度资本开支可能从约2.5万亿美元升至约56万亿美元；数据中心需要电力，电力需要能源基础设施，基础设施需要铜、锂等关键矿产。拉美整体拥有全球约10%的能源、约20%的全球能源储量、约30%的全球铜和约60%的全球锂资源。巴西和阿根廷越来越像得克萨斯州，出口能源和农产品，巴西还可能在放松监管方面从其他拉美国家和得州获得启发。第三，地缘政治——巴西加强了与东方的经济联系，同时仍与西方资本市场和美国技术深度连接，更平衡的关系可能改善资本市场准入并支持长期投资。当然，选举结果本身不保证变革，财政纪律、政策执行和全球融资条件仍然关键，高美国利率对该地区构成特别重要的风险。墨西哥为AI供应链贡献硬件，智利正在重建投资管道，秘鲁受益于采矿活动，阿根廷在重大政策变化后吸引资本。作为拉美最大经济体，巴西若朝同一方向移动，可能产生重大区域影响。",
-      "detail_en": "Morgan Stanley chief Latin American equity strategist Nick Lipman, in an October 15 podcast, noted that Brazilian equities rallied sharply last week after surprising first-round presidential election results, with Flavio Bolsonaro finishing ahead of President Lula and setting up a runoff later this month; the outcome remains uncertain. He argues investors should focus on a bigger question: can Brazil achieve a policy shift that unlocks investment the country has lacked for years? Morgan Stanley has long argued Latin America is moving from a consumption-led economy toward an investment cycle, driven by three factors: geopolitical change, investment-friendly policies, and the potential for low interest rates. This fits the framework of the AI capex cycle driving the global and especially US economy from consumption to capex, as argued by Mike Gabin, Morgan Stanley's US economist. Signs of this \"Latam spring\" are already visible in Argentina, Chile, Peru, and Colombia, with Brazil potentially the largest missing piece. Three reasons: First, cost of capital—Brazil remains one of the world's most expensive places to invest, with high government debt and elevated interest rates making fixed income more attractive than equities or entrepreneurial risk-taking. But credible fiscal reform could change that: lower government spending could reduce borrowing, strengthen the currency, and encourage private investment, shifting capital from fixed income toward funding growth. Second, AI—Morgan Stanley's global framework suggests annual capital spending could rise from roughly $2.5 trillion to about $56 trillion as companies build out global AI infrastructure. Data centers need electricity, electricity requires energy infrastructure, and infrastructure requires copper, lithium, and other critical minerals. Latin America as a whole holds roughly 10% of the world's energy, about 20% of global energy reserves, about 30% of global copper, and approximately 60% of the world's lithium resources. Brazil and Argentina look increasingly like Texas with exports of energy and agriculture, and Brazil could draw inspiration on deregulation from other Latin American countries and Texas. Third, geopolitics—Brazil has strengthened economic ties with the East while remaining deeply connected to Western capital markets and US technology; a more balanced relationship could improve access to capital markets and support long-term investment. Of course, an election result alone doesn't guarantee change—fiscal discipline, policy execution, and global financing conditions remain critical, with high US rates a particularly important risk for a region carrying substantial debt. Mexico contributes hardware to the AI supply chain, Chile is rebuilding its investment pipeline, Peru benefits from mining activity, and Argentina is attracting capital after significant policy change. As Latin America's largest economy, Brazil could have substantial regional implications if it moves in the same direction.",
-      "conclusion_zh": "巴西若实现政策转向，可能成为拉美从消费转向投资周期的关键验证，但需密切关注财政改革执行力度与高美国利率对高债务地区的压力。",
-      "conclusion_en": "If Brazil achieves a policy shift, it could be the key test of whether Latin America's transition from consumption to investment truly takes hold—but watch fiscal reform execution and the pressure high US rates place on a heavily indebted region.",
-      "key_points": [
-        {
-          "zh": "巴西首轮选举结果出人意料，Flavio Bolsonaro领先Lula进入决选，巴西股市上周大幅上涨，但结果仍不确定。",
-          "en": "Surprising first-round election results in Brazil saw Flavio Bolsonaro finish ahead of Lula, setting up a runoff; Brazilian equities rallied sharply last week, but the outcome remains uncertain."
-        },
-        {
-          "zh": "摩根士丹利认为拉美正从消费驱动转向投资周期，巴西是最大的缺失拼图，三大驱动力为资本成本、AI和地缘政治。",
-          "en": "Morgan Stanley argues Latin America is shifting from consumption-led to investment-led, with Brazil as the largest missing piece; three drivers are cost of capital, AI, and geopolitics."
-        },
-        {
-          "zh": "AI资本开支周期可能推动全球年度资本开支从约2.5万亿美元升至约56万亿美元，拉美拥有全球约30%的铜和约60%的锂资源，是关键受益方。",
-          "en": "The AI capex cycle could drive global annual capital spending from roughly $2.5 trillion to about $56 trillion; Latin America holds about 30% of global copper and approximately 60% of the world's lithium resources, making it a key beneficiary."
-        },
-        {
-          "zh": "可信的财政改革可降低巴西资本成本，使资本从固定收益转向支持增长，但选举结果本身不保证变革。",
-          "en": "Credible fiscal reform could lower Brazil's cost of capital and shift capital from fixed income toward funding growth, but an election result alone does not guarantee change."
-        },
-        {
-          "zh": "财政纪律、政策执行和全球融资条件仍是关键风险，高美国利率对该地区构成特别重要的风险。",
-          "en": "Fiscal discipline, policy execution, and global financing conditions remain critical risks, with high US rates a particularly important risk for the region."
-        }
-      ],
-      "tags": [
-        "Brazil",
-        "Latin America",
-        "AI capex",
-        "fiscal reform",
-        "critical minerals"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
