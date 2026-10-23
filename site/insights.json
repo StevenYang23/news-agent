@@ -1,6 +1,168 @@
 {
-  "generated_at": "2026-10-23T14:13:52.226619+00:00",
+  "generated_at": "2026-10-23T15:10:46.345856+00:00",
   "insights": [
+    {
+      "guid": "yt:5P5Rz3nQT_M",
+      "title": "CFTC Chair on Prediction Markets, Election, Oil Trades",
+      "title_zh": "CFTC主席关注中期选举前预测市场与原油交易审查",
+      "url": "https://www.youtube.com/watch?v=5P5Rz3nQT_M",
+      "published_at": "2026-10-23T14:50:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "CFTC主席Selig表示，在美国中期选举前正密切关注预测市场，并对国会未通过《Clarity Act》感到失望，该法案本可为加密行业设立新规。他还称，正审查与特朗普关于伊朗战争声明相关的原油市场交易。",
+      "summary_en": "CFTC Chairman Michael Selig says the agency is closely monitoring prediction markets ahead of the US midterm elections. He expressed disappointment that Congress did not pass the Clarity Act, which would have set new rules for the crypto industry. Selig also said the agency is scrutinizing oil market trading related to President Trump's announcements about the war in Iran.",
+      "detail_zh": "CFTC主席Michael Selig在堪萨斯州Overland Park举行的农业商品期货会议上对Bloomberg的Tyler Kendall表示，该机构在美国中期选举前正密切关注预测市场。Selig称，他对国会未能通过《Clarity Act》感到失望，该法案本可为加密行业建立新规则。此外，Selig表示，CFTC正在审查与美国总统特朗普关于伊朗战争的声明相关的原油市场交易。",
+      "detail_en": "CFTC Chairman Michael Selig told Bloomberg's Tyler Kendall at the Agricultural Commodity Futures Conference in Overland Park, Kansas, that the agency is keeping a close eye on prediction markets ahead of the US midterm elections. Selig said he is disappointed that Congress did not pass the Clarity Act, which would have set up new rules for the crypto industry. Selig also said the agency is scrutinizing oil market trading related to President Donald Trump's announcements about the war in Iran.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "CFTC在美国中期选举前密切关注预测市场。",
+          "en": "The CFTC is closely monitoring prediction markets ahead of the US midterm elections."
+        },
+        {
+          "zh": "Selig对国会未通过《Clarity Act》感到失望，该法案本可为加密行业设立新规。",
+          "en": "Selig is disappointed that Congress did not pass the Clarity Act, which would have set new rules for the crypto industry."
+        },
+        {
+          "zh": "CFTC正审查与特朗普关于伊朗战争声明相关的原油市场交易。",
+          "en": "The CFTC is scrutinizing oil market trading related to President Trump's announcements about the war in Iran."
+        }
+      ],
+      "tags": [
+        "CFTC",
+        "prediction markets",
+        "crypto regulation",
+        "oil trading",
+        "midterm elections"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:yST2hpDW0gw",
+      "title": "Asia Investors Seek Havens as AI Selloff Deepens",
+      "title_zh": "科技巨头抛售与中东局势升级推动资金流向债券",
+      "url": "https://www.youtube.com/watch?v=yST2hpDW0gw",
+      "published_at": "2026-10-23T14:23:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "科技巨头遭遇抛售，叠加中东敌对行动升级，全球投资者转向债券避险。与此同时，中国科技股重定价正在深化，其影响正波及亚洲市场。",
+      "summary_en": "A selloff in tech giants and escalating Middle East hostilities have pushed global investors toward the safety of bonds. Meanwhile, a China tech repricing is deepening, with its impact cascading across Asia.",
+      "detail_zh": "彭博电视报道指出，科技巨头板块出现抛售，同时中东地区的敌对行动升级，这两大因素共同推动全球投资者转向债券市场寻求避险。报道还提到，中国科技股正在经历一轮重定价，且这一过程正在深化。彭博的记者与嘉宾讨论了上述影响如何向亚洲市场蔓延。原文未提供具体跌幅、债券收益率变动或个股名称等细节。",
+      "detail_en": "Bloomberg Television reported that a selloff in tech giants, combined with escalating Middle East hostilities, has driven global investors toward the safety of bonds. The report also noted that a repricing of Chinese tech is deepening. Bloomberg reporters and guests discussed how the impact is cascading across Asia. No specific magnitude of declines, bond yield moves, or individual stock names were provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技巨头抛售与中东敌对行动升级共同推动全球投资者转向债券避险。",
+          "en": "A selloff in tech giants and escalating Middle East hostilities have pushed global investors toward the safety of bonds."
+        },
+        {
+          "zh": "中国科技股重定价正在深化。",
+          "en": "A China tech repricing is deepening."
+        },
+        {
+          "zh": "上述影响正波及亚洲市场。",
+          "en": "The impact is cascading across Asia."
+        }
+      ],
+      "tags": [
+        "tech selloff",
+        "Middle East tensions",
+        "bond safe-haven",
+        "China tech repricing",
+        "Asia markets"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:NRU0-JXJIYc",
+      "title": "No Clear Path to Government for Either Party in Israel",
+      "title_zh": "以色列10月27日大选：内塔尼亚胡面临公投式考验",
+      "url": "https://www.youtube.com/watch?v=NRU0-JXJIYc",
+      "published_at": "2026-10-23T14:23:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "以色列将于10月27日举行大选，实质是对总理内塔尼亚胡的公投。最新民调显示内塔尼亚胡落后于主要对手甘迪·艾森科特，但双方均无明确组阁路径。",
+      "summary_en": "Israel holds a general election on October 27, effectively a referendum on Prime Minister Benjamin Netanyahu. The latest poll shows Netanyahu trailing main rival Gadi Eisenkot, but neither side has a clear path to forming a government.",
+      "detail_zh": "以色列定于10月27日举行大选，此次选举被视为对总理本杰明·内塔尼亚胡的公投。彭博社的丹·威廉姆斯从耶路撒冷议会报道称，最新民调显示内塔尼亚胡落后于其主要竞争对手甘迪·艾森科特。然而，报道指出双方均无明确的组阁路径。",
+      "detail_en": "Israel is set to hold a general election on October 27, which is effectively a referendum on Prime Minister Benjamin Netanyahu. Bloomberg's Dan Williams reports from the Knesset in Jerusalem that the latest poll shows Netanyahu trailing his main rival, Gadi Eisenkot. However, the report notes that there is no clear path to government for either side.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "以色列将于10月27日举行大选，被视为对内塔尼亚胡的公投。",
+          "en": "Israel will hold a general election on October 27, seen as a referendum on Netanyahu."
+        },
+        {
+          "zh": "最新民调显示内塔尼亚胡落后于主要对手甘迪·艾森科特。",
+          "en": "The latest poll shows Netanyahu trailing his main rival, Gadi Eisenkot."
+        },
+        {
+          "zh": "双方均无明确的组阁路径。",
+          "en": "Neither side has a clear path to forming a government."
+        }
+      ],
+      "tags": [
+        "Israel election",
+        "Netanyahu",
+        "Gadi Eisenkot",
+        "politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:y5iOCqIeq5o",
+      "title": "New York City Bans Horse-Drawn Carriages After Decade-Long Battle",
+      "title_zh": "纽约市议会投票禁止马车，终结中央公园百年传统",
+      "url": "https://www.youtube.com/watch?v=y5iOCqIeq5o",
+      "published_at": "2026-10-23T14:23:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "纽约市议会投票通过禁止马车，结束了自19世纪以来中央公园的旅游标志性项目，此前多年就马匹在城市街道上的地位存在争议。",
+      "summary_en": "New York's City Council voted to ban horse-drawn carriages, ending a Central Park tourist staple dating to the 19th century after years of debate over the horses' place on city streets.",
+      "detail_zh": "纽约市议会投票决定禁止马车运营，从而终结了中央公园一项可追溯至19世纪的旅游传统。这一决定是在多年关于马匹在城市街道上地位的争论之后作出的。彭博社的Laura Nahmias对此进行了解释。",
+      "detail_en": "New York's City Council voted to ban horse-drawn carriages, ending a Central Park tourist staple dating to the 19th century. The decision follows years of debate over the horses' place on city streets. Bloomberg's Laura Nahmias explains.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "纽约市议会投票禁止马车。",
+          "en": "New York's City Council voted to ban horse-drawn carriages."
+        },
+        {
+          "zh": "该禁令终结了中央公园自19世纪以来的旅游传统。",
+          "en": "The ban ends a Central Park tourist staple dating to the 19th century."
+        },
+        {
+          "zh": "决定是在多年关于马匹在城市街道上地位的争论后作出的。",
+          "en": "The decision follows years of debate over the horses' place on city streets."
+        }
+      ],
+      "tags": [
+        "New York City",
+        "regulation",
+        "horse-drawn carriages",
+        "Central Park"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:-IUTlm0sAc0",
       "title": "Are diamonds losing their luster?",
@@ -15497,252 +15659,6 @@
         "TSM"
       ],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_-pMa5-LdGY",
-      "title": "Why More Americans Regret College And Homeownership",
-      "title_zh": "“好债务”神话受质疑：房贷与学贷在高成本下的再审视",
-      "url": "https://www.youtube.com/watch?v=_-pMa5-LdGY",
-      "published_at": "2026-10-16T15:00:09+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "随着房价与学费持续攀升，美国购房者与借款人开始质疑房贷和学贷作为“好债务”的传统定位。专家指出，债务标签具有误导性，借贷是否划算越来越取决于个人具体情况，且应默认对借贷持审慎态度。",
-      "summary_en": "As home prices and tuition costs continue to climb, Americans are increasingly questioning whether mortgages and student loans truly qualify as 'good debt.' Experts say the good/bad debt labels can be misleading, and whether borrowing makes financial sense increasingly depends on individual circumstances, with the presumption always against borrowing.",
-      "detail_zh": "原文指出，房贷和学贷长期被视为“好债务”的教科书案例，因其承诺随时间积累财富或提升收入能力，而车贷、信用卡债等则被视为“坏债务”。但随着购房和获得学位的成本持续攀升，越来越多美国人质疑这些“好债务”投资是否真的划算。数据显示，房价较五年前高出近12%，2026年第二季度中位销售价超过41万美元；大学学费过去数十年平均每年上涨5.5%，超过通胀和其他家庭支出。专家表示，“好债务”这一说法具有误导性，借贷是否合理越来越取决于个人情况，并认为应默认对借贷持审慎态度，先理解债务是未来的财务负担，再问这笔债务是否可能让自己财务状况更好。以房贷为例，自2021年以来房屋价值平均每年上涨约4.5%，典型房主净资产为43万美元，是平均租客净资产的43倍；但房产升值并不自动使每笔房贷成为好的财务决策，且存在经济等不可控风险。住房专家称房价大幅升值的时代已经过去，历史显示30年期内股票表现优于房地产。30%的房主表示不会再次购买当前住房或不确定，42%表示对当前住房至少有一项遗憾，主要遗憾包括维护和其他意外隐性成本、房贷月供过高以及买贵了。高房贷成本还使部分美国人感到“房子富、现金穷”。专家建议购房者考虑：能否负担房贷及附加成本、房屋质量与社区房价走势、是否需大修、以及是否打算居住多年，因为过户成本可能增加购房成本的5%至7%。学贷方面，大学教育仍可能显著提高终身收入：学士学位者失业可能性仅为高中文凭者的一半，终身多赚120万美元。但近60%借款人后悔借学贷，仅40%认为学位值得所欠债务。原文提到联邦政府多年将联邦债务宣传为“学生援助”，部分大一、大二学生甚至不知道自己在借钱，因为披露文件未清楚说明需偿还；如今披露已改善。新毕业生对起薪的高估近每年2.4万美元。学贷会累积利息，且收入可能不及预期。原文举例称，私人学贷从入学第一天起复利，四年后累积5万美元利息，使债务从12万增至17万美元；一名毕业生年薪4万美元，但每一美元都用于还学贷。42%的学贷借款人表示贷款负面影响其覆盖基本需求的能力，74%表示对还款能力有些或非常担忧。",
-      "detail_en": "The original text notes that mortgages and student loans have long been held up as textbook examples of 'good debt,' promising to build wealth or increase earning power over time, while auto loans and credit card debt are seen as 'bad debt.' But as the cost of buying a home and getting a degree keeps climbing, more Americans are questioning whether those good debt investments actually pay off. Home prices are nearly 12% higher than five years ago, with a median sales price over $410,000 in Q2 2026; college tuition has risen an average of 5.5% a year over past decades, outpacing inflation and other household expenses. Experts say the 'good debt' label can be misleading, and whether borrowing makes financial sense increasingly depends on individual circumstances, with the presumption always against borrowing—starting from the premise that debt is a financial obligation and burden on your future, then asking whether it will likely make you better off. For mortgages, home ownership remains a major way Americans build wealth: since 2021 home values have risen about 4.5% a year, and a typical homeowner has a net worth of $430,000, 43 times higher than the average renter. Yet an appreciating property doesn't automatically make every mortgage a good decision, and there are risk factors outside your control like the economy. Housing experts say the days of outsized home price appreciation are behind us, and history shows stocks outperforming real estate over a 30-year period. 30% of homeowners say they wouldn't buy their current home again or didn't know, and 42% had at least one regret, top regrets being maintenance and unexpected hidden costs, too-high mortgage payments, and overpaying. High mortgage costs have led some to feel house rich and cash poor. Experts say future homeowners must consider: can you afford the mortgage and attendant costs; is it a good house and has the neighborhood sustained values; get an inspection; and make sure you'll be there for several years, because closing costs can add 5-7% to the cost of acquiring the house. For student loans, a college education still has potential to significantly increase lifetime earnings: bachelor's degree holders are half as likely to be unemployed versus high school diploma holders, and make $1.2 million more over their lifetimes. Yet nearly 60% of borrowers regret taking out student loans, and only 40% believe their degrees were worth the debt. The text notes the federal government for years advertised federal debt as student aid, and some freshmen and sophomores didn't even know they were borrowing because disclosures didn't make clear it had to be paid back; disclosures have gotten better now. New college graduates overestimated starting salaries by nearly $24,000 a year. Student loans accrue interest, and graduates may earn less than expected. One example: private student loan interest compounded from day one of college, accruing $50,000 of interest over four years, taking debt from $120,000 to $170,000; a graduate earning $40,000 a year saw every dollar go to student loans. 42% of student loan borrowers say their loans have negatively impacted their ability to cover basic needs, and 74% are somewhat or very worried about their ability to pay them back.",
-      "conclusion_zh": "在高房价与高学费环境下，房贷和学贷的“好债务”属性需个案审视；投资者与借款人应默认对借贷持审慎态度，并关注住房专家所称房价大幅升值时代已过去、长期股票表现优于房地产的判断。",
-      "conclusion_en": "In a high-cost environment for housing and education, the 'good debt' status of mortgages and student loans must be assessed case by case; borrowers and investors should presume against borrowing, and note housing experts' view that outsized home price appreciation is behind us and stocks have outperformed real estate over the long run.",
-      "key_points": [
-        {
-          "zh": "房价较五年前高出近12%，2026年第二季度中位销售价超41万美元；学费过去数十年年均上涨5.5%，超过通胀。",
-          "en": "Home prices are nearly 12% higher than five years ago, with median sales price over $410,000 in Q2 2026; tuition has risen 5.5% a year on average over past decades, outpacing inflation."
-        },
-        {
-          "zh": "专家认为“好债务”标签具有误导性，应默认对借贷持审慎态度，借贷是否合理取决于个人情况。",
-          "en": "Experts say the 'good debt' label is misleading and the presumption should always be against borrowing; whether it makes sense depends on individual circumstances."
-        },
-        {
-          "zh": "自2021年房屋价值年均上涨约4.5%，典型房主净资产43万美元，是平均租客的43倍；但住房专家称房价大幅升值时代已过去，30年期内股票表现优于房地产。",
-          "en": "Since 2021 home values rose about 4.5% a year; typical homeowner net worth is $430,000, 43x the average renter. But housing experts say outsized appreciation is behind us, and stocks have outperformed real estate over 30 years."
-        },
-        {
-          "zh": "30%房主不愿再买当前住房或不确定，42%至少有一项遗憾，主要遗憾为维护及意外隐性成本、月供过高、买贵了。",
-          "en": "30% of homeowners wouldn't buy their current home again or don't know; 42% have at least one regret, top regrets being maintenance/unexpected costs, too-high payments, and overpaying."
-        },
-        {
-          "zh": "学士学位者失业可能性为高中文凭者一半，终身多赚120万美元；但近60%学贷借款人后悔，仅40%认为学位值得所欠债务。",
-          "en": "Bachelor's degree holders are half as likely to be unemployed and make $1.2 million more over their lifetimes; yet nearly 60% of student loan borrowers regret borrowing, and only 40% believe their degree was worth the debt."
-        }
-      ],
-      "tags": [
-        "student-loans",
-        "mortgages",
-        "housing",
-        "household-debt",
-        "consumer-finance"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ujNW2LN-lPc",
-      "title": "Fed's Warsh Says AI Will Change Monetary Policy Conduct",
-      "title_zh": "美联储官员：AI是需求侧冲击，中期为正向供给冲击",
-      "url": "https://www.youtube.com/watch?v=ujNW2LN-lPc",
-      "published_at": "2026-10-16T14:47:29+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "一位美联储官员（原文未具名）将AI称为其一生中对美国和全球经济最具深远影响的变化，认为AI先冲击需求侧、中期构成正向供给冲击，并将根本改变货币政策的数据分析与执行方式。他同时强调通往更高生产率与财富的路径将非常颠簸，市场结构归属与就业影响在12至18个月内仍不确定。",
-      "summary_en": "A Federal Reserve official (unnamed in the transcript) calls AI the most consequential change to the US and global economy in his lifetime, arguing it hits aggregate demand first and becomes a positive supply shock in the medium term, while fundamentally changing how monetary policy is conducted. He stresses the path to higher productivity and wealth will be very bumpy, with the market structure and 12-18 month employment effects still unknown.",
-      "detail_zh": "该官员表示，AI的出现在他看来是迄今为止其一生中对美国和全球经济最具深远影响的变化，他作为央行官员对此既重视又保持冷静、负责的态度。他指出AI首先冲击经济的需求侧，之后才会作用于供给侧；对以稳定物价和充分就业为目标的央行而言，这应被视为一次冲击，但中期是正向的供给冲击，他本人对此深信不疑。在通往这一正向供给冲击的路径上，总需求正在上升。他将这一冲击与战争、军事冲突等其他冲击区别看待，认为它对全球和美国经济长期而言有巨大益处。第二，他认为AI对央行意义重大，因为央行需要从美国劳工统计局、经济分析局等官方统计中提炼嘈杂数据，用传统模型寻找潜在通胀趋势；不久之后央行将能触手可及地获取全球所有信息，并用新分析工具提炼数据，从而对新信息更有信心，判断数据是真实的还是滞后、误测的噪音，这将从根本上改变货币政策的执行方式。第三，AI将改变实体经济，未来12到18个月对就业的影响尚不可知；若如他所信，善用AI的经济体和国家的生产率与财富将提升，这必然是好事，但从现状到那一步的路径很可能非常颠簸——颠簸在于对技术的理解，也在于不知道这些新技术的市场结构将如何，谁能赚到钱，以及那些押注赚钱但市场结构不允许的人会面临什么后果。他最后表示，对于与当前政策节点关系不大的重大难题，央行需要为下一个政策节点投资；他约四五个月前发起了多个外部工作组，其中包括一个关于生产率与就业的工作组，将于11月16日在湾区举行首次实地听证会，讨论这些问题，他确信问题问对了，但不确定答案是否正确。",
-      "detail_en": "The official says the advent of AI is probably the most consequential change to the US and global economy in his lifetime, and that as a central banker he takes it seriously but soberly and responsibly. He notes AI is hitting the demand side of the economy before the supply side; for a central bank focused on stable prices and full employment, this must be recognized as a shock, but it is a positive supply shock in the medium term, which he fundamentally believes. On the path to that positive supply shock, aggregate demand is rising. He views this shock differently from shocks such as war and military conflict, seeing a huge benefit to the global and US economy over the horizon. Second, he says AI is a big deal for central banks because they distill noisy data from official statistics such as the Bureau of Labor Statistics and the Bureau of Economic Affairs, using old-fashioned models to find underlying inflation trends; before long central banks will have access to all the information in the world at their fingertips and use new analytical tools to distill it, giving them more confidence in whether new information is real or lagged, noisy and mismeasured, fundamentally changing the conduct of monetary policy. Third, AI will change the real economy, though its effect on employment over the next 12 or 18 months is unknown; if, as he believes, it makes economies and countries that use it well more productive and wealthier, that must be a very good thing, but the path there is likely to be very bumpy—bumpy in understanding the technology, and because the market structure of these new technologies is unknown: who gets to make the money, and what happens to those who bet they would make money but the market structure does not allow it. He adds that on big hard questions that do not matter much to the current policy conjuncture, the central bank needs to invest in the next policy conjuncture; among external task forces he initiated about four or five months ago is one on productivity and jobs, with its first field hearing on November 16th in the Bay Area, where they will wrestle with these issues. He is pretty sure he has the right questions but not sure he has the right answers.",
-      "conclusion_zh": "该官员对AI持乐观但审慎的态度：中期视为正向供给冲击，但强调路径颠簸、市场结构与就业影响尚不明朗，并已就生产率与就业设立工作组。",
-      "conclusion_en": "The official is optimistic but cautious on AI: a medium-term positive supply shock, yet the path is bumpy and the market structure and employment effects remain unclear, prompting a task force on productivity and jobs.",
-      "key_points": [
-        {
-          "zh": "AI被视为其一生中对美国和全球经济最具深远影响的变化，央行应严肃且冷静负责地对待。",
-          "en": "AI is seen as the most consequential change to the US and global economy in his lifetime, to be treated seriously but soberly and responsibly by the central bank."
-        },
-        {
-          "zh": "AI先冲击需求侧，中期构成正向供给冲击；在通往该冲击的路径上总需求正在上升。",
-          "en": "AI hits the demand side first and is a positive supply shock in the medium term; on the path there, aggregate demand is rising."
-        },
-        {
-          "zh": "AI将根本改变货币政策执行方式：央行可获取全球信息并用新工具提炼数据，更好区分真实信号与滞后、误测的噪音。",
-          "en": "AI will fundamentally change the conduct of monetary policy, letting central banks access global information and use new tools to distill data and better distinguish real signals from lagged, mismeasured noise."
-        },
-        {
-          "zh": "AI对就业的影响在12至18个月内尚不可知；通往更高生产率与财富的路径很可能非常颠簸。",
-          "en": "AI's effect on employment over the next 12-18 months is unknown, and the path to higher productivity and wealth is likely to be very bumpy."
-        },
-        {
-          "zh": "市场结构归属不确定：谁能赚钱、押注赚钱但市场结构不允许者将面临何种后果，均属未知。",
-          "en": "The market structure is uncertain: who gets to make the money, and what happens to those who bet on making money but the market structure does not allow it."
-        }
-      ],
-      "tags": [
-        "AI",
-        "monetary-policy",
-        "supply-shock",
-        "productivity",
-        "Fed"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:kXTaYK2Ko1Q",
-      "title": "Fed Chair Warsh Says US Is Seeing an Investment Surge",
-      "title_zh": "美联储官员：投资热潮源于良好政策，而非偶然",
-      "url": "https://www.youtube.com/watch?v=kXTaYK2Ko1Q",
-      "published_at": "2026-10-16T14:46:55+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美联储官员在G-20场合表示，当前全球经济最重要的上行变化是结构性增长与投资热潮，美国正经历大规模投资激增，这并非偶然，而是良好宏观政策与微观基础共同作用的结果。同时，各国央行官员普遍关注价格飙升问题。",
-      "summary_en": "A Federal Reserve official said at a G-20 gathering that the most important upside development in the global economy is structural growth and an investment surge, with the United States experiencing a massive investment boom that is not accidental but the result of good macroeconomic policy and strong micro foundations. At the same time, central bankers broadly share concerns about surging prices.",
-      "detail_zh": "美联储官员在与G-20同僚会面时表示，美联储政策会外溢至全球，其他国家的政策也会反过来影响美国，因此他花大量时间倾听。他提到自己一个月前已做出判断，并将在10月和12月会议上继续做出判断。他回顾称，二十年前同类会议上讨论的是“长期停滞”，而如今情况已大不相同：当前存在结构性增长和投资热潮，尽管并非每个国家都同等程度受益，但美国正经历大规模投资激增。他认为，长期停滞曾暗示这种低迷是不可避免的、政策制定者无能为力，但经验表明政策至关重要，投资热潮并非偶然，而是良好宏观政策与微观基础共同作用的结果，这可能是全球经济上行方面最重要的事件。不过，他也强调央行官员需要平衡看待问题，在与各国央行官员的讨论中，大家普遍听到同样的信息——价格飙升。",
-      "detail_en": "The Federal Reserve official said at a G-20 gathering that Fed policy spills over to the rest of the world, but other countries' policies spill back to the U.S. as well, so he does at least as much listening as talking. He noted he had made judgments about a month ago and will make further judgments at the October and December meetings. He recalled that twenty years ago at similar meetings the discussion was about secular stagnation, but now the situation is very different: there is structural growth and an investment surge, which is not hitting every country equally, but the United States is having a massive investment surge. He argued that secular stagnation suggested such weakness was inevitable and that policymakers could do nothing about it, but experience shows policy matters, and the investment surge is not by accident—it is the consequence of good macroeconomic policy and strong micro foundations, and is probably the most important thing happening in the global economy on the upside. However, he also stressed that central bankers must be balanced, and in discussions with central bankers, they all hear the same thing about the surge in prices.",
-      "conclusion_zh": "美联储官员强调政策对投资热潮的关键作用，同时提示央行官员普遍关注价格飙升，投资者需权衡增长上行与通胀压力。",
-      "conclusion_en": "The Fed official emphasized the key role of policy in driving the investment surge while noting that central bankers broadly share concerns about surging prices, suggesting investors should weigh upside growth against inflation pressures.",
-      "key_points": [
-        {
-          "zh": "当前全球经济最重要的上行变化是结构性增长与投资热潮，美国正经历大规模投资激增。",
-          "en": "The most important upside development in the global economy is structural growth and an investment surge, with the United States experiencing a massive investment boom."
-        },
-        {
-          "zh": "投资热潮并非偶然，而是良好宏观政策与微观基础共同作用的结果，政策至关重要。",
-          "en": "The investment surge is not accidental; it is the result of good macroeconomic policy and strong micro foundations, and policy matters."
-        },
-        {
-          "zh": "二十年前讨论的“长期停滞”观点暗示低迷不可避免，但如今已被证明政策可以有所作为。",
-          "en": "The secular stagnation view discussed twenty years ago suggested inevitable weakness, but it has now been shown that policy can make a difference."
-        },
-        {
-          "zh": "各国央行官员普遍关注价格飙升问题。",
-          "en": "Central bankers broadly share concerns about the surge in prices."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "investment surge",
-        "secular stagnation",
-        "inflation",
-        "G-20"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:uPQM6Eu2IQg",
-      "title": "Netflix Brings in New Executive to Spur Growth",
-      "title_zh": "Netflix任命Peter Rice：管理层调整应对增长放缓与内容挑战",
-      "url": "https://www.youtube.com/watch?v=uPQM6Eu2IQg",
-      "published_at": "2026-10-16T14:31:06+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Netflix任命资深好莱坞高管Peter Rice接替Bela Bajaria，反映管理层对增长放缓、内容续订观众流失及激烈竞争等问题的回应。Rice以与好莱坞人才关系良好著称，其每年掌控约200亿美元内容预算，重点或在于管理人才关系与争取导演、制片人回归。",
-      "summary_en": "Netflix has appointed veteran Hollywood executive Peter Rice, replacing Bela Bajaria, signaling management's response to slowing growth, audience declines in follow-on seasons of hits, and intense competition. Rice, known for strong talent relationships, will oversee an annual content budget of about $20 billion, with a focus likely on managing Hollywood talent and bringing back directors and producers.",
-      "detail_zh": "Netflix任命Peter Rice为新高管，接替Bela Bajaria，这是一次直接替换。Rice是经验丰富的好莱坞高管，曾任职于迪士尼和福克斯，以与人才关系良好著称。Netflix联合CEO Ted Sarandos此前在Screen Time峰会上表示，公司增长速度不如他所愿，下一季度财报预计营收增长约12%，为两到三年来最慢增速。内容方面，Netflix的爆款剧集在第二季或后续季出现观众下滑，无法维持观众持续观看。此次管理层调整旨在解决这些问题。竞争不仅来自其他流媒体服务，还包括YouTube等平台，尤其在年轻观众中占据越来越多眼球。Netflix明确表示不会进入内容创作者驱动的IP领域，而是坚持制作电影和电视剧。此外，Netflix在直播活动（如WWE）上有所尝试，但尚未全力投入。据彭博报道，Rice的重点将放在管理好莱坞人才关系上，包括如何让曾离开的导演或制片人回归。",
-      "detail_en": "Netflix has appointed Peter Rice as a new executive, replacing Bela Bajaria in a straight swap. Rice is an experienced Hollywood executive who has worked at Disney and Fox and is known for having great relationships with talent. Netflix co-CEO Ted Sarandos said at the Screen Time summit that the company is not growing as quickly as he would like, with revenue due to grow about 12% in the next quarterly earnings, the slowest pace in two or three years. On the content side, when Netflix has a big hit, the second season or follow-on has seen audience declines, and they haven't been able to keep audiences sustaining through those series or seasons. This management change aims to remedy those issues. Competition for eyeballs includes not only other streaming services but also YouTube, especially among younger viewers. Netflix is clear that it will not get into content creator-driven properties and IP, but will live and die by producing film and television. Netflix has also experimented with live events, such as WWE, but is not going all in yet. According to Bloomberg reporting, Rice's focus will be on managing the people of Hollywood, including how to get directors or producers who left to come back.",
-      "conclusion_zh": "Netflix任命Peter Rice凸显其以人才关系为核心的内容战略调整，投资者需关注其能否扭转增长放缓与观众留存难题。",
-      "conclusion_en": "Netflix's appointment of Peter Rice highlights a content strategy shift centered on talent relationships; investors should watch whether he can reverse slowing growth and audience retention challenges.",
-      "key_points": [
-        {
-          "zh": "Netflix任命Peter Rice接替Bela Bajaria，直接替换反映管理层对增长放缓的回应。",
-          "en": "Netflix appointed Peter Rice to replace Bela Bajaria, a straight swap reflecting management's response to slowing growth."
-        },
-        {
-          "zh": "Netflix下一季度营收预计增长约12%，为两到三年来最慢增速。",
-          "en": "Netflix's revenue is due to grow about 12% in the next quarterly earnings, the slowest pace in two or three years."
-        },
-        {
-          "zh": "爆款剧集后续季观众下滑，Netflix难以维持观众持续观看。",
-          "en": "Follow-on seasons of hit shows have seen audience declines, and Netflix struggles to sustain viewership."
-        },
-        {
-          "zh": "竞争不仅来自流媒体，还包括YouTube等平台，尤其在年轻观众中。",
-          "en": "Competition comes not only from streaming services but also from platforms like YouTube, especially among younger viewers."
-        },
-        {
-          "zh": "Rice将重点管理好莱坞人才关系，争取导演和制片人回归。",
-          "en": "Rice will focus on managing Hollywood talent relationships and bringing back directors and producers."
-        }
-      ],
-      "tags": [
-        "Netflix",
-        "streaming",
-        "management change",
-        "content strategy",
-        "competition"
-      ],
-      "tickers": [
-        "NFLX"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:h-etSqf_RX0",
-      "title": "Exceptional Leaders: Shake Shack: Hospitality at Scale",
-      "title_zh": "Danny Meyer谈「开明式好客」：从联合广场咖啡馆到Shake Shack的规模化之路",
-      "url": "https://www.youtube.com/watch?v=h-etSqf_RX0",
-      "published_at": "2026-10-16T14:22:50+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "摩根士丹利「卓越领导者」系列对话Union Square Hospitality Group创始人兼董事长Danny Meyer，回顾其从1985年联合广场咖啡馆起步、到打造Shake Shack全球品牌的历程。Meyer提出以人和文化为核心的「开明式好客」（Enlightened Hospitality）理念，并强调「向上出售而非出售退出」的扩张哲学。Shake Shack现为上市公司，在24个国家运营超过700家门店，2025年销售额接近15亿美元。",
-      "summary_en": "In a Morgan Stanley \"Exceptional Leaders\" conversation, Union Square Hospitality Group founder and chairman Danny Meyer traced his path from opening Union Square Cafe in 1985 to building Shake Shack into a global brand. Meyer articulated his \"Enlightened Hospitality\" philosophy—putting people and culture at the center of scaling a business—and framed growth as \"selling up\" rather than \"selling out.\" Shake Shack is now a publicly traded company operating more than 700 locations across 24 countries, with annual sales approaching $1.5 billion in 2025.",
-      "detail_zh": "Meyer回忆在圣路易斯长大时热爱下馆子，但吸引他的不是食物本身，而是被对待的方式；他父亲从事欧洲旅行业务，而Meyer搬到纽约后发现当地食物很好但好客精神不足。他将圣路易斯的待客之道与在罗马、法国小酒馆以及加州咖啡馆、酒吧烧烤（cafe and bar and grill）运动中体验到的「食物简单却出色、员工真心欢迎客人」相结合，于1985年开设Union Square Cafe。他坦言从一家店扩张到两家店（1994年Gramercy Tavern）非常艰难，因为父亲曾数次破产，而他一直将破产与业务扩张联系在一起，因此对扩张心存恐惧。他后来意识到「成长不等于出售退出，你可以向上出售（sell up）」，若能用成长推进文化、创造更多就业并惠及更多社区，那并非坏事。1998年开设11 Madison Park和Tabla后，Meyer出于公益目的参与改善麦迪逊广场公园的运动，并应Target赞助的公共艺术项目之邀运营一个热狗车，提供八种配料的芝加哥风格热狗，连续三年每天排队约100人。2002至2003年社区要求热狗车回归后，他决定将其变为永久售货亭，并借鉴圣路易斯成长时的汉堡店和冻奶油店记忆，创立Shake Shack，将其定位为「介于资本主义与慈善之间」的社区财富项目——把建筑赠予公园使公园成为房东，每笔销售的一定比例回馈公园。Shake Shack五年内未开第二家店，但最终成长为一家大公司。Meyer强调，无论高端还是休闲餐饮，共同点是对最佳食材的执着（如与屠夫Pat LaFrieda合作，其牛肉此前已用于Union Square Cafe和Tabla）以及对好客的承诺。",
-      "detail_en": "Meyer recalled loving restaurants while growing up in St. Louis in the 1960s and 1970s, but it was how people were treated—not the food—that drew him in. His father was in the travel business, primarily in Europe, and when Meyer moved to New York he found the food good but the hospitality lacking. He combined what he grew up with in St. Louis with experiences of simple but excellent food and genuinely welcoming staff in Rome, French bistros, and California's cafe and bar-and-grill movement, opening Union Square Cafe in 1985. He described going from one restaurant to two (Gramercy Tavern in 1994) as very tough, because his father had gone bankrupt a couple of times and Meyer associated bankruptcy with growing a business. He later came to believe that growth does not have to mean selling out—you can \"sell up\"—and that using growth to advance culture, create more jobs, and do better things for more neighborhoods is not a bad thing. After opening 11 Madison Park and Tabla in 1998, Meyer got behind a campaign to improve Madison Square Park for philanthropic reasons and, as part of a Target-sponsored public art project, agreed to operate a hot dog cart selling Chicago-style hot dogs with eight toppings, which drew lines of about 100 people every day for three consecutive years. When the community asked for the cart back in 2002 and 2003, he decided to turn it into a permanent kiosk, drawing on memories of burger shacks and frozen custard places from his St. Louis childhood to create Shake Shack as a \"community wealth project\" that lives between capitalism and philanthropy—gifting the building to the park so the park became the landlord, with a percentage of every sale going back to the park. Shake Shack did not open a second location for five years, yet grew into a big company. Meyer stressed that what fine dining and casual dining share is a devotion to sourcing the best possible ingredients (such as working with butcher Pat LaFrieda, whose beef had been used at Union Square Cafe and Tabla) and a commitment to hospitality.",
-      "conclusion_zh": "Meyer的案例表明，以人和文化为核心的「开明式好客」理念可以支撑从高端餐饮到全球连锁的规模化扩张，Shake Shack的成长路径为理解品牌长期价值与社区关系提供了参考。",
-      "conclusion_en": "Meyer's case suggests that an \"Enlightened Hospitality\" philosophy centered on people and culture can underpin scaling from fine dining to a global chain, offering a lens on long-term brand value and community relationships through Shake Shack's growth path.",
-      "key_points": [
-        {
-          "zh": "Meyer的「开明式好客」理念将人和文化置于公司建设与规模化的核心。",
-          "en": "Meyer's \"Enlightened Hospitality\" philosophy puts people and culture at the center of building and scaling a company."
-        },
-        {
-          "zh": "他将扩张重新定义为「向上出售」（sell up）而非「出售退出」（sell out），认为成长可用于推进文化、创造就业并惠及更多社区。",
-          "en": "He reframed growth as \"selling up\" rather than \"selling out,\" arguing growth can advance culture, create jobs, and benefit more neighborhoods."
-        },
-        {
-          "zh": "Shake Shack源于麦迪逊广场公园的一个热狗车，被定位为「介于资本主义与慈善之间」的社区财富项目，每笔销售的一部分回馈公园。",
-          "en": "Shake Shack began as a hot dog cart in Madison Square Park, positioned as a \"community wealth project\" between capitalism and philanthropy, with a percentage of every sale going back to the park."
-        },
-        {
-          "zh": "Shake Shack五年内未开第二家店，但如今已是上市公司，在24个国家运营超过700家门店，2025年销售额接近15亿美元。",
-          "en": "Shake Shack did not open a second location for five years, but is now publicly traded with more than 700 locations across 24 countries and annual sales approaching $1.5 billion in 2025."
-        },
-        {
-          "zh": "高端与休闲餐饮的共同点是对最佳食材的执着以及对好客的承诺。",
-          "en": "What fine dining and casual dining share is a devotion to sourcing the best ingredients and a commitment to hospitality."
-        }
-      ],
-      "tags": [
-        "hospitality",
-        "Shake Shack",
-        "Danny Meyer",
-        "business culture",
-        "scaling"
-      ],
-      "tickers": [
-        "SHAK"
-      ],
-      "sentiment": "positive"
     }
   ]
 }
