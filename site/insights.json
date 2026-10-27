@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-10-27T18:18:19.369647+00:00",
+  "generated_at": "2026-10-27T19:13:52.814259+00:00",
   "insights": [
+    {
+      "guid": "yt:LW51qWpTbv0",
+      "title": "Credit Markets Send Mixed Signals | Thoughts on the Market",
+      "title_zh": "摩根士丹利：AI资本开支与并购潮下，信用市场信号分化",
+      "url": "https://www.youtube.com/watch?v=LW51qWpTbv0",
+      "published_at": "2026-10-27T18:32:43+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "摩根士丹利固定收益研究主管Andrew Sheets指出，信用市场同时出现两个矛盾信号：债券供给创纪录显示市场开放，但CCC级低评级信用利差走阔暗示裂痕正在形成。他还提到关键借款人对利率的独特不敏感性，并邀请收听Thoughts on the Market获取更多观点。",
+      "summary_en": "Andrew Sheets, global head of fixed income research at Morgan Stanley, highlights two contradictory signals in the credit market: record bond supply suggests markets are open, while widening spreads for triple-C rated credits indicate cracks are forming. He also notes the unique insensitivity to rates from key borrowers and invites listeners to tune in to Thoughts on the Market for more views.",
+      "detail_zh": "摩根士丹利全球固定收益研究主管Andrew Sheets表示，当前正处于一个巨大的AI资本开支周期，同时并购活动也显著升温。他指出，信用市场正被两个看似矛盾的叙事主导：一方面，债券供给处于创纪录水平，表明市场开放且状况良好；另一方面，市场最低评级（CCC级）信用利差正在走阔，暗示裂痕正在形成。Sheets还提到，关键借款人对利率的独特不敏感性影响这场辩论，并邀请听众收听Thoughts on the Market获取更多观点。",
+      "detail_en": "Andrew Sheets, global head of fixed income research at Morgan Stanley, says we are in the midst of an enormous AI capex cycle and at the same time a major pickup in M&A. He notes that two seemingly contradictory narratives are dominating the credit market: on one hand, bond supply is at record levels, indicating that markets are open and everything is quite good; on the other hand, widening spreads for the market's lowest rated credits, the triple C's, suggest that cracks are forming. Sheets also mentions how the unique insensitivity to rates from key borrowers affects this debate, and invites listeners to tune in to Thoughts on the Market for more views.",
+      "conclusion_zh": "信用市场信号分化：供给强劲与低评级利差走阔并存，需关注CCC级信用裂痕及关键借款人对利率不敏感的影响。",
+      "conclusion_en": "Credit market signals are diverging: strong supply coexists with widening low-rated spreads; watch for cracks in triple-C credits and the impact of key borrowers' insensitivity to rates.",
+      "key_points": [
+        {
+          "zh": "当前处于巨大的AI资本开支周期，同时并购活动显著升温。",
+          "en": "We are in the midst of an enormous AI capex cycle and a major pickup in M&A."
+        },
+        {
+          "zh": "债券供给处于创纪录水平，显示市场开放且状况良好。",
+          "en": "Bond supply is at record levels, indicating that markets are open and everything is quite good."
+        },
+        {
+          "zh": "CCC级最低评级信用利差走阔，暗示信用市场裂痕正在形成。",
+          "en": "Widening spreads for the lowest rated triple-C credits suggest that cracks are forming."
+        },
+        {
+          "zh": "关键借款人对利率的独特不敏感性影响当前信用市场辩论。",
+          "en": "The unique insensitivity to rates from key borrowers affects the current credit market debate."
+        }
+      ],
+      "tags": [
+        "credit market",
+        "AI capex",
+        "M&A",
+        "CCC spreads",
+        "bond supply"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:W-kr-Fm3AzU",
       "title": "Anduril Founder Luckey says company is investing in US-made computers",
@@ -11569,42 +11615,6 @@
         "principles",
         "stress-testing",
         "Ray Dalio"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:gq8fdDO37Ks",
-      "title": "Ukraine Hopes to Reconnect to SpaceX Starlink Network in 48 Hours",
-      "title_zh": "泽连斯基称与美特使讨论情报共享，希望星链48小时内恢复",
-      "url": "https://www.youtube.com/watch?v=gq8fdDO37Ks",
-      "published_at": "2026-10-20T19:07:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "乌克兰总统泽连斯基表示在挪威会谈中与美国特使威特科夫讨论了情报共享问题，并希望乌克兰的星链卫星网络连接“可能在48小时内”恢复。",
-      "summary_en": "Ukrainian President Volodymyr Zelenskyy said he discussed intelligence sharing with US envoy Steve Witkoff during talks in Norway, and hopes Ukraine's Starlink satellite network connection will be restored \"maybe in 48 hours.\"",
-      "detail_zh": "乌克兰总统泽连斯基表示，在挪威举行的会谈中，他与美国特使史蒂夫·威特科夫讨论了情报共享事宜。泽连斯基还表示，他希望乌克兰与星链卫星网络的连接“可能在48小时内”恢复。原文未提供会谈的其他细节、情报共享的具体内容或星链连接中断的原因。",
-      "detail_en": "Ukrainian President Volodymyr Zelenskyy said he spoke about intelligence sharing with US envoy Steve Witkoff during talks in Norway. Zelenskyy also said he hopes Ukraine's connection to the Starlink satellite network will be restored \"maybe in 48 hours.\" The original text does not provide further details on the talks, the specifics of intelligence sharing, or the reason for the Starlink disruption.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "泽连斯基在挪威会谈中与美国特使威特科夫讨论了情报共享。",
-          "en": "Zelenskyy discussed intelligence sharing with US envoy Witkoff during talks in Norway."
-        },
-        {
-          "zh": "泽连斯基希望乌克兰的星链连接“可能在48小时内”恢复。",
-          "en": "Zelenskyy hopes Ukraine's Starlink connection will be restored \"maybe in 48 hours.\""
-        }
-      ],
-      "tags": [
-        "Ukraine",
-        "Starlink",
-        "intelligence-sharing",
-        "US-envoy"
       ],
       "tickers": [],
       "sentiment": "neutral"
