@@ -1,6 +1,431 @@
 {
-  "generated_at": "2026-10-27T20:18:11.015740+00:00",
+  "generated_at": "2026-10-27T21:15:14.407354+00:00",
   "insights": [
+    {
+      "guid": "yt:gWBdCy1h7v8",
+      "title": "GM to Leave NYSE for Stock Listing on Tech-Focused Nasdaq",
+      "title_zh": "通用汽车转板纳斯达克，定位科技公司",
+      "url": "https://www.youtube.com/watch?v=gWBdCy1h7v8",
+      "published_at": "2026-10-27T20:54:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "通用汽车计划将其股票上市地从纽约证券交易所转至纳斯达克全球精选市场，以将公司定位为科技前沿企业。公司将于11月17日开始在纳斯达克交易，保留“GM”代码，新上市使其有资格被纳入纳斯达克100指数。",
+      "summary_en": "General Motors plans to move its stock listing from the NYSE to the Nasdaq Global Select Market to position itself as a tech-forward company. It will retain the \"GM\" ticker and begin trading on Nasdaq on Nov. 17, with the new listing offering eligibility for potential inclusion in the Nasdaq-100 Index.",
+      "detail_zh": "通用汽车宣布计划将其股票上市地从纽约证券交易所转至纳斯达克全球精选市场。此举旨在将公司定位为一家科技前沿企业。公司将继续使用“GM”作为股票代码，并于11月17日开始在纳斯达克交易。新的上市安排使通用汽车有资格被纳入纳斯达克100指数。彭博的David Welch就此进行了讨论。",
+      "detail_en": "General Motors announced plans to shift its stock listing from the New York Stock Exchange to the Nasdaq Global Select Market. The move aims to position the company as a tech-forward company. GM will retain its \"GM\" ticker symbol and begin trading on Nasdaq on Nov. 17. The new listing offers eligibility for potential inclusion in the Nasdaq-100 Index. Bloomberg's David Welch joined to discuss.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "通用汽车计划从纽交所转板至纳斯达克全球精选市场。",
+          "en": "GM plans to move its listing from the NYSE to the Nasdaq Global Select Market."
+        },
+        {
+          "zh": "公司旨在通过此举将自身定位为科技前沿企业。",
+          "en": "The company aims to position itself as a tech-forward company through this move."
+        },
+        {
+          "zh": "股票代码“GM”保持不变，11月17日开始在纳斯达克交易。",
+          "en": "The \"GM\" ticker remains unchanged, with trading on Nasdaq starting Nov. 17."
+        },
+        {
+          "zh": "新上市使通用汽车有资格被纳入纳斯达克100指数。",
+          "en": "The new listing makes GM eligible for potential inclusion in the Nasdaq-100 Index."
+        }
+      ],
+      "tags": [
+        "General Motors",
+        "Nasdaq",
+        "Listing",
+        "Tech-forward"
+      ],
+      "tickers": [
+        "GM"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:8TF8F6MPvGY",
+      "title": "Important That GOP Appeals to Black Voters in GA, Says McCormick",
+      "title_zh": "共和党议员称共和党需争取黑人选民",
+      "url": "https://www.youtube.com/watch?v=8TF8F6MPvGY",
+      "published_at": "2026-10-27T20:54:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "佐治亚州共和党众议员里奇·麦考密克表示，解决该州非裔美国人社区进步的障碍比任何单一候选人都重要，共和党必须在一个少数族裔占投票人口多数的州争取黑人选民。",
+      "summary_en": "Republican Representative Rich McCormick of Georgia said addressing hurdles to gains by the African American community in Georgia is more important than any one candidate, and the Republican Party must appeal to Black voters in a state where minorities make up a majority of the voting population.",
+      "detail_zh": "佐治亚州共和党众议员里奇·麦考密克（Rich McCormick）表示，解决佐治亚州非裔美国人社区取得进步的障碍，比该州任何一位正在竞选的候选人都更重要。他强调，在一个少数族裔占投票人口多数的州，共和党争取黑人选民十分重要。原文未提供更多政策细节、具体数据或选举背景。",
+      "detail_en": "Republican Representative Rich McCormick of Georgia said that addressing hurdles to gains made by the African American community in Georgia is more important than any one candidate running in the state. He also said it is important for the Republican Party to appeal to Black voters in a state where minorities make up a majority of the voting population. The original text does not provide further policy details, specific data, or electoral context.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "麦考密克称解决非裔社区进步障碍比任何单一候选人都重要。",
+          "en": "McCormick said addressing hurdles to African American community gains is more important than any one candidate."
+        },
+        {
+          "zh": "他强调共和党需在少数族裔占多数的佐治亚州争取黑人选民。",
+          "en": "He stressed the Republican Party needs to appeal to Black voters in Georgia, where minorities are a majority of the voting population."
+        }
+      ],
+      "tags": [
+        "Georgia",
+        "Republican Party",
+        "Black voters",
+        "elections"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:o6UrObFCvG0",
+      "title": "DoorDash Is Said to Near $17B Takeover of Instacart",
+      "title_zh": "DoorDash据称深入谈判以约170亿美元收购Instacart母公司Maplebear",
+      "url": "https://www.youtube.com/watch?v=o6UrObFCvG0",
+      "published_at": "2026-10-27T20:54:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据知情人士透露，DoorDash正就收购Instacart母公司Maplebear进行深入谈判，交易规模约170亿美元。该消息由Bloomberg的Ryan Gould在“Bloomberg Deals”节目中向Scarlet Fu披露。",
+      "summary_en": "DoorDash is in advanced talks to acquire Instacart parent Maplebear for roughly $17 billion, according to people familiar with the matter, as reported by Bloomberg's Ryan Gould on \"Bloomberg Deals.\"",
+      "detail_zh": "Bloomberg的Ryan Gould在“Bloomberg Deals”节目中向Scarlet Fu表示，DoorDash正在就收购Instacart的母公司Maplebear进行深入谈判。据知情人士透露，交易规模约为170亿美元。该报道未提供更多交易细节或时间表。",
+      "detail_en": "Bloomberg's Ryan Gould told Scarlet Fu on \"Bloomberg Deals\" that DoorDash is in advanced talks to acquire Maplebear, the parent company of Instacart. According to people familiar with the matter, the deal is valued at roughly $17 billion. No further details or timeline were provided in the report.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "DoorDash正就收购Maplebear进行深入谈判",
+          "en": "DoorDash is in advanced talks to acquire Maplebear"
+        },
+        {
+          "zh": "Maplebear是Instacart的母公司",
+          "en": "Maplebear is the parent company of Instacart"
+        },
+        {
+          "zh": "交易规模约为170亿美元",
+          "en": "The deal is valued at roughly $17 billion"
+        },
+        {
+          "zh": "消息来源为知情人士，由Bloomberg报道",
+          "en": "The information comes from people familiar with the matter, reported by Bloomberg"
+        }
+      ],
+      "tags": [
+        "M&A",
+        "DoorDash",
+        "Instacart",
+        "Maplebear",
+        "acquisition"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:CpgGWjvZAAc",
+      "title": "Eliud Kipchoge: The future of running is bright",
+      "title_zh": "基普乔格：科技驱动跑步，创新跑鞋助运动员突破极限",
+      "url": "https://www.youtube.com/watch?v=CpgGWjvZAAc",
+      "published_at": "2026-10-27T20:53:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "奥运冠军基普乔格表示，跑鞋技术的进步帮助运动员更快恢复并突破极限，他相信创新将激励全球更多人参与跑步运动。",
+      "summary_en": "Olympic champion Eliud Kipchoge says advances in running shoes help athletes recover faster and push their limits, and he believes innovation will inspire more people worldwide to embrace running.",
+      "detail_zh": "奥运冠军埃鲁德·基普乔格（Eliud Kipchoge）表示，“技术实际上是驱动世界的力量，技术也是驱动跑步的力量。”他指出，跑鞋的进步正在帮助运动员更快恢复，并推动他们突破自身极限。基普乔格认为，这类创新将激励全球更多人参与并热爱跑步运动。原文未涉及任何具体公司、股票或财务数据。",
+      "detail_en": "Olympic champion Eliud Kipchoge said, \"Technology is actually what drives the world. Technology is what drives running.\" He noted that advances in running shoes are helping athletes recover faster and push their limits. Kipchoge believes such innovation will inspire more people around the world to embrace the sport. The source contains no specific companies, stocks, or financial data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "基普乔格强调技术是驱动世界和跑步的核心力量。",
+          "en": "Kipchoge emphasizes that technology is a core force driving both the world and running."
+        },
+        {
+          "zh": "跑鞋技术进步帮助运动员更快恢复并突破极限。",
+          "en": "Advances in running shoes help athletes recover faster and push their limits."
+        },
+        {
+          "zh": "基普乔格相信创新将激励全球更多人参与跑步。",
+          "en": "Kipchoge believes innovation will inspire more people worldwide to embrace running."
+        }
+      ],
+      "tags": [
+        "running",
+        "sports technology",
+        "innovation",
+        "athletics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Aa1BQ1Lmw7o",
+      "title": "Israel Election: Exit Polls Show Netanyahu Trailing Eisenkot",
+      "title_zh": "以色列大选出口民调：内塔尼亚胡落后于挑战者艾森科特",
+      "url": "https://www.youtube.com/watch?v=Aa1BQ1Lmw7o",
+      "published_at": "2026-10-27T20:51:03+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "三项出口民调显示，以色列总理内塔尼亚胡落后于挑战者加迪·艾森科特，选民投票率创历史新高，但选情仍难分胜负。",
+      "summary_en": "Three exit polls show Israeli Prime Minister Benjamin Netanyahu trailing challenger Gadi Eisenkot, with record voter turnout, but the race remains too close to call.",
+      "detail_zh": "彭博社的丹·威廉姆斯从耶路撒冷报道，三项出口民调显示以色列总理本杰明·内塔尼亚胡落后于挑战者加迪·艾森科特。选民投票率创下历史新高。目前选情仍然胶着，难以预测最终结果。",
+      "detail_en": "Bloomberg's Dan Williams reports from Jerusalem that three exit polls show Israeli Prime Minister Benjamin Netanyahu trailing challenger Gadi Eisenkot. Voters turned out in record numbers. The race is still too close to call.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "三项出口民调显示内塔尼亚胡落后于艾森科特",
+          "en": "Three exit polls show Netanyahu trailing Eisenkot"
+        },
+        {
+          "zh": "选民投票率创历史新高",
+          "en": "Record voter turnout"
+        },
+        {
+          "zh": "选情仍难分胜负",
+          "en": "Race still too close to call"
+        }
+      ],
+      "tags": [
+        "Israel election",
+        "Netanyahu",
+        "Eisenkot",
+        "exit polls"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:zo9GVdsOQKI",
+      "title": "Anduril’s Luckey Sees Arms Spending Stable Even With ‘Blue Wave’",
+      "title_zh": "安杜里尔创始人：民主党赢得中期选举，美国国防开支预计仍将大体稳定",
+      "url": "https://www.youtube.com/watch?v=zo9GVdsOQKI",
+      "published_at": "2026-10-27T20:40:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "安杜里尔工业公司创始人帕尔默·拉基表示，即使民主党在下周中期选举中赢得国会控制权，他预计美国国防开支仍将大体保持稳定。这一判断对国防板块的投资预期具有参考意义。",
+      "summary_en": "Anduril Industries founder Palmer Luckey said he expects US defense spending to remain broadly stable even if Democrats win control of Congress in next week's midterm elections, a view relevant to defense-sector investment expectations.",
+      "detail_zh": "安杜里尔工业公司创始人帕尔默·拉基表示，他预计美国国防开支将大体保持稳定。这一判断的前提是民主党可能在下周的中期选举中赢得国会控制权。拉基的观点意味着，即便国会控制权发生变更，国防预算出现大幅波动的可能性也较低。该表态对关注美国国防开支走向及国防板块的投资者具有参考价值。原文未提供具体开支数字、时间表或进一步的政策细节。",
+      "detail_en": "Anduril Industries founder Palmer Luckey said he expects US defense spending to remain broadly stable. He made the comment in the context of Democrats potentially winning control of Congress in next week's midterm elections. Luckey's view implies that a major shift in the defense budget is unlikely even if congressional control changes. The remark is relevant to investors tracking the direction of US defense spending and the defense sector. The source did not provide specific spending figures, timelines, or further policy details.",
+      "conclusion_zh": "拉基的判断暗示，即便中期选举后国会控制权生变，美国国防开支短期大幅波动的风险也较低，国防板块的政策不确定性相对有限。",
+      "conclusion_en": "Luckey's view suggests that even if congressional control changes after the midterms, the risk of a sharp near-term swing in US defense spending is low, limiting policy uncertainty for the defense sector.",
+      "key_points": [
+        {
+          "zh": "安杜里尔创始人帕尔默·拉基预计美国国防开支将大体稳定。",
+          "en": "Anduril founder Palmer Luckey expects US defense spending to remain broadly stable."
+        },
+        {
+          "zh": "该判断的背景是民主党可能在下周中期选举中赢得国会控制权。",
+          "en": "The view is set against the possibility that Democrats win control of Congress in next week's midterm elections."
+        },
+        {
+          "zh": "拉基的表态暗示国会控制权变更未必导致国防预算大幅调整。",
+          "en": "Luckey's comment implies a change in congressional control may not lead to a major defense budget shift."
+        }
+      ],
+      "tags": [
+        "defense spending",
+        "midterm elections",
+        "Anduril",
+        "US budget"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:vrRJ3IIj8Tg",
+      "title": "UPS CEO on Earnings, Data Center Logistics and Trade",
+      "title_zh": "UPS CEO：货运与物流业务当季增长17%，受高端医疗与数据中心建设提振",
+      "url": "https://www.youtube.com/watch?v=vrRJ3IIj8Tg",
+      "published_at": "2026-10-27T20:35:56+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "UPS首席执行官Carol Tomé表示，公司货运与物流业务当季增长17%，主要得益于高端医疗保健和数据中心建设相关需求。该表述来自其在彭博电视《The Close》节目中的访谈。",
+      "summary_en": "UPS CEO Carol Tomé said the company's forwarding and logistics business grew 17% in the quarter, helped by premium health care and data-center construction. She made the remarks in an interview on Bloomberg's \"The Close.\"",
+      "detail_zh": "UPS首席执行官Carol Tomé在彭博电视《The Close》节目中接受Romaine Bostick采访时表示，公司货运与物流业务在当季实现了17%的增长。她将这一增长归因于高端医疗保健和数据中心建设相关业务的提振。原文未披露该增长的具体财务金额、同比基数、整体公司业绩或未来指引。",
+      "detail_en": "UPS CEO Carol Tomé, speaking with Romaine Bostick on Bloomberg's \"The Close,\" said the company's forwarding and logistics business grew 17% in the quarter. She attributed the growth to help from premium health care and data-center construction. The source did not disclose specific financial figures, the comparison base, overall company results, or forward guidance.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "UPS货运与物流业务当季增长17%",
+          "en": "UPS forwarding and logistics grew 17% in the quarter"
+        },
+        {
+          "zh": "增长受高端医疗保健业务提振",
+          "en": "Growth helped by premium health care"
+        },
+        {
+          "zh": "数据中心建设相关需求亦提供助力",
+          "en": "Data-center construction also contributed"
+        },
+        {
+          "zh": "上述表述来自CEO Carol Tomé在彭博电视的访谈",
+          "en": "Remarks from CEO Carol Tomé on Bloomberg Television"
+        }
+      ],
+      "tags": [
+        "UPS",
+        "logistics",
+        "healthcare",
+        "data-center"
+      ],
+      "tickers": [
+        "UPS"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:ADQN4ouMcis",
+      "title": "JetBlue Surges 19% as Airline Reaffirms Profitability Outlook | Closing Bell",
+      "title_zh": "彭博电视美股收盘节目介绍",
+      "url": "https://www.youtube.com/watch?v=ADQN4ouMcis",
+      "published_at": "2026-10-27T20:24:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视美股收盘节目的跨平台播出信息及社交媒体链接，未包含任何市场数据、观点或事件。",
+      "summary_en": "The original text is merely promotional information and social media links for Bloomberg Television's U.S. market close program, with no market data, opinions, or events included.",
+      "detail_zh": "原文介绍了彭博电视、彭博电台和YouTube对美股收盘的跨平台综合报道，提及主持人Scarlet Fu、Kristine Aquino、Carol Massar和Tim Stenovec。内容主要为节目推广和社交媒体链接，未提供任何具体的市场分析、数据或投资观点。",
+      "detail_en": "The original text describes comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube, featuring hosts Scarlet Fu, Kristine Aquino, Carol Massar, and Tim Stenovec. The content is primarily promotional and includes social media links, without any specific market analysis, data, or investment views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目覆盖美股收盘，由Scarlet Fu等主持。",
+          "en": "The program covers the U.S. market close, hosted by Scarlet Fu and others."
+        },
+        {
+          "zh": "跨平台播出包括电视、电台和YouTube。",
+          "en": "Cross-platform broadcast includes TV, radio, and YouTube."
+        },
+        {
+          "zh": "原文无实质市场内容或投资洞见。",
+          "en": "The original text contains no substantive market content or investment insights."
+        }
+      ],
+      "tags": [
+        "Bloomberg",
+        "Market Close",
+        "Media"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ehj3ETqqDmI",
+      "title": "People Are 'Wound Up' Over Data Centers, Perot Jr. Says",
+      "title_zh": "德州地产商Ross Perot Jr.：数据中心有益社区，助美对华AI竞争",
+      "url": "https://www.youtube.com/watch?v=ehj3ETqqDmI",
+      "published_at": "2026-10-27T20:09:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亿万富翁房地产开发商Ross Perot Jr.表示，数据中心对社区有益，并能帮助美国在人工智能领域与中国竞争。他是在彭博投资活动达拉斯站的《David Rubenstein Show》节目录制中发表上述观点的。",
+      "summary_en": "Billionaire real estate developer Ross Perot Jr. said data centers are good for communities and can help the US compete with China in artificial intelligence. He spoke during a taping of The David Rubenstein Show at the Bloomberg Invest event in Dallas.",
+      "detail_zh": "德州亿万富翁房地产开发商Ross Perot Jr.公开为数据中心辩护，称其对社区有益。他将数据中心建设与美国在人工智能领域与中国竞争的能力直接挂钩，认为这是美国保持竞争力的重要组成部分。上述言论发表于周二达拉斯彭博投资活动期间《The David Rubenstein Show: Peer-to-Peer Conversations》的节目录制中。原文未提供更多关于数据中心经济影响、具体项目或政策建议的细节。",
+      "detail_en": "Texas billionaire real estate developer Ross Perot Jr. publicly defended data centers, saying they are good for communities. He directly linked data center construction to the US's ability to compete with China in artificial intelligence, framing it as an important component of maintaining US competitiveness. The remarks were made on Tuesday during a taping of The David Rubenstein Show: Peer-to-Peer Conversations at the Bloomberg Invest event in Dallas. The original text does not provide further details on the economic impact of data centers, specific projects, or policy recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Ross Perot Jr.认为数据中心对社区有益。",
+          "en": "Ross Perot Jr. believes data centers are good for communities."
+        },
+        {
+          "zh": "他将数据中心与美国在AI领域对华竞争的能力联系起来。",
+          "en": "He links data centers to the US's ability to compete with China in AI."
+        },
+        {
+          "zh": "言论发表于达拉斯彭博投资活动的节目录制中。",
+          "en": "The remarks were made during a taping at the Bloomberg Invest event in Dallas."
+        }
+      ],
+      "tags": [
+        "data centers",
+        "AI competition",
+        "US-China",
+        "real estate"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Molx0m7v5U0",
+      "title": "Bloomberg Invest Dallas, Premium Sports, Zombie Firms",
+      "title_zh": "彭博Deals周中节目：体育私募、私募股权退出与房地产基建",
+      "url": "https://www.youtube.com/watch?v=Molx0m7v5U0",
+      "published_at": "2026-10-27T20:07:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博Deals节目邀请KKR合伙人Ian Charles、高盛投行客户服务全球主管Aasem Khalil及Hines联席CEO Laura Hines-Pierce，讨论体育资产私募投资、私募股权僵尸基金与退出挑战、中端市场并购、AI与交易撮合，以及房地产与数据中心基建投资。节目还涉及Anthropic IPO前景、DoorDash与Instacart、JetBlue等话题。",
+      "summary_en": "This Bloomberg Deals program features KKR Partner Ian Charles, Goldman Sachs' Aasem Khalil, and Hines Co-CEO Laura Hines-Pierce discussing private equity investment in sports assets, the zombie fund problem and exit challenges, midmarket M&A, AI and dealmaking, and real estate and data center infrastructure investment. The program also touches on Anthropic's IPO outlook, DoorDash and Instacart, and JetBlue.",
+      "detail_zh": "节目由彭博Deals开场，首先讨论Anthropic的IPO前景。KKR合伙人兼KKR Solutions负责人Ian Charles与Arctos相关话题被引入，聚焦体育资产投资：包括体育私募股权领域的竞争、优质体育资产为何突出、Arctos的投资退出，以及体育估值与AI财富的关系。随后讨论Arctos与KKR的关系，并转向私募股权的僵尸基金问题、顶级私募股权机构的机会、什么造就伟大的私募股权公司，以及私募股权退出挑战。节目还涉及Anthropic IPO与增长、DoorDash和Instacart、市场与JetBlue。高盛全球投行客户服务主管Aasem Khalil讨论达拉斯、中端市场并购前景以及AI与交易撮合。Hines联席CEO Laura Hines-Pierce讨论房地产、基础设施投资以及Hines的数据中心策略。节目以彭博Deals收尾。",
+      "detail_en": "The program opens with Bloomberg Deals and an outlook on Anthropic's IPO. KKR Partner and Head of KKR Solutions Ian Charles is featured in a segment on sports investing, covering competition in sports private equity, why premium sports assets stand out, Arctos investment exits, and sports valuations and AI wealth. The discussion then turns to Arctos and KKR, private equity's zombie fund problem, opportunities for top private equity firms, what makes a great private equity firm, and private equity exit challenges. The program also covers Anthropic IPO and growth, DoorDash and Instacart, and markets and JetBlue. Goldman Sachs Global Head of Investment Banking Client Services Aasem Khalil discusses Dallas, the midmarket M&A outlook, and AI and dealmaking. Hines Co-CEO Laura Hines-Pierce discusses real estate, infrastructure investment, and Hines' data center strategy. The program wraps up with Bloomberg Deals.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "KKR的Ian Charles讨论体育资产私募投资，包括竞争格局、优质资产估值及Arctos的投资退出。",
+          "en": "KKR's Ian Charles discusses private equity investment in sports assets, including competition, premium asset valuations, and Arctos investment exits."
+        },
+        {
+          "zh": "节目探讨私募股权僵尸基金问题、顶级机构的机会、伟大私募股权公司的特质以及退出挑战。",
+          "en": "The program explores private equity's zombie fund problem, opportunities for top firms, what makes a great private equity firm, and exit challenges."
+        },
+        {
+          "zh": "高盛的Aasem Khalil分享中端市场并购前景以及AI与交易撮合的观点。",
+          "en": "Goldman Sachs' Aasem Khalil shares views on the midmarket M&A outlook and AI and dealmaking."
+        },
+        {
+          "zh": "Hines的Laura Hines-Pierce讨论房地产、基础设施投资及数据中心策略。",
+          "en": "Hines' Laura Hines-Pierce discusses real estate, infrastructure investment, and data center strategy."
+        },
+        {
+          "zh": "节目还涉及Anthropic IPO前景、DoorDash与Instacart、市场与JetBlue等话题。",
+          "en": "The program also touches on Anthropic's IPO outlook, DoorDash and Instacart, and markets and JetBlue."
+        }
+      ],
+      "tags": [
+        "private equity",
+        "sports investing",
+        "M&A",
+        "real estate",
+        "data centers"
+      ],
+      "tickers": [
+        "DASH",
+        "INST",
+        "JBLU"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "6ae101e25a3cc3c4c4f6273c",
       "title": "How much is Anthropic really worth?",
@@ -1318,6 +1743,71 @@
         "KO",
         "PYPL",
         "APO"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4957864",
+      "title": "Wall Street Breakfast Podcast: Dash-Cart In The Making?",
+      "title_zh": "DoorDash 拟以约170亿美元收购 Instacart；Anthropic IPO 文件提振 AI ETF 资金流入",
+      "url": "https://seekingalpha.com/article/4957864-wall-street-breakfast-podcast-dash-cart-in-the-making?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-27T11:28:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "DoorDash 正就收购 Instacart 进行深入谈判，交易估值约170亿美元，最快本周完成，被视为对亚马逊和沃尔玛杂货配送扩张的最有力回应。Anthropic 正式提交 IPO 文件，成为首家申请上市的前沿 AI 实验室，相关 ETF 已见资金流入增加。环球音乐在股价年内跌近30%后，与私募股权公司探讨私有化。",
+      "summary_en": "DoorDash is in advanced talks to acquire Instacart for about $17B, potentially closing this week, seen as the strongest response to Amazon and Walmart's grocery delivery expansion. Anthropic officially filed for an IPO, becoming the first frontier AI lab to do so, with related ETFs already seeing increased inflows. Universal Music explored going private with buyout firms after its shares fell nearly 30% this year.",
+      "detail_zh": "据《华尔街日报》报道，DoorDash（DASH）正就收购 Instacart（CART）进行谈判，交易金额约170亿美元，若谈判不破裂，最快本周完成。The Information 上周五报道 Instacart 正在寻求出售；彭博称 Instacart 曾试图卖给 Uber，但后者近期退出谈判。分析师普遍认为 CART/DASH 合并是最可能且对亚马逊（AMZN）和沃尔玛（WMT）杂货配送扩张最具威胁的组合。富国银行分析师 Ken Gawrelski 表示，对 CART 探索战略选项不感到意外，因市场未奖励其稳健的基本面执行，自2023年9月IPO以来 CART 跑输纳斯达克18个百分点。消息公布后 Instacart 股价涨近8%，盘前再涨2%；DoorDash 前一交易日跌6%，盘前微涨。Anthropic（ANT）成为首家正式提交 IPO 文件的前沿 AI 实验室，彭博情报 ETF 分析师 Eric Balchunas 称持有 Anthropic 敞口的 ETF 已见资金流入增加，并将其与 SpaceX（SPCX）类比，但指出目前有更多产品提供敞口。Anthropic 尚未确定发行 Class A 股数量及价格区间，高盛和摩根士丹利为牵头承销商。ETF 对 Anthropic 的敞口主要通过特殊目的载体（SPV）或互换实现，包括 iShares AI Innovation and Technology Active ETF（BAI）持有18.51万股、T. Rowe Price Capital Appreciation（TCAF）持有9.18万股、Alger Concentrated Equity ETF（CNEQ）持有6.56万股。环球音乐集团（UMGNF/UNVGY）据彭博报道已与包括 Apollo Global（APO）、TPG（TPG）和 Blackstone（BX）在内的私募股权公司进行初步私有化讨论，但讨论未取得进展，也未启动出售程序，董事会知晓相关对话；此前环球音乐拒绝了 Pershing Square 的合并提议。盘前股指期货涨跌互现，投资者等待经济数据和美联储为期两天的货币政策会议，国债收益率曲线同样涨跌互现。",
+      "detail_en": "DoorDash (DASH) is in talks to acquire Instacart (CART) for about $17B, according to The Wall Street Journal, with the deal potentially closing as soon as this week if talks don't fall apart. The Information reported Friday that Instacart was putting itself on the market; Bloomberg noted Instacart tried to sell itself to Uber, which recently walked away from talks. Analysts generally view a CART/DASH combination as the most likely and most formidable to the growing presence of Amazon (AMZN) and Walmart (WMT) in grocery delivery. Wells Fargo analyst Ken Gawrelski said he's \"not surprised CART could be exploring strategic options as markets have not rewarded what we view as solid fundamental execution, with CART underperforming Nasdaq by 18 points since its September 2023 IPO.\" Instacart shares rose nearly 8% on the news and added 2% premarket; DoorDash fell 6% in the previous session but was slightly up before the bell. Anthropic (ANT) became the first frontier AI lab to officially file for an IPO, and Bloomberg Intelligence ETF analyst Eric Balchunas said ETFs with Anthropic exposure are already seeing increased inflows as a group, likening the situation to SpaceX (SPCX) but noting more products now offer exposure. Anthropic has not yet determined the number of Class A shares to be offered or the price range; Goldman Sachs and Morgan Stanley are lead underwriters. Anthropic exposure in funds mostly comes through special purpose vehicles or swaps, including iShares AI Innovation and Technology Active ETF (BAI) with 185.1K shares, T. Rowe Price Capital Appreciation (TCAF) with 91.8K shares, and Alger Concentrated Equity ETF (CNEQ) with 65.6K shares. Universal Music Group (UMGNF/UNVGY) has discussed going private with buyout firms including Apollo Global (APO), TPG (TPG), and Blackstone (BX) earlier this year, according to Bloomberg; discussions haven't progressed and no sales process has started, though the board is aware. This follows Universal Music rejecting Pershing Square's merger proposal. Premarket stock index futures are mixed as investors await economic indicators and the Fed's two-day policy meeting, with Treasury yields also mixed.",
+      "conclusion_zh": "关注 DoorDash 收购 Instacart 的交易进展及其对杂货配送竞争格局的影响；Anthropic IPO 进程及通过 SPV/互换持有其敞口的 ETF 值得留意。",
+      "conclusion_en": "Watch the DoorDash-Instacart deal progress and its impact on grocery delivery competition; monitor Anthropic's IPO process and ETFs holding exposure via SPVs/swaps.",
+      "key_points": [
+        {
+          "zh": "DoorDash 拟以约170亿美元收购 Instacart，最快本周完成，被视为对抗亚马逊和沃尔玛杂货配送的最强组合。",
+          "en": "DoorDash is in advanced talks to acquire Instacart for about $17B, potentially closing this week, seen as the strongest combination against Amazon and Walmart in grocery delivery."
+        },
+        {
+          "zh": "Instacart 自2023年9月IPO以来跑输纳斯达克18个百分点，富国银行分析师称市场未奖励其稳健的基本面执行。",
+          "en": "Instacart has underperformed the Nasdaq by 18 points since its September 2023 IPO, with Wells Fargo noting the market has not rewarded its solid fundamental execution."
+        },
+        {
+          "zh": "Anthropic 成为首家正式提交 IPO 文件的前沿 AI 实验室，相关 ETF 已见资金流入增加，敞口主要通过 SPV 和互换实现。",
+          "en": "Anthropic became the first frontier AI lab to officially file for an IPO, with related ETFs seeing increased inflows; exposure is mostly through SPVs and swaps."
+        },
+        {
+          "zh": "环球音乐股价年内跌近30%，已与 Apollo、TPG、Blackstone 等私募探讨私有化，但讨论未取得进展。",
+          "en": "Universal Music, down nearly 30% this year, has discussed going private with Apollo, TPG, and Blackstone, though talks haven't progressed."
+        },
+        {
+          "zh": "盘前股指期货涨跌互现，市场等待经济数据和美联储为期两天的货币政策会议。",
+          "en": "Premarket index futures are mixed as investors await economic data and the Fed's two-day policy meeting."
+        }
+      ],
+      "tags": [
+        "M&A",
+        "grocery delivery",
+        "AI IPO",
+        "private equity",
+        "Fed"
+      ],
+      "tickers": [
+        "DASH",
+        "CART",
+        "AMZN",
+        "WMT",
+        "ANT",
+        "SPCX",
+        "BAI",
+        "TCAF",
+        "CNEQ",
+        "UMGNF",
+        "UNVGY",
+        "APO",
+        "TPG",
+        "BX"
       ],
       "sentiment": "neutral"
     },
@@ -11360,304 +11850,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:D6UqrQZxkmU",
-      "title": "Can Trump and Zelenskyy End Their Feud?",
-      "title_zh": "泽连斯基称奥斯陆会谈具建设性；霍尔木兹海峡袭击升级",
-      "url": "https://www.youtube.com/watch?v=D6UqrQZxkmU",
-      "published_at": "2026-10-20T21:14:36+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博的Tyler Kendall报道，乌克兰总统泽连斯基称美乌代表在奥斯陆的会谈“具有建设性”，但其与特朗普的关系日益紧张。同时，伊朗战争方面，霍尔木兹海峡的袭击升级，伊朗转而使用无人机，船只受损速度和程度正在加快。",
-      "summary_en": "Bloomberg's Tyler Kendall reported that Ukrainian President Zelenskyy described meetings between US and Ukrainian representatives in Oslo as 'constructive' amid his increasingly contentious relationship with President Trump. Meanwhile, strikes in the Strait of Hormuz have escalated, with Iran shifting to drones and the pace of attacks and damage to ships ramping up.",
-      "detail_zh": "彭博的Tyler Kendall表示，乌克兰总统泽连斯基将美乌代表在奥斯陆的会谈描述为“具有建设性”，而背景是他与美国总统特朗普的关系日益紧张。Kendall还讨论了伊朗战争的最新情况，称霍尔木兹海峡的袭击已经升级，随着伊朗转而使用无人机而非导弹，船只遭受攻击和损坏的速度正在加快。",
-      "detail_en": "Bloomberg's Tyler Kendall said that Ukraine President Zelenskyy described meetings between US and Ukrainian representatives in Oslo as 'constructive' against the backdrop of his increasingly contentious relationship with President Trump. Kendall also discussed the latest on the Iran war, saying that strikes in the Strait of Hormuz have escalated and the pace of attacks and damage that ships are sustaining is ramping up as Iran shifts to using drones instead of missiles.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "泽连斯基称美乌奥斯陆会谈“具有建设性”，但其与特朗普的关系日益紧张。",
-          "en": "Zelenskyy called US-Ukraine meetings in Oslo 'constructive' amid an increasingly contentious relationship with Trump."
-        },
-        {
-          "zh": "霍尔木兹海峡的袭击升级，伊朗转而使用无人机而非导弹。",
-          "en": "Strikes in the Strait of Hormuz have escalated as Iran shifts to using drones instead of missiles."
-        },
-        {
-          "zh": "船只遭受攻击和损坏的速度正在加快。",
-          "en": "The pace of attacks and damage sustained by ships is ramping up."
-        }
-      ],
-      "tags": [
-        "Ukraine",
-        "Iran",
-        "Strait of Hormuz",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:0YSAHSvaj2s",
-      "title": "Citadel Securities Weighs Building Out Its Fixed-Income Business",
-      "title_zh": "Citadel Securities 考虑扩张固定收益业务以填补空白",
-      "url": "https://www.youtube.com/watch?v=0YSAHSvaj2s",
-      "published_at": "2026-10-20T20:47:37+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Citadel Securities 总裁 Jim Esposito 表示，公司固定收益业务“才真正开始”，未来几年将考虑扩张和增长，以填补产品供应中的空白，但不急于求成。",
-      "summary_en": "Citadel Securities President Jim Esposito said the firm is \"only really getting started in fixed income\" and will consider expanding and growing in the business over the next couple of years to fill gaps in its offering, though it is not in a hurry.",
-      "detail_zh": "Citadel Securities 总裁 Jim Esposito 在周二接受彭博电视采访时表示，公司固定收益业务“才真正开始”。他指出，未来几年公司将考虑在固定收益领域进行扩张和增长，以填补其产品供应中的一些空白。Esposito 强调公司“不急于求成”，但承认在该业务领域存在缺口。此番言论表明 Citadel Securities 可能寻求在固定收益市场扩大份额，但具体扩张计划、时间表或投资规模未在原文中披露。",
-      "detail_en": "Citadel Securities President Jim Esposito said in a Bloomberg Television interview on Tuesday that the firm is \"only really getting started in fixed income.\" He noted that over the next couple of years, the company will consider expanding and growing in fixed income to fill some gaps in its offering. Esposito emphasized that the firm is \"not in a hurry,\" but acknowledged there are gaps in that business. The remarks suggest Citadel Securities may seek to expand its share in the fixed income market, but specific expansion plans, timelines, or investment sizes were not disclosed in the original text.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Citadel Securities 总裁 Jim Esposito 表示，公司固定收益业务“才真正开始”。",
-          "en": "Citadel Securities President Jim Esposito said the firm is \"only really getting started in fixed income.\""
-        },
-        {
-          "zh": "未来几年公司将考虑在固定收益领域扩张和增长，以填补产品供应中的空白。",
-          "en": "Over the next couple of years, the company will consider expanding and growing in fixed income to fill gaps in its offering."
-        },
-        {
-          "zh": "Esposito 强调公司“不急于求成”，但承认该业务存在缺口。",
-          "en": "Esposito emphasized the firm is \"not in a hurry,\" but acknowledged there are gaps in the business."
-        }
-      ],
-      "tags": [
-        "fixed income",
-        "market maker",
-        "business expansion"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:IQxO83oAcdM",
-      "title": "SpaceX Earnings Blow Past Wall Street Estimates",
-      "title_zh": "SpaceX上市后第二份财报超预期，首次实现季度盈利",
-      "url": "https://www.youtube.com/watch?v=IQxO83oAcdM",
-      "published_at": "2026-10-20T20:42:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "SpaceX作为上市公司发布的第二份财报大幅超出华尔街预期，首次实现季度盈利44亿美元（每股35美分），超过预期一倍以上，同时资本开支接近200亿美元。股东Ross Gerber认为SpaceX现在应该收购特斯拉。",
-      "summary_en": "SpaceX's second earnings report as a public company blew past Wall Street expectations, posting its first quarterly profit of $4.4 billion, or 35 cents a share, more than double estimates, while spending nearly $20 billion on capex. Shareholder Ross Gerber says SpaceX should just buy Tesla now.",
-      "detail_zh": "SpaceX在作为上市公司的第二份财报中大幅超越华尔街预期。公司首次实现季度盈利，利润为44亿美元，合每股35美分，超过预期一倍以上。与此同时，公司资本开支接近200亿美元。Gerber Kawasaki Wealth and Investment Management的Ross Gerber是SpaceX的股东，他表示SpaceX现在应该直接收购特斯拉。",
-      "detail_en": "SpaceX blew past all Wall Street expectations in its second earnings report as a public company. The company posted its first quarterly profit of $4.4 billion, or 35 cents a share, more than double estimates, while spending nearly $20 billion on capex. Ross Gerber of Gerber Kawasaki Wealth and Investment Management, a shareholder, says SpaceX should just buy Tesla now.",
-      "conclusion_zh": "SpaceX上市后首次季度盈利且大幅超预期，显示其盈利能力与高额资本开支并存；股东关于收购特斯拉的言论值得关注。",
-      "conclusion_en": "SpaceX's first quarterly profit as a public company, well above estimates, shows profitability alongside heavy capex; the shareholder's call for SpaceX to buy Tesla is worth noting.",
-      "key_points": [
-        {
-          "zh": "SpaceX首次实现季度盈利44亿美元，合每股35美分，超过预期一倍以上",
-          "en": "SpaceX posted its first quarterly profit of $4.4 billion, or 35 cents a share, more than double estimates"
-        },
-        {
-          "zh": "公司同期资本开支接近200亿美元",
-          "en": "The company spent nearly $20 billion on capex in the same period"
-        },
-        {
-          "zh": "这是SpaceX作为上市公司的第二份财报，业绩大幅超出华尔街预期",
-          "en": "This was SpaceX's second earnings report as a public company, blowing past all Wall Street expectations"
-        },
-        {
-          "zh": "股东Ross Gerber表示SpaceX现在应该收购特斯拉",
-          "en": "Shareholder Ross Gerber says SpaceX should just buy Tesla now"
-        }
-      ],
-      "tags": [
-        "SpaceX",
-        "earnings",
-        "Tesla",
-        "capex"
-      ],
-      "tickers": [
-        "TSLA"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:3MlgPZREVCw",
-      "title": "Nscale Anthropic in AI Computing Talks",
-      "title_zh": "Nscale洽谈向Anthropic出售算力，交易或达450亿美元",
-      "url": "https://www.youtube.com/watch?v=3MlgPZREVCw",
-      "published_at": "2026-10-20T20:32:29+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "AI云计算公司Nscale正与Anthropic洽谈出售算力，交易价值或约450亿美元。市场同时关注盘后科技财报，Netflix需爆款内容扭转1350亿美元市值蒸发，AI资本开支与回报成为焦点。",
-      "summary_en": "AI cloud computing firm Nscale is in talks to sell computing power to Anthropic in a deal potentially worth about $45 billion. Markets also await post-close tech earnings, with Netflix needing blockbuster hits to reverse a $135 billion wipeout, while AI capex and ROI remain in focus.",
-      "detail_zh": "据Bloomberg News科技记者Brody Ford报道，AI云计算公司Nscale正洽谈向Anthropic出售算力，交易价值或约450亿美元。Bloomberg News股票高级编辑Eric Weiner预览盘后科技财报，包括Netflix；美股记者Carmen Reinecke指出，这家媒体公司需要爆款内容来扭转1350亿美元的市值蒸发。节目还讨论了AI支出、收入与投资者预期，以及Salesforce交易与AI并购活动。市场在大型科技财报前上涨，投资者关注超大规模企业的AI资本开支与投资回报。此外，华盛顿记者Tyler Kendall分析了特朗普与乌克兰总统泽连斯基裂痕可能的地缘政治影响；节目还提及伊朗在霍尔木兹海峡升级攻击、Hegseth与内塔尼亚胡及以色列选举、特朗普中期选举最后冲刺，以及通用汽车、GE和孩之宝等个股走势。",
-      "detail_en": "Bloomberg News tech reporter Brody Ford reports that AI cloud computing firm Nscale is in talks to sell computing power to Anthropic in a deal potentially worth about $45 billion. Bloomberg News senior editor for equities Eric Weiner previews tech earnings expected after the close, including Netflix; US equities reporter Carmen Reinecke notes the media company needs blockbuster hits to reverse its $135 billion wipeout. The program also discusses AI spending, revenue and investor expectations, as well as the Salesforce deal and AI dealmaking. Stocks rose ahead of big tech earnings, with investors focused on hyperscaler AI capex and ROI. Additionally, Washington correspondent Tyler Kendall examines the possible geopolitical fallout of President Trump's rift with Ukrainian President Zelenskyy; the program also mentions Iran escalating attacks in the Strait of Hormuz, Hegseth, Netanyahu and Israel's election, Trump's final midterm push, and stock movers including GM, GE and Hasbro.",
-      "conclusion_zh": "AI算力交易与科技财报是短期美股关键催化剂，投资者需关注AI资本开支的回报验证及地缘政治风险。",
-      "conclusion_en": "AI compute deals and tech earnings are key near-term catalysts for US equities; investors should watch for ROI validation on AI capex and geopolitical risks.",
-      "key_points": [
-        {
-          "zh": "Nscale正洽谈向Anthropic出售算力，交易价值或约450亿美元。",
-          "en": "Nscale is in talks to sell computing power to Anthropic in a deal potentially worth about $45 billion."
-        },
-        {
-          "zh": "Netflix盘后发布财报，需爆款内容扭转1350亿美元市值蒸发。",
-          "en": "Netflix reports after the close and needs blockbuster hits to reverse a $135 billion wipeout."
-        },
-        {
-          "zh": "市场关注大型科技财报及超大规模企业的AI资本开支与回报。",
-          "en": "Markets await big tech earnings and hyperscaler AI capex and ROI."
-        },
-        {
-          "zh": "特朗普与泽连斯基裂痕引发地缘政治影响关注。",
-          "en": "Trump's rift with Zelenskyy raises geopolitical fallout concerns."
-        }
-      ],
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Netflix",
-        "earnings",
-        "geopolitics"
-      ],
-      "tickers": [
-        "NFLX",
-        "CRM",
-        "GM",
-        "GE",
-        "HAS"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:k07xFXXW1Cs",
-      "title": "The Takeaways From Netflix's Earnings Report and Forecast",
-      "title_zh": "奈飞三季度业绩超预期，但预警销售增速连续第四季放缓",
-      "url": "https://www.youtube.com/watch?v=k07xFXXW1Cs",
-      "published_at": "2026-10-20T20:28:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "奈飞第三季度盈利超出华尔街预期，但公司预测销售增速将连续第四个季度放缓。",
-      "summary_en": "Netflix reported third-quarter earnings that exceeded Wall Street expectations, but forecast a fourth consecutive quarter of slowing sales growth.",
-      "detail_zh": "奈飞公布的第三季度财报显示，其盈利表现超出华尔街预期。然而，公司同时预测，其销售增速将连续第四个季度放缓。该信息由Geetha Ranganathan在“Bloomberg The Close”节目中提供。",
-      "detail_en": "Netflix reported third-quarter earnings that exceeded Wall Street expectations. However, the company forecast a fourth consecutive quarter of slowing sales growth. The information was provided by Geetha Ranganathan on \"Bloomberg The Close.\"",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "奈飞三季度盈利超出华尔街预期。",
-          "en": "Netflix's Q3 earnings exceeded Wall Street expectations."
-        },
-        {
-          "zh": "公司预测销售增速将连续第四个季度放缓。",
-          "en": "The company forecast a fourth consecutive quarter of slowing sales growth."
-        }
-      ],
-      "tags": [
-        "Netflix",
-        "earnings",
-        "sales growth"
-      ],
-      "tickers": [
-        "NFLX"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:MwNZJ3T5hAI",
-      "title": "Business As Usual After Liquid Hack: Back",
-      "title_zh": "Blockstream旗下Liquid Network遭3.2亿美元黑客攻击，约4000枚比特币被盗后部分归还",
-      "url": "https://www.youtube.com/watch?v=MwNZJ3T5hAI",
-      "published_at": "2026-10-20T20:23:46+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Blockstream联合创始人兼CEO Adam Back在彭博加密节目中披露，其2018年推出的比特币关联区块链Liquid Network遭遇3.2亿美元黑客攻击，约4000枚比特币被盗。黑客自称是揭露网络漏洞的“白帽”，事后归还了部分比特币。",
-      "summary_en": "Adam Back, co-founder and CEO of Blockstream, disclosed on Bloomberg Crypto that the Liquid Network, a Bitcoin-linked blockchain launched by Blockstream in 2018, suffered a $320 million hack that drained about 4,000 Bitcoin. The hackers, who claimed to be white hats exposing security flaws, later returned some of the Bitcoin.",
-      "detail_zh": "Blockstream联合创始人兼CEO Adam Back做客彭博加密节目，谈及公司旗下比特币关联区块链Liquid Network的安全事件。该网络由Blockstream于2018年推出，此次遭遇规模达3.2亿美元的黑客攻击，约4000枚比特币被转移。攻击者自称是“白帽”，目的是揭露该网络的安全漏洞。事后，黑客归还了部分被盗比特币。原文未披露攻击的具体时间、归还比例及后续处置细节。",
-      "detail_en": "Adam Back, co-founder and CEO of Blockstream, appeared on Bloomberg Crypto to discuss a security incident involving the company's Bitcoin-linked blockchain, the Liquid Network. Launched by Blockstream in 2018, the network was hit by a $320 million hack that drained about 4,000 Bitcoin. The attackers claimed to be \"white hats\" exposing security flaws in the network. Some of the Bitcoin was later returned. The original text does not specify the timing of the attack, the proportion returned, or subsequent remediation details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Liquid Network遭遇3.2亿美元黑客攻击，约4000枚比特币被盗。",
-          "en": "The Liquid Network suffered a $320 million hack, with about 4,000 Bitcoin drained."
-        },
-        {
-          "zh": "黑客自称“白帽”，声称目的是揭露网络安全漏洞。",
-          "en": "The hackers claimed to be \"white hats\" aiming to expose security flaws in the network."
-        },
-        {
-          "zh": "事后黑客归还了部分被盗比特币。",
-          "en": "The hackers later returned some of the stolen Bitcoin."
-        },
-        {
-          "zh": "Liquid Network是Blockstream于2018年推出的比特币关联区块链。",
-          "en": "The Liquid Network is a Bitcoin-linked blockchain started by Blockstream in 2018."
-        }
-      ],
-      "tags": [
-        "bitcoin",
-        "blockchain",
-        "hack",
-        "Liquid Network",
-        "Blockstream"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6OnuO6Y5OQY",
-      "title": "Anthropic S1 Shows $80 Billion Loss This Year, WSJ Reports",
-      "title_zh": "Anthropic据报拟投入7500亿美元算力支出，上半年亏损807亿美元",
-      "url": "https://www.youtube.com/watch?v=6OnuO6Y5OQY",
-      "published_at": "2026-10-20T20:18:14+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "据《华尔街日报》报道，Anthropic PBC未来数年可能额外投入7500亿美元用于算力，且今年上半年亏损807亿美元。该媒体称已获得公司筹备上市过程中的S1文件副本。",
-      "summary_en": "Anthropic PBC could spend $750 billion on additional computing power in the coming years and lost $80.7 billion in the first half of this year, according to the Wall Street Journal, which says it obtained a copy of the company's S1 filing as it prepares to go public.",
-      "detail_zh": "据《华尔街日报》报道，Anthropic PBC未来数年可能在额外算力上投入7500亿美元。同一报道称，该公司今年上半年亏损807亿美元。该媒体表示，其获得了公司S1文件的副本，公司正筹备上市。上述信息由Bloomberg Television的Romaine Bostick和Jess Menton转述。原文未披露更多财务细节、上市时间表或亏损构成。",
-      "detail_en": "According to the Wall Street Journal, Anthropic PBC could spend $750 billion on additional computing power in the coming years. The same report says the company lost $80.7 billion in the first half of this year. The outlet says it obtained a copy of the company's S1 filing as it prepares to go public. The information was relayed by Romaine Bostick and Jess Menton on Bloomberg Television. The original text does not disclose further financial details, a listing timetable, or the composition of the loss.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "据《华尔街日报》报道，Anthropic未来数年可能额外投入7500亿美元用于算力。",
-          "en": "According to the Wall Street Journal, Anthropic could spend $750 billion on additional computing power in the coming years."
-        },
-        {
-          "zh": "报道称该公司今年上半年亏损807亿美元。",
-          "en": "The report says the company lost $80.7 billion in the first half of this year."
-        },
-        {
-          "zh": "《华尔街日报》称已获得公司筹备上市过程中的S1文件副本。",
-          "en": "The Wall Street Journal says it obtained a copy of the company's S1 filing as it prepares to go public."
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "AI capex",
-        "S1 filing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
