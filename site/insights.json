@@ -1,6 +1,327 @@
 {
-  "generated_at": "2026-10-27T21:15:14.407354+00:00",
+  "generated_at": "2026-10-27T22:15:31.628174+00:00",
   "insights": [
+    {
+      "guid": "yt:WQSMt_9R9Wg",
+      "title": "Tech Rally, Fed Decision & Big Tech Earnings Ahead",
+      "title_zh": "彭博《收盘》节目预告：科技股反弹、美联储决议与UPS财报",
+      "url": "https://www.youtube.com/watch?v=WQSMt_9R9Wg",
+      "published_at": "2026-10-27T22:00:56+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博《收盘》节目将讨论科技股反弹、美联储利率决议及大型科技股财报，嘉宾包括摩根士丹利、道富、高盛等机构人士，以及UPS CEO。节目还涉及黄金展望、UPS转型、AI融资与市场风险、美联储政策及国债收益率等议题。",
+      "summary_en": "This episode of Bloomberg's The Close will discuss the tech rally, the Fed's rate decision, and Big Tech earnings, featuring guests from Morgan Stanley, State Street, Goldman Sachs, and UPS CEO. Topics also include gold outlook, UPS turnaround, AI financing and market risk, Fed policy, and Treasury yields.",
+      "detail_zh": "节目章节显示，讨论将围绕科技股反弹、美联储决议和大型科技股财报展开。摩根士丹利私人财富管理执行董事Katerina Simonetti将谈论AI、市场轮动和投资组合策略。道富投资管理黄金策略全球主管Aakash Doshi将分享黄金展望、更高利率与美联储。UPS CEO Carol Tomé将讨论公司转型、定价能力、货运复苏、医疗物流、GLP-1药物与增长、继任计划、自动化与生产力、工会谈判以及假日需求和K型消费者。高盛资产管理多资产解决方案全球主管Alexandra Wilson-Elizondo将讨论AI融资与市场风险。此外，节目还将关注Western Digital、JetBlue、Boeing等市场动向，以及Robinhood、Visa、Seagate的财报。微软、Azure和AI投资回报也将被讨论。前美联储理事Randy Kroszner和RBC资本市场美国利率策略主管Blake Gwinn将预览美联储决议、通胀风险、劳动力市场风险和利率展望。",
+      "detail_en": "The chapter list indicates discussions will center on the tech rally, the Fed decision, and Big Tech earnings. Morgan Stanley Private Wealth Management Executive Director Katerina Simonetti will discuss AI, market rotation, and portfolio strategy. State Street Investment Management Global Head of Gold Strategy Aakash Doshi will share gold outlook, higher rates, and the Fed. UPS CEO Carol Tomé will discuss the company's turnaround, pricing power, freight recovery, health-care logistics, GLP-1s and growth, succession, automation and productivity, Teamsters negotiations, holiday demand, and the K-shaped consumer. Goldman Sachs Asset Management Global Head of Multi-Asset Solutions Alexandra Wilson-Elizondo will discuss AI financing and market risk. Market movers Western Digital, JetBlue, and Boeing will be covered, along with earnings from Robinhood, Visa, and Seagate. Microsoft, Azure, and return on AI investment will also be discussed. Former Fed Governor Randy Kroszner and RBC Capital Markets Head of US Rates Strategy Blake Gwinn will preview the Fed decision, inflation risks, labor market risks, and the rate outlook.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "摩根士丹利私人财富管理执行董事Katerina Simonetti将讨论AI、市场轮动与投资组合策略。",
+          "en": "Morgan Stanley Private Wealth Management Executive Director Katerina Simonetti will discuss AI, market rotation, and portfolio strategy."
+        },
+        {
+          "zh": "道富投资管理黄金策略全球主管Aakash Doshi将分享黄金展望、更高利率与美联储。",
+          "en": "State Street Investment Management Global Head of Gold Strategy Aakash Doshi will share gold outlook, higher rates, and the Fed."
+        },
+        {
+          "zh": "UPS CEO Carol Tomé将讨论公司转型、定价能力、货运复苏、医疗物流、GLP-1药物与增长、继任计划、自动化与生产力、工会谈判以及假日需求和K型消费者。",
+          "en": "UPS CEO Carol Tomé will discuss the company's turnaround, pricing power, freight recovery, health-care logistics, GLP-1s and growth, succession, automation and productivity, Teamsters negotiations, holiday demand, and the K-shaped consumer."
+        },
+        {
+          "zh": "高盛资产管理多资产解决方案全球主管Alexandra Wilson-Elizondo将讨论AI融资与市场风险。",
+          "en": "Goldman Sachs Asset Management Global Head of Multi-Asset Solutions Alexandra Wilson-Elizondo will discuss AI financing and market risk."
+        },
+        {
+          "zh": "前美联储理事Randy Kroszner和RBC资本市场美国利率策略主管Blake Gwinn将预览美联储决议、通胀风险、劳动力市场风险和利率展望。",
+          "en": "Former Fed Governor Randy Kroszner and RBC Capital Markets Head of US Rates Strategy Blake Gwinn will preview the Fed decision, inflation risks, labor market risks, and the rate outlook."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "Tech Rally",
+        "UPS",
+        "AI",
+        "Gold"
+      ],
+      "tickers": [
+        "UPS",
+        "WDC",
+        "JBLU",
+        "BA",
+        "HOOD",
+        "V",
+        "STX",
+        "MSFT"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:g8B6k7Xji6A",
+      "title": "Mavericks CEO: We underestimated Luka’s value",
+      "title_zh": "独行侠CEO承认低估东契奇对球迷的价值",
+      "url": "https://www.youtube.com/watch?v=g8B6k7Xji6A",
+      "published_at": "2026-10-27T21:50:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "达拉斯独行侠CEO Rick Welts 表示，交易卢卡·东契奇是他任内最具挑战性的时刻，球队低估了这位球星对球迷群体的价值，此后不得不努力重建球迷信任。",
+      "summary_en": "Dallas Mavericks CEO Rick Welts said trading Luka Doncic was the most challenging moment of his tenure, acknowledging the team underestimated how valuable the star was to its fan base and has since had to work to rebuild trust with fans.",
+      "detail_zh": "达拉斯独行侠CEO Rick Welts 表示，交易卢卡·东契奇是他任内最具挑战性的时刻。他承认，球队低估了这位球星对球迷群体的价值。Welts 指出，在这笔重磅交易之后，独行侠不得不努力重建与球迷之间的信任。",
+      "detail_en": "Dallas Mavericks CEO Rick Welts said trading Luka Doncic was the most challenging moment of his tenure. He acknowledged that the team underestimated how valuable the star was to its fan base. Welts noted that following the blockbuster trade, the Mavericks have had to work to rebuild trust with fans.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "交易东契奇是Welts任内最具挑战性的时刻",
+          "en": "Trading Doncic was the most challenging moment of Welts' tenure"
+        },
+        {
+          "zh": "球队低估了东契奇对球迷群体的价值",
+          "en": "The team underestimated Doncic's value to its fan base"
+        },
+        {
+          "zh": "交易后球队需努力重建球迷信任",
+          "en": "The team has had to work to rebuild fan trust after the trade"
+        }
+      ],
+      "tags": [
+        "NBA",
+        "Dallas Mavericks",
+        "Luka Doncic",
+        "fan trust"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:pSTgCymOU5Y",
+      "title": "Traders Brace for Fed Day",
+      "title_zh": "美联储议息会议与以色列大选：市场关注科技股反弹及经济不确定性",
+      "url": "https://www.youtube.com/watch?v=pSTgCymOU5Y",
+      "published_at": "2026-10-27T21:36:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储在9月加息后开启为期两天的议息会议，彭博记者称当前经济为“最令人困惑的经济”。同时，以色列举行自10月7日袭击以来的首次全国大选，市场还关注科技股反弹、大型财报以及另类房地产投资受通胀影响等话题。",
+      "summary_en": "The Federal Reserve began a two-day meeting after raising rates in September, with Bloomberg reporter calling it the 'most confusing economy yet.' Meanwhile, Israel holds its first national election since the October 7 attack, and markets focus on a tech rally, big earnings, and inflation's impact on alternative real estate investing.",
+      "detail_zh": "美联储在9月会议加息后，于周二开始为期两天的议息会议。彭博新闻美联储与经济记者Enda Curran表示，此次会议召开之际，经济形势是“最令人困惑的”。以色列选民前往投票站，这是自10月7日袭击以来的首次全国大选，彭博以色列分社社长Ethan Bronner分析了其中的利害关系。Harrison Street Asset Management首席执行官Chris Merrill讨论了通胀对另类房地产投资的影响。此外，奥运马拉松冠军、耐克长期合作伙伴Eliud Kipchoge谈论了他的跑步“世界巡回赛”以及他如何与耐克合作数十年，推动赛车装备的演进并推动这项运动的发展。节目还涵盖了科技股反弹、大型财报、波音、希尔顿和UPS等股票走势，以及公司保持更长时间私有化等话题。",
+      "detail_en": "The Federal Reserve started a two-day meeting on Tuesday after raising interest rates at its previous meeting in September. Bloomberg News Fed and economy reporter Enda Curran said the meeting comes amid the 'most confusing economy yet.' Israeli voters went to the polls for the first national election since the October 7 attack, and Bloomberg's Israel bureau chief Ethan Bronner broke down what's at stake. Chris Merrill, CEO of Harrison Street Asset Management, discussed inflation's impact on alternative real estate investing. Plus, Olympic marathon champion and longtime Nike partner Eliud Kipchoge talked about his running 'World Tour' and how he has worked with Nike over decades to evolve racing gear and push the sport forward. The program also covered a tech rally, big earnings ahead, stock movers including Boeing, Hilton and UPS, and why companies are staying private longer.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联储在9月加息后开启为期两天的议息会议，彭博记者称当前经济为“最令人困惑的经济”。",
+          "en": "The Fed began a two-day meeting after raising rates in September, with Bloomberg reporter calling it the 'most confusing economy yet.'"
+        },
+        {
+          "zh": "以色列举行自10月7日袭击以来的首次全国大选，彭博分析其利害关系。",
+          "en": "Israel holds its first national election since the October 7 attack, with Bloomberg analyzing what's at stake."
+        },
+        {
+          "zh": "Harrison Street CEO讨论通胀对另类房地产投资的影响。",
+          "en": "Harrison Street CEO discusses inflation's impact on alternative real estate investing."
+        },
+        {
+          "zh": "节目关注科技股反弹、大型财报及波音、希尔顿、UPS等股票走势。",
+          "en": "The program focuses on a tech rally, big earnings, and stock movers including Boeing, Hilton and UPS."
+        },
+        {
+          "zh": "奥运马拉松冠军Eliud Kipchoge谈论与耐克合作推动跑步装备演进。",
+          "en": "Olympic marathon champion Eliud Kipchoge discusses working with Nike to evolve running gear."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "Israel Election",
+        "Tech Rally",
+        "Real Estate",
+        "Nike"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:le6z5D756gQ",
+      "title": "AI’s Game-Changing IPO",
+      "title_zh": "Anthropic提交IPO申请，首次公开财务数据",
+      "url": "https://www.youtube.com/watch?v=le6z5D756gQ",
+      "published_at": "2026-10-27T21:22:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic已向美国证券交易委员会提交IPO申请，首次向公众披露其财务数据，包括收入与潜在亏损情况。在AI交易经历艰难一周后，该公司向潜在IPO投资者公开账目，华尔街整体反应积极，认为其增长健康。",
+      "summary_en": "Anthropic has filed for an IPO with the US Securities and Exchange Commission, disclosing its financials to the public for the first time, including revenue and potential losses. After a punishing week for the AI trade, the company opened its books to prospective IPO investors, and Wall Street generally liked what it saw, citing signs of healthy growth.",
+      "detail_zh": "Anthropic已向美国证券交易委员会（SEC）提交IPO申请，这是该公司首次向公众披露其财务数据，外界得以了解其收入规模以及潜在的亏损情况。彭博报道指出，Anthropic在人工智能交易经历艰难一周后，选择向潜在IPO投资者公开账目，这本身构成一项挑战。华尔街在仔细审视后，整体对所见情况表示认可，并认为其中显示出健康增长的迹象。彭博相关报道标题为“Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth”，即此次IPO filing缓解了市场紧张情绪。原文未披露具体收入、亏损金额或估值等数字。",
+      "detail_en": "Anthropic has filed for an IPO with the US Securities and Exchange Commission, marking the first time the public can see the AI company's financials, including how much money it is making and what it is potentially losing. According to Bloomberg, Anthropic set itself a challenge by opening its books to prospective IPO investors right after a punishing week for the artificial intelligence trade. When Wall Street took a close look, it generally liked what it saw. The Bloomberg report is titled 'Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth,' indicating the filing helped calm market nerves. The source does not disclose specific revenue, loss figures, or valuation.",
+      "conclusion_zh": "Anthropic的IPO filing首次公开其财务面貌，在AI交易承压背景下获得华尔街整体认可，后续需关注其正式上市定价与市场对AI板块的情绪修复。",
+      "conclusion_en": "Anthropic's IPO filing provides the first public look at its financials and was generally well received by Wall Street amid pressure on the AI trade; attention now turns to the eventual IPO pricing and any recovery in sentiment toward the AI sector.",
+      "key_points": [
+        {
+          "zh": "Anthropic已向SEC提交IPO申请，首次公开财务数据。",
+          "en": "Anthropic has filed for an IPO with the SEC, disclosing its financials for the first time."
+        },
+        {
+          "zh": "公开信息涵盖公司收入及潜在亏损情况。",
+          "en": "The disclosure covers the company's revenue and potential losses."
+        },
+        {
+          "zh": "此次IPO filing发生在AI交易经历艰难一周之后。",
+          "en": "The IPO filing comes right after a punishing week for the AI trade."
+        },
+        {
+          "zh": "华尔街整体对Anthropic的财务表现反应积极，认为有健康增长迹象。",
+          "en": "Wall Street generally liked what it saw, citing signs of healthy growth."
+        },
+        {
+          "zh": "彭博报道称此次IPO filing缓解了市场紧张情绪。",
+          "en": "Bloomberg reports that the IPO filing calms nerves."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "SEC filing",
+        "tech"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:tGcWcP9LGN8",
+      "title": "OPEC Forecasts Oil Demand Rebound in 2027 | Presented by CME Group",
+      "title_zh": "OPEC下调2026年石油需求增长预测至20万桶/日，但预计2027年反弹至260万桶/日",
+      "url": "https://www.youtube.com/watch?v=tGcWcP9LGN8",
+      "published_at": "2026-10-27T21:12:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "OPEC将2026年石油需求增长预测下调至仅20万桶/日，但预计2027年将大幅反弹至260万桶/日。该展望受到被推迟的需求、库存重建以及亚洲经济活动增强的驱动。",
+      "summary_en": "OPEC has cut its 2026 oil demand growth forecast to just 200,000 barrels per day, but expects a sharp rebound to 2.6 million barrels per day in 2027. The outlook is driven by deferred demand, inventory rebuilding, and stronger activity across Asia.",
+      "detail_zh": "OPEC将其2026年石油需求增长预测下调至仅20万桶/日。与此同时，OPEC预计2027年石油需求增长将大幅反弹至260万桶/日。这一乐观展望的驱动因素包括：被推迟的需求、库存重建以及亚洲地区更强劲的经济活动。OPEC认为，这些因素可能使明年成为全球石油消费的重要转折点。",
+      "detail_en": "OPEC has cut its 2026 oil demand growth forecast to just 200,000 barrels per day. At the same time, OPEC expects a sharp rebound in oil demand growth to 2.6 million barrels per day in 2027. The optimistic outlook is driven by deferred demand, inventory rebuilding, and stronger economic activity across Asia. OPEC suggests these factors could make next year a major turning point for global oil consumption.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "OPEC将2026年石油需求增长预测下调至20万桶/日。",
+          "en": "OPEC cut its 2026 oil demand growth forecast to 200,000 barrels per day."
+        },
+        {
+          "zh": "OPEC预计2027年石油需求增长将反弹至260万桶/日。",
+          "en": "OPEC expects oil demand growth to rebound to 2.6 million barrels per day in 2027."
+        },
+        {
+          "zh": "反弹的驱动因素包括被推迟的需求、库存重建和亚洲更强劲的活动。",
+          "en": "The rebound is driven by deferred demand, inventory rebuilding, and stronger activity across Asia."
+        }
+      ],
+      "tags": [
+        "OPEC",
+        "oil demand",
+        "forecast",
+        "Asia"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:djR1WkRjlzE",
+      "title": "Hot Inflation Puts the Fed in a Tight Policy Box | Presented by CME Group",
+      "title_zh": "美国9月通胀超预期且范围扩大，美联储政策前景复杂化",
+      "url": "https://www.youtube.com/watch?v=djR1WkRjlzE",
+      "published_at": "2026-10-27T21:00:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "9月通胀高于预期，且涨价范围超出能源领域，令美联储在近期加息后的政策路径更加复杂。官员维持鹰派基调，通胀预计未来数年仍高于目标，市场关注年底前是否还有一次加息。",
+      "summary_en": "September inflation came in hotter than expected and broadened beyond energy, complicating the Fed's policy outlook after its recent rate hike. Officials remain hawkish and inflation is projected to stay above target for years, keeping the possibility of another hike before year-end in focus.",
+      "detail_zh": "9月通胀数据高于预期，并且涨价压力不再局限于能源，呈现更广泛的价格上涨。这一数据使美联储在最近一次加息之后的政策前景变得复杂。美联储官员维持鹰派基调。通胀预计在未来数年仍将高于目标水平。在此背景下，市场关注年底前是否还会再次加息。",
+      "detail_en": "September inflation came in hotter than expected and broadened beyond energy, indicating wider price pressures. The data complicated the Fed's policy outlook following its recent rate hike. Fed officials have maintained a hawkish tone. Inflation is projected to remain above target for years. Against this backdrop, the question is whether another rate hike could come before year-end.",
+      "conclusion_zh": "通胀超预期且范围扩大，叠加美联储鹰派立场，年底前仍存加息可能，需关注政策路径对美股的影响。",
+      "conclusion_en": "Hotter and broader inflation, combined with a hawkish Fed, keeps a year-end hike in play and warrants attention to policy path implications for US equities.",
+      "key_points": [
+        {
+          "zh": "9月通胀高于预期，且涨价范围超出能源领域。",
+          "en": "September inflation was hotter than expected and broadened beyond energy."
+        },
+        {
+          "zh": "该数据令美联储在近期加息后的政策前景复杂化。",
+          "en": "The data complicated the Fed's policy outlook after its recent rate hike."
+        },
+        {
+          "zh": "美联储官员维持鹰派基调。",
+          "en": "Fed officials maintained a hawkish tone."
+        },
+        {
+          "zh": "通胀预计未来数年仍高于目标，年底前是否再加息成为焦点。",
+          "en": "Inflation is projected to stay above target for years, with focus on a possible hike before year-end."
+        }
+      ],
+      "tags": [
+        "inflation",
+        "Fed",
+        "rate hike",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Sfc0ly3ob7E",
+      "title": "Can the S&P 500 Outgrow the Megacaps? | Presented by CME Group",
+      "title_zh": "巨型科技股主导标普500涨幅，等权重指数显示市场参与度狭窄",
+      "url": "https://www.youtube.com/watch?v=Sfc0ly3ob7E",
+      "published_at": "2026-10-27T20:59:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文指出，巨型科技股和AI股票继续推动市值加权的标普500指数的大部分涨幅，而等权重指数则显示市场参与度要窄得多。随着第四季度开始，市场关注广度改善能否预示年底前更健康的上涨。",
+      "summary_en": "Megacap tech and AI stocks continue to drive most of the gains in the cap-weighted S&P 500, while the equal-weight index indicates much narrower market participation. As Q4 begins, the question is whether improving breadth could signal a healthier rally into year-end.",
+      "detail_zh": "原文指出，巨型科技股和AI股票继续推动市值加权的标普500指数的大部分涨幅。与此同时，等权重指数显示市场参与度要窄得多。随着第四季度开始，市场正在关注广度改善是否可能预示年底前更健康的上涨。原文未提供具体涨幅数字、个股名称或进一步因果分析。",
+      "detail_en": "The original text states that megacap tech and AI stocks continue to drive most of the gains in the cap-weighted S&P 500. Meanwhile, the equal-weight index points to much narrower market participation. As Q4 begins, the text raises the question of whether improving breadth could signal a healthier rally into year-end. No specific gain figures, individual stock names, or further causal analysis are provided.",
+      "conclusion_zh": "市场上涨高度集中于巨型科技股和AI股票，等权重指数显示参与度狭窄；第四季度需关注市场广度能否改善，以判断上涨是否更健康。",
+      "conclusion_en": "Market gains are highly concentrated in megacap tech and AI stocks, with the equal-weight index indicating narrow participation; in Q4, watch whether breadth improves to gauge a healthier rally.",
+      "key_points": [
+        {
+          "zh": "巨型科技股和AI股票继续主导市值加权标普500的涨幅。",
+          "en": "Megacap tech and AI stocks continue to dominate gains in the cap-weighted S&P 500."
+        },
+        {
+          "zh": "等权重指数显示市场参与度远窄于市值加权指数。",
+          "en": "The equal-weight index shows much narrower market participation than the cap-weighted index."
+        },
+        {
+          "zh": "随着第四季度开始，市场关注广度改善能否预示年底前更健康的上涨。",
+          "en": "As Q4 begins, the focus is on whether improving breadth could signal a healthier rally into year-end."
+        }
+      ],
+      "tags": [
+        "market breadth",
+        "megacap tech",
+        "AI stocks",
+        "S&P 500",
+        "equal-weight index"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:gWBdCy1h7v8",
       "title": "GM to Leave NYSE for Stock Listing on Tech-Focused Nasdaq",
@@ -11644,212 +11965,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:xZL4nUZJFis",
-      "title": "GM Slides as CEO Barra Warns of ‘Intensifying’ Challenges",
-      "title_zh": "通用汽车下调2026年利润指引，股价下跌",
-      "url": "https://www.youtube.com/watch?v=xZL4nUZJFis",
-      "published_at": "2026-10-20T21:49:32+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "通用汽车股价下跌，尽管公司计划再回购200亿美元股票，但股东更关注其收窄的利润展望。公司将2026年调整后息税前利润指引从7月预测的140亿至160亿美元下调至145亿至155亿美元。",
-      "summary_en": "General Motors shares fell as shareholders focused on a narrower profit outlook despite plans for another $20 billion in stock repurchases. The company now sees 2026 adjusted EBIT in a range of $14.5 billion to $15.5 billion, compared with the $14 billion to $16 billion range projected in July.",
-      "detail_zh": "通用汽车（GM）股价出现下跌。尽管公司宣布了额外200亿美元的股票回购计划，但投资者的关注点集中在公司收窄的利润前景上。公司目前预计2026年调整后息税前利润（EBIT）将在145亿至155亿美元之间，而此前在7月份给出的预测区间为140亿至160亿美元。这一指引区间的收窄被市场解读为负面信号，导致股价承压。彭博社的Craig Trudell参与了相关讨论。",
-      "detail_en": "General Motors (GM) shares declined. Although the company announced an additional $20 billion stock repurchase plan, investors focused on the company's narrowed profit outlook. The company now expects 2026 adjusted earnings before interest and taxes (EBIT) to be in the range of $14.5 billion to $15.5 billion, compared with the previously projected range of $14 billion to $16 billion in July. The narrowing of this guidance range was interpreted by the market as a negative signal, putting pressure on the stock. Bloomberg's Craig Trudell joined the discussion.",
-      "conclusion_zh": "尽管通用汽车通过大规模回购传递信心，但利润指引收窄引发市场担忧，投资者更关注其盈利前景的确定性。",
-      "conclusion_en": "Although GM signaled confidence with a large buyback, the narrowed profit guidance raised market concerns, with investors focusing more on the certainty of its earnings outlook.",
-      "key_points": [
-        {
-          "zh": "通用汽车股价下跌，尽管公司计划再回购200亿美元股票。",
-          "en": "General Motors shares fell despite plans for another $20 billion in stock repurchases."
-        },
-        {
-          "zh": "公司将2026年调整后息税前利润指引收窄至145亿至155亿美元。",
-          "en": "The company narrowed its 2026 adjusted EBIT guidance to $14.5 billion to $15.5 billion."
-        },
-        {
-          "zh": "此前7月份的预测区间为140亿至160亿美元。",
-          "en": "The previous projection in July was a range of $14 billion to $16 billion."
-        },
-        {
-          "zh": "股东关注点集中在收窄的利润前景上。",
-          "en": "Shareholders focused on the narrower profit outlook."
-        }
-      ],
-      "tags": [
-        "GM",
-        "earnings guidance",
-        "stock buyback",
-        "auto sector"
-      ],
-      "tickers": [
-        "GM"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:ubSzSCDBgGg",
-      "title": "Wall Street's AI Debt Fears Deepen",
-      "title_zh": "CoreWeave盘前跌超3%，AI债务担忧升温",
-      "url": "https://www.youtube.com/watch?v=ubSzSCDBgGg",
-      "published_at": "2026-10-20T21:48:47+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "CoreWeave股价盘前下跌逾3%，投资者对其借贷成本上升和沉重债务的担忧持续施压。花旗美国软件股票研究联席主管Tyler Radke讨论了AI热潮及市场风险，背景是AI债务担忧加剧。",
-      "summary_en": "CoreWeave stock fell more than 3% in premarket trading as concerns over rising borrowing costs and heavy debt weighed on sentiment. Citi's Tyler Radke discussed the AI boom and market risks amid growing AI debt concerns.",
-      "detail_zh": "CoreWeave股价在周二盘前交易中下跌超过3%。市场担忧集中在两方面：该AI云提供商的借贷成本上升，以及其沉重的债务负担，这些因素持续压制投资者情绪。花旗美国软件股票研究联席主管Tyler Radke就AI热潮及市场风险发表了看法，讨论背景正是不断加剧的AI债务担忧。原文未提供Radke的具体观点细节，也未给出债务规模、利率水平或股价变动的更多背景。",
-      "detail_en": "CoreWeave stock fell more than 3% in premarket trading on Tuesday. Concerns centered on the AI cloud provider's rising borrowing costs and heavy debt, which continued to weigh on investor sentiment. Tyler Radke, Co-Head US Software Equity Research at Citi, discussed the AI boom and risks to the market as AI debt concerns grow. The source did not provide further details on Radke's specific views, debt levels, interest rates, or additional context on the stock move.",
-      "conclusion_zh": "AI云厂商的债务与融资成本正成为市场关注的风险点，需警惕AI资本开支热潮背后的杠杆压力。",
-      "conclusion_en": "Debt and financing costs at AI cloud providers are emerging as a market risk, highlighting leverage concerns behind the AI capex boom.",
-      "key_points": [
-        {
-          "zh": "CoreWeave盘前下跌超3%，借贷成本上升与沉重债务是主要压力。",
-          "en": "CoreWeave fell more than 3% premarket, pressured by rising borrowing costs and heavy debt."
-        },
-        {
-          "zh": "AI债务担忧持续影响投资者情绪。",
-          "en": "AI debt concerns continued to weigh on investor sentiment."
-        },
-        {
-          "zh": "花旗Tyler Radke讨论了AI热潮及市场风险。",
-          "en": "Citi's Tyler Radke discussed the AI boom and risks to the market."
-        }
-      ],
-      "tags": [
-        "CoreWeave",
-        "AI debt",
-        "borrowing costs",
-        "AI cloud"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:4WE0jaDsEns",
-      "title": "AI Neoclouds Lose Their Shine, Stalling IPOs and Sinking Stocks",
-      "title_zh": "新云（neocloud）板块情绪转向，韩国AI算力供应商Elice上市首日暴跌32%",
-      "url": "https://www.youtube.com/watch?v=4WE0jaDsEns",
-      "published_at": "2026-10-20T21:48:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博情报指出，投资者对neocloud（为AI系统提供数据中心算力的新兴业务板块）的信心正在减弱。最新证据是韩国AI算力供应商Elice在首尔上市首日大跌32%。",
-      "summary_en": "Bloomberg Intelligence notes that investor faith in neoclouds—an emerging segment supplying data center computing for AI—is waning. The latest evidence: South Korean AI computing supplier Elice tumbled 32% in its Seoul debut.",
-      "detail_zh": "彭博情报（Bloomberg Intelligence）的Mandeep Singh在彭博电视上分析称，neocloud这一过去几年兴起的业务板块正面临情绪转向。该板块的作用是为人工智能系统提供所需的大量数据中心算力。投资者信心减弱的直接证据是：韩国AI算力供应商Elice在本周之前鲜为本土市场以外所知，其周二在首尔上市首日股价暴跌32%。原文未提供更多财务数据或具体原因分析。",
-      "detail_en": "Bloomberg Intelligence's Mandeep Singh, speaking on Bloomberg Television, said the tide is turning on neoclouds, a segment that emerged over the past few years to supply the vast data center computing needed to power AI systems. The latest evidence of waning investor faith: Elice Inc., a South Korean AI computing supplier scarcely known outside its home market until this week, tanked 32% in its Seoul debut on Tuesday. The source provides no further financial details or specific causal analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "彭博情报认为投资者对neocloud板块的信心正在减弱",
-          "en": "Bloomberg Intelligence sees investor faith in neoclouds waning"
-        },
-        {
-          "zh": "neocloud是过去几年兴起的业务，为AI系统提供大量数据中心算力",
-          "en": "Neoclouds emerged in recent years to supply vast data center computing for AI"
-        },
-        {
-          "zh": "韩国AI算力供应商Elice在首尔上市首日暴跌32%",
-          "en": "South Korean AI computing supplier Elice tumbled 32% in its Seoul debut"
-        }
-      ],
-      "tags": [
-        "neoclouds",
-        "AI computing",
-        "IPO",
-        "sentiment"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:m2cJzy-gqmY",
-      "title": "Midterm Politics Played Into Clarity Failure: Rettig",
-      "title_zh": "Jito Labs高管谈加密在2026中期选举中的角色及监管豁免影响",
-      "url": "https://www.youtube.com/watch?v=m2cJzy-gqmY",
-      "published_at": "2026-10-20T21:28:30+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Jito Labs首席运营官兼首席法务官Rebecca Rettig在彭博加密节目中讨论了加密货币在2026年美国中期选举中的作用，并指出近期的监管创新豁免减轻了《清晰法案》未能通过的影响。",
-      "summary_en": "Rebecca Rettig, COO and chief legal officer of Jito Labs, discussed crypto's role in the 2026 US midterm elections and noted that recent regulatory innovation exemptions have lessened the impact of the Clarity Act failing, on Bloomberg Crypto.",
-      "detail_zh": "在彭博加密节目（Bloomberg Crypto）中，主持人Scarlet Fu和James Seyffart邀请Jito Labs首席运营官兼首席法务官Rebecca Rettig进行讨论。讨论主题包括加密货币在2026年美国中期选举中的角色。Rettig还提到，近期的监管创新豁免（regulatory innovation exemptions）减轻了《清晰法案》（Clarity Act）未能通过所带来的影响。原文未提供更多具体细节或数据。",
-      "detail_en": "On Bloomberg Crypto, hosts Scarlet Fu and James Seyffart spoke with Rebecca Rettig, COO and chief legal officer of Jito Labs. The discussion covered crypto's role in the 2026 US midterm elections. Rettig also noted that recent regulatory innovation exemptions have lessened the impact of the Clarity Act failing. The original text does not provide further specific details or data.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Jito Labs首席运营官兼首席法务官Rebecca Rettig讨论了加密在2026年美国中期选举中的角色。",
-          "en": "Rebecca Rettig, COO and CLO of Jito Labs, discussed crypto's role in the 2026 US midterm elections."
-        },
-        {
-          "zh": "Rettig指出，近期的监管创新豁免减轻了《清晰法案》未能通过的影响。",
-          "en": "Rettig noted that recent regulatory innovation exemptions have lessened the impact of the Clarity Act failing."
-        }
-      ],
-      "tags": [
-        "crypto",
-        "regulation",
-        "US midterms",
-        "Clarity Act"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5dmcEEXPxz4",
-      "title": "Russian Satellite Raises Space Warfare Fears",
-      "title_zh": "Swope：俄卫星接近美卫星是混合战的一部分",
-      "url": "https://www.youtube.com/watch?v=5dmcEEXPxz4",
-      "published_at": "2026-10-20T21:28:16+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Clayton Swope 表示，不应将太空动态与地面行为分开看待。在俄罗斯卫星接近一颗美国卫星（该卫星被乌克兰使用）后，Swope 认为此举应被视为俄罗斯混合战活动的例证，威胁美国和欧洲利益，并与俄乌战争同属一个地缘政治问题。",
-      "summary_en": "Clayton Swope said space movements should not be viewed separately from countries' actions on Earth. After a Russian satellite approached an American satellite used by Ukraine, Swope said the move should be evaluated as an example of Russia's hybrid warfare activities that threaten US and European interests, and is part of the same geopolitical problem as the Russia-Ukraine war.",
-      "detail_zh": "Clayton Swope 就俄罗斯卫星接近一颗美国卫星（该卫星被乌克兰使用）一事发表评论。Swope 强调，不应将太空中的动向与各国在地球上的行为割裂看待。他表示，这一举动应被评估为俄罗斯从事混合战活动的例证，这些活动威胁美国和欧洲的利益。Swope 认为，此事与俄乌战争同属一个地缘政治问题。原文未提供更多关于卫星接近事件的具体细节、时间或后续影响。",
-      "detail_en": "Clayton Swope commented on a Russian satellite approaching an American satellite used by Ukraine. Swope stressed that movements in space should not be looked at separately from what countries do on Earth. He said the move should be evaluated as an example of Russia doing hybrid warfare activities that threaten US interests and European interests. Swope views this as part of the same geopolitical problem as the Russia-Ukraine war. The original text does not provide further specifics on the satellite approach, timing, or implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Swope 认为太空动态应与地面行为结合看待。",
-          "en": "Swope believes space movements should be viewed in conjunction with actions on Earth."
-        },
-        {
-          "zh": "俄罗斯卫星接近美国卫星（被乌克兰使用）应被视为混合战例证。",
-          "en": "The Russian satellite approaching an American satellite used by Ukraine should be seen as an example of hybrid warfare."
-        },
-        {
-          "zh": "此类活动威胁美国和欧洲利益。",
-          "en": "Such activities threaten US and European interests."
-        },
-        {
-          "zh": "该事件与俄乌战争同属一个地缘政治问题。",
-          "en": "The incident is part of the same geopolitical problem as the Russia-Ukraine war."
-        }
-      ],
-      "tags": [
-        "Russia-Ukraine war",
-        "hybrid warfare",
-        "space security",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
