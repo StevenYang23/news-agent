@@ -1,6 +1,112 @@
 {
-  "generated_at": "2026-10-27T17:14:55.840076+00:00",
+  "generated_at": "2026-10-27T18:18:19.369647+00:00",
   "insights": [
+    {
+      "guid": "yt:W-kr-Fm3AzU",
+      "title": "Anduril Founder Luckey says company is investing in US-made computers",
+      "title_zh": "Anduril推出搭载高通芯片的BlueChip笔记本，旨在减少对中国制造电脑的依赖",
+      "url": "https://www.youtube.com/watch?v=W-kr-Fm3AzU",
+      "published_at": "2026-10-27T17:25:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anduril Industries创始人Palmer Luckey表示，公司新推出的搭载高通芯片的BlueChip笔记本电脑旨在减少敏感政府和关键行业对中国制造电脑的依赖。Anduril最初寻求外部合作伙伴，后决定投资美国计算机制造，并指出外国制造设备对军事和关键基础设施构成安全风险。",
+      "summary_en": "Anduril Industries founder Palmer Luckey said the company's new BlueChip laptops with Qualcomm are aimed at reducing reliance on Chinese-made computers in sensitive government and critical industries. Anduril initially sought outside partners before deciding to invest in US computer manufacturing, adding that foreign-made equipment poses security risks for military and critical infrastructure.",
+      "detail_zh": "Anduril Industries创始人Palmer Luckey表示，公司新推出的BlueChip笔记本电脑搭载高通芯片，目标是减少敏感政府和关键行业对中国制造电脑的依赖。Anduril最初寻求外部合作伙伴，但随后决定投资美国计算机制造。Luckey补充称，外国制造的设备对军事和关键基础设施构成安全风险。",
+      "detail_en": "Anduril Industries founder Palmer Luckey said the company's new BlueChip laptops with Qualcomm are aimed at reducing reliance on Chinese-made computers in sensitive government and critical industries. Anduril initially sought outside partners before deciding to invest in US computer manufacturing. Luckey added that foreign-made equipment poses security risks for military and critical infrastructure.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anduril推出搭载高通芯片的BlueChip笔记本电脑，旨在减少敏感领域对中国制造电脑的依赖。",
+          "en": "Anduril launched BlueChip laptops with Qualcomm chips, aiming to reduce reliance on Chinese-made computers in sensitive sectors."
+        },
+        {
+          "zh": "公司最初寻求外部合作伙伴，后决定投资美国计算机制造。",
+          "en": "The company initially sought outside partners before deciding to invest in US computer manufacturing."
+        },
+        {
+          "zh": "Anduril指出外国制造设备对军事和关键基础设施构成安全风险。",
+          "en": "Anduril noted that foreign-made equipment poses security risks for military and critical infrastructure."
+        }
+      ],
+      "tags": [
+        "Anduril",
+        "Qualcomm",
+        "US manufacturing",
+        "national security",
+        "supply chain"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4958098",
+      "title": "Wall Street Lunch: Sentiment Improves; All About Earnings",
+      "title_zh": "科技股反弹，云增长成焦点，波音订单簿意外引担忧",
+      "url": "https://seekingalpha.com/article/4958098-wall-street-lunch-sentiment-improves-all-about-earnings?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-27T16:49:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "科技股在财报和美联储会议前反弹，AI交易重获买盘。市场聚焦Alphabet、微软和亚马逊的云业务增长，AWS需求被描述为“无法满足”。波音因订单簿意外变化而遭抛售，消费者信心回升但高利率持续压制房屋销售。",
+      "summary_en": "Tech stocks are rebounding ahead of major earnings and the Fed meeting, with renewed buying interest in the AI trade. Focus is on cloud growth for Alphabet, Microsoft, and Amazon, with AWS demand described as 'insatiable.' Boeing is selling off after surprise order book changes, while consumer confidence rebounds but high mortgage rates continue to pressure home sales.",
+      "detail_zh": "科技股连续两日反弹，市场情绪在财报和美联储会议前略有改善，AI交易重获买盘兴趣，Meta扩大股权融资部分，英伟达和AMD确认参与。投资者重点关注三大云厂商的业绩：微软Azure预计增长40%以上，谷歌云GCP可能实现100%的同比增长，亚马逊AWS预计增长约30%。亚马逊CEO Andy Jassy表示AWS产能已售罄至2026年，大部分2027年以及部分2028年，需求“无法满足”。可口可乐业绩强劲，美国及其他地区增长稳健，但股价当日下跌，年内涨幅巨大。波音虽然亏损收窄并产生正现金流，但因订单簿意外变化，股价大幅下跌，可能创十个月来最大跌幅，分析师认为该股将至少在未来几个季度被投资者“打入冷宫”。美国9月新屋销售环比下降0.6%，10月消费者信心大幅反弹。分析师指出，利率高企且可能进一步上升，美联储12月可能再次加息，这将推高10年期和2年期国债收益率，而10年期收益率直接影响抵押贷款利率，房地产市场仍处于高价格、低销售增长的状态，东北部和东南部等传统强势地区出现疲软迹象。消费者信心主要受汽油和食品价格影响。盘后关注Visa、Robinhood、SK海力士、希捷科技等财报。",
+      "detail_en": "Tech stocks are on a two-day rally, with sentiment improving ahead of earnings and the Fed meeting. Buying interest in the AI trade is back, helped by Meta upsizing the equity portion of its offering, with NVIDIA and AMD confirmed as participants. Investors are focused on the three major cloud players: Microsoft's Azure expected to grow in the mid-40s, Google Cloud (GCP) potentially seeing 100% year-over-year growth, and AWS expected to grow around 30%. Amazon CEO Andy Jassy said AWS is sold out through 2026, most of 2027, and some into 2028, with 'insatiable' demand. Coca-Cola reported strong results with growth in the US and other regions, though the stock was selling off despite a strong year-to-date run. Boeing narrowed losses and generated positive cash flow, but the stock is selling off sharply, down the most in about ten months, due to surprise changes to its order book. The analyst believes Boeing will be 'in the penalty box' for at least the foreseeable future. US new home sales edged down 0.6% in September, while consumer confidence rebounded sharply in October. Interest rates remain high and are not expected to go lower, with the Fed possibly raising rates again in December, affecting the 10-year and 2-year Treasury yields, with the 10-year most affecting mortgage rates. The housing market is stuck in a high-price, low-sales-growth scenario, with pockets of weakness emerging in the Northeast and Southeast. Consumer confidence is driven by gas and food prices. After the bell, earnings from Visa, Robinhood, SK Hynix, Seagate, and others are due.",
+      "conclusion_zh": "科技股反弹和云增长预期支撑市场情绪，但波音订单簿意外变化和高利率对房地产的压制提示结构性风险，投资者需关注财报和美联储会议对方向的确认。",
+      "conclusion_en": "The tech rebound and cloud growth expectations support sentiment, but Boeing's surprise order book changes and high rates weighing on housing highlight structural risks; investors should watch earnings and the Fed meeting for direction.",
+      "key_points": [
+        {
+          "zh": "科技股连续两日反弹，AI交易重获买盘，Meta扩大股权融资部分，英伟达和AMD确认参与。",
+          "en": "Tech stocks are on a two-day rally with renewed buying interest in the AI trade; Meta upsized its equity offering with NVIDIA and AMD confirmed as participants."
+        },
+        {
+          "zh": "云增长是焦点：微软Azure预计增长40%以上，谷歌云GCP可能增长100%，AWS预计增长约30%，需求被描述为“无法满足”。",
+          "en": "Cloud growth is in focus: Microsoft Azure expected mid-40s growth, Google Cloud potentially 100% growth, AWS around 30%, with demand described as 'insatiable.'"
+        },
+        {
+          "zh": "波音因订单簿意外变化而遭抛售，股价可能创十个月最大跌幅，分析师预计该股将至少在未来几个季度被投资者回避。",
+          "en": "Boeing is selling off after surprise order book changes, with the stock down the most in about ten months; the analyst expects it to remain in the penalty box for several quarters."
+        },
+        {
+          "zh": "美国9月新屋销售环比下降0.6%，10月消费者信心大幅反弹，但高利率和潜在加息继续压制房地产市场。",
+          "en": "US new home sales fell 0.6% in September, while consumer confidence rebounded sharply in October, but high rates and potential hikes continue to pressure housing."
+        },
+        {
+          "zh": "盘后关注Visa、Robinhood、SK海力士、希捷科技等财报，Visa可能反映消费者支出状况，SK海力士关注内存价格和长期合同。",
+          "en": "After the bell, watch earnings from Visa, Robinhood, SK Hynix, Seagate, and others; Visa may reflect consumer spending, while SK Hynix focuses on memory prices and long-term contracts."
+        }
+      ],
+      "tags": [
+        "tech earnings",
+        "cloud growth",
+        "AI trade",
+        "Boeing",
+        "consumer confidence"
+      ],
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "AMZN",
+        "META",
+        "NVDA",
+        "AMD",
+        "KO",
+        "BA",
+        "V",
+        "HOOD",
+        "STX",
+        "MU"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:9J-TYaO9KrA",
       "title": "Texas billionaire Ross Perot Jr.: Mexico keeps North America “young”",
@@ -11502,58 +11608,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:tqvhjNiTZuQ",
-      "title": "Open Interest 10/20/2026",
-      "title_zh": "AI交易遭遇估值与债务担忧，通用汽车上调回购",
-      "url": "https://www.youtube.com/watch?v=tqvhjNiTZuQ",
-      "published_at": "2026-10-20T17:46:37+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博Open Interest节目指出，某数据中心首发因估值与债务担忧重挫，AI交易动能减弱，股市因AI焦虑回落；通用汽车收紧利润展望并启动200亿美元回购。节目还从Citadel证券会议带来关于AI、市场与劳动力/通胀前景的讨论。",
-      "summary_en": "Bloomberg Open Interest highlights a data-center debut that crashed on valuation and debt fears, sapping momentum from the AI trade and weighing on stocks. GM tightened its profit outlook and launched a $20 billion buyback, while guests at Citadel Securities' conference discussed AI, markets, the labor market and Fed expectations.",
-      "detail_zh": "节目开场聚焦AI板块的“体检”：一家数据中心的首次亮相因估值与债务担忧而重挫，成为AI基础设施投资风险的缩影。随后讨论覆盖英伟达、Anthropic、AI基础设施支出与半导体复苏，以及AI变现、CoreWeave风险与企业AI需求。盘面方面，随着AI焦虑回归，股市走低，AI交易失去动能。个股层面，通用汽车收紧利润展望并宣布200亿美元股票回购。节目还包含科技、工业与消费板块的重要分析师评级变动，以及运输趋势与物流成本等经济信号。此外，Dani Burger在Citadel证券“未来全球市场”会议上对话Scott Rubner、Jim Esposito与Konstantine Buhler，涉及AI、市场走向、劳动力市场健康度、通胀展望与美联储预期，以及风险投资与AI初创企业的私募市场机会。",
-      "detail_en": "The program opens with an AI gut-check: a data-center debut crashed on valuation and debt fears, underscoring risks in AI infrastructure spending. Discussion spans Nvidia, Anthropic, AI infrastructure spending and the semiconductor recovery, plus AI monetization, CoreWeave risks and enterprise AI demand. Stocks slipped as AI jitters returned and the AI trade lost momentum. On single names, GM tightened its profit outlook and launched a $20 billion buyback. The show also covers major analyst rating changes across tech, industrials and consumer stocks, and transportation trends and logistics costs as economic signals. Dani Burger speaks live from Citadel Securities' Future of Global Markets Conference with Scott Rubner, Jim Esposito and Konstantine Buhler on AI, markets, labor market health, the inflation outlook and Fed expectations, as well as venture capital and private-market opportunities in AI startups.",
-      "conclusion_zh": "AI基础设施的估值与债务风险正成为市场关注点，AI交易动能减弱；投资者需关注AI相关企业的融资结构与变现能力，同时留意美联储预期与劳动力市场信号。",
-      "conclusion_en": "Valuation and debt risks in AI infrastructure are coming into focus as the AI trade loses momentum; investors should watch AI-related financing structures and monetization, alongside Fed expectations and labor-market signals.",
-      "key_points": [
-        {
-          "zh": "一家数据中心的首次亮相因估值与债务担忧而重挫，引发对AI基础设施投资的审视。",
-          "en": "A data-center debut crashed on valuation and debt fears, prompting a gut-check on AI infrastructure spending."
-        },
-        {
-          "zh": "随着AI焦虑回归，股市走低，AI交易失去动能。",
-          "en": "Stocks slipped as AI jitters returned and the AI trade lost momentum."
-        },
-        {
-          "zh": "通用汽车收紧利润展望，并启动200亿美元股票回购。",
-          "en": "GM tightened its profit outlook and launched a $20 billion buyback."
-        },
-        {
-          "zh": "节目讨论覆盖英伟达、Anthropic、AI变现、CoreWeave风险与企业AI需求。",
-          "en": "Coverage included Nvidia, Anthropic, AI monetization, CoreWeave risks and enterprise AI demand."
-        },
-        {
-          "zh": "Citadel证券会议嘉宾就AI、市场、劳动力市场、通胀与美联储预期发表看法。",
-          "en": "Citadel Securities conference guests discussed AI, markets, the labor market, inflation and Fed expectations."
-        }
-      ],
-      "tags": [
-        "AI infrastructure",
-        "data center",
-        "GM buyback",
-        "Fed expectations",
-        "market sentiment"
-      ],
-      "tickers": [
-        "GM",
-        "NVDA"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
