@@ -1,6 +1,132 @@
 {
-  "generated_at": "2026-10-27T14:22:31.300991+00:00",
+  "generated_at": "2026-10-27T15:21:48.595993+00:00",
   "insights": [
+    {
+      "guid": "yt:V91lMNeifAg",
+      "title": "Goldman Sachs Vice Chairman Kaplan on Fed predictions",
+      "title_zh": "前达拉斯联储主席卡普兰：美联储正权衡“混合经济”",
+      "url": "https://www.youtube.com/watch?v=V91lMNeifAg",
+      "published_at": "2026-10-27T15:08:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前达拉斯联储主席、现任高盛副董事长罗伯特·卡普兰表示，美联储政策制定者在FOMC会议上正在考量一个“混合经济”的局面。原文未提供更多关于该表述的具体细节或政策倾向。",
+      "summary_en": "Former Dallas Fed President and current Goldman Sachs Vice Chairman Robert Kaplan said Fed policymakers are considering a \"mixed economy\" at the FOMC meeting. The source provides no further details on the term or policy implications.",
+      "detail_zh": "前达拉斯联储主席、现任高盛副董事长罗伯特·卡普兰就美联储政策制定者在FOMC会议上考量的经济状况发表看法。卡普兰将决策者正在权衡的经济描述为“混合经济”。原文仅包含这一表述，未进一步说明“混合经济”的具体构成、数据依据，也未提及卡普兰对利率路径或市场影响的判断。",
+      "detail_en": "Former Dallas Fed President and current Goldman Sachs Vice Chairman Robert Kaplan commented on the economic conditions Fed policymakers are weighing at the FOMC meeting. Kaplan described the economy under consideration as a \"mixed economy.\" The source contains only this statement and does not elaborate on the components of the \"mixed economy,\" the data behind it, or Kaplan's views on the rate path or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "卡普兰现任高盛副董事长，曾任达拉斯联储主席。",
+          "en": "Kaplan is Vice Chairman of Goldman Sachs and former Dallas Fed President."
+        },
+        {
+          "zh": "他表示美联储政策制定者在FOMC会议上正考量“混合经济”。",
+          "en": "He said Fed policymakers are considering a \"mixed economy\" at the FOMC meeting."
+        },
+        {
+          "zh": "原文未提供“混合经济”的具体定义或政策含义。",
+          "en": "The source does not define \"mixed economy\" or its policy implications."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "FOMC",
+        "mixed economy",
+        "Kaplan"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:v3tZ_2jNmqY",
+      "title": "JetBlue Promises It Will Return to Profitability",
+      "title_zh": "捷蓝航空预计明年扭亏为盈，波音仍寻求业务复苏",
+      "url": "https://www.youtube.com/watch?v=v3tZ_2jNmqY",
+      "published_at": "2026-10-27T14:52:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "捷蓝航空第三季度每股亏损60美分，但公司表示明年将恢复盈利，自2019年以来尚未实现年度盈利。波音公司仍希望扭转其商用飞机业务。",
+      "summary_en": "JetBlue Airways lost 60 cents per share in the third quarter but expects to return to profitability next year, having not had a profitable year since 2019. Boeing is still hoping to turn around its commercial business.",
+      "detail_zh": "捷蓝航空公布第三季度每股亏损60美分，但公司表示预计明年将再次实现盈利。该航空公司自2019年以来尚未实现年度盈利。与此同时，波音公司仍在寻求扭转其商用飞机业务的局面。彭博社的Sid Philip报道了相关情况。",
+      "detail_en": "JetBlue Airways reported a third-quarter loss of 60 cents per share but stated it expects to turn a profit again next year. The carrier has not had a profitable year since 2019. Meanwhile, Boeing is still hoping to turn around its commercial business. Bloomberg's Sid Philip reports.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "捷蓝航空第三季度每股亏损60美分。",
+          "en": "JetBlue Airways lost 60 cents per share in the third quarter."
+        },
+        {
+          "zh": "捷蓝航空预计明年将恢复盈利。",
+          "en": "JetBlue expects to return to profitability next year."
+        },
+        {
+          "zh": "捷蓝航空自2019年以来尚未实现年度盈利。",
+          "en": "JetBlue has not had a profitable year since 2019."
+        },
+        {
+          "zh": "波音公司仍希望扭转其商用飞机业务。",
+          "en": "Boeing is still hoping to turn around its commercial business."
+        }
+      ],
+      "tags": [
+        "JetBlue",
+        "Boeing",
+        "airlines",
+        "profitability"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:P5Etw0jBYqM",
+      "title": "UPS Raises Sales Outlook Ahead of Holiday Season",
+      "title_zh": "UPS上调销售展望，预计假日旺季强劲",
+      "url": "https://www.youtube.com/watch?v=P5Etw0jBYqM",
+      "published_at": "2026-10-27T14:13:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "UPS上调销售展望，称预计假日运输旺季表现强劲；公司提高了价格，但季度需求依然旺盛，三季度营收和盈利均超出华尔街预期。",
+      "summary_en": "UPS raised its sales outlook, citing expectations for a strong holiday shipping season. The courier raised prices but demand remained high for the quarter, with third-quarter earnings and revenue both beating Wall Street estimates.",
+      "detail_zh": "UPS上调了销售展望，并表示预计将迎来强劲的假日运输旺季。该公司提高了价格，但本季度需求依然旺盛。第三季度财报显示，营收和盈利均超出华尔街预期。彭博的Matt Griffin对此进行了报道。",
+      "detail_en": "UPS raised its sales outlook and said it expects a strong holiday shipping season. The company raised prices, but demand remained high for the quarter. Third-quarter earnings and revenue both beat Wall Street estimates, according to Bloomberg's Matt Griffin.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "UPS上调销售展望，预计假日运输旺季强劲。",
+          "en": "UPS raised its sales outlook, expecting a strong holiday shipping season."
+        },
+        {
+          "zh": "公司提高了价格，但季度需求依然旺盛。",
+          "en": "The company raised prices, but demand remained high for the quarter."
+        },
+        {
+          "zh": "第三季度营收和盈利均超出华尔街预期。",
+          "en": "Third-quarter earnings and revenue both beat Wall Street estimates."
+        }
+      ],
+      "tags": [
+        "UPS",
+        "earnings",
+        "holiday season",
+        "pricing"
+      ],
+      "tickers": [
+        "UPS"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:Qnjnk6ftnRU",
       "title": "Investors Are Using Bonds to Hedge Against AI: Peters",
@@ -413,6 +539,67 @@
       ],
       "tickers": [],
       "sentiment": "positive"
+    },
+    {
+      "guid": "4957804",
+      "title": "Show Me The Money",
+      "title_zh": "AI资本开支与回报的博弈成为财报季焦点",
+      "url": "https://seekingalpha.com/article/4957804-show-me-the-money?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-27T11:30:35+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "本周财报季由Alphabet、微软和亚马逊领衔，投资者将密切关注AI支出计划及其回报。Meta上周财报显示AI推动广告收入但自由现金流转负，引发市场对AI投资可持续性的担忧。Gartner警告到2030年底可能有超过3.5万亿美元的AI基础设施支出面临减值风险。",
+      "summary_en": "This week's earnings season is headlined by Alphabet, Microsoft, and Amazon, with investors closely watching AI spending plans and returns. Meta's last week's results showed AI boosted ad revenue but free cash flow turned negative, raising concerns about the sustainability of AI investments. Gartner warns that over $3.5 trillion of AI infrastructure spending could be at risk of impairment by end-2030.",
+      "detail_zh": "本周是财报季最繁忙的一周，三大科技巨头Alphabet、微软和亚马逊将陆续公布业绩，市场重点关注其AI支出计划及资本开支的回报情况。Jefferies分析师Jane Gibbons指出，企业在财报中越来越多地提到AI带来的切实生产力提升，包括工作流程加快、常规任务自动化、服务能力提升和成本控制改善。Saxo首席投资策略师Charu Chanana表示，AI需求依然强劲，但“华尔街对交付成本正失去耐心”。Meta上周发布的第三季度财报是最明显例证：AI虽帮助提升了广告收入，但季度自由现金流转为负值，为十多年来首次现金消耗，同时公司上调了资本开支展望以支持激进的AI建设。Schwab金融研究中心策略师Alexandra Semenova表示，Meta财报凸显的自由现金流压力使市场更加关注AI支出的可持续性和融资方式。Gartner预测，如果企业维持当前支出速度，到2030年底可能有超过3.5万亿美元的AI基础设施支出面临减值风险；今年AI提供商预计在AI基础设施上花费近1万亿美元，2027至2030年间还将额外支出6万亿美元，但Gartner认为企业和消费者AI收入可能不足以支撑同期盈利回报。Invesco则强调，Meta的业绩反映了AI投资已开始产生可衡量的效益，AI正日益嵌入广告和推荐引擎；其指出AI看空理由越来越集中在数据中心、芯片、电力和计算能力上的巨额资本投入，但近期部分公司的业绩表明“账本的另一边越来越难以忽视”。投资小组负责人Julian Lin警告，当前AI支出绝大部分用于训练，持续的前沿训练可能不会带来预期的金矿，预计收入生成极不可能足以证明资本开支的ROI合理。",
+      "detail_en": "This is the busiest week of the earnings season, with three tech giants—Alphabet, Microsoft, and Amazon—set to report, and the market will focus on their AI spending plans and returns on capital expenditures. Jefferies analyst Jane Gibbons noted that companies are increasingly pointing to tangible productivity gains from AI in earnings reports, including faster workflows, automation of routine tasks, greater service capacity, and better cost control. Charu Chanana, chief investment strategist at Saxo, said AI demand remains strong, 'but Wall Street is losing patience with the cost of delivering it.' Meta's third-quarter results last week were the clearest example: while AI helped boost ad revenue, quarterly free cash flow turned negative—its first cash burn in over a decade—and the company raised its capex outlook to support its aggressive AI buildout. Alexandra Semenova, financial insights strategist at Schwab Center for Financial Research, said the pressure on free cash flow highlighted by Meta's earnings is placing sharper focus on the sustainability and financing of AI spending. Gartner forecasts that more than $3.5 trillion of AI infrastructure spending could be at risk of impairment by end-2030 if companies continue their current pace of spending; AI providers are expected to spend nearly $1 trillion on AI infrastructure this year and an additional $6 trillion between 2027 and 2030, but Gartner believes enterprise and consumer AI revenue may be insufficient to support profitable returns during this period. Invesco, meanwhile, emphasized that Meta's results reflected how AI investments have begun to produce measurable benefits, with AI increasingly embedded in advertising and recommendation engines; it noted that the AI bear case appears to have increasingly focused on the enormous amount of capital being committed to data centers, chips, power, and computing capacity, but recent results from select companies demonstrated the other side of the ledger has become increasingly difficult to ignore. Investing Group Leader Julian Lin warned that a vast majority of current AI spending is being used for training, and continued training in advancing the frontier might not lead to the projected gold mine, adding that it's highly unlikely that the projected revenue generation would be enough to justify the ROI on capex.",
+      "conclusion_zh": "AI资本开支的可持续性和回报能力正成为市场关注焦点，本周大型科技股财报将检验AI投资叙事。",
+      "conclusion_en": "The sustainability and return potential of AI capex are becoming key market concerns, and this week's mega-cap tech earnings will test the AI investment narrative.",
+      "key_points": [
+        {
+          "zh": "Alphabet、微软和亚马逊本周将发布财报，市场聚焦AI支出计划及回报。",
+          "en": "Alphabet, Microsoft, and Amazon report this week, with markets focused on AI spending plans and returns."
+        },
+        {
+          "zh": "Meta第三季度自由现金流转负，为十多年来首次现金消耗，并上调资本开支展望。",
+          "en": "Meta's Q3 free cash flow turned negative—its first cash burn in over a decade—and it raised its capex outlook."
+        },
+        {
+          "zh": "Gartner警告到2030年底可能有超过3.5万亿美元的AI基础设施支出面临减值风险。",
+          "en": "Gartner warns that over $3.5 trillion of AI infrastructure spending could be at risk of impairment by end-2030."
+        },
+        {
+          "zh": "Invesco认为AI投资已开始产生可衡量效益，但Julian Lin警告训练支出可能无法带来足够ROI。",
+          "en": "Invesco sees AI investments producing measurable benefits, but Julian Lin warns training spending may not generate sufficient ROI."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "earnings",
+        "Big Tech",
+        "free cash flow",
+        "ROI"
+      ],
+      "tickers": [
+        "GOOG",
+        "MSFT",
+        "AMZN",
+        "META",
+        "AAPL",
+        "AVGO",
+        "DASH",
+        "CART",
+        "MRNA",
+        "PBR",
+        "BAK",
+        "KO",
+        "PYPL",
+        "APO"
+      ],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:Tq5TfJQ5n0U",
@@ -11208,330 +11395,6 @@
         "fixed income",
         "prediction markets",
         "market structure"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:LF-xV92nVX0",
-      "title": "Bloomberg Surveillance 10/20/2026",
-      "title_zh": "彭博监控：AI IPO压力、科技巨头财报与通用汽车回购",
-      "url": "https://www.youtube.com/watch?v=LF-xV92nVX0",
-      "published_at": "2026-10-20T15:21:14+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博监控讨论了AI领域的IPO压力、科技巨头财报以及通用汽车的业绩与200亿美元回购。嘉宾观点涉及AI风险（如德州选举可能成为“五级”AI风险）、法国财政问题、美国经济放缓而非衰退、以及利率上升对科技股交易的影响。",
-      "summary_en": "This episode of Bloomberg Surveillance covers AI IPO stress, Big Tech earnings, and GM's results and $20 billion buyback. Guests discuss AI risks (e.g., Texas election as a 'Category Five' AI risk), France's fiscal concerns, a US slowdown rather than recession, and higher rates raising the stakes for the tech trade.",
-      "detail_zh": "节目首先关注AI IPO压力、科技巨头财报和通用汽车业绩。Edward Jones的Angelo Kourkafas认为AI的好处将扩大到科技以外。Raymond James的Ed Mills指出德州选举可能成为“五级”AI风险。通用汽车收窄展望并宣布200亿美元回购，Paul Jacobson表示回购反映对现金流的信心。TD Cowen的Tom Fitzgerald认为2027年将考验高端航空需求。Vanda的Jens Nordvig称法国缺乏财政锚是市场担忧。Crossmark Global Investments的Victoria Fernandez认为美国正走向放缓而非衰退。Baird Strategas的Jeannette Lowe表示民主党可能在可负担性问题上获得杠杆。RBC的Dave McKay讨论阻止Meta的AI代理Muse。Northwestern Mutual的Brent Schutte认为利率上升提高了科技交易的风险。Macquarie的Paul Golding称AI计算可能是SpaceX最大的增长杠杆。Deutsche Bank的Matt Luzzetti认为住房疲软不足以阻止美联储加息。Alpine Saxon Woods的Sarah Hunt表示能源再次变得可投资。",
-      "detail_en": "The program begins with AI IPO stress, Big Tech earnings, and GM results. Angelo Kourkafas of Edward Jones believes AI benefits will broaden beyond tech. Ed Mills of Raymond James notes the Texas election could be a 'Category Five' AI risk. GM narrowed its outlook and unveiled a $20 billion buyback; Paul Jacobson says the buyback reflects confidence in cash flow. Tom Fitzgerald of TD Cowen thinks 2027 will test premium airline demand. Jens Nordvig of Vanda says France's lack of fiscal anchor is a market concern. Victoria Fernandez of Crossmark Global Investments sees the US heading for a slowdown, not a recession. Jeannette Lowe of Baird Strategas says Democrats could gain leverage on affordability. Dave McKay of RBC discusses weighing blocking Meta's AI agent Muse. Brent Schutte of Northwestern Mutual says higher rates raise the stakes for the tech trade. Paul Golding of Macquarie says AI compute could be SpaceX's biggest growth lever. Matt Luzzetti of Deutsche Bank says housing weakness isn't enough to stop Fed hikes. Sarah Hunt of Alpine Saxon Woods says energy is becoming investable again.",
-      "conclusion_zh": "嘉宾观点显示，AI主题仍受关注但风险上升，同时美国经济可能放缓而非衰退，利率上升对科技股构成压力。",
-      "conclusion_en": "Guest views suggest AI remains a focus but risks are rising, while the US economy may see a slowdown rather than recession, and higher rates pressure tech stocks.",
-      "key_points": [
-        {
-          "zh": "通用汽车收窄展望并宣布200亿美元回购，反映对现金流的信心。",
-          "en": "GM narrowed its outlook and announced a $20 billion buyback, reflecting confidence in cash flow."
-        },
-        {
-          "zh": "Edward Jones的Angelo Kourkafas认为AI的好处将扩大到科技以外。",
-          "en": "Angelo Kourkafas of Edward Jones believes AI benefits will broaden beyond tech."
-        },
-        {
-          "zh": "Raymond James的Ed Mills指出德州选举可能成为“五级”AI风险。",
-          "en": "Ed Mills of Raymond James notes the Texas election could be a 'Category Five' AI risk."
-        },
-        {
-          "zh": "Crossmark的Victoria Fernandez认为美国正走向放缓而非衰退。",
-          "en": "Victoria Fernandez of Crossmark sees the US heading for a slowdown, not a recession."
-        },
-        {
-          "zh": "Northwestern Mutual的Brent Schutte认为利率上升提高了科技交易的风险。",
-          "en": "Brent Schutte of Northwestern Mutual says higher rates raise the stakes for the tech trade."
-        }
-      ],
-      "tags": [
-        "AI",
-        "Big Tech",
-        "GM",
-        "Buyback",
-        "Slowdown"
-      ],
-      "tickers": [
-        "GM",
-        "META"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:U_y1PHBTM2I",
-      "title": "Europe Needs to Help End Ukraine War, Draghi Says",
-      "title_zh": "德拉吉：欧洲须在结束俄乌战争中发挥重要作用",
-      "url": "https://www.youtube.com/watch?v=U_y1PHBTM2I",
-      "published_at": "2026-10-20T15:02:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前欧洲央行行长、前意大利总理德拉吉表示，欧洲必须在结束俄乌战争中扮演重要角色，并指出乌克兰局势将定义美欧关系。",
-      "summary_en": "Former ECB President and former Italian Prime Minister Mario Draghi said Europe must play a large role in ending the war between Russia and Ukraine, and that what happens in Ukraine will define the relationship between the US and Europe.",
-      "detail_zh": "德拉吉在纽约Citadel Securities会议上对彭博的Lisa Abramowicz表示，欧洲必须在结束俄乌战争中发挥重要作用。他明确指出，乌克兰局势的发展将定义美国与欧洲之间的关系。此番言论将欧洲在结束战争中的角色与跨大西洋关系的未来直接挂钩。",
-      "detail_en": "Speaking to Bloomberg's Lisa Abramowicz at the Citadel Securities Conference in New York, Mario Draghi, the former ECB head and former Italian prime minister, said Europe has to play a large role in ending the war between Russia and Ukraine. He said what happens in Ukraine will define the relationship between the US and Europe. The remarks directly link Europe's role in ending the war to the future of transatlantic relations.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "德拉吉认为欧洲必须在结束俄乌战争中发挥重要作用。",
-          "en": "Draghi believes Europe must play a large role in ending the Russia-Ukraine war."
-        },
-        {
-          "zh": "他表示乌克兰局势将定义美欧关系。",
-          "en": "He said what happens in Ukraine will define the US-Europe relationship."
-        },
-        {
-          "zh": "上述言论发表于纽约Citadel Securities会议，由彭博的Lisa Abramowicz采访。",
-          "en": "The remarks were made at the Citadel Securities Conference in New York in an interview with Bloomberg's Lisa Abramowicz."
-        }
-      ],
-      "tags": [
-        "Russia-Ukraine war",
-        "Europe",
-        "US-Europe relations",
-        "Draghi"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:LmSWQM_dmzI",
-      "title": "Where Is The Crypto Alpha Hiding This Cycle?",
-      "title_zh": "加密市场是否终于奖励勤奋的投资者？",
-      "url": "https://www.youtube.com/watch?v=LmSWQM_dmzI",
-      "published_at": "2026-10-20T14:42:48+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "在DAS新加坡的讨论中，三位顶级配置者探讨了加密早期不平衡牛市中的真正alpha来源，包括加密与AI的结合点、流动性不足代币的建仓、$HYPE是否仍是共识赢家，以及下一周期的种子期与成长期投资选择。",
-      "summary_en": "At DAS Singapore, three top allocators discussed where real alpha lives in an early, uneven crypto bull market, covering crypto x AI, building size in illiquid tokens, whether $HYPE remains the consensus winner, and seed vs. growth for the next cycle.",
-      "detail_zh": "本周的Forward Guidance节目邀请了三位顶级配置者（Arthur Cheong、Rajiv Patel-O'Connor、Smac）在DAS新加坡进行讨论。他们探讨了加密与AI结合的实际有效场景、AI代理是否需要区块链、加密基金如何配置资本、在拥挤市场中寻找alpha、做多与做空以及跑赢比特币的策略，还有种子期与成长期投资的机会所在。讨论还涉及流动性不足代币的建仓问题，以及$HYPE是否仍是共识赢家。",
-      "detail_en": "This week's Forward Guidance episode features three top allocators (Arthur Cheong, Rajiv Patel-O'Connor, Smac) at DAS Singapore. They explored where crypto x AI actually works, whether AI agents need blockchains, how crypto funds allocate capital, finding alpha in a crowded market, longs, shorts, and beating Bitcoin, and seed vs. growth opportunities. The discussion also touched on building size in illiquid tokens and whether $HYPE stays the consensus winner.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "加密与AI结合的实际有效场景是讨论焦点之一。",
-          "en": "Where crypto x AI actually works was a key focus."
-        },
-        {
-          "zh": "在流动性不足的代币中建仓是配置者面临的挑战。",
-          "en": "Building size in illiquid tokens is a challenge for allocators."
-        },
-        {
-          "zh": "$HYPE是否仍是共识赢家受到关注。",
-          "en": "Whether $HYPE remains the consensus winner was discussed."
-        },
-        {
-          "zh": "种子期与成长期投资在下一周期的机会被比较。",
-          "en": "Seed vs. growth opportunities for the next cycle were compared."
-        }
-      ],
-      "tags": [
-        "crypto",
-        "AI",
-        "alpha",
-        "allocation",
-        "HYPE"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Q_0D4NFI61M",
-      "title": "Midterms Are a Clearing Event for Risk, Says Citadel's Rubner",
-      "title_zh": "Citadel Securities：机构去杠杆与散户抄底的背离，AI交易进入重置期",
-      "url": "https://www.youtube.com/watch?v=Q_0D4NFI61M",
-      "published_at": "2026-10-20T14:41:25+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Citadel Securities股票及衍生品策略主管指出，市场呈现机构规则性去杠杆与散户激进抄底的显著分化：散户上周以16周来最大力度买入半导体、新云和存储股，而机构持续降杠杆。动量因子从年初至6月22日上涨70%后年内转负，AI赢家与输家价差从超100%大幅收敛。该主管认为这不是领导权转移，而是等待中期选举后AI再度跑赢的暂停期，并预计Q3盈利同比增长27%创纪录第三高。",
-      "summary_en": "Citadel Securities' Head of Equity and Equity Derivative Strategy highlights a stark divergence: institutions are rules-based deleveraging while retail aggressively buys the dip, purchasing semis, neoclouds and memory stocks last week at the largest rate in 16 weeks. The momentum factor, up 70% YTD through June 22, has turned negative for the year, and the AI winners-vs-laggards spread has sharply unwound from over 100%. The strategist views this not as a leadership shift but a pause before AI outperforms again after the midterms, with Q3 earnings growth expected at 27% YoY, the third highest since 2010.",
-      "detail_zh": "Citadel Securities股票及衍生品策略主管表示，当前市场处于机构与散户行为显著分化的节点。机构基于价格或波动率规则进行去杠杆，而散户客户继续激进抄底——上周散户买入半导体、新云和存储股的速度为16周来最大。与此同时，机构客户持续降杠杆。动量因子在1月1日至6月22日期间年内上涨70%，但目前已年内转负；同期AI赢家相对AI输家的价差曾上涨超过100%，如今出现大规模平仓。该主管以市场宽度举例：标普500中38%的个股自高点回撤20%，而广义指数仅较历史高点下跌约150个基点，这种情况前所未有；纽约证券交易所的下跌日（80%个股下跌）通常一年出现21次，但已超过一年未出现。关于Q3盈利，该主管预计同比增长27%，为2010年以来第三高，且认为2027年盈利也未达峰值；Q2盈利名义增长52%，剔除一次性收益后为33%，标普500的11个板块中有9个报告了双位数营收增长。对于科技和AI相关财报，该主管指出进入财报季的仓位与以往不同：科技板块净敞口处于过去1、3、5年的第五百分位；标普500未来12个月市盈率为18倍，较年初的（约）3倍下降，即20%的估值下调；信息技术板块市盈率为2022年以来最低，低于2025年3月和4月的水平。该主管在路演中接触了3家公司、15个城市，客户普遍将中期选举视为风险出清事件，并认为那是AI再度跑赢的时期；客户愿意在更高位置买入，但不愿在重大政治事件前入场。若利率出现喘息，周期性板块、运输和住宅建筑商可能反弹。散户资金流方面，Citadel Securities执行约35%至40%的零售总流量，散户正开始像专业投资者一样使用AI，并大幅回流固定收益，买入30年期通胀保值债券，获得高于通胀3%的收益；散户不再只买低质量、不受欢迎的主题，而是进行类似模型组合的配置。家庭持有美国股市53%的份额，对冲基金仅2%；被动ETF今年迄今流入1.6万亿美元，较去年创纪录水平高60%。",
-      "detail_en": "Citadel Securities' Head of Equity and Equity Derivative Strategy described a market at an interesting juncture marked by a large differentiation between institutional and retail investors. Institutions are undergoing rules-based unwinding based on price or volatility levels, while retail clients continue to buy the dip aggressively—last week retail bought semiconductors, neoclouds and memory stocks at the largest rate in 16 weeks, even as institutional clients continue to de-lever. The momentum factor was up 70% YTD between January 1 and June 22 but is now negative for the year; AI winners versus AI laggards were up over 100% during the same period, and the market has seen a large unwinding. On breadth, the strategist noted 38% of the S&P 500 is in a 20% drawdown from highs while the broad indices are only down about 150 basis points from the high—something never seen before; an 80% down day on the NYSE typically occurs 21 times a year on average, but none has occurred in over a year. For Q3 earnings, the strategist expects 27% year-on-year growth, another record and the third highest since 2010, and does not think we are at peak earnings for 2027 either; Q2 earnings were up 52% on a gross nominal basis and 33% ex one-off gains, with nine of 11 S&P 500 sectors reporting double-digit revenue growth. On tech/AI earnings positioning, net exposure is in the fifth percentile going back one, three and five years specifically in tech; the broad S&P 500 12-month forward P/E is 18x, down from (about) 3x earlier in the year—a 20% de-rating; info tech is at its lowest level since 2022, below March and April 2025 levels. From marketing roadshows covering three companies and 15 cities in the last month, clients are using the midterm elections as a clearing event for risk and specifically see that period as when AI can outperform again; clients are happy to buy higher but not buy now into a major political event. A rotation back into unloved themes could see cyclicals, transports and home builders rally if there is a reprieve in interest rates. On retail flow, Citadel Securities executes about 35% to 40% of overall retail flow; retail is starting to look like professional investors with the use of AI and has made a dramatic move back into fixed income, buying 30-year inflation-adjusted notes collecting 3% above inflation—no longer just buying low-quality, unloved thematics but allocating to a portfolio that compounds like a model portfolio. Households own 53% of the U.S. stock market versus hedge funds at just 2%; passive ETFs have seen $1.6 trillion of inflows YTD, 60% higher than last year's record.",
-      "conclusion_zh": "当前AI交易的回调更多是机构去杠杆与仓位重置，而非基本面恶化；中期选举被视为风险出清节点，届时AI及部分周期性板块可能迎来轮动机会。",
-      "conclusion_en": "The current AI pullback is more about institutional deleveraging and positioning reset than deteriorating fundamentals; the midterms are seen as a risk-clearing catalyst that could pave the way for AI and select cyclicals to rotate higher.",
-      "key_points": [
-        {
-          "zh": "机构规则性去杠杆与散户激进抄底形成鲜明分化，散户上周以16周来最大力度买入半导体、新云和存储股。",
-          "en": "Rules-based institutional deleveraging contrasts sharply with aggressive retail dip-buying, with retail buying semis, neoclouds and memory stocks last week at the largest rate in 16 weeks."
-        },
-        {
-          "zh": "动量因子从年初至6月22日上涨70%后年内转负，AI赢家与输家价差从超100%大幅收敛，市场经历大规模平仓。",
-          "en": "The momentum factor, up 70% YTD through June 22, has turned negative for the year, and the AI winners-vs-laggards spread has sharply unwound from over 100% amid large-scale liquidation."
-        },
-        {
-          "zh": "市场宽度极端：38%的标普500成分股自高点回撤20%，而指数仅跌约150个基点；80%下跌日已超一年未出现。",
-          "en": "Extreme breadth divergence: 38% of S&P 500 stocks are in a 20% drawdown while the index is only down about 150 bps; an 80% down day has not occurred in over a year."
-        },
-        {
-          "zh": "Q3盈利预计同比增长27%，为2010年以来第三高；科技板块净敞口处于1/3/5年第五百分位，标普500远期市盈率18倍，较年初20%下调。",
-          "en": "Q3 earnings growth is expected at 27% YoY, the third highest since 2010; tech net exposure is in the fifth percentile over 1/3/5 years, and the S&P 500 forward P/E is 18x, a 20% de-rating from earlier in the year."
-        },
-        {
-          "zh": "客户将中期选举视为风险出清事件，认为AI届时可再度跑赢；若利率喘息，周期性、运输和住宅建筑商可能反弹。",
-          "en": "Clients view the midterms as a risk-clearing event and see AI outperforming again afterward; cyclicals, transports and home builders could rally if interest rates see a reprieve."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "deleveraging",
-        "retail flows",
-        "momentum unwind",
-        "midterms"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6SwuZmT1Pvc",
-      "title": "Oil Prices Could Crash — Diesel Might Not with Rory Johnston and Mikkel Rosenvold",
-      "title_zh": "中国削减原油进口如何阻止油价冲击200美元",
-      "url": "https://www.youtube.com/watch?v=6SwuZmT1Pvc",
-      "published_at": "2026-10-20T14:39:17+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "尽管伊朗战争与霍尔木兹海峡持续中断，油价并未触及200美元，Commodity Context创始人Rory Johnston认为中国大幅减少原油进口是避免更大全球能源冲击的关键原因。全球柴油短缺与俄罗斯炼油厂受损导致燃料价格居高不下，而原油供应恢复未能拉低成品油价。Johnston预计2027年布伦特原油可能回落至60美元区间，但柴油价格仍将高企。",
-      "summary_en": "Despite the war in Iran and ongoing disruptions in the Strait of Hormuz, oil never hit $200. Rory Johnston, founder of Commodity Context, argues that China's dramatic reduction in crude oil imports was key to preventing a much bigger global energy shock. A global diesel shortage and damaged Russian refineries have kept fuel prices elevated even as crude supply recovers. Johnston expects Brent could fall back into the $60s in 2027 while diesel remains painfully high.",
-      "detail_zh": "在Real Vision的访谈中，Mikkel Rosenvold与Commodity Context创始人Rory Johnston讨论了为何伊朗战争和霍尔木兹海峡中断未能将油价推升至200美元。Johnston指出，中国大幅减少原油进口帮助避免了更严重的全球能源冲击。访谈还深入探讨了全球柴油供应危机、俄罗斯炼油厂遭受重创、特朗普与普京达成的柴油协议，以及为何原油供应恢复未能带动燃料价格下降。Johnston分享了对2027年石油的展望，包括布伦特原油可能回落至60美元区间，而柴油价格仍将居高不下。讨论还涉及能源通胀持续高企的原因、中国石油需求的变化、高油价为何未摧毁需求，以及伊朗战争可能结束的时间点。",
-      "detail_en": "In a Real Vision interview, Mikkel Rosenvold sits down with Rory Johnston, founder of Commodity Context, to discuss why the war in Iran and disruptions in the Strait of Hormuz have not pushed oil to $200. Johnston explains that China's dramatic reduction in crude oil imports helped prevent a much bigger global energy shock. The conversation also unpacks the global diesel shortage, Russia's battered refineries, Trump's diesel deal with Putin, and why recovering crude supply hasn't brought fuel prices down. Johnston shares his outlook for oil in 2027, including why Brent could fall back into the $60s even as diesel prices remain painfully high. The discussion also covers why energy inflation remains high, China's changing oil demand, why high prices haven't destroyed demand, and when the Iran war could end.",
-      "conclusion_zh": "原油与成品油市场分化：布伦特2027年或回落至60美元区间，但柴油供应危机意味着燃料价格与能源通胀压力将持续更久。",
-      "conclusion_en": "Crude and refined products are diverging: Brent may fall into the $60s by 2027, but the diesel supply crisis means fuel prices and energy inflation pressures will persist longer.",
-      "key_points": [
-        {
-          "zh": "中国大幅减少原油进口是油价未触及200美元的关键原因，帮助避免了更大的全球能源冲击。",
-          "en": "China's dramatic reduction in crude oil imports was a key reason oil never hit $200, helping prevent a much bigger global energy shock."
-        },
-        {
-          "zh": "全球柴油供应危机持续，俄罗斯炼油厂受损，特朗普与普京达成柴油协议，但原油供应恢复未能拉低燃料价格。",
-          "en": "A global diesel supply crisis persists, with Russia's refineries battered and Trump striking a diesel deal with Putin, yet recovering crude supply hasn't brought fuel prices down."
-        },
-        {
-          "zh": "能源通胀持续高企，高油价尚未摧毁需求。",
-          "en": "Energy inflation remains high, and high prices haven't destroyed demand."
-        },
-        {
-          "zh": "Johnston预计2027年布伦特原油可能回落至60美元区间，但柴油价格仍将高企。",
-          "en": "Johnston expects Brent could fall back into the $60s in 2027, even as diesel prices remain painfully high."
-        }
-      ],
-      "tags": [
-        "oil",
-        "diesel",
-        "china",
-        "energy-inflation",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "https://bondvigilantes.com/?p=26825",
-      "title": "Rien de rien (Absolutely nothing)",
-      "title_zh": "法国国债与BBB级企业债利差趋同，市场重新定价主权信用风险",
-      "url": "https://bondvigilantes.com/blog/2026/10/rien-de-rien-absolutely-nothing/",
-      "published_at": "2026-10-20T14:26:11+00:00",
-      "source_name": "Bond Vigilantes (M&G)",
-      "source_kind": "article",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "法国7-10年期国债指数与同期限BBB级企业债指数的利差已基本消失，两者交易价格几乎持平。M&G指出，G7主权信用评级自本世纪以来持续缓慢恶化，政府在经济冲击后缺乏财政纪律修复债务，法国债务占GDP比重四十多年来持续上升。市场正在质疑法国国债相对企业债是否便宜，以及法国企业债是否应因质量更优而收益率低于国债。",
-      "summary_en": "The spread between the 7-10 year French government bond index and an equivalent-maturity BBB-rated corporate bond index has essentially collapsed, with the two now trading side by side. M&G notes that G7 sovereign credit ratings have deteriorated slowly but persistently since the turn of the century, as governments have lacked the fiscal discipline to repair debt damage after economic shocks, with French debt-to-GDP rising for over forty years. The market is questioning whether French government debt is cheap relative to French corporates, and whether French corporates should trade through governments given better quality.",
-      "detail_zh": "M&G在一份报告中指出，本季度重大经济事件之一是法国国债收益率的变动，最能说明问题的是其风险相对企业债的定价方式。图表显示，7-10年期法国国债指数与同期限BBB级企业债指数的利差已“崩溃”，两者几乎并排交易。市场传统上将债券资产分为三类：国债被视为无信用风险，投资级企业债信用风险有限且在经济下行中应相对稳定，高收益债信用风险更高。然而，G7自本世纪以来信用评级呈现缓慢但持续的恶化。政府财政恶化的原因包括金融危机、衰退和疫情应对，但更关键的是政府在风暴过后日益缺乏修复财政的纪律。以法国政府债务占GDP比重为例，全球金融危机和新冠疫情期间出现 spikes，整体呈稳步上升趋势，经济冲击带来支出台阶式增加。该图表覆盖四十多年债务上升期，逆转这一趋势需要持续的财政纪律，而这在多个选举周期中可能难以维持。报告提出两个问题：法国国债相对法国企业债是否便宜？法国企业债质量是否更优、应交易在国债收益率之下？最后以“法国选民是否会投票说‘Je ne regrette rien’（我无怨无悔）”作结。",
-      "detail_en": "M&G notes in a report that one of the major economic events this quarter has been the move in French government yields, best illustrated by how their risk is priced relative to corporate bonds. The chart shows the spread of the 7-10 year French government bond index to an equivalent-maturity BBB-rated corporate bond index has collapsed, with the two now trading side by side. Market convention divides bond asset classes into three categories: government bonds traditionally viewed as free of credit risk, investment grade with limited credit risk that should remain relatively stable in an economic downturn, and high yield with more credit risk and potential vulnerability. However, G7 credit ratings have shown a slow but fairly persistent deterioration since the turn of the century. Government finances have deteriorated due to the financial crisis, recession, and COVID response, but increasingly governments have lacked the fiscal discipline to repair the damage once the storm has passed. French government debt as a percentage of GDP shows spikes through the Global Financial Crisis and Covid-19, with a steady upward trend and step-ups for spending through economic shocks. The chart covers more than forty years of rising debt; reversing that trend would require sustained fiscal discipline, something that may prove difficult to maintain through several election cycles. The report asks: Is French debt cheap relative to French corporates? Are French corporates better quality and should trade through governments? It concludes with whether the French will vote and say 'Je ne regrette rien'.",
-      "conclusion_zh": "法国主权信用风险正被市场重新定价，国债与BBB级企业债利差趋同意味着投资者需重新审视主权债的“无风险”假设，并关注财政纪律缺失对欧元区核心国家债券的潜在冲击。",
-      "conclusion_en": "French sovereign credit risk is being repriced by the market, and the convergence of government and BBB corporate spreads means investors need to revisit the 'risk-free' assumption for sovereign debt and watch for potential shocks to core euro area bonds from the lack of fiscal discipline.",
-      "key_points": [
-        {
-          "zh": "7-10年期法国国债指数与同期限BBB级企业债指数的利差已基本消失，两者交易价格几乎持平。",
-          "en": "The spread between the 7-10 year French government bond index and an equivalent-maturity BBB-rated corporate bond index has essentially collapsed, with the two trading side by side."
-        },
-        {
-          "zh": "G7主权信用评级自本世纪以来缓慢但持续恶化，政府在经济冲击后缺乏财政纪律修复债务。",
-          "en": "G7 sovereign credit ratings have deteriorated slowly but persistently since the turn of the century, as governments lack fiscal discipline to repair debt after economic shocks."
-        },
-        {
-          "zh": "法国政府债务占GDP比重四十多年来持续上升，金融危机和疫情期间出现 spikes，经济冲击带来支出台阶式增加。",
-          "en": "French government debt-to-GDP has risen for over forty years, with spikes during the Global Financial Crisis and Covid-19, and step-ups in spending through economic shocks."
-        },
-        {
-          "zh": "逆转债务上升趋势需要持续的财政纪律，而这在多个选举周期中可能难以维持。",
-          "en": "Reversing the debt trend would require sustained fiscal discipline, which may prove difficult to maintain through several election cycles."
-        },
-        {
-          "zh": "报告提出两个问题：法国国债相对法国企业债是否便宜？法国企业债是否质量更优、应交易在国债收益率之下？",
-          "en": "The report asks: Is French debt cheap relative to French corporates? Are French corporates better quality and should trade through governments?"
-        }
-      ],
-      "tags": [
-        "French government bonds",
-        "credit spread",
-        "fiscal discipline",
-        "G7 sovereign ratings",
-        "corporate bonds"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:17AH6dUEwmE",
-      "title": "France Toughens Its Response To Protests After Riots and Looting",
-      "title_zh": "法国暴力与破坏事件后官员承认失败",
-      "url": "https://www.youtube.com/watch?v=17AH6dUEwmE",
-      "published_at": "2026-10-20T14:23:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "法国发生暴力与破坏事件后，官员承认失败。后续发展尚待观察。",
-      "summary_en": "After violence and vandalism rocked France, officials admitted failure. What happens next remains to be seen.",
-      "detail_zh": "原文仅提及法国经历暴力与破坏事件后，官员承认失败，并由Oliver Crook进行解释。未提供具体事件细节、数字、时间或后续措施。",
-      "detail_en": "The original text only mentions that after violence and vandalism rocked France, officials admitted failure, with Oliver Crook explaining. No specific details, numbers, dates, or follow-up measures are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "法国发生暴力与破坏事件",
-          "en": "Violence and vandalism occurred in France"
-        },
-        {
-          "zh": "法国官员承认失败",
-          "en": "French officials admitted failure"
-        },
-        {
-          "zh": "后续发展不确定",
-          "en": "What happens next is uncertain"
-        }
-      ],
-      "tags": [
-        "France",
-        "violence",
-        "vandalism",
-        "political instability"
       ],
       "tickers": [],
       "sentiment": "neutral"
