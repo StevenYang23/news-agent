@@ -1,6 +1,277 @@
 {
-  "generated_at": "2026-10-27T19:13:52.814259+00:00",
+  "generated_at": "2026-10-27T20:18:11.015740+00:00",
   "insights": [
+    {
+      "guid": "6ae101e25a3cc3c4c4f6273c",
+      "title": "How much is Anthropic really worth?",
+      "title_zh": "Anthropic IPO 或成史上最大，招股书难掩估值难题",
+      "url": "https://shows.acast.com/unhedged/episodes/how-much-is-anthropic-really-worth",
+      "published_at": "2026-10-27T20:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "Anthropic 的首次公开募股可能成为史上最大规模 IPO，其招股书宣称公司旨在造福全人类。Rob Armstrong 与 Lex 主编 John Foley 深入探讨了 Anthropic 为何难以估值，以及应如何担忧其所谓的“人类生存风险”。",
+      "summary_en": "Anthropic's IPO is shaping up to be the largest ever, with its prospectus framing the company as an enterprise for the benefit of humanity. Rob Armstrong and Lex head John Foley unpack why Anthropic is so hard to value and how worried we should be about the \"existential risks to humanity.\"",
+      "detail_zh": "Anthropic 的首次公开募股（IPO）正逐渐成形，有望成为有史以来规模最大的 IPO。该公司近期发布的招股书阐述了其如何作为一项造福全人类的事业。Rob Armstrong 和 Lex 主编 John Foley 在播客中超越招股书的高调措辞，深入分析了 Anthropic 为何难以估值。他们还讨论了应如何担忧招股书中所提及的“人类生存风险”。节目还提供了 Unhedged 新闻通讯的 30 天免费试用链接。",
+      "detail_en": "Anthropic's initial public offering is shaping up to be the largest ever. The firm's recently released prospectus explains how all of this is part of an enterprise for the benefit of the whole of humanity. Rob Armstrong and John Foley, head of Lex, go beyond the high-flying language to unpack why Anthropic is so hard to value and just how worried we should be about the \"existential risks to humanity.\" The episode also includes a link for a free 30-day trial to the Unhedged newsletter.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic 的 IPO 可能成为史上最大规模 IPO。",
+          "en": "Anthropic's IPO is shaping up to be the largest ever."
+        },
+        {
+          "zh": "招股书将公司定位为造福全人类的事业。",
+          "en": "The prospectus frames the company as an enterprise for the benefit of humanity."
+        },
+        {
+          "zh": "播客探讨了 Anthropic 难以估值的原因。",
+          "en": "The podcast unpacks why Anthropic is so hard to value."
+        },
+        {
+          "zh": "讨论涉及对“人类生存风险”的担忧程度。",
+          "en": "The discussion addresses how worried we should be about \"existential risks to humanity.\""
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "valuation",
+        "existential risk"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:9h_TCVUzhCo",
+      "title": "Israel Election Tests Netanyahu's Hold on Power",
+      "title_zh": "卡内基专家：特朗普背书对内塔尼亚胡选情影响有限",
+      "url": "https://www.youtube.com/watch?v=9h_TCVUzhCo",
+      "published_at": "2026-10-27T19:48:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "卡内基国际和平基金会高级研究员Aaron David Miller将特朗普对以色列选举中内塔尼亚胡的背书比作其祖母的鸡汤——有时没用，但不会有害。Miller指出，内塔尼亚胡与反对派挑战者Gadi Eisenkot在伊朗战争和定居者暴力问题上立场不同，但在国家安全议题上立场接近。",
+      "summary_en": "Aaron David Miller, senior fellow at the Carnegie Endowment for International Peace, likened Donald Trump's endorsement of Benjamin Netanyahu in Israel's election to his grandmother's chicken soup: 'it sometimes didn't help, but it couldn't hurt.' Miller noted that Netanyahu and opposition challenger Gadi Eisenkot hold differing views on the war with Iran and settler violence, but are close on national security issues.",
+      "detail_zh": "卡内基国际和平基金会高级研究员Aaron David Miller就特朗普在以色列选举中对内塔尼亚胡的背书发表评论，将其比作祖母的鸡汤，称“有时没用，但不会有害”。Miller表示，内塔尼亚胡与反对派挑战者Gadi Eisenkot在伊朗战争和定居者暴力问题上持有不同观点，但在国家安全议题上立场接近。该评论来自Bloomberg Radio的节目内容。",
+      "detail_en": "Aaron David Miller, senior fellow at the Carnegie Endowment for International Peace, commented on Donald Trump's endorsement of Benjamin Netanyahu in Israel's election, comparing it to his grandmother's chicken soup: 'it sometimes didn't help, but it couldn't hurt.' Miller said Netanyahu and opposition challenger Gadi Eisenkot hold differing views on the war with Iran and settler violence, but are close together on issues of national security. The remarks were made on Bloomberg Radio.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Miller将特朗普对内塔尼亚胡的背书比作“祖母的鸡汤”：有时没用，但不会有害。",
+          "en": "Miller likened Trump's endorsement of Netanyahu to 'grandmother's chicken soup': it sometimes didn't help, but it couldn't hurt."
+        },
+        {
+          "zh": "内塔尼亚胡与反对派挑战者Eisenkot在伊朗战争和定居者暴力问题上立场不同。",
+          "en": "Netanyahu and opposition challenger Eisenkot hold differing views on the war with Iran and settler violence."
+        },
+        {
+          "zh": "两人在国家安全议题上立场接近。",
+          "en": "The two are close together on issues of national security."
+        }
+      ],
+      "tags": [
+        "Israel election",
+        "Trump endorsement",
+        "Netanyahu",
+        "Middle East"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:8RmRhdjYmk0",
+      "title": "Goldman Sachs Chairman and CEO David Solomon on AI: Implementation, Accountability, and Jobs",
+      "title_zh": "高盛CEO所罗门：AI时代取胜并非创新与安全的二选一",
+      "url": "https://www.youtube.com/watch?v=8RmRhdjYmk0",
+      "published_at": "2026-10-27T19:28:38+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "高盛董事长兼CEO David Solomon 在访谈中表示，AI 监管辩论过于二元化，创新与安全并非取舍关系，而需建立政府、模型开发者与企业部署者三层责任框架。他认为企业部署 AI 时的人类问责机制被低估，并整体对 AI 带来的就业影响持偏乐观态度。",
+      "summary_en": "Goldman Sachs Chairman and CEO David Solomon argues that the AI debate is overly binary and that innovation and safety are not a trade-off, calling for a three-layer accountability framework spanning government, model developers, and enterprise deployers. He says human accountability in enterprise AI deployment is underappreciated and is broadly optimistic about AI's jobs impact.",
+      "detail_zh": "Solomon 在上周五发表的专栏文章中提出，当前 AI 辩论过度聚焦于“无护栏狂奔”与“重手监管拖慢进度”的二选一，而复杂重要的问题很少是二元的。他主张建立三层责任框架：第一层是政府设定“道路规则”；第二层是开发模型及基础设施的公司，须对技术有效且不造成伤害负责；第三层是将 AI 嵌入企业产品与服务的公司，须对部署方式及影响负责，而第三层获得的关注最少但同等重要。他以高盛近20年使用 AI 类交易平台为例，强调每个平台都附有人类问责，无法想象有人以“平台自己失控”为由推责。在风险管理上，他认为金融服务监管经验不能简单复制，但大型金融机构在风险、控制、审计与测试方面的长期实践值得借鉴，尤其经历了20年前的金融危机后，这些机构建立了测试、控制与赢得信任的基础设施；部分企业具备这类经验，另一些则需从头建设这一“新肌肉”。对于“AI时代取胜”的定义，他认为是既获得 AI 在科学、健康、药物研发、疾病等领域的巨大社会效益，又建立起对风险可管理的信任体系。就业方面，他更倾向“大跃迁”阵营但有保留：技术必然带来颠覆与自动化，关键在于节奏，以及因技术而催生的新业务与新岗位；美国经济每年平均创造和摧毁约3000万个岗位，净增约100万个，其中许多来自小企业。",
+      "detail_en": "In an op-ed published the prior Friday, Solomon argued the AI debate is overly focused on a binary choice between running without guardrails and heavy-handed regulation that slows progress, when complex and important issues are rarely binary. He proposed a three-layer accountability framework: government sets rules of the road; companies developing models and the infrastructure must be responsible for building technology that works and does no harm; and companies embedding AI into their enterprises and services must be responsible for how it is deployed and its impact—the third layer gets the least attention but is equally important. Citing Goldman Sachs' nearly 20 years of using AI-type models in trading platforms, he stressed that human accountability is attached to every platform and that he could not imagine someone blaming a platform for acting on its own. On risk management, he said financial services regulation cannot simply be replicated, but large financial institutions' long-developed risk, control, audit, and testing practices offer lessons—especially after the financial crisis 20 years ago, when they built infrastructure to test, control, and earn trust; some businesses have this experience, while others must build this \"new muscle group.\" Defining winning in the AI era, he said it means capturing AI's enormous societal benefits in science, wellness, health, drug discovery, and disease while building trust that the associated risks can be managed. On jobs, he leans toward the \"great leap forward\" camp with caveats: disruption and automation are certain, but the pace matters, as do the new businesses and jobs created; the US economy creates and destroys about 30 million jobs a year on average and generally creates about 1 million more than it destroys, with many coming from small businesses.",
+      "conclusion_zh": "Solomon 的核心判断是：AI 的社会效益与风险管理可以兼得，关键在于建立可问责的三层治理结构；对投资者而言，企业部署 AI 的治理能力与风控基础设施或成为区分赢家的重要维度。",
+      "conclusion_en": "Solomon's core judgment is that AI's societal benefits and risk management can coexist, with a three-layer accountable governance structure as the key; for investors, enterprises' AI deployment governance and risk-control infrastructure may become an important differentiator among winners.",
+      "key_points": [
+        {
+          "zh": "Solomon 认为 AI 辩论不应是创新与安全的二元取舍，而需更细致的讨论与“道路规则”。",
+          "en": "Solomon argues the AI debate should not be a binary trade-off between innovation and safety, but requires more nuance and rules of the road."
+        },
+        {
+          "zh": "他提出三层责任框架：政府设规则、模型开发者对技术负责、企业部署者对部署影响负责，第三层关注最少但同等重要。",
+          "en": "He proposes a three-layer accountability framework: government sets rules, model developers are responsible for the technology, and enterprise deployers are responsible for deployment impact—the third layer is least discussed but equally important."
+        },
+        {
+          "zh": "高盛近20年使用 AI 类交易平台，每个平台都有人类问责，无法接受“平台自行失控”的推责。",
+          "en": "Goldman Sachs has used AI-type trading platforms for nearly 20 years, each with human accountability; blaming a platform for acting on its own is unacceptable."
+        },
+        {
+          "zh": "大型金融机构在风险、控制、审计与测试方面的长期实践值得借鉴，但金融监管不能简单复制到 AI。",
+          "en": "Large financial institutions' long-standing risk, control, audit, and testing practices offer lessons, though financial regulation cannot simply be replicated for AI."
+        },
+        {
+          "zh": "就业上他偏乐观：技术会颠覆和自动化，但美国经济每年创造和摧毁约3000万岗位、净增约100万，新业务与新岗位是重要对冲。",
+          "en": "He is relatively optimistic on jobs: technology will disrupt and automate, but the US economy creates and destroys about 30 million jobs a year with a net gain of about 1 million, and new businesses and jobs are an important offset."
+        }
+      ],
+      "tags": [
+        "AI regulation",
+        "accountability",
+        "jobs",
+        "risk management",
+        "Goldman Sachs"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:O3mcuElU1JA",
+      "title": "One Week to Election Day",
+      "title_zh": "彭博《权力平衡》节目讨论中期选举与以色列大选",
+      "url": "https://www.youtube.com/watch?v=O3mcuElU1JA",
+      "published_at": "2026-10-27T19:08:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博《权力平衡》早间版聚焦美国中期选举与以色列大选，嘉宾包括卡内基国际和平基金会高级研究员Aaron David Miller、Stonecourt Capital合伙人Rick Davis等。节目章节涵盖市场（财报、美联储、大型科技股）、以色列选举、特朗普背书、中期选举选情与市场影响等议题，但原文仅提供章节标题，未包含具体讨论内容。",
+      "summary_en": "Bloomberg's Balance of Power early edition focuses on the U.S. midterm elections and Israel's election, featuring guests including Carnegie Endowment Senior Fellow Aaron David Miller and Stonecourt Capital Partner Rick Davis. Chapters cover markets (earnings, Fed, Big Tech), Israel's election, Trump's endorsement, midterm polling and market implications, but the source only provides chapter titles without substantive discussion content.",
+      "detail_zh": "该原文为彭博电视《权力平衡》早间版的节目介绍，列出了各章节标题及嘉宾名单。嘉宾包括卡内基国际和平基金会高级研究员Aaron David Miller、Stonecourt Capital合伙人Rick Davis、哈佛肯尼迪学院Ash中心访问民主研究员Jeanne Sheehan Zaino以及Precision Strategies高级合伙人Alex Conant。章节涵盖：市场（财报、美联储与大型科技股）、以色列对 Netanyahu 未来的投票、创纪录投票率与 Netanyahu 的政治斗争、以色列选举对 Netanyahu 的意义、特朗普的背书与以色列政治、以色列、伊朗与选举后展望、Netanyahu 的法律与政治未来、特朗普前往得克萨斯州为 Ken Paxton 助选、政治小组讨论负担能力与中期选举、民调、投票率与参议院之争、预测市场与政治民调、中期选举如何影响市场、民主党浪潮是否正在形成、堪萨斯、密西西比与共和党风险、竞选支出与候选人质量、跛脚鸭国会可能的面貌。原文未提供任何具体讨论内容、数据或观点引述。",
+      "detail_en": "The source is a program description for Bloomberg TV's Balance of Power early edition, listing chapter titles and guest names. Guests include Carnegie Endowment for International Peace Senior Fellow Aaron David Miller, Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino, and Precision Strategies Senior Partner Alex Conant. Chapters cover: Markets (Earnings, Fed & Big Tech); Israel Votes on Netanyahu's Future; Record Turnout & Netanyahu's Political Fight; What Israel's Election Means for Netanyahu; Trump's Endorsement & Israeli Politics; Israel, Iran & the Post-Election Outlook; Netanyahu's Legal & Political Future; Trump Heads to Texas for Ken Paxton; Political Panel: Affordability & the Midterms; Polls, Turnout & the Senate Battle; Prediction Markets vs. Political Polls; How the Midterms Could Move Markets; Is a Democratic Wave Building?; Kansas, Mississippi & Republican Risks; Campaign Spending & Candidate Quality; What a Lame-Duck Congress Could Look Like. The source provides no substantive discussion content, data, or quoted opinions.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目讨论美国中期选举，包括民调、投票率、参议院之争及对市场的影响。",
+          "en": "The program discusses the U.S. midterm elections, including polls, turnout, the Senate battle, and market implications."
+        },
+        {
+          "zh": "节目涉及以色列大选，聚焦 Netanyahu 的政治与法律前景。",
+          "en": "The program covers Israel's election, focusing on Netanyahu's political and legal future."
+        },
+        {
+          "zh": "嘉宾包括 Aaron David Miller、Rick Davis、Jeanne Sheehan Zaino 和 Alex Conant。",
+          "en": "Guests include Aaron David Miller, Rick Davis, Jeanne Sheehan Zaino, and Alex Conant."
+        },
+        {
+          "zh": "章节标题提及市场（财报、美联储、大型科技股）及中期选举如何影响市场。",
+          "en": "Chapter titles mention markets (earnings, Fed, Big Tech) and how the midterms could move markets."
+        },
+        {
+          "zh": "原文仅提供节目章节列表，未包含具体讨论内容或数据。",
+          "en": "The source only provides a chapter list without substantive discussion content or data."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Israel election",
+        "Netanyahu",
+        "market impact",
+        "Bloomberg TV"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:CoVjsOOuXLk",
+      "title": "Arctos CEO on safe haven investing status of sports teams",
+      "title_zh": "Arctos CEO：体育球队在缺乏避险资产的世界中具备避险属性",
+      "url": "https://www.youtube.com/watch?v=CoVjsOOuXLk",
+      "published_at": "2026-10-27T18:56:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Arctos管理合伙人兼CEO Ian Charles在Bloomberg Invest Dallas活动上表示，他认为人们尚未理解体育球队在避险资产稀缺的世界中所具备的避险地位。",
+      "summary_en": "Arctos Managing Partner and CEO Ian Charles said at Bloomberg Invest Dallas that he does not think people understand the safe-haven status of sports teams in a world where safe-haven assets are scarce.",
+      "detail_zh": "Arctos管理合伙人兼CEO Ian Charles在Bloomberg Invest Dallas活动上发言。他表示，在一个没有太多避险资产的世界里，人们并不理解体育球队的避险地位。该表态将体育球队资产置于避险资产的讨论框架中，但原文未提供具体数据、交易细节或进一步论证。",
+      "detail_en": "Arctos Managing Partner and CEO Ian Charles spoke at Bloomberg Invest Dallas. He said he doesn't think people understand the safe-haven status of sports teams in a world where there aren't many safe-haven assets. The remark frames sports team assets within a safe-haven discussion, but the source provides no specific data, transaction details or further argumentation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Arctos CEO Ian Charles认为体育球队具备避险资产属性。",
+          "en": "Arctos CEO Ian Charles views sports teams as having safe-haven characteristics."
+        },
+        {
+          "zh": "他指出当前世界中避险资产并不多。",
+          "en": "He noted that there aren't many safe-haven assets in the world today."
+        },
+        {
+          "zh": "他认为人们尚未理解体育球队的避险地位。",
+          "en": "He said people do not understand the safe-haven status of sports teams."
+        }
+      ],
+      "tags": [
+        "sports assets",
+        "safe haven",
+        "private markets"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:zg5I3L1cRa8",
+      "title": "What Anthropic's IPO Means for the AI Trade",
+      "title_zh": "Anthropic拟以史上最大IPO登陆纳斯达克，代码ANT",
+      "url": "https://www.youtube.com/watch?v=zg5I3L1cRa8",
+      "published_at": "2026-10-27T18:56:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic预计将通过IPO募资规模超过史上任何公司，并计划以代码ANT在纳斯达克上市。其公开市场表现可能巩固或动摇华尔街对AI热潮的信心，而当前投资者对支撑这轮热潮的借贷狂潮日益焦虑。",
+      "summary_en": "Anthropic is expected to raise more money in its IPO than any company in history and plans to list on Nasdaq under ticker ANT. Its public market performance could cement or capsize Wall Street's confidence in the AI boom, at a time when investors are increasingly anxious about the borrowing binge underpinning it.",
+      "detail_zh": "据彭博情报的Matt Bloxham介绍，Anthropic预计将通过首次公开募股募集的资金规模将超过历史上任何一家公司，并计划以股票代码ANT在纳斯达克上市。其上市后的公开市场表现，可能成为华尔街对AI热潮信心的关键考验——要么巩固这一信心，要么将其颠覆。当前投资者对支撑AI热潮的借贷狂潮日益感到焦虑，这使得Anthropic的IPO时机尤为敏感。原文未披露具体募资规模、估值或时间表。",
+      "detail_en": "According to Matt Bloxham of Bloomberg Intelligence, Anthropic is expected to raise more money in its initial public offering than any company in history and plans to list on the Nasdaq under the ticker ANT. Its public market performance could serve as a key test for Wall Street's confidence in the AI boom—either cementing it or capsizing it. Investors are increasingly anxious about the borrowing binge underpinning the AI boom, making the timing of Anthropic's IPO particularly sensitive. The original text does not disclose the specific fundraising size, valuation, or timetable.",
+      "conclusion_zh": "Anthropic的IPO将成为检验AI热潮信心的关键事件，其上市表现可能放大市场对AI相关债务风险的敏感度。",
+      "conclusion_en": "Anthropic's IPO will be a key test of confidence in the AI boom, and its post-listing performance could heighten market sensitivity to AI-related debt risks.",
+      "key_points": [
+        {
+          "zh": "Anthropic预计IPO募资规模将创历史纪录，超过任何一家公司。",
+          "en": "Anthropic is expected to raise more in its IPO than any company in history."
+        },
+        {
+          "zh": "公司计划以代码ANT在纳斯达克上市。",
+          "en": "The company plans to list on the Nasdaq under the ticker ANT."
+        },
+        {
+          "zh": "其公开市场表现可能巩固或动摇华尔街对AI热潮的信心。",
+          "en": "Its public market performance could cement or capsize Wall Street's confidence in the AI boom."
+        },
+        {
+          "zh": "投资者对支撑AI热潮的借贷狂潮日益焦虑。",
+          "en": "Investors are increasingly anxious about the borrowing binge underpinning the AI boom."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "Nasdaq",
+        "market confidence"
+      ],
+      "tickers": [
+        "ANT"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:LW51qWpTbv0",
       "title": "Credit Markets Send Mixed Signals | Thoughts on the Market",
@@ -11384,237 +11655,6 @@
         "IPO",
         "AI capex",
         "S1 filing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "6ad7c15a70af2b1aa78a5c69",
-      "title": "UK bets on a boring budget",
-      "title_zh": "英国财相将于10月28日公布预算，债务利息成焦点",
-      "url": "https://shows.acast.com/unhedged/episodes/uk-bets-on-a-boring-budget",
-      "published_at": "2026-10-20T20:00:00+00:00",
-      "source_name": "FT Unhedged",
-      "source_kind": "article",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "英国财政大臣John Healey将于10月28日发布年度预算。由于英国面临G7中最高的借贷成本，政府利息支付账单将成为其最希望控制的支出项目。FT经济学评论员Chris Giles向Katie Martin解释为何在公共财政方面“乏味”是好事。",
-      "summary_en": "UK Chancellor John Healey will deliver the annual budget on October 28. With the UK facing the highest borrowing costs in the G7, the government's interest payments bill will be the spending item he is most keen to control. FT economics commentator Chris Giles explains to Katie Martin why dull is good when it comes to public finances.",
-      "detail_zh": "英国财政大臣John Healey将于10月28日公布年度预算。英国目前面临七国集团（G7）中最高的借贷成本，因此政府利息支付账单将成为Healey最希望控制的支出项目。FT经济学评论员Chris Giles在播客中向Katie Martin阐述了为何在公共财政领域“乏味”反而是好事。节目还提供了Unhedged通讯的30天免费试用链接及联系方式。",
-      "detail_en": "UK Chancellor of the Exchequer John Healey will deliver his annual budget on October 28. The UK currently faces the highest borrowing costs in the G7, making the government's interest payments bill the spending item Healey will be most keen to get under control. FT economics commentator Chris Giles tells Katie Martin why dull is good when it comes to public finances. The podcast also includes a link for a free 30-day trial to the Unhedged newsletter and contact details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英国财政大臣John Healey将于10月28日公布年度预算。",
-          "en": "UK Chancellor John Healey will deliver the annual budget on October 28."
-        },
-        {
-          "zh": "英国面临G7中最高的借贷成本。",
-          "en": "The UK faces the highest borrowing costs in the G7."
-        },
-        {
-          "zh": "政府利息支付账单是Healey最希望控制的支出项目。",
-          "en": "The government's interest payments bill is the spending item Healey is most keen to control."
-        },
-        {
-          "zh": "FT评论员Chris Giles认为在公共财政方面“乏味”是好事。",
-          "en": "FT commentator Chris Giles argues that dull is good when it comes to public finances."
-        }
-      ],
-      "tags": [
-        "UK budget",
-        "borrowing costs",
-        "public finances",
-        "G7",
-        "interest payments"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_pQyVIbVjO0",
-      "title": "Red Districts in Range for Democrats",
-      "title_zh": "彭博《权力平衡》早间版：中期选举、地缘政治与市场展望",
-      "url": "https://www.youtube.com/watch?v=_pQyVIbVjO0",
-      "published_at": "2026-10-20T19:55:03+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "节目讨论了特朗普任内最后一场中期选举竞选冲刺、民主党评级变化、关键参议院选情，以及市场对财报季和中期选举的反应，并涉及SpaceX、AI支出与市场轮动。地缘方面涵盖乌克兰和平谈判、俄罗斯柴油交易及特朗普与普京、习近平的会晤提议。",
-      "summary_en": "The program discussed Trump's final midterm campaign push, shifting ratings toward Democrats, key Senate races, and markets bracing for earnings and the midterms, including SpaceX, AI spending, and market rotation. Geopolitically, it covered Ukraine peace talks, a Russia diesel deal, and a proposed Trump-Putin-Xi meeting.",
-      "detail_zh": "节目首先提及市场、通用汽车（GM）与狮门影业（Lionsgate）的收购谈判。随后转向地缘政治：乌克兰、泽连斯基与美国和平谈判，以及特朗普、普京与俄罗斯柴油交易。国内政治方面，聚焦特朗普任内最后一场中期选举竞选冲刺，嘉宾Jim Messina讨论中期选举前景，并涉及选举结果与潜在法律纠纷、竞选支出与提前投票。关键参议院选情包括堪萨斯、密歇根、明尼苏达（选情收紧）和密西西比（成为战场），以及南卡罗来纳、特朗普与对俄制裁。奥巴马重返竞选舞台，中期选举评级向民主党倾斜，部分共和党人试图与特朗普保持距离。市场部分关注财报季与中期选举，提及SpaceX、AI支出与投资者预期，以及市场轮动与AI交易。国际方面，美乌关系承压，泽连斯基、威特科夫与和平谈判，特朗普提议与普京、习近平会晤，伊朗、以色列与全球选举风险，特朗普背书内塔尼亚胡。",
-      "detail_en": "The program first mentioned markets, GM, and Lionsgate takeover talks. It then turned to geopolitics: Ukraine, Zelenskyy, and U.S. peace talks, as well as Trump, Putin, and a Russia diesel deal. On domestic politics, it focused on Trump's final midterm campaign push, with guest Jim Messina discussing the midterm outlook, election results and potential legal battles, campaign spending, and early voting. Key Senate races included Kansas, Michigan, Minnesota (tightening), and Mississippi (emerging as a battleground), as well as South Carolina, Trump, and Russia sanctions. Obama returned to the campaign trail, midterm ratings shifted toward Democrats, and some Republicans distanced themselves from Trump. The markets segment covered earnings and the midterms, mentioning SpaceX, AI spending, investor expectations, market rotation, and the AI trade. Internationally, it covered pressure on U.S.-Ukraine relations, Zelenskyy, Witkoff, and peace talks, Trump's proposal for a meeting with Putin and Xi, Iran, Israel, and global election risks, and Trump's endorsement of Netanyahu.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中期选举评级向民主党倾斜，部分共和党人试图与特朗普保持距离。",
-          "en": "Midterm ratings shift toward Democrats, with some Republicans distancing themselves from Trump."
-        },
-        {
-          "zh": "关键参议院选情包括堪萨斯、密歇根、明尼苏达（选情收紧）和密西西比（成为战场）。",
-          "en": "Key Senate races include Kansas, Michigan, Minnesota (tightening), and Mississippi (emerging battleground)."
-        },
-        {
-          "zh": "市场关注财报季与中期选举，并提及SpaceX、AI支出与市场轮动。",
-          "en": "Markets brace for earnings and the midterms, with mentions of SpaceX, AI spending, and market rotation."
-        },
-        {
-          "zh": "地缘政治议题涵盖乌克兰和平谈判、俄罗斯柴油交易及特朗普提议与普京、习近平会晤。",
-          "en": "Geopolitical topics include Ukraine peace talks, a Russia diesel deal, and Trump's proposed meeting with Putin and Xi."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "geopolitics",
-        "markets",
-        "AI",
-        "elections"
-      ],
-      "tickers": [
-        "GM"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:IML5WwarXhM",
-      "title": "Alberta Voters Reject Separation From Canada in Win for Carney",
-      "title_zh": "阿尔伯塔居民否决脱离加拿大，卡尼获喘息但挑战犹存",
-      "url": "https://www.youtube.com/watch?v=IML5WwarXhM",
-      "published_at": "2026-10-20T19:51:32+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "阿尔伯塔省居民在公投中否决了脱离加拿大的提议，这对总理马克·卡尼而言是一场胜利，但公投运动加剧了该国能源核心地带的分裂。卡尼仍面临艰巨挑战。",
-      "summary_en": "Alberta residents rejected separation from Canada, a victory for Prime Minister Mark Carney, but the historic referendum campaign deepened divisions in the country's energy heartland. Carney still faces an uphill battle.",
-      "detail_zh": "阿尔伯塔省居民投票否决了脱离加拿大的提议。这场历史性的公投运动在该国能源核心地带造成了分裂，而公投结果为总理马克·卡尼带来了一场胜利。然而，报道指出卡尼仍面临艰巨挑战。原文未提供公投的具体票数、投票率或后续政策细节。",
-      "detail_en": "Alberta residents voted against separating from Canada. The historic referendum campaign created divisions in the country's energy heartland, and the outcome delivered a victory for Prime Minister Mark Carney. However, the report notes that Carney still faces an uphill battle. The original text does not provide specific vote counts, turnout, or subsequent policy details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "阿尔伯塔居民否决脱离加拿大的提议",
-          "en": "Alberta residents rejected the idea of separating from Canada"
-        },
-        {
-          "zh": "公投运动在能源核心地带造成分裂",
-          "en": "The referendum campaign created divisions in the energy heartland"
-        },
-        {
-          "zh": "结果对总理马克·卡尼是一场胜利",
-          "en": "The outcome is a victory for Prime Minister Mark Carney"
-        },
-        {
-          "zh": "卡尼仍面临艰巨挑战",
-          "en": "Carney still faces an uphill battle"
-        }
-      ],
-      "tags": [
-        "Canada",
-        "Alberta",
-        "referendum",
-        "Mark Carney",
-        "energy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:rYnzz_I-hDY",
-      "title": "Crypto On The Ballot, Liquid Hack Fallout, AI Crypto Commerce",
-      "title_zh": "Bloomberg Crypto：比特币安全、AI支付与代币化趋势",
-      "url": "https://www.youtube.com/watch?v=rYnzz_I-hDY",
-      "published_at": "2026-10-20T19:34:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期Bloomberg Crypto节目讨论了比特币与Liquid网络的安全事件、AI代理支付与稳定币的兴起、美国加密监管（Clarity Act）的进展，以及Franklin Templeton等机构的代币化策略。嘉宾包括Blockstream CEO Adam Back、Chainalysis研究主管Eric Jardine、Jito Labs COO Rebecca Rettig和Franklin Templeton创新主管Sandy Kaul。",
-      "summary_en": "This Bloomberg Crypto episode covers security incidents on Bitcoin's Liquid Network, the rise of AI agent payments and stablecoins, U.S. crypto regulation (Clarity Act), and tokenization strategies from firms like Franklin Templeton. Guests include Blockstream CEO Adam Back, Chainalysis Head of Research Eric Jardine, Jito Labs COO Rebecca Rettig, and Franklin Templeton Head of Innovation Sandy Kaul.",
-      "detail_zh": "节目首先由Blockstream联合创始人兼CEO Adam Back讨论比特币及Liquid网络，提及Liquid网络遭遇黑客攻击的事件，并探讨了AI与加密安全风险、比特币面临的量子计算风险以及市场成熟度。随后Chainalysis研究主管Eric Jardine分析了AI代理加密支付的兴起，指出美国在代理商务（agentic commerce）方面领先，并比较了AI支付与传统支付轨道。在监管环节，嘉宾讨论了Clarity Act后的加密政策、SEC与CFTC的未来监管方向，以及代理支付与稳定币的关系。Jito Labs COO Rebecca Rettig则聚焦加密监管，探讨了中期选举后SEC与CFTC的规则制定、Clarity Act的伦理辩论及其失败原因。最后Franklin Templeton创新主管Sandy Kaul分享了该机构的代币化策略，包括代币化基金与代理支付、代币化与传统金融的融合、区块链轨道上的竞争以及谁将引领代币化金融。节目还提及摩根大通将JPM Coin扩展至以太坊，并比较了JPM Coin与稳定币，讨论了稳定币对汇款行业的颠覆以及移民与汇款行业的关系。",
-      "detail_en": "The episode begins with Blockstream Co-Founder & CEO Adam Back discussing Bitcoin and the Liquid Network, including a hack on the Liquid Network, AI and crypto security risks, Bitcoin's quantum computing risk, and market maturity. Chainalysis Head of Research Eric Jardine then analyzes the rise of AI agent crypto payments, noting U.S. leadership in agentic commerce and comparing AI payments to traditional payment rails. On regulation, guests discuss crypto policy after the Clarity Act, future SEC and CFTC regulation, and agentic payments and stablecoins. Jito Labs COO & Chief Legal Officer Rebecca Rettig focuses on crypto regulation, covering SEC and CFTC rules after the midterms, the Clarity Act ethics debate, and why the Clarity Act failed. Finally, Franklin Templeton Head of Innovation Sandy Kaul shares the firm's tokenization strategy, including tokenized funds and agentic payments, tokenization and traditional finance, competition on blockchain rails, and who will lead tokenized finance. The episode also mentions JPMorgan expanding JPM Coin to Ethereum, compares JPM Coin vs. stablecoins, and discusses stablecoins disrupting money transfers and the remittance industry.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Blockstream的Liquid网络遭遇黑客攻击，引发对加密安全风险的关注。",
-          "en": "Blockstream's Liquid Network suffered a hack, raising concerns about crypto security risks."
-        },
-        {
-          "zh": "Chainalysis指出AI代理加密支付正在兴起，美国在代理商务领域领先。",
-          "en": "Chainalysis notes the rise of AI agent crypto payments, with the U.S. leading in agentic commerce."
-        },
-        {
-          "zh": "监管讨论聚焦Clarity Act的失败原因及SEC与CFTC的未来规则制定。",
-          "en": "Regulatory discussion focuses on why the Clarity Act failed and future SEC and CFTC rulemaking."
-        },
-        {
-          "zh": "Franklin Templeton分享了其代币化策略，探讨代币化基金与代理支付。",
-          "en": "Franklin Templeton shares its tokenization strategy, exploring tokenized funds and agentic payments."
-        },
-        {
-          "zh": "摩根大通将JPM Coin扩展至以太坊，稳定币对汇款行业产生颠覆性影响。",
-          "en": "JPMorgan expands JPM Coin to Ethereum, and stablecoins are disrupting the remittance industry."
-        }
-      ],
-      "tags": [
-        "crypto",
-        "bitcoin",
-        "stablecoins",
-        "tokenization",
-        "regulation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:dZ6PvtdNgA0",
-      "title": "THE GREATEST TRAGEDY OF MANKIND | RAY DALIO",
-      "title_zh": "达利欧：固守错误观点是最大悲剧，应主动压力测试",
-      "url": "https://www.youtube.com/watch?v=dZ6PvtdNgA0",
-      "published_at": "2026-10-20T19:15:32+00:00",
-      "source_name": "Principles by Ray Dalio",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "桥水创始人达利欧指出，人最大的悲剧是持有错误观点而不自知，这阻碍了正确决策与协作。他强调，承认可能犯错并主动将观点拿出来压力测试，能提高正确概率；而教育体系和社会过度奖励“永远正确”，反而妨碍吸收有用信息。",
-      "summary_en": "Ray Dalio argues that the greatest tragedy is holding a wrong opinion, which obstructs good decision-making and collaboration. He stresses that acknowledging the possibility of being wrong and actively stress-testing one's views raises the probability of being right, while an education system and society that reward always being right hinder absorbing helpful information.",
-      "detail_zh": "达利欧认为，人类最大的悲剧是头脑中持有错误观点，这阻碍许多人做出正确决策以及彼此良好协作。他指出这种悲剧之所以严重，是因为它很容易修正：只需把观点摆出来并对其进行压力测试。他建议承认自己可能犯错，并询问如何恰当地压力测试该观点；通过压力测试，可以提高正确的概率。他还批评教育体系和社会中许多机制奖励“永远正确”，但这种心态会妨碍人们吸收外界真正有帮助的信息。",
-      "detail_en": "Dalio argues that the greatest tragedy of mankind is holding a wrong opinion, which stands in the way of many people making good decisions and operating well with each other. He says the tragedy is severe because it is so easily fixed: all one has to do is put the opinion out there and stress test it. He advises acknowledging the possibility of being wrong and asking how to properly stress test that opinion, since stress testing raises the probabilities of being right. He also criticizes the education system and many things in society for rewarding always being right, noting that this mindset stands in the way of taking in information that can really help.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "最大悲剧是持有错误观点而不自知，阻碍决策与协作。",
-          "en": "The greatest tragedy is holding a wrong opinion, which obstructs decision-making and collaboration."
-        },
-        {
-          "zh": "错误观点容易修正：摆出来并压力测试即可。",
-          "en": "Wrong opinions are easily fixed: put them out there and stress test them."
-        },
-        {
-          "zh": "承认可能犯错并压力测试，能提高正确的概率。",
-          "en": "Acknowledging the possibility of being wrong and stress-testing raises the probability of being right."
-        },
-        {
-          "zh": "教育体系和社会奖励“永远正确”，反而妨碍吸收有用信息。",
-          "en": "The education system and society reward always being right, which hinders absorbing helpful information."
-        }
-      ],
-      "tags": [
-        "decision-making",
-        "principles",
-        "stress-testing",
-        "Ray Dalio"
       ],
       "tickers": [],
       "sentiment": "neutral"
