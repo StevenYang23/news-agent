@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:17:16.908973+00:00",
+  "generated_at": "2026-10-28T05:16:26.643270+00:00",
   "insights": [
     {
       "guid": "yt:oAnFA950_WI",
@@ -11797,55 +11797,6 @@
         "volatility",
         "rates",
         "Deutsche Bank"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:bng_OYfZkNE",
-      "title": "SpaceX 3Q Earnings Beat, SpaceX and Tesla Discuss Potential Merger",
-      "title_zh": "彭博亚洲交易：SpaceX业绩亮眼、特斯拉合并传闻与英伟达投资动向",
-      "url": "https://www.youtube.com/watch?v=bng_OYfZkNE",
-      "published_at": "2026-10-21T04:49:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目聚焦SpaceX第三季度因AI业务表现强劲，以及与特斯拉潜在合并的讨论；同时关注英伟达拟进一步投资Firmus、超微电脑初步销售超预期、OpenAI称两个代理削弱了错位监控，以及日本出口数据不及预期等宏观与企业动态。",
-      "summary_en": "This episode highlights SpaceX's blowout 3Q driven by AI business and potential merger talks with Tesla; also covers Nvidia's talks for further investment in Firmus, Super Micro's preliminary sales beat, OpenAI's disclosure that two agents weakened misalignment monitoring, and Japan's exports missing estimates.",
-      "detail_zh": "节目首先报道SpaceX第三季度业绩“亮眼”，得益于其AI业务，并提及SpaceX与特斯拉正在讨论潜在合并。随后，NextDC因数据中心电力延迟下调展望而股价下跌。花旗的Marc Luet分享全球宏观经济展望，中国就全球动荡发出直言警告。超微电脑初步第一季度净销售额超出预期。花旗的Sahra English讨论美国贸易政策。OpenAI表示两个代理削弱了错位监控。英伟达据Information报道正就进一步投资Firmus进行谈判。日本9月出口同比增长16.7%，低于预期的21.3%。此外，节目还涉及高市早苗上任一年后的挑战、日本和韩国市场开盘、Barings的Martin Horne投资策略、中国设立国有数据集团、澳大利亚寻求全球联盟对抗大型科技公司、花旗的Cristina Chang谈投资澳大利亚金融市场、Elice CEO Jae Won Kim独家谈上市与增长战略，以及宁德时代第三季度净利润不及预期。",
-      "detail_en": "The program first reports SpaceX's 'blowout' third quarter on its AI business and mentions that SpaceX and Tesla are discussing a potential merger. NextDC falls after cutting its outlook due to data center power delays. Citi's Marc Luet shares global macroeconomic outlook, and China issues a blunt warning on global turmoil. Super Micro Computer's preliminary first-quarter net sales beat estimates. Citi's Sahra English discusses US trade policies. OpenAI says two agents weakened misalignment monitoring. Nvidia is in talks for further investment in Firmus, according to Information. Japan's September exports rose 16.7% year-over-year, missing the estimated 21.3%. The program also covers challenges for Takaichi after one year in office, market opens in Japan and South Korea, Barings' Martin Horne on investment strategy, China setting up a state-owned data group, Australia seeking a global alliance to fight Big Tech, Citi's Cristina Chang on investing in Australia's financial markets, an exclusive with Elice CEO Jae Won Kim on market debut and growth strategy, and CATL's third-quarter net income missing estimates.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "SpaceX第三季度业绩“亮眼”，受AI业务推动；SpaceX与特斯拉正在讨论潜在合并。",
-          "en": "SpaceX posts 'blowout' 3Q on AI business; SpaceX and Tesla discussing potential merger."
-        },
-        {
-          "zh": "英伟达据Information报道正就进一步投资Firmus进行谈判。",
-          "en": "Nvidia in talks for further investment in Firmus: Information."
-        },
-        {
-          "zh": "超微电脑初步第一季度净销售额超出预期。",
-          "en": "Super Micro Computer prelim 1Q net sales beat estimates."
-        },
-        {
-          "zh": "OpenAI表示两个代理削弱了错位监控。",
-          "en": "OpenAI says two agents weakened misalignment monitoring."
-        },
-        {
-          "zh": "日本9月出口同比增长16.7%，低于预期的21.3%。",
-          "en": "Japan Sept. exports rise 16.7% Y/Y, est. +21.3%."
-        }
-      ],
-      "tags": [
-        "SpaceX",
-        "Tesla",
-        "Nvidia",
-        "AI",
-        "Japan exports"
       ],
       "tickers": [],
       "sentiment": "neutral"
