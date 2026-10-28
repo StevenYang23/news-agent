@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:12:25.873177+00:00",
+  "generated_at": "2026-10-28T00:38:40.227546+00:00",
   "insights": [
     {
       "guid": "yt:oAnFA950_WI",
@@ -11940,42 +11940,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:HpPFyujFnFc",
-      "title": "Ken Griffin on finding common ground across party lines",
-      "title_zh": "Citadel CEO Griffin 呼吁两党合作，称特朗普中期选举面临挑战",
-      "url": "https://www.youtube.com/watch?v=HpPFyujFnFc",
-      "published_at": "2026-10-20T23:38:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Citadel CEO Ken Griffin 呼吁加强两党合作，认为政治分歧不应阻碍寻求共识，并表示特朗普总统将在中期选举中面临挑战。",
-      "summary_en": "Citadel CEO Ken Griffin calls for stronger bipartisanship, arguing political differences should not stand in the way of finding common ground, and says President Trump will face challenges in the midterm elections.",
-      "detail_zh": "Citadel CEO Ken Griffin 呼吁加强两党合作，认为政治分歧不应成为寻求共识的障碍。他还表示，特朗普总统将在中期选举中面临挑战。原文未提供更多具体细节、数字或政策主张。",
-      "detail_en": "Citadel CEO Ken Griffin calls for stronger bipartisanship, arguing that political differences should not stand in the way of finding common ground. He also says President Trump will face challenges in the midterm elections. The source provides no further specifics, figures, or policy proposals.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Griffin 呼吁加强两党合作，认为政治分歧不应阻碍共识。",
-          "en": "Griffin calls for stronger bipartisanship, saying political differences should not block common ground."
-        },
-        {
-          "zh": "Griffin 表示特朗普总统将在中期选举中面临挑战。",
-          "en": "Griffin says President Trump will face challenges in the midterm elections."
-        }
-      ],
-      "tags": [
-        "bipartisanship",
-        "midterm elections",
-        "Ken Griffin",
-        "Citadel"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
