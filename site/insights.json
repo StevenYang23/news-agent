@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:38:40.227546+00:00",
+  "generated_at": "2026-10-28T02:20:29.891189+00:00",
   "insights": [
     {
       "guid": "yt:oAnFA950_WI",
@@ -11900,46 +11900,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:VQfD72IBymI",
-      "title": "Big Take: CoreWeave And The Fragile AI Economy",
-      "title_zh": "CoreWeave债务问题引发投资者担忧",
-      "url": "https://www.youtube.com/watch?v=VQfD72IBymI",
-      "published_at": "2026-10-21T02:17:30+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博Big Take播客指出，CoreWeave的债务状况令部分投资者感到不安，这一财务压力折射出AI热潮的潜在风险，以及云基础设施提供商未来面临的挑战。",
-      "summary_en": "Bloomberg's Big Take podcast notes that CoreWeave's debt is rattling some investors, and the financial strain reveals risks in the AI boom and challenges ahead for cloud infrastructure providers.",
-      "detail_zh": "彭博Big Take播客今日节目聚焦CoreWeave的债务问题，指出该公司的债务状况正令部分投资者感到不安。节目探讨了CoreWeave的财务压力如何反映AI热潮的现状，以及云基础设施提供商未来可能面临的前景。原文未提供具体债务数据、投资者引述或详细分析，仅以概述形式引出话题。",
-      "detail_en": "Today's Big Take podcast focuses on CoreWeave's debt, noting that the company's debt is rattling some investors. The episode explores what the financial strain reveals about the AI boom and what lies ahead for cloud infrastructure providers. The original text does not provide specific debt figures, investor quotes, or detailed analysis, only a brief overview.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "CoreWeave的债务问题引发部分投资者担忧。",
-          "en": "CoreWeave's debt is rattling some investors."
-        },
-        {
-          "zh": "该公司的财务压力被视为AI热潮的一个缩影。",
-          "en": "The company's financial strain is seen as a reflection of the AI boom."
-        },
-        {
-          "zh": "节目讨论云基础设施提供商的未来前景。",
-          "en": "The podcast discusses what lies ahead for cloud infrastructure providers."
-        }
-      ],
-      "tags": [
-        "CoreWeave",
-        "AI boom",
-        "cloud infrastructure",
-        "debt"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
