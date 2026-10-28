@@ -1,6 +1,246 @@
 {
-  "generated_at": "2026-10-28T13:17:51.066585+00:00",
+  "generated_at": "2026-10-28T14:17:47.333715+00:00",
   "insights": [
+    {
+      "guid": "yt:O9hpofhSRN0",
+      "title": "Bolsonaro Reportedly Arrives Miami Amid Investigations",
+      "title_zh": "巴西总统选举后弗拉维奥·博索纳罗抵达迈阿密",
+      "url": "https://www.youtube.com/watch?v=O9hpofhSRN0",
+      "published_at": "2026-10-28T13:51:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据《环球报》报道，巴西总统选举失利后，弗拉维奥·博索纳罗已前往迈阿密。该消息仅涉及政治人物动向，未提供更多细节或市场影响分析。",
+      "summary_en": "Flávio Bolsonaro arrived in Miami after fleeing Brazil following a defeat in its presidential election, according to O Globo. The report provides no further details or market implications.",
+      "detail_zh": "据《环球报》报道，弗拉维奥·博索纳罗在巴西总统选举中失利后离开巴西，抵达迈阿密。原文仅包含这一事实陈述，未提及选举具体时间、对手、得票率或其他背景信息，也未涉及任何金融市场或资产价格影响。",
+      "detail_en": "According to O Globo, Flávio Bolsonaro arrived in Miami after fleeing Brazil following a defeat in its presidential election. The original text contains only this factual statement, with no additional details on the election timing, opponent, vote share, or any market or asset price implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "弗拉维奥·博索纳罗在巴西总统选举失利后前往迈阿密。",
+          "en": "Flávio Bolsonaro went to Miami after a defeat in Brazil's presidential election."
+        },
+        {
+          "zh": "该信息来源于《环球报》。",
+          "en": "The information is sourced from O Globo."
+        },
+        {
+          "zh": "原文未提供选举细节或市场影响分析。",
+          "en": "The original text provides no election details or market impact analysis."
+        }
+      ],
+      "tags": [
+        "Brazil",
+        "election",
+        "Bolsonaro",
+        "Miami"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:GcA_cL9Vn8M",
+      "title": "Netanyahu Moves Ahead of Eisenkot in Israeli Vote Count",
+      "title_zh": "以色列大选计票超70%：内塔尼亚胡领先但组阁前景不明",
+      "url": "https://www.youtube.com/watch?v=GcA_cL9Vn8M",
+      "published_at": "2026-10-28T13:47:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "以色列大选计票超过70%，内塔尼亚胡领先反对派领导人甘茨·艾森科特，但双方均无明确组阁路径。内塔尼亚胡阵营预计获54席，艾森科特阵营47席，以色列阿拉伯政党获19席。",
+      "summary_en": "With over 70% of votes counted in Israel's tight election, Prime Minister Benjamin Netanyahu leads opposition leader Gadi Eisenkot, but neither has a clear path to forming a government. Netanyahu's bloc is projected to win 54 seats, Eisenkot's 47, and Israeli Arab parties 19 in the 120-member Knesset.",
+      "detail_zh": "以色列大选计票工作已推进超过70%，现任总理本杰明·内塔尼亚胡在激烈的选举竞争中领先反对派领导人加迪·艾森科特。截至周三上午的计票数据，内塔尼亚胡阵营预计在120席的议会（Knesset）中获得54席，艾森科特阵营预计获得47席，以色列阿拉伯政党预计获得19席。目前，内塔尼亚胡和艾森科特均未展现出明确的组阁路径。该报道由彭博电视台的Abeer Abu Omar提供。",
+      "detail_en": "More than 70% of votes have been counted in Israel's tight election, with Prime Minister Benjamin Netanyahu leading opposition leader Gadi Eisenkot. As of Wednesday morning, Netanyahu's bloc is projected to win 54 seats and Eisenkot's 47 in the 120-member Knesset, with 19 seats going to Israeli Arab parties. So far, neither Netanyahu nor Eisenkot has a clear path toward forming a government. The report is by Abeer Abu Omar on Bloomberg Television.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "计票超70%，内塔尼亚胡领先艾森科特。",
+          "en": "Over 70% of votes counted, Netanyahu leads Eisenkot."
+        },
+        {
+          "zh": "内塔尼亚胡阵营预计获54席，艾森科特阵营47席。",
+          "en": "Netanyahu's bloc projected to win 54 seats, Eisenkot's 47."
+        },
+        {
+          "zh": "以色列阿拉伯政党预计获19席。",
+          "en": "Israeli Arab parties projected to win 19 seats."
+        },
+        {
+          "zh": "双方均无明确组阁路径。",
+          "en": "Neither has a clear path to forming a government."
+        }
+      ],
+      "tags": [
+        "Israel election",
+        "Netanyahu",
+        "Eisenkot",
+        "Knesset",
+        "coalition formation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6q8DYJdMtug",
+      "title": "Fed Communication Has Gotten Confusing, Economist Sahm Says",
+      "title_zh": "Sahm称有强经济理由加息25个基点",
+      "url": "https://www.youtube.com/watch?v=6q8DYJdMtug",
+      "published_at": "2026-10-28T13:45:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "New Century Advisors首席经济学家Claudia Sahm表示，当前存在“强经济理由”支持美联储加息25个基点。她同时指出市场对美联储沟通策略存在困惑。",
+      "summary_en": "Claudia Sahm, chief economist at New Century Advisors, said there is a \"strong economic argument\" for raising rates by a quarter point today. She also examined the level of confusion around the Federal Reserve's communication strategy.",
+      "detail_zh": "在Bloomberg Surveillance节目中，New Century Advisors首席经济学家Claudia Sahm表示：“我认为今天有强经济理由加息25个基点。”她同时分析了围绕美联储沟通策略的困惑程度。原文未提供更多关于加息理由、通胀或就业数据的具体细节，也未阐述她对美联储沟通问题的具体看法。",
+      "detail_en": "Speaking on Bloomberg Surveillance, Claudia Sahm, chief economist at New Century Advisors, said: \"I think there is a strong economic argument for raising rates today by a quarter point.\" She also examined the level of confusion around the Federal Reserve's communication strategy. The source does not provide further specifics on the economic rationale, inflation or labor data, nor does it elaborate on her views regarding the Fed's communication issues.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Claudia Sahm认为有强经济理由支持加息25个基点。",
+          "en": "Claudia Sahm sees a strong economic argument for a 25bp rate hike."
+        },
+        {
+          "zh": "她指出市场对美联储沟通策略存在困惑。",
+          "en": "She points to confusion around the Fed's communication strategy."
+        },
+        {
+          "zh": "原文未提供支持加息的具体经济数据或细节。",
+          "en": "The source does not provide specific economic data or details supporting the hike."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate hike",
+        "communication",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:DOdw9ycMQv0",
+      "title": "Gopinath Says Fed Can Skip a Rate Hike",
+      "title_zh": "前IMF副总裁Gopinath预计美联储将维持利率不变",
+      "url": "https://www.youtube.com/watch?v=DOdw9ycMQv0",
+      "published_at": "2026-10-28T13:31:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前IMF副总裁Gita Gopinath预计美联储将维持利率不变，并认为延迟行动不会对货币条件产生巨大差异。",
+      "summary_en": "Former IMF Deputy Managing Director Gita Gopinath expects the Federal Reserve to leave interest rates unchanged, saying a delay won't make a huge difference in monetary conditions.",
+      "detail_zh": "前IMF副总裁、全球经济实验室创始主任Gita Gopinath在“Bloomberg Surveillance”节目中表示，她预计美联储将维持利率不变。她指出，延迟行动不会对货币条件产生巨大差异。",
+      "detail_en": "Gita Gopinath, former IMF Deputy Managing Director and founding director of the Global Economics Lab, said on \"Bloomberg Surveillance\" that she expects the Federal Reserve to leave interest rates unchanged. She noted that a delay won't make a huge difference in monetary conditions.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Gita Gopinath预计美联储将维持利率不变。",
+          "en": "Gita Gopinath expects the Federal Reserve to leave interest rates unchanged."
+        },
+        {
+          "zh": "她认为延迟行动不会对货币条件产生巨大差异。",
+          "en": "She believes a delay won't make a huge difference in monetary conditions."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "interest rates",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:vkJOg9QuUGg",
+      "title": "What to Expect From the Federal Reserve Decision",
+      "title_zh": "美联储料按兵不动，市场已定价12月加息",
+      "url": "https://www.youtube.com/watch?v=vkJOg9QuUGg",
+      "published_at": "2026-10-28T13:18:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "华尔街预计美联储将在本次政策会议上维持利率不变，但市场已完全定价12月加息。彭博的Michael McKee将带来更多前瞻。",
+      "summary_en": "Wall Street expects the Federal Reserve to hold rates steady at this meeting, but markets have already priced in a full hike in December. Bloomberg's Michael McKee has more on what to expect.",
+      "detail_zh": "据彭博电视报道，华尔街普遍预期美联储将在美东时间下午2点公布的政策决定中维持利率不变。然而，市场定价显示，投资者已完全预期美联储将在12月加息。彭博的Michael McKee将就后续政策前景提供更多分析。原文未提供具体加息幅度、当前利率水平或更多经济数据细节。",
+      "detail_en": "According to Bloomberg Television, Wall Street broadly expects the Federal Reserve to leave interest rates unchanged in its policy decision to be released at 2 pm ET. However, market pricing indicates that investors have fully priced in a rate hike in December. Bloomberg's Michael McKee will provide further analysis on the policy outlook. The original text does not provide specific hike magnitude, current rate level, or additional economic data details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "华尔街预计美联储本次会议维持利率不变",
+          "en": "Wall Street expects the Fed to hold rates steady at this meeting"
+        },
+        {
+          "zh": "市场已完全定价12月加息",
+          "en": "Markets have fully priced in a December hike"
+        },
+        {
+          "zh": "政策决定将于美东时间下午2点公布",
+          "en": "The policy decision will be released at 2 pm ET"
+        }
+      ],
+      "tags": [
+        "Fed",
+        "interest rates",
+        "monetary policy",
+        "December hike"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:AYP0npmpDIo",
+      "title": "Sachs: Netanyahu, Eisenkot Share Strategic Goals",
+      "title_zh": "以色列大选计票进行中，内塔尼亚胡与艾森科特阵营组阁前景不明",
+      "url": "https://www.youtube.com/watch?v=AYP0npmpDIo",
+      "published_at": "2026-10-28T13:13:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "以色列大选计票仍在进行，尚无明确胜者。中东研究所高级研究员Natan Sachs向彭博表示，内塔尼亚胡与艾森科特阵营的组阁形势尚不明朗。",
+      "summary_en": "Vote counting is still underway in Israel with no clear winner in sight. Natan Sachs, Senior Fellow at the Middle East Institute, told Bloomberg that the path to forming a government for Netanyahu and Eisenkot's blocs remains unclear as results trickle in.",
+      "detail_zh": "以色列大选计票工作仍在进行中，目前没有明确的获胜方。中东研究所高级研究员Natan Sachs在彭博电视台《Horizons Middle East & Africa》节目中，与主持人Abeer Abu Omar讨论了内塔尼亚胡和艾森科特阵营组建新政府的前景。Sachs的评论发表之际，相关阵营的计票结果正陆续出炉。原文未提供具体席位数字、得票率或组阁谈判的进一步细节。",
+      "detail_en": "Vote counting is still underway in Israel with no clear winner in sight. Natan Sachs, Senior Fellow at the Middle East Institute, spoke to Bloomberg's Abeer Abu Omar on Horizons Middle East & Africa about the prospects for Netanyahu and Eisenkot's blocs to form the new government as the numbers trickled in. The original text does not provide specific seat counts, vote percentages, or further details on coalition negotiations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "以色列大选计票仍在进行，尚无明确胜者。",
+          "en": "Vote counting is still underway in Israel with no clear winner in sight."
+        },
+        {
+          "zh": "中东研究所高级研究员Natan Sachs就内塔尼亚胡与艾森科特阵营的组阁前景发表评论。",
+          "en": "Natan Sachs, Senior Fellow at the Middle East Institute, commented on the prospects for Netanyahu and Eisenkot's blocs to form a government."
+        },
+        {
+          "zh": "相关讨论发生在彭博电视台《Horizons Middle East & Africa》节目中。",
+          "en": "The discussion took place on Bloomberg's Horizons Middle East & Africa."
+        }
+      ],
+      "tags": [
+        "Israel election",
+        "Netanyahu",
+        "Eisenkot",
+        "government formation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:olteq357864",
       "title": "Does France Answer to Its Citizens or the Bond Market?",
@@ -11937,98 +12177,6 @@
         "eVTOL",
         "aviation",
         "low-altitude economy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:BMdLiG8J7-g",
-      "title": "Why The Era Of Easy-To-Ignore Bonds Might Be Over",
-      "title_zh": "10年期美债收益率突破5%，债券市场重回焦点",
-      "url": "https://www.youtube.com/watch?v=BMdLiG8J7-g",
-      "published_at": "2026-10-21T14:00:26+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "10年期美国国债收益率近期升破5%，为二十多年来最高水平。对更高利率、联邦借贷以及为AI投资融资的需求预期，使债券市场成为关注焦点。CNBC解释收益率上升的原因、5%对华尔街的意义，以及更高的债券回报是否会改变投资者在股票与债券之间的选择。",
-      "summary_en": "The 10-year U.S. Treasury yield recently climbed above 5%, its highest level in more than two decades. Expectations for higher interest rates, federal borrowing and demand for financing AI investments are putting the bond market in focus. CNBC explains why yields are rising, why 5% matters to Wall Street, and whether higher bond returns could change how investors choose between stocks and bonds.",
-      "detail_zh": "10年期美国国债收益率近期升破5%，创下二十多年来最高水平。CNBC指出，对更高利率的预期、联邦借贷需求，以及为人工智能投资融资的需求，共同将债券市场推至聚光灯下。视频由Matt Peterson和Liz Napolitano报道，分两部分展开：收益率为何上升，以及股票与债券之间的投资选择。核心问题在于，5%这一水平对华尔街意味着什么，以及更高的债券回报是否会改变投资者在股票与债券之间的配置决策。",
-      "detail_en": "The 10-year U.S. Treasury yield recently climbed above 5%, its highest level in more than two decades. CNBC notes that expectations for higher interest rates, federal borrowing needs, and demand for financing AI investments are putting the bond market in focus. Reported by Matt Peterson and Liz Napolitano, the video is structured in two parts: why yields are rising, and investing in stocks versus bonds. The central question is what the 5% level means for Wall Street and whether higher bond returns could change how investors choose between stocks and bonds.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "10年期美债收益率近期升破5%，为二十多年来最高。",
-          "en": "The 10-year Treasury yield recently climbed above 5%, the highest in more than two decades."
-        },
-        {
-          "zh": "收益率上升的驱动因素包括更高利率预期、联邦借贷以及为AI投资融资的需求。",
-          "en": "Drivers of rising yields include expectations for higher interest rates, federal borrowing, and demand for financing AI investments."
-        },
-        {
-          "zh": "5%的水平对华尔街具有重要意义，并引发股票与债券之间选择的讨论。",
-          "en": "The 5% level matters to Wall Street and raises the question of choosing between stocks and bonds."
-        }
-      ],
-      "tags": [
-        "Treasury yields",
-        "bond market",
-        "interest rates",
-        "stocks vs bonds",
-        "AI financing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-nDxML0csuM",
-      "title": "CoreWeave's Debt Is Cracking. AI Stocks Are Falling. So Why Is Andy Constan Watching Bond Issuance?",
-      "title_zh": "AI需求强劲与融资压力并存，CoreWeave风险引关注",
-      "url": "https://www.youtube.com/watch?v=-nDxML0csuM",
-      "published_at": "2026-10-21T13:54:32+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Damped Spring Advisors的Andy Constan指出，AI建设正从轻资产转向资本密集型基础设施，CoreWeave等公司面临融资风险，但融资环境困难可能只导致股票损失而非金融危机。他同时讨论了国债借款、回购和季度再融资公告对市场的影响，并透露自己持有债券和少量股票空头。",
-      "summary_en": "Andy Constan of Damped Spring Advisors explains that the AI buildout is shifting from asset-light to capital-intensive infrastructure, with companies like CoreWeave facing funding risks, but a difficult financing environment may cause stock losses without a financial crisis. He also discusses Treasury borrowing, buybacks, and the quarterly refunding announcement, and discloses his positioning with bonds and short equity exposure.",
-      "detail_zh": "Andy Constan在播客中分析了AI行业从现金生成型轻资产业务向资本密集型基础设施的转变，并以CoreWeave为例说明其融资风险。他指出，债券收益率上升不会立即改变现有固定票息，但融资环境困难可能伤害投资者而不引发金融危机。Constan还探讨了国债借款、支出和储蓄与资本价格的相互作用，以及短期国债和长期债券的组合对市场的重要性。他讨论了国债回购、非活跃债券和利率抑制的观点，并分析了20年期国债和季度再融资公告的可能结果。此外，他强调了强劲盈利与市场广度的重要性，以及年末税收驱动的资金流和业绩追逐的激励。最后，他提出了他认真对待的看涨理由，但表示自己仍持有债券和股票空头暴露。",
-      "detail_en": "Andy Constan analyzes the AI industry's shift from cash-generating, asset-light businesses to capital-intensive infrastructure, citing CoreWeave as an example of funding risks. He notes that rising bond yields do not immediately change existing fixed coupons, but a difficult financing environment can hurt investors without causing a financial crisis. Constan also explores how borrowing, spending, and savings interact with the price of capital, and why the mix of Treasury bills and longer-term bonds matters for markets. He discusses Treasury buybacks, off-the-run bonds, and the argument about interest-rate suppression, and analyzes the 20-year Treasury and possible outcomes of the quarterly refunding announcement. Additionally, he highlights strong earnings and market breadth, tax-driven year-end flows, and incentives behind performance chasing. Finally, he presents the bull case he takes seriously but says he is positioned with some bonds and short equity exposure.",
-      "conclusion_zh": "投资者应关注AI基础设施公司的融资风险，同时留意国债再融资公告和利率走势对市场的影响；Constan的持仓表明在强劲盈利与融资压力并存下保持谨慎。",
-      "conclusion_en": "Investors should watch funding risks for AI infrastructure companies and monitor Treasury refunding announcements and interest rate trends; Constan's positioning suggests caution amid strong earnings and financing pressures.",
-      "key_points": [
-        {
-          "zh": "AI建设正从轻资产转向资本密集型基础设施，需要更多外部资本。",
-          "en": "The AI buildout is shifting from asset-light to capital-intensive infrastructure, requiring more outside capital."
-        },
-        {
-          "zh": "CoreWeave的融资风险值得关注，但融资环境困难可能只导致股票损失而非金融危机。",
-          "en": "CoreWeave's funding risks are noteworthy, but a difficult financing environment may cause stock losses without a financial crisis."
-        },
-        {
-          "zh": "国债借款、回购和季度再融资公告对市场有重要影响，短期国债与长期债券的组合是关键。",
-          "en": "Treasury borrowing, buybacks, and the quarterly refunding announcement have important market implications, and the mix of T-bills and longer-term bonds is key."
-        },
-        {
-          "zh": "强劲盈利与市场广度是看涨理由，但融资压力和持续高收益率构成看跌风险。",
-          "en": "Strong earnings and market breadth support the bull case, but financing pressures and persistently higher yields pose bearish risks."
-        },
-        {
-          "zh": "Andy Constan持有债券和股票空头暴露，表明其对市场持谨慎态度。",
-          "en": "Andy Constan holds bonds and short equity exposure, indicating a cautious stance on the market."
-        }
-      ],
-      "tags": [
-        "AI infrastructure",
-        "CoreWeave",
-        "Treasury refunding",
-        "financing risk",
-        "market positioning"
       ],
       "tickers": [],
       "sentiment": "neutral"
