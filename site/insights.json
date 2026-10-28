@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-10-28T17:15:35.685784+00:00",
+  "generated_at": "2026-10-28T18:20:10.875924+00:00",
   "insights": [
+    {
+      "guid": "yt:lf0-zXqHoBM",
+      "title": "40 Million Transactions Per Second Still Isn't Enough?",
+      "title_zh": "AI代理与比特币：快速问答观点",
+      "url": "https://www.youtube.com/watch?v=lf0-zXqHoBM",
+      "published_at": "2026-10-28T18:00:13+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "在快速问答中，受访者认为AI代理将成为人类的队友而非威胁，并认为比特币既是价值存储又是生产性资产，同时确认每秒4000万笔交易对AI代理是必要的。",
+      "summary_en": "In a rapid-fire Q&A, the interviewee stated that AI agents will be teammates rather than threats, views Bitcoin as both a store of value and a productive asset, and affirmed that 40 million transactions per second are necessary for AI agents.",
+      "detail_zh": "在快速问答环节，受访者被问及多个话题。对于“基于账户还是基于对象”，受访者表示世界不是电子表格，因此倾向于基于账户。关于AI代理，受访者认为它们是人类的队友，相信与代理做朋友会比将其视为竞争对手更有生产力，并明确表示自己不属于末日论阵营。关于比特币，受访者认为它既是价值存储又是生产性资产，因为可以借入而不卖出，且其价值会随时间上涨。对于每秒4000万笔交易的公告，受访者认为AI代理绝对需要这样的处理能力，甚至需要更多。",
+      "detail_en": "In a rapid-fire Q&A, the interviewee was asked about several topics. On 'account-based or object-based', the interviewee said the world isn't a spreadsheet, so account-based. Regarding AI agents, the interviewee sees them as teammates, believing we'll be more productive with agents as friends rather than as combatants, and explicitly stated not being in the doomerism camp. On Bitcoin, the interviewee views it as both a store of value and a productive asset because you can borrow against it without selling, and it will go up in value over time. As for the announcement of 40 million transactions per second, the interviewee said agents will absolutely need that and more.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "AI代理被视为人类的队友，而非威胁。",
+          "en": "AI agents are seen as teammates, not threats."
+        },
+        {
+          "zh": "受访者不属于AI末日论阵营。",
+          "en": "The interviewee is not in the AI doomerism camp."
+        },
+        {
+          "zh": "比特币既是价值存储又是生产性资产，因为可以借入而不卖出。",
+          "en": "Bitcoin is both a store of value and a productive asset because you can borrow against it without selling."
+        },
+        {
+          "zh": "每秒4000万笔交易对AI代理是必要的。",
+          "en": "40 million transactions per second are necessary for AI agents."
+        }
+      ],
+      "tags": [
+        "AI agents",
+        "Bitcoin",
+        "transactions",
+        "rapid fire"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:aKgrTrFpdbg",
+      "title": "High Oil Prices Are Temporary, Says Secretary Wright",
+      "title_zh": "美国能源部长称高油价为暂时中断",
+      "url": "https://www.youtube.com/watch?v=aKgrTrFpdbg",
+      "published_at": "2026-10-28T17:50:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国能源部长Chris Wright表示，因伊朗战争导致的高油价是“短期中断”，并称正动用大规模军事力量保障船只通过霍尔木兹海峡。他拒绝预测油价后续走势。",
+      "summary_en": "US Energy Secretary Chris Wright said high oil prices are a \"short term interruption\" due to the war in Iran, and that large military forces are being used to get ships through the Strait of Hormuz. He declined to predict where oil prices will go.",
+      "detail_zh": "美国能源部长Chris Wright将当前的高油价定性为“短期中断”，并将其归因于伊朗战争。他表示，正动用大规模军事力量以确保船只能够通过霍尔木兹海峡。Wright拒绝预测油价的下一步走势。原文未提供具体油价水平、军事行动细节或时间表。",
+      "detail_en": "US Energy Secretary Chris Wright characterized current high oil prices as a \"short term interruption\" caused by the war in Iran. He said large military forces are being used to get ships through the Strait of Hormuz. Wright would not predict where oil prices will go from here. The original text does not provide specific oil price levels, details of military operations, or a timeline.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "高油价被归因于伊朗战争，能源部长称其为“短期中断”。",
+          "en": "High oil prices are attributed to the war in Iran, which the Energy Secretary calls a \"short term interruption.\""
+        },
+        {
+          "zh": "美国正动用大规模军事力量保障霍尔木兹海峡的船只通行。",
+          "en": "The US is using large military forces to get ships through the Strait of Hormuz."
+        },
+        {
+          "zh": "能源部长拒绝预测油价后续走势。",
+          "en": "The Energy Secretary declined to predict where oil prices will go from here."
+        }
+      ],
+      "tags": [
+        "oil",
+        "Iran war",
+        "Strait of Hormuz",
+        "energy",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PxIiU9Gdr2o",
+      "title": "Open Interest 10/28/2026",
+      "title_zh": "SK海力士利润强劲提振AI交易，微软与Alphabet财报及美联储决议成焦点",
+      "url": "https://www.youtube.com/watch?v=PxIiU9Gdr2o",
+      "published_at": "2026-10-28T17:16:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "SK海力士的强劲利润重新点燃AI交易，内存芯片需求旺盛未见放缓。微软和Alphabet将在财报季最繁忙的一天发布业绩，美联储预计维持利率不变但保留12月行动的可能性。",
+      "summary_en": "SK Hynix's powerful profits refuel the AI trade as booming memory chip demand shows no signs of slowing. Microsoft and Alphabet gear up to report on the busiest day of earnings season, while the Fed is expected to hold rates but keep the door open to a December move.",
+      "detail_zh": "节目围绕AI交易与宏观政策展开。SK海力士的强劲利润为AI交易注入动力，内存芯片需求旺盛且未见放缓迹象。微软和Alphabet将在标普500财报季最繁忙的一天发布业绩。美联储主席Kevin Warsh成为焦点，市场预计美联储今日维持利率不变，同时保留12月行动的可能性。Nuveen首席投资官Saira Malik与高盛首席美国经济学家David Mericle将分析影响2026年剩余时间市场展望的因素。此外，节目还涉及Wendy's收购猜测、德州参议院选举、Anthropic IPO结构及零售配售计划、AI债务发行与私人信贷风险、贝克休斯与AI数据中心建设等话题。",
+      "detail_en": "The program centers on the AI trade and macro policy. SK Hynix's powerful profits refuel the AI trade, with booming memory chip demand showing no signs of slowing. Microsoft and Alphabet are set to report on the busiest day of earnings season for the S&P 500. Fed Chair Kevin Warsh takes the spotlight, with the Fed expected to hold rates today while keeping the door open to a December move. Nuveen CIO Saira Malik and Goldman Sachs Chief US Economist David Mericle break down forces shaping the market outlook through the rest of 2026. Other topics include Wendy's takeover speculation, the Texas Senate race, Anthropic's IPO structure and retail allocation plans, AI debt issuance and private credit risks, and Baker Hughes' role in AI data center buildout.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "SK海力士强劲利润重新点燃AI交易，内存芯片需求旺盛未见放缓。",
+          "en": "SK Hynix's powerful profits refuel the AI trade, with booming memory chip demand showing no signs of slowing."
+        },
+        {
+          "zh": "微软和Alphabet将在标普500财报季最繁忙的一天发布业绩。",
+          "en": "Microsoft and Alphabet gear up to report on the busiest day of earnings season for the S&P 500."
+        },
+        {
+          "zh": "美联储预计今日维持利率不变，但保留12月行动的可能性。",
+          "en": "The Fed is expected to hold rates today while keeping the door open to a December move."
+        },
+        {
+          "zh": "Nuveen的Saira Malik和高盛的David Mericle将分析2026年剩余时间的市场展望。",
+          "en": "Nuveen's Saira Malik and Goldman Sachs' David Mericle break down the market outlook through the rest of 2026."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "memory chips",
+        "Fed policy",
+        "earnings season",
+        "SK Hynix"
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:x4p4NpI35Yk",
       "title": "How Nir Bar Dea went from 33-year-old intern to Bridgewater CEO",
@@ -5471,6 +5605,64 @@
         "market sentiment"
       ],
       "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "4957218",
+      "title": "Wall Street Breakfast: What Moved Markets This Week",
+      "title_zh": "科技股抛售与油价攀升拖累美股，资金涌入国债",
+      "url": "https://seekingalpha.com/article/4957218-wall-street-breakfast-what-moved-markets-this-week?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-24T12:00:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility"
+      ],
+      "summary_zh": "本周美股主要指数多数下跌，科技股持续遭抛售，Meta因诉讼费用和AI资本支出指引下跌8.3%。油价因中东局势紧张上涨，WTI升至103美元，布伦特涨6.2%至116美元。资金从科技股轮动至国债，10年期收益率降至5.00%。",
+      "summary_en": "Major U.S. indexes mostly fell this week amid a persistent tech selloff, with Meta dropping 8.3% on litigation charges and AI capex guidance. Oil prices rose on Middle East tensions, with WTI at $103 and Brent up 6.2% to $116. Traders rotated from tech into Treasuries, pushing the 10-year yield down to 5.00%.",
+      "detail_zh": "本周美股主要指数多数走低，科技板块持续遭遇抛售，同时油价攀升。Meta公布第三季度财报后本周下跌8.3%，财报显示99亿美元诉讼费用、资本支出高企，且指引暴露了公司AI基础设施建设的规模。其他科技股亦显著下跌：CoreWeave跌9.4%，Lumentum跌8.7%，Synopsys跌7.1%，Keysight跌5.9%，Teradyne跌5%。油价方面，有报道称美国与以色列可能计划攻击伊朗，中东战争加剧，推动原油期货升至103美元，本周上涨1.8%；布伦特原油报116美元/桶，本周上涨6.2%。美债收益率大幅波动，市场从科技股轮动至国债，引发近年来最大规模资金逃离科技股。10年期收益率本周下降1.6%至5.00%，30年期下降1.8%至5.33%，2年期下降0.4%至4.70%。经济数据方面，10月美国PMI综合指数降至57.6，符合预期；制造业PMI高于共识，服务业PMI略低于预期。9月新屋开工意外下降，建筑许可持稳；成屋签约销售下降7.3%，降幅超预期。全周标普500跌0.5%，纳斯达克跌0.7%，道指涨0.4%。",
+      "detail_en": "Major U.S. indexes mostly declined this week amid a persistent technology selloff and rising oil prices. Meta fell 8.3% after reporting Q3 earnings that included a $9.9B litigation charge, elevated capital expenditures, and guidance revealing the scale of its AI infrastructure buildout. Other tech names also fell sharply: CoreWeave -9.4%, Lumentum -8.7%, Synopsys -7.1%, Keysight -5.9%, and Teradyne -5%. Oil prices rose after reports that the U.S. and Israel could be planning to attack Iran as Middle East tensions intensify. Crude oil futures rose to $103, up 1.8% for the week, while Brent was at $116 per barrel, up 6.2%. Treasury yields saw big swings as traders rotated away from tech equities into Treasuries, triggering the largest flight in recent years. The 10-year yield declined 1.6% to 5.00%, the 30-year fell 1.8% to 5.33%, and the 2-year dropped 0.4% to 4.70%. In economic news, the October U.S. PMI Composite fell to 57.6, as expected; manufacturing PMI rose above consensus while services PMI was slightly below expectations. September housing starts unexpectedly fell, building permits held up, and pending home sales dropped 7.3%, more than expected. For the week, the S&P 500 lost 0.5%, the Nasdaq Composite fell 0.7%, and the Dow gained 0.4%.",
+      "conclusion_zh": "科技股因AI资本支出担忧和估值压力持续承压，资金轮动至国债和防御性板块，短期关注油价与中东局势对通胀预期的扰动。",
+      "conclusion_en": "Tech stocks remain under pressure from AI capex concerns and valuation headwinds, with capital rotating into Treasuries and defensive sectors; watch oil prices and Middle East tensions for inflation implications.",
+      "key_points": [
+        {
+          "zh": "Meta本周下跌8.3%，因财报显示99亿美元诉讼费用、资本支出高企及AI基础设施大规模建设指引。",
+          "en": "Meta fell 8.3% this week after earnings showed a $9.9B litigation charge, elevated capex, and guidance revealing a large-scale AI infrastructure buildout."
+        },
+        {
+          "zh": "油价因中东紧张局势上涨，WTI升至103美元（周涨1.8%），布伦特报116美元（周涨6.2%）。",
+          "en": "Oil prices rose on Middle East tensions, with WTI at $103 (up 1.8% for the week) and Brent at $116 (up 6.2%)."
+        },
+        {
+          "zh": "资金从科技股轮动至国债，10年期收益率降至5.00%，30年期降至5.33%，2年期降至4.70%。",
+          "en": "Traders rotated from tech into Treasuries, pushing the 10-year yield to 5.00%, the 30-year to 5.33%, and the 2-year to 4.70%."
+        },
+        {
+          "zh": "美国10月PMI综合指数降至57.6符合预期；9月新屋开工意外下降，成屋签约销售降7.3%超预期。",
+          "en": "U.S. October PMI Composite fell to 57.6 as expected; September housing starts unexpectedly fell and pending home sales dropped 7.3%, more than expected."
+        },
+        {
+          "zh": "全周标普500跌0.5%，纳斯达克跌0.7%，道指涨0.4%。",
+          "en": "For the week, the S&P 500 lost 0.5%, the Nasdaq fell 0.7%, and the Dow gained 0.4%."
+        }
+      ],
+      "tags": [
+        "tech selloff",
+        "oil prices",
+        "Treasury yields",
+        "AI capex",
+        "market rotation"
+      ],
+      "tickers": [
+        "META",
+        "CRWV",
+        "LITE",
+        "SNPS",
+        "KEYS",
+        "TER"
+      ],
       "sentiment": "negative"
     },
     {
@@ -11885,135 +12077,6 @@
         "White House",
         "media",
         "press briefing room"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:MFybU0OroOE",
-      "title": "The VIX Expiration Effect: Why Stocks Can Get a Tailwind",
-      "title_zh": "VIX期权持仓与到期或成股市顺风，VIX gamma机制有别于个股",
-      "url": "https://www.youtube.com/watch?v=MFybU0OroOE",
-      "published_at": "2026-10-21T17:47:04+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility"
-      ],
-      "summary_zh": "Brent Kochuba在SpotGamma订阅者问答中解释，VIX期权持仓和到期可能为股票创造顺风，并指出VIX gamma的作用机制与个股gamma不同。内容为教育性质，不构成投资建议。",
-      "summary_en": "Brent Kochuba explains in a SpotGamma subscriber Q&A that VIX options positioning and expiration can create a tailwind for stocks, and that VIX gamma works differently from single-stock gamma. The content is educational and not investment advice.",
-      "detail_zh": "该内容录制于2026年10月20日SpotGamma订阅者问答环节，市场水平和期权定价反映该场次情况。Brent Kochuba在讨论中说明，VIX期权的持仓分布与到期事件可能对股票市场形成顺风。他同时强调，VIX gamma的作用机制与单一股票gamma并不相同。原文未提供具体的VIX点位、期权持仓数据或股票目标位。内容标注为教育用途，不构成投资建议，并提示期权交易涉及风险。",
-      "detail_en": "Recorded on October 20, 2026 during the SpotGamma subscriber Q&A, with market levels and option pricing reflecting that session. Brent Kochuba explains that VIX options positioning and expiration can create a tailwind for stocks. He also notes that VIX gamma works differently from single-stock gamma. The original text does not provide specific VIX levels, options positioning data, or stock price targets. The content is marked for educational purposes only, not investment advice, and notes that options involve risk.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "VIX期权持仓和到期可能为股票创造顺风",
-          "en": "VIX options positioning and expiration can create a tailwind for stocks"
-        },
-        {
-          "zh": "VIX gamma的作用机制与个股gamma不同",
-          "en": "VIX gamma works differently from single-stock gamma"
-        },
-        {
-          "zh": "内容录制于2026年10月20日SpotGamma订阅者问答",
-          "en": "Recorded October 20, 2026 during the SpotGamma subscriber Q&A"
-        },
-        {
-          "zh": "内容为教育性质，不构成投资建议，期权涉及风险",
-          "en": "For educational purposes only; not investment advice; options involve risk"
-        }
-      ],
-      "tags": [
-        "VIX",
-        "options",
-        "gamma",
-        "volatility"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:M7PrSBTP5e8",
-      "title": "Why Gold Calls Looked Cheap: An Options Case Study",
-      "title_zh": "SpotGamma 问答：黄金期权偏斜与看涨逻辑",
-      "url": "https://www.youtube.com/watch?v=M7PrSBTP5e8",
-      "published_at": "2026-10-21T17:46:41+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility",
-        "macro"
-      ],
-      "summary_zh": "Brent Kochuba 在 SpotGamma 订阅者问答中分析了黄金期权的持仓与偏斜，指出当时看涨期权相对便宜，并讨论了支撑上行逻辑的宏观条件。内容为教育性质，不构成投资建议。",
-      "summary_en": "Brent Kochuba examined gold options positioning and skew during a SpotGamma subscriber Q&A, noting that calls looked relatively inexpensive at the time and discussing the macro conditions relevant to an upside thesis. The content is for educational purposes only and not investment advice.",
-      "detail_zh": "在 2026 年 10 月 20 日录制的 SpotGamma 订阅者问答中，Brent Kochuba 聚焦黄金期权的持仓与偏斜结构。他指出，从当时的期权定价看，看涨期权显得相对便宜。Kochuba 还讨论了若金价上行需要关注的宏观条件，但原文未展开具体条件内容。市场价位与期权定价均反映该场次时点。该内容仅供教育用途，不构成投资建议，且期权交易涉及风险。",
-      "detail_en": "In a SpotGamma subscriber Q&A recorded on October 20, 2026, Brent Kochuba focused on gold options positioning and skew. He noted that calls looked relatively inexpensive based on option pricing at the time. Kochuba also discussed the macro conditions that would matter for an upside thesis, though the original text does not elaborate on the specific conditions. Market levels and option pricing reflect that session. The content is for educational purposes only, not investment advice, and options involve risk.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Brent Kochuba 分析了黄金期权的持仓与偏斜结构。",
-          "en": "Brent Kochuba examined gold options positioning and skew."
-        },
-        {
-          "zh": "他指出当时看涨期权相对便宜。",
-          "en": "He noted that calls looked relatively inexpensive at the time."
-        },
-        {
-          "zh": "他讨论了黄金上行逻辑所依赖的宏观条件。",
-          "en": "He discussed the macro conditions relevant to an upside thesis for gold."
-        },
-        {
-          "zh": "内容录制于 2026 年 10 月 20 日 SpotGamma 订阅者问答。",
-          "en": "The content was recorded during the SpotGamma subscriber Q&A on October 20, 2026."
-        }
-      ],
-      "tags": [
-        "gold",
-        "options",
-        "skew",
-        "SpotGamma"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:sDMIzvqrros",
-      "title": "Legendary Entertainment Makes Bid for Lionsgate Studios",
-      "title_zh": "传奇娱乐重启对狮门影业的收购谈判",
-      "url": "https://www.youtube.com/watch?v=sDMIzvqrros",
-      "published_at": "2026-10-21T17:41:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "据知情人士透露，传奇娱乐已重启谈判并向狮门影业提出收购要约。狮门影业是《饥饿游戏》和《疾速追杀》等影片的制片方。",
-      "summary_en": "Legendary Entertainment has revived talks and made a takeover offer for Lionsgate Studios Corp., according to people familiar with the matter. Lionsgate is the studio behind films such as The Hunger Games and John Wick.",
-      "detail_zh": "据知情人士透露，传奇娱乐已重启对狮门影业公司的收购谈判，并提出了收购要约。狮门影业是《饥饿游戏》和《疾速追杀》等电影的制片方。该消息由Chris Palmeri报道。原文未披露交易金额、具体条款或谈判进展等细节。",
-      "detail_en": "Legendary Entertainment has revived talks and made a takeover offer for Lionsgate Studios Corp., according to people familiar with the matter. Lionsgate is the studio behind movies such as The Hunger Games and John Wick. The report was by Chris Palmeri. No deal value, terms, or further details were disclosed in the original text.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "传奇娱乐重启对狮门影业的收购谈判并提出要约",
-          "en": "Legendary Entertainment has revived talks and made a takeover offer for Lionsgate Studios"
-        },
-        {
-          "zh": "狮门影业是《饥饿游戏》和《疾速追杀》等影片的制片方",
-          "en": "Lionsgate is the studio behind films such as The Hunger Games and John Wick"
-        },
-        {
-          "zh": "消息来自知情人士，由Chris Palmeri报道",
-          "en": "The information comes from people familiar with the matter, reported by Chris Palmeri"
-        }
-      ],
-      "tags": [
-        "M&A",
-        "media",
-        "entertainment",
-        "takeover"
       ],
       "tickers": [],
       "sentiment": "neutral"
