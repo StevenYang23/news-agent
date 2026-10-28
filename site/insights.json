@@ -1,6 +1,359 @@
 {
-  "generated_at": "2026-10-28T18:20:10.875924+00:00",
+  "generated_at": "2026-10-28T19:15:18.959735+00:00",
   "insights": [
+    {
+      "guid": "yt:o7OxZY4kRp8",
+      "title": "Sherman: AI Buildout Doesn't Pencil Out Yet",
+      "title_zh": "AI债务扩张能否善终？分析师称难以测算，循环融资暗藏薄弱环节",
+      "url": "https://www.youtube.com/watch?v=o7OxZY4kRp8",
+      "published_at": "2026-10-28T18:43:11+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "针对AI债务扩张是否有圆满结局，受访教授表示理论上存在出路，但当前无法测算出可行路径，最终必须依靠收入变现。他指出循环融资本身不是核心问题，真正风险在于链条的强度取决于最薄弱环节，而近期一家薄弱公司登上头条，将成为首次压力测试。",
+      "summary_en": "Asked whether the AI debt buildup can have a happy ending, the professor said a way out exists in theory but he cannot pencil out the math yet, stressing that revenue must ultimately be monetized. He argued circular financing itself is not the core problem; the real risk is that the chain is only as strong as its weakest link, and a weak company recently in the headlines will serve as the first stress test.",
+      "detail_zh": "主持人询问AI债务累积在数学上是否存在圆满结局，还是纯粹是循环融资。受访教授回应称，出路是有的，但他目前无法测算出来。他强调最终必须创造收入，而目前市场关注的是算力成本等，却鲜有人将资本开支扩张归因于具体的投资回报率（ROI）。他认为投资回报必须被变现，并半开玩笑地提到在AI中植入广告可能是变现方式之一。他指出，按当前支出水平和循环融资模式来看，情况比较艰难。他澄清自己并不想把循环融资说成纯粹的负面词汇，但当一家公司向另一家公司采购并形成应收账款时，问题在于整个链条的强度取决于最薄弱的一环。当前挑战在于，过去几周有一家非常薄弱的公司登上头条，且正处于该链条之中，他认为这将成为第一次良好的压力测试。最后他重申，目前还无法测算出可行的数学路径。",
+      "detail_en": "Asked whether the AI debt buildup mathematically has a happy ending or is all circular financing, the professor said there is a way out but he cannot pencil it out. He stressed that revenue must be created at the end of the day, noting that everyone is focused on the cost of compute while there has been little attribution of capex expansion to a specific ROI. He said the return on investment will have to be monetized, and half-jokingly suggested ads in AI as one route. He said that at the current spend and with circular financing, it is tough. He clarified he does not want circular financing to be seen as a purely negative term, but when one company buys from another, creating receivables, the problem is that you are only as good as the weakest link. The challenge now is that one very weak company has been in the headlines for the last couple of weeks and is in that link, which he argued will be the first good stress test. He reiterated that he cannot yet pencil out the math.",
+      "conclusion_zh": "AI资本开支的可持续性取决于收入变现与链条中最薄弱环节的稳健性，近期薄弱公司事件可作为观察AI债务风险的首个压力测试窗口。",
+      "conclusion_en": "The sustainability of AI capex hinges on revenue monetization and the resilience of the weakest link in the chain; the recent weak-company episode serves as the first stress-test window for AI debt risk.",
+      "key_points": [
+        {
+          "zh": "受访教授认为AI债务扩张理论上存在出路，但目前无法测算出可行路径。",
+          "en": "The professor believes a way out exists in theory for the AI debt buildup, but he cannot pencil out the math yet."
+        },
+        {
+          "zh": "最终必须创造收入并实现投资回报变现，当前市场更多关注算力成本而非具体ROI。",
+          "en": "Revenue must ultimately be created and ROI monetized; the market is currently more focused on compute costs than specific ROI."
+        },
+        {
+          "zh": "循环融资本身不是核心问题，真正的风险是链条强度取决于最薄弱环节。",
+          "en": "Circular financing itself is not the core problem; the real risk is that the chain is only as strong as its weakest link."
+        },
+        {
+          "zh": "近期一家薄弱公司登上头条且处于该链条中，将成为首次压力测试。",
+          "en": "A weak company recently in the headlines and part of that chain will serve as the first stress test."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "circular financing",
+        "debt buildup",
+        "stress test",
+        "ROI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lPI3XbE_isY",
+      "title": "Midterm Conditions Have Improved For Republicans, Says Colin Reed",
+      "title_zh": "共和党策略师称中期选举选情改善",
+      "url": "https://www.youtube.com/watch?v=lPI3XbE_isY",
+      "published_at": "2026-10-28T18:41:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "共和党策略师Colin Reed表示，过去一个月中期选举格局对共和党有所改善，原因是共和党基本盘倾向于在周期后段才参与，以及特朗普总统在竞选活动中的存在。他还提到新罕布什尔州参议院选战中批评民主党候选人Chris Pappas的广告，显示民粹主义主题正在选民中引起共鸣。",
+      "summary_en": "Republican strategist Colin Reed said the midterm landscape has improved for Republicans over the past month, citing the Republican base's tendency to engage later in the cycle and President Trump's presence on the campaign trail. He also pointed to ads criticizing Democratic candidate Chris Pappas in the New Hampshire Senate race as evidence that populist themes are resonating with voters.",
+      "detail_zh": "共和党策略师、South & Hill Strategies联合创始人Colin Reed表示，过去一个月中期选举格局对共和党有所改善。他将这一转变归因于两个驱动因素：共和党基本盘倾向于在选举周期后段才参与，以及特朗普总统在竞选活动中的存在。Reed还就新罕布什尔州参议院选战发表看法，称批评民主党候选人Chris Pappas的广告显示，民粹主义主题正在中期选举中引起选民共鸣。",
+      "detail_en": "Colin Reed, a Republican strategist and co-founder of South & Hill Strategies, said the midterm landscape has improved for Republicans in the last month. He attributed the turn to two drivers: the Republican base's tendency to get involved later in the cycle and President Trump's presence on the campaign trail. Reed also weighed in on the Senate race in New Hampshire, saying that ads criticizing Democratic candidate Chris Pappas show that populist themes are resonating with voters in the midterms.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "共和党策略师Colin Reed称过去一个月中期选举格局对共和党改善",
+          "en": "Republican strategist Colin Reed says the midterm landscape has improved for Republicans in the last month"
+        },
+        {
+          "zh": "改善驱动因素包括共和党基本盘后段参与倾向和特朗普的竞选活动存在",
+          "en": "Drivers include the Republican base's later engagement and Trump's presence on the campaign trail"
+        },
+        {
+          "zh": "新罕布什尔州参议院选战中批评Chris Pappas的广告显示民粹主义主题引起共鸣",
+          "en": "Ads criticizing Chris Pappas in the New Hampshire Senate race show populist themes resonating"
+        }
+      ],
+      "tags": [
+        "midterms",
+        "republicans",
+        "new-hampshire",
+        "populism"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5vDW_3haq9Y",
+      "title": "US Energy Secretary Wright on Oil",
+      "title_zh": "彭博《权力平衡》早间版：选举、美联储与油价议题",
+      "url": "https://www.youtube.com/watch?v=5vDW_3haq9Y",
+      "published_at": "2026-10-28T18:40:59+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目围绕特朗普中期选举最后冲刺、美联储利率决策以及油价与能源政策展开讨论，嘉宾包括美国能源部长赖特。节目涉及伊朗战争、霍尔木兹海峡石油流动、俄乌柴油供应等能源地缘议题，并探讨利率与通胀、AI 的关系。",
+      "summary_en": "This episode of Balance of Power covers Trump's final midterm push, the Fed's interest rate decision, and oil and energy policy, featuring U.S. Energy Secretary Chris Wright. Discussions include the Iran war, Strait of Hormuz oil flows, Russia-Ukraine diesel supply, and the relationship between rates, inflation, and AI.",
+      "detail_zh": "节目首先关注市场动态，指出美联储决策前油价上涨。随后讨论特朗普在中期选举前的最后冲刺，以及特朗普、俄亥俄州与共和党选举风险。节目还涉及特朗普、美联储与利率的关系。美国能源部长克里斯·赖特参与讨论石油与可负担性问题。节目深入探讨伊朗战争与能源价格上涨、霍尔木兹海峡与全球石油流动、风能太阳能与美国能源政策、俄罗斯乌克兰与柴油供应。最后讨论美联储决策与凯文·沃什、通胀与AI及利率、伊朗油价与美联储、炼油能力与能源替代方案，以及更高利率是否会让情况更糟。",
+      "detail_en": "The program begins with market updates, noting oil rising ahead of the Fed decision. It then discusses Trump's final midterm push and the election risks for Trump, Ohio, and Republicans. The show also covers Trump, the Fed, and interest rates. U.S. Energy Secretary Chris Wright joins to discuss oil and affordability. Further segments explore the Iran war and rising energy prices, the Strait of Hormuz and global oil flows, wind and solar versus U.S. energy policy, and Russia-Ukraine and diesel supply. The episode concludes with discussions on the Fed decision and Kevin Warsh, inflation, AI, and interest rates, Iran oil prices and the Fed, refining capacity and energy alternatives, and whether higher rates could make things worse.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联储决策前油价上涨",
+          "en": "Oil rises ahead of the Fed decision"
+        },
+        {
+          "zh": "特朗普中期选举最后冲刺与共和党选举风险",
+          "en": "Trump's final midterm push and Republican election risks"
+        },
+        {
+          "zh": "能源部长赖特讨论石油与可负担性",
+          "en": "Energy Secretary Wright discusses oil and affordability"
+        },
+        {
+          "zh": "伊朗战争、霍尔木兹海峡与全球石油流动",
+          "en": "Iran war, Strait of Hormuz, and global oil flows"
+        },
+        {
+          "zh": "通胀、AI与利率的关联",
+          "en": "Inflation, AI, and interest rates"
+        }
+      ],
+      "tags": [
+        "Fed",
+        "oil",
+        "midterms",
+        "energy",
+        "inflation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:qMjpAXHDt80",
+      "title": "Disclosure: FBI-DOJ Clash Over Prospect of Mar-a-Lago Search",
+      "title_zh": "Bloomberg播客披露特朗普政府文件销毁与海湖庄园搜查内幕",
+      "url": "https://www.youtube.com/watch?v=qMjpAXHDt80",
+      "published_at": "2026-10-28T18:25:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Bloomberg播客《Disclosure》第二季中，调查记者Jason Leopold与律师Matt Topic披露美国国家档案记录管理局曾试图就特朗普政府白宫文件销毁问题向联邦当局发出警报，以及FBI与司法部人员在搜查海湖庄园前发生冲突。内容为政治调查，不涉及具体投资标的或市场影响。",
+      "summary_en": "On Bloomberg's Disclosure podcast Season 2, investigative reporter Jason Leopold and attorney Matt Topic reveal how the US National Archives and Records Administration tried to alert federal authorities about document destruction at the White House during the first Trump administration, and why FBI and Justice Department personnel clashed before searching Mar-a-Lago. The content is political investigation, with no specific investment targets or market impact.",
+      "detail_zh": "该播客节目聚焦于特朗普第一任期内白宫文件处理问题。调查记者Jason Leopold与律师Matt Topic披露，美国国家档案记录管理局（NARA）曾试图就白宫文件销毁一事向联邦当局发出警报。节目还涉及FBI与司法部人员在搜查特朗普佛罗里达州住所海湖庄园之前发生冲突的情况。原文未提供具体日期、文件数量、冲突细节或后续法律进展，也未提及任何金融市场或个股信息。内容属于政治与法律调查范畴，对美股无直接可见影响。",
+      "detail_en": "The podcast focuses on document handling at the White House during the first Trump administration. Investigative reporter Jason Leopold and attorney Matt Topic reveal that the US National Archives and Records Administration (NARA) tried to alert federal authorities about document destruction at the White House. The episode also covers why FBI and Justice Department personnel clashed before searching Trump's Florida home, Mar-a-Lago. The original text does not provide specific dates, number of documents, details of the clash, or subsequent legal developments, nor does it mention any financial market or individual stock information. The content falls within political and legal investigation, with no directly visible impact on US equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国国家档案记录管理局曾试图就特朗普政府白宫文件销毁问题向联邦当局发出警报。",
+          "en": "NARA tried to alert federal authorities about document destruction at the White House during the Trump administration."
+        },
+        {
+          "zh": "FBI与司法部人员在搜查海湖庄园前发生冲突。",
+          "en": "FBI and Justice Department personnel clashed before searching Mar-a-Lago."
+        },
+        {
+          "zh": "信息来自Bloomberg播客《Disclosure》第二季，由Jason Leopold与Matt Topic披露。",
+          "en": "The information comes from Bloomberg podcast Disclosure Season 2, revealed by Jason Leopold and Matt Topic."
+        },
+        {
+          "zh": "原文未提供具体日期、文件数量或冲突细节。",
+          "en": "The original text does not provide specific dates, number of documents, or details of the clash."
+        },
+        {
+          "zh": "内容为政治调查，不涉及金融市场或个股。",
+          "en": "The content is a political investigation and does not involve financial markets or individual stocks."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "Mar-a-Lago",
+        "NARA",
+        "FBI",
+        "document-destruction"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PeBjA16yx4c",
+      "title": "Inside the 2026 Midterms: A Look at Some Key States",
+      "title_zh": "彭博：中期选举关键选战前瞻",
+      "url": "https://www.youtube.com/watch?v=PeBjA16yx4c",
+      "published_at": "2026-10-28T18:24:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博记者在全国范围内梳理将决定权力平衡的关键中期选举选战，涉及对特朗普的全国性公投、创纪录的竞选支出，以及外国冲突和数据中心激增带来的经济影响。",
+      "summary_en": "Bloomberg reporters nationwide break down the marquee midterm races that will decide the balance of power, covering a national referendum on Donald Trump, record campaign spending, and the economic fallout of foreign conflict and surging data centers.",
+      "detail_zh": "彭博电视台发布的一段前瞻内容指出，中期选举前有多场关键选战将决定权力平衡，并检验行政影响力的边界。报道将此次选举描述为对唐纳德·特朗普的一次全国性公投，同时提到创纪录的竞选支出。此外，内容还提及外国冲突带来的经济影响以及数据中心激增这一经济因素。彭博来自全国各地的记者对这些重点选战进行了梳理。原文未提供具体民调数字、州名、候选人姓名或选举结果预测。",
+      "detail_en": "A Bloomberg Television preview notes that ahead of the midterm elections, several marquee races will decide the balance of power and test the limits of executive influence. The coverage frames the election as a nationwide referendum on Donald Trump and cites record campaign spending. It also references the economic fallout of foreign conflict and surging data centers as economic factors. Bloomberg reporters from across the country break down these key races. The original text provides no specific polling numbers, state names, candidate names, or election outcome predictions.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "中期选举被视为对特朗普的全国性公投",
+          "en": "The midterms are framed as a nationwide referendum on Donald Trump"
+        },
+        {
+          "zh": "关键选战将决定权力平衡并检验行政影响力边界",
+          "en": "Marquee races will decide the balance of power and test the limits of executive influence"
+        },
+        {
+          "zh": "竞选支出创纪录",
+          "en": "Campaign spending is at record levels"
+        },
+        {
+          "zh": "外国冲突与数据中心激增带来经济影响",
+          "en": "Foreign conflict and surging data centers carry economic fallout"
+        }
+      ],
+      "tags": [
+        "midterms",
+        "elections",
+        "Trump",
+        "campaign spending",
+        "data centers"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:jKBq7a5M2JI",
+      "title": "Bolsonaro Flees to Miami and the Memes Fly in Brazil",
+      "title_zh": "博索纳罗败选后赴美引发巴西社交媒体热议",
+      "url": "https://www.youtube.com/watch?v=jKBq7a5M2JI",
+      "published_at": "2026-10-28T18:23:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "巴西总统博索纳罗在上周末大选意外落败后从公众视野消失，其戏剧性赴美行程引发猜测，巴西社交媒体借此热议。",
+      "summary_en": "Brazilian President Bolsonaro disappeared from public view after a shock election loss last weekend, and his dramatic dash to the US sparked speculation and social media buzz in Brazil.",
+      "detail_zh": "彭博的Beatriz Reis报道，巴西总统博索纳罗在上周末总统选举中意外落败后从公众视野中消失。围绕他戏剧性前往美国的种种情况，外界猜测纷纷。巴西社交媒体抓住这一时刻，对此展开热议。",
+      "detail_en": "Bloomberg's Beatriz Reis reports that Brazilian President Bolsonaro disappeared from public view after a shock loss in last weekend's presidential election. Speculation swirled over the circumstances surrounding his dramatic dash to the US. Brazilian social media seized the moment to discuss the situation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "博索纳罗在上周末总统选举中意外落败。",
+          "en": "Bolsonaro suffered a shock loss in last weekend's presidential election."
+        },
+        {
+          "zh": "败选后博索纳罗从公众视野中消失。",
+          "en": "After the loss, Bolsonaro disappeared from public view."
+        },
+        {
+          "zh": "他戏剧性前往美国，引发外界对其行程情况的猜测。",
+          "en": "His dramatic dash to the US sparked speculation about the circumstances."
+        },
+        {
+          "zh": "巴西社交媒体借此机会热议此事。",
+          "en": "Brazilian social media seized the moment to buzz about the situation."
+        }
+      ],
+      "tags": [
+        "Brazil",
+        "election",
+        "Bolsonaro",
+        "social media"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:spR2CDYHrPA",
+      "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
+      "title_zh": "美联储以10比2维持利率在3.75%-4%不变",
+      "url": "https://www.youtube.com/watch?v=spR2CDYHrPA",
+      "published_at": "2026-10-28T18:21:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "联邦公开市场委员会以10比2的投票结果，决定将基准联邦基金利率维持在3.75%至4%的区间。理事Lisa Cook和克利夫兰联储主席Beth Hammack投了反对票。",
+      "summary_en": "The Federal Open Market Committee voted 10-2 to hold its benchmark federal funds rate in a range of 3.75% to 4%. Governor Lisa Cook and Cleveland Fed President Beth Hammack were the dissenting votes.",
+      "detail_zh": "联邦公开市场委员会（FOMC）以10比2的投票结果，决定维持基准联邦基金利率目标区间在3.75%至4%不变。投反对票的是理事Lisa Cook和克利夫兰联储主席Beth Hammack。该消息由彭博的Michael McKee报道。原文未说明反对票的具体方向（即是否倾向于加息或降息），也未提供政策声明、经济预测或主席讲话等进一步细节。",
+      "detail_en": "The Federal Open Market Committee (FOMC) voted 10-2 to keep its benchmark federal funds rate target range unchanged at 3.75% to 4%. The dissenting votes were cast by Governor Lisa Cook and Cleveland Fed President Beth Hammack. The report was by Bloomberg's Michael McKee. The source does not specify the direction of the dissents (i.e., whether they favored a hike or a cut), nor does it provide further details such as the policy statement, economic projections, or the Chair's remarks.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "FOMC以10比2的投票结果维持联邦基金利率在3.75%-4%区间不变。",
+          "en": "The FOMC voted 10-2 to hold the federal funds rate in the 3.75%-4% range."
+        },
+        {
+          "zh": "理事Lisa Cook和克利夫兰联储主席Beth Hammack投了反对票。",
+          "en": "Governor Lisa Cook and Cleveland Fed President Beth Hammack were the dissenting votes."
+        },
+        {
+          "zh": "原文未说明反对票的方向或具体政策理由。",
+          "en": "The source does not specify the direction of the dissents or the specific policy rationale."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "FOMC",
+        "interest rates",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:my1tDotIOCg",
+      "title": "Sherman: Insulate with Five-Year",
+      "title_zh": "分析师：五年期美债在当前环境下具吸引力",
+      "url": "https://www.youtube.com/watch?v=my1tDotIOCg",
+      "published_at": "2026-10-28T18:08:39+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "一位分析师认为五年期美国国债是当前较有吸引力的选择，理由是若经济出现疲软，美联储最终将不得不降息，届时五年期国债能提供更好的风险回报。该分析师强调其关注点并非仅15个基点的收益率优势，而是将其作为对冲/隔离风险的工具。",
+      "summary_en": "An analyst views the 5-year Treasury as an attractive choice, arguing that if economic weakness emerges, the Fed will ultimately have to cut rates, offering better bang for the buck. The analyst stresses the focus is not the 15 basis point yield pickup but using it as a way to insulate against risk.",
+      "detail_zh": "分析师表示，五年期美国国债看起来是一个相当有吸引力的位置。他提到自己与投资者交流时常用一个假设性问题：如果必须在一年的封闭期内买入其中一种资产，会买什么？他的答案是五年期美国国债。其核心逻辑是：如果经济出现任何疲软，美联储最终将不得不降息，因此五年期国债能提供更好的风险回报（better bang for the buck）。他明确表示，自己看重的并不是多出的15个基点收益率，而是将其作为一种隔离/对冲风险的方式。原文未提及其他期限品种的具体比较细节或更多宏观数据。",
+      "detail_en": "The analyst says the 5-year Treasury looks like a pretty interesting and attractive spot. He describes a game he plays with investors: if locked in a room for the next year and forced to buy one of these, what would you buy? His answer is a 5-year Treasury. The rationale: if there is any economic weakness, the Fed will ultimately have to cut, so you get better bang for the buck. He explicitly says he is not focused on the 15 basis point yield pickup, but rather views it as a way to insulate against risk. The transcript does not provide further detail on comparisons with other maturities or additional macro data.",
+      "conclusion_zh": "分析师将五年期美债视为经济疲软情形下的防御性配置，而非追求收益率优势。",
+      "conclusion_en": "The analyst frames the 5-year Treasury as a defensive allocation in a weakening-economy scenario rather than a yield play.",
+      "key_points": [
+        {
+          "zh": "分析师首选五年期美国国债，认为其当前具吸引力。",
+          "en": "The analyst's top pick is the 5-year Treasury, which he sees as attractive now."
+        },
+        {
+          "zh": "核心逻辑：若经济疲软，美联储最终将不得不降息。",
+          "en": "Core logic: if the economy weakens, the Fed will ultimately have to cut rates."
+        },
+        {
+          "zh": "关注点不是15个基点的收益率优势，而是风险隔离作用。",
+          "en": "The focus is not the 15bp yield pickup but insulation against risk."
+        }
+      ],
+      "tags": [
+        "Treasuries",
+        "Fed",
+        "rate cuts",
+        "duration"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:lf0-zXqHoBM",
       "title": "40 Million Transactions Per Second Still Isn't Enough?",
@@ -11902,183 +12255,6 @@
         "TSLA",
         "META"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Jm9NLL4HWOw",
-      "title": "Potential Tesla, SpaceX Merger, NFL Investments, Inside Activism",
-      "title_zh": "Bloomberg Deals 周中节目：交易与维权投资专题",
-      "url": "https://www.youtube.com/watch?v=Jm9NLL4HWOw",
-      "published_at": "2026-10-21T19:01:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期 Bloomberg Deals 节目涵盖 SpaceX-Tesla、Anthropic IPO、AI 基础设施与数据中心政治阻力、NFL 与 General Atlantic 合作、股东维权策略以及 H.I.G. Capital 的中端市场私募股权与退出管道等议题。嘉宾包括 General Catalyst、Olshan、Sidley 和 H.I.G. Capital 的高管。",
-      "summary_en": "This Bloomberg Deals episode covers topics including SpaceX-Tesla, Anthropic IPO, AI infrastructure and data center political pushback, NFL's partnership with General Atlantic, shareholder activism strategies, and H.I.G. Capital's middle-market private equity and exit pipeline. Guests include executives from General Catalyst, Olshan, Sidley, and H.I.G. Capital.",
-      "detail_zh": "节目由 Bloomberg Deals 开场，首先讨论 SpaceX-Tesla 相关话题，随后涉及 Anthropic IPO 和 AI 基础设施。数据中心面临政治阻力被提及。接着讨论 NextEra-Dominion、NFL 与 General Atlantic 的合作，以及 AI 投资和泡沫风险。General Catalyst 董事总经理 Madhu Namburi 参与讨论 AI 转型与收购、AI 平台以及投资与交易撮合。节目还涉及 Apollo 和 Blackstone 寻求 NFL 球队股份、Starboard 的最新投资。投资委员会环节聚焦股东维权，包括和解与代理权争夺、董事会如何与维权者接触、维权导致代理权争夺的情况、董事会防御与股东权利，以及闭门维权。最后，H.I.G. Capital CEO Brian Schwartz 讨论中端市场私募股权、私募股权退出管道、H.I.G. 的投资组合与退出策略、软件投资机会，以及 Legendary-Lionsgate 交易谈判和其他潜在 Lionsgate 买家。",
-      "detail_en": "The program opens with Bloomberg Deals, first discussing SpaceX-Tesla related topics, followed by Anthropic IPO and AI infrastructure. Political pushback against data centers is mentioned. NextEra-Dominion, NFL's partnership with General Atlantic, and AI investment and bubble risks are discussed. General Catalyst Managing Director Madhu Namburi participates in discussions on AI transformation and acquisitions, AI platforms, and investing and deal making. The program also covers Apollo and Blackstone seeking NFL team stakes, and Starboard's latest investments. The investment committee segment focuses on shareholder activism, including settlements vs. proxy fights, how boards should engage activists, when activism leads to proxy fights, board defense and shareholder rights, and activism behind closed doors. Finally, H.I.G. Capital CEO Brian Schwartz discusses middle-market private equity, the private equity exit pipeline, H.I.G.'s portfolio and exit strategy, software investment opportunities, and Legendary-Lionsgate deal talks and other potential Lionsgate buyers.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目讨论 Anthropic IPO 和 AI 基础设施，以及数据中心面临的政治阻力。",
-          "en": "The program discusses Anthropic IPO and AI infrastructure, as well as political pushback against data centers."
-        },
-        {
-          "zh": "General Catalyst 的 Madhu Namburi 讨论 AI 转型、收购和 AI 平台。",
-          "en": "General Catalyst's Madhu Namburi discusses AI transformation, acquisitions, and AI platforms."
-        },
-        {
-          "zh": "股东维权专题涵盖和解与代理权争夺、董事会接触和防御策略。",
-          "en": "The shareholder activism segment covers settlements vs. proxy fights, board engagement, and defense strategies."
-        },
-        {
-          "zh": "H.I.G. Capital CEO Brian Schwartz 讨论中端市场私募股权、退出管道和软件投资机会。",
-          "en": "H.I.G. Capital CEO Brian Schwartz discusses middle-market private equity, exit pipeline, and software investment opportunities."
-        },
-        {
-          "zh": "节目提及 Legendary-Lionsgate 交易谈判和其他潜在 Lionsgate 买家。",
-          "en": "The program mentions Legendary-Lionsgate deal talks and other potential Lionsgate buyers."
-        }
-      ],
-      "tags": [
-        "Deals",
-        "AI",
-        "Activism",
-        "Private Equity",
-        "Media"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:jHEVSr1_2rM",
-      "title": "How Are Family Offices Changing? 3 Key Trends",
-      "title_zh": "贝莱德调查：家族办公室治理、传承与AI应用现状",
-      "url": "https://www.youtube.com/watch?v=jHEVSr1_2rM",
-      "published_at": "2026-10-21T18:49:01+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "贝莱德对美洲200多家家族办公室的调查显示，治理与决策机制是最大挑战（28%受访者认为），传承规划中第一代反而领先于后代，且65%的家族办公室下一代对投资决策参与有限。超过半数认为AI已核心或日益重要，但仅9%将其深度整合到投资决策中。",
-      "summary_en": "BlackRock's survey of over 200 family offices in the Americas reveals that governance and decision-making is the biggest challenge for 28% of respondents. Succession planning is further along in first-generation offices than later ones, yet 65% say the next generation has limited or no involvement in investment decisions. More than half say AI is core or becoming more important, but only 9% have extensively integrated it into investment decision-making.",
-      "detail_zh": "贝莱德调查了美洲200多家家族办公室，以了解其投资组合、风险管理和未来准备。三大发现：第一，治理与决策机制是家族办公室的最大担忧，28%的受访者将其列为单一最大挑战，这一结果出乎意料。第二，传承规划的模式与直觉相反：第一代家族办公室在传承规划上比后代家族办公室进展更靠前；然而65%的受访者表示，下一代目前对投资决策的参与有限或没有参与。这一点很重要，因为下一代通常风险承受能力更高，意味着传承可能不仅改变决策者，还会改变投资方式。第三，超过半数受访者表示AI已经是核心或正变得更加重要，但只有9%表示AI已广泛整合到投资决策中。调查显示家族办公室的面貌正在多个方面发生变化。",
-      "detail_en": "BlackRock surveyed more than 200 family offices across the Americas to understand how they approach portfolios, manage risk, and prepare for the future. Three findings stood out: First, governance and decision-making is a bigger concern than investments, with 28% citing it as their single biggest challenge—a surprising result. Second, the succession pattern is counterintuitive: first-generation family offices are further along in succession planning than later-generation offices; yet 65% say the next generation has limited or no involvement in investment decisions today. This matters because the next generation tends to be more risk tolerant, suggesting the transition may bring changes not just in who makes decisions but how they invest. Third, more than half say AI is already core or becoming more important to their organizations, but only 9% say it is extensively integrated into investment decision-making. The survey shows the face of family offices is changing on multiple fronts.",
-      "conclusion_zh": "家族办公室正面临治理与传承的结构性转变，下一代更高的风险偏好可能带来投资风格变化；AI在投资决策中的渗透率仍低，存在提升空间。",
-      "conclusion_en": "Family offices face structural shifts in governance and succession, with the next generation's higher risk tolerance potentially changing investment styles; AI penetration in investment decision-making remains low, leaving room for growth.",
-      "key_points": [
-        {
-          "zh": "28%的家族办公室将治理与决策机制列为最大挑战，超过投资本身。",
-          "en": "28% of family offices cite governance and decision-making as their single biggest challenge, more than investments."
-        },
-        {
-          "zh": "第一代家族办公室在传承规划上比后代家族办公室进展更靠前。",
-          "en": "First-generation family offices are further along in succession planning than later-generation offices."
-        },
-        {
-          "zh": "65%的受访者表示下一代目前对投资决策参与有限或没有参与。",
-          "en": "65% say the next generation has limited or no involvement in investment decisions today."
-        },
-        {
-          "zh": "下一代通常风险承受能力更高，传承可能改变投资方式。",
-          "en": "The next generation tends to be more risk tolerant, suggesting the transition may change how they invest."
-        },
-        {
-          "zh": "超过半数认为AI已核心或日益重要，但仅9%将其广泛整合到投资决策中。",
-          "en": "More than half say AI is core or becoming more important, but only 9% say it is extensively integrated into investment decision-making."
-        }
-      ],
-      "tags": [
-        "family offices",
-        "governance",
-        "succession",
-        "AI adoption"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_dJnwX2-BYg",
-      "title": "Kuwait Petroleum CEO Says Oil Output Tops 2 Million Barrels a Day",
-      "title_zh": "科威特石油公司称通过替代运输维持原油交付",
-      "url": "https://www.youtube.com/watch?v=_dJnwX2-BYg",
-      "published_at": "2026-10-21T18:46:47+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "科威特石油公司CEO表示，公司通过替代运输安排和战略油轮船队，将原油交付基本维持在冲突前水平。该表态显示其供应物流具备一定韧性。",
-      "summary_en": "Kuwait Petroleum Corporation's CEO said the company has kept crude deliveries to customers largely at pre-conflict levels by using alternative shipment arrangements and its strategic tanker fleet, indicating resilience in its supply logistics.",
-      "detail_zh": "科威特石油公司（Kuwait Petroleum Corporation）首席执行官Sheikh Nawaf Saud Nasir Al-Sabah表示，公司已通过采用替代运输安排以及动用其战略油轮船队，将面向客户的原油交付量基本维持在冲突前水平。这一表述意味着，尽管存在冲突相关干扰，该公司仍设法保障了原油出口物流。原文未披露冲突的具体性质、交付量的具体数字或替代路线的细节。",
-      "detail_en": "Kuwait Petroleum Corporation CEO Sheikh Nawaf Saud Nasir Al-Sabah said the company has kept crude deliveries to customers largely at pre-conflict levels by using alternative shipment arrangements and its strategic tanker fleet. This suggests the company managed to maintain crude export logistics despite conflict-related disruptions. The original text does not specify the nature of the conflict, exact delivery volumes, or details of the alternative routes.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "科威特石油公司通过替代运输安排维持原油交付",
-          "en": "KPC used alternative shipment arrangements to maintain crude deliveries"
-        },
-        {
-          "zh": "公司动用了其战略油轮船队",
-          "en": "The company utilized its strategic tanker fleet"
-        },
-        {
-          "zh": "原油交付量基本保持在冲突前水平",
-          "en": "Crude deliveries remained largely at pre-conflict levels"
-        }
-      ],
-      "tags": [
-        "Kuwait",
-        "crude oil",
-        "supply chain",
-        "shipping"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:kjslDAPxR5M",
-      "title": "Trump May Turn White House Press Briefing Room Into a Pool: NY Times",
-      "title_zh": "特朗普考虑将白宫简报室改为室内泳池",
-      "url": "https://www.youtube.com/watch?v=kjslDAPxR5M",
-      "published_at": "2026-10-21T18:38:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "据《纽约时报》报道，特朗普总统自8月以来一直在考虑将白宫新闻简报室改为室内游泳池，原因是他与部分媒体就其所称的不公平报道存在矛盾。",
-      "summary_en": "According to The New York Times, President Donald Trump has been considering replacing the White House press briefing room with an indoor swimming pool since August, amid his conflict with some in the press over what he calls unfair coverage.",
-      "detail_zh": "据《纽约时报》报道，美国总统特朗普曾讨论将白宫新闻简报室替换为室内游泳池。该报道称，特朗普自8月以来一直在考虑这一举措。特朗普与部分媒体就其所谓的“不公平报道”存在矛盾。彭博社的Catherine Lucey报道了此事。",
-      "detail_en": "According to The New York Times, President Donald Trump has talked about replacing the White House press briefing room with an indoor swimming pool. The outlet says he has been considering the move since August. Trump has been at odds with some in the press over what he calls unfair coverage. Bloomberg's Catherine Lucey reports.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普讨论将白宫新闻简报室改为室内游泳池。",
-          "en": "Trump has talked about replacing the White House press briefing room with an indoor swimming pool."
-        },
-        {
-          "zh": "据《纽约时报》报道，他自8月以来一直在考虑这一举措。",
-          "en": "According to The New York Times, he has been considering the move since August."
-        },
-        {
-          "zh": "特朗普与部分媒体就其所谓的“不公平报道”存在矛盾。",
-          "en": "Trump has been at odds with some in the press over what he calls unfair coverage."
-        }
-      ],
-      "tags": [
-        "Trump",
-        "White House",
-        "media",
-        "press briefing room"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
