@@ -1,6 +1,235 @@
 {
-  "generated_at": "2026-10-28T21:15:32.916403+00:00",
+  "generated_at": "2026-10-28T22:15:54.638034+00:00",
   "insights": [
+    {
+      "guid": "yt:0K6cvunpfyg",
+      "title": "Fed Holds Rates With a Hawkish Edge",
+      "title_zh": "彭博The Close节目单：美联储政策、科技财报与消费企业高管访谈",
+      "url": "https://www.youtube.com/watch?v=0K6cvunpfyg",
+      "published_at": "2026-10-28T21:54:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博The Close节目汇集了DWS Americas CEO、Stony Brook大学教授、VF Corp CEO、Jersey Mike's CEO、DoubleLine基金经理、DA Davidson科技研究主管、福特CFO、Rosenblatt分析师及Allspring分析师，讨论话题涵盖美联储政策、债券与多元化、美国赤字与通胀、消费状况、关税与定价权、微软和Alphabet财报、AI增长、福特业绩与AI战略、以及联邦快递和Chipotle财报等。",
+      "summary_en": "This episode of Bloomberg The Close features guests including DWS Americas CEO, a Stony Brook University professor, VF Corp CEO, Jersey Mike's CEO, DoubleLine portfolio manager, DA Davidson tech research head, Ford CFO, Rosenblatt analyst, and Allspring analyst, discussing topics such as Fed policy, bonds and diversification, U.S. deficits and inflation, consumer conditions, tariffs and pricing power, Microsoft and Alphabet earnings, AI growth, Ford's earnings and AI strategy, and earnings from FedEx and Chipotle.",
+      "detail_zh": "节目章节显示，DWS Americas CEO Hepsen Uzcan讨论了美联储政策、债券与多元化；Stony Brook大学公共政策与经济学教授Stephanie Kelton讨论了美国赤字、通胀与美联储利率展望；VF Corp CEO Bracken Darrell讨论了Vans、North Face与消费者状况；Jersey Mike's CEO Charlie Morrison讨论了增长、客流与消费者价值，以及扩张与美联储加息展望；DoubleLine Capital投资组合经理Ken Shinoda参与了定价权、关税与K型经济的讨论；DA Davidson科技研究主管Gil Luria讨论了微软和Alphabet的财报后表现、Azure、谷歌搜索与AI回报、微软Copilot与企业AI增长、Alphabet的搜索疲软与Gemini、谷歌云与AI搜索转型、以及Alphabet的代理AI战略与云增长；福特CFO Sherry House讨论了福特财报、需求与消费者、以及福特的AI战略、电动汽车与混合动力增长；Rosenblatt分析师Scott Devitt参与了Alphabet财报、搜索疲软与Gemini的讨论；Allspring分析师Abby Roach参与了亚马逊财报预览与云AI竞争的讨论。此外，节目还提及联邦快递、Chipotle和ServiceNow的财报，以及联邦快递财报、UPS与假日运输需求。",
+      "detail_en": "The program chapters show DWS Americas CEO Hepsen Uzcan discussing Fed policy, bonds and diversification; Stony Brook University Public Policy & Economics Professor Stephanie Kelton discussing U.S. deficits, inflation and the Fed rate outlook; VF Corp CEO Bracken Darrell discussing Vans, North Face and the consumer; Jersey Mike's CEO Charlie Morrison discussing growth, traffic and consumer value, as well as expansion and Fed rate hike outlook; DoubleLine Capital Portfolio Manager Ken Shinoda participating in a discussion on pricing power, tariffs and the K-shaped economy; DA Davidson Managing Director, Head of Tech Research Gil Luria discussing Microsoft and Alphabet earnings hit after the bell, Azure, Google Search and AI returns, Microsoft Copilot and enterprise AI growth, Alphabet's search weakness and Gemini, Google Cloud and the AI search transition, and Alphabet's agentic AI strategy and cloud growth; Ford CFO Sherry House discussing Ford's earnings, demand and the consumer, as well as Ford's AI strategy, EVs and hybrid growth; Rosenblatt Securities Managing Director, Senior Research Analyst Scott Devitt participating in a discussion on Alphabet earnings, search weakness and Gemini; and Allspring Global Investments Senior Portfolio Analyst Abby Roach participating in an Amazon earnings preview and the cloud AI race. Additionally, the program mentions earnings from FedEx, Chipotle and ServiceNow, as well as FedEx earnings, UPS and holiday shipping demand.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "DWS Americas CEO讨论美联储政策、债券与多元化。",
+          "en": "DWS Americas CEO discusses Fed policy, bonds and diversification."
+        },
+        {
+          "zh": "Stony Brook大学教授讨论美国赤字、通胀与美联储利率展望。",
+          "en": "Stony Brook University professor discusses U.S. deficits, inflation and the Fed rate outlook."
+        },
+        {
+          "zh": "VF Corp CEO与Jersey Mike's CEO分别讨论消费者状况与增长策略。",
+          "en": "VF Corp CEO and Jersey Mike's CEO discuss consumer conditions and growth strategies, respectively."
+        },
+        {
+          "zh": "DA Davidson科技研究主管讨论微软和Alphabet财报、AI增长与搜索转型。",
+          "en": "DA Davidson Head of Tech Research discusses Microsoft and Alphabet earnings, AI growth and search transition."
+        },
+        {
+          "zh": "福特CFO讨论福特财报、需求、AI战略与电动汽车/混合动力增长。",
+          "en": "Ford CFO discusses Ford earnings, demand, AI strategy and EV/hybrid growth."
+        }
+      ],
+      "tags": [
+        "Fed Policy",
+        "Earnings",
+        "AI",
+        "Consumer",
+        "Tariffs"
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "F",
+        "FDX",
+        "CMG",
+        "NOW",
+        "UPS",
+        "AMZN"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Dv0Ex9UN7lI",
+      "title": "Fed Will Raise Rates in December, Clarida Predicts",
+      "title_zh": "前美联储副主席克拉里达预计12月加息、明年3月或再加",
+      "url": "https://www.youtube.com/watch?v=Dv0Ex9UN7lI",
+      "published_at": "2026-10-28T21:34:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前美联储副主席Richard Clarida预计美联储将在12月加息，并可能在明年3月再次加息。该观点来自其在彭博电视节目中的发言。",
+      "summary_en": "Former Fed Vice Chairman Richard Clarida expects the Fed to raise rates in December and possibly again in March. He made the remarks on Bloomberg Television.",
+      "detail_zh": "前美联储副主席Richard Clarida在“Bloomberg Surveillance: The Fed Decides”节目中表示，他预计美联储将在12月加息，并可能在明年3月再次加息。这是他对美联储利率路径的最新预测。原文未提供更多关于加息幅度、理由或具体条件的细节。",
+      "detail_en": "Former Federal Reserve Vice Chairman Richard Clarida said on \"Bloomberg Surveillance: The Fed Decides\" that he expects the Fed to raise rates in December and then possibly again in March. This is his latest forecast for the Fed's rate path. The source does not provide further details on the size, rationale, or specific conditions of the rate hikes.",
+      "conclusion_zh": "前美联储副主席预计美联储将在12月及明年3月加息，提示市场关注美联储政策路径的紧缩倾向。",
+      "conclusion_en": "The former Fed Vice Chairman expects rate hikes in December and possibly March, signaling a tightening bias in the Fed's policy path that investors should watch.",
+      "key_points": [
+        {
+          "zh": "克拉里达预计美联储12月加息。",
+          "en": "Clarida expects the Fed to raise rates in December."
+        },
+        {
+          "zh": "他还预计美联储可能在明年3月再次加息。",
+          "en": "He also expects the Fed may raise rates again in March."
+        },
+        {
+          "zh": "该观点来自彭博电视节目“Bloomberg Surveillance: The Fed Decides”。",
+          "en": "The view was expressed on Bloomberg Television's \"Bloomberg Surveillance: The Fed Decides.\""
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate hike",
+        "monetary policy",
+        "Richard Clarida"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:08bcX2ugB2s",
+      "title": "The Fed Will Deliver Price Stability, Warsh Says",
+      "title_zh": "美联储维持利率不变，主席称通胀仍过高",
+      "url": "https://www.youtube.com/watch?v=08bcX2ugB2s",
+      "published_at": "2026-10-28T21:34:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储官员决定维持利率不变。主席凯文·沃什在新闻发布会上表示通胀仍然过高，并承诺政策制定者将“实现价格稳定”。",
+      "summary_en": "Federal Reserve officials kept interest rates unchanged. Chair Kevin Warsh said at a press conference that inflation is still too high and that policymakers will \"deliver price stability.\"",
+      "detail_zh": "美联储官员决定维持利率不变。美联储主席凯文·沃什在会后新闻发布会上表示，通胀仍然过高。沃什称，政策制定者将“实现价格稳定”。原文未提供利率决议的具体投票结果、利率水平、通胀数据或未来政策路径的进一步细节。",
+      "detail_en": "Federal Reserve officials decided to keep interest rates unchanged. At the post-meeting press conference, Fed Chair Kevin Warsh said inflation is still too high. Warsh stated that policymakers will \"deliver price stability.\" The source does not provide the specific vote tally, the level of rates, inflation data, or further details on the future policy path.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联储维持利率不变。",
+          "en": "The Federal Reserve kept interest rates unchanged."
+        },
+        {
+          "zh": "主席凯文·沃什表示通胀仍然过高。",
+          "en": "Chair Kevin Warsh said inflation is still too high."
+        },
+        {
+          "zh": "沃什承诺政策制定者将“实现价格稳定”。",
+          "en": "Warsh pledged that policymakers will \"deliver price stability.\""
+        }
+      ],
+      "tags": [
+        "Federal Reserve",
+        "interest rates",
+        "inflation",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Tt6rGQB09HI",
+      "title": "Bloomberg Surveillance: The Fed Decides 10/27/2026",
+      "title_zh": "美联储以10-2投票维持利率在3.75%-4%不变",
+      "url": "https://www.youtube.com/watch?v=Tt6rGQB09HI",
+      "published_at": "2026-10-28T21:26:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "FOMC以10比2的投票结果决定维持联邦基金利率目标区间在3.75%至4%不变。节目讨论了美联储为何按兵不动、内部分歧、AI与数据中心对经济增长的影响，以及市场对决策和Warsh新闻发布会的反应。",
+      "summary_en": "The FOMC voted 10-2 to hold the benchmark federal funds rate at 3.75%-4%. The program discussed why the Fed stayed put, internal dissents, the impact of AI and data centers on growth, and market reactions to the decision and Warsh's press conference.",
+      "detail_zh": "美联储公开市场委员会（FOMC）以10票赞成、2票反对的结果，决定将基准联邦基金利率维持在3.75%至4%的区间不变。彭博“Surveillance”特别节目围绕这一决定展开讨论，章节涵盖美联储是否应加息、美国经济的分化、AI与数据中心及经济增长、美联储政策与通胀及12月预期、劳动力市场与通胀、美联储为何不加息、AI与生产率及货币政策、美联储异议与12月利率预期、AI债务与金融条件及通胀、美联储在等待什么、Kevin Warsh解释美联储决定、油价与通胀及利率、AI投资与更高利率的影响，以及市场对Warsh新闻发布会的反应和金融条件与AI交易等话题。",
+      "detail_en": "The Federal Open Market Committee (FOMC) voted 10-2 to hold the benchmark federal funds rate in a range of 3.75% to 4%. Bloomberg Surveillance's special edition discussed the decision, with chapters covering whether the Fed should raise rates, a bifurcated U.S. economy, AI, data centers and economic growth, Fed policy, inflation and December expectations, the labor market, inflation and the economy, why the Fed didn't hike, AI, productivity and monetary policy, Fed dissents and December rate expectations, AI debt, financial conditions and inflation, what the Fed is waiting for, Kevin Warsh explaining the Fed decision, oil prices, inflation and interest rates, AI investment and the impact of higher rates, and market reactions to Warsh's press conference and financial conditions and the AI trade.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "FOMC以10比2投票维持利率在3.75%-4%区间不变。",
+          "en": "The FOMC voted 10-2 to hold rates in the 3.75%-4% range."
+        },
+        {
+          "zh": "节目讨论了美联储为何不加息以及内部分歧（异议）。",
+          "en": "The program discussed why the Fed did not hike and internal dissents."
+        },
+        {
+          "zh": "议题包括AI、数据中心与经济增长，以及AI投资对更高利率的敏感度。",
+          "en": "Topics included AI, data centers and economic growth, and AI investment's sensitivity to higher rates."
+        },
+        {
+          "zh": "节目还涉及美国经济分化、劳动力市场、通胀、油价和金融条件。",
+          "en": "The program also covered the bifurcated U.S. economy, labor market, inflation, oil prices and financial conditions."
+        },
+        {
+          "zh": "Kevin Warsh解释了美联储的决定，市场对其新闻发布会做出反应。",
+          "en": "Kevin Warsh explained the Fed decision, and markets reacted to his press conference."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "FOMC",
+        "interest rates",
+        "AI",
+        "inflation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ly_AW2uhDmM",
+      "title": "Breaking Down Alphabet's Disappointing Earnings Report",
+      "title_zh": "Alphabet季度营收利润不及预期，投资者关注AI对搜索业务的冲击",
+      "url": "https://www.youtube.com/watch?v=ly_AW2uhDmM",
+      "published_at": "2026-10-28T21:14:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Alphabet季度销售额和利润均未达到预期，投资者关注在AI改变信息获取方式之际，公司能否保护其搜索业务。Rosenblatt Securities董事总经理兼高级研究分析师Scott Devitt在Bloomberg The Close节目中解读了Alphabet的财报。",
+      "summary_en": "Alphabet's quarterly sales and profit missed estimates, with investors focused on whether the company can protect its search business as AI changes how people find information. Scott Devitt, managing director and senior research analyst at Rosenblatt Securities, discussed the earnings report on Bloomberg The Close.",
+      "detail_zh": "Alphabet公布的季度销售额和利润均低于市场预期。投资者关注的核心问题是：随着人工智能改变人们获取信息的方式，Alphabet能否守住其搜索业务。Rosenblatt Securities董事总经理兼高级研究分析师Scott Devitt在Bloomberg The Close节目中分析了这份财报。原文未提供具体财务数据、业务分部表现或分析师的具体观点细节。",
+      "detail_en": "Alphabet reported quarterly sales and profit that fell short of estimates. The key investor focus is whether the company can protect its search business as AI changes how people find information. Scott Devitt, managing director and senior research analyst at Rosenblatt Securities, broke down the earnings report on Bloomberg The Close. The source does not provide specific financial figures, segment performance, or detailed analyst views.",
+      "conclusion_zh": "Alphabet财报不及预期，市场焦点转向AI对搜索业务的潜在冲击，搜索护城河成为关键观察点。",
+      "conclusion_en": "Alphabet's earnings miss shifts market focus to AI's potential disruption of its search business, making the search moat a key issue to watch.",
+      "key_points": [
+        {
+          "zh": "Alphabet季度销售额和利润均未达到预期。",
+          "en": "Alphabet's quarterly sales and profit both missed estimates."
+        },
+        {
+          "zh": "投资者关注AI如何改变信息获取方式，以及Alphabet能否保护其搜索业务。",
+          "en": "Investors are focused on how AI is changing information discovery and whether Alphabet can protect its search business."
+        },
+        {
+          "zh": "Rosenblatt Securities分析师Scott Devitt在Bloomberg The Close节目中解读了财报。",
+          "en": "Rosenblatt Securities analyst Scott Devitt discussed the earnings on Bloomberg The Close."
+        }
+      ],
+      "tags": [
+        "Alphabet",
+        "earnings",
+        "AI disruption",
+        "search business"
+      ],
+      "tickers": [
+        "GOOGL"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:JUaHtKJ06eY",
       "title": "Ford CFO on Earnings, AI, Gas Prices, Going Off-Road",
@@ -8006,6 +8235,77 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "4956836",
+      "title": "California Dreamin' Or A Tax Nightmare?",
+      "title_zh": "加州亿万富翁财富税提案引发企业界连锁反应",
+      "url": "https://seekingalpha.com/article/4956836-california-dreamin-or-a-tax-nightmare?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-23T11:30:18+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "macro"
+      ],
+      "summary_zh": "加州11月3日公投的Proposition 40拟对亿万富翁征收一次性5%财富税，预计2027-2031年筹集约1000亿美元用于医疗、教育和食品援助。该税已促使部分富豪调整持股结构或迁离加州，并引发关于资本外流与投资环境的争议。",
+      "summary_en": "California's Proposition 40, on the Nov. 3 ballot, proposes a one-time 5% wealth tax on billionaires, expected to raise about $100B over 2027-2031 for healthcare, education, and food assistance. The measure has already prompted some billionaires to adjust shareholding structures or leave the state, sparking debate over capital flight and investment climate.",
+      "detail_zh": "加州即将于11月3日投票的Proposition 40提议对加州亿万富翁征收一次性5%的财富税，纳税人可选择在五年内分期支付。该税针对全球净资产，但直接持有的房地产除外（除非通过企业实体持有）。预计2027-2031年间将筹集约1000亿美元，主要用于因《One Big Beautiful Bill Act》而大幅削减的州医疗项目，以及K-14公立教育和食品援助。提案包含针对信托、全球资产和离岸金融财富的条款以防范避税。Mark Zuckerberg与Meta达成协议，承诺继续居住加州八年（或Meta总部所在地），以换取更大的售股灵活性和保留控制权，包括通过股票拆分创建无投票权的C类股。其他可能受影响的亿万富翁包括英伟达CEO黄仁勋，以及Salesforce、Snap、Airbnb和DoorDash的CEO。部分科技巨头如谷歌联合创始人Larry Page和Sergey Brin、Peter Thiel及Travis Kalanick已在2026年1月1日截止日期前迁离。支持者认为该税让富豪支付公平份额，反对者则担心资本外流、投资减少及可能扩展到中产阶级。",
+      "detail_en": "California's Proposition 40, set for a Nov. 3 vote, proposes a one-time 5% wealth tax on the state's billionaires, with an option to pay in annual installments over five years. The levy applies to worldwide net worth, excluding directly held real estate unless owned through a corporate entity. It is expected to raise about $100B over 2027-2031, primarily funding state healthcare programs that saw heavy cuts due to the One Big Beautiful Bill Act, as well as K-14 public education and food assistance. The proposal includes provisions targeting trusts, global assets, and offshore financial wealth to deter evasion. Mark Zuckerberg reached an agreement with Meta granting him greater flexibility to sell shares while retaining control, including a stock split creating non-voting Class C shares, after pledging to remain a California resident for eight years or wherever Meta maintains headquarters. Other billionaires potentially affected include Nvidia CEO Jensen Huang and the CEOs of Salesforce, Snap, Airbnb, and DoorDash. Some tech titans, such as Google co-founders Larry Page and Sergey Brin, Peter Thiel, and Travis Kalanick, moved out before the Jan. 1, 2026 cutoff. Proponents argue the measure ensures billionaires pay their fair share, while opponents fear capital flight, reduced investment, and expansion to the middle class.",
+      "conclusion_zh": "加州财富税提案可能加剧高净值人群的税务规划与居住地选择，投资者需关注相关科技公司高管售股行为及潜在资本流动对市场的影响。",
+      "conclusion_en": "The California wealth tax proposal may accelerate tax planning and residency shifts among high-net-worth individuals; investors should watch for share sales by tech executives and potential capital flow impacts on the market.",
+      "key_points": [
+        {
+          "zh": "Proposition 40拟对加州亿万富翁征收一次性5%财富税，预计2027-2031年筹集约1000亿美元。",
+          "en": "Proposition 40 proposes a one-time 5% wealth tax on California billionaires, expected to raise about $100B over 2027-2031."
+        },
+        {
+          "zh": "税收将主要用于医疗、K-14教育和食品援助项目。",
+          "en": "Revenue will primarily fund healthcare, K-14 education, and food assistance programs."
+        },
+        {
+          "zh": "Mark Zuckerberg与Meta达成协议，承诺居留加州八年以换取售股灵活性和控制权保留。",
+          "en": "Mark Zuckerberg reached an agreement with Meta, pledging to remain a California resident for eight years in exchange for share sale flexibility and retained control."
+        },
+        {
+          "zh": "部分科技富豪如Larry Page、Sergey Brin、Peter Thiel已在2026年前迁离加州。",
+          "en": "Some tech billionaires like Larry Page, Sergey Brin, and Peter Thiel have left California before 2026."
+        },
+        {
+          "zh": "支持者认为富豪应支付公平份额，反对者担忧资本外流和投资减少。",
+          "en": "Proponents argue billionaires should pay their fair share; opponents fear capital flight and reduced investment."
+        }
+      ],
+      "tags": [
+        "California",
+        "wealth tax",
+        "Proposition 40",
+        "billionaires",
+        "tech"
+      ],
+      "tickers": [
+        "ETSY",
+        "SPCX",
+        "META",
+        "NVDA",
+        "CRM",
+        "SNAP",
+        "ABNB",
+        "DASH",
+        "GOOGL",
+        "PYPL",
+        "PLTR",
+        "UBER",
+        "GM",
+        "MRNA",
+        "LMT",
+        "BDRAF",
+        "PCG",
+        "AAPL",
+        "SLB",
+        "AXP"
+      ],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:J08RoxSQZ8s",
       "title": "Treasury Rally Pauses After Rush to Safety; Oil Extends Gain Amid Supply Woes",
       "title_zh": "科技股抛售推升美债，收益率回落；油价因沙特袭击周线三连涨；SpaceX寻求美国8万基站，铁塔股涨运营商跌",
@@ -11749,109 +12049,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:T8brA63WlgU",
-      "title": "Tesla, IBM & Meta Report Earnings as AI Takes Center Stage",
-      "title_zh": "彭博《收盘》节目：沙特油田遇袭推高油价，CME谈波动率与地缘风险",
-      "url": "https://www.youtube.com/watch?v=T8brA63WlgU",
-      "published_at": "2026-10-21T22:01:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博《收盘》节目涵盖沙特油田遇袭推升原油价格、CME CEO Terry Duffy讨论波动率与地缘政治风险、24/7交易与AI算力，以及社区银行、稳定币竞争、AI服务投资、数据中心与私募股权回报、Bose收购Skullcandy、Meta与IBM财报、特斯拉财报及ARK的Robotaxi展望等议题。",
-      "summary_en": "This episode of Bloomberg The Close covers the Saudi oil field attack pushing crude prices higher, CME CEO Terry Duffy on volatility and geopolitical risk, 24/7 trading and AI compute, community banks and stablecoin competition, investing in AI services, data centers and private equity returns, Bose's Skullcandy acquisition, Meta and IBM earnings, Tesla earnings and ARK's robotaxi outlook, and more.",
-      "detail_zh": "节目首先关注沙特油田遇袭事件，该事件推动原油价格上涨。贝莱德美洲机构业务主管Armando Senra讨论家族办公室、地缘政治与投资。CME集团董事长兼CEO Terry Duffy就波动率与地缘政治风险、24/7交易、AI算力与风险管理发表看法。第一独立银行董事长兼CEO Kenneth Kelly讨论社区银行、技术与稳定币竞争。October Capital创始人Frank Baker分享对AI服务投资的看法，并涉及数据中心、更高利率与私募股权回报。Bose CEO Lila Snyder谈论收购Skullcandy以及音频技术与供应链挑战。Man Group董事总经理Matt Rowe讨论市场波动、AI风险与经济展望，以及AI融资、CoreWeave与数据中心产能过剩。收盘后，节目关注Meta财报、AI支出与Muse机会，IBM财报超预期且AI与软件增长反弹，Meta新股份与扎克伯格AI投资，特斯拉财报与ARK的Robotaxi展望，特斯拉-SpaceX合并与马斯克AI帝国未来，前Meta内部人士谈扎克伯格AI雄心，Meta AI支出、Reality Labs与苹果合作，大型科技股财报、AI资本支出与市场多元化，美联储加息、通胀与经济风险，以及AI数据中心、能源需求与电力基础设施。",
-      "detail_en": "The program begins with the Saudi oil field attack that sent crude prices higher. BlackRock Head of the Americas Institutional Business Armando Senra discusses family offices, geopolitics and investing. CME Group CEO & Chairman Terry Duffy shares views on volatility and geopolitical risk, 24/7 trading, AI compute and risk management. First Independence Bank Chairman & CEO Kenneth Kelly discusses community banks, technology and stablecoin competition. October Capital CEO & Managing Partner Frank Baker talks about investing in AI services, data centers, higher rates and private equity returns. Bose CEO Lila Snyder discusses the Skullcandy acquisition, audio technology and supply chain challenges. Man Group Managing Director Matt Rowe covers market volatility, AI risks and the economic outlook, as well as AI financing, CoreWeave and data center overcapacity. After the closing bell, the show covers Meta earnings, AI spending and the Muse opportunity; IBM earnings beat as AI and software growth rebound; Meta's new shares, Zuckerberg and AI investment; Tesla earnings and ARK's robotaxi outlook; the Tesla-SpaceX merger and the future of Elon's AI empire; a former Meta insider on Zuckerberg's AI ambitions; Meta's AI spending, Reality Labs and the Apple partnership; Big Tech earnings, AI capex and market diversification; Fed rate hikes, inflation and risks to the economy; and AI data centers, energy demand and power infrastructure.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "沙特油田遇袭推动原油价格上涨。",
-          "en": "Saudi oil field attack sends crude prices higher."
-        },
-        {
-          "zh": "CME CEO Terry Duffy讨论波动率、地缘政治风险、24/7交易与AI算力。",
-          "en": "CME CEO Terry Duffy discusses volatility, geopolitical risk, 24/7 trading and AI compute."
-        },
-        {
-          "zh": "社区银行面临技术与稳定币竞争。",
-          "en": "Community banks face technology and stablecoin competition."
-        },
-        {
-          "zh": "Meta与IBM财报及AI支出成为焦点，IBM财报超预期且AI与软件增长反弹。",
-          "en": "Meta and IBM earnings and AI spending in focus; IBM beats with AI and software growth rebound."
-        },
-        {
-          "zh": "特斯拉财报与ARK的Robotaxi展望，以及特斯拉-SpaceX合并讨论。",
-          "en": "Tesla earnings and ARK's robotaxi outlook, plus discussion of a Tesla-SpaceX merger."
-        }
-      ],
-      "tags": [
-        "oil",
-        "CME",
-        "AI",
-        "earnings",
-        "volatility"
-      ],
-      "tickers": [
-        "META",
-        "IBM",
-        "TSLA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:OzBzE3yxphg",
-      "title": "Inside the Biggest Bond Boom in Years",
-      "title_zh": "AI资本开支与并购推动债券发行创纪录，投资级与CCC级信用分化加剧",
-      "url": "https://www.youtube.com/watch?v=OzBzE3yxphg",
-      "published_at": "2026-10-21T21:38:08+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "摩根士丹利固收团队讨论债券发行历史高位对市场的影响。投资级债券发行量同比增长近25%，受AI资本开支和并购复苏驱动，同时1000亿美元新资金流入投资级信用。投资级基本面强劲，而CCC级信用出现明显分化，再融资压力成为挑战。",
-      "summary_en": "Morgan Stanley's fixed income team discusses the impact of historically high bond issuance on markets. Investment grade debt volumes are up nearly 25% year-over-year, driven by AI capex and resurgent M&A, with $100 billion of new cash flowing into IG credit. IG fundamentals are strong, while CCC-rated credit shows significant dispersion and refinancing challenges.",
-      "detail_zh": "摩根士丹利全球固收研究主管Andrew Sheets主持讨论，与债务资本市场主管Anisha、全球信用交易主管Rahan Nativ及外汇与新兴市场主管Samara共同分析债券发行浪潮。Anisha指出，投资级债券发行量同比增长近25%，受AI资本开支主题和并购活动复苏推动；利率环境对信用市场构成支撑，1000亿美元新现金流入投资级信用，保险资本和私人信贷等新投资者群体带来巨大容量。AI生态系统的复杂性（超大规模企业、芯片制造商、新云、数据中心之间的互联）要求前所未有的结构创新。Rahan Nativ提出公共信用交易的三个叙事：投资级异常强劲，高收益率环境下吸引力突出；CCC级市场出现真正分化，困境投资者和高收益投资者需解决再融资难题；超大规模企业已大规模进入多个资本市场。Samara补充，企业衍生品业务因发行浪潮和不确定性（能源价格高企、通胀粘性、财政担忧）而异常繁忙，客户对冲需求上升，宏观模型正在重新校准利率水平对经济及行业赢家输家的影响。资本流向具有积极大宗商品和AI超大规模企业故事的发行人和主权，而避开缺乏这些故事的司法管辖区。Anisha还提到，AI生态系统内的发行人对利率相对不敏感，因对长期回报乐观，第一波AI资本开支主要进入投资级债券市场。",
-      "detail_en": "Morgan Stanley's global head of fixed income research Andrew Sheets hosts a discussion with Anisha (global head of debt capital markets), Rahan Nativ (global head of credit trading), and Samara (global head of FX and EM) on the bond issuance wave. Anisha notes IG debt volumes are up nearly 25% year-over-year, driven by AI capex and resurgent M&A; the rate backdrop is constructive, with $100 billion of new cash into IG credit and new investor pools like insurance capital and private credit adding capacity. Complexity from the AI ecosystem (hyperscalers, chip makers, neoclouds, data centers) demands unprecedented structuring innovation. Rahan Nativ offers three narratives in public credit: IG is incredibly strong and attractive at current yields; CCC-rated credit shows real dispersion with refinancing challenges for distress and high yield investors; hyperscalers have accessed multiple capital markets. Samara adds that corporate derivatives business is exceptionally busy due to issuance and uncertainty (high energy prices, sticky inflation, fiscal concerns), with clients hedging more and recalibrating macro models on rate levels and winners/losers by jurisdiction and sector. Capital flows toward names with positive commodity and AI hyperscaler stories, away from those without. Anisha notes AI ecosystem issuers are relatively insensitive to rates given optimism on long-term returns, with the first AI capex wave predominantly in IG bonds.",
-      "conclusion_zh": "投资级信用在AI资本开支和并购浪潮下基本面强劲且供需两旺，但需关注CCC级信用分化加剧带来的再融资风险。",
-      "conclusion_en": "IG credit fundamentals are strong with robust supply and demand amid AI capex and M&A, but watch for rising refinancing risks from growing CCC-rated dispersion.",
-      "key_points": [
-        {
-          "zh": "投资级债券发行量同比增长近25%，受AI资本开支和并购复苏驱动。",
-          "en": "IG debt volumes are up nearly 25% year-over-year, driven by AI capex and resurgent M&A."
-        },
-        {
-          "zh": "1000亿美元新现金流入投资级信用，保险资本和私人信贷等新投资者群体扩大市场容量。",
-          "en": "$100 billion of new cash has flowed into IG credit, with new investor pools like insurance capital and private credit expanding market capacity."
-        },
-        {
-          "zh": "投资级信用基本面强劲，当前收益率下吸引力突出；CCC级信用出现明显分化和再融资压力。",
-          "en": "IG credit fundamentals are strong and attractive at current yields; CCC-rated credit shows significant dispersion and refinancing pressure."
-        },
-        {
-          "zh": "AI生态系统的复杂性要求结构性创新，超大规模企业已大规模进入多个资本市场。",
-          "en": "Complexity in the AI ecosystem demands structuring innovation, and hyperscalers have accessed multiple capital markets at scale."
-        },
-        {
-          "zh": "宏观不确定性（能源价格高企、通胀粘性、财政担忧）推动客户对冲需求上升，资本流向具有积极AI和大宗商品故事的发行人和主权。",
-          "en": "Macro uncertainty (high energy prices, sticky inflation, fiscal concerns) drives hedging demand, with capital flowing to issuers and sovereigns with positive AI and commodity stories."
-        }
-      ],
-      "tags": [
-        "bond issuance",
-        "investment grade",
-        "AI capex",
-        "credit dispersion",
-        "M&A"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
