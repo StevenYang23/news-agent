@@ -1,6 +1,376 @@
 {
-  "generated_at": "2026-10-28T19:15:18.959735+00:00",
+  "generated_at": "2026-10-28T20:18:23.815951+00:00",
   "insights": [
+    {
+      "guid": "yt:lt8Ktoshcvs",
+      "title": "Ripple CEO on XRP’s role as a currency bridge",
+      "title_zh": "Ripple CEO：XRP 仍充当货币对之间的桥梁",
+      "url": "https://www.youtube.com/watch?v=lt8Ktoshcvs",
+      "published_at": "2026-10-28T19:54:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Ripple CEO Brad Garlinghouse 表示，XRP 继续作为货币对之间的桥梁，避免兑换成美元再换出。",
+      "summary_en": "Ripple CEO Brad Garlinghouse says XRP continues to serve as a bridge between currency pairs, avoiding conversion into and out of the US dollar.",
+      "detail_zh": "Ripple CEO Brad Garlinghouse 表示，XRP 继续充当货币对之间的桥梁。他指出，这一用途可以避免兑换成美元再换出。原文未提供更多关于使用规模、具体货币对或业务进展的细节。",
+      "detail_en": "Ripple CEO Brad Garlinghouse says XRP continues to serve as a bridge between currency pairs. He notes that this use avoids conversion into and out of the US dollar. The source provides no further details on usage scale, specific currency pairs, or business developments.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Ripple CEO 称 XRP 仍充当货币对之间的桥梁",
+          "en": "Ripple CEO says XRP continues to serve as a bridge between currency pairs"
+        },
+        {
+          "zh": "该用途避免兑换成美元再换出",
+          "en": "This use avoids conversion into and out of the US dollar"
+        }
+      ],
+      "tags": [
+        "XRP",
+        "Ripple",
+        "cross-border payments"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:K-BlH8tBsSY",
+      "title": "Politics Had No Role in Fed Rate Decision, Warsh Says",
+      "title_zh": "美联储维持利率不变，主席称决策未受政治影响",
+      "url": "https://www.youtube.com/watch?v=K-BlH8tBsSY",
+      "published_at": "2026-10-28T19:43:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "FOMC决定维持利率不变，美联储主席Kevin Warsh表示政治因素未参与该决策。",
+      "summary_en": "The FOMC kept interest rates unchanged, and Fed Chair Kevin Warsh stated that politics played no role in the decision.",
+      "detail_zh": "美联储公开市场委员会（FOMC）决定维持利率不变。会后，美联储主席Kevin Warsh表示：“政治在决策中没有扮演任何角色。”原文未提供利率决议的具体细节、投票结果或经济背景。",
+      "detail_en": "The Federal Open Market Committee (FOMC) decided to keep interest rates unchanged. After the meeting, Fed Chair Kevin Warsh said, \"Politics played no role in the decision.\" The original text does not provide specific details of the rate decision, voting results, or economic context.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "FOMC维持利率不变。",
+          "en": "The FOMC kept interest rates unchanged."
+        },
+        {
+          "zh": "美联储主席Kevin Warsh称政治未影响决策。",
+          "en": "Fed Chair Kevin Warsh said politics played no role in the decision."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "FOMC",
+        "interest rates",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-SJm7EcJA9U",
+      "title": "US, Israel Are Planning New Attack on Iran, Cook Says",
+      "title_zh": "CFR专家：美以似在筹划对伊朗新攻击，内塔尼亚胡或从以色列再选举中获益",
+      "url": "https://www.youtube.com/watch?v=-SJm7EcJA9U",
+      "published_at": "2026-10-28T19:41:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国外交关系委员会中东项目主任Steven Cook表示，美国和以色列似乎正在筹划对伊朗的新一轮攻击。他还指出，若以色列再次举行大选以尝试组建新政府，总理内塔尼亚胡将占据优势。",
+      "summary_en": "Steven Cook, director of the Middle East program at the Council on Foreign Relations, says the US and Israel appear to be planning a new attack on Iran. He also says Prime Minister Benjamin Netanyahu would have an advantage if Israelis go to the polls again to try to form a new government.",
+      "detail_zh": "美国外交关系委员会（CFR）中东项目主任Steven Cook在彭博电视节目中表示，美国和以色列似乎正在筹划对伊朗发动新的攻击。Cook还就以色列国内政治发表看法，称如果以色列再次举行大选以尝试组建新政府，总理本杰明·内塔尼亚胡将拥有优势。原文未提供攻击计划的具体细节、时间表或选举相关民调数据。",
+      "detail_en": "Steven Cook, director of the Middle East program at the Council on Foreign Relations, said on Bloomberg Television that the US and Israel appear to be planning a new attack on Iran. Cook also commented on Israeli domestic politics, saying Prime Minister Benjamin Netanyahu would have an advantage if Israelis go to the polls again to try to form a new government. The original text does not provide specific details, timelines, or polling data regarding the attack plans or the elections.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "CFR中东项目主任Steven Cook称，美以似乎正在筹划对伊朗的新攻击。",
+          "en": "Steven Cook of the Council on Foreign Relations says the US and Israel appear to be planning a new attack on Iran."
+        },
+        {
+          "zh": "Cook表示，若以色列再次举行大选，内塔尼亚胡将占据优势。",
+          "en": "Cook says Netanyahu would have an advantage if Israelis go to the polls again."
+        }
+      ],
+      "tags": [
+        "Iran",
+        "Israel",
+        "Middle East",
+        "election"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:M0j0TdCX6DI",
+      "title": "Warsh says FOMC meeting schedule will change as of next fall",
+      "title_zh": "美联储主席沃什宣布明年起调整会议安排，维持利率不变",
+      "url": "https://www.youtube.com/watch?v=M0j0TdCX6DI",
+      "published_at": "2026-10-28T19:39:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储主席凯文·沃什表示，美联储将从明年开始分阶段实施调整后的会议安排，认为每年八次会议是FOMC的合适数量。此前美联储以10比2的投票结果决定维持利率不变，尽管存在持续的价格压力和强劲经济迹象。",
+      "summary_en": "Federal Reserve Chairman Kevin Warsh said the central bank will phase in an adjusted meeting schedule starting next year, believing eight meetings per year is the right number for the FOMC. This follows a 10-2 vote to leave interest rates unchanged despite persistent price pressures and signs of a strong economy.",
+      "detail_zh": "美联储主席凯文·沃什周三表示，美联储将从明年开始分阶段实施调整后的会议安排。沃什称：“我们认为每年八次会议是FOMC的合适数量。”此番表态是在美联储官员以10比2的投票结果决定维持利率不变之后作出的。投票结果反映出，尽管存在持续的价格压力和强劲经济的迹象，美联储仍选择按兵不动。原文未提供更多关于会议安排调整的细节或反对票的具体原因。",
+      "detail_en": "Federal Reserve Chairman Kevin Warsh said on Wednesday that the central bank will phase in an adjusted meeting schedule starting next year. \"We believe eight meetings per year is the right number for the FOMC,\" Warsh said. The remarks came after Federal Reserve officials voted 10-2 to leave interest rates unchanged despite persistent price pressures and signs of a strong economy. The original text does not provide further details on the schedule adjustment or the reasons behind the dissenting votes.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联储主席沃什宣布明年起分阶段调整会议安排",
+          "en": "Fed Chairman Warsh announces phased-in adjusted meeting schedule starting next year"
+        },
+        {
+          "zh": "沃什认为每年八次会议是FOMC的合适数量",
+          "en": "Warsh believes eight meetings per year is the right number for the FOMC"
+        },
+        {
+          "zh": "美联储以10比2投票维持利率不变",
+          "en": "Fed votes 10-2 to leave interest rates unchanged"
+        },
+        {
+          "zh": "维持利率不变的决定面临持续价格压力和强劲经济迹象",
+          "en": "The decision to hold rates comes amid persistent price pressures and signs of a strong economy"
+        }
+      ],
+      "tags": [
+        "Federal Reserve",
+        "FOMC",
+        "interest rates",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Et7KH6Mtcls",
+      "title": "Dimensional’s David Booth on How to Interpret Risk and 'Stay Calm' Amid Uncertainty",
+      "title_zh": "Dimensional创始人David Booth谈风险、不确定性与复利",
+      "url": "https://www.youtube.com/watch?v=Et7KH6Mtcls",
+      "published_at": "2026-10-28T19:33:37+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Dimensional Fund Advisors创始人兼董事长David Booth与高盛Raj Mahajan对话，讨论如何解读风险与不确定性、外部投资者如何像内部人一样有效参与市场，以及复利的长期魔力。Booth管理超过1万亿美元资产，著有《Stay Calm》。",
+      "summary_en": "David Booth, founder and chairman of Dimensional Fund Advisors, which manages over $1 trillion, discusses with Goldman Sachs' Raj Mahajan how to interpret risk and uncertainty, how outsiders can participate in markets as effectively as insiders, and the long-term magic of compounding. Booth is the author of Stay Calm.",
+      "detail_zh": "Dimensional Fund Advisors创始人兼董事长David Booth运用学术研究和市场证据管理超过1万亿美元资产。在与高盛全球银行与市场部高级合伙人Raj Mahajan的对话中，Booth讨论了如何解读风险与不确定性、外部人如何像内部人一样有效地参与市场，以及复利的长期魔力。Booth著有《Stay Calm》一书。该期节目录制于2026年9月3日。原文未提供更多具体投资观点或市场判断。",
+      "detail_en": "David Booth, founder and chairman of Dimensional Fund Advisors, uses academic research and market evidence to manage more than $1 trillion in assets. In a conversation with Raj Mahajan, a senior partner in Goldman Sachs Global Banking & Markets, Booth discusses how to interpret risk and uncertainty, how outsiders can participate in the market as effectively as insiders, and the long-term magic of compounding. Booth is the author of Stay Calm. The episode was recorded on September 3, 2026. The source does not provide further specific investment views or market judgments.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Dimensional Fund Advisors管理超过1万亿美元资产，创始人David Booth强调运用学术研究和市场证据。",
+          "en": "Dimensional Fund Advisors manages over $1 trillion in assets, and founder David Booth emphasizes using academic research and market evidence."
+        },
+        {
+          "zh": "对话主题包括如何解读风险与不确定性，以及外部投资者如何像内部人一样有效参与市场。",
+          "en": "The discussion covers how to interpret risk and uncertainty, and how outsiders can participate in markets as effectively as insiders."
+        },
+        {
+          "zh": "Booth还讨论了复利的长期魔力，其著作《Stay Calm》体现了相关理念。",
+          "en": "Booth also discusses the long-term magic of compounding, a theme reflected in his book Stay Calm."
+        }
+      ],
+      "tags": [
+        "asset management",
+        "compounding",
+        "risk",
+        "uncertainty",
+        "long-term investing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-bhV3kVq_xs",
+      "title": "Ripple Swell, Perpetual Futures Pushback, Fifteen-Minute Bets",
+      "title_zh": "彭博加密节目：Ripple、CME、BNY与Coinbase高管讨论加密监管与代币化",
+      "url": "https://www.youtube.com/watch?v=-bhV3kVq_xs",
+      "published_at": "2026-10-28T19:28:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博加密节目汇集Ripple CEO Brad Garlinghouse、CME Group CEO Terry Duffy、BNY全球市场主管Laide Majiyagbe及Coinbase美国政策副总裁Kara Calvert，讨论XRP与RLUSD、加密监管、代币化市场、抵押品流动性、预测市场及加密选民等议题。",
+      "summary_en": "This Bloomberg Crypto episode features Ripple CEO Brad Garlinghouse, CME Group CEO Terry Duffy, BNY Global Head of Markets Laide Majiyagbe, and Coinbase VP of US Policy Kara Calvert, discussing XRP and RLUSD, crypto regulation, tokenized markets, collateral mobility, prediction markets, and crypto voters.",
+      "detail_zh": "节目由多个章节组成，涵盖Ripple CEO Brad Garlinghouse的访谈，涉及XRP与Ripple、XRP与RLUSD的对比、Ripple的增长计划及Ripple的信托银行。随后讨论加密监管。CME Group CEO Terry Duffy讨论CME与预测市场的竞争、离岸交易以及美国交易者使用VPN的情况。BNY全球市场主管Laide Majiyagbe讨论代币化市场、抵押品流动性和规模化代币化。Nathan Dean讨论加密监管。Coinbase美国政策副总裁Kara Calvert讨论Coinbase与Clarity Act、加密与中期选举以及加密选民。最后Emily Nicolle讨论比特币押注和预测市场。",
+      "detail_en": "The program is divided into chapters covering interviews with Ripple CEO Brad Garlinghouse on XRP and Ripple, XRP vs. RLUSD, Ripple's growth plans, and Ripple's trust bank. Crypto regulation is then discussed. CME Group CEO Terry Duffy discusses CME vs. prediction markets, offshore trading, and U.S. traders using VPNs. BNY Global Head of Markets Laide Majiyagbe discusses tokenized markets, collateral mobility, and tokenization at scale. Nathan Dean discusses crypto regulation. Coinbase VP of US Policy Kara Calvert discusses Coinbase and the Clarity Act, crypto and the midterms, and crypto voters. Finally, Emily Nicolle discusses Bitcoin betting and prediction markets.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Ripple CEO Brad Garlinghouse讨论XRP、RLUSD及Ripple的增长计划与信托银行。",
+          "en": "Ripple CEO Brad Garlinghouse discusses XRP, RLUSD, Ripple's growth plans, and its trust bank."
+        },
+        {
+          "zh": "CME Group CEO Terry Duffy讨论CME与预测市场的竞争、离岸交易及美国交易者使用VPN。",
+          "en": "CME Group CEO Terry Duffy discusses CME vs. prediction markets, offshore trading, and U.S. traders using VPNs."
+        },
+        {
+          "zh": "BNY全球市场主管Laide Majiyagbe讨论代币化市场、抵押品流动性和规模化代币化。",
+          "en": "BNY Global Head of Markets Laide Majiyagbe discusses tokenized markets, collateral mobility, and tokenization at scale."
+        },
+        {
+          "zh": "Coinbase美国政策副总裁Kara Calvert讨论Clarity Act、加密与中期选举及加密选民。",
+          "en": "Coinbase VP of US Policy Kara Calvert discusses the Clarity Act, crypto and the midterms, and crypto voters."
+        },
+        {
+          "zh": "节目还涉及加密监管、比特币押注和预测市场等话题。",
+          "en": "The program also covers crypto regulation, Bitcoin betting, and prediction markets."
+        }
+      ],
+      "tags": [
+        "crypto",
+        "regulation",
+        "tokenization",
+        "prediction markets",
+        "XRP"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bHzHWeeH93c",
+      "title": "Ray Dalio on Knowing Your Nature",
+      "title_zh": "桥水创始人达利欧给20岁年轻人的建议：试错、认清本性、让工作与热情合一",
+      "url": "https://www.youtube.com/watch?v=bHzHWeeH93c",
+      "published_at": "2026-10-28T19:15:58+00:00",
+      "source_name": "Principles by Ray Dalio",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "达利欧将人生分为学习依赖、实践独立、他人依赖三个阶段，建议20岁左右的年轻人通过实践试错认清自身本性，找到适合自己的路径。他强调应让工作与热情合一，同时不能忽视收入保障，并要清楚自己的知识边界。",
+      "summary_en": "Ray Dalio outlines three life phases—learning and dependence, learning by doing with others depending on you, and a later stage—and advises young people around 20 to experiment to understand their nature and find the right path. He stresses aligning work with passion while not neglecting income, and knowing what you don't know.",
+      "detail_zh": "达利欧在回答“如果现在20岁，会给年轻时的自己或刚起步的人什么建议”时表示，人生大致分为三个阶段。第一阶段是学习和依赖他人的阶段，上学读书，但并未通过实践去验证所学。大约20岁左右，人从第一阶段切换到完全不同的第二阶段，即通过实践学习，同时他人开始依赖你。他建议年轻人去实验、认清自己的本性，找到适合自己的正确路径，并认为大约35岁左右开始对人生图景有较清晰的认识。他还强调，要让工作与热情成为同一件事，但不要忘记金钱的部分：如果工作与热情合一且契合本性，人会快乐，前提是收入足够、不至于财务窘迫。此外，要清楚自己不知道什么，通过经历去学习，并始终牢记自己的本性、找到契合点。",
+      "detail_en": "Asked what advice he would give his younger self or people starting out if he were 20 now, Dalio said life largely exists in three phases. The first is a phase of learning and dependence on others—going to school—but you have not experimented by doing. Around age 20, you switch from that first phase to a totally different second phase: learning through doing while others become dependent on you. He advises experimenting, knowing your nature, and finding the right path for you, suggesting you start to get the picture around 35ish. He also says to make your work and your passion the same thing, but don't forget about the money part: if work and passion are the same and suitable to your nature, you will be happy if you're not financially miserable, so you need enough income for it to work. Know what you don't know, gain experiences, learn while keeping your nature in mind, and find the fit.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "人生分三阶段：学习依赖期、实践独立期、以及后续阶段，20岁左右从第一阶段切换到第二阶段。",
+          "en": "Life has three phases: learning/dependence, learning by doing with others depending on you, and a later stage; the switch from phase one occurs around 20."
+        },
+        {
+          "zh": "第二阶段的核心是通过实践学习，实验并认清自己的本性，找到适合自己的路径。",
+          "en": "The second phase centers on learning through doing—experimenting to know your nature and find the right path."
+        },
+        {
+          "zh": "让工作与热情成为同一件事，但不要忽视金钱：收入需足够，避免财务窘迫。",
+          "en": "Make work and passion the same thing, but don't forget the money part: income must be enough to avoid financial misery."
+        },
+        {
+          "zh": "要清楚自己不知道什么，通过经历去学习，并始终牢记自己的本性、找到契合点。",
+          "en": "Know what you don't know, learn through experience, keep your nature in mind, and find the fit."
+        }
+      ],
+      "tags": [
+        "career advice",
+        "life philosophy",
+        "Ray Dalio",
+        "personal development"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bsvearrTNKg",
+      "title": "Chris Wright Says Diesel Exports From Arabian Gulf Likely to Increase",
+      "title_zh": "美能源部长：柴油价格有望大幅下降，但需增加阿拉伯湾出口",
+      "url": "https://www.youtube.com/watch?v=bsvearrTNKg",
+      "published_at": "2026-10-28T19:03:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国能源部长Chris Wright表示，预计柴油价格将“大幅下降”，但在与伊朗持续冲突的背景下，需要增加来自阿拉伯湾的出口来管理市场。他还提及俄罗斯柴油产量，称俄罗斯从近期获准的柴油出口中获益的唯一途径是达成能源停火或结束战争。",
+      "summary_en": "U.S. Energy Secretary Chris Wright said he expects diesel prices to 'drop significantly' but will need increased exports out of the Arabian Gulf to manage it amid the ongoing war with Iran. He also referenced Russia's diesel output, saying the only way Russia can benefit from recently permitted diesel exports is to deliver a ceasefire on energy or end the war.",
+      "detail_zh": "美国能源部长Chris Wright表示，他预计柴油价格将“大幅下降”，但强调在与伊朗持续冲突的背景下，需要增加来自阿拉伯湾的出口来管理这一目标。Wright还提到了俄罗斯的柴油产量，并表示俄罗斯从近期获准的柴油出口中获益的唯一途径是达成能源停火或结束战争。原文未提供具体价格目标、时间表或出口规模等细节。",
+      "detail_en": "U.S. Energy Secretary Chris Wright said he expects diesel prices to 'drop significantly' but stressed the need for increased exports out of the Arabian Gulf to manage it amid the ongoing war with Iran. Wright also mentioned Russia's diesel output, saying that the only way Russia can benefit from recently permitted exports of diesel is to deliver a ceasefire on energy or end the war. The original text does not provide specific price targets, timelines, or export volumes.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美能源部长预计柴油价格将大幅下降。",
+          "en": "U.S. Energy Secretary expects diesel prices to drop significantly."
+        },
+        {
+          "zh": "需要增加阿拉伯湾出口以管理柴油市场。",
+          "en": "Increased exports from the Arabian Gulf are needed to manage the diesel market."
+        },
+        {
+          "zh": "与伊朗的持续冲突是背景因素。",
+          "en": "The ongoing war with Iran is the backdrop."
+        },
+        {
+          "zh": "俄罗斯从柴油出口中获益的前提是能源停火或结束战争。",
+          "en": "Russia can only benefit from diesel exports if there is a ceasefire on energy or the war ends."
+        }
+      ],
+      "tags": [
+        "diesel",
+        "energy",
+        "Iran",
+        "Russia",
+        "exports"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:QUa2DMOZJ0g",
+      "title": "Warsh Makes Change to Fed Meeting Schedule for 2027",
+      "title_zh": "沃什：美联储明年仅七次利率决议，2028年降至六次",
+      "url": "https://www.youtube.com/watch?v=QUa2DMOZJ0g",
+      "published_at": "2026-10-28T18:52:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储主席凯文·沃什表示，明年政策制定者将只发布七次利率决议，而非八次；2028年进一步降至六次。沃什称明年其中一次会议将聚焦广泛战略。",
+      "summary_en": "Federal Reserve Chair Kevin Warsh says policymakers will issue only seven rate decisions next year instead of eight, with the number dropping to six in 2028. Warsh says one meeting next year will focus on broad strategy.",
+      "detail_zh": "美联储主席凯文·沃什表示，明年联邦公开市场委员会将只做出七次利率决议，少于通常的八次。到2028年，利率决议次数将进一步降至六次。沃什还提到，明年其中一次会议将专门讨论广泛战略议题。原文未说明减少会议次数的具体原因，也未提供更多关于战略会议内容的细节。",
+      "detail_en": "Federal Reserve Chair Kevin Warsh says policymakers will issue only seven rate decisions next year, rather than eight. In 2028, the number of rate decisions drops to six. Warsh also says one meeting next year will focus on broad strategy. The source does not explain the reason for fewer meetings or provide further details on the strategy meeting.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联储明年利率决议次数从八次降至七次",
+          "en": "Fed rate decisions will fall from eight to seven next year"
+        },
+        {
+          "zh": "2028年利率决议次数进一步降至六次",
+          "en": "Rate decisions will drop further to six in 2028"
+        },
+        {
+          "zh": "明年其中一次会议将聚焦广泛战略",
+          "en": "One meeting next year will focus on broad strategy"
+        }
+      ],
+      "tags": [
+        "Federal Reserve",
+        "rate decisions",
+        "monetary policy",
+        "Kevin Warsh"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:o7OxZY4kRp8",
       "title": "Sherman: AI Buildout Doesn't Pencil Out Yet",
@@ -12123,138 +12493,6 @@
         "chip costs"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6mWxb7sqC7U",
-      "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble Right Now",
-      "title_zh": "Citadel创始人Griffin：投资者“几乎肯定”处于AI泡沫之中",
-      "url": "https://www.youtube.com/watch?v=6mWxb7sqC7U",
-      "published_at": "2026-10-21T20:13:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Citadel创始人兼CEO Ken Griffin在纽约举行的Citadel年度全球市场未来会议上接受彭博采访时表示，投资者“几乎肯定”正处于人工智能泡沫之中。",
-      "summary_en": "Citadel founder and CEO Ken Griffin said investors are \"almost certainly\" in an artificial intelligence bubble, speaking in an interview with Bloomberg at Citadel's annual Future of Global Markets Conference in New York.",
-      "detail_zh": "Citadel创始人兼首席执行官Ken Griffin在纽约举行的Citadel年度全球市场未来会议上接受彭博的Dani Burger采访时表示，投资者“几乎肯定”正处于人工智能泡沫之中。该言论直接指向当前AI相关投资热潮，暗示市场可能存在泡沫风险。原文未提供更多关于泡沫程度、影响范围或具体投资建议的细节。",
-      "detail_en": "Citadel founder and CEO Ken Griffin said investors are \"almost certainly\" in an artificial intelligence bubble during an interview with Bloomberg's Dani Burger at Citadel's annual Future of Global Markets Conference in New York. The remark directly points to the current AI investment boom, suggesting potential bubble risk in the market. The original text does not provide further details on the extent of the bubble, its scope, or specific investment advice.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Citadel创始人Ken Griffin认为投资者“几乎肯定”处于AI泡沫中。",
-          "en": "Citadel founder Ken Griffin believes investors are \"almost certainly\" in an AI bubble."
-        },
-        {
-          "zh": "该言论发表于Citadel年度全球市场未来会议期间接受彭博采访。",
-          "en": "The comment was made during a Bloomberg interview at Citadel's annual Future of Global Markets Conference."
-        }
-      ],
-      "tags": [
-        "AI bubble",
-        "Ken Griffin",
-        "Citadel",
-        "market outlook"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:La55y6f1Qrg",
-      "title": "Midterm Elections: Sabato's Crystal Ball Moves 28 House Races Toward Dems",
-      "title_zh": "中期选举展望：民主党众议院选情改善，参议院控制权未定",
-      "url": "https://www.youtube.com/watch?v=La55y6f1Qrg",
-      "published_at": "2026-10-21T19:55:01+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "弗吉尼亚大学政治中心《萨巴托水晶球》主编Kyle Kondik表示，中期选举更取决于整体环境而非个别选区。该机构本周将28个众议院选区评级调向民主党，Kondik称民主党在摇摆众议院选区将表现“相当好”，但参议院控制权仍“悬而未决”。",
-      "summary_en": "Kyle Kondik, managing editor of Sabato's Crystal Ball at the University of Virginia's Center for Politics, said the midterm elections will hinge on the 'overall environment' rather than individual races. The Crystal Ball moved 28 House ratings toward Democrats this week, and Kondik said Democrats will do 'quite well' in swing House districts, while Senate control remains 'up in the air.'",
-      "detail_zh": "弗吉尼亚大学政治中心《萨巴托水晶球》主编Kyle Kondik指出，即将到来的中期选举将更多由“整体环境”决定，而非个别选区的事态发展。本周早些时候，该机构将28个众议院选区的评级调向民主党。Kondik表示，民主党在摇摆众议院选区将表现“相当好”。但他同时强调，参议院的控制权仍“悬而未决”。",
-      "detail_en": "Kyle Kondik, managing editor of Sabato's Crystal Ball at the University of Virginia's Center for Politics, said the upcoming midterm elections will be about the 'overall environment' rather than developments in individual races. Earlier this week, the Crystal Ball moved 28 House ratings toward Democrats. Kondik said Democrats will do 'quite well' in swing House districts, but control of the Senate is still 'up in the air.'",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中期选举更取决于整体环境，而非个别选区动态。",
-          "en": "Midterm elections will be driven by the overall environment, not individual race developments."
-        },
-        {
-          "zh": "《萨巴托水晶球》本周将28个众议院选区评级调向民主党。",
-          "en": "Sabato's Crystal Ball moved 28 House ratings toward Democrats this week."
-        },
-        {
-          "zh": "Kondik预计民主党在摇摆众议院选区将表现“相当好”。",
-          "en": "Kondik expects Democrats to do 'quite well' in swing House districts."
-        },
-        {
-          "zh": "参议院控制权仍“悬而未决”。",
-          "en": "Control of the Senate remains 'up in the air.'"
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "House",
-        "Senate",
-        "polling",
-        "US politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:hH7hHe4AxZ4",
-      "title": "Putin Says Russia Ready for Talks",
-      "title_zh": "彭博《权力平衡》早间版：中期选举、俄乌和谈与油市供应",
-      "url": "https://www.youtube.com/watch?v=hH7hHe4AxZ4",
-      "published_at": "2026-10-21T19:20:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目涵盖特朗普中期选举最后冲刺、南卡罗来纳州参议院选情收紧、众议院选情向民主党倾斜，以及俄乌和平谈判、伊朗与霍尔木兹海峡相关的全球能源安全议题。科威特石油公司CEO参与讨论油市供应与航运。节目另设市场板块提及股票、石油、科技及特斯拉、Meta。",
-      "summary_en": "This episode covers Trump's final midterm campaign push, a tightening South Carolina Senate race, House races shifting toward Democrats, Russia-Ukraine peace talks, and global energy security around Iran and the Strait of Hormuz. Kuwait Petroleum Corporation's CEO discusses oil markets and shipping. A markets segment touches on stocks, oil, tech, Tesla and Meta.",
-      "detail_zh": "节目由彭博华盛顿记者Joe Mathieu与Kailey Leinz主持，讨论白宫最新动态。嘉宾包括哈佛肯尼迪学院Ash Center访问民主研究员Jeanne Sheehan Zaino、American Principles Project政治总监Katie Frost、科威特石油公司CEO Sheikh Nawaf Al-Sabah，以及Sabato's Crystal Ball执行编辑Kyle Kondik。章节显示：市场因SpaceX业绩上涨；特朗普进行中期选举最后冲刺；南卡罗来纳州参议院选情收紧；政治小组讨论特朗普与中期选举；俄乌与新和平谈判；市场板块涉及股票、石油与科技；美俄关系与乌克兰；伊朗、石油与全球能源安全；科威特石油谈油市；石油供应、航运与霍尔木兹海峡；市场板块涉及石油、特斯拉与Meta；密歇根与堪萨斯参议院辩论；众议院选情向民主党倾斜；参议院控制权与关键摇摆选区。",
-      "detail_en": "Hosted by Bloomberg Washington correspondents Joe Mathieu and Kailey Leinz, the episode discusses the latest from the White House. Guests include Jeanne Sheehan Zaino, Visiting Democracy Fellow at Harvard Kennedy School's Ash Center; Katie Frost, Political Director at American Principles Project; Sheikh Nawaf Al-Sabah, CEO of Kuwait Petroleum Corporation; and Kyle Kondik, Managing Editor of Sabato's Crystal Ball. Chapters indicate: markets rally on SpaceX earnings; Trump's final midterm campaign push; South Carolina Senate race tightens; political panel on Trump and the midterms; Russia, Ukraine and new peace talks; markets covering stocks, oil and tech; U.S.-Russia relations and Ukraine; Iran, oil and global energy security; Kuwait Petroleum on oil markets; oil supply, shipping and the Strait of Hormuz; markets covering oil, Tesla and Meta; Michigan and Kansas Senate debates; House races shift toward Democrats; Senate control and key toss-up races.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普进行中期选举最后冲刺，南卡罗来纳州参议院选情收紧。",
-          "en": "Trump makes his final midterm campaign push as the South Carolina Senate race tightens."
-        },
-        {
-          "zh": "众议院选情向民主党倾斜，参议院控制权取决于关键摇摆选区。",
-          "en": "House races shift toward Democrats, with Senate control hinging on key toss-up races."
-        },
-        {
-          "zh": "节目讨论俄乌新和平谈判及美俄关系。",
-          "en": "The show covers new Russia-Ukraine peace talks and U.S.-Russia relations."
-        },
-        {
-          "zh": "科威特石油公司CEO讨论油市、供应、航运及霍尔木兹海峡。",
-          "en": "Kuwait Petroleum Corporation's CEO discusses oil markets, supply, shipping and the Strait of Hormuz."
-        },
-        {
-          "zh": "市场板块提及股票、石油、科技以及特斯拉和Meta。",
-          "en": "Markets segments mention stocks, oil, tech, Tesla and Meta."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "oil",
-        "Russia-Ukraine",
-        "energy security"
-      ],
-      "tickers": [
-        "TSLA",
-        "META"
-      ],
       "sentiment": "neutral"
     }
   ]
