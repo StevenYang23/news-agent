@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-28T07:18:16.563114+00:00",
+  "generated_at": "2026-10-28T08:21:33.732294+00:00",
   "insights": [
+    {
+      "guid": "yt:no0a94TLwOs",
+      "title": "Mbappé Apologizes After China Backlash",
+      "title_zh": "彭博中国秀：新西兰联储按兵不动，SK海力士预警内存短缺持续至2030年",
+      "url": "https://www.youtube.com/watch?v=no0a94TLwOs",
+      "published_at": "2026-10-28T07:35:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "新西兰联储维持基准利率2.75%不变，纽元随后大跌。SK海力士预计内存供应短缺将持续至2030年。OpenAI计划购买谷歌芯片作为AI建设的一部分。",
+      "summary_en": "RBNZ held its benchmark rate at 2.75%, sending the Kiwi tumbling. SK Hynix expects the memory supply shortage to persist through 2030. OpenAI plans to buy Google chips as part of its AI buildout.",
+      "detail_zh": "新西兰联储将基准利率维持在2.75%不变，纽元在利率决定后大幅下跌。SK海力士预计内存供应短缺将持续至2030年。OpenAI计划购买谷歌芯片，作为其人工智能建设的一部分。中国债券上涨，因中国人民银行增加现金注入。摩根士丹利Laura Wang和Stashaway的Stephanie Leung分别就中国市场发表了看法。中国制造商东山精密在香港首次亮相。以色列出口民调显示选举陷入僵局。香港创新科技及工业局常任秘书长蔡杰铭在One Earth Summit上发言。One Earth Summit的Poman Lo讨论了ESG投资。Jio将在印度首次亮相。姆巴佩因争议性言论面临反弹。",
+      "detail_en": "The RBNZ left its benchmark interest rate unchanged at 2.75%, and the Kiwi tumbled after the rate hold. SK Hynix expects the memory supply shortage to persist through 2030. OpenAI plans to buy Google chips as part of its AI buildout. Chinese bonds rallied as the PBOC increased cash injections. Morgan Stanley's Laura Wang and Stashaway's Stephanie Leung shared views on Chinese markets. Chinese manufacturer Dongshan Precision debuted in Hong Kong. Israel exit polls showed the election in deadlock. Hong Kong's Permanent Secretary for Innovation, Technology and Industry Kevin Choi spoke at the One Earth Summit. Poman Lo of One Earth Summit discussed ESG investing. Jio is set to debut in India. Mbappé faced backlash after controversial comments.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "新西兰联储维持基准利率在2.75%不变，纽元随后大跌。",
+          "en": "RBNZ held its benchmark rate at 2.75%, and the Kiwi tumbled afterward."
+        },
+        {
+          "zh": "SK海力士预计内存供应短缺将持续至2030年。",
+          "en": "SK Hynix expects the memory supply shortage to persist through 2030."
+        },
+        {
+          "zh": "OpenAI计划购买谷歌芯片，作为其人工智能建设的一部分。",
+          "en": "OpenAI plans to buy Google chips as part of its AI buildout."
+        },
+        {
+          "zh": "中国债券上涨，因中国人民银行增加现金注入。",
+          "en": "Chinese bonds rallied as the PBOC increased cash injections."
+        },
+        {
+          "zh": "以色列出口民调显示选举陷入僵局。",
+          "en": "Israel exit polls show the election in deadlock."
+        }
+      ],
+      "tags": [
+        "RBNZ",
+        "memory shortage",
+        "OpenAI",
+        "PBOC",
+        "Israel election"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:YvemiRz8Xsc",
       "title": "UBS CEO Ermotti on Earnings, Cost Savings, Capital Return Plans",
@@ -11605,47 +11654,6 @@
         "overcapacity",
         "currency",
         "Germany"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:0YZ-DtAtQ4s",
-      "title": "James Robinson on What It Looks Like When a State is Failing | Odd Lots",
-      "title_zh": "诺奖得主James Robinson谈美国成为失败国家的条件",
-      "url": "https://www.youtube.com/watch?v=0YZ-DtAtQ4s",
-      "published_at": "2026-10-21T08:07:06+00:00",
-      "source_name": "Odd Lots (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "在Odd Lots芝加哥现场秀最后一集中，2024年诺贝尔经济学奖得主James Robinson讨论了其著作《国家为什么会失败》中的制度因素，并回应了“美国需要发生什么才会被视为失败国家”这一重大问题。",
-      "summary_en": "In the final episode of Odd Lots' Chicago live show, 2024 Nobel laureate James Robinson discussed the institutional factors from his book Why Nations Fail and addressed the big question: what would have to happen for the US to be considered a failed state.",
-      "detail_zh": "本期播客是Odd Lots芝加哥现场秀的第三集也是最后一集，嘉宾为芝加哥大学教授、2024年诺贝尔经济学奖得主James Robinson（与Daron Acemoglu和Simon Johnson共享该奖）。他最为人知的著作是2012年的《国家为什么会失败》，书中与Acemoglu一起记录了制度因素——例如可靠的选举或开放市场促进创新——如何决定一些国家繁荣而另一些国家不繁荣。主持人向Robinson提出了一个重大问题：美国需要发生什么才会被视为失败国家？节目由Bloomberg的Joe Weisenthal和Tracy Alloway主持，他们分析奇怪模式、复杂问题和最新市场热潮。",
-      "detail_en": "This episode is the third and last from the Odd Lots Chicago live show, featuring James Robinson, a professor at the University of Chicago and a recipient of the 2024 Nobel Prize in economics (shared with Daron Acemoglu and Simon Johnson). His most famous work is 2012's Why Nations Fail, in which he and co-author Acemoglu document the institutional factors—such as reliably run elections or open markets that help facilitate innovation—that determine why some states thrive and others don't. The hosts ask Robinson the big question: What would have to happen for the US to be considered a failed state? The show is hosted by Bloomberg's Joe Weisenthal and Tracy Alloway, who analyze weird patterns, complex issues and the newest market crazes.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "嘉宾James Robinson是2024年诺贝尔经济学奖得主，与Daron Acemoglu和Simon Johnson共享奖项。",
-          "en": "Guest James Robinson is a 2024 Nobel laureate in economics, sharing the prize with Daron Acemoglu and Simon Johnson."
-        },
-        {
-          "zh": "其2012年著作《国家为什么会失败》强调制度因素（如可靠选举和开放市场）对国家繁荣的重要性。",
-          "en": "His 2012 book Why Nations Fail emphasizes institutional factors (such as reliable elections and open markets) as determinants of national prosperity."
-        },
-        {
-          "zh": "节目讨论了美国成为失败国家所需的条件。",
-          "en": "The episode discusses what would have to happen for the US to be considered a failed state."
-        }
-      ],
-      "tags": [
-        "institutions",
-        "failed state",
-        "nobel prize",
-        "US economy"
       ],
       "tickers": [],
       "sentiment": "neutral"
