@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-10-28T09:19:02.933425+00:00",
+  "generated_at": "2026-10-28T10:17:07.249906+00:00",
   "insights": [
+    {
+      "guid": "yt:Hd5DSQfHMMM",
+      "title": "Why Baby Boomers Have All the Money | Animal Spirits 488",
+      "title_zh": "AI芯片双雄贡献标普500盈利增长34%，市场集中度引关注",
+      "url": "https://www.youtube.com/watch?v=Hd5DSQfHMMM",
+      "published_at": "2026-10-28T10:00:31+00:00",
+      "source_name": "Animal Spirits",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "播客讨论指出，英伟达和美光两家AI芯片公司贡献了标普500指数30%盈利增长中的34%，市场集中度极高。分析师认为市场对AI盈利的持续性存疑，估值未因盈利增长而提升，反而出现远期市盈率下降的罕见现象。",
+      "summary_en": "The podcast highlights that two AI chip makers, Nvidia and Micron, account for 34% of the S&P 500's 30% earnings growth, indicating extreme market concentration. Analysts suggest the market doubts the durability of AI-driven earnings, as forward P/E has fallen despite rising earnings—an unusual divergence.",
+      "detail_zh": "播客引用《华尔街日报》文章称，英伟达和美光两家AI芯片公司贡献了标普500指数30%盈利增长中的34%。主持人指出，市场集中度极高，前25大股票市值是后25大的211倍，超过互联网泡沫顶峰时的195倍。尽管盈利预期持续上升，但标普500远期市盈率却在下降，这种背离历史罕见。分析师Chris Grasanti认为市场“异常明智”，并未陷入狂热。主持人提出另一种可能：市场不相信这些盈利能持续，因此未给予更高估值。高盛图表显示，当前盈利偏离30年趋势的程度为近几十年来最高，历史上类似偏离曾导致大幅回撤。此外，净利润率中位数从90年代的不到6%升至13%，并未如预期般均值回归，原因是现代垄断企业需要巨额资本才能竞争。",
+      "detail_en": "The podcast cites a Wall Street Journal article stating that Nvidia and Micron together account for 34% of the S&P 500's 30% earnings growth. Hosts note extreme concentration: the top 25 stocks are 211 times larger than the bottom 25, exceeding the dot-com peak ratio of 195. Despite rising earnings expectations, the S&P 500's forward P/E has declined—a rare divergence. Analyst Chris Grasanti says the market is 'uncharacteristically wise' and not in euphoria. Hosts suggest an alternative: the market doubts earnings durability, hence no valuation expansion. Goldman Sachs charts show earnings are as far above 30-year trend as anytime in recent decades, and similar deviations historically reverted sharply. Median net profit margins rose from under 6% in the 1990s to 13% today, defying mean-reversion expectations because modern monopolies require massive capital to compete.",
+      "conclusion_zh": "市场对AI盈利的怀疑导致估值未扩张，但盈利偏离趋势程度极高，需警惕均值回归风险。",
+      "conclusion_en": "Market skepticism about AI earnings has capped valuation expansion, but earnings are far above trend, warranting caution on mean-reversion risk.",
+      "key_points": [
+        {
+          "zh": "英伟达和美光贡献标普500盈利增长的34%，集中度极高。",
+          "en": "Nvidia and Micron account for 34% of S&P 500 earnings growth, indicating high concentration."
+        },
+        {
+          "zh": "前25大股票市值是后25大的211倍，超过互联网泡沫顶峰。",
+          "en": "Top 25 stocks are 211x larger than bottom 25, surpassing dot-com peak."
+        },
+        {
+          "zh": "盈利预期上升但远期市盈率下降，市场对盈利持续性存疑。",
+          "en": "Forward P/E falls despite rising earnings, suggesting doubts about earnings durability."
+        },
+        {
+          "zh": "当前盈利偏离30年趋势程度为几十年最高，历史显示可能均值回归。",
+          "en": "Earnings are farthest above 30-year trend in decades; history suggests mean reversion."
+        },
+        {
+          "zh": "净利润率中位数从6%升至13%，未如预期均值回归，因竞争需巨额资本。",
+          "en": "Median net margins rose from 6% to 13%, defying mean reversion due to capital barriers."
+        }
+      ],
+      "tags": [
+        "AI",
+        "earnings",
+        "concentration",
+        "valuation",
+        "mean-reversion"
+      ],
+      "tickers": [
+        "NVDA",
+        "MU"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:0E3ynOT8L4c",
       "title": "Oil Is the Real Risk for Another Week: Market Analysis",
@@ -11702,98 +11755,6 @@
         "AVEX"
       ],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:uc1N5YyNzTs",
-      "title": "It's a Bloodbath | Animal Spirits 487",
-      "title_zh": "Animal Spirits 播客：AI债务担忧、市场表面下的惨烈与估值普遍下滑",
-      "url": "https://www.youtube.com/watch?v=uc1N5YyNzTs",
-      "published_at": "2026-10-21T10:00:40+00:00",
-      "source_name": "Animal Spirits",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech",
-        "other"
-      ],
-      "summary_zh": "本期 Animal Spirits 播客讨论了 AI 债务担忧、Coreweave 的“洛奇4”时刻、2020年代的风险偏好、铁路繁荣类比、股市表面下的惨烈、今年平均股票表现、估值普遍下滑、股市变迁、未中奖的彩票、亿万富翁捐钱、婴儿潮一代不愿缴纳房产税等话题。",
-      "summary_en": "On episode 487 of Animal Spirits, Michael Batnick and Ben Carlson discuss AI debt concerns, Coreweave's Rocky IV moment, the 2020s appetite for risk, the Railway boom analogy, carnage under the surface of the stock market, the average stock this year, valuations falling everywhere, how the stock market has changed, the lottery tickets that didn't hit, billionaires giving away money, baby boomers don't want to pay property taxes and more.",
-      "detail_zh": "播客由 Michael Batnick 和 Ben Carlson 主持，本期为第487集。讨论话题包括：AI 债务担忧、Coreweave 的“洛奇4”时刻、2020年代的风险偏好、铁路繁荣类比、股市表面下的惨烈、今年平均股票的表现、估值普遍下滑、股市如何变化、未中奖的彩票、亿万富翁捐钱、婴儿潮一代不愿缴纳房产税等。节目时间轴显示：00:40 股市、19:49 投资者行为、32:15 经济、39:00 AI、43:50 房地产、46:59 随机话题、52:47 娱乐、1:01:52 推荐。节目由 WisdomTree 赞助，并包含投资风险提示。",
-      "detail_en": "The podcast is hosted by Michael Batnick and Ben Carlson, episode 487. Topics discussed include: AI debt concerns, Coreweave's Rocky IV moment, the 2020s appetite for risk, the Railway boom analogy, carnage under the surface of the stock market, the average stock this year, valuations falling everywhere, how the stock market has changed, the lottery tickets that didn't hit, billionaires giving away money, baby boomers don't want to pay property taxes and more. The timestamps show: 00:40 Stock Market, 19:49 Investor Behavior, 32:15 The Economy, 39:00 AI, 43:50 Real Estate, 46:59 Random, 52:47 Entertainment, 1:01:52 Recommendations. The episode is sponsored by WisdomTree and includes investment risk disclosures.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "讨论 AI 债务担忧",
-          "en": "Discussion of AI debt concerns"
-        },
-        {
-          "zh": "Coreweave 的“洛奇4”时刻",
-          "en": "Coreweave's Rocky IV moment"
-        },
-        {
-          "zh": "2020年代的风险偏好与铁路繁荣类比",
-          "en": "The 2020s appetite for risk and the Railway boom analogy"
-        },
-        {
-          "zh": "股市表面下的惨烈与今年平均股票表现",
-          "en": "Carnage under the surface of the stock market and the average stock this year"
-        },
-        {
-          "zh": "估值普遍下滑",
-          "en": "Valuations falling everywhere"
-        }
-      ],
-      "tags": [
-        "AI debt",
-        "Coreweave",
-        "risk appetite",
-        "valuations",
-        "stock market"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:2i9LP2s3eFY",
-      "title": "Merz Says EU Isn't Looking for a Trade 'Conflict' With China",
-      "title_zh": "德国总理默茨：欧盟寻求避免对华贸易战，但将应对产能过剩与货币低估",
-      "url": "https://www.youtube.com/watch?v=2i9LP2s3eFY",
-      "published_at": "2026-10-21T10:00:10+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "德国总理默茨表示，欧盟的目标是避免与中国发生贸易战，同时保护自身免受新层面的产能过剩和货币低估的影响。他强调希望与中国建立新的贸易平衡，而非冲突。",
-      "summary_en": "German Chancellor Friedrich Merz said the EU aims to avoid a trade war with China while protecting itself from a new dimension of overcapacity and an undervalued currency. He stressed the goal is a new trade balance with China, not conflict.",
-      "detail_zh": "德国总理弗里德里希·默茨在柏林全球对话期间接受彭博社斯蒂芬妮·弗兰德斯采访时表示，欧盟将寻求避免与中国发生贸易战。默茨指出，欧盟同时需要保护自身免受“新层面的产能过剩”和“货币低估”的影响。他强调：“这是我们的目标，不是冲突，而是与中国建立新的贸易平衡。”此番言论表明欧盟在对华贸易政策上寻求平衡，既希望维持贸易关系稳定，又意图应对产能过剩和汇率问题带来的挑战。",
-      "detail_en": "German Chancellor Friedrich Merz said during an interview with Bloomberg's Stephanie Flanders at the Berlin Global Dialogue that the European Union would seek to avoid a trade war with China. Merz noted the EU also needs to protect itself from \"a new dimension of overcapacity\" and \"an undervalued currency.\" He stated: \"That is our goal, not a conflict, but to have a new balance in trade with China.\" The remarks indicate the EU is seeking a balanced approach to trade policy with China, aiming to maintain stable trade relations while addressing challenges posed by overcapacity and currency valuation issues.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "德国总理默茨表示欧盟将寻求避免与中国发生贸易战。",
-          "en": "German Chancellor Merz said the EU would seek to avoid a trade war with China."
-        },
-        {
-          "zh": "欧盟同时需要保护自身免受新层面的产能过剩和货币低估的影响。",
-          "en": "The EU also needs to protect itself from a new dimension of overcapacity and an undervalued currency."
-        },
-        {
-          "zh": "默茨强调目标是与中国建立新的贸易平衡，而非冲突。",
-          "en": "Merz stressed the goal is a new trade balance with China, not conflict."
-        }
-      ],
-      "tags": [
-        "EU-China trade",
-        "trade war",
-        "overcapacity",
-        "currency",
-        "Germany"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
