@@ -1,6 +1,190 @@
 {
-  "generated_at": "2026-10-28T11:15:13.151451+00:00",
+  "generated_at": "2026-10-28T12:23:50.614871+00:00",
   "insights": [
+    {
+      "guid": "yt:EZ9wgtZ90j4",
+      "title": "Aftermath of Spanish Train Crash Near Madrid",
+      "title_zh": "西班牙马德里南部两列高铁相撞 至少30人死亡",
+      "url": "https://www.youtube.com/watch?v=EZ9wgtZ90j4",
+      "published_at": "2026-10-28T11:59:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据卡斯蒂利亚-拉曼恰自治区政府发言人消息，西班牙马德里南部发生两列高速列车相撞事故，造成至少30人死亡。该事件为突发新闻，原文未提供更多细节。",
+      "summary_en": "At least 30 people have died after two high-speed trains collided south of Madrid, according to a spokesperson for the regional government of Castilla-La Mancha. This is breaking news with no further details provided in the source.",
+      "detail_zh": "据卡斯蒂利亚-拉曼恰自治区政府发言人透露，两列高速列车在马德里南部相撞，造成至少30人死亡。该信息来源于Capital Radio/Guardia Civil。原文未提供事故原因、涉事列车运营商、具体地点或伤亡更新等进一步信息。这是一则突发新闻，内容简短，未涉及金融市场或投资影响。",
+      "detail_en": "A spokesperson for the regional government of Castilla-La Mancha stated that two high-speed trains collided south of Madrid, resulting in at least 30 deaths. The information is sourced from Capital Radio/Guardia Civil. The source does not provide further details such as the cause of the accident, the train operators involved, the exact location, or updated casualty figures. This is a brief breaking news item with no direct financial market or investment implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "两列高速列车在马德里南部相撞，造成至少30人死亡。",
+          "en": "Two high-speed trains collided south of Madrid, killing at least 30 people."
+        },
+        {
+          "zh": "消息来源为卡斯蒂利亚-拉曼恰自治区政府发言人，援引Capital Radio/Guardia Civil。",
+          "en": "The information comes from a spokesperson for the Castilla-La Mancha regional government, citing Capital Radio/Guardia Civil."
+        },
+        {
+          "zh": "原文未提供事故原因、涉事方或后续影响等细节。",
+          "en": "The source does not provide details on the cause, involved parties, or aftermath."
+        }
+      ],
+      "tags": [
+        "train collision",
+        "Spain",
+        "breaking news",
+        "casualties"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4958395",
+      "title": "Pause Now, Hike Later?",
+      "title_zh": "美联储料按兵不动，但通胀压力或致紧缩延后而非避免",
+      "url": "https://seekingalpha.com/article/4958395-pause-now-hike-later?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-28T11:30:09+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "FOMC预计维持利率在3.75%-4.00%，但通胀仍远高于2%目标。经济学家Heather Long预计2027年还有两次加息，且高利率将维持更久，降息或要等到2028年。SA分析师警告，若美联储按兵不动而通胀风险上升，投资者可能认为紧缩只是被推迟，从而推高美债收益率。",
+      "summary_en": "The FOMC is expected to hold rates at 3.75%-4.00%, but inflation remains well above the 2% target. Economist Heather Long expects two more hikes in 2027 and a longer period at high rates, with cuts unlikely until 2028. SA analysts warn that if the Fed stands pat while inflation risks build, investors may see tightening as postponed rather than avoided, potentially pushing Treasury yields higher.",
+      "detail_zh": "联邦公开市场委员会（FOMC）今日预计将联邦基金利率目标区间维持在3.75%-4.00%。Navy Federal Credit Union首席经济学家Heather Long对Seeking Alpha表示，美联储喜欢说它不受政治影响，但在选举前一周加息将是一个相当大胆的政治声明；加息还意味着经济存在急需解决的紧迫问题。她认为等待几周在12月加息是可以的，风险状况没有太大变化，期间的数据将让政策制定者更好地了解通胀问题的广泛程度。根据CME FedWatch工具，12月加息25个基点的概率目前为76.5%。Long预计美联储在2027年还有更多工作要做，她预测还有两次加息，比美联储9月经济预测摘要中信号多一次。她表示，一旦加息结束，利率将不得不在高位维持比大多数人希望的长得多的时间，因此除非出现衰退，否则直到2028年才会讨论降息。维持高利率的原因包括伊朗战争导致的高汽油和柴油价格、AI繁荣带来的通胀压力、不断膨胀的医疗成本以及房地产市场积聚的压力。SA分析师Cain Lee指出，尽管通胀率超过3%，但国债收益率高于5%是美联储能够再等一次会议的主要原因之一；9月就业报告给了美联储等待的理由，而CPI给了它不等到12月之后的理由。SA分析师James Picerno表示，美联储主席Kevin Warsh面临的挑战不再仅仅是决定通胀是否需要再次加息，而是解释为何维持利率不变的决定与他反复承诺的恢复2%通胀目标相一致。如果政策制定者在通胀风险持续积累时按兵不动，投资者可能会得出结论：政策紧缩只是被推迟而非避免，这可能助长国债收益率的新一轮上行压力。",
+      "detail_en": "The FOMC is widely expected to hold the federal funds rate target range at 3.75%-4.00% today. Navy Federal Credit Union Chief Economist Heather Long told Seeking Alpha that while the Fed likes to say it's not political, hiking within a week of an election is a pretty bold political statement; a hike would also imply a sense of urgency that there's something urgently wrong with the economy. She said it's okay to wait a few more weeks and hike in December, as the risk profile hasn't changed much and interim data will give policymakers a better sense of how broad-based the inflation problem is. According to the CME FedWatch tool, the probability of a 25-basis-point hike in December currently stands at 76.5%. Long expects the Fed will have more work to do in 2027, penciling in two more rate hikes, one more than the Fed policymakers signaled in their September Summary of Economic Projections. She said once they're done hiking, they're going to have to stay at that high rate for a lot longer than most people want, so she doesn't think we'll be talking about cuts until 2028, unless there's a recession. Reasons for holding rates that high for that long include high gasoline and diesel prices from the ongoing Iran war, inflation pressures from the AI boom, swelling medical costs and pressure building in the housing market. SA analyst Cain Lee stated that higher yields are one of the main reasons why the Fed can afford to wait one more meeting, despite inflation running above 3%, pointing to Treasury yields sitting above 5%; the September jobs report gave the Fed a reason to wait, and the CPI gave it a reason not to wait past December. SA analyst James Picerno said the challenge for Fed Chair Kevin Warsh is no longer simply deciding whether inflation warrants another rate hike, but explaining how a decision to leave rates unchanged remains consistent with his repeated commitment to restoring inflation to the Fed's 2% target. If policymakers stand pat while inflation risks continue to build, investors may conclude that policy tightening is merely being postponed rather than avoided, potentially fueling renewed upward pressure on Treasury yields.",
+      "conclusion_zh": "美联储短期按兵不动，但通胀压力可能使紧缩延后而非避免，美债收益率上行风险值得关注。",
+      "conclusion_en": "The Fed may hold near-term, but inflation pressures could delay rather than avoid tightening, keeping upward risk on Treasury yields in focus.",
+      "key_points": [
+        {
+          "zh": "FOMC预计维持利率在3.75%-4.00%，但通胀仍远高于2%目标。",
+          "en": "The FOMC is expected to hold rates at 3.75%-4.00%, but inflation remains well above the 2% target."
+        },
+        {
+          "zh": "Heather Long预计2027年还有两次加息，比美联储9月点阵图多一次，且降息或要等到2028年。",
+          "en": "Heather Long expects two more hikes in 2027, one more than the Fed's September SEP, with cuts unlikely until 2028."
+        },
+        {
+          "zh": "CME FedWatch显示12月加息25个基点的概率为76.5%。",
+          "en": "CME FedWatch shows a 76.5% probability of a 25bp hike in December."
+        },
+        {
+          "zh": "SA分析师警告，若美联储按兵不动而通胀风险上升，投资者可能认为紧缩只是被推迟，从而推高美债收益率。",
+          "en": "SA analysts warn that if the Fed stands pat while inflation risks build, investors may see tightening as postponed rather than avoided, pushing Treasury yields higher."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "inflation",
+        "rate hike",
+        "Treasury yields"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:KSY01AHvCls",
+      "title": "Stocks Waver Ahead of Fed Decision, Tech Earnings; Netanyahu Leads Over Eisenkot",
+      "title_zh": "美股期货等待美联储决议，微软与Alphabet财报成焦点",
+      "url": "https://www.youtube.com/watch?v=KSY01AHvCls",
+      "published_at": "2026-10-28T11:21:37+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股期货在美联储利率决议前缺乏方向，投资者等待微软和Alphabet的财报，此前SK海力士利润激增七倍。有报道称美国可能在中期选举后恢复对伊朗的军事打击，油价上涨。花旗的Andrew Hollenhorst在节目中展望了10月决议之后的美联储利率路径。",
+      "summary_en": "US equity futures struggled for direction ahead of the Federal Reserve's rate decision, with investors awaiting earnings from Microsoft and Alphabet after SK Hynix's seven-fold profit surge. Oil rose following a report that the US may resume military strikes on Iran after the midterm elections. Andrew Hollenhorst of Citi joined the program to look ahead to the Fed's rate path beyond October's decision.",
+      "detail_zh": "美股期货在美联储利率决议前难以找到明确方向。市场关注微软和Alphabet即将发布的财报，此前SK海力士公布了利润激增七倍的业绩。有报道称美国可能在中期选举后恢复对伊朗的军事打击，受此影响油价上涨。以色列方面，总理内塔尼亚胡在计票尚未结束的激烈选战中略微领先反对派领袖Gadi Eisenkot。花旗首席美国经济学家Andrew Hollenhorst在“Bloomberg Brief”节目中讨论了美联储10月决议之后的利率路径。节目还涵盖了Robinhood及盘前异动股、欧洲银行财报、巴基斯坦与乌克兰局势及美国国债资金流向等话题。",
+      "detail_en": "US equity futures struggled for direction ahead of the Federal Reserve's rate decision. Investors are focused on upcoming earnings from Microsoft and Alphabet, after SK Hynix reported a seven-fold surge in profit. Oil prices rose following a report that the US may resume military strikes on Iran after the midterm elections. In Israel, Prime Minister Netanyahu edged ahead of opposition leader Gadi Eisenkot in a tight race with more votes still to be counted. Andrew Hollenhorst, Citi's Chief US Economist, discussed the Fed's rate path beyond the October decision on \"Bloomberg Brief.\" The program also covered Robinhood and premarket movers, European bank earnings, Pakistan and Ukraine developments, and Treasury flows.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美股期货在美联储利率决议前缺乏明确方向。",
+          "en": "US equity futures struggled for direction ahead of the Fed's rate decision."
+        },
+        {
+          "zh": "投资者等待微软和Alphabet的财报，SK海力士利润激增七倍。",
+          "en": "Investors await earnings from Microsoft and Alphabet after SK Hynix's seven-fold profit surge."
+        },
+        {
+          "zh": "有报道称美国可能在中期选举后恢复对伊朗的军事打击，油价上涨。",
+          "en": "Oil rose on a report that the US may resume military strikes on Iran after the midterm elections."
+        },
+        {
+          "zh": "以色列总理内塔尼亚胡在激烈选战中略微领先反对派领袖Gadi Eisenkot。",
+          "en": "Israeli Prime Minister Netanyahu edged ahead of opposition leader Gadi Eisenkot in a tight race."
+        },
+        {
+          "zh": "花旗的Andrew Hollenhorst在节目中展望了美联储10月决议后的利率路径。",
+          "en": "Andrew Hollenhorst of Citi looked ahead to the Fed's rate path beyond the October decision."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "earnings",
+        "oil",
+        "Iran",
+        "Israel"
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-ZJdcOD0SiE",
+      "title": "SK Hynix Profits Surge, Fed Decision on Deck",
+      "title_zh": "交易员轮动回科技股，聚焦微软Alphabet财报与美联储决议",
+      "url": "https://www.youtube.com/watch?v=-ZJdcOD0SiE",
+      "published_at": "2026-10-28T11:18:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "交易员因对AI支出回报信心重燃而轮动回科技股，市场关注微软和Alphabet即将发布的财报。美联储预计将维持利率不变，美债收益率在决议前小幅走高。SK海力士利润超预期增长七倍，并宣布向股东返还约450亿美元。",
+      "summary_en": "Traders are rotating back into tech stocks on renewed confidence that AI spending will pay off, ahead of earnings from Microsoft and Alphabet. The Fed is widely expected to hold rates steady, with Treasury yields edging higher before the decision. SK Hynix reported a stronger-than-expected seven-fold profit surge and unveiled plans to return about $45 billion more to shareholders.",
+      "detail_zh": "交易员正将资金轮动回科技股，因对AI支出将带来回报的信心重燃，市场等待微软和Alphabet在收盘后发布财报。市场注意力同时转向美联储，普遍预期周三将维持利率不变；决议前美债收益率小幅走高，美元变动不大。SK海力士在利润超预期增长七倍后，宣布计划向股东额外返还约450亿美元，反映AI基础设施部署的韧性正推动芯片需求。节目还讨论了欧洲银行财报（瑞银、渣打、法巴、桑坦德）、英国预算、油价风险以及半导体周期等话题。",
+      "detail_en": "Traders are rotating back into tech stocks on renewed confidence that AI spending will pay off, as markets await results from Microsoft and Alphabet due after the close. Attention is also turning to the Federal Reserve, which is widely expected to leave interest rates unchanged on Wednesday; Treasury yields edged higher ahead of the decision while the dollar was little changed. SK Hynix unveiled plans to return about $45 billion more to shareholders after profit surged a stronger-than-expected seven-fold, reflecting the resilience of an AI infrastructure rollout propelling chip demand. The program also covers European bank earnings (UBS, Standard Chartered, BNP Paribas, Santander), the UK budget, oil risks, and the semiconductor cycle.",
+      "conclusion_zh": "市场情绪转向科技股，AI支出回报信心与美联储利率决议是短期关键变量。",
+      "conclusion_en": "Market sentiment is shifting toward tech stocks, with confidence in AI spending payoffs and the Fed rate decision as key near-term variables.",
+      "key_points": [
+        {
+          "zh": "交易员因对AI支出回报信心重燃而轮动回科技股，等待微软和Alphabet财报。",
+          "en": "Traders are rotating back into tech stocks on renewed confidence in AI spending payoffs, awaiting Microsoft and Alphabet earnings."
+        },
+        {
+          "zh": "美联储预计周三维持利率不变，美债收益率在决议前小幅走高，美元变动不大。",
+          "en": "The Fed is widely expected to hold rates steady on Wednesday; Treasury yields edged higher ahead of the decision, dollar little changed."
+        },
+        {
+          "zh": "SK海力士利润超预期增长七倍，计划向股东额外返还约450亿美元。",
+          "en": "SK Hynix profit surged a stronger-than-expected seven-fold; plans to return about $45 billion more to shareholders."
+        },
+        {
+          "zh": "AI基础设施部署的韧性正推动芯片需求。",
+          "en": "The resilience of AI infrastructure rollout is propelling chip demand."
+        }
+      ],
+      "tags": [
+        "AI spending",
+        "tech rotation",
+        "Fed decision",
+        "semiconductors",
+        "earnings"
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "4958432",
       "title": "Wall Street Breakfast Podcast: The Great SK Hynix Giveaway",
@@ -57,6 +241,46 @@
         "GOOGL",
         "MSFT"
       ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:iS0XWgPomwc",
+      "title": "Ambani's Jio Surges in Debut After India's Biggest IPO",
+      "title_zh": "Jio Platforms印度IPO首日大涨23%，募资31亿美元创纪录",
+      "url": "https://www.youtube.com/watch?v=iS0XWgPomwc",
+      "published_at": "2026-10-28T10:57:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Mukesh Ambani旗下Jio Platforms在印度最大规模IPO中募资31亿美元，上市首日一度上涨23%，有望成为印度市值第二高的上市公司。",
+      "summary_en": "Mukesh Ambani's Jio Platforms surged as much as 23% on its trading debut after raising a record $3.1 billion in India's biggest IPO, putting it on track to become the country's second-most valuable listed company.",
+      "detail_zh": "Jio Platforms在印度完成了规模最大的IPO，募资额达31亿美元，创下纪录。该股上市首日一度上涨23%。按当前走势，该公司有望成为印度市值第二高的上市公司。以上信息由Sanjay P R解读。原文未提供更多关于估值、财务数据或后续风险的信息。",
+      "detail_en": "Jio Platforms completed India's largest-ever IPO, raising a record $3.1 billion. The stock surged as much as 23% on its trading debut. It is on track to become the country's second-most valuable listed company. The information was explained by Sanjay P R. The original text does not provide further details on valuation, financials, or risks.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Jio Platforms通过印度最大IPO募资31亿美元，创纪录。",
+          "en": "Jio Platforms raised a record $3.1 billion in India's biggest IPO."
+        },
+        {
+          "zh": "上市首日股价一度上涨23%。",
+          "en": "The stock surged as much as 23% on its trading debut."
+        },
+        {
+          "zh": "有望成为印度市值第二高的上市公司。",
+          "en": "It is on track to become India's second-most valuable listed company."
+        }
+      ],
+      "tags": [
+        "IPO",
+        "India",
+        "Jio Platforms",
+        "Reliance"
+      ],
+      "tickers": [],
       "sentiment": "neutral"
     },
     {
@@ -4022,6 +4246,86 @@
         "delivery"
       ],
       "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4957317",
+      "title": "Wall Street Week Ahead",
+      "title_zh": "美联储决议与科技巨头财报密集来袭",
+      "url": "https://seekingalpha.com/article/4957317-wall-street-week-ahead?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-25T10:59:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "本周市场聚焦美联储利率决议及微软、Alphabet、亚马逊等科技巨头财报。联邦基金期货显示加息25个基点的概率仅约10%，经济学家预计三季度GDP年化增长3.0%。AI支出、云增长及数据中心投资回报将成为财报关注焦点。",
+      "summary_en": "Markets this week focus on the Federal Reserve's rate decision and earnings from tech giants Microsoft, Alphabet, and Amazon. Fed funds futures imply only about a 10% chance of a 25-basis-point rate hike, while economists forecast 3.0% annualized Q3 GDP growth. AI spending, cloud growth, and returns on data center investments will be key earnings focal points.",
+      "detail_zh": "美联储将于周三公布利率决议，随后主席Kevin Warsh召开新闻发布会；联邦基金期货暗示再次加息25个基点的概率仅约10%。周四将公布三季度GDP首次预估及10月核心PCE物价指数，经济学家预计GDP年化增长3.0%。财报方面，Alphabet和微软周三发布业绩，亚马逊周四跟进，市场将重新审视AI支出、云增长及大规模数据中心投资的回报。微软尤其受关注，投资者在Azure强劲需求与资本支出上升及AI回报疑问之间权衡，Seeking Alpha分析师对该股评级从强力买入到持有到卖出不等。此外，苹果周三举行产品活动，甲骨文AI World大会周日于拉斯维加斯开幕。本周其他重要财报包括周一的Verizon、Welltower、Nucor、Public Storage；周二的Visa、可口可乐、波音、UPS、标普全球；周三的T-Mobile、Chipotle、eBay、GE Vernova；周四的礼来、万事达、英特尔、默克、卡特彼勒、壳牌；周五的埃克森美孚、雪佛龙、BP、艾伯维。",
+      "detail_en": "The Fed will announce its rate decision on Wednesday, followed by Chairman Kevin Warsh's press conference; federal funds futures imply only about a 10% chance of another 25-basis-point rate hike. Thursday brings the first estimate of Q3 GDP and the October core PCE price index, with economists forecasting 3.0% annualized GDP growth. On earnings, Alphabet and Microsoft report Wednesday, followed by Amazon on Thursday, putting AI spending, cloud growth, and returns on massive data center investments back in focus. Microsoft is particularly watched as investors weigh strong Azure demand against rising capital spending and questions over AI returns; Seeking Alpha analysts range from Strong Buy to Hold to Sell on the stock. Elsewhere, Apple holds a product event Wednesday, and Oracle's AI World conference begins Sunday in Las Vegas. Other notable earnings this week include Verizon, Welltower, Nucor, Public Storage on Monday; Visa, Coca-Cola, Boeing, UPS, S&P Global on Tuesday; T-Mobile, Chipotle, eBay, GE Vernova on Wednesday; Eli Lilly, Mastercard, Intel, Merck, Caterpillar, Shell on Thursday; ExxonMobil, Chevron, BP, AbbVie on Friday.",
+      "conclusion_zh": "本周美联储决议与科技巨头财报将主导市场情绪，AI投资回报与云增长是核心验证点。",
+      "conclusion_en": "This week's Fed decision and tech giant earnings will dominate market sentiment, with AI investment returns and cloud growth as key validation points.",
+      "key_points": [
+        {
+          "zh": "联邦基金期货暗示加息25个基点的概率仅约10%",
+          "en": "Fed funds futures imply only about a 10% chance of a 25-basis-point rate hike"
+        },
+        {
+          "zh": "经济学家预计三季度GDP年化增长3.0%",
+          "en": "Economists forecast 3.0% annualized Q3 GDP growth"
+        },
+        {
+          "zh": "微软、Alphabet周三发布财报，亚马逊周四发布",
+          "en": "Microsoft and Alphabet report Wednesday, Amazon Thursday"
+        },
+        {
+          "zh": "微软财报关注Azure需求与资本支出上升及AI回报疑问",
+          "en": "Microsoft earnings focus on Azure demand vs. rising capex and AI return questions"
+        },
+        {
+          "zh": "苹果周三举行产品活动，甲骨文AI World大会周日开幕",
+          "en": "Apple holds product event Wednesday; Oracle AI World conference begins Sunday"
+        }
+      ],
+      "tags": [
+        "Fed",
+        "earnings",
+        "AI",
+        "GDP",
+        "PCE"
+      ],
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "AMZN",
+        "AAPL",
+        "ORCL",
+        "VZ",
+        "WELL",
+        "NUE",
+        "PSA",
+        "V",
+        "KO",
+        "BA",
+        "UPS",
+        "SPGI",
+        "TMUS",
+        "CMG",
+        "EBAY",
+        "GEV",
+        "LLY",
+        "MA",
+        "INTC",
+        "MRK",
+        "CAT",
+        "SHEL",
+        "XOM",
+        "CVX",
+        "BP",
+        "ABBV"
+      ],
       "sentiment": "neutral"
     },
     {
@@ -11414,187 +11718,6 @@
       "tickers": [
         "PSKY",
         "WBD"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:UrPHW3JcqYg",
-      "title": "Nvidia CEO Huang Says All Industries Across Europe Need to Adopt AI",
-      "title_zh": "黄仁勋呼吁欧洲加速采用人工智能",
-      "url": "https://www.youtube.com/watch?v=UrPHW3JcqYg",
-      "published_at": "2026-10-21T12:04:18+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋在柏林GTC会议上表示，欧洲要受益于AI并建立AI生态系统和经济，需要所有终端市场和行业采用AI。",
-      "summary_en": "Nvidia CEO Jensen Huang said at the GTC conference in Berlin that for Europe to benefit from AI and build an AI ecosystem and economy, all end markets and industries need to adopt AI.",
-      "detail_zh": "英伟达CEO黄仁勋周三在柏林举行的公司GTC会议上敦促欧洲更快地采用人工智能。他表示：“欧洲要受益于AI，并真正创建AI生态系统和AI经济，你需要所有终端市场、终端行业都采用AI。”黄仁勋的言论强调了欧洲各行业采用AI的必要性，以从AI中获益并建立AI生态系统和经济。",
-      "detail_en": "Nvidia CEO Jensen Huang on Wednesday urged Europe to adopt artificial intelligence more quickly, speaking at his company's GTC conference in Berlin. \"For Europe to benefit from AI, and to have really created an AI ecosystem and AI economy, you need all of the end markets, the end industries to adopt AI,\" Huang said. His remarks highlight the need for European industries to adopt AI in order to benefit from it and build an AI ecosystem and economy.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "黄仁勋在柏林GTC会议上呼吁欧洲加速AI采用。",
-          "en": "Jensen Huang called on Europe to accelerate AI adoption at the GTC conference in Berlin."
-        },
-        {
-          "zh": "他强调欧洲所有终端市场和行业都需要采用AI，才能受益并建立AI生态系统和经济。",
-          "en": "He stressed that all end markets and industries in Europe need to adopt AI to benefit and build an AI ecosystem and economy."
-        }
-      ],
-      "tags": [
-        "AI adoption",
-        "Europe",
-        "Nvidia",
-        "GTC"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-7YhOMFtgwo",
-      "title": "Managing IPO Wealth: Strategies for Financial Advisors",
-      "title_zh": "贝莱德播客：IPO格局演变下，顾问转向管理集中股票仓位",
-      "url": "https://www.youtube.com/watch?v=-7YhOMFtgwo",
-      "published_at": "2026-10-21T11:30:37+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "贝莱德新播客《Inside the Advisor Practice》首集聚焦IPO格局变化：公司上市更晚、估值更高，顾问对话从获取IPO份额转向管理集中股票仓位。讨论涵盖风险管理、收益生成、税务与流动性策略，以及期权策略、直接指数化、税务感知多空SMA和遗产规划等工具。",
-      "summary_en": "BlackRock's new podcast Inside the Advisor Practice debuts with a discussion on the evolving IPO landscape: as companies stay private longer and valuations rise, advisor conversations are shifting from accessing IPO shares to managing concentrated stock positions. The episode covers risk management, income generation, tax and liquidity strategies, and tools such as options-based strategies, direct indexing, tax-aware long/short SMAs, and estate planning.",
-      "detail_zh": "贝莱德推出新播客《Inside the Advisor Practice》，面向美国财务顾问，分享应对市场、构建投资组合和解决客户复杂问题的可操作思路。首集由贝莱德超高净值咨询主管Cullen Roberts与SpiderRock Advisors董事总经理Dave Donnelly对话，探讨不断演变的IPO格局以及管理新创造财富日益增加的复杂性。随着公司保持私有化的时间更长、估值上升，顾问与客户的对话重点正从获取IPO股份转向管理集中股票仓位。两人讨论了管理风险、生成收益、应对税务考量和创造流动性的策略，并探讨顾问如何帮助客户做出超越投资组合本身的决策。对话涉及的工具和主题包括期权策略、直接指数化、税务感知的多空独立管理账户（SMA）、遗产规划以及多代财富传承。播客鼓励订阅以获取更多关于财务顾问实践演变的观点和实用见解。内容仅供信息参考，不构成要约或招揽。",
-      "detail_en": "BlackRock launches a new podcast, Inside the Advisor Practice, aimed at U.S. financial advisors, sharing actionable ideas to help them navigate markets, build portfolios, and tackle complex client challenges. In the first episode, Cullen Roberts, Head of Ultra High Net Worth Consulting at BlackRock, sits down with Dave Donnelly, Managing Director at SpiderRock Advisors, to explore the evolving IPO landscape and the growing complexities of managing newly created wealth. As companies stay private longer and valuations rise, the advisor conversation is shifting from accessing IPO shares to managing concentrated stock positions. Cullen and Dave discuss strategies for managing risk, generating income, navigating tax considerations, and creating liquidity, while exploring how advisors can help clients make decisions that extend beyond their portfolios. The conversation covers tools and topics including options-based strategies, direct indexing, tax-aware long/short SMAs, estate planning, and multigenerational wealth. The podcast encourages listeners to subscribe for more perspectives and practical insights on the evolving practice of financial advice. The content is for informational purposes only and is not an offer or solicitation.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "公司保持私有化时间更长、估值上升，顾问对话从获取IPO份额转向管理集中股票仓位。",
-          "en": "As companies stay private longer and valuations rise, advisor conversations shift from accessing IPO shares to managing concentrated stock positions."
-        },
-        {
-          "zh": "讨论聚焦管理风险、生成收益、税务考量和创造流动性等策略。",
-          "en": "The discussion focuses on strategies for managing risk, generating income, navigating tax considerations, and creating liquidity."
-        },
-        {
-          "zh": "涉及的工具包括期权策略、直接指数化和税务感知多空SMA。",
-          "en": "Tools covered include options-based strategies, direct indexing, and tax-aware long/short SMAs."
-        },
-        {
-          "zh": "话题延伸至遗产规划与多代财富传承，帮助客户做出超越投资组合的决策。",
-          "en": "Topics extend to estate planning and multigenerational wealth, helping clients make decisions beyond their portfolios."
-        }
-      ],
-      "tags": [
-        "IPO",
-        "wealth management",
-        "concentrated stock",
-        "options strategies",
-        "tax-aware investing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:JVPW7fiQOmY",
-      "title": "Why the AI Buildout Won't Stop",
-      "title_zh": "Andreas Steno：英伟达GPU租金年内涨近40%，AI基建放缓担忧或被高估",
-      "url": "https://www.youtube.com/watch?v=JVPW7fiQOmY",
-      "published_at": "2026-10-21T11:30:12+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "Andreas Steno指出，年初以来英伟达GPU租赁价格上涨近40%，AI算力收入增速仍快于融资成本。他认为市场对AI基础设施放缓的担忧可能被高估。",
-      "summary_en": "Andreas Steno highlights a nearly 40% surge in Nvidia GPU rental prices since the start of the year, arguing that AI compute revenues are still growing faster than funding costs. He believes fears of an AI infrastructure slowdown may be overblown.",
-      "detail_zh": "Andreas Steno提出，华尔街可能低估了AI热潮。他援引数据称，年初以来英伟达GPU的租赁价格上涨近40%。基于这一价格信号，他认为AI算力相关收入仍在以快于融资成本的速度增长。由此，他判断市场对AI基础设施放缓的担忧可能被高估。原文未提供更多关于融资成本水平、收入增速具体数值或相关公司财务细节。",
-      "detail_en": "Andreas Steno suggests Wall Street may be underestimating the AI boom. He cites a nearly 40% surge in Nvidia GPU rental prices since the start of the year. Based on this price signal, he argues that AI compute revenues are still growing faster than funding costs. He therefore believes fears of an AI infrastructure slowdown may be overblown. The source does not provide further details on funding cost levels, specific revenue growth figures, or company financials.",
-      "conclusion_zh": "GPU租赁价格强势上涨与算力收入快于融资成本，构成对AI基建放缓叙事的反驳信号，值得关注AI算力产业链的定价与需求韧性。",
-      "conclusion_en": "Strong GPU rental price gains and compute revenue growth outpacing funding costs challenge the AI infrastructure slowdown narrative, warranting attention to pricing and demand resilience in the AI compute supply chain.",
-      "key_points": [
-        {
-          "zh": "年初以来英伟达GPU租赁价格上涨近40%",
-          "en": "Nvidia GPU rental prices have surged nearly 40% since the start of the year"
-        },
-        {
-          "zh": "AI算力收入增速仍快于融资成本",
-          "en": "AI compute revenues are still growing faster than funding costs"
-        },
-        {
-          "zh": "市场对AI基础设施放缓的担忧可能被高估",
-          "en": "Fears of an AI infrastructure slowdown may be overblown"
-        }
-      ],
-      "tags": [
-        "AI",
-        "Nvidia",
-        "GPU",
-        "AI infrastructure",
-        "compute"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:9Ka4a2qoadE",
-      "title": "Stocks Rebound on Strong SpaceX Results; AI Bubble Dispute; Tech Earnings on Deck",
-      "title_zh": "美股期货上涨，SpaceX业绩与AI泡沫争论成焦点",
-      "url": "https://www.youtube.com/watch?v=9Ka4a2qoadE",
-      "published_at": "2026-10-21T11:21:51+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美股期货上涨，SpaceX季度业绩及马斯克关于SpaceX与特斯拉潜在合并的言论提振投资者信心。Citadel的Ken Griffin警告投资者“几乎肯定”处于AI泡沫中，而德意志银行的Christian Sewing则表示不认为存在泡沫。特斯拉、Meta和IBM将公布财报。",
-      "summary_en": "US equity futures rose as SpaceX's quarterly earnings and Elon Musk's remarks on a potential SpaceX-Tesla merger boosted investor confidence. Citadel's Ken Griffin warned investors are \"almost certainly\" in an AI bubble, while Deutsche Bank's Christian Sewing said he doesn't see one. Tesla, Meta, and IBM are set to report earnings.",
-      "detail_zh": "美股期货上涨，主要受SpaceX季度业绩以及马斯克关于SpaceX与特斯拉可能合并的言论提振。市场关注即将发布财报的特斯拉、Meta和IBM。关于人工智能是否存在泡沫，Citadel的Ken Griffin警告投资者“几乎肯定”处于AI泡沫中，而德意志银行的Christian Sewing则表示不认为存在泡沫。英伟达CEO黄仁勋在柏林GTC活动上发表讲话。Peel Hunt首席经济学家Kallum Pickering在“Bloomberg Brief”节目中讨论了债务融资增长的风险。美国银行国际业务总裁Bernard Mensah在柏林全球对话会上与Bloomberg的Francine Lacqua进行了独家对话。节目还涵盖了英国通胀、数据中心IPO、乌克兰问题、中期选举诉讼以及美墨贸易紧张局势等话题。",
-      "detail_en": "US equity futures rose, primarily boosted by SpaceX's quarterly earnings and Elon Musk's remarks about a potential merger between SpaceX and Tesla. Investors are looking ahead to earnings from Tesla, Meta, and IBM. On the question of whether there is an AI bubble, Citadel's Ken Griffin warned that investors are \"almost certainly\" in an AI bubble, while Deutsche Bank's Christian Sewing said he doesn't see one. Nvidia CEO Jensen Huang spoke at the Nvidia GTC event in Berlin. Kallum Pickering, Chief Economist at Peel Hunt, discussed the risks around debt-financed growth on \"Bloomberg Brief.\" Bernard Mensah, President of Bank of America International, had an exclusive conversation with Bloomberg's Francine Lacqua at the Berlin Global Dialogue. The program also covered UK inflation, a data center IPO, Ukraine, a midterm election lawsuit, and US-Mexico trade tensions.",
-      "conclusion_zh": "市场情绪受企业消息和AI泡沫争论影响，投资者需关注即将发布的财报以及AI相关风险。",
-      "conclusion_en": "Market sentiment is influenced by corporate news and the AI bubble debate; investors should watch upcoming earnings and AI-related risks.",
-      "key_points": [
-        {
-          "zh": "美股期货上涨，受SpaceX业绩和马斯克关于SpaceX-Tesla合并的言论提振。",
-          "en": "US equity futures rose, boosted by SpaceX earnings and Musk's remarks on a potential SpaceX-Tesla merger."
-        },
-        {
-          "zh": "Citadel的Ken Griffin警告投资者“几乎肯定”处于AI泡沫中。",
-          "en": "Citadel's Ken Griffin warned investors are \"almost certainly\" in an AI bubble."
-        },
-        {
-          "zh": "德意志银行的Christian Sewing表示不认为存在AI泡沫。",
-          "en": "Deutsche Bank's Christian Sewing said he doesn't see an AI bubble."
-        },
-        {
-          "zh": "特斯拉、Meta和IBM即将公布财报。",
-          "en": "Tesla, Meta, and IBM are set to report earnings."
-        },
-        {
-          "zh": "英伟达CEO黄仁勋在柏林GTC活动上发表讲话。",
-          "en": "Nvidia CEO Jensen Huang spoke at the Nvidia GTC event in Berlin."
-        }
-      ],
-      "tags": [
-        "AI bubble",
-        "earnings",
-        "SpaceX",
-        "Tesla",
-        "futures"
-      ],
-      "tickers": [
-        "TSLA",
-        "META",
-        "IBM",
-        "NVDA"
       ],
       "sentiment": "neutral"
     }
