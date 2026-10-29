@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-10-29T19:14:18.879172+00:00",
+  "generated_at": "2026-10-29T20:17:03.509515+00:00",
   "insights": [
+    {
+      "guid": "6ae392679fd2fa3c16caf908",
+      "title": "Why the slowdown in Wall Street deals?",
+      "title_zh": "华尔街并购热潮降温：借贷成本上升与市场回撤削弱交易意愿",
+      "url": "https://shows.acast.com/unhedged/episodes/why-the-slowdown-in-wall-street-deals",
+      "published_at": "2026-10-29T20:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "华尔街并购年开局强劲，但随借贷成本上升和市场回吐涨幅，新交易意愿减弱。尽管出现派拉蒙与华纳兄弟探索1100亿美元等巨型并购，整体并购活动已放缓。",
+      "summary_en": "What began as a boom year for Wall Street mergers is fading as borrowing costs tick up and markets pare gains, dampening appetite for new deals despite megamergers like the $111bn Paramount-Warner Bros Discovery deal.",
+      "detail_zh": "华尔街并购活动年初强劲，但近期明显放缓。借贷成本上升和市场回吐涨幅是主要原因，导致新交易意愿减弱。尽管出现了派拉蒙与华纳兄弟探索1100亿美元的巨型并购，但整体并购活动已从年初的繁荣水平回落。美国金融评论员Rob Armstrong、金融与市场编辑Arash Massoudi及即将离任的美国金融编辑James Fontanella-Khan讨论了这一放缓趋势及可能推动行业复苏的因素。",
+      "detail_en": "Wall Street mergers started the year strong but have recently slowed. Rising borrowing costs and markets paring back gains are the main reasons, weakening appetite for new deals. Although megamergers like the $111bn Paramount-Warner Bros Discovery deal occurred, overall M&A activity has fallen from early-year boom levels. US financial commentator Rob Armstrong, finance and markets editor Arash Massoudi, and outgoing US finance editor James Fontanella-Khan discuss the slowdown and what might bring the sector back to form.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "借贷成本上升和市场回吐涨幅导致并购交易意愿减弱。",
+          "en": "Rising borrowing costs and markets paring gains have dampened appetite for M&A deals."
+        },
+        {
+          "zh": "尽管出现派拉蒙与华纳兄弟探索1100亿美元巨型并购，整体并购活动已放缓。",
+          "en": "Despite the $111bn Paramount-Warner Bros Discovery megadeal, overall M&A activity has slowed."
+        },
+        {
+          "zh": "讨论涉及可能推动并购行业复苏的因素。",
+          "en": "Discussion covers what might bring the M&A sector back to form."
+        }
+      ],
+      "tags": [
+        "M&A",
+        "Wall Street",
+        "borrowing costs",
+        "market pullback"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:VqsrX0ixsu8",
+      "title": "Alaska Senate Race: Dems Tried to Find Another Sullivan to Run, NY Times Reports",
+      "title_zh": "特朗普呼吁禁止佩尔托拉参加参议院竞选",
+      "url": "https://www.youtube.com/watch?v=VqsrX0ixsu8",
+      "published_at": "2026-10-29T19:45:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统表示阿拉斯加民主党人玛丽·佩尔托拉应被禁止参加美国参议院竞选。《纽约时报》报道称，佩尔托拉及其盟友试图寻找与共和党现任参议员丹·沙利文姓名相似的人参选。",
+      "summary_en": "President Donald Trump says Alaska Democrat Mary Peltola should be banned from the US Senate race. The New York Times reported that Peltola and allies tried to find people with names similar to Dan Sullivan to run.",
+      "detail_zh": "特朗普总统公开主张，阿拉斯加民主党人玛丽·佩尔托拉应被禁止参加美国参议院竞选。据《纽约时报》报道，佩尔托拉及其盟友曾试图寻找与共和党现任参议员丹·沙利文姓名相似的人参选。彭博电视的泰勒·肯德尔和乔·马蒂厄对此进行了讨论。",
+      "detail_en": "President Donald Trump said that Alaska Democrat Mary Peltola should be banned from the US Senate race. The New York Times reported that Peltola and allies tried to find people with names similar to Dan Sullivan, the Republican incumbent, to run. Tyler Kendall and Joe Mathieu discussed the matter on Bloomberg Television.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普呼吁禁止佩尔托拉参加参议院竞选。",
+          "en": "Trump calls for Peltola to be banned from the Senate race."
+        },
+        {
+          "zh": "《纽约时报》报道称佩尔托拉及其盟友试图寻找与沙利文姓名相似的人参选。",
+          "en": "NYT reports Peltola and allies sought people with names similar to Sullivan to run."
+        },
+        {
+          "zh": "丹·沙利文是共和党现任参议员。",
+          "en": "Dan Sullivan is the Republican incumbent."
+        }
+      ],
+      "tags": [
+        "Alaska",
+        "Senate race",
+        "Trump",
+        "Peltola",
+        "Sullivan"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Nop7wfoL8go",
+      "title": "Chipotle Sales Beat as New Chicken, Chips Bring Diners Back",
+      "title_zh": "Chipotle第三季度销售增长超预期，菜单更新与会员优惠助力复苏",
+      "url": "https://www.youtube.com/watch?v=Nop7wfoL8go",
+      "published_at": "2026-10-29T19:32:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Chipotle第三季度销售额增长快于预期，得益于更频繁的菜单推出和改良的会员优惠，帮助维持了此前受食品安全事件威胁的复苏势头。",
+      "summary_en": "Chipotle's third-quarter sales rose faster than expected, driven by more frequent menu launches and revamped loyalty offers, helping sustain a recovery that had been threatened by a food-illness scare.",
+      "detail_zh": "Chipotle Mexican Grill Inc. 第三季度销售额增长快于预期。增长动力来自更频繁的菜单推出以及改良的会员优惠计划。这些举措帮助公司维持了复苏态势，而该复苏此前曾受到食品安全事件的威胁。彭博的Michael Halen就此进行了讨论。",
+      "detail_en": "Chipotle Mexican Grill Inc.'s sales rose faster than expected in the third quarter. The growth was driven by more frequent menu launches and revamped loyalty offers. These initiatives helped the company sustain a recovery that had been threatened by a food-illness scare. Bloomberg's Michael Halen joined to discuss.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Chipotle第三季度销售额增长快于预期。",
+          "en": "Chipotle's third-quarter sales rose faster than expected."
+        },
+        {
+          "zh": "增长得益于更频繁的菜单推出和改良的会员优惠。",
+          "en": "Growth was driven by more frequent menu launches and revamped loyalty offers."
+        },
+        {
+          "zh": "这些举措帮助维持了受食品安全事件威胁的复苏。",
+          "en": "These initiatives helped sustain a recovery threatened by a food-illness scare."
+        }
+      ],
+      "tags": [
+        "Chipotle",
+        "sales growth",
+        "loyalty program",
+        "food safety"
+      ],
+      "tickers": [
+        "CMG"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:G_B3zMWIe84",
+      "title": "Google Erases a Record $500 Billion as AI Eats Into Sales",
+      "title_zh": "Alphabet股价暴跌逾13%，市值蒸发超5000亿美元",
+      "url": "https://www.youtube.com/watch?v=G_B3zMWIe84",
+      "published_at": "2026-10-29T19:22:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Alphabet公布令人失望的搜索和广告销售业绩后，股价暴跌逾13%，市值蒸发超过5000亿美元，创史上最大单日跌幅。投资者担忧AI对其核心业务的威胁加剧。",
+      "summary_en": "Alphabet shares plunged more than 13%, erasing over $500 billion in market value in its biggest-ever one-day drop, after the company reported disappointing search and advertising sales, reinforcing investor concerns about AI's threat to its core business.",
+      "detail_zh": "Alphabet Inc. 股价下跌超过13%，市值蒸发逾5000亿美元，创下公司历史上最大单日市值跌幅。此次暴跌的导火索是公司公布的搜索和广告销售业绩令人失望，这加剧了投资者对人工智能威胁其核心业务的担忧。彭博的Mandeep Singh在节目中讨论了这一事件，同时还提及了可能发生的Marvell与Lumentum Holdings的交易，以及DoorDash收购Instacart的消息。",
+      "detail_en": "Alphabet Inc.'s shares fell more than 13%, erasing more than $500 billion in market value in its biggest-ever one-day plunge. The drop was triggered by disappointing search and advertising sales, which reinforced investor concerns about AI's threat to its core business. Bloomberg's Mandeep Singh discussed this on Bloomberg Television, along with a possible Marvell and Lumentum Holdings deal and DoorDash buying Instacart.",
+      "conclusion_zh": "Alphabet的业绩暴雷凸显AI对传统搜索广告模式的冲击，投资者需警惕科技巨头核心业务被颠覆的风险。",
+      "conclusion_en": "Alphabet's earnings miss highlights AI's disruption to the traditional search advertising model, and investors should watch for risks of core business disruption at tech giants.",
+      "key_points": [
+        {
+          "zh": "Alphabet股价暴跌逾13%，市值蒸发超5000亿美元，创史上最大单日跌幅。",
+          "en": "Alphabet shares plunged over 13%, erasing more than $500 billion in market value, the biggest one-day drop in its history."
+        },
+        {
+          "zh": "业绩不佳源于搜索和广告销售令人失望，加剧了投资者对AI威胁核心业务的担忧。",
+          "en": "The poor results stemmed from disappointing search and advertising sales, heightening investor fears about AI's threat to its core business."
+        },
+        {
+          "zh": "彭博的Mandeep Singh讨论了Alphabet的暴跌，以及可能的Marvell与Lumentum交易和DoorDash收购Instacart。",
+          "en": "Bloomberg's Mandeep Singh discussed Alphabet's plunge, as well as a possible Marvell-Lumentum deal and DoorDash's acquisition of Instacart."
+        }
+      ],
+      "tags": [
+        "Alphabet",
+        "AI disruption",
+        "advertising",
+        "market plunge"
+      ],
+      "tickers": [
+        "GOOGL"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:qTGiZmmNz-Q",
+      "title": "Economic Pain Turns Nebraska Into Unexpected Battleground",
+      "title_zh": "内布拉斯加州参议院选情趋紧，独立候选人逼近共和党热门人选",
+      "url": "https://www.youtube.com/watch?v=qTGiZmmNz-Q",
+      "published_at": "2026-10-29T19:03:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国参议院控制权争夺扩展至内布拉斯加州，一名独立候选人正缩小与共和党热门人选的差距。该候选人表示与两党均无关联。",
+      "summary_en": "The fight for control of the US Senate has expanded to Nebraska, where an independent candidate who says he wants nothing to do with either party is closing in on the Republican favorite.",
+      "detail_zh": "美国参议院控制权之争已扩展至内布拉斯加州。一名独立候选人表示不愿与任何政党有关联，目前正逼近共和党热门人选。该报道由Caitlin Reilly进行解释。原文未提供具体民调数字、候选人姓名或进一步的市场影响分析。",
+      "detail_en": "The battle for control of the US Senate has expanded to the deeply conservative farm state of Nebraska. An independent candidate, who says he wants nothing to do with either party, is closing in on the Republican favorite. The report is explained by Caitlin Reilly. No specific polling numbers, candidate names, or further market impact analysis were provided in the original text.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "参议院控制权争夺扩展至内布拉斯加州",
+          "en": "The fight for Senate control has expanded to Nebraska"
+        },
+        {
+          "zh": "一名独立候选人正逼近共和党热门人选",
+          "en": "An independent candidate is closing in on the Republican favorite"
+        },
+        {
+          "zh": "该候选人表示与两党均无关联",
+          "en": "The candidate says he wants nothing to do with either party"
+        }
+      ],
+      "tags": [
+        "US Senate",
+        "Nebraska",
+        "independent candidate",
+        "election"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lO3uIItv88I",
+      "title": "Spain's Rail Tragedy Becomes Political Issue Before Election",
+      "title_zh": "西班牙十多年来最严重铁路事故将基础设施问题推入选举辩论",
+      "url": "https://www.youtube.com/watch?v=lO3uIItv88I",
+      "published_at": "2026-10-29T19:01:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "西班牙发生十多年来最致命的铁路事故，引发对公共基础设施老化的担忧，并在11月大选前成为政治辩论焦点。该事件可能影响选举议题和公共支出方向。",
+      "summary_en": "Spain's deadliest rail crash in over a decade has raised concerns about deteriorating public infrastructure, pushing the issue to the top of the political debate ahead of November's election. The event could influence election topics and public spending direction.",
+      "detail_zh": "西班牙发生十多年来最致命的铁路事故。该事故引发了对公共基础设施状况恶化的担忧。这一担忧在11月大选前升至政治辩论的首要位置。报道由Macarena Munoz Montijano解释。事件可能影响选举议程，并引发对基础设施投资的关注。",
+      "detail_en": "Spain has experienced its deadliest rail crash in over a decade. The accident has raised concerns about deteriorating public infrastructure. These concerns have risen to the top of the political debate ahead of the November election. The report is explained by Macarena Munoz Montijano. The event could influence the election agenda and spark attention on infrastructure investment.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "西班牙发生十多年来最严重的铁路事故。",
+          "en": "Spain's deadliest rail crash in over a decade occurred."
+        },
+        {
+          "zh": "事故引发对公共基础设施恶化的担忧。",
+          "en": "The crash raises concerns about deteriorating public infrastructure."
+        },
+        {
+          "zh": "基础设施问题成为11月大选前政治辩论的焦点。",
+          "en": "Infrastructure issues have become a focus of political debate ahead of the November election."
+        }
+      ],
+      "tags": [
+        "Spain",
+        "rail crash",
+        "infrastructure",
+        "election"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4959535",
       "title": "Wall Street Lunch: A Deluge Of Earnings",
@@ -12050,204 +12296,6 @@
         "bloomberg",
         "market close",
         "media"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Qt-N01IPjoU",
-      "title": "Closed College Campus in Boston Suburb to Sell for $21 Million",
-      "title_zh": "波士顿郊区住房管理局拟2100万美元收购已关闭学院校园",
-      "url": "https://www.youtube.com/watch?v=Qt-N01IPjoU",
-      "published_at": "2026-10-22T20:13:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "波士顿郊区一住房管理局计划以2100万美元收购去年关闭的Eastern Nazarene College校园。该交易属于地方公共机构对闲置教育资产的收购，与美股投资无直接关联。",
-      "summary_en": "A Boston suburb's housing authority plans to buy the campus of Eastern Nazarene College, which closed last year, for $21 million. The deal is a local public acquisition of idle educational assets and has no direct relevance to US equities.",
-      "detail_zh": "据Bloomberg的Elizabeth Rembert在“Bloomberg Real Yield”节目中向Scarlet Fu介绍，波士顿郊区的一个住房管理局正计划以2100万美元购买Eastern Nazarene College的校园。该学院已于去年关闭。报道未提供交易时间表、融资方式或对当地住房市场的影响等进一步细节。此消息为地方房地产交易，不涉及上市公司或金融市场。",
-      "detail_en": "According to Elizabeth Rembert of Bloomberg, speaking to Scarlet Fu on \"Bloomberg Real Yield,\" a Boston suburb's housing authority is planning to buy the campus of Eastern Nazarene College for $21 million. The college closed last year. The report did not provide further details such as the timeline, financing method, or impact on the local housing market. This is a local real estate transaction and does not involve public companies or financial markets.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "波士顿郊区住房管理局计划以2100万美元收购Eastern Nazarene College校园。",
-          "en": "A Boston suburb's housing authority plans to buy the Eastern Nazarene College campus for $21 million."
-        },
-        {
-          "zh": "该学院已于去年关闭。",
-          "en": "The college closed last year."
-        },
-        {
-          "zh": "交易为地方公共机构收购闲置教育资产，与美股无关。",
-          "en": "The deal is a local public acquisition of idle educational assets and is unrelated to US equities."
-        }
-      ],
-      "tags": [
-        "real estate",
-        "local government",
-        "education"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "6ada6a144281670f07aebaba",
-      "title": "Breaking down the bond market",
-      "title_zh": "FT播客：债券市场动荡与认知鸿沟",
-      "url": "https://shows.acast.com/unhedged/episodes/breaking-down-the-bond-market",
-      "published_at": "2026-10-22T20:00:00+00:00",
-      "source_name": "FT Unhedged",
-      "source_kind": "article",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "FT的Robin Wigglesworth与Katie Martin讨论债券市场经历动荡一年，公众对此缺乏认知，专家也难以解释。Wigglesworth认为债券难以理解，并探讨是否正走向缓慢发展的危机。",
-      "summary_en": "FT's Robin Wigglesworth and Katie Martin discuss a rocky year for government bonds, public unawareness, and experts' inability to explain what's happening. Wigglesworth thinks bonds are hard to understand and asks whether we're approaching a slow-rolling crisis.",
-      "detail_zh": "在FT播客中，Robin Wigglesworth（《A Fabulous Debt》作者、《The Story of Money》播客主持人）对Katie Martin表示，政府债券为世界各国提供资金，并为从美国到抵押贷款机构的每个人设定资金成本。然而，尽管债券经历了动荡的一年，公众似乎并未意识到，专家也无法完全解释正在发生什么。Wigglesworth认为债券难以理解，并探讨我们是否正接近一场缓慢发展的危机。节目中还包含Robin做多女巫、Katie做空超级游艇的轻松话题。",
-      "detail_en": "In the FT podcast, Robin Wigglesworth (author of A Fabulous Debt and host of The Story of Money podcast) tells Katie Martin that government bonds keep the lights on for countries and set the cost of money for everyone from the US to mortgage lenders. But even as bonds experience a rocky year, the public seems unaware and experts can't quite explain what's going on. Wigglesworth thinks bonds are hard to understand and discusses whether we're approaching a slow-rolling crisis. The episode also includes light-hearted segments: Robin goes long witches, and Katie shorts superyachts.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "政府债券为全球国家提供资金，并设定从美国到抵押贷款机构的资金成本。",
-          "en": "Government bonds fund countries worldwide and set the cost of money from the US to mortgage lenders."
-        },
-        {
-          "zh": "债券市场经历动荡一年，但公众似乎未察觉，专家也难以解释。",
-          "en": "Bonds have had a rocky year, yet the public seems unaware and experts can't quite explain it."
-        },
-        {
-          "zh": "Wigglesworth认为债券难以理解，并探讨是否正走向缓慢发展的危机。",
-          "en": "Wigglesworth thinks bonds are hard to understand and asks whether we're approaching a slow-rolling crisis."
-        }
-      ],
-      "tags": [
-        "bonds",
-        "market volatility",
-        "financial literacy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:huCtwkDP_A4",
-      "title": "NYC Public Schools to Consider Merging Sites as Enrollment Drops",
-      "title_zh": "纽约市公立学校因入学人数下降考虑合并学校",
-      "url": "https://www.youtube.com/watch?v=huCtwkDP_A4",
-      "published_at": "2026-10-22T19:52:21+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "纽约市公立学校校长Kamar Samuels表示，学校领导层正在制定应对学生入学人数下降的计划，可能包括合并学校。该内容与美股投资无直接关联。",
-      "summary_en": "New York City Public Schools Chancellor Kamar Samuels said school leaders are working on plans to address declining student enrollment, which could include merging schools. The content has no direct relevance to US equity investing.",
-      "detail_zh": "在Bloomberg Real Yield节目中，Erin Hudson向Scarlet Fu报道，纽约市公立学校校长Kamar Samuels在接受采访时表示，学校领导层正在制定应对学生入学人数下降的计划。Samuels指出，这些计划可能包括合并学校。原文未提供具体的入学人数变化数据、合并规模或时间表，也未涉及对金融市场或美股的影响。",
-      "detail_en": "On Bloomberg Real Yield, Erin Hudson reported to Scarlet Fu that New York City Public Schools Chancellor Kamar Samuels said in an interview that school leaders are working on plans to address declining student enrollment. Samuels noted that these plans could include merging schools. The original text does not provide specific enrollment figures, merger scale, or timeline, nor does it discuss any impact on financial markets or US equities.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "纽约市公立学校面临学生入学人数下降的问题。",
-          "en": "New York City Public Schools is facing declining student enrollment."
-        },
-        {
-          "zh": "校长Kamar Samuels表示正在制定应对计划。",
-          "en": "Chancellor Kamar Samuels said plans are being developed to address it."
-        },
-        {
-          "zh": "可能的措施包括合并学校。",
-          "en": "Possible measures include merging schools."
-        }
-      ],
-      "tags": [
-        "education",
-        "enrollment",
-        "school-mergers"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:59arl8YObcc",
-      "title": "OpenAI co-founder and Cloudflare CEO on AI-discovered security flaws",
-      "title_zh": "OpenAI联合创始人与Cloudflare CEO：前沿AI模型正改变网络安全格局",
-      "url": "https://www.youtube.com/watch?v=59arl8YObcc",
-      "published_at": "2026-10-22T19:34:38+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "OpenAI联合创始人Greg Brockman与Cloudflare CEO Matthew Prince表示，前沿AI模型在帮助识别PHP中两个严重漏洞后，正在改变网络安全格局。这既凸显了AI发现安全威胁的潜力，也强调了解决这些威胁的紧迫性。",
-      "summary_en": "OpenAI co-founder Greg Brockman and Cloudflare CEO Matthew Prince say frontier AI models are changing the cybersecurity landscape after helping identify two serious vulnerabilities in PHP, highlighting both AI's potential to uncover security threats and the urgency of addressing them.",
-      "detail_zh": "OpenAI联合创始人Greg Brockman与Cloudflare CEO Matthew Prince指出，前沿AI模型正在改变网络安全格局。他们提到，AI模型帮助识别了PHP中的两个严重漏洞。这一事件既展示了AI在发现安全威胁方面的潜力，也凸显了应对这些威胁的紧迫性。",
-      "detail_en": "OpenAI co-founder Greg Brockman and Cloudflare CEO Matthew Prince state that frontier AI models are changing the cybersecurity landscape. They note that AI models helped identify two serious vulnerabilities in PHP. This highlights both AI's potential to uncover security threats and the urgency of addressing them.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "OpenAI联合创始人Greg Brockman与Cloudflare CEO Matthew Prince认为前沿AI模型正在改变网络安全格局。",
-          "en": "OpenAI co-founder Greg Brockman and Cloudflare CEO Matthew Prince believe frontier AI models are changing the cybersecurity landscape."
-        },
-        {
-          "zh": "AI模型帮助识别了PHP中的两个严重漏洞。",
-          "en": "AI models helped identify two serious vulnerabilities in PHP."
-        },
-        {
-          "zh": "这凸显了AI发现安全威胁的潜力，也强调了解决这些威胁的紧迫性。",
-          "en": "This highlights both AI's potential to uncover security threats and the urgency of addressing them."
-        }
-      ],
-      "tags": [
-        "AI",
-        "cybersecurity",
-        "vulnerabilities",
-        "PHP"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:FcEApy1bzME",
-      "title": "Ohio Gubernatorial Race: Ramaswamy Criticized for Ad Against Opponent Amy Acton",
-      "title_zh": "俄亥俄州州长竞选广告引发争议，特朗普与万斯为拉马斯瓦米辩护",
-      "url": "https://www.youtube.com/watch?v=FcEApy1bzME",
-      "published_at": "2026-10-22T19:15:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "俄亥俄州共和党州长候选人维韦克·拉马斯瓦米因一则涉及民主党对手艾米·阿克顿母亲的广告而受到猛烈批评。总统唐纳德·特朗普和副总统JD·万斯为该广告辩护。",
-      "summary_en": "Ohio Republican gubernatorial candidate Vivek Ramaswamy is facing heavy criticism over an ad featuring the mother of his Democratic opponent, Amy Acton. President Donald Trump and Vice President JD Vance defended the ad.",
-      "detail_zh": "俄亥俄州共和党州长候选人维韦克·拉马斯瓦米因一则广告而受到严厉批评，该广告中出现了其民主党对手艾米·阿克顿的母亲。总统唐纳德·特朗普和副总统JD·万斯为该广告进行了辩护。彭博社的马克·尼凯特报道了这一消息。",
-      "detail_en": "Ohio Republican gubernatorial candidate Vivek Ramaswamy is being heavily criticized for an ad featuring the mother of his Democratic opponent, Amy Acton. President Donald Trump and Vice President JD Vance defended the ad. Bloomberg's Mark Niquette reports.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "拉马斯瓦米因广告涉及对手母亲而受到批评",
-          "en": "Ramaswamy criticized for ad featuring opponent's mother"
-        },
-        {
-          "zh": "特朗普和万斯为广告辩护",
-          "en": "Trump and Vance defended the ad"
-        },
-        {
-          "zh": "广告涉及民主党对手艾米·阿克顿的母亲",
-          "en": "Ad features mother of Democratic opponent Amy Acton"
-        }
-      ],
-      "tags": [
-        "Ohio",
-        "gubernatorial race",
-        "political ad",
-        "Ramaswamy",
-        "Trump"
       ],
       "tickers": [],
       "sentiment": "neutral"
