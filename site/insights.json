@@ -1,6 +1,143 @@
 {
-  "generated_at": "2026-10-29T09:18:21.186410+00:00",
+  "generated_at": "2026-10-29T10:17:08.229595+00:00",
   "insights": [
+    {
+      "guid": "yt:6JjQOG5Ew_M",
+      "title": "Oracle Injects Optimism Into AI Trade: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目简介，无实质市场内容",
+      "url": "https://www.youtube.com/watch?v=6JjQOG5Ew_M",
+      "published_at": "2026-10-29T09:43:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介及社交媒体链接，未包含任何具体的市场数据、分析观点或投资洞见。",
+      "summary_en": "The original text is merely a description of Bloomberg's 'The Opening Trade' program and social media links, containing no specific market data, analytical views, or investment insights.",
+      "detail_zh": "原文仅提及Anna Edwards、Tom Mackenzie和Paul Dobson在《Bloomberg: The Opening Trade》节目中为分析师和投资者梳理当日关键主题，但未给出任何主题的具体内容。其余部分均为彭博电视和市场的社交媒体链接及订阅提示。因此，无法从中提取任何关于市场走势、个股、宏观事件或投资策略的实质信息。",
+      "detail_en": "The original text only mentions that Anna Edwards, Tom Mackenzie, and Paul Dobson break down today's key themes for analysts and investors on 'Bloomberg: The Opening Trade,' but provides no specifics on what those themes are. The rest consists of social media links and subscription prompts for Bloomberg Television and Markets. Consequently, no substantive information about market trends, individual stocks, macroeconomic events, or investment strategies can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视节目简介，无实质市场内容。",
+          "en": "The original text is a Bloomberg TV program description with no substantive market content."
+        },
+        {
+          "zh": "未提及任何具体市场数据、个股或宏观事件。",
+          "en": "No specific market data, individual stocks, or macroeconomic events are mentioned."
+        },
+        {
+          "zh": "无法从中提炼投资洞见或结论。",
+          "en": "No investment insights or conclusions can be drawn from it."
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "tv-program",
+        "no-content"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "https://bondvigilantes.com/?p=26862",
+      "title": "Private credit: More Casper the Friendly Ghost than A Nightmare on Elm Street",
+      "title_zh": "私人信贷：拨开恐惧，看清基本面",
+      "url": "https://bondvigilantes.com/blog/2026/10/private-credit-more-casper-the-friendly-ghost-than-a-nightmare-on-elm-street/",
+      "published_at": "2026-10-29T09:22:52+00:00",
+      "source_name": "Bond Vigilantes (M&G)",
+      "source_kind": "article",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "文章认为私人信贷并非单一同质资产，投资者应通过基本面信用分析区分真实风险与市场想象。贝莱德调查显示约四分之三的保险公司计划未来一年增加私人市场配置。文章以SRT、直接贷款和基础设施债务为例，说明结构性保护与底层资产质量可显著降低表面风险。",
+      "summary_en": "The article argues that private credit is not a single homogeneous asset class and that investors should use fundamental credit analysis to separate real risks from perceived ones. A BlackRock survey reported by the Financial Times found that around three quarters of insurers expect to increase allocations to private markets over the coming year. Using SRT transactions, direct lending and infrastructure debt as examples, the article shows how structural protections and underlying asset quality can make headline risks look far less daunting.",
+      "detail_zh": "文章开篇指出，私人信贷今年面临不少负面头条，但投资者若看穿表象，可能发现更多是“糖果”而非“恶作剧”。贝莱德调查（由《金融时报》报道）显示，约四分之三的保险公司预计未来一年将增加对私人市场的配置。作者强调，“私人信贷”是一个涵盖多种贷款形式的伞形术语，风险谱系从投资级风格机会延伸至更高收益信用，并非同质资产。无论公开还是私人信贷，投资决策的基本功相似：都依赖相同的承销逻辑评估借款人的偿债能力。文章以重大风险转移（SRT）交易为例，说明其参照已承销的正常贷款组合，通过证券化分层满足不同风险偏好：第一损失股权层承担贷款违约损失以换取更高回报潜力，而更高级别的夹层档受益于股权缓冲的结构性增信，可呈现投资级风格的信用特征。直接贷款方面，作者承认美国部分领域的风险偏好较高，但指出欧洲直接贷款历史上违约率更低，承销更严格、维持性契约更强、杠杆更低、股权缓冲更高，且借款人以成熟、现金流充沛的中端市场公司为主，超过一半来自高韧性防御性行业。基础设施债务则融资于可再生能源电网、受监管公用事业、机场、港口和数字连接网络等实体资产，其必需属性支撑可预测、常与通胀挂钩的现金流，并依托长期政府或企业合同。文章最终结论是：有些风险值得警惕，有些则可以被理解、结构化并合理定价，投资者应打开灯、看基本面，区分真实风险与想象风险。",
+      "detail_en": "The article opens by noting that private credit has faced its share of ominous headlines this year, but investors who look beyond them may find more treats than tricks. A recent BlackRock survey, reported by the Financial Times, found that around three quarters of insurers expect to increase their allocations to private markets over the coming year. The author stresses that 'private credit' is an umbrella term encompassing many different forms of lending, spanning a broad spectrum of risk from investment-grade-style opportunities through to higher-yielding credit, and is not a homogeneous asset class. Whether investing in public or private credit, the fundamentals of investment decision-making remain broadly similar: both draw on the same underwriting DNA to assess a borrower's ability to repay its debt. Using significant risk transfer (SRT) transactions as an example, the article explains that these reference portfolios of performing, underwritten loans and securitise credit risk into distinct tranches to cater to different risk appetites: the first-loss equity layer bears losses from loan defaults in exchange for greater return potential, while the more senior mezzanine tranche benefits from the structural enhancement provided by the equity cushion beneath it and can exhibit investment-grade-style credit characteristics. On direct lending, the author acknowledges that some areas of US risk appetite have looked rather more R-rated than PG, but notes that European direct lending has historically experienced lower default rates, alongside stricter underwriting, stronger maintenance covenants, lower leverage and higher equity cushions, with borrowers mostly mature, cash-generative mid-market and upper-mid-market companies, more than half represented by highly resilient, defensive industries. Infrastructure debt finances tangible assets such as renewable energy grids, regulated utilities, airports, shipping ports and digital connectivity networks, whose essential nature can support predictable, often inflation-linked cash flows underpinned by long-term government or corporate contracts. The article concludes that some risks warrant caution while others can be understood, structured and appropriately priced, and that investors should turn on the light, look at the fundamentals and separate real risks from imagined ones.",
+      "conclusion_zh": "私人信贷的风险并非铁板一块，投资者应依赖基本面信用分析、结构保护与相对价值判断，区分真实风险与被放大的市场恐惧。",
+      "conclusion_en": "Private credit risks are not monolithic; investors should rely on fundamental credit analysis, structural protections and relative value to separate real risks from amplified market fears.",
+      "key_points": [
+        {
+          "zh": "贝莱德调查显示约四分之三的保险公司预计未来一年增加私人市场配置。",
+          "en": "A BlackRock survey found that around three quarters of insurers expect to increase allocations to private markets over the coming year."
+        },
+        {
+          "zh": "私人信贷是涵盖多种贷款形式的伞形术语，风险谱系从投资级风格延伸至更高收益信用，并非同质资产。",
+          "en": "Private credit is an umbrella term covering many forms of lending across a risk spectrum from investment-grade-style to higher-yielding credit, and is not a homogeneous asset class."
+        },
+        {
+          "zh": "SRT交易通过分层结构满足不同风险偏好，夹层档可因股权缓冲而呈现投资级风格特征。",
+          "en": "SRT transactions use tranching to cater to different risk appetites, with the mezzanine tranche potentially exhibiting investment-grade-style characteristics due to the equity cushion beneath it."
+        },
+        {
+          "zh": "欧洲直接贷款历史上违约率更低，承销更严、契约更强、杠杆更低、股权缓冲更高，借款人以防御性行业中端市场公司为主。",
+          "en": "European direct lending has historically seen lower default rates, stricter underwriting, stronger covenants, lower leverage and higher equity cushions, with borrowers concentrated in defensive mid-market companies."
+        },
+        {
+          "zh": "基础设施债务依托必需资产和长期合同，支持可预测、常与通胀挂钩的现金流。",
+          "en": "Infrastructure debt is backed by essential assets and long-term contracts, supporting predictable, often inflation-linked cash flows."
+        }
+      ],
+      "tags": [
+        "private credit",
+        "direct lending",
+        "SRT",
+        "infrastructure debt",
+        "credit analysis"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6msnGqjrH6s",
+      "title": "The ETF Graveyard: This Has Been a Record Year for Closures | Trillions",
+      "title_zh": "ETF“墓地”扩容：今年清盘数逼近纪录，ESG与杠杆产品成重灾区",
+      "url": "https://www.youtube.com/watch?v=6msnGqjrH6s",
+      "published_at": "2026-10-29T09:18:44+00:00",
+      "source_name": "Trillions (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Trillions播客讨论ETF清盘潮：约8000只ETF中已有2500只关闭，今年清盘数有望创纪录。ESG、2倍杠杆股票ETF及边缘加密产品大量退市，而部分创新产品如高收益债分行业ETF也未能幸免。",
+      "summary_en": "The Trillions podcast discusses the ETF closure wave: about 2,500 of 8,000 ETFs have closed, with this year on track for a record. ESG, 2x leveraged equity ETFs, and peripheral crypto products are heavily represented, while some innovative products like sector-split high-yield bond ETFs also failed.",
+      "detail_zh": "播客指出，约8000只ETF中已有2500只关闭，清盘率约三分之一到四分之一，且产品“死亡”年龄越来越小。今年已有182只正式清算，考虑退市后总数可能达250只左右，目前以245只并列第三，有望在剩余两个月内打破纪录。ESG产品大量关闭，包括嘉信的ESG ETF；2倍杠杆股票ETF（如T-Rex Defiance的2倍苹果ETF）和狗狗币等边缘加密ETF也纷纷清盘。Baird的Todd Sohn惋惜BondBloxx高收益债分行业ETF（XHY系列）关闭，认为其提供了更精细的高收益债行业敞口。Bloomberg Intelligence的Andre Yap提到Westwood Engineered Beta行业ETF共11只全部清盘，该系列根据波动率目标加杠杆或转现金。此外，CraneShares全球奢侈品ETF和iShares美国消费聚焦ETF（IED）等主题产品也因规模小或表现不佳而关闭。",
+      "detail_en": "The podcast notes that about 2,500 of 8,000 ETFs have closed, a death rate of roughly one in three or four, and products are dying younger. This year 182 have officially liquidated, likely reaching about 250 including delistings; with 245 closures so far, the year is tied for third and on track to break the record in the remaining two months. ESG products closed heavily, including Schwab's ESG ETF; 2x leveraged equity ETFs (e.g., T-Rex Defiance's 2x Apple ETF) and peripheral crypto ETFs like Dogecoin also shuttered. Baird's Todd Sohn lamented the closure of BondBloxx's high-yield sector suite (XHY series), which offered more precise high-yield sector exposure. Bloomberg Intelligence's Andre Yap noted all 11 Westwood Engineered Beta sector ETFs closed; the suite leveraged up or went to cash based on volatility targets. Other thematic products like the CraneShares Global Luxury ETF and iShares US Consumer Focused ETF (IED) closed due to small size or poor performance.",
+      "conclusion_zh": "ETF行业竞争激烈，产品清盘率居高不下，投资者应关注产品的规模、流动性和长期生命力，避免追逐小众主题或高杠杆产品。",
+      "conclusion_en": "The ETF industry is highly competitive with a high closure rate; investors should focus on scale, liquidity, and long-term viability, avoiding niche thematic or high-leverage products.",
+      "key_points": [
+        {
+          "zh": "约8000只ETF中已有2500只关闭，清盘率约三分之一到四分之一，且产品寿命缩短。",
+          "en": "About 2,500 of 8,000 ETFs have closed, a death rate of roughly one in three or four, with shorter product lifespans."
+        },
+        {
+          "zh": "今年已有182只正式清算，考虑退市后可能达250只，有望打破年度清盘纪录。",
+          "en": "182 ETFs have officially liquidated this year, likely reaching 250 including delistings, on track to break the annual closure record."
+        },
+        {
+          "zh": "ESG、2倍杠杆股票ETF和边缘加密ETF是清盘重灾区。",
+          "en": "ESG, 2x leveraged equity ETFs, and peripheral crypto ETFs are heavily represented among closures."
+        },
+        {
+          "zh": "BondBloxx高收益债分行业ETF（XHY系列）关闭，尽管提供了精细的行业敞口。",
+          "en": "BondBloxx's high-yield sector ETFs (XHY series) closed despite offering granular sector exposure."
+        },
+        {
+          "zh": "Westwood Engineered Beta的11只行业ETF全部清盘，该系列基于波动率目标调整杠杆或现金。",
+          "en": "All 11 Westwood Engineered Beta sector ETFs closed; the suite adjusted leverage or cash based on volatility targets."
+        }
+      ],
+      "tags": [
+        "ETF closures",
+        "ESG",
+        "leveraged ETFs",
+        "high-yield bonds",
+        "thematic ETFs"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:V7t85lKoHQ0",
       "title": "UK Chancellor John Healey Defends Budget Plans",
@@ -12169,102 +12306,6 @@
         "NET",
         "IBM"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:xpk0Wuo74uk",
-      "title": "New ETFs to Watch: A $2.5 Billion Launch, Anthropic and S&P 10,000, Anyone? | Trillions",
-      "title_zh": "State Street推出90/10配置ETF，获UC 25亿美元种子资金",
-      "url": "https://www.youtube.com/watch?v=xpk0Wuo74uk",
-      "published_at": "2026-10-22T10:15:24+00:00",
-      "source_name": "Trillions (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "State Street推出UC Investments 90/10捐赠基金策略ETF（UCBG），采用90%标普500+10%短债配置，模仿巴菲特遗嘱建议，获加州大学投资部门25亿美元种子资金，创ETF种子资金纪录。但播客嘉宾认为，该产品对多数投资者冗余，且机构种子ETF鲜有引发市场热潮的先例，后续推广面临挑战。",
-      "summary_en": "State Street launched the UC Investments 90/10 Endowment Strategy Index ETF (UCBG), allocating 90% to the S&P 500 and 10% to short-dated bonds, mirroring Warren Buffett's will advice. It received a $2.5 billion seed from the University of California's investment arm, a record seed for an ETF. However, podcast guests believe the product is redundant for most investors and that institution-seeded ETFs rarely spark broader adoption, making traction challenging.",
-      "detail_zh": "State Street推出名为UC Investments 90/10 Endowment Strategy Index ETF的产品，代码UCBG，配置为90%标普500指数和10%短久期债券，费率约6个基点。该策略模仿沃伦·巴菲特此前的建议：若投资者不全天候监控市场，应将90%资金投入指数基金（ preferably Vanguard），10%投入短期国债。加州大学投资部门（UC Investments）为该ETF提供了25亿美元种子资金，播客称这可能是ETF史上最大的种子资金之一，此前iShares和XTrackers曾为欧洲养老金种子约20亿美元的ESG基金。该ETF据称模仿UC的“蓝金捐赠基金池”（Blue and Gold Endowment Pool）。播客嘉宾指出，多数投资者已持有标普500和债券，该产品对他们而言近乎冗余；且机构种子ETF通常高度定制化，难以吸引外部资金，此前ESG种子基金也面临类似问题。嘉宾认为，UC选择ETF形式主要是为了流动性和便捷访问，而非需要暴露本身，因为机构可直接从State Street以约2个基点获得标普500暴露。State Street近期已吸引Bridgewater、Apollo等机构合作，其优势在于拥有大量高流动性ETF。",
-      "detail_en": "State Street launched the UC Investments 90/10 Endowment Strategy Index ETF (ticker UCBG), allocating 90% to the S&P 500 and 10% to short-dated bonds, with a fee of about 6 basis points. The strategy mirrors Warren Buffett's advice that investors not monitoring markets all day should put 90% in an index fund (preferably Vanguard) and 10% in short-term Treasuries. The University of California's investment arm seeded the ETF with $2.5 billion, which the podcast says may be one of the largest ETF seeds ever; previously iShares and XTrackers seeded ESG funds with about $2 billion for European pensions. The ETF is reportedly modeled after UC's Blue and Gold Endowment Pool. Podcast guests noted that most investors already own the S&P 500 and bonds, making the product largely redundant for them, and that institution-seeded ETFs are often highly customized and fail to attract outside money, as seen with prior ESG seed funds. Guests argued UC chose the ETF wrapper mainly for liquidity and easy access, not because it needs exposure, since institutions can get S&P 500 exposure directly from State Street for about 2 basis points. State Street has recently attracted institutions like Bridgewater and Apollo, and its advantage lies in its large suite of liquid ETFs.",
-      "conclusion_zh": "该ETF象征意义大于实际：展示机构对低成本配置的需求，但普通投资者已有类似暴露，且机构种子ETF鲜有破圈先例，后续资金流入存疑。",
-      "conclusion_en": "The ETF is more symbolic than practical: it highlights institutional demand for low-cost allocation, but ordinary investors already have similar exposure, and institution-seeded ETFs rarely break out, leaving follow-on flows uncertain.",
-      "key_points": [
-        {
-          "zh": "State Street推出UCBG，配置90%标普500+10%短债，费率约6个基点，模仿巴菲特遗嘱建议。",
-          "en": "State Street launched UCBG, allocating 90% to the S&P 500 and 10% to short-dated bonds, with a fee of about 6 basis points, mirroring Buffett's will advice."
-        },
-        {
-          "zh": "加州大学投资部门提供25亿美元种子资金，可能创ETF种子资金纪录。",
-          "en": "The University of California's investment arm provided a $2.5 billion seed, potentially a record for an ETF."
-        },
-        {
-          "zh": "播客嘉宾认为该产品对多数投资者冗余，因他们已持有标普500和债券。",
-          "en": "Podcast guests view the product as redundant for most investors who already own the S&P 500 and bonds."
-        },
-        {
-          "zh": "机构种子ETF通常高度定制化，难以吸引外部资金，此前ESG种子基金也有类似问题。",
-          "en": "Institution-seeded ETFs are often highly customized and struggle to attract outside money, as seen with prior ESG seed funds."
-        },
-        {
-          "zh": "UC选择ETF形式主要为了流动性和便捷访问，而非需要暴露本身。",
-          "en": "UC chose the ETF wrapper mainly for liquidity and easy access, not because it needs exposure."
-        }
-      ],
-      "tags": [
-        "ETF",
-        "asset allocation",
-        "State Street",
-        "Buffett",
-        "endowment"
-      ],
-      "tickers": [
-        "UCBG"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3Mm2r4zcHXg",
-      "title": "The Volatility Warning Signs Brent Watches Before a Selloff",
-      "title_zh": "波动率期限结构走平被视为市场下跌的早期信号",
-      "url": "https://www.youtube.com/watch?v=3Mm2r4zcHXg",
-      "published_at": "2026-10-22T10:00:20+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility"
-      ],
-      "summary_zh": "播客嘉宾指出，市场通常不会从极低隐含波动率直接崩盘，VIX往往先升至20附近并在此停留，波动率期限结构先走平、后进入全面倒挂。因此，期限结构开始走低、平值波动率抬升、看跌偏斜加剧，反而是加空仓、看跌市场的早期信号。",
-      "summary_en": "The podcast guest argues that markets generally do not crash from ultra-low implied volatility; the VIX typically rises to around 20 and stalls there first, with the volatility term structure flattening before full backwardation. Therefore, a flattening term structure, rising at-the-money vol, and steeper put skew are the early signals to add short positions and position for downside.",
-      "detail_zh": "嘉宾强调，市场一般不会从极低隐含波动率直接崩盘，不会从VIX 10直接跳到VIX 80；通常先看到VIX升至20，然后才出现真正疯狂的行情。虽然VIX从10到80必然经过20，但关键在于市场往往先在20附近停留一段时间，之后才进入极端状态。另一个观察角度是VIX期限结构：它会先走平并在该区域维持，之后才进入全面倒挂。全面倒挂对应的是标普500单日下跌2%至3%这类最剧烈的走势。因此，具有讽刺意味的是，市场即将崩盘的最佳信号反而是VIX期限结构开始走低，出现第一个预警信号。届时可考虑增加空头仓位、看跌市场，因为波动率期限结构正在走平、平值波动率开始抬升、看跌偏斜进一步加剧。这些是真正需要关注的信号。",
-      "detail_en": "The guest stresses that markets generally do not crash from ultra-low implied volatility—you don't go from VIX 10 to VIX 80; you typically see the VIX rise to 20 first, and then things really go crazy. While the VIX must pass through 20 to reach 80, the key point is that the market often stalls around 20 first before entering extreme conditions. Another way to view this is the VIX term structure: it flattens out and holds in that area before going into full backwardation. Full backwardation corresponds to the ugliest moves, such as the S&P falling 2-3% in a day. Ironically, the best signal that a crash is coming is the VIX term structure starting to move lower—the first shot across the bow. At that point, one might consider adding short positions and positioning for downside, because the volatility term structure is flattening, the at-the-money vol is starting to lift, and put skew is steepening further. Those are the signals to watch.",
-      "conclusion_zh": "关注VIX期限结构走平、平值波动率抬升与看跌偏斜加剧，这些是市场下跌前的早期预警信号。",
-      "conclusion_en": "Watch for a flattening VIX term structure, rising at-the-money vol, and steeper put skew as early warning signals of a market downturn.",
-      "key_points": [
-        {
-          "zh": "市场通常不会从极低隐含波动率直接崩盘，VIX往往先升至20附近并停留。",
-          "en": "Markets generally don't crash from ultra-low implied volatility; the VIX typically rises to around 20 and stalls first."
-        },
-        {
-          "zh": "VIX期限结构会先走平并维持，之后才进入全面倒挂。",
-          "en": "The VIX term structure flattens and holds before entering full backwardation."
-        },
-        {
-          "zh": "全面倒挂对应标普500单日下跌2%-3%等最剧烈走势。",
-          "en": "Full backwardation corresponds to the ugliest moves, such as the S&P falling 2-3% in a day."
-        },
-        {
-          "zh": "期限结构开始走低、平值波动率抬升、看跌偏斜加剧，是加空仓的早期信号。",
-          "en": "A flattening term structure, rising at-the-money vol, and steeper put skew are early signals to add short positions."
-        }
-      ],
-      "tags": [
-        "VIX",
-        "term structure",
-        "implied volatility",
-        "put skew",
-        "market crash"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
