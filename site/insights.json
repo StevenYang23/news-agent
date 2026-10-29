@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-10-29T08:22:11.584416+00:00",
+  "generated_at": "2026-10-29T09:18:21.186410+00:00",
   "insights": [
+    {
+      "guid": "yt:V7t85lKoHQ0",
+      "title": "UK Chancellor John Healey Defends Budget Plans",
+      "title_zh": "科技股涨势停滞，Alphabet因AI支出担忧盘后跌10%；美联储按兵不动",
+      "url": "https://www.youtube.com/watch?v=V7t85lKoHQ0",
+      "published_at": "2026-10-29T08:23:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "科技股涨势停滞，Alphabet因市场担忧其巨额AI支出难以见效而盘后下跌10%，三星因推迟股东回报计划至2027年1月而下跌。美联储维持利率不变，等待更多通胀数据；欧洲央行预计也将按兵不动，同时应对能源价格飙升与法国债券抛售。",
+      "summary_en": "The tech rally stalled as Alphabet slumped 10% after hours on concerns its massive AI spending isn't paying off, while Samsung fell after withholding shareholder payout plans until January 2027. The Federal Reserve held rates steady awaiting more inflation data, and the ECB is expected to follow suit amid soaring energy prices and a French bond selloff.",
+      "detail_zh": "科技股涨势停滞：谷歌母公司Alphabet盘后下跌10%，市场担忧其庞大的AI支出未能带来回报；三星在将股东回报计划推迟至2027年1月后同样下跌，尽管其提高了AI支出。美联储维持利率不变，决策者正在寻找更多关于通胀前景的数据。欧洲央行预计将跟随按兵不动，同时应对能源价格飙升和法国债券抛售。英国财政大臣向彭博表示其预算将解决赤字问题；John Healey公布了规模温和的首份预算，措施将在2030-31财年带来66亿英镑额外收入。节目嘉宾为RBC Wealth Management固定收益主管Rufaro Chiriseri。其他议题包括西班牙自2013年以来最严重的铁路事故、内塔尼亚胡阵营预计在以色列选举中赢得最多席位，以及Monte Paschi投资者会议。",
+      "detail_en": "The tech rally stalled: Google parent Alphabet slumped 10% after hours on concerns its massive AI spending isn't paying off, while Samsung also fell after withholding its shareholder payout plans until January 2027 despite hiking AI spending. The Federal Reserve held interest rates steady as policymakers look for more data on the inflation outlook. The ECB is set to follow suit as it grapples with soaring energy prices and a selloff in French bonds. The UK Chancellor told Bloomberg his Budget will tackle the deficit; John Healey unveiled a modest maiden budget with measures to bring in £6.6 billion in additional revenue by fiscal year 2030-31. Today's guest was Rufaro Chiriseri, RBC Wealth Management, Head of Fixed Income. Other topics included Spain's deadliest rail crash since 2013, Netanyahu's bloc set to win most seats in Israeli elections, and a Monte Paschi investor meeting.",
+      "conclusion_zh": "AI资本开支的回报兑现成为科技股短期关键考验，Alphabet的抛售显示市场对高投入低回报的容忍度下降；同时美联储与欧洲央行均选择观望，宏观数据与能源价格是后续政策路径的核心变量。",
+      "conclusion_en": "The payoff from AI capex is becoming a key near-term test for tech stocks, with Alphabet's selloff showing reduced tolerance for high spending with low returns; meanwhile both the Fed and ECB are in wait-and-see mode, making macro data and energy prices the core variables for the policy path ahead.",
+      "key_points": [
+        {
+          "zh": "Alphabet盘后下跌10%，市场担忧其巨额AI支出未能带来回报",
+          "en": "Alphabet slumped 10% after hours on concerns its massive AI spending isn't paying off"
+        },
+        {
+          "zh": "三星因将股东回报计划推迟至2027年1月而下跌，尽管其提高了AI支出",
+          "en": "Samsung fell after withholding shareholder payout plans until January 2027, despite hiking AI spending"
+        },
+        {
+          "zh": "美联储维持利率不变，等待更多通胀前景数据",
+          "en": "The Fed held rates steady, awaiting more data on the inflation outlook"
+        },
+        {
+          "zh": "欧洲央行预计按兵不动，应对能源价格飙升与法国债券抛售",
+          "en": "The ECB is expected to hold amid soaring energy prices and a French bond selloff"
+        },
+        {
+          "zh": "英国预算措施将在2030-31财年带来66亿英镑额外收入",
+          "en": "UK budget measures to bring in £6.6 billion in additional revenue by fiscal year 2030-31"
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "Fed",
+        "ECB",
+        "tech selloff",
+        "UK budget"
+      ],
+      "tickers": [
+        "GOOGL"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:VhaiaPz9kHI",
       "title": "Taiwan's Deputy Foreign Minister Responds to Pakistan's Airspace U-Turn",
@@ -12212,89 +12263,6 @@
         "implied volatility",
         "put skew",
         "market crash"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:33qTrBrbBu4",
-      "title": "Nvidia's Huang Says Neoclouds Are 'Good Investment'",
-      "title_zh": "黄仁勋：新云算力需求强劲，看好其投资前景",
-      "url": "https://www.youtube.com/watch?v=33qTrBrbBu4",
-      "published_at": "2026-10-22T09:15:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋表示，新云（neoclouds）的算力需求“惊人”，并认为其是良好的投资标的。他承认新云需要更多营运资金以满足高涨的计算机和AI需求，但强调“只要需求高，其他问题都会解决”，对新云找到解决方案“相当有信心”。",
-      "summary_en": "Nvidia CEO Jensen Huang says demand for neoclouds' compute is \"incredible\" and views them as a good investment. He acknowledges neoclouds need more working capital to meet high demand for computers and AI, but stresses that \"everything else will get solved when demand is high\" and is \"quite confident\" they will find solutions.",
-      "detail_zh": "英伟达首席执行官黄仁勋在接受彭博社Tom Mackenzie采访时讨论了新云（neoclouds）并解释了为何它们是一项良好的投资。黄仁勋表示：“它们的算力需求是惊人的。”他还提到，由于对计算机和AI的需求很高，新云需要获得更多营运资金。黄仁勋称：“只要需求高，其他一切都会得到解决”，并补充说他“相当有信心”新云会找到解决方案。",
-      "detail_en": "Nvidia CEO Jensen Huang discussed neoclouds and why they are a good investment in an interview with Bloomberg's Tom Mackenzie. Huang said, \"The demand of their compute is incredible.\" He also addressed the need for neoclouds to acquire more working capital as demand for computers and AI is high. \"Everything else will get solved when demand is high,\" Huang said, adding he is \"quite confident\" neoclouds will find solutions.",
-      "conclusion_zh": "黄仁勋的评论凸显了AI算力需求的强劲，并表达了对新云商业模式和融资能力的信心，这对AI基础设施相关投资具有参考意义。",
-      "conclusion_en": "Huang's comments highlight strong AI compute demand and express confidence in neoclouds' business model and financing ability, which is relevant for AI infrastructure-related investments.",
-      "key_points": [
-        {
-          "zh": "黄仁勋称新云的算力需求“惊人”。",
-          "en": "Huang says demand for neoclouds' compute is \"incredible.\""
-        },
-        {
-          "zh": "黄仁勋认为新云是良好的投资标的。",
-          "en": "Huang views neoclouds as a good investment."
-        },
-        {
-          "zh": "新云需要更多营运资金以满足高涨的计算机和AI需求。",
-          "en": "Neoclouds need more working capital to meet high demand for computers and AI."
-        },
-        {
-          "zh": "黄仁勋强调“只要需求高，其他问题都会解决”，并对此“相当有信心”。",
-          "en": "Huang stresses \"everything else will get solved when demand is high\" and is \"quite confident.\""
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "neoclouds",
-        "AI",
-        "compute demand"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:R5WcYifGaT8",
-      "title": "Bruising Day for Stocks as Havens Rally: Market Analysis",
-      "title_zh": "彭博《开盘交易》节目预告，无实质市场内容",
-      "url": "https://www.youtube.com/watch?v=R5WcYifGaT8",
-      "published_at": "2026-10-22T09:11:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介与社交媒体链接，未包含任何具体的市场数据、观点或投资分析。因此无法提炼投资洞见。",
-      "summary_en": "The source text is merely a program description and social media links for Bloomberg's 'The Opening Trade,' with no substantive market data, views, or investment analysis. No investment insights can be extracted.",
-      "detail_zh": "原文仅说明Anna Edwards、Guy Johnson和Paul Dobson将在彭博电视节目《Bloomberg: The Opening Trade》中为分析师和投资者解读当日关键主题，随后全部为彭博电视与商业新闻的社交媒体链接及订阅指引。文中未出现任何具体数字、股票代码、人物引述、事件或因果判断，因此无法提供有实质内容的摘要。",
-      "detail_en": "The text only states that Anna Edwards, Guy Johnson, and Paul Dobson will break down key themes for analysts and investors on Bloomberg Television's 'The Opening Trade.' The remainder consists entirely of social media links and subscription prompts for Bloomberg Television and Bloomberg Business. No specific figures, ticker symbols, quotations, events, or causal judgments appear, so no substantive summary is possible.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "原文为彭博电视节目简介，非研究内容。",
-          "en": "The text is a Bloomberg TV program description, not research content."
-        },
-        {
-          "zh": "未提供任何市场数据、观点或投资分析。",
-          "en": "No market data, views, or investment analysis are provided."
-        },
-        {
-          "zh": "其余内容均为社交媒体链接与订阅指引。",
-          "en": "The rest consists of social media links and subscription prompts."
-        }
-      ],
-      "tags": [
-        "bloomberg-tv",
-        "program-description",
-        "no-substance"
       ],
       "tickers": [],
       "sentiment": "neutral"
