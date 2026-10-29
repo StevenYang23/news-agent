@@ -1,6 +1,441 @@
 {
-  "generated_at": "2026-10-29T21:15:36.081172+00:00",
+  "generated_at": "2026-10-29T22:16:28.870773+00:00",
   "insights": [
+    {
+      "guid": "4952181",
+      "title": "Wall Street Breakfast Podcast: SCOTUS Weighs Oil Liability",
+      "title_zh": "最高法院审理气候诉讼，Mattel 面临维权压力，麦当劳遭 AI 定价反垄断诉讼",
+      "url": "https://seekingalpha.com/article/4952181-wall-street-breakfast-podcast-scotus-weighs-oil-liability?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-29T22:03:07+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "tech",
+        "other"
+      ],
+      "summary_zh": "美国最高法院就 Boulder County 对埃克森美孚和 Suncor 的气候诉讼进行口头辩论，大法官意见分歧，可能影响全国性气候诉讼。Mattel 在 Ariel Investments 和 Southeastern Asset Management 的压力下考虑战略替代方案，包括出售。麦当劳面临全国性集体诉讼，被指控利用 AI 定价系统协调菜单价格，违反反垄断法。",
+      "summary_en": "The Supreme Court heard oral arguments in Boulder County's climate suit against Exxon and Suncor, with justices divided on whether the case can proceed. Mattel faces pressure from Ariel Investments and Southeastern Asset Management to explore strategic alternatives, including a sale. McDonald's faces a nationwide class-action lawsuit alleging it used an AI-powered pricing system to coordinate menu prices, violating antitrust law.",
+      "detail_zh": "最高法院周一就 Boulder County 对埃克森美孚（XOM）和 Suncor Energy（SU）的气候诉讼进行口头辩论，大法官们意见分歧。该诉讼指控两家公司通过广告和营销欺骗消费者，隐瞒油气业务对气候变化的危害。科罗拉多州最高法院允许诉讼在州法院继续，但石油公司以《清洁空气法》优先为由请求最高法院推翻。Suncor 律师称，若诉讼获准，全国约 9 万个市镇将能通过陪审团对特定化石燃料生产商施加灾难性赔偿，从而制定国家和国际能源政策。据 WSJ 报道，辩论结束时仅 Kavanaugh 大法官明确支持公司方，认为空气和水污染专属联邦管辖。Alito 大法官因持有能源公司股票而回避，可能使法院以 4-4 僵局维持下级法院裁决，即诉讼可继续推进但不会形成全国性先例。预计裁决将在未来几个月内作出。Mattel（MAT）面临来自 Ariel Investments（持股 5.4%）的压力，要求其探索出售、资产剥离或合并等战略替代方案。此前 Southeastern Asset Management 已在 5 月施压，Authentic Brands Group 上周提出以每股超过 20 美元（约 60 亿美元）收购。麦当劳（MCD）在芝加哥联邦法院面临拟议的全国性集体诉讼，被指控利用 AI 定价系统与独立加盟商合谋固定价格，违反美国反垄断法。诉讼称该系统使用机器学习算法分析近 1.4 万家餐厅的每日数百万笔交易数据。麦当劳回应称指控“投机且无知”，强调 AI 不设定巨无霸或任何菜单项的价格，加盟商自行决定定价，且定价推荐工具和分析在行业内广泛使用。个股方面，Option Care Health（OPCH）大涨 22%，此前有报道称 McKesson（MCK）和 Clayton, Dubilier & Rice 接近以超过 50 亿美元（含债务）的估值收购该公司。",
+      "detail_en": "The Supreme Court on Monday heard oral arguments in Boulder County's climate lawsuit against Exxon Mobil (XOM) and Suncor Energy (SU), with justices appearing divided. The suit claims the companies deceived consumers about the dangers of their oil and gas operations and their effects on climate change through advertising and marketing. The Colorado Supreme Court allowed the suit to proceed in state court, but the oil companies asked the justices to overturn the ruling, arguing Boulder's claims are preempted by the Clean Air Act. Suncor's attorney told the court that if Boulder's claims are allowed to go forward, some 90,000 municipalities across the country will have the ability to make national and international energy policy by asking juries to impose catastrophic damages on selected fossil fuel producers. According to the WSJ, by the end of the day's arguments, only Justice Kavanaugh appeared squarely in the companies' camp, saying prior Supreme Court cases have made clear that air and water pollution are exclusively federal, not state, issues. Justice Alito, who owns stock in several energy companies, has recused himself, raising the possibility that the court could deadlock 4-4, which would leave in place the lower court decision that Boulder's lawsuit should proceed toward trial but without setting a nationwide precedent affecting other cases. A decision is expected in the coming months. Mattel (MAT) is facing pressure from Ariel Investments, which owns a 5.4% stake, to explore strategic alternatives including a sale, asset divestitures, or a merger. This follows similar pressure from Southeastern Asset Management in May and a takeover interest from Authentic Brands Group at more than $20 a share, or $6B. McDonald's (MCD) faces a proposed nationwide class-action lawsuit in federal court in Chicago, alleging it illegally coordinates menu prices across its franchised and company-owned restaurants using an AI-powered pricing system. The lawsuit claims the company violated US antitrust law by conspiring with independent franchisees to fix prices using algorithms trained on nonpublic data. Reuters reported that McDonald's pricing engine uses machine-learning algorithms to continually analyze data from millions of daily transactions across its nearly 14,000 restaurants. McDonald's called the allegations speculative and uninformed, saying AI does not set the price of a Big Mac or any other menu item, and that franchisees make their own pricing decisions. Option Care Health (OPCH) surged 22% on a report that McKesson (MCK) and Clayton, Dubilier & Rice are nearing a deal to acquire the company at a valuation exceeding $5 billion, including debt.",
+      "conclusion_zh": "最高法院气候诉讼的裁决可能影响能源公司的法律风险，但 4-4 僵局的可能性降低了全国性先例的风险；Mattel 的维权压力增加了出售可能性；麦当劳的 AI 定价诉讼凸显算法定价的反垄断风险。",
+      "conclusion_en": "The Supreme Court's climate suit ruling could affect energy companies' legal risks, but a possible 4-4 deadlock reduces the chance of a nationwide precedent; activist pressure on Mattel raises sale prospects; McDonald's AI pricing lawsuit highlights antitrust risks of algorithmic pricing.",
+      "key_points": [
+        {
+          "zh": "最高法院就 Boulder County 气候诉讼进行辩论，大法官意见分歧，仅 Kavanaugh 明确支持公司方，Alito 回避可能导致 4-4 僵局。",
+          "en": "Supreme Court debated Boulder County's climate suit; justices divided, with only Kavanaugh squarely backing the companies; Alito's recusal could lead to a 4-4 deadlock."
+        },
+        {
+          "zh": "Mattel 面临 Ariel Investments 和 Southeastern Asset Management 的压力，要求探索出售等战略替代方案，此前 Authentic Brands 提出每股超 20 美元的收购要约。",
+          "en": "Mattel faces pressure from Ariel Investments and Southeastern Asset Management to explore strategic alternatives including a sale, after Authentic Brands offered more than $20 per share."
+        },
+        {
+          "zh": "麦当劳遭全国性集体诉讼，被指控利用 AI 定价系统与加盟商合谋固定价格，违反反垄断法；公司否认指控，称 AI 不设定价格。",
+          "en": "McDonald's faces a nationwide class-action lawsuit alleging it used an AI pricing system to conspire with franchisees to fix prices, violating antitrust law; the company denies the allegations, saying AI does not set prices."
+        },
+        {
+          "zh": "Option Care Health 大涨 22%，因有报道称 McKesson 和 Clayton, Dubilier & Rice 接近以超 50 亿美元（含债务）收购该公司。",
+          "en": "Option Care Health surged 22% on a report that McKesson and Clayton, Dubilier & Rice are nearing a deal to acquire it for over $5 billion including debt."
+        }
+      ],
+      "tags": [
+        "Supreme Court",
+        "climate litigation",
+        "activist pressure",
+        "AI pricing",
+        "antitrust"
+      ],
+      "tickers": [
+        "XOM",
+        "SU",
+        "MAT",
+        "MCD",
+        "OPCH",
+        "MCK"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:EDWwcvZBFRQ",
+      "title": "Tech Stocks Slide as Markets Rotate Into Small Caps",
+      "title_zh": "Bloomberg The Close 节目预告：亚马逊与英特尔财报、AI交易与科技轮动",
+      "url": "https://www.youtube.com/watch?v=EDWwcvZBFRQ",
+      "published_at": "2026-10-29T22:01:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期 Bloomberg The Close 节目将讨论 GDP、债券与 AI 驱动经济，并聚焦亚马逊与英特尔盘后财报、AI 支出与芯片需求、科技板块轮动，以及 DoorDash-Instacart 交易、星巴克转型等议题。",
+      "summary_en": "This episode of Bloomberg The Close will discuss GDP, bonds and the AI-driven economy, focusing on Amazon and Intel earnings after the bell, AI spending and chip demand, tech rotation, as well as the DoorDash-Instacart deal and Starbucks turnaround.",
+      "detail_zh": "节目由多位嘉宾参与，包括 Rockefeller Global Family Office CIO Jimmy Chang、Tradeweb CEO Billy Hult、Wedbush 分析师 Ygal Arounian、Raymond James CEO Paul Shoukry、GE HealthCare CEO Peter Arduini、Deutsche Bank 策略师 Binky Chadha、Jefferies 分析师 Brent Thill、Seaport Research 分析师 Jay Goldberg、T. Rowe Price 基金经理 Tony Wang、Placer.ai 的 RJ Hottovy、1789 Capital 的 Paul Abrahimzadeh 以及 New Balance CEO Joe Preston。章节涵盖 GDP、债券与 AI 驱动经济，市场波动、固定收益与 AI 交易，AI 投资、信贷市场与电子交易，DoorDash-Instacart 交易与杂货配送竞争，Raymond James 财报与财富管理，GE HealthCare 财报、AI 与医学影像，Deutsche Bank 对科技轮动与 AI 交易的看法，中期选举与市场 positioning，亚马逊与英特尔盘后财报，亚马逊 AWS、AI 支出与零售增长，英特尔财报、弱指引与供应限制，AI 支出与芯片需求，星巴克财报与 Brian Niccol 的转型，AI 融资、SpaceX 与私募市场估值，Anthropic IPO、中期选举与 AI 监管，以及 New Balance CEO 谈纽约马拉松与消费者。",
+      "detail_en": "The program features guests including Rockefeller Global Family Office CIO Jimmy Chang, Tradeweb CEO Billy Hult, Wedbush analyst Ygal Arounian, Raymond James CEO Paul Shoukry, GE HealthCare CEO Peter Arduini, Deutsche Bank strategist Binky Chadha, Jefferies analyst Brent Thill, Seaport Research analyst Jay Goldberg, T. Rowe Price portfolio manager Tony Wang, Placer.ai's RJ Hottovy, 1789 Capital's Paul Abrahimzadeh, and New Balance CEO Joe Preston. Chapters cover GDP, bonds and the AI-driven economy; market volatility, fixed income and AI trading; AI investment, credit markets and electronic trading; the DoorDash-Instacart deal and grocery delivery battle; Raymond James earnings and wealth management; GE HealthCare earnings, AI and medical imaging; Deutsche Bank on tech rotation and the AI trade; midterms and market positioning; Amazon and Intel earnings after the bell; Amazon AWS, AI spending and retail growth; Intel earnings, weak guidance and supply constraints; AI spending and chip demand; Starbucks earnings and Brian Niccol's turnaround; AI financing, SpaceX and private market valuations; Anthropic IPO, midterms and AI regulation; and New Balance CEO on the NYC Marathon and the consumer.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目将聚焦亚马逊与英特尔盘后财报，涉及 AWS、AI 支出、零售增长以及英特尔的弱指引与供应限制。",
+          "en": "The program will focus on Amazon and Intel earnings after the bell, covering AWS, AI spending, retail growth, and Intel's weak guidance and supply constraints."
+        },
+        {
+          "zh": "Deutsche Bank 将讨论科技轮动与 AI 交易，市场关注科技板块的 positioning。",
+          "en": "Deutsche Bank will discuss tech rotation and the AI trade, with market focus on tech sector positioning."
+        },
+        {
+          "zh": "DoorDash-Instacart 交易与杂货配送竞争、星巴克转型以及 AI 融资与私募市场估值等议题也在讨论之列。",
+          "en": "Topics also include the DoorDash-Instacart deal and grocery delivery competition, the Starbucks turnaround, and AI financing and private market valuations."
+        }
+      ],
+      "tags": [
+        "Amazon",
+        "Intel",
+        "AI",
+        "tech-rotation",
+        "earnings"
+      ],
+      "tickers": [
+        "AMZN",
+        "INTC"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4945957",
+      "title": "Wall Street Breakfast Podcast: Oil's New Chokepoint",
+      "title_zh": "沙特东西管道遭袭关闭，油价突破100美元；诺和诺德更名；特朗普强调AI速度优先",
+      "url": "https://seekingalpha.com/article/4945957-wall-street-breakfast-podcast-oils-new-chokepoint?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-29T21:58:48+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "无人机袭击迫使沙特关闭东西管道，可能影响全球4%的供应，油价升至100美元以上。诺和诺德更名为Novo，并将在9月21日公布新战略。特朗普强调AI发展速度优先于监管，以保持美国领先。",
+      "summary_en": "Drone attacks forced Saudi Arabia to shut its East-West pipeline, potentially removing up to 4% of global supply and pushing oil above $100. Novo Nordisk is rebranding to Novo and will unveil a new strategy on September 21. Trump emphasizes speed over caution in AI to maintain U.S. leadership.",
+      "detail_zh": "无人机袭击迫使沙特关闭东西管道，该管道每日可向红海延布港输送约400万桶原油，是绕过霍尔木兹海峡的关键出口路线。行业消息人士对维修时间估计不一，一称需五至六周，另一称可能更快恢复有限运营，沙特官员未披露损坏程度或时间表。沙特8月产量已降至620万桶/日，远低于2月的1090万桶/日；若管道不能重启，可用于出口的库存可能在数日内耗尽，可能使全球供应减少多达4%。超大型油轮运价上周飙升至历史新高。诺和诺德将名称缩短为Novo，更新标识，并将于9月21日在伦敦资本市场日公布详细战略。特朗普表示美国在AI领域领先中国，希望保持领先，认为放缓发展可能危及美国优势，并称可以设置护栏但批评负面力量。两党议员讨论护栏，但在政府监管与行业合作主导上存在分歧。",
+      "detail_en": "Drone attacks forced Saudi Arabia to shut its East-West pipeline, which can carry about 4 million barrels per day to the Red Sea port of Yanbu, a key route for Saudi exports bypassing the Strait of Hormuz. Industry sources cited conflicting repair estimates: one said five to six weeks, another suggested limited operations might resume sooner; Saudi officials have not disclosed damage extent or a timetable. Saudi production fell to 6.2 million barrels per day in August from 10.9 million in February. Unless the pipeline restarts, exportable inventories could be exhausted within days, potentially removing up to 4% of global supply. Supertanker shipping costs surged to record highs last week. Novo Nordisk is shortening its name to Novo, updating its logo, and will provide a detailed strategy overview at its Capital Markets Day on September 21 in London. Trump said the U.S. leads China in AI and wants to keep it that way, arguing slowing development could jeopardize that lead; he said guardrails can be put in place but criticized negative forces. Lawmakers from both parties are discussing guardrails but remain divided over government regulation versus industry cooperation.",
+      "conclusion_zh": "油价因供应中断风险突破100美元，短期关注管道修复进展；AI监管辩论持续，但特朗普立场倾向于加速发展。",
+      "conclusion_en": "Oil above $100 on supply disruption risk; watch pipeline repair progress. AI regulation debate continues, but Trump favors accelerating development.",
+      "key_points": [
+        {
+          "zh": "无人机袭击导致沙特关闭东西管道，该管道每日可输送约400万桶原油至红海，可能影响全球4%的供应。",
+          "en": "Drone attacks forced Saudi Arabia to shut the East-West pipeline, which can carry about 4 million barrels per day to the Red Sea, potentially affecting 4% of global supply."
+        },
+        {
+          "zh": "维修时间不确定，行业消息人士估计五至六周或更早恢复有限运营，沙特官方未提供时间表。",
+          "en": "Repair timelines are uncertain; industry sources estimate five to six weeks or earlier limited resumption, with no official timetable from Saudi officials."
+        },
+        {
+          "zh": "沙特8月产量降至620万桶/日，若管道不能重启，出口库存可能数日内耗尽。",
+          "en": "Saudi production fell to 6.2 million barrels per day in August; without pipeline restart, exportable inventories could be exhausted within days."
+        },
+        {
+          "zh": "诺和诺德将名称缩短为Novo，更新标识，并将在9月21日伦敦资本市场日公布新战略。",
+          "en": "Novo Nordisk is shortening its name to Novo, updating its logo, and will unveil a new strategy at its Capital Markets Day on September 21 in London."
+        },
+        {
+          "zh": "特朗普强调AI发展速度优先于监管，以保持美国对中国的领先，两党议员在监管主导权上存在分歧。",
+          "en": "Trump emphasizes speed over regulation in AI to maintain U.S. lead over China; lawmakers remain divided on regulatory leadership."
+        }
+      ],
+      "tags": [
+        "oil",
+        "saudi-pipeline",
+        "novo-nordisk",
+        "ai-regulation",
+        "trump"
+      ],
+      "tickers": [
+        "NVO",
+        "LLY",
+        "KHC",
+        "PAYO",
+        "RUM"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4947656",
+      "title": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
+      "title_zh": "Generac获亚马逊24亿美元订单，AI电力需求获验证",
+      "url": "https://seekingalpha.com/article/4947656-wall-street-breakfast-with-steven-cress-generac-amazon-powell-kroger?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-29T21:50:23+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "Generac与亚马逊达成24亿美元长期发电机供应协议，股价盘前大涨32%，被视为AI/数据中心电力需求的有力验证。分析师Steven Cress认为，此前AI相关工业股经历估值压缩，此类订单或标志板块触底，Powell等同类标的亦值得关注。",
+      "summary_en": "Generac surged 32% pre-market after securing a $2.4B long-term generator supply deal with Amazon, seen as strong validation of AI/data-center power demand. Analyst Steven Cress suggests AI-linked industrials have already seen valuation compression and may be bottoming, with peers like Powell also worth watching.",
+      "detail_zh": "Generac（GNRC）宣布与亚马逊（AMZN）达成长期供应协议，包括2027至2028年向亚马逊数据中心交付24亿美元的初始发电机订单，股价盘前上涨32%。Steven Cress指出，Generac自6月高点274美元跌至175美元，经历了显著的估值压缩，而该订单表明相关企业需求依然健康。他此前对Generac给予量化“持有”评级，分析师修正评级为B+，并预计该评级将很快变化；公司同比增长数据不佳是此前评级偏低的原因之一，但部分前瞻指标已改善。Cress还提到Powell（POWL）处境类似，自6月307美元跌至177美元，量化评级为“持有”，但前瞻营收增长13.5%、EPS增长18.5%（对比行业11.89%），且拥有史上最大积压订单之一。Celestica（CLS）从6月458美元跌至339美元，当日上涨近5%。Cress认为，这些AI相关股票在道指下跌1%时仍上涨，表明估值压缩已基本被消化，在美联储加息25个基点并暗示可能再加息一次的背景下，此类好消息推动股价大涨。",
+      "detail_en": "Generac (GNRC) announced a long-term supply agreement with Amazon (AMZN) covering $2.4B in initial generator deliveries for Amazon data centers in 2027-2028, sending shares up 32% pre-market. Steven Cress noted Generac fell from $274 in June to $175, reflecting significant valuation compression, and the order confirms demand remains healthy. He had a quant Hold on Generac with an analyst revisions grade of B+, which he expects to change soon; weak year-over-year growth was one reason for the lower grade, but some forward metrics are already improving. Cress also highlighted Powell (POWL) in a similar situation, down from $307 in June to $177, with a quant Hold but forward revenue growth of 13.5% and EPS growth of 18.5% versus the sector's 11.89%, plus one of its largest-ever backlogs. Celestica (CLS) fell from $458 in June to $339 and was up nearly 5% that morning. Cress views these AI-linked stocks rising while the Dow fell 1% as a sign that valuation compression is largely baked in, with good news driving sharp moves despite the Fed's 25bp hike and projection of another possible hike.",
+      "conclusion_zh": "Generac获亚马逊大单验证了AI数据中心电力需求的持续性，此前经历估值压缩的AI相关工业股或已进入触底阶段，值得关注后续订单与盈利兑现。",
+      "conclusion_en": "Generac's Amazon deal validates persistent AI data-center power demand; AI-linked industrials that have seen valuation compression may be bottoming, warranting attention to order flow and earnings delivery.",
+      "key_points": [
+        {
+          "zh": "Generac与亚马逊达成24亿美元长期发电机供应协议，覆盖2027-2028年数据中心交付，股价盘前大涨32%。",
+          "en": "Generac secured a $2.4B long-term generator supply deal with Amazon for 2027-2028 data-center deliveries, sending shares up 32% pre-market."
+        },
+        {
+          "zh": "Generac自6月274美元跌至175美元，估值压缩显著；分析师修正评级B+，部分前瞻指标改善。",
+          "en": "Generac fell from $274 in June to $175, reflecting significant valuation compression; analyst revisions grade is B+ with some forward metrics improving."
+        },
+        {
+          "zh": "Powell（POWL）处境类似，自6月307美元跌至177美元，但前瞻营收增长13.5%、EPS增长18.5%，拥有史上最大积压订单之一。",
+          "en": "Powell (POWL) is in a similar situation, down from $307 in June to $177, but with 13.5% forward revenue growth, 18.5% EPS growth, and one of its largest-ever backlogs."
+        },
+        {
+          "zh": "Celestica（CLS）从6月458美元跌至339美元，当日上涨近5%，AI相关股票在道指下跌1%时仍上涨。",
+          "en": "Celestica (CLS) fell from $458 in June to $339 and was up nearly 5% that day, with AI-linked stocks rising while the Dow fell 1%."
+        },
+        {
+          "zh": "Cress认为AI相关工业股的估值压缩已基本被消化，在美联储加息25个基点并暗示可能再加息的背景下，好消息推动股价大涨。",
+          "en": "Cress believes valuation compression in AI-linked industrials is largely baked in, with good news driving sharp gains despite the Fed's 25bp hike and hint of another."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "data centers",
+        "industrial",
+        "Amazon",
+        "valuation compression"
+      ],
+      "tickers": [
+        "GNRC",
+        "AMZN",
+        "POWL",
+        "CLS"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:hQ-ojd_FrV4",
+      "title": "Schwab CEO: Sports gambling is not investing",
+      "title_zh": "嘉信理财CEO：体育博彩与投资有本质区别，不应视为资产类别",
+      "url": "https://www.youtube.com/watch?v=hQ-ojd_FrV4",
+      "published_at": "2026-10-29T21:41:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "嘉信理财CEO Rick Wurster 表示，体育博彩与投资“有本质区别”，并警告年轻投资者不要将体育视为一种资产类别。",
+      "summary_en": "Charles Schwab CEO Rick Wurster says sports gambling is \"fundamentally different\" from investing, warning young investors not to view sports as an asset class.",
+      "detail_zh": "嘉信理财（Charles Schwab）首席执行官 Rick Wurster 指出，体育博彩与投资之间存在“本质区别”。他特别向年轻投资者发出警告，提醒他们不应将体育本身视为一种资产类别。该表态将博彩与常规投资明确区分，但原文未提供更多关于其论证逻辑、背景或具体建议的细节。",
+      "detail_en": "Charles Schwab CEO Rick Wurster stated that sports gambling is \"fundamentally different\" from investing. He specifically warned young investors not to view sports as an asset class. The remarks draw a clear distinction between gambling and conventional investing, though the source provides no further detail on his reasoning, context, or specific recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "嘉信理财CEO Rick Wurster 称体育博彩与投资“有本质区别”。",
+          "en": "Charles Schwab CEO Rick Wurster says sports gambling is \"fundamentally different\" from investing."
+        },
+        {
+          "zh": "Wurster 警告年轻投资者不要将体育视为一种资产类别。",
+          "en": "Wurster warns young investors not to view sports as an asset class."
+        }
+      ],
+      "tags": [
+        "sports gambling",
+        "investing",
+        "young investors",
+        "Charles Schwab"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4956281",
+      "title": "Wall Street Breakfast Podcast: PHP Flaws Set Off Cyber Alarm",
+      "title_zh": "AI发现PHP高危漏洞；Meta业绩超预期但面临250亿美元罚款；阿里因监管压力下跌",
+      "url": "https://seekingalpha.com/article/4956281-wall-street-breakfast-podcast-php-flaws-set-off-cyber-alarm?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-29T21:30:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "politics",
+        "other"
+      ],
+      "summary_zh": "AI模型协助发现PHP编程语言存在多年的高危漏洞“PHP2Shell”，可远程执行恶意代码，Cloudflare等公司已部署防护。Meta季度营收增长26%至646亿美元、每股收益3.83美元均超预期，但新墨西哥州陪审团裁定其违反消费者保护法近4390万次，面临250亿美元民事罚款，公司计划上诉。阿里巴巴因中国市场监管总局指出电商质量与安全风险，港股拖累恒指下跌，美股ADR亦走低。",
+      "summary_en": "AI models helped uncover critical, years-old PHP vulnerabilities dubbed 'PHP2Shell' that could allow remote code execution, prompting urgent global warnings and protective measures from firms like Cloudflare. Meta beat earnings expectations with 26% revenue growth to $64.6B and EPS of $3.83, but a New Mexico jury found it liable for nearly 43.9M consumer protection violations, carrying a $25B civil penalty; Meta plans to appeal. Alibaba shares fell as China's SAMR flagged quality and safety risks in e-commerce, dragging the Hang Seng Index down as much as 3.2%.",
+      "detail_zh": "PHP编程语言中被AI发现的两个高危漏洞统称“PHP2Shell”，已潜伏多年，可让黑客远程在受影响服务器上执行恶意代码，可能泄露敏感数据；PHP开发者周三发布紧急修复，建议所有用户立即更新。OpenAI表示其AI模型协助发现了这些漏洞，并称这是近期最严重的安全问题之一，过去两个月一直在协调修复。Cloudflare称在公开披露前约九小时部署了防护，启用Web应用防火墙的客户（含免费计划用户）可用。Meta方面，新墨西哥州陪审团认定其就Facebook数据隐私和平台安全误导用户，构成近4390万次违反州消费者保护法，判罚250亿美元民事罚款，案件还涉及剑桥分析丑闻（多达8700万用户数据被第三方应用获取），Meta计划上诉。Meta同期公布财报：未调整利润 nearly tripled 至每股3.83美元，营收增长26%至646亿美元，均超预期（3.56美元、633.2亿美元）。阿里巴巴是周四恒指最多下跌3.2%的最大拖累，此前中国市场监管总局称“近期”在北京就提升阿里、京东等平台产品和服务质量召开专题座谈会，指出尽管电商经营者已按去年指引采取措施，但直播电商和即时零售等业态仍存在质量安全风险；BABA美股周三跌3.9%，盘前再跌4.5%。",
+      "detail_en": "Two critical PHP vulnerabilities collectively known as 'PHP2Shell' went undetected for years and could allow hackers to remotely execute malicious code on affected servers, potentially exposing sensitive data; PHP developers released urgent fixes on Wednesday and encouraged all users to update immediately. OpenAI said researchers working with its AI models helped uncover the flaws, described as among the most significant security issues in recent memory, and that it had spent two months coordinating fixes. Cloudflare said it deployed protections about nine hours before public disclosure, available to customers with its web application firewall enabled, including free-plan users. A New Mexico jury found Meta liable for nearly 43.9M violations of state consumer protection law for misleading users about Facebook's data privacy and platform safety, ordering $25B in civil penalties; the case also addressed third-party data access including Cambridge Analytica, where data from as many as 87M users was obtained. Meta plans to appeal. Meta also reported unadjusted profit nearly tripling to $3.83 per share on 26% revenue growth to $64.6B, beating expectations of $3.56 and $63.32B. Alibaba was the biggest contributor to the Hang Seng Index's decline of as much as 3.2% on Thursday after China's SAMR said it 'recently' held a symposium on improving product and service quality for Alibaba, JD and peers, noting remaining quality and safety risks especially in livestreaming e-commerce and quick retail; BABA fell 3.9% in the U.S. Wednesday and 4.5% premarket.",
+      "conclusion_zh": "Meta业绩强劲但250亿美元罚款及上诉带来法律不确定性；阿里面临中国电商监管压力；PHP漏洞事件凸显网络安全需求，Cloudflare等防护服务商受关注。",
+      "conclusion_en": "Meta's strong results are overshadowed by a $25B penalty and appeal uncertainty; Alibaba faces renewed China e-commerce regulatory pressure; the PHP vulnerability highlights cybersecurity demand, drawing attention to protectors like Cloudflare.",
+      "key_points": [
+        {
+          "zh": "AI协助发现PHP高危漏洞“PHP2Shell”，可远程执行恶意代码，PHP已发布紧急修复，Cloudflare提前约九小时部署防护。",
+          "en": "AI helped uncover critical PHP vulnerabilities 'PHP2Shell' enabling remote code execution; PHP released urgent fixes and Cloudflare deployed protections about nine hours before disclosure."
+        },
+        {
+          "zh": "Meta季度营收增长26%至646亿美元、每股收益3.83美元，均超预期。",
+          "en": "Meta's quarterly revenue rose 26% to $64.6B and EPS came in at $3.83, both beating expectations."
+        },
+        {
+          "zh": "新墨西哥州陪审团裁定Meta违反消费者保护法近4390万次，判罚250亿美元民事罚款，Meta计划上诉。",
+          "en": "A New Mexico jury found Meta liable for nearly 43.9M consumer protection violations, imposing a $25B civil penalty; Meta plans to appeal."
+        },
+        {
+          "zh": "中国市场监管总局指出阿里、京东等电商平台仍存在质量安全风险，阿里拖累恒指最多跌3.2%，美股ADR走低。",
+          "en": "China's SAMR flagged remaining quality and safety risks at Alibaba, JD and peers; Alibaba dragged the Hang Seng down as much as 3.2% and its U.S. ADR fell."
+        }
+      ],
+      "tags": [
+        "PHP vulnerability",
+        "Meta earnings",
+        "New Mexico penalty",
+        "Alibaba regulation",
+        "Cloudflare"
+      ],
+      "tickers": [
+        "NET",
+        "META",
+        "BABA",
+        "IBM"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:dutGf3Js3s0",
+      "title": "California Leads $84B Slate of Midterm Muni Bond Measures",
+      "title_zh": "美国州和地方政府下周寻求选民批准至少840亿美元债券发行",
+      "url": "https://www.youtube.com/watch?v=dutGf3Js3s0",
+      "published_at": "2026-10-29T21:28:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国州和地方政府下周将要求选民批准至少840亿美元的债券发行，规模超过近期选举水平，旨在为基础设施项目和住房可负担性措施融资。",
+      "summary_en": "U.S. state and local governments are asking voters next week to approve at least $84 billion of bond sales, exceeding levels in recent elections, to finance infrastructure projects and housing affordability measures.",
+      "detail_zh": "据彭博社的Aashna Shah在“Bloomberg Real Yield”节目中向Scarlet Fu透露，美国各地的州和地方政府下周将请求选民批准至少840亿美元的债券发行。这一规模超过了近期选举中的水平。推动这一债券发行潮的目的是为基础设施项目以及住房可负担性措施提供资金。",
+      "detail_en": "According to Bloomberg's Aashna Shah, speaking to Scarlet Fu on \"Bloomberg Real Yield,\" state and local governments across the U.S. are asking voters next week to approve at least $84 billion of bond sales. This exceeds levels seen in recent elections. The push aims to finance infrastructure projects as well as housing affordability measures.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国州和地方政府下周寻求选民批准至少840亿美元债券发行。",
+          "en": "U.S. state and local governments seek voter approval for at least $84 billion of bond sales next week."
+        },
+        {
+          "zh": "该规模超过近期选举中的债券发行水平。",
+          "en": "The amount exceeds levels in recent elections."
+        },
+        {
+          "zh": "资金将用于基础设施项目和住房可负担性措施。",
+          "en": "Proceeds will fund infrastructure projects and housing affordability measures."
+        }
+      ],
+      "tags": [
+        "municipal bonds",
+        "infrastructure",
+        "housing affordability",
+        "bond issuance"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fAt2m7SDxX8",
+      "title": "The Mideast energy shock’s next phase",
+      "title_zh": "中东能源冲击转向下游瓶颈，炼油与航运股跑赢，美债短端更具吸引力",
+      "url": "https://www.youtube.com/watch?v=fAt2m7SDxX8",
+      "published_at": "2026-10-29T21:19:42+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "中东能源冲击对全球经济的初始影响被战略储备和改道运输缓冲，但缓冲正在减弱，压力从原油供应转向炼油与航运瓶颈，推动燃料交付成本上升，炼油与油轮股大幅跑赢大型油气生产商。机构认为部分瓶颈可能在冲突结束后持续，投资聚焦炼油与能源基础设施，区域上偏好美国、谨慎欧洲，债券端偏好短久期美债。",
+      "summary_en": "The initial economic hit from the Middle East energy shock was cushioned by strategic reserves and rerouted shipments, but those buffers are weakening as pressure shifts downstream to refining and shipping bottlenecks, raising delivered fuel costs and driving refinery and tanker stocks well ahead of major oil and gas producers. The view is that some bottlenecks could persist even if the conflict ends, favoring refining and energy infrastructure, a US-over-Europe regional tilt, and shorter-term US Treasuries.",
+      "detail_zh": "全球经济对中东能源冲击的韧性好于预期，AI投资和政府支出提供支撑，但并非所有地区感受相同。早期焦点在原油供应，如今压力已下游转移至炼油和航运瓶颈，推高燃料交付成本，使炼油和油轮股大幅跑赢主要油气生产商。布伦特原油上周升至五个月高点，但油价只是不断演变的中东冲突故事的一部分。此前帮助缓冲初始增长冲击的战略储备和改道石油运输等缓冲正在减弱，供应约束向下游移动。欧洲更为脆弱，尤其是进入冬季前天然气储备处于历史低位；美国作为净能源出口国拥有更大缓冲。这一局面加速了对更具韧性能源系统的推动：进口国分散能源供应，出口国投资绕开脆弱咽喉点的新路线。机构认为这一转变可能比冲突更持久，创造投资机会，但需要大量资本，并对政府债券收益率构成上行压力。投资上聚焦炼油和能源基础设施等瓶颈可能持续之处，区域上保持选择性，欧洲更易受高能源成本冲击，美国受最坏情形影响较小。债券方面，收益率上升使美债更具吸引力，偏好短端债券以获取收益，因为加强能源安全所需的投资可能推高长端收益率。",
+      "detail_en": "The global economy has weathered the Middle East energy shock better than expected, supported by AI investment and government spending, but not everyone is feeling it equally. Early focus was on crude supply; now pressure has moved downstream to refining and shipping bottlenecks, pushing up delivered fuel costs and helping refinery and tanker stocks far outpace major oil and gas producers. Brent crude jumped to a five-month high last week, but oil prices are only part of the evolving conflict story. Buffers that softened the initial growth hit, such as strategic reserves and rerouted oil shipments, are weakening, and supply constraints are moving downstream. Europe is more vulnerable, particularly with gas reserves at historically low levels heading into winter, while the US has a much bigger cushion as a net energy exporter. This is accelerating the push for more resilient energy systems: importers are diversifying supplies, and exporters are investing in new routes around vulnerable choke points. The view is that this shift could outlast the conflict, creating investment opportunities but requiring huge amounts of capital and putting upward pressure on government bond yields. As investors, the focus is on refining and energy infrastructure where bottlenecks could persist, with regional selectivity—Europe more exposed to high energy costs, the US less exposed to the worst outcomes. In bonds, higher yields have made US Treasuries more attractive, with a preference for shorter-term bonds for income as investment needed to strengthen energy security could put upward pressure on longer-term yields.",
+      "conclusion_zh": "能源冲击的持久影响在于下游瓶颈与能源安全投资，这支持炼油和能源基础设施的选股逻辑，并在区域上偏向美国、债券端偏向短久期美债。",
+      "conclusion_en": "The lasting impact of the energy shock lies in downstream bottlenecks and energy security investment, supporting a selective focus on refining and energy infrastructure, a US-over-Europe tilt, and shorter-term US Treasuries.",
+      "key_points": [
+        {
+          "zh": "能源冲击的压力已从原油供应转向炼油和航运瓶颈，推高燃料交付成本。",
+          "en": "Pressure from the energy shock has shifted from crude supply to refining and shipping bottlenecks, raising delivered fuel costs."
+        },
+        {
+          "zh": "炼油和油轮股大幅跑赢主要油气生产商，布伦特原油上周升至五个月高点。",
+          "en": "Refinery and tanker stocks have far outpaced major oil and gas producers, with Brent crude jumping to a five-month high last week."
+        },
+        {
+          "zh": "战略储备和改道运输等缓冲正在减弱，供应约束向下游移动。",
+          "en": "Buffers such as strategic reserves and rerouted shipments are weakening, and supply constraints are moving downstream."
+        },
+        {
+          "zh": "欧洲因天然气储备处于历史低位而更脆弱，美国作为净能源出口国缓冲更大。",
+          "en": "Europe is more vulnerable with gas reserves at historically low levels, while the US has a bigger cushion as a net energy exporter."
+        },
+        {
+          "zh": "投资聚焦炼油和能源基础设施等瓶颈可能持续之处，债券端偏好短久期美债。",
+          "en": "Investing focuses on refining and energy infrastructure where bottlenecks may persist, with a preference for shorter-term US Treasuries."
+        }
+      ],
+      "tags": [
+        "energy shock",
+        "refining bottlenecks",
+        "shipping",
+        "US Treasuries",
+        "energy security"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:nuyzyeM9NTg",
+      "title": "Starbucks Foot Traffic Outpaces Others, Says Hottovy",
+      "title_zh": "星巴克美国同店销售增长7.7%，客流领先竞争对手",
+      "url": "https://www.youtube.com/watch?v=nuyzyeM9NTg",
+      "published_at": "2026-10-29T21:01:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "分析研究主管R.J. Hottovy表示，星巴克客流增速超过竞争对手，顾客对快速取餐有信心。该财季美国同店销售增长7.7%，每股收益80美分，超出预期。",
+      "summary_en": "R.J. Hottovy, head of analytical research, says Starbucks' foot traffic is outpacing competitors and customers are confident about quick service. U.S. comparable sales rose 7.7% in the fiscal quarter, with EPS of 80 cents beating estimates.",
+      "detail_zh": "R.J. Hottovy指出，星巴克的客流量增长快于竞争对手，且顾客相信能快速拿到饮品。该财季美国同店销售额同比增长7.7%。每股收益为80美分，高于市场预期。",
+      "detail_en": "R.J. Hottovy noted that Starbucks' foot traffic is growing faster than competitors, and customers are confident they can get their drinks quickly. U.S. comparable sales increased 7.7% year-over-year in the fiscal quarter. Earnings per share came in at 80 cents, beating estimates.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "星巴克客流增速超过竞争对手",
+          "en": "Starbucks' foot traffic is outpacing competitors"
+        },
+        {
+          "zh": "顾客对快速取餐有信心",
+          "en": "Customers are confident about quick service"
+        },
+        {
+          "zh": "美国同店销售增长7.7%",
+          "en": "U.S. comparable sales grew 7.7%"
+        },
+        {
+          "zh": "每股收益80美分，超出预期",
+          "en": "EPS of 80 cents beat estimates"
+        }
+      ],
+      "tags": [
+        "Starbucks",
+        "comparable sales",
+        "foot traffic",
+        "earnings"
+      ],
+      "tickers": [
+        "SBUX"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:nkJCFsLtAo0",
       "title": "Where Can Investors Look for Income Beyond Core Bonds?",
@@ -12286,63 +12721,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:IvzjnLQlM1M",
-      "title": "Tech Selloff Deepens as AI Spending Worries Investors",
-      "title_zh": "AI支出担忧引发科技股抛售，资金转向防御",
-      "url": "https://www.youtube.com/watch?v=IvzjnLQlM1M",
-      "published_at": "2026-10-22T21:55:45+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博《The Close》节目显示，市场对AI资本开支的担忧加深，科技股遭遇抛售，资金流向防御性板块，美债上涨。节目讨论了AI债务与融资成本上升、地区银行信贷风险、消费与零售动态，以及Moderna与Merck因泄露的癌症疫苗数据下跌。",
-      "summary_en": "Bloomberg's The Close highlights a deepening tech selloff driven by worries over AI spending, with capital rotating into defensives and Treasuries rallying. Discussions covered AI debt and rising capital costs, regional bank credit risks, consumer and retail dynamics, and Moderna and Merck falling on leaked cancer vaccine data.",
-      "detail_zh": "节目以“AI支出担忧加深科技股抛售”开篇，随后Deepwater Asset Management管理合伙人Gene Munster讨论Meta、特斯拉与AI交易。节目还涉及AI债务、资本成本上升与大型科技公司支出，以及美债收益率、美联储风险与避险资金流。Invesco固定收益CIO Rob Waldner参与相关讨论。TD Cowen分析师Andrew Charles就Chipotle下调评级、消费者客流与2027年展望发表看法。Huntington Bancshares CEO Stephen Steinour讨论贷款、利率与地区银行，话题延伸至商业地产、信贷与消费者风险。Moderna与Merck因泄露的癌症疫苗数据下跌。节目还讨论科技股抛售、市场宽度与防御性轮动，以及AI投资、市场波动与组合策略，并有观点认为大型科技股抛售创造买入机会。收盘环节后，讨论Meta、Deckers与AI电力股在财报后的走势，以及Western Digital财报与AI存储热潮。JPMorgan的Aaron Mulvihill讨论AI融资与私募市场、私募股权、更高利率与在AI之外分散配置。Mickey Drexler谈论Deckers、时尚与消费者，以及Ralph Lauren与零售策略。Kroger CFO讨论50亿美元投资与杂货价格。节目最后涉及中期选举、可负担性与政治中间派。",
-      "detail_en": "The program opened with 'Tech Selloff Deepens as AI Spending Worries Investors,' followed by Deepwater Asset Management Managing Partner Gene Munster on Meta, Tesla and the AI trade. It also covered AI debt, rising capital costs and Big Tech spending, as well as Treasury yields, Fed risk and the flight to safety, with Invesco CIO & Co-Head of Fixed Income Rob Waldner participating. TD Cowen Senior Research Analyst Andrew Charles discussed the Chipotle downgrade, consumer traffic and the 2027 outlook. Huntington Bancshares CEO & Chairman Stephen Steinour discussed lending, rates and regional banks, extending into commercial real estate, credit and consumer risks. Moderna and Merck sank on leaked cancer vaccine data. The program also addressed the tech selloff, market breadth and defensive rotation, AI investing, market volatility and portfolio strategy, with a view that the Big Tech selloff creates a buying opportunity. After the closing bell, it covered Meta, Deckers and AI power stocks moving after earnings, plus Western Digital earnings and the AI storage boom. JPMorgan's Aaron Mulvihill discussed AI financing and private markets, private equity, higher rates and diversifying beyond AI. Mickey Drexler talked Deckers, fashion and the consumer, and Ralph Lauren and retail strategy. Kroger's CFO discussed a $5 billion investment and grocery prices. The program closed with midterm elections, affordability and the political center.",
-      "conclusion_zh": "市场正因AI资本开支担忧而重新定价科技股，短期资金流向防御与美债；投资者需关注AI融资成本、地区银行信贷与消费韧性。",
-      "conclusion_en": "The market is repricing tech on AI capex concerns, with near-term flows into defensives and Treasuries; investors should watch AI financing costs, regional bank credit and consumer resilience.",
-      "key_points": [
-        {
-          "zh": "AI支出担忧加深，科技股遭遇抛售，资金转向防御性板块，美债上涨。",
-          "en": "AI spending worries deepened, tech stocks sold off, capital rotated to defensives, and Treasuries rallied."
-        },
-        {
-          "zh": "节目讨论AI债务与资本成本上升，以及美债收益率、美联储风险与避险资金流。",
-          "en": "The program discussed AI debt and rising capital costs, as well as Treasury yields, Fed risk and flight-to-safety flows."
-        },
-        {
-          "zh": "Moderna与Merck因泄露的癌症疫苗数据下跌。",
-          "en": "Moderna and Merck sank on leaked cancer vaccine data."
-        },
-        {
-          "zh": "有观点认为大型科技股抛售创造买入机会。",
-          "en": "A view was presented that the Big Tech selloff creates a buying opportunity."
-        },
-        {
-          "zh": "讨论涵盖地区银行信贷风险、商业地产、消费者风险，以及Kroger的50亿美元投资与杂货价格。",
-          "en": "Discussions covered regional bank credit risks, commercial real estate, consumer risks, and Kroger's $5 billion investment and grocery prices."
-        }
-      ],
-      "tags": [
-        "AI spending",
-        "tech selloff",
-        "Treasuries",
-        "regional banks",
-        "consumer"
-      ],
-      "tickers": [
-        "META",
-        "TSLA",
-        "MRNA",
-        "MRK",
-        "WDC",
-        "DECK",
-        "KR"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
