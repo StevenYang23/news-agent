@@ -1,6 +1,159 @@
 {
-  "generated_at": "2026-10-29T17:15:19.027712+00:00",
+  "generated_at": "2026-10-29T18:19:49.310320+00:00",
   "insights": [
+    {
+      "guid": "4959535",
+      "title": "Wall Street Lunch: A Deluge Of Earnings",
+      "title_zh": "科技巨头财报分化：亚马逊AWS与现金流成焦点，微软Azure强劲，谷歌搜索承压",
+      "url": "https://seekingalpha.com/article/4959535-wall-street-lunch-a-deluge-of-earnings?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-29T17:28:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "亚马逊财报关注AWS增长与现金流，零售业务因Prime Day表现强劲；微软Azure增长强劲且软件业务有韧性，现金流良好，尽管有新债券发行；谷歌搜索收入减速，AI竞争影响核心业务，现金流下降。宏观方面，核心PCE环比上涨0.3%，通胀接近三年高位，FOMC维持利率不变，但数据可能促使12月更大幅度加息。",
+      "summary_en": "Amazon earnings focus on AWS growth and cash flow, with retail strength from Prime Days; Microsoft impressed with strong Azure growth and resilient software, good cash flow despite new bond offering; Google faces search revenue deceleration and AI competition, with declining cash flow. Macro: core PCE rose 0.3% m/m, inflation near three-year high, FOMC held rates but data may prompt a larger hike in December.",
+      "detail_zh": "在近期财报季中，科技巨头表现分化。亚马逊（AMZN）即将发布财报，市场关注点始终是AWS，其零售业务现已超过沃尔玛，且Prime Day表现成功，但股价走势主要取决于AWS和现金流。微软（MSFT）Azure业务增长强劲，软件业务韧性令人印象深刻，现金流良好，并从OpenAI的收入分成中获益，尽管宣布了债券发行，但长期上升趋势有望恢复。谷歌（GOOG/GOOGL）搜索收入减速，尽管查询量处于五年高位，但AI聊天机器人竞争影响其核心搜索业务，Gemini虽成功但尚未转化为收入，现金流下降。宏观方面，美国9月核心PCE价格指数环比上涨0.3%，通胀接近三年高位，主要受伊朗战争影响，但担忧通胀正扩散至能源以外；初请失业金人数意外下降，Q3 GDP增长超预期；FOMC如预期维持利率不变，但嘉宾对未在10月加息表示意外，认为若数据继续恶化，12月可能加息50个基点而非25个。",
+      "detail_en": "In the recent earnings season, tech giants show divergence. Amazon (AMZN) reports soon, with focus always on AWS; its retail business is now bigger than Walmart's and Prime Days were successful, but the stock hinges on AWS and cash flow. Microsoft (MSFT) impressed with strong Azure growth, resilient software business, good cash flow, and revenue share from OpenAI; despite a new bond offering, the long-term uptrend is expected to resume. Google (GOOG/GOOGL) saw search revenue decelerate even though queries are at five-year highs, with AI chatbots impacting its core search; Gemini is a win but hasn't translated to revenue yet, and cash flow is dropping. Macro: core PCE rose 0.3% m/m in September, inflation near a three-year high largely due to war in Iran, with concerns it's spreading beyond energy; jobless claims unexpectedly fell, Q3 GDP grew more than estimated; FOMC held rates as expected, but the guest was surprised by no October hike and sees a potential 50bp hike in December if data worsens.",
+      "conclusion_zh": "科技巨头财报分化凸显AI与现金流的重要性，宏观通胀压力可能促使美联储在12月更激进加息，投资者需关注本周亚马逊财报及后续数据。",
+      "conclusion_en": "Tech earnings divergence highlights the importance of AI and cash flow, while macro inflation pressure may push the Fed to hike more aggressively in December; investors should watch Amazon's earnings and upcoming data.",
+      "key_points": [
+        {
+          "zh": "亚马逊财报焦点在AWS增长和现金流，零售业务因Prime Day表现强劲。",
+          "en": "Amazon earnings focus on AWS growth and cash flow, with retail strength from Prime Days."
+        },
+        {
+          "zh": "微软Azure增长强劲，软件业务有韧性，现金流良好，尽管有新债券发行。",
+          "en": "Microsoft's Azure grew sharply, software business resilient, good cash flow despite new bond offering."
+        },
+        {
+          "zh": "谷歌搜索收入减速，AI竞争影响核心业务，现金流下降。",
+          "en": "Google's search revenue decelerated, AI competition impacts core business, cash flow declining."
+        },
+        {
+          "zh": "美国9月核心PCE环比上涨0.3%，通胀接近三年高位，担忧扩散至能源以外。",
+          "en": "US core PCE rose 0.3% m/m in September, inflation near three-year high, concerns of broadening beyond energy."
+        },
+        {
+          "zh": "FOMC维持利率不变，但数据可能促使12月加息50个基点。",
+          "en": "FOMC held rates steady, but data may prompt a 50bp hike in December."
+        }
+      ],
+      "tags": [
+        "earnings",
+        "AWS",
+        "Azure",
+        "inflation",
+        "FOMC"
+      ],
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "WMT"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:tLmqw7oPRVw",
+      "title": "Kansas Senate Race: Fuel Costs, Tariffs Erode Republicans' Edge in Farm Belt",
+      "title_zh": "柴油价格飙升与关税战令堪萨斯州中期选举选情生变",
+      "url": "https://www.youtube.com/watch?v=tLmqw7oPRVw",
+      "published_at": "2026-10-29T17:15:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博报道，柴油价格飙升与特朗普关税战正使堪萨斯等中西部州在11月3日中期选举前成为选情焦点。堪萨斯自1932年以来未选出民主党参议员，但当前经济压力可能改变这一格局。",
+      "summary_en": "Bloomberg reports that surging diesel prices and President Donald Trump's tariff wars are putting Kansas and other Midwest states in play ahead of the Nov. 3 midterm election. Kansas, a Republican bastion that hasn't elected a Democratic senator since 1932, may see its political landscape shift due to these economic pressures.",
+      "detail_zh": "彭博电视台记者Tyler Kendall从堪萨斯州发回报道，指出柴油价格飙升和特朗普总统的关税战正在使堪萨斯州及其他中西部州成为11月3日中期选举的竞争焦点。堪萨斯州一直是共和党的坚固阵地，自1932年以来从未选出民主党参议员。报道未提供具体民调数据或选举预测，但暗示经济因素可能影响选情。",
+      "detail_en": "Bloomberg's Tyler Kendall reports from Kansas that surging diesel fuel prices and President Donald Trump's tariff wars are putting Kansas and other Midwest states in play for the Nov. 3 midterm election. Kansas is described as a Republican bastion that hasn't elected a Democratic senator since 1932. The report does not provide specific polling data or election forecasts but suggests economic factors could influence the race.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "柴油价格飙升和特朗普关税战正使堪萨斯等中西部州成为中期选举焦点。",
+          "en": "Surging diesel prices and Trump's tariff wars are putting Kansas and other Midwest states in play for the midterm election."
+        },
+        {
+          "zh": "堪萨斯州自1932年以来未选出民主党参议员，是共和党坚固阵地。",
+          "en": "Kansas, a Republican bastion, hasn't elected a Democratic senator since 1932."
+        },
+        {
+          "zh": "中期选举定于11月3日举行。",
+          "en": "The midterm election is scheduled for Nov. 3."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "diesel prices",
+        "tariffs",
+        "Kansas",
+        "US politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lWPhQ-d7Ml0",
+      "title": "Open Interest 10/29/2026",
+      "title_zh": "Alphabet销售不及预期重燃AI担忧，微软Azure增长逆势而上",
+      "url": "https://www.youtube.com/watch?v=lWPhQ-d7Ml0",
+      "published_at": "2026-10-29T16:49:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Alphabet销售不及预期重新引发市场对AI的担忧，而微软Azure的增长则逆势而上。AI焦虑蔓延至大型科技股之外，卡特彼勒因投资者质疑支出繁荣而受到冲击。美联储按兵不动，欧洲央行紧随其后，拉加德继任者之争升温。",
+      "summary_en": "Alphabet's sales miss reignites AI fears, while Microsoft defies the gloom with Azure growth. AI jitters spread beyond Big Tech, hitting Caterpillar as investors question the spending boom. The Fed holds fire, the ECB is next, and the race to replace Lagarde heats up.",
+      "detail_zh": "Alphabet的销售不及预期重新点燃了市场对AI的担忧，而微软则凭借Azure的增长逆势而上。AI焦虑情绪蔓延至大型科技股之外，卡特彼勒因投资者质疑AI支出繁荣而受到冲击。节目还讨论了GDP增长、数据中心支出与通胀风险，以及Marvell的并购谈判、DoorDash与Instacart的交易、礼来公司减肥药与Medicare需求增长等话题。欧洲央行维持利率不变，拉加德意外离任引发对其继任者和欧洲政治风险的关注。白宫国家经济委员会主任Kevin Hassett就通胀和美联储下一步行动发表了看法。",
+      "detail_en": "Alphabet's sales miss reignites AI fears, while Microsoft defies the gloom with Azure growth. AI jitters spread beyond Big Tech, hitting Caterpillar as investors question the spending boom. The program also covers GDP growth, data center spending and inflation risks, as well as Marvell deal talks, DoorDash-Instacart, and Eli Lilly's weight-loss drugs and Medicare demand growth. The ECB holds rates steady, and Christine Lagarde's surprise departure raises questions about her successor and European political risks. White House NEC Director Kevin Hassett discusses inflation and the Fed's next move.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Alphabet销售不及预期，重新引发市场对AI的担忧。",
+          "en": "Alphabet's sales miss reignites AI fears."
+        },
+        {
+          "zh": "微软Azure增长逆势而上，抵御市场阴霾。",
+          "en": "Microsoft defies the gloom with Azure growth."
+        },
+        {
+          "zh": "AI焦虑蔓延至大型科技股之外，卡特彼勒因投资者质疑支出繁荣而受冲击。",
+          "en": "AI jitters spread beyond Big Tech, hitting Caterpillar as investors question the spending boom."
+        },
+        {
+          "zh": "美联储按兵不动，欧洲央行维持利率不变，拉加德继任者之争升温。",
+          "en": "The Fed holds fire, the ECB holds rates steady, and the race to replace Lagarde heats up."
+        },
+        {
+          "zh": "白宫国家经济委员会主任Kevin Hassett讨论通胀和美联储下一步行动。",
+          "en": "White House NEC Director Kevin Hassett discusses inflation and the Fed's next move."
+        }
+      ],
+      "tags": [
+        "AI",
+        "earnings",
+        "Fed",
+        "ECB",
+        "Big Tech"
+      ],
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "CAT",
+        "MRVL",
+        "DASH",
+        "LLY"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:qL0nnGxriIw",
       "title": "Bonus: Dan Ivascyn on Teamwork and Leadership",
