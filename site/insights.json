@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T04:17:26.730408+00:00",
+  "generated_at": "2026-10-29T06:24:36.365661+00:00",
   "insights": [
     {
       "guid": "yt:k8uvAPODALg",
@@ -11899,100 +11899,6 @@
         "US-Russia relations",
         "prisoner release",
         "Trump administration"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:NIBwhc3-ob0",
-      "title": "Tesla Cuts Capex Guidance, Meta Hikes AI Spending Outlook, Announces New Stock Class",
-      "title_zh": "彭博亚洲交易：AI支出与财报成焦点，韩国央行维持利率不变",
-      "url": "https://www.youtube.com/watch?v=NIBwhc3-ob0",
-      "published_at": "2026-10-22T06:10:24+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目聚焦AI支出与财报，特斯拉和Meta业绩分化，贝莱德Fink警告AI建设缓慢将推高通胀。此外，沙特阿美遭无人机袭击引发石油供应担忧，韩国央行维持政策利率在3%不变。",
-      "summary_en": "This episode focuses on AI spending and earnings, with Tesla and Meta reporting mixed results. BlackRock's Fink warns that a slow AI buildout would spur inflation. Additionally, a drone strike on Aramco raises oil supply fears, and the Bank of Korea leaves its policy rate unchanged at 3%.",
-      "detail_zh": "节目讨论了特斯拉和Meta的财报，其中Meta业绩明显超预期，特斯拉表现则较为分化。贝莱德CEO Fink指出，AI建设缓慢可能会推高通胀。PGIM的Cathy Marcus分享了全球及亚太房地产展望，巴克莱的Ajay Rajadhyaksha讨论了2027年全球宏观展望。英伟达CEO黄仁勋敦促欧洲各行业采用AI，UniSuper CIO John Pearce则探讨了AI商业模式与风险。市场方面，日本和韩国股市开盘，沙特阿美遭无人机袭击引发石油供应担忧。巴克莱的Navin Saigal分享了全球固定收益展望，Merz表示欧盟不寻求与中国发生贸易冲突。此外，美团考虑发行点心债，韩国央行维持政策利率在3%不变。",
-      "detail_en": "The program discusses earnings from Tesla and Meta, with Meta posting a clear beat while Tesla's results were more mixed. BlackRock CEO Fink notes that a slow AI buildout would spur inflation. PGIM's Cathy Marcus shares global and APAC real estate outlook, and Barclays' Ajay Rajadhyaksha discusses the global macro outlook for 2027. Nvidia CEO Huang pushes Europe on all industries adopting AI, while UniSuper CIO John Pearce explores AI business models and risks. Markets open in Japan and South Korea, and a drone strike on Aramco fans oil supply fears. Barclays' Navin Saigal shares global fixed income outlook, and Merz says the EU doesn't seek trade conflict with China. Additionally, Meituan considers a dim sum bond sale, and the Bank of Korea leaves its policy rate unchanged at 3%.",
-      "conclusion_zh": "关注AI相关资本开支对通胀的潜在影响，以及地缘政治事件对石油供应的扰动。",
-      "conclusion_en": "Watch the potential inflation impact of AI-related capex and geopolitical disruptions to oil supply.",
-      "key_points": [
-        {
-          "zh": "Meta财报明显超预期，特斯拉业绩表现分化。",
-          "en": "Meta posts a clear earnings beat, while Tesla's results are more mixed."
-        },
-        {
-          "zh": "贝莱德Fink：AI建设缓慢将推高通胀。",
-          "en": "BlackRock's Fink: slow AI buildout would spur inflation."
-        },
-        {
-          "zh": "沙特阿美遭无人机袭击，引发石油供应担忧。",
-          "en": "Drone strike on Aramco fans oil supply fears."
-        },
-        {
-          "zh": "韩国央行维持政策利率在3%不变。",
-          "en": "Bank of Korea leaves policy rate unchanged at 3%."
-        },
-        {
-          "zh": "英伟达CEO黄仁勋敦促欧洲各行业采用AI。",
-          "en": "Nvidia CEO Huang pushes Europe on all industries adopting AI."
-        }
-      ],
-      "tags": [
-        "AI spending",
-        "earnings",
-        "oil supply",
-        "Bank of Korea",
-        "inflation"
-      ],
-      "tickers": [
-        "TSLA",
-        "META",
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:A36OonNwTsg",
-      "title": "US Orders Some Diplomats to Leave Saudi Arabia",
-      "title_zh": "美国务院因胡塞武装威胁下令沙特非紧急人员撤离",
-      "url": "https://www.youtube.com/watch?v=A36OonNwTsg",
-      "published_at": "2026-10-22T05:17:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国国务院因也门胡塞武装威胁加剧，下令沙特阿拉伯的非紧急人员及家属撤离。彭博的Stuart Livingstone-Wallace对此进行了解读。",
-      "summary_en": "The US State Department ordered the departure of non-emergency personnel and their families from Saudi Arabia due to the growing threat from Houthi militants in Yemen. Bloomberg's Stuart Livingstone-Wallace breaks down the situation.",
-      "detail_zh": "美国国务院发布命令，要求沙特阿拉伯的非紧急人员及其家属撤离，原因是邻国也门的胡塞武装威胁不断加剧。彭博的Stuart Livingstone-Wallace对此局势进行了分析。原文未提供更多细节，如具体威胁内容、撤离人数或时间表。",
-      "detail_en": "The US State Department issued an ordered departure for non-emergency personnel and their families from Saudi Arabia because of the growing threat from Houthi militants in neighboring Yemen. Bloomberg's Stuart Livingstone-Wallace breaks down the situation. The original text does not provide further details, such as the specific nature of the threat, the number of evacuees, or a timeline.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国国务院下令从沙特撤离非紧急人员及家属。",
-          "en": "The US State Department ordered the departure of non-emergency personnel and families from Saudi Arabia."
-        },
-        {
-          "zh": "撤离原因是也门胡塞武装威胁加剧。",
-          "en": "The departure is due to the growing threat from Houthi militants in Yemen."
-        },
-        {
-          "zh": "彭博的Stuart Livingstone-Wallace对局势进行了解读。",
-          "en": "Bloomberg's Stuart Livingstone-Wallace breaks down the situation."
-        }
-      ],
-      "tags": [
-        "Saudi Arabia",
-        "Houthi",
-        "Yemen",
-        "State Department",
-        "evacuation"
       ],
       "tickers": [],
       "sentiment": "neutral"
