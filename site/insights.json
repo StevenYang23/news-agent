@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:19:09.290686+00:00",
+  "generated_at": "2026-10-29T17:15:19.027712+00:00",
   "insights": [
     {
       "guid": "yt:qL0nnGxriIw",
@@ -46,6 +46,47 @@
         "leadership transition",
         "teamwork",
         "investment process"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bV9nMZW4-A8",
+      "title": "What's Next for Israel After Election Stalemate?",
+      "title_zh": "以色列选举僵局或致长期政治博弈",
+      "url": "https://www.youtube.com/watch?v=bV9nMZW4-A8",
+      "published_at": "2026-10-29T16:04:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "以色列选举陷入僵局，组阁谈判可能持续数周或数月，任何执政联盟的组建都可能需要艰难妥协并违背竞选承诺。",
+      "summary_en": "Israel's election deadlock could lead to weeks or months of political horse-trading, with any path to a government likely requiring difficult compromises and broken campaign promises.",
+      "detail_zh": "据彭博社Dan Williams报道，以色列选举陷入僵局，组阁前景不明。任何组建政府的路径都可能需要各方做出艰难妥协，并可能违背竞选期间做出的承诺。政治博弈可能持续数周甚至数月，反映出以色列政治版图的碎片化。这一不确定性可能影响该国政策连续性与市场情绪，但原文未提供具体市场影响分析。",
+      "detail_en": "According to Bloomberg's Dan Williams, Israel's election has resulted in a deadlock, setting the stage for weeks or months of political horse-trading. Every potential path to forming a government will likely require difficult compromises and broken campaign promises. The political uncertainty could affect policy continuity and market sentiment, though the original text does not provide specific market impact analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "以色列选举陷入僵局，组阁谈判可能持续数周或数月。",
+          "en": "Israel's election deadlock may lead to weeks or months of coalition negotiations."
+        },
+        {
+          "zh": "任何组建政府的路径都可能需要艰难妥协。",
+          "en": "Any path to forming a government will likely require difficult compromises."
+        },
+        {
+          "zh": "组阁过程可能导致竞选承诺被违背。",
+          "en": "The coalition-building process may result in broken campaign promises."
+        }
+      ],
+      "tags": [
+        "Israel",
+        "election",
+        "deadlock",
+        "coalition",
+        "politics"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -12234,148 +12275,6 @@
         "Blackstone",
         "Jack Ma",
         "Bloomberg"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Na8RYe-OSHY",
-      "title": "Is the Genius Act the Regulatory Shift You've Been Waiting For? w/ Jonathan Gould Ash Bennington",
-      "title_zh": "OCC 发布 GENIUS 法案稳定币最终规则，申请通道 1 月 18 日开启",
-      "url": "https://www.youtube.com/watch?v=Na8RYe-OSHY",
-      "published_at": "2026-10-22T16:50:52+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "other"
-      ],
-      "summary_zh": "美国货币监理署（OCC）发布实施 GENIUS 法案的最终规则，建立支付稳定币发行方的联邦监管框架，涵盖储备要求、赎回流动性、监督与申请流程。OCC 审计长 Jonathan Gould 表示，申请将于 1 月 18 日开始，该框架旨在平衡创新与监管，并服务于美国 competitiveness 与美元主导地位。",
-      "summary_en": "The OCC released its final rule implementing the GENIUS Act, establishing a federal framework for payment stablecoin issuers covering reserve requirements, redemption liquidity, supervision, and the application process. Comptroller Jonathan Gould said applications begin January 18, and the framework aims to balance innovation and regulation while supporting U.S. competitiveness and dollar dominance.",
-      "detail_zh": "在 Real Vision 的访谈中，OCC 审计长 Jonathan Gould 详细解读了 OCC 实施 GENIUS 法案的最终规则。该规则为支付稳定币发行方建立联邦监管框架，核心内容包括储备要求、赎回流动性、监督机制以及申请流程。Gould 表示，稳定币发行方的申请将于 1 月 18 日开始。双方还讨论了稳定币奖励与收益（yield vs. rewards）、跨境支付、美国竞争力以及美元主导地位等议题。Gould 解释了储备要求为何重要、流动性为何关键，以及如何在创新与监管之间取得平衡。访谈还涉及稳定币监督的具体运作方式、报告与 oversight 要求，以及美国与外国稳定币发行方之间的差异。Gould 表示，政府将数字资产视为实现美国金融体系现代化的机会。该访谈录制于 2026 年 10 月 21 日。",
-      "detail_en": "In a Real Vision interview, OCC Comptroller Jonathan Gould detailed the OCC's final rule implementing the GENIUS Act. The rule establishes a federal regulatory framework for payment stablecoin issuers, covering reserve requirements, redemption liquidity, supervision, and the application process. Gould said applications for stablecoin issuers will begin on January 18. The discussion also covered stablecoin rewards and yield, cross-border payments, U.S. competitiveness, and U.S. dollar dominance. Gould explained why reserve requirements matter, why liquidity is critical, and how to balance innovation and regulation. The interview also addressed how stablecoin supervision will work, reporting and oversight requirements, and differences between U.S. and foreign stablecoin issuers. Gould said the administration sees digital assets as an opportunity to modernize the American financial system. The interview was recorded on October 21, 2026.",
-      "conclusion_zh": "OCC 最终规则为支付稳定币发行方提供了联邦监管路径，申请 1 月 18 日开启，标志着美国稳定币监管框架进入实施阶段，值得关注其对数字资产及支付相关板块的影响。",
-      "conclusion_en": "The OCC final rule provides a federal regulatory path for payment stablecoin issuers, with applications opening January 18, marking the implementation phase of the U.S. stablecoin regulatory framework and warranting attention for its impact on digital assets and payments-related sectors.",
-      "key_points": [
-        {
-          "zh": "OCC 发布实施 GENIUS 法案的最终规则，为支付稳定币发行方建立联邦监管框架。",
-          "en": "The OCC released its final rule implementing the GENIUS Act, establishing a federal regulatory framework for payment stablecoin issuers."
-        },
-        {
-          "zh": "稳定币发行方申请将于 1 月 18 日开始。",
-          "en": "Applications for stablecoin issuers will begin on January 18."
-        },
-        {
-          "zh": "框架涵盖储备要求、赎回流动性、监督与申请流程。",
-          "en": "The framework covers reserve requirements, redemption liquidity, supervision, and the application process."
-        },
-        {
-          "zh": "讨论涉及稳定币奖励与收益、跨境支付、美国竞争力及美元主导地位。",
-          "en": "The discussion covered stablecoin rewards and yield, cross-border payments, U.S. competitiveness, and dollar dominance."
-        },
-        {
-          "zh": "Gould 表示政府将数字资产视为美国金融体系现代化的机会。",
-          "en": "Gould said the administration sees digital assets as an opportunity to modernize the American financial system."
-        }
-      ],
-      "tags": [
-        "stablecoins",
-        "GENIUS Act",
-        "OCC",
-        "regulation",
-        "digital assets"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:PkOMBVEXoM8",
-      "title": "Open Interest 10/22/2026",
-      "title_zh": "Meta业绩超预期但AI支出激增引发担忧，特斯拉削减开支",
-      "url": "https://www.youtube.com/watch?v=PkOMBVEXoM8",
-      "published_at": "2026-10-22T16:39:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Meta业绩超出华尔街目标，但其AI支出激增引发新的担忧；特斯拉则回撤开支。Blackstone总裁Jonathan Gray反驳AI泡沫论，JPMorgan的Gabriela Santos与Goldman Sachs的Ben Snider探讨AI繁荣能否兑现利润以及投资者如何寻找下一个赢家。",
-      "summary_en": "Meta topped Wall Street targets, but its AI spending surge raised fresh concerns, while Tesla pulled back on spending. Blackstone President Jonathan Gray pushed back on AI bubble fears, and JPMorgan's Gabriela Santos and Goldman Sachs' Ben Snider discussed whether the AI boom can deliver profits and where investors can find the next winners.",
-      "detail_zh": "本期节目围绕美股交易日的开局展开。Meta业绩超出华尔街目标，但其AI支出激增引发新的担忧，同时涉及MUSE采用情况、扎克伯格持股结构以及核心广告业务与MUSE前景的讨论。特斯拉财报反应、SpaceX合并辩论以及资本开支担忧成为另一焦点，特斯拉回撤开支。地缘政治方面提及沙特阿拉伯撤离、伊朗威胁及中期选举后风险。JPMorgan Asset Management的Gabriela Santos讨论AI资本开支、超大规模企业估值与长期采用趋势；Goldman Sachs的Ben Snider分析AI投资周期、防御性交易与盈利集中度。Blackstone总裁Jonathan Gray反驳AI泡沫担忧，并谈及Blackstone前景、AI需求激增与基础设施投资。此外，节目还涉及私人信贷压力、AI融资与数据中心风险、航空股财报与高端旅行需求及燃料成本压力、Netflix降级与特斯拉看涨理由及Meta评级上调等顶级调用，以及AI对银行业和裁员的影响。",
-      "detail_en": "The program covers the start of the US trading day. Meta topped Wall Street targets, but its AI spending surge raised fresh concerns, with discussion of MUSE adoption, Zuckerberg's share structure, and the core ad business and MUSE outlook. Tesla earnings reaction, the SpaceX merger debate, and capital spending concerns were another focus, as Tesla pulled back on spending. Geopolitical topics included Saudi Arabia evacuations, Iran threats, and post-midterm risks. Gabriela Santos of JPMorgan Asset Management discussed AI capex, hyperscaler valuations, and long-term adoption trends; Ben Snider of Goldman Sachs analyzed AI investment cycles, defensive trades, and earnings concentration. Blackstone President Jonathan Gray pushed back on AI bubble fears and discussed Blackstone's outlook, surging AI demand, and infrastructure investing. Other segments covered private credit stress, AI financing and data center risks, airline earnings and premium travel demand with fuel cost pressures, top calls including a Netflix downgrade, Tesla bull case, and Meta rating upgrades, and AI's impact on banking and job cuts.",
-      "conclusion_zh": "AI资本开支的可持续性与盈利兑现成为市场核心辩论，Meta的支出激增与特斯拉的回撤形成对比，投资者需关注AI投资周期中的估值与盈利集中度风险。",
-      "conclusion_en": "The sustainability of AI capex and its profit delivery are central to the market debate, with Meta's spending surge contrasting Tesla's pullback; investors should watch valuation and earnings concentration risks in the AI investment cycle.",
-      "key_points": [
-        {
-          "zh": "Meta业绩超出华尔街目标，但AI支出激增引发新的担忧。",
-          "en": "Meta topped Wall Street targets, but its AI spending surge raised fresh concerns."
-        },
-        {
-          "zh": "特斯拉回撤开支，市场关注其财报反应、SpaceX合并辩论及资本开支担忧。",
-          "en": "Tesla pulled back on spending, with focus on its earnings reaction, the SpaceX merger debate, and capital spending concerns."
-        },
-        {
-          "zh": "Blackstone总裁Jonathan Gray反驳AI泡沫担忧，并谈及AI需求激增与基础设施投资。",
-          "en": "Blackstone President Jonathan Gray pushed back on AI bubble fears and discussed surging AI demand and infrastructure investing."
-        },
-        {
-          "zh": "JPMorgan的Gabriela Santos与Goldman Sachs的Ben Snider探讨AI繁荣能否兑现利润及投资者如何寻找下一个赢家。",
-          "en": "JPMorgan's Gabriela Santos and Goldman Sachs' Ben Snider discussed whether the AI boom can deliver profits and where investors can find the next winners."
-        },
-        {
-          "zh": "节目还涉及私人信贷压力、AI融资与数据中心风险、航空股财报及AI对银行业和裁员的影响。",
-          "en": "The program also covered private credit stress, AI financing and data center risks, airline earnings, and AI's impact on banking and job cuts."
-        }
-      ],
-      "tags": [
-        "AI capex",
-        "Meta",
-        "Tesla",
-        "earnings",
-        "private credit"
-      ],
-      "tickers": [
-        "META",
-        "TSLA",
-        "NFLX"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:vJ5ARaepS0Q",
-      "title": "Putin Says Russia Ready for New Peace Talks With US, Ukraine",
-      "title_zh": "普京表示俄罗斯准备恢复与美乌的三方和平谈判",
-      "url": "https://www.youtube.com/watch?v=vJ5ARaepS0Q",
-      "published_at": "2026-10-22T16:20:22+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "据克里姆林宫消息，普京在与特朗普特使Steve Witkoff于圣彼得堡进行超过三小时会谈后，表示俄罗斯准备恢复与美国和乌克兰的三方和平谈判。Oliver Wyman合伙人、大西洋理事会高级研究员Dan Tannebaum就此冲突及最新谈判动向进行了讨论。",
-      "summary_en": "According to the Kremlin, President Vladimir Putin said Russia is ready to resume trilateral negotiations with the US and Ukraine on a potential peace deal, after more than three hours of talks in St. Petersburg with US President Donald Trump's envoy Steve Witkoff. Dan Tannebaum, Partner at Oliver Wyman and Senior Fellow at the Atlantic Council, discussed the conflict and what this latest push for talks signifies.",
-      "detail_zh": "克里姆林宫称，俄罗斯总统普京表示俄罗斯准备恢复与美国和乌克兰就潜在和平协议进行的三方谈判。普京是在周三于圣彼得堡与美国总统特朗普的特使Steve Witkoff进行了超过三小时的会谈后提出这一提议的。Oliver Wyman合伙人、大西洋理事会高级研究员Dan Tannebaum就冲突及最新谈判推动的意义进行了讨论。原文未提供更多关于谈判条件、时间表或市场影响的细节。",
-      "detail_en": "The Kremlin said President Vladimir Putin indicated Russia is ready to resume trilateral negotiations with the US and Ukraine on a potential peace deal. Putin made the offer during more than three hours of talks in St. Petersburg on Wednesday with Steve Witkoff, US President Donald Trump's envoy. Dan Tannebaum, Partner at Oliver Wyman and Senior Fellow at the Atlantic Council, discussed the conflict and what this latest push for talks signifies. The original text does not provide further details on negotiation terms, timeline, or market implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "普京表示俄罗斯准备恢复与美国和乌克兰的三方和平谈判。",
-          "en": "Putin said Russia is ready to resume trilateral peace negotiations with the US and Ukraine."
-        },
-        {
-          "zh": "该提议是在普京与特朗普特使Steve Witkoff于圣彼得堡进行超过三小时会谈后提出的。",
-          "en": "The offer was made after more than three hours of talks in St. Petersburg between Putin and Trump's envoy Steve Witkoff."
-        },
-        {
-          "zh": "Oliver Wyman合伙人Dan Tannebaum讨论了冲突及最新谈判推动的意义。",
-          "en": "Dan Tannebaum, Partner at Oliver Wyman, discussed the conflict and what the latest push for talks signifies."
-        }
-      ],
-      "tags": [
-        "Russia-Ukraine",
-        "peace talks",
-        "geopolitics"
       ],
       "tickers": [],
       "sentiment": "neutral"
