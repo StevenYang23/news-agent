@@ -1,6 +1,209 @@
 {
-  "generated_at": "2026-10-29T13:17:47.811069+00:00",
+  "generated_at": "2026-10-29T14:18:10.318580+00:00",
   "insights": [
+    {
+      "guid": "yt:GisQE6cJh8Q",
+      "title": "Bullard Backs Fed Leaving Rates Unchanged",
+      "title_zh": "前圣路易斯联储主席布拉德：FOMC维持利率不变是正确之举",
+      "url": "https://www.youtube.com/watch?v=GisQE6cJh8Q",
+      "published_at": "2026-10-29T13:48:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前圣路易斯联储主席詹姆斯·布拉德表示，FOMC维持利率不变的决定是正确的，并谈及主席凯文·沃什后续可能采取的行动。",
+      "summary_en": "Former St. Louis Fed President James Bullard says the FOMC was right to leave interest rates unchanged, and discusses what Chairman Kevin Warsh could do next.",
+      "detail_zh": "前圣路易斯联储主席詹姆斯·布拉德在“Bloomberg Surveillance”节目中表示，FOMC维持利率不变的决定是正确的。他同时谈及美联储主席凯文·沃什接下来可能采取的行动。原文未提供布拉德对具体政策路径、经济数据或市场影响的进一步阐述。",
+      "detail_en": "Former St. Louis Fed President James Bullard said on \"Bloomberg Surveillance\" that the FOMC was right to leave interest rates unchanged. He also spoke about what Chairman Kevin Warsh could do next. The source does not provide further details on Bullard's views regarding the policy path, economic data, or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "布拉德认为FOMC维持利率不变是正确的。",
+          "en": "Bullard says the FOMC was right to leave rates unchanged."
+        },
+        {
+          "zh": "布拉德谈及主席凯文·沃什后续可能采取的行动。",
+          "en": "Bullard discusses what Chairman Kevin Warsh could do next."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "FOMC",
+        "interest rates",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:24L2Z1quzLQ",
+      "title": "Apple’s Folding iPhone Hit by Early Complaints of Screen Cracking",
+      "title_zh": "苹果折叠屏iPhone Duo上市数日即遭屏幕开裂投诉",
+      "url": "https://www.youtube.com/watch?v=24L2Z1quzLQ",
+      "published_at": "2026-10-29T13:32:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "苹果折叠屏iPhone Duo在上市仅数日后便出现屏幕开裂的早期投诉。Dana Wollman在彭博电视节目中对此进行了说明。",
+      "summary_en": "Apple's folding iPhone Duo is facing early complaints of cracked screens just days after its launch, as explained by Dana Wollman on Bloomberg Television.",
+      "detail_zh": "苹果新款折叠屏手机iPhone Duo在上市仅数日后，便遭遇了屏幕开裂的早期用户投诉。彭博的Dana Wollman就此事进行了说明。原文未披露投诉的具体数量、涉及机型批次、开裂原因或苹果方面的回应，也未提供任何财务或股价影响的数据。该事件属于产品上市初期的质量反馈，后续进展有待观察。",
+      "detail_en": "Apple's new folding iPhone Duo has drawn early complaints of cracked screens just days after its launch. Dana Wollman of Bloomberg provided commentary on the matter. The source does not disclose the number of complaints, affected batches, the cause of the cracking, or any response from Apple, nor does it provide financial or stock-price impact data. The issue is an early product-quality feedback following launch, and further developments remain to be seen.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "苹果折叠屏iPhone Duo上市数日后出现屏幕开裂投诉",
+          "en": "Apple's folding iPhone Duo faces cracked-screen complaints days after launch"
+        },
+        {
+          "zh": "彭博的Dana Wollman对此进行了说明",
+          "en": "Bloomberg's Dana Wollman provided commentary on the issue"
+        },
+        {
+          "zh": "原文未披露投诉规模、原因或苹果回应",
+          "en": "The source does not disclose the scale of complaints, cause, or Apple's response"
+        }
+      ],
+      "tags": [
+        "Apple",
+        "foldable iPhone",
+        "product quality",
+        "consumer tech"
+      ],
+      "tickers": [
+        "AAPL"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Q2ZyA1ChPyA",
+      "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
+      "title_zh": "Alphabet第三季度多数核心业务销售令人失望，加剧AI支出担忧",
+      "url": "https://www.youtube.com/watch?v=Q2ZyA1ChPyA",
+      "published_at": "2026-10-29T13:31:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Alphabet第三季度多数核心业务销售表现不佳，加剧了投资者对公司在人工智能领域巨额支出的担忧。",
+      "summary_en": "Alphabet reported disappointing sales from most of its core businesses in the third quarter, escalating investor concerns about its massive AI spending.",
+      "detail_zh": "Alphabet第三季度财报显示，其多数核心业务的销售表现令人失望。这一业绩加剧了投资者对公司数百亿美元人工智能投入的担忧。彭博的Ed Ludlow对此进行了报道。原文未提供具体财务数据或管理层评论。",
+      "detail_en": "Alphabet's third-quarter results showed disappointing sales from most of its core businesses. The performance escalated investor concerns about the company's tens of billions of dollars in AI spending. Bloomberg's Ed Ludlow reported. The original text does not provide specific financial figures or management commentary.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Alphabet第三季度多数核心业务销售令人失望",
+          "en": "Alphabet's Q3 sales from most core businesses were disappointing"
+        },
+        {
+          "zh": "业绩加剧了投资者对公司在AI领域巨额支出的担忧",
+          "en": "Results escalated investor concerns about the company's massive AI spending"
+        },
+        {
+          "zh": "报道由彭博的Ed Ludlow提供",
+          "en": "Reported by Bloomberg's Ed Ludlow"
+        }
+      ],
+      "tags": [
+        "Alphabet",
+        "Q3 earnings",
+        "AI spending",
+        "sales miss"
+      ],
+      "tickers": [
+        "GOOGL"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:-2MwauLwusk",
+      "title": "Accomplishment vs. Enjoyment | Ray Dalio",
+      "title_zh": "关于成就与享受生活的平衡",
+      "url": "https://www.youtube.com/watch?v=-2MwauLwusk",
+      "published_at": "2026-10-29T13:21:31+00:00",
+      "source_name": "Principles by Ray Dalio",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "原文讨论人生中成就与享受生活之间的选择，认为最有效的方式是让两者对齐，将工作与热情合二为一。内容不涉及具体投资标的或市场观点。",
+      "summary_en": "The original text discusses the choice between accomplishment and savoring life, suggesting that the most effective approach is to align the two and make work and passion one and the same. It contains no specific investment targets or market views.",
+      "detail_zh": "原文围绕人生中“成就与影响”和“享受生活”之间的选择展开。发言者指出，人生有许多重大选择，其中之一便是成就与享受生活之间的取舍。享受生活意味着闻玫瑰花香、珍惜美好时刻、与所爱之人共度时光；而另一面则是成就与影响。发言者认为，人需要发现自己处于何种位置以及如何应对这类选择。最有效的方式是让两者对齐，即让工作与热情成为同一件事。",
+      "detail_en": "The original text centers on the choice between 'accomplishment and impact' and 'savoring life.' The speaker notes that life has many big choices, one of which is the trade-off between accomplishment and savoring life. Savoring life means smelling the roses, appreciating a beautiful day or moment, and spending time with loved ones; the other side is accomplishment and impact. The speaker believes one must discover where one stands and how to deal with such choices. The most effective approach is where they align—making work and passion one and the same.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "人生中的重大选择之一是成就与享受生活之间的取舍。",
+          "en": "One of life's big choices is the trade-off between accomplishment and savoring life."
+        },
+        {
+          "zh": "享受生活包括珍惜当下、与所爱之人共度时光。",
+          "en": "Savoring life includes appreciating the moment and spending time with loved ones."
+        },
+        {
+          "zh": "最有效的方式是让成就与享受生活对齐。",
+          "en": "The most effective approach is to align accomplishment and savoring life."
+        },
+        {
+          "zh": "让工作与热情合二为一被认为是关键。",
+          "en": "Making work and passion one and the same is seen as key."
+        }
+      ],
+      "tags": [
+        "life-balance",
+        "personal-development",
+        "philosophy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:sLyNHofnKoc",
+      "title": "Big Take: The Uniquely American Experience of Redrawing Political Maps",
+      "title_zh": "共和党中期选举前重划选区策略或难奏效",
+      "url": "https://www.youtube.com/watch?v=sLyNHofnKoc",
+      "published_at": "2026-10-29T13:14:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博播客讨论指出，共和党在中期选举前于全国重划了十多个国会选区，期望增加国会席位，但这一策略可能不会如愿。",
+      "summary_en": "Republicans redrew more than a dozen congressional districts nationwide ahead of the midterms hoping to gain seats, but the gamble may not pay off, according to a Bloomberg podcast discussion.",
+      "detail_zh": "彭博的Josh Wingrove在Big Take播客中向David Gura解释，共和党在中期选举前在全国范围内重划了超过十个国会选区，目的是在国会中获得更多席位。然而，这一策略可能不会为共和党带来预期收益。节目将这一举动描述为一场“赌博”，暗示其效果存在不确定性。原文未提供具体选区数量、州名或民调数据。",
+      "detail_en": "On Bloomberg's Big Take podcast, Josh Wingrove explained to David Gura that Republicans redrew more than a dozen congressional districts across the country ahead of the midterm elections, aiming to pick up more seats in Congress. However, the gamble may not pay off for Republicans. The segment characterizes the move as a gamble, suggesting uncertainty about its effectiveness. The original text does not provide specific district counts, state names, or polling data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "共和党在中期选举前重划了超过十个国会选区。",
+          "en": "Republicans redrew more than a dozen congressional districts ahead of the midterms."
+        },
+        {
+          "zh": "重划选区的目的是在国会中获得更多席位。",
+          "en": "The goal of redistricting was to pick up more seats in Congress."
+        },
+        {
+          "zh": "这一策略可能不会为共和党带来预期收益。",
+          "en": "The strategy may not pay off for Republicans."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "redistricting",
+        "Republicans",
+        "Congress"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:UxWZJ35mQFI",
       "title": "3+1 Episode 25: Tony Kim and Hugo",
@@ -12335,146 +12538,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:0Ri4QtEwLXs",
-      "title": "Inside Texas' growing political fight over data centers",
-      "title_zh": "得州数据中心扩张引发共和党选民反弹",
-      "url": "https://www.youtube.com/watch?v=0Ri4QtEwLXs",
-      "published_at": "2026-10-22T14:00:26+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "tech"
-      ],
-      "summary_zh": "得州农村地区数据中心建设快速扩张，引发通常支持共和党的选民对透明度、水耗、电费和房产价值等问题的担忧。这一反弹可能影响寻求连任的州长Greg Abbott及竞选参议员的Ken Paxton等共和党人。得州凭借亲商政策和土地资源，预计到2030年将成为全球最大数据中心市场之一。",
-      "summary_en": "The rapid expansion of data centers in rural Texas is sparking backlash among constituents who typically vote Republican, over concerns including transparency, water use, power bills, and property values. This could be problematic for Republicans like Governor Greg Abbott, who is running for reelection, and Attorney General Ken Paxton, who is in a tight Senate race. Texas, attracting data centers with pro-business policies and abundant land, is poised to become one of the world's largest markets by 2030.",
-      "detail_zh": "文章以一位居民在驾车途中看到测量标记、意识到数据中心正在建设的场景开篇，指出数据中心建设正在得州农村地区蔓延。这种扩张引发了通常投票给共和党的选民的反弹，可能对寻求连任的得州州长Greg Abbott（对阵民主党人Gina Hinosa）以及正在参议院竞选中与James Talerico激烈竞争的司法部长Ken Paxton构成政治压力。一位受访者认为，数据中心汇集了人们关心的诸多问题：生活成本、政府腐败、人工智能，以及政府在为这项新技术制定护栏方面似乎缺位。多年来，得州凭借亲商政策和充足土地吸引数据中心，如今预计到2030年将成为全球最大的数据中心市场之一。但随着新项目不断出现，居民对透明度、光污染、水资源使用、电费和房产价值提出担忧。",
-      "detail_en": "The article opens with a resident driving home from church, seeing survey markers everywhere and recognizing that a data center is being built. It notes that as the data center buildout spreads across rural Texas, backlash is rising among constituents who typically vote Republican. This could be problematic for Republicans like Texas Governor Greg Abbott, who is running for reelection against Democrat Gina Hinosa, and Attorney General Ken Paxton, who is in a tight race for Senate against James Talerico. One interviewee says data centers bring together many issues people are concerned about: cost of living, corruption in government, artificial intelligence, and the fact that government seems MIA when it comes to creating guard rails for this new technology. For years, Texas has attracted data centers with its pro-business policies and abundance of land. Today, it's poised to become one of the world's largest markets by 2030. But as new projects pop up, residents are raising concerns about transparency, light pollution, water use, power bills, and property values.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "得州农村数据中心建设扩张引发通常支持共和党的选民反弹。",
-          "en": "Data center buildout in rural Texas is sparking backlash among constituents who typically vote Republican."
-        },
-        {
-          "zh": "反弹可能影响寻求连任的州长Greg Abbott及竞选参议员的Ken Paxton。",
-          "en": "The backlash could be problematic for Governor Greg Abbott, who is running for reelection, and Attorney General Ken Paxton, who is in a tight Senate race."
-        },
-        {
-          "zh": "居民担忧包括透明度、光污染、水资源使用、电费和房产价值。",
-          "en": "Residents' concerns include transparency, light pollution, water use, power bills, and property values."
-        },
-        {
-          "zh": "得州凭借亲商政策和充足土地吸引数据中心，预计到2030年成为全球最大市场之一。",
-          "en": "Texas has attracted data centers with pro-business policies and abundant land, and is poised to become one of the world's largest markets by 2030."
-        }
-      ],
-      "tags": [
-        "data centers",
-        "Texas",
-        "Republican backlash",
-        "AI regulation",
-        "infrastructure"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:B6mHyh6mBNA",
-      "title": "Blackstone's Gray Says AI Demand Is 'Parabolic'",
-      "title_zh": "黑石总裁Gray反驳AI泡沫论，称AI需求近乎抛物线式增长",
-      "url": "https://www.youtube.com/watch?v=B6mHyh6mBNA",
-      "published_at": "2026-10-22T13:57:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "黑石集团总裁Jon Gray否认存在AI泡沫，称AI需求“近乎抛物线式”增长。他在彭博电视采访中讨论了AI投资及公司第三季度财报。",
-      "summary_en": "Blackstone President Jon Gray pushes back against the idea of an AI bubble, saying demand for AI is \"almost parabolic.\" He discussed AI investing and the firm's Q3 earnings on Bloomberg Television.",
-      "detail_zh": "黑石集团总裁Jon Gray在彭博“Bloomberg Open Interest”节目中接受Dani Burger采访时，反驳了市场关于AI存在泡沫的观点。他表示，对AI的需求“近乎抛物线式”（almost parabolic）。Gray还谈及了黑石在AI领域的投资以及公司第三季度财报业绩。原文未提供具体财务数据或投资细节。",
-      "detail_en": "Blackstone President Jon Gray, speaking to Dani Burger on Bloomberg's \"Bloomberg Open Interest,\" pushed back against the notion of an AI bubble. He stated that demand for AI is \"almost parabolic.\" Gray also discussed investing in AI and the firm's third-quarter earnings results. The source does not provide specific financial figures or investment details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "黑石总裁Jon Gray否认AI泡沫论",
-          "en": "Blackstone President Jon Gray rejects the idea of an AI bubble"
-        },
-        {
-          "zh": "Gray称AI需求“近乎抛物线式”增长",
-          "en": "Gray says demand for AI is \"almost parabolic\""
-        },
-        {
-          "zh": "采访涉及黑石在AI领域的投资",
-          "en": "The interview covered Blackstone's investing in AI"
-        },
-        {
-          "zh": "采访还提及黑石第三季度财报业绩",
-          "en": "The interview also touched on Blackstone's Q3 earnings results"
-        }
-      ],
-      "tags": [
-        "AI",
-        "Blackstone",
-        "private equity",
-        "earnings"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "https://bondvigilantes.com/?p=26841",
-      "title": "The Best Relative Value Trade We Have Ever Seen",
-      "title_zh": "英国指数挂钩国债10-15年期出现历史性相对价值机会",
-      "url": "https://bondvigilantes.com/blog/2026/10/the-best-relative-value-trade-we-have-ever-seen/",
-      "published_at": "2026-10-22T13:23:27+00:00",
-      "source_name": "Bond Vigilantes (M&G)",
-      "source_kind": "article",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "英国债务管理办公室（DMO）过去18个月持续缩短国债发行期限，导致10-15年期指数挂钩国债供给饱和，该段收益率曲线相对两侧期限处于历史最便宜水平。若以久期中性方式卖出5年和50年期、买入10年期，可获显著收益率优势，叠加滚降效应后年化超额回报约1.5%，5年持有期约7.5%。",
-      "summary_en": "The UK Debt Management Office's rapid shortening of gilt issuance maturities over the past 18 months has saturated the 10–15-year index-linked sector, leaving it the cheapest ever relative to adjacent maturities. A duration-neutral trade selling 5-year and 50-year linkers to buy 10-year linkers offers a substantial yield pickup, and with roll-down the total excess return could be around 1.5% per annum, or roughly 7.5% over a five-year holding period.",
-      "detail_zh": "文章指出，英国债务管理办公室（DMO）在过去18个月快速缩短了国债发行期限，这一趋势适用于所有类型国债，但在发行事件较少的指数挂钩市场中造成了显著扭曲。最近三次指数挂钩国债银团发行均集中在10-15年期，使该段收益率曲线饱和，目前相对两侧期限交易在历史最便宜水平。曲线形态呈现明显分化：5年期与10年期指数挂钩国债利差持续走阔，曲线趋陡；而长端50年期指数挂钩国债收益率低于30年期，曲线倒挂且仍有进一步倒挂空间。若卖出短端与长端组合、以久期中性方式买入10年期，可获得可观的收益率提升，该收益率优势目前处于历史纪录水平。此外，随着时间推移，10年期债券将向5年期滚降，期限溢价侵蚀带来资本利得，叠加持有收益；而长端债券可能因向30年期靠拢而收益率上升、价格下跌。计入滚降后，10年期相对5年+50年组合的总超额回报约为每年1.5%，5年持有期约7.5%。若扭曲不修正，需5年逐步实现；若扭曲修正，则超额回报将在修正当年集中实现，作者认为后者更可能。",
-      "detail_en": "The article notes that the UK Debt Management Office (DMO) has rapidly shortened gilt issuance maturities over the past 18 months. This applies to all gilt types, but in the index-linked market, where issuance events are less frequent, it has caused significant distortions. The last three index-linked syndications were all in the 10–15-year area, saturating this part of the curve, which now trades the cheapest it has ever been relative to maturities on either side. The curve shape shows a striking divergence: the spread between 5- and 10-year linkers has steadily widened, reflecting a steeper curve, while at the long end 50-year linkers yield less than 30-year linkers, leaving that part inverted with room to invert further. Selling a combination of short- and long-dated bonds to buy the 10-year on a duration-neutral basis offers a substantial yield pickup, currently at record levels. Over time, the 10-year bond will roll down the curve toward becoming a 5-year bond, eroding term premium and producing capital gains in addition to carrying income, while long-dated bonds may see yields rise and prices fall as they become more like 30-year bonds. Incorporating roll-down, the total excess return from owning 10-year bonds relative to a combination of 5-year and 50-year bonds could be around 1.5% per annum, or roughly 7.5% over a five-year holding period. If nothing changes, the 7.5% relative gain would be realised over the full five years; if the distortion corrects, the large excess return would be realised in the year it happens, which the author suspects is more likely.",
-      "conclusion_zh": "英国指数挂钩国债10-15年期因发行饱和出现历史性相对价值扭曲，久期中性做多10年期、做空5年与50年组合，有望获得约1.5%的年化超额回报，且扭曲修正可能加速收益实现。",
-      "conclusion_en": "A historic relative-value distortion in the UK 10–15-year index-linked gilt sector, driven by saturated issuance, offers a duration-neutral long 10-year versus short 5-year and 50-year combination with potential excess returns of around 1.5% per annum, and a correction could accelerate realisation.",
-      "key_points": [
-        {
-          "zh": "DMO过去18个月快速缩短国债发行期限，最近三次指数挂钩银团发行均集中在10-15年期，导致该段曲线饱和。",
-          "en": "The DMO has rapidly shortened gilt issuance maturities over the past 18 months, with the last three index-linked syndications all in the 10–15-year area, saturating that segment."
-        },
-        {
-          "zh": "10-15年期指数挂钩国债目前相对两侧期限交易在历史最便宜水平。",
-          "en": "The 10–15-year index-linked sector now trades the cheapest it has ever been relative to maturities on either side."
-        },
-        {
-          "zh": "曲线形态分化：5年与10年利差走阔趋陡，而50年期收益率低于30年期，长端倒挂。",
-          "en": "The curve shape is divergent: the 5s–10s spread has widened and steepened, while 50-year linkers yield less than 30-year linkers, leaving the long end inverted."
-        },
-        {
-          "zh": "久期中性卖出5年和50年、买入10年，收益率优势处于历史纪录水平。",
-          "en": "A duration-neutral trade selling 5-year and 50-year linkers to buy 10-year linkers offers a yield advantage at record levels."
-        },
-        {
-          "zh": "计入滚降后，10年期相对5年+50年组合的总超额回报约每年1.5%，5年持有期约7.5%。",
-          "en": "Incorporating roll-down, the total excess return from 10-year linkers versus a 5-year plus 50-year combination is around 1.5% per annum, or roughly 7.5% over a five-year holding period."
-        }
-      ],
-      "tags": [
-        "UK gilts",
-        "index-linked",
-        "relative value",
-        "roll-down",
-        "yield curve"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
