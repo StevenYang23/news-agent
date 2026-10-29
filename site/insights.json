@@ -1,6 +1,318 @@
 {
-  "generated_at": "2026-10-29T20:17:03.509515+00:00",
+  "generated_at": "2026-10-29T21:15:36.081172+00:00",
   "insights": [
+    {
+      "guid": "yt:nkJCFsLtAo0",
+      "title": "Where Can Investors Look for Income Beyond Core Bonds?",
+      "title_zh": "主动型固定收益：应对债市变化的灵活配置工具",
+      "url": "https://www.youtube.com/watch?v=nkJCFsLtAo0",
+      "published_at": "2026-10-29T20:58:04+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "原文指出，债券市场随利率、信贷条件变化而演变，静态配置可能不再最优。主动型固定收益管理可评估跨行业相对价值并实时调整组合，为财务顾问提供适应市场变化的ETF解决方案。",
+      "summary_en": "The article notes that bond markets evolve with changing interest rates and credit conditions, making static allocations potentially suboptimal. Active fixed income management can assess relative value across sectors and adjust portfolios in real time, offering financial advisers an ETF solution designed to adapt to market changes.",
+      "detail_zh": "原文从财务顾问的视角出发，指出客户目标可能不变，但债券市场会变：利率变化、信贷条件变化，固定收益领域的机遇也随之改变。因此，在某一环境下合理的固定收益配置，在另一环境下可能不再最优。主动型固定收益的优势在于，主动管理人可评估跨行业的相对价值与机会，并实时调整组合，而非随信贷条件演变而持有相同敞口。原文提及某银行（Bank）的基金经理可在全球固定收益领域动态配置，而不受传统基准或特定行业约束。对顾问而言，这提供了一种有用的组合解决方案：若市场变化，他们知道有一只旨在随市场变化的ETF。",
+      "detail_en": "From the perspective of financial advisers, the article notes that client goals may stay the same, but the bond market does not: interest rates change, credit conditions change, and opportunities across the fixed income universe change with them. Consequently, a fixed income allocation that made sense in one environment may no longer be optimal in another. The advantage of active fixed income is that an active manager can assess relative value and opportunities across sectors and adjust the portfolio in real time, rather than holding the same exposures as credit conditions evolve. The article mentions that Bank's portfolio managers can allocate dynamically across the global fixed income universe without being constrained to a traditional benchmark or specific sectors. For advisers, this creates a useful portfolio solution: if markets change, they know they have an ETF designed to change with it.",
+      "conclusion_zh": "主动型固定收益ETF为财务顾问提供了适应债市变化的灵活工具，有助于在利率与信贷条件演变中动态调整配置。",
+      "conclusion_en": "Active fixed income ETFs provide financial advisers with a flexible tool to adapt to changing bond markets, helping dynamically adjust allocations as interest rates and credit conditions evolve.",
+      "key_points": [
+        {
+          "zh": "债券市场随利率和信贷条件变化，静态配置可能不再最优。",
+          "en": "Bond markets change with interest rates and credit conditions, so static allocations may become suboptimal."
+        },
+        {
+          "zh": "主动管理可评估跨行业相对价值并实时调整组合。",
+          "en": "Active management can assess relative value across sectors and adjust portfolios in real time."
+        },
+        {
+          "zh": "某银行的基金经理可在全球固定收益领域动态配置，不受传统基准或行业约束。",
+          "en": "Bank's portfolio managers can allocate dynamically across the global fixed income universe without being constrained to a traditional benchmark or specific sectors."
+        },
+        {
+          "zh": "对顾问而言，这提供了一种旨在随市场变化的ETF解决方案。",
+          "en": "For advisers, this offers an ETF solution designed to change with the market."
+        }
+      ],
+      "tags": [
+        "active fixed income",
+        "bond market",
+        "ETF",
+        "financial advisers"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:FZi50rpMRW4",
+      "title": "Wall Street Is Getting the AI Trade Wrong",
+      "title_zh": "GPU租赁价格逆势上涨，折旧假设遭挑战",
+      "url": "https://www.youtube.com/watch?v=FZi50rpMRW4",
+      "published_at": "2026-10-29T20:45:24+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "原文指出，英伟达H100 GPU今年租赁价格上涨30%，B200价格翻倍以上，与信用和股票投资者普遍假设的折旧贬值完全相反。作者认为这反映算力容量短缺，若持续则投资回报无忧。",
+      "summary_en": "The source notes that Nvidia H100 GPU rental prices are up 30% this year and B200 more than doubled, contrary to credit and equity investors' depreciation assumptions. The author sees this as a symptom of compute capacity shortage, implying investment returns are fine if it continues.",
+      "detail_zh": "作者表示，地球上找不到任何一款GPU的折旧表现没有远超其自身折旧曲线。H100是英伟达较老的GPU系列，主要于2022年和2023年部署，今年租赁价格上涨30%。首款Blackwell系列B200的租赁价格今年翻倍以上。这与信用市场和股票投资者的所有假设严重相悖，作者称难以用语言形容，因为所有人假设的恰恰相反。作者认为，这基本上是市场算力容量短缺的症状，否则不会出现这种情况。若这一趋势持续，投资回报绝对没有问题。",
+      "detail_en": "The author states you cannot find a GPU anywhere on Earth that has not beaten its own depreciation profile by miles. The H100, an older Nvidia GPU series mostly installed in 2022 and 2023, is up 30% in rental prices this year. The B200, the first Blackwell series, has more than doubled this year. This is so at odds with all assumptions made by the credit market and equity investors that the author struggles to put it in words, because everyone assumes the exact opposite. The author views this as basically a symptom of a market short on compute capacity, otherwise this wouldn't be seen. If this continues, the return on investment is absolutely fine.",
+      "conclusion_zh": "GPU租赁价格逆势上涨凸显算力短缺，若持续则相关投资回报有支撑，但需关注与市场折旧假设的背离风险。",
+      "conclusion_en": "Rising GPU rental prices highlight compute shortage; if sustained, investment returns are supported, but watch the divergence from market depreciation assumptions.",
+      "key_points": [
+        {
+          "zh": "H100 GPU今年租赁价格上涨30%，主要部署于2022-2023年。",
+          "en": "H100 GPU rental prices are up 30% this year; mostly installed in 2022-2023."
+        },
+        {
+          "zh": "B200（首款Blackwell系列）租赁价格今年翻倍以上。",
+          "en": "B200 (first Blackwell series) rental prices more than doubled this year."
+        },
+        {
+          "zh": "GPU租赁价格走势与信用市场及股票投资者的折旧假设完全相反。",
+          "en": "GPU rental price trends are the exact opposite of credit market and equity investors' depreciation assumptions."
+        },
+        {
+          "zh": "作者认为这是算力容量短缺的症状，若持续则投资回报无忧。",
+          "en": "The author sees this as a symptom of compute capacity shortage; if it continues, investment returns are fine."
+        }
+      ],
+      "tags": [
+        "GPU",
+        "Nvidia",
+        "compute",
+        "depreciation",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:v_bI5_m-0Qo",
+      "title": "Breaking Down Amazon's Third-Quarter Earnings",
+      "title_zh": "亚马逊第三季度资本支出超770亿美元，远超分析师预期",
+      "url": "https://www.youtube.com/watch?v=v_bI5_m-0Qo",
+      "published_at": "2026-10-29T20:44:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚马逊第三季度在物业和设备上的支出超过770亿美元，远超分析师预期，主要用于建设数据中心和满足AI服务需求。分析师Anurag Rana和Poonam Goyal在Bloomberg The Close节目中解读了相关数据。",
+      "summary_en": "Amazon spent more than $77 billion on property and equipment in the third quarter, far exceeding analysts' estimates, as it builds data centers and fulfills demand for AI services. Analysts Anurag Rana and Poonam Goyal broke down the numbers on \"Bloomberg The Close.\"",
+      "detail_zh": "亚马逊第三季度在物业和设备上的资本支出超过770亿美元，这一数字远超分析师的预期。公司正在推进数据中心建设，以满足AI服务需求。Anurag Rana和Poonam Goyal在Bloomberg The Close节目中分析了这些数据。原文未提供分析师预期的具体数值，也未披露同比变化或公司对未来的指引。",
+      "detail_en": "Amazon spent more than $77 billion on property and equipment in the third quarter, far more than analysts' estimates. The company is pursuing efforts to build data centers and fulfill demand for AI services. Anurag Rana and Poonam Goyal broke down the numbers on \"Bloomberg The Close.\" The original text does not provide the specific analyst estimate, year-over-year change, or forward guidance.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "亚马逊第三季度物业和设备支出超过770亿美元。",
+          "en": "Amazon spent more than $77 billion on property and equipment in Q3."
+        },
+        {
+          "zh": "该支出水平远超分析师预期。",
+          "en": "The spending level far exceeded analysts' estimates."
+        },
+        {
+          "zh": "支出主要用于建设数据中心和满足AI服务需求。",
+          "en": "The spending was aimed at building data centers and fulfilling demand for AI services."
+        },
+        {
+          "zh": "分析师Anurag Rana和Poonam Goyal在Bloomberg The Close节目中解读了数据。",
+          "en": "Analysts Anurag Rana and Poonam Goyal analyzed the numbers on \"Bloomberg The Close.\""
+        }
+      ],
+      "tags": [
+        "Amazon",
+        "capex",
+        "AI",
+        "data centers",
+        "earnings"
+      ],
+      "tickers": [
+        "AMZN"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:wPaP08Dc8eU",
+      "title": "Why Is Christine Lagarde Leaving the ECB Early?",
+      "title_zh": "拉加德将于2月7日提前卸任欧央行行长",
+      "url": "https://www.youtube.com/watch?v=wPaP08Dc8eU",
+      "published_at": "2026-10-29T20:43:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博的Alice Gledhill在“Bloomberg Real Yield”节目中与Scarlet Fu讨论了法国债券市场，以及欧央行行长拉加德决定于2月7日卸任、早于其明年10月任期结束。",
+      "summary_en": "Bloomberg's Alice Gledhill joined Scarlet Fu on \"Bloomberg Real Yield\" to discuss the French bond market and ECB President Christine Lagarde's decision to resign on February 7, before the end of her term next October.",
+      "detail_zh": "彭博的Alice Gledhill做客Scarlet Fu主持的“Bloomberg Real Yield”节目。讨论内容涉及法国债券市场。节目中还提到欧央行行长克里斯蒂娜·拉加德决定在2月7日卸任，这一时间早于其明年10月任期结束。原文未提供更多关于法国债市或拉加德卸任原因及影响的细节。",
+      "detail_en": "Bloomberg's Alice Gledhill joined Scarlet Fu on \"Bloomberg Real Yield.\" The discussion covered the French bond market. The segment also noted that ECB President Christine Lagarde decided to resign on February 7, before the end of her term next October. The source provides no further details on the French bond market or the reasons and implications of Lagarde's resignation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目讨论了法国债券市场。",
+          "en": "The segment discussed the French bond market."
+        },
+        {
+          "zh": "欧央行行长拉加德决定2月7日卸任。",
+          "en": "ECB President Christine Lagarde decided to resign on February 7."
+        },
+        {
+          "zh": "拉加德卸任早于其明年10月任期结束。",
+          "en": "Lagarde's resignation comes before the end of her term next October."
+        }
+      ],
+      "tags": [
+        "ECB",
+        "Lagarde",
+        "French bonds",
+        "central bank"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:DImnlFpMCQ0",
+      "title": "No One Wanted These Amazon Earnings, Thill Says",
+      "title_zh": "Jefferies分析师：亚马逊财报不算糟糕但令人失望，资本开支超预期",
+      "url": "https://www.youtube.com/watch?v=DImnlFpMCQ0",
+      "published_at": "2026-10-29T20:41:16+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Jefferies软件与互联网研究科技行业主管Brent Thill表示，亚马逊财报并非糟糕，且股价便宜，但“这不是任何人所希望看到的”。物业与设备支出高于预期。Thill指出，本周科技股财报已传出大量坏消息。",
+      "summary_en": "Jefferies software and internet research tech sector lead Brent Thill said Amazon's earnings were not terrible and the stock is cheap, but \"this is not what anyone was hoping for.\" Spending on property and equipment was more than expected. Thill noted there has been a lot of bad news from tech earnings this week.",
+      "detail_zh": "在Bloomberg The Close节目中，Jefferies科技行业研究主管Brent Thill对亚马逊财报作出评价。他表示，亚马逊的业绩并非糟糕，且当前股价便宜，但“这不是任何人所希望看到的”。Thill特别指出，亚马逊在物业与设备上的支出高于预期。他还提到，本周科技股财报整体传出大量坏消息。Thill的评论聚焦于亚马逊财报表现及资本开支情况，未涉及其他具体财务数据或个股。",
+      "detail_en": "Speaking on Bloomberg The Close, Jefferies tech sector research lead Brent Thill assessed Amazon's earnings. He said the results were not terrible and the stock is cheap, but \"this is not what anyone was hoping for.\" Thill specifically noted that spending on property and equipment was more than expected. He also said there has been a lot of bad news from tech earnings this week. Thill's comments focused on Amazon's earnings performance and capital expenditure, without detailing other financial metrics or specific stocks.",
+      "conclusion_zh": "亚马逊财报虽非灾难，但资本开支超预期且整体科技财报季信号偏负面，投资者需关注后续科技股盈利与支出指引。",
+      "conclusion_en": "While Amazon's earnings were not a disaster, higher-than-expected capex and broadly negative tech earnings signals this week warrant attention to upcoming profit and spending guidance.",
+      "key_points": [
+        {
+          "zh": "亚马逊财报并非糟糕，且股价便宜",
+          "en": "Amazon's earnings were not terrible and the stock is cheap"
+        },
+        {
+          "zh": "但Thill称“这不是任何人所希望看到的”",
+          "en": "But Thill said \"this is not what anyone was hoping for\""
+        },
+        {
+          "zh": "物业与设备支出高于预期",
+          "en": "Spending on property and equipment was more than expected"
+        },
+        {
+          "zh": "本周科技股财报传出大量坏消息",
+          "en": "There has been a lot of bad news from tech earnings this week"
+        }
+      ],
+      "tags": [
+        "Amazon",
+        "earnings",
+        "capex",
+        "tech",
+        "Jefferies"
+      ],
+      "tickers": [
+        "AMZN"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Y-l87iHNg6U",
+      "title": "Investors, Bonds Jolted by Lula Win in Brazil",
+      "title_zh": "卢拉胜选令巴西资产多头措手不及，投资者却步",
+      "url": "https://www.youtube.com/watch?v=Y-l87iHNg6U",
+      "published_at": "2026-10-29T20:40:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博报道，巴西总统卢拉·伊纳西奥·卢拉·达席尔瓦胜选令押注巴西资产的投资者措手不及，此前看涨押注大幅逆转，投资者目前不愿买入巴西市场。",
+      "summary_en": "Bloomberg reports that President Luiz Inácio Lula da Silva's election victory blindsided investors who had bullish bets on Brazilian assets, which unraveled spectacularly, and investors are now balking at buying into Brazil's markets.",
+      "detail_zh": "在彭博电视节目“Bloomberg Real Yield”中，彭博的Giovanna Bellotti Azevedo向Scarlet Fu表示，巴西总统卢拉·伊纳西奥·卢拉·达席尔瓦的胜选让投资者措手不及。此前对巴西资产的看涨押注以引人注目的方式瓦解，导致投资者目前对买入巴西市场犹豫不决。报道未提供具体市场数据、资产类别细节或后续走势判断。",
+      "detail_en": "On Bloomberg's \"Bloomberg Real Yield,\" Giovanna Bellotti Azevedo told Scarlet Fu that investors were blindsided by President Luiz Inácio Lula da Silva's election victory. Bullish bets on Brazilian assets unraveled spectacularly, and investors are now balking at buying into Brazil's markets. The report does not provide specific market data, asset class details, or forward-looking judgments.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "卢拉胜选令押注巴西资产的投资者措手不及。",
+          "en": "Lula's election victory blindsided investors with bets on Brazilian assets."
+        },
+        {
+          "zh": "此前对巴西资产的看涨押注大幅逆转。",
+          "en": "Bullish bets on Brazilian assets unraveled spectacularly."
+        },
+        {
+          "zh": "投资者目前不愿买入巴西市场。",
+          "en": "Investors are currently balking at buying into Brazil's markets."
+        }
+      ],
+      "tags": [
+        "Brazil",
+        "Lula",
+        "election",
+        "emerging markets",
+        "investor sentiment"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:A1BPJWX1Cso",
+      "title": "Lagarde's Exit, Safe Havens, Record Credit Sales",
+      "title_zh": "美联储按兵不动，Warsh 为后续加息留有余地；微软发行巨额债券",
+      "url": "https://www.youtube.com/watch?v=A1BPJWX1Cso",
+      "published_at": "2026-10-29T20:11:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储在中期选举前维持利率不变，但主席 Kevin Warsh 为恢复加息留有余地，市场预期12月及明年4月前各加息一次。9月核心PCE同比升至3.1%，通胀压力持续。微软利用AAA评级发行至少250亿美元投资级债券，恰逢债市供应创纪录。",
+      "summary_en": "The Fed held rates steady ahead of midterms, but Chair Kevin Warsh left the door open to resuming hikes, with markets pricing a December increase and another by April. Core PCE rose to 3.1% in September, signaling persistent inflation. Microsoft raised at least $25 billion in its first U.S. investment-grade bond sale in over nine years, amid record annual debt supply.",
+      "detail_zh": "美联储在中期选举前选择维持利率不变，但主席 Kevin Warsh 在会后表态为未来数月进一步收紧政策铺路，称“压倒性共识”是此前的温和紧缩政策开始见效，但尚无确定结论。9月价格指数显示通胀压力不减：整体PCE同比升至3.6%，核心PCE升至3.1%，均高于预期，表明美联储在通胀方面未取得理想进展。市场因此预期美联储将在12月9日加息，并在明年4月前再加一次；两年期期货交易价（483）高于当前两年期现货利率（467），反映加息预期。Warsh 还提到2027年将有一次会议专门用于战略讨论，Mike McKee 推测可能在10月，因9月和12月有经济预测摘要。债市方面，10月初美债遭遇抛售，收益率在当月第一周见顶，但抛售潮似乎暂歇，债券波动率（MOVE指数）降至约一个月低位，而股市波动率（VIX）相对稳定。微软利用其AAA评级，发行至少250亿美元投资级债券，为逾九年来首次在美国投资级市场发债，恰逢投资者面临创纪录的年度债券供应。",
+      "detail_en": "The Fed kept rates unchanged ahead of the midterm elections, but Chair Kevin Warsh set the stage for further tightening in the coming months, saying the \"overwhelming consensus\" was that the modest policy medicine is starting to work, though there are no firm conclusions. September price indexes showed persistent inflation: headline PCE rose to 3.6% and core PCE to 3.1%, both hotter than expected, indicating the Fed is not making the progress it wants on inflation. Markets therefore expect a rate hike on December 9 and another by next April; two-year futures trade at 483 versus the current two-year spot rate of 467, reflecting hike expectations. Warsh also mentioned that one of the 2027 meetings will be strategy-only, which Mike McKee speculated could be October, since September and December have economic projections. In bonds, Treasuries entered October in a sell-off with yields peaking in the first week, but the rush for the exits appears to have halted, with the MOVE index at its lowest in about a month, while the VIX has held steadier. Microsoft took advantage of its AAA rating to raise at least $25 billion in its first U.S. investment-grade bond sale in over nine years, just as investors face a record annual supply of debt.",
+      "conclusion_zh": "美联储在通胀仍高之际按兵不动但保留加息选项，市场已定价进一步收紧；债券波动率回落与微软巨额发债显示债市供需动态值得关注。",
+      "conclusion_en": "With inflation still elevated, the Fed held rates but kept the hiking option open, and markets have priced further tightening; falling bond volatility and Microsoft's large debt sale highlight supply-demand dynamics in fixed income.",
+      "key_points": [
+        {
+          "zh": "美联储维持利率不变，但Warsh为恢复加息留有余地，市场预期12月及明年4月前各加息一次。",
+          "en": "The Fed held rates steady, but Warsh left the door open to resuming hikes; markets expect a December increase and another by April."
+        },
+        {
+          "zh": "9月整体PCE同比升至3.6%，核心PCE升至3.1%，均高于预期，显示通胀进展不足。",
+          "en": "September headline PCE rose to 3.6% and core PCE to 3.1%, both above expectations, signaling insufficient inflation progress."
+        },
+        {
+          "zh": "美债抛售暂歇，MOVE指数降至约一个月低位，债券波动率回落。",
+          "en": "The Treasury sell-off has paused, with the MOVE index at a roughly one-month low, indicating lower bond volatility."
+        },
+        {
+          "zh": "微软利用AAA评级发行至少250亿美元投资级债券，为逾九年来首次，恰逢债市供应创纪录。",
+          "en": "Microsoft raised at least $25 billion in its first U.S. investment-grade bond sale in over nine years, amid record debt supply."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "inflation",
+        "rate hikes",
+        "bond supply",
+        "Microsoft"
+      ],
+      "tickers": [
+        "MSFT"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "6ae392679fd2fa3c16caf908",
       "title": "Why the slowdown in Wall Street deals?",
@@ -12031,274 +12343,6 @@
         "KR"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:FsKWqc-Dkzo",
-      "title": "Russia Is Trying to Intensify War With Ukraine, Says Romania's President",
-      "title_zh": "罗马尼亚总统：俄罗斯试图加剧乌克兰战争并挑衅邻国，无意终止星链合同",
-      "url": "https://www.youtube.com/watch?v=FsKWqc-Dkzo",
-      "published_at": "2026-10-22T21:08:48+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "罗马尼亚总统Nicusor Dan表示，俄罗斯正试图加剧乌克兰战争并挑衅欧洲邻国，罗马尼亚与北约讨论安全及防御俄罗斯无人机攻击。Dan还表示，罗马尼亚没有计划终止与马斯克旗下Starlink卫星服务的合同。",
-      "summary_en": "Romanian President Nicusor Dan says Russia is trying to intensify the war in Ukraine and provoke European neighbors. He discussed security with NATO and defending against Russian drone attacks. Dan also said Romania has no plans to end its contract with Elon Musk's Starlink satellite service.",
-      "detail_zh": "罗马尼亚总统Nicusor Dan在“Balance of Power”节目中表示，俄罗斯正试图加剧乌克兰战争并挑衅欧洲邻国。他谈到与北约的安全合作以及防御俄罗斯无人机攻击。Dan还明确表示，罗马尼亚没有计划终止与Elon Musk旗下Starlink卫星服务的合同。",
-      "detail_en": "Romanian President Nicusor Dan said on \"Balance of Power\" that Russia is trying to intensify the war in Ukraine and provoke European neighbors. He discussed security with NATO and defending against Russian drone attacks. Dan also stated clearly that his country has no plans to end its contract with Elon Musk's Starlink satellite service.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "罗马尼亚总统称俄罗斯试图加剧乌克兰战争并挑衅欧洲邻国。",
-          "en": "Romanian President says Russia is trying to intensify the war in Ukraine and provoke European neighbors."
-        },
-        {
-          "zh": "罗马尼亚与北约讨论安全及防御俄罗斯无人机攻击。",
-          "en": "Romania discusses security with NATO and defending against Russian drone attacks."
-        },
-        {
-          "zh": "罗马尼亚没有计划终止与Starlink的合同。",
-          "en": "Romania has no plans to end its contract with Starlink."
-        }
-      ],
-      "tags": [
-        "Romania",
-        "Russia-Ukraine war",
-        "NATO",
-        "Starlink"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:P_L9aTswobs",
-      "title": "Mark Zuckerberg Plots Deal to Pay Wealth Tax, Keep Meta Control",
-      "title_zh": "Meta拟发无投票权新股，扎克伯格控制权安排引关注",
-      "url": "https://www.youtube.com/watch?v=P_L9aTswobs",
-      "published_at": "2026-10-22T20:59:32+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Meta计划向现有投资者发行一类新的无投票权股票，并给予扎克伯格特殊协议，使其可在不稀释多数投票权的情况下出售部分持股。此前公司融资需求与加州财富税提案引发数月博弈，扎克伯格曾向董事会发出最后通牒。",
-      "summary_en": "Meta plans to offer a new class of non-voting shares to existing investors, with a special agreement allowing Zuckerberg to sell some stock without diluting his majority voting power. The move follows months of wrangling over financing needs and a proposed California wealth tax, including a dinner-table ultimatum with the board.",
-      "detail_zh": "据Bloomberg Tech主持人Ed Ludlow介绍，Meta将向现有投资者发行一类新的无投票权股票。扎克伯格将获得一项特殊协议，使其能够在不稀释多数投票权的情况下出售部分该类股票。这一安排源于公司融资需求与加州财富税提案之间长达数月的博弈，扎克伯格曾与董事会在餐桌上发出最后通牒。节目还讨论了创始人财富、税收与投票权的关系。此外，节目涵盖芯片股下挫与债券收益率下跌、AI支出热潮、Lead Bank的金融科技与嵌入式银行及AI代理前景、Affirm与Sam's Club的独家先买后付合作、先买后付与消费支出及与信用卡的对比，以及特斯拉、Meta和航空股等个股走势。",
-      "detail_en": "According to Bloomberg Tech host Ed Ludlow, Meta will offer a new class of non-voting shares to existing investors. Zuckerberg will have a special agreement giving him the ability to sell some of that stock without diluting his majority voting power. The arrangement follows months of wrangling over the company's financing needs and a proposed California wealth tax, including a dinner-table ultimatum with the board. The program also covers founder wealth, taxes and voting power; chip stocks plunging and bond yields falling; the AI spending boom; Lead Bank and the future of fintech, embedded banking and AI agents; Affirm's exclusive Buy Now, Pay Later partnership with Sam's Club; BNPL versus credit cards and consumer spending; and stock movers including Tesla, Meta and airlines.",
-      "conclusion_zh": "Meta的新股权结构旨在平衡融资需求与创始人控制权，投资者需关注无投票权股份对治理结构及潜在稀释的影响。",
-      "conclusion_en": "Meta's new share structure aims to balance financing needs with founder control; investors should watch the governance and potential dilution implications of non-voting shares.",
-      "key_points": [
-        {
-          "zh": "Meta计划向现有投资者发行新的无投票权股票类别。",
-          "en": "Meta plans to offer a new class of non-voting shares to existing investors."
-        },
-        {
-          "zh": "扎克伯格将获特殊协议，可在不稀释多数投票权的情况下出售部分持股。",
-          "en": "Zuckerberg will have a special agreement allowing him to sell some stock without diluting his majority voting power."
-        },
-        {
-          "zh": "该安排源于融资需求与加州财富税提案引发的数月博弈，扎克伯格曾向董事会发出最后通牒。",
-          "en": "The arrangement follows months of wrangling over financing needs and a proposed California wealth tax, including a dinner-table ultimatum with the board."
-        },
-        {
-          "zh": "节目还讨论了Affirm与Sam's Club的独家先买后付合作及消费支出趋势。",
-          "en": "The program also discussed Affirm's exclusive Buy Now, Pay Later partnership with Sam's Club and consumer spending trends."
-        }
-      ],
-      "tags": [
-        "Meta",
-        "Zuckerberg",
-        "dual-class shares",
-        "corporate governance",
-        "fintech"
-      ],
-      "tickers": [
-        "META",
-        "TSLA",
-        "MRNA",
-        "AFRM"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:1kw3WCAVbXA",
-      "title": "Canada Tells Diplomats Stay Away From US Candidates",
-      "title_zh": "卡尼要求加拿大外交官回避美国中期选举候选人",
-      "url": "https://www.youtube.com/watch?v=1kw3WCAVbXA",
-      "published_at": "2026-10-22T20:55:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "加拿大总理马克·卡尼要求所有加拿大外交官避免与参加美国中期选举的候选人接触，会面需特别许可，以避免被指政治干预。",
-      "summary_en": "Canadian Prime Minister Mark Carney has instructed all Canadian diplomats to avoid contact with anyone running in the upcoming US midterm elections, with meetings requiring special permission, to avoid allegations of political interference.",
-      "detail_zh": "据彭博社的Josh Wingrove报道，加拿大总理马克·卡尼希望所有加拿大外交官远离任何参加即将到来的美国中期选举的候选人。外交官只有在获得特别许可的情况下才能与这些候选人会面。卡尼此举旨在避免被指控政治干预。报道未提供更多细节。",
-      "detail_en": "According to Bloomberg's Josh Wingrove, Canadian Prime Minister Mark Carney wants all of his Canadian diplomats to stay away from anyone running for office in the upcoming US midterm elections. Diplomats can only have meetings with special permission. Carney wants to avoid allegations of political interference. The report does not provide further details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "卡尼要求加拿大外交官避免与参加美国中期选举的候选人接触。",
-          "en": "Carney instructs Canadian diplomats to avoid contact with candidates running in the US midterm elections."
-        },
-        {
-          "zh": "与候选人会面需获得特别许可。",
-          "en": "Meetings with candidates require special permission."
-        },
-        {
-          "zh": "目的是避免被指控政治干预。",
-          "en": "The aim is to avoid allegations of political interference."
-        }
-      ],
-      "tags": [
-        "Canada",
-        "US midterm elections",
-        "diplomacy",
-        "political interference"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Dn891oSS_Ns",
-      "title": "Jeffrey Sherman on the Treasury Rally, Fiscal Fears and Fading Foreign Demand | Bloomberg",
-      "title_zh": "DoubleLine副CIO：美债超卖反弹，但财政压力下仍低配长端",
-      "url": "https://www.youtube.com/watch?v=Dn891oSS_Ns",
-      "published_at": "2026-10-22T20:43:24+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "DoubleLine Capital副首席投资官Jeffrey Sherman认为，近期美债上涨更多是超卖后的技术性反弹与法国政治动荡引发的避险买盘，而非基本面变化。他仍对长端美债保持显著低配，因财政压力终将显现，且美联储可能需要加息。",
-      "summary_en": "Jeffrey Sherman, Deputy CIO at DoubleLine Capital, attributes the recent Treasury rally to oversold conditions and safe-haven flows amid French political stress, rather than fundamental changes. He remains significantly underweight the long end of the curve, expecting fiscal pressures to eventually materialize and the Fed may need to hike.",
-      "detail_zh": "Sherman指出，美债曲线多数期限此前处于非常超卖的水平，近期上涨部分是对超卖状况的修正，同时AI交易叙事出现一些变化，但基本面并未发生太大改变。法国政治动荡导致10年期法债收益率高于同期限美债，可能促使国际投资者转向美国资产，为美债带来避险买盘。尽管美国存在财政担忧，但交易层面上避险需求压倒财政顾虑；DoubleLine同意Ken Griffin对财政问题的评论，因此在多数组合中显著低配长端美债，但未 outright 做空。Sherman认为美联储可能需要加息，但可能不会行动以避免令市场意外，而市场已定价未来3至6个月的加息，因此债券投资者认为加息或已计入价格，曲线中段和长端存在相对价值。对于财政部发债策略，Sherman认为Scott Bessent希望减少长端发行、增加短端发行，但边际影响有限，除非采取更大规模的干预措施。他批评Bessent作为美债“推销员”表现不佳，使用过于激进的措辞令市场反应消极。对于中期选举，Sherman认为政治僵局有利于财政状况，因为无法通过扩大赤字的政策；风险在于共和党可能急于通过调和程序强行推动政策。他还提到，美债市场投资者结构变化，对冲基金等快钱通过基差交易参与，但更关键的是需要找到外国需求，鼓励贸易伙伴继续投资美债。",
-      "detail_en": "Sherman notes that most of the Treasury curve was very oversold, and the recent rally is partly a retracement of those conditions, along with some change in the AI trade narrative, though fundamentals haven't changed much. French political stress has pushed 10-year French bond yields above US Treasuries, potentially attracting international investors to US assets and providing a safe-haven bid for Treasuries. Despite US fiscal concerns, the flight to safety overwhelms fiscal worries from a trading standpoint; DoubleLine agrees with Ken Griffin's comments on fiscal issues and remains significantly underweight the long end in most portfolios, though not outright short. Sherman believes the Fed may need to hike but likely won't to avoid catching the market offsides, while the market has already priced hikes over the next 3 to 6 months, offering relative value in the belly and longer end of the curve. On Treasury issuance, Sherman thinks Scott Bessent wants to reduce long-end issuance and increase front-end issuance, but the marginal impact on long-dated Treasuries is limited unless there are larger interventionist measures. He criticizes Bessent's performance as a salesman for US government debt, saying aggressive language has not been well received by the market. On midterms, Sherman sees gridlock as positive for the fiscal situation because it prevents further deficit expansion; the risk is Republicans rushing through reconciliation policies. He also notes the shift in the Treasury market toward fast money like hedge funds via the basis trade, but the bigger issue is finding foreign demand and encouraging trade partners to continue investing in Treasuries.",
-      "conclusion_zh": "美债短期受避险和超卖修复支撑，但财政压力下长端仍面临风险，投资者可关注曲线中段和长端的相对价值机会。",
-      "conclusion_en": "Treasuries are supported short-term by safe-haven flows and oversold recovery, but the long end remains at risk from fiscal pressures; investors may find relative value in the belly and longer end of the curve.",
-      "key_points": [
-        {
-          "zh": "美债近期上涨主要源于超卖修正和法国政治动荡引发的避险买盘，而非基本面变化。",
-          "en": "The recent Treasury rally is mainly due to oversold retracement and safe-haven bids from French political stress, not fundamental changes."
-        },
-        {
-          "zh": "DoubleLine在多数组合中显著低配长端美债，因财政压力终将显现，但未 outright 做空。",
-          "en": "DoubleLine is significantly underweight the long end of the curve in most portfolios, expecting fiscal pressures to materialize, but not outright short."
-        },
-        {
-          "zh": "Sherman认为美联储可能需要加息，但市场已定价未来3-6个月的加息，曲线中段和长端存在相对价值。",
-          "en": "Sherman believes the Fed may need to hike, but the market has already priced hikes over the next 3-6 months, offering relative value in the belly and longer end."
-        },
-        {
-          "zh": "财政部减少长端发行、增加短端发行的策略边际影响有限，除非采取更大规模干预。",
-          "en": "The Treasury's strategy to reduce long-end issuance and increase front-end issuance has limited marginal impact unless larger interventionist measures are taken."
-        },
-        {
-          "zh": "政治僵局有利于财政状况，但需警惕共和党可能急于通过调和程序强行推动政策。",
-          "en": "Political gridlock is positive for the fiscal situation, but watch for Republicans potentially rushing through reconciliation policies."
-        }
-      ],
-      "tags": [
-        "Treasuries",
-        "Fed",
-        "fiscal policy",
-        "France",
-        "midterms"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:a4C0o8gjnT4",
-      "title": "Romania Says Russia Escalating War",
-      "title_zh": "Bloomberg Balance of Power 早间版：科技股抛售、油价上涨与政策议题",
-      "url": "https://www.youtube.com/watch?v=a4C0o8gjnT4",
-      "published_at": "2026-10-22T20:27:48+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目讨论了科技股抛售与油价上涨的市场动态，并涉及特朗普与农民、美加关系、贸易关税、俄罗斯与乌克兰安全、罗马尼亚总统访谈、科技财报与债券反弹、能源价格与许可改革、数据中心与关键矿产等议题。",
-      "summary_en": "This episode covers market moves including a tech selloff and rising oil, along with topics such as Trump and farmers, U.S.-Canada relations, trade tariffs, Russia-Ukraine security, an interview with Romania's president, tech earnings and a bond rally, energy prices and permitting reform, and data centers and critical minerals.",
-      "detail_zh": "节目首先关注市场动态，包括科技股抛售和油价上涨。随后讨论特朗普与农民及艾奥瓦州投票、美加关系与选举紧张局势、贸易关税与农民救济。政治小组讨论艾奥瓦州与中期选举、特朗普支持率与共和党策略。国际方面涉及俄罗斯、乌克兰与欧洲安全，罗马尼亚总统谈俄罗斯威胁、俄罗斯无人机与罗马尼亚及北约、乌克兰与特朗普及和平谈判。市场部分还涉及科技财报与债券反弹。最后讨论能源价格与许可改革、国会能否通过许可改革，以及数据中心、采矿与关键矿产。",
-      "detail_en": "The program begins with market updates including a tech selloff and rising oil. It then covers Trump, farmers and the Iowa vote; U.S.-Canada relations and election tensions; trade, tariffs and farmer relief. A political panel discusses Iowa and the midterms, Trump's approval and Republican strategy. International segments include Russia, Ukraine and European security; Romania's president on the Russian threat; Russian drones, Romania and NATO; and Ukraine, Trump and peace negotiations. Markets coverage also includes tech earnings and a bond rally. The final segments address energy prices and permitting reform, whether Congress can pass permitting reform, and data centers, mining and critical minerals.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "市场动态：科技股抛售与油价上涨。",
-          "en": "Markets: tech selloff and rising oil."
-        },
-        {
-          "zh": "政治议题：特朗普与农民、艾奥瓦州投票、美加关系、贸易关税与农民救济。",
-          "en": "Politics: Trump and farmers, Iowa vote, U.S.-Canada relations, trade tariffs and farmer relief."
-        },
-        {
-          "zh": "国际安全：俄罗斯、乌克兰、欧洲安全、罗马尼亚与北约。",
-          "en": "International security: Russia, Ukraine, European security, Romania and NATO."
-        },
-        {
-          "zh": "市场与政策：科技财报、债券反弹、能源价格与许可改革。",
-          "en": "Markets and policy: tech earnings, bond rally, energy prices and permitting reform."
-        },
-        {
-          "zh": "资源与基础设施：数据中心、采矿与关键矿产。",
-          "en": "Resources and infrastructure: data centers, mining and critical minerals."
-        }
-      ],
-      "tags": [
-        "tech selloff",
-        "oil prices",
-        "trade tariffs",
-        "Russia-Ukraine",
-        "permitting reform"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ZxsKhf5rp2E",
-      "title": "Meta Slides 7% as AI Spending Fuels Credit Fears | Closing Bell",
-      "title_zh": "彭博电视美股收盘综述节目预告",
-      "url": "https://www.youtube.com/watch?v=ZxsKhf5rp2E",
-      "published_at": "2026-10-22T20:19:53+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅为彭博电视美股收盘节目的介绍与社交媒体链接，未包含任何市场数据、观点或分析。",
-      "summary_en": "The original text is merely a program description and social media links for Bloomberg Television's U.S. market close coverage, with no market data, commentary, or analysis.",
-      "detail_zh": "原文是彭博电视（Bloomberg Television）、彭博电台（Bloomberg Radio）和YouTube对美股收盘的跨平台综合报道的节目介绍，由Romaine Bostick、Jess Menton、Carol Massar和Tim Stenovec主持。内容仅包含节目宣传和社交媒体链接，未提供任何具体的市场走势、个股表现、经济数据或投资观点。因此，无法从中提炼出实质性的投资洞见。",
-      "detail_en": "The original text is a program description for comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube, hosted by Romaine Bostick, Jess Menton, Carol Massar, and Tim Stenovec. It contains only promotional content and social media links, without any specific market movements, individual stock performance, economic data, or investment opinions. Therefore, no substantive investment insights can be extracted.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "原文为彭博电视美股收盘节目的介绍，无实质市场内容。",
-          "en": "The text is an introduction to Bloomberg TV's U.S. market close program, with no substantive market content."
-        },
-        {
-          "zh": "节目由Romaine Bostick、Jess Menton、Carol Massar和Tim Stenovec主持。",
-          "en": "The program is hosted by Romaine Bostick, Jess Menton, Carol Massar, and Tim Stenovec."
-        },
-        {
-          "zh": "覆盖平台包括彭博电视、彭博电台和YouTube。",
-          "en": "Coverage platforms include Bloomberg Television, Bloomberg Radio, and YouTube."
-        }
-      ],
-      "tags": [
-        "bloomberg",
-        "market close",
-        "media"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
