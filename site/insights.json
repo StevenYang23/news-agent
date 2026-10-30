@@ -1,6 +1,276 @@
 {
-  "generated_at": "2026-10-30T00:38:51.171765+00:00",
+  "generated_at": "2026-10-30T01:17:02.839725+00:00",
   "insights": [
+    {
+      "guid": "yt:utgTvjBMv8A",
+      "title": "Early Voting Turnout Surges Nationwide",
+      "title_zh": "Bloomberg《Balance of Power》聚焦中期选举、伊朗局势与科技股财报",
+      "url": "https://www.youtube.com/watch?v=utgTvjBMv8A",
+      "published_at": "2026-10-29T23:30:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "参议员Rick Scott主张对伊朗采取强硬军事姿态以阻止其获得核武器，并称美国需为战争做准备；前众议院金融服务委员会主席Patrick McHenry认为民主党可能赢得众议院控制权，但多数优势规模不确定。节目还讨论了英特尔和亚马逊财报对科技股的冲击，以及多个参议院选区的选情。",
+      "summary_en": "Sen. Rick Scott (R-FL) advocates a hardline military stance to prevent Iran from obtaining a nuclear weapon, saying the US must prepare for war to achieve peace. Former House Financial Services Committee chair Patrick McHenry says Democrats are likely to win control of the House, though the size of their majority remains uncertain. The show also covers Intel and Amazon earnings rattling tech stocks and several Senate races.",
+      "detail_zh": "在Bloomberg的《Balance of Power》节目中，参议员Rick Scott（佛罗里达州共和党）表示美国应“摧毁”伊朗政权，并认为美国必须为战争做准备以实现和平，防止德黑兰获得核武器。他还讨论了AI投资、英特尔、油价和军事选项。前众议院金融服务委员会主席、Bloomberg撰稿人Patrick McHenry表示，民主党可能赢得众议院控制权，但多数优势的规模仍不确定；他还谈及共和党领导权之争（Scalise对Jordan）以及Hakeem Jeffries和潜在民主党众议院的前景。节目还提到特朗普在南卡罗来纳州紧张的参议院选战中竞选，以及英特尔和亚马逊财报对科技股的冲击。其他章节涉及巴西大选和博索纳罗、债务上限、支出和联邦预算、阿拉斯加和堪萨斯参议院选情，以及得克萨斯、缅因、密歇根参议院选战和俄亥俄广告反弹等。",
+      "detail_en": "On Bloomberg's \"Balance of Power,\" Sen. Rick Scott (R-FL) said the US should \"demolish\" Iran's regime and argued the country must prepare for war to achieve peace and prevent Tehran from obtaining a nuclear weapon. He also discussed AI investment, Intel, oil prices, and military options. Patrick McHenry, former House Financial Services Committee chair and Bloomberg contributor, said Democrats are likely to win control of the House, though the size of their majority remains uncertain; he also discussed the GOP leadership fight (Scalise vs. Jordan) and Hakeem Jeffries and a potential Democratic House. The show also covered Trump campaigning in a tight South Carolina Senate race and Intel and Amazon earnings rattling tech stocks. Other chapters touched on the Brazil election and Bolsonaro, the debt ceiling, spending and the federal budget, the Alaska and Kansas Senate races, and the Texas, Maine, and Michigan Senate races, Ohio ad backlash, and candidate quality.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "参议员Rick Scott主张美国应“摧毁”伊朗政权，并称必须为战争做准备以实现和平并防止伊朗获得核武器。",
+          "en": "Sen. Rick Scott (R-FL) said the US should \"demolish\" Iran's regime and argued the country must prepare for war to achieve peace and prevent Tehran from obtaining a nuclear weapon."
+        },
+        {
+          "zh": "前众议院金融服务委员会主席Patrick McHenry认为民主党可能赢得众议院控制权，但多数优势规模不确定。",
+          "en": "Patrick McHenry, former House Financial Services Committee chair, says Democrats are likely to win control of the House, though the size of their majority remains uncertain."
+        },
+        {
+          "zh": "英特尔和亚马逊财报对科技股造成冲击。",
+          "en": "Intel and Amazon earnings rattled tech stocks."
+        },
+        {
+          "zh": "节目讨论了共和党领导权之争（Scalise对Jordan）以及Hakeem Jeffries和潜在民主党众议院的前景。",
+          "en": "The show discussed the GOP leadership fight (Scalise vs. Jordan) and Hakeem Jeffries and a potential Democratic House."
+        },
+        {
+          "zh": "多个参议院选情受到关注，包括南卡罗来纳、阿拉斯加、堪萨斯、得克萨斯、缅因和密歇根。",
+          "en": "Several Senate races were in focus, including South Carolina, Alaska, Kansas, Texas, Maine, and Michigan."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Iran",
+        "tech earnings",
+        "House control",
+        "Senate races"
+      ],
+      "tickers": [
+        "INTC",
+        "AMZN"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:KVrz6BlwHEc",
+      "title": "The Debrief: How Democratic Control Could Reshuffle Congress' Most Powerful Committees",
+      "title_zh": "民主党若掌控国会，华尔街、AI与加密监管或生变",
+      "url": "https://www.youtube.com/watch?v=KVrz6BlwHEc",
+      "published_at": "2026-10-29T22:56:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博的Mario Parker在节目中讨论了民主党掌控国会可能如何重塑对华尔街、人工智能和加密货币的监管。节目未提供具体政策细节或市场影响分析。",
+      "summary_en": "Bloomberg's Mario Parker discussed how Democratic control of Congress could reshape oversight of Wall Street, AI and cryptocurrency. The segment did not provide specific policy details or market impact analysis.",
+      "detail_zh": "彭博的Mario Parker做客Bloomberg“Balance of Power”节目，与Joe Mathieu讨论了民主党掌控国会可能如何重塑对华尔街、人工智能和加密货币的监管。原文仅提及这一讨论主题，未展开具体监管措施、立法提案或对市场的影响。内容为节目预告式简述，缺乏实质性细节。",
+      "detail_en": "Bloomberg's Mario Parker joined Bloomberg's \"Balance of Power\" with Joe Mathieu to discuss how Democratic control of Congress could reshape oversight of Wall Street, AI and cryptocurrency. The source only mentions the topic of discussion and does not elaborate on specific regulatory measures, legislative proposals, or market implications. The content is a brief program description lacking substantive details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论主题：民主党掌控国会可能重塑对华尔街、AI和加密货币的监管。",
+          "en": "Topic: Democratic control of Congress could reshape oversight of Wall Street, AI and cryptocurrency."
+        },
+        {
+          "zh": "嘉宾：彭博的Mario Parker。",
+          "en": "Guest: Bloomberg's Mario Parker."
+        },
+        {
+          "zh": "节目：Bloomberg“Balance of Power”，主持人为Joe Mathieu。",
+          "en": "Program: Bloomberg's \"Balance of Power,\" hosted by Joe Mathieu."
+        },
+        {
+          "zh": "原文未提供具体监管政策细节或市场影响分析。",
+          "en": "The source does not provide specific regulatory policy details or market impact analysis."
+        }
+      ],
+      "tags": [
+        "regulation",
+        "Congress",
+        "Wall Street",
+        "AI",
+        "cryptocurrency"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6VZN1bYQfQU",
+      "title": "Bloomberg Businessweek Talks Investment Landscape, Integrating AI at Schwab IMPACT",
+      "title_zh": "嘉信理财峰会：AI热潮下的财富管理、市场集中度与另类投资",
+      "url": "https://www.youtube.com/watch?v=6VZN1bYQfQU",
+      "published_at": "2026-10-29T22:54:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博商业周刊在波士顿嘉信理财IMPACT峰会上探讨投资格局。嘉信高管及行业专家讨论了AI在投资服务中的应用、AI与科技带来的风险、市场集中度与分散化、另类投资与私募股权资金流，以及经济数据与消费者感受的差异。",
+      "summary_en": "Bloomberg Businessweek examines the investment landscape from the Schwab IMPACT summit in Boston. Schwab executives and industry experts discuss AI in investment services, risks from AI and tech, market concentration and diversification, flows to alternatives and private equity, and the gap between economic data and consumer sentiment.",
+      "detail_zh": "在波士顿举行的嘉信理财IMPACT峰会上，彭博商业周刊从多个角度审视投资格局。嘉信理财顾问服务家族办公室与高端财富集团负责人Sam Kang讨论了富裕客户的长期投资方式。DAFgiving360总裁Julie Sunwoo探讨了市场如何影响慈善捐赠和捐赠者建议基金。嘉信理财总裁兼CEO Rick Wurster详细介绍了嘉信在投资服务中对AI的应用。嘉信资产管理高级投资组合策略师D.J. Tierney与CAPTRUST首席投资官Michael Vogelzang讨论了AI与科技带来的风险。嘉信宏观研究与投资负责人Kevin Gordon讨论了第三季度GDP以及经济数据与人们对经济感受之间的差异。iCapital私人财富解决方案负责人Mark Mezzanotte与嘉信顾问体验负责人Jalina Kerr讨论了流向另类投资和私募股权的资金。会议还涉及Alphabet因AI与搜索担忧而暴跌、AI繁荣是否泡沫、预测市场与体育博彩、AI代理与理财、市场集中度与分散化、AI投资与波动性及市场风险、石油通胀与经济风险、AI生产力与劳动力市场、私募市场与另类投资、流动性与私人信贷等议题。",
+      "detail_en": "At the Schwab IMPACT summit in Boston, Bloomberg Businessweek examined the investment landscape from multiple angles. Sam Kang, Head of Family Office and Premier Wealth Group for Schwab Advisor Services, discussed how wealthy clients approach long-term investing. Julie Sunwoo, president of DAFgiving360, discussed how the market impacts charitable giving and donor-advised funds. Rick Wurster, Schwab president and CEO, detailed Schwab's use of AI in investment services. D.J. Tierney, senior investment portfolio strategist at Schwab Asset Management, and Michael Vogelzang, CIO at CAPTRUST, discussed risks from AI and tech. Kevin Gordon, Schwab head of Macro Research & Investing, discussed third-quarter GDP and how economic data differs from how people feel about the economy. Mark Mezzanotte, head of Private Wealth Solutions for iCapital, and Jalina Kerr, Schwab head of Advisor Experience, discussed flows to alternative investments and private equity. The session also covered Alphabet plunging on AI and search concerns, whether the AI boom is a bubble, prediction markets vs. sports gambling, AI agents and managing money, market concentration and diversification, AI investing, volatility and market risk, oil, inflation and economic risks, AI, productivity and the labor market, private markets and alternative investments, liquidity and private credit.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "嘉信理财CEO Rick Wurster介绍了公司在投资服务中运用AI的情况。",
+          "en": "Schwab president and CEO Rick Wurster detailed the firm's use of AI in investment services."
+        },
+        {
+          "zh": "嘉信资产管理策略师D.J. Tierney与CAPTRUST CIO Michael Vogelzang讨论了AI与科技带来的风险。",
+          "en": "D.J. Tierney of Schwab Asset Management and Michael Vogelzang, CIO at CAPTRUST, discussed risks from AI and tech."
+        },
+        {
+          "zh": "嘉信宏观研究负责人Kevin Gordon讨论了第三季度GDP以及经济数据与人们感受之间的差异。",
+          "en": "Kevin Gordon, Schwab head of Macro Research & Investing, discussed third-quarter GDP and how economic data differs from how people feel about the economy."
+        },
+        {
+          "zh": "iCapital的Mark Mezzanotte与嘉信的Jalina Kerr讨论了流向另类投资和私募股权的资金。",
+          "en": "Mark Mezzanotte of iCapital and Jalina Kerr of Schwab discussed flows to alternative investments and private equity."
+        },
+        {
+          "zh": "会议议题包括Alphabet因AI与搜索担忧暴跌、AI泡沫争论、市场集中度与分散化、波动性与市场风险。",
+          "en": "Topics included Alphabet plunging on AI and search concerns, the AI bubble debate, market concentration and diversification, and volatility and market risk."
+        }
+      ],
+      "tags": [
+        "AI",
+        "wealth management",
+        "market concentration",
+        "private equity",
+        "Schwab IMPACT"
+      ],
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "CMG"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:c2gQl1R14p0",
+      "title": "Trump on Alaska Sen. Race Controversy: It's Voter Fraud",
+      "title_zh": "阿拉斯加参议院选举与选票堆叠法律问题",
+      "url": "https://www.youtube.com/watch?v=c2gQl1R14p0",
+      "published_at": "2026-10-29T22:48:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社的Anna Edgerton在节目中讨论了阿拉斯加参议院选举，以及围绕选票堆叠（ballot stacking）可能涉及的法律和竞选财务问题。",
+      "summary_en": "Bloomberg's Anna Edgerton discussed the Alaska Senate race and the potential legal and campaign-finance questions surrounding ballot stacking on the program.",
+      "detail_zh": "彭博社的Anna Edgerton做客Bloomberg \"Balance of Power\"节目，与Joe Mathieu讨论了阿拉斯加参议院选举。讨论重点围绕选票堆叠（ballot stacking）可能引发的法律和竞选财务问题。原文未提供具体法律细节、竞选财务规则或选举结果。",
+      "detail_en": "Bloomberg's Anna Edgerton joined Bloomberg's \"Balance of Power\" with Joe Mathieu to discuss the Alaska Senate race. The discussion focused on potential legal and campaign-finance questions surrounding ballot stacking. The original text does not provide specific legal details, campaign-finance rules, or election outcomes.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论主题为阿拉斯加参议院选举。",
+          "en": "The discussion topic is the Alaska Senate race."
+        },
+        {
+          "zh": "焦点是选票堆叠（ballot stacking）可能带来的法律和竞选财务问题。",
+          "en": "The focus is on potential legal and campaign-finance questions surrounding ballot stacking."
+        },
+        {
+          "zh": "嘉宾为彭博社的Anna Edgerton，主持人为Joe Mathieu。",
+          "en": "The guest is Bloomberg's Anna Edgerton, hosted by Joe Mathieu."
+        }
+      ],
+      "tags": [
+        "Alaska Senate race",
+        "ballot stacking",
+        "campaign finance",
+        "election law"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:4gc6q6ysGAQ",
+      "title": "McHenry Sees Democratic House, GOP Leadership Fight",
+      "title_zh": "麦亨利：民主党料将赢得众议院控制权",
+      "url": "https://www.youtube.com/watch?v=4gc6q6ysGAQ",
+      "published_at": "2026-10-29T22:36:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前众议院金融服务委员会主席帕特里克·麦亨利表示，民主党可能赢得众议院多数席位，但优势幅度尚不确定。若共和党失利，可能引发吉姆·乔丹与史蒂夫·斯卡利斯之间的领导权之争，而斯卡利斯现有的领导架构或赋予其优势。麦亨利还指出，即使哈基姆·杰弗里斯成为议长，在多数优势微弱且党内存在意识形态分歧的情况下，管理民主党也将面临困难。",
+      "summary_en": "Former House Financial Services Committee Chair Patrick McHenry says Democrats are likely to win control of the House, though the size of their majority remains uncertain. He notes a Republican loss could trigger a leadership battle between Jim Jordan and Steve Scalise, with Scalise's existing leadership infrastructure potentially giving him an edge. McHenry also says Hakeem Jeffries could face a difficult task managing Democrats even as speaker, particularly with a narrow majority and ideological divisions within the caucus.",
+      "detail_zh": "麦亨利在彭博“Balance of Power”节目中与乔·马蒂厄交谈时作出上述表示。他认为民主党有望赢得众议院，但多数优势的规模仍不确定。如果共和党失去多数，可能引发吉姆·乔丹和史蒂夫·斯卡利斯之间的领导权竞争，斯卡利斯现有的领导架构可能使其占据优势。麦亨利还表示，即使哈基姆·杰弗里斯成为议长，他也可能面临管理民主党的艰巨任务，尤其是在多数优势微弱且党团内部存在意识形态分歧的情况下。",
+      "detail_en": "McHenry made the remarks in an interview with Joe Mathieu on Bloomberg's \"Balance of Power.\" He said Democrats are likely to win control of the House, though the size of their majority remains uncertain. A Republican loss could set up a leadership battle between Jim Jordan and Steve Scalise, with Scalise's existing leadership infrastructure potentially giving him an advantage. McHenry also said Hakeem Jeffries could face a difficult task managing Democrats even if he becomes speaker, particularly with a narrow majority and ideological divisions inside the caucus.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "麦亨利预计民主党将赢得众议院控制权，但多数优势幅度不确定。",
+          "en": "McHenry expects Democrats to win control of the House, but the size of their majority is uncertain."
+        },
+        {
+          "zh": "若共和党失利，可能引发吉姆·乔丹与史蒂夫·斯卡利斯的领导权之争，斯卡利斯的现有架构或带来优势。",
+          "en": "A Republican loss could trigger a leadership battle between Jim Jordan and Steve Scalise, with Scalise's existing infrastructure potentially giving him an edge."
+        },
+        {
+          "zh": "麦亨利认为，即使杰弗里斯成为议长，在多数优势微弱且党内有意识形态分歧的情况下，管理民主党也将困难重重。",
+          "en": "McHenry believes Jeffries would face a difficult task managing Democrats even as speaker, given a narrow majority and ideological divisions."
+        }
+      ],
+      "tags": [
+        "House control",
+        "Democratic majority",
+        "Republican leadership",
+        "Hakeem Jeffries"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:eLa9HRg1C6c",
+      "title": "Sen. Scott Says US Should ‘Demolish’ Iran’s Regime",
+      "title_zh": "参议员斯科特主张对伊朗强硬并反对企业补贴",
+      "url": "https://www.youtube.com/watch?v=eLa9HRg1C6c",
+      "published_at": "2026-10-29T22:30:59+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国参议员斯科特（共和党-佛罗里达州）表示美国应“推翻”伊朗政权，并认为美国有能力结束冲突而非持续保护霍尔木兹海峡的石油流动。他还反对政府向企业提供补贴，但倾向于让纳税人在联邦资金投入时获得股权。",
+      "summary_en": "Sen. Scott (R-FL) says the US should \"demolish\" Iran's regime and argues the US military can bring the conflict to a conclusion rather than continue costly operations protecting oil flows through the Strait of Hormuz. He also opposes government grants to companies but prefers taxpayers receive equity when federal money is provided.",
+      "detail_zh": "参议员斯科特（共和党-佛罗里达州）在彭博“Balance of Power”节目中表示，美国应“推翻”伊朗政权，并主张国家必须为战争做好准备以实现和平，防止德黑兰获得核武器。他认为美国军方有能力将冲突引向结局，而不是继续为保护霍尔木兹海峡的石油流动而进行代价高昂的行动。此外，斯科特反对政府向企业提供补贴，但倾向于在联邦资金提供时让纳税人获得股权，认为政府应寻求投资回报。",
+      "detail_en": "Sen. Scott (R-FL) said on Bloomberg's \"Balance of Power\" that the US should \"demolish\" Iran's regime and argued the country must prepare for war to achieve peace and prevent Tehran from obtaining a nuclear weapon. He said the US military has the capability to bring the conflict to a conclusion rather than continue costly operations protecting oil flows through the Strait of Hormuz. Additionally, Scott opposes government grants to companies but would prefer taxpayers receive equity when federal money is provided, arguing the government should seek a return on those investments.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "斯科特主张美国应“推翻”伊朗政权，并称需为战争做准备以实现和平。",
+          "en": "Scott advocates that the US should \"demolish\" Iran's regime and says the country must prepare for war to achieve peace."
+        },
+        {
+          "zh": "他认为美军有能力结束冲突，而非持续为保护霍尔木兹海峡石油流动进行高昂行动。",
+          "en": "He believes the US military can bring the conflict to a conclusion rather than continue costly operations protecting oil flows through the Strait of Hormuz."
+        },
+        {
+          "zh": "斯科特反对政府对企业补贴，但支持联邦资金投入时让纳税人获得股权。",
+          "en": "Scott opposes government grants to companies but supports taxpayers receiving equity when federal money is provided."
+        }
+      ],
+      "tags": [
+        "Iran",
+        "US politics",
+        "oil",
+        "government subsidies"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4952181",
       "title": "Wall Street Breakfast Podcast: SCOTUS Weighs Oil Liability",
