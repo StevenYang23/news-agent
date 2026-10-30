@@ -1,6 +1,343 @@
 {
-  "generated_at": "2026-10-30T06:24:22.618875+00:00",
+  "generated_at": "2026-10-30T07:19:32.488987+00:00",
   "insights": [
+    {
+      "guid": "yt:Brk9DUCIFbM",
+      "title": "AI Boom Shows Cracks After US, China Earnings",
+      "title_zh": "彭博中国秀：亚洲芯片股承压，铜短缺影响AI建设",
+      "url": "https://www.youtube.com/watch?v=Brk9DUCIFbM",
+      "published_at": "2026-10-30T06:13:56+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博中国秀聚焦中国汽车与光学制造商财报不及预期、亚洲芯片股受亚马逊和英特尔展望拖累、美银分析师谈铜短缺对AI建设的影响，以及中国投资者减持港股等话题。",
+      "summary_en": "This episode of Bloomberg: The China Show covers disappointing earnings from Chinese car and optics makers, Asian chip stocks under pressure after Amazon and Intel outlooks, BofA's take on how the copper shortage will impact the AI buildout, and Chinese investors pulling back from Hong Kong stocks.",
+      "detail_zh": "节目讨论了多个市场议题：中国汽车和光学制造商的财报令人失望；富士康的Michael Chiang在独家采访中谈论AI热潮如何提振消费电子，以及公司在印度的扩张计划；汇丰的Joey Chew分析外汇市场；中国投资者从港股撤资；远景的Ricky Zheng介绍其位于内蒙古的Galaxy Campus；亚洲芯片股在亚马逊和英特尔发布展望后承压；美银的Matty Zhao探讨铜短缺对AI建设的影响；此外还有欧洲央行行长拉加德提前离任、币安估计黑客攻击总影响达63亿美元、中国最高领导层出现罕见的中期变动，以及ETF发行商争相开发与Anthropic相关的ETF产品等新闻。",
+      "detail_en": "The program covers several market topics: Chinese car and optics makers reported disappointing earnings; Foxconn's Michael Chiang discussed in an exclusive interview how the AI boom will boost consumer electronics and the company's expansion plans in India; HSBC's Joey Chew analyzed FX markets; Chinese investors pulled back from Hong Kong stocks; Envision's Ricky Zheng introduced its Galaxy Campus in Inner Mongolia; Asian chip stocks came under pressure after Amazon and Intel outlooks; BofA's Matty Zhao discussed how the copper shortage will impact the AI buildout; other news included Christine Lagarde leaving the ECB early, Binance estimating the total impact of a hack at $6.3 billion, a rare mid-cycle change in China's top leadership, and ETF issuers rushing to develop Anthropic-related ETF products.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "中国汽车和光学制造商财报不及预期。",
+          "en": "Chinese car and optics makers' earnings disappointed."
+        },
+        {
+          "zh": "亚洲芯片股在亚马逊和英特尔发布展望后承压。",
+          "en": "Asian chip stocks under pressure after Amazon and Intel outlooks."
+        },
+        {
+          "zh": "美银的Matty Zhao讨论铜短缺对AI建设的影响。",
+          "en": "BofA's Matty Zhao discussed how the copper shortage will impact the AI buildout."
+        },
+        {
+          "zh": "中国投资者从香港股市撤资。",
+          "en": "Chinese investors pulled back from Hong Kong stocks."
+        },
+        {
+          "zh": "币安估计黑客攻击总影响达63亿美元，但称无证据表明钱包私钥泄露。",
+          "en": "Binance estimates total impact of hack at $6.3 billion, but says no evidence of any wallet private key leak."
+        }
+      ],
+      "tags": [
+        "China",
+        "AI",
+        "semiconductors",
+        "copper",
+        "earnings"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:JtvNQLdExBY",
+      "title": "Crypto Rocked by Biggest Heist on Record",
+      "title_zh": "日本央行维持利率不变，亚洲股市因英特尔与亚马逊财报下挫",
+      "url": "https://www.youtube.com/watch?v=JtvNQLdExBY",
+      "published_at": "2026-10-30T06:08:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "日本央行将隔夜拆借利率维持在1.25%不变。英特尔与亚马逊财报公布后，亚洲股市抛售加剧。节目还讨论了加密黑客事件对币安数字资产约63亿美元的影响、全球AI交易的风险与机会、印度电动车需求与供应限制、特朗普暗示进一步打击伊朗背景下的油价前景，以及铜潜在短缺。",
+      "summary_en": "The BOJ kept its overnight call rate at 1.25%. Asian equities sold off more deeply after Intel and Amazon results. The program also covered a crypto hack's estimated $6.3B impact on Binance's digital assets, risks and opportunities in the global AI trade, India EV demand and supply constraints, oil outlook as Trump signals further Iran strikes, and a potential copper shortage.",
+      "detail_zh": "日本央行（BOJ）将隔夜拆借利率维持在1.25%不变。英特尔与亚马逊财报公布后，亚洲股市抛售加剧。Ballet的Bobby Lee讨论了加密黑客事件对币安数字资产约63亿美元的影响，以及该事件对比特币的影响。RBC Wealth Management的Gautam Chadda分析了AI敞口风险以及全球AI交易中的机会与风险。Jio的上市首秀持续吸引投资者关注。Ather Energy的Tarun Mehta讨论了印度电动车需求以及供应限制对业务的拖累。随着特朗普暗示可能进一步打击伊朗，石油交易员为新的动荡做准备。Saxo Bank的Ole Hansen讨论了铜的潜在短缺，以及如果伊朗战争结束的油价前景。",
+      "detail_en": "The Bank of Japan kept its overnight call rate at 1.25%. Asian stocks deepened their selloff after Intel and Amazon reported results. Bobby Lee of Ballet discussed a crypto hack's estimated $6.3B impact on Binance's digital assets and its impact on Bitcoin. Gautam Chadda of RBC Wealth Management discussed AI exposure risks and opportunities and risks in the global AI trade. Jio's debut continued to captivate investors. Tarun Mehta of Ather Energy discussed India EV demand and supply constraints weighing on the business. Oil traders braced for fresh turbulence as Trump signaled further Iran strikes. Ole Hansen of Saxo Bank discussed a potential copper shortage and the oil outlook if the Iran war ends.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "日本央行将隔夜拆借利率维持在1.25%不变。",
+          "en": "The BOJ kept its overnight call rate at 1.25%."
+        },
+        {
+          "zh": "英特尔与亚马逊财报公布后，亚洲股市抛售加剧。",
+          "en": "Asian stocks sold off more deeply after Intel and Amazon results."
+        },
+        {
+          "zh": "加密黑客事件对币安数字资产的影响估计约63亿美元。",
+          "en": "A crypto hack's estimated impact on Binance's digital assets was about $6.3B."
+        },
+        {
+          "zh": "特朗普暗示可能进一步打击伊朗，石油交易员为动荡做准备。",
+          "en": "Oil traders braced for turbulence as Trump signaled further Iran strikes."
+        },
+        {
+          "zh": "Saxo Bank的Ole Hansen讨论了铜的潜在短缺。",
+          "en": "Ole Hansen of Saxo Bank discussed a potential copper shortage."
+        }
+      ],
+      "tags": [
+        "BOJ",
+        "Asia stocks",
+        "Intel",
+        "Amazon",
+        "crypto hack",
+        "AI trade",
+        "oil",
+        "copper"
+      ],
+      "tickers": [
+        "INTC",
+        "AMZN"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:bpWvQR6e3vE",
+      "title": "276: Rewiring Retirement Around The World: What Can We Learn?",
+      "title_zh": "全球退休体系重构：责任向个人转移，储蓄缺口显著",
+      "url": "https://www.youtube.com/watch?v=bpWvQR6e3vE",
+      "published_at": "2026-10-30T04:14:33+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "贝莱德播客讨论全球退休体系正经历结构性重构：人口老龄化与固定收益养老金计划消失，使退休责任、风险和资本从政府与雇主转向个人。调查显示七成美国工人自认准备充分，但实际储蓄仅能覆盖所需资金的50%-60%。英美德三国体系差异显著，英国市场化养老金资产近3万亿美元，德国国家主导体系仅约3000亿美元。",
+      "summary_en": "A BlackRock podcast discusses the structural rewiring of global retirement systems: aging populations and the disappearance of defined benefit pensions are shifting retirement responsibility, risk, and capital from governments and employers to individuals. Seven in 10 American workers feel prepared for retirement, but their savings may translate into just 50-60% of what they need. The UK's market-based pension assets are nearly $3 trillion versus Germany's roughly $300 billion state-led system.",
+      "detail_zh": "贝莱德《The Bid》播客中，主持人Oscar Pledo与贝莱德美国定义缴费业务主管Casey Mau及EMEA全球顾问关系与机构策略主管Helen Lee Jones讨论了全球退休体系的重构。Helen指出，旧退休体系所依赖的经济、人口和制度假设已不再成立：20世纪人们可能为同一雇主工作35-40年，退休后10-15年靠国家或雇主养老金生活；如今人们寿命更长，传统固定收益养老金计划消失，政府面临财政压力，个人日益对自身退休负责。Casey表示，责任向个人转移迫使重新思考退休体系的成功标准，临近退休者需同时扮演精算师、投资者和财务规划师，难度极高。她以父母分别作为教师和军事飞行员拥有传统固定收益养老金为例，说明这种安全感如今已不常见，但不应让个人独自应对，政策制定者、金融服务行业和雇主都有责任降低复杂性。Helen对比英美德体系：英国是市场化退休体系，拥有多种养老金储蓄选项，OECD数据显示英国养老金资产行业近3万亿美元；德国主要是国家主导的现收现付体系，养老金资产约3000亿美元，尽管两国人口规模相当（英国7000万，德国约8500万），德国养老金行业规模不到英国的十分之一。",
+      "detail_en": "On BlackRock's The Bid podcast, host Oscar Pledo spoke with Casey Mau, head of US defined contribution at BlackRock, and Helen Lee Jones, EMEA head of global consultant relations and institutional strategy, about the rewiring of global retirement systems. Helen noted that the economic, demographic, and institutional assumptions on which old retirement systems were built no longer hold: in the 20th century people might work 35-40 years for the same employer and retire for 10-15 years with income from the state or employer; now people live longer, traditional defined benefit pensions are disappearing, governments face fiscal pressures, and individuals are increasingly accountable for their own retirement. Casey said the shift forces a rethink of what success looks like in retirement systems, as people approaching retirement are asked to be part actuary, part investor, part financial planner—a tall order. She cited her parents, a teacher and a military pilot, who had traditional defined benefit pensions that gave the family security, a reality less common now; but individuals should not be left alone—policymakers, the financial services industry, and employers have a role in reducing complexity. Helen contrasted the UK and Germany: the UK is a market-based retirement system with a range of pension savings options, with OECD data putting the UK pension provider asset industry at almost $3 trillion; Germany is principally a state-led pay-as-you-go system with almost $300 billion, despite comparable population sizes (UK 70 million, Germany around 85 million), making Germany's pensions industry less than a tenth the size of the UK's.",
+      "conclusion_zh": "退休责任向个人转移是结构性趋势，储蓄缺口显著，投资者需更早规划并关注市场化养老金体系中的投资解决方案。",
+      "conclusion_en": "The shift of retirement responsibility to individuals is a structural trend with significant savings gaps; investors need to plan earlier and focus on investment solutions within market-based pension systems.",
+      "key_points": [
+        {
+          "zh": "全球退休体系正经历结构性重构，退休责任、风险和资本从政府与雇主转向个人。",
+          "en": "Global retirement systems are undergoing structural rewiring, with responsibility, risk, and capital shifting from governments and employers to individuals."
+        },
+        {
+          "zh": "七成美国工人自认退休准备充分，但实际储蓄可能仅能覆盖所需资金的50%-60%。",
+          "en": "Seven in 10 American workers feel prepared for retirement, but their savings may cover only 50-60% of what they need."
+        },
+        {
+          "zh": "英国市场化养老金资产近3万亿美元，德国国家主导体系仅约3000亿美元，尽管人口规模相当。",
+          "en": "UK market-based pension assets are nearly $3 trillion versus Germany's roughly $300 billion state-led system, despite comparable population sizes."
+        },
+        {
+          "zh": "临近退休者需同时扮演精算师、投资者和财务规划师，个人面临复杂财务决策。",
+          "en": "People approaching retirement are asked to be part actuary, part investor, part financial planner, facing complex financial decisions."
+        },
+        {
+          "zh": "政策制定者、金融服务行业和雇主有责任降低个人面临的复杂性，帮助实现退休结果。",
+          "en": "Policymakers, the financial services industry, and employers have a role in reducing complexity individuals face and helping solve for outcomes."
+        }
+      ],
+      "tags": [
+        "retirement",
+        "pensions",
+        "demographics",
+        "savings gap",
+        "asset management"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-WqeUYFqPJE",
+      "title": "Rewiring Retirement Around The World What Can We Learn | The Bid Investing Podcast",
+      "title_zh": "全球退休体系重构：责任向个人转移",
+      "url": "https://www.youtube.com/watch?v=-WqeUYFqPJE",
+      "published_at": "2026-10-30T04:00:18+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "贝莱德播客讨论全球退休体系正经历结构性重构，人口老龄化与固定收益养老金计划消失导致退休责任、风险和资本从政府与雇主向个人转移。各国体系差异显著，英国为市场主导型（养老金资产近3万亿美元），德国为国家主导现收现付型（约3000亿美元）。成功标准应从账户规模转向提供确定性和安全性。",
+      "summary_en": "BlackRock's podcast discusses the structural rewiring of global retirement systems, with aging populations and the decline of defined benefit pensions shifting responsibility, risk, and capital from governments and employers to individuals. Systems vary widely: the UK is market-based with nearly $3 trillion in pension assets, while Germany is state-led pay-as-you-go with about $300 billion. Success should be measured by certainty and security, not account size.",
+      "detail_zh": "贝莱德播客《The Bid》主持人Oscar Pulido与贝莱德美国定义缴费业务主管Casey Maurer及EMEA全球顾问关系与机构策略主管Helen Liez Jones讨论了全球退休体系的重构。Helen指出，旧退休体系所基于的经济、人口和制度假设已不再成立：20世纪模式是工作35-40年、退休10-15年，由国家和雇主提供收入；如今人们寿命延长，传统固定收益养老金体系消失，政府面临财政压力，个人日益对自己的退休负责。Casey认为，这迫使重新思考退休体系的成功标准——个人在临近退休时面临最复杂的财务决策，需要同时扮演精算师、投资者和财务规划师，而储蓄需维持多久既是财务问题也是高度个人化的问题。她以父母分别拥有教师和军方飞行员固定收益养老金为例，说明这种安全感如今已不常见，但责任转移不意味着放任个人，政策制定者、金融服务行业和雇主有责任降低复杂性。Helen对比了英国和德国：英国是市场主导型体系，OECD数据显示英国养老金资产行业近3万亿美元，德国约3000亿美元，而两国人口规模相当（英国7000万，德国约8500万），德国养老金行业不到英国的十分之一，表明德国更多退休保障由国家提供。英国自1950年代以来从未真正拥有国家资助的养老金行业，已从雇主和商业部门主导的定义收益体系转向定义缴费体系。",
+      "detail_en": "On BlackRock's The Bid podcast, host Oscar Pulido spoke with Casey Maurer, head of US defined contribution at BlackRock, and Helen Liez Jones, EMEA head of global consultant relations and institutional strategy, about the rewiring of global retirement systems. Helen noted that the economic, demographic, and institutional assumptions underlying old retirement systems no longer hold: the 20th-century model of working 35-40 years and retiring for 10-15 years with income from the state and/or employer has given way to longer lives, disappearing defined benefit pensions, fiscal pressure on governments, and individuals increasingly accountable for their own retirement. Casey said this forces a rethink of what success looks like—people approaching retirement face complex financial decisions, must act as part actuary, part investor, part financial planner, and the question of how long savings must last is both financial and deeply personal. She cited her parents' defined benefit pensions (a teacher and a military pilot) as providing security that is less common today, but said the shift does not mean leaving individuals alone: policymakers, the financial services industry, and employers have a role in reducing complexity. Helen contrasted the UK and Germany: the UK is a market-based system with almost $3 trillion in pension provider assets per the OECD, versus about $300 billion in Germany, despite comparable populations (70 million in the UK, around 85 million in Germany), showing Germany relies more on state provision. The UK never really had a state-funded pension industry and has moved from employer/commercial defined benefit to defined contribution.",
+      "conclusion_zh": "退休体系重构带来结构性投资主题：个人承担更多责任将推动退休储蓄和投资产品需求，但需关注各国政策差异及个人决策复杂性带来的风险。",
+      "conclusion_en": "The retirement rewiring creates a structural investment theme: greater individual responsibility should drive demand for retirement savings and investment products, though investors should watch for cross-country policy differences and the risks of individual decision complexity.",
+      "key_points": [
+        {
+          "zh": "退休责任、风险和资本正从政府和雇主向个人转移，旧体系的经济、人口和制度假设已不再成立。",
+          "en": "Retirement responsibility, risk, and capital are shifting from governments and employers to individuals as the old system's economic, demographic, and institutional assumptions no longer hold."
+        },
+        {
+          "zh": "个人在临近退休时面临最复杂的财务决策，需同时扮演精算师、投资者和财务规划师。",
+          "en": "Individuals face their most complex financial decisions approaching retirement, needing to act as part actuary, part investor, and part financial planner."
+        },
+        {
+          "zh": "英国养老金资产近3万亿美元，德国约3000亿美元，尽管人口规模相当，凸显两国体系差异。",
+          "en": "UK pension assets are nearly $3 trillion versus about $300 billion in Germany, despite comparable populations, highlighting systemic differences."
+        },
+        {
+          "zh": "英国为市场主导型体系，德国为国家主导现付现收型体系；英国正从定义收益转向定义缴费。",
+          "en": "The UK is market-based while Germany is state-led pay-as-you-go; the UK is moving from defined benefit to defined contribution."
+        },
+        {
+          "zh": "退休成功不应以账户规模衡量，而应看是否提供确定性和安全性。",
+          "en": "Retirement success should be measured by certainty and security, not account size."
+        }
+      ],
+      "tags": [
+        "retirement",
+        "pensions",
+        "demographics",
+        "defined contribution",
+        "asset management"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:4vOo8HxxC38",
+      "title": "Bullish Options Trades Slow amid AI Uncertainty",
+      "title_zh": "高盛：AI相关期权市场现紧张迹象，看跌期权买入增加",
+      "url": "https://www.youtube.com/watch?v=4vOo8HxxC38",
+      "published_at": "2026-10-30T04:00:10+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "volatility",
+        "tech"
+      ],
+      "summary_zh": "高盛股票衍生品销售团队的Lee Coppersmith指出，期权市场对AI的紧张情绪升温，投资者在大型科技公司财报前试图区分赢家与输家。AI股票整体需求仍强、标普保持韧性，但近几周看跌期权买入增加，而押注股市上涨的看涨期权活动减弱。",
+      "summary_en": "Lee Coppersmith of Goldman Sachs' Equity Derivative Sales team notes rising nervousness about AI in options markets as investors focus on large tech earnings and try to separate winners from losers. Overall demand for AI stocks remains strong and the S&P has stayed resilient, but put option buying has picked up in recent weeks while call option activity that would reward an equity jump has waned.",
+      "detail_zh": "高盛FICC与股票部门股票衍生品销售团队的Lee Coppersmith在The Markets播客中表示，期权市场正显示出对人工智能（AI）日益紧张的迹象。投资者正密切关注大型科技公司的财报，并试图区分可能的赢家与输家。他指出，AI股票的整体需求依然强劲，标普指数也保持韧性。然而，近几周看跌期权买入有所增加，而原本会在股市上涨时获利的看涨期权活动则有所减弱。该期节目录制于2026年10月29日。",
+      "detail_en": "Lee Coppersmith from the Equity Derivative Sales team in Goldman Sachs FICC and Equities said on The Markets podcast that options markets are showing signs of increased nervousness about artificial intelligence (AI). Investors are focusing closely on earnings from large tech companies and trying to separate likely winners from losers. He noted that overall demand for AI stocks remains strong and the S&P has remained resilient. However, put option buying has picked up in recent weeks, while activity has waned in call options that would reward a jump in equities. The episode was recorded on October 29, 2026.",
+      "conclusion_zh": "期权市场对AI的紧张情绪升温，看跌期权买入增加而看涨期权活动减弱，投资者在大型科技财报前趋于谨慎。",
+      "conclusion_en": "Options markets are showing increased nervousness about AI, with put buying rising and call activity waning as investors turn cautious ahead of large tech earnings.",
+      "key_points": [
+        {
+          "zh": "期权市场对AI的紧张情绪升温，投资者在大型科技财报前试图区分赢家与输家。",
+          "en": "Options markets show increased nervousness about AI as investors try to separate winners from losers ahead of large tech earnings."
+        },
+        {
+          "zh": "AI股票整体需求仍强，标普指数保持韧性。",
+          "en": "Overall demand for AI stocks remains strong and the S&P has remained resilient."
+        },
+        {
+          "zh": "近几周看跌期权买入增加，而看涨期权活动减弱。",
+          "en": "Put option buying has picked up in recent weeks while call option activity has waned."
+        }
+      ],
+      "tags": [
+        "AI",
+        "options",
+        "put-buying",
+        "tech-earnings",
+        "S&P"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:60XysZJqxas",
+      "title": "What Can We Learn From Retirement Systems Around The World?",
+      "title_zh": "英国养老金体系从DB转向DC，金融服务需帮助个人决策",
+      "url": "https://www.youtube.com/watch?v=60XysZJqxas",
+      "published_at": "2026-10-30T04:00:04+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "英国养老金体系正从雇主提供的确定给付（DB）模式转向确定缴费（DC）模式，责任更多落在个人身上。金融服务行业需要消除退休储蓄的复杂性和焦虑，帮助个人在旅程的每一步做出最佳决策。",
+      "summary_en": "The UK pension system is shifting from employer-provided defined benefit (DB) to defined contribution (DC), placing more responsibility on individuals. The financial services industry needs to demystify retirement saving and help individuals make optimal decisions at every step.",
+      "detail_zh": "行业面临的挑战和机遇之一是消除围绕退休储蓄的感知复杂性和焦虑。当前生态系统主要为企业和政府建立养老金计划而构建，而非为个人服务。在英国，原本由公司通过DB系统为员工提供保障的体系，正转向DC模式，责任真正落到个人身上。对金融服务行业而言，这意味着必须思考如何帮助个人在旅程的每一步做出最佳决策。",
+      "detail_en": "One of the industry's challenges and opportunities is to demystify the perceived complexity and anxiety around retirement saving. The current ecosystem was built mainly for advising corporates and governments to build pension plans, rather than individuals. In the UK, the system that was in the hands of companies providing for employees through DB is now moving into DC, with responsibility falling to the individual. For the financial services industry, this means thinking through how to help individuals make the best decisions at every step of the journey.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英国养老金体系正从DB转向DC，责任从雇主转移到个人。",
+          "en": "The UK pension system is shifting from DB to DC, moving responsibility from employers to individuals."
+        },
+        {
+          "zh": "现有生态系统主要服务于企业和政府建立养老金计划，而非个人。",
+          "en": "The existing ecosystem mainly serves corporates and governments building pension plans, not individuals."
+        },
+        {
+          "zh": "金融服务行业需消除退休储蓄的复杂性和焦虑，帮助个人每一步决策。",
+          "en": "The financial services industry needs to demystify retirement saving and help individuals make decisions at every step."
+        }
+      ],
+      "tags": [
+        "UK pensions",
+        "defined benefit",
+        "defined contribution",
+        "retirement savings",
+        "financial services"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:GeprIwt3ZVk",
+      "title": "Binance Freezes Assets After Suspected Hack",
+      "title_zh": "彭博亚洲交易：日央行料维持利率，亚马逊财报不及预期，AI支出担忧引发科技轮动",
+      "url": "https://www.youtube.com/watch?v=GeprIwt3ZVk",
+      "published_at": "2026-10-30T03:41:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "日本央行预计周五维持关键利率在1.25%；亚马逊三季度财报因在线销售放缓而逊于预期，AI支出担忧推动资金轮出科技股；东京核心CPI同比升2.6%符合预期，日本失业率2.4%低于预期。",
+      "summary_en": "The BOJ is expected to hold its key rate at 1.25% on Friday; Amazon's 3Q earnings missed as online sales slowed, and AI spending worries drove a rotation out of tech. Tokyo core CPI rose 2.6% Y/Y as expected, while Japan's jobless rate came in at 2.4%, below estimates.",
+      "detail_zh": "节目首先关注日本央行，预计周五将关键利率维持在1.25%。韩国9月工业产出同比增长1.2%。亚马逊三季度财报不及预期，原因是在线销售放缓；同时其支出大幅上升，电商增长减速。AI支出担忧推动资金轮出科技股。日本数据方面，东京10月核心CPI同比上涨2.6%，与预期一致；9月失业率为2.4%，低于预期的2.5%；9月工业产出同比增长1.9%，高于预期的1.5%；但9月零售销售环比下降0.7%，预期为增长0.3%。富士康轮值CEO蒋集恒（Michael Chiang）接受独家采访，谈及AI热潮与扩张战略。瑞银全球财富管理的Suresh Tantia分享市场策略。英特尔在展望中提示PC需求下滑和供应问题，业绩不及预期。此外，拥挤的AI和银行交易威胁日本股市反弹；CXMT的财报将测试内存上行周期的极限。加密货币方面，Binance在疑似黑客攻击后冻结约30亿美元，所有充提币暂停，比特币下跌。地缘政治方面，美国官员权衡对伊朗的打击选项（据WSJ）。",
+      "detail_en": "The program leads with the BOJ, expected to hold its key rate at 1.25% on Friday. South Korea's September industrial output rose 1.2% Y/Y. Amazon's 3Q earnings missed due to slowing online sales; spending soared while e-commerce growth decelerated. AI spending worries drove a rotation out of tech. On Japan data: Tokyo October core CPI rose 2.6% Y/Y, in line with estimates; September jobless rate was 2.4% versus 2.5% expected; September industrial output rose 1.9% Y/Y versus 1.5% expected; but September retail sales fell 0.7% M/M versus +0.3% expected. Foxconn rotating CEO Michael Chiang gave an exclusive interview on the AI boom and expansion strategy. UBS Global Wealth Management's Suresh Tantia discussed market strategy. Intel flagged a PC slump and supply snags in its outlook miss. Elsewhere, crowded AI and bank trades threaten a Japanese stock rebound; CXMT earnings will test the limits of the memory upcycle. In crypto, Binance froze around $3B after a suspected hack, suspending all deposits and withdrawals, and Bitcoin sank. Geopolitically, US officials are weighing Iran attack options, per WSJ.",
+      "conclusion_zh": "关注日本央行利率决议及AI交易拥挤度对科技股和日本股市的潜在影响。",
+      "conclusion_en": "Watch the BOJ rate decision and crowding in AI trades for potential impact on tech and Japanese equities.",
+      "key_points": [
+        {
+          "zh": "日本央行预计周五维持关键利率在1.25%。",
+          "en": "The BOJ is expected to hold its key rate at 1.25% on Friday."
+        },
+        {
+          "zh": "亚马逊三季度财报不及预期，在线销售放缓，支出大幅上升。",
+          "en": "Amazon's 3Q earnings missed as online sales slowed and spending soared."
+        },
+        {
+          "zh": "AI支出担忧推动资金轮出科技股；英特尔因PC需求下滑和供应问题导致展望不及预期。",
+          "en": "AI spending worries drove a rotation out of tech; Intel's outlook missed on a PC slump and supply snags."
+        },
+        {
+          "zh": "东京10月核心CPI同比升2.6%符合预期；日本9月失业率2.4%低于预期，工业产出超预期，但零售销售环比下降0.7%。",
+          "en": "Tokyo Oct. core CPI rose 2.6% Y/Y as expected; Japan Sept. jobless rate was 2.4% below estimates, industrial output beat, but retail sales fell 0.7% M/M."
+        },
+        {
+          "zh": "Binance在疑似黑客攻击后冻结约30亿美元，暂停所有充提币，比特币下跌。",
+          "en": "Binance froze around $3B after a suspected hack, suspending all deposits and withdrawals; Bitcoin sank."
+        }
+      ],
+      "tags": [
+        "BOJ",
+        "Amazon",
+        "AI spending",
+        "Japan CPI",
+        "Binance"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:utgTvjBMv8A",
       "title": "Early Voting Turnout Surges Nationwide",
@@ -12496,140 +12833,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:XRHGmpv8wSE",
-      "title": "OpenAI Trims Target Value & Volvo Cars Cuts 2,500 Jobs",
-      "title_zh": "全球科技股抛售加深，OpenAI估值目标下调1500亿美元",
-      "url": "https://www.youtube.com/watch?v=XRHGmpv8wSE",
-      "published_at": "2026-10-23T06:58:06+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "纳斯达克录得6月以来最差单日表现后，全球科技股抛售加深；市场对AI支出的担忧再起，彭博获悉OpenAI在最新一轮300亿美元融资中将其估值目标下调1500亿美元。沃尔沃汽车因中国销量骤降与美国关税，计划再裁员2500人。",
-      "summary_en": "The global tech selloff deepened after the Nasdaq's worst day since June. Amid renewed concerns over AI spending, Bloomberg learned that OpenAI is cutting its valuation target by $150 billion as it seeks to raise $30 billion in its latest funding round. Volvo Cars plans to cut another 2,500 jobs as cratering sales in China and US tariffs complicate its turnaround.",
-      "detail_zh": "彭博《Daybreak Europe》节目指出，纳斯达克经历6月以来最差单日后，全球科技股抛售进一步加深。市场对AI支出的担忧再度升温：彭博获悉，OpenAI正寻求在最新一轮融资中筹集300亿美元，同时将其估值目标下调1500亿美元。个股层面，沃尔沃汽车计划再裁减2500个岗位，原因是其在中国市场的销量骤降，加上美国关税，令这家瑞典车企的转型更加复杂；沃尔沃汽车CEO Håkan Samuelsson将作为嘉宾接受采访。节目还提及美国国债大涨、法国债券压力上升、沙特阿美据称疏散总部、以色列下周二的选举，以及Gucci、Moderna-Merk、SpaceX等公司新闻，并预览欧洲PMI数据。",
-      "detail_en": "Bloomberg Daybreak Europe noted that the global tech rout deepened after the Nasdaq's worst day since June. Concerns over AI spending resurfaced: Bloomberg learned that OpenAI is cutting its valuation target by $150 billion as it seeks to raise $30 billion in its latest funding round. On single stocks, Volvo Cars plans to cut another 2,500 jobs as cratering sales in China and US tariffs complicate the Swedish automaker's turnaround; Volvo Cars CEO Håkan Samuelsson is the guest. The program also referenced a surge in Treasuries, mounting pressure on French bonds, Saudi Aramco said to evacuate its HQ, Israeli elections next Tuesday, corporate news on Gucci, Moderna-Merk and SpaceX, and a preview of European PMI data.",
-      "conclusion_zh": "AI支出担忧与科技股抛售相互强化，OpenAI下调估值目标显示融资环境趋紧，需关注科技板块波动外溢及欧洲宏观数据。",
-      "conclusion_en": "AI spending concerns and the tech selloff are reinforcing each other; OpenAI's lower valuation target signals a tighter funding environment, warranting attention to spillover volatility in tech and European macro data.",
-      "key_points": [
-        {
-          "zh": "纳斯达克录得6月以来最差单日后，全球科技股抛售加深。",
-          "en": "The global tech rout deepened after the Nasdaq's worst day since June."
-        },
-        {
-          "zh": "彭博获悉OpenAI在寻求筹集300亿美元的最新一轮融资中，将估值目标下调1500亿美元。",
-          "en": "Bloomberg learned OpenAI is cutting its valuation target by $150 billion as it seeks to raise $30 billion in its latest funding round."
-        },
-        {
-          "zh": "沃尔沃汽车计划再裁员2500人，因中国销量骤降与美国关税令转型复杂化。",
-          "en": "Volvo Cars plans to cut another 2,500 jobs as cratering sales in China and US tariffs complicate its turnaround."
-        },
-        {
-          "zh": "节目还提及美国国债大涨、法国债券压力上升及欧洲PMI数据预览。",
-          "en": "The program also cited a surge in Treasuries, mounting pressure on French bonds and a preview of European PMI data."
-        }
-      ],
-      "tags": [
-        "AI spending",
-        "tech selloff",
-        "OpenAI funding",
-        "Volvo layoffs",
-        "Treasuries"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:eOib5PyyJDw",
-      "title": "AI Trade Faces Earnings Test: Market Snapshot",
-      "title_zh": "科技巨头财报引发AI融资担忧，市场关注AI热潮是否见顶",
-      "url": "https://www.youtube.com/watch?v=eOib5PyyJDw",
-      "published_at": "2026-10-23T06:57:39+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本周多家科技巨头发布财报，投资者反应不一。市场对AI的担忧正从现金流和利润转向大规模建设如何融资。彭博电视采访的策略师和CEO们讨论了AI热潮是否接近顶峰或仍有空间。",
-      "summary_en": "Several tech giants reported earnings this week, drawing mixed investor reactions. Jitters over AI are shifting from cash flows and profits to how the massive build-out is being financed. Bloomberg TV spoke with strategists and CEOs about whether the AI boom is nearing its peak or still has room to run.",
-      "detail_zh": "本周，一些全球最大的科技公司公布了财报，投资者反应不一。这些财报发布之际，市场对AI的担忧正日益从现金流和利润转向该技术的巨大建设如何融资。彭博电视的“The Opening Trade”团队采访了市场策略师和CEO，讨论本周的财报是否表明人工智能热潮正接近顶峰，还是仍有增长空间。原文未提供具体公司名称、财务数据或融资金额。",
-      "detail_en": "This week, some of the world's biggest tech names delivered earnings that drew mixed reactions from investors. The results come as jitters over AI increasingly shift from cash flows and profits to how the technology's massive build-out is being financed. Bloomberg TV's \"The Opening Trade\" team spoke to market strategists and CEOs about whether this week's results suggest the AI boom is nearing its peak, or still has room to run. The original text does not provide specific company names, financial figures, or financing amounts.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "科技巨头财报引发投资者混合反应",
-          "en": "Tech giants' earnings drew mixed investor reactions"
-        },
-        {
-          "zh": "市场对AI的担忧从现金流和利润转向大规模建设的融资方式",
-          "en": "AI jitters shift from cash flows and profits to financing of the massive build-out"
-        },
-        {
-          "zh": "讨论焦点：AI热潮是否接近顶峰或仍有空间",
-          "en": "Debate centers on whether the AI boom is nearing its peak or still has room to run"
-        }
-      ],
-      "tags": [
-        "AI",
-        "earnings",
-        "tech",
-        "financing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:LrLW7E-3MA0",
-      "title": "Saudi Aramco Said to Order HQ Evacuation, Oil Prices Set for Weekly Gain",
-      "title_zh": "全球科技股抛售加剧，AI交易退潮；中东局势与网络安全风险交织",
-      "url": "https://www.youtube.com/watch?v=LrLW7E-3MA0",
-      "published_at": "2026-10-23T06:56:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "全球科技股抛售加速，投资者撤离AI交易，韩国Kospi下跌，中概科技股与美国同行估值差距扩大。沙特阿美因与胡塞武装冲突要求员工居家办公，中东石油流动接近战前水平。Ten Cap创始人认为抛售带来更具吸引力的入场价格，但预计复苏将惠及更窄的公司群体。",
-      "summary_en": "The global technology selloff accelerates as investors retreat from the AI trade, with South Korea's Kospi falling and the valuation gap between Chinese and US tech companies widening. Saudi Aramco reportedly instructed employees to work from home amid ongoing fighting with the Houthis, while Middle Eastern oil flows approach prewar levels. Ten Cap's Jun Bei Liu sees the selloff offering more attractive entry prices but expects a recovery to favor a narrower group of companies.",
-      "detail_zh": "全球科技股抛售加剧，投资者正从AI交易中撤退。韩国Kospi指数下跌，中国科技公司与美国同行的估值差距扩大，对AI、中东局势和法国的担忧推动资金流向更安全的资产。SK海力士在重新评估市场状况和现有股东利益后，放弃了Solidigm的IPO计划。Blackstone总裁兼COO Jonathan Gray称AI需求正在迅速加速。Ten Cap创始人Jun Bei Liu表示，抛售提供了更具吸引力的入场价格，但预计复苏将有利于更窄的公司群体；她对股票保持积极看法，同时关注更大幅度的利率上升、通胀压力以及令人失望的盈利。沙特阿美据报道已指示员工离开达兰总部居家办公，因与胡塞武装的战斗持续；沙特报告拦截了无人机和导弹，石油有望录得周度上涨。中东石油流动接近战前水平，尽管特朗普提出对伊朗采取进一步行动的可能性。沙特还在为阿美寻求海外储存，以增强中断期间供应客户的能力。各国政府和企业正争相应对广泛的网络安全弱点。IMF中东和中亚主任Jihad Azour表示，战争对油气的影响在全球和区域层面仍然可控，阿曼的中立降低了其风险溢价，伊拉克则因依赖石油和霍尔木兹海峡而面临风险。",
-      "detail_en": "The global technology selloff is gathering pace as investors retreat from the AI trade. South Korea's Kospi fell, the valuation gap between Chinese technology companies and their US counterparts widened, and concerns over AI, the Middle East and France drew money toward safer assets. SK Hynix dropped plans for a Solidigm IPO after reassessing market conditions and the interests of existing shareholders. Blackstone President and COO Jonathan Gray described rapidly accelerating AI demand. Ten Cap founder Jun Bei Liu said the selloff offers more attractive entry prices but expects a recovery to favor a narrower group of companies; she remains positive on equities while watching for sharper interest-rate increases, inflation pressures and disappointing earnings. Saudi Aramco reportedly instructed employees to leave its Dhahran headquarters and work from home as fighting with the Houthis continues; Saudi Arabia reported intercepting drones and missiles, and oil headed for a weekly gain. Middle Eastern oil flows approach prewar levels, even as Trump raised the prospect of further action against Iran. The kingdom is also seeking overseas storage for Aramco to strengthen its ability to supply customers during disruptions. Governments and businesses are racing to address a widespread cybersecurity weakness. IMF Middle East and Central Asia Director Jihad Azour said the war's effects on oil and gas remain manageable globally and regionally, credited Oman's neutrality with lowering its risk premium, and highlighted Iraq's exposure through its dependence on oil and Hormuz.",
-      "conclusion_zh": "科技股抛售与AI交易退潮带来更具吸引力的入场价格，但复苏可能更集中；同时需关注中东地缘风险对油气的可控影响及网络安全弱点。",
-      "conclusion_en": "The tech selloff and retreat from the AI trade offer more attractive entry prices, but a recovery may be narrower; meanwhile, watch the manageable oil and gas impact of Middle East geopolitical risks and cybersecurity weaknesses.",
-      "key_points": [
-        {
-          "zh": "全球科技股抛售加速，投资者撤离AI交易，韩国Kospi下跌，中概科技股与美国同行估值差距扩大。",
-          "en": "The global tech selloff accelerates as investors retreat from the AI trade; South Korea's Kospi falls and the valuation gap between Chinese and US tech companies widens."
-        },
-        {
-          "zh": "SK海力士在重新评估市场状况和现有股东利益后，放弃Solidigm的IPO计划。",
-          "en": "SK Hynix drops plans for a Solidigm IPO after reassessing market conditions and the interests of existing shareholders."
-        },
-        {
-          "zh": "Ten Cap的Jun Bei Liu认为抛售带来更具吸引力的入场价格，但预计复苏将有利于更窄的公司群体，同时对股票保持积极看法。",
-          "en": "Ten Cap's Jun Bei Liu sees the selloff offering more attractive entry prices but expects a recovery to favor a narrower group of companies, while remaining positive on equities."
-        },
-        {
-          "zh": "沙特阿美因与胡塞武装冲突要求员工居家办公，中东石油流动接近战前水平，沙特寻求海外储存以增强供应韧性。",
-          "en": "Saudi Aramco instructed employees to work from home amid fighting with the Houthis; Middle Eastern oil flows approach prewar levels and the kingdom seeks overseas storage to strengthen supply resilience."
-        },
-        {
-          "zh": "IMF的Jihad Azour称战争对油气的影响在全球和区域层面仍然可控，阿曼中立降低其风险溢价，伊拉克因依赖石油和霍尔木兹海峡而面临风险。",
-          "en": "The IMF's Jihad Azour says the war's effects on oil and gas remain manageable globally and regionally, Oman's neutrality lowers its risk premium, and Iraq is exposed through its dependence on oil and Hormuz."
-        }
-      ],
-      "tags": [
-        "tech-selloff",
-        "AI-trade",
-        "Middle-East",
-        "oil",
-        "cybersecurity"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
