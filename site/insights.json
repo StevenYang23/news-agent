@@ -1,6 +1,250 @@
 {
-  "generated_at": "2026-10-30T11:14:40.231380+00:00",
+  "generated_at": "2026-10-30T12:24:52.418387+00:00",
   "insights": [
+    {
+      "guid": "yt:LWsMaaY0Mi4",
+      "title": "Tech Rout Deepens as Earnings Stoke AI Fears",
+      "title_zh": "科技股财报失望叠加AI支出疑虑，美股期货下挫",
+      "url": "https://www.youtube.com/watch?v=LWsMaaY0Mi4",
+      "published_at": "2026-10-30T11:57:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚马逊和英特尔财报令人失望，加剧科技板块抛售，投资者日益质疑巨额AI支出的回报。美联储、欧洲央行和日本央行均鹰派按兵不动，法国通胀上升而增长放缓。",
+      "summary_en": "Disappointing earnings from Amazon and Intel intensified the tech sector selloff, with investors increasingly questioning the payoff from massive AI spending. The Fed, ECB and BOJ all delivered hawkish holds, while French inflation rose as growth slowed.",
+      "detail_zh": "科技股和美国股指期货下跌，因新一轮令人失望的财报加剧了该板块的抛售。投资者日益质疑巨额人工智能支出的回报。节目议程显示，亚马逊和英特尔财报令人失望；美联储、欧洲央行和日本央行均鹰派按兵不动。BP财报超预期，CEO Meg O'Neill 讨论了债务、股东回报、炼油利润率和交易，并预告12月战略更新。贝莱德的 James Turner 讨论了固定收益机会、央行利率展望、法国政治风险和信贷。币安遭遇创纪录的63亿美元加密货币黑客攻击，朝鲜被关联到此次加密盗窃。法国通胀上升而增长放缓。Hargreaves Lansdown 的 Anna Macdonald 讨论了投资者撤离AI交易以及对英国国债的需求。Capgemini CFO Nive Bhagat 讨论了上调预测、数字主权和AI。英特尔暴跌，AI交易面临动荡。市场经历波动一周后收尾。",
+      "detail_en": "Tech stocks and US equity futures fell as another batch of disappointing earnings intensified the sector selloff, with investors increasingly questioning the payoff from massive AI spending. The agenda highlighted disappointing earnings from Amazon and Intel, and hawkish holds from the Fed, ECB and BOJ. BP beat earnings expectations; CEO Meg O'Neill discussed debt, shareholder returns, refining margins and trading, and previewed a December strategy update. BlackRock's James Turner discussed fixed income opportunities, central bank rate outlook, French political risk and credit. Binance was hit by a record $6.3 billion crypto hack, with North Korea linked to the crypto heist. French inflation rose as growth slowed. Hargreaves Lansdown's Anna Macdonald discussed investors rotating away from the AI trade and demand for gilts. Capgemini CFO Nive Bhagat discussed raising forecasts, digital sovereignty and AI. Intel plunged as the AI trade faced turbulence. Markets wrapped up a volatile week.",
+      "conclusion_zh": "AI交易面临压力，科技股财报失望与央行鹰派立场共同压制风险偏好，投资者需关注AI支出回报的验证信号。",
+      "conclusion_en": "The AI trade is under pressure as disappointing tech earnings and hawkish central banks weigh on risk appetite; investors should watch for validation signals on AI spending returns.",
+      "key_points": [
+        {
+          "zh": "亚马逊和英特尔财报令人失望，加剧科技板块抛售。",
+          "en": "Disappointing earnings from Amazon and Intel intensified the tech sector selloff."
+        },
+        {
+          "zh": "投资者日益质疑巨额人工智能支出的回报。",
+          "en": "Investors are increasingly questioning the payoff from massive AI spending."
+        },
+        {
+          "zh": "美联储、欧洲央行和日本央行均鹰派按兵不动。",
+          "en": "The Fed, ECB and BOJ all delivered hawkish holds."
+        },
+        {
+          "zh": "币安遭遇创纪录的63亿美元加密货币黑客攻击，朝鲜被关联。",
+          "en": "Binance was hit by a record $6.3 billion crypto hack, with North Korea linked."
+        },
+        {
+          "zh": "法国通胀上升而增长放缓。",
+          "en": "French inflation rose as growth slowed."
+        }
+      ],
+      "tags": [
+        "AI spending",
+        "tech selloff",
+        "earnings",
+        "hawkish central banks",
+        "crypto hack"
+      ],
+      "tickers": [
+        "AMZN",
+        "INTC"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:w21d64pB9jk",
+      "title": "Tech Selloff Intensifies on Earnings; Binance Estimates $6.3B Hacked",
+      "title_zh": "亚马逊与英特尔财报不及预期拖累美股期货；币安遭63亿美元黑客攻击；日本央行暗示12月可能加息",
+      "url": "https://www.youtube.com/watch?v=w21d64pB9jk",
+      "published_at": "2026-10-30T11:46:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚马逊和英特尔财报令人失望，美股期货下挫。币安估计遭黑客窃取63亿美元，为数字资产行业最大规模黑客事件。日本央行在通胀达标后暗示12月可能加息。Rabobank的Jane Foley讨论了外汇市场风险，包括欧洲央行行长拉加德计划提前离任。",
+      "summary_en": "US equity futures fell after disappointing earnings from Amazon and Intel. Binance estimated $6.3 billion was stolen in a hack, the largest to hit the digital-asset industry. The Bank of Japan signaled a potential rate hike in December after hitting its inflation target. Rabobank's Jane Foley discussed FX market risks, including ECB President Christine Lagarde's plan for an early departure.",
+      "detail_zh": "美股期货在亚马逊和英特尔公布令人失望的财报后下挫。币安估计在一起黑客攻击中约63亿美元被盗，这是数字资产行业遭遇的最大规模黑客事件。日本央行在实现通胀目标后，暗示可能在12月加息。Rabobank的Jane Foley做客“Bloomberg Brief”，讨论当前外汇市场风险，包括欧洲央行行长拉加德计划提前离任一事。",
+      "detail_en": "US equity futures slumped following disappointing earnings from Amazon and Intel. Binance estimated that $6.3 billion was stolen in a hack, the largest to hit the digital-asset industry. The Bank of Japan signaled a potential rate hike in December after reaching its inflation target. Jane Foley of Rabobank joined \"Bloomberg Brief\" to discuss current risks in the FX market, including ECB President Christine Lagarde's plan for an early departure.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "亚马逊和英特尔财报不及预期，美股期货下挫。",
+          "en": "Disappointing earnings from Amazon and Intel pushed US equity futures lower."
+        },
+        {
+          "zh": "币安估计63亿美元在黑客攻击中被盗，为数字资产行业最大规模黑客事件。",
+          "en": "Binance estimated $6.3 billion was stolen in a hack, the largest in the digital-asset industry."
+        },
+        {
+          "zh": "日本央行在通胀达标后暗示12月可能加息。",
+          "en": "The Bank of Japan signaled a potential December rate hike after hitting its inflation target."
+        },
+        {
+          "zh": "Rabobank的Jane Foley讨论了外汇市场风险，包括拉加德计划提前离任。",
+          "en": "Rabobank's Jane Foley discussed FX market risks, including Lagarde's plan for an early departure."
+        }
+      ],
+      "tags": [
+        "earnings",
+        "crypto-hack",
+        "BOJ",
+        "FX-risk",
+        "ECB"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:eG0tQN5gqiI",
+      "title": "Brookfield’s Connor Teskey on the Real Bottleneck in the AI Buildout",
+      "title_zh": "Brookfield CEO：AI建设瓶颈在于运营能力而非资本或需求",
+      "url": "https://www.youtube.com/watch?v=eG0tQN5gqiI",
+      "published_at": "2026-10-30T11:42:54+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "Brookfield资产管理公司CEO Connor Teskey指出，AI基础设施建设的真正瓶颈不是资本或需求，而是开发土地、获取电网接入和建设供电的运营能力。他反驳了数据中心需求“脆弱”的市场误解，并分享了长期投资、业务构建及私人信贷平台演变的观点。",
+      "summary_en": "Brookfield Asset Management CEO Connor Teskey argues that the bottleneck in AI buildout is not capital or demand, but the operational capability to develop land, secure grid connections, and build power supply. He challenges the market misconception that data center demand is 'fragile,' and shares views on long-term investing, business building, and the evolution of its private credit platform.",
+      "detail_zh": "在高盛Exchanges: Great Investors播客中，Brookfield资产管理公司CEO Connor Teskey表示，AI扩建的瓶颈既不是资本也不是需求，而是开发土地、确保电网连接和建设电力供应的运营能力。他特别指出，市场存在一个误解，即数据中心需求是“脆弱”的。Teskey还与高盛全球银行与市场部投资银行业务主席Alison Mass讨论了长期投资、Brookfield构建业务的方法以及其私人信贷平台的演变。对话还涉及全球能源机遇、主权AI的兴起、可再生能源的商业化转变、通过Oaktree Capital实现规模化、下行保护哲学、领导层交接以及另类资产的增长等话题。",
+      "detail_en": "Speaking on Goldman Sachs Exchanges: Great Investors, Brookfield Asset Management CEO Connor Teskey said the bottleneck in the AI buildout is neither capital nor demand, but rather the operational capability to develop land, secure a grid connection, and build the power supply. He specifically noted a market misconception that demand for data centers is somehow 'fragile.' Teskey also discussed long-term investing, Brookfield's approach to building businesses, and the evolution of its private credit platform with Alison Mass, chairman of Investment Banking in Goldman Sachs Global Banking & Markets. The conversation also covered the global energy opportunity, the rise of sovereign AI, the commercial shift in renewables, scaling through Oaktree Capital, a philosophy of downside protection, transitioning leadership, and the growth of alternative assets.",
+      "conclusion_zh": "AI基础设施投资应关注运营执行能力而非单纯资本投入，数据中心需求并非脆弱。",
+      "conclusion_en": "AI infrastructure investment should focus on operational execution rather than mere capital deployment; data center demand is not fragile.",
+      "key_points": [
+        {
+          "zh": "AI建设瓶颈在于运营能力：土地开发、电网接入和供电建设，而非资本或需求。",
+          "en": "AI buildout bottleneck is operational capability—land development, grid connection, and power supply—not capital or demand."
+        },
+        {
+          "zh": "市场误解数据中心需求“脆弱”，Teskey对此提出反驳。",
+          "en": "Teskey challenges the market misconception that data center demand is 'fragile.'"
+        },
+        {
+          "zh": "讨论涵盖主权AI兴起、可再生能源商业化转变及通过Oaktree实现规模化。",
+          "en": "Discussion covers the rise of sovereign AI, commercial shift in renewables, and scaling through Oaktree."
+        },
+        {
+          "zh": "Brookfield强调下行保护哲学和领导层交接。",
+          "en": "Brookfield emphasizes a philosophy of downside protection and leadership transition."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "data centers",
+        "power supply",
+        "private credit",
+        "alternative assets"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "4960114",
+      "title": "Wall Street Breakfast Podcast: The Biggest Heist In History",
+      "title_zh": "币安遭63亿美元安全漏洞，英特尔指引疲软重挫科技股",
+      "url": "https://seekingalpha.com/article/4960114-wall-street-breakfast-podcast-the-biggest-heist-in-history?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-30T11:40:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "币安披露63亿美元安全漏洞，已冻结约30亿美元链上资产并暂停提现；英特尔Q4指引远逊预期，营收150-160亿美元、毛利率38%，股价跌超25%；Reddit拟要求用户登录以遏制数据抓取，但日活用户可能下滑低双位数，股价盘前跌超20%。科技板块情绪受英特尔和亚马逊疲软指引打压，纳斯达克100期货盘前跌超2%。",
+      "summary_en": "Binance disclosed a $6.3B security breach, freezing ~$3B on-chain and suspending withdrawals; Intel issued Q4 guidance well below expectations ($15B-$16B revenue, 38% gross margin), sending shares down over 25%; Reddit plans to require sign-in to curb data scraping, but daily active users could decline by a low double-digit percentage, with shares down over 20% premarket. Tech sentiment is pressured by weak guidance from Intel and Amazon, with Nasdaq 100 futures down over 2% premarket.",
+      "detail_zh": "币安披露一起安全漏洞导致63亿美元潜在损失，业内称其为加密史上最大黑客事件。公司表示已与区块链伙伴合作冻结受影响资产，目前链上冻结约30亿美元，用户资金安全，但所有充提币暂时暂停，预计48小时内恢复提现，充值已恢复正常。初步调查显示，事件可能涉及一名DevOps工程师的笔记本电脑被入侵，攻击者借此访问服务容器并提交未经授权的提现交易。分析师警告，该事件可能促使投资者重新评估持有数字资产的风险，比特币和以太坊当日下跌。英特尔因PC市场放缓发布远逊预期的Q4指引，营收预计150-160亿美元，中值远低于170.5亿美元共识；调整后EPS预计0.25美元，共识为0.43美元；调整后毛利率预计38%，低于42.8%的预期。CEO陈立武在电话会上表示，客户因内存价格和供应问题开始信号PC放缓，且过去两个月PC修正加速，OEM伙伴积极管理库存以匹配疲软的终端销售，预计当前环境将持续至内存供应和价格正常化。Seeking Alpha分析师Bill Maurer称业绩“大多令人失望”，指引“远弱于预期”，并认为当前预测代表转型的重大倒退。Reddit CEO Steve Huffman提议要求用户登录以访问大部分内容，以遏制数据抓取，并指责谷歌AI搜索功能导致推荐流量下降。Reddit盘前跌超20%，Huffman警告若推荐流量持续疲软，Q4日活独立访客可能从约1.3亿下滑低双位数百分比。Madison and Wall分析师Luke Stillman认为强制登录“为参与创造了另一个障碍，尤其是对休闲用户”。盘前纳斯达克100期货跌超2%，英特尔指引和亚马逊财报后下跌近7%吓坏科技投资者，亚马逊的销售和资本支出指引盖过了AWS加速增长。经济日历包括Q3就业成本指数和10月芝加哥PMI。",
+      "detail_en": "Binance disclosed a security breach resulting in $6.3B in potential losses, which industry watchers call crypto's biggest-ever hack. The company said it worked with blockchain partners to freeze affected assets, with ~$3B frozen on-chain so far, and that user funds remain safe, but all deposits and withdrawals are temporarily suspended, with withdrawals expected to resume within 48 hours and deposits now operating normally. Initial investigation suggests the incident may involve a compromised DevOps engineer's laptop, allowing an attacker to access a service container and submit unauthorized withdrawal transactions. Analysts warned the incident could prompt investors to reassess risks of holding digital assets, and Bitcoin and Ethereum were lower. Intel plunged more than 25% after issuing Q4 guidance well below expectations due to a PC slowdown: revenue of $15B-$16B, midpoint well shy of the $17.05B estimate; adjusted EPS of $0.25 vs. $0.43 consensus; adjusted gross margin of 38% vs. 42.8% estimate. CEO Lip-Bu Tan said on the call that customers began signaling a PC slowdown based on memory prices and availability, and the pace of the PC correction accelerated over the last two months as OEM partners aggressively manage inventory to match softer sell-through, expecting the environment to persist until memory availability and prices normalize. Seeking Alpha analyst Bill Maurer said results were 'mostly disappointing' and guidance 'much weaker than expected,' representing a major step back for the turnaround. Reddit CEO Steve Huffman proposed requiring users to sign in to access most content to curb data scraping, and blamed Google's AI-powered search features for contributing to a decline in referral traffic. Reddit is down more than 20% premarket after Huffman cautioned daily active unique visitors could decline by a low double-digit percentage in Q4 from about 130M if referral traffic continues to weaken. Madison and Wall analyst Luke Stillman said requiring login 'creates another barrier to engagement, particularly for casual users.' Nasdaq 100 futures are more than 2% lower premarket, with Intel's guidance and Amazon's post-earnings tumble (down nearly 7% after sales and capex guidance overshadowed accelerating AWS growth) spooking tech investors. The economic calendar includes Q3 Employment Cost Index and October Chicago PMI.",
+      "conclusion_zh": "英特尔指引凸显PC市场放缓及内存供应问题，叠加亚马逊资本支出担忧，科技股短期承压；币安安全事件或引发对数字资产风险的重新评估。",
+      "conclusion_en": "Intel's guidance highlights PC market slowdown and memory supply issues, compounded by Amazon capex concerns, pressuring tech stocks near-term; the Binance breach may prompt reassessment of digital asset risks.",
+      "key_points": [
+        {
+          "zh": "币安因安全漏洞面临63亿美元潜在损失，已冻结约30亿美元链上资产，提现暂停但预计48小时内恢复。",
+          "en": "Binance faces $6.3B in potential losses from a security breach, with ~$3B frozen on-chain; withdrawals suspended but expected to resume within 48 hours."
+        },
+        {
+          "zh": "英特尔Q4指引远逊预期：营收150-160亿美元（共识170.5亿），调整后EPS 0.25美元（共识0.43），毛利率38%（预期42.8%），股价跌超25%。",
+          "en": "Intel's Q4 guidance badly missed: revenue $15B-$16B vs. $17.05B consensus, adjusted EPS $0.25 vs. $0.43, gross margin 38% vs. 42.8%; shares fell over 25%."
+        },
+        {
+          "zh": "英特尔CEO陈立武称PC放缓因内存价格和供应问题加速，OEM伙伴积极管理库存，预计环境持续至内存正常化。",
+          "en": "Intel CEO Lip-Bu Tan said the PC slowdown accelerated due to memory prices and availability, with OEM partners managing inventory; expects environment to persist until memory normalizes."
+        },
+        {
+          "zh": "Reddit拟要求用户登录以遏制数据抓取，但CEO警告Q4日活用户可能从约1.3亿下滑低双位数百分比，股价盘前跌超20%。",
+          "en": "Reddit plans to require sign-in to curb scraping, but CEO warned Q4 DAU could decline by a low double-digit percentage from ~130M; shares down over 20% premarket."
+        },
+        {
+          "zh": "科技板块情绪受英特尔和亚马逊疲软指引打压，纳斯达克100期货盘前跌超2%。",
+          "en": "Tech sentiment pressured by weak guidance from Intel and Amazon; Nasdaq 100 futures down over 2% premarket."
+        }
+      ],
+      "tags": [
+        "Intel",
+        "Binance",
+        "Reddit",
+        "tech selloff",
+        "guidance"
+      ],
+      "tickers": [
+        "INTC",
+        "AMZN",
+        "RDDT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:5mCHoLqX52Q",
+      "title": "Midterm Elections 2026: Trump Cancels In-Person Rallies",
+      "title_zh": "特朗普取消中期选举收官阶段堪萨斯与艾奥瓦州行程，改为线上集会",
+      "url": "https://www.youtube.com/watch?v=5mCHoLqX52Q",
+      "published_at": "2026-10-30T10:58:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "共和党全国委员会宣布，特朗普取消中期选举最后几天在堪萨斯州和艾奥瓦州的露面，改为举行“大量线上集会”。该消息由彭博记者Tyler Kendall报道，内容未涉及市场影响分析。",
+      "summary_en": "The Republican National Committee announced that President Donald Trump canceled appearances in Kansas and Iowa for the closing days of the midterm election season and will instead hold 'a large number of tele-rallies,' according to Bloomberg's Tyler Kendall. The report contains no market impact analysis.",
+      "detail_zh": "共和党全国委员会于周四晚间宣布，总统唐纳德·特朗普取消了中期选举收官阶段在堪萨斯州和艾奥瓦州的露面活动。作为替代，特朗普将举行“大量线上集会”（tele-rallies）。该消息由彭博记者Tyler Kendall报道。原文未提供取消原因、活动具体安排或对选情及市场的任何分析。",
+      "detail_en": "The Republican National Committee announced on Thursday evening that President Donald Trump canceled appearances in Kansas and Iowa for the closing days of the midterm election season. Instead, he will hold 'a large number of tele-rallies.' The report was by Bloomberg's Tyler Kendall. The original text does not provide the reason for the cancellation, specific event details, or any analysis of the impact on the election or markets.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普取消中期选举最后几天在堪萨斯州和艾奥瓦州的行程",
+          "en": "Trump canceled appearances in Kansas and Iowa for the closing days of the midterm election season"
+        },
+        {
+          "zh": "改为举行“大量线上集会”",
+          "en": "He will instead hold 'a large number of tele-rallies'"
+        },
+        {
+          "zh": "消息由共和党全国委员会于周四晚间宣布",
+          "en": "The announcement was made by the Republican National Committee on Thursday evening"
+        },
+        {
+          "zh": "彭博记者Tyler Kendall报道",
+          "en": "Reported by Bloomberg's Tyler Kendall"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Trump",
+        "campaign",
+        "tele-rally"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:n1wpqN-8a_k",
       "title": "Binance Says $6.3B Hacked in Crypto Heist",
@@ -12688,171 +12932,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:-DTZRLWncNc",
-      "title": "OpenAI Targets $1.25 Trillion Valuation in New Funding Round",
-      "title_zh": "AI交易抛售潮消退，OpenAI估值目标1.25万亿美元",
-      "url": "https://www.youtube.com/watch?v=-DTZRLWncNc",
-      "published_at": "2026-10-23T12:11:51+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "AI交易的大幅抛售在波动一周的最后一个交易日消退，全球股市获得喘息，但油价继续上涨令情绪保持谨慎。据彭博获悉，正在寻求约300亿美元新融资的OpenAI，在谈判最后阶段目标估值达1.25万亿美元。法国部署军队协助警察应对周六新一轮抗议，以防上周末骚乱重演并安抚市场。",
-      "summary_en": "A rout in the artificial intelligence trade faded in the final session of a volatile week, offering global stock investors some respite, though further oil price gains kept sentiment cautious. Bloomberg learned that OpenAI, seeking to raise around $30 billion in a fresh round, is targeting a $1.25 trillion valuation in the final stages of negotiations. French authorities are deploying the military to back up police ahead of Saturday protests, aiming to prevent a repeat of last weekend's riots and reassure markets.",
-      "detail_zh": "AI交易的大幅抛售在波动一周的最后一个交易日消退，为全球股票投资者提供了一定喘息空间，但油价进一步上涨令市场情绪保持谨慎。彭博获悉，正在寻求在新一轮融资中筹集约300亿美元的OpenAI，在谈判最后阶段的目标估值为1.25万亿美元。法国当局正准备应对周六的新一轮抗议活动，部署军队支援警察，以防止上周末骚乱重演，并安抚因暴力事件而不安的市场。节目还讨论了中东紧张局势升级推动油价上涨、全球担忧引发避险资金涌入美债导致美债收益率大跌、美国中期选举展望、以色列选举准备、开云集团（Kering）财报后股价下挫以及关键矿产竞争加剧等话题。",
-      "detail_en": "A rout in the artificial intelligence trade faded in the final session of a volatile week, offering global stock investors some respite, though further gains in oil prices kept sentiment cautious. Bloomberg learned that OpenAI, which is seeking to raise around $30 billion in a fresh funding round, is now targeting a valuation of $1.25 trillion during the final stages of negotiations. French authorities are bracing for a new round of protests on Saturday, rolling out the military to back up police to prevent a repeat of last weekend's riots and reassure markets unnerved by the violence. The program also covered oil rising as Middle East tensions ratchet up, Treasuries surging as worldwide worries sparked a rush to safety, a lookahead to US midterms, Israel gearing up for elections, Kering slumping after earnings, and the intensifying critical minerals race.",
-      "conclusion_zh": "AI交易抛售暂歇但油价与地缘风险仍压制风险偏好，OpenAI高达1.25万亿美元的估值目标显示AI资本竞赛未降温，避险资金流向美债值得关注。",
-      "conclusion_en": "The AI selloff paused, but oil and geopolitical risks still weigh on risk appetite; OpenAI's $1.25 trillion valuation target shows the AI capital race remains hot, and the flight to Treasuries bears watching.",
-      "key_points": [
-        {
-          "zh": "AI交易抛售潮消退，全球股市在波动一周的最后一个交易日获得喘息。",
-          "en": "The AI trade rout faded, giving global stocks some respite in the final session of a volatile week."
-        },
-        {
-          "zh": "OpenAI在新一轮融资中寻求约300亿美元，谈判最后阶段目标估值1.25万亿美元。",
-          "en": "OpenAI is seeking around $30 billion in a fresh funding round and targeting a $1.25 trillion valuation in final negotiations."
-        },
-        {
-          "zh": "油价继续上涨，因中东紧张局势升级，令市场情绪保持谨慎。",
-          "en": "Oil prices kept rising as Middle East tensions ratcheted up, keeping sentiment cautious."
-        },
-        {
-          "zh": "全球担忧引发避险资金涌入，美债收益率大幅下跌。",
-          "en": "Treasuries surged as worldwide worries sparked a rush to safety."
-        },
-        {
-          "zh": "法国部署军队支援警察，以应对周六抗议并防止上周末骚乱重演。",
-          "en": "France is deploying the military to back up police ahead of Saturday protests to prevent a repeat of last weekend's riots."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "OpenAI funding",
-        "oil prices",
-        "Treasuries",
-        "France protests"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4956836",
-      "title": "California Dreamin' Or A Tax Nightmare?",
-      "title_zh": "加州亿万富翁财富税提案引发企业界连锁反应",
-      "url": "https://seekingalpha.com/article/4956836-california-dreamin-or-a-tax-nightmare?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-23T11:30:18+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "加州11月3日公投的Proposition 40拟对亿万富翁征收一次性5%财富税，预计2027-2031年筹集约1000亿美元用于医疗、教育和食品援助。该税已促使部分富豪调整持股结构或迁离加州，并引发关于资本外流与投资环境的争议。",
-      "summary_en": "California's Proposition 40, on the Nov. 3 ballot, proposes a one-time 5% wealth tax on billionaires, expected to raise about $100B over 2027-2031 for healthcare, education, and food assistance. The measure has already prompted some billionaires to adjust shareholding structures or leave the state, sparking debate over capital flight and investment climate.",
-      "detail_zh": "加州即将于11月3日投票的Proposition 40提议对加州亿万富翁征收一次性5%的财富税，纳税人可选择在五年内分期支付。该税针对全球净资产，但直接持有的房地产除外（除非通过企业实体持有）。预计2027-2031年间将筹集约1000亿美元，主要用于因《One Big Beautiful Bill Act》而大幅削减的州医疗项目，以及K-14公立教育和食品援助。提案包含针对信托、全球资产和离岸金融财富的条款以防范避税。Mark Zuckerberg与Meta达成协议，承诺继续居住加州八年（或Meta总部所在地），以换取更大的售股灵活性和保留控制权，包括通过股票拆分创建无投票权的C类股。其他可能受影响的亿万富翁包括英伟达CEO黄仁勋，以及Salesforce、Snap、Airbnb和DoorDash的CEO。部分科技巨头如谷歌联合创始人Larry Page和Sergey Brin、Peter Thiel及Travis Kalanick已在2026年1月1日截止日期前迁离。支持者认为该税让富豪支付公平份额，反对者则担心资本外流、投资减少及可能扩展到中产阶级。",
-      "detail_en": "California's Proposition 40, set for a Nov. 3 vote, proposes a one-time 5% wealth tax on the state's billionaires, with an option to pay in annual installments over five years. The levy applies to worldwide net worth, excluding directly held real estate unless owned through a corporate entity. It is expected to raise about $100B over 2027-2031, primarily funding state healthcare programs that saw heavy cuts due to the One Big Beautiful Bill Act, as well as K-14 public education and food assistance. The proposal includes provisions targeting trusts, global assets, and offshore financial wealth to deter evasion. Mark Zuckerberg reached an agreement with Meta granting him greater flexibility to sell shares while retaining control, including a stock split creating non-voting Class C shares, after pledging to remain a California resident for eight years or wherever Meta maintains headquarters. Other billionaires potentially affected include Nvidia CEO Jensen Huang and the CEOs of Salesforce, Snap, Airbnb, and DoorDash. Some tech titans, such as Google co-founders Larry Page and Sergey Brin, Peter Thiel, and Travis Kalanick, moved out before the Jan. 1, 2026 cutoff. Proponents argue the measure ensures billionaires pay their fair share, while opponents fear capital flight, reduced investment, and expansion to the middle class.",
-      "conclusion_zh": "加州财富税提案可能加剧高净值人群的税务规划与居住地选择，投资者需关注相关科技公司高管售股行为及潜在资本流动对市场的影响。",
-      "conclusion_en": "The California wealth tax proposal may accelerate tax planning and residency shifts among high-net-worth individuals; investors should watch for share sales by tech executives and potential capital flow impacts on the market.",
-      "key_points": [
-        {
-          "zh": "Proposition 40拟对加州亿万富翁征收一次性5%财富税，预计2027-2031年筹集约1000亿美元。",
-          "en": "Proposition 40 proposes a one-time 5% wealth tax on California billionaires, expected to raise about $100B over 2027-2031."
-        },
-        {
-          "zh": "税收将主要用于医疗、K-14教育和食品援助项目。",
-          "en": "Revenue will primarily fund healthcare, K-14 education, and food assistance programs."
-        },
-        {
-          "zh": "Mark Zuckerberg与Meta达成协议，承诺居留加州八年以换取售股灵活性和控制权保留。",
-          "en": "Mark Zuckerberg reached an agreement with Meta, pledging to remain a California resident for eight years in exchange for share sale flexibility and retained control."
-        },
-        {
-          "zh": "部分科技富豪如Larry Page、Sergey Brin、Peter Thiel已在2026年前迁离加州。",
-          "en": "Some tech billionaires like Larry Page, Sergey Brin, and Peter Thiel have left California before 2026."
-        },
-        {
-          "zh": "支持者认为富豪应支付公平份额，反对者担忧资本外流和投资减少。",
-          "en": "Proponents argue billionaires should pay their fair share; opponents fear capital flight and reduced investment."
-        }
-      ],
-      "tags": [
-        "California",
-        "wealth tax",
-        "Proposition 40",
-        "billionaires",
-        "tech"
-      ],
-      "tickers": [
-        "ETSY",
-        "SPCX",
-        "META",
-        "NVDA",
-        "CRM",
-        "SNAP",
-        "ABNB",
-        "DASH",
-        "GOOGL",
-        "PYPL",
-        "PLTR",
-        "UBER",
-        "GM",
-        "MRNA",
-        "LMT",
-        "BDRAF",
-        "PCG",
-        "AAPL",
-        "SLB",
-        "AXP"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:J08RoxSQZ8s",
-      "title": "Treasury Rally Pauses After Rush to Safety; Oil Extends Gain Amid Supply Woes",
-      "title_zh": "科技股抛售推升美债，收益率回落；油价因沙特袭击周线三连涨；SpaceX寻求美国8万基站，铁塔股涨运营商跌",
-      "url": "https://www.youtube.com/watch?v=J08RoxSQZ8s",
-      "published_at": "2026-10-23T11:23:52+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "科技股抛售促使资金涌入美债，收益率下跌后企稳；沙特遭袭升级引发供应担忧，油价有望连续第三周上涨；SpaceX据称寻求接入美国8万个蜂窝基站以建新网络，盘前铁塔公司上涨、无线运营商下跌。Nuveen的Laura Cooper讨论股市面临的结构性挑战。",
-      "summary_en": "A selloff in tech stocks drove investors to Treasuries, with yield declines easing; escalating attacks on Saudi Arabia stoked supply concerns, putting oil on track for a third consecutive weekly gain; SpaceX is said to be seeking access to 80,000 US cell sites for new networks, lifting tower companies and weighing on wireless carriers in pre-market trading. Laura Cooper of Nuveen discussed structural challenges facing the equity market.",
-      "detail_zh": "科技股遭遇抛售，投资者转向美国国债，收益率下跌后跌势有所缓和。原油有望连续第三周上涨，因沙特阿拉伯遭受的袭击升级，加剧了市场对供应的担忧。盘前交易中，铁塔公司股价上涨，而无线运营商股价下跌，此前有消息称SpaceX正寻求接入美国各地8万个蜂窝基站，以建设新网络。Nuveen的Laura Cooper在“Bloomberg Brief”节目中讨论了股市面临的结构性挑战。",
-      "detail_en": "A selloff in tech stocks drove investors into Treasuries, with the decline in yields easing after the move. Oil is headed for a third consecutive weekly gain as escalating attacks on Saudi Arabia stoke supply concerns. In pre-market trading, shares of tower companies rose while wireless carriers fell after SpaceX was said to be seeking access to 80,000 cell sites across the US for new networks. Laura Cooper of Nuveen joined \"Bloomberg Brief\" to discuss structural challenges facing the equity market.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "科技股抛售推动资金流入美债，收益率下跌后企稳。",
-          "en": "Tech stock selloff drove flows into Treasuries, with yield declines easing."
-        },
-        {
-          "zh": "沙特袭击升级引发供应担忧，油价有望连续第三周上涨。",
-          "en": "Escalating attacks on Saudi Arabia stoke supply concerns, putting oil on track for a third weekly gain."
-        },
-        {
-          "zh": "SpaceX据称寻求接入美国8万个蜂窝基站以建新网络，盘前铁塔公司上涨、无线运营商下跌。",
-          "en": "SpaceX is said to seek access to 80,000 US cell sites for new networks; tower companies rise, wireless carriers fall pre-market."
-        },
-        {
-          "zh": "Nuveen的Laura Cooper讨论股市面临的结构性挑战。",
-          "en": "Laura Cooper of Nuveen discussed structural challenges facing the equity market."
-        }
-      ],
-      "tags": [
-        "Treasuries",
-        "Oil",
-        "SpaceX",
-        "Telecom",
-        "Equity Market"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
