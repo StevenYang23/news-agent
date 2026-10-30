@@ -1,6 +1,145 @@
 {
-  "generated_at": "2026-10-30T14:18:44.262273+00:00",
+  "generated_at": "2026-10-30T15:16:02.566245+00:00",
   "insights": [
+    {
+      "guid": "yt:FmI8IBM3BM8",
+      "title": "Starbucks CEO Says Turnaround Is Ahead of Schedule",
+      "title_zh": "星巴克CEO：转型计划提前，盈利增长将持续",
+      "url": "https://www.youtube.com/watch?v=FmI8IBM3BM8",
+      "published_at": "2026-10-30T14:40:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "星巴克CEO Brian Niccol表示，公司盈利增长将持续，转型计划进度超前，并称成为多品牌公司是一种可能。公司近期表示未在探索收购Chipotle。",
+      "summary_en": "Starbucks CEO Brian Niccol expects earnings growth to continue and says the turnaround plan is ahead of schedule. He also says becoming a multi-brand company is a possibility. The company recently said it was not exploring a takeover of Chipotle.",
+      "detail_zh": "星巴克首席执行官Brian Niccol在接受彭博社Romaine Bostick采访时表示，他预计公司盈利增长将持续，且转型计划进度超前。Niccol还提到，成为一家多品牌公司是一种可能性。此外，星巴克近期表示，公司并未在探索收购Chipotle。",
+      "detail_en": "Starbucks CEO Brian Niccol told Bloomberg's Romaine Bostick that he expects earnings growth to continue and that the turnaround plan is ahead of schedule. Niccol also said that becoming a multi-brand company is a possibility. Additionally, the company recently said it was not exploring a takeover of Chipotle.",
+      "conclusion_zh": "星巴克管理层对转型进展和盈利前景持积极态度，并保留多品牌发展的可能性，但未探索收购Chipotle。",
+      "conclusion_en": "Starbucks management is positive on turnaround progress and earnings outlook, and keeps multi-brand expansion as a possibility, but is not exploring a Chipotle takeover.",
+      "key_points": [
+        {
+          "zh": "星巴克CEO预计盈利增长将持续",
+          "en": "Starbucks CEO expects earnings growth to continue"
+        },
+        {
+          "zh": "转型计划进度超前",
+          "en": "Turnaround plan is ahead of schedule"
+        },
+        {
+          "zh": "成为多品牌公司是一种可能性",
+          "en": "Becoming a multi-brand company is a possibility"
+        },
+        {
+          "zh": "公司近期表示未在探索收购Chipotle",
+          "en": "Company recently said it was not exploring a takeover of Chipotle"
+        }
+      ],
+      "tags": [
+        "Starbucks",
+        "turnaround",
+        "earnings growth",
+        "multi-brand",
+        "Chipotle"
+      ],
+      "tickers": [
+        "SBUX",
+        "CMG"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:xWbjzZTGOXg",
+      "title": "AstraZeneca CFO on AI, Earnings, Restructuring Plan",
+      "title_zh": "阿斯利康CFO：AI几乎贯穿所有工作环节",
+      "url": "https://www.youtube.com/watch?v=xWbjzZTGOXg",
+      "published_at": "2026-10-30T14:28:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "阿斯利康首席财务官Aradhana Sarin表示，公司在几乎所有工作环节都使用了AI。她还在访谈中谈及公司业绩超预期、药物管线以及交易策略。",
+      "summary_en": "AstraZeneca CFO Aradhana Sarin says the company uses AI in almost every aspect of its work. She also discussed beating on earnings, the drug pipeline, and the company's approach to dealmaking.",
+      "detail_zh": "阿斯利康首席财务官Aradhana Sarin在“Bloomberg Surveillance”节目中表示，公司在几乎所有工作环节中都使用了人工智能。她提及公司业绩超出预期，并讨论了药物管线情况。Sarin还介绍了公司在交易（并购/合作）方面的策略思路。",
+      "detail_en": "AstraZeneca CFO Aradhana Sarin said on \"Bloomberg Surveillance\" that the company uses AI in almost every aspect of its work. She mentioned that the company beat on earnings and discussed its drug pipeline. Sarin also described the company's approach to dealmaking.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "阿斯利康在几乎所有工作环节都使用AI",
+          "en": "AstraZeneca uses AI in almost every aspect of its work"
+        },
+        {
+          "zh": "公司业绩超出预期",
+          "en": "The company beat on earnings"
+        },
+        {
+          "zh": "CFO谈及药物管线与交易策略",
+          "en": "The CFO discussed the drug pipeline and dealmaking approach"
+        }
+      ],
+      "tags": [
+        "AstraZeneca",
+        "AI",
+        "pharma",
+        "earnings",
+        "dealmaking"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:DMdWNQxMlbA",
+      "title": "Why The Midterms May Not Change America’s $40 Trillion Debt",
+      "title_zh": "美国国债突破40万亿美元，利息支出压力与增长路径之争",
+      "url": "https://www.youtube.com/watch?v=DMdWNQxMlbA",
+      "published_at": "2026-10-30T14:00:38+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "美国国债突破40万亿美元，2026财年赤字近2万亿美元（约占GDP 6.2%），净利息支出已超1万亿美元并预计到2036年翻倍至2.1万亿美元。特朗普政府押注经济增长与AI提升财政前景，但分析显示仅靠增长平衡预算需连续十年7.2%的增速，远高于当前2.2%的水平。持续赤字推高借贷成本，并通过债务市场竞争传导至房贷与消费者融资。",
+      "summary_en": "U.S. national debt has surpassed $40 trillion, with a fiscal 2026 deficit of nearly $2 trillion (about 6.2% of GDP) and net interest costs already exceeding $1 trillion annually, projected to roughly double to $2.1 trillion by 2036. The Trump administration is betting on growth and AI to improve finances, but analysis shows balancing the budget on growth alone would require 7.2% annual growth for a decade versus the recent 2.2% pace. Persistent deficits raise borrowing costs and spill over to mortgages and consumer credit through competition for debt.",
+      "detail_zh": "美国国债已超过40万亿美元，是十年前的两倍多；华盛顿在经济增长的同时仍录得近2万亿美元赤字。2026财年（截至9月）政府支出约7.4万亿美元、收入约5.4万亿美元，赤字约占GDP的6.2%。支出最大驱动是社保以及Medicaid和Medicare医疗成本，人口老龄化推动其持续上升；去年 retroactive 的企业减税导致企业退税大增、收入减少，同时军费开支上升。联邦政府每年净利息支出已超1万亿美元，预计到2036年翻倍至2.1万亿美元，在危机时吸收新增成本的能力受限。政府大量发债与其他债务（包括AI相关企业发行的数千亿美元新债）争夺资金，已使房贷略贵、消费者借贷成本上升。若全球投资者质疑美国偿债信誉，资本外流将推高收益率并拖累经济；通胀与美联储政策也影响国债收益率，利率上升抬高华盛顿新发与再融资成本。特朗普政府认为AI推动的生产率增长（2.5%-3%）可改善财政，但负责任联邦预算委员会测算，仅靠增长平衡预算需连续十年7.2%增速，仅维持债务/GDP稳定也需3.3%，而最近一季度年化增速为2.2%。富国银行投资研究所模拟生产率每年加速0.5个百分点，到第10年可增加约6250亿美元年联邦收入，但属假设情景且国会需决定是否用于减赤。中期选举可能锁定当前约6%的赤字轨迹，分裂政府使重大预算立法更难；12月11日联邦资金到期是选举后的直接考验。CBO 2月展望预计公众持有债务占GDP比将从当前100%升至2036年的120%，年度赤字达约3.1万亿美元（占GDP 6.7%）。投资者仍愿为美国融资，美元储备货币地位使美国可用本币偿债，但是否存在临界点并不清楚。",
+      "detail_en": "U.S. national debt has surpassed $40 trillion, more than double a decade ago, and Washington just ran another nearly $2 trillion deficit even as the economy grew. In fiscal 2026, ended September, the government spent about $7.4 trillion and collected about $5.4 trillion, leaving a deficit of nearly $2 trillion, or roughly 6.2% of GDP. The biggest spending drivers were Social Security and health care costs through Medicaid and Medicare, rising consistently due to an aging population; retroactive corporate tax cuts last year led to a big increase in companies claiming refunds, reducing revenue, while military spending also rose. Net interest costs now exceed $1 trillion annually and are projected to roughly double to $2.1 trillion by 2036, making it hard to absorb new costs in a crisis. Heavy government issuance competes with other debt, including hundreds of billions in new AI-related corporate debt, making mortgages somewhat more expensive and raising consumer borrowing costs. If global investors questioned U.S. creditworthiness, capital would leave, pulling up bond yields and dragging on the economy; inflation and Fed policy also influence Treasury yields, and higher rates raise Washington's borrowing costs on new and refinanced debt. The Trump administration argues stronger growth, partly fueled by AI, could improve the fiscal outlook, with productivity growth of 2.5% or 3%. But the Committee for a Responsible Federal Budget estimated growth would need to be 7.2% for ten years to balance the budget on growth alone, and 3.3% annual growth just to keep debt steady relative to the economy; the economy grew 2.2% annualized in the most recent quarter. Wells Fargo Investment Institute modeled a scenario where productivity growth accelerates by half a percentage point a year, generating roughly $625 billion in additional annual federal revenue by the 10th year—a hypothetical scenario, and Congress would still need to decide whether to use that revenue to reduce deficits. The midterms will probably lock in the current debt and deficit trajectory of about 6% of GDP, and divided government could make major budget legislation harder; federal funding expires December 11th. CBO's February outlook projected debt held by the public rising from 100% of GDP today to 120% by 2036, with annual deficits reaching about $3.1 trillion, or 6.7% of GDP. Investors are still willing to finance U.S. borrowing; the dollar's reserve currency status means the U.S. can repay in its own currency, though it is not clear whether there is a breaking point.",
+      "conclusion_zh": "美国财政轨迹短期难以扭转，利息支出上升与债务竞争将推高融资成本，中期选举与分裂政府料锁定当前赤字路径；增长与AI的改善作用仍属假设，投资者需关注长端收益率与信用风险溢价。",
+      "conclusion_en": "The U.S. fiscal trajectory is unlikely to change near term; rising interest costs and debt competition will push up financing costs, and the midterms and divided government will likely lock in the current deficit path. Growth and AI benefits remain hypothetical, so investors should watch long-end yields and credit risk premia.",
+      "key_points": [
+        {
+          "zh": "美国国债突破40万亿美元，2026财年赤字近2万亿美元，约占GDP 6.2%。",
+          "en": "U.S. national debt surpassed $40 trillion, with a fiscal 2026 deficit of nearly $2 trillion, about 6.2% of GDP."
+        },
+        {
+          "zh": "净利息支出已超1万亿美元/年，预计2036年翻倍至2.1万亿美元，压缩危机应对空间。",
+          "en": "Net interest costs exceed $1 trillion annually and are projected to roughly double to $2.1 trillion by 2036, limiting crisis response capacity."
+        },
+        {
+          "zh": "政府发债与AI企业等债务竞争资金，已推高房贷和消费者借贷成本。",
+          "en": "Government issuance competes with other debt, including AI-related corporate borrowing, raising mortgage and consumer borrowing costs."
+        },
+        {
+          "zh": "仅靠增长平衡预算需连续十年7.2%增速，维持债务/GDP稳定需3.3%，而最近季度增速为2.2%。",
+          "en": "Balancing the budget on growth alone would require 7.2% growth for ten years; keeping debt/GDP steady needs 3.3%, versus 2.2% recent quarterly growth."
+        },
+        {
+          "zh": "CBO预计公众持有债务占GDP比将从100%升至2036年的120%，年度赤字达3.1万亿美元。",
+          "en": "CBO projects publicly held debt rising from 100% of GDP to 120% by 2036, with annual deficits reaching $3.1 trillion."
+        }
+      ],
+      "tags": [
+        "US debt",
+        "deficit",
+        "interest costs",
+        "fiscal policy",
+        "Treasury yields"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:kKgNW7iRKSs",
       "title": "Exxon, Chevron Deliver Big Profits on Strong Refining",
@@ -638,6 +777,95 @@
         "tech-selloff",
         "ai-spending",
         "binance-hack"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:1CKuYjtrPSc",
+      "title": "Midterm Election Battles, Hormuz Oil Flows, Tech Earnings | Bloomberg This Weekend: Nov 1st, 2026",
+      "title_zh": "彭博周末节目预告：中期选举、伊朗局势与嘉宾访谈",
+      "url": "https://www.youtube.com/watch?v=1CKuYjtrPSc",
+      "published_at": "2026-10-30T09:47:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博周末节目聚焦中期选举前最后冲刺、美国可能对伊朗采取军事行动的担忧，以及民调显示选举结果不确定。节目嘉宾包括国际海事组织秘书长、Brooks Running CEO、BMO高级经济学家及美国众议员。",
+      "summary_en": "This weekend's Bloomberg program focuses on the final push before the midterms, fears of a potential US strike on Iran after the election, and polling indicating uncertain midterm results. Guests include the IMO Secretary-General, Brooks Running CEO, a BMO senior economist, and a US Representative.",
+      "detail_zh": "彭博周末节目由David Gura、Lisa Mateo和Nathan Hager主持，旨在提供深入讨论与洞察。今日节目内容包括：中期选举前三天候选人做最后冲刺；选举后美国对伊朗打击的担忧加剧；民调显示中期选举结果不确定。节目嘉宾包括国际海事组织秘书长Arsenio Dominguez、Brooks Running首席执行官Dan Sheridan、BMO资本市场高级经济学家Jennifer Lee，以及康涅狄格州民主党众议员Rosa Delauro。",
+      "detail_en": "Bloomberg This Weekend, hosted by David Gura, Lisa Mateo, and Nathan Hager, aims to provide in-depth discussions and insights. Today's show covers candidates making their final push three days ahead of the midterms, mounting fears of a US strike on Iran after the election, and polling pointing to uncertain midterm results. Guests include Arsenio Dominguez, Secretary-General of the International Maritime Organization; Dan Sheridan, CEO of Brooks Running; Jennifer Lee, Senior Economist at BMO Capital Markets; and Rosa Delauro, US Representative from Connecticut (D).",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "中期选举前三天，候选人做最后冲刺。",
+          "en": "Candidates make final push three days ahead of midterms."
+        },
+        {
+          "zh": "选举后美国对伊朗打击的担忧加剧。",
+          "en": "Fears mount of US strike on Iran after election."
+        },
+        {
+          "zh": "民调显示中期选举结果不确定。",
+          "en": "Polling points to uncertain midterm election results."
+        },
+        {
+          "zh": "嘉宾包括国际海事组织秘书长、Brooks Running CEO、BMO高级经济学家及美国众议员。",
+          "en": "Guests include IMO Secretary-General, Brooks Running CEO, BMO senior economist, and US Representative."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "Iran",
+        "polling",
+        "Bloomberg This Weekend"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5lKIW85jDDY",
+      "title": "Tech Stock Selloff, Trump Midterm Push, Israel Fallout | Bloomberg This Weekend: Oct 31st, 2026",
+      "title_zh": "彭博周末节目：科技股财报不及预期引发抛售，中期选举与以色列大选成焦点",
+      "url": "https://www.youtube.com/watch?v=5lKIW85jDDY",
+      "published_at": "2026-10-30T09:43:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博周末节目讨论了科技股财报不及预期导致的市场抛售、美国两党中期选举最后冲刺以及以色列选举结果不明朗等话题。节目嘉宾包括欧盟委员会高级代表卡拉斯、美国众议员米克斯和生物伦理学家尤科。",
+      "summary_en": "Bloomberg This Weekend discussed the deep stock selloff fueled by tech earnings misses, the final midterm election push by GOP and Democrats, and inconclusive Israel election results. Guests included EU High Representative Kaja Kallas, US Representative Gregory Meeks, and bioethicist Elizabeth Yuko.",
+      "detail_zh": "本期彭博周末节目由David Gura、Lisa Mateo和Nathan Hager主持，旨在提供深度对话与独特视角。节目重点新闻包括：科技公司财报不及预期，引发股市大幅抛售；美国共和党与民主党为中期选举做最后冲刺；以色列选举结果导致领导层不确定。嘉宾方面，节目对话了欧盟委员会高级代表Kaja Kallas、纽约州民主党众议员Gregory Meeks以及福德汉姆大学生物伦理学家Elizabeth Yuko。节目涵盖新闻、政治、生活方式与文化等多元话题。",
+      "detail_en": "Hosted by David Gura, Lisa Mateo, and Nathan Hager, Bloomberg This Weekend offers in-depth conversations and unique perspectives. Key stories included: tech earnings misses fueling a deep stock selloff; the final midterm election push by Republicans and Democrats; and Israel election results leaving leadership inconclusive. Guests included Kaja Kallas, European Commission High Representative; Gregory Meeks, US Representative from New York (D); and Elizabeth Yuko, bioethicist and adjunct professor of ethics at Fordham University. The show spans news, politics, lifestyle, and culture.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技股财报不及预期引发股市大幅抛售。",
+          "en": "Tech earnings misses fueled a deep stock selloff."
+        },
+        {
+          "zh": "美国共和党与民主党为中期选举做最后冲刺。",
+          "en": "GOP and Democrats made their final midterm election push."
+        },
+        {
+          "zh": "以色列选举结果导致领导层不确定。",
+          "en": "Israel election results left leadership inconclusive."
+        },
+        {
+          "zh": "嘉宾包括欧盟委员会高级代表Kaja Kallas、美国众议员Gregory Meeks和生物伦理学家Elizabeth Yuko。",
+          "en": "Guests included EU High Representative Kaja Kallas, US Rep. Gregory Meeks, and bioethicist Elizabeth Yuko."
+        }
+      ],
+      "tags": [
+        "tech earnings",
+        "stock selloff",
+        "midterm elections",
+        "Israel election",
+        "Bloomberg This Weekend"
       ],
       "tickers": [],
       "sentiment": "negative"
@@ -12547,208 +12775,6 @@
         "oil surge",
         "Fed policy",
         "AI trade"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:wYNO7ax-Bq4",
-      "title": "Brazil's Lula and Bolsonaro Tied Heading Into Runoff",
-      "title_zh": "巴西总统大选进入决选，民调显示两位候选人支持率持平",
-      "url": "https://www.youtube.com/watch?v=wYNO7ax-Bq4",
-      "published_at": "2026-10-23T15:14:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "最新民调显示，巴西参议员弗拉维奥·博索纳罗与总统卢拉·达席尔瓦在周日决选前支持率持平。彭博社的罗德里戈·奥里纽埃拉表示，在博索纳罗首轮表现良好后，卢拉一直在动员选民。",
-      "summary_en": "New polling shows Senator Flávio Bolsonaro and President Luiz Inácio Lula da Silva are tied ahead of Sunday's runoff presidential election in Brazil. Bloomberg's Rodrigo Orinhuela says Lula has been mobilizing voters after Bolsonaro had a good showing in the first round.",
-      "detail_zh": "最新民调显示，巴西参议员弗拉维奥·博索纳罗与总统卢拉·达席尔瓦在周日决选前支持率持平。彭博社的罗德里戈·奥里纽埃拉指出，在博索纳罗首轮表现良好后，卢拉一直在动员选民。报道未提供具体民调数字、决选日期细节或对市场的影响分析。",
-      "detail_en": "New polling shows Senator Flávio Bolsonaro and President Luiz Inácio Lula da Silva are tied ahead of Sunday's runoff presidential election in Brazil. Bloomberg's Rodrigo Orinhuela says Lula has been mobilizing voters after Bolsonaro had a good showing in the first round. The report does not provide specific poll numbers, runoff date details, or market impact analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民调显示弗拉维奥·博索纳罗与卢拉在决选前支持率持平。",
-          "en": "Polling shows Flávio Bolsonaro and Lula tied ahead of the runoff."
-        },
-        {
-          "zh": "彭博社的罗德里戈·奥里纽埃拉表示，卢拉在博索纳罗首轮表现良好后一直在动员选民。",
-          "en": "Bloomberg's Rodrigo Orinhuela says Lula has been mobilizing voters after Bolsonaro's strong first-round showing."
-        },
-        {
-          "zh": "巴西总统决选定于周日举行。",
-          "en": "Brazil's presidential runoff is scheduled for Sunday."
-        }
-      ],
-      "tags": [
-        "Brazil election",
-        "Lula",
-        "Bolsonaro",
-        "runoff"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5P5Rz3nQT_M",
-      "title": "CFTC Chair on Prediction Markets, Election, Oil Trades",
-      "title_zh": "CFTC主席关注中期选举前预测市场与原油交易审查",
-      "url": "https://www.youtube.com/watch?v=5P5Rz3nQT_M",
-      "published_at": "2026-10-23T14:50:15+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "CFTC主席Selig表示，在美国中期选举前正密切关注预测市场，并对国会未通过《Clarity Act》感到失望，该法案本可为加密行业设立新规。他还称，正审查与特朗普关于伊朗战争声明相关的原油市场交易。",
-      "summary_en": "CFTC Chairman Michael Selig says the agency is closely monitoring prediction markets ahead of the US midterm elections. He expressed disappointment that Congress did not pass the Clarity Act, which would have set new rules for the crypto industry. Selig also said the agency is scrutinizing oil market trading related to President Trump's announcements about the war in Iran.",
-      "detail_zh": "CFTC主席Michael Selig在堪萨斯州Overland Park举行的农业商品期货会议上对Bloomberg的Tyler Kendall表示，该机构在美国中期选举前正密切关注预测市场。Selig称，他对国会未能通过《Clarity Act》感到失望，该法案本可为加密行业建立新规则。此外，Selig表示，CFTC正在审查与美国总统特朗普关于伊朗战争的声明相关的原油市场交易。",
-      "detail_en": "CFTC Chairman Michael Selig told Bloomberg's Tyler Kendall at the Agricultural Commodity Futures Conference in Overland Park, Kansas, that the agency is keeping a close eye on prediction markets ahead of the US midterm elections. Selig said he is disappointed that Congress did not pass the Clarity Act, which would have set up new rules for the crypto industry. Selig also said the agency is scrutinizing oil market trading related to President Donald Trump's announcements about the war in Iran.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "CFTC在美国中期选举前密切关注预测市场。",
-          "en": "The CFTC is closely monitoring prediction markets ahead of the US midterm elections."
-        },
-        {
-          "zh": "Selig对国会未通过《Clarity Act》感到失望，该法案本可为加密行业设立新规。",
-          "en": "Selig is disappointed that Congress did not pass the Clarity Act, which would have set new rules for the crypto industry."
-        },
-        {
-          "zh": "CFTC正审查与特朗普关于伊朗战争声明相关的原油市场交易。",
-          "en": "The CFTC is scrutinizing oil market trading related to President Trump's announcements about the war in Iran."
-        }
-      ],
-      "tags": [
-        "CFTC",
-        "prediction markets",
-        "crypto regulation",
-        "oil trading",
-        "midterm elections"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:yST2hpDW0gw",
-      "title": "Asia Investors Seek Havens as AI Selloff Deepens",
-      "title_zh": "科技巨头抛售与中东局势升级推动资金流向债券",
-      "url": "https://www.youtube.com/watch?v=yST2hpDW0gw",
-      "published_at": "2026-10-23T14:23:49+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "科技巨头遭遇抛售，叠加中东敌对行动升级，全球投资者转向债券避险。与此同时，中国科技股重定价正在深化，其影响正波及亚洲市场。",
-      "summary_en": "A selloff in tech giants and escalating Middle East hostilities have pushed global investors toward the safety of bonds. Meanwhile, a China tech repricing is deepening, with its impact cascading across Asia.",
-      "detail_zh": "彭博电视报道指出，科技巨头板块出现抛售，同时中东地区的敌对行动升级，这两大因素共同推动全球投资者转向债券市场寻求避险。报道还提到，中国科技股正在经历一轮重定价，且这一过程正在深化。彭博的记者与嘉宾讨论了上述影响如何向亚洲市场蔓延。原文未提供具体跌幅、债券收益率变动或个股名称等细节。",
-      "detail_en": "Bloomberg Television reported that a selloff in tech giants, combined with escalating Middle East hostilities, has driven global investors toward the safety of bonds. The report also noted that a repricing of Chinese tech is deepening. Bloomberg reporters and guests discussed how the impact is cascading across Asia. No specific magnitude of declines, bond yield moves, or individual stock names were provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "科技巨头抛售与中东敌对行动升级共同推动全球投资者转向债券避险。",
-          "en": "A selloff in tech giants and escalating Middle East hostilities have pushed global investors toward the safety of bonds."
-        },
-        {
-          "zh": "中国科技股重定价正在深化。",
-          "en": "A China tech repricing is deepening."
-        },
-        {
-          "zh": "上述影响正波及亚洲市场。",
-          "en": "The impact is cascading across Asia."
-        }
-      ],
-      "tags": [
-        "tech selloff",
-        "Middle East tensions",
-        "bond safe-haven",
-        "China tech repricing",
-        "Asia markets"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:NRU0-JXJIYc",
-      "title": "No Clear Path to Government for Either Party in Israel",
-      "title_zh": "以色列10月27日大选：内塔尼亚胡面临公投式考验",
-      "url": "https://www.youtube.com/watch?v=NRU0-JXJIYc",
-      "published_at": "2026-10-23T14:23:12+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "以色列将于10月27日举行大选，实质是对总理内塔尼亚胡的公投。最新民调显示内塔尼亚胡落后于主要对手甘迪·艾森科特，但双方均无明确组阁路径。",
-      "summary_en": "Israel holds a general election on October 27, effectively a referendum on Prime Minister Benjamin Netanyahu. The latest poll shows Netanyahu trailing main rival Gadi Eisenkot, but neither side has a clear path to forming a government.",
-      "detail_zh": "以色列定于10月27日举行大选，此次选举被视为对总理本杰明·内塔尼亚胡的公投。彭博社的丹·威廉姆斯从耶路撒冷议会报道称，最新民调显示内塔尼亚胡落后于其主要竞争对手甘迪·艾森科特。然而，报道指出双方均无明确的组阁路径。",
-      "detail_en": "Israel is set to hold a general election on October 27, which is effectively a referendum on Prime Minister Benjamin Netanyahu. Bloomberg's Dan Williams reports from the Knesset in Jerusalem that the latest poll shows Netanyahu trailing his main rival, Gadi Eisenkot. However, the report notes that there is no clear path to government for either side.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "以色列将于10月27日举行大选，被视为对内塔尼亚胡的公投。",
-          "en": "Israel will hold a general election on October 27, seen as a referendum on Netanyahu."
-        },
-        {
-          "zh": "最新民调显示内塔尼亚胡落后于主要对手甘迪·艾森科特。",
-          "en": "The latest poll shows Netanyahu trailing his main rival, Gadi Eisenkot."
-        },
-        {
-          "zh": "双方均无明确的组阁路径。",
-          "en": "Neither side has a clear path to forming a government."
-        }
-      ],
-      "tags": [
-        "Israel election",
-        "Netanyahu",
-        "Gadi Eisenkot",
-        "politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:y5iOCqIeq5o",
-      "title": "New York City Bans Horse-Drawn Carriages After Decade-Long Battle",
-      "title_zh": "纽约市议会投票禁止马车，终结中央公园百年传统",
-      "url": "https://www.youtube.com/watch?v=y5iOCqIeq5o",
-      "published_at": "2026-10-23T14:23:05+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "纽约市议会投票通过禁止马车，结束了自19世纪以来中央公园的旅游标志性项目，此前多年就马匹在城市街道上的地位存在争议。",
-      "summary_en": "New York's City Council voted to ban horse-drawn carriages, ending a Central Park tourist staple dating to the 19th century after years of debate over the horses' place on city streets.",
-      "detail_zh": "纽约市议会投票决定禁止马车运营，从而终结了中央公园一项可追溯至19世纪的旅游传统。这一决定是在多年关于马匹在城市街道上地位的争论之后作出的。彭博社的Laura Nahmias对此进行了解释。",
-      "detail_en": "New York's City Council voted to ban horse-drawn carriages, ending a Central Park tourist staple dating to the 19th century. The decision follows years of debate over the horses' place on city streets. Bloomberg's Laura Nahmias explains.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "纽约市议会投票禁止马车。",
-          "en": "New York's City Council voted to ban horse-drawn carriages."
-        },
-        {
-          "zh": "该禁令终结了中央公园自19世纪以来的旅游传统。",
-          "en": "The ban ends a Central Park tourist staple dating to the 19th century."
-        },
-        {
-          "zh": "决定是在多年关于马匹在城市街道上地位的争论后作出的。",
-          "en": "The decision follows years of debate over the horses' place on city streets."
-        }
-      ],
-      "tags": [
-        "New York City",
-        "regulation",
-        "horse-drawn carriages",
-        "Central Park"
       ],
       "tickers": [],
       "sentiment": "neutral"
