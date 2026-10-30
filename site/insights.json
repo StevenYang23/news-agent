@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-30T10:17:24.743756+00:00",
+  "generated_at": "2026-10-30T11:14:40.231380+00:00",
   "insights": [
+    {
+      "guid": "yt:n1wpqN-8a_k",
+      "title": "Binance Says $6.3B Hacked in Crypto Heist",
+      "title_zh": "油价因伊朗风险上升，全球科技股承压，AI支出受质疑",
+      "url": "https://www.youtube.com/watch?v=n1wpqN-8a_k",
+      "published_at": "2026-10-30T10:37:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "市场权衡与伊朗重启冲突的风险，油价上涨；全球科技股因投资者质疑AI支出而持续承压，亚马逊成本上升、英特尔展望令人失望、亚洲芯片股下跌。日本央行维持利率1.25%并暗示可能进一步加息；币安遭重大黑客攻击，估计影响63亿美元。",
+      "summary_en": "Oil rises as markets weigh the risk of renewed conflict with Iran. Global tech shares remain under pressure as investors question AI spending, with Amazon costs rising, Intel's outlook disappointing and Asian chip stocks falling. The Bank of Japan holds rates at 1.25% and signals further increases remain possible; Bitcoin falls after a major Binance hack with an estimated $6.3 billion impact.",
+      "detail_zh": "《华尔街日报》报道特朗普已听取军事选项简报，而德黑兰表示JD Vance的信件并未改变其和平条件。沙特阿拉伯报告在麦加上空拦截了一架胡塞武装无人机，利雅得有1人因导弹碎片坠落受伤。Control Risks的Niamh McBurney表示，美国在中选后采取行动的可能性更大。埃克森美孚和雪佛龙取消了高管前往ADIPEC的行程。全球科技股持续承压，投资者质疑AI支出，亚马逊成本上升、英特尔展望令人失望、亚洲芯片股下跌。渣打银行的Eric Robertsen表示市场在美国中选前感到紧张，而SHUAA Capital的Aarthi Chandrasekaran预计美联储今年还将加息一次。日本央行维持利率在1.25%不变，并暗示仍有可能进一步加息。比特币在币安遭重大黑客攻击后下跌，该公司估计影响为63亿美元。以色列选举在Netanyahu指控违规后仍在调查中，Polymarket审查选举相关交易，阿拉伯政党支持仍可能影响联盟谈判。其他方面，Dino Varkey讨论GEMS Education的AI驱动学校模式，南非债务前景在数据修正后改善，埃及加息，塞内加尔加速支付欠款，ETG计划在莫桑比克建设20亿美元化肥厂。此外关注富士康对AI驱动消费电子的展望、Bloomberg Originals的“Bad Vibes Economy”以及Christine Lagarde预计退出欧洲央行。",
+      "detail_en": "The WSJ reports Trump has been briefed on military options, while Tehran says a letter from JD Vance does not change its peace terms. Saudi Arabia reports intercepting a Houthi drone over Mecca, with one person injured in Riyadh by falling missile debris. Niamh McBurney of Control Risks says US action is more likely after the midterms. Exxon and Chevron also cancel executive trips to ADIPEC. Global tech shares remain under pressure as investors question AI spending, with Amazon costs rising, Intel's outlook disappointing and Asian chip stocks falling. Eric Robertsen of Standard Chartered says markets are nervous ahead of the US midterms, while SHUAA Capital's Aarthi Chandrasekaran expects one more Fed hike this year. The Bank of Japan holds rates at 1.25% and signals further increases remain possible. Bitcoin falls after a major Binance hack, with the company estimating a $6.3 billion impact. Israel's election remains under investigation after Netanyahu alleges irregularities, while Polymarket reviews election-related trades and Arab-party support could still shape coalition talks. Elsewhere, Dino Varkey discusses GEMS Education's AI-powered school model, South Africa's debt outlook improves after revised data, Egypt raises rates, Senegal accelerates arrears payments, and ETG plans a $2 billion fertilizer plant in Mozambique. Also in focus: Foxconn's outlook for AI-driven consumer electronics, Bloomberg Originals' \"Bad Vibes Economy,\" and Christine Lagarde's expected ECB exit.",
+      "conclusion_zh": "地缘政治风险与科技股AI支出质疑交织，叠加美联储加息预期，市场短期情绪偏谨慎，关注中选后美国对伊朗行动可能性及科技股盈利指引。",
+      "conclusion_en": "Geopolitical risks and doubts over AI spending in tech, combined with expectations of another Fed hike, keep market sentiment cautious; watch for potential US action on Iran after midterms and tech earnings guidance.",
+      "key_points": [
+        {
+          "zh": "油价因市场权衡与伊朗重启冲突的风险而上涨，特朗普已听取军事选项简报。",
+          "en": "Oil rises as markets weigh the risk of renewed conflict with Iran; Trump has been briefed on military options."
+        },
+        {
+          "zh": "全球科技股承压，投资者质疑AI支出，亚马逊成本上升、英特尔展望令人失望、亚洲芯片股下跌。",
+          "en": "Global tech shares under pressure as investors question AI spending; Amazon costs rise, Intel's outlook disappoints, Asian chip stocks fall."
+        },
+        {
+          "zh": "日本央行维持利率1.25%不变，并暗示仍可能进一步加息。",
+          "en": "Bank of Japan holds rates at 1.25% and signals further increases remain possible."
+        },
+        {
+          "zh": "比特币在币安遭重大黑客攻击后下跌，公司估计影响达63亿美元。",
+          "en": "Bitcoin falls after a major Binance hack, with the company estimating a $6.3 billion impact."
+        },
+        {
+          "zh": "渣打银行的Eric Robertsen称市场在美国中选前感到紧张；SHUAA Capital的Aarthi Chandrasekaran预计美联储今年还将加息一次。",
+          "en": "Eric Robertsen of Standard Chartered says markets are nervous ahead of the US midterms; Aarthi Chandrasekaran of SHUAA Capital expects one more Fed hike this year."
+        }
+      ],
+      "tags": [
+        "oil",
+        "iran",
+        "tech-selloff",
+        "ai-spending",
+        "binance-hack"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:cw7WST9jBFI",
       "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
@@ -12803,117 +12852,6 @@
         "Equity Market"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:nCzsxmgD7ls",
-      "title": "Volvo CEO Says China Market Gone, Luxury Weakness Remains",
-      "title_zh": "沃尔沃暴跌30%创纪录，中国市场需求萎缩与科技股抛售拖累欧股",
-      "url": "https://www.youtube.com/watch?v=nCzsxmgD7ls",
-      "published_at": "2026-10-23T10:59:10+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "沃尔沃CEO称西方开发车型在中国市场正快速消失，公司再裁2500人，股价暴跌约30%至纪录低点；爱马仕、卡地亚等奢侈品牌在华销售亦加速下滑。节目还讨论了科技股抛售后的资金轮动、美债避险需求、法国PMI疲软与债务风险，以及欧洲汽车业面临的中欧贸易紧张。",
-      "summary_en": "Volvo plunged about 30% to a record low after its CEO said the market for Western-developed cars in China is disappearing fast, prompting 2,500 more job cuts; luxury brands including Hermès and Cartier are also seeing steeper China slumps. The program also covered post-tech-selloff rotation, Treasury safe-haven demand, weak French PMI and debt risks, and Europe-China auto trade tensions.",
-      "detail_zh": "沃尔沃股价暴跌约30%至纪录低点，此前其CEO表示西方开发的汽车在中国市场正快速消失，公司因此再裁减2500个岗位。爱马仕和卡地亚等奢侈品巨头在中国市场遭遇更严重的下滑，显示中国富裕消费者的支出回落正冲击即便最具韧性的品牌。节目议程聚焦科技股抛售后的市场情绪、OpenAI估值下调以及交易员寻求债券避险。Tradition Dubai的Steven Major讨论了美债是否成为新避险资产、法国债务危机及欧洲央行选项。高盛的Kamakshya Trivedi就外汇、美元与日元、油价及法国债务风险发表看法。UBS投资银行的Bhanu Baweja探讨AI、石油与市场轮动，以及超大规模云厂商的AI支出能否获得回报。法国PMI疲软打击欧元，德国PMI则显示韧性；节目还关注法国债务、穆迪评级及传染风险，以及欧洲与中国汽车贸易紧张局势。",
-      "detail_en": "Volvo shares plunged about 30% to a record low after its CEO said the market for Western-developed cars in China is disappearing fast, prompting the company to cut 2,500 more jobs. Luxury powerhouses including Hermès and Cartier are suffering steeper slumps in China, a sign that a spending pullback by wealthy Chinese consumers is hitting even the most resilient brands. The agenda focused on market sentiment after a tech selloff, OpenAI trimming its valuation, and traders seeking safety in bonds. Tradition Dubai's Steven Major discussed whether Treasuries are the new safe haven, the French debt crisis and ECB options. Goldman Sachs' Kamakshya Trivedi weighed in on FX, the dollar and yen, oil prices, French debt risks and the euro. UBS Investment Bank's Bhanu Baweja discussed AI, oil and market rotation, and whether hyperscalers will be rewarded for AI spending. Weak French PMI hit the euro while German PMI showed resilience; the program also covered French debt, Moody's rating and contagion risks, as well as Europe-China auto trade tensions.",
-      "conclusion_zh": "沃尔沃与奢侈品巨头在华疲软凸显中国需求萎缩对欧洲企业的冲击，叠加科技股抛售与法国财政风险，市场避险情绪升温，美债与外汇市场成为关注焦点。",
-      "conclusion_en": "Weakness at Volvo and luxury giants in China highlights the impact of shrinking Chinese demand on European companies; combined with the tech selloff and French fiscal risks, safe-haven demand is rising, with Treasuries and FX in focus.",
-      "key_points": [
-        {
-          "zh": "沃尔沃CEO称西方开发车型在中国市场快速消失，公司再裁2500人，股价暴跌约30%至纪录低点。",
-          "en": "Volvo's CEO said the market for Western-developed cars in China is disappearing fast; the company is cutting 2,500 more jobs and shares plunged about 30% to a record low."
-        },
-        {
-          "zh": "爱马仕、卡地亚等奢侈品牌在华销售加速下滑，显示中国富裕消费者支出回落。",
-          "en": "Luxury brands including Hermès and Cartier are seeing steeper China slumps, signaling a pullback in spending by wealthy Chinese consumers."
-        },
-        {
-          "zh": "科技股抛售后交易员寻求债券避险，OpenAI估值被下调。",
-          "en": "Traders sought safety in bonds after a tech selloff, and OpenAI trimmed its valuation."
-        },
-        {
-          "zh": "法国PMI疲软打击欧元，德国PMI显示韧性；市场关注法国债务、穆迪评级与传染风险。",
-          "en": "Weak French PMI hit the euro while German PMI showed resilience; focus was on French debt, Moody's rating and contagion risks."
-        },
-        {
-          "zh": "节目讨论AI交易压力、市场轮动以及超大规模云厂商AI支出能否获得回报。",
-          "en": "The program discussed pressure on the AI trade, market rotation, and whether hyperscalers will be rewarded for AI spending."
-        }
-      ],
-      "tags": [
-        "China demand",
-        "Volvo",
-        "luxury",
-        "tech selloff",
-        "French debt"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "4956858",
-      "title": "Wall Street Breakfast Podcast: Moderna's Good News Goes Bad",
-      "title_zh": "Moderna癌症疫苗数据积极但股价大跌；SpaceX大规模基站计划提振铁塔股；Kohl's获唯一买入评级",
-      "url": "https://seekingalpha.com/article/4956858-wall-street-breakfast-podcast-modernas-good-news-goes-bad?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-23T10:45:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Moderna与默克的个性化黑色素瘤疫苗三期数据积极，但股价因数据集不完整和估值担忧下跌近18%。SpaceX计划在美国获取至少8万个蜂窝站点，与Crown Castle等基础设施公司洽谈，推动CCI和AMT盘前大涨，而无线运营商AT&T、Verizon、T-Mobile下跌。Kohl's获Gordon Haskett上调至买入，股价大涨。",
-      "summary_en": "Moderna and Merck's personalized melanoma vaccine met Phase 3 endpoints, but MRNA plunged nearly 18% as the full dataset remained unavailable and investors weighed valuation. SpaceX's plan to secure at least 80,000 U.S. cell sites lifted tower stocks CCI and AMT premarket, while carriers T, VZ, and TMUS fell. Kohl's surged after Gordon Haskett issued its only Buy rating.",
-      "detail_zh": "Moderna（MRNA）周四收跌近18%，盘前再跌3%。其与默克（MRK）合作开发的个性化癌症疫苗intismeran autogene联合Keytruda（pembrolizumab）的三期数据显示，在中位随访24.6个月后，相比单用Keytruda，将黑色素瘤复发或死亡风险降低42%，达到主要终点；将癌症扩散或死亡风险降低38%，达到次要终点。数据原定于10月24日在ESMO大会上发布，但因泄露而提前解禁，默克和Moderna也公布了数据。默克周四收跌约2%。市场反应负面，因完整数据集仍不可得，投资者在估值预期与信息披露之间权衡。SpaceX（SPCX）据报计划在美国获取至少8万个蜂窝站点，并与至少一家大型蜂窝基础设施公司洽谈，彭博报道称Crown Castle（CCI）是洽谈对象之一。CCI和American Tower（AMT）是最大蜂窝塔所有者之一。AMT盘前涨4.3%，CCI涨6.5%。8万个站点将超过去年美国158,500座专用蜂窝塔的一半（据无线基础设施协会）。Crown Castle CEO Christian Hillabrant周三表示，在被问及与SpaceX和亚马逊（AMZN）的潜在租约时，公司正在与“所有各方”洽谈。无线运营商AT&T（T）、Verizon（VZ）和T-Mobile（TMUS）盘前均跌超3%。Kohl's（KSS）周四股价大涨，因Gordon Haskett分析师将其评级上调至买入，成为该股唯一买入评级。分析师预计假日季有利， citing 两年流量趋势改善，从1月至5月的下降高个位数加速至6月至今的下降中个位数。此次上调使KSS股价达到去年12月以来最高，并创下去年5月公布Q1业绩以来最佳单日涨幅。股指期货涨跌互现。原油涨1.3%至100美元，布伦特原油涨0.7%至114美元。富时100跌0.5%，DAX跌0.7%。Deckers Outdoor（DECK）跌10%，因Q2营收创纪录、利润增长27%，但销售额超20个季度以来首次不及预期，并下调FY2027营收展望。经济日历：10:00消费者信心指数。",
-      "detail_en": "Moderna (MRNA) closed nearly 18% lower on Thursday and fell another 3% premarket. Phase 3 data for its personalized cancer vaccine intismeran autogene, developed with Merck (MRK), showed that when combined with Keytruda (pembrolizumab), it cut the risk of melanoma recurrence or death by 42% versus Keytruda alone after a median follow-up of 24.6 months, meeting the primary endpoint. The combo also reduced the risk of cancer spreading or death by 38% versus Keytruda alone, meeting the secondary endpoint. The data was slated for release on Oct. 24 at the ESMO Congress in Madrid but was released early after a leak; Merck and Moderna also published the data. Merck closed down about 2% on Thursday. Markets reacted negatively as the complete dataset remained unavailable and investors weighed valuation expectations against disclosure. SpaceX (SPCX) reportedly aims to secure at least 80,000 cell sites across the U.S. and is in talks with at least one major cellular infrastructure company. Bloomberg reported that Crown Castle (CCI) is one of the companies in talks; CCI, American Tower (AMT), and Vertical Bridge Holdings are among the largest owners of cellular towers. AMT rose 4.3% premarket and CCI rose 6.5%. The 80,000 sites would be more than half of the 158,500 purpose-built cell towers operational in the U.S. last year, according to the Wireless Infrastructure Association. Crown Castle CEO Christian Hillabrant said Wednesday the company was talking to 'all parties' when asked about potential leases with SpaceX and Amazon (AMZN). Wireless carriers AT&T (T), Verizon (VZ), and T-Mobile (TMUS) all fell more than 3% premarket. Kohl's (KSS) surged Thursday after Gordon Haskett upgraded the stock to Buy, its only Buy rating, expecting a favorable holiday season. The analyst cited a two-year traffic trend that appears to be improving, accelerating from down high-single digits from January to May to down mid-single digits from June to the present. The upgrade put KSS at its highest level since last December and its best one-day gain since reporting Q1 results last May. Stock index futures were mixed. Crude oil rose 1.3% to $100, and Brent rose 0.7% to $114. The FTSE 100 fell 0.5% and the DAX fell 0.7%. Deckers Outdoor (DECK) plunged 10% after the footwear maker reported record Q2 revenue and a 27% increase in profit but missed sales estimates for the first time in more than 20 quarters and lowered its FY2027 revenue outlook. Economic calendar: 10:00 am Consumer Sentiment.",
-      "conclusion_zh": "Moderna的积极数据未能抵消市场对信息透明度和估值的担忧，而SpaceX的基站计划可能重塑美国铁塔与运营商格局，值得关注相关基础设施类股票的持续反应。",
-      "conclusion_en": "Moderna's positive data failed to offset concerns over disclosure and valuation, while SpaceX's cell site plan could reshape the U.S. tower and carrier landscape, warranting attention to infrastructure stocks' reaction.",
-      "key_points": [
-        {
-          "zh": "Moderna与默克的个性化癌症疫苗三期达到主要和次要终点，但MRNA因数据集不完整和估值担忧大跌近18%。",
-          "en": "Moderna and Merck's personalized cancer vaccine met primary and secondary endpoints in Phase 3, but MRNA plunged nearly 18% on incomplete dataset and valuation concerns."
-        },
-        {
-          "zh": "SpaceX计划在美国获取至少8万个蜂窝站点，与Crown Castle等洽谈，CCI和AMT盘前分别涨6.5%和4.3%。",
-          "en": "SpaceX aims to secure at least 80,000 U.S. cell sites and is in talks with Crown Castle, among others; CCI and AMT rose 6.5% and 4.3% premarket."
-        },
-        {
-          "zh": "无线运营商AT&T、Verizon和T-Mobile因SpaceX基础设施计划盘前均跌超3%。",
-          "en": "Wireless carriers AT&T, Verizon, and T-Mobile all fell more than 3% premarket on SpaceX's infrastructure plan."
-        },
-        {
-          "zh": "Kohl's获Gordon Haskett上调至买入，成为唯一买入评级，股价创去年12月以来新高。",
-          "en": "Kohl's was upgraded to Buy by Gordon Haskett, its only Buy rating, sending shares to their highest since last December."
-        },
-        {
-          "zh": "Deckers Outdoor虽录得创纪录Q2营收和27%利润增长，但销售额超20个季度以来首次不及预期，并下调FY2027营收展望，股价跌10%。",
-          "en": "Deckers Outdoor fell 10% despite record Q2 revenue and 27% profit growth, as sales missed estimates for the first time in over 20 quarters and FY2027 revenue outlook was lowered."
-        }
-      ],
-      "tags": [
-        "Moderna",
-        "SpaceX",
-        "cell towers",
-        "Kohl's",
-        "Deckers"
-      ],
-      "tickers": [
-        "MRNA",
-        "MRK",
-        "CCI",
-        "AMT",
-        "T",
-        "VZ",
-        "TMUS",
-        "KSS",
-        "DECK",
-        "AMZN",
-        "SPCX"
-      ],
       "sentiment": "neutral"
     }
   ]
