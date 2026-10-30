@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-30T09:18:32.679497+00:00",
+  "generated_at": "2026-10-30T10:17:24.743756+00:00",
   "insights": [
+    {
+      "guid": "yt:cw7WST9jBFI",
+      "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+      "title_zh": "币安遭遇史上最大规模黑客攻击，63亿美元资金受影响",
+      "url": "https://www.youtube.com/watch?v=cw7WST9jBFI",
+      "published_at": "2026-10-30T09:26:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "全球最大加密货币交易所币安遭遇行业史上最大规模黑客攻击，涉及63亿美元资金，其中30亿美元加密货币被冻结。此事对数字资产进入主流市场的努力构成新的打击。",
+      "summary_en": "Binance, the world's largest cryptocurrency exchange, has suffered the industry's biggest-ever hack, with $6.3 billion worth of funds affected and $3 billion in crypto frozen. The incident deals a fresh blow to efforts to push digital assets into the mainstream.",
+      "detail_zh": "币安表示，此次黑客攻击影响到的资金规模达63亿美元，其中30亿美元的加密货币已被冻结。彭博的Emily Nicolle报道了这一最新进展。这是加密货币行业有史以来规模最大的黑客攻击事件，对推动数字资产进入主流金融体系的努力构成新的打击。原文未披露攻击的具体手法、发生时间、受影响资产的具体币种，也未说明客户资金是否受损或交易所的赔付安排。",
+      "detail_en": "Binance said $6.3 billion worth of funds were affected in the hack, with $3 billion in crypto frozen, according to Bloomberg's Emily Nicolle. This is the biggest-ever hack suffered by the cryptocurrency industry, dealing a fresh blow to efforts to push digital assets into the mainstream. The source does not disclose the attack method, timing, specific assets affected, whether customer funds were harmed, or any compensation arrangements.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "币安遭遇行业史上最大规模黑客攻击，63亿美元资金受影响",
+          "en": "Binance suffered the industry's biggest-ever hack, with $6.3 billion worth of funds affected"
+        },
+        {
+          "zh": "其中30亿美元加密货币已被冻结",
+          "en": "$3 billion in crypto has been frozen"
+        },
+        {
+          "zh": "事件对数字资产进入主流市场的努力构成新的打击",
+          "en": "The incident is a fresh blow to efforts to push digital assets into the mainstream"
+        }
+      ],
+      "tags": [
+        "crypto",
+        "hack",
+        "Binance",
+        "digital assets"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:OTu8LhqHCbM",
       "title": "Bleak Friday Looms for Stocks: Market Analysis",
@@ -12874,47 +12914,6 @@
         "AMZN",
         "SPCX"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:WOz29qDc2Ww",
-      "title": "AI IPOs Stall While Private Markets Heat Up",
-      "title_zh": "AI公司IPO遇冷，私募资金充裕或延长私有化周期",
-      "url": "https://www.youtube.com/watch?v=WOz29qDc2Ww",
-      "published_at": "2026-10-23T09:23:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "公开市场降温导致AI公司IPO放缓，但私募资金仍持续流向OpenAI、DeepSeek等巨头，这可能使企业更倾向于保持私有状态更长时间。",
-      "summary_en": "AI IPOs are slowing as public markets cool, but private capital continues to flow to giants like OpenAI and DeepSeek, potentially encouraging companies to stay private longer.",
-      "detail_zh": "公开市场对AI公司的IPO热情正在减退，IPO节奏明显放缓。然而，私募资金仍在持续流入OpenAI和DeepSeek等大型AI企业。这种私募资金的充裕可能使这些公司倾向于推迟上市，选择在私有状态下停留更长时间。Anthony Stephens在报道中指出了这一趋势。",
-      "detail_en": "The enthusiasm for AI IPOs in the public markets is waning, leading to a slowdown in IPO activity. However, private capital continues to flow into major AI companies such as OpenAI and DeepSeek. This abundance of private funding may encourage these companies to delay going public and remain private for longer, as noted by Anthony Stephens in the report.",
-      "conclusion_zh": "AI企业上市步伐可能因私募资金充裕而进一步推迟，投资者需关注私募市场动态对公开市场AI标的供给的影响。",
-      "conclusion_en": "AI companies may further delay their public listings due to ample private funding, and investors should watch private market trends for their impact on the supply of public AI equities.",
-      "key_points": [
-        {
-          "zh": "公开市场降温导致AI公司IPO放缓",
-          "en": "Cooling public markets are slowing AI IPOs"
-        },
-        {
-          "zh": "私募资金仍持续流向OpenAI、DeepSeek等AI巨头",
-          "en": "Private capital continues to flow to AI giants like OpenAI and DeepSeek"
-        },
-        {
-          "zh": "企业可能因此选择更长时间保持私有状态",
-          "en": "Companies may choose to stay private for longer as a result"
-        }
-      ],
-      "tags": [
-        "AI IPOs",
-        "private funding",
-        "public markets",
-        "OpenAI",
-        "DeepSeek"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
