@@ -1,6 +1,93 @@
 {
-  "generated_at": "2026-10-30T08:21:33.549851+00:00",
+  "generated_at": "2026-10-30T09:18:32.679497+00:00",
   "insights": [
+    {
+      "guid": "yt:OTu8LhqHCbM",
+      "title": "Bleak Friday Looms for Stocks: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目预告，无实质市场内容",
+      "url": "https://www.youtube.com/watch?v=OTu8LhqHCbM",
+      "published_at": "2026-10-30T08:30:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介与社交媒体链接，未包含任何具体的市场数据、观点或投资分析。因此无法提炼投资洞见。",
+      "summary_en": "The source text is merely a program description and social media links for Bloomberg's 'The Opening Trade,' with no substantive market data, views, or investment analysis. No investment insights can be extracted.",
+      "detail_zh": "原文仅说明Tom Mackenzie、Guy Johnson和Mark Cudmore将在《Bloomberg: The Opening Trade》节目中为分析师和投资者解读当日关键主题，但未提供任何具体主题内容。其余内容均为彭博电视和商业的社交媒体链接及订阅指引。由于缺乏实质信息，无法进行进一步分析。",
+      "detail_en": "The text only states that Tom Mackenzie, Guy Johnson, and Mark Cudmore will break down today's key themes for analysts and investors on 'Bloomberg: The Opening Trade,' without providing any specific themes. The rest consists of social media links and subscription prompts for Bloomberg Television and Business. Due to the lack of substantive information, no further analysis is possible.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视节目简介，无具体市场内容。",
+          "en": "The source is a Bloomberg TV program description with no specific market content."
+        },
+        {
+          "zh": "未提及任何股票、指数、经济数据或投资观点。",
+          "en": "No stocks, indices, economic data, or investment views are mentioned."
+        },
+        {
+          "zh": "无法基于此文本提炼投资洞见。",
+          "en": "No investment insights can be derived from this text."
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "tv-program",
+        "no-content"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:wNLVj76UdyI",
+      "title": "Intel, Amazon Earnings Spark Tech Selloff as AI Fears Mount",
+      "title_zh": "科技股连续第二日遭抛售，币安遭史上最大黑客攻击，法国三季度GDP意外萎缩",
+      "url": "https://www.youtube.com/watch?v=wNLVj76UdyI",
+      "published_at": "2026-10-30T08:14:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "科技股连续第二日下跌，资金加速撤离AI交易，亚马逊与英特尔财报引发对资本开支的新担忧。币安遭遇加密行业史上最大黑客攻击，涉及63亿美元资金，其中30亿美元加密资产被冻结，交易所已暂停所有提现。法国三季度经济意外萎缩，面临借贷成本飙升、暴力抗议及政治与预算不确定性等逆风。",
+      "summary_en": "Tech stocks fell for a second consecutive day as the rotation out of the AI trade accelerated, with Amazon and Intel earnings raising fresh concerns about capital expenditure. Binance suffered the crypto industry's biggest-ever hack, affecting $6.3 billion worth of funds, with $3 billion in crypto frozen and all withdrawals suspended. France unexpectedly contracted in the third quarter, facing headwinds from surging borrowing costs, violent protests, and political and budgetary uncertainty.",
+      "detail_zh": "科技股连续第二个交易日遭到抛售，资金撤离AI交易的轮动加速，此前亚马逊和英特尔的财报引发了对资本开支的新一轮担忧。币安遭遇加密行业史上最大规模黑客攻击，交易所称受影响资金达63亿美元，其中30亿美元加密资产被冻结，并已暂停所有提现，同时配合执法部门并完成安全系统整改。法国三季度经济意外萎缩，使其在借贷成本飙升、暴力抗议以及政治和预算不确定性的逆风下处于疲弱状态。此外，日本央行将隔夜拆借利率维持在1.25%不变；拉加德将提前卸任。节目还讨论了美国经济为何体感更差、AI对就业市场的影响，以及Anthropic、Ray-Ban、Bayer等话题。",
+      "detail_en": "Tech stocks sold off for a second consecutive day as the rotation out of the AI trade accelerated, after earnings from Amazon and Intel raised fresh concerns about capital expenditure. Binance suffered the crypto industry's biggest-ever hack, with the exchange saying $6.3 billion worth of funds were affected, $3 billion in crypto frozen, and all withdrawals suspended as it works with law enforcement and completes a security revamp. France unexpectedly contracted in the third quarter, putting the economy on a weak footing amid headwinds from surging borrowing costs, violent protests, and political and budgetary uncertainty. Additionally, the BOJ kept its overnight call rate at 1.25%, and Lagarde is to step down early. The program also discussed why the US economy feels worse, the impact of AI on the jobs market, and topics including Anthropic, Ray-Ban, and Bayer.",
+      "conclusion_zh": "科技股AI交易轮动与资本开支担忧构成短期压力，加密行业安全风险与欧洲经济疲弱增添宏观不确定性，需关注财报季资本开支指引及监管反应。",
+      "conclusion_en": "The rotation out of the AI trade and capex concerns weigh on tech stocks near-term, while crypto security risks and European economic weakness add macro uncertainty; watch capex guidance this earnings season and regulatory responses.",
+      "key_points": [
+        {
+          "zh": "科技股连续第二日遭抛售，AI交易轮动加速，亚马逊与英特尔财报引发资本开支担忧。",
+          "en": "Tech stocks sold off for a second consecutive day as the AI trade rotation accelerated, with Amazon and Intel earnings raising capex concerns."
+        },
+        {
+          "zh": "币安遭遇加密行业史上最大黑客攻击，涉及63亿美元资金，30亿美元加密资产被冻结，所有提现已暂停。",
+          "en": "Binance suffered the crypto industry's biggest-ever hack, affecting $6.3 billion in funds, with $3 billion in crypto frozen and all withdrawals suspended."
+        },
+        {
+          "zh": "法国三季度经济意外萎缩，面临借贷成本飙升、暴力抗议及政治预算不确定性。",
+          "en": "France unexpectedly contracted in Q3, facing surging borrowing costs, violent protests, and political and budgetary uncertainty."
+        },
+        {
+          "zh": "日本央行将隔夜拆借利率维持在1.25%不变；拉加德将提前卸任。",
+          "en": "The BOJ kept its overnight call rate at 1.25%; Lagarde is to step down early."
+        }
+      ],
+      "tags": [
+        "tech selloff",
+        "AI trade rotation",
+        "Binance hack",
+        "France GDP",
+        "BOJ"
+      ],
+      "tickers": [
+        "AMZN",
+        "INTC"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:fqnZYYaPTic",
       "title": "BP's Refining Business Had a 'Banner Quarter,' CEO Says",
@@ -12826,47 +12913,6 @@
         "public markets",
         "OpenAI",
         "DeepSeek"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:vFgWXF3iHlo",
-      "title": "French Authorities Brace for Weekend Protests",
-      "title_zh": "法国当局准备应对新一轮抗议，军队待命支援警察",
-      "url": "https://www.youtube.com/watch?v=vFgWXF3iHlo",
-      "published_at": "2026-10-23T08:45:51+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "法国当局正为周六的新一轮抗议做准备，军队准备支援警察，以防止上周末骚乱重演。彭博社的Alan Katz报道。",
-      "summary_en": "French authorities are bracing for a new round of protests on Saturday, with the military preparing to back up police to prevent a repeat of last weekend's riots. Bloomberg's Alan Katz reports.",
-      "detail_zh": "法国当局正在为周六的新一轮抗议活动做准备。军队准备支援警察，目的是防止上周末骚乱事件重演。彭博社的Alan Katz对此进行了报道。原文未提供更多关于抗议原因、规模或具体措施的细节。",
-      "detail_en": "French authorities are bracing for a new round of protests on Saturday. The military is preparing to back up police in a bid to prevent a repeat of last weekend's riots. Bloomberg's Alan Katz reports. The original text does not provide further details on the reasons, scale, or specific measures of the protests.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "法国当局准备应对周六的新一轮抗议。",
-          "en": "French authorities are bracing for a new round of protests on Saturday."
-        },
-        {
-          "zh": "军队准备支援警察，以防止上周末骚乱重演。",
-          "en": "The military is preparing to back up police to prevent a repeat of last weekend's riots."
-        },
-        {
-          "zh": "彭博社的Alan Katz报道了这一消息。",
-          "en": "Bloomberg's Alan Katz reported the story."
-        }
-      ],
-      "tags": [
-        "France",
-        "protests",
-        "riots",
-        "military",
-        "police"
       ],
       "tickers": [],
       "sentiment": "neutral"
