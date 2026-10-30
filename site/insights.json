@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:13:25.894829+00:00",
+  "generated_at": "2026-10-30T00:38:51.171765+00:00",
   "insights": [
     {
       "guid": "4952181",
@@ -12491,56 +12491,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:tb2YM6EjL7Q",
-      "title": "Economic Roundtable: Why Is Global Growth So Resilient?",
-      "title_zh": "摩根士丹利：AI资本开支与全球增长韧性",
-      "url": "https://www.youtube.com/watch?v=tb2YM6EjL7Q",
-      "published_at": "2026-10-22T23:59:00+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "摩根士丹利全球经济学家圆桌讨论认为，全球经济增长在加息、能源价格上涨和地缘不确定性中保持韧性，美国主要受AI相关支出驱动，欧洲受益于AI外需和国防投资，亚洲则经历资本开支周期扩散。",
-      "summary_en": "Morgan Stanley's global economists roundtable attributes global growth resilience amid higher rates, energy prices, and geopolitical uncertainty to AI-related spending in the US, AI external demand and defense investment in Europe, and a broadening capex cycle in Asia.",
-      "detail_zh": "摩根士丹利全球首席经济学家Seth Carpenter主持第四季度经济圆桌，美国首席经济学家Michael Gapen、欧洲首席经济学家Jens Eisenschmidt和亚洲首席经济学家Jathan Aya参与。Gapen指出，AI相关支出对利率和地缘政治不敏感，直接贡献美国季度增长的4%至6%，若计入生产率提升则可能更高，并支撑资产市场上涨和 upper-income 家庭消费。Eisenschmidt表示，欧洲二季度增长受AI相关外需和地缘紧张下部分化学工业等生产转移的出口推动，消费者表现好于预期，预计三季度类似。Aya称亚洲资本开支周期从科技扩展至能源、国防和工业，出口从科技向非科技扩散，贸易条件改善，经常账户盈余达1.6万亿美元（占GDP 4.2%），除中国外私人部门资产负债表健康。Gapen认为美国投资故事正从AI向制造业扩散，但制造业仅占产出和就业约10%。Eisenschmidt指出欧洲消费占GDP约50%，投资占20%，未来投资对增长的贡献应上升，但能源价格可能抑制消费。",
-      "detail_en": "Morgan Stanley's global chief economist Seth Carpenter hosted the fourth quarterly economic roundtable with US chief economist Michael Gapen, Europe chief economist Jens Eisenschmidt, and Asia chief economist Jathan Aya. Gapen noted AI-related spending is interest-rate and geopolitically insensitive, directly contributing 4-6% to US quarterly growth, potentially higher with productivity gains, and underpinning asset market appreciation and upper-income household spending. Eisenschmidt said Europe's Q2 growth was driven by AI-related external demand and export shifts due to geopolitical tensions, with consumers holding up better than expected; Q3 is expected to be similar. Aya said Asia's capex cycle is broadening from tech to energy, defense, and industry, with exports broadening from tech to non-tech, improved terms of trade, a current account surplus of $1.6 trillion (4.2% of GDP), and healthy private-sector balance sheets outside China. Gapen sees US investment broadening beyond AI into manufacturing, though manufacturing is only about 10% of output and employment. Eisenschmidt noted European consumption is about 50% of GDP versus 20% for investment, with investment's growth contribution expected to rise, but energy prices may weigh on consumption.",
-      "conclusion_zh": "AI资本开支是当前全球增长的核心支柱，其扩散效应和亚洲资本开支周期值得关注，但欧洲消费面临能源价格风险。",
-      "conclusion_en": "AI capex is a core pillar of global growth; its broadening effects and Asia's capex cycle warrant attention, while European consumption faces energy price risks.",
-      "key_points": [
-        {
-          "zh": "AI相关支出直接贡献美国季度增长的4%至6%，且对利率和地缘政治不敏感。",
-          "en": "AI-related spending directly contributes 4-6% to US quarterly growth and is insensitive to rates and geopolitics."
-        },
-        {
-          "zh": "欧洲二季度增长受AI外需和地缘紧张下出口转移推动，消费者韧性超预期。",
-          "en": "Europe's Q2 growth was driven by AI external demand and export shifts amid geopolitical tensions, with consumers more resilient than expected."
-        },
-        {
-          "zh": "亚洲资本开支周期从科技扩展至能源、国防和工业，经常账户盈余占GDP 4.2%。",
-          "en": "Asia's capex cycle is broadening from tech to energy, defense, and industry; current account surplus is 4.2% of GDP."
-        },
-        {
-          "zh": "美国投资故事正从AI向制造业扩散，但制造业仅占产出和就业约10%。",
-          "en": "US investment is broadening from AI into manufacturing, but manufacturing is only about 10% of output and employment."
-        },
-        {
-          "zh": "欧洲投资占GDP约20%，未来对增长贡献应上升，但能源价格可能抑制消费。",
-          "en": "European investment is about 20% of GDP and its growth contribution should rise, but energy prices may weigh on consumption."
-        }
-      ],
-      "tags": [
-        "AI capex",
-        "global growth",
-        "resilience",
-        "manufacturing",
-        "consumption"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
