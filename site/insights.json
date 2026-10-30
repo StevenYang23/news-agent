@@ -1,6 +1,314 @@
 {
-  "generated_at": "2026-10-30T13:17:19.272018+00:00",
+  "generated_at": "2026-10-30T14:18:44.262273+00:00",
   "insights": [
+    {
+      "guid": "yt:kKgNW7iRKSs",
+      "title": "Exxon, Chevron Deliver Big Profits on Strong Refining",
+      "title_zh": "埃克森美孚与雪佛龙业绩超预期，炼油利润率强劲",
+      "url": "https://www.youtube.com/watch?v=kKgNW7iRKSs",
+      "published_at": "2026-10-30T13:51:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "埃克森美孚和雪佛龙盘前股价上涨，因两家公司业绩均超预期，部分得益于强劲的炼油利润率和更高的天然气价格。据彭博的Kevin Crowley，这两家石油巨头第三季度合计盈利560亿美元，为历史第三高。",
+      "summary_en": "Exxon and Chevron shares rose in premarket trading after both companies beat earnings estimates, driven in part by strong refining margins and higher gas prices. According to Bloomberg's Kevin Crowley, the oil majors earned a combined $56 billion in the third quarter, the third highest on record.",
+      "detail_zh": "埃克森美孚和雪佛龙在盘前交易中股价上涨，此前两家公司公布的业绩均超出分析师预期。业绩超预期部分归因于强劲的炼油利润率和更高的天然气价格。彭博的Kevin Crowley在休斯顿报道称，这两家石油巨头第三季度合计盈利560亿美元，为历史第三高。",
+      "detail_en": "Exxon and Chevron shares rose in premarket trading after both companies reported earnings that beat estimates. The beats were due in part to strong refining margins and higher gas prices. Bloomberg's Kevin Crowley, reporting from Houston, said the oil majors earned a combined $56 billion in the third quarter, the third highest on record.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "埃克森美孚和雪佛龙业绩均超预期，盘前股价上涨。",
+          "en": "Exxon and Chevron both beat earnings estimates, with shares rising in premarket trading."
+        },
+        {
+          "zh": "业绩超预期部分得益于强劲的炼油利润率和更高的天然气价格。",
+          "en": "The beats were driven in part by strong refining margins and higher gas prices."
+        },
+        {
+          "zh": "两家公司第三季度合计盈利560亿美元，为历史第三高。",
+          "en": "The two companies earned a combined $56 billion in the third quarter, the third highest on record."
+        }
+      ],
+      "tags": [
+        "earnings",
+        "oil-majors",
+        "refining-margins",
+        "gas-prices"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:ZyTTf7pRlX4",
+      "title": "TOKEN TROUBLES: AI & CRYPTO EDITION",
+      "title_zh": "谷歌、亚马逊、英特尔财报大幅不及预期，科技板块早盘下跌2.5%",
+      "url": "https://www.youtube.com/watch?v=ZyTTf7pRlX4",
+      "published_at": "2026-10-30T13:47:21+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "tech"
+      ],
+      "summary_zh": "谷歌、亚马逊和英特尔财报大幅不及预期，科技板块早盘下跌2.5%。",
+      "summary_en": "Tech is off 2.5% this morning after large earnings misses from Google, Amazon and Intel.",
+      "detail_zh": "科技板块早盘下跌2.5%。下跌发生在谷歌、亚马逊和英特尔公布大幅不及预期的财报之后。原文未提供更多细节。",
+      "detail_en": "The tech sector is down 2.5% in morning trading. The decline follows large earnings misses from Google, Amazon and Intel. No further details are provided in the source.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技板块早盘下跌2.5%。",
+          "en": "Tech is down 2.5% this morning."
+        },
+        {
+          "zh": "下跌发生在谷歌、亚马逊和英特尔财报大幅不及预期之后。",
+          "en": "The drop follows large earnings misses from Google, Amazon and Intel."
+        }
+      ],
+      "tags": [
+        "tech",
+        "earnings",
+        "selloff"
+      ],
+      "tickers": [
+        "GOOGL",
+        "AMZN",
+        "INTC"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:nX63lTzaNhc",
+      "title": "Tech is Selling Off. AI Debt Fears Are Rising. So Why Does a $4B Manager See a Reverse Bubble?",
+      "title_zh": "Infrastructure Capital Advisors CEO：标普500目标8000点，利率与盈利的博弈",
+      "url": "https://www.youtube.com/watch?v=nX63lTzaNhc",
+      "published_at": "2026-10-30T13:38:14+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "Infrastructure Capital Advisors创始人兼CEO Jay在Excess Returns播客中表示，其标普500目标为8000点，基于23倍市盈率与350美元每股收益。他指出10年期美债收益率每变动25个基点，对应标普市盈率变动约1点，当前地缘政治与美联储加息压制估值，但AI驱动的盈利增长可能推动明年目标至9300点甚至10000点。",
+      "summary_en": "Jay, founder and CEO of Infrastructure Capital Advisors, said on the Excess Returns podcast that his S&P 500 target is 8,000, based on 23x P/E and $350 EPS. He noted that every 25bp move in the 10-year Treasury yield corresponds to about one point of S&P multiple, and while geopolitical tensions and Fed hikes pressure valuations, AI-driven earnings growth could push next year's target to 9,300 or even 10,000.",
+      "detail_zh": "Jay在播客中详细阐述了他的市场框架。他年初设定了8000点的标普500目标，基于23倍市盈率乘以350美元的每股收益。他承认这一目标在过程中“双重错误但结果正确”：10年期美债收益率比他预期高出400个基点（对应4个市盈率点，即19倍），但明年盈利预期从350美元升至约425美元，从而仍指向8000点。他强调从贴现现金流角度看，10年期收益率每变动25个基点，标普市盈率变动约1点，这是一个连续可评估的关系，而非某个临界点。当前市场面临伊朗战争、油价高企、美联储加息以及10年期收益率超过5%的压力，但标普500仍接近历史高点。Jay认为，如果海峡重新开放且利率下降50个基点，标普500可能达到10000点，实现超过25%的年度回报。他还提到AI支出持续推动经济增长，尽管美联储对利率敏感型经济部门施压。对于明年，他基于28倍市盈率和13%的盈利增长，给出9300点的目标，较当前水平上涨约15%。",
+      "detail_en": "Jay elaborated on his market framework on the podcast. He set an 8,000 S&P 500 target for the year, based on 23x P/E times $350 EPS. He admitted the target was 'doubly wrong but correct': the 10-year Treasury yield was 400bp higher than he expected (equivalent to 4 multiple points, or 19x), but next year's earnings estimates rose from $350 to about $425, still pointing to 8,000. He emphasized that from a discounted cash flow perspective, every 25bp move in the 10-year yield corresponds to about one point of S&P multiple—a continuous relationship, not a cliff. The market currently faces pressures from the Iran war, high oil prices, Fed rate hikes, and a 10-year yield above 5%, yet the S&P 500 remains near record highs. Jay believes if the Strait reopens and rates drop by 50bp, the S&P 500 could reach 10,000, delivering a year of over 25% returns. He also noted AI spending continues to drive economic growth, even as the Fed leans hard on rate-sensitive parts of the economy. For next year, based on 28x P/E and 13% earnings growth, he sets a 9,300 target, about 15% upside from current levels.",
+      "conclusion_zh": "投资者应关注利率变动对估值的影响，并重视AI驱动的盈利增长潜力，地缘政治风险可能创造买入机会。",
+      "conclusion_en": "Investors should watch the impact of rate moves on valuations and focus on AI-driven earnings growth potential, as geopolitical risks may create buying opportunities.",
+      "key_points": [
+        {
+          "zh": "标普500目标8000点，基于23倍市盈率和350美元每股收益。",
+          "en": "S&P 500 target of 8,000, based on 23x P/E and $350 EPS."
+        },
+        {
+          "zh": "10年期美债收益率每变动25个基点，标普市盈率变动约1点。",
+          "en": "Every 25bp move in the 10-year Treasury yield corresponds to about one point of S&P multiple."
+        },
+        {
+          "zh": "地缘政治和美联储加息压制估值，但AI驱动的盈利增长可能推动明年目标至9300点。",
+          "en": "Geopolitical tensions and Fed hikes pressure valuations, but AI-driven earnings growth could push next year's target to 9,300."
+        },
+        {
+          "zh": "若海峡重新开放且利率下降50个基点，标普500可能达到10000点。",
+          "en": "If the Strait reopens and rates drop 50bp, the S&P 500 could reach 10,000."
+        }
+      ],
+      "tags": [
+        "S&P 500 target",
+        "interest rates",
+        "AI",
+        "geopolitics",
+        "earnings growth"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:XlBEbNJH-ho",
+      "title": "Data Center Debate on the Ballot in 13 States",
+      "title_zh": "民调显示半数选民反对家附近建数据中心，13州将公投",
+      "url": "https://www.youtube.com/watch?v=XlBEbNJH-ho",
+      "published_at": "2026-10-30T13:29:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "AI建设正在推进，但社区阻力显现。最新民调显示50%的选民不希望数据中心建在自家三英里范围内，该议题将在13个州的选票上出现。",
+      "summary_en": "The AI buildout is underway, but community resistance is emerging. New polling shows 50% of voters do not want a data center built within three miles of their home, and the issue will appear on ballots in 13 states.",
+      "detail_zh": "彭博的Tyler Kendall报道称，AI基础设施建设正在推进，但并非所有人都希望数据中心建在自家附近。最新民调显示，50%的选民反对在距离住所三英里内建设数据中心。这一议题将出现在13个州的选票上，成为地方政治议题。报道未提供民调的具体来源、样本量或误差范围，也未说明这13个州的具体名称或公投的具体形式（如是否具有约束力）。",
+      "detail_en": "Bloomberg's Tyler Kendall reports that the AI buildout is underway, but not everyone wants a data center in their neighborhood. New polling shows 50% of voters don't want to see a data center built within three miles of their home. The issue will appear on ballots in 13 states, making it a local political issue. The report does not provide the polling source, sample size, or margin of error, nor does it specify which 13 states or the nature of the ballot measures (e.g., whether they are binding).",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "50%的选民不希望数据中心建在自家三英里范围内。",
+          "en": "50% of voters do not want a data center built within three miles of their home."
+        },
+        {
+          "zh": "该议题将出现在13个州的选票上。",
+          "en": "The issue will appear on ballots in 13 states."
+        },
+        {
+          "zh": "AI建设正在推进，但面临社区层面的反对。",
+          "en": "The AI buildout is underway but faces community-level opposition."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "data centers",
+        "local opposition",
+        "ballot measures",
+        "polling"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:J0Odk3vc5WQ",
+      "title": "Oil Is a Tough Trade for Now, Says Sarah Hunt",
+      "title_zh": "Alpine Woods的Sarah Hunt谈科技股抛售与石油巨头财报",
+      "url": "https://www.youtube.com/watch?v=J0Odk3vc5WQ",
+      "published_at": "2026-10-30T13:25:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Alpine Woods Capital Investment的Sarah Hunt讨论了科技股抛售以及埃克森美孚和雪佛龙的财报。她表示，尽管经济部分领域表现良好，但部分投资者仍对人工智能感到紧张。",
+      "summary_en": "Sarah Hunt of Alpine Woods Capital Investment discussed the selloff in tech stocks and earnings from oil giants Exxon and Chevron. She noted that even though some parts of the economy are doing well, some investors remain nervous about artificial intelligence.",
+      "detail_zh": "Alpine Woods Capital Investment的Sarah Hunt就科技股抛售以及石油巨头埃克森美孚和雪佛龙的财报发表了看法。她指出，尽管经济中部分领域表现良好，但部分投资者对人工智能仍感到紧张。原文未提供具体数字、股票代码或更详细的因果分析。",
+      "detail_en": "Sarah Hunt of Alpine Woods Capital Investment commented on the selloff in tech stocks and the earnings from oil giants Exxon and Chevron. She noted that while some parts of the economy are performing well, some investors are still nervous about artificial intelligence. The original text does not provide specific numbers, ticker symbols, or more detailed causal analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技股出现抛售。",
+          "en": "There is a selloff in tech stocks."
+        },
+        {
+          "zh": "埃克森美孚和雪佛龙发布了财报。",
+          "en": "Exxon and Chevron reported earnings."
+        },
+        {
+          "zh": "经济部分领域表现良好。",
+          "en": "Some parts of the economy are doing well."
+        },
+        {
+          "zh": "部分投资者对人工智能感到紧张。",
+          "en": "Some investors are nervous about artificial intelligence."
+        }
+      ],
+      "tags": [
+        "tech selloff",
+        "AI concerns",
+        "oil earnings",
+        "market sentiment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "https://bondvigilantes.com/?p=26866",
+      "title": "Halloween charts: may contain graph-ic content",
+      "title_zh": "M&G年度“恐怖图表”：消费靠储蓄、柴油炼油溢价飙升、楼市冰封、信用利差极窄、超大规模云厂商资本开支依赖债市、法国失去核心地位",
+      "url": "https://bondvigilantes.com/blog/2026/10/halloween-charts-may-contain-graph-ic-content/",
+      "published_at": "2026-10-30T13:19:41+00:00",
+      "source_name": "Bond Vigilantes (M&G)",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "M&G年度“恐怖图表”指出六项值得警惕的风险：美国实际消费增长持续超过收入增长、靠储蓄支撑；柴油炼油溢价年内约翻两番、推高通胀风险；美国成屋销售占自住房比例降至4.75%、低于2010年低点；美国投资级信用利差仅占收益率约14%、为1998年以来最低；超大规模云厂商资本开支已占经营现金流82%、更多依赖债市融资；法国10年期国债收益率已高于意大利。",
+      "summary_en": "M&G's annual 'spooky charts' flag six risks worth watching: US real consumption growth outpacing income growth and increasingly funded by savings; the diesel refining premium roughly quadrupling this year, raising inflation risk; existing home sales at 4.75% of owner-occupied homes, below the 2010 low; US investment grade credit spreads at about 14% of yield, the lowest since 1998; hyperscaler capex at 82% of operating cash flow, increasingly reliant on bond markets; and French 10-year yields now above Italy's.",
+      "detail_zh": "M&G与Bloomberg发布的2026年10月年度“恐怖图表”列出六项风险。其一，美国实际消费同比增长2.6%，而剔除转移支付的实际个人收入仅增0.8%；自2024年年中以来支出每月都超过收入，缺口日益靠储蓄弥补，而储蓄有限，且历史上收入（剔除转移支付）转负常伴随衰退。其二，美国柴油价格拆分为原油与炼油溢价，炼油溢价年内约翻两番，远高于俄乌冲突初期水平，零售价突破每加仑6美元；柴油驱动货运与农业机械，对通胀的影响可能大于油价本身，即使地缘冲突缓解压低油价，炼油成本高企或更持久。其三，美国成屋销售占自住房比例降至4.75%，低于2010年5.1%的后危机低点，约为2005年9.6%的一半；多数有按揭的房主利率远低于当前水平，搬家意味着接受更高利率，抑制换手，并拖累律师、家具等相关支出。其四，美国投资级信用利差约占收益率14%，为1998年以来最低比例，历史上类似起点之后超额回报偏弱。其五，微软、亚马逊、Alphabet、Meta、Oracle等超大规模云厂商资本开支已占合计经营现金流82%，十年前为27%，2024年初为40%；公司指引显示明年支出继续增加，叠加回购与分红后剩余现金流有限，更多支出或通过债市融资，今年已出现大额发债，另有租赁与私人信贷工具使部分支出表外化。其六，法国10年期收益率已高于意大利并显著高于西班牙；三年前意大利比法国高138bp，西班牙在主权债危机高峰时高近470bp；部分因意大利、西班牙财政改善，部分因法国政治与借贷担忧，9月变动尤其大。",
+      "detail_en": "M&G's October 2026 annual 'spooky charts' with Bloomberg list six risks. First, US real spending grew 2.6% year-on-year while real personal income excluding transfers rose only 0.8%; spending has outpaced income every month since mid-2024, with the gap increasingly funded by savings, which are finite, and historically negative income ex transfers has often coincided with recessions. Second, US diesel is split into crude and the refining premium; the refining premium has roughly quadrupled this year and sits well above the period when Russia first invaded Ukraine, with pump prices above $6 per gallon. Diesel moves goods and runs farms and machinery, so it may matter more for inflation than oil alone; even if lower oil prices follow a resolution to conflicts, a persistently higher refining cost could be more entrenched. Third, existing home sales are 4.75% of owner-occupied homes, below the 5.1% post-crisis low in 2010 and about half the 9.6% in 2005; most mortgaged homeowners pay well below today's rates, so moving would mean a much higher mortgage rate, limiting turnover and reducing spending on everything from solicitors to sofas. Fourth, the US investment grade credit spread is about 14% of yield, the lowest proportion since 1998; similar starting points have historically been followed by weak excess returns. Fifth, hyperscalers Microsoft, Amazon, Alphabet, Meta and Oracle are spending 82% of combined operating cash flow on capex, up from 27% a decade ago and 40% in early 2024; guidance points to more spending next year, and with buybacks and dividends added, more is likely funded through the bond market, with large deals already this year plus leases and private credit vehicles keeping some off balance sheet. Sixth, France's 10-year yield is now above Italy's and significantly above Spain's; three years ago Italy yielded 138bp more than France, and at the sovereign debt crisis peak Spain yielded almost 470bp more. Some of this reflects Italy and Spain improving finances and some French politics struggling, with the September move particularly large.",
+      "conclusion_zh": "多项指标处于历史极端位置：消费靠储蓄、信用利差极窄、楼市冰封、资本开支转向债市融资，投资者应对通胀韧性与信用资产回报保持警惕。",
+      "conclusion_en": "Several indicators sit at historical extremes—savings-funded consumption, tight credit spreads, a frozen housing market and capex shifting to bond funding—warranting caution on inflation resilience and credit returns.",
+      "key_points": [
+        {
+          "zh": "美国实际消费同比增长2.6%，剔除转移支付的实际收入仅增0.8%，缺口靠储蓄弥补，储蓄有限。",
+          "en": "US real spending grew 2.6% y/y while real income ex transfers rose only 0.8%, with the gap funded by finite savings."
+        },
+        {
+          "zh": "美国柴油炼油溢价年内约翻两番，零售价突破每加仑6美元，对通胀的影响可能大于油价本身。",
+          "en": "The US diesel refining premium roughly quadrupled this year, with pump prices above $6/gallon, potentially mattering more for inflation than oil alone."
+        },
+        {
+          "zh": "美国成屋销售占自住房比例降至4.75%，低于2010年5.1%的低点，高利率锁定效应抑制换手与相关消费。",
+          "en": "Existing home sales are 4.75% of owner-occupied homes, below the 2010 low of 5.1%, as rate lock limits turnover and related spending."
+        },
+        {
+          "zh": "美国投资级信用利差仅占收益率约14%，为1998年以来最低，历史上类似起点后超额回报偏弱。",
+          "en": "US IG credit spreads are about 14% of yield, the lowest since 1998, and similar starting points have historically been followed by weak excess returns."
+        },
+        {
+          "zh": "超大规模云厂商资本开支已占经营现金流82%，更多支出或转向债市融资；法国10年期收益率已高于意大利。",
+          "en": "Hyperscaler capex is 82% of operating cash flow, pushing more funding to bond markets; France's 10-year yield is now above Italy's."
+        }
+      ],
+      "tags": [
+        "credit-spreads",
+        "consumption",
+        "housing",
+        "capex",
+        "france"
+      ],
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "GOOGL",
+        "META",
+        "ORCL"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:vF32gAut3pk",
+      "title": "Apple iPhone Duo Not Great AI Experience, Piecyk Says",
+      "title_zh": "Lightshed分析师对苹果iPhone Duo不以为然，预计今年艰难",
+      "url": "https://www.youtube.com/watch?v=vF32gAut3pk",
+      "published_at": "2026-10-30T13:15:42+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Lightshed Partners的Walter Piecyk表示，苹果的iPhone Duo并未给他留下深刻印象，并认为今年对苹果来说将是艰难的一年。苹果将于周一发布财报。",
+      "summary_en": "Walter Piecyk of Lightshed Partners is not impressed with the Apple iPhone Duo and expects a tough year for the company. Apple reports earnings on Monday.",
+      "detail_zh": "Lightshed Partners分析师Walter Piecyk在Bloomberg Surveillance节目中表示，苹果的iPhone Duo未能打动他。他预计苹果今年将面临艰难的一年。苹果计划于周一公布财报。Piecyk的观点是在苹果财报发布前给出的，但原文未提供更多关于其分析依据或具体财务预测的细节。",
+      "detail_en": "Walter Piecyk of Lightshed Partners said on Bloomberg Surveillance that he is not impressed with Apple's iPhone Duo. He expects a tough year for the company. Apple is scheduled to report earnings on Monday. The original text does not provide further details on his reasoning or specific financial forecasts.",
+      "conclusion_zh": "在苹果财报发布前，有分析师对iPhone Duo持保留态度并看淡全年表现，投资者需关注财报是否印证这一谨慎观点。",
+      "conclusion_en": "Ahead of Apple's earnings, an analyst is unimpressed with the iPhone Duo and sees a tough year, suggesting investors should watch whether the report confirms this cautious view.",
+      "key_points": [
+        {
+          "zh": "Lightshed Partners的Walter Piecyk对苹果iPhone Duo印象不佳。",
+          "en": "Walter Piecyk of Lightshed Partners is not impressed with Apple's iPhone Duo."
+        },
+        {
+          "zh": "Piecyk预计苹果今年将面临艰难的一年。",
+          "en": "Piecyk expects a tough year for Apple."
+        },
+        {
+          "zh": "苹果将于周一发布财报。",
+          "en": "Apple reports earnings on Monday."
+        }
+      ],
+      "tags": [
+        "Apple",
+        "iPhone Duo",
+        "earnings preview",
+        "analyst view"
+      ],
+      "tickers": [
+        "AAPL"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:0g83nipDgY0",
       "title": "Democratic Wave in House Looks Likely, Cook's Covey Says",
@@ -12441,356 +12749,6 @@
         "regulation",
         "horse-drawn carriages",
         "Central Park"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6SwuZmT1Pvc",
-      "title": "Rory Johnston: $60 Oil Is Possible in 2027 | with Mikkel Rosenvold",
-      "title_zh": "Rory Johnston：布伦特年底或站上100美元，霍尔木兹海峡流量成关键",
-      "url": "https://www.youtube.com/watch?v=6SwuZmT1Pvc",
-      "published_at": "2026-10-23T14:00:06+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "油市研究员Rory Johnston认为，尽管霍尔木兹海峡流量已从9月高点回落，但中东袭击升级与中国进口复苏将推动布伦特年底收于100美元上方。他回顾称，此前预期油价将因需求破坏而升至200美元，但中国约550万桶/日的进口骤降（占战前约45%）是市场再平衡的最大变量。",
-      "summary_en": "Oil market researcher Rory Johnston expects Brent to close the year above $100, citing escalating Middle East strikes and China's resurgent import appetite, even as Strait of Hormuz flows have fallen from September highs. He noted his earlier $200 call was based on demand destruction, but the largest balancing factor proved to be China's roughly 5.5 million b/d collapse in imports, about 45% of its pre-war crude imports.",
-      "detail_zh": "在Real Vision访谈中，Rory Johnston表示，尽管此前因霍尔木兹海峡流量增加而倾向于看空年底油价，但鉴于中东混乱、袭击加剧以及中国进口胃口似乎复苏，他预计布伦特年底将收于100美元/桶上方。他回顾称，今年3月曾确信布伦特将升至200美元，理由是市场需要足够的需求破坏来平衡；实际布伦特即期期货最高远低于200美元，而dated Brent曾短暂突破120美元，实物价格一度达到144美元甚至更高。他强调，霍尔木兹海峡损失约2000万桶/日、东西管道及Adcup管道改道、史上最大规模SPR释放都在预期之内，真正未预料到且导致市场宽松的最大摆动是“北京摆动”——中国原油进口骤降约550万桶/日，约占其战前进口的45%，使世界其他地区尤其是亚洲其他地区得以更快、以更低价格恢复至战前进口水平。关于当前流量，他称9月最后一周霍尔木兹海峡石油流量（7日滚动均值）一度回升至约1700万桶/日，接近战前20-21百万桶/日的水平，剔除伊朗后基本达到战前；但随后伊朗发动了开战以来最大系列袭击，10月初一度日均确认两起船只袭击，实际数字可能更高，流量随之从1700万桶/日降至约1200-1400万桶/日，仍是除9月高点外持续最高的过境速度。",
-      "detail_en": "Speaking on Real Vision, Rory Johnston said that while he initially leaned toward lower year-end prices given increased Hormuz flows, the chaos in the Middle East, mounting strikes, and China's seemingly resurgent import appetite lead him to expect Brent to close the year above $100/bbl. He recalled being quite sure in March that Brent was headed to $200, reasoning that the market needed demand destruction to balance; prompt futures capped well below $200, while dated Brent briefly broke above $120 and physical prices reached $144 or higher. He stressed that the loss of about 20 million b/d out of Hormuz, reroutes via the East-West and Adcup pipelines, and history's largest SPR release were all expected. The biggest unexpected swing that loosened the market was what he calls the 'Beijing swing'—China's crude imports collapsed by about 5.5 million b/d, roughly 45% of its pre-war crude imports, allowing the rest of the world, particularly Asia, to recover to pre-war import levels faster and at lower prices. On current flows, he said Hormuz oil flows on a 7-day rolling average recovered to about 17 million b/d in the last week of September, near the pre-war norm of 20-21 million b/d, and excluding Iran essentially reached pre-war levels. But Iran then launched the largest series of attacks on shipping since the war began, with an average of two confirmed ship strikes a day at points in early October—actual strikes likely higher—and flows fell to roughly 12-14 million b/d, still the highest sustained pace outside the September high.",
-      "conclusion_zh": "油市多头逻辑仍围绕中东供应风险与中国需求回归，布伦特年底100美元上方是Johnston的核心判断，但霍尔木兹流量与袭击节奏是主要波动来源。",
-      "conclusion_en": "The bullish oil case rests on Middle East supply risk and returning Chinese demand; Johnston's core call is Brent above $100 by year-end, with Hormuz flows and attack tempo as key swing factors.",
-      "key_points": [
-        {
-          "zh": "Johnston预计布伦特年底收于100美元/桶上方，因中东袭击升级和中国进口复苏。",
-          "en": "Johnston expects Brent to close the year above $100/bbl on escalating Middle East strikes and China's import recovery."
-        },
-        {
-          "zh": "他此前200美元的预测基于需求破坏逻辑，但实际即期期货远低于该水平。",
-          "en": "His earlier $200 call was based on demand destruction, but prompt futures stayed well below that."
-        },
-        {
-          "zh": "中国原油进口骤降约550万桶/日（占战前约45%）是市场再平衡的最大意外因素。",
-          "en": "China's roughly 5.5 million b/d collapse in crude imports (about 45% of pre-war) was the biggest surprise balancing factor."
-        },
-        {
-          "zh": "霍尔木兹海峡流量9月一度达约1700万桶/日，10月初袭击后降至约1200-1400万桶/日。",
-          "en": "Hormuz flows reached about 17 million b/d in September, then fell to roughly 12-14 million b/d after early-October attacks."
-        },
-        {
-          "zh": "10月初一度日均两起确认船只袭击，实际袭击数可能更高。",
-          "en": "At points in early October there were two confirmed ship strikes a day on average, with actual strikes likely higher."
-        }
-      ],
-      "tags": [
-        "oil",
-        "Brent",
-        "Hormuz",
-        "China demand",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:-IUTlm0sAc0",
-      "title": "Are diamonds losing their luster?",
-      "title_zh": "天然钻石价格五年暴跌约60%，实验室培育钻石抢占市场",
-      "url": "https://www.youtube.com/watch?v=-IUTlm0sAc0",
-      "published_at": "2026-10-23T14:00:02+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "天然钻石价格从2022年3月每克拉约1万美元的历史高点下跌约60%，主因是成本远低的实验室培育钻石大量涌入。培育钻石在2026年已占美国订婚戒指销量的61%，较2020年增长239%，正在重塑传统钻石市场格局。",
-      "summary_en": "Natural diamond prices have fallen roughly 60% from an all-time high of about $10,000 per carat in March 2022, driven mainly by a boom in far cheaper lab-grown alternatives. Lab-grown stones accounted for 61% of US engagement ring sales in 2026, a 239% increase since 2020, reshaping the traditional diamond market.",
-      "detail_zh": "天然钻石价格五年内下跌约60%，从2022年3月每克拉约1万美元的历史高点大幅回落。主要原因是实验室培育钻石以极低成本进入市场，价格远低于天然钻石。培育钻石通过将钻石种子放入真空腔室，在受控温度和压力下与含碳气体反应，逐层生长后切割抛光，其外观及化学物理性质与天然钻石相同。由于可无限量生产，培育钻石售价远低于天然钻石，推动消费者习惯发生巨大转变。2026年，培育钻石（含钻石）占美国订婚戒指销量的61%，较2020年增长239%。行业面临地缘政治不确定性、抛光钻石库存过剩以及印度钻石进口关税上升等压力，主要参与者被迫转型。俄罗斯国有Alrosa约占全球钻石产量30%，报告2023至2025年间产量下降。",
-      "detail_en": "Natural diamond prices have fallen roughly 60% over five years, dropping from an all-time high of about $10,000 per carat in March 2022. The main culprit is a boom in lab-grown alternatives entering the market at a fraction of the cost. Lab-grown diamonds are created by placing small diamond seeds into a vacuum chamber with carbon-rich gases under controlled heat and pressure; the seed grows layer by layer before being cut and polished, and the result looks just like natural diamonds with the same chemical and physical properties. Because they can be produced in unlimited quantities, lab-grown stones sell for far less, driving an enormous shift in consumer habits. In 2026, lab-grown stones, including diamonds, accounted for 61% of all US engagement ring sales, a 239% increase since 2020. The industry is being forced to pivot amid geopolitical uncertainty, excess inventory of polished diamonds, and higher tariffs on diamond imports from India. Russia's state-owned Alrosa, which accounts for about 30% of global diamond production, reported a decline in production between 2023 and 2025.",
-      "conclusion_zh": "培育钻石的供给冲击已实质性改变钻石行业定价与消费结构，传统钻石生产商面临持续的价格与需求压力。",
-      "conclusion_en": "The supply shock from lab-grown diamonds has materially altered industry pricing and consumer structure, leaving traditional diamond producers under sustained price and demand pressure.",
-      "key_points": [
-        {
-          "zh": "天然钻石价格五年内下跌约60%，从2022年3月每克拉约1万美元的高点回落。",
-          "en": "Natural diamond prices have fallen roughly 60% in five years from about $10,000 per carat in March 2022."
-        },
-        {
-          "zh": "实验室培育钻石以远低成本生产，外观及化学物理性质与天然钻石相同。",
-          "en": "Lab-grown diamonds are produced at far lower cost and share the same chemical and physical properties as natural diamonds."
-        },
-        {
-          "zh": "2026年培育钻石占美国订婚戒指销量的61%，较2020年增长239%。",
-          "en": "Lab-grown stones accounted for 61% of US engagement ring sales in 2026, up 239% since 2020."
-        },
-        {
-          "zh": "行业面临地缘政治不确定性、抛光钻石库存过剩及印度进口关税上升的压力。",
-          "en": "The industry faces geopolitical uncertainty, excess polished diamond inventory, and higher tariffs on imports from India."
-        },
-        {
-          "zh": "俄罗斯国有Alrosa约占全球产量30%，报告2023至2025年产量下降。",
-          "en": "Russia's state-owned Alrosa, about 30% of global production, reported a production decline between 2023 and 2025."
-        }
-      ],
-      "tags": [
-        "diamonds",
-        "lab-grown",
-        "commodities",
-        "consumer"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:PA40zEt6xl8",
-      "title": "Q&A: Indonesia’s Stock Market Selloff",
-      "title_zh": "MSCI警告可能双重降级，印尼股市动荡",
-      "url": "https://www.youtube.com/watch?v=PA40zEt6xl8",
-      "published_at": "2026-10-23T13:46:24+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "MSCI警告可能将印尼市场双重降级，其新兴市场地位面临风险，印尼股市因此陷入动荡。Ruth Carson在节目中回答了观众关于印尼股市动荡及投资者后续应对的问题。",
-      "summary_en": "MSCI warned of a possible double downgrade for Indonesia, putting its emerging-market status at risk and triggering stock market turmoil. Ruth Carson addressed viewer questions on the turmoil and what's next for investors.",
-      "detail_zh": "MSCI警告称，印尼可能面临双重降级，这使其新兴市场地位岌岌可危。受此影响，印尼股市出现动荡。Ruth Carson在Bloomberg Television节目中回答了观众提交的关于印尼股市动荡以及投资者下一步该如何应对的问题。原文未提供降级的具体原因、时间表或市场影响的具体数据。",
-      "detail_en": "MSCI warned of a possible double downgrade for Indonesia, putting its emerging-market status on the line. Indonesia's stock market is reeling as a result. Ruth Carson answered viewer-submitted questions on the stock market turmoil and what's next for investors on Bloomberg Television. The source does not provide specific reasons, timelines, or market impact data for the potential downgrade.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "MSCI警告印尼可能面临双重降级，新兴市场地位面临风险。",
-          "en": "MSCI warned Indonesia of a possible double downgrade, putting its emerging-market status at risk."
-        },
-        {
-          "zh": "印尼股市因此陷入动荡。",
-          "en": "Indonesia's stock market is reeling as a result."
-        },
-        {
-          "zh": "Ruth Carson回答了观众关于印尼股市动荡及投资者后续的问题。",
-          "en": "Ruth Carson answered viewer questions on the turmoil and what's next for investors."
-        }
-      ],
-      "tags": [
-        "Indonesia",
-        "MSCI",
-        "emerging markets",
-        "downgrade",
-        "stock market turmoil"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:MKekH9fRv0c",
-      "title": "Investors Aren’t Wild About Big Tech’s AI Forecasts",
-      "title_zh": "Meta未来十年AI支出计划引发投资者担忧，微软、Alphabet和亚马逊或表现更佳",
-      "url": "https://www.youtube.com/watch?v=MKekH9fRv0c",
-      "published_at": "2026-10-23T13:32:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国科技巨头本周开始发布最新财报，投资者正密切关注AI支出计划。Meta计划在未来十年支出约8250亿美元，令投资者感到紧张，而微软、Alphabet和亚马逊可能表现更好。",
-      "summary_en": "US tech giants started releasing earnings this week, with investors scrutinizing AI spending plans. Meta's plan to spend about $825 billion over the next decade made investors nervous, while Microsoft, Alphabet and Amazon may fare better.",
-      "detail_zh": "美国科技巨头本周开始发布最新财报，投资者对AI支出计划持谨慎态度。在Bloomberg的Big Take播客中，Meta计划在未来十年支出约8250亿美元，这一计划令投资者感到紧张。相比之下，微软、Alphabet和亚马逊可能表现更好。原文未提供更多细节。",
-      "detail_en": "US tech giants started releasing their latest earnings this week, and investors are taking a hard look at AI spending plans. On the Big Take podcast, Meta's plan to spend some $825 billion over the next decade made investors nervous, but Microsoft, Alphabet and Amazon may fare better. No further details were provided.",
-      "conclusion_zh": "投资者需密切关注科技巨头AI支出计划的差异及其对股价的影响。",
-      "conclusion_en": "Investors should closely watch differences in tech giants' AI spending plans and their impact on stock prices.",
-      "key_points": [
-        {
-          "zh": "美国科技巨头本周开始发布财报，AI支出计划成为投资者关注焦点。",
-          "en": "US tech giants started releasing earnings this week, with AI spending plans in focus for investors."
-        },
-        {
-          "zh": "Meta计划未来十年支出约8250亿美元，令投资者感到紧张。",
-          "en": "Meta's plan to spend about $825 billion over the next decade made investors nervous."
-        },
-        {
-          "zh": "微软、Alphabet和亚马逊在AI支出方面可能表现更好。",
-          "en": "Microsoft, Alphabet and Amazon may fare better regarding AI spending."
-        }
-      ],
-      "tags": [
-        "AI spending",
-        "earnings",
-        "tech giants",
-        "Meta",
-        "Microsoft"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:iXV3tX8cUbU",
-      "title": "Apple’s $2K iPhone Duo Debuts With Long Lines and Limited Supply",
-      "title_zh": "苹果2000美元以上折叠屏iPhone Duo开售，需求强劲",
-      "url": "https://www.youtube.com/watch?v=iXV3tX8cUbU",
-      "published_at": "2026-10-23T13:31:03+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "苹果折叠屏iPhone Duo（售价2000美元以上）于周五开售，市场反应热烈，出现通宵排队购买现象。彭博记者Ed Ludlow在节目中报道了这一需求信号。",
-      "summary_en": "Apple's foldable iPhone Duo, priced at $2,000 and up, went on sale Friday, drawing strong demand with overnight lines forming to be among the first to get the device. Bloomberg's Ed Ludlow reported on the launch.",
-      "detail_zh": "苹果已推出其折叠屏iPhone Duo，售价在2000美元及以上。该设备于周五正式开售。市场对该产品表现出强劲的购买意愿，出现了消费者通宵排队、希望第一时间拿到新机的场景。彭博记者Ed Ludlow在“Bloomberg Open Interest”节目中对此进行了报道。原文未提供具体销量、预订量或财务数据。",
-      "detail_en": "Apple has launched its foldable iPhone Duo, priced at $2,000 and above. The device went on sale on Friday. There is strong appetite for the product, evidenced by people lining up overnight to be among the first to get their hands on it. Bloomberg's Ed Ludlow reported on this in the \"Bloomberg Open Interest\" segment. The original text does not provide specific sales, pre-order, or financial figures.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "苹果折叠屏iPhone Duo售价2000美元以上，于周五开售。",
-          "en": "Apple's foldable iPhone Duo is priced at $2,000 and up and went on sale Friday."
-        },
-        {
-          "zh": "市场反应热烈，出现通宵排队购买现象。",
-          "en": "Demand appears strong, with overnight lines forming to buy the device."
-        },
-        {
-          "zh": "彭博记者Ed Ludlow在“Bloomberg Open Interest”节目中报道了该消息。",
-          "en": "Bloomberg's Ed Ludlow reported the news on \"Bloomberg Open Interest.\""
-        }
-      ],
-      "tags": [
-        "Apple",
-        "foldable iPhone",
-        "product launch",
-        "consumer demand"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:c2n7stXlqlw",
-      "title": "Why Investors Are Reducing AI Exposure",
-      "title_zh": "高盛交易主管：AI交易集中度风险显现，市场转向关注资本开支与变现能力",
-      "url": "https://www.youtube.com/watch?v=c2n7stXlqlw",
-      "published_at": "2026-10-23T13:28:24+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro",
-        "other"
-      ],
-      "summary_zh": "高盛欧洲股票交易主管Rich Privorotsky指出，夏季高度集中的“做多AI、做空其他”交易正在Q3财报季解除，市场关注点从AI资本开支转向变现能力与融资风险。他仍看好名义资产（如大宗商品），但建议采用杠铃策略，并警告若AI资本开支放缓可能引发信用周期风险。",
-      "summary_en": "Rich Privorotsky, head of European equities trading at Goldman Sachs, noted that the highly concentrated 'long AI, short everything else' trade is unwinding during Q3 earnings season, with the market shifting focus from AI capex to monetization and financing risks. He remains bullish on nominal assets like commodities but recommends a barbell approach, warning that a slowdown in AI capex could trigger credit cycle risks.",
-      "detail_zh": "Privorotsky表示，过去几周对AI、半导体和超大规模云厂商等共识交易非常痛苦，市场正面临三个问题：资本成本上升（如CCC利差、欧洲主权利差扩大，以及AI交易中杠杆较高的新云公司融资困难）、电力供应瓶颈（明年20-50吉瓦的电力缺口可能影响芯片消耗）、以及模型层竞争加剧。这些因素导致市场去风险化，增长预期下调，债券因增长预期下降而上涨。对于Q3财报季，他重点关注超大规模云厂商的资本开支是否维持高位（市场预期明年1.1万亿美元），以及云增长和变现能力，特别是积压订单转化为收入的速度，以及自由现金流盈亏平衡的时间点对信用市场的影响。尽管门槛很高，但即期市场算力价格创新高，需求旺盛，他持谨慎乐观态度。关于能源，他认为市场忽视了能源上涨的影响，中位数股票跌幅超过10%，金融条件大幅收紧，迫使美联储重新定价加息周期。他预计未来几周能源风险溢价将有所缓解，但承认自己此前判断有误。对于名义资产交易，他认为除非出现通缩性衰退（资本开支放缓、信用周期），否则仍看好，但建议采用杠铃策略。他总结称，市场逻辑已从“油动一切”转向“AI动一切”。",
-      "detail_en": "Privorotsky said the past few weeks have been particularly painful for consensus trades concentrated in AI, semis, and hyperscalers. The market is grappling with three issues: rising cost of capital (e.g., wider CCC spreads, European sovereign spreads, and financing difficulties for levered neoclouds in the AI trade), power supply bottlenecks (a 20-50 gigawatt gap next year could affect chip consumption), and increased competition at the model layer. These factors have led to de-risking, lower growth expectations, and a bond rally. For Q3 earnings, he focuses on whether hyperscaler capex sustains at high levels (market expects $1.1 trillion next year) and on cloud growth and monetization, especially the conversion of backlog into revenue and the timing of free cash flow breakeven, which could impact credit markets. Despite the high bar, he is cautiously optimistic given record compute spot prices and insatiable demand. On energy, he believes the market has ignored the impact of rising energy prices, with the median stock down over 10% and financial conditions tightening significantly, forcing the Fed to reprice a hiking cycle. He expects some resolution in the next few weeks but admits he was wrong earlier. On nominal assets, he remains bullish unless there is a disinflationary bust (capex slowdown, credit cycle), but recommends a barbell approach. He concludes that the market mantra has shifted from 'as goes oil, so goes everything else' to 'as goes AI, so goes everything else.'",
-      "conclusion_zh": "AI交易的集中度风险正在释放，投资者应关注超大规模云厂商的变现能力与信用市场敏感性，并考虑在名义资产中采用杠铃策略以平衡风险。",
-      "conclusion_en": "Concentration risk in the AI trade is unwinding; investors should watch hyperscaler monetization and credit market sensitivity, and consider a barbell approach in nominal assets to balance risks.",
-      "key_points": [
-        {
-          "zh": "夏季高度集中的“做多AI、做空其他”交易正在Q3财报季解除，市场去风险化。",
-          "en": "The highly concentrated 'long AI, short everything else' trade is unwinding during Q3 earnings season, leading to de-risking."
-        },
-        {
-          "zh": "市场关注超大规模云厂商的资本开支是否维持高位，以及云增长和变现能力，特别是积压订单转化和自由现金流盈亏平衡。",
-          "en": "The market focuses on whether hyperscaler capex remains high and on cloud growth and monetization, especially backlog conversion and free cash flow breakeven."
-        },
-        {
-          "zh": "能源价格上涨被市场忽视，中位数股票跌幅超过10%，金融条件收紧，迫使美联储重新定价加息周期。",
-          "en": "Rising energy prices have been ignored by the market, with the median stock down over 10%, tightening financial conditions and forcing the Fed to reprice a hiking cycle."
-        },
-        {
-          "zh": "仍看好名义资产（如大宗商品），但建议采用杠铃策略，除非出现通缩性衰退。",
-          "en": "Remains bullish on nominal assets like commodities but recommends a barbell approach unless there is a disinflationary bust."
-        },
-        {
-          "zh": "市场逻辑已从“油动一切”转向“AI动一切”。",
-          "en": "The market mantra has shifted from 'as goes oil, so goes everything else' to 'as goes AI, so goes everything else.'"
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "hyperscaler capex",
-        "energy",
-        "nominal assets",
-        "credit cycle"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:EMO2sT82nUU",
-      "title": "AI Trade Doubts May Ease With Usage Growth, Gene Munster Says",
-      "title_zh": "Deepwater的Munster：AI支出审视下短期缺乏恢复投资者信心的催化剂",
-      "url": "https://www.youtube.com/watch?v=EMO2sT82nUU",
-      "published_at": "2026-10-23T13:26:11+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Deepwater Asset Management管理合伙人Gene Munster表示，在AI支出受到审视的背景下，短期内可能没有评论或催化剂能恢复投资者信心。他将市场参与者划分为“学术派”与“愿景派”两类。",
-      "summary_en": "Gene Munster, managing partner at Deepwater Asset Management, says there may be no near-term comment or catalyst to restore investor confidence amid scrutiny of AI spending. He describes a divide between \"academics\" and \"visionaries.\"",
-      "detail_zh": "Deepwater Asset Management管理合伙人Gene Munster在“Bloomberg The Close”节目中表示，在AI支出受到审视的背景下，短期内可能没有评论或催化剂能够恢复投资者信心。他将当前市场参与者划分为“学术派”（academics）与“愿景派”（visionaries）之间的分歧。Munster未在原文中进一步阐述这两类群体的具体定义或投资含义。",
-      "detail_en": "Gene Munster, managing partner at Deepwater Asset Management, said on \"Bloomberg The Close\" that there may be no near-term comment or catalyst to restore investor confidence amid scrutiny of AI spending. He described a divide between \"academics\" and \"visionaries.\" The original text does not elaborate further on the definitions or investment implications of these two groups.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Munster认为短期内可能没有评论或催化剂能恢复投资者信心。",
-          "en": "Munster sees no near-term comment or catalyst to restore investor confidence."
-        },
-        {
-          "zh": "背景是市场对AI支出的审视。",
-          "en": "The context is scrutiny of AI spending."
-        },
-        {
-          "zh": "Munster将市场参与者划分为“学术派”与“愿景派”。",
-          "en": "Munster describes a divide between \"academics\" and \"visionaries.\""
-        }
-      ],
-      "tags": [
-        "AI spending",
-        "investor confidence",
-        "tech sentiment"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:GMlepCd-r3I",
-      "title": "Midterm Blue Wave to Be Negative for Tech, Ives Says",
-      "title_zh": "Dan Ives 谈美国中期选举后 AI 立法前景",
-      "url": "https://www.youtube.com/watch?v=GMlepCd-r3I",
-      "published_at": "2026-10-23T13:26:04+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Yorkville Ives & Co. 合伙人 Dan Ives 在 Bloomberg Surveillance 节目中讨论美国中期选举后的 AI 立法展望。原文仅提供节目预告信息，未包含具体观点或数据。",
-      "summary_en": "Dan Ives, partner at Yorkville Ives & Co., discusses his outlook for AI legislation after the US midterm election on Bloomberg Surveillance. The source only provides a program teaser without specific views or data.",
-      "detail_zh": "原文仅为 Bloomberg Surveillance 节目的简短介绍，指出 Dan Ives（Yorkville Ives & Co. 合伙人兼高级董事总经理）将讨论美国中期选举后的 AI 立法前景。内容未涉及任何具体立法细节、时间表、市场影响判断或投资建议。其余部分为 Bloomberg 的社交媒体与订阅链接，无实质信息。",
-      "detail_en": "The source is only a brief program teaser for Bloomberg Surveillance, noting that Dan Ives, partner and senior managing director at Yorkville Ives & Co., will discuss his outlook for AI legislation after the US midterm election. It contains no specific legislative details, timelines, market impact assessments, or investment recommendations. The remainder consists of Bloomberg social media and subscription links, with no substantive content.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Dan Ives 将讨论美国中期选举后的 AI 立法前景。",
-          "en": "Dan Ives is set to discuss the outlook for AI legislation after the US midterm election."
-        },
-        {
-          "zh": "原文未提供任何具体的立法内容、市场影响或投资观点。",
-          "en": "The source provides no specific legislative content, market impact, or investment views."
-        },
-        {
-          "zh": "节目为 Bloomberg Surveillance。",
-          "en": "The program is Bloomberg Surveillance."
-        }
-      ],
-      "tags": [
-        "AI legislation",
-        "US midterm election",
-        "Dan Ives",
-        "Bloomberg Surveillance"
       ],
       "tickers": [],
       "sentiment": "neutral"
