@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:17:02.839725+00:00",
+  "generated_at": "2026-10-30T04:16:57.234615+00:00",
   "insights": [
     {
       "guid": "yt:utgTvjBMv8A",
@@ -12715,52 +12715,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:SgcQxTLeBrs",
-      "title": "Why Oil Prices Are Surging Despite Recovering Supply",
-      "title_zh": "高盛：预防性买盘与组合对冲支撑油价，铜金亦看涨",
-      "url": "https://www.youtube.com/watch?v=SgcQxTLeBrs",
-      "published_at": "2026-10-23T04:00:07+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "高盛Daan Struyven指出，中东原油流量虽已回升，但预防性实物买盘和机构为对冲股债对油价敏感度而买入原油，令油价维持高位。成品油供应受炼厂受损和投资不足制约，波斯湾柴油汽油出口仅为2025年均值约40%。他预计铜价到2027年底再涨10%，黄金受央行需求支撑可能上行。",
-      "summary_en": "Goldman Sachs' Daan Struyven notes that while Middle East crude flows have rebounded, precautionary physical buying and institutional crude purchases to hedge portfolios' unusual sensitivity to oil are keeping prices elevated. Refined product supply is constrained by refinery damage and underinvestment, with Persian Gulf diesel and gasoline exports at only about 40% of their 2025 average. He expects copper to rise another 10% by end-2027 and gold to climb on central bank demand.",
-      "detail_zh": "高盛全球商品研究联席主管兼石油研究主管Daan Struyven在Goldman Sachs Exchanges播客中表示，中东原油流量已经回升，但油价仍被多重因素支撑。首先是预防性实物买盘：在供应下行风险上升的背景下，实物买家推高了可获得的原油价格。其次是组合对冲：债券和股票价格对油价的敏感度异常高，促使机构投资者买入原油以对冲其投资组合。成品油方面，由于炼厂受损以及制造业投资不足，波斯湾柴油和汽油等成品油出口仍仅约为2025年平均水平的40%。此外，Struyven预计到2027年底铜价将再上涨10%，并称黄金可能因央行对黄金的需求而攀升。",
-      "detail_en": "Daan Struyven, co-head of Global Commodities Research and head of Oil Research at Goldman Sachs, said on the Goldman Sachs Exchanges podcast that Middle East crude flows have rebounded, but oil prices remain supported by multiple factors. First, precautionary physical buying: physical buyers are bidding up available crude amid growing downside risks to supply. Second, portfolio hedging: bond and equity prices are unusually sensitive to oil prices, prompting institutional investors to buy crude to hedge their portfolios. On refined products, Persian Gulf exports of diesel and gasoline are still only around 40% of their 2025 average levels due to damage to refineries and underinvestment in manufacturing. Additionally, Struyven expects copper prices to increase another 10% by the end of 2027 and says gold may climb amid central bank demand for the metal.",
-      "conclusion_zh": "油价高位受预防性买盘与组合对冲支撑，成品油供应紧张；铜金亦存上行空间，关注商品对冲需求对股债的传导。",
-      "conclusion_en": "Oil prices are supported by precautionary buying and portfolio hedging, with refined product supply tight; copper and gold also have upside, and investors should watch how commodity hedging demand transmits to equities and bonds.",
-      "key_points": [
-        {
-          "zh": "中东原油流量已回升，但预防性实物买盘和组合对冲令油价维持高位。",
-          "en": "Middle East crude flows have rebounded, but precautionary physical buying and portfolio hedging are keeping prices elevated."
-        },
-        {
-          "zh": "债券和股票价格对油价异常敏感，机构投资者买入原油以对冲投资组合。",
-          "en": "Bond and equity prices are unusually sensitive to oil prices, prompting institutional investors to buy crude to hedge portfolios."
-        },
-        {
-          "zh": "波斯湾柴油和汽油出口仅约为2025年平均水平的40%，因炼厂受损和制造业投资不足。",
-          "en": "Persian Gulf diesel and gasoline exports are only around 40% of their 2025 average levels amid refinery damage and underinvestment in manufacturing."
-        },
-        {
-          "zh": "Struyven预计铜价到2027年底将再涨10%，黄金可能因央行需求而攀升。",
-          "en": "Struyven expects copper prices to rise another 10% by end-2027, and gold may climb amid central bank demand."
-        }
-      ],
-      "tags": [
-        "oil",
-        "commodities",
-        "copper",
-        "gold",
-        "hedging"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
