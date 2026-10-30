@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:18:03.701261+00:00",
+  "generated_at": "2026-10-30T17:13:51.041493+00:00",
   "insights": [
     {
       "guid": "yt:axFD8wNbdR4",
@@ -12571,92 +12571,6 @@
         "skilled labor",
         "infrastructure",
         "philanthropy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:pi3IhaS5zgc",
-      "title": "CFTC chair warns against another FTX after Clarity Act fails to pass",
-      "title_zh": "CFTC主席Selig呼吁加强加密市场保护，警示FTX式欺诈风险",
-      "url": "https://www.youtube.com/watch?v=pi3IhaS5zgc",
-      "published_at": "2026-10-23T16:55:30+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在国会未能通过《Clarity Act》后，CFTC主席Michael Selig表示需要为加密市场提供更强保护，并警告不能允许类似FTX和Sam Bankman-Fried的欺诈行为破坏市场。",
-      "summary_en": "After Congress failed to pass the Clarity Act, CFTC Chairman Michael Selig said stronger protections are needed for crypto markets, warning that another FTX/Sam Bankman-Fried-style scam cannot be allowed to undermine the markets.",
-      "detail_zh": "CFTC主席Michael Selig在国会未能通过《Clarity Act》后发表讲话，强调加密市场需要更强的保护措施。他明确警告称，“我们不能允许另一个FTX、Sam Bankman-Fried式的骗局来破坏我们的市场”。这一表态凸显了在立法缺位的情况下，监管机构对加密市场欺诈风险的担忧。Selig的言论直接指向FTX事件作为反面案例，暗示当前监管框架可能不足以防范类似风险。",
-      "detail_en": "CFTC Chairman Michael Selig, speaking after Congress failed to pass the Clarity Act, stressed the need for stronger protections in crypto markets. He explicitly warned, \"we can't allow for another FTX, Sam Bankman-Fried-style scam to undermine our markets.\" The remarks highlight regulatory concerns about fraud risk in crypto markets amid a legislative gap. Selig's comments directly cite the FTX case as a cautionary example, suggesting the current regulatory framework may be insufficient to prevent similar risks.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "CFTC主席Selig呼吁为加密市场提供更强保护。",
-          "en": "CFTC Chairman Selig calls for stronger protections in crypto markets."
-        },
-        {
-          "zh": "国会未能通过《Clarity Act》，立法缺位。",
-          "en": "Congress failed to pass the Clarity Act, leaving a legislative gap."
-        },
-        {
-          "zh": "Selig警告不能允许另一个FTX式骗局破坏市场。",
-          "en": "Selig warns against allowing another FTX-style scam to undermine markets."
-        }
-      ],
-      "tags": [
-        "crypto regulation",
-        "CFTC",
-        "FTX",
-        "Clarity Act"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:o8HokvTKlzw",
-      "title": "Jeffrey Sherman on AI Debt Issuance and the Stress in Triple C | Bloomberg",
-      "title_zh": "买方：超大规模科技公司发债潮下，信用市场现分化与机会",
-      "url": "https://www.youtube.com/watch?v=o8HokvTKlzw",
-      "published_at": "2026-10-23T16:31:44+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "other",
-        "tech"
-      ],
-      "summary_zh": "播客讨论指出，超大规模科技公司为AI基建大举发债，尽管借贷成本上升，发行仍被市场吸收，且发行人还有商业抵押贷款和ABS等渠道。信用投资者此前低配该板块，现因部分债券价格跌至高位70至低80区间、收益率达12%-15%而开始小幅买入。CCC级利差大幅走阔但尚未传导至低质量B级， contagion风险有限，但CCC级仍不适合传统组合。",
-      "summary_en": "The podcast discusses that hyperscalers are issuing large amounts of debt to fund AI buildouts; despite higher borrowing costs, the supply has been absorbed by the market, and issuers have other levers such as commercial mortgage and ABS markets. Credit investors who were underweight are now nibbling as some bonds trade at high-70s to low-80s dollar prices with 12-15% yields. CCC spreads have widened significantly but have not bled into low-quality single Bs, limiting contagion, though CCCs remain unsuitable for traditional portfolios.",
-      "detail_zh": "播客嘉宾Jeff指出，超大规模科技公司为AI基建需要大量资金，即便借贷成本上升，发债节奏也未受明显影响，因为如果预期成本继续上升，当下多借是合理激励。低质量高收益债利差已明显走阔，但发行人同时通过商业抵押贷款市场和ABS市场融资，拥有其他杠杆。三到四个月前利差过紧，该机构对该板块严重低配、对科技债敞口极为有限；如今部分债券价格跌至高位70至低80区间，可开始构建有缓冲的组合，二级市场收益率达12%-15%，对信用投资者具有吸引力。Jeff表示已开始小幅买入部分超大规模科技公司及少量Neo clouds，但仍有大量买入空间，并非大举押注。关于高收益债传染风险，嘉宾称历史表明CCC利差走阔通常会传导，但目前为止尚未波及低质量单B级，关键观察指标是CCC与单B的利差关系；CCC集中在少数行业和很小 cohort，因此未见传染，且债券市场整体风险辨别能力较好。随着资本开支和融资需求问题增多，CCC资产可能继续承压，不适合传统组合，更适合困境债投资者。",
-      "detail_en": "Podcast guest Jeff noted that hyperscalers need tremendous amounts of money for AI buildouts, and even with higher borrowing costs, issuance has not been derailed; if borrowing costs are expected to rise, there is an incentive to borrow more today. Lower-quality high-yield spreads have widened, but issuers also access commercial mortgage and ABS markets, giving them other levers. Three to four months ago spreads were too tight, and the firm was very underweight the sector with limited exposure to tech bonds; now some bonds trade at high-70s to low-80s dollar prices, allowing a portfolio with a meaningful cushion, and secondary yields of 12-15% are interesting for credit investors. Jeff said they started nibbling on some hyperscalers and a little bit of Neo clouds, but still have a lot of capacity to buy and are not making a huge bet. On contagion risk, the guest said history says CCC widening usually spreads, but so far it has not bled into low-quality single Bs; the key metric to watch is the CCC versus single-B relationship. CCCs are concentrated in a small cohort and a few industries, which explains the lack of contagion, and the bond market has done a good job discerning risk. As questions about capex buildout and funding needs grow, CCC assets may face more pressure; they are for distressed debt investors, not traditional portfolios.",
-      "conclusion_zh": "信用市场对超大规模科技公司发债的消化能力仍强，部分科技债在价格下跌后开始具备配置价值，但CCC级信用风险尚未消除，需关注其向单B级传导的迹象。",
-      "conclusion_en": "The credit market is still absorbing hyperscaler issuance, and some tech bonds are becoming investable after price declines, but CCC credit risk persists and investors should watch for signs of contagion into single Bs.",
-      "key_points": [
-        {
-          "zh": "超大规模科技公司发债需求强劲，即便成本上升，发行仍被市场吸收，且还有商业抵押贷款和ABS等融资渠道。",
-          "en": "Hyperscaler debt issuance is strong; even with higher costs, supply is absorbed, and issuers have other funding channels like commercial mortgage and ABS."
-        },
-        {
-          "zh": "信用投资者此前严重低配科技债，现因部分债券价格跌至高位70至低80区间、收益率达12%-15%而开始小幅买入。",
-          "en": "Credit investors were significantly underweight tech bonds and are now nibbling as some bonds trade at high-70s to low-80s with 12-15% yields."
-        },
-        {
-          "zh": "CCC级利差大幅走阔，但尚未传导至低质量单B级，传染风险目前有限，关键观察指标是CCC与单B的利差关系。",
-          "en": "CCC spreads have widened sharply but have not bled into low-quality single Bs; contagion is limited so far, and the key metric is the CCC versus single-B relationship."
-        },
-        {
-          "zh": "CCC级资产集中在少数行业和很小 cohort，随着资本开支和融资需求问题增多，可能继续承压，不适合传统组合。",
-          "en": "CCC assets are concentrated in a few industries and a small cohort; as capex and funding questions grow, they may face more pressure and are unsuitable for traditional portfolios."
-        }
-      ],
-      "tags": [
-        "hyperscaler debt",
-        "credit spreads",
-        "high yield",
-        "CCC contagion",
-        "AI capex"
       ],
       "tickers": [],
       "sentiment": "neutral"
