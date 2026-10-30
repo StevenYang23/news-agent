@@ -1,6 +1,175 @@
 {
-  "generated_at": "2026-10-30T19:13:36.946771+00:00",
+  "generated_at": "2026-10-30T20:14:15.324837+00:00",
   "insights": [
+    {
+      "guid": "yt:9hBDeNYa_ss",
+      "title": "Trump Hits Road in Final Stretch Ahead of Midterms",
+      "title_zh": "特朗普计划周末在艾奥瓦和堪萨斯举行集会，共和党官员此前已取消",
+      "url": "https://www.youtube.com/watch?v=9hBDeNYa_ss",
+      "published_at": "2026-10-30T19:58:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普计划在选举日前的周末于艾奥瓦州和堪萨斯州举行集会，而共和党官员此前已取消这些活动。报道将讨论关键选情。",
+      "summary_en": "President Donald Trump now plans to hold rallies in Iowa and Kansas over the weekend, after Republican officials had canceled them. The report will discuss where key races stand before Election Day.",
+      "detail_zh": "据彭博社报道，美国总统唐纳德·特朗普计划在周末于艾奥瓦州和堪萨斯州举行集会。共和党官员此前已取消了这些集会。彭博社的Josh Wingrove将进一步介绍周二选举日之前关键选情的状况。原文未提供更多关于集会原因、选情细节或市场影响的信息。",
+      "detail_en": "According to Bloomberg, President Donald Trump now plans to hold rallies in Iowa and Kansas over the weekend. Republican officials had canceled them. Bloomberg's Josh Wingrove will provide more on where the key races stand before Election Day on Tuesday. The original text does not provide further details on the reasons for the rallies, the specifics of the races, or any market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普计划周末在艾奥瓦州和堪萨斯州举行集会。",
+          "en": "Trump plans to hold rallies in Iowa and Kansas over the weekend."
+        },
+        {
+          "zh": "共和党官员此前已取消了这些集会。",
+          "en": "Republican officials had canceled these rallies."
+        },
+        {
+          "zh": "报道将讨论选举日前的关键选情。",
+          "en": "The report will discuss where key races stand before Election Day."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "rallies",
+        "Iowa",
+        "Kansas",
+        "Election Day"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:AP8gLVvJess",
+      "title": "Trump Rallies in Iowa, Kansas Back On Calendar in Midterm Sprint",
+      "title_zh": "彭博《权力平衡》早间版：英特尔暴跌与科技股抛售，中期选举与AI投资议题交织",
+      "url": "https://www.youtube.com/watch?v=AP8gLVvJess",
+      "published_at": "2026-10-30T19:58:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目讨论了英特尔股价暴跌引发的科技股抛售潮，并探讨了芯片股疲软是否预示更大风险以及AI长期投资逻辑。同时，节目覆盖了特朗普中期选举最后冲刺、2028年政治前景、关键州长选战以及犹他州众议院席位竞争与AI数据中心等议题。",
+      "summary_en": "This episode discusses the tech selloff triggered by Intel's plunge, examining whether the chip stock weakness is a warning sign and the long-term AI investment thesis. It also covers Trump's final midterm push, the 2028 political question, key governor races, and Utah's House race and AI data centers.",
+      "detail_zh": "节目首先关注市场动态，英特尔（Intel）股价暴跌并引发科技板块抛售。随后讨论特朗普在中期选举前的最后冲刺，以及共和党、特朗普与2028年大选的问题。政治小组讨论了中期选举与2028年前景，并列出值得关注的关键州长选战。市场部分再次聚焦英特尔、科技股与石油。节目还涉及犹他州第二国会选区的众议院席位竞争与可负担性议题，以及AI数据中心在犹他州的发展。政治小组进一步讨论选区重划与可负担性。科技板块方面，抛售加深，嘉宾探讨了AI交易、英特尔与市场情绪，亚马逊、AWS与AI支出，芯片股抛售是否是警告信号，以及长期AI投资逻辑。最后讨论了AI监管与中期选举的关系。",
+      "detail_en": "The program begins with market updates, highlighting Intel's plunge and a tech selloff. It then covers Trump's final midterm push and questions around Republicans, Trump, and 2028. A political panel discusses the midterms and 2028 prospects, and key governor races to watch are outlined. The markets segment returns to Intel, tech, and oil. The show also examines Utah's 2nd Congressional District House race and affordability, as well as AI data centers in Utah. The political panel further discusses redistricting and affordability. On the tech front, the selloff deepens, with guests discussing the AI trade, Intel, and market sentiment; Amazon, AWS, and AI spending; whether the chip selloff is a warning sign; and the long-term AI investment thesis. Finally, AI regulation and its connection to the midterms are discussed.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英特尔股价暴跌，科技板块遭遇抛售。",
+          "en": "Intel plunges, triggering a tech selloff."
+        },
+        {
+          "zh": "讨论芯片股抛售是否构成警告信号，以及长期AI投资逻辑。",
+          "en": "Discussion on whether the chip selloff is a warning sign and the long-term AI investment thesis."
+        },
+        {
+          "zh": "特朗普进行中期选举最后冲刺，2028年政治前景受关注。",
+          "en": "Trump's final midterm push and the 2028 political question."
+        },
+        {
+          "zh": "关键州长选战与犹他州众议院席位竞争涉及可负担性议题。",
+          "en": "Key governor races and Utah's House race touch on affordability."
+        },
+        {
+          "zh": "AI数据中心在犹他州的发展及AI监管与中期选举的关联。",
+          "en": "AI data centers in Utah and the link between AI regulation and the midterms."
+        }
+      ],
+      "tags": [
+        "Intel",
+        "tech selloff",
+        "AI investment",
+        "midterms",
+        "2028 election"
+      ],
+      "tickers": [
+        "INTC",
+        "AMZN"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:x4XM3EWEGo4",
+      "title": "Nasdaq 100 Slides as Stocks Selloff to End the Week",
+      "title_zh": "科技股遭猛烈抛售，AI热潮担忧引发华尔街反思",
+      "url": "https://www.youtube.com/watch?v=x4XM3EWEGo4",
+      "published_at": "2026-10-30T19:23:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "华尔街经历一次现实检验，科技股遭遇猛烈抛售，市场对人工智能热潮可能被过度炒作的担忧升温。",
+      "summary_en": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern that the artificial-intelligence frenzy might be overblown.",
+      "detail_zh": "据彭博电视报道，华尔街正经历一次现实检验。科技板块出现猛烈抛售，这轮下跌加剧了市场对人工智能热潮可能被过度炒作的担忧。报道由Eric Weiner提供，内容简短，未披露具体指数点位、个股名称或跌幅数据。核心信息在于市场情绪转向：投资者开始质疑AI驱动的行情是否已脱离基本面，科技股承压成为当日市场的主要特征。",
+      "detail_en": "According to Bloomberg Television, Wall Street got a reality check. A bruising selloff in technology shares intensified concern that the artificial-intelligence frenzy might be overblown. The report, presented by Eric Weiner, is brief and does not disclose specific index levels, individual stock names, or percentage declines. The key takeaway is a shift in market sentiment: investors are beginning to question whether the AI-driven rally has run ahead of fundamentals, with technology shares under pressure as the main feature of the session.",
+      "conclusion_zh": "科技股抛售反映市场对AI行情可持续性的质疑升温，投资者需关注情绪转向对美股科技板块的压制。",
+      "conclusion_en": "The tech selloff reflects growing doubts about the sustainability of the AI rally, and investors should watch for sentiment shifts weighing on US tech stocks.",
+      "key_points": [
+        {
+          "zh": "科技股遭遇猛烈抛售，华尔街经历现实检验",
+          "en": "Technology shares suffered a bruising selloff, giving Wall Street a reality check"
+        },
+        {
+          "zh": "抛售加剧了市场对人工智能热潮可能被过度炒作的担忧",
+          "en": "The selloff fueled concern that the artificial-intelligence frenzy might be overblown"
+        },
+        {
+          "zh": "报道未提供具体指数、个股或跌幅数据",
+          "en": "The report did not provide specific index, stock, or percentage decline data"
+        }
+      ],
+      "tags": [
+        "tech selloff",
+        "AI frenzy",
+        "market sentiment",
+        "Wall Street"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:gisNJDV32IE",
+      "title": "Pretty Clear The House 'Is Lost': Henrietta Treyz",
+      "title_zh": "Veda Partners：民主党将赢得众议院，两党均不受欢迎",
+      "url": "https://www.youtube.com/watch?v=gisNJDV32IE",
+      "published_at": "2026-10-30T19:14:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Veda Partners 联合创始人 Henrietta Treyz 在 Bloomberg Money 节目中表示，她认为民主党将在即将到来的选举中赢得美国众议院，并指出两党目前都深度不受欢迎。",
+      "summary_en": "Henrietta Treyz, co-founder of Veda Partners, said on Bloomberg Money that she believes Democrats will win the US House in the upcoming election, noting that both parties are deeply unpopular.",
+      "detail_zh": "Veda Partners 联合创始人兼经济政策研究总监 Henrietta Treyz 做客 Bloomberg Money 节目，与 Scarlet Fu 和 Tom Keene 讨论选举形势。Treyz 表示，她认为民主党将在即将到来的选举中赢得美国众议院。她还指出，两党目前都深度不受欢迎。节目未提供更多关于选举时间、具体席位预测或政策影响的细节。",
+      "detail_en": "Henrietta Treyz, co-founder and economic policy research director at Veda Partners, joined Scarlet Fu and Tom Keene on Bloomberg Money to discuss the election outlook. Treyz stated her belief that Democrats will win the US House in the upcoming election. She also noted that both parties are deeply unpopular. The segment did not provide further details on election timing, specific seat forecasts, or policy implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Treyz 预计民主党将赢得美国众议院。",
+          "en": "Treyz expects Democrats to win the US House."
+        },
+        {
+          "zh": "Treyz 指出两党目前都深度不受欢迎。",
+          "en": "Treyz noted that both parties are deeply unpopular."
+        }
+      ],
+      "tags": [
+        "US election",
+        "House",
+        "Democrats",
+        "policy research"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:mMzsnzUu4QY",
       "title": "Don't Assume Social Security Will Be There: Treyz",
@@ -12703,91 +12872,6 @@
         "treasury yields",
         "commodities",
         "sector rotation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:rTjBb4XG57I",
-      "title": "Why Should Financial Advisors Consider Active Fixed Income?",
-      "title_zh": "主动固定收益：应对债市变化的灵活工具",
-      "url": "https://www.youtube.com/watch?v=rTjBb4XG57I",
-      "published_at": "2026-10-23T20:12:18+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "原文指出，债券市场随利率、信贷条件和机会变化，静态配置可能不再最优。主动固定收益管理可评估跨行业相对价值并实时调整组合。Think ETF 设计灵活，可动态配置全球固定收益，不受传统基准或特定行业约束。",
-      "summary_en": "The original text notes that bond markets change with interest rates, credit conditions, and opportunities, so a static allocation may no longer be optimal. Active fixed income management can assess relative value across sectors and adjust portfolios in real time. Think ETF is designed with flexibility to dynamically allocate across the global fixed income universe without being constrained to a traditional benchmark or specific sectors.",
-      "detail_zh": "原文提出，财务顾问应考虑主动固定收益，因为客户目标可能不变，但债券市场会变。利率变化、信贷条件变化，固定收益领域的机会也随之变化。因此，在一种环境下合理的固定收益配置，在另一种环境下可能不再最优。主动固定收益的用处在于：不是随着信贷条件演变而持有相同敞口，主动管理人可评估跨行业相对价值与机会，并代表投资者实时调整组合。Think 正是基于这种灵活性构建，其组合经理可动态配置全球固定收益领域，而不受传统基准或特定行业约束。对顾问而言，这提供了一个有用的组合解决方案：若市场变化，他们知道有一只 ETF 旨在随市场变化而调整。",
-      "detail_en": "The original text argues that financial advisors should consider active fixed income because a client's goals may stay the same, but the bond market does not. Interest rates change, credit conditions change, and opportunities across the fixed income universe can change with them. So, a fixed income allocation that made sense in one environment may no longer be optimal in another. The usefulness of active fixed income is that instead of holding the same exposures as credit conditions evolve, an active manager can assess relative value and opportunities across sectors and adjust the portfolio in real time on the investor's behalf. Think was built with that flexibility: its portfolio managers can allocate dynamically across the global fixed income universe rather than being constrained to a traditional benchmark or specific sectors. For advisors, this creates a useful portfolio solution: if markets change, they know they have an ETF that's designed to change with it.",
-      "conclusion_zh": "原文核心启示：在利率与信贷条件多变的环境下，主动固定收益可提供动态调整的灵活性，Think ETF 是体现该灵活性的工具。",
-      "conclusion_en": "The core takeaway from the original text: in an environment of changing interest rates and credit conditions, active fixed income can offer the flexibility to adjust dynamically, and the Think ETF is a tool designed with that flexibility.",
-      "key_points": [
-        {
-          "zh": "债券市场随利率和信贷条件变化，静态配置可能不再最优。",
-          "en": "Bond markets change with interest rates and credit conditions, so a static allocation may no longer be optimal."
-        },
-        {
-          "zh": "主动管理可评估跨行业相对价值并实时调整组合。",
-          "en": "Active management can assess relative value across sectors and adjust portfolios in real time."
-        },
-        {
-          "zh": "Think 组合经理可动态配置全球固定收益，不受传统基准或特定行业约束。",
-          "en": "Think's portfolio managers can dynamically allocate across the global fixed income universe without being constrained to a traditional benchmark or specific sectors."
-        },
-        {
-          "zh": "对顾问而言，该 ETF 旨在随市场变化而调整。",
-          "en": "For advisors, the ETF is designed to change with the market."
-        }
-      ],
-      "tags": [
-        "active fixed income",
-        "bond market",
-        "ETF",
-        "portfolio management"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:z1Ka0TkOOss",
-      "title": "Quinn's trade: long the Brent curve for roll yield",
-      "title_zh": "布伦特原油期货曲线呈现正展期收益",
-      "url": "https://www.youtube.com/watch?v=z1Ka0TkOOss",
-      "published_at": "2026-10-23T19:30:41+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "原文以布伦特原油为例，指出近月合约价格（112-113美元）显著高于2027年3月合约（101美元），价差约12-13美元/桶。作为期货投资者，做多可通过持续卖出较贵的近月、买入较远的远月来获取正展期收益。",
-      "summary_en": "Using Brent crude as an example, the source notes that the front-month contract (112-113) is significantly higher than the March 2027 contract (101), a spread of about $12-13 per barrel. As a futures investor, being long can capture positive roll yield by consistently selling the more expensive front month and buying the back month.",
-      "detail_zh": "原文以布伦特原油期货为例说明展期收益的来源。近月合约（原文提及12月为近月）价格在112至113美元之间，而3个月后的2027年3月合约价格仅为101美元，两者价差约12至13美元/桶。原文指出，这种近高远低的结构使得做多的期货投资者能够获得正展期收益：投资者持续卖出价格更高的近月合约、买入价格更低的远月合约，并在之后某个时点完成操作。原文未提及具体操作时点或更多品种细节。",
-      "detail_en": "The source uses Brent crude oil futures to illustrate the source of roll yield. The front-month contract (December is mentioned as the front month) trades between 112 and 113, while the March 2027 contract, three months later, is only at 101—a spread of about $12 to $13 per barrel. The source notes that this structure, where near months are higher than far months, allows a long futures investor to earn positive roll yield by consistently selling the more expensive front month and buying the cheaper back month, and then at whatever time. The source does not mention specific timing or additional contract details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "布伦特近月合约报112-113美元，2027年3月合约报101美元，价差约12-13美元/桶。",
-          "en": "Brent front-month trades at 112-113, while the March 2027 contract is at 101, a spread of about $12-13 per barrel."
-        },
-        {
-          "zh": "近高远低的期货曲线结构为做多投资者提供正展期收益。",
-          "en": "The downward-sloping futures curve provides positive roll yield for long investors."
-        },
-        {
-          "zh": "获取正展期收益的方式是持续卖出较贵的近月合约、买入较便宜的远月合约。",
-          "en": "Positive roll yield is captured by consistently selling the more expensive front month and buying the cheaper back month."
-        }
-      ],
-      "tags": [
-        "Brent crude",
-        "roll yield",
-        "futures curve",
-        "commodities"
       ],
       "tickers": [],
       "sentiment": "neutral"
