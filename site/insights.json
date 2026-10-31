@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-10-31T19:12:10.880869+00:00",
+  "generated_at": "2026-10-31T22:12:45.307750+00:00",
   "insights": [
+    {
+      "guid": "yt:-WgCm7Z4qy8",
+      "title": "The Political Debate on Daylight Saving Time",
+      "title_zh": "美国夏令时争议：华盛顿为何迟迟无法推进改革",
+      "url": "https://www.youtube.com/watch?v=-WgCm7Z4qy8",
+      "published_at": "2026-10-31T21:04:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博的Shaquille Omari在文中解释，随着美国人准备进入冬令时（时钟回拨），围绕每年两次调整时钟的争论仍在持续，而华盛顿方面似乎无法推进相关改革。",
+      "summary_en": "Bloomberg's Shaquille Omari explains why Washington can't seem to move forward on the debate over changing clocks twice a year, as Americans prepare to fall back.",
+      "detail_zh": "原文指出，围绕每年两次调整时钟的争论时间紧迫。随着美国人准备进入冬令时（fall back，即时钟回拨），彭博的Shaquille Omari解释了华盛顿为何似乎无法推进相关改革。原文未提供具体立法进展、支持与反对阵营的细节，也未给出任何数据或时间表。",
+      "detail_en": "The original notes that time is ticking on the debate over changing clocks twice a year. As Americans prepare to fall back, Bloomberg's Shaquille Omari explains why Washington can't seem to move forward. The original provides no specifics on legislative progress, the camps for and against, or any data or timeline.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "围绕每年两次调整时钟的争论仍在持续，且时间紧迫",
+          "en": "The debate over changing clocks twice a year continues, and time is ticking"
+        },
+        {
+          "zh": "美国人正准备进入冬令时（时钟回拨）",
+          "en": "Americans are preparing to fall back"
+        },
+        {
+          "zh": "彭博的Shaquille Omari解释华盛顿为何无法推进改革",
+          "en": "Bloomberg's Shaquille Omari explains why Washington can't move forward"
+        }
+      ],
+      "tags": [
+        "daylight saving time",
+        "US policy",
+        "Washington"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:9d8HbqtTcvk",
       "title": "市場調整の次の局面",
