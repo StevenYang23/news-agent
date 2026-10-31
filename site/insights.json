@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:17:34.747204+00:00",
+  "generated_at": "2026-10-31T06:18:54.975218+00:00",
   "insights": [
     {
       "guid": "yt:biE_-YkChqc",
@@ -1972,6 +1972,60 @@
         "RDDT",
         "GOOG",
         "GOOGL"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "4960090",
+      "title": "The Biggest Crypto Heist In History",
+      "title_zh": "币安遭黑客攻击损失63亿美元，比特币跌破77000美元",
+      "url": "https://seekingalpha.com/article/4960090-the-biggest-crypto-heist-in-history?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-10-30T11:24:17+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "other",
+        "politics"
+      ],
+      "summary_zh": "币安热钱包遭黑客攻击，约63亿美元资金受影响，公司暂停提现。TRM Labs将攻击归因于朝鲜黑客组织TraderTraitor。比特币跌5%至77000美元下方，引发市场对加密行业信心和国会审查的担忧。",
+      "summary_en": "Binance suffered a cyberattack compromising $6.3B in funds, prompting temporary withdrawal suspension. TRM Labs attributed the attack to North Korea's TraderTraitor hacking unit. Bitcoin fell 5% below $77,000, raising concerns about crypto confidence and potential congressional scrutiny.",
+      "detail_zh": "币安遭遇重大网络安全事件，约63亿美元资金受影响，公司已暂停提现并正与区块链合作伙伴冻结相关资产，目前约30亿美元已在链上冻结，但并不意味着能够追回。区块链情报公司TRM Labs表示，根据链上和链下情报，此次攻击与朝鲜精英黑客组织TraderTraitor有关，且“高度确信”。黑客疑似通过一名DevOps工程师的笔记本电脑入侵内部系统，从而利用币安交易流程，在10条不同区块链上授权转账。行业担忧此次大规模黑客事件可能使加密市场进入熊市，类似FTX和Mt. Gox事件后信心受损的情况。比特币应声下跌5%至77000美元下方，创9月以来最低，以太坊和瑞波币等代币也遭抛售。若中期选举后国会对加密行业展开新的审查，未来几天波动可能加剧。币安称所有用户资金安全，并将覆盖所有损失，资金来源似乎包括运营储备、未来收益和应急基金。Bitbank市场分析师Yuya Hasegawa表示，事件规模令人震惊，但若币安能证明客户资产安全、覆盖损失并迅速恢复运营，市场影响可能相对短暂，比特币基本面未直接受损。",
+      "detail_en": "Binance suffered a major cybersecurity incident affecting about $6.3B in funds. The exchange temporarily suspended withdrawals and is working with blockchain partners to freeze affected assets, with about $3B frozen on-chain so far, though that does not guarantee recovery. Blockchain intelligence firm TRM Labs said with high confidence that the attack is linked to TraderTraitor, North Korea's elite hacking unit, based on robust on- and off-chain intelligence. Hackers appear to have exploited Binance's transaction process by gaining access to internal systems via a DevOps engineer's laptop, authorizing transfers across 10 different blockchains. There is industry worry that the massive hack could send the crypto world into a bear market, similar to the loss of confidence after past damaging events at FTX and Mt. Gox. Bitcoin fell 5% to below $77,000 on the news, its lowest since September, while Ethereum and Ripple also sold off. Increased volatility could occur in coming days, especially if there is fresh congressional scrutiny of the crypto industry following midterm elections. Binance said all user funds are safe and it will cover all losses, seemingly from operational reserves, future earnings, and emergency funds. Yuya Hasegawa, market analyst at Bitbank, said the reported scale is alarming, but if Binance can demonstrate customer assets remain secure, cover losses, and restore normal operations promptly, the market impact could prove relatively short-lived, as Bitcoin's underlying fundamentals have not been directly compromised.",
+      "conclusion_zh": "此次黑客事件短期内加剧加密市场波动与信心压力，但若币安能兑现资金安全承诺并迅速恢复运营，冲击或相对短暂；需关注美国国会后续监管动向。",
+      "conclusion_en": "The hack heightens near-term crypto volatility and confidence pressure, but the impact may be relatively short-lived if Binance delivers on fund safety and restores operations promptly; watch for subsequent U.S. congressional scrutiny.",
+      "key_points": [
+        {
+          "zh": "币安遭黑客攻击，约63亿美元资金受影响，公司暂停提现。",
+          "en": "Binance suffered a hack compromising $6.3B in funds and temporarily suspended withdrawals."
+        },
+        {
+          "zh": "TRM Labs高度确信攻击与朝鲜黑客组织TraderTraitor有关。",
+          "en": "TRM Labs is highly confident the attack is linked to North Korea's TraderTraitor hacking unit."
+        },
+        {
+          "zh": "比特币下跌5%至77000美元下方，创9月以来最低，以太坊和瑞波币等也遭抛售。",
+          "en": "Bitcoin fell 5% below $77,000, its lowest since September, with Ethereum and Ripple also selling off."
+        },
+        {
+          "zh": "币安称用户资金安全并将覆盖所有损失，资金来自运营储备、未来收益和应急基金。",
+          "en": "Binance said user funds are safe and it will cover all losses from operational reserves, future earnings, and emergency funds."
+        },
+        {
+          "zh": "分析师认为若币安能迅速恢复运营，市场影响可能短暂，比特币基本面未直接受损。",
+          "en": "Analysts suggest market impact could be short-lived if Binance restores operations promptly, as Bitcoin's fundamentals are not directly compromised."
+        }
+      ],
+      "tags": [
+        "crypto",
+        "cyberattack",
+        "Binance",
+        "Bitcoin",
+        "North Korea"
+      ],
+      "tickers": [
+        "BTC-USD",
+        "ETH-USD",
+        "XRP-USD"
       ],
       "sentiment": "negative"
     },
