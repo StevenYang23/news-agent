@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-10-31T09:15:03.534114+00:00",
+  "generated_at": "2026-10-31T10:13:25.288410+00:00",
   "insights": [
+    {
+      "guid": "yt:-_IASIF7OeI",
+      "title": "What Happens When AI Spend Peaks?",
+      "title_zh": "高盛：AI交易或进入复杂双向阶段，关注超大规模企业资本开支与美联储路径",
+      "url": "https://www.youtube.com/watch?v=-_IASIF7OeI",
+      "published_at": "2026-10-31T09:30:06+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "高盛专家讨论认为，在超大规模企业资本开支放缓、企业盈利持稳的背景下，AI交易可能从单边上涨转向更复杂的双向阶段。市场关注大型科技股能否成为年底前股市上涨的催化剂，同时美联储政策路径与宏观忧虑交织。",
+      "summary_en": "Goldman Sachs experts suggest the AI trade may be shifting from a one-sided rally to a more complex, two-sided phase as hyperscaler capex moderates and corporate earnings hold steady. Focus is on whether big tech can catalyze an equity rally into year-end, amid the Fed's path and macro worries.",
+      "detail_zh": "高盛全球对冲基金业务主管Tony Pasquariello、全球风险主管Josh Schiffrin及研究高级顾问Dominic Wilson在10月29日录制的节目中，分析了财报季后AI资本开支叙事的变化。他们指出，经过多年高速增长，AI交易可能正过渡到一个更复杂的双向阶段。超大规模企业的资本开支出现放缓迹象，而企业盈利目前保持稳定。讨论的核心问题是，大型科技股能否在年底前为股市提供上涨催化剂。此外，专家们还探讨了美联储未来的政策路径以及宏观层面密集的担忧情绪。",
+      "detail_en": "Tony Pasquariello, global head of hedge fund coverage, Josh Schiffrin, global head of risk, and Dominic Wilson, senior advisor in Goldman Sachs Research, analyzed the evolving AI capex narrative post-earnings in an episode recorded on October 29. They noted that after years of supercharged growth, the AI trade may be transitioning into a more complex, two-sided phase. Hyperscaler capex is showing signs of moderation while corporate earnings currently hold the line. The central question is whether big tech can provide the catalyst for equities to rally into year-end. The experts also discussed the path ahead for the Fed and the crowded wall of worry in macro.",
+      "conclusion_zh": "AI交易进入双向波动阶段，大型科技股能否接棒成为年底行情关键，需关注资本开支变化与美联储信号。",
+      "conclusion_en": "As the AI trade enters a two-sided phase, whether big tech can lead a year-end rally is key, with attention on capex trends and Fed signals.",
+      "key_points": [
+        {
+          "zh": "AI交易可能从单边上涨转向更复杂的双向阶段。",
+          "en": "The AI trade may shift from a one-sided rally to a more complex, two-sided phase."
+        },
+        {
+          "zh": "超大规模企业资本开支出现放缓迹象，但企业盈利保持稳定。",
+          "en": "Hyperscaler capex is moderating, while corporate earnings hold the line."
+        },
+        {
+          "zh": "市场关注大型科技股能否成为年底前股市上涨的催化剂。",
+          "en": "Focus is on whether big tech can catalyze an equity rally into year-end."
+        },
+        {
+          "zh": "美联储政策路径与宏观担忧是讨论的重要背景。",
+          "en": "The Fed's path and macro worries are key backdrops in the discussion."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "hyperscaler capex",
+        "big tech",
+        "Fed",
+        "equity outlook"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:pGmyLE-1J58",
       "title": "市場調整の次の局面",
