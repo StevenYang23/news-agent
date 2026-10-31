@@ -1,6 +1,142 @@
 {
-  "generated_at": "2026-10-31T11:12:40.225506+00:00",
+  "generated_at": "2026-10-31T12:18:44.534232+00:00",
   "insights": [
+    {
+      "guid": "yt:L-3i5zMMvo4",
+      "title": "The Affordability Crisis Shaping US Elections",
+      "title_zh": "美国经济数据强劲与家庭财务压力之间的落差成为中期选举核心议题",
+      "url": "https://www.youtube.com/watch?v=L-3i5zMMvo4",
+      "published_at": "2026-10-31T12:04:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国经济仍具韧性，但许多美国人在住房、医疗、食品杂货等必需品成本上仍感吃力。前众议院筹款委员会主席Kevin Brady与Willett Advisors董事长兼CEO Steven Rattner解释了强劲经济数据与家庭财务状况之间的差距，为何使“可负担性”成为中期选举的决定性议题之一。",
+      "summary_en": "The US economy remains resilient, but many Americans are still struggling with the cost of housing, health care, groceries and other necessities. Former House Ways and Means Committee Chairman Kevin Brady and Willett Advisors Chairman & CEO Steven Rattner explain why the gap between strong economic data and household finances has made affordability one of the defining issues of the midterm elections.",
+      "detail_zh": "原文指出，美国经济仍保持韧性，但许多美国民众在住房、医疗、食品杂货及其他必需品方面仍面临成本压力。前众议院筹款委员会主席Kevin Brady与Willett Advisors董事长兼CEO Steven Rattner共同分析了强劲经济数据与家庭财务状况之间差距的成因。这一差距使“可负担性”成为中期选举的核心议题之一。原文未提供具体经济数据、政策细节或市场影响分析。",
+      "detail_en": "The source notes that the US economy remains resilient, yet many Americans are still struggling with the cost of housing, health care, groceries and other necessities. Former House Ways and Means Committee Chairman Kevin Brady and Willett Advisors Chairman & CEO Steven Rattner explain the reasons behind the gap between strong economic data and household finances. This gap has made affordability one of the defining issues of the midterm elections. The source does not provide specific economic data, policy details, or market impact analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国经济保持韧性，但许多家庭在住房、医疗和食品等必需品上仍面临成本压力。",
+          "en": "The US economy remains resilient, but many households still face cost pressures on necessities such as housing, health care and groceries."
+        },
+        {
+          "zh": "强劲经济数据与家庭财务状况之间存在明显差距。",
+          "en": "There is a clear gap between strong economic data and household finances."
+        },
+        {
+          "zh": "Kevin Brady与Steven Rattner共同解读了这一差距的成因。",
+          "en": "Kevin Brady and Steven Rattner jointly explain the causes of this gap."
+        },
+        {
+          "zh": "“可负担性”已成为中期选举的核心议题之一。",
+          "en": "Affordability has become one of the defining issues of the midterm elections."
+        }
+      ],
+      "tags": [
+        "affordability",
+        "US economy",
+        "midterm elections",
+        "household finances"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:8xaPW8lQUaw",
+      "title": "Cost of Living Looms Over the Midterms",
+      "title_zh": "生活成本上升冲击特朗普2024联盟，中期选举或重塑经济政策",
+      "url": "https://www.youtube.com/watch?v=8xaPW8lQUaw",
+      "published_at": "2026-10-31T11:55:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博经济学的Chris Kennedy指出，汽油、食品杂货和住房成本上升正对选民造成压力，并侵蚀特朗普2024年组建的部分联盟。他分析了密歇根、爱荷华和得克萨斯等州的负担能力问题，并指出中期选举后国会的控制权可能影响经济政策。",
+      "summary_en": "Bloomberg Economics' Chris Kennedy says higher costs for gasoline, groceries and housing are weighing on voters and pressuring parts of Donald Trump's 2024 coalition. He explains how affordability concerns are playing out in Michigan, Iowa and Texas, and how control of Congress could shape economic policy after the midterms.",
+      "detail_zh": "彭博经济学的经济治国方略负责人Chris Kennedy在Bloomberg This Weekend节目中表示，汽油、食品杂货和住房成本的上升正在对选民造成压力，并给唐纳德·特朗普在2024年组建的部分联盟带来压力。Kennedy与主持人David Gura和Christina Ruffini讨论了负担能力担忧在密歇根、爱荷华和得克萨斯等州的具体表现。他还阐述了中期选举后国会的控制权可能如何影响经济政策。",
+      "detail_en": "Chris Kennedy, Economic Statecraft Lead at Bloomberg Economics, told Bloomberg This Weekend that higher costs for gasoline, groceries and housing are weighing on voters and putting pressure on parts of the coalition Donald Trump assembled in 2024. Speaking with hosts David Gura and Christina Ruffini, Kennedy explained how affordability concerns are playing out in states including Michigan, Iowa and Texas. He also discussed how control of Congress could shape economic policy after the midterms.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "汽油、食品杂货和住房成本上升对选民造成压力",
+          "en": "Higher costs for gasoline, groceries and housing are weighing on voters"
+        },
+        {
+          "zh": "生活成本问题给特朗普2024年组建的部分联盟带来压力",
+          "en": "Affordability concerns are putting pressure on parts of Trump's 2024 coalition"
+        },
+        {
+          "zh": "负担能力担忧在密歇根、爱荷华和得克萨斯等州表现明显",
+          "en": "Affordability concerns are playing out in states including Michigan, Iowa and Texas"
+        },
+        {
+          "zh": "中期选举后国会的控制权可能影响经济政策",
+          "en": "Control of Congress could shape economic policy after the midterms"
+        }
+      ],
+      "tags": [
+        "affordability",
+        "inflation",
+        "midterms",
+        "US politics",
+        "economic policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:r2GrYx31AnU",
+      "title": "AI Spending Fears Hammer Big Tech Stocks",
+      "title_zh": "大型科技股财报令人失望，AI支出回报担忧加剧",
+      "url": "https://www.youtube.com/watch?v=r2GrYx31AnU",
+      "published_at": "2026-10-31T11:42:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博科技与战略行业高级编辑Mike Shepard表示，大型科技股令人失望的财报加剧了投资者对AI巨额支出能否产生足够回报的担忧，Alphabet和英特尔尤其承压。他还提到币安63亿美元黑客事件，并称朝鲜黑客可能是幕后黑手。",
+      "summary_en": "Bloomberg Senior Editor for Technology and Strategic Industries Mike Shepard said disappointing Big Tech earnings are intensifying investor concerns about whether massive AI spending will generate sufficient returns, with Alphabet and Intel under particular pressure. He also discussed the record $6.3 billion Binance hack and the possibility that North Korean hackers were responsible.",
+      "detail_zh": "彭博科技与战略行业高级编辑Mike Shepard在Bloomberg This Weekend节目中表示，大型科技股令人失望的财报正在加剧投资者的担忧，即AI领域的巨额支出能否产生足够的回报。他指出，Alphabet和英特尔尤其面临压力。Shepard还讨论了创纪录的63亿美元币安黑客事件，并表示朝鲜黑客可能是幕后黑手。",
+      "detail_en": "Bloomberg Senior Editor for Technology and Strategic Industries Mike Shepard told Bloomberg This Weekend that disappointing Big Tech earnings are intensifying investor concerns about whether massive AI spending will generate sufficient returns, as Alphabet and Intel come under particular pressure. He also discussed the record $6.3 billion Binance hack and the possibility that North Korean hackers were responsible.",
+      "conclusion_zh": "大型科技股财报显示AI支出回报存疑，投资者需关注Alphabet和英特尔等个股的压力。",
+      "conclusion_en": "Big Tech earnings raise doubts about AI spending returns, with investors focused on pressure on names like Alphabet and Intel.",
+      "key_points": [
+        {
+          "zh": "大型科技股财报令人失望，加剧投资者对AI巨额支出回报的担忧。",
+          "en": "Disappointing Big Tech earnings are intensifying investor concerns about returns on massive AI spending."
+        },
+        {
+          "zh": "Alphabet和英特尔在财报后尤其承压。",
+          "en": "Alphabet and Intel are under particular pressure following earnings."
+        },
+        {
+          "zh": "币安遭遇创纪录的63亿美元黑客攻击。",
+          "en": "Binance suffered a record $6.3 billion hack."
+        },
+        {
+          "zh": "朝鲜黑客可能是币安黑客事件的幕后黑手。",
+          "en": "North Korean hackers may have been responsible for the Binance hack."
+        }
+      ],
+      "tags": [
+        "Big Tech earnings",
+        "AI spending",
+        "Binance hack",
+        "North Korea"
+      ],
+      "tickers": [
+        "GOOGL",
+        "INTC"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:dTyQnE4PdcY",
       "title": "市場調整の次の局面",
@@ -13904,64 +14040,6 @@
         "market sentiment"
       ],
       "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "4957218",
-      "title": "Wall Street Breakfast: What Moved Markets This Week",
-      "title_zh": "科技股抛售与油价攀升拖累美股，资金涌入国债",
-      "url": "https://seekingalpha.com/article/4957218-wall-street-breakfast-what-moved-markets-this-week?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-24T12:00:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "本周美股主要指数多数下跌，科技股持续遭抛售，Meta因诉讼费用和AI资本支出指引下跌8.3%。油价因中东局势紧张上涨，WTI升至103美元，布伦特涨6.2%至116美元。资金从科技股轮动至国债，10年期收益率降至5.00%。",
-      "summary_en": "Major U.S. indexes mostly fell this week amid a persistent tech selloff, with Meta dropping 8.3% on litigation charges and AI capex guidance. Oil prices rose on Middle East tensions, with WTI at $103 and Brent up 6.2% to $116. Traders rotated from tech into Treasuries, pushing the 10-year yield down to 5.00%.",
-      "detail_zh": "本周美股主要指数多数走低，科技板块持续遭遇抛售，同时油价攀升。Meta公布第三季度财报后本周下跌8.3%，财报显示99亿美元诉讼费用、资本支出高企，且指引暴露了公司AI基础设施建设的规模。其他科技股亦显著下跌：CoreWeave跌9.4%，Lumentum跌8.7%，Synopsys跌7.1%，Keysight跌5.9%，Teradyne跌5%。油价方面，有报道称美国与以色列可能计划攻击伊朗，中东战争加剧，推动原油期货升至103美元，本周上涨1.8%；布伦特原油报116美元/桶，本周上涨6.2%。美债收益率大幅波动，市场从科技股轮动至国债，引发近年来最大规模资金逃离科技股。10年期收益率本周下降1.6%至5.00%，30年期下降1.8%至5.33%，2年期下降0.4%至4.70%。经济数据方面，10月美国PMI综合指数降至57.6，符合预期；制造业PMI高于共识，服务业PMI略低于预期。9月新屋开工意外下降，建筑许可持稳；成屋签约销售下降7.3%，降幅超预期。全周标普500跌0.5%，纳斯达克跌0.7%，道指涨0.4%。",
-      "detail_en": "Major U.S. indexes mostly declined this week amid a persistent technology selloff and rising oil prices. Meta fell 8.3% after reporting Q3 earnings that included a $9.9B litigation charge, elevated capital expenditures, and guidance revealing the scale of its AI infrastructure buildout. Other tech names also fell sharply: CoreWeave -9.4%, Lumentum -8.7%, Synopsys -7.1%, Keysight -5.9%, and Teradyne -5%. Oil prices rose after reports that the U.S. and Israel could be planning to attack Iran as Middle East tensions intensify. Crude oil futures rose to $103, up 1.8% for the week, while Brent was at $116 per barrel, up 6.2%. Treasury yields saw big swings as traders rotated away from tech equities into Treasuries, triggering the largest flight in recent years. The 10-year yield declined 1.6% to 5.00%, the 30-year fell 1.8% to 5.33%, and the 2-year dropped 0.4% to 4.70%. In economic news, the October U.S. PMI Composite fell to 57.6, as expected; manufacturing PMI rose above consensus while services PMI was slightly below expectations. September housing starts unexpectedly fell, building permits held up, and pending home sales dropped 7.3%, more than expected. For the week, the S&P 500 lost 0.5%, the Nasdaq Composite fell 0.7%, and the Dow gained 0.4%.",
-      "conclusion_zh": "科技股因AI资本支出担忧和估值压力持续承压，资金轮动至国债和防御性板块，短期关注油价与中东局势对通胀预期的扰动。",
-      "conclusion_en": "Tech stocks remain under pressure from AI capex concerns and valuation headwinds, with capital rotating into Treasuries and defensive sectors; watch oil prices and Middle East tensions for inflation implications.",
-      "key_points": [
-        {
-          "zh": "Meta本周下跌8.3%，因财报显示99亿美元诉讼费用、资本支出高企及AI基础设施大规模建设指引。",
-          "en": "Meta fell 8.3% this week after earnings showed a $9.9B litigation charge, elevated capex, and guidance revealing a large-scale AI infrastructure buildout."
-        },
-        {
-          "zh": "油价因中东紧张局势上涨，WTI升至103美元（周涨1.8%），布伦特报116美元（周涨6.2%）。",
-          "en": "Oil prices rose on Middle East tensions, with WTI at $103 (up 1.8% for the week) and Brent at $116 (up 6.2%)."
-        },
-        {
-          "zh": "资金从科技股轮动至国债，10年期收益率降至5.00%，30年期降至5.33%，2年期降至4.70%。",
-          "en": "Traders rotated from tech into Treasuries, pushing the 10-year yield to 5.00%, the 30-year to 5.33%, and the 2-year to 4.70%."
-        },
-        {
-          "zh": "美国10月PMI综合指数降至57.6符合预期；9月新屋开工意外下降，成屋签约销售降7.3%超预期。",
-          "en": "U.S. October PMI Composite fell to 57.6 as expected; September housing starts unexpectedly fell and pending home sales dropped 7.3%, more than expected."
-        },
-        {
-          "zh": "全周标普500跌0.5%，纳斯达克跌0.7%，道指涨0.4%。",
-          "en": "For the week, the S&P 500 lost 0.5%, the Nasdaq fell 0.7%, and the Dow gained 0.4%."
-        }
-      ],
-      "tags": [
-        "tech selloff",
-        "oil prices",
-        "Treasury yields",
-        "AI capex",
-        "market rotation"
-      ],
-      "tickers": [
-        "META",
-        "CRWV",
-        "LITE",
-        "SNPS",
-        "KEYS",
-        "TER"
-      ],
       "sentiment": "negative"
     }
   ]
