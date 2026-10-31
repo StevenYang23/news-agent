@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-10-31T16:14:52.897203+00:00",
+  "generated_at": "2026-10-31T17:11:58.248320+00:00",
   "insights": [
+    {
+      "guid": "yt:tRcFJBbWoxI",
+      "title": "Tech Stocks Tank, Final Countdown to Midterm Elections",
+      "title_zh": "彭博周末节目：AI警钟引发股市下挫，加密黑客与中期选举成焦点",
+      "url": "https://www.youtube.com/watch?v=tRcFJBbWoxI",
+      "published_at": "2026-10-31T16:11:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博周末节目讨论了华尔街因AI担忧而出现的股市下挫、AI债务担忧创纪录、加密行业最大黑客事件（62亿美元）、中期选举对共和党支持率的影响、以色列选举无明确赢家、美联储维持利率但呼吁12月加息、以及Meta、Alphabet、Intel股票销售令买家深陷亏损等话题。",
+      "summary_en": "Bloomberg This Weekend discussed the stock slump as Wall Street gets an AI wake-up call, AI debt fears hitting record highs, the $6.2 billion crypto heist, midterm elections' impact on Republican support, Israel's election with no clear winner, the Fed holding rates steady with calls for a December hike, and share sales by Meta, Alphabet, and Intel leaving buyers underwater.",
+      "detail_zh": "节目首先报道了华尔街因AI担忧而出现的股市下挫，并提及AI债务担忧因供应和利润问题创下历史新高。随后讨论了加密行业最大黑客事件，涉及62亿美元。政治方面，分析了特朗普在可负担性危机下的中期选举机会，以及可负担性问题如何分裂共和党支持。国际方面，以色列选举最终结果无明确赢家，10月7日事件后果成为投票主要议题，阿拉伯政党获得创纪录的19个议会席位；伊朗战争预计在美国中期选举后加剧。市场方面，Meta、Alphabet、Intel的股票销售令买家深陷亏损；美联储维持利率不变，但有人呼吁12月加息；节目还列出了中期选举后值得关注的6个金融板块，以及选举对能源价格、AI和加密的影响，并讨论了消费者和零售业受特朗普新关税的影响。此外，G20外长会议在亚特兰大举行，俄罗斯出席导致G20全家福取消，Kallas推动对乌克兰的更多支持。最后，巴西前总统博索纳罗在败选后逃离巴西，巴西市场在卢拉获胜后下跌。",
+      "detail_en": "The program first reported on the stock slump as Wall Street gets an AI wake-up call, and mentioned AI debt fears hitting fresh record highs on supply and profit concerns. It then discussed the biggest crypto heist involving $6.2 billion. Politically, it analyzed Trump's midterm chances amid an affordability crisis and how affordability is splintering support for Republicans. Internationally, Israel's election final results showed no clear winner, with the Oct. 7th aftermath a major issue at polls and a record 19 parliament seats going to Arab parties; the Iran war is expected to intensify after US midterms. On markets, share sales by Meta, Alphabet, and Intel left buyers far underwater; the Fed held rates steady with calls for a December hike; the program also listed 6 financial sectors to watch post-midterms, and discussed the election's impact on energy prices, AI, and crypto, as well as consumer and retail exposure to Trump's new tariffs. Additionally, the G20 foreign ministers' meeting was held in Atlanta, the G20 group photo was nixed over Russian attendance, and Kallas pushed for more Ukraine support. Finally, Flávio Bolsonaro fled Brazil after defeat, and Brazilian markets dropped after Lula won the election.",
+      "conclusion_zh": "投资者需关注AI相关债务风险、中期选举对政策与板块的影响，以及美联储利率路径的信号。",
+      "conclusion_en": "Investors should watch AI-related debt risks, the midterm elections' impact on policy and sectors, and signals on the Fed's rate path.",
+      "key_points": [
+        {
+          "zh": "华尔街因AI担忧出现股市下挫，AI债务担忧因供应和利润问题创下历史新高。",
+          "en": "Wall Street saw a stock slump as it got an AI wake-up call, with AI debt fears hitting fresh record highs on supply and profit concerns."
+        },
+        {
+          "zh": "加密行业发生最大黑客事件，涉及金额达62亿美元。",
+          "en": "The crypto industry suffered its biggest heist, involving $6.2 billion."
+        },
+        {
+          "zh": "中期选举前，可负担性危机正在分裂共和党支持，特朗普的选举机会面临考验。",
+          "en": "Ahead of the midterms, the affordability crisis is splintering support for Republicans, testing Trump's election chances."
+        },
+        {
+          "zh": "美联储维持利率不变，但有人呼吁12月加息。",
+          "en": "The Fed held rates steady, but there are calls for a December hike."
+        },
+        {
+          "zh": "Meta、Alphabet、Intel的股票销售令买家深陷亏损。",
+          "en": "Share sales by Meta, Alphabet, and Intel left buyers far underwater."
+        }
+      ],
+      "tags": [
+        "AI",
+        "crypto",
+        "midterms",
+        "Fed",
+        "stocks"
+      ],
+      "tickers": [
+        "META",
+        "GOOGL",
+        "INTC"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:Sb7-3Qh8FuM",
       "title": "市場調整の次の局面",
@@ -14567,46 +14620,6 @@
         "BP",
         "ABBV"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:8cy5Bs4oSvg",
-      "title": "Why Quinn keeps his oil exposure offshore",
-      "title_zh": "布伦特对WTI溢价升至高位，凸显离岸原油敞口重要性",
-      "url": "https://www.youtube.com/watch?v=8cy5Bs4oSvg",
-      "published_at": "2026-10-24T17:01:56+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "布伦特对WTI的溢价可能创收盘新高，接近冲突高峰期水平。分析师指出，由于出口禁令风险（柴油已先行），持有离岸原油敞口至关重要。",
-      "summary_en": "The Brent-WTI spread may have hit a new closing high, approaching levels seen during peak conflict. The analyst stresses the importance of holding offshore oil exposure given export ban risks, with diesel already floated as a precedent.",
-      "detail_zh": "分析师指出，布伦特对WTI的价差今日可能创下收盘新高，或至少接近冲突高峰期的高点。该分析师表示，数月来一直强调持有离岸原油敞口的重要性，原因是出口禁令风险。分析师提到，柴油出口禁令已被提出并讨论过，以此作为风险先例。",
-      "detail_en": "The analyst notes that the Brent-WTI spread may have set a new closing high today, or at least reached levels seen at the peak of the conflict. The analyst says they have stressed for many months the importance of holding oil exposure offshore due to export ban risks. The analyst cites diesel, on which an export ban has already been floated and discussed, as a precedent for this risk.",
-      "conclusion_zh": "布伦特-WTI价差走阔及出口禁令风险，支持在原油配置中保留离岸敞口。",
-      "conclusion_en": "The widening Brent-WTI spread and export ban risk support keeping offshore exposure in oil allocations.",
-      "key_points": [
-        {
-          "zh": "布伦特对WTI溢价可能创收盘新高，接近冲突高峰期水平",
-          "en": "Brent premium over WTI may have hit a new closing high, nearing peak-conflict levels"
-        },
-        {
-          "zh": "分析师数月来一直建议持有离岸原油敞口",
-          "en": "The analyst has recommended offshore oil exposure for months"
-        },
-        {
-          "zh": "核心风险是出口禁令，柴油出口禁令已被提出并讨论",
-          "en": "The key risk is export bans; a diesel export ban has already been floated and discussed"
-        }
-      ],
-      "tags": [
-        "oil",
-        "Brent-WTI spread",
-        "export ban",
-        "commodities"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
