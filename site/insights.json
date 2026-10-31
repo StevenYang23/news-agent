@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:13:42.569164+00:00",
+  "generated_at": "2026-10-31T00:33:16.664796+00:00",
   "insights": [
     {
       "guid": "yt:c0NkfbATpXA",
@@ -13236,56 +13236,6 @@
         "TER"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:tmqQq4iE2Z4",
-      "title": "Fairly Choppy Markets, Light Macro Heading Into Fed Day",
-      "title_zh": "双线分钟：市场分化加剧，能源领涨，10年期美债收益率测试5%",
-      "url": "https://www.youtube.com/watch?v=tmqQq4iE2Z4",
-      "published_at": "2026-10-24T00:21:24+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "本周标普500小幅下跌，但等权重指数上涨，市场宽度改善，能源板块受油价推动领涨。10年期美债收益率回落至4.99%，测试5%关口，债券市场出现分化。",
-      "summary_en": "The S&P 500 fell slightly this week while the equal-weight index rose, indicating better market breadth, with energy leading gains on higher oil prices. The 10-year Treasury yield pulled back to 4.99%, testing the 5% level, amid divergence in the bond market.",
-      "detail_zh": "截至10月23日当周，标普500指数下跌约20个基点，但等权重指数上涨127个基点，显示市场宽度改善，小盘股和价值股跑赢大盘股。科技板块本周持平，但本月至今仍下跌6%；通信服务板块表现最差，下跌3.4%；能源板块上涨1.7%，本月至今上涨13%，年初至今上涨58%，主要受油价上涨推动。债券市场方面，10年期美债收益率下跌9个基点至4.99%，长债收益率下跌11个基点，2年期仅下跌2个基点。固定收益各板块中，抵押贷款支持证券表现最佳，上涨80个基点；投资级信贷表现最差，上涨30个基点。高收益债、银行贷款和新兴市场债券均下跌约25个基点。大宗商品方面，彭博商品指数本周下跌50个基点，贵金属下跌4%，其中黄金下跌3.9%，能源商品总回报指数年初至今上涨101%，WTI原油上涨125%。",
-      "detail_en": "For the week ending October 23, the S&P 500 fell about 20 basis points, but the equal-weight index rose 127 basis points, indicating improved market breadth with small caps and value stocks outperforming large caps. Tech was flat on the week but remains down 6% month-to-date; communication services was the worst performer, down 3.4%; energy rose 1.7% and is up 13% month-to-date and 58% year-to-date, driven by higher oil prices. In the bond market, the 10-year Treasury yield fell 9 basis points to 4.99%, the long bond yield fell 11 basis points, and the 2-year yield fell only 2 basis points. Within fixed income, mortgages were the best performer, up 80 basis points; investment-grade credit was the worst, up 30 basis points. High yield, bank loans, and emerging market debt all fell about 25 basis points. In commodities, the Bloomberg Commodity Index fell 50 basis points on the week, with precious metals down 4% and gold down 3.9%; the Bloomberg energy commodity total return index is up 101% year-to-date, and WTI crude is up 125%.",
-      "conclusion_zh": "市场分化持续，能源板块受油价推动表现强劲，而科技板块本月承压；10年期美债收益率测试5%关口，若突破下行可能影响资产配置。",
-      "conclusion_en": "Market dispersion continues, with energy strong on higher oil prices while tech faces pressure this month; the 10-year Treasury yield is testing the 5% level, and a break lower could impact asset allocation.",
-      "key_points": [
-        {
-          "zh": "标普500本周下跌约20个基点，但等权重指数上涨127个基点，市场宽度改善。",
-          "en": "The S&P 500 fell about 20 basis points this week, but the equal-weight index rose 127 basis points, indicating improved market breadth."
-        },
-        {
-          "zh": "能源板块本周上涨1.7%，本月至今上涨13%，年初至今上涨58%，受油价上涨推动。",
-          "en": "The energy sector rose 1.7% this week, is up 13% month-to-date and 58% year-to-date, driven by higher oil prices."
-        },
-        {
-          "zh": "10年期美债收益率下跌9个基点至4.99%，测试5%关口。",
-          "en": "The 10-year Treasury yield fell 9 basis points to 4.99%, testing the 5% level."
-        },
-        {
-          "zh": "科技板块本周持平，但本月至今仍下跌6%；通信服务板块本周下跌3.4%，表现最差。",
-          "en": "Tech was flat on the week but remains down 6% month-to-date; communication services was the worst performer, down 3.4%."
-        },
-        {
-          "zh": "彭博商品指数本周下跌50个基点，贵金属下跌4%，黄金下跌3.9%。",
-          "en": "The Bloomberg Commodity Index fell 50 basis points this week, with precious metals down 4% and gold down 3.9%."
-        }
-      ],
-      "tags": [
-        "market breadth",
-        "energy",
-        "treasury yields",
-        "commodities",
-        "sector rotation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
