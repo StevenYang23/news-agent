@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-01T19:12:22.870212+00:00",
+  "generated_at": "2026-11-01T20:13:34.426535+00:00",
   "insights": [
+    {
+      "guid": "yt:e6C2fDJnOT8",
+      "title": "Why Bitcoin's Next Big Rally Could Catch Everyone Off Guard",
+      "title_zh": "机构看多比特币短期前景：若美元走弱与通胀放缓，或突破10万美元",
+      "url": "https://www.youtube.com/watch?v=e6C2fDJnOT8",
+      "published_at": "2026-11-01T20:00:17+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "该机构表示当前看好比特币短期表现，理由是在收益率和美元最悲观的背景下比特币仍维持在8万美元，若美元下跌且通胀显著放缓，比特币可能很快突破10万美元。该机构认为市场对比特币的持仓较低、投资者已放弃，且过去一年半持有者体验极差，但同时强调比特币并非黄金。",
+      "summary_en": "The firm says it likes Bitcoin here: with yields and the dollar at their most bearish, Bitcoin is still at 80 (thousand), and if the dollar falls and there is a big disinflation impulse, Bitcoin could break 100 (thousand) in the near term. The firm is very optimistic near term because people do not own it and have abandoned it, and market performance over the past year and a half has been very poor for Bitcoin holders. It stresses, however, that Bitcoin is not gold.",
+      "detail_zh": "该机构明确表示“我们在这里喜欢比特币”。其核心逻辑是：即便在收益率和美元最悲观的假设下，比特币仍能维持在8万美元（原文为80，结合语境指8万美元），那么一旦美元走弱并出现明显的通胀放缓动力，比特币短期内可能突破10万美元（原文为100）。基于此，该机构对比特币短期非常乐观，原因包括：人们并未持有比特币、已经放弃它，且过去一年半的市场表现对持有者极为糟糕。该机构同时提醒，必须认识到比特币不是黄金。原文未提供更多具体数据、时间框架或风险细节。",
+      "detail_en": "The firm explicitly says \"we like Bitcoin here.\" Its core logic: even under the most bearish factors for yields and the dollar, Bitcoin is still at 80 (thousand), so if the dollar falls and there is a big disinflation impulse, Bitcoin could break 100 (thousand) in the near term. On that basis, the firm is very optimistic on Bitcoin near term because people do not own it, have abandoned it, and market performance over the past year and a half has been very poor for Bitcoin holders. The firm also cautions that one must recognize Bitcoin is not gold. The original text provides no further specific data, time frame, or risk details.",
+      "conclusion_zh": "该机构短期看多比特币，认为低持仓与潜在美元走弱、通胀放缓可能推动其突破10万美元，但强调比特币不具备黄金属性。",
+      "conclusion_en": "The firm is near-term bullish on Bitcoin, arguing low positioning plus potential dollar weakness and disinflation could push it above 100 (thousand), while stressing Bitcoin is not gold.",
+      "key_points": [
+        {
+          "zh": "在收益率和美元最悲观的背景下，比特币仍维持在8万美元，显示韧性。",
+          "en": "Even with the most bearish factors for yields and the dollar, Bitcoin is still at 80 (thousand), showing resilience."
+        },
+        {
+          "zh": "若美元下跌且通胀显著放缓，比特币短期内可能突破10万美元。",
+          "en": "If the dollar falls and there is a big disinflation impulse, Bitcoin could break 100 (thousand) in the near term."
+        },
+        {
+          "zh": "该机构短期非常看多，理由是市场持仓低、投资者已放弃，且过去一年半持有者体验极差。",
+          "en": "The firm is very bullish near term because positioning is low, people have abandoned it, and the past year and a half has been very poor for holders."
+        },
+        {
+          "zh": "该机构提醒：比特币不是黄金。",
+          "en": "The firm cautions that Bitcoin is not gold."
+        }
+      ],
+      "tags": [
+        "bitcoin",
+        "dollar",
+        "disinflation",
+        "positioning"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:A_FUiQjpsD0",
       "title": "市場調整の次の局面",
@@ -15732,52 +15777,6 @@
         "KXIAY",
         "KXHCF"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:dIGIdRXKKMQ",
-      "title": "Oil Could Crash to $60, But Diesel May Stay Expensive",
-      "title_zh": "分析师：布伦特原油年底或回落至60美元区间，但柴油价格可能仍高企",
-      "url": "https://www.youtube.com/watch?v=dIGIdRXKKMQ",
-      "published_at": "2026-10-25T19:30:24+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "一位分析师表示，年初曾预期布伦特原油将跌至45美元/桶，但当前环境已改变。即使明年供应过剩重现，油价也不太可能迅速跌至55美元；若战争结束，布伦特原油到明年底可能回落至60美元区间。但若俄乌局势未修复、胡塞武装仍袭扰红海炼油设施，可能出现布伦特60美元而柴油100美元的情景。",
-      "summary_en": "An analyst said he would have predicted Brent at $45/barrel in January, but the world has changed. Even if oversupply re-emerges next year, oil likely won't quickly fall to $55; should the war end, Brent could drift back to the $60s by end of next year. However, if Russia-Ukraine situation remains unrepaired and Houthis keep harassing Red Sea refineries, a scenario of $60 Brent with $100 diesel is possible.",
-      "detail_zh": "该分析师回顾称，若在今年1月被问及油价年底走向，他大概率会回答布伦特原油45美元/桶；但当前已不再处于那个世界，近期收盘价的变化已显著改变局面。他判断，即便明年供应过剩重新出现，油价也不太可能迅速跌至55美元/桶。若战争结束，布伦特原油到明年底可能逐步回落至60美元区间。但他同时指出存在另一种情景：原油价格回落，而俄罗斯与乌克兰局势并未修复，胡塞武装仍在袭扰红海炼油设施，此时可能出现布伦特原油60美元/桶、柴油100美元/桶的价格组合。",
-      "detail_en": "The analyst recalled that if asked in January where oil would end the year, he probably would have said $45/barrel Brent. But the world has changed, and the recent close alters the picture significantly. He believes that even if oversupply re-emerges next year, oil likely won't quickly fall to $55/barrel. Should the war end, Brent could drift back down to the $60s by the end of next year. However, he outlines a scenario where crude falls but the Russia-Ukraine situation remains unrepaired and Houthis continue harassing Red Sea refineries, potentially resulting in $60 Brent alongside $100 diesel.",
-      "conclusion_zh": "分析师认为油价下行路径取决于战争结束与供应过剩，但地缘风险可能使成品油（柴油）价格与原油脱钩，需关注俄乌及红海局势。",
-      "conclusion_en": "The analyst sees the downside path for oil hinging on war ending and oversupply, but geopolitical risks could decouple refined product (diesel) prices from crude; watch Russia-Ukraine and Red Sea developments.",
-      "key_points": [
-        {
-          "zh": "年初曾预期布伦特原油年底跌至45美元/桶，但当前环境已改变。",
-          "en": "Initially expected Brent to end the year at $45/barrel, but the environment has changed."
-        },
-        {
-          "zh": "即使明年供应过剩重现，油价也不太可能迅速跌至55美元/桶。",
-          "en": "Even if oversupply re-emerges next year, oil likely won't quickly fall to $55/barrel."
-        },
-        {
-          "zh": "若战争结束，布伦特原油到明年底可能回落至60美元区间。",
-          "en": "If the war ends, Brent could drift back to the $60s by end of next year."
-        },
-        {
-          "zh": "风险情景：俄乌局势未修复且胡塞武装袭扰红海炼油设施，可能导致布伦特60美元而柴油100美元。",
-          "en": "Risk scenario: unrepaired Russia-Ukraine situation and Houthi harassment of Red Sea refineries could lead to $60 Brent and $100 diesel."
-        }
-      ],
-      "tags": [
-        "oil",
-        "Brent",
-        "diesel",
-        "geopolitics",
-        "supply"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
