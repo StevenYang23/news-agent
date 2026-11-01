@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-01T08:17:25.698745+00:00",
+  "generated_at": "2026-11-01T11:12:02.640906+00:00",
   "insights": [
+    {
+      "guid": "4960711",
+      "title": "Wall Street Week Ahead",
+      "title_zh": "中期选举与10月非农就业报告主导本周美股，苹果等财报密集发布",
+      "url": "https://seekingalpha.com/article/4960711-wall-street-week-ahead?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-01T11:04:46+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "politics",
+        "tech"
+      ],
+      "summary_zh": "本周美股面临中期选举、10月非农就业报告及密集财报三重考验。民调显示民主党有望夺回众议院，国会控制权变化或影响财政政策、监管及银行、加密、国防、医疗板块。经济学家预计10月新增非农就业6.5万，失业率维持4.2%。",
+      "summary_en": "U.S. stocks face a consequential week dominated by the midterm elections, the October jobs report, and a busy earnings slate. Polling suggests Democrats have a strong chance of taking the House, with implications for fiscal policy, regulation, and sectors including banks, crypto, defense, and healthcare. Economists expect 65K jobs added in October with the unemployment rate at 4.2%.",
+      "detail_zh": "本周美股面临三大关键事件。中期选举周二投票，共和党目前以微弱优势控制众议院，参议院以53-47领先；近期民调显示民主党夺回众议院的概率较大，参议院竞争更激烈。国会控制权变化可能影响财政政策、监管以及银行、加密、国防和医疗板块。经济焦点转向周五的10月就业报告，经济学家预计新增就业6.5万，高于9月的2.9万但低于十年均值，失业率预计维持在4.2%。财报方面，苹果和Palantir周一发布，AMD周二，麦当劳、Arm、高通和Uber周三。苹果本次为CEO John Ternus任内首份财报，投资者关注Apple Intelligence采用情况、供应限制和内存成本。此外，Julian Lin将半导体板块评级下调至卖出，认为尽管近期价格下跌且可能出现短期反弹，但进一步波动可能在前方；利率上升、债务成本增加和客户集中度对AI基础设施繁荣构成风险，行业依赖尚未实现持续盈利的OpenAI和Anthropic。关键担忧是巨额AI资本支出能否产生足够回报，Julian质疑AI公司能否在2030年前实现估计所需的2.5-3万亿美元年收入，理由包括模型价格下降、廉价替代品竞争以及对企业可持续支出的怀疑。这些担忧可能促使超大规模企业减少支出，削弱半导体需求和估值。尽管增长可能在2027和2028年保持强劲，Julian认为当前基础设施投资可能过度，并已将英伟达从Best of Breed Growth Stocks组合中剔除。",
+      "detail_en": "U.S. stocks face three key events this week. Midterm elections are Tuesday, with Republicans currently holding a narrow House majority and a 53-47 Senate advantage; recent polling points to a strong chance of Democrats taking the House, with the Senate more competitive. A shift in congressional control could have implications for fiscal policy, regulation, and sectors including banks, crypto, defense, and healthcare. The economic spotlight turns to Friday's October employment report, with economists expecting 65K jobs added, up from 29K in September but below the 10-year average, and the jobless rate expected to stay at 4.2%. On earnings, Apple and Palantir report Monday, AMD Tuesday, and McDonald's, Arm, Qualcomm, and Uber Wednesday. Apple's report will be its first under CEO John Ternus, with investors watching Apple Intelligence adoption, supply constraints, and memory costs. Additionally, Julian Lin downgraded the semiconductor sector to Sell, arguing that despite recent price declines and potential short-term rebounds, further volatility may lie ahead; rising interest rates, increasing debt costs, and customer concentration pose risks to the AI infrastructure boom, given the industry's reliance on OpenAI and Anthropic, which have yet to establish consistent profitability. A key concern is whether massive AI capital expenditures will generate sufficient returns; Julian questions whether AI companies can achieve the estimated $2.5–3 trillion in annual revenue needed by 2030, citing declining model prices, competition from cheaper alternatives, and doubts about sustainable enterprise spending. These concerns could prompt hyperscalers to reduce spending, weakening semiconductor demand and valuations. While growth may remain strong through 2027 and 2028, Julian believes current infrastructure investments may be excessive, and he has exited NVIDIA from the Best of Breed Growth Stocks Portfolio.",
+      "conclusion_zh": "本周美股面临选举、就业数据和财报三重考验，半导体板块在AI资本支出可持续性存疑下面临回调风险，投资者需关注国会控制权变化对板块的影响及AI相关企业的收入兑现能力。",
+      "conclusion_en": "U.S. stocks face a triple test this week from elections, jobs data, and earnings. The semiconductor sector faces pullback risk amid doubts about AI capex sustainability. Investors should watch the impact of congressional control changes on sectors and the revenue realization of AI-related companies.",
+      "key_points": [
+        {
+          "zh": "中期选举周二投票，民调显示民主党有望夺回众议院，参议院竞争更激烈；国会控制权变化或影响财政政策、监管及银行、加密、国防、医疗板块。",
+          "en": "Midterm elections are Tuesday; polling suggests Democrats have a strong chance of taking the House, with the Senate more competitive. A shift in congressional control could affect fiscal policy, regulation, and sectors including banks, crypto, defense, and healthcare."
+        },
+        {
+          "zh": "经济学家预计10月新增非农就业6.5万，高于9月的2.9万但低于十年均值，失业率预计维持在4.2%。",
+          "en": "Economists expect 65K jobs added in October, up from 29K in September but below the 10-year average, with the unemployment rate expected to stay at 4.2%."
+        },
+        {
+          "zh": "苹果和Palantir周一发布财报，AMD周二，麦当劳、Arm、高通和Uber周三；苹果本次为CEO John Ternus任内首份财报，关注Apple Intelligence采用、供应限制和内存成本。",
+          "en": "Apple and Palantir report Monday, AMD Tuesday, and McDonald's, Arm, Qualcomm, and Uber Wednesday. Apple's report is its first under CEO John Ternus, with focus on Apple Intelligence adoption, supply constraints, and memory costs."
+        },
+        {
+          "zh": "Julian Lin将半导体板块评级下调至卖出，认为利率上升、债务成本增加和客户集中度对AI基础设施繁荣构成风险，行业依赖尚未持续盈利的OpenAI和Anthropic。",
+          "en": "Julian Lin downgraded the semiconductor sector to Sell, citing rising interest rates, increasing debt costs, and customer concentration as risks to the AI infrastructure boom, with the industry reliant on OpenAI and Anthropic, which have yet to establish consistent profitability."
+        },
+        {
+          "zh": "Julian Lin质疑AI公司能否在2030年前实现2.5-3万亿美元年收入，理由包括模型价格下降、廉价替代品竞争及企业支出可持续性存疑；他认为当前基础设施投资可能过度，已将英伟达从组合中剔除。",
+          "en": "Julian Lin questions whether AI companies can achieve the estimated $2.5–3 trillion in annual revenue needed by 2030, citing declining model prices, competition from cheaper alternatives, and doubts about sustainable enterprise spending. He believes current infrastructure investments may be excessive and has exited NVIDIA from the portfolio."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "jobs report",
+        "earnings",
+        "semiconductors",
+        "AI capex"
+      ],
+      "tickers": [
+        "AAPL",
+        "PLTR",
+        "AMD",
+        "MCD",
+        "ARM",
+        "QCOM",
+        "UBER",
+        "O",
+        "ON",
+        "AMGN",
+        "PFE",
+        "XYZ",
+        "TM",
+        "COP",
+        "ABNB",
+        "MRNA",
+        "GS",
+        "PG"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:uUrCZjxhE2o",
       "title": "市場調整の次の局面",
@@ -14761,86 +14831,6 @@
         "delivery"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4957317",
-      "title": "Wall Street Week Ahead",
-      "title_zh": "美联储决议与科技巨头财报密集来袭",
-      "url": "https://seekingalpha.com/article/4957317-wall-street-week-ahead?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-25T10:59:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "本周市场聚焦美联储利率决议及微软、Alphabet、亚马逊等科技巨头财报。联邦基金期货显示加息25个基点的概率仅约10%，经济学家预计三季度GDP年化增长3.0%。AI支出、云增长及数据中心投资回报将成为财报关注焦点。",
-      "summary_en": "Markets this week focus on the Federal Reserve's rate decision and earnings from tech giants Microsoft, Alphabet, and Amazon. Fed funds futures imply only about a 10% chance of a 25-basis-point rate hike, while economists forecast 3.0% annualized Q3 GDP growth. AI spending, cloud growth, and returns on data center investments will be key earnings focal points.",
-      "detail_zh": "美联储将于周三公布利率决议，随后主席Kevin Warsh召开新闻发布会；联邦基金期货暗示再次加息25个基点的概率仅约10%。周四将公布三季度GDP首次预估及10月核心PCE物价指数，经济学家预计GDP年化增长3.0%。财报方面，Alphabet和微软周三发布业绩，亚马逊周四跟进，市场将重新审视AI支出、云增长及大规模数据中心投资的回报。微软尤其受关注，投资者在Azure强劲需求与资本支出上升及AI回报疑问之间权衡，Seeking Alpha分析师对该股评级从强力买入到持有到卖出不等。此外，苹果周三举行产品活动，甲骨文AI World大会周日于拉斯维加斯开幕。本周其他重要财报包括周一的Verizon、Welltower、Nucor、Public Storage；周二的Visa、可口可乐、波音、UPS、标普全球；周三的T-Mobile、Chipotle、eBay、GE Vernova；周四的礼来、万事达、英特尔、默克、卡特彼勒、壳牌；周五的埃克森美孚、雪佛龙、BP、艾伯维。",
-      "detail_en": "The Fed will announce its rate decision on Wednesday, followed by Chairman Kevin Warsh's press conference; federal funds futures imply only about a 10% chance of another 25-basis-point rate hike. Thursday brings the first estimate of Q3 GDP and the October core PCE price index, with economists forecasting 3.0% annualized GDP growth. On earnings, Alphabet and Microsoft report Wednesday, followed by Amazon on Thursday, putting AI spending, cloud growth, and returns on massive data center investments back in focus. Microsoft is particularly watched as investors weigh strong Azure demand against rising capital spending and questions over AI returns; Seeking Alpha analysts range from Strong Buy to Hold to Sell on the stock. Elsewhere, Apple holds a product event Wednesday, and Oracle's AI World conference begins Sunday in Las Vegas. Other notable earnings this week include Verizon, Welltower, Nucor, Public Storage on Monday; Visa, Coca-Cola, Boeing, UPS, S&P Global on Tuesday; T-Mobile, Chipotle, eBay, GE Vernova on Wednesday; Eli Lilly, Mastercard, Intel, Merck, Caterpillar, Shell on Thursday; ExxonMobil, Chevron, BP, AbbVie on Friday.",
-      "conclusion_zh": "本周美联储决议与科技巨头财报将主导市场情绪，AI投资回报与云增长是核心验证点。",
-      "conclusion_en": "This week's Fed decision and tech giant earnings will dominate market sentiment, with AI investment returns and cloud growth as key validation points.",
-      "key_points": [
-        {
-          "zh": "联邦基金期货暗示加息25个基点的概率仅约10%",
-          "en": "Fed funds futures imply only about a 10% chance of a 25-basis-point rate hike"
-        },
-        {
-          "zh": "经济学家预计三季度GDP年化增长3.0%",
-          "en": "Economists forecast 3.0% annualized Q3 GDP growth"
-        },
-        {
-          "zh": "微软、Alphabet周三发布财报，亚马逊周四发布",
-          "en": "Microsoft and Alphabet report Wednesday, Amazon Thursday"
-        },
-        {
-          "zh": "微软财报关注Azure需求与资本支出上升及AI回报疑问",
-          "en": "Microsoft earnings focus on Azure demand vs. rising capex and AI return questions"
-        },
-        {
-          "zh": "苹果周三举行产品活动，甲骨文AI World大会周日开幕",
-          "en": "Apple holds product event Wednesday; Oracle AI World conference begins Sunday"
-        }
-      ],
-      "tags": [
-        "Fed",
-        "earnings",
-        "AI",
-        "GDP",
-        "PCE"
-      ],
-      "tickers": [
-        "GOOG",
-        "GOOGL",
-        "MSFT",
-        "AMZN",
-        "AAPL",
-        "ORCL",
-        "VZ",
-        "WELL",
-        "NUE",
-        "PSA",
-        "V",
-        "KO",
-        "BA",
-        "UPS",
-        "SPGI",
-        "TMUS",
-        "CMG",
-        "EBAY",
-        "GEV",
-        "LLY",
-        "MA",
-        "INTC",
-        "MRK",
-        "CAT",
-        "SHEL",
-        "XOM",
-        "CVX",
-        "BP",
-        "ABBV"
-      ],
       "sentiment": "neutral"
     }
   ]
