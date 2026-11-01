@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-01T12:19:24.493903+00:00",
+  "generated_at": "2026-11-01T13:12:50.807399+00:00",
   "insights": [
+    {
+      "guid": "yt:DdNlxW4iC4U",
+      "title": "AI Concerns Move to Center of Midterm Campaigns",
+      "title_zh": "AI成为中期选举议题，民主党若掌控国会或加强监管",
+      "url": "https://www.youtube.com/watch?v=DdNlxW4iC4U",
+      "published_at": "2026-11-01T12:58:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博政府事务记者Cristiano Lima-Strong表示，AI正成为中期选举的重要议题，候选人围绕监管、数据中心、就业和安全展开争论。他指出，若民主党掌控国会，可能带来更积极的监管方式，议员们将在保障措施与创新之间寻求平衡。",
+      "summary_en": "Bloomberg Government senior AI and government reporter Cristiano Lima-Strong says AI is emerging as a major issue in the midterm elections, with candidates clashing over regulation, data centers, jobs and safety. He notes that Democratic control of Congress could bring a more aggressive regulatory approach as lawmakers debate balancing safeguards with innovation.",
+      "detail_zh": "彭博政府事务高级AI与政府记者Cristiano Lima-Strong在Bloomberg This Weekend节目中向主持人David Gura和Lisa Mateo表示，AI正成为中期选举的主要议题。候选人围绕AI监管、数据中心、就业和安全等问题存在分歧。Lima-Strong解释称，若民主党掌控国会，可能带来更积极的监管方式。议员们正在辩论如何平衡保障措施与创新。",
+      "detail_en": "Bloomberg Government senior AI and government reporter Cristiano Lima-Strong told Bloomberg This Weekend hosts David Gura and Lisa Mateo that AI is emerging as a major issue in the midterm elections. Candidates are clashing over AI regulation, data centers, jobs and safety. Lima-Strong explained that Democratic control of Congress could bring a more aggressive regulatory approach, as lawmakers debate how to balance safeguards with innovation.",
+      "conclusion_zh": "AI监管已成为中期选举议题，民主党若掌控国会可能加强监管，投资者需关注政策变化对AI相关板块的潜在影响。",
+      "conclusion_en": "AI regulation has become a midterm election issue; Democratic control of Congress could lead to stricter oversight, and investors should watch policy shifts for potential impact on AI-related sectors.",
+      "key_points": [
+        {
+          "zh": "AI正成为中期选举的重要议题",
+          "en": "AI is emerging as a major issue in the midterm elections"
+        },
+        {
+          "zh": "候选人围绕监管、数据中心、就业和安全展开争论",
+          "en": "Candidates are clashing over regulation, data centers, jobs and safety"
+        },
+        {
+          "zh": "民主党若掌控国会，可能带来更积极的监管方式",
+          "en": "Democratic control of Congress could bring a more aggressive regulatory approach"
+        },
+        {
+          "zh": "议员们辩论如何平衡保障措施与创新",
+          "en": "Lawmakers are debating how to balance safeguards with innovation"
+        }
+      ],
+      "tags": [
+        "AI regulation",
+        "midterm elections",
+        "Democratic control",
+        "data centers",
+        "innovation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:1nrT6b0fXfY",
       "title": "市場調整の次の局面",
