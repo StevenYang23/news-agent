@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-10-31T22:12:45.307750+00:00",
+  "generated_at": "2026-11-01T01:13:21.685845+00:00",
   "insights": [
+    {
+      "guid": "yt:LM5UyMYyGYw",
+      "title": "India’s Green Aviation Push Gives Waste Cooking Oil New Life",
+      "title_zh": "印度拟以废弃食用油推动绿色航空，供应链挑战待解",
+      "url": "https://www.youtube.com/watch?v=LM5UyMYyGYw",
+      "published_at": "2026-10-31T23:06:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "印度计划利用废弃食用油（UCO）生产可持续航空燃料（SAF），以减少对进口原油的依赖。但该国供应链效率低下且分散，可能对即将推出的SAF强制令构成挑战。",
+      "summary_en": "India aims to use used cooking oil (UCO) to produce sustainable aviation fuel (SAF) and reduce reliance on imported crude. However, the country's inefficient and fragmented supply chain could challenge its upcoming SAF mandate.",
+      "detail_zh": "印度正寻求将废弃食用油作为绿色航空燃料的原料，以降低对进口原油的依赖。该国准备推出可持续航空燃料（SAF）强制令，但供应链效率低下且分散，可能成为主要障碍。原文未提供具体数字、时间表或政策细节。",
+      "detail_en": "India is looking to used cooking oil as a feedstock for green aviation fuel to reduce reliance on imported crude. The country is preparing to introduce a Sustainable Aviation Fuel (SAF) mandate, but an inefficient and fragmented supply chain could pose a major challenge. The original text does not provide specific numbers, timelines, or policy details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "印度计划利用废弃食用油生产可持续航空燃料，以减少对进口原油的依赖。",
+          "en": "India plans to use used cooking oil to produce sustainable aviation fuel to reduce reliance on imported crude."
+        },
+        {
+          "zh": "印度正准备推出可持续航空燃料强制令。",
+          "en": "India is preparing to introduce a Sustainable Aviation Fuel mandate."
+        },
+        {
+          "zh": "供应链效率低下且分散，可能对SAF强制令的实施构成挑战。",
+          "en": "An inefficient and fragmented supply chain could pose a challenge to the implementation of the SAF mandate."
+        }
+      ],
+      "tags": [
+        "India",
+        "sustainable aviation fuel",
+        "used cooking oil",
+        "supply chain"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_fYHAWnIzeE",
+      "title": "Anthropic's S1 | Google's AI Problem | The Rundown",
+      "title_zh": "Anthropic提交S1文件，谷歌经历糟糕一周",
+      "url": "https://www.youtube.com/watch?v=_fYHAWnIzeE",
+      "published_at": "2026-10-31T23:01:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic已提交S1文件，谷歌本周表现不佳。Bloomberg Tech的Ed Ludlow在“The Rundown”中讨论了这些话题。",
+      "summary_en": "Anthropic has filed its S1, and Google had a pretty bad week. Ed Ludlow discusses these topics on Bloomberg Tech's \"The Rundown.\"",
+      "detail_zh": "根据Bloomberg Tech节目“The Rundown”主持人Ed Ludlow的介绍，Anthropic终于提交了S1文件。此外，谷歌刚刚经历了一个相当糟糕的星期。原文未提供S1文件的具体细节、谷歌表现不佳的原因或相关财务数据。",
+      "detail_en": "According to Ed Ludlow, host of Bloomberg Tech's \"The Rundown,\" Anthropic has finally filed its S1. Additionally, Google had a pretty bad week. The original text does not provide specific details about the S1 filing, the reasons for Google's poor performance, or related financial data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic已提交S1文件",
+          "en": "Anthropic has filed its S1"
+        },
+        {
+          "zh": "谷歌经历了一个相当糟糕的星期",
+          "en": "Google had a pretty bad week"
+        },
+        {
+          "zh": "该内容来自Bloomberg Tech的“The Rundown”节目，由Ed Ludlow主持",
+          "en": "The content is from Bloomberg Tech's \"The Rundown,\" hosted by Ed Ludlow"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Google",
+        "S1 filing",
+        "Bloomberg Tech"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:-WgCm7Z4qy8",
       "title": "The Political Debate on Daylight Saving Time",
