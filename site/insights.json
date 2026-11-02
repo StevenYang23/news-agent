@@ -1,6 +1,579 @@
 {
-  "generated_at": "2026-11-02T21:13:55.245392+00:00",
+  "generated_at": "2026-11-02T22:15:30.242801+00:00",
   "insights": [
+    {
+      "guid": "yt:CPR9NvWL-xg",
+      "title": "How Founders Can Unlock Liquidity",
+      "title_zh": "企业家如何解锁流动性：以集中持股为抵押的借贷策略",
+      "url": "https://www.youtube.com/watch?v=CPR9NvWL-xg",
+      "published_at": "2026-11-02T21:47:34+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "摩根士丹利播客探讨企业家Kelsey面临集中持股导致的流动性困境，其财务顾问Ara提出以资产抵押获取信贷额度而非出售持股的解决方案，并讨论了现金管理、交换基金和主题投资（如氦气）的配置逻辑。",
+      "summary_en": "A Morgan Stanley podcast discusses entrepreneur Kelsey's liquidity crunch from concentrated stock, with advisor Ara proposing a collateralized line of credit instead of selling shares, while covering cash management, exchange funds, and thesis-based investments like helium.",
+      "detail_zh": "Kelsey Falter在大学期间创立科技公司，融资超200万美元并登上福布斯30 Under 30科技榜，四年后出售公司，但部分补偿为私营公司股票，缺乏流动性。她正筹建AI公司Mother.tech，需要运营资金，同时希望将财富投入自己的业务和投资。其财务顾问Ara指出，创始人常面临选择：出售资产支付资本利得税以获取现金，或以资产抵押获得信贷额度。Ara举例说明，若持有100万美元的多元化投资组合，摩根士丹利可能允许借出60%至80%的价值，即约60万美元，次日可电汇至运营账户。Ara建议优先使用储蓄账户中收益约3%的现金进行投资，再以资产抵押借贷，从而避免现金短缺。Kelsey目前有近六位数现金在储蓄账户，对黄金股和氦气主题投资感兴趣，并考虑为女儿做遗产规划。",
+      "detail_en": "Kelsey Falter founded a tech company in college, raised over $2 million, and landed on Forbes 30 Under 30 in tech; she sold the startup four years later, but part of the compensation was stock in a private company with no market for liquidity. She is building an AI company called Mother.tech and needs operating capital while wanting to put her wealth to work in her business and investments. Her financial advisor Ara notes that founders often face the choice of selling assets and paying capital gains tax to create cash, or using assets as collateral for a line of credit. Ara gives a hypothetical: with a $1 million diversified portfolio, Morgan Stanley might lend 60% to 80% of the value, or about $600,000, which can be wired to an operating account the next day. Ara suggests using cash in a savings account earning about 3% first, then borrowing against assets to avoid being cash poor. Kelsey currently has just under six figures in a savings account, is interested in gold stocks and a helium thesis investment, and is considering legacy planning for her daughter.",
+      "conclusion_zh": "对于持有集中头寸的企业家，以资产抵押获取信贷额度可在避免触发资本利得税的同时解锁流动性，但需评估自身风险承受能力。",
+      "conclusion_en": "For entrepreneurs with concentrated positions, collateralized lines of credit can unlock liquidity without triggering capital gains tax, but risk tolerance must be assessed.",
+      "key_points": [
+        {
+          "zh": "创始人常面临集中持股导致的流动性问题，出售资产需缴纳资本利得税，而抵押借贷可提供替代方案。",
+          "en": "Founders often face liquidity issues from concentrated stock; selling triggers capital gains tax, while collateralized borrowing offers an alternative."
+        },
+        {
+          "zh": "摩根士丹利可能允许借出多元化投资组合价值的60%至80%，资金可快速到账用于运营。",
+          "en": "Morgan Stanley may lend 60% to 80% of a diversified portfolio's value, with funds quickly available for operations."
+        },
+        {
+          "zh": "顾问建议优先使用储蓄账户中收益约3%的现金进行投资，再以资产抵押借贷，以优化流动性。",
+          "en": "The advisor suggests using cash in a savings account earning about 3% first, then borrowing against assets to optimize liquidity."
+        },
+        {
+          "zh": "Kelsey采用主题投资策略，包括氦气（用于AI发展）和黄金股，并考虑遗产规划。",
+          "en": "Kelsey uses thesis-based investing, including helium (for AI development) and gold stocks, and is considering legacy planning."
+        }
+      ],
+      "tags": [
+        "liquidity",
+        "concentrated stock",
+        "collateralized lending",
+        "exchange funds",
+        "thesis investing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lEJ1VhyaKA4",
+      "title": "How Can You Own Anthropic Before It Goes Public",
+      "title_zh": "Anthropic 10月26日提交IPO申请，拟募资规模对标SpaceX",
+      "url": "https://www.youtube.com/watch?v=lEJ1VhyaKA4",
+      "published_at": "2026-11-02T21:41:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic于10月26日提交IPO申请，计划在感恩节前完成上市。据知情人士透露，其募资目标为达到或超过SpaceX在上市中募集的862亿美元。",
+      "summary_en": "Anthropic filed for an IPO on Oct. 26, with the listing set to take place before Thanksgiving. People familiar with the matter said Anthropic is seeking to meet or exceed the $86.2 billion raised by SpaceX in its debut.",
+      "detail_zh": "据彭博电视节目“Bloomberg ETF IQ”报道，Anthropic已于10月26日提交IPO申请，上市计划安排在感恩节之前完成。知情人士表示，Anthropic此次IPO的募资目标为达到或超过SpaceX在其上市首秀中募集的862亿美元。节目嘉宾为CEF Advisors总裁兼首席投资官John Cole Scott，主持人为Scarlet Fu与Eric Balchunas。原文未披露Anthropic的具体估值、发行价区间、承销商或财务数据。",
+      "detail_en": "According to a report on Bloomberg Television's \"Bloomberg ETF IQ,\" Anthropic filed for an IPO on Oct. 26, with the listing scheduled to take place before Thanksgiving. People familiar with the matter said Anthropic is seeking to raise an amount that meets or exceeds the $86.2 billion raised by SpaceX in its debut. The segment featured John Cole Scott, president and CIO of CEF Advisors, with hosts Scarlet Fu and Eric Balchunas. The source did not disclose Anthropic's specific valuation, price range, underwriters, or financial data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic于10月26日提交IPO申请，计划感恩节前上市。",
+          "en": "Anthropic filed for an IPO on Oct. 26 and plans to list before Thanksgiving."
+        },
+        {
+          "zh": "知情人士称，Anthropic寻求达到或超过SpaceX上市募集的862亿美元。",
+          "en": "People familiar said Anthropic seeks to meet or exceed the $86.2 billion raised by SpaceX in its debut."
+        },
+        {
+          "zh": "该消息在彭博电视“Bloomberg ETF IQ”节目中播出，嘉宾为CEF Advisors的John Cole Scott。",
+          "en": "The news was discussed on Bloomberg TV's \"Bloomberg ETF IQ\" with guest John Cole Scott of CEF Advisors."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "SpaceX",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bTcwc383YD0",
+      "title": "Dems, GOP Make Final Pitch Ahead of Midterm Election Day",
+      "title_zh": "麦亨利：共和党现任议员面临选区压力，参议院多数取决于战场州投票",
+      "url": "https://www.youtube.com/watch?v=bTcwc383YD0",
+      "published_at": "2026-11-02T21:40:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前北卡罗来纳州众议员帕特里克·麦亨利表示，随着选民对共和党的情绪在选举日前变得“相当糟糕”，共和党现任议员在各自选区面临巨大压力。参议院多数席位将取决于选举日选民在势均力敌的战场州的投票情况。",
+      "summary_en": "Former North Carolina Representative Patrick McHenry said there is significant pressure on GOP incumbents in their districts as voters' feelings turn 'quite sour' on the Republican Party ahead of Election Day. He noted that the Senate majority hinges on how Election Day voters cast ballots in close battleground races.",
+      "detail_zh": "前北卡罗来纳州众议员、彭博撰稿人帕特里克·麦亨利指出，在选举日临近之际，选民对共和党的情绪变得“相当糟糕”，这给共和党现任议员在各自选区带来了巨大压力。麦亨利表示，参议院多数席位的归属取决于选举日选民在势均力敌的战场州的投票方式。原文未提供具体民调数字、选区名称或对市场的影响分析。",
+      "detail_en": "Former North Carolina Representative and Bloomberg contributor Patrick McHenry stated that voters' feelings have turned 'quite sour' on the Republican Party leading into Election Day, creating significant pressure on GOP incumbents to perform in their districts. McHenry said the Senate majority rests on how Election Day voters cast their ballots in close battleground races. The source does not provide specific polling numbers, district names, or market impact analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "麦亨利称选民对共和党的情绪在选举日前变得“相当糟糕”。",
+          "en": "McHenry said voters' feelings have turned 'quite sour' on the Republican Party leading into Election Day."
+        },
+        {
+          "zh": "共和党现任议员在各自选区面临巨大压力。",
+          "en": "There is a lot of pressure on GOP incumbents to perform in their districts."
+        },
+        {
+          "zh": "参议院多数取决于选举日选民在势均力敌的战场州的投票情况。",
+          "en": "The Senate majority rests on how Election Day voters cast their ballots in close battleground races."
+        }
+      ],
+      "tags": [
+        "election",
+        "GOP",
+        "Senate",
+        "battleground"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lJh6Gatbllg",
+      "title": "'No Moderates Left' in GOP Says DCCC Chair Suzan DelBene",
+      "title_zh": "民主党竞选委员会主席称共和党已无温和派，中期选举聚焦肯塔基第六选区",
+      "url": "https://www.youtube.com/watch?v=lJh6Gatbllg",
+      "published_at": "2026-11-02T21:40:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党国会竞选委员会主席DelBene表示共和党内已无温和派，民主党寻求在周二晚翻转关键共和党选区并夺取国会控制权。她指出肯塔基州第六国会选区的结果将是民主党中期选举表现的早期指标。",
+      "summary_en": "Representative Suzan DelBene, chair of the Democrats' congressional campaign committee, said there are 'no moderates left' in the Republican party as Democrats aim to flip key GOP-held districts and take control of Congress on Tuesday night. She cited Kentucky's 6th Congressional District as an early indicator of Democratic performance.",
+      "detail_zh": "民主党国会竞选委员会主席、众议员Suzan DelBene表示，共和党内已无温和派，民主党正寻求在周二晚翻转全国关键共和党选区并夺取国会控制权。DelBene指出，肯塔基州第六国会选区的投票结果将是判断民主党中期选举表现的一个早期指标，该选区投票将在当晚结束。原文未提供更多政策细节或市场影响分析。",
+      "detail_en": "Representative Suzan DelBene, chair of the Democrats' congressional campaign committee, said there are 'no moderates left' in the Republican party as Democrats look to flip key GOP-held districts across the country Tuesday night and take control of Congress. DelBene said an early indication of how Democrats are faring in the midterms will be the results in Kentucky's 6th Congressional District, where polls close in the night. The source provides no further policy details or market impact analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党竞选委员会主席DelBene称共和党内已无温和派。",
+          "en": "Democratic campaign committee chair DelBene said there are 'no moderates left' in the Republican party."
+        },
+        {
+          "zh": "民主党目标是在周二晚翻转关键共和党选区并夺取国会控制权。",
+          "en": "Democrats aim to flip key GOP-held districts and take control of Congress on Tuesday night."
+        },
+        {
+          "zh": "肯塔基州第六国会选区结果被视为民主党中期选举表现的早期指标。",
+          "en": "Kentucky's 6th Congressional District results are seen as an early indicator of Democratic midterm performance."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "congress",
+        "democrats",
+        "republicans",
+        "elections"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:SgE2gzHw0PE",
+      "title": "NYC Marathon Winner Andreas Almgren on Debut Victory",
+      "title_zh": "纽约马拉松冠军阿尔姆格伦访谈",
+      "url": "https://www.youtube.com/watch?v=SgE2gzHw0PE",
+      "published_at": "2026-11-02T21:40:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "纽约马拉松男子冠军安德烈亚斯·阿尔姆格伦在夺冠后接受彭博社采访，讨论了他的胜利、夺冠心态以及未来路径。内容不涉及金融市场或美股。",
+      "summary_en": "Men's winner Andreas Almgren sat down with Bloomberg's Randall Williams after his debut victory in the New York City Marathon to discuss his win, the mindset behind it, and his path forward. The content does not involve financial markets or US equities.",
+      "detail_zh": "原文仅简要报道了安德烈亚斯·阿尔姆格伦在纽约马拉松首秀中夺冠后接受彭博社兰德尔·威廉姆斯采访的消息。采访内容涉及他的胜利、夺冠心态以及未来前进方向，但未提供任何具体细节、数字或引述。其余内容为彭博社电视与市场的推广链接和社交媒体信息，与投资无关。",
+      "detail_en": "The original text only briefly reports that Andreas Almgren, the men's winner in his debut New York City Marathon, sat down with Bloomberg's Randall Williams to discuss his victory, the mindset behind winning, and his path forward. No specific details, numbers, or quotes from the interview are provided. The rest is promotional content for Bloomberg Television and Markets and social media links, unrelated to investing.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "安德烈亚斯·阿尔姆格伦在纽约马拉松首秀中夺冠。",
+          "en": "Andreas Almgren won the New York City Marathon in his debut."
+        },
+        {
+          "zh": "他赛后接受了彭博社兰德尔·威廉姆斯的采访。",
+          "en": "He was interviewed by Bloomberg's Randall Williams after the race."
+        },
+        {
+          "zh": "采访话题包括胜利、夺冠心态和未来路径。",
+          "en": "The interview covered his victory, winning mindset, and path forward."
+        },
+        {
+          "zh": "原文未提供采访的具体内容或引述。",
+          "en": "The original text does not provide specific content or quotes from the interview."
+        }
+      ],
+      "tags": [
+        "sports",
+        "marathon",
+        "interview"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fDgTEGVyyUU",
+      "title": "Trump Delivers Final Midterm Message at Lincoln Memorial Reflecting Pool",
+      "title_zh": "特朗普中期选举最后拉票，提及伊朗协议可能性",
+      "url": "https://www.youtube.com/watch?v=fDgTEGVyyUU",
+      "published_at": "2026-11-02T21:40:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普在林肯纪念堂前发表中期选举最后拉票演讲，聚焦纪念碑翻新并抨击民主党候选人。他同时表示与伊朗的协议“可能发生”，而选民正评估战争对中期选举的影响。",
+      "summary_en": "President Trump delivered his final midterm pitch at the Lincoln Memorial, focusing on the monument's refurbishment and attacking Democratic candidates. He also said a deal with Iran 'could happen' as voters weigh the war's impact on the midterms.",
+      "detail_zh": "特朗普在林肯纪念堂前的倒影池发表中期选举前的最后拉票演讲。演讲重点包括纪念碑的翻新工程，并对周二选举中的民主党候选人进行猛烈抨击。特朗普还表示，与伊朗的协议“可能发生”。当前选民正在评估战争对其中期选举投票的影响。",
+      "detail_en": "Trump gave his final midterm election pitch in front of the reflecting pool at the Lincoln Memorial. He focused on the refurbishment of the monument and railed against the Democrat candidates up for election on Tuesday. Trump also said that a deal with Iran 'could happen.' Voters are currently weighing the impact of the war on their midterm ballots.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普在林肯纪念堂前发表中期选举最后拉票演讲。",
+          "en": "Trump delivered his final midterm pitch at the Lincoln Memorial."
+        },
+        {
+          "zh": "演讲聚焦纪念碑翻新，并抨击周二选举中的民主党候选人。",
+          "en": "He focused on the monument's refurbishment and attacked Democratic candidates up for election on Tuesday."
+        },
+        {
+          "zh": "特朗普表示与伊朗的协议“可能发生”。",
+          "en": "Trump said a deal with Iran 'could happen.'"
+        },
+        {
+          "zh": "选民正在评估战争对中期选举投票的影响。",
+          "en": "Voters are weighing the impact of the war on their midterm ballots."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "Trump",
+        "Iran",
+        "election"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:WwZy02KV41E",
+      "title": "Ryanair CEO O'Leary on Cost Savings, Fuel Prices, Higher Fares",
+      "title_zh": "瑞安航空CEO：明年燃油成本增20亿欧元，将削减成本并预警票价上涨",
+      "url": "https://www.youtube.com/watch?v=WwZy02KV41E",
+      "published_at": "2026-11-02T21:26:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "瑞安航空CEO Michael O'Leary表示，为抵消明年燃油费用增加20亿欧元（22亿美元）的影响，公司将进行成本削减。他建议消费者尽早预订明年夏季航班，因为票价将显著上涨。",
+      "summary_en": "Ryanair CEO Michael O'Leary said the airline will embark on a cost purge to offset a €2 billion ($2.2 billion) increase in fuel charges next year. He advised consumers to book early for next summer because prices are going to rise significantly.",
+      "detail_zh": "瑞安航空CEO Michael O'Leary在彭博电视采访中表示，公司明年将面临燃油费用增加20亿欧元（约22亿美元）的压力。为应对这一成本上升，瑞安航空将启动一项成本削减计划。O'Leary同时向消费者建议，应尽早预订明年夏季的航班，因为票价将显著上涨。",
+      "detail_en": "Ryanair CEO Michael O'Leary, speaking on Bloomberg Television, said the airline will face a €2 billion ($2.2 billion) increase in fuel charges next year. To help offset this, Ryanair will embark on a cost purge. O'Leary advised consumers to book early for next summer because prices are going to rise significantly.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "瑞安航空明年燃油费用将增加20亿欧元（22亿美元）。",
+          "en": "Ryanair faces a €2 billion ($2.2 billion) increase in fuel charges next year."
+        },
+        {
+          "zh": "公司将通过成本削减来部分抵消燃油成本上升。",
+          "en": "The airline will embark on a cost purge to help offset the higher fuel costs."
+        },
+        {
+          "zh": "CEO建议消费者尽早预订明年夏季航班，因票价将显著上涨。",
+          "en": "The CEO advises consumers to book early for next summer because prices are going to rise significantly."
+        }
+      ],
+      "tags": [
+        "Ryanair",
+        "fuel costs",
+        "airline",
+        "pricing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:KcdNVLT1LDA",
+      "title": "Currie Sees Permanent 'Regime Shift' in Oil Market",
+      "title_zh": "Jeff Currie：实物石油市场正定价能源“体制转变”",
+      "url": "https://www.youtube.com/watch?v=KcdNVLT1LDA",
+      "published_at": "2026-11-02T21:26:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Real Macro 创始人 Jeff Currie 表示，实物石油市场正在定价能源市场的永久性“体制转变”。他指出，布伦特远期合约价格接近每桶 99 美元，而真正的驱动因素并非近期冲突，而是对系统性能源安全和冗余的激进推动。",
+      "summary_en": "Jeff Currie, CEO and founder of Real Macro, says physical oil is pricing in a permanent \"regime shift\" in energy markets. He notes that long-dated Brent contracts are close to $99 a barrel, and the true driver is not near-term conflict but an aggressive push toward system-wide energy security and redundancy.",
+      "detail_zh": "Jeff Currie 在阿布扎比 Adipec 会议上对 Bloomberg 的 Abeer Abu Omar 表示，实物石油市场正在定价能源市场的永久性“体制转变”。他指出，布伦特远期合约价格接近每桶 99 美元。Currie 强调，真正的驱动因素并非近期冲突，而是对系统性能源安全和冗余的激进推动。",
+      "detail_en": "Speaking to Bloomberg's Abeer Abu Omar at the Adipec conference in Abu Dhabi, Jeff Currie said physical oil is pricing in a permanent \"regime shift\" in energy markets. He pointed out that long-dated Brent contracts are close to $99 a barrel. Currie stressed that the true driver is not near-term conflict, but an aggressive push toward system-wide energy security and redundancy.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "实物石油市场正在定价能源市场的永久性“体制转变”。",
+          "en": "Physical oil is pricing in a permanent \"regime shift\" in energy markets."
+        },
+        {
+          "zh": "布伦特远期合约价格接近每桶 99 美元。",
+          "en": "Long-dated Brent contracts are close to $99 a barrel."
+        },
+        {
+          "zh": "真正的驱动因素并非近期冲突，而是对系统性能源安全和冗余的激进推动。",
+          "en": "The true driver is not near-term conflict, but an aggressive push toward system-wide energy security and redundancy."
+        }
+      ],
+      "tags": [
+        "oil",
+        "energy",
+        "regime shift",
+        "Brent",
+        "energy security"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:8PP21d0nEsY",
+      "title": "Yardeni Says Bond Vigilantes Are Allocating Credit Properly",
+      "title_zh": "Yardeni：AI交易放缓对股债均有利，维持标普500年终目标",
+      "url": "https://www.youtube.com/watch?v=8PP21d0nEsY",
+      "published_at": "2026-11-02T21:25:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Yardeni Research总裁Edward Yardeni表示，AI交易的放缓对股票和债券都是好事，并维持其对标普500指数的年终目标。",
+      "summary_en": "Edward Yardeni, president of Yardeni Research, says the slowdown in the AI trade is a good thing for both stocks and bonds, and he maintains his year-end target for the S&P 500.",
+      "detail_zh": "Yardeni Research总裁Edward Yardeni在彭博电视上表示，AI交易的放缓对股票和债券市场都是有利的。他同时表示，维持其对标普500指数的年终目标不变。原文未提供具体目标点位、放缓原因或详细逻辑。",
+      "detail_en": "Edward Yardeni, president of Yardeni Research, said on Bloomberg Television that the slowdown in the AI trade is a good thing for both stocks and bonds. He also said he is holding to his year-end target for the S&P 500. The original text does not provide the specific target level, the reasons for the slowdown, or detailed reasoning.",
+      "conclusion_zh": "Yardeni认为AI交易放缓对股债市场是积极信号，并维持标普500年终目标，暗示其对美股前景仍持建设性态度。",
+      "conclusion_en": "Yardeni views the AI trade slowdown as a positive signal for both stocks and bonds, and maintains his S&P 500 year-end target, suggesting a constructive stance on U.S. equities.",
+      "key_points": [
+        {
+          "zh": "Yardeni认为AI交易放缓对股票和债券均有利。",
+          "en": "Yardeni believes the slowdown in the AI trade is good for both stocks and bonds."
+        },
+        {
+          "zh": "Yardeni维持对标普500指数的年终目标。",
+          "en": "Yardeni holds to his year-end target for the S&P 500."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "S&P 500",
+        "market outlook"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:nd5FKsEM0Zg",
+      "title": "Bridgit Mendler on building the ground network for space",
+      "title_zh": "Northwood Space CEO：地面基础设施未跟上太空创新步伐",
+      "url": "https://www.youtube.com/watch?v=nd5FKsEM0Zg",
+      "published_at": "2026-11-02T21:16:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Northwood Space CEO Bridgit Mendler 指出，太空产业创新迅速，但地面基础设施未能同步发展。该公司正在构建端到端地面基础设施和软件定义网络，以连接低地球轨道卫星与地球，目前已在九个国家部署站点。",
+      "summary_en": "Northwood Space CEO Bridgit Mendler says ground infrastructure hasn't kept pace with innovation in the space industry. The company is building end-to-end ground infrastructure and software-defined networks to connect satellites in low Earth orbit with Earth, with sites currently being deployed across nine countries.",
+      "detail_zh": "Northwood Space CEO Bridgit Mendler 表示，太空行业创新不断，但地面基础设施的发展未能跟上步伐。该公司致力于构建端到端的地面基础设施和软件定义网络，旨在连接低地球轨道（LEO）卫星与地球。目前，Northwood Space 正在九个国家部署相关站点。",
+      "detail_en": "Northwood Space CEO Bridgit Mendler says ground infrastructure hasn't kept pace with innovation in the space industry. The company is building end-to-end ground infrastructure and software-defined networks to connect satellites in low Earth orbit with Earth. Sites are currently being deployed across nine countries.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Northwood Space CEO 指出地面基础设施未跟上太空创新。",
+          "en": "Northwood Space CEO says ground infrastructure hasn't kept pace with space innovation."
+        },
+        {
+          "zh": "公司构建端到端地面基础设施和软件定义网络，连接低轨卫星与地球。",
+          "en": "The company builds end-to-end ground infrastructure and software-defined networks to connect LEO satellites with Earth."
+        },
+        {
+          "zh": "站点正在九个国家部署。",
+          "en": "Sites are being deployed across nine countries."
+        }
+      ],
+      "tags": [
+        "space",
+        "satellite",
+        "infrastructure",
+        "networking"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:cykinwAYQPw",
+      "title": "Oaktree's Marks on Long-term Investing",
+      "title_zh": "霍华德·马克斯：构建可长期表现的投资组合",
+      "url": "https://www.youtube.com/watch?v=cykinwAYQPw",
+      "published_at": "2026-11-02T21:11:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "橡树资本联席主席霍华德·马克斯在彭博《中国秀》节目中表示，投资者应构建一个能够在长期内表现良好的资产组合。",
+      "summary_en": "Howard Marks, Co-Chair at Oaktree Capital Management, said on Bloomberg's \"The China Show\" that investors should build a portfolio of assets that can perform over the long term.",
+      "detail_zh": "霍华德·马克斯在彭博电视节目《中国秀》的独家访谈中表示，投资者应构建一个能够在长期内表现良好的资产组合。原文仅包含这一核心观点，未提供具体的资产配置建议、市场展望或风险提示。",
+      "detail_en": "In an exclusive interview on Bloomberg Television's \"The China Show,\" Howard Marks said investors should build a portfolio of assets that can perform over the long term. The original text contains only this core view, without specific asset allocation advice, market outlook, or risk warnings.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "霍华德·马克斯建议投资者构建可长期表现的资产组合。",
+          "en": "Howard Marks advises investors to build a portfolio that can perform over the long term."
+        }
+      ],
+      "tags": [
+        "Howard Marks",
+        "Oaktree",
+        "long-term investing",
+        "portfolio construction"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:7a_S5UJ9ki0",
+      "title": "Learjet Plummets to Ground in Florida Neighborhood",
+      "title_zh": "一架从奥斯汀飞往巴哈马的里尔喷气机在佛罗里达州坠毁，机上9人全部遇难",
+      "url": "https://www.youtube.com/watch?v=7a_S5UJ9ki0",
+      "published_at": "2026-11-02T21:10:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "周日，一架从奥斯汀飞往巴哈马的里尔喷气机在佛罗里达州棕榈滩县坠毁，机上9人全部遇难。该事件为突发新闻，与美股市场无直接关联。",
+      "summary_en": "A Learjet flying from Austin to the Bahamas crashed in Palm Beach County, Florida, on Sunday, killing all nine people on board. This is breaking news with no direct relevance to U.S. equity markets.",
+      "detail_zh": "周日，一架从奥斯汀飞往巴哈马的里尔喷气机在佛罗里达州棕榈滩县坠毁，机上9人全部遇难。视频显示了经核实的坠机后画面。该内容为突发新闻播报，未涉及任何金融市场、经济或科技相关信息。",
+      "detail_en": "A Learjet flying from Austin to the Bahamas crashed in Palm Beach County, Florida, on Sunday, killing all nine people on board. The video shows verified footage of the aftermath of the incident. This is breaking news coverage and does not contain any financial market, economic, or technology-related information.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "一架从奥斯汀飞往巴哈马的里尔喷气机在佛罗里达州棕榈滩县坠毁。",
+          "en": "A Learjet flying from Austin to the Bahamas crashed in Palm Beach County, Florida."
+        },
+        {
+          "zh": "机上9人全部遇难。",
+          "en": "All nine people on board were killed."
+        },
+        {
+          "zh": "视频显示了经核实的坠机后画面。",
+          "en": "The video shows verified footage of the aftermath of the incident."
+        }
+      ],
+      "tags": [
+        "aviation accident",
+        "breaking news",
+        "Florida"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_lFIxELgYeg",
+      "title": "Feud Erupts in Michigan as El-Sayed Rival Backs GOP’s Rogers",
+      "title_zh": "密歇根州民主党初选落败者转而支持共和党候选人，党内分歧加剧",
+      "url": "https://www.youtube.com/watch?v=_lFIxELgYeg",
+      "published_at": "2026-11-02T21:05:59+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在密歇根州联邦参议员民主党初选中落败的众议员 Haley Stevens 转而支持共和党候选人 Mike Rogers，与民主党提名人 Abdul El-Sayed 决裂，加剧了进步派与温和派之间的分裂。",
+      "summary_en": "Representative Haley Stevens, who lost the Democratic primary for Michigan's US Senate seat, backed Republican candidate Mike Rogers, breaking with Democratic nominee Abdul El-Sayed and exacerbating a split between progressives and moderate party members.",
+      "detail_zh": "众议员 Haley Stevens 在密歇根州联邦参议员民主党初选中失利后，公开支持共和党候选人 Mike Rogers。此举使她与民主党提名人 Abdul El-Sayed 决裂。报道指出，这一背书加剧了民主党内部进步派与温和派之间的分裂。原文未提供更多政策细节或市场影响分析。",
+      "detail_en": "Representative Haley Stevens, after losing the Democratic primary for Michigan's US Senate seat, publicly backed Republican candidate Mike Rogers. This breaks with Democratic nominee Abdul El-Sayed. The report notes that the endorsement exacerbates the split between progressives and moderate party members. The original text provides no further policy details or market impact analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Haley Stevens 在密歇根州参议员民主党初选中落败。",
+          "en": "Haley Stevens lost the Democratic primary for Michigan's US Senate seat."
+        },
+        {
+          "zh": "她转而支持共和党候选人 Mike Rogers。",
+          "en": "She backed Republican candidate Mike Rogers."
+        },
+        {
+          "zh": "此举使她与民主党提名人 Abdul El-Sayed 决裂。",
+          "en": "This breaks with Democratic nominee Abdul El-Sayed."
+        },
+        {
+          "zh": "该事件加剧了民主党内部进步派与温和派的分裂。",
+          "en": "The event exacerbates the split between progressives and moderate party members."
+        }
+      ],
+      "tags": [
+        "Michigan Senate",
+        "Democratic primary",
+        "party split",
+        "endorsement"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:hOs4Uf-wgwQ",
+      "title": "ETF Anthropic Exposure, Political Funds, BOJ Unwinds ETFs",
+      "title_zh": "Bloomberg ETF IQ 讨论 Anthropic ETF、国会交易与另类策略",
+      "url": "https://www.youtube.com/watch?v=hOs4Uf-wgwQ",
+      "published_at": "2026-11-02T21:00:36+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期 Bloomberg ETF IQ 节目聚焦全球 ETF 行业的机会与风险，嘉宾讨论了 Anthropic 相关 ETF 的风险与私募股权估值、市场分散化与重新思考标普500、亚洲 ETF 与金融网红、NANC 等追踪国会交易的 ETF、体育博彩 ETF、比特币 ETF 以及加拿大另类 ETF 与市场对冲策略。",
+      "summary_en": "This episode of Bloomberg ETF IQ focuses on opportunities and risks in the global ETF industry, with guests discussing Anthropic-related ETF risks and private share valuation, market diversification and rethinking the S&P 500, ETFs in Asia and finfluencers, ETFs tracking congressional trades such as NANC, sports betting ETFs, Bitcoin ETFs, and alternative ETFs and market hedges in Canada.",
+      "detail_zh": "节目由 Bloomberg ETF IQ 出品，关注规模达数万亿美元的全球 ETF 行业。嘉宾包括 Active Investment Company Alliance 创始人兼执行主席 John Cole Scott、Tema ETFs 投资策略主管 Paisley Nardini、Subversive ETFs 投资组合经理 Dan Weiskopf 以及加拿大国家银行资本市场的 Linda Ma。讨论议题涵盖：Anthropic 相关 ETF 及其风险、私募股份估值、从 SpaceX 案例中吸取的教训；市场分散化、重新思考标普500、亚洲 ETF 与 ETF 金融网红；ETF IQ 深入分析 NANC，以及国会交易、国会表现为何跑赢、两党投资和国会交易方式；体育博彩 ETF、ETF 生命周期、比特币 ETF；最后 Linda Ma 讨论另类 ETF、另类策略、市场对冲以及加拿大 ETF。",
+      "detail_en": "The program is produced by Bloomberg ETF IQ and focuses on the multi-trillion-dollar global ETF industry. Guests include John Cole Scott, Founder & Executive Chair of Active Investment Company Alliance; Paisley Nardini, Head of Investment Strategy at Tema ETFs; Dan Weiskopf, Portfolio Manager at Subversive ETFs; and Linda Ma of National Banks of Canada Capital Markets. Topics covered include: Anthropic-related ETFs and their risks, valuing private shares, lessons from SpaceX; market diversification, rethinking the S&P 500, ETFs in Asia and ETF finfluencers; an ETF IQ drill down on NANC, congressional trades, why Congress outperforms, bipartisan investing and how Congress trades; sports betting ETFs, ETF lifecycle, Bitcoin ETFs; and finally Linda Ma on alternative ETFs, alternative strategies, market hedges and ETFs in Canada.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论 Anthropic 相关 ETF 的风险与私募股份估值，并借鉴 SpaceX 的教训。",
+          "en": "Discussion of risks in Anthropic-related ETFs and valuation of private shares, drawing lessons from SpaceX."
+        },
+        {
+          "zh": "探讨市场分散化、重新思考标普500以及亚洲 ETF 与金融网红的影响。",
+          "en": "Exploration of market diversification, rethinking the S&P 500, and the influence of ETFs in Asia and finfluencers."
+        },
+        {
+          "zh": "深入分析 NANC 等追踪国会交易的 ETF，包括国会为何跑赢及两党投资。",
+          "en": "In-depth analysis of ETFs tracking congressional trades such as NANC, including why Congress outperforms and bipartisan investing."
+        },
+        {
+          "zh": "覆盖体育博彩 ETF、ETF 生命周期和比特币 ETF 等细分主题。",
+          "en": "Coverage of niche topics including sports betting ETFs, ETF lifecycle, and Bitcoin ETFs."
+        },
+        {
+          "zh": "Linda Ma 分享加拿大另类 ETF、另类策略与市场对冲观点。",
+          "en": "Linda Ma shares views on alternative ETFs, alternative strategies, and market hedges in Canada."
+        }
+      ],
+      "tags": [
+        "ETF",
+        "Anthropic",
+        "Congress Trades",
+        "Bitcoin ETF",
+        "Alternative Strategies"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:rY7g_16woEM",
       "title": "Tariffs Hurt Michigan, Says Detroit Chamber President",
