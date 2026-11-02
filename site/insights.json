@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-11-02T16:17:32.840330+00:00",
+  "generated_at": "2026-11-02T17:14:23.304083+00:00",
   "insights": [
+    {
+      "guid": "yt:SFi5tm0qcaA",
+      "title": "The Signal Roundtable: The Future of Digital Assets",
+      "title_zh": "摩根士丹利圆桌：数字资产进入代币化与产品化新阶段",
+      "url": "https://www.youtube.com/watch?v=SFi5tm0qcaA",
+      "published_at": "2026-11-02T16:55:48+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "摩根士丹利多位高管在数字资产圆桌讨论中指出，分布式账本技术经过15年以上发展，近12-18个月机构兴趣与公司活动显著升温，驱动力包括现金流动性、抵押品效率和新资产类别的机会与期权性。代币化已非未来主题而是当下现实，预计随着现实世界资产上链将快速普及。财富管理端客户渗透率仍低，但需求增长，公司已推出比特币、以太坊和Solana ETP以提供选择。",
+      "summary_en": "Morgan Stanley executives at a digital assets roundtable noted that after more than 15 years of distributed ledger technology development, institutional interest and company activity have ramped up significantly over the past 12-18 months, driven by cash mobility, collateral efficiency, and opportunity/optionality in a new asset class. Tokenization is a today subject, not a future one, with rapid adoption anticipated as real-world assets come on-chain. Wealth management client penetration remains low but demand is growing, and the firm has launched Bitcoin, Ethereum, and Solana ETPs to offer choice.",
+      "detail_zh": "摩根士丹利数字资产策略主管Amy Oldenburg主持圆桌，与全球银行及多元化金融研究主管Betsy Graseck、财富管理投资策略师Denny Galindo、投资管理全球ETF主管Ally Wallace讨论数字资产。Graseck指出，机构侧讨论分布式账本技术已超15年，但过去一年投资者提问、兴趣及公司活动明显增加，原因有三：现金流动性、抵押品效率、新资产类别的机会与期权性，且技术加速使这些因素汇聚，新领域存在盈利机会。Galindo回顾2017年多为创意和大潜在市场但缺乏实际活动，此后比特币逐步形成“数字黄金”的产品市场契合，过去十年缓慢机构化，流动性、交易量改善，但客户实际投资加密货币的比例仍低，类似新兴市场股票或高收益债，并非人人使用但应有机会使用。Oldenburg提到公司正推进代币化产品及数字现金腿等组件数字化，以减少摩擦点；Graseck引用历史经验称，减少摩擦和结算时间通常会自然加速市场交易量和周转率，并强调“J曲线”在金融市场中非常陡峭，代币化是“今天的话题”而非未来话题，预计随着现实世界资产上链将快速普及。Wallace表示，推出以太坊和Solana ETP源于投资者需求，ETP占整体加密资产管理规模或市值比例仍低，处于早期阶段；ETP整体仅推出两年半，在金融创新中两年非常早期，公司看到机会并希望提供选择。比特币ETP自4月9日推出以来规模超4亿美元，尽管比特币今年价格走势偏横盘，资金流入仍相对强劲。",
+      "detail_en": "Amy Oldenburg, Head of Digital Asset Strategy at Morgan Stanley, moderated a roundtable with Betsy Graseck, Global Head of Banks and Diversified Finance Research; Denny Galindo, Investment Strategist at Morgan Stanley Wealth Management; and Ally Wallace, Global Head of ETFs at Morgan Stanley Investment Management. Graseck noted that the institutional side has discussed distributed ledger technology for more than 15 years, but over the past year investor questions, interest, and company activity have increased notably, driven by three factors: cash mobility, collateral efficiency, and opportunity and optionality in a new asset class, with accelerating technology bringing these together and money to be made in the new space. Galindo recalled that in 2017 there were many creative ideas with large addressable markets but little actual activity; since then Bitcoin has gradually achieved product-market fit as a digital gold-type asset, with slow institutionalization over the past decade and better liquidity and volumes, yet few clients actually invest in crypto—similar to emerging market equities or high yield bonds, not for everyone but everyone should have the chance to use it. Oldenburg mentioned the firm is working on tokenized products and digitization of components such as the digital cash leg to reduce friction points. Graseck cited history that reducing friction and settlement time tends to naturally accelerate market volumes and velocity, and emphasized the J-curve of activity is very sharp in financial markets; tokenization is a today subject, not a future one, with rapid adoption anticipated as real-world assets come on-chain. Wallace said the launch of Ethereum and Solana ETPs stems from investor demand; ETPs as a percentage of overall crypto AUM or market cap remain quite low, so it is early stages, and ETPs generally only launched two and a half years ago—very early for financial innovation—and the firm sees opportunity and wants to offer choice. The Bitcoin ETP launched April 9 has surpassed $400 million despite Bitcoin's sideways price path this year, with inflows reasonably strong.",
+      "conclusion_zh": "代币化与数字资产产品化正从概念走向落地，机构需求真实存在且处于早期，值得关注现实世界资产上链及ETP资金流对美股相关板块的边际影响。",
+      "conclusion_en": "Tokenization and digital asset productization are moving from concept to reality, with genuine institutional demand still in early stages; watch real-world asset on-chain adoption and ETP flows for marginal impact on relevant US equity sectors.",
+      "key_points": [
+        {
+          "zh": "机构对代币化的兴趣近12-18个月显著升温，驱动力为现金流动性、抵押品效率及新资产类别的机会与期权性。",
+          "en": "Institutional interest in tokenization has ramped up notably over the past 12-18 months, driven by cash mobility, collateral efficiency, and opportunity/optionality in a new asset class."
+        },
+        {
+          "zh": "代币化是“今天的话题”而非未来主题，预计随着现实世界资产上链将快速普及，金融市场活动J曲线非常陡峭。",
+          "en": "Tokenization is a today subject, not a future one, with rapid adoption anticipated as real-world assets come on-chain; the J-curve of activity in financial markets is very sharp."
+        },
+        {
+          "zh": "财富管理客户实际投资加密货币的比例仍低，类似新兴市场股票或高收益债，但应让有意愿的客户获得 access。",
+          "en": "Few wealth management clients actually invest in crypto—similar to emerging market equities or high yield bonds—but those who want access should have the chance."
+        },
+        {
+          "zh": "摩根士丹利推出以太坊和Solana ETP，源于投资者需求；ETP占加密资产管理规模比例仍低，处于早期阶段。",
+          "en": "Morgan Stanley launched Ethereum and Solana ETPs due to investor demand; ETPs as a percentage of crypto AUM remain low, indicating early stages."
+        },
+        {
+          "zh": "比特币ETP自4月9日推出以来规模超4亿美元，尽管比特币今年价格走势偏横盘，资金流入仍相对强劲。",
+          "en": "The Bitcoin ETP has surpassed $400 million since its April 9 launch, with reasonably strong inflows despite Bitcoin's sideways price path this year."
+        }
+      ],
+      "tags": [
+        "tokenization",
+        "digital assets",
+        "ETFs",
+        "crypto",
+        "institutional adoption"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:JQZkM3iXIpw",
+      "title": "Bloomberg Surveillance 11/2/2026",
+      "title_zh": "彭博监控：科技股反弹与AI资金压力，大选前夕市场分歧",
+      "url": "https://www.youtube.com/watch?v=JQZkM3iXIpw",
+      "published_at": "2026-11-02T16:16:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博监控讨论了科技股反弹、AI融资压力及大选前夕的市场情绪。嘉宾对美股走势看法分歧：Yardeni坚持标普500将达7900点，而Dutta认为美联储可能需加息四到五次；AI板块回调被部分人视为买入机会，也有人警告泡沫正在泄气。",
+      "summary_en": "This episode of Bloomberg Surveillance covers the tech rebound, AI funding strains, and market sentiment on election eve. Guests are divided on the US equity outlook: Yardeni maintains an S&P 500 target of 7,900, while Dutta suggests the Fed may need four or five rate hikes; the AI selloff is seen by some as a buying opportunity, while others warn the bubble is deflating.",
+      "detail_zh": "节目首先讨论科技股反弹、AI融资压力以及大选前夕的市场环境。Yardeni Research的Edward Yardeni认为标普500仍有望达到7,900点。Raymond James的Ed Mills讨论了密歇根州Stevens的背书可能适得其反。Cleo Capital的Sarah Kunst指出OpenAI的融资困境可能减缓风险投资。Renaissance Macro的Neil Dutta认为美联储可能需要加息四到五次。JPMorgan Asset Management的Jordan Jackson将AI抛售视为买入机会。Cook Political Report的Jessica Taylor认为El-Sayed在密歇根州略有优势。Barclays的Ajay Rajadhyaksha认为抛售是对神经的考验，而非牛市的终结。BMO Global Asset Management的Earl Davis认为10年期TIPS是对冲AI的完美工具。Crossmark Global Investments的Bob Doll认为AI泡沫正在泄气。DA Davidson的Gil Luria指出苹果因未参与AI资本开支竞赛而受益。The Conference Board的Yelena Shulyatyeva认为石油仍是最大的通胀风险。Kayne Anderson Rudnick的Julie Biel认为AI融资热潮正在考验投资者的胃口。",
+      "detail_en": "The program begins with a discussion of the tech rebound, AI funding strains, and the market environment on election eve. Edward Yardeni of Yardeni Research believes the S&P 500 is still on track for 7,900. Ed Mills of Raymond James discusses how Stevens' endorsement may be backfiring in Michigan. Sarah Kunst of Cleo Capital notes that OpenAI's funding struggles could slow venture capital. Neil Dutta of Renaissance Macro suggests the Fed may need four or five rate hikes. Jordan Jackson of JPMorgan Asset Management sees the AI selloff as a buying opportunity. Jessica Taylor of The Cook Political Report gives El-Sayed a slight edge in Michigan. Ajay Rajadhyaksha of Barclays views the selloff as a test of nerves, not the end of the bull market. Earl Davis of BMO Global Asset Management considers 10-year TIPS a perfect hedge for AI. Bob Doll of Crossmark Global Investments says the AI bubble is deflating. Gil Luria of DA Davidson notes Apple benefits from sitting out the AI CapEx race. Yelena Shulyatyeva of The Conference Board sees oil as the biggest inflation risk. Julie Biel of Kayne Anderson Rudnick says the AI funding boom is testing investor appetite.",
+      "conclusion_zh": "市场对AI交易和美联储政策路径存在明显分歧，投资者需关注AI资本开支的可持续性及通胀风险。",
+      "conclusion_en": "There is clear divergence on the AI trade and the Fed's policy path; investors should watch the sustainability of AI capex and inflation risks.",
+      "key_points": [
+        {
+          "zh": "Yardeni Research的Edward Yardeni认为标普500仍有望达到7,900点。",
+          "en": "Edward Yardeni of Yardeni Research believes the S&P 500 is still on track for 7,900."
+        },
+        {
+          "zh": "Renaissance Macro的Neil Dutta认为美联储可能需要加息四到五次。",
+          "en": "Neil Dutta of Renaissance Macro suggests the Fed may need four or five rate hikes."
+        },
+        {
+          "zh": "JPMorgan的Jordan Jackson将AI抛售视为买入机会，而Crossmark的Bob Doll认为AI泡沫正在泄气。",
+          "en": "Jordan Jackson of JPMorgan sees the AI selloff as a buying opportunity, while Bob Doll of Crossmark believes the AI bubble is deflating."
+        },
+        {
+          "zh": "Barclays的Ajay Rajadhyaksha认为抛售是对神经的考验，而非牛市的终结。",
+          "en": "Ajay Rajadhyaksha of Barclays views the selloff as a test of nerves, not the end of the bull market."
+        },
+        {
+          "zh": "BMO的Earl Davis认为10年期TIPS是对冲AI的完美工具；DA Davidson的Gil Luria指出苹果因未参与AI资本开支竞赛而受益。",
+          "en": "Earl Davis of BMO considers 10-year TIPS a perfect hedge for AI; Gil Luria of DA Davidson notes Apple benefits from sitting out the AI CapEx race."
+        }
+      ],
+      "tags": [
+        "AI",
+        "Fed",
+        "S&P 500",
+        "election",
+        "inflation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:1rtU0qW3RdQ",
       "title": "市場調整の次の局面",
