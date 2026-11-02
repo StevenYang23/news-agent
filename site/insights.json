@@ -1,6 +1,144 @@
 {
-  "generated_at": "2026-11-02T17:14:23.304083+00:00",
+  "generated_at": "2026-11-02T18:18:10.069853+00:00",
   "insights": [
+    {
+      "guid": "yt:tXL3NFLCh_A",
+      "title": "Open Interest 11/2/2026",
+      "title_zh": "科技股反弹，但Marks称AI“不可错”泡沫已破；Anthropic季度营收近170亿美元",
+      "url": "https://www.youtube.com/watch?v=tXL3NFLCh_A",
+      "published_at": "2026-11-02T17:25:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "科技股反弹之际，Oaktree的Howard Marks认为AI“不可错”的泡沫已经破裂。Anthropic在潜在重磅IPO前公布季度营收近170亿美元。节目还讨论了中期选举风险、AI监管、苹果财报及AI支出担忧。",
+      "summary_en": "Tech stocks bounced back, but Oaktree's Howard Marks said AI's bubble of infallibility has burst. Anthropic posted nearly $17 billion in quarterly revenue ahead of a potential blockbuster IPO. The program also covered midterm election risks, AI regulation, Apple earnings and AI spending concerns.",
+      "detail_zh": "本期Bloomberg Open Interest节目由Dani Burger主持。科技股出现反弹，但Oaktree的Howard Marks表示，AI“不可错”的泡沫已经破裂。Anthropic在可能的重磅IPO前公布季度营收接近170亿美元。节目讨论了OpenAI融资困境与AI资本疲劳，以及苹果财报、AI支出担忧和2000美元iPhone的争论。政治方面，Kim Wallace讨论了中期选举、华盛顿风险以及AI监管的下一场战斗。个股方面涉及Marvell-Lumentum交易、标普指数调整和Teva挫折，以及SpaceX-EchoStar谈判与电信 disruption。Citi的Stuart Kaiser讨论了AI交易拥挤、选举风险和市场轮动。节目还涉及Anthropic的支出、谷歌合作与AI经济学，ISM制造业与通胀压力及美联储预期，Franklin Templeton的Katrina Dudley讨论市场拓宽、医疗保健机会与AI赢家，RBC Capital的Amy Wu Silverman讨论中期选举波动、AI轮动与期权市场信号，以及Standard Chartered的Suki Cooper讨论黄金回归、通胀对冲与选举年波动。",
+      "detail_en": "The Bloomberg Open Interest program was hosted by Dani Burger. Tech stocks bounced back, but Oaktree's Howard Marks said AI's bubble of infallibility has burst. Anthropic posted nearly $17 billion in quarterly revenue ahead of a potential blockbuster IPO. The program discussed OpenAI fundraising struggles and AI capital fatigue, as well as Apple earnings, AI spending concerns and the $2,000 iPhone debate. On politics, Kim Wallace discussed the midterms, Washington risk and the next battle over AI regulation. Single-stock topics included the Marvell-Lumentum deal, S&P index changes and a Teva setback, plus SpaceX-EchoStar talks and telecom disruption. Citi's Stuart Kaiser discussed AI trade crowding, election risks and market rotation. The program also covered Anthropic's spending, Google partnership and AI economics, ISM manufacturing and inflation pressures and Fed expectations, Franklin Templeton's Katrina Dudley on market broadening, healthcare opportunities and AI winners, RBC Capital's Amy Wu Silverman on midterm volatility, AI rotation and options market signals, and Standard Chartered's Suki Cooper on gold's comeback, inflation hedges and election-year volatility.",
+      "conclusion_zh": "AI板块情绪出现分化：Marks警示“不可错”泡沫已破，而Anthropic营收高增与IPO计划显示资本仍在涌入；投资者需关注AI交易拥挤度、中期选举波动及期权市场信号。",
+      "conclusion_en": "AI sentiment is diverging: Marks warns the bubble of infallibility has burst, while Anthropic's strong revenue and IPO plans show capital still flowing in; investors should watch AI trade crowding, midterm volatility and options market signals.",
+      "key_points": [
+        {
+          "zh": "Oaktree的Howard Marks表示，AI“不可错”的泡沫已经破裂。",
+          "en": "Oaktree's Howard Marks said AI's bubble of infallibility has burst."
+        },
+        {
+          "zh": "Anthropic在潜在重磅IPO前公布季度营收接近170亿美元。",
+          "en": "Anthropic posted nearly $17 billion in quarterly revenue ahead of a potential blockbuster IPO."
+        },
+        {
+          "zh": "节目讨论了OpenAI融资困境与AI资本疲劳。",
+          "en": "The program discussed OpenAI fundraising struggles and AI capital fatigue."
+        },
+        {
+          "zh": "Citi的Stuart Kaiser讨论了AI交易拥挤、选举风险和市场轮动。",
+          "en": "Citi's Stuart Kaiser discussed AI trade crowding, election risks and market rotation."
+        },
+        {
+          "zh": "RBC Capital的Amy Wu Silverman讨论了中期选举波动、AI轮动与期权市场信号。",
+          "en": "RBC Capital's Amy Wu Silverman discussed midterm volatility, AI rotation and options market signals."
+        }
+      ],
+      "tags": [
+        "AI",
+        "Anthropic",
+        "midterms",
+        "options",
+        "tech stocks"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-xQjSO6P1I4",
+      "title": "Anthropic Revenue Hits Nearly $17 Billion Before Mega-IPO",
+      "title_zh": "Anthropic第三季度营收近170亿美元，同比增长12倍",
+      "url": "https://www.youtube.com/watch?v=-xQjSO6P1I4",
+      "published_at": "2026-11-02T17:14:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic PBC报告截至9月30日的第三季度营收接近170亿美元，较去年同期增长12倍。这一数据预计将加剧市场对该公司潜在创纪录IPO的期待。彭博行业研究科技研究全球主管Mandeep Singh就该报告及公司公开上市前景进行了讨论。",
+      "summary_en": "Anthropic PBC reported third-quarter revenue of nearly $17 billion as of Sept. 30, a twelve-fold increase versus the same period a year ago. The figure is set to stoke anticipation for the AI lab's potentially record-breaking IPO. Mandeep Singh, Bloomberg Intelligence Global Head of Tech Research, discussed the report and the company's public trading debut outlook.",
+      "detail_zh": "Anthropic PBC披露，截至9月30日的第三季度营收接近170亿美元。该营收较去年同期增长12倍。这一强劲增长预计将加剧市场对该公司潜在创纪录IPO的期待。彭博行业研究科技研究全球主管Mandeep Singh就这份营收报告进行了讨论，并展望了公司的公开上市交易。原文未提供更多关于IPO时间、估值或具体财务细节的信息。",
+      "detail_en": "Anthropic PBC reported third-quarter revenue of nearly $17 billion as of Sept. 30. That represents a twelve-fold increase compared with the same period a year earlier. The strong growth is set to stoke anticipation for the company's potentially record-breaking IPO. Mandeep Singh, Bloomberg Intelligence Global Head of Tech Research, discussed the revenue report and looked ahead to the company's public trading debut. The original text does not provide further details on IPO timing, valuation, or specific financials.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic第三季度营收接近170亿美元。",
+          "en": "Anthropic's Q3 revenue was nearly $17 billion."
+        },
+        {
+          "zh": "营收同比增长12倍。",
+          "en": "Revenue increased twelve-fold year-over-year."
+        },
+        {
+          "zh": "强劲增长可能加剧市场对创纪录IPO的期待。",
+          "en": "The strong growth may stoke anticipation for a potentially record-breaking IPO."
+        },
+        {
+          "zh": "彭博行业研究科技研究全球主管Mandeep Singh讨论了该报告及上市前景。",
+          "en": "Mandeep Singh, Bloomberg Intelligence Global Head of Tech Research, discussed the report and IPO outlook."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "revenue growth",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:2cW4rzK6fHw",
+      "title": "Trump Banks on Rallies to Turn Out MAGA Faithful Again",
+      "title_zh": "特朗普收官造势，中期选举民主党有望夺回众议院",
+      "url": "https://www.youtube.com/watch?v=2cW4rzK6fHw",
+      "published_at": "2026-11-02T17:13:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普以全国巡回造势结束竞选活动，试图激发核心支持者。多数民调显示民主党有望获得所需的三个众议院席位，且参议院选情在七个席位胶着。耶鲁管理学院讲师Gautam Mukunda就中期选举发表看法。",
+      "summary_en": "Donald Trump capped his final electoral campaign with a whirlwind sprint across the country, hoping to turn out his most fervent supporters. Most surveys give Democrats strong odds of gaining the three congressional seats needed to take control of the House, and Democrats are increasingly optimistic about multiple routes to the Senate, with seven seats closely locked in the polls. Gautam Mukunda, lecturer at Yale School of Management and Bloomberg Opinion contributor, offers his midterm take.",
+      "detail_zh": "特朗普以全国巡回造势的方式结束其竞选活动，试图在政治生涯的尾声激发最狂热支持者的投票热情，并阻止民主党削弱其权力的计划。多数调查显示，民主党有较大可能获得控制众议院所需的三个席位。民主党对参议院选情也日益乐观，认为有多条路径取胜，目前有七个席位的民调结果非常接近。耶鲁管理学院讲师、彭博观点撰稿人Gautam Mukunda就中期选举发表了看法。",
+      "detail_en": "Donald Trump capped his final electoral campaign the way he began over a decade ago: hoping a whirlwind sprint across the country will turn out his most fervent supporters and thwart Democratic designs to curtail his power in the sunset of his political career. Most surveys give rival Democrats strong odds of gaining three congressional seats needed to take control of the House, and Democrats are increasingly optimistic that they have multiple routes to the Senate, with seven seats closely locked in the polls. Gautam Mukunda, lecturer at Yale School of Management and Bloomberg Opinion contributor, offers his Midterm take.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普以全国巡回造势结束竞选，旨在激发核心支持者并阻止民主党削弱其权力。",
+          "en": "Trump capped his campaign with a nationwide sprint, aiming to energize core supporters and thwart Democratic efforts to curtail his power."
+        },
+        {
+          "zh": "多数民调显示民主党有望获得控制众议院所需的三个席位。",
+          "en": "Most surveys indicate Democrats are favored to gain the three seats needed to take control of the House."
+        },
+        {
+          "zh": "民主党对参议院选情日益乐观，七个席位的民调结果胶着。",
+          "en": "Democrats are increasingly optimistic about the Senate, with seven seats closely locked in the polls."
+        },
+        {
+          "zh": "耶鲁管理学院的Gautam Mukunda就中期选举发表了看法。",
+          "en": "Gautam Mukunda of Yale School of Management offered his midterm take."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Trump",
+        "Democrats",
+        "House",
+        "Senate"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:SFi5tm0qcaA",
       "title": "The Signal Roundtable: The Future of Digital Assets",
@@ -16742,63 +16880,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "4957573",
-      "title": "Wall Street Lunch: AI Trade Still In Focus",
-      "title_zh": "AI交易动能持续，Anthropic IPO文件与SpaceX债务融资引关注",
-      "url": "https://seekingalpha.com/article/4957573-wall-street-lunch-ai-trade-still-in-focus?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-26T17:18:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "尽管市场波动，AI交易动能仍强，Meta、英伟达、AMD和博通的承诺提振情绪。Anthropic的IPO文件显示营收同比增长1300%，运营亏损大幅收窄，现金储备达1310亿美元。SpaceX通过特殊目的载体债务融资400亿美元购买GPU，有望成为AI/云领域强劲竞争者。",
-      "summary_en": "AI trade momentum remains strong despite market volatility, boosted by commitments from Meta, NVIDIA, AMD, and Broadcom. Anthropic's IPO filing revealed 1300% revenue growth, significantly reduced operating losses, and $131B in cash. SpaceX's $40B debt-financed GPU purchase via a special purpose vehicle positions it as a formidable AI/cloud competitor.",
-      "detail_zh": "美股在关键科技财报和美联储会议前出现逢低买入反应，上周纳指经历大幅抛售后投资者回流。Meta宣布为AI建设融资，股权部分小于预期，且英伟达、AMD和博通有坚定承诺，提振市场情绪。SpaceX通过特殊目的载体进行400亿美元债务融资购买英伟达GPU，高盛、阿波罗等机构参与，该交易被移出资产负债表，降低了风险。Anthropic的S-1文件显示，前六个月营收同比增长1300%至略超160亿美元，运营亏损从略超20亿美元大幅收窄至略低于7亿美元，现金及等价物达1310亿美元，而运营支出仅约90亿美元，表明其资本管理自律。高盛将担任Anthropic IPO的主承销商，而非市场预期的摩根士丹利。美联储本周预计不会加息，市场关注12月是否加息。原油因沙特与伊朗会谈有望缓和局势而下跌。",
-      "detail_en": "U.S. stocks saw a buy-the-dip reaction ahead of key tech earnings and the Fed decision, with investors returning after last week's heavy NASDAQ selloff. Meta announced fundraising for its AI build-out with a smaller equity portion than anticipated, and firm commitments from NVIDIA, AMD, and Broadcom helped sentiment. SpaceX completed $40B in debt financing for NVIDIA GPU purchases via a special purpose vehicle, with Goldman, Apollo, and other firms involved, keeping it off the balance sheet and removing a risk. Anthropic's S-1 showed first-half revenue up 1300% year-over-year to just over $16B, operating loss narrowed significantly to just under $700M from over $2B, and $131B in cash and equivalents against only ~$9B in operating expenses, signaling disciplined capital management. Goldman Sachs will be the lead underwriter for Anthropic's IPO, contrary to expectations of Morgan Stanley. The Fed is not expected to hike this week, with attention on December. Crude oil fell as Saudi defense minister is set to meet Iran's president in Tehran to de-escalate.",
-      "conclusion_zh": "AI基本面持续增强，Anthropic的财务数据和SpaceX的GPU投资显示资本纪律和强劲需求，投资者应关注科技财报和美联储信号，利用市场波动寻找机会。",
-      "conclusion_en": "AI fundamentals continue to strengthen, with Anthropic's financials and SpaceX's GPU investment showing capital discipline and robust demand; investors should watch tech earnings and Fed signals, using volatility for opportunities.",
-      "key_points": [
-        {
-          "zh": "Meta的AI融资股权部分小于预期，且英伟达、AMD和博通有坚定承诺，提振AI交易情绪。",
-          "en": "Meta's AI fundraising equity portion was smaller than expected, with firm commitments from NVIDIA, AMD, and Broadcom boosting AI trade sentiment."
-        },
-        {
-          "zh": "Anthropic的IPO文件显示营收同比增长1300%至超160亿美元，运营亏损大幅收窄，现金储备达1310亿美元。",
-          "en": "Anthropic's IPO filing shows 1300% revenue growth to over $16B, significantly narrowed operating loss, and $131B in cash."
-        },
-        {
-          "zh": "SpaceX通过特殊目的载体债务融资400亿美元购买英伟达GPU，预计投资回报快速，最早明年上半年。",
-          "en": "SpaceX raised $40B in debt via a special purpose vehicle to buy NVIDIA GPUs, expecting fast ROI as soon as 1H next year."
-        },
-        {
-          "zh": "美联储本周预计不会加息，市场关注12月是否加息。",
-          "en": "The Fed is not expected to hike this week; focus is on whether it will hike in December."
-        },
-        {
-          "zh": "原油因沙特与伊朗会谈有望缓和局势而下跌。",
-          "en": "Crude oil fell on hopes that Saudi-Iran talks will de-escalate tensions."
-        }
-      ],
-      "tags": [
-        "AI",
-        "IPO",
-        "Fed",
-        "GPU",
-        "volatility"
-      ],
-      "tickers": [
-        "META",
-        "NVDA",
-        "AMD",
-        "AVGO",
-        "MSFT",
-        "TSLA"
-      ],
-      "sentiment": "positive"
     }
   ]
 }
