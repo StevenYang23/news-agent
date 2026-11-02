@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-11-02T09:20:23.879626+00:00",
+  "generated_at": "2026-11-02T10:15:28.324739+00:00",
   "insights": [
+    {
+      "guid": "yt:kG6z_xeCkdc",
+      "title": "US Midterms & AI Strain: The Global Trader’s Guide",
+      "title_zh": "彭博每日洞察：中期选举、AI交易与亚洲市场动态",
+      "url": "https://www.youtube.com/watch?v=kG6z_xeCkdc",
+      "published_at": "2026-11-02T09:24:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目聚焦美国中期选举对市场、AI交易、国债收益率和美元的影响，同时涵盖富士康与OpenAI合作、Kioxia业绩预警、Kneron的IPO计划以及亚洲股市动态。",
+      "summary_en": "This episode focuses on the impact of US midterms on markets, the AI trade, Treasury yields, and the dollar, while also covering Foxconn's partnership with OpenAI, Kioxia's forecast miss, Kneron's IPO plans, and Asian market movements.",
+      "detail_zh": "节目讨论了美国中期选举后的市场展望，包括对AI交易、国债收益率和美元的影响。富士康董事长刘扬伟谈及与OpenAI的合作。BAI Capital创始管理合伙人龙宇介绍了8亿美元基金。Kioxia因第三季度业绩预告不及预期股价大跌。Kneron创始人兼CEO刘峻诚讨论了在纳斯达克IPO的计划。Reliance第二季度利润超预期股价上涨。中国股市因监管支持报道而上涨。油价因报道称特朗普将给伊朗外交更多时间而下跌。此外，节目还涉及印尼MSCI改革、币安资金外流、中期选举对美国外交政策的影响以及德国抗议活动。",
+      "detail_en": "The program discusses the post-election outlook for markets, including implications for the AI trade, Treasury yields, and the dollar. Foxconn Chairman Young Liu talks about the partnership with OpenAI. BAI Capital Founding and Managing Partner Annabelle Yu Long introduces an $800 million fund. Kioxia shares plunge after a third-quarter forecast miss. Kneron Founder and CEO Albert Liu discusses plans for a Nasdaq IPO. Reliance shares jump after second-quarter profit beats estimates. China stocks rise on a report of regulatory support. Oil slips as a report says Trump will give Iran diplomacy more time. Additionally, the program covers Indonesia's MSCI reforms, Binance outflows, the midterms' impact on US foreign policy, and German protests.",
+      "conclusion_zh": "中期选举后的政策走向可能对AI、国债和美元产生重要影响，投资者需关注相关风险与机会。",
+      "conclusion_en": "Post-midterm policy directions could significantly impact AI, Treasuries, and the dollar; investors should watch related risks and opportunities.",
+      "key_points": [
+        {
+          "zh": "美国中期选举结果可能影响AI交易、国债收益率和美元走势。",
+          "en": "US midterm election results could affect the AI trade, Treasury yields, and the dollar."
+        },
+        {
+          "zh": "富士康与OpenAI达成合作，董事长刘扬伟分享细节。",
+          "en": "Foxconn partners with OpenAI; Chairman Young Liu shares details."
+        },
+        {
+          "zh": "Kioxia因第三季度业绩预告不及预期股价大跌。",
+          "en": "Kioxia shares plunge after third-quarter forecast miss."
+        },
+        {
+          "zh": "Kneron计划在纳斯达克IPO，创始人兼CEO刘峻诚讨论相关计划。",
+          "en": "Kneron plans a Nasdaq IPO; Founder and CEO Albert Liu discusses the plans."
+        },
+        {
+          "zh": "中国股市因监管支持报道而上涨，油价因伊朗外交进展而下跌。",
+          "en": "China stocks rise on regulatory support report; oil falls on Iran diplomacy."
+        }
+      ],
+      "tags": [
+        "US midterms",
+        "AI trade",
+        "Treasury yields",
+        "dollar",
+        "Asia markets"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:KMrvunHdpvQ",
       "title": "The $300 Billion Structured Notes Market Is Booming | Odd Lots",
