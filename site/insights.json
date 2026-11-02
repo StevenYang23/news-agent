@@ -1,6 +1,336 @@
 {
-  "generated_at": "2026-11-02T22:15:30.242801+00:00",
+  "generated_at": "2026-11-02T23:14:00.929413+00:00",
   "insights": [
+    {
+      "guid": "yt:0gnj8gymxes",
+      "title": "Apple Looks Very Smart in Modest AI Spend: Tom Forte",
+      "title_zh": "Maxim分析师关注苹果12月季度iPhone销售及折叠机需求",
+      "url": "https://www.youtube.com/watch?v=0gnj8gymxes",
+      "published_at": "2026-11-02T22:45:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Maxim Group的Tom Forte表示，他特别关注苹果12月季度财报，届时新款iPhone对销售的影响将更清晰。他认为新iPhone双机型的初步需求强劲，并指出市场对折叠iPhone存在压抑已久的兴趣。",
+      "summary_en": "Tom Forte of Maxim Group says he is especially interested in Apple's December-quarter commentary, when the impact of the latest iPhones on sales will be clearer. He sees strong initial demand for the new iPhone duo and points to pent-up interest in a foldable iPhone.",
+      "detail_zh": "Maxim Group分析师Tom Forte在Bloomberg“The Close”节目中表示，他尤其关注苹果12月季度的评论，因为届时最新款iPhone机型将有更多时间影响销售。Forte称，新款iPhone双机型的初步需求看起来强劲。他还指出，在长时间等待后，市场对折叠iPhone存在压抑的兴趣。Forte是在与Kailey Leinz和Ed Ludlow的对话中发表上述观点的。",
+      "detail_en": "Maxim Group analyst Tom Forte said on Bloomberg's \"The Close\" that he is especially interested in commentary on the December quarter, when the latest iPhone models will have had more time to affect sales. Forte said initial demand for the new iPhone duo appears strong. He also pointed to pent-up interest in a foldable iPhone after a long wait. Forte made the comments in conversation with Kailey Leinz and Ed Ludlow.",
+      "conclusion_zh": "关注苹果12月季度财报，以验证新iPhone销售动能及折叠机潜在需求信号。",
+      "conclusion_en": "Watch Apple's December-quarter results to validate new iPhone sales momentum and potential foldable demand signals.",
+      "key_points": [
+        {
+          "zh": "Forte特别关注苹果12月季度，届时新款iPhone对销售的影响将更清晰。",
+          "en": "Forte is especially focused on Apple's December quarter, when the new iPhones' impact on sales will be clearer."
+        },
+        {
+          "zh": "他表示新款iPhone双机型的初步需求看起来强劲。",
+          "en": "He said initial demand for the new iPhone duo appears strong."
+        },
+        {
+          "zh": "他指出市场对折叠iPhone存在压抑已久的兴趣。",
+          "en": "He pointed to pent-up interest in a foldable iPhone after a long wait."
+        }
+      ],
+      "tags": [
+        "Apple",
+        "iPhone",
+        "foldable",
+        "demand"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:RmqTGwqnYD8",
+      "title": "Why are we letting a handful of billionaires dictate the terms of AI?",
+      "title_zh": "经济学家阿西莫格鲁呼吁媒体停止盲目报道科技巨头",
+      "url": "https://www.youtube.com/watch?v=RmqTGwqnYD8",
+      "published_at": "2026-11-02T22:44:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在Mishal Husain Show节目中，经济学家Daron Acemoglu指出媒体不应再盲目报道科技巨头。原文未提供具体论证细节或投资相关数据。",
+      "summary_en": "On The Mishal Husain Show, economist Daron Acemoglu argued that the press must stop covering tech giants so blindly. The source provides no further detail on his reasoning or investment-relevant data.",
+      "detail_zh": "原文仅提及经济学家Daron Acemoglu在The Mishal Husain Show节目中表示，媒体必须停止对科技巨头进行盲目报道。除此之外，原文未展开其具体论点、论据、涉及的公司名称、数据或政策建议，也未讨论对市场或投资的影响。其余内容均为Bloomberg的社交媒体与视频订阅引导信息，不构成实质新闻或分析。",
+      "detail_en": "The source only states that economist Daron Acemoglu, appearing on The Mishal Husain Show, said the press must stop covering tech giants so blindly. It does not elaborate on his arguments, evidence, specific companies, data, or policy recommendations, nor does it discuss market or investment implications. The remainder consists of Bloomberg social media and subscription prompts, with no substantive news or analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "经济学家Daron Acemoglu在The Mishal Husain Show上批评媒体对科技巨头的报道方式。",
+          "en": "Economist Daron Acemoglu criticized the press's coverage of tech giants on The Mishal Husain Show."
+        },
+        {
+          "zh": "其核心主张是媒体应停止盲目报道科技巨头。",
+          "en": "His core assertion is that the press must stop covering tech giants so blindly."
+        },
+        {
+          "zh": "原文未提供具体论证、数据或投资相关细节。",
+          "en": "The source provides no specific arguments, data, or investment-relevant details."
+        }
+      ],
+      "tags": [
+        "tech giants",
+        "media coverage",
+        "Daron Acemoglu",
+        "regulation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Kogl3YMGTOM",
+      "title": "Power On: How Will a Touchscreen MacBook Impact the iPad?",
+      "title_zh": "苹果触屏MacBook Pro是否将蚕食iPad市场？",
+      "url": "https://www.youtube.com/watch?v=Kogl3YMGTOM",
+      "published_at": "2026-11-02T22:44:36+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在Power On播客中，彭博社的Mark Gurman和Chris Welch讨论了苹果新款触屏MacBook Pro是否会与自家iPad形成竞争。核心议题是产品线内部重叠的风险。",
+      "summary_en": "On the Power On podcast, Bloomberg's Mark Gurman and Chris Welch discuss whether Apple's new touch-screen MacBook Pro will compete with its own iPad. The core issue is the risk of internal product line overlap.",
+      "detail_zh": "本期Power On播客聚焦苹果产品战略。主持人Mark Gurman与Chris Welch探讨了苹果新推出的触屏MacBook Pro是否可能侵蚀iPad的市场。讨论围绕产品线内部竞争展开，即触屏MacBook Pro与iPad在功能和定位上可能出现的重叠。原文未提供具体销量数据、价格或发布时间等细节，仅提出这一竞争性问题供讨论。",
+      "detail_en": "This episode of the Power On podcast focuses on Apple's product strategy. Hosts Mark Gurman and Chris Welch discuss whether Apple's new touch-screen MacBook Pro could cannibalize the iPad market. The discussion centers on internal product line competition, specifically the potential overlap in functionality and positioning between the touch-screen MacBook Pro and the iPad. The original text does not provide specific sales data, pricing, or release timing details; it only raises this competitive question for discussion.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论主题：触屏MacBook Pro是否将消除iPad的市场。",
+          "en": "Discussion topic: whether a touch-screen MacBook Pro will eliminate the market for the iPad."
+        },
+        {
+          "zh": "参与讨论者：彭博社的Mark Gurman和Chris Welch。",
+          "en": "Participants: Bloomberg's Mark Gurman and Chris Welch."
+        },
+        {
+          "zh": "核心关切：苹果新产品可能与其自身iPad产品线形成竞争。",
+          "en": "Core concern: Apple's new product may compete with its own iPad product line."
+        }
+      ],
+      "tags": [
+        "Apple",
+        "iPad",
+        "MacBook",
+        "product strategy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:a2ST5ScajkI",
+      "title": "Ed Yardeni Is Sticking to his Year-End Call of 7,900 for the S&P 500",
+      "title_zh": "Yardeni：AI焦虑将持续，但标普500年底仍看7900点",
+      "url": "https://www.youtube.com/watch?v=a2ST5ScajkI",
+      "published_at": "2026-11-02T22:43:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Yardeni Research的Edward Yardeni表示，投资者对AI的焦虑将延续至万圣节之后，但他仍坚持标普500指数年底将达到7900点的预测。",
+      "summary_en": "Edward Yardeni of Yardeni Research expects investor anxiety about AI to persist beyond Halloween, but he still forecasts the S&P 500 will reach 7,900 by year-end.",
+      "detail_zh": "Yardeni Research的Edward Yardeni在彭博电视节目中表示，他预计投资者对人工智能（AI）的焦虑情绪将持续到万圣节之后。尽管如此，他仍然维持对标普500指数的乐观预测，认为该指数将在年底前达到7900点。原文未提供更多关于焦虑来源、市场逻辑或风险因素的细节。",
+      "detail_en": "Edward Yardeni of Yardeni Research said on Bloomberg Television that he expects investor anxiety about AI to persist beyond Halloween. Despite this, he maintained his optimistic forecast that the S&P 500 will hit 7,900 by year-end. The original text does not provide further details on the sources of anxiety, market logic, or risk factors.",
+      "conclusion_zh": "Yardeni认为AI焦虑情绪短期难消，但并未改变其对标普500年底7900点的乐观目标。",
+      "conclusion_en": "Yardeni believes AI-related anxiety will linger, but this does not change his optimistic year-end target of 7,900 for the S&P 500.",
+      "key_points": [
+        {
+          "zh": "Yardeni预计投资者对AI的焦虑将持续到万圣节之后。",
+          "en": "Yardeni expects investor anxiety about AI to persist beyond Halloween."
+        },
+        {
+          "zh": "他仍坚持标普500指数年底将达到7900点的预测。",
+          "en": "He still maintains his forecast that the S&P 500 will reach 7,900 by year-end."
+        }
+      ],
+      "tags": [
+        "AI anxiety",
+        "S&P 500 forecast",
+        "Yardeni",
+        "market outlook"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:jxob3qecioo",
+      "title": "US Midterm Election: Iowa Becomes Real Test for Trump and GOP",
+      "title_zh": "特朗普力图保住艾奥瓦州，参议员选情胶着",
+      "url": "https://www.youtube.com/watch?v=jxob3qecioo",
+      "published_at": "2026-11-02T22:36:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普寻求维持艾奥瓦州的共和党控制权。参议员候选人Ashley Hinson在接替退休共和党参议员Joni Ernst的席位上面临激烈竞争。此外还有州长选举和可能决定国会控制权的多场众议院选战。",
+      "summary_en": "President Donald Trump is looking to keep Iowa under Republican control. Senate candidate Ashley Hinson is in a tight race to hold the seat of retiring GOP Senator Joni Ernst. There is also an open governor's race and several House battles that could determine control of Congress.",
+      "detail_zh": "据彭博的Skylar Woodhouse从得梅因报道，特朗普正试图让艾奥瓦州继续由共和党掌控。参议员候选人Ashley Hinson正在激烈竞争中争取保住退休共和党参议员Joni Ernst的席位。此外，该州还有一场州长选举，以及多场可能决定国会控制权的众议院选战。报道未提供更多关于民调、政策立场或市场影响的具体细节。",
+      "detail_en": "Bloomberg's Skylar Woodhouse reports from Des Moines that President Donald Trump is looking to keep Iowa in Republican control. Senate candidate Ashley Hinson is in a tight race to hold on to retiring GOP Senator Joni Ernst's seat. There is also an open governor's race and several House battles that could determine control of Congress. The report does not provide further details on polling, policy positions, or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普寻求维持艾奥瓦州的共和党控制权。",
+          "en": "Trump is looking to keep Iowa in Republican control."
+        },
+        {
+          "zh": "参议员候选人Ashley Hinson在接替退休共和党参议员Joni Ernst的席位上面临激烈竞争。",
+          "en": "Senate candidate Ashley Hinson is in a tight race to hold retiring GOP Senator Joni Ernst's seat."
+        },
+        {
+          "zh": "艾奥瓦州还有一场州长选举。",
+          "en": "There is also an open governor's race in Iowa."
+        },
+        {
+          "zh": "多场众议院选战可能决定国会控制权。",
+          "en": "Several House battles could determine control of Congress."
+        }
+      ],
+      "tags": [
+        "Iowa",
+        "elections",
+        "Senate",
+        "House",
+        "Trump"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:NbQsAncGqRo",
+      "title": "How Binance’s $6 Billion Crypto Heist Unfolded",
+      "title_zh": "币安遭黑客攻击，净流出36亿美元",
+      "url": "https://www.youtube.com/watch?v=NbQsAncGqRo",
+      "published_at": "2026-11-02T22:29:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "10月底，黑客从加密货币交易所币安窃取超过60亿美元。币安在攻击后披露净流出36亿美元，并计划分阶段恢复客户提款。市场关注加密行业对此事件的反应。",
+      "summary_en": "In late October, hackers stole more than $6 billion from crypto exchange Binance. Binance disclosed $3.6 billion in net outflows after the cyber theft and plans to resume customer withdrawals in phases. All eyes are on how the crypto industry reacts to this latest breach.",
+      "detail_zh": "10月底，黑客从加密货币交易所币安窃取超过60亿美元。币安在应对此次攻击时，披露了36亿美元的净流出，并计划分阶段恢复客户提款。事件引发市场对加密行业如何应对此次最新安全漏洞的关注。原文未提供更多关于攻击细节、资金追回情况或对美股的具体影响。",
+      "detail_en": "In late October, hackers siphoned off more than $6 billion from crypto exchange Binance. As the company scrambles to respond, it disclosed $3.6 billion in net outflows and plans to resume customer withdrawals in phases after the hack. The incident has drawn attention to how the crypto industry reacts to this latest breach. The original text does not provide further details on the attack, fund recovery, or specific impact on US equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黑客从币安窃取超过60亿美元。",
+          "en": "Hackers stole more than $6 billion from Binance."
+        },
+        {
+          "zh": "币安披露攻击后净流出36亿美元。",
+          "en": "Binance disclosed $3.6 billion in net outflows after the cyber theft."
+        },
+        {
+          "zh": "币安计划分阶段恢复客户提款。",
+          "en": "Binance plans to resume customer withdrawals in phases."
+        },
+        {
+          "zh": "市场关注加密行业对此次漏洞的反应。",
+          "en": "All eyes are on how the crypto industry reacts to this latest breach."
+        }
+      ],
+      "tags": [
+        "Binance",
+        "crypto hack",
+        "outflows",
+        "withdrawals"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:dkq_O7dcAps",
+      "title": "El-Sayed Rival Splits for Rogers",
+      "title_zh": "彭博《权力平衡》选举日前瞻：市场因伊朗外交油价下跌，聚焦中期选举与科技股",
+      "url": "https://www.youtube.com/watch?v=dkq_O7dcAps",
+      "published_at": "2026-11-02T22:27:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在选举日前的《权力平衡》节目中，彭博华盛顿记者讨论了最终论点，嘉宾包括前共和党议员和民主党议员等。节目涵盖市场因伊朗外交油价下跌而上涨、中期选举展望、关键众议院和参议院选情，以及苹果财报和AI交易。",
+      "summary_en": "On the early edition of Balance of Power ahead of Election Day, Bloomberg Washington correspondents discussed final arguments with guests including a former Republican congressman and a Democratic congresswoman. The show covered markets rallying as oil plunged on Iran diplomacy, midterm election outlooks, key House and Senate races, and Apple earnings and the AI trade.",
+      "detail_zh": "节目由彭博华盛顿记者Joe Mathieu和Kailey Leinz主持，嘉宾包括前共和党国会议员Patrick McHenry、民主党国会女议员Suzan DelBene、Stonecourt Capital合伙人Rick Davis、哈佛肯尼迪学院Ash中心访问民主研究员Jeanne Sheehan Zaino以及锡耶纳研究所主任Don Levy。讨论围绕选举日前的最终论点展开。市场方面，因伊朗外交进展导致油价暴跌，市场出现反弹。节目还涉及特朗普的闭幕信息、密歇根参议院竞选及Haley Stevens的背书、密歇根民调与共和党投票率、民主党中期选举前景、关键众议院席位、佛罗里达成为战场、特朗普选举前夕的信息、市场与苹果财报及AI交易、最终中期民调与战场州、德克萨斯参议院竞选收紧、堪萨斯成为参议院战场，以及缅因、阿拉斯加和参议院争夺战。",
+      "detail_en": "The program was hosted by Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz, with guests including former Republican Congressman Patrick McHenry, Democratic Congresswoman Suzan DelBene, Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino, and Siena Research Institute Director Don Levy. Discussions centered on final arguments ahead of Election Day. Markets rallied as oil plunged on Iran diplomacy. The show also covered Trump's closing message, the Michigan Senate race and Haley Stevens endorsement, Michigan polling and Republican turnout, Democrats' midterm outlook, key House races, Florida as a battleground, Trump's election eve message, markets and Apple earnings and the AI trade, final midterm polls and battleground states, the Texas Senate race tightening, Kansas as a Senate battleground, and Maine, Alaska and the fight for the Senate.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "市场因伊朗外交进展导致油价暴跌而反弹。",
+          "en": "Markets rallied as oil plunged on Iran diplomacy."
+        },
+        {
+          "zh": "节目讨论了选举日前的最终论点，嘉宾包括两党前议员和策略师。",
+          "en": "The show discussed final arguments ahead of Election Day with guests including former lawmakers and strategists from both parties."
+        },
+        {
+          "zh": "中期选举展望聚焦关键众议院和参议院选情，包括密歇根、德克萨斯、堪萨斯、缅因和阿拉斯加。",
+          "en": "Midterm outlook focused on key House and Senate races, including Michigan, Texas, Kansas, Maine, and Alaska."
+        },
+        {
+          "zh": "苹果财报和AI交易是市场讨论的一部分。",
+          "en": "Apple earnings and the AI trade were part of the market discussion."
+        }
+      ],
+      "tags": [
+        "Election Day",
+        "Midterms",
+        "Oil",
+        "Iran Diplomacy",
+        "Apple Earnings"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:wvfRg-hbO5g",
+      "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
+      "title_zh": "苹果第四财季销售放缓但超预期，中国区收入不及预期",
+      "url": "https://www.youtube.com/watch?v=wvfRg-hbO5g",
+      "published_at": "2026-11-02T21:58:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "苹果第四财季销售放缓但仍超出市场预期，中国区收入未达预期。这是John Ternus出任CEO后的首份财报。",
+      "summary_en": "Apple reported slowing sales in its fiscal fourth quarter but still beat estimates. Revenue from China missed expectations. This is the first earnings report under CEO John Ternus.",
+      "detail_zh": "苹果公司公布第四财季业绩，销售出现放缓，但整体营收仍超出市场预期。其中，来自中国市场的收入未达到预期。这是John Ternus担任首席执行官后发布的首份财报。彭博的Ed Ludlow和Mark Gurman对此进行了报道。",
+      "detail_en": "Apple reported fiscal fourth-quarter results, with sales slowing but overall revenue still beating estimates. Revenue from China missed expectations. This is the first earnings report released under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman reported.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "苹果第四财季销售放缓，但营收超出预期。",
+          "en": "Apple's fiscal Q4 sales slowed, but revenue beat estimates."
+        },
+        {
+          "zh": "中国区收入未达预期。",
+          "en": "Revenue from China missed expectations."
+        },
+        {
+          "zh": "这是John Ternus出任CEO后的首份财报。",
+          "en": "This is the first earnings report under CEO John Ternus."
+        }
+      ],
+      "tags": [
+        "Apple",
+        "earnings",
+        "China revenue",
+        "CEO transition"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:CPR9NvWL-xg",
       "title": "How Founders Can Unlock Liquidity",
