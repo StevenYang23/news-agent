@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-02T13:17:06.460436+00:00",
+  "generated_at": "2026-11-02T14:19:44.580329+00:00",
   "insights": [
+    {
+      "guid": "yt:BKxwtr14560",
+      "title": "AI’s rising bill of expectations",
+      "title_zh": "贝莱德：AI主题面临更严格审视，美股降级至中性",
+      "url": "https://www.youtube.com/watch?v=BKxwtr14560",
+      "published_at": "2026-11-02T14:07:51+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "贝莱德投资研究院指出，AI投资热潮进入第三年，投资者愈发关注回报兑现，导致其上月将美股下调至中性。尽管对AI基本面信心不变，但超大规模科技股盈利优势首次逆转，资本开支激增侵蚀现金流，债务融资推高杠杆并加剧资本竞争。",
+      "summary_en": "BlackRock Investment Institute notes that after two years of booming AI investment, rising scrutiny on monetization led it to downgrade US equities to neutral last month. While conviction in AI fundamentals remains intact, the earnings gap has flipped for the first time since 2022, hyperscaler capex is surging and leaving little cash surplus, and debt-funded buildout raises leverage and funding concerns.",
+      "detail_zh": "贝莱德投资研究院在最新Market Take中表示，经过两年AI投资繁荣后，投资者对AI主题的审视加强，希望看到回报兑现，这一背景促使其上月将美股下调至中性。该机构对AI基本面的信心依然完整，但指出超大规模科技股的环境与几个月前截然不同：自2022年以来，其盈利优势首次发生逆转，市场其余部分预计将超过Magnificent 7。AI领导者仍在交付业绩，但超额表现不再那么突出，且预期已很高，投资者日益关注货币化和现金生成能否支撑投资。上周财报凸显了AI相关商品和服务强劲需求与满足该需求成本上升之间的紧张关系：超大规模资本开支激增，扣除资本开支后现金盈余所剩无几，每增加一美元收入带来的利润减少，引发回报能否跟上投资步伐的疑问。分析发现，采用AI程度较高的大型科技以外公司本季度盈利增长预计比采用程度较低的公司高出约3%，云收入上升也指向强劲AI需求。随着AI建设日益由债务融资，杠杆和融资能力成为焦点，建设加剧资本竞争并对收益率构成上行压力；近期收益率下降反映了市场对部署更多资金可能面临约束的考量。信贷市场是衡量AI投资还能以何种成本融资多少的关键路标。",
+      "detail_en": "In its Market Take, BlackRock Investment Institute says that after two years of booming AI investment, greater scrutiny on the theme and investor demand for payoff contributed to its decision to downgrade US equities to neutral last month. Conviction in AI fundamentals remains intact, but the backdrop for mega-cap tech looks very different from just a few months ago: the earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7. AI leaders are still delivering, but their outperformance is becoming less exceptional, and with expectations already high, investors are increasingly focused on whether monetization and cash generation can sustain investment. Last week's earnings highlighted tension between strong demand for AI-linked goods and services and the rising cost of meeting it: hyperscaler spending has surged, leaving little cash surplus after capex, and each additional dollar of revenue generates less profit, raising questions about whether returns can keep pace. Analysis finds companies outside big tech with higher AI adoption are on track for about 3% more earnings growth this quarter than those with lower adoption, while rising cloud revenues also point to strong AI demand. As the buildout is increasingly funded by debt, leverage and funding capacity are in focus; the buildout adds to competition for capital and keeps upward pressure on yields, and the recent fall in yields reflects flows of competition for capital as markets consider constraints on deploying more funding. Credit markets are a key signpost for how much more AI investment can be financed and at what cost.",
+      "conclusion_zh": "AI基本面信心未改，但短期考验加剧，应对AI敞口保持选择性，并关注信贷市场信号。",
+      "conclusion_en": "Conviction in AI fundamentals remains intact, but near-term tests are intensifying; stay selective on AI exposure and watch credit markets as a key signpost.",
+      "key_points": [
+        {
+          "zh": "贝莱德上月将美股下调至中性，因AI主题审视加强、投资者要求回报兑现。",
+          "en": "BlackRock downgraded US equities to neutral last month as scrutiny on AI intensified and investors demanded payoff."
+        },
+        {
+          "zh": "自2022年以来，超大规模科技股盈利优势首次逆转，市场其余部分预计将跑赢Magnificent 7。",
+          "en": "The earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7."
+        },
+        {
+          "zh": "超大规模资本开支激增，扣除资本开支后现金盈余所剩无几，每美元收入利润下降。",
+          "en": "Hyperscaler capex has surged, leaving little cash surplus after capex, and each additional dollar of revenue generates less profit."
+        },
+        {
+          "zh": "大型科技以外采用AI程度较高的公司本季度盈利增长预计高出约3%。",
+          "en": "Companies outside big tech with higher AI adoption are on track for about 3% more earnings growth this quarter."
+        },
+        {
+          "zh": "AI建设日益依赖债务融资，杠杆和融资能力受关注，信贷市场是衡量融资成本的关键路标。",
+          "en": "The AI buildout is increasingly debt-funded, leverage and funding capacity are in focus, and credit markets are a key signpost for financing costs."
+        }
+      ],
+      "tags": [
+        "AI",
+        "US equities",
+        "earnings",
+        "capex",
+        "credit"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:k05bLzblLro",
       "title": "Alphabet Opens Fresh Euro Bond Sales; Trump Weighs Iran Diplomacy; Countdown to Midterms",
@@ -16299,202 +16349,6 @@
         "BoJ",
         "monetary policy",
         "inflation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Qyg1u7YJwDw",
-      "title": "Off the Cuff With Charly Kevers | Invested at Work",
-      "title_zh": "Carta CFO谈IPO准备：AI辅助文件起草，但人类判断仍关键",
-      "url": "https://www.youtube.com/watch?v=Qyg1u7YJwDw",
-      "published_at": "2026-10-26T14:15:56+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Carta CFO Charlie Kevers在访谈中表示，IPO准备期间应保持业务专注，AI在文件起草方面帮助很大，但公司故事叙述和员工个性化问题仍需人类判断。",
-      "summary_en": "Carta CFO Charlie Kevers said in an interview that during IPO preparation, companies should stay focused on the business, AI greatly helps with document drafting, but human judgment remains essential for crafting the company's story and handling personalized employee questions.",
-      "detail_zh": "Carta CFO Charlie Kevers在Morgan Stanley的播客访谈中分享了IPO准备的经验。他指出，IPO是一个令人分心的事件，最佳策略是让所有人尽可能专注于业务，因为最终成功取决于业务表现。在员工进入流动性窗口前，CFO应确保员工理解他们持有的资产、如何获取流动性以及潜在的税务影响。Kevers还希望CEO能更早地了解财务报表、毛利率、单位经济模型和贡献利润率等财务概念，以理解决策对投资者的影响。关于AI在IPO准备中的作用，他表示AI在初始文件起草方面帮助很大，因为可以基于大量公开内容进行训练，但AI无法为公司打造真实且有说服力的投资故事，人类仍是更好的故事讲述者。对于员工问题，AI擅长回答结构化、机械性的问题，但人类更能理解员工的具体情境和个人情况，尽管AI未来可能在这方面取得进展。",
-      "detail_en": "Carta CFO Charlie Kevers shared IPO preparation insights on Morgan Stanley's podcast. He noted that an IPO is a distracting event, and the best strategy is to keep everyone as focused as possible on the business, as ultimate success depends on business performance. Before employees enter a liquidity window, the CFO should ensure employees understand what they own, how to access liquidity, and potential tax implications. Kevers also wished CEOs would engage earlier with financial concepts like financial statements, gross margin, unit economics, and contribution margin to understand how decisions impact investors. Regarding AI's role in IPO prep, he said AI greatly helps with initial document drafting due to training on vast public content, but AI cannot craft an authentic and compelling company story—humans remain better storytellers. For employee questions, AI is good at structured, mechanical questions, but humans are better at understanding specific contexts and personal situations, though AI might improve over time.",
-      "conclusion_zh": "AI在IPO准备中可提升文件起草效率，但公司故事叙述和员工个性化沟通仍需人类判断，投资者应关注企业如何平衡AI与人力。",
-      "conclusion_en": "AI can improve efficiency in IPO document drafting, but human judgment remains essential for storytelling and personalized employee communication; investors should watch how companies balance AI and human input.",
-      "key_points": [
-        {
-          "zh": "IPO准备期间应保持业务专注，因为成功取决于业务表现。",
-          "en": "During IPO preparation, stay focused on the business, as success depends on business performance."
-        },
-        {
-          "zh": "AI在IPO文件起草方面帮助很大，但无法替代人类讲述公司故事。",
-          "en": "AI greatly helps with IPO document drafting but cannot replace humans in telling the company story."
-        },
-        {
-          "zh": "员工进入流动性窗口前，需确保他们理解所持资产、流动性获取方式及税务影响。",
-          "en": "Before employees enter a liquidity window, ensure they understand what they own, how to access liquidity, and tax implications."
-        },
-        {
-          "zh": "CEO应更早了解财务报表、毛利率、单位经济等财务概念。",
-          "en": "CEOs should engage earlier with financial concepts like financial statements, gross margin, and unit economics."
-        },
-        {
-          "zh": "AI擅长回答结构化问题，但人类更能理解员工个人情境。",
-          "en": "AI is good at structured questions, but humans better understand employees' personal contexts."
-        }
-      ],
-      "tags": [
-        "IPO",
-        "AI",
-        "CFO",
-        "liquidity",
-        "employee communication"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:jAncH1JCTZc",
-      "title": "China wants in on U.S. AI data center boom",
-      "title_zh": "中国预制数据中心厂商寻求进入美国AI数据中心市场",
-      "url": "https://www.youtube.com/watch?v=jAncH1JCTZc",
-      "published_at": "2026-10-26T14:00:08+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "新加坡注册的Brightray公司（唯一制造商为中国Prefab DC）全球副总裁SK Lee表示，美国数据中心需求远强于中国，公司看到美国市场的巨大潜力。美国2025年有5427个数据中心，中国仅449个，美国建设周期2-3年，供应短缺和积压为中国预制模块化建造方式提供了机会。但美国方面存在网络安全和供应链依赖主要AI竞争对手的担忧。",
-      "summary_en": "SK Lee, global VP of Singapore-registered Brightray (whose sole manufacturer is China's Prefab DC), says US data center demand is much stronger than China's, offering big potential. The US had 5,427 data centers in 2025 versus 449 in China, with 2-3 year build times and supply shortages creating an opening for Chinese prefabricated modular construction. However, US concerns exist over cybersecurity and supply chain dependence on a main AI competitor.",
-      "detail_zh": "Brightray全球副总裁SK Lee表示，公司在中国和东南亚已有数据中心项目，但美国市场需求更强劲，尽管中国市场同等重要。数据显示，2025年美国有5427个数据中心，中国仅449个；美国数据中心平均建设周期为2至3年，快速建设导致供应短缺和积压。中国需求因资本缺乏和产能过剩而较低。中国作为全球最大制造商，已向美国出口变压器、电池和光纤电缆等电气设备，SK Lee称中国目前对美国数据中心供应链非常重要，美国国内缺乏所需产品，即使有也面临数年交付周期，而中国能提供更有利的时机。预制和模块化建造方法在中国很常见，该公司不仅用此方法制造数据中心内部模块，还用于建造整个数据中心，声称可将部署速度至少缩短一半，并能在工厂控制质量。但美国一些人担忧网络安全风险以及美国依赖其主要AI竞争对手的供应链。SK Lee回应称，如果出现这种情况，美国AI行业可能受到影响，时间线会更长，并将影响美国的商业运作方式。",
-      "detail_en": "SK Lee, global VP of Brightray, said the company has data centers in China and Southeast Asia but sees stronger demand in the US, though China is equally important. In 2025, the US had 5,427 data centers versus 449 in China; US data centers take 2-3 years to build on average, and rapid buildout has led to supply shortages and backlogs. Chinese demand is low due to lack of capital and overcapacity. China, the world's largest manufacturer, already ships electrical equipment to the US like transformers, batteries, and fiber optic cables. Lee said China is very important to the US data center supply chain at the moment, as the US lacks what it needs domestically and even when available faces multi-year lead times, while China can offer more favorable timing. Prefabricated and modular construction is common in China, and the company uses it not only for internal modules but for the entire data center, claiming it can cut deployment speed by at least half and control quality at the factory. However, some in the US worry about cybersecurity risks and dependence on the supply chain of its main AI competitor. Lee responded that if that happens, the US AI industry might be affected, with a longer timeline and impact on how business is done in the US.",
-      "conclusion_zh": "中国预制数据中心厂商正瞄准美国AI基建需求缺口，但网络安全与供应链依赖问题构成潜在政策风险，投资者需关注相关监管动向。",
-      "conclusion_en": "Chinese prefabricated data center makers are targeting the US AI infrastructure gap, but cybersecurity and supply chain dependence pose potential policy risks; investors should watch regulatory developments.",
-      "key_points": [
-        {
-          "zh": "2025年美国有5427个数据中心，中国仅449个，美国需求更强劲。",
-          "en": "In 2025, the US had 5,427 data centers versus only 449 in China, with stronger US demand."
-        },
-        {
-          "zh": "美国数据中心建设周期2-3年，供应短缺和积压为中国预制模块化建造提供机会。",
-          "en": "US data center build times of 2-3 years and supply shortages/backlogs create an opening for Chinese prefabricated modular construction."
-        },
-        {
-          "zh": "中国已向美国出口变压器、电池、光纤电缆等电气设备，对美国数据中心供应链重要。",
-          "en": "China already exports electrical equipment like transformers, batteries, and fiber optic cables to the US, important for the US data center supply chain."
-        },
-        {
-          "zh": "预制模块化方法可将部署速度至少缩短一半，并能在工厂控制质量。",
-          "en": "Prefabricated modular methods can cut deployment speed by at least half and control quality at the factory."
-        },
-        {
-          "zh": "美国存在网络安全和供应链依赖主要AI竞争对手的担忧。",
-          "en": "US concerns exist over cybersecurity and supply chain dependence on a main AI competitor."
-        }
-      ],
-      "tags": [
-        "data centers",
-        "AI infrastructure",
-        "China supply chain",
-        "prefabricated construction",
-        "US-China"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ONUuQavWVF0",
-      "title": "Sherman Says: Show Me the Math on AI",
-      "title_zh": "Sherman Says：债市重新定价美联储加息路径，EM本地债仍具吸引力",
-      "url": "https://www.youtube.com/watch?v=ONUuQavWVF0",
-      "published_at": "2026-10-26T13:56:57+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "DoubleLine副CIO Jeffrey Sherman指出，债市自2月底以来重新定价，当前预期美联储还需加息约75个基点，市场已提前消化。发达市场央行普遍预计未来12个月加息，美元或呈区间波动；EM本地债因实际收益率较高、政策抗通胀及国际收支改善而受青睐。",
-      "summary_en": "DoubleLine Deputy CIO Jeffrey Sherman notes that the bond market has repriced since late February and now expects about 75bp of additional Fed hikes, which is already priced in. Developed-market central banks are broadly expected to hike over the next 12 months, keeping the dollar range-bound; EM local debt is favored for its higher real yields, anti-inflation policies, and better balance of payments.",
-      "detail_zh": "DoubleLine副CIO Jeffrey Sherman在Sherman Says网络研讨会上表示，当前最值得关注的图表是有效联邦基金利率与12个月远期市场预期的对比。历史上，债市通常预期利率上升以体现期限溢价，但2023年美联储停止紧缩后，债市一度定价2024年多达10-11次降息，与美联储严重脱节。今年2月底情况改变，债市重新定价，同时伴随美债收益率触及局部低点。Sherman认为，市场信号显示美联储可能还需从当前水平加息约三次（约75个基点），而市场已对此重新定价，这对投资者是好事。他还指出，加息预期并非美国独有，几乎所有发达市场央行都预计未来12个月加息；通常实际收益率上升会带动美元走强，但由于其他经济体追赶加息，美元强势可能受限，呈区间波动。对于EM货币，Sherman认为其实际收益率较高、部分国家政策抗通胀且国际收支改善，今年美元强势并未针对EM货币篮子，DoubleLine已倡导EM本地债交易约15个月，并继续在疲软时增持。Ryan Kimmel提到，2月28日美伊冲突爆发后，市场对美联储政策的预期发生剧烈重定价，并展示了汽油和柴油等燃料价格图表。",
-      "detail_en": "DoubleLine Deputy CIO Jeffrey Sherman said on the Sherman Says webcast that the key chart to watch is the effective fed funds rate versus 12-month forward market expectations. Historically, the bond market expects higher rates to reflect term premium, but after the Fed stopped tightening in 2023, the bond market priced in as many as 10-11 cuts for 2024, severely disconnected from the Fed. That changed in late February this year, with a repricing coinciding with local lows in Treasury yields. Sherman believes the market is signaling the Fed may need to hike about three more times (roughly 75bp) from current levels, and that the market has already repriced for this, which is good for investors. He also noted that hike expectations are not US-specific: essentially every developed-market central bank is expected to hike over the next 12 months. Normally rising real yields lead to a higher dollar, but because the rest of the world is catching up in hikes, dollar strength may be limited and range-bound. On EM currencies, Sherman cited higher real yields, anti-inflation policies in some countries, and better balance of payments; dollar strength this year has not been against the EM currency basket. DoubleLine has advocated the EM local debt trade for about 15 months and continues to add on weakness. Ryan Kimmel noted that Fed policy expectations repriced sharply after the US-Iran conflict kicked off on February 28, and showed charts of gasoline and diesel fuel prices.",
-      "conclusion_zh": "债市已提前定价美联储进一步加息，投资者可关注EM本地债的配置机会，同时留意美元区间波动。",
-      "conclusion_en": "The bond market has already priced in further Fed hikes; investors may look to EM local debt for allocation opportunities while watching for range-bound dollar moves.",
-      "key_points": [
-        {
-          "zh": "债市自2月底以来重新定价，当前预期美联储还需加息约75个基点，市场已提前消化。",
-          "en": "The bond market has repriced since late February and now expects about 75bp of additional Fed hikes, which is already priced in."
-        },
-        {
-          "zh": "几乎所有发达市场央行预计未来12个月加息，美元强势可能受限，呈区间波动。",
-          "en": "Nearly all developed-market central banks are expected to hike over the next 12 months, likely capping dollar strength and keeping it range-bound."
-        },
-        {
-          "zh": "EM本地债因实际收益率较高、政策抗通胀及国际收支改善而受青睐，DoubleLine继续在疲软时增持。",
-          "en": "EM local debt is favored for higher real yields, anti-inflation policies, and better balance of payments; DoubleLine continues to add on weakness."
-        },
-        {
-          "zh": "2月28日美伊冲突爆发后，市场对美联储政策的预期发生剧烈重定价。",
-          "en": "Fed policy expectations repriced sharply after the US-Iran conflict kicked off on February 28."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "bond market",
-        "EM debt",
-        "dollar",
-        "rate hikes"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:oyV3FtVB4B4",
-      "title": "The Mideast energy shock’s next phase",
-      "title_zh": "贝莱德：中东能源冲击进入下游阶段，部分瓶颈或持续存在",
-      "url": "https://www.youtube.com/watch?v=oyV3FtVB4B4",
-      "published_at": "2026-10-26T13:17:55+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "贝莱德投资研究院指出，全球经济对中东能源冲击的韧性好于预期，但缓冲正在减弱，供应约束已从原油转向炼油和航运瓶颈。布伦特原油上周升至五个月高点，炼油商和油轮股跌幅超过大型油气生产商。贝莱德建议聚焦炼油和能源基础设施，区域上偏好美国、谨慎看待欧洲，债券方面偏好短端美债。",
-      "summary_en": "The BlackRock Investment Institute notes that the global economy has proven more resilient to the Middle East energy shock than expected, but buffers are weakening and supply constraints have shifted downstream to refining and shipping bottlenecks. Brent crude jumped to a five-month high last week, and refinery and tanker stocks have fallen more than major oil and gas producers. BlackRock favors refining and energy infrastructure, is selective across regions with the US less exposed and Europe more vulnerable, and prefers shorter-term US Treasuries.",
-      "detail_zh": "贝莱德投资研究院经济学家Assan Currimbhoy在Market Take播客中表示，全球经济对中东能源冲击的韧性好于预期，部分得益于AI投资和政府支出。但此前帮助缓冲增长冲击的因素，如战略储备和改道的石油运输，正在减弱，供应约束正向产业链下游转移。布伦特原油上周升至五个月高点，市场焦点已从原油供应转向炼油和航运瓶颈，这推高了燃料的交付成本，并导致炼油商和油轮股跌幅超过大型油气生产商。贝莱德认为，关键问题在于哪些瓶颈即使在冲突结束后仍将持续。区域层面，欧洲更为脆弱，尤其是进入冬季前天然气储备处于历史低位；美国作为净能源出口国拥有更大的缓冲。这一冲击正加速推动更具韧性的能源系统建设：进口国寻求供应多元化，出口国投资绕开脆弱咽喉要道的新路线。贝莱德认为这一转变可能比冲突更持久，既带来投资机会，也需要大量资本，并对政府债券收益率构成上行压力。投资策略上，贝莱德聚焦炼油和能源基础设施等瓶颈可能持续的领域，区域上保持选择性，欧洲对高能源成本更敏感，美国受最坏情形影响较小。债券方面，收益率上升使美国国债更具吸引力，贝莱德偏好短期限债券以获取收益，因为加强能源安全所需的投资可能推高长期收益率。",
-      "detail_en": "BlackRock Investment Institute economist Assan Currimbhoy said on the Market Take podcast that the global economy has weathered the Middle East energy shock better than expected, helped by AI investment and government spending. However, buffers that softened the initial hit to growth, such as strategic reserves and rerouted oil shipments, are weakening, and supply constraints are moving downstream. Brent crude jumped to a five-month high last week, with focus shifting from crude supply to refining and shipping bottlenecks, pushing up the delivered cost of fuel and causing refinery and tanker stocks to fall more than major oil and gas producers. BlackRock says what matters now is which bottlenecks persist even if the conflict ends. Regionally, Europe is more vulnerable, particularly with gas reserves at historically low levels heading into winter, while the US has a much bigger cushion as a net energy exporter. The shock is accelerating the push for more resilient energy systems: importers are diversifying supplies and exporters are investing in new routes around vulnerable choke points. BlackRock thinks this shift could outlast the conflict, creating investment opportunities but also requiring huge amounts of capital and putting upward pressure on government bond yields. On strategy, BlackRock focuses on refining and energy infrastructure where bottlenecks could persist, is selective across regions with Europe more exposed to high energy costs and the US less exposed to worst outcomes. In bonds, higher yields have made US Treasuries more attractive; BlackRock prefers shorter-term bonds for income as investment needed to strengthen energy security could push up longer-term yields.",
-      "conclusion_zh": "能源瓶颈可能比冲突更持久，投资者应聚焦炼油与能源基础设施等利润率可持续的领域，并在区域和债券久期上保持选择性。",
-      "conclusion_en": "Energy bottlenecks could outlast the conflict; investors should focus on areas with durable margins such as refining and energy infrastructure, and stay selective on regions and bond duration.",
-      "key_points": [
-        {
-          "zh": "供应约束从原油转向炼油和航运瓶颈，推高燃料交付成本，炼油商和油轮股跌幅超过大型油气生产商。",
-          "en": "Supply constraints have shifted from crude to refining and shipping bottlenecks, raising delivered fuel costs and causing refinery and tanker stocks to fall more than major oil and gas producers."
-        },
-        {
-          "zh": "欧洲因冬季前天然气储备处于历史低位而更脆弱，美国作为净能源出口国缓冲更大。",
-          "en": "Europe is more vulnerable with gas reserves at historically low levels ahead of winter, while the US has a bigger cushion as a net energy exporter."
-        },
-        {
-          "zh": "进口国寻求能源供应多元化、出口国投资绕开咽喉要道的新路线，这一转变可能比冲突更持久。",
-          "en": "Importers are diversifying energy supplies and exporters are investing in new routes around choke points; this shift could outlast the conflict."
-        },
-        {
-          "zh": "能源安全投资需要大量资本，可能对政府债券收益率构成上行压力。",
-          "en": "Investment in energy security requires huge capital and could put upward pressure on government bond yields."
-        },
-        {
-          "zh": "贝莱德聚焦炼油和能源基础设施，债券方面偏好短端美债以获取收益。",
-          "en": "BlackRock focuses on refining and energy infrastructure, and prefers shorter-term US Treasuries for income."
-        }
-      ],
-      "tags": [
-        "energy shock",
-        "refining",
-        "shipping",
-        "US Treasuries",
-        "Europe"
       ],
       "tickers": [],
       "sentiment": "neutral"
