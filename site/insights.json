@@ -1,6 +1,187 @@
 {
-  "generated_at": "2026-11-03T17:13:59.386428+00:00",
+  "generated_at": "2026-11-03T18:17:01.503769+00:00",
   "insights": [
+    {
+      "guid": "yt:BvXHEYK3nAQ",
+      "title": "Ray Dalio on the Power of an Imperfectionist",
+      "title_zh": "全球宏观交易者的“不完美主义”：抓大放小，以市场反馈为师",
+      "url": "https://www.youtube.com/watch?v=BvXHEYK3nAQ",
+      "published_at": "2026-11-03T18:00:06+00:00",
+      "source_name": "Principles by Ray Dalio",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "一位全球宏观交易者自述为“不完美主义者”，不关注细节、不擅长记名字和电话号码，但擅长概念性记忆。他认为全球宏观要求思考宏观大局及其关联，而交易本身提供了以三位小数精确评判表现的市场反馈，好结果令人愉悦，坏结果则带来痛感，这构成了持续学习的过程。",
+      "summary_en": "A global macro trader describes himself as an \"imperfectionist\" who doesn't focus on details and has poor rote memory for names and phone numbers, but strong conceptual memory. He argues global macro requires thinking about big-picture macro and how it all connects, while trading provides market feedback that lets him judge performance to three decimal places—good results feel great, bad ones hurt—making it a continuous education.",
+      "detail_zh": "该交易者自称“不完美主义者”，不花太多时间在细节上，并坦言自己的机械记忆（rope memory）很差，记不住人名和电话号码，但相对于概念性记忆而言机械记忆较弱。他认为自己部分是天性如此，同时也并不看重这些细节。他强调“必须做事”是很好的老师：作为全球宏观交易者，他必须思考宏观大局以及各因素如何相互关联。交易提供了反馈机制，使他能以三位小数的精度评判自己的表现；反馈若差会带来痛感，若好则确实令人愉悦。他将此视为交易的一部分，也是一种获得教育的方式。",
+      "detail_en": "The trader calls himself an \"imperfectionist\" who doesn't spend much time on detail, admitting very bad rote memory—he can't remember names or phone numbers—while his conceptual memory is relatively stronger. He believes he is partly programmed this way and also doesn't give such details much importance. He stresses that having to do things is a great teacher: as a global macro trader, he must think about big-picture macro and how it all connects. Trading provides feedback that lets him judge his performance to three decimal places; bad feedback really hurts, good feedback really feels good. He frames this as part of trading and a way to get an education.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "自称“不完美主义者”，不关注细节，机械记忆差，但概念性记忆相对较强。",
+          "en": "Calls himself an \"imperfectionist\" who doesn't focus on detail; poor rote memory but relatively strong conceptual memory."
+        },
+        {
+          "zh": "全球宏观交易要求思考宏观大局及其相互关联，而非拘泥于细节。",
+          "en": "Global macro requires thinking about big-picture macro and how it all connects, rather than getting bogged down in detail."
+        },
+        {
+          "zh": "交易提供以三位小数精确评判表现的反馈机制，好结果愉悦、坏结果带来痛感。",
+          "en": "Trading provides feedback that lets him judge performance to three decimal places—good results feel great, bad ones hurt."
+        },
+        {
+          "zh": "“必须做事”本身是重要的学习途径，市场反馈构成持续教育。",
+          "en": "\"Having to do things\" is itself an important teacher, and market feedback constitutes continuous education."
+        }
+      ],
+      "tags": [
+        "global macro",
+        "trading psychology",
+        "feedback loop",
+        "imperfectionism"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4961677",
+      "title": "Wall Street Lunch: Midterm Elections & Earnings",
+      "title_zh": "中期选举与财报季：Palantir、苹果、AMD等公司业绩解读",
+      "url": "https://seekingalpha.com/article/4961677-wall-street-lunch-midterm-elections-and-earnings?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-03T17:55:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "美国中期选举成为今日市场焦点，预测市场与民调显示民主党可能控制众议院甚至参议院，若成真将导致与特朗普政府的政策僵局。财报方面，Palantir业绩超预期但商业预订放缓，苹果销售强劲但内存成本引发利润率担忧，AMD数据中心增长与指引成为关键，Shopify面临AI代理担忧，辉瑞受专利到期和缺乏GLP-1暴露拖累。",
+      "summary_en": "U.S. midterm elections are today's main focus, with prediction markets and polls suggesting Democrats may control the House and possibly the Senate, which could lead to policy gridlock with the Trump administration. On earnings, Palantir beat expectations but commercial bookings slowed, Apple's strong sales were offset by memory cost margin concerns, AMD's data center growth and guidance are key, Shopify faces AI-agent concerns, and Pfizer is weighed down by patent expirations and lack of GLP-1 exposure.",
+      "detail_zh": "美国中期选举是今日市场核心事件。根据预测市场和民调，民主党在众议院选举中表现较好，可能控制众议院，也有很大机会控制参议院。若民主党控制国会，特朗普总统任期内最后两年的政策倡议将面临重大阻力，而国会发起的倡议也可能被总统否决，未来两年可能持续政策僵局，这将对不同行业产生正面或负面影响。财报方面，Palantir业绩整体好于预期，未受AI负面影响反而受益，但美国商业预订有所放缓，可能是股价承压的原因。苹果iPhone销售强于预期，Mac销售非常强劲，但市场担忧内存成本对利润率的影响以及苹果转嫁成本的能力，股价小幅下跌。AMD的关键在于数据中心增长加速，PC部门不能有任何闪失（参考英特尔上周的教训），指引必须非常强劲，否则可能像其他科技股一样遭遇大幅回调。Shopify因AI代理担忧股价大幅下跌。辉瑞面临未来几年大量药物专利到期，且未像礼来和诺和诺德那样布局GLP-1领域，市场情绪承压。此外，Arista Networks、Super Micro Computer、Skyworks等公司将在盘后发布财报。",
+      "detail_en": "The U.S. midterm elections are today's core market event. According to prediction markets and polls, Democrats are expected to do fairly well in the House, likely controlling it, and have a very good chance of controlling the Senate as well. If Democrats take Congress, any initiatives President Trump wants to enact in the final two years of his term will face considerable pushback, and any initiatives from Congress may be vetoed, leading to a constant battle over the next two years that could hurt or help various industries. On earnings, Palantir's results were overall better than expected and the company seems to be benefiting from AI rather than being negatively impacted, but there was some slowdown in U.S. commercial bookings, which may be hitting the stock. Apple's iPhone sales were stronger than expected and Mac sales were super strong, but there is concern about margins, particularly regarding memory costs and Apple's ability to pass them on, which is why the stock is down slightly. For AMD, the key is accelerating data center growth, no hiccups in the PC sector (referencing Intel's warning last week), and super strong guidance, otherwise the stock could see a significant downside like other tech stocks. Shopify is down sharply on AI-agent concerns. Pfizer faces many drugs coming off patent over the next couple of years and has not played in the GLP-1 space like Eli Lilly and Novo Nordisk, weighing on sentiment. Arista Networks, Super Micro Computer, and Skyworks are among companies reporting after the bell.",
+      "conclusion_zh": "中期选举结果可能引发政策僵局，叠加科技股财报分化，投资者需关注数据中心增长、成本压力及政策敏感板块的波动。",
+      "conclusion_en": "Midterm election results could lead to policy gridlock, and with mixed tech earnings, investors should watch data center growth, cost pressures, and volatility in policy-sensitive sectors.",
+      "key_points": [
+        {
+          "zh": "中期选举：预测市场与民调显示民主党可能控制众议院，甚至参议院，若成真将导致政策僵局，影响支出与多个行业。",
+          "en": "Midterms: Prediction markets and polls suggest Democrats may control the House and possibly the Senate, which could lead to policy gridlock affecting spending and various sectors."
+        },
+        {
+          "zh": "Palantir业绩超预期且受益于AI，但美国商业预订放缓可能压制股价。",
+          "en": "Palantir beat expectations and benefits from AI, but slowing U.S. commercial bookings may weigh on the stock."
+        },
+        {
+          "zh": "苹果iPhone与Mac销售强劲，但内存成本引发利润率担忧，股价小幅下跌。",
+          "en": "Apple's iPhone and Mac sales were strong, but memory cost concerns hit margins and the stock fell slightly."
+        },
+        {
+          "zh": "AMD需数据中心增长加速且指引强劲，PC部门不能有闪失，否则可能大幅回调。",
+          "en": "AMD needs accelerating data center growth and strong guidance, with no hiccups in PCs, or the stock could see significant downside."
+        },
+        {
+          "zh": "Shopify因AI代理担忧股价大跌；辉瑞受专利到期和缺乏GLP-1暴露拖累。",
+          "en": "Shopify fell sharply on AI-agent concerns; Pfizer is weighed down by patent expirations and lack of GLP-1 exposure."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "earnings",
+        "tech",
+        "AI",
+        "policy gridlock"
+      ],
+      "tickers": [
+        "AAPL",
+        "PLTR",
+        "AMD",
+        "SHOP",
+        "PFE",
+        "MPC",
+        "RACE",
+        "TEVA",
+        "YUM",
+        "PRU",
+        "CSCO",
+        "ADM",
+        "INTC",
+        "LLY",
+        "NVO",
+        "ANET",
+        "SMCI",
+        "SWKS",
+        "NVDA",
+        "GOOG",
+        "GOOGL",
+        "TSLA",
+        "WMT",
+        "COST",
+        "TGT"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:cS9Ph2hWEss",
+      "title": "Open Interest 11/3/2026",
+      "title_zh": "彭博开盘前瞻：选举日、AI泡沫争论与苹果估值",
+      "url": "https://www.youtube.com/watch?v=cS9Ph2hWEss",
+      "published_at": "2026-11-03T17:39:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "节目在选举日讨论国会控制权与特朗普议程的市场影响，同时涵盖油价因伊朗释放谈判信号而波动、华尔街对AI泡沫的分歧，以及Craig Moffett对苹果高估值、服务增长与中国风险的看法。前SEC主席Gary Gensler警告市场可能面临重大重定价。",
+      "summary_en": "On Election Day, the program discusses the market impact of congressional control and Trump's agenda, oil swings as Tehran signals openness to talks, Wall Street's divide over an AI bubble, and Craig Moffett's views on Apple's premium valuation, services growth and China risks. Former SEC Chair Gary Gensler warns a major market repricing could be ahead.",
+      "detail_zh": "节目围绕选举日展开，国会控制权与特朗普第二任期议程成为市场焦点。油价因德黑兰释放谈判开放信号而波动。华尔街对是否存在AI泡沫存在分歧，讨论涉及AI支出、股权发行及私募信贷敞口与监管风险。MoffettNathanson的Craig Moffett讨论苹果的高估值、服务增长与中国风险，节目还提及苹果利润率、Siri的AI支出及苹果喜忧参半的前景。个股方面涉及Palantir增长放缓、迪士尼裁员与流媒体成本削减，以及辉瑞、Shopify、Grab的财报反应和Roku套利、Bloom Energy与Cloudflare的评级上调。宏观方面关注JOLTS数据、劳动力市场强度与通胀担忧；Meredith Whitney讨论消费者压力、可负担性危机与住房疲软。前SEC主席Gary Gensler警告市场可能面临重大重定价，并谈及金融监管与AI监督。",
+      "detail_en": "The program centers on Election Day, with congressional control and Trump's second-term agenda in focus for markets. Oil swings as Tehran signals openness to talks. Wall Street is divided over whether there is an AI bubble, with discussion touching on AI spending, equity issuance, private credit exposure and regulatory risks. Craig Moffett of MoffettNathanson discusses Apple's premium valuation, services growth and China risks; the program also mentions Apple margins, Siri AI spending and Apple's mixed outlook. Single-stock topics include Palantir's growth slowdown, Disney layoffs and streaming cost cuts, earnings reactions for Pfizer, Shopify and Grab, and top calls on Roku arbitrage, a Bloom Energy upgrade and a Cloudflare upgrade. Macro topics include JOLTS data, labor market strength and inflation concerns; Meredith Whitney discusses consumer stress, the affordability crisis and housing weakness. Former SEC Chair Gary Gensler warns a major market repricing could be ahead and discusses financial regulation and AI oversight.",
+      "conclusion_zh": "选举结果与AI泡沫争论构成短期市场变量，苹果等高估值成长股及私募信贷相关的AI融资风险值得关注。",
+      "conclusion_en": "Election outcomes and the AI bubble debate are near-term market variables; high-valuation growth stocks like Apple and AI financing risks tied to private credit warrant attention.",
+      "key_points": [
+        {
+          "zh": "选举日：国会控制权与特朗普第二任期议程成为市场关注焦点。",
+          "en": "Election Day: control of Congress and Trump's second-term agenda are in focus for markets."
+        },
+        {
+          "zh": "油价因德黑兰释放谈判开放信号而波动。",
+          "en": "Oil swings as Tehran signals openness to talks."
+        },
+        {
+          "zh": "华尔街对AI泡沫存在分歧，讨论涉及AI支出、股权发行、私募信贷敞口与监管风险。",
+          "en": "Wall Street is divided over an AI bubble, with discussion of AI spending, equity issuance, private credit exposure and regulatory risks."
+        },
+        {
+          "zh": "Craig Moffett讨论苹果的高估值、服务增长与中国风险。",
+          "en": "Craig Moffett discusses Apple's premium valuation, services growth and China risks."
+        },
+        {
+          "zh": "前SEC主席Gary Gensler警告市场可能面临重大重定价。",
+          "en": "Former SEC Chair Gary Gensler warns a major market repricing could be ahead."
+        }
+      ],
+      "tags": [
+        "election",
+        "AI bubble",
+        "Apple",
+        "oil",
+        "regulation"
+      ],
+      "tickers": [
+        "AAPL",
+        "PLTR",
+        "DIS",
+        "PFE",
+        "SHOP",
+        "GRAB",
+        "ROKU",
+        "BE",
+        "NET",
+        "APO"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:bh4A9zPmtOg",
       "title": "How Digital Assets Are Rewiring Financial Markets",
@@ -18120,47 +18301,6 @@
         "M&A",
         "CCC spreads",
         "bond supply"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:W-kr-Fm3AzU",
-      "title": "Anduril Founder Luckey says company is investing in US-made computers",
-      "title_zh": "Anduril推出搭载高通芯片的BlueChip笔记本，旨在减少对中国制造电脑的依赖",
-      "url": "https://www.youtube.com/watch?v=W-kr-Fm3AzU",
-      "published_at": "2026-10-27T17:25:02+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Anduril Industries创始人Palmer Luckey表示，公司新推出的搭载高通芯片的BlueChip笔记本电脑旨在减少敏感政府和关键行业对中国制造电脑的依赖。Anduril最初寻求外部合作伙伴，后决定投资美国计算机制造，并指出外国制造设备对军事和关键基础设施构成安全风险。",
-      "summary_en": "Anduril Industries founder Palmer Luckey said the company's new BlueChip laptops with Qualcomm are aimed at reducing reliance on Chinese-made computers in sensitive government and critical industries. Anduril initially sought outside partners before deciding to invest in US computer manufacturing, adding that foreign-made equipment poses security risks for military and critical infrastructure.",
-      "detail_zh": "Anduril Industries创始人Palmer Luckey表示，公司新推出的BlueChip笔记本电脑搭载高通芯片，目标是减少敏感政府和关键行业对中国制造电脑的依赖。Anduril最初寻求外部合作伙伴，但随后决定投资美国计算机制造。Luckey补充称，外国制造的设备对军事和关键基础设施构成安全风险。",
-      "detail_en": "Anduril Industries founder Palmer Luckey said the company's new BlueChip laptops with Qualcomm are aimed at reducing reliance on Chinese-made computers in sensitive government and critical industries. Anduril initially sought outside partners before deciding to invest in US computer manufacturing. Luckey added that foreign-made equipment poses security risks for military and critical infrastructure.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Anduril推出搭载高通芯片的BlueChip笔记本电脑，旨在减少敏感领域对中国制造电脑的依赖。",
-          "en": "Anduril launched BlueChip laptops with Qualcomm chips, aiming to reduce reliance on Chinese-made computers in sensitive sectors."
-        },
-        {
-          "zh": "公司最初寻求外部合作伙伴，后决定投资美国计算机制造。",
-          "en": "The company initially sought outside partners before deciding to invest in US computer manufacturing."
-        },
-        {
-          "zh": "Anduril指出外国制造设备对军事和关键基础设施构成安全风险。",
-          "en": "Anduril noted that foreign-made equipment poses security risks for military and critical infrastructure."
-        }
-      ],
-      "tags": [
-        "Anduril",
-        "Qualcomm",
-        "US manufacturing",
-        "national security",
-        "supply chain"
       ],
       "tickers": [],
       "sentiment": "neutral"
