@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-11-03T13:15:50.546590+00:00",
+  "generated_at": "2026-11-03T14:15:46.373787+00:00",
   "insights": [
+    {
+      "guid": "yt:hJDNXP-XA_o",
+      "title": "Seven Stocks Are 41% of the S&P. Inflows Hit $1.5 Trillion. So Why Did a $1B Manager Cut Risk?",
+      "title_zh": "Atoria CEO：AI交易过度拥挤，美股需转向自下而上精选",
+      "url": "https://www.youtube.com/watch?v=hJDNXP-XA_o",
+      "published_at": "2026-11-03T14:06:47+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "Atoria Investment Advisors创始人兼CIO John指出，当前美股由AI主题主导，七只股票占标普41%，市场情绪亢奋，资金流入强劲。他认为利率上升源于经济增长而非通胀，大盘科技股可承受更高利率，但小企业和低收入消费者承压。其团队已从超配股票转向中性，并从市值加权转向等权重，强调当前应进行高度自下而上的个股选择。",
+      "summary_en": "John, founder and CIO of Atoria Investment Advisors, argues that the U.S. equity market is dominated by a single AI bet, with seven stocks comprising 41% of the S&P and sentiment euphoric. He views rising rates as driven by growth rather than inflation, with mega-cap tech able to withstand higher rates while small businesses and lower-income consumers feel the pinch. His firm has scaled back from overweight equities to neutral and shifted from cap-weighted to equal-weight, emphasizing highly idiosyncratic stock picking.",
+      "detail_zh": "John在访谈中表示，当前投资世界似乎就是一场AI押注，七只股票占标普500指数的41%，市场情绪“极度亢奋”。他指出，资金流入强劲，ETF行业在好年份流入约7800亿美元，而今年已在一个月或两个月前突破1.5万亿美元。他认为，利率上升是因为经济增长，而非通胀，美国经济由超大规模科技公司和Mag 7主导，这些公司能够承受更高利率，但小企业和低收入消费者正受到高利率的严重挤压。John的团队几个月前关闭了股票超配头寸，认为“容易赚的钱已经赚到”，并将配置从市值加权转向等权重。他警告，从早期周期向中期周期过渡并不容易，美联储希望加息，地缘政治战争悬而未决，市场存在大量亢奋情绪。他建议投资者在投资组合中采取非常特异性的押注，而不是广泛超配。",
+      "detail_en": "In the interview, John stated that the investment world seems like a single AI bet, with seven stocks making up 41% of the S&P 500 and sentiment 'skyhigh.' He noted strong fund inflows, with the ETF industry seeing about $780 billion in a good year, and already crossing $1.5 trillion a month or two ago this year. He believes rates are rising due to economic growth, not inflation, and that the U.S. economy is dominated by hyperscalers and Mag 7 stocks that can withstand higher rates, while small businesses and lower-income consumers are getting pinched hard. John's team closed its overweight equity position several months ago, saying 'the easy money has been made,' and shifted from cap-weighted to equal-weight. He warned that the transition from early to mid-cycle is tricky, with a Fed wanting to hike, geopolitical war overhang, and a lot of euphoria. He advises investors to be very idiosyncratic with portfolio bets rather than broadly overweight.",
+      "conclusion_zh": "市场情绪亢奋且集中度过高，投资者应降低广泛风险敞口，转向自下而上的个股选择。",
+      "conclusion_en": "With euphoric sentiment and high concentration, investors should reduce broad risk exposure and shift to bottom-up stock picking.",
+      "key_points": [
+        {
+          "zh": "七只股票占标普500指数的41%，市场呈现单一AI押注特征。",
+          "en": "Seven stocks make up 41% of the S&P 500, reflecting a concentrated AI bet."
+        },
+        {
+          "zh": "ETF资金流入强劲，今年已突破1.5万亿美元，显示零售参与度极高。",
+          "en": "ETF inflows are strong, already crossing $1.5 trillion this year, indicating high retail participation."
+        },
+        {
+          "zh": "利率上升源于经济增长，大盘科技股可承受更高利率，但小企业和低收入消费者承压。",
+          "en": "Rising rates are driven by growth; mega-cap tech can withstand higher rates, but small businesses and lower-income consumers are pinched."
+        },
+        {
+          "zh": "Atoria已从股票超配转向中性，并从市值加权转向等权重。",
+          "en": "Atoria has moved from overweight equities to neutral and from cap-weighted to equal-weight."
+        },
+        {
+          "zh": "当前处于早期周期向中期周期过渡的棘手阶段，建议采取高度特异性的个股押注。",
+          "en": "The market is in a tricky early-to-mid cycle transition; highly idiosyncratic stock picking is advised."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "market concentration",
+        "rate hikes",
+        "equal-weight",
+        "stock picking"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:q1bXLkfVg7Y",
+      "title": "Stocks Waver as Voters Head to Polls; US, Iran Pursue Diplomacy; Tech Earnings",
+      "title_zh": "中期选举投票开启，美股期货震荡；苹果财报展望分化",
+      "url": "https://www.youtube.com/watch?v=q1bXLkfVg7Y",
+      "published_at": "2026-11-03T13:42:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国中期选举首批投票站开放，美股期货走势摇摆。高盛Peter Oppenheimer在节目中讨论选举后市场进一步波动的风险。苹果在CEO John Ternus任内首份季报中给出分化展望。",
+      "summary_en": "US equity futures wavered as the first polls opened for the midterm elections. Goldman Sachs' Peter Oppenheimer discussed the risk of further market volatility after the elections. Apple delivered a mixed outlook in its first quarterly report under CEO John Ternus.",
+      "detail_zh": "美国中期选举首批投票站开放，美股期货走势摇摆。据一位外交官透露，伊朗与美国正在审议调解方提出的和平谈判最新提案。苹果在CEO John Ternus任内首份季报中给出分化展望。高盛Peter Oppenheimer做客\"Bloomberg Brief\"，讨论选举后市场进一步波动的风险。Chatham House的Laurel Rapp解释民主党与共和党各自的关键利害。节目章节还涵盖亚洲市场、中国流动性与澳大利亚加息，苹果财报、Palantir与英伟达，美国中期选举关键摇摆州，AI融资（甲骨文、谷歌、微软、Meta），苹果利润率压力与AI成本，美伊谈判与油价，以及民主党\"蓝色浪潮\"前景。",
+      "detail_en": "US equity futures wavered as the first set of polls opened for the midterm elections. According to a diplomat, Iran and the US are reviewing the latest proposals on peace negotiations from mediators. Apple delivered a mixed outlook in the first quarterly report under CEO John Ternus. Peter Oppenheimer of Goldman Sachs joined \"Bloomberg Brief\" to discuss the risk of further market volatility after the elections. Laurel Rapp of Chatham House explained what is at stake for both Democrats and Republicans. Chapters also cover Asia markets, China liquidity and an Australia rate hike; Apple earnings, Palantir and Nvidia; key US midterm battleground states; AI financing (Oracle, Google, Microsoft, Meta); Apple margin pressures and AI costs; US-Iran negotiations and oil prices; and Democrats' prospects for a blue wave.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "中期选举首批投票站开放，美股期货走势摇摆",
+          "en": "First polls opened for the midterm elections as US equity futures wavered"
+        },
+        {
+          "zh": "高盛Peter Oppenheimer讨论选举后市场进一步波动的风险",
+          "en": "Goldman Sachs' Peter Oppenheimer discussed the risk of further market volatility after the elections"
+        },
+        {
+          "zh": "苹果在CEO John Ternus任内首份季报中给出分化展望",
+          "en": "Apple delivered a mixed outlook in its first quarterly report under CEO John Ternus"
+        },
+        {
+          "zh": "据一位外交官，伊朗与美国正审议调解方提出的和平谈判最新提案",
+          "en": "According to a diplomat, Iran and the US are reviewing the latest proposals on peace negotiations from mediators"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "market volatility",
+        "Apple earnings",
+        "US-Iran talks",
+        "AI financing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:fQXVNi1wvcg",
       "title": "Midterm Elections 2026: Young Black & Latino Voters, Affordability in Focus says Former Ambassador",
@@ -18274,266 +18369,6 @@
         "Boeing",
         "airlines",
         "profitability"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:P5Etw0jBYqM",
-      "title": "UPS Raises Sales Outlook Ahead of Holiday Season",
-      "title_zh": "UPS上调销售展望，预计假日旺季强劲",
-      "url": "https://www.youtube.com/watch?v=P5Etw0jBYqM",
-      "published_at": "2026-10-27T14:13:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "UPS上调销售展望，称预计假日运输旺季表现强劲；公司提高了价格，但季度需求依然旺盛，三季度营收和盈利均超出华尔街预期。",
-      "summary_en": "UPS raised its sales outlook, citing expectations for a strong holiday shipping season. The courier raised prices but demand remained high for the quarter, with third-quarter earnings and revenue both beating Wall Street estimates.",
-      "detail_zh": "UPS上调了销售展望，并表示预计将迎来强劲的假日运输旺季。该公司提高了价格，但本季度需求依然旺盛。第三季度财报显示，营收和盈利均超出华尔街预期。彭博的Matt Griffin对此进行了报道。",
-      "detail_en": "UPS raised its sales outlook and said it expects a strong holiday shipping season. The company raised prices, but demand remained high for the quarter. Third-quarter earnings and revenue both beat Wall Street estimates, according to Bloomberg's Matt Griffin.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "UPS上调销售展望，预计假日运输旺季强劲。",
-          "en": "UPS raised its sales outlook, expecting a strong holiday shipping season."
-        },
-        {
-          "zh": "公司提高了价格，但季度需求依然旺盛。",
-          "en": "The company raised prices, but demand remained high for the quarter."
-        },
-        {
-          "zh": "第三季度营收和盈利均超出华尔街预期。",
-          "en": "Third-quarter earnings and revenue both beat Wall Street estimates."
-        }
-      ],
-      "tags": [
-        "UPS",
-        "earnings",
-        "holiday season",
-        "pricing"
-      ],
-      "tickers": [
-        "UPS"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:Qnjnk6ftnRU",
-      "title": "Investors Are Using Bonds to Hedge Against AI: Peters",
-      "title_zh": "PGIM：中期选举或改变AI建设节奏，债市被用作AI风险对冲",
-      "url": "https://www.youtube.com/watch?v=Qnjnk6ftnRU",
-      "published_at": "2026-10-27T14:02:25+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "PGIM信贷联席首席投资官Greg Peters指出，美国中期选举结果可能改变AI建设的节奏；部分投资者正利用债市对冲其对AI的担忧。",
-      "summary_en": "Greg Peters, PGIM Credit co-chief investment officer, says US midterm election results could change the pace of the AI buildout, and some investors are using the bond market as a hedge against AI-related worries.",
-      "detail_zh": "PGIM信贷联席首席投资官Greg Peters在“Bloomberg Surveillance”节目中讨论了债券市场状况。他表示，美国中期选举的结果可能改变AI建设的节奏。他还指出，部分投资者正利用债券市场来对冲他们对AI的任何担忧。",
-      "detail_en": "Greg Peters, PGIM Credit co-chief investment officer, discussed the state of the bond market on \"Bloomberg Surveillance.\" He said the US midterm election results could change the pace of the AI buildout. He also said some investors are using the bond market as a hedge against any worries they have about AI.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国中期选举结果可能改变AI建设的节奏。",
-          "en": "US midterm election results could change the pace of the AI buildout."
-        },
-        {
-          "zh": "部分投资者正利用债市对冲其对AI的担忧。",
-          "en": "Some investors are using the bond market as a hedge against AI-related worries."
-        },
-        {
-          "zh": "PGIM信贷联席首席投资官Greg Peters讨论了债券市场状况。",
-          "en": "Greg Peters, PGIM Credit co-chief investment officer, discussed the state of the bond market."
-        }
-      ],
-      "tags": [
-        "bond market",
-        "AI buildout",
-        "midterm elections",
-        "hedging"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:XXlilW6RaVI",
-      "title": "Why The Measles Outbreak Signals A Bigger Problem In The U.S.",
-      "title_zh": "美国麻疹疫情暴发暴露公共卫生体系深层脆弱性",
-      "url": "https://www.youtube.com/watch?v=XXlilW6RaVI",
-      "published_at": "2026-10-27T14:00:22+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "other"
-      ],
-      "summary_zh": "美国今年麻疹病例超4400例、死亡4人，为1991年以来最严重疫情。幼儿园MMR疫苗接种率降至92.4%，低于95%的群体免疫阈值，约28万名幼儿园儿童缺乏疫苗保护。专家认为，疫情不仅反映疫苗接种率下降，更暴露了公众信任下降、公共卫生部门资源紧张及特朗普政府削弱儿童疫苗接种政策等系统性问题，可能影响美国应对未来传染病威胁的能力。",
-      "summary_en": "The U.S. has reported over 4,400 measles cases and four deaths this year, the worst outbreak since 1991. Kindergarten MMR vaccination coverage has fallen to 92.4%, below the 95% threshold needed to prevent sustained transmission, leaving roughly 280,000 kindergartners without documented protection. Experts say the outbreak reveals deeper vulnerabilities—declining trust in public health institutions, misinformation, strained health departments, and Trump administration actions undermining childhood vaccination policy—that could complicate future infectious disease responses.",
-      "detail_zh": "美国今年麻疹病例已超过4400例，死亡4人，为1991年以来最严重的疫情。MMR疫苗两剂接种后有效性约97%，但美国幼儿园接种覆盖率已降至92.4%，远低于防止持续传播所需的95%门槛，意味着约28万名幼儿园儿童入学时缺乏MMR疫苗保护记录。尽管绝大多数家长仍为孩子接种疫苗，但接种率低的集中社区正在推高病例数。问题不仅限于接种率：疫情还凸显了公众对公共卫生机构信任下降、疫苗错误信息传播、公共卫生部门资源紧张以及说服美国人采取防护措施的难度。特朗普政府8月行政令建议将安全高效的MMR疫苗拆分为单独针剂，并削减CDC岗位及支持州和公共卫生基础设施的联邦拨款。布朗大学流行病学家Jennifer Nuzzo称麻疹是“煤矿中的金丝雀”，不仅预示其他疫苗可预防疾病的风险，也反映美国应对突发传染病紧急情况的能力。脊灰和百日咳等其他儿童疫苗接种率近年也有所下降，一些研究者通过模拟模型显示，儿童免疫接种率大幅下降可能导致数百万例已被疫苗基本消除的疾病（如风疹和脊灰）病例。公共卫生监测、协调和公众信任的薄弱也可能使应对全新病原体的工作复杂化，尤其是在科学家对新病毒传播方式、严重程度或治疗方法知之甚少时。",
-      "detail_en": "The U.S. has reported more than 4,400 measles cases and four deaths this year, the worst outbreak since 1991. The MMR vaccine is about 97% effective after two doses, but U.S. kindergarten vaccination coverage has fallen to 92.4%, well below the 95% threshold needed to prevent sustained transmission—meaning roughly 280,000 kindergartners started school without documented MMR protection. While the vast majority of parents still vaccinate their children, concentrated communities with low coverage are pushing cases higher. The problem extends beyond vaccination rates: the outbreak highlights declining trust in public health institutions, vaccine misinformation, strained public health departments, and challenges in persuading Americans to take protective steps. The Trump administration's August executive order suggested splitting the highly safe and effective MMR vaccine into separate shots, and the administration has cut CDC jobs and federal grants supporting state and public health infrastructure. Dr. Jennifer Nuzzo, an epidemiologist at Brown University, calls measles a canary in the coal mine—not just for other vaccine-preventable diseases but for the country's ability to respond to sudden infectious disease emergencies. Vaccination rates for other childhood diseases, including polio and whooping cough, have also dipped, and some researchers using simulation models show that significant declines in childhood immunization could lead to millions of cases of diseases largely pushed out of the U.S., like rubella and polio. Weaknesses in public health surveillance, coordination, and public trust could also complicate responses to entirely new pathogens, especially when scientists initially know little about how a new virus spreads, its severity, or how to treat it.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国今年麻疹病例超4400例、死亡4人，为1991年以来最严重疫情。",
-          "en": "The U.S. has reported over 4,400 measles cases and four deaths this year, the worst outbreak since 1991."
-        },
-        {
-          "zh": "幼儿园MMR接种率降至92.4%，低于95%的防持续传播阈值，约28万名儿童缺乏保护。",
-          "en": "Kindergarten MMR coverage has fallen to 92.4%, below the 95% threshold to prevent sustained transmission, leaving about 280,000 children without protection."
-        },
-        {
-          "zh": "疫情暴露公众信任下降、疫苗错误信息、公共卫生部门资源紧张等系统性问题。",
-          "en": "The outbreak exposes systemic issues including declining public trust, vaccine misinformation, and strained public health departments."
-        },
-        {
-          "zh": "特朗普政府8月行政令建议拆分MMR疫苗，并削减CDC岗位及州公共卫生拨款。",
-          "en": "The Trump administration's August executive order suggested splitting the MMR vaccine and cut CDC jobs and state public health grants."
-        },
-        {
-          "zh": "专家警告公共卫生体系薄弱可能影响应对未来传染病威胁的能力。",
-          "en": "Experts warn that public health weaknesses could complicate responses to future infectious disease threats."
-        }
-      ],
-      "tags": [
-        "measles outbreak",
-        "vaccination rates",
-        "public health",
-        "CDC",
-        "infectious disease"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:-dV-DdlAt_s",
-      "title": "A Fund Made 18.5% a Year. Its Investors Lost Money | Daniel Crosby on Why Good Returns Aren't Enough",
-      "title_zh": "行为投资学：从“表格最优”到“行为最优”",
-      "url": "https://www.youtube.com/watch?v=-dV-DdlAt_s",
-      "published_at": "2026-10-27T13:41:49+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "丹尼尔·克罗斯比博士在《行为投资者》新版中提出，投资组合的优劣取决于持有者能否坚持，而非仅靠均值方差优化。他以2000年代美国“失去的十年”中一只年化18.5%的基金为例，说明投资者因追涨杀跌反而亏损，强调“行为最优”和“焦虑调整后收益”的重要性。",
-      "summary_en": "Dr. Daniel Crosby, in the updated edition of The Behavioral Investor, argues that a portfolio's optimality depends on the holder's ability to stick with it, not just mean-variance optimization. He cites a fund that returned 18.5% annually during the 2000s lost decade while average investors lost money due to poor timing, emphasizing 'behaviorally optimal' portfolios and 'anxiety-adjusted returns.'",
-      "detail_zh": "克罗斯比博士指出，传统组合构建假设投资者会严格执行均值方差优化结果，但组合是否最优取决于持有者能否坚持。他引用一项研究：2000年代美国“失去的十年”中，买入并持有整体回报约为-1%，而一只集中持股基金年化收益达18.5%，但该基金波动极大，投资者追涨杀跌，平均反而亏损。因此，他主张“行为最优”而非“表格最优”，并引用格雷格·戴维斯的“焦虑调整后收益”概念，即追求在能睡好觉的前提下获取最大收益。他还提到人类同时存在多种风险偏好，而传统风险测评（如给出一个风险分数）过于简化。",
-      "detail_en": "Dr. Crosby notes that traditional portfolio construction assumes investors will execute mean-variance optimization results, but a portfolio's optimality depends on the holder's ability to stick with it. He cites a study: during the 2000s U.S. 'lost decade,' buy-and-hold returned about -1%, while a focused equity fund returned 18.5% annually. However, the fund was highly volatile, and investors piled in after run-ups and sold after mean reversion, resulting in average losses. He advocates for 'behaviorally optimal' over 'spreadsheet optimal' portfolios and references Greg Davies' concept of 'anxiety-adjusted returns'—maximizing returns subject to sleeping well at night. He also notes humans have multiple simultaneous risk preferences, while traditional risk assessments (e.g., a single risk score) are oversimplified.",
-      "conclusion_zh": "对投资者而言，构建与自身行为相容的组合、避免追涨杀跌，比追求理论最优更重要。",
-      "conclusion_en": "For investors, building a portfolio compatible with one's own behavior and avoiding chasing performance is more important than pursuing theoretical optimality.",
-      "key_points": [
-        {
-          "zh": "组合是否最优取决于持有者能否坚持，而非仅靠数学优化。",
-          "en": "A portfolio's optimality depends on the holder's ability to stick with it, not just mathematical optimization."
-        },
-        {
-          "zh": "2000年代美国“失去的十年”中，买入持有回报约-1%，而一只基金年化18.5%，但投资者因择时平均亏损。",
-          "en": "During the 2000s U.S. lost decade, buy-and-hold returned about -1%, while a fund returned 18.5% annually, but investors lost money on average due to timing."
-        },
-        {
-          "zh": "应追求“行为最优”和“焦虑调整后收益”，而非“表格最优”。",
-          "en": "Investors should pursue 'behaviorally optimal' portfolios and 'anxiety-adjusted returns' rather than 'spreadsheet optimal' ones."
-        },
-        {
-          "zh": "人类同时存在多种风险偏好，传统单一风险评分过于简化。",
-          "en": "Humans have multiple simultaneous risk preferences; traditional single risk scores are oversimplified."
-        }
-      ],
-      "tags": [
-        "behavioral finance",
-        "portfolio construction",
-        "investor psychology"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ALQbi1Wj3vM",
-      "title": "Kaplan on Raising Equity for Tech, Fed Decision",
-      "title_zh": "高盛副董事长Kaplan谈科技融资、Anthropic IPO与美联储利率预期",
-      "url": "https://www.youtube.com/watch?v=ALQbi1Wj3vM",
-      "published_at": "2026-10-27T13:37:35+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "高盛副董事长、前达拉斯联储主席Rob Kaplan在彭博节目中讨论了高盛近期大规模科技融资交易、Anthropic的IPO、人工智能对就业市场的影响，以及为何预计美联储将维持利率不变。",
-      "summary_en": "Goldman Sachs Vice Chair and former Dallas Fed President Rob Kaplan discussed the bank's recent large-scale tech financing deals, the Anthropic IPO, AI's impact on the job market, and why the Fed is expected to hold rates steady on Bloomberg Surveillance.",
-      "detail_zh": "高盛副董事长兼前达拉斯联储主席Rob Kaplan在“Bloomberg Surveillance”节目中，谈及了高盛近期在科技领域的大规模融资交易。他还提到了Anthropic的IPO，并讨论了人工智能对就业市场的影响。此外，Kaplan解释了为何预计美联储将维持利率不变。节目内容仅包含上述话题的简要介绍，未提供具体数据或详细观点。",
-      "detail_en": "Goldman Sachs Vice Chair and former Dallas Fed President Rob Kaplan appeared on Bloomberg Surveillance to discuss the bank's recent massive tech deals for financing. He also mentioned the Anthropic IPO and discussed how artificial intelligence is impacting the job market. Additionally, Kaplan explained why the Federal Reserve is expected to leave rates unchanged. The content only provides a brief introduction of these topics without specific data or detailed views.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "高盛近期进行了大规模科技融资交易。",
-          "en": "Goldman Sachs recently engaged in massive tech financing deals."
-        },
-        {
-          "zh": "Kaplan提及Anthropic的IPO。",
-          "en": "Kaplan mentioned the Anthropic IPO."
-        },
-        {
-          "zh": "讨论了人工智能对就业市场的影响。",
-          "en": "Discussed AI's impact on the job market."
-        },
-        {
-          "zh": "预计美联储将维持利率不变。",
-          "en": "Fed is expected to leave rates unchanged."
-        }
-      ],
-      "tags": [
-        "Goldman Sachs",
-        "Anthropic IPO",
-        "AI",
-        "Fed",
-        "tech financing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:A8yCVOLGrC0",
-      "title": "Wilson Pinpoints Clearing Events as Buying Opportunities",
-      "title_zh": "摩根士丹利威尔逊谈近期市场风险与策略",
-      "url": "https://www.youtube.com/watch?v=A8yCVOLGrC0",
-      "published_at": "2026-10-27T13:15:58+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "摩根士丹利首席美股策略师 Mike Wilson 在彭博电视节目中讨论近期市场风险及其对投资策略的影响。原文仅提供节目预告，未包含具体观点或数据。",
-      "summary_en": "Morgan Stanley Chief US Equity Strategist Mike Wilson discusses near-term market risks and their impact on his investment strategy on Bloomberg Television. The source only provides a program teaser without specific views or data.",
-      "detail_zh": "原文仅为彭博电视节目的简短介绍，指出摩根士丹利首席美股策略师 Mike Wilson 将讨论近期市场风险及其对投资策略的影响。内容未涉及任何具体的风险因素、市场判断、数字或投资建议。因此无法提供更详细的要点。",
-      "detail_en": "The source is only a brief introduction to a Bloomberg Television program, stating that Morgan Stanley Chief US Equity Strategist Mike Wilson will discuss near-term market risks and their impact on his investment strategy. It does not contain any specific risk factors, market views, numbers, or investment recommendations. Therefore, no further detailed points can be provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "摩根士丹利首席美股策略师 Mike Wilson 在彭博电视讨论近期市场风险。",
-          "en": "Morgan Stanley Chief US Equity Strategist Mike Wilson discusses near-term market risks on Bloomberg Television."
-        },
-        {
-          "zh": "讨论涉及这些风险对其投资策略的影响。",
-          "en": "The discussion covers the impact of these risks on his investment strategy."
-        },
-        {
-          "zh": "原文未提供具体观点、数据或建议。",
-          "en": "The source does not provide specific views, data, or recommendations."
-        }
-      ],
-      "tags": [
-        "Morgan Stanley",
-        "market risks",
-        "investment strategy",
-        "US equities"
       ],
       "tickers": [],
       "sentiment": "neutral"
