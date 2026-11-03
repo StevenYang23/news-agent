@@ -1,6 +1,145 @@
 {
-  "generated_at": "2026-11-03T08:20:26.057866+00:00",
+  "generated_at": "2026-11-03T09:16:18.206091+00:00",
   "insights": [
+    {
+      "guid": "yt:3ja53uUZW4o",
+      "title": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
+      "title_zh": "彭博访谈：科技股抛售、AI投资热潮与私人信贷需求",
+      "url": "https://www.youtube.com/watch?v=3ja53uUZW4o",
+      "published_at": "2026-11-03T08:43:56+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目聚焦香港金管局全球金融领袖投资峰会上讨论的科技股抛售，亚洲市场受美国科技股疲软拖累但中国显现韧性。摩根士丹利CEO Ted Pick讨论AI投资热潮及企业落后风险，PIMCO CEO Emmanuel Roman谈及AI融资与主权收益率，Ares Management CEO Michael Arougheti分享私人信贷需求。此外，苹果利润率收紧掩盖了乐观的假日预测，澳大利亚央行加息，华尔街看多印度股市。",
+      "summary_en": "This episode focuses on the tech rout discussed at the HKMA's Global Financial Leaders' Investment Summit, with Asian markets hit by US tech weakness but China showing resilience. Morgan Stanley CEO Ted Pick discusses the AI investment boom and the risk of enterprises falling behind, PIMCO CEO Emmanuel Roman talks AI financing and sovereign yields, and Ares Management CEO Michael Arougheti shares views on private credit demand. Additionally, Apple's tightening margins overshadow an upbeat holiday forecast, the RBA raises rates, and Wall Street turns bullish on India's top bourse.",
+      "detail_zh": "节目首先关注香港金管局全球金融领袖投资峰会上讨论的科技股抛售，亚洲市场受美国科技股疲软拖累，但中国表现出韧性。EFG International CEO Giorgio Pradelli讨论亚洲财富创造的加速。摩根士丹利董事长兼CEO Ted Pick就AI投资热潮发表看法，并解释为何企业不能在AI上落后。澳大利亚央行（RBA）上调基准利率。Ares Management CEO兼联合创始人Michael Arougheti讨论私人信贷需求。华尔街对印度主要交易所纷纷给出看涨观点。PIMCO CEO Emmanuel Roman讨论AI融资和主权收益率，以及欧洲的结构性增长、债务和财政挑战。苹果利润率收紧掩盖了乐观的假日预测。特朗普的司法部在加州选票问题上被最高法院驳回。Penta Group高级合伙人Bryan DeAngelis讨论美国中期选举。Mindspace Business Parks REIT董事总经理兼CEO Ramesh Nair讨论印度办公租赁和租金增长的持续性。",
+      "detail_en": "The program begins with the tech rout in focus at the HKMA's Global Financial Leaders' Investment Summit, as Asian markets take a hit from weakness in US tech but China shows resilience. EFG International CEO Giorgio Pradelli discusses Asia's accelerating wealth creation. Morgan Stanley Chairman and CEO Ted Pick shares views on the AI investment boom and why enterprises cannot afford to fall behind on AI. The RBA lifts its benchmark interest rate. Ares Management CEO and Co-Founder Michael Arougheti discusses private credit demand. Wall Street rushes in with bullish calls on India's top bourse. PIMCO CEO Emmanuel Roman talks about AI financing and sovereign yields, as well as Europe's structural growth, debt and fiscal challenges. Apple's tightening margins overshadow an upbeat holiday forecast. Trump's DOJ is rejected by the Supreme Court on California ballots. Penta Group Senior Partner Bryan DeAngelis discusses the US midterm elections. Mindspace Business Parks REIT MD & CEO Ramesh Nair talks about sustained office leasing and rental growth in India.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "香港金管局全球金融领袖投资峰会聚焦科技股抛售，亚洲市场受美国科技股疲软拖累，但中国显现韧性。",
+          "en": "The HKMA's Global Financial Leaders' Investment Summit focuses on the tech rout; Asian markets are hit by US tech weakness but China shows resilience."
+        },
+        {
+          "zh": "摩根士丹利CEO Ted Pick讨论AI投资热潮，并指出企业不能在AI上落后。",
+          "en": "Morgan Stanley CEO Ted Pick discusses the AI investment boom and says enterprises cannot afford to fall behind on AI."
+        },
+        {
+          "zh": "澳大利亚央行上调基准利率。",
+          "en": "The RBA lifts its benchmark interest rate."
+        },
+        {
+          "zh": "Ares Management CEO Michael Arougheti讨论私人信贷需求；PIMCO CEO Emmanuel Roman讨论AI融资与主权收益率。",
+          "en": "Ares Management CEO Michael Arougheti discusses private credit demand; PIMCO CEO Emmanuel Roman talks AI financing and sovereign yields."
+        },
+        {
+          "zh": "苹果利润率收紧掩盖了乐观的假日预测；华尔街看多印度主要交易所。",
+          "en": "Apple's tightening margins overshadow an upbeat holiday forecast; Wall Street is bullish on India's top bourse."
+        }
+      ],
+      "tags": [
+        "tech-rout",
+        "AI-investment",
+        "private-credit",
+        "RBA",
+        "India-markets"
+      ],
+      "tickers": [
+        "AAPL"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fSAH0VltlHk",
+      "title": "US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
+      "title_zh": "美伊冲突与霍尔木兹谈判牵动油市，Aramco业绩超预期",
+      "url": "https://www.youtube.com/watch?v=fSAH0VltlHk",
+      "published_at": "2026-11-03T08:29:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国打击伊朗格什姆岛，但美伊外交渠道保持开放，霍尔木兹谈判成为油供前景核心变量。Aramco第三季度营收、净利润和营业利润均超预期，中东能源扰动严重但长期增长机会仍存。亚洲股市因芯片抛售下跌，澳大利亚加息至18年高位。",
+      "summary_en": "US strikes hit Iran's Qeshm Island while diplomatic channels remain open; Hormuz negotiations are central to oil-supply outlook. Aramco's Q3 revenue, net income and operating profit all beat estimates. Asian stocks fall on deepening chip selloff; Australia raises rates to an 18-year high.",
+      "detail_zh": "美国对伊朗格什姆岛发动打击，但华盛顿与德黑兰保持外交渠道开放，JD Vance称双方进行了良好对话，霍尔木兹谈判仍是石油供应前景的核心，升级风险持续笼罩能源市场。Aramco第三季度业绩强劲，营收、净利润和营业利润均超出预期；Weatherford CEO Girish Saligram表示中东能源扰动依然严重，但该地区仍提供长期增长机会。亚洲股市因芯片抛售加深而下跌，澳大利亚将利率上调至18年高位；香港科技股上涨，因投资者转向消费类股，在岸人民币结束近期连涨。ADNOC和Eni支持阿根廷LNG项目，全球买家寻求新的供应选项；YPF董事长兼CEO Horacio Marín讨论阿根廷能源前景和盈利改善。AIQ CEO Dennis Jol表示公司正加速在钻井和设施中部署AI，提高效率并实现更自主的运营。西非石油流量降至七个月最低。美国政治方面，特朗普利用华盛顿反思池发表中期选举收官信息，最高法院驳回司法部涉及加州选票的挑战。",
+      "detail_en": "US strikes hit Iran's Qeshm Island even as Washington and Tehran keep diplomatic channels open. JD Vance says the two sides have had good conversations, while Hormuz negotiations remain central to the oil-supply outlook and escalation risks continue to hang over energy markets. Aramco reports a strong third quarter, with revenue, net income and operating profit all beating estimates. Middle East energy disruptions remain severe, but Weatherford CEO Girish Saligram says the region still offers long-term growth opportunities. Asian stocks fall as the chip selloff deepens, while Australia raises rates to an 18-year high. Hong Kong technology shares gain as investors rotate toward consumer names, and the onshore yuan ends its recent winning streak. ADNOC and Eni back an Argentina LNG project as global buyers look for new supply options; YPF Chairman and CEO Horacio Marín discusses Argentina's energy outlook and improving earnings. AI is reshaping the energy sector: AIQ CEO Dennis Jol says the company is accelerating deployment of AI across drilling and facilities, improving efficiency and enabling more autonomous operations. West African oil flows fall to their lowest level in seven months. In US politics, Trump uses Washington's reflecting pool for his midterm closing message, while the Supreme Court rejects a Justice Department challenge involving California ballots.",
+      "conclusion_zh": "地缘风险与供应扰动支撑能源市场，但美伊外交渠道开放提供缓冲；Aramco业绩超预期显示能源巨头韧性，AI在能源领域的应用值得关注。",
+      "conclusion_en": "Geopolitical risks and supply disruptions support energy markets, but open US-Iran diplomatic channels provide a buffer; Aramco's beat shows resilience of energy majors, and AI adoption in energy is worth watching.",
+      "key_points": [
+        {
+          "zh": "美国打击伊朗格什姆岛，但美伊外交渠道保持开放，霍尔木兹谈判是油供前景核心。",
+          "en": "US strikes hit Iran's Qeshm Island, but diplomatic channels remain open; Hormuz negotiations are central to oil-supply outlook."
+        },
+        {
+          "zh": "Aramco第三季度营收、净利润和营业利润均超预期。",
+          "en": "Aramco's Q3 revenue, net income and operating profit all beat estimates."
+        },
+        {
+          "zh": "亚洲股市因芯片抛售加深而下跌，澳大利亚加息至18年高位。",
+          "en": "Asian stocks fall as chip selloff deepens; Australia raises rates to an 18-year high."
+        },
+        {
+          "zh": "ADNOC和Eni支持阿根廷LNG项目，全球买家寻求新供应选项。",
+          "en": "ADNOC and Eni back an Argentina LNG project as global buyers seek new supply options."
+        },
+        {
+          "zh": "AIQ加速在能源领域部署AI，提升钻井和设施效率。",
+          "en": "AIQ accelerates AI deployment in energy, improving drilling and facilities efficiency."
+        }
+      ],
+      "tags": [
+        "oil",
+        "geopolitics",
+        "energy",
+        "AI",
+        "rates"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:kgfIrR2f5iU",
+      "title": "Oil Is the Biggest Binary Risk: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目简介，无实质市场内容",
+      "url": "https://www.youtube.com/watch?v=kgfIrR2f5iU",
+      "published_at": "2026-11-03T08:16:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介及社交媒体链接，未包含任何具体的市场分析、数据或投资观点。",
+      "summary_en": "The original text is merely a description of Bloomberg's 'The Opening Trade' program with social media links, containing no specific market analysis, data, or investment views.",
+      "detail_zh": "原文仅提及Anna Edwards、Guy Johnson和Mark Cudmore在节目《Bloomberg: The Opening Trade》中为分析师和投资者梳理当日关键主题，但未给出任何主题的具体内容。其余部分均为彭博电视和商业的社交媒体链接及订阅指引，不涉及市场动态、经济数据或个股信息。因此，无法从中提炼出任何投资洞见或市场判断。",
+      "detail_en": "The original text only mentions that Anna Edwards, Guy Johnson, and Mark Cudmore break down key themes for analysts and investors on 'Bloomberg: The Opening Trade,' but provides no specifics on those themes. The rest consists of social media links and subscription prompts for Bloomberg Television and Business, with no market updates, economic data, or stock information. Consequently, no investment insights or market judgments can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为节目简介，未提供具体市场主题内容。",
+          "en": "The text is a program description without specific market themes."
+        },
+        {
+          "zh": "提及三位主持人但无其观点或分析细节。",
+          "en": "Mentions three hosts but no details of their views or analysis."
+        },
+        {
+          "zh": "剩余内容为社交媒体链接，与投资无关。",
+          "en": "The remainder consists of social media links, unrelated to investing."
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "tv-program",
+        "no-content"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:WHwo-DCRkoQ",
       "title": "US, Iran Signal Willingness to Keep Talking",
@@ -18402,142 +18541,6 @@
         "NVDA",
         "BA"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:U01rv_-ySuE",
-      "title": "These Trade Ideas Are Getting Our Attention | Real Vision Trading League",
-      "title_zh": "Real Vision交易联赛首周：AI泡沫论与网络安全股领跑",
-      "url": "https://www.youtube.com/watch?v=U01rv_-ySuE",
-      "published_at": "2026-10-27T08:58:01+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Real Vision交易联赛首周，AI相关大盘股表现疲软，而押注AI泡沫的防御性交易（如网络安全股Sentinel One）领跑排行榜。Anthropic的S1文件显示其现金流为正，引发AI板块反弹，但机构情绪是否转向仍待观察。",
-      "summary_en": "In the first week of Real Vision's trading league, AI-related large caps struggled while defensive bets against an AI bubble, such as cybersecurity stock Sentinel One, topped the leaderboard. Anthropic's S1 filing showing positive cash flow sparked a rebound in AI bets, but whether institutional sentiment shifts remains to be seen.",
-      "detail_zh": "Real Vision于10月19日启动交易联赛，持续至11月20日，奖金池超过10万美元。首周标普500中位数股票上涨，但AI相关权重股表现疲软。参赛者Andreas Dana（多伦多）凭借Sentinel One（网络安全股）在4天内获得12%收益领跑。Andreas Dana本人持有Sentinel One，认为网络安全股既能防御AI对SaaS模式的冲击，又能作为AI放大器，是攻守兼备的选择。当日Anthropic提交S1文件，其中明确将自身列为人类风险，但文件显示其现金流为正，反驳了“推理无法盈利”的观点，引发AI板块反弹。市场关注机构情绪是否转向认可AI信用，以及本周超大规模云厂商的财报影响。",
-      "detail_en": "Real Vision launched its trading league on October 19, running through November 20 with a prize pool of over $100k. In the first week, the median S&P 500 stock rose, but AI-related heavyweights struggled. Participant Andreas Dana (Toronto) leads with a 12% gain in four days on Sentinel One, a cybersecurity stock. Andreas Dana personally holds Sentinel One, arguing cybersecurity stocks can both defend against AI disruption of SaaS and act as AI amplifiers, making them an offensive and defensive play. Anthropic filed its S1 today, explicitly listing itself as a risk to mankind, but the filing showed positive cash flow, refuting the notion that inference cannot be profitable, sparking a rebound in AI bets. The market watches whether institutional sentiment shifts toward AI credit and the impact of hyperscaler earnings this week.",
-      "conclusion_zh": "关注AI叙事分化：Anthropic现金流为正或缓解泡沫担忧，但机构情绪转向仍需验证，网络安全股成为攻守兼备的交易选择。",
-      "conclusion_en": "Watch the divergence in AI narrative: Anthropic's positive cash flow may ease bubble concerns, but a shift in institutional sentiment needs confirmation, with cybersecurity stocks offering a balanced trade.",
-      "key_points": [
-        {
-          "zh": "首周标普500中位数股票上涨，但AI相关权重股表现疲软。",
-          "en": "In the first week, the median S&P 500 stock rose, but AI-related heavyweights underperformed."
-        },
-        {
-          "zh": "Sentinel One（网络安全股）以4天12%收益领跑交易联赛。",
-          "en": "Sentinel One (cybersecurity) leads the trading league with a 12% gain in four days."
-        },
-        {
-          "zh": "Anthropic的S1文件显示现金流为正，反驳了推理无法盈利的观点。",
-          "en": "Anthropic's S1 filing shows positive cash flow, refuting the view that inference cannot be profitable."
-        },
-        {
-          "zh": "Andreas Dana认为网络安全股是防御AI对SaaS冲击并放大AI效益的攻守兼备选择。",
-          "en": "Andreas Dana sees cybersecurity stocks as both a defense against AI disruption of SaaS and an AI amplifier."
-        }
-      ],
-      "tags": [
-        "AI",
-        "cybersecurity",
-        "trading league",
-        "Anthropic",
-        "S1 filing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ITW6ftcwNlg",
-      "title": "Egypt Backs Saudi Defense as Regional Powers Push Iran Talks",
-      "title_zh": "Anthropic递交IPO文件提振AI交易，Meta拟融资至多950亿美元",
-      "url": "https://www.youtube.com/watch?v=ITW6ftcwNlg",
-      "published_at": "2026-10-27T08:40:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Anthropic递交IPO文件，披露上半年营收强劲，同时提示财务、基础设施及AI相关重大风险，带动AI交易回暖。Meta寻求至多950亿美元资金用于AI投资，微软向约6万名员工提供买断方案。市场聚焦科技财报与央行，Emirates NBD首席经济学家预计美联储10月按兵不动、2027年美国增长放缓。",
-      "summary_en": "Anthropic's IPO filing, showing strong first-half revenue while flagging major financial, infrastructure and AI-related risks, helps revive the AI trade. Meta seeks up to $95 billion to fund AI investment, and Microsoft offers buyouts to around 60,000 employees. Markets focus on tech earnings and central banks, with Emirates NBD's chief economist expecting the Fed to hold in October and slower US growth in 2027.",
-      "detail_zh": "Anthropic递交IPO文件，代码为ANT，披露上半年营收强劲，但同时提示财务、基础设施及AI相关的重大风险，该消息帮助AI交易回暖。Meta寻求至多950亿美元资金以支持AI投资；微软向约6万名员工提供买断方案。市场关注点集中在科技公司财报与央行政策上。亚洲市场方面，韩国存储股与日经指数上涨，日元在日本央行会议前走弱。Emirates NBD首席经济学家Nick Stadtmiller表示，预计美联储10月维持利率不变，并认为2027年美国增长将放缓。中东方面，沙特、土耳其和巴基斯坦官员在德黑兰举行会谈，推动重启美伊外交；伊朗在霍尔木兹海峡问题上释放灵活性信号，埃及支持沙特防务，沙特领导的联盟称拦截了胡塞武装的导弹和无人机，随着外交努力加快，油价回落。以色列民众前往投票，伊朗问题是内塔尼亚胡与艾森科特之间的关键分歧。此外，ADNOC Drilling首席财务官Youssef Salem讨论了地区冲突影响、第三季度业绩及公司在海湾和埃及的扩张；汇丰公布第三季度财报，沙特阿美接近获得100亿美元贷款，DP World讨论加拿大港口项目，Apollo探索入股Mubadala Capital。非洲方面，乌干达先令跌至纪录低点，尼日利亚公布新经济框架，当局监测52名与埃博拉相关的人员。",
-      "detail_en": "Anthropic filed for an IPO under the ticker ANT, reporting strong first-half revenue while flagging major financial, infrastructure and AI-related risks; the news helped revive the AI trade. Meta is seeking up to $95 billion to fund AI investment, and Microsoft is offering buyouts to around 60,000 employees. Markets are focused on technology earnings and central banks. In Asia, Korean memory stocks and the Nikkei gained, while the yen weakened ahead of the Bank of Japan. Emirates NBD Chief Economist Nick Stadtmiller said he expects the Fed to hold rates in October and sees slower US growth in 2027. In the Middle East, Saudi, Turkish and Pakistani officials held talks in Tehran as regional powers push to revive US-Iran diplomacy; Iran signaled flexibility over Hormuz, Egypt backed the defense of Saudi Arabia, and the Saudi-led coalition reported intercepting Houthi missiles and drones, with oil prices easing as diplomatic efforts gathered pace. Israelis head to the polls with Iran a key dividing issue between Benjamin Netanyahu and Gadi Eisenkot. Elsewhere, ADNOC Drilling CFO Youssef Salem discussed the impact of the regional conflict, third-quarter earnings and the company's expansion across the Gulf and Egypt; HSBC reported third-quarter earnings, Saudi Aramco approached a $10 billion loan, DP World discussed a Canadian port project, and Apollo explored a stake in Mubadala Capital. In Africa, Uganda's shilling hit a record low, Nigeria outlined a new economic framework, and authorities monitored 52 people in connection with Ebola.",
-      "conclusion_zh": "AI资本开支与融资活动（Anthropic IPO、Meta大额融资）仍是科技板块的重要驱动，但相关风险提示与美联储按兵预期的宏观背景值得同步关注。",
-      "conclusion_en": "AI capex and financing activity (Anthropic's IPO, Meta's large fundraising) remain key drivers for tech, while flagged risks and the macro backdrop of an expected Fed hold warrant attention.",
-      "key_points": [
-        {
-          "zh": "Anthropic递交IPO文件（代码ANT），上半年营收强劲，但提示财务、基础设施及AI相关重大风险，消息提振AI交易。",
-          "en": "Anthropic filed for an IPO (ticker ANT), reporting strong first-half revenue but flagging major financial, infrastructure and AI-related risks; the news lifted the AI trade."
-        },
-        {
-          "zh": "Meta寻求至多950亿美元资金用于AI投资；微软向约6万名员工提供买断方案。",
-          "en": "Meta seeks up to $95 billion to fund AI investment; Microsoft offers buyouts to around 60,000 employees."
-        },
-        {
-          "zh": "Emirates NBD首席经济学家Nick Stadtmiller预计美联储10月维持利率不变，并认为2027年美国增长将放缓。",
-          "en": "Emirates NBD Chief Economist Nick Stadtmiller expects the Fed to hold rates in October and sees slower US growth in 2027."
-        },
-        {
-          "zh": "中东外交努力加快，伊朗在霍尔木兹问题上释放灵活性，油价回落；以色列大选以伊朗问题为关键分歧。",
-          "en": "Middle East diplomatic efforts gathered pace, Iran signaled flexibility over Hormuz and oil prices eased; Iran is a key dividing issue in Israel's election."
-        },
-        {
-          "zh": "汇丰公布第三季度财报，沙特阿美接近获得100亿美元贷款，Apollo探索入股Mubadala Capital。",
-          "en": "HSBC reported third-quarter earnings, Saudi Aramco approached a $10 billion loan, and Apollo explored a stake in Mubadala Capital."
-        }
-      ],
-      "tags": [
-        "AI",
-        "IPO",
-        "Fed",
-        "Middle East",
-        "earnings"
-      ],
-      "tickers": [
-        "ANT"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:gv2dxiYetno",
-      "title": "Trade AI and Oil, Not Policy or Politics: Market Analysis",
-      "title_zh": "彭博《开盘交易》节目预告，无实质市场内容",
-      "url": "https://www.youtube.com/watch?v=gv2dxiYetno",
-      "published_at": "2026-10-27T08:23:42+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅为彭博电视节目《开盘交易》的播出提示及社交媒体链接，未包含任何具体的市场分析、数据或投资观点。",
-      "summary_en": "The original text is merely a broadcast notice for Bloomberg's 'The Opening Trade' program along with social media links, containing no specific market analysis, data, or investment views.",
-      "detail_zh": "原文仅提及Guy Johnson、Oliver Crook和Mark Cudmore将在彭博电视节目《开盘交易》中解析当日关键主题，但未提供任何主题的具体内容、数据或观点。其余内容均为彭博电视和商业的社交媒体链接及订阅提示，不涉及任何市场信息或投资洞见。",
-      "detail_en": "The original text only mentions that Guy Johnson, Oliver Crook, and Mark Cudmore will break down key themes of the day on Bloomberg's 'The Opening Trade' program, but provides no specific content, data, or views on any themes. The rest consists of social media links and subscription prompts for Bloomberg Television and Business, with no market information or investment insights.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目由Guy Johnson、Oliver Crook和Mark Cudmore主持。",
-          "en": "The program is hosted by Guy Johnson, Oliver Crook, and Mark Cudmore."
-        },
-        {
-          "zh": "原文未提供任何具体的市场主题或分析内容。",
-          "en": "The original text does not provide any specific market themes or analysis."
-        },
-        {
-          "zh": "其余内容为社交媒体链接和订阅提示。",
-          "en": "The remaining content consists of social media links and subscription prompts."
-        }
-      ],
-      "tags": [
-        "Bloomberg",
-        "TV program",
-        "no content"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
