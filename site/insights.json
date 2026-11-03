@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-11-03T18:17:01.503769+00:00",
+  "generated_at": "2026-11-03T19:12:35.473934+00:00",
   "insights": [
+    {
+      "guid": "yt:kMbk_Vl6iAk",
+      "title": "Gensler: AI isn’t crypto, but Washington is moving too slowly",
+      "title_zh": "前SEC主席Gensler：AI具变革性，但华盛顿监管行动不够快",
+      "url": "https://www.youtube.com/watch?v=kMbk_Vl6iAk",
+      "published_at": "2026-11-03T18:20:36+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前美国SEC主席Gary Gensler表示人工智能具有变革性，并强调AI不同于加密货币。他警告华盛顿在应对该技术风险方面行动仍不够迅速。",
+      "summary_en": "Former SEC Chair Gary Gensler said artificial intelligence is transformative and distinct from crypto, warning that Washington is still not moving fast enough to address the technology's risks.",
+      "detail_zh": "前美国证券交易委员会（SEC）主席Gary Gensler就人工智能监管发表看法。他表示“人工智能具有变革性”，并将AI与加密货币区分开来，称AI并非加密货币。Gensler警告称，华盛顿在应对人工智能所带来的风险方面，行动仍然不够迅速。原文未提供更多关于具体风险类型、监管措施或政策建议的细节。",
+      "detail_en": "Former U.S. Securities and Exchange Commission (SEC) Chair Gary Gensler commented on AI regulation. He stated that \"artificial intelligence is transformative\" and distinguished AI from crypto, saying AI isn't crypto. Gensler warned that Washington still isn't moving fast enough to address the risks posed by the technology. The source does not provide further details on specific risks, regulatory measures, or policy recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Gensler称人工智能具有变革性。",
+          "en": "Gensler says artificial intelligence is transformative."
+        },
+        {
+          "zh": "Gensler强调AI不是加密货币，将两者区分。",
+          "en": "Gensler emphasizes AI isn't crypto, distinguishing the two."
+        },
+        {
+          "zh": "Gensler警告华盛顿在应对AI风险方面行动不够快。",
+          "en": "Gensler warns Washington isn't moving fast enough to address AI risks."
+        }
+      ],
+      "tags": [
+        "AI regulation",
+        "SEC",
+        "Gary Gensler",
+        "Washington policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:VtmmBDAgO8M",
+      "title": "Bridgit Mendler on building the ground network for space",
+      "title_zh": "Northwood Space CEO：地面基础设施未跟上航天创新步伐",
+      "url": "https://www.youtube.com/watch?v=VtmmBDAgO8M",
+      "published_at": "2026-11-03T18:19:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Northwood Space CEO Bridgit Mendler 指出，航天产业创新迅速，但地面基础设施未能同步跟进。该公司正在建设端到端地面基础设施和软件定义网络，以连接低地球轨道卫星与地球，目前已在九个国家部署站点。",
+      "summary_en": "Northwood Space CEO Bridgit Mendler says ground infrastructure has not kept pace with innovation in the space industry. The company is building end-to-end ground infrastructure and software-defined networks to connect low Earth orbit satellites with Earth, with sites currently being deployed across nine countries.",
+      "detail_zh": "Northwood Space CEO Bridgit Mendler 表示，航天产业的地面基础设施未能跟上行业创新的步伐。该公司致力于构建端到端的地面基础设施和软件定义网络，用于连接低地球轨道卫星与地球。目前，公司正在九个国家部署相关站点。原文未披露具体财务数据、客户信息或时间表。",
+      "detail_en": "Northwood Space CEO Bridgit Mendler says ground infrastructure has not kept pace with innovation in the space industry. The company is building end-to-end ground infrastructure and software-defined networks to connect satellites in low Earth orbit with Earth. Sites are currently being deployed across nine countries. The source does not disclose financial details, customers, or timelines.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Northwood Space CEO 认为地面基础设施落后于航天创新",
+          "en": "Northwood Space CEO says ground infrastructure lags space innovation"
+        },
+        {
+          "zh": "公司建设端到端地面基础设施和软件定义网络",
+          "en": "Company builds end-to-end ground infrastructure and software-defined networks"
+        },
+        {
+          "zh": "目标连接低地球轨道卫星与地球",
+          "en": "Aims to connect LEO satellites with Earth"
+        },
+        {
+          "zh": "站点正在九个国家部署",
+          "en": "Sites being deployed across nine countries"
+        }
+      ],
+      "tags": [
+        "space",
+        "satellite",
+        "infrastructure",
+        "networking"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:BvXHEYK3nAQ",
       "title": "Ray Dalio on the Power of an Imperfectionist",
@@ -18123,187 +18207,6 @@
       ],
       "tickers": [],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:O3mcuElU1JA",
-      "title": "One Week to Election Day",
-      "title_zh": "彭博《权力平衡》节目讨论中期选举与以色列大选",
-      "url": "https://www.youtube.com/watch?v=O3mcuElU1JA",
-      "published_at": "2026-10-27T19:08:11+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博《权力平衡》早间版聚焦美国中期选举与以色列大选，嘉宾包括卡内基国际和平基金会高级研究员Aaron David Miller、Stonecourt Capital合伙人Rick Davis等。节目章节涵盖市场（财报、美联储、大型科技股）、以色列选举、特朗普背书、中期选举选情与市场影响等议题，但原文仅提供章节标题，未包含具体讨论内容。",
-      "summary_en": "Bloomberg's Balance of Power early edition focuses on the U.S. midterm elections and Israel's election, featuring guests including Carnegie Endowment Senior Fellow Aaron David Miller and Stonecourt Capital Partner Rick Davis. Chapters cover markets (earnings, Fed, Big Tech), Israel's election, Trump's endorsement, midterm polling and market implications, but the source only provides chapter titles without substantive discussion content.",
-      "detail_zh": "该原文为彭博电视《权力平衡》早间版的节目介绍，列出了各章节标题及嘉宾名单。嘉宾包括卡内基国际和平基金会高级研究员Aaron David Miller、Stonecourt Capital合伙人Rick Davis、哈佛肯尼迪学院Ash中心访问民主研究员Jeanne Sheehan Zaino以及Precision Strategies高级合伙人Alex Conant。章节涵盖：市场（财报、美联储与大型科技股）、以色列对 Netanyahu 未来的投票、创纪录投票率与 Netanyahu 的政治斗争、以色列选举对 Netanyahu 的意义、特朗普的背书与以色列政治、以色列、伊朗与选举后展望、Netanyahu 的法律与政治未来、特朗普前往得克萨斯州为 Ken Paxton 助选、政治小组讨论负担能力与中期选举、民调、投票率与参议院之争、预测市场与政治民调、中期选举如何影响市场、民主党浪潮是否正在形成、堪萨斯、密西西比与共和党风险、竞选支出与候选人质量、跛脚鸭国会可能的面貌。原文未提供任何具体讨论内容、数据或观点引述。",
-      "detail_en": "The source is a program description for Bloomberg TV's Balance of Power early edition, listing chapter titles and guest names. Guests include Carnegie Endowment for International Peace Senior Fellow Aaron David Miller, Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino, and Precision Strategies Senior Partner Alex Conant. Chapters cover: Markets (Earnings, Fed & Big Tech); Israel Votes on Netanyahu's Future; Record Turnout & Netanyahu's Political Fight; What Israel's Election Means for Netanyahu; Trump's Endorsement & Israeli Politics; Israel, Iran & the Post-Election Outlook; Netanyahu's Legal & Political Future; Trump Heads to Texas for Ken Paxton; Political Panel: Affordability & the Midterms; Polls, Turnout & the Senate Battle; Prediction Markets vs. Political Polls; How the Midterms Could Move Markets; Is a Democratic Wave Building?; Kansas, Mississippi & Republican Risks; Campaign Spending & Candidate Quality; What a Lame-Duck Congress Could Look Like. The source provides no substantive discussion content, data, or quoted opinions.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目讨论美国中期选举，包括民调、投票率、参议院之争及对市场的影响。",
-          "en": "The program discusses the U.S. midterm elections, including polls, turnout, the Senate battle, and market implications."
-        },
-        {
-          "zh": "节目涉及以色列大选，聚焦 Netanyahu 的政治与法律前景。",
-          "en": "The program covers Israel's election, focusing on Netanyahu's political and legal future."
-        },
-        {
-          "zh": "嘉宾包括 Aaron David Miller、Rick Davis、Jeanne Sheehan Zaino 和 Alex Conant。",
-          "en": "Guests include Aaron David Miller, Rick Davis, Jeanne Sheehan Zaino, and Alex Conant."
-        },
-        {
-          "zh": "章节标题提及市场（财报、美联储、大型科技股）及中期选举如何影响市场。",
-          "en": "Chapter titles mention markets (earnings, Fed, Big Tech) and how the midterms could move markets."
-        },
-        {
-          "zh": "原文仅提供节目章节列表，未包含具体讨论内容或数据。",
-          "en": "The source only provides a chapter list without substantive discussion content or data."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "Israel election",
-        "Netanyahu",
-        "market impact",
-        "Bloomberg TV"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:CoVjsOOuXLk",
-      "title": "Arctos CEO on safe haven investing status of sports teams",
-      "title_zh": "Arctos CEO：体育球队在缺乏避险资产的世界中具备避险属性",
-      "url": "https://www.youtube.com/watch?v=CoVjsOOuXLk",
-      "published_at": "2026-10-27T18:56:19+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Arctos管理合伙人兼CEO Ian Charles在Bloomberg Invest Dallas活动上表示，他认为人们尚未理解体育球队在避险资产稀缺的世界中所具备的避险地位。",
-      "summary_en": "Arctos Managing Partner and CEO Ian Charles said at Bloomberg Invest Dallas that he does not think people understand the safe-haven status of sports teams in a world where safe-haven assets are scarce.",
-      "detail_zh": "Arctos管理合伙人兼CEO Ian Charles在Bloomberg Invest Dallas活动上发言。他表示，在一个没有太多避险资产的世界里，人们并不理解体育球队的避险地位。该表态将体育球队资产置于避险资产的讨论框架中，但原文未提供具体数据、交易细节或进一步论证。",
-      "detail_en": "Arctos Managing Partner and CEO Ian Charles spoke at Bloomberg Invest Dallas. He said he doesn't think people understand the safe-haven status of sports teams in a world where there aren't many safe-haven assets. The remark frames sports team assets within a safe-haven discussion, but the source provides no specific data, transaction details or further argumentation.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Arctos CEO Ian Charles认为体育球队具备避险资产属性。",
-          "en": "Arctos CEO Ian Charles views sports teams as having safe-haven characteristics."
-        },
-        {
-          "zh": "他指出当前世界中避险资产并不多。",
-          "en": "He noted that there aren't many safe-haven assets in the world today."
-        },
-        {
-          "zh": "他认为人们尚未理解体育球队的避险地位。",
-          "en": "He said people do not understand the safe-haven status of sports teams."
-        }
-      ],
-      "tags": [
-        "sports assets",
-        "safe haven",
-        "private markets"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:zg5I3L1cRa8",
-      "title": "What Anthropic's IPO Means for the AI Trade",
-      "title_zh": "Anthropic拟以史上最大IPO登陆纳斯达克，代码ANT",
-      "url": "https://www.youtube.com/watch?v=zg5I3L1cRa8",
-      "published_at": "2026-10-27T18:56:01+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Anthropic预计将通过IPO募资规模超过史上任何公司，并计划以代码ANT在纳斯达克上市。其公开市场表现可能巩固或动摇华尔街对AI热潮的信心，而当前投资者对支撑这轮热潮的借贷狂潮日益焦虑。",
-      "summary_en": "Anthropic is expected to raise more money in its IPO than any company in history and plans to list on Nasdaq under ticker ANT. Its public market performance could cement or capsize Wall Street's confidence in the AI boom, at a time when investors are increasingly anxious about the borrowing binge underpinning it.",
-      "detail_zh": "据彭博情报的Matt Bloxham介绍，Anthropic预计将通过首次公开募股募集的资金规模将超过历史上任何一家公司，并计划以股票代码ANT在纳斯达克上市。其上市后的公开市场表现，可能成为华尔街对AI热潮信心的关键考验——要么巩固这一信心，要么将其颠覆。当前投资者对支撑AI热潮的借贷狂潮日益感到焦虑，这使得Anthropic的IPO时机尤为敏感。原文未披露具体募资规模、估值或时间表。",
-      "detail_en": "According to Matt Bloxham of Bloomberg Intelligence, Anthropic is expected to raise more money in its initial public offering than any company in history and plans to list on the Nasdaq under the ticker ANT. Its public market performance could serve as a key test for Wall Street's confidence in the AI boom—either cementing it or capsizing it. Investors are increasingly anxious about the borrowing binge underpinning the AI boom, making the timing of Anthropic's IPO particularly sensitive. The original text does not disclose the specific fundraising size, valuation, or timetable.",
-      "conclusion_zh": "Anthropic的IPO将成为检验AI热潮信心的关键事件，其上市表现可能放大市场对AI相关债务风险的敏感度。",
-      "conclusion_en": "Anthropic's IPO will be a key test of confidence in the AI boom, and its post-listing performance could heighten market sensitivity to AI-related debt risks.",
-      "key_points": [
-        {
-          "zh": "Anthropic预计IPO募资规模将创历史纪录，超过任何一家公司。",
-          "en": "Anthropic is expected to raise more in its IPO than any company in history."
-        },
-        {
-          "zh": "公司计划以代码ANT在纳斯达克上市。",
-          "en": "The company plans to list on the Nasdaq under the ticker ANT."
-        },
-        {
-          "zh": "其公开市场表现可能巩固或动摇华尔街对AI热潮的信心。",
-          "en": "Its public market performance could cement or capsize Wall Street's confidence in the AI boom."
-        },
-        {
-          "zh": "投资者对支撑AI热潮的借贷狂潮日益焦虑。",
-          "en": "Investors are increasingly anxious about the borrowing binge underpinning the AI boom."
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "AI",
-        "Nasdaq",
-        "market confidence"
-      ],
-      "tickers": [
-        "ANT"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:LW51qWpTbv0",
-      "title": "Credit Markets Send Mixed Signals | Thoughts on the Market",
-      "title_zh": "摩根士丹利：AI资本开支与并购潮下，信用市场信号分化",
-      "url": "https://www.youtube.com/watch?v=LW51qWpTbv0",
-      "published_at": "2026-10-27T18:32:43+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "摩根士丹利固定收益研究主管Andrew Sheets指出，信用市场同时出现两个矛盾信号：债券供给创纪录显示市场开放，但CCC级低评级信用利差走阔暗示裂痕正在形成。他还提到关键借款人对利率的独特不敏感性，并邀请收听Thoughts on the Market获取更多观点。",
-      "summary_en": "Andrew Sheets, global head of fixed income research at Morgan Stanley, highlights two contradictory signals in the credit market: record bond supply suggests markets are open, while widening spreads for triple-C rated credits indicate cracks are forming. He also notes the unique insensitivity to rates from key borrowers and invites listeners to tune in to Thoughts on the Market for more views.",
-      "detail_zh": "摩根士丹利全球固定收益研究主管Andrew Sheets表示，当前正处于一个巨大的AI资本开支周期，同时并购活动也显著升温。他指出，信用市场正被两个看似矛盾的叙事主导：一方面，债券供给处于创纪录水平，表明市场开放且状况良好；另一方面，市场最低评级（CCC级）信用利差正在走阔，暗示裂痕正在形成。Sheets还提到，关键借款人对利率的独特不敏感性影响这场辩论，并邀请听众收听Thoughts on the Market获取更多观点。",
-      "detail_en": "Andrew Sheets, global head of fixed income research at Morgan Stanley, says we are in the midst of an enormous AI capex cycle and at the same time a major pickup in M&A. He notes that two seemingly contradictory narratives are dominating the credit market: on one hand, bond supply is at record levels, indicating that markets are open and everything is quite good; on the other hand, widening spreads for the market's lowest rated credits, the triple C's, suggest that cracks are forming. Sheets also mentions how the unique insensitivity to rates from key borrowers affects this debate, and invites listeners to tune in to Thoughts on the Market for more views.",
-      "conclusion_zh": "信用市场信号分化：供给强劲与低评级利差走阔并存，需关注CCC级信用裂痕及关键借款人对利率不敏感的影响。",
-      "conclusion_en": "Credit market signals are diverging: strong supply coexists with widening low-rated spreads; watch for cracks in triple-C credits and the impact of key borrowers' insensitivity to rates.",
-      "key_points": [
-        {
-          "zh": "当前处于巨大的AI资本开支周期，同时并购活动显著升温。",
-          "en": "We are in the midst of an enormous AI capex cycle and a major pickup in M&A."
-        },
-        {
-          "zh": "债券供给处于创纪录水平，显示市场开放且状况良好。",
-          "en": "Bond supply is at record levels, indicating that markets are open and everything is quite good."
-        },
-        {
-          "zh": "CCC级最低评级信用利差走阔，暗示信用市场裂痕正在形成。",
-          "en": "Widening spreads for the lowest rated triple-C credits suggest that cracks are forming."
-        },
-        {
-          "zh": "关键借款人对利率的独特不敏感性影响当前信用市场辩论。",
-          "en": "The unique insensitivity to rates from key borrowers affects the current credit market debate."
-        }
-      ],
-      "tags": [
-        "credit market",
-        "AI capex",
-        "M&A",
-        "CCC spreads",
-        "bond supply"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
