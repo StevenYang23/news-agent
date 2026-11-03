@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:13:30.252375+00:00",
+  "generated_at": "2026-11-03T06:21:52.952137+00:00",
   "insights": [
     {
       "guid": "yt:MW-ahuCD3Wk",
@@ -18278,55 +18278,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:MyvL_35T560",
-      "title": "Anthropic IPO Reignites AI Trade in Asia",
-      "title_zh": "Anthropic提交重磅IPO申请，科技股涨势蔓延至亚洲",
-      "url": "https://www.youtube.com/watch?v=MyvL_35T560",
-      "published_at": "2026-10-27T06:09:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博《Insight with Haslinda Amin》节目显示，Anthropic已提交重磅IPO申请，带动科技股涨势从美股延伸至亚洲市场。节目邀请Moneta的Aoifinn Devitt与CVC Marathon的Bruce Richards就Anthropic IPO进行讨论，同时涵盖JSW Steel增长展望、菲律宾比索跌至64兑1美元、Jio IPO提升印度电信股吸引力及韩国预算部长谈AI基金等议题。",
-      "summary_en": "Bloomberg's \"Insight with Haslinda Amin\" reports that Anthropic has filed for a blockbuster IPO, extending the tech rally from the U.S. into Asian markets. The program features Moneta's Aoifinn Devitt and CVC Marathon's Bruce Richards discussing the Anthropic IPO, alongside JSW Steel's growth outlook, the Philippine peso falling to 64 per dollar, Jio's IPO lifting the appeal of Indian telecom stocks, and an exclusive with South Korea's Budget Minister on an AI fund.",
-      "detail_zh": "本期节目以Anthropic提交重磅IPO申请开场，随后讨论科技股涨势因Anthropic IPO而延伸至亚洲市场。Moneta的Aoifinn Devitt与CVC Marathon的Bruce Richards分别就Anthropic IPO发表看法。节目还采访了JSW Steel的Jayant Acharya，讨论增长展望，Acharya提及销量相关观点。此外，节目提到菲律宾比索跌至64兑1美元；Jio IPO提升了印度电信股的吸引力，同时SpaceX IPO临近；并对韩国预算部长进行了独家采访，话题涉及AI基金。",
-      "detail_en": "The program opens with Anthropic filing for a blockbuster IPO, followed by discussion of the tech rally extending into Asia on the Anthropic IPO. Moneta's Aoifinn Devitt and CVC Marathon's Bruce Richards each weigh in on the Anthropic IPO. The show also features JSW Steel's Jayant Acharya on the growth outlook, with Acharya commenting on volumes. Additionally, it notes the Philippine peso falling to 64 per dollar; Jio's IPO lifting the appeal of Indian telecom stocks as SpaceX looms; and an exclusive interview with South Korea's Budget Minister on an AI fund.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Anthropic已提交重磅IPO申请",
-          "en": "Anthropic has filed for a blockbuster IPO"
-        },
-        {
-          "zh": "科技股涨势因Anthropic IPO延伸至亚洲市场",
-          "en": "The tech rally extends to Asia on the Anthropic IPO"
-        },
-        {
-          "zh": "Moneta的Aoifinn Devitt与CVC Marathon的Bruce Richards讨论Anthropic IPO",
-          "en": "Moneta's Aoifinn Devitt and CVC Marathon's Bruce Richards discuss the Anthropic IPO"
-        },
-        {
-          "zh": "菲律宾比索跌至64兑1美元",
-          "en": "The Philippine peso falls to 64 per dollar"
-        },
-        {
-          "zh": "Jio IPO提升印度电信股吸引力，SpaceX IPO临近；韩国预算部长独家谈AI基金",
-          "en": "Jio's IPO lifts the appeal of Indian telecom stocks as SpaceX looms; exclusive with South Korea's Budget Minister on an AI fund"
-        }
-      ],
-      "tags": [
-        "Anthropic IPO",
-        "tech rally",
-        "Asia markets",
-        "Philippine peso",
-        "AI fund"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
