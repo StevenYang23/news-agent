@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:15:46.373787+00:00",
+  "generated_at": "2026-11-03T15:13:25.045981+00:00",
   "insights": [
     {
       "guid": "yt:hJDNXP-XA_o",
@@ -18288,90 +18288,6 @@
       ],
       "tickers": [],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:V91lMNeifAg",
-      "title": "Goldman Sachs Vice Chairman Kaplan on Fed predictions",
-      "title_zh": "前达拉斯联储主席卡普兰：美联储正权衡“混合经济”",
-      "url": "https://www.youtube.com/watch?v=V91lMNeifAg",
-      "published_at": "2026-10-27T15:08:06+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前达拉斯联储主席、现任高盛副董事长罗伯特·卡普兰表示，美联储政策制定者在FOMC会议上正在考量一个“混合经济”的局面。原文未提供更多关于该表述的具体细节或政策倾向。",
-      "summary_en": "Former Dallas Fed President and current Goldman Sachs Vice Chairman Robert Kaplan said Fed policymakers are considering a \"mixed economy\" at the FOMC meeting. The source provides no further details on the term or policy implications.",
-      "detail_zh": "前达拉斯联储主席、现任高盛副董事长罗伯特·卡普兰就美联储政策制定者在FOMC会议上考量的经济状况发表看法。卡普兰将决策者正在权衡的经济描述为“混合经济”。原文仅包含这一表述，未进一步说明“混合经济”的具体构成、数据依据，也未提及卡普兰对利率路径或市场影响的判断。",
-      "detail_en": "Former Dallas Fed President and current Goldman Sachs Vice Chairman Robert Kaplan commented on the economic conditions Fed policymakers are weighing at the FOMC meeting. Kaplan described the economy under consideration as a \"mixed economy.\" The source contains only this statement and does not elaborate on the components of the \"mixed economy,\" the data behind it, or Kaplan's views on the rate path or market implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "卡普兰现任高盛副董事长，曾任达拉斯联储主席。",
-          "en": "Kaplan is Vice Chairman of Goldman Sachs and former Dallas Fed President."
-        },
-        {
-          "zh": "他表示美联储政策制定者在FOMC会议上正考量“混合经济”。",
-          "en": "He said Fed policymakers are considering a \"mixed economy\" at the FOMC meeting."
-        },
-        {
-          "zh": "原文未提供“混合经济”的具体定义或政策含义。",
-          "en": "The source does not define \"mixed economy\" or its policy implications."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "FOMC",
-        "mixed economy",
-        "Kaplan"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:v3tZ_2jNmqY",
-      "title": "JetBlue Promises It Will Return to Profitability",
-      "title_zh": "捷蓝航空预计明年扭亏为盈，波音仍寻求业务复苏",
-      "url": "https://www.youtube.com/watch?v=v3tZ_2jNmqY",
-      "published_at": "2026-10-27T14:52:39+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "捷蓝航空第三季度每股亏损60美分，但公司表示明年将恢复盈利，自2019年以来尚未实现年度盈利。波音公司仍希望扭转其商用飞机业务。",
-      "summary_en": "JetBlue Airways lost 60 cents per share in the third quarter but expects to return to profitability next year, having not had a profitable year since 2019. Boeing is still hoping to turn around its commercial business.",
-      "detail_zh": "捷蓝航空公布第三季度每股亏损60美分，但公司表示预计明年将再次实现盈利。该航空公司自2019年以来尚未实现年度盈利。与此同时，波音公司仍在寻求扭转其商用飞机业务的局面。彭博社的Sid Philip报道了相关情况。",
-      "detail_en": "JetBlue Airways reported a third-quarter loss of 60 cents per share but stated it expects to turn a profit again next year. The carrier has not had a profitable year since 2019. Meanwhile, Boeing is still hoping to turn around its commercial business. Bloomberg's Sid Philip reports.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "捷蓝航空第三季度每股亏损60美分。",
-          "en": "JetBlue Airways lost 60 cents per share in the third quarter."
-        },
-        {
-          "zh": "捷蓝航空预计明年将恢复盈利。",
-          "en": "JetBlue expects to return to profitability next year."
-        },
-        {
-          "zh": "捷蓝航空自2019年以来尚未实现年度盈利。",
-          "en": "JetBlue has not had a profitable year since 2019."
-        },
-        {
-          "zh": "波音公司仍希望扭转其商用飞机业务。",
-          "en": "Boeing is still hoping to turn around its commercial business."
-        }
-      ],
-      "tags": [
-        "JetBlue",
-        "Boeing",
-        "airlines",
-        "profitability"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
