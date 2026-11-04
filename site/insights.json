@@ -1,6 +1,781 @@
 {
-  "generated_at": "2026-11-04T07:14:02.182413+00:00",
+  "generated_at": "2026-11-04T08:21:01.113802+00:00",
   "insights": [
+    {
+      "guid": "yt:VTirKvRxego",
+      "title": "Election 2026 Special Coverage  | Part 3",
+      "title_zh": "中期选举蓝潮预期升温，美股期货与美元走低",
+      "url": "https://www.youtube.com/watch?v=VTirKvRxego",
+      "published_at": "2026-11-04T07:41:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博电视分析中期选举对华尔街的影响。随着民主党在参众两院及多个州长选举中胜出的预期升温，纳指和标普期货下跌，美股与美元走低，市场担忧华盛顿政治僵局。",
+      "summary_en": "Bloomberg TV analyzes what the midterms mean for Wall Street. As projections of Democratic wins in the House, Senate, and several governorships increased, Nasdaq and S&P futures declined, and stocks and the dollar slid on growing concerns about US gridlock.",
+      "detail_zh": "节目跟踪了中期选举的实时结果与市场反应。民主党赢得南卡罗来纳州参议员席位和艾奥瓦州州长职位，并在得克萨斯州参议员和州长选举中翻蓝。随后预测显示民主党将赢得众议院和参议院控制权。随着“蓝潮”押注升温，纳斯达克和标普期货下跌，亚太与美国期货触及盘中低点。市场对华盛顿政治僵局的担忧加剧，导致美股和美元走低。特朗普表示将接受中期选举结果，并祝贺民主党人。",
+      "detail_en": "The program tracked live midterm results and market reactions. Democrats won a South Carolina Senate seat and the Iowa governorship, and flipped Texas in both Senate and governors races. Projections later indicated Democrats would win control of the House and Senate. As bets on a 'blue wave' rose, Nasdaq and S&P futures declined, and APAC and US futures hit session lows. Growing concerns about US gridlock sent stocks and the dollar lower. Trump said he would accept the midterm results and congratulated Democrats.",
+      "conclusion_zh": "中期选举蓝潮预期升温引发美股期货与美元走低，市场关注华盛顿政治僵局风险。",
+      "conclusion_en": "Rising blue-wave expectations in the midterms pressured US equity futures and the dollar, with markets focused on gridlock risks in Washington.",
+      "key_points": [
+        {
+          "zh": "预测显示民主党将赢得众议院和参议院控制权。",
+          "en": "Projections indicate Democrats will win control of the House and Senate."
+        },
+        {
+          "zh": "民主党在得克萨斯州参议员和州长选举中翻蓝。",
+          "en": "Texas flipped blue in both Senate and governors races."
+        },
+        {
+          "zh": "随着蓝潮押注升温，纳斯达克和标普期货下跌。",
+          "en": "Nasdaq and S&P futures declined as blue-wave bets rose."
+        },
+        {
+          "zh": "美股和美元因华盛顿僵局担忧加剧而走低。",
+          "en": "Stocks and the dollar slid as US gridlock concerns grew."
+        },
+        {
+          "zh": "特朗普表示将接受中期选举结果，并祝贺民主党人。",
+          "en": "Trump said he would accept the midterm results and congratulated Democrats."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "blue-wave",
+        "futures",
+        "gridlock",
+        "dollar"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:i2wEcBq3M9U",
+      "title": "Midterms 2026: Democrats Win Control of Congress in Election Landslide",
+      "title_zh": "民主党中期选举大胜，夺回国会两院控制权",
+      "url": "https://www.youtube.com/watch?v=i2wEcBq3M9U",
+      "published_at": "2026-11-04T07:17:36+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党在中期选举中以压倒性优势赢得国会两院控制权，此次选举被视为对总统特朗普的否定，背景是选民对经济状况和伊朗战争的不满。",
+      "summary_en": "Democrats won control of both chambers of Congress in a midterm election landslide, seen as a rejection of President Donald Trump amid voter discontent with the economy and the war in Iran.",
+      "detail_zh": "据彭博社的David Gura报道，民主党在中期选举中取得压倒性胜利，赢得了美国国会两院的控制权。此次选举结果被解读为选民对总统特朗普的否定。报道指出，选民普遍对经济状况和伊朗战争感到不满，这成为选举结果的重要背景。原文未提供具体席位变化、投票数据或后续政策影响等细节。",
+      "detail_en": "According to Bloomberg's David Gura, Democrats won a landslide victory in the midterm elections, gaining control of both chambers of the US Congress. The outcome is interpreted as a rejection of President Donald Trump. The report notes widespread voter discontent with the economy and the war in Iran as key context. No specific seat changes, voting data, or subsequent policy implications are provided in the original text.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党赢得国会两院控制权",
+          "en": "Democrats won control of both chambers of Congress"
+        },
+        {
+          "zh": "选举结果被视为对特朗普的否定",
+          "en": "The election result is seen as a rejection of Trump"
+        },
+        {
+          "zh": "选民不满经济状况和伊朗战争",
+          "en": "Voters are discontent with the economy and the war in Iran"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Congress",
+        "Trump",
+        "economy",
+        "Iran war"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:kuDj8_b2qgw",
+      "title": "Midterm Elections 2026: El-Sayed Speaks After Winning Michigan Senate Race",
+      "title_zh": "民主党人Abdul El-Sayed赢得密歇根州参议院席位",
+      "url": "https://www.youtube.com/watch?v=kuDj8_b2qgw",
+      "published_at": "2026-11-04T07:09:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党人Abdul El-Sayed在密歇根州参议院选举中击败共和党人Mike Rogers，成为美国首位穆斯林参议员。这场中期选举竞选是分歧最严重的选战之一，涉及反犹主义和伊斯兰恐惧症的指控。El-Sayed在演讲中表示，他的姓名和信仰并非民众负担不起汽油、食品杂货或看医生的原因。",
+      "summary_en": "Democrat Abdul El-Sayed defeated Republican Mike Rogers to win Michigan's Senate seat, becoming America's first Muslim senator. The race was one of the most divisive of the midterms, featuring accusations of antisemitism and Islamophobia. In his speech, El-Sayed said his name and faith are not the reason people can't afford gas, groceries, or a doctor.",
+      "detail_zh": "民主党人Abdul El-Sayed在底特律发表演讲，此前他击败共和党人Mike Rogers，赢得密歇根州参议院席位。这场竞选是中期选举中最具分裂性的选战之一，期间出现了反犹主义和伊斯兰恐惧症的指控。El-Sayed在演讲中回应称：“我们都知道，我的名字和信仰不是你们加不起油的原因，不是你们买不起食品杂货的原因，也不是你们看不了医生的原因。”他由此成为美国首位穆斯林参议员。",
+      "detail_en": "Democrat Abdul El-Sayed gave a speech in Detroit after defeating Republican Mike Rogers to claim Michigan's Senate seat. The race was one of the most divisive of the midterms campaign, featuring accusations of antisemitism and Islamophobia. In his speech, El-Sayed said: \"We all know that my name and my faith aren't the reason you can't afford your gas, not the reason you can't afford your groceries, not the reason you can't see a doctor.\" He becomes America's first Muslim senator.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党人Abdul El-Sayed击败共和党人Mike Rogers，赢得密歇根州参议院席位。",
+          "en": "Democrat Abdul El-Sayed defeated Republican Mike Rogers to win Michigan's Senate seat."
+        },
+        {
+          "zh": "El-Sayed成为美国首位穆斯林参议员。",
+          "en": "El-Sayed becomes America's first Muslim senator."
+        },
+        {
+          "zh": "这场竞选是中期选举中最具分裂性的选战之一，涉及反犹主义和伊斯兰恐惧症的指控。",
+          "en": "The race was one of the most divisive of the midterms campaign, featuring accusations of antisemitism and Islamophobia."
+        },
+        {
+          "zh": "El-Sayed在演讲中表示，他的姓名和信仰并非民众负担不起汽油、食品杂货或看医生的原因。",
+          "en": "El-Sayed said in his speech that his name and faith are not the reason people can't afford gas, groceries, or a doctor."
+        }
+      ],
+      "tags": [
+        "Michigan Senate",
+        "Midterms",
+        "Abdul El-Sayed",
+        "Mike Rogers",
+        "US Politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:aHvLa9NbYBE",
+      "title": "Talarico Completes Democratic Sweep of Texas",
+      "title_zh": "民主党候选人Talarico赢得得州参议院席位",
+      "url": "https://www.youtube.com/watch?v=aHvLa9NbYBE",
+      "published_at": "2026-11-04T06:34:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党人James Talarico在得克萨斯州美国参议院选举中击败共和党人Ken Paxton，后者为总统特朗普的盟友。民主党同时赢得州长职位及其他下级选举席位。Talarico对支持者表示，他们始终是弱势一方。",
+      "summary_en": "Democrat James Talarico won the U.S. Senate race in Texas, defeating Republican Ken Paxton, an ally of President Donald Trump. Democrats also won the governor's office and other down-ballot slots. Talarico told supporters they were always the underdogs.",
+      "detail_zh": "据Bloomberg Television报道，民主党人James Talarico在得克萨斯州美国参议院选举中获胜，击败了共和党对手Ken Paxton。Paxton被描述为总统Donald Trump的盟友。除参议院席位外，民主党还赢得了得州州长职位以及其他下级选举席位。Talarico在向支持者发表讲话时表示，他们始终是弱势一方（underdogs）。原文未提供更多关于政策主张、市场影响或后续立法议程的细节。",
+      "detail_en": "According to Bloomberg Television, Democrat James Talarico won the U.S. Senate race in Texas, defeating Republican Ken Paxton, who was described as an ally of President Donald Trump. In addition to the Senate seat, Democrats also won the governor's office and other down-ballot slots in Texas. Talarico told supporters that they were always the underdogs. The original text does not provide further details on policy positions, market implications, or the subsequent legislative agenda.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党人James Talarico赢得得克萨斯州美国参议院席位，击败共和党人Ken Paxton。",
+          "en": "Democrat James Talarico won the U.S. Senate race in Texas, defeating Republican Ken Paxton."
+        },
+        {
+          "zh": "Ken Paxton被描述为总统Donald Trump的盟友。",
+          "en": "Ken Paxton was described as an ally of President Donald Trump."
+        },
+        {
+          "zh": "民主党同时赢得得州州长职位及其他下级选举席位。",
+          "en": "Democrats also won the governor's office and other down-ballot slots in Texas."
+        },
+        {
+          "zh": "Talarico对支持者表示，他们始终是弱势一方。",
+          "en": "Talarico told supporters they were always the underdogs."
+        }
+      ],
+      "tags": [
+        "Texas",
+        "Senate",
+        "Democrats",
+        "Election"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Xqs0aszvJXA",
+      "title": "El-Sayed, Rogers Locked in Tight Race for Michigan Senate Seat",
+      "title_zh": "密歇根州参议院选情受关注：El-Sayed 对阵 Rogers",
+      "url": "https://www.youtube.com/watch?v=Xqs0aszvJXA",
+      "published_at": "2026-11-04T06:11:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社报道，密歇根州民主党人 Abdul El-Sayed 与共和党人 Mike Rogers 之间的参议院席位角逐是备受关注的选战之一。报道由彭博的 Romaine Bostick 在底特律发出，但原文未提供更多选情细节或市场影响分析。",
+      "summary_en": "Bloomberg reports that the Senate race in Michigan between Democrat Abdul El-Sayed and Republican Mike Rogers is one of the most closely watched contests. The report was delivered by Bloomberg's Romaine Bostick from Detroit, but the original text provides no further details on the race or market implications.",
+      "detail_zh": "原文仅指出，密歇根州民主党人 Abdul El-Sayed 与共和党人 Mike Rogers 之间的参议院席位角逐是当前最受关注的选战之一。彭博的 Romaine Bostick 在底特律进行了报道。除此之外，原文没有提供任何关于选情、政策立场、民调数据或对市场影响的具体信息。",
+      "detail_en": "The original text only states that the open Senate race in Michigan between Democrat Abdul El-Sayed and Republican Mike Rogers has been one of the most closely watched. Bloomberg's Romaine Bostick reported from Detroit. Beyond that, the text provides no specific information on the race, policy positions, polling data, or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "密歇根州参议院选战在民主党人 Abdul El-Sayed 与共和党人 Mike Rogers 之间展开。",
+          "en": "The Michigan Senate race is between Democrat Abdul El-Sayed and Republican Mike Rogers."
+        },
+        {
+          "zh": "该选战被描述为最受关注的选战之一。",
+          "en": "The race has been described as one of the most closely watched."
+        },
+        {
+          "zh": "彭博的 Romaine Bostick 在底特律进行了报道。",
+          "en": "Bloomberg's Romaine Bostick reported from Detroit."
+        }
+      ],
+      "tags": [
+        "Michigan Senate race",
+        "US politics",
+        "election"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Uhuzf0UDCJ0",
+      "title": "Maine Democrat Jackson Defeats Senator Susan Collins",
+      "title_zh": "民主党候选人Jackson在缅因州击败共和党Collins，翻转第七席",
+      "url": "https://www.youtube.com/watch?v=Uhuzf0UDCJ0",
+      "published_at": "2026-11-04T05:47:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党人Troy Jackson在缅因州击败共和党人Susan Collins，为民主党赢得第七个翻转席位，并扩大其新多数优势。Jackson是第五代伐木工，Collins已在国会任职近30年。",
+      "summary_en": "Democrat Troy Jackson defeated Republican Susan Collins in Maine, giving the party their seventh flipped seat and expanding their new majority. Jackson is a fifth-generation logger, and Collins has served in Congress for nearly 30 years.",
+      "detail_zh": "民主党人Troy Jackson在缅因州击败了共和党人Susan Collins。这场胜利为民主党带来了第七个翻转席位，并扩大了该党新的多数优势。Jackson是一名第五代伐木工。Collins已在国会任职近30年。原文未提供更多关于选举背景、具体得票率或政策影响的细节。",
+      "detail_en": "Democrat Troy Jackson defeated Republican Susan Collins in Maine. This victory gives the Democratic Party their seventh flipped seat and expands their new majority. Jackson is a fifth-generation logger. Collins has served in Congress for nearly 30 years. The original text does not provide further details on the election context, vote margins, or policy implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党人Troy Jackson在缅因州击败共和党人Susan Collins。",
+          "en": "Democrat Troy Jackson defeated Republican Susan Collins in Maine."
+        },
+        {
+          "zh": "这是民主党翻转的第七个席位，扩大了其新多数优势。",
+          "en": "This is the seventh seat flipped by Democrats, expanding their new majority."
+        },
+        {
+          "zh": "Jackson是一名第五代伐木工。",
+          "en": "Jackson is a fifth-generation logger."
+        },
+        {
+          "zh": "Collins已在国会任职近30年。",
+          "en": "Collins has served in Congress for nearly 30 years."
+        }
+      ],
+      "tags": [
+        "election",
+        "Maine",
+        "Senate",
+        "Democrats",
+        "Republicans"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:2fKLhtvsRNc",
+      "title": "Inside Indonesia’s Wash-Trade Scheme",
+      "title_zh": "印尼市场操纵担忧或致MSCI降级，资金外流风险上升",
+      "url": "https://www.youtube.com/watch?v=2fKLhtvsRNc",
+      "published_at": "2026-11-04T05:37:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博报道揭露印尼市场存在交易量操纵、所有权不透明和协同交易等问题，动摇了市场信心，并可能使该国被移出MSCI主要新兴市场指数。若被降级，可能引发数十亿美元资金流出这一亚洲大型经济体。",
+      "summary_en": "Bloomberg reporting reveals trading volume manipulation, opaque ownership, and coordinated trades in Indonesia's markets, shaking confidence and risking the country's removal from MSCI's major emerging-market indexes. A downgrade could drive billions of dollars out of one of Asia's largest economies.",
+      "detail_zh": "彭博报道指出，印尼市场存在交易量操纵、所有权不透明和协同交易等问题，这些行为动摇了市场信心。部分经纪商被指制造交易活动并夸大需求表象。这些问题的后果可能使印尼被移出MSCI主要新兴市场指数，进而导致数十亿美元资金流出这一亚洲大型经济体。报道还提到，已更正以纳入Samuel Sekuritas所有者的回应。",
+      "detail_en": "Bloomberg reporting highlights trading volume manipulation, opaque ownership, and coordinated trades in Indonesia's markets, which have shaken confidence. Some brokers allegedly engineered activity and inflated the appearance of demand. The fallout could push Indonesia out of MSCI's major emerging-market indexes, potentially driving billions of dollars out of one of Asia's largest economies. The report was corrected to include a response from the owner of Samuel Sekuritas.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "印尼市场存在交易量操纵、所有权不透明和协同交易等问题。",
+          "en": "Indonesia's markets face issues of trading volume manipulation, opaque ownership, and coordinated trades."
+        },
+        {
+          "zh": "部分经纪商被指制造交易活动并夸大需求表象。",
+          "en": "Some brokers allegedly engineered activity and inflated the appearance of demand."
+        },
+        {
+          "zh": "市场信心受挫，印尼面临被移出MSCI主要新兴市场指数的风险。",
+          "en": "Confidence has been shaken, and Indonesia risks removal from MSCI's major emerging-market indexes."
+        },
+        {
+          "zh": "若被降级，可能引发数十亿美元资金流出印尼市场。",
+          "en": "A downgrade could drive billions of dollars out of Indonesia's markets."
+        }
+      ],
+      "tags": [
+        "Indonesia",
+        "MSCI",
+        "market manipulation",
+        "emerging markets",
+        "capital flows"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Kx8A-n9OPV0",
+      "title": "Democrats Take Control of Congress in Midterm Landslide",
+      "title_zh": "民主党中期选举大胜，夺回国会两院控制权",
+      "url": "https://www.youtube.com/watch?v=Kx8A-n9OPV0",
+      "published_at": "2026-11-04T05:25:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党在中期选举中以压倒性优势赢得国会两院控制权，此次选举被视为对特朗普总统的否定，背景是选民对经济状况和伊朗战争的不满。",
+      "summary_en": "Democrats won control of both chambers of Congress in a midterm election landslide, seen as a rejection of President Donald Trump amid voter discontent with the economy and the war in Iran.",
+      "detail_zh": "民主党在中期选举中取得压倒性胜利，赢得美国国会两院的控制权。此次选举结果被解读为选民对总统唐纳德·特朗普的否定。报道指出，选民普遍对经济状况和伊朗战争感到不满，这成为选举结果的重要背景。彭博的泰勒·肯德尔对当晚的重要选情进行了深入分析。",
+      "detail_en": "Democrats won control of both chambers of the US Congress in a midterm election landslide. The result amounted to a rejection of President Donald Trump. The report notes widespread voter discontent with the economy and the war in Iran as key context. Bloomberg's Tyler Kendall took a closer look at the night's big races.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党赢得国会两院控制权。",
+          "en": "Democrats won control of both chambers of Congress."
+        },
+        {
+          "zh": "选举结果被视为对特朗普总统的否定。",
+          "en": "The election result amounted to a rejection of President Donald Trump."
+        },
+        {
+          "zh": "选民不满主要源于经济状况和伊朗战争。",
+          "en": "Voter discontent was driven by the economy and the war in Iran."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Congress",
+        "Trump",
+        "Iran war",
+        "economy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:W1YGTBDibHk",
+      "title": "Election 2026 Special Coverage | Part 2",
+      "title_zh": "彭博电视分析中期选举对华尔街与全球市场的影响",
+      "url": "https://www.youtube.com/watch?v=W1YGTBDibHk",
+      "published_at": "2026-11-04T05:03:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博电视在中期选举之际，分析选举结果对华尔街和全球市场的意义。内容仅为节目预告，未提供具体市场判断或数据。",
+      "summary_en": "Bloomberg TV analyzes what the midterm elections mean for Wall Street and the world as Americans decide who controls Congress and pass their political verdict on President Trump's second term. The content is only a program preview without specific market judgments or data.",
+      "detail_zh": "原文仅指出，在美国民众决定国会控制权并对特朗普第二任期作出政治裁决之际，彭博电视分析中期选举对华尔街和全球的意义。原文未提供任何具体选举结果、市场影响分析、数据或观点。其余内容为彭博电视和市场的订阅、社交媒体链接及节目推广信息，不包含实质投资洞见。",
+      "detail_en": "The original text only states that as Americans decide who controls Congress and pass their political verdict on President Trump's second term, Bloomberg TV analyzes what the midterms mean for Wall Street and the world. It provides no specific election results, market impact analysis, data, or opinions. The rest is subscription, social media links, and program promotion for Bloomberg Television and Markets, containing no substantive investment insights.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "彭博电视分析中期选举对华尔街和全球的意义",
+          "en": "Bloomberg TV analyzes what the midterms mean for Wall Street and the world"
+        },
+        {
+          "zh": "美国人决定国会控制权并对特朗普第二任期作出政治裁决",
+          "en": "Americans decide who controls Congress and pass their political verdict on President Trump's second term"
+        },
+        {
+          "zh": "原文未提供具体市场判断、数据或观点",
+          "en": "The original text provides no specific market judgments, data, or opinions"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Wall Street",
+        "Trump",
+        "Congress",
+        "Bloomberg TV"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:LJ_5WC1gPJ8",
+      "title": "Trump Says He'll Accept Results of Elections",
+      "title_zh": "特朗普表示将接受选举结果并愿与民主党合作",
+      "url": "https://www.youtube.com/watch?v=LJ_5WC1gPJ8",
+      "published_at": "2026-11-04T05:02:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普向《纽约时报》表示将接受选举结果，并称愿与民主党合作、预计能达成一些成果。该表态由彭博记者Kate Sullivan从白宫报道。",
+      "summary_en": "Trump told the New York Times he will accept the election results and expressed willingness to work with Democrats, saying they will \"probably work something out.\" Bloomberg's Kate Sullivan reported from the White House.",
+      "detail_zh": "美国总统唐纳德·特朗普向《纽约时报》表示，他将接受此次选举结果。特朗普对《纽约时报》称：“我会与民主党人合作，我们，你知道，期待与他们合作。我们可能会谈出一些成果。”彭博社的Kate Sullivan从白宫发回报道。原文未提供更多关于选举结果、政策方向或市场影响的细节。",
+      "detail_en": "President Donald Trump told the New York Times that he will accept the election results. Trump told the newspaper: \"I will work with the Democrats, and we'll, you know, look forward to working with them. We'll probably work something out.\" Bloomberg's Kate Sullivan reported from the White House. The original text does not provide further details on the election results, policy direction, or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普表示将接受选举结果。",
+          "en": "Trump said he will accept the election results."
+        },
+        {
+          "zh": "特朗普称愿与民主党合作，并预计能达成一些成果。",
+          "en": "Trump expressed willingness to work with Democrats and expects to \"work something out.\""
+        },
+        {
+          "zh": "该表态由彭博记者Kate Sullivan从白宫报道。",
+          "en": "The remarks were reported by Bloomberg's Kate Sullivan from the White House."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "election",
+        "Democrats",
+        "cooperation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:tuDqKUsvxZ4",
+      "title": "Election Night: Democrat Talarico Beats Paxton in Texas",
+      "title_zh": "Talarico在德州参议院选战中击败Paxton，显示民主党意外势头",
+      "url": "https://www.youtube.com/watch?v=tuDqKUsvxZ4",
+      "published_at": "2026-11-04T04:41:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博德州分社社长Julie Fine报道，James Talarico在德州参议院选举中历史性地击败Ken Paxton。Fine指出，这一冷门结果预示着民主党出现了更广泛、出人意料的势头。",
+      "summary_en": "Bloomberg's Texas bureau chief Julie Fine reports that James Talarico scored a historic upset win over Ken Paxton in the Texas Senate race. Fine says the result signals broader, unexpected Democratic momentum.",
+      "detail_zh": "彭博德州分社社长Julie Fine在报道中拆解了James Talarico在德州参议院选举中击败Ken Paxton的结果，并将其定性为一场历史性的胜利。Fine表示，这一冷门结果的意义超出单一选战，反映出民主党出现了更广泛且此前未被预料到的势头。原文未提供得票率、具体差距或其他选举数据，也未展开对政策或市场影响的进一步分析。",
+      "detail_en": "Bloomberg's Texas bureau chief Julie Fine breaks down James Talarico's historic win over Ken Paxton in the Texas Senate race, characterizing it as an upset. Fine reports that the result signals broader, unexpected Democratic momentum beyond the single race. The source does not provide vote margins, turnout figures, or further analysis of policy or market implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "James Talarico在德州参议院选举中击败Ken Paxton，被描述为历史性胜利。",
+          "en": "James Talarico defeated Ken Paxton in the Texas Senate race, described as a historic win."
+        },
+        {
+          "zh": "彭博的Julie Fine称这一冷门结果预示着民主党更广泛、出人意料的势头。",
+          "en": "Bloomberg's Julie Fine says the upset signals broader, unexpected Democratic momentum."
+        },
+        {
+          "zh": "原文未提供得票率、差距或其他具体选举数据。",
+          "en": "The source provides no vote percentages, margins, or other specific election data."
+        }
+      ],
+      "tags": [
+        "Texas Senate",
+        "election upset",
+        "Democratic momentum",
+        "US politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ajFcRVkpyo0",
+      "title": "Blue-Wave Bets Weigh on Growth Stocks, Futures",
+      "title_zh": "RBC：民主党大胜预期压制成长股",
+      "url": "https://www.youtube.com/watch?v=ajFcRVkpyo0",
+      "published_at": "2026-11-04T04:38:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "RBC Capital Markets 美国股票策略主管 Lori Calvasina 指出，市场对民主党大胜的预期正在对成长股构成压力。原文未提供具体数据或进一步逻辑细节。",
+      "summary_en": "RBC Capital Markets Head of US Equity Strategy Lori Calvasina says expectations of a Democratic sweep are weighing on growth stocks. No further data or details were provided in the source.",
+      "detail_zh": "RBC Capital Markets 美国股票策略主管 Lori Calvasina 在彭博电视节目中表示，市场对民主党大胜（Democratic sweep）的预期是成长股承压的原因。原文仅给出这一核心判断，未披露具体数据、受影响板块细节或政策传导逻辑。",
+      "detail_en": "Lori Calvasina, Head of US Equity Strategy at RBC Capital Markets, said on Bloomberg Television that expectations of a Democratic sweep are weighing on growth stocks. The source provides only this core observation, without specific data, sector details, or policy transmission logic.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "RBC 的 Lori Calvasina 认为民主党大胜预期正在压制成长股。",
+          "en": "RBC's Lori Calvasina says expectations of a Democratic sweep are weighing on growth stocks."
+        },
+        {
+          "zh": "该观点来自彭博电视节目，原文未提供具体数据或板块细节。",
+          "en": "The view was given on Bloomberg Television; the source offers no specific data or sector details."
+        }
+      ],
+      "tags": [
+        "Democratic sweep",
+        "growth stocks",
+        "US equities",
+        "election expectations"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:QywnomwOyOk",
+      "title": "Ohio's Brown Coming Back to US Senate",
+      "title_zh": "俄亥俄州参议员席位翻蓝：Sherrod Brown击败现任共和党人Husted",
+      "url": "https://www.youtube.com/watch?v=QywnomwOyOk",
+      "published_at": "2026-11-04T04:36:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据CNN预测，进步派民主党人Sherrod Brown在俄亥俄州击败现任共和党参议员Jon Husted，夺回参议院席位。Brown两年前曾失去该席位。副总统JD Vance来自俄亥俄州。",
+      "summary_en": "According to CNN projections, progressive Democrat Sherrod Brown defeated incumbent Republican Senator Jon Husted in Ohio to reclaim a U.S. Senate seat. Brown was swept out of office two years ago. Vice President JD Vance is from Ohio.",
+      "detail_zh": "据CNN预测，进步派民主党人Sherrod Brown在俄亥俄州击败现任共和党参议员Jon Husted，重新夺回美国参议院席位。Brown曾在两年前被赶下台。副总统JD Vance来自俄亥俄州。原文未提供更多关于选举结果、得票率或政策影响的细节。",
+      "detail_en": "According to CNN projections, progressive Democrat Sherrod Brown defeated incumbent Republican Senator Jon Husted in Ohio to reclaim a U.S. Senate seat. Brown was swept out of office two years ago. Vice President JD Vance is from Ohio. The original text does not provide further details on the election results, vote margins, or policy implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "CNN预测Sherrod Brown赢得俄亥俄州参议院席位。",
+          "en": "CNN projects Sherrod Brown wins the Ohio Senate seat."
+        },
+        {
+          "zh": "Brown击败了现任共和党参议员Jon Husted。",
+          "en": "Brown defeated incumbent Republican Senator Jon Husted."
+        },
+        {
+          "zh": "Brown两年前曾失去席位，此次是重新夺回。",
+          "en": "Brown was swept out of office two years ago and has now reclaimed the seat."
+        },
+        {
+          "zh": "副总统JD Vance来自俄亥俄州。",
+          "en": "Vice President JD Vance is from Ohio."
+        }
+      ],
+      "tags": [
+        "US Senate",
+        "Ohio",
+        "election",
+        "Democrats",
+        "Republicans"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:qx6xRwfDkkk",
+      "title": "Bain Capital Chair Expects $30 Billion of Exits This Year",
+      "title_zh": "贝恩资本主席看好亚洲业务，冀望中国退出项目重拾势头",
+      "url": "https://www.youtube.com/watch?v=qx6xRwfDkkk",
+      "published_at": "2026-11-04T04:34:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "贝恩资本主席John Connaughton表示对公司的亚洲业务持乐观态度，并希望在中国通过退出项目来建立势头。该表态是在香港金管局全球金融领袖投资峰会期间作出的。",
+      "summary_en": "Bain Capital Chair John Connaughton expressed optimism about the firm's Asia business and hopes to build momentum with exits in China. He made the remarks on the sidelines of the HKMA Global Financial Leaders' Investment Summit.",
+      "detail_zh": "贝恩资本（Bain Capital）主席John Connaughton在接受彭博电视采访时表示，他对公司的亚洲业务感到乐观。他特别提到，希望在中国通过项目退出（exits）来建立业务势头。该采访是在香港金融管理局（HKMA）主办的全球金融领袖投资峰会场边进行的，由David Ingles和Yvonne Man主持。原文未提供更多关于具体退出计划、时间表或财务细节的信息。",
+      "detail_en": "John Connaughton, Chair at Bain Capital, said in an exclusive interview with Bloomberg Television that he is optimistic about the firm's Asia business. He specifically hopes to build momentum with exits in China. The interview was conducted on the sidelines of the Hong Kong Monetary Authority Global Financial Leaders' Investment Summit, with David Ingles and Yvonne Man. The original text does not provide further details on specific exit plans, timelines, or financial specifics.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "贝恩资本主席对亚洲业务表示乐观。",
+          "en": "Bain Capital Chair is optimistic about the firm's Asia business."
+        },
+        {
+          "zh": "希望在中国通过退出项目建立势头。",
+          "en": "Hopes to build momentum with exits in China."
+        },
+        {
+          "zh": "表态是在香港金管局全球金融领袖投资峰会期间作出。",
+          "en": "Remarks made on the sidelines of the HKMA Global Financial Leaders' Investment Summit."
+        }
+      ],
+      "tags": [
+        "Bain Capital",
+        "Asia business",
+        "China exits",
+        "private equity"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:tLI9HyhOV8Y",
+      "title": "This Is a 'Bloodbath' for GOP, Says Patrick McHenry",
+      "title_zh": "麦亨利：中期选举对共和党是\"血洗\"，高通胀伤及选情",
+      "url": "https://www.youtube.com/watch?v=tLI9HyhOV8Y",
+      "published_at": "2026-11-04T03:45:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前众议院金融服务委员会主席帕特里克·麦亨利表示，今晚的中期选举结果对共和党而言是一场\"血洗\"，并认为更高的通胀伤害了共和党。",
+      "summary_en": "Former House Financial Services Committee Chair Patrick McHenry says tonight's midterm election results have been a \"bloodbath\" for Republicans, and he says higher inflation has hurt the GOP.",
+      "detail_zh": "前众议院金融服务委员会主席帕特里克·麦亨利在彭博电视台表示，今晚的中期选举结果对共和党来说是一场\"血洗\"。麦亨利将共和党的选情受损归因于更高的通胀。原文未提供具体席位变化、得票率或其他选举数据，也未展开通胀影响选情的具体机制。",
+      "detail_en": "Former House Financial Services Committee Chair Patrick McHenry said on Bloomberg Television that tonight's midterm election results have been a \"bloodbath\" for Republicans. McHenry attributed the GOP's damage to higher inflation. The source does not provide specific seat changes, vote shares, or other election data, nor does it elaborate on the mechanism by which inflation affected the election.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "麦亨利称中期选举结果对共和党是\"血洗\"",
+          "en": "McHenry calls the midterm results a \"bloodbath\" for Republicans"
+        },
+        {
+          "zh": "麦亨利认为更高的通胀伤害了共和党",
+          "en": "McHenry says higher inflation has hurt the GOP"
+        },
+        {
+          "zh": "麦亨利身份为前众议院金融服务委员会主席",
+          "en": "McHenry is the former House Financial Services Committee Chair"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "inflation",
+        "Republicans",
+        "US politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:m1VcW6aMo70",
+      "title": "The VIX Curve Warning Signal Traders Should Watch",
+      "title_zh": "VIX期限结构趋平被视为风险信号",
+      "url": "https://www.youtube.com/watch?v=m1VcW6aMo70",
+      "published_at": "2026-11-04T00:14:38+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility"
+      ],
+      "summary_zh": "分析师指出，VIX期限结构虽仍处期货升水（contango），但正在趋平，这反映市场从平静转向担忧。当交易员预期波动率飙升时，会转向短期限期权以获取凸性，因长期合约在风险事件中涨幅有限。",
+      "summary_en": "The analyst notes that the VIX term structure remains in contango but is flattening, signaling a shift from calm to concern. Traders expecting a volatility spike move to shorter-dated options for convexity, as longer-dated contracts offer limited upside in risk-off events.",
+      "detail_zh": "分析VIX期限结构需关注两点：一是陡峭程度，二是绝对水平（如锚定在14-15还是更高）。当前近月合约约19-20，远月升至21-22，仍处contango但趋平。VIX不会从12直线跳至80，通常先升至20多，之后才变得“convex”或“gross”（波动率真正飙升）。趋平是风险信号，表明市场从平静转向担忧。若预期市场崩盘、波动率飙升，交易员会停止购买长期看跌期权，转向短期期权对冲，因为长期合约（如明年5月）在风险事件中可能仅从21升至25，而短期合约或VIX指数可从20升至50，长期合约无法提供对冲。此外，当VIX已处30时，购买5月看跌期权成本高昂（如25delta看跌期权需100美元），交易员被迫转向本周或下周到期、成本更低的期权（如15-20美元）。",
+      "detail_en": "Analyzing the VIX term structure involves two things: steepness and absolute level (e.g., anchored at 14-15 or higher). Currently, near-term contracts are around 19-20, rising to 21-22 further out, still in contango but flattening. The VIX doesn't go from 12 to 80 in a straight line; it tends to shift to a risk position in the 20s, from where things get convex or 'gross' (volatility really spikes). Flattening is a risk signal, indicating the market is shifting from calm to concerned. If expecting a crash and volatility spike, traders stop buying longer-term puts and move to shorter-dated options for hedging, because longer-dated contracts (e.g., May next year) may only go from 21 to 25 in a risk-off event, while shorter-dated contracts or the VIX index could go from 20 to 50, offering no hedge. Also, with VIX already at 30, buying a May put is expensive (e.g., a 25-delta put costs $100), forcing traders to use this week's or next week's puts, which may cost $15-20 for a 25-delta put expiring tomorrow.",
+      "conclusion_zh": "VIX期限结构趋平值得关注，可能预示市场担忧加剧，交易员偏好短期期权以对冲波动率飙升风险。",
+      "conclusion_en": "The flattening VIX term structure warrants attention as it may signal rising market concern, with traders favoring short-dated options to hedge against volatility spikes.",
+      "key_points": [
+        {
+          "zh": "VIX期限结构仍处contango，但趋平是市场从平静转向担忧的风险信号。",
+          "en": "The VIX term structure remains in contango, but its flattening is a risk signal that the market is shifting from calm to concern."
+        },
+        {
+          "zh": "VIX通常不会直线跳升，而是先升至20多，之后才出现波动率急剧飙升（convex/gross）。",
+          "en": "The VIX typically doesn't jump in a straight line; it first shifts to the 20s, after which volatility spikes sharply (convex/gross)."
+        },
+        {
+          "zh": "预期波动率飙升时，交易员转向短期限期权以获取凸性，因长期合约在风险事件中涨幅有限。",
+          "en": "When expecting a volatility spike, traders turn to shorter-dated options for convexity, as longer-dated contracts have limited upside in risk-off events."
+        },
+        {
+          "zh": "当VIX已处高位（如30），长期看跌期权成本高昂，迫使交易员使用更便宜的短期期权。",
+          "en": "With VIX already elevated (e.g., 30), longer-dated puts are expensive, forcing traders to use cheaper short-dated options."
+        }
+      ],
+      "tags": [
+        "VIX",
+        "term structure",
+        "contango",
+        "options",
+        "volatility"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:iw5c1t7KyoQ",
+      "title": "Howard Marks: CNBC The Exchange (2026)",
+      "title_zh": "霍华德·马克斯：AI不确定性下应买股票而非债券，利率将维持当前水平",
+      "url": "https://www.youtube.com/watch?v=iw5c1t7KyoQ",
+      "published_at": "2026-11-03T22:51:23+00:00",
+      "source_name": "The Memo by Howard Marks",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "橡树资本联合创始人霍华德·马克斯表示，AI是他职业生涯中见过最不可预测的事物，投资AI应买股票而非债券，因为债券没有上行空间。他倾向于以更安全的方式参与AI，如数据中心和电力基础设施，并认为利率将大致维持在当前水平，低利率时代不会回归。",
+      "summary_en": "Howard Marks, co-founder of Oaktree Capital, said AI is the least predictable thing he has witnessed in his career, and investors should buy stocks rather than debt to play AI because debt offers no upside. He prefers safer ways to participate, such as data centers and power infrastructure, and expects rates to stay around current levels, with the low-rate era unlikely to return.",
+      "detail_zh": "橡树资本联合创始人兼联席主席霍华德·马克斯在访谈中表示，市场本身会夸大一切，投资者不应从市场波动中寻找信号。他认为AI是他职业生涯中见过的最不可知、最不可预测的事物，难以判断任何一家公司的产品五年后如何被使用、销量、价格、成本和利润率，以及哪些公司会赢会输。对于AI投资，马克斯建议如果参与就买股票，因为股票在事情顺利时有上行空间，而债券最好的结果只是收回本息，之后全是不同程度的下行，因此只应在高度确信能收回本息且收益率补偿不确定性时才放贷。橡树资本作为信贷机构，只参与与AI基础设施相关的特殊机会，如数据中心和AI工厂，并倾向于在竞争较少、有建设限制的地方进行长期项目。马克斯提到，作为Brookfield的一部分，Brookfield在电力领域有很好的利基，电力将成为真正的瓶颈，因为未来几年基础设施可能需要增加3到10倍，电力来源是问题。关于AI泡沫，马克斯区分了AI本身与投资金额：AI是真实事物，将带来真实改变；但公司投资金额是否泡沫、个人投资是否定价过高、是否过于急切，他表示不知道。近期市场波动表明此前存在大量乐观情绪，部分被消减。对于科技公司发债对投资级和高收益信贷市场的影响，马克斯认为这提供了很多选择，但最明显安全的发行人回报不高，且仍涉及技术风险，其信贷并非白送。关于美联储利率，马克斯不做预测，但认为未来几年利率不会远低于当前水平，因为通胀仍是担忧，2009至2021年的低利率是异常现象，不会回归；利率可能因通胀担忧略高，也可能因环境波动而持平，但不会大幅高于当前。",
+      "detail_en": "Howard Marks, co-founder and co-chairman of Oaktree Capital, said in an interview that the market exaggerates everything and investors should not take signals from market moves. He considers AI the least knowable and least predictable thing he has witnessed in his career, making it difficult to judge how any company's product will be used in five years, how much it will sell, at what price and cost, what margins will be, and which companies will win or lose. For AI investing, Marks advises buying stocks if you want to play, because stocks offer upside if things go right, while debt offers no upside—the best outcome is receiving the interest and principal bargained for, and everything after that is varying degrees of downside. Therefore, one should only lend when highly confident of repayment and when the yield compensates for uncertainty. As a credit firm, Oaktree only plays in special situations mostly related to AI infrastructure, such as data centers and AI factories, and tries to do so in less crowded places with inhibitions to building too many data centers. Marks noted that as part of Brookfield, which has a great niche in power, power will be a real bottleneck because infrastructure may need to increase three to ten times in coming years, raising the question of where that much power will come from. On whether AI is a bubble, Marks distinguished AI itself from the amount of money invested: AI is a real thing that will make a real change, but whether companies' investment amounts are a bubble, whether individual investments are overpriced, and whether there is too much eagerness, he does not know. Recent market wobbles indicate there was a lot of optimism, some of which just got deflated. Regarding tech companies' debt issuance and its impact on investment-grade and high-yield credit markets, Marks said it gives a lot of choices, but the obviously safe payers aren't offering much return, still involve some technology risk, and their credits are not a giveaway. On Fed rates, Marks does not make predictions, but believes rates will not be much below current levels over the next few years because inflation remains a concern and the low rates of 2009 to 2021 were an aberration that won't return; rates could be a little higher if inflation concerns remain or level out if wobbles reduce overheating risk, but if rates should be much higher, they probably would be by now.",
+      "conclusion_zh": "马克斯的观点提示，在AI投资中应优先考虑具有上行空间的股票，并以更安全的方式参与基础设施（如数据中心和电力），同时利率环境将维持偏高水平，低利率时代不会回归。",
+      "conclusion_en": "Marks's views suggest prioritizing equities with upside in AI investing and participating in infrastructure (such as data centers and power) in safer ways, while the rate environment will remain relatively high and the low-rate era will not return.",
+      "key_points": [
+        {
+          "zh": "马克斯认为AI是他职业生涯中最不可预测的事物，市场本身会夸大一切，不应从市场波动中寻找信号。",
+          "en": "Marks sees AI as the least predictable thing in his career and says the market exaggerates everything, so investors should not take signals from market moves."
+        },
+        {
+          "zh": "投资AI应买股票而非债券，因为债券没有上行空间，只应在高度确信能收回本息且收益率补偿不确定性时才放贷。",
+          "en": "To invest in AI, buy stocks rather than debt because debt offers no upside; only lend when highly confident of repayment and when yield compensates for uncertainty."
+        },
+        {
+          "zh": "橡树资本只参与AI基础设施相关的特殊机会，如数据中心，并偏好竞争较少、有建设限制的地点；电力将成为瓶颈。",
+          "en": "Oaktree only plays in AI infrastructure-related special situations such as data centers, preferring less crowded places with building inhibitions; power will be a bottleneck."
+        },
+        {
+          "zh": "关于AI泡沫，马克斯区分AI本身与投资金额：AI是真实的，但投资是否泡沫、定价是否过高他表示不知道。",
+          "en": "On the AI bubble question, Marks distinguishes AI itself from investment amounts: AI is real, but whether investments are a bubble or overpriced, he does not know."
+        },
+        {
+          "zh": "马克斯预计利率将大致维持在当前水平，低利率时代不会回归，通胀仍是担忧。",
+          "en": "Marks expects rates to stay around current levels, with the low-rate era unlikely to return and inflation still a concern."
+        }
+      ],
+      "tags": [
+        "AI",
+        "credit",
+        "rates",
+        "infrastructure",
+        "Oaktree"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:HTsoVS_AUTw",
+      "title": "Don’t let your success ruin your children",
+      "title_zh": "摩根士丹利播客：企业家如何向成年子女传承财富而不剥夺其奋斗动力",
+      "url": "https://www.youtube.com/watch?v=HTsoVS_AUTw",
+      "published_at": "2026-11-03T22:31:13+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "摩根士丹利播客《What Should I Do With My Money?》中，企业家Scott与顾问Blair讨论如何向20多岁的子女传承财富，既给予选择自由，又避免剥夺他们建立韧性的机会。Scott因互联网泡沫后的市场暴跌而变得保守，如今希望用财富让子女追求梦想，同时保持家庭价值观与工作伦理。",
+      "summary_en": "In Morgan Stanley's podcast 'What Should I Do With My Money?', entrepreneur Scott and advisor Blair discuss how to pass wealth to his 20-something children—giving them freedom of choice without depriving them of grit-building experiences. Scott became conservative after a dot-com-era market crash, and now wants to use wealth to let his kids pursue dreams while maintaining family values and work ethic.",
+      "detail_zh": "Scott在1990年代白手起家，将父亲创立的电信公司规模扩大十倍，并在互联网泡沫末期出售，获得首次流动性事件。但随后市场回调，他几乎全仓投入，约30%的财富在60天内蒸发，这让他此后投资风格“过于保守”，并带有“稀缺心态”。2004年，他将对音乐和摩托车的热情转化为事业，开设了5万平方英尺的摩托车经销商，附带演唱会场地，后扩展至多个地点和零售店。2012年左右，Scott开始与摩根士丹利顾问Blair合作，进行长期财务规划，包括投资、遗嘱和信托。Blair帮助他制定了10-15年的规划，Scott不仅实现了目标，还超额完成。2023年，Scott剥离了一家较小的经销商进行出售，以熟悉交易流程，并庆幸没有出售整个业务。如今，他关注如何将财富传递给20多岁的女儿和儿子，既让他们有选择自由，又避免过度给予而剥夺他们塑造韧性的艰难经历。Blair有一套框架，帮助在给予子女追求梦想的自由的同时，保持家庭价值观、目标感和健康的工作伦理。",
+      "detail_en": "Scott built his career from scratch in the 1990s, growing his father's telecom company tenfold and selling it at the tail end of the dot-com era for his first liquidity event. But after a market correction, he was all in and lost about 30% of his money in 60 days, which made him 'far too conservative' and gave him a 'scarcity mentality.' In 2004, he turned his passions for music and motorcycles into a 50,000-square-foot motorcycle dealership with a concert venue, later expanding to multiple locations and retail stores. Around 2012, Scott began working with Morgan Stanley advisor Blair on long-term financial planning, including investments, wills, and trusts. Blair helped him create a 10-15 year plan, which Scott not only met but exceeded. In 2023, Scott divested one of his smaller dealerships to get comfortable with the transaction process, and he's glad he didn't sell the entire business. Now, he's focused on how to pass wealth to his 20-something daughter and son—giving them freedom of choice without giving so much that it takes away the tough experiences that build resilience. Blair has a framework to help give Scott's children the freedom to follow their dreams while maintaining family values, purpose, and a healthy work ethic.",
+      "conclusion_zh": "高净值家庭财富传承需平衡给予与保留，既提供选择自由，又通过规划维持子女的奋斗动力与家庭价值观。",
+      "conclusion_en": "Wealth transfer in high-net-worth families requires balancing giving and withholding—providing freedom of choice while preserving children's drive and family values through thoughtful planning.",
+      "key_points": [
+        {
+          "zh": "Scott在互联网泡沫后损失约30%财富，此后投资风格过于保守，带有稀缺心态。",
+          "en": "Scott lost about 30% of his wealth after the dot-com crash, making him overly conservative with a scarcity mentality."
+        },
+        {
+          "zh": "Scott于2004年开设5万平方英尺摩托车经销商，结合音乐与摩托车热情，后扩展至多地点。",
+          "en": "Scott opened a 50,000-square-foot motorcycle dealership in 2004, combining his passions for music and motorcycles, and later expanded to multiple locations."
+        },
+        {
+          "zh": "2012年左右与顾问Blair开始长期规划，包括投资、遗嘱和信托，10-15年目标超额完成。",
+          "en": "Around 2012, Scott began long-term planning with advisor Blair, including investments, wills, and trusts, and exceeded his 10-15 year goals."
+        },
+        {
+          "zh": "2023年Scott剥离一家较小经销商进行出售，以熟悉流程，并庆幸未出售整个业务。",
+          "en": "In 2023, Scott divested a smaller dealership to get comfortable with the process and is glad he didn't sell the entire business."
+        },
+        {
+          "zh": "当前核心议题：如何向20多岁子女传承财富，既给予自由又避免剥夺其塑造韧性的经历。",
+          "en": "The core issue: how to pass wealth to his 20-something kids—giving freedom without depriving them of resilience-building experiences."
+        }
+      ],
+      "tags": [
+        "wealth transfer",
+        "estate planning",
+        "family wealth",
+        "entrepreneurship"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:SavoWVMOwV4",
       "title": "Investing in the Future of America",
@@ -17236,104 +18011,6 @@
         "AI trade",
         "Fed policy",
         "oil"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:iMUXvqeKPQ0",
-      "title": "SK Hynix Earnings Surge Drives Tech Stocks Higher",
-      "title_zh": "SK海力士财报引爆亚洲科技股，渣打上调指引，德银固收交易收入下滑",
-      "url": "https://www.youtube.com/watch?v=iMUXvqeKPQ0",
-      "published_at": "2026-10-28T08:13:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "SK海力士亮眼财报及450亿美元派息计划推动亚洲科技股上涨，AI交易情绪回暖。渣打三季度利润超预期并上调年度收入与回报目标；德银固收交易收入同比下降3%至23.9亿欧元，但税前利润超预期。美联储预计按兵不动，12月展望受关注。",
-      "summary_en": "Blowout earnings and a $45 billion payout plan from SK Hynix fueled a rally in Asian tech shares, reviving the AI trade. Standard Chartered beat profit estimates and raised annual income and return targets, while Deutsche Bank's fixed-income trading revenue fell 3% to €2.39 billion but pretax profit exceeded forecasts. The Fed is expected to hold rates, with December outlook in focus.",
-      "detail_zh": "亚洲科技股上涨，韩国领涨，此前芯片巨头SK海力士公布亮眼财报并宣布450亿美元派息计划，促使投资者重新涌入AI交易。渣打银行三季度利润超出分析师预期，受财富管理部门创纪录净流入和强劲交易活动推动，该行上调了年度收入和回报目标。德意志银行三季度固定收益交易收入下降3%至23.9亿欧元，符合分析师预期，但税前利润为26.3亿欧元，超过预测。英国财政大臣John Healey表示其首份预算将为英国提供“喘息空间”，Andy Burnham的新政府寻求以最小成本维持民调反弹。市场关注英国国债，Healey面临艰难的预算选择。以色列选举陷入僵局，内塔尼亚胡与反对派持平，计票过半时内塔尼亚胡反超Eisenkot。美联储预计将维持利率不变，12月展望成为焦点。",
-      "detail_en": "Tech shares climbed across Asia, led by South Korea, after chip heavyweight SK Hynix reported blowout earnings and announced a $45 billion payout plan, prompting investors to charge back into the AI trade. Standard Chartered reported third-quarter profit that beat analysts' estimates, driven by record net inflows into its wealth unit and robust trading activity, prompting the lender to raise its annual income and return targets. Deutsche Bank's fixed-income trading revenue declined 3% to €2.39 billion in the third quarter, meeting analyst estimates, while pretax profit was €2.63 billion, exceeding forecasts. UK Chancellor of the Exchequer John Healey said his first budget would deliver \"breathing space\" for Britain, as Andy Burnham's new administration seeks to sustain a poll bounce at minimal cost. Gilts are in focus as Healey faces tough budget choices. Israeli vote is deadlocked with Netanyahu level with the opposition, and Netanyahu overtook Eisenkot with half Israeli votes counted. The Fed is expected to hold rates, with the December outlook in focus.",
-      "conclusion_zh": "SK海力士财报重燃AI交易热情，关注亚洲科技股对美股的溢出效应；美联储按兵不动预期下，12月政策信号是关键。",
-      "conclusion_en": "SK Hynix's earnings rekindled the AI trade, watch for spillover from Asian tech to US equities; with the Fed expected to hold, December policy signals are key.",
-      "key_points": [
-        {
-          "zh": "SK海力士亮眼财报及450亿美元派息计划推动亚洲科技股上涨，AI交易情绪回暖。",
-          "en": "SK Hynix's blowout earnings and $45 billion payout plan fueled a rally in Asian tech shares, reviving the AI trade."
-        },
-        {
-          "zh": "渣打银行三季度利润超预期，财富管理净流入创纪录，上调年度收入和回报目标。",
-          "en": "Standard Chartered beat Q3 profit estimates on record wealth net inflows and raised annual income and return targets."
-        },
-        {
-          "zh": "德意志银行固收交易收入同比下降3%至23.9亿欧元，符合预期，但税前利润超预期。",
-          "en": "Deutsche Bank's fixed-income trading revenue fell 3% to €2.39 billion, in line with estimates, but pretax profit exceeded forecasts."
-        },
-        {
-          "zh": "英国财政大臣Healey称首份预算将提供“喘息空间”，市场关注英国国债。",
-          "en": "UK Chancellor Healey said his first budget would provide \"breathing space,\" with gilts in focus."
-        },
-        {
-          "zh": "美联储预计维持利率不变，12月政策展望成为市场焦点。",
-          "en": "The Fed is expected to hold rates, with the December outlook in focus."
-        }
-      ],
-      "tags": [
-        "SK Hynix",
-        "AI trade",
-        "Standard Chartered",
-        "Deutsche Bank",
-        "Fed"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:no0a94TLwOs",
-      "title": "Mbappé Apologizes After China Backlash",
-      "title_zh": "彭博中国秀：新西兰联储按兵不动，SK海力士预警内存短缺持续至2030年",
-      "url": "https://www.youtube.com/watch?v=no0a94TLwOs",
-      "published_at": "2026-10-28T07:35:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "新西兰联储维持基准利率2.75%不变，纽元随后大跌。SK海力士预计内存供应短缺将持续至2030年。OpenAI计划购买谷歌芯片作为AI建设的一部分。",
-      "summary_en": "RBNZ held its benchmark rate at 2.75%, sending the Kiwi tumbling. SK Hynix expects the memory supply shortage to persist through 2030. OpenAI plans to buy Google chips as part of its AI buildout.",
-      "detail_zh": "新西兰联储将基准利率维持在2.75%不变，纽元在利率决定后大幅下跌。SK海力士预计内存供应短缺将持续至2030年。OpenAI计划购买谷歌芯片，作为其人工智能建设的一部分。中国债券上涨，因中国人民银行增加现金注入。摩根士丹利Laura Wang和Stashaway的Stephanie Leung分别就中国市场发表了看法。中国制造商东山精密在香港首次亮相。以色列出口民调显示选举陷入僵局。香港创新科技及工业局常任秘书长蔡杰铭在One Earth Summit上发言。One Earth Summit的Poman Lo讨论了ESG投资。Jio将在印度首次亮相。姆巴佩因争议性言论面临反弹。",
-      "detail_en": "The RBNZ left its benchmark interest rate unchanged at 2.75%, and the Kiwi tumbled after the rate hold. SK Hynix expects the memory supply shortage to persist through 2030. OpenAI plans to buy Google chips as part of its AI buildout. Chinese bonds rallied as the PBOC increased cash injections. Morgan Stanley's Laura Wang and Stashaway's Stephanie Leung shared views on Chinese markets. Chinese manufacturer Dongshan Precision debuted in Hong Kong. Israel exit polls showed the election in deadlock. Hong Kong's Permanent Secretary for Innovation, Technology and Industry Kevin Choi spoke at the One Earth Summit. Poman Lo of One Earth Summit discussed ESG investing. Jio is set to debut in India. Mbappé faced backlash after controversial comments.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "新西兰联储维持基准利率在2.75%不变，纽元随后大跌。",
-          "en": "RBNZ held its benchmark rate at 2.75%, and the Kiwi tumbled afterward."
-        },
-        {
-          "zh": "SK海力士预计内存供应短缺将持续至2030年。",
-          "en": "SK Hynix expects the memory supply shortage to persist through 2030."
-        },
-        {
-          "zh": "OpenAI计划购买谷歌芯片，作为其人工智能建设的一部分。",
-          "en": "OpenAI plans to buy Google chips as part of its AI buildout."
-        },
-        {
-          "zh": "中国债券上涨，因中国人民银行增加现金注入。",
-          "en": "Chinese bonds rallied as the PBOC increased cash injections."
-        },
-        {
-          "zh": "以色列出口民调显示选举陷入僵局。",
-          "en": "Israel exit polls show the election in deadlock."
-        }
-      ],
-      "tags": [
-        "RBNZ",
-        "memory shortage",
-        "OpenAI",
-        "PBOC",
-        "Israel election"
       ],
       "tickers": [],
       "sentiment": "neutral"
