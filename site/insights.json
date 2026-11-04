@@ -1,6 +1,123 @@
 {
-  "generated_at": "2026-11-04T19:12:18.220459+00:00",
+  "generated_at": "2026-11-04T20:15:27.937363+00:00",
   "insights": [
+    {
+      "guid": "yt:kR1tHr9szig",
+      "title": "Disclosure: “Golf Is Great on the Taxpayers’ Dime”",
+      "title_zh": "SEC员工被曝上班时间打高尔夫，举报线索引发调查",
+      "url": "https://www.youtube.com/watch?v=kR1tHr9szig",
+      "published_at": "2026-11-04T19:42:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "调查记者Jason Leopold与律师Matt Topic在Disclosure播客中讨论了一条举报线索，该线索提示美国证券交易委员会（SEC）员工可能在办公时间打高尔夫。节目围绕该线索的细节及其如何引起SEC注意展开。",
+      "summary_en": "Investigative reporter Jason Leopold and attorney Matt Topic discuss on the Disclosure podcast a tip that alerted the SEC that its employees might be golfing during office hours. The episode unpacks the details of the tip and how it came to the SEC's attention.",
+      "detail_zh": "在Disclosure播客的一期节目中，调查记者Jason Leopold与律师Matt Topic共同讨论了一条举报线索。该线索提示美国证券交易委员会（SEC）的员工可能在办公时间打高尔夫。节目围绕这条线索的内容、来源以及它如何引起SEC的注意展开分析。讨论涉及举报线索的细节及其对SEC内部监管的潜在影响。",
+      "detail_en": "On an episode of the Disclosure podcast, investigative reporter Jason Leopold and attorney Matt Topic unpack a tip that alerted the SEC that its employees might be golfing during office hours. The discussion covers the details of the tip, its origins, and how it came to the SEC's attention. The episode analyzes the implications of the tip for internal oversight at the SEC.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "举报线索提示SEC员工可能在办公时间打高尔夫。",
+          "en": "A tip alerted the SEC that its employees might be golfing during office hours."
+        },
+        {
+          "zh": "调查记者Jason Leopold与律师Matt Topic在Disclosure播客中讨论该线索。",
+          "en": "Investigative reporter Jason Leopold and attorney Matt Topic discussed the tip on the Disclosure podcast."
+        },
+        {
+          "zh": "节目围绕线索的细节及其如何引起SEC注意展开。",
+          "en": "The episode unpacked the details of the tip and how it came to the SEC's attention."
+        }
+      ],
+      "tags": [
+        "SEC",
+        "whistleblower",
+        "investigation",
+        "podcast"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:V1dggYjIVZM",
+      "title": "Trump Says He's Not Worried About Impeachment",
+      "title_zh": "特朗普称不担心被弹劾，称弹劾将“摧毁”民主党",
+      "url": "https://www.youtube.com/watch?v=V1dggYjIVZM",
+      "published_at": "2026-11-04T19:12:42+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党夺回国会控制权次日，特朗普在白宫表示不担心被弹劾，并称弹劾将“摧毁”民主党。内容为政治表态，未涉及市场或经济政策细节。",
+      "summary_en": "The day after Democrats regained control of Congress, President Donald Trump said at the White House that he is not worried about being impeached, adding that doing so would 'destroy' the Democratic Party. The remarks are political and contain no market or economic policy details.",
+      "detail_zh": "特朗普在白宫发表讲话，此时正值民主党夺回国会控制权的次日。他表示自己并不担心被弹劾。他还称，弹劾程序将“摧毁”民主党。原文未提供更多关于弹劾理由、程序或经济政策影响的信息。该内容属于政治事件报道，与美股或宏观经济无直接关联。",
+      "detail_en": "Trump spoke at the White House the day after Democrats took back control of Congress. He said he is not worried about being impeached. He also said that doing so would 'destroy' the Democratic Party. The source provides no further details on grounds, procedure, or economic policy implications. This is a political news item with no direct link to US equities or macroeconomics.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党夺回国会控制权次日，特朗普在白宫表态。",
+          "en": "Trump spoke at the White House the day after Democrats regained control of Congress."
+        },
+        {
+          "zh": "特朗普称不担心被弹劾。",
+          "en": "Trump said he is not worried about being impeached."
+        },
+        {
+          "zh": "特朗普称弹劾将“摧毁”民主党。",
+          "en": "Trump said impeachment would 'destroy' the Democratic Party."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "impeachment",
+        "Democrats",
+        "Congress",
+        "politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:7xJyT03KZqU",
+      "title": "Oil Market Starting to Embed Geopolitical Risk, Says Rapidan’s McNally",
+      "title_zh": "Rapidan创始人：中期选举后美伊军事升级风险高，成品油市场仍偏紧",
+      "url": "https://www.youtube.com/watch?v=7xJyT03KZqU",
+      "published_at": "2026-11-04T19:03:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Rapidan Energy Group创始人Bob McNally预计，中期选举后美伊军事升级是最可能的结果。尽管石油流量增加，他认为成品油市场仍存在紧张风险。",
+      "summary_en": "Bob McNally, founder of Rapidan Energy Group, expects military escalation between the US and Iran to be the most likely outcome after the midterm elections. Despite increased oil flows, he sees continued risk of tightness in the refined product market.",
+      "detail_zh": "Rapidan Energy Group创始人兼总裁Bob McNally在“Bloomberg Surveillance”节目中表示，中期选举后美国与伊朗之间军事升级是最可能的结果。他还指出，尽管石油流量有所增加，成品油市场仍面临紧张风险。",
+      "detail_en": "Bob McNally, founder and president of Rapidan Energy Group, said on \"Bloomberg Surveillance\" that military escalation between the US and Iran is the most likely outcome following the midterm elections. He also noted that risks remain for tightness in the refined product market despite increased oil flows.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "中期选举后美伊军事升级是最可能的结果",
+          "en": "Military escalation between the US and Iran is the most likely outcome after the midterm elections"
+        },
+        {
+          "zh": "尽管石油流量增加，成品油市场仍存在紧张风险",
+          "en": "Risk remains for tightness in the refined product market despite increased oil flows"
+        }
+      ],
+      "tags": [
+        "US-Iran",
+        "oil",
+        "refined products",
+        "midterm elections"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:IQC_Q9NMovs",
       "title": "As the Democrats prepare to gain control of Congress, what will be their legislative agenda?",
@@ -17534,334 +17651,6 @@
         "rates",
         "AI",
         "BlackRock"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:utmRIHjvS1w",
-      "title": "Spanish Train Crash Kills at Least 68 People South of Madrid",
-      "title_zh": "西班牙高铁相撞致至少68人死亡",
-      "url": "https://www.youtube.com/watch?v=utmRIHjvS1w",
-      "published_at": "2026-10-28T20:06:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "西班牙马德里以南约60英里处发生高铁相撞事故，造成至少68人死亡，为该国今年第二起重大铁路事故，也是十多年来最致命的列车事故。",
-      "summary_en": "A high-speed rail collision about 60 miles south of Madrid killed at least 68 people, marking Spain's second major rail accident this year and the deadliest train crash in over a decade.",
-      "detail_zh": "周三，西班牙马德里以南约60英里处发生一起高铁相撞事故，造成至少68人死亡。这是西班牙铁路网络今年发生的第二起重大事故，也是十多年来最致命的列车相撞事件。原文未提供事故原因、涉事运营方、伤亡更新或市场影响等进一步信息。",
-      "detail_en": "A high-speed rail service collided with another train about 60 miles south of Madrid on Wednesday, killing at least 68 people. It is the second major accident on Spain's rail network this year and the deadliest crash in over a decade. The source provides no further details on cause, operator, updated casualties, or market impact.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "事故发生在马德里以南约60英里处，高铁与另一列车相撞。",
-          "en": "The crash occurred about 60 miles south of Madrid, where a high-speed train collided with another train."
-        },
-        {
-          "zh": "死亡人数至少68人。",
-          "en": "At least 68 people were killed."
-        },
-        {
-          "zh": "这是西班牙铁路今年第二起重大事故。",
-          "en": "It is the second major accident on Spain's rail network this year."
-        },
-        {
-          "zh": "这是十多年来最致命的列车事故。",
-          "en": "It is the deadliest train crash in over a decade."
-        }
-      ],
-      "tags": [
-        "Spain",
-        "rail accident",
-        "transportation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lt8Ktoshcvs",
-      "title": "Ripple CEO on XRP’s role as a currency bridge",
-      "title_zh": "Ripple CEO：XRP 仍充当货币对之间的桥梁",
-      "url": "https://www.youtube.com/watch?v=lt8Ktoshcvs",
-      "published_at": "2026-10-28T19:54:15+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Ripple CEO Brad Garlinghouse 表示，XRP 继续作为货币对之间的桥梁，避免兑换成美元再换出。",
-      "summary_en": "Ripple CEO Brad Garlinghouse says XRP continues to serve as a bridge between currency pairs, avoiding conversion into and out of the US dollar.",
-      "detail_zh": "Ripple CEO Brad Garlinghouse 表示，XRP 继续充当货币对之间的桥梁。他指出，这一用途可以避免兑换成美元再换出。原文未提供更多关于使用规模、具体货币对或业务进展的细节。",
-      "detail_en": "Ripple CEO Brad Garlinghouse says XRP continues to serve as a bridge between currency pairs. He notes that this use avoids conversion into and out of the US dollar. The source provides no further details on usage scale, specific currency pairs, or business developments.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Ripple CEO 称 XRP 仍充当货币对之间的桥梁",
-          "en": "Ripple CEO says XRP continues to serve as a bridge between currency pairs"
-        },
-        {
-          "zh": "该用途避免兑换成美元再换出",
-          "en": "This use avoids conversion into and out of the US dollar"
-        }
-      ],
-      "tags": [
-        "XRP",
-        "Ripple",
-        "cross-border payments"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:K-BlH8tBsSY",
-      "title": "Politics Had No Role in Fed Rate Decision, Warsh Says",
-      "title_zh": "美联储维持利率不变，主席称决策未受政治影响",
-      "url": "https://www.youtube.com/watch?v=K-BlH8tBsSY",
-      "published_at": "2026-10-28T19:43:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "FOMC决定维持利率不变，美联储主席Kevin Warsh表示政治因素未参与该决策。",
-      "summary_en": "The FOMC kept interest rates unchanged, and Fed Chair Kevin Warsh stated that politics played no role in the decision.",
-      "detail_zh": "美联储公开市场委员会（FOMC）决定维持利率不变。会后，美联储主席Kevin Warsh表示：“政治在决策中没有扮演任何角色。”原文未提供利率决议的具体细节、投票结果或经济背景。",
-      "detail_en": "The Federal Open Market Committee (FOMC) decided to keep interest rates unchanged. After the meeting, Fed Chair Kevin Warsh said, \"Politics played no role in the decision.\" The original text does not provide specific details of the rate decision, voting results, or economic context.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "FOMC维持利率不变。",
-          "en": "The FOMC kept interest rates unchanged."
-        },
-        {
-          "zh": "美联储主席Kevin Warsh称政治未影响决策。",
-          "en": "Fed Chair Kevin Warsh said politics played no role in the decision."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "FOMC",
-        "interest rates",
-        "monetary policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-SJm7EcJA9U",
-      "title": "US, Israel Are Planning New Attack on Iran, Cook Says",
-      "title_zh": "CFR专家：美以似在筹划对伊朗新攻击，内塔尼亚胡或从以色列再选举中获益",
-      "url": "https://www.youtube.com/watch?v=-SJm7EcJA9U",
-      "published_at": "2026-10-28T19:41:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国外交关系委员会中东项目主任Steven Cook表示，美国和以色列似乎正在筹划对伊朗的新一轮攻击。他还指出，若以色列再次举行大选以尝试组建新政府，总理内塔尼亚胡将占据优势。",
-      "summary_en": "Steven Cook, director of the Middle East program at the Council on Foreign Relations, says the US and Israel appear to be planning a new attack on Iran. He also says Prime Minister Benjamin Netanyahu would have an advantage if Israelis go to the polls again to try to form a new government.",
-      "detail_zh": "美国外交关系委员会（CFR）中东项目主任Steven Cook在彭博电视节目中表示，美国和以色列似乎正在筹划对伊朗发动新的攻击。Cook还就以色列国内政治发表看法，称如果以色列再次举行大选以尝试组建新政府，总理本杰明·内塔尼亚胡将拥有优势。原文未提供攻击计划的具体细节、时间表或选举相关民调数据。",
-      "detail_en": "Steven Cook, director of the Middle East program at the Council on Foreign Relations, said on Bloomberg Television that the US and Israel appear to be planning a new attack on Iran. Cook also commented on Israeli domestic politics, saying Prime Minister Benjamin Netanyahu would have an advantage if Israelis go to the polls again to try to form a new government. The original text does not provide specific details, timelines, or polling data regarding the attack plans or the elections.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "CFR中东项目主任Steven Cook称，美以似乎正在筹划对伊朗的新攻击。",
-          "en": "Steven Cook of the Council on Foreign Relations says the US and Israel appear to be planning a new attack on Iran."
-        },
-        {
-          "zh": "Cook表示，若以色列再次举行大选，内塔尼亚胡将占据优势。",
-          "en": "Cook says Netanyahu would have an advantage if Israelis go to the polls again."
-        }
-      ],
-      "tags": [
-        "Iran",
-        "Israel",
-        "Middle East",
-        "election"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:M0j0TdCX6DI",
-      "title": "Warsh says FOMC meeting schedule will change as of next fall",
-      "title_zh": "美联储主席沃什宣布明年起调整会议安排，维持利率不变",
-      "url": "https://www.youtube.com/watch?v=M0j0TdCX6DI",
-      "published_at": "2026-10-28T19:39:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美联储主席凯文·沃什表示，美联储将从明年开始分阶段实施调整后的会议安排，认为每年八次会议是FOMC的合适数量。此前美联储以10比2的投票结果决定维持利率不变，尽管存在持续的价格压力和强劲经济迹象。",
-      "summary_en": "Federal Reserve Chairman Kevin Warsh said the central bank will phase in an adjusted meeting schedule starting next year, believing eight meetings per year is the right number for the FOMC. This follows a 10-2 vote to leave interest rates unchanged despite persistent price pressures and signs of a strong economy.",
-      "detail_zh": "美联储主席凯文·沃什周三表示，美联储将从明年开始分阶段实施调整后的会议安排。沃什称：“我们认为每年八次会议是FOMC的合适数量。”此番表态是在美联储官员以10比2的投票结果决定维持利率不变之后作出的。投票结果反映出，尽管存在持续的价格压力和强劲经济的迹象，美联储仍选择按兵不动。原文未提供更多关于会议安排调整的细节或反对票的具体原因。",
-      "detail_en": "Federal Reserve Chairman Kevin Warsh said on Wednesday that the central bank will phase in an adjusted meeting schedule starting next year. \"We believe eight meetings per year is the right number for the FOMC,\" Warsh said. The remarks came after Federal Reserve officials voted 10-2 to leave interest rates unchanged despite persistent price pressures and signs of a strong economy. The original text does not provide further details on the schedule adjustment or the reasons behind the dissenting votes.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美联储主席沃什宣布明年起分阶段调整会议安排",
-          "en": "Fed Chairman Warsh announces phased-in adjusted meeting schedule starting next year"
-        },
-        {
-          "zh": "沃什认为每年八次会议是FOMC的合适数量",
-          "en": "Warsh believes eight meetings per year is the right number for the FOMC"
-        },
-        {
-          "zh": "美联储以10比2投票维持利率不变",
-          "en": "Fed votes 10-2 to leave interest rates unchanged"
-        },
-        {
-          "zh": "维持利率不变的决定面临持续价格压力和强劲经济迹象",
-          "en": "The decision to hold rates comes amid persistent price pressures and signs of a strong economy"
-        }
-      ],
-      "tags": [
-        "Federal Reserve",
-        "FOMC",
-        "interest rates",
-        "monetary policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Et7KH6Mtcls",
-      "title": "Dimensional’s David Booth on How to Interpret Risk and 'Stay Calm' Amid Uncertainty",
-      "title_zh": "Dimensional创始人David Booth谈风险、不确定性与复利",
-      "url": "https://www.youtube.com/watch?v=Et7KH6Mtcls",
-      "published_at": "2026-10-28T19:33:37+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "Dimensional Fund Advisors创始人兼董事长David Booth与高盛Raj Mahajan对话，讨论如何解读风险与不确定性、外部投资者如何像内部人一样有效参与市场，以及复利的长期魔力。Booth管理超过1万亿美元资产，著有《Stay Calm》。",
-      "summary_en": "David Booth, founder and chairman of Dimensional Fund Advisors, which manages over $1 trillion, discusses with Goldman Sachs' Raj Mahajan how to interpret risk and uncertainty, how outsiders can participate in markets as effectively as insiders, and the long-term magic of compounding. Booth is the author of Stay Calm.",
-      "detail_zh": "Dimensional Fund Advisors创始人兼董事长David Booth运用学术研究和市场证据管理超过1万亿美元资产。在与高盛全球银行与市场部高级合伙人Raj Mahajan的对话中，Booth讨论了如何解读风险与不确定性、外部人如何像内部人一样有效地参与市场，以及复利的长期魔力。Booth著有《Stay Calm》一书。该期节目录制于2026年9月3日。原文未提供更多具体投资观点或市场判断。",
-      "detail_en": "David Booth, founder and chairman of Dimensional Fund Advisors, uses academic research and market evidence to manage more than $1 trillion in assets. In a conversation with Raj Mahajan, a senior partner in Goldman Sachs Global Banking & Markets, Booth discusses how to interpret risk and uncertainty, how outsiders can participate in the market as effectively as insiders, and the long-term magic of compounding. Booth is the author of Stay Calm. The episode was recorded on September 3, 2026. The source does not provide further specific investment views or market judgments.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Dimensional Fund Advisors管理超过1万亿美元资产，创始人David Booth强调运用学术研究和市场证据。",
-          "en": "Dimensional Fund Advisors manages over $1 trillion in assets, and founder David Booth emphasizes using academic research and market evidence."
-        },
-        {
-          "zh": "对话主题包括如何解读风险与不确定性，以及外部投资者如何像内部人一样有效参与市场。",
-          "en": "The discussion covers how to interpret risk and uncertainty, and how outsiders can participate in markets as effectively as insiders."
-        },
-        {
-          "zh": "Booth还讨论了复利的长期魔力，其著作《Stay Calm》体现了相关理念。",
-          "en": "Booth also discusses the long-term magic of compounding, a theme reflected in his book Stay Calm."
-        }
-      ],
-      "tags": [
-        "asset management",
-        "compounding",
-        "risk",
-        "uncertainty",
-        "long-term investing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-bhV3kVq_xs",
-      "title": "Ripple Swell, Perpetual Futures Pushback, Fifteen-Minute Bets",
-      "title_zh": "彭博加密节目：Ripple、CME、BNY与Coinbase高管讨论加密监管与代币化",
-      "url": "https://www.youtube.com/watch?v=-bhV3kVq_xs",
-      "published_at": "2026-10-28T19:28:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博加密节目汇集Ripple CEO Brad Garlinghouse、CME Group CEO Terry Duffy、BNY全球市场主管Laide Majiyagbe及Coinbase美国政策副总裁Kara Calvert，讨论XRP与RLUSD、加密监管、代币化市场、抵押品流动性、预测市场及加密选民等议题。",
-      "summary_en": "This Bloomberg Crypto episode features Ripple CEO Brad Garlinghouse, CME Group CEO Terry Duffy, BNY Global Head of Markets Laide Majiyagbe, and Coinbase VP of US Policy Kara Calvert, discussing XRP and RLUSD, crypto regulation, tokenized markets, collateral mobility, prediction markets, and crypto voters.",
-      "detail_zh": "节目由多个章节组成，涵盖Ripple CEO Brad Garlinghouse的访谈，涉及XRP与Ripple、XRP与RLUSD的对比、Ripple的增长计划及Ripple的信托银行。随后讨论加密监管。CME Group CEO Terry Duffy讨论CME与预测市场的竞争、离岸交易以及美国交易者使用VPN的情况。BNY全球市场主管Laide Majiyagbe讨论代币化市场、抵押品流动性和规模化代币化。Nathan Dean讨论加密监管。Coinbase美国政策副总裁Kara Calvert讨论Coinbase与Clarity Act、加密与中期选举以及加密选民。最后Emily Nicolle讨论比特币押注和预测市场。",
-      "detail_en": "The program is divided into chapters covering interviews with Ripple CEO Brad Garlinghouse on XRP and Ripple, XRP vs. RLUSD, Ripple's growth plans, and Ripple's trust bank. Crypto regulation is then discussed. CME Group CEO Terry Duffy discusses CME vs. prediction markets, offshore trading, and U.S. traders using VPNs. BNY Global Head of Markets Laide Majiyagbe discusses tokenized markets, collateral mobility, and tokenization at scale. Nathan Dean discusses crypto regulation. Coinbase VP of US Policy Kara Calvert discusses Coinbase and the Clarity Act, crypto and the midterms, and crypto voters. Finally, Emily Nicolle discusses Bitcoin betting and prediction markets.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Ripple CEO Brad Garlinghouse讨论XRP、RLUSD及Ripple的增长计划与信托银行。",
-          "en": "Ripple CEO Brad Garlinghouse discusses XRP, RLUSD, Ripple's growth plans, and its trust bank."
-        },
-        {
-          "zh": "CME Group CEO Terry Duffy讨论CME与预测市场的竞争、离岸交易及美国交易者使用VPN。",
-          "en": "CME Group CEO Terry Duffy discusses CME vs. prediction markets, offshore trading, and U.S. traders using VPNs."
-        },
-        {
-          "zh": "BNY全球市场主管Laide Majiyagbe讨论代币化市场、抵押品流动性和规模化代币化。",
-          "en": "BNY Global Head of Markets Laide Majiyagbe discusses tokenized markets, collateral mobility, and tokenization at scale."
-        },
-        {
-          "zh": "Coinbase美国政策副总裁Kara Calvert讨论Clarity Act、加密与中期选举及加密选民。",
-          "en": "Coinbase VP of US Policy Kara Calvert discusses the Clarity Act, crypto and the midterms, and crypto voters."
-        },
-        {
-          "zh": "节目还涉及加密监管、比特币押注和预测市场等话题。",
-          "en": "The program also covers crypto regulation, Bitcoin betting, and prediction markets."
-        }
-      ],
-      "tags": [
-        "crypto",
-        "regulation",
-        "tokenization",
-        "prediction markets",
-        "XRP"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:bHzHWeeH93c",
-      "title": "Ray Dalio on Knowing Your Nature",
-      "title_zh": "桥水创始人达利欧给20岁年轻人的建议：试错、认清本性、让工作与热情合一",
-      "url": "https://www.youtube.com/watch?v=bHzHWeeH93c",
-      "published_at": "2026-10-28T19:15:58+00:00",
-      "source_name": "Principles by Ray Dalio",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "达利欧将人生分为学习依赖、实践独立、他人依赖三个阶段，建议20岁左右的年轻人通过实践试错认清自身本性，找到适合自己的路径。他强调应让工作与热情合一，同时不能忽视收入保障，并要清楚自己的知识边界。",
-      "summary_en": "Ray Dalio outlines three life phases—learning and dependence, learning by doing with others depending on you, and a later stage—and advises young people around 20 to experiment to understand their nature and find the right path. He stresses aligning work with passion while not neglecting income, and knowing what you don't know.",
-      "detail_zh": "达利欧在回答“如果现在20岁，会给年轻时的自己或刚起步的人什么建议”时表示，人生大致分为三个阶段。第一阶段是学习和依赖他人的阶段，上学读书，但并未通过实践去验证所学。大约20岁左右，人从第一阶段切换到完全不同的第二阶段，即通过实践学习，同时他人开始依赖你。他建议年轻人去实验、认清自己的本性，找到适合自己的正确路径，并认为大约35岁左右开始对人生图景有较清晰的认识。他还强调，要让工作与热情成为同一件事，但不要忘记金钱的部分：如果工作与热情合一且契合本性，人会快乐，前提是收入足够、不至于财务窘迫。此外，要清楚自己不知道什么，通过经历去学习，并始终牢记自己的本性、找到契合点。",
-      "detail_en": "Asked what advice he would give his younger self or people starting out if he were 20 now, Dalio said life largely exists in three phases. The first is a phase of learning and dependence on others—going to school—but you have not experimented by doing. Around age 20, you switch from that first phase to a totally different second phase: learning through doing while others become dependent on you. He advises experimenting, knowing your nature, and finding the right path for you, suggesting you start to get the picture around 35ish. He also says to make your work and your passion the same thing, but don't forget about the money part: if work and passion are the same and suitable to your nature, you will be happy if you're not financially miserable, so you need enough income for it to work. Know what you don't know, gain experiences, learn while keeping your nature in mind, and find the fit.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "人生分三阶段：学习依赖期、实践独立期、以及后续阶段，20岁左右从第一阶段切换到第二阶段。",
-          "en": "Life has three phases: learning/dependence, learning by doing with others depending on you, and a later stage; the switch from phase one occurs around 20."
-        },
-        {
-          "zh": "第二阶段的核心是通过实践学习，实验并认清自己的本性，找到适合自己的路径。",
-          "en": "The second phase centers on learning through doing—experimenting to know your nature and find the right path."
-        },
-        {
-          "zh": "让工作与热情成为同一件事，但不要忽视金钱：收入需足够，避免财务窘迫。",
-          "en": "Make work and passion the same thing, but don't forget the money part: income must be enough to avoid financial misery."
-        },
-        {
-          "zh": "要清楚自己不知道什么，通过经历去学习，并始终牢记自己的本性、找到契合点。",
-          "en": "Know what you don't know, learn through experience, keep your nature in mind, and find the fit."
-        }
-      ],
-      "tags": [
-        "career advice",
-        "life philosophy",
-        "Ray Dalio",
-        "personal development"
       ],
       "tickers": [],
       "sentiment": "neutral"
