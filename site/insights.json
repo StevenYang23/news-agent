@@ -1,6 +1,336 @@
 {
-  "generated_at": "2026-11-04T17:13:50.880858+00:00",
+  "generated_at": "2026-11-04T18:17:08.476309+00:00",
   "insights": [
+    {
+      "guid": "4962377",
+      "title": "Wall Street Lunch: Uncertainty Removed, Optimism Returns",
+      "title_zh": "中期选举结果降低不确定性，股市上涨，债市油市反应积极",
+      "url": "https://seekingalpha.com/article/4962377-wall-street-lunch-uncertainty-removed-optimism-returns?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-04T18:07:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "中期选举结果消除了市场不确定性，推动美股上涨，同时国债收益率和油价下跌。民主党控制国会提高了对化石燃料监管和可再生能源支持的预期，但可能对国防开支和承包商构成压力。德克萨斯州意外翻蓝，新州长对新建数据中心实施暂停令，给特斯拉、SpaceX和AI基础设施项目带来监管风险。",
+      "summary_en": "Midterm election results reduced uncertainty, driving equities higher while Treasury yields and oil prices fell. Democratic control raises prospects for stricter fossil fuel regulation and support for renewables, but may pressure defense spending and contractors. Texas' unexpected blue sweep introduces a moratorium on new data centers, posing regulatory risks for Tesla, SpaceX, and AI infrastructure projects.",
+      "detail_zh": "中期选举结果公布后，市场不确定性降低，标普500、纳斯达克和道指均上涨。债市对此反应积极，收益率全线走低，因为投资者预期华盛顿将出现政治僵局，大规模支出法案难以通过。油价下跌，部分原因是特朗普淡化了打击伊朗的可能性，国务卿卢比奥表示希望通过外交途径解决问题。民主党历来支持对化石燃料实施严格监管并扩大可再生能源，First Solar等太阳能和风能股票大幅上涨。国防承包商如诺斯罗普·格鲁曼和洛克希德·马丁的股价近几个月已大幅下跌，投资者不相信特朗普政府能推动军费大幅增加，而民主党控制国会可能使军费开支受到打击。德克萨斯州完全翻蓝，新州长吉娜·希诺霍萨对新建数据中心实施立即暂停令，但已建成的数据中心可能被 grandfather 条款覆盖。大型科技公司如亚马逊、微软、Alphabet和Meta将比CoreWeave、Nebius、IREN等规模较小的公司更能应对监管压力，后者依赖债券市场融资，可能面临整合。此外，民主党对并购交易不太友好，SpaceX与特斯拉的合并可能需等待数年或完全取消。ARM和高通的财报将为智能手机行业（除苹果外）提供重要参考。",
+      "detail_en": "Following the midterm election results, market uncertainty decreased, with the S&P 500, Nasdaq, and Dow all rising. The bond market reacted positively, with yields falling across the curve as investors expect political gridlock in Washington and major spending bills are unlikely to pass. Oil prices declined, partly because Trump downplayed the prospect of strikes on Iran and Secretary of State Marco Rubio said Trump wanted to resolve things diplomatically. Democrats have historically favored heavy regulation of fossil fuels and expanding renewable energy, and solar and wind stocks such as First Solar rose sharply. Defense contractors like Northrop Grumman and Lockheed Martin have seen shares fall sharply over the past six months as investors doubted the Trump administration could push through significant military spending increases, and Democratic control of Congress could hit military spending. Texas turned completely blue, and incoming Governor Gina Hinojosa has been firm on an immediate moratorium on new data centers, though existing data centers may be grandfathered in. Large tech companies like Amazon, Microsoft, Alphabet, and Meta will fare better than smaller companies like CoreWeave, Nebius, and IREN, which rely on bond market financing and may face consolidation. Additionally, Democrats are less friendly to corporate M&A, so the SpaceX-Tesla merger may need to wait a couple of years or be called off. ARM and Qualcomm earnings will provide a read-through on the smartphone sector outside of Apple.",
+      "conclusion_zh": "中期选举后市场不确定性降低，但行业影响分化：可再生能源受益，国防承包商承压，数据中心监管风险上升，大型科技公司相对更具韧性。",
+      "conclusion_en": "Post-midterm uncertainty is reduced, but sector impacts diverge: renewables benefit, defense contractors face pressure, data center regulatory risks rise, and large tech companies are relatively more resilient.",
+      "key_points": [
+        {
+          "zh": "中期选举结果降低不确定性，美股上涨，国债收益率和油价下跌。",
+          "en": "Midterm election results reduced uncertainty, lifting equities while Treasury yields and oil prices fell."
+        },
+        {
+          "zh": "民主党控制国会提高化石燃料监管和可再生能源支持预期，太阳能股上涨，但国防开支可能承压。",
+          "en": "Democratic control raises prospects for stricter fossil fuel regulation and renewable support, boosting solar stocks, while defense spending may face headwinds."
+        },
+        {
+          "zh": "德克萨斯州翻蓝，新州长对新建数据中心实施暂停令，特斯拉、SpaceX和AI基础设施项目面临监管风险。",
+          "en": "Texas turned blue, and the new governor imposed a moratorium on new data centers, posing regulatory risks for Tesla, SpaceX, and AI infrastructure projects."
+        },
+        {
+          "zh": "大型科技公司（亚马逊、微软、Alphabet、Meta）比小型数据中心公司（CoreWeave、Nebius、IREN）更能应对监管压力。",
+          "en": "Large tech companies (Amazon, Microsoft, Alphabet, Meta) are better positioned than smaller data center companies (CoreWeave, Nebius, IREN) to handle regulatory pressure."
+        },
+        {
+          "zh": "ARM和高通财报将提供智能手机行业（除苹果外）的读解。",
+          "en": "ARM and Qualcomm earnings will provide a read-through on the smartphone sector outside of Apple."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "defense spending",
+        "renewable energy",
+        "data centers",
+        "regulation"
+      ],
+      "tickers": [
+        "NOC",
+        "LMT",
+        "TSLA",
+        "SPCX",
+        "AMZN",
+        "MSFT",
+        "GOOG",
+        "META",
+        "CRWV",
+        "NBIS",
+        "IREN"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:CHIMEbvvkBY",
+      "title": "Why the Fed Can’t Tame Rising Bond Yields | Presented by CME Group",
+      "title_zh": "长期美债收益率面临上行压力：利率更高更久与资本竞争",
+      "url": "https://www.youtube.com/watch?v=CHIMEbvvkBY",
+      "published_at": "2026-11-04T17:56:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "长期美债收益率因“利率更高更久”预期及政府赤字与AI基础设施投资带来的资本竞争而承压。文章提出，在借贷成本攀升背景下，财政约束可能比货币紧缩更有效压低收益率。",
+      "summary_en": "Long-term Treasury yields are under upward pressure from expectations of higher-for-longer rates and growing competition for capital, driven by government deficits and massive AI infrastructure investment. The piece raises whether fiscal restraint could prove more effective than monetary tightening in bringing yields down as borrowing costs climb.",
+      "detail_zh": "长期美债收益率正面临上行压力，来源包括两方面：一是市场对“利率更高更久”的预期，二是资本竞争加剧。资本竞争加剧的背后，是政府赤字和庞大的AI基础设施投资。随着借贷成本攀升，文章提出一个政策问题：财政约束是否可能比货币紧缩更有效地压低收益率。原文未提供具体收益率数字、赤字规模或AI投资金额，也未给出明确结论，仅以提问方式呈现这一政策权衡。",
+      "detail_en": "Long-term Treasury yields are facing upward pressure from two sources: expectations of higher-for-longer interest rates and growing competition for capital. The competition for capital is driven by government deficits and massive AI infrastructure investment. With borrowing costs climbing, the piece poses a policy question: could fiscal restraint prove more effective than monetary tightening in bringing yields down? The original text does not provide specific yield levels, deficit figures, or AI investment amounts, nor does it offer a definitive conclusion, presenting the policy trade-off as an open question.",
+      "conclusion_zh": "长期美债收益率的上行压力凸显财政与资本竞争因素，投资者需关注财政政策动向对收益率的潜在影响。",
+      "conclusion_en": "Upward pressure on long-term Treasury yields highlights fiscal and capital-competition factors; investors should watch fiscal policy developments for potential yield impact.",
+      "key_points": [
+        {
+          "zh": "长期美债收益率面临上行压力，受“利率更高更久”预期推动。",
+          "en": "Long-term Treasury yields face upward pressure from higher-for-longer rate expectations."
+        },
+        {
+          "zh": "政府赤字与大规模AI基础设施投资加剧资本竞争，推高借贷成本。",
+          "en": "Government deficits and massive AI infrastructure investment intensify competition for capital, pushing borrowing costs higher."
+        },
+        {
+          "zh": "文章提出财政约束可能比货币紧缩更有效压低收益率的政策问题。",
+          "en": "The piece raises the policy question of whether fiscal restraint could be more effective than monetary tightening in lowering yields."
+        }
+      ],
+      "tags": [
+        "Treasury yields",
+        "fiscal policy",
+        "AI infrastructure",
+        "higher-for-longer"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Qx-Dr4ZCcxM",
+      "title": "The Fed Holds While Canada Plays Catch-Up | Presented by CME Group",
+      "title_zh": "加拿大央行加息而美联储按兵不动，北美汇债市场面临分化",
+      "url": "https://www.youtube.com/watch?v=Qx-Dr4ZCcxM",
+      "published_at": "2026-11-04T17:55:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "加拿大央行三年来首次加息，而美联储在面临相同的中东能源冲击下维持利率不变。两家央行在时机、经济状况和起始利率上的差异导致政策分化，可能影响北美货币和债券市场。",
+      "summary_en": "The Bank of Canada raised interest rates for the first time in over three years, while the Fed held steady despite facing the same Middle East energy shock. Differences in timing, economic conditions, and starting rates drive the divergence, with potential implications for North American currency and bond markets.",
+      "detail_zh": "加拿大央行进行了三年多以来的首次加息。美联储尽管面临相同的中东能源冲击，仍选择维持利率不变。两家央行的政策分化源于加息时机、经济状况以及起始利率水平的不同。这种对比鲜明的决策可能对北美货币和债券市场产生影响。原文未提供具体加息幅度、利率水平或市场影响细节。",
+      "detail_en": "The Bank of Canada raised interest rates for the first time in more than three years. The Fed held steady despite facing the same Middle East energy shock. The divergence in decisions is driven by differences in timing, economic conditions, and starting rates. The contrasting decisions could have implications for North American currency and bond markets. The original text does not provide specific rate hike magnitudes, rate levels, or detailed market impact.",
+      "conclusion_zh": "加拿大央行与美联储的政策分化可能加剧北美汇债市场波动，投资者需关注两国利差变化对加元、美元及债券收益率的影响。",
+      "conclusion_en": "The policy divergence between the Bank of Canada and the Fed could increase volatility in North American currency and bond markets, with investors watching rate differentials for impacts on the CAD, USD, and bond yields.",
+      "key_points": [
+        {
+          "zh": "加拿大央行三年来首次加息。",
+          "en": "Bank of Canada raises rates for the first time in over three years."
+        },
+        {
+          "zh": "美联储维持利率不变，尽管面临相同的中东能源冲击。",
+          "en": "Fed holds rates steady despite the same Middle East energy shock."
+        },
+        {
+          "zh": "政策分化源于时机、经济状况和起始利率的差异。",
+          "en": "Divergence driven by differences in timing, economic conditions, and starting rates."
+        },
+        {
+          "zh": "对比决策可能影响北美货币和债券市场。",
+          "en": "Contrasting decisions could affect North American currency and bond markets."
+        }
+      ],
+      "tags": [
+        "Bank of Canada",
+        "Fed",
+        "rate hike",
+        "policy divergence",
+        "North American markets"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uGptWaPM7po",
+      "title": "Alaska's Senate Race Is Still Too Close to Call",
+      "title_zh": "阿拉斯加参议院选举结果或需至少两周才能揭晓",
+      "url": "https://www.youtube.com/watch?v=uGptWaPM7po",
+      "published_at": "2026-11-04T17:53:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "阿拉斯加参议院选举中，民主党人Mary Peltola与共和党人Dan Sullivan得票差距约600票，最终胜者可能至少两周后才能确定。",
+      "summary_en": "In Alaska's Senate race, Democrat Mary Peltola and Republican Dan Sullivan are separated by about 600 votes, and a winner may not be declared for at least two weeks.",
+      "detail_zh": "据彭博社的Anna Edgerton从安克雷奇报道，阿拉斯加参议院选举的胜者可能需要至少两周时间才能确定。民主党候选人Mary Peltola与共和党候选人Dan Sullivan目前的得票差距约为600票。报道未提供更多关于计票进展或后续流程的细节。",
+      "detail_en": "According to Bloomberg's Anna Edgerton reporting from Anchorage, it could be at least two weeks until a winner is declared in Alaska's Senate race. Democrat Mary Peltola and Republican Dan Sullivan are currently separated by about 600 votes. The report does not provide further details on the vote-counting process or next steps.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "阿拉斯加参议院选举结果可能至少两周后才能确定。",
+          "en": "The outcome of Alaska's Senate race may not be known for at least two weeks."
+        },
+        {
+          "zh": "民主党人Mary Peltola与共和党人Dan Sullivan得票差距约600票。",
+          "en": "Democrat Mary Peltola and Republican Dan Sullivan are separated by about 600 votes."
+        },
+        {
+          "zh": "彭博社的Anna Edgerton从安克雷奇报道了这一消息。",
+          "en": "Bloomberg's Anna Edgerton reported the news from Anchorage."
+        }
+      ],
+      "tags": [
+        "Alaska Senate race",
+        "election",
+        "vote count"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:U3z8x-y2te0",
+      "title": "France’s Turmoil Sends Investors Toward US Treasuries | Presented by CME Group",
+      "title_zh": "法国政治财政动荡推升法债收益率，美债避险吸引力增强",
+      "url": "https://www.youtube.com/watch?v=U3z8x-y2te0",
+      "published_at": "2026-11-04T17:53:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "法国政治与财政动荡波及全球债市，法国借贷成本上升而美国国债收益率下降。尽管市场对美国自身债务与赤字存在担忧，投资者似乎仍在寻求美债的相对安全性。欧洲不稳定可能强化美债的避险吸引力。",
+      "summary_en": "Political and fiscal unrest in France is rippling through global bond markets, with French borrowing costs rising as US Treasury yields fall. Despite concerns over America's own debt and deficits, investors appear to be seeking the relative safety of US government bonds. European instability could reinforce the Treasury market's safe-haven appeal.",
+      "detail_zh": "法国政治与财政动荡正在全球债券市场引发连锁反应。法国借贷成本上升，而美国国债收益率下降，形成鲜明对比。尽管投资者对美国自身的债务和赤字状况存在担忧，但他们似乎仍在寻求美国国债的相对安全性。这一现象引出一个问题：欧洲的不稳定是否会强化美国国债市场的避险吸引力。原文未提供具体收益率数字或进一步细节。",
+      "detail_en": "Political and fiscal unrest in France is sending ripples through global bond markets. French borrowing costs are rising while US Treasury yields are falling, a notable divergence. Despite concerns over America's own debt and deficits, investors appear to be seeking the relative safety of US government bonds. This raises the question of whether European instability could reinforce the Treasury market's safe-haven appeal. The source does not provide specific yield figures or further details.",
+      "conclusion_zh": "欧洲政治财政不稳定可能强化美债的避险地位，值得关注全球资金流向美国国债的迹象。",
+      "conclusion_en": "European political and fiscal instability could reinforce the safe-haven status of US Treasuries, warranting attention to global flows into US government bonds.",
+      "key_points": [
+        {
+          "zh": "法国政治与财政动荡推升法国借贷成本",
+          "en": "Political and fiscal unrest in France is pushing French borrowing costs higher"
+        },
+        {
+          "zh": "美国国债收益率下降，与法债走势分化",
+          "en": "US Treasury yields are falling, diverging from French borrowing costs"
+        },
+        {
+          "zh": "尽管对美国债务和赤字有担忧，投资者仍寻求美债的相对安全性",
+          "en": "Despite concerns over US debt and deficits, investors seek the relative safety of Treasuries"
+        },
+        {
+          "zh": "欧洲不稳定可能强化美债的避险吸引力",
+          "en": "European instability could reinforce the Treasury market's safe-haven appeal"
+        }
+      ],
+      "tags": [
+        "France",
+        "Treasuries",
+        "safe-haven",
+        "bond markets",
+        "fiscal unrest"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:jnL8qk_9Hxw",
+      "title": "Bloomberg Surveillance 11/4/2026",
+      "title_zh": "民主党中期选举大胜，市场聚焦可负担性与AI融资",
+      "url": "https://www.youtube.com/watch?v=jnL8qk_9Hxw",
+      "published_at": "2026-11-04T17:51:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党在中期选举中横扫国会及得州，Evercore ISI认为可负担性议题对美股构成利好，PIMCO称蓝潮是对可负担性的公投。多位嘉宾指出AI收入与融资比选举更重要，数据中心债务可能需要10%以上收益率，债市是本轮牛市最大约束。",
+      "summary_en": "Democrats swept Congress and Texas in the midterms. Evercore ISI sees the affordability message as bullish for equities, while PIMCO calls the blue wave a referendum on affordability. Guests said AI revenue and financing matter more than the midterms, data center debt may need 10%-plus yields, and the bond market is the biggest constraint on the bull run.",
+      "detail_zh": "民主党在中期选举中横扫国会，并在得克萨斯州取得历史性胜利，Iowa参议院席位也由民主党人Turek赢得。Evercore ISI的Julian Emanuel认为可负担性议题对美股构成利好；PIMCO的Libby Cantrill称蓝潮是对可负担性的公投；摩根士丹利的Ariana Salvatore认为选举对全球股市是清除事件。前副总统彭斯幕僚长Marc Short称中期选举对共和党是“政治末日”。Rapidan Energy的Bob McNally指出油市开始计入地缘政治风险。Oaktree的David Rosenberg表示数据中心债务交易可能需要10%以上的收益率。巴克莱的Alex Altmann认为AI收入和融资比中期选举更重要。AlphaCore的David Stubbs称对数据中心的抵制可能使AI繁荣更可持续。Realtor.com的Jake Krimmel认为住房复苏取决于地缘政治缓和。Academy Securities的Peter Tchir称选举后的平静可能不会持久。10月美国私人部门就业增加86,000人。PGIM的Daleep Singh预计美联储未来一年加息100个基点。Schroders的Johanna Kyrklund认为债市是本轮牛市最大的约束。",
+      "detail_en": "Democrats swept Congress and won a historic victory in Texas, with Turek winning the Iowa Senate seat for Democrats. Evercore ISI's Julian Emanuel sees the affordability message as bullish for equities; PIMCO's Libby Cantrill calls the blue wave a referendum on affordability; Morgan Stanley's Ariana Salvatore says the election is a clearing event for global equities. Marc Short, former chief of staff to VP Pence, calls the midterms a 'political Armageddon' for Republicans. Rapidan Energy's Bob McNally says the oil market is starting to embed geopolitical risk. Oaktree's David Rosenberg says data center debt deals may need 10%-plus yields. Barclays' Alex Altmann says AI revenue and financing matter more than the midterms. AlphaCore's David Stubbs says data center pushback could make the AI boom more sustainable. Realtor.com's Jake Krimmel says the housing recovery hinges on calmer geopolitics. Academy Securities' Peter Tchir says post-election calm may not last. US private payrolls rose 86,000 in October. PGIM's Daleep Singh expects the Fed to hike 100 basis points over the next year. Schroders' Johanna Kyrklund says the bond market is the biggest constraint on the bull run.",
+      "conclusion_zh": "选举清除不确定性后，美股短期情绪偏暖，但AI融资成本与债市约束是更关键的中期变量。",
+      "conclusion_en": "With the election clearing uncertainty, near-term equity sentiment is warmer, but AI financing costs and bond market constraints are the more critical medium-term variables.",
+      "key_points": [
+        {
+          "zh": "民主党横扫国会并赢得得州，Evercore ISI认为可负担性议题对美股构成利好。",
+          "en": "Democrats swept Congress and won Texas; Evercore ISI sees the affordability message as bullish for equities."
+        },
+        {
+          "zh": "PIMCO称蓝潮是对可负担性的公投，摩根士丹利认为选举对全球股市是清除事件。",
+          "en": "PIMCO calls the blue wave a referendum on affordability; Morgan Stanley sees the election as a clearing event for global equities."
+        },
+        {
+          "zh": "Oaktree的Rosenberg表示数据中心债务交易可能需要10%以上的收益率。",
+          "en": "Oaktree's Rosenberg says data center debt deals may need 10%-plus yields."
+        },
+        {
+          "zh": "巴克莱认为AI收入和融资比中期选举更重要；AlphaCore称对数据中心的抵制可能使AI繁荣更可持续。",
+          "en": "Barclays says AI revenue and financing matter more than the midterms; AlphaCore says data center pushback could make the AI boom more sustainable."
+        },
+        {
+          "zh": "PGIM预计美联储未来一年加息100个基点；Schroders认为债市是本轮牛市最大的约束。",
+          "en": "PGIM expects the Fed to hike 100 basis points over the next year; Schroders says the bond market is the biggest constraint on the bull run."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "affordability",
+        "AI financing",
+        "data center debt",
+        "Fed"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:C81JuEo-aAI",
+      "title": "5% Is Normal. The Deficit Isn’t. | Tim Paulson",
+      "title_zh": "美联储暂停加息与中期选举：Tim Duy 谈利率前景",
+      "url": "https://www.youtube.com/watch?v=C81JuEo-aAI",
+      "published_at": "2026-11-04T17:25:01+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "Tim Duy 认为美联储基金利率被过度关注，当前政策仅“略微宽松”，未来预期有限。他预计12月可能再次加息，但并非重大加息周期。两位委员反对凸显美联储内部对通胀风险的分歧，而薪资相关压力是核心通胀的主要来源。",
+      "summary_en": "Tim Duy argues the Fed funds rate is overhyped and policy is only 'slightly accommodative' with limited future expectations. He expects a possible December hike but not a major cycle. Two dissents highlight internal debate on inflation risks, with wage-related pressures driving core inflation.",
+      "detail_zh": "在11月3日（中期选举日）录制的对话中，Tim Duy 回顾了上周美联储暂停加息的决定。他指出，美联储通过幕后渠道提前沟通，因此暂停并不意外，并暗示12月可能再次加息。Duy 强调，单次会议的具体行动几乎无关紧要，重要的是未来预期，而当前预期有限。他引用沃什（Warsh）的措辞，称政策“略微宽松”，目标是转向“略微限制性”，因此并非重大加息周期。Duy 认为利率市场此前过度反应，如今已回调，部分因为意识到美联储不会“加息到通胀死亡”。他还提到沃什主张减少前瞻指引，让市场重新定价风险，这可能导致短期摩擦。本次会议有两位反对者：美联储主席哈马克（Hammack）和丽莎·库克（Cook）。Duy 认为哈马克并非政治进步派，其理由一致：在担忧领域看到问题性通胀迹象，现在加息比未来更痛苦地加息成本更低。库克则被认为是最政治化的理事，但Duy 不愿猜测其动机。Duy 认为10比2的投票显示美联储运作健康。关于通胀，他指出问题不在关税或进口价格，而在薪资相关增长，这是“超级核心”通胀的来源。一年前对工资跟不上通胀和衰退的担忧已经消退。",
+      "detail_en": "In a conversation recorded on November 3 (midterm election day), Tim Duy reviewed the Fed's decision to pause rate hikes last week. He noted the pause was unsurprising as the Fed messaged it quietly through back channels, and hinted at a possible December hike. Duy stressed that the specific action at any meeting is almost irrelevant; what matters is future expectations, which are currently limited. He cited Warsh's language that policy is 'slightly accommodative' and aims to become 'slightly restrictive,' implying no major hiking cycle. Duy said the rates market had overshot and has since backed off, partly realizing the Fed is not in a 'hike until inflation is dead' cycle. He also mentioned Warsh's push to reduce forward guidance and let markets price risk again, which could cause short-term friction. There were two dissents: Fed Chair Hammack and Lisa Cook. Duy views Hammack as not a political progressive, with consistent reasoning that problem inflation signs warrant hikes now rather than more painful ones later. Cook is seen as the most politicized governor, but Duy declined to speculate on her motives. Duy sees the 10-2 vote as a sign of a healthy, functioning Fed. On inflation, he noted the problem is not tariffs or import prices but wage-related gains, the source of 'super core' inflation. The prior year's worries about wages lagging inflation and recession have faded.",
+      "conclusion_zh": "关注美联储未来预期变化及薪资通胀数据，而非单次利率决策；市场对利率的过度反应可能提供机会。",
+      "conclusion_en": "Focus on shifts in Fed future expectations and wage inflation data rather than single rate decisions; market overreaction to rates may present opportunities.",
+      "key_points": [
+        {
+          "zh": "美联储基金利率被过度关注，单次会议行动几乎无关紧要，未来预期才是关键。",
+          "en": "The Fed funds rate is overhyped; specific meeting actions are almost irrelevant, future expectations matter most."
+        },
+        {
+          "zh": "政策仅“略微宽松”，目标转向“略微限制性”，并非重大加息周期。",
+          "en": "Policy is only 'slightly accommodative' with a goal to become 'slightly restrictive,' not a major hiking cycle."
+        },
+        {
+          "zh": "两位委员反对（哈马克和库克），凸显对通胀风险的分歧，但10-2投票被视为健康。",
+          "en": "Two dissents (Hammack and Cook) highlight debate on inflation risks, but the 10-2 vote is seen as healthy."
+        },
+        {
+          "zh": "核心通胀压力来自薪资相关增长，而非关税或进口价格。",
+          "en": "Core inflation pressures come from wage-related gains, not tariffs or import prices."
+        },
+        {
+          "zh": "减少前瞻指引可能带来市场波动，但让市场重新定价风险。",
+          "en": "Reducing forward guidance may bring market volatility but lets markets reprice risk."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rates",
+        "inflation",
+        "midterms",
+        "forward-guidance"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:QXv9_iqt2pk",
       "title": "Trump Praises Democrats, Deflects Blame for GOP Loss",
@@ -15901,6 +16231,57 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:JqoCmdswbBU",
+      "title": "Is the Bull Trend Broken? Trading the Markets w/ Kris Bullock and Nico Brugge",
+      "title_zh": "金融条件收紧后边际转松，AI板块与加密市场承压",
+      "url": "https://www.youtube.com/watch?v=JqoCmdswbBU",
+      "published_at": "2026-10-29T06:04:38+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "volatility"
+      ],
+      "summary_zh": "播客讨论者指出，其构建的金融条件指标约六周前转红，主要受美元走强、债券收益率上行、VIX抬升及信用利差走阔推动，风险偏好随之收缩。近三周该指标连续回落、条件边际转松，AI板块因对冲基金平仓而大幅回调，但Anthropic的IPO消息与Meta增发股票（而非举债）等进展带来一定缓和。比特币在20周均线附近获得支撑，但整体仍受风险偏好收缩拖累。",
+      "summary_en": "The podcast notes that a composite financial conditions indicator turned red about six weeks ago, driven by a stronger dollar, rising bond yields, higher VIX and widening credit spreads, weighing on risk appetite. Over the past three weeks the indicator has eased for three consecutive weeks; AI stocks sold off sharply on a hedge fund unwind, partly offset by Anthropic's IPO announcement and Meta issuing equity rather than debt. Bitcoin found support near its 20-week moving average but remains pressured by the risk-off backdrop.",
+      "detail_zh": "讨论者介绍其金融条件指标为等权合成，核心成分包括实际收益率、信用利差、美元指数和股票波动率，用于判断风险偏好与资金流动的松紧。该指标约六周前转红，此前8月至9月处于中性区间，期间比特币和整体市场录得最大涨幅。收紧阶段最初由债券收益率（2年、10年、30年）和美元走强驱动，随后VIX抬升；信用利差也一度走阔，接近3月高点，但仍处历史低位，讨论者视其为警示信号而非危机，并称需升至4以上才值得担忧，上一次突破4是在去年4月关税冲击期间。指标在10月12日当周见顶，此后连续三周回落，信用利差开始回落、美元短暂回落后反弹、债券收益率连续三至四周下行。AI板块近两三周大幅回调，主因是对冲基金因信用市场警示信号而平仓，而非信用市场本身出现裂痕；Anthropic的IPO公告和Meta选择增发股票而非举债被视为正面因素，带动AI板块及股指反弹，标普和纳指本周回升。比特币月线显示7月见底、8月大涨、9月收涨但涨幅收窄、10月目前为阴线，价格在20周均线处获得支撑，上方763的月线实体高点已转为支撑位。",
+      "detail_en": "The speaker describes a composite financial conditions indicator with equally weighted core components: real yields, credit spreads, the dollar index and equity volatility, used to gauge risk-on/risk-off and money flow conditions. It flipped red about six weeks ago after a neutral period from August into September, during which Bitcoin and the broader market saw their biggest gains. The tightening was initially driven by bond yields (2-year, 10-year, 30-year) and a surging dollar, later joined by a higher VIX; credit spreads also widened toward their March high but remain historically very low, which the speaker treats as a caution flag rather than a crisis, noting he would only worry above the 4 level, last breached during the April tariff meltdown. The indicator peaked in the week of October 12 and has eased for three straight weeks, with credit spreads rolling over, the dollar bouncing back after a brief pullback, and bond yields down three to four consecutive weeks. AI stocks sold off hard over the past two to three weeks largely due to a hedge fund unwind triggered by cautionary credit signals rather than actual cracks in credit markets; Anthropic's IPO announcement and Meta issuing new stock instead of taking on debt were seen as positives, helping AI and equity sectors bounce, with the S&P and Nasdaq up this week. Bitcoin's monthly chart shows a July bottom, a big August, a smaller green September and a red October so far, with price bouncing off the 20-week moving average and the prior monthly candle-body high around 763 now acting as support.",
+      "conclusion_zh": "金融条件边际转松但信用利差仍需警惕，AI板块的反弹更多来自事件性缓和而非基本面改善，比特币在20周均线附近获得支撑但尚未摆脱风险偏好收缩的压制。",
+      "conclusion_en": "Financial conditions are easing at the margin but credit spreads warrant monitoring; the AI rebound reflects event-driven relief rather than fundamental improvement, and Bitcoin is holding near its 20-week moving average while still pressured by the risk-off backdrop.",
+      "key_points": [
+        {
+          "zh": "金融条件指标约六周前转红，核心驱动为美元走强、债券收益率上行、VIX抬升及信用利差走阔。",
+          "en": "The financial conditions indicator turned red about six weeks ago, driven by a stronger dollar, rising bond yields, higher VIX and wider credit spreads."
+        },
+        {
+          "zh": "指标在10月12日当周见顶后连续三周回落，金融条件边际转松。",
+          "en": "The indicator peaked in the week of October 12 and has eased for three consecutive weeks."
+        },
+        {
+          "zh": "信用利差虽走阔但仍处历史低位，讨论者视其为警示信号，需升至4以上才构成问题。",
+          "en": "Credit spreads widened but remain historically low; the speaker treats this as a caution flag and would only worry above the 4 level."
+        },
+        {
+          "zh": "AI板块近两三周大幅回调，主因是对冲基金平仓，而非信用市场出现实质裂痕。",
+          "en": "AI stocks sold off sharply over the past two to three weeks mainly due to a hedge fund unwind, not actual cracks in credit markets."
+        },
+        {
+          "zh": "Anthropic的IPO公告与Meta增发股票（而非举债）被视为正面因素，带动AI板块及股指反弹。",
+          "en": "Anthropic's IPO announcement and Meta issuing equity rather than debt were seen as positives, helping AI and equity indices bounce."
+        }
+      ],
+      "tags": [
+        "financial conditions",
+        "credit spreads",
+        "AI stocks",
+        "Bitcoin",
+        "risk-off"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:COyFDcjtWOQ",
       "title": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
       "title_zh": "英国财政大臣为预算辩护，称银行税为临时措施",
@@ -17703,180 +18084,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:my1tDotIOCg",
-      "title": "Sherman: Insulate with Five-Year",
-      "title_zh": "分析师：五年期美债在当前环境下具吸引力",
-      "url": "https://www.youtube.com/watch?v=my1tDotIOCg",
-      "published_at": "2026-10-28T18:08:39+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "一位分析师认为五年期美国国债是当前较有吸引力的选择，理由是若经济出现疲软，美联储最终将不得不降息，届时五年期国债能提供更好的风险回报。该分析师强调其关注点并非仅15个基点的收益率优势，而是将其作为对冲/隔离风险的工具。",
-      "summary_en": "An analyst views the 5-year Treasury as an attractive choice, arguing that if economic weakness emerges, the Fed will ultimately have to cut rates, offering better bang for the buck. The analyst stresses the focus is not the 15 basis point yield pickup but using it as a way to insulate against risk.",
-      "detail_zh": "分析师表示，五年期美国国债看起来是一个相当有吸引力的位置。他提到自己与投资者交流时常用一个假设性问题：如果必须在一年的封闭期内买入其中一种资产，会买什么？他的答案是五年期美国国债。其核心逻辑是：如果经济出现任何疲软，美联储最终将不得不降息，因此五年期国债能提供更好的风险回报（better bang for the buck）。他明确表示，自己看重的并不是多出的15个基点收益率，而是将其作为一种隔离/对冲风险的方式。原文未提及其他期限品种的具体比较细节或更多宏观数据。",
-      "detail_en": "The analyst says the 5-year Treasury looks like a pretty interesting and attractive spot. He describes a game he plays with investors: if locked in a room for the next year and forced to buy one of these, what would you buy? His answer is a 5-year Treasury. The rationale: if there is any economic weakness, the Fed will ultimately have to cut, so you get better bang for the buck. He explicitly says he is not focused on the 15 basis point yield pickup, but rather views it as a way to insulate against risk. The transcript does not provide further detail on comparisons with other maturities or additional macro data.",
-      "conclusion_zh": "分析师将五年期美债视为经济疲软情形下的防御性配置，而非追求收益率优势。",
-      "conclusion_en": "The analyst frames the 5-year Treasury as a defensive allocation in a weakening-economy scenario rather than a yield play.",
-      "key_points": [
-        {
-          "zh": "分析师首选五年期美国国债，认为其当前具吸引力。",
-          "en": "The analyst's top pick is the 5-year Treasury, which he sees as attractive now."
-        },
-        {
-          "zh": "核心逻辑：若经济疲软，美联储最终将不得不降息。",
-          "en": "Core logic: if the economy weakens, the Fed will ultimately have to cut rates."
-        },
-        {
-          "zh": "关注点不是15个基点的收益率优势，而是风险隔离作用。",
-          "en": "The focus is not the 15bp yield pickup but insulation against risk."
-        }
-      ],
-      "tags": [
-        "Treasuries",
-        "Fed",
-        "rate cuts",
-        "duration"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lf0-zXqHoBM",
-      "title": "40 Million Transactions Per Second Still Isn't Enough?",
-      "title_zh": "AI代理与比特币：快速问答观点",
-      "url": "https://www.youtube.com/watch?v=lf0-zXqHoBM",
-      "published_at": "2026-10-28T18:00:13+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "在快速问答中，受访者认为AI代理将成为人类的队友而非威胁，并认为比特币既是价值存储又是生产性资产，同时确认每秒4000万笔交易对AI代理是必要的。",
-      "summary_en": "In a rapid-fire Q&A, the interviewee stated that AI agents will be teammates rather than threats, views Bitcoin as both a store of value and a productive asset, and affirmed that 40 million transactions per second are necessary for AI agents.",
-      "detail_zh": "在快速问答环节，受访者被问及多个话题。对于“基于账户还是基于对象”，受访者表示世界不是电子表格，因此倾向于基于账户。关于AI代理，受访者认为它们是人类的队友，相信与代理做朋友会比将其视为竞争对手更有生产力，并明确表示自己不属于末日论阵营。关于比特币，受访者认为它既是价值存储又是生产性资产，因为可以借入而不卖出，且其价值会随时间上涨。对于每秒4000万笔交易的公告，受访者认为AI代理绝对需要这样的处理能力，甚至需要更多。",
-      "detail_en": "In a rapid-fire Q&A, the interviewee was asked about several topics. On 'account-based or object-based', the interviewee said the world isn't a spreadsheet, so account-based. Regarding AI agents, the interviewee sees them as teammates, believing we'll be more productive with agents as friends rather than as combatants, and explicitly stated not being in the doomerism camp. On Bitcoin, the interviewee views it as both a store of value and a productive asset because you can borrow against it without selling, and it will go up in value over time. As for the announcement of 40 million transactions per second, the interviewee said agents will absolutely need that and more.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "AI代理被视为人类的队友，而非威胁。",
-          "en": "AI agents are seen as teammates, not threats."
-        },
-        {
-          "zh": "受访者不属于AI末日论阵营。",
-          "en": "The interviewee is not in the AI doomerism camp."
-        },
-        {
-          "zh": "比特币既是价值存储又是生产性资产，因为可以借入而不卖出。",
-          "en": "Bitcoin is both a store of value and a productive asset because you can borrow against it without selling."
-        },
-        {
-          "zh": "每秒4000万笔交易对AI代理是必要的。",
-          "en": "40 million transactions per second are necessary for AI agents."
-        }
-      ],
-      "tags": [
-        "AI agents",
-        "Bitcoin",
-        "transactions",
-        "rapid fire"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:aKgrTrFpdbg",
-      "title": "High Oil Prices Are Temporary, Says Secretary Wright",
-      "title_zh": "美国能源部长称高油价为暂时中断",
-      "url": "https://www.youtube.com/watch?v=aKgrTrFpdbg",
-      "published_at": "2026-10-28T17:50:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国能源部长Chris Wright表示，因伊朗战争导致的高油价是“短期中断”，并称正动用大规模军事力量保障船只通过霍尔木兹海峡。他拒绝预测油价后续走势。",
-      "summary_en": "US Energy Secretary Chris Wright said high oil prices are a \"short term interruption\" due to the war in Iran, and that large military forces are being used to get ships through the Strait of Hormuz. He declined to predict where oil prices will go.",
-      "detail_zh": "美国能源部长Chris Wright将当前的高油价定性为“短期中断”，并将其归因于伊朗战争。他表示，正动用大规模军事力量以确保船只能够通过霍尔木兹海峡。Wright拒绝预测油价的下一步走势。原文未提供具体油价水平、军事行动细节或时间表。",
-      "detail_en": "US Energy Secretary Chris Wright characterized current high oil prices as a \"short term interruption\" caused by the war in Iran. He said large military forces are being used to get ships through the Strait of Hormuz. Wright would not predict where oil prices will go from here. The original text does not provide specific oil price levels, details of military operations, or a timeline.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "高油价被归因于伊朗战争，能源部长称其为“短期中断”。",
-          "en": "High oil prices are attributed to the war in Iran, which the Energy Secretary calls a \"short term interruption.\""
-        },
-        {
-          "zh": "美国正动用大规模军事力量保障霍尔木兹海峡的船只通行。",
-          "en": "The US is using large military forces to get ships through the Strait of Hormuz."
-        },
-        {
-          "zh": "能源部长拒绝预测油价后续走势。",
-          "en": "The Energy Secretary declined to predict where oil prices will go from here."
-        }
-      ],
-      "tags": [
-        "oil",
-        "Iran war",
-        "Strait of Hormuz",
-        "energy",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:PxIiU9Gdr2o",
-      "title": "Open Interest 10/28/2026",
-      "title_zh": "SK海力士利润强劲提振AI交易，微软与Alphabet财报及美联储决议成焦点",
-      "url": "https://www.youtube.com/watch?v=PxIiU9Gdr2o",
-      "published_at": "2026-10-28T17:16:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "SK海力士的强劲利润重新点燃AI交易，内存芯片需求旺盛未见放缓。微软和Alphabet将在财报季最繁忙的一天发布业绩，美联储预计维持利率不变但保留12月行动的可能性。",
-      "summary_en": "SK Hynix's powerful profits refuel the AI trade as booming memory chip demand shows no signs of slowing. Microsoft and Alphabet gear up to report on the busiest day of earnings season, while the Fed is expected to hold rates but keep the door open to a December move.",
-      "detail_zh": "节目围绕AI交易与宏观政策展开。SK海力士的强劲利润为AI交易注入动力，内存芯片需求旺盛且未见放缓迹象。微软和Alphabet将在标普500财报季最繁忙的一天发布业绩。美联储主席Kevin Warsh成为焦点，市场预计美联储今日维持利率不变，同时保留12月行动的可能性。Nuveen首席投资官Saira Malik与高盛首席美国经济学家David Mericle将分析影响2026年剩余时间市场展望的因素。此外，节目还涉及Wendy's收购猜测、德州参议院选举、Anthropic IPO结构及零售配售计划、AI债务发行与私人信贷风险、贝克休斯与AI数据中心建设等话题。",
-      "detail_en": "The program centers on the AI trade and macro policy. SK Hynix's powerful profits refuel the AI trade, with booming memory chip demand showing no signs of slowing. Microsoft and Alphabet are set to report on the busiest day of earnings season for the S&P 500. Fed Chair Kevin Warsh takes the spotlight, with the Fed expected to hold rates today while keeping the door open to a December move. Nuveen CIO Saira Malik and Goldman Sachs Chief US Economist David Mericle break down forces shaping the market outlook through the rest of 2026. Other topics include Wendy's takeover speculation, the Texas Senate race, Anthropic's IPO structure and retail allocation plans, AI debt issuance and private credit risks, and Baker Hughes' role in AI data center buildout.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "SK海力士强劲利润重新点燃AI交易，内存芯片需求旺盛未见放缓。",
-          "en": "SK Hynix's powerful profits refuel the AI trade, with booming memory chip demand showing no signs of slowing."
-        },
-        {
-          "zh": "微软和Alphabet将在标普500财报季最繁忙的一天发布业绩。",
-          "en": "Microsoft and Alphabet gear up to report on the busiest day of earnings season for the S&P 500."
-        },
-        {
-          "zh": "美联储预计今日维持利率不变，但保留12月行动的可能性。",
-          "en": "The Fed is expected to hold rates today while keeping the door open to a December move."
-        },
-        {
-          "zh": "Nuveen的Saira Malik和高盛的David Mericle将分析2026年剩余时间的市场展望。",
-          "en": "Nuveen's Saira Malik and Goldman Sachs' David Mericle break down the market outlook through the rest of 2026."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "memory chips",
-        "Fed policy",
-        "earnings season",
-        "SK Hynix"
-      ],
-      "tickers": [
-        "MSFT",
-        "GOOGL"
-      ],
-      "sentiment": "positive"
     }
   ]
 }
