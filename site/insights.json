@@ -1,6 +1,328 @@
 {
-  "generated_at": "2026-11-04T14:16:15.841334+00:00",
+  "generated_at": "2026-11-04T15:16:57.415724+00:00",
   "insights": [
+    {
+      "guid": "yt:xDHm2I2QwRA",
+      "title": "Liquidity Fueled This Bull Market. The Cycle Is Turning | Why Michael Howell is Watching Bonds",
+      "title_zh": "全球流动性增速见顶，债务再融资压力下债券与黄金受关注",
+      "url": "https://www.youtube.com/watch?v=xDHm2I2QwRA",
+      "published_at": "2026-11-04T14:53:08+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "GL Index创始人Michael Howell指出，全球流动性增速已于2025年末见顶，当前流动性条件逐步恶化，风险资产波动加剧，仅靠AI主题支撑市场。他强调应关注债务与流动性比率而非债务/GDP，并认为当前是配置债券的时机，对金价极为看涨。",
+      "summary_en": "Michael Howell, founder of GL Index, argues that the growth rate of global liquidity peaked in late 2025 and liquidity conditions are progressively faltering, making asset gains harder and leaving the market increasingly reliant on the AI theme. He emphasizes debt-to-liquidity over debt-to-GDP and sees this as a time to buy bonds, while being extremely bullish on gold.",
+      "detail_zh": "Howell表示，全球流动性周期增速已于2025年末见顶，今年流动性条件逐步恶化，虽绝对水平未必下降，但增速显著放缓，导致风险资产市场波动加剧。罗素2000小盘股、比特币、黄金和信用利差等流动性敏感指标表现不佳，市场日益依赖AI单一主题支撑，而该主题可能因融资条件或资本开支融资能力受限而面临挑战。他定义全球流动性为金融市场资金流，衡量金融部门资产负债表承接债务再融资的能力，并指出华尔街与主街正竞争流动性：大型科技公司此前存放在短期国债等金融资产中的现金正被重新配置到AI资本开支等实体经济领域。他强调边际流量而非存量对资产定价至关重要，当前流动性存量接近顶部但增速大幅放缓；若出现绝对下降，风险资产将面临重大冲击。他批评债务/GDP指标，认为债务与流动性比率才是关键，超过约200%将引发严重再融资问题，并提及发达经济体约50万亿美元的债务再融资规模。在此背景下，他认为当前正是考虑债券的时机，并对金价极为看涨。",
+      "detail_en": "Howell states that the growth rate of the global liquidity cycle peaked in late 2025, and liquidity conditions have been progressively faltering this year. While the absolute level may not have fallen, the growth rate has slowed significantly, making risk asset gains harder and causing choppiness. Liquidity-sensitive indicators such as Russell 2000 small caps, Bitcoin, gold, and credit spreads are performing poorly, and the market is increasingly held up by the single AI theme, which may face challenges from financing conditions or the inability to fund new capex. He defines global liquidity as the flow of funds through financial markets, measuring the financial sector's balance sheet capacity to take on and refinance debt. He notes that Wall Street is competing with Main Street for liquidity: cash previously held by big hyperscalers in short-dated Treasuries and other financial assets is being redeployed into real capex in AI and the real economy. He stresses that marginal flow, not stock, is critical for asset pricing; the stock of liquidity is near its peak but the rate of change has slowed enormously, and an absolute fall would likely cause major turmoil in risk asset pricing. He criticizes debt-to-GDP metrics and argues that the debt-to-liquidity ratio is key, with levels above about 200% leading to serious refinancing problems, citing a total debt refinancing need of around $50 trillion for advanced economies. In this context, he sees this as exactly the time to think about bonds and is extremely bullish on gold.",
+      "conclusion_zh": "流动性增速放缓与债务再融资压力下，债券配置价值凸显，黄金获强烈看涨，AI主题独撑市场的格局面临考验。",
+      "conclusion_en": "With liquidity growth slowing and debt refinancing pressures mounting, bonds offer value and gold is strongly bullish, while the market's reliance on the AI theme faces a test.",
+      "key_points": [
+        {
+          "zh": "全球流动性增速已于2025年末见顶，当前增速大幅放缓，风险资产波动加剧。",
+          "en": "The growth rate of global liquidity peaked in late 2025 and has slowed sharply, increasing volatility in risk assets."
+        },
+        {
+          "zh": "罗素2000、比特币、黄金和信用利差等流动性敏感资产表现不佳，市场日益依赖AI单一主题。",
+          "en": "Liquidity-sensitive assets such as Russell 2000, Bitcoin, gold, and credit spreads are underperforming, and the market is increasingly reliant on the AI theme."
+        },
+        {
+          "zh": "华尔街与主街竞争流动性：科技巨头将现金从金融资产转向AI资本开支等实体经济领域。",
+          "en": "Wall Street is competing with Main Street for liquidity as tech giants redeploy cash from financial assets into AI capex and the real economy."
+        },
+        {
+          "zh": "债务与流动性比率比债务/GDP更重要，超过约200%将引发严重再融资问题，发达经济体再融资规模约50万亿美元。",
+          "en": "The debt-to-liquidity ratio matters more than debt-to-GDP; above about 200% it causes serious refinancing problems, with around $50 trillion of refinancing needs in advanced economies."
+        },
+        {
+          "zh": "Howell认为当前是配置债券的时机，并对金价极为看涨。",
+          "en": "Howell sees this as a time to buy bonds and is extremely bullish on gold."
+        }
+      ],
+      "tags": [
+        "global liquidity",
+        "debt refinancing",
+        "bonds",
+        "gold",
+        "AI capex"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:oVQiMrK-3jg",
+      "title": "Musk's Tesla and SpaceX Slide on Midterm Results",
+      "title_zh": "民主党中期选举大胜，特斯拉与SpaceX盘前下跌，AI监管担忧升温",
+      "url": "https://www.youtube.com/watch?v=oVQiMrK-3jg",
+      "published_at": "2026-11-04T14:52:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党在中期选举中获胜，市场担忧AI监管收紧，特斯拉和SpaceX股价在周三美股开盘前下跌。",
+      "summary_en": "Democrats' midterm election victory raises concerns about tighter AI regulation, sending Tesla and SpaceX shares lower ahead of Wednesday's US market open.",
+      "detail_zh": "民主党在中期选举中获胜，所谓的“蓝色浪潮”引发市场对人工智能监管收紧的担忧。埃隆·马斯克旗下的特斯拉和SpaceX股价在周三美股开盘前下跌。Max Chafkin在“Bloomberg Open Interest”节目中提供了更多分析。",
+      "detail_en": "Democrats swept to control of Congress in the midterm elections, a so-called \"blue wave\" that will fan concerns about tighter regulations around AI. Shares of Elon Musk's Tesla and SpaceX fell ahead of Wednesday's US stock-market opening. Max Chafkin has more on \"Bloomberg Open Interest.\"",
+      "conclusion_zh": "民主党控制国会可能带来更严格的AI监管，投资者需关注相关政策风险对科技股的影响。",
+      "conclusion_en": "Democratic control of Congress could lead to stricter AI regulation, and investors should watch policy risks for tech stocks.",
+      "key_points": [
+        {
+          "zh": "民主党在中期选举中获胜，控制国会。",
+          "en": "Democrats won the midterm elections and took control of Congress."
+        },
+        {
+          "zh": "市场担忧AI监管将收紧。",
+          "en": "The market is concerned about tighter AI regulation."
+        },
+        {
+          "zh": "特斯拉和SpaceX股价在周三美股开盘前下跌。",
+          "en": "Tesla and SpaceX shares fell ahead of Wednesday's US market open."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "AI regulation",
+        "Tesla",
+        "SpaceX"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:5wuTaVWk8mk",
+      "title": "Democrats Sweep to Control of Congress in Rebuke of Trump",
+      "title_zh": "民主党中期选举大胜，夺回国会两院控制权",
+      "url": "https://www.youtube.com/watch?v=5wuTaVWk8mk",
+      "published_at": "2026-11-04T14:39:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党在中期选举中以压倒性优势赢得国会两院控制权，此次选举被视为对特朗普总统的否定，背景是选民对经济状况和伊朗战争的不满。",
+      "summary_en": "Democrats won control of both chambers of Congress in a midterm election landslide, seen as a rejection of President Donald Trump amid voter discontent with the economy and the war in Iran.",
+      "detail_zh": "据彭博社的Josh Wingrove报道，民主党在中期选举中取得压倒性胜利，成功控制美国国会参众两院。此次选举结果被解读为选民对总统唐纳德·特朗普的否定，主要驱动因素是民众对经济状况和伊朗战争的普遍不满。报道未提供具体席位变化、投票数据或后续政策影响等细节。",
+      "detail_en": "According to Bloomberg's Josh Wingrove, Democrats achieved a landslide victory in the midterm elections, gaining control of both chambers of the US Congress. The outcome is interpreted as a rejection of President Donald Trump, driven by widespread voter discontent with the economy and the war in Iran. The report does not provide specific seat changes, voting data, or subsequent policy implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党赢得国会两院控制权。",
+          "en": "Democrats won control of both chambers of Congress."
+        },
+        {
+          "zh": "选举结果被视为对特朗普总统的否定。",
+          "en": "The election result is seen as a rejection of President Donald Trump."
+        },
+        {
+          "zh": "选民不满主要源于经济状况和伊朗战争。",
+          "en": "Voter discontent stems mainly from the economy and the war in Iran."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "US Congress",
+        "Trump",
+        "Iran war",
+        "economy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:2WytUzIEb-Q",
+      "title": "What the Democrats’ Sweep of Congress Means for Trump",
+      "title_zh": "民主党横扫国会，选民对特朗普与共和党作出强烈否定",
+      "url": "https://www.youtube.com/watch?v=2WytUzIEb-Q",
+      "published_at": "2026-11-04T14:33:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅报道民主党在国会选举中大胜，选民对特朗普及其共和党作出强烈否定，未提供具体席位、政策影响或市场分析。",
+      "summary_en": "Democrats swept to power in Congress as voters delivered a thundering rebuke of President Donald Trump and his Republican Party, with no further details on seats, policy implications, or market analysis.",
+      "detail_zh": "原文仅包含一句核心事实：民主党在国会选举中获胜，选民对总统特朗普及其共和党作出强烈否定。报道由Tyler Kendall解说，未提供具体席位变化、选举结果细节、政策影响或市场反应。其余内容为Bloomberg的社交媒体与订阅推广信息，无实质投资分析。",
+      "detail_en": "The original text contains only one core fact: Democrats swept to power in Congress as voters delivered a thundering rebuke of President Donald Trump and his Republican Party. The report is explained by Tyler Kendall, with no details on seat changes, election results, policy implications, or market reactions. The rest is Bloomberg promotional and subscription content, with no substantive investment analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党在国会选举中大胜。",
+          "en": "Democrats swept to power in Congress."
+        },
+        {
+          "zh": "选民对特朗普及其共和党作出强烈否定。",
+          "en": "Voters delivered a thundering rebuke of President Donald Trump and his Republican Party."
+        },
+        {
+          "zh": "原文未提供具体席位、政策或市场影响细节。",
+          "en": "No details on seats, policy, or market impact are provided."
+        }
+      ],
+      "tags": [
+        "US Congress",
+        "Democrats",
+        "Republicans",
+        "Trump",
+        "election"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:hwaM5-oUPiA",
+      "title": "Solving AI’s Power Bottleneck",
+      "title_zh": "AI电力短缺或重塑发电、储能与用电方式",
+      "url": "https://www.youtube.com/watch?v=hwaM5-oUPiA",
+      "published_at": "2026-11-04T14:32:43+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "摩根士丹利分析师指出，到2029年美国电力缺口可能高达80吉瓦，输电与配电瓶颈比发电更难快速解决。数据中心正加速采用现场发电（燃料电池、发动机、涡轮机）并签订15-20年长期合同，分布式电源从“过渡方案”转向结构性供给。储能成为数据中心快速爬坡负载的关键解决方案，2030年数据中心对电池储能的增量需求预计将超过电网。",
+      "summary_en": "Morgan Stanley analysts estimate a US power shortfall of up to 80 GW by 2029, with transmission and distribution bottlenecks harder to solve than generation. Data centers are increasingly adopting on-site power (fuel cells, engines, turbines) with 15-20 year contracts, shifting distributed power from a bridge to a structural solution. Energy storage is emerging as a key solution for data centers' rapid load ramps, with data center battery storage demand expected to exceed grid demand by 2030.",
+      "detail_zh": "摩根士丹利美国汽车与共享出行分析师Andrew Percoo与电力、公用事业及清洁技术分析师Dave Aaro讨论AI电力短缺问题。Aaro表示，其团队对电力缺口的估计在多次迭代中不断扩大，目前预计到2029年缺口高达80吉瓦。解决路径上，团队更倾向于“自带电源”（on-site power），即数据中心在等待电网接入期间，采用小规模电力设备快速获得高可靠性供电。这类方案在超大规模云厂商和数据中心开发商中迅速普及，合同期限已从过去几年的“过渡性”安排延长至15、18甚至20年，显示其被视为长期永久性解决方案。瓶颈不仅在于发电，更在于公用事业公司的输电网络和变电站设备，这类大型基础设施需要多年建设，预计公用事业将显著落后于数据中心需求。数据中心优先考虑速度，但社区支持度、排放、用水、噪音及设备运营特性等因素日益重要。目前行业追逐的现场发电技术包括燃料电池、发动机和涡轮机。此外，储能应用快速增长，数据中心负载瞬时大幅波动，电网和部分现场设备难以承受，电池储能成为解决方案。预计到2030年，数据中心对电池储能的增量需求将超过电网当年增量需求。汽车行业方面，由于EV需求低于预期，部分车企将闲置产能转向储能业务，Tesla拥有大型储能业务，Ford也在美国建设储能业务并积累了大量订单。",
+      "detail_en": "Morgan Stanley's US Autos and shared mobility analyst Andrew Percoo and US Power, Utilities, and Clean Tech analyst Dave Aaro discuss the AI power crunch. Aaro notes that the team's shortfall estimates have grown over several iterations, now projecting up to an 80 GW shortfall by 2029. The preferred solution has leaned toward on-site power—bringing small-scale power equipment to data centers to achieve high reliability faster than waiting for grid connections. This is rapidly gaining popularity among hyperscalers and data center developers, with contract terms extending from a few years as a bridge to 15, 18, or even 20 years, indicating these solutions are now viewed as long-term permanent considerations. The bottleneck is often in the utility space, particularly transmission networks and substation equipment, which take years to develop and build; utilities are expected to fall meaningfully short. Data centers prioritize speed, but factors like community support, air emissions, water use, noise, and operational characteristics are increasingly important. Technologies being pursued include fuel cells, engines, and turbines. Energy storage is also growing fast: data centers consume power in a way that causes instantaneous massive load swings, which the grid and some on-site equipment cannot handle, making battery storage the solution. By 2030, data center demand for battery storage is expected to exceed grid demand for battery storage in terms of incremental new projects added that year. In autos, with EV demand lower than expected, some companies are repurposing underutilized capacity for energy storage; Tesla has a large energy storage business in the US, and Ford is building one with a sizable backlog.",
+      "conclusion_zh": "AI电力短缺正推动分布式发电与储能从短期过渡方案升级为长期结构性需求，关注现场发电设备、电池储能及具备产能复用能力的车企。",
+      "conclusion_en": "The AI power crunch is elevating distributed generation and storage from short-term bridges to long-term structural demand; watch on-site power equipment, battery storage, and automakers with capacity repurposing capabilities.",
+      "key_points": [
+        {
+          "zh": "到2029年美国电力缺口预计高达80吉瓦，且估计值在多次迭代中不断扩大。",
+          "en": "US power shortfall estimated at up to 80 GW by 2029, with estimates growing over iterations."
+        },
+        {
+          "zh": "输电和配电瓶颈比发电更难快速解决，公用事业预计将显著落后于数据中心需求。",
+          "en": "Transmission and distribution bottlenecks are harder to solve than generation; utilities expected to fall meaningfully short."
+        },
+        {
+          "zh": "现场发电合同期限已延长至15-20年，分布式电源从过渡方案转向结构性长期供给。",
+          "en": "On-site power contracts now extend to 15-20 years, shifting distributed power from bridge to structural long-term supply."
+        },
+        {
+          "zh": "燃料电池、发动机和涡轮机是当前行业追逐的现场发电技术。",
+          "en": "Fuel cells, engines, and turbines are the on-site generation technologies being pursued."
+        },
+        {
+          "zh": "2030年数据中心对电池储能的增量需求预计将超过电网，车企正将闲置EV产能转向储能。",
+          "en": "Data center battery storage demand expected to exceed grid demand by 2030; automakers repurposing idle EV capacity for storage."
+        }
+      ],
+      "tags": [
+        "AI power",
+        "data centers",
+        "distributed generation",
+        "energy storage",
+        "utilities"
+      ],
+      "tickers": [
+        "TSLA",
+        "F"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:VIjqYndZ0m4",
+      "title": "Stocks, Bonds Fluctuate After Democrats Win Control of US Congress",
+      "title_zh": "民主党中期选举大胜，美股期货波动，市场关注政策影响",
+      "url": "https://www.youtube.com/watch?v=VIjqYndZ0m4",
+      "published_at": "2026-11-04T14:20:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党赢得众议院和参议院控制权，美股期货出现波动。Principal Asset Management的Seema Shah和Global Situation Room的Brett Bruen分别讨论了选举结果对市场及特朗普政府政策的影响。",
+      "summary_en": "Democrats win control of both the House and Senate, causing US equity futures to fluctuate. Seema Shah of Principal Asset Management and Brett Bruen of Global Situation Room discuss the market impact and implications for the Trump administration.",
+      "detail_zh": "民主党在中期选举中赢得众议院至少228个席位和参议院至少54个席位，取得两院控制权。美股期货随之波动。Principal Asset Management的Seema Shah在节目中讨论了选举结果对市场的影响，涉及市场、美联储和AI等话题。Global Situation Room的Brett Bruen分析了国会变化对特朗普政府可能意味着什么，并谈及关税和经济。节目中还提到了AMD、Arista、Novo Nordisk的财报，以及AI数据中心面临的政治审查，还有CVS、Nvidia、Oracle等个股新闻。",
+      "detail_en": "Democrats won at least 228 House seats and at least 54 Senate seats, gaining control of both chambers. US equity futures fluctuated as a result. Seema Shah of Principal Asset Management discussed the market impact of the election results, covering markets, the Fed, and AI. Brett Bruen of Global Situation Room examined what the shift in Congress could mean for the Trump administration, touching on tariffs and the economy. The program also mentioned earnings from AMD, Arista, and Novo Nordisk, political scrutiny facing AI data centers, and headlines on CVS, Nvidia, and Oracle.",
+      "conclusion_zh": "民主党控制两院可能带来政策变化，投资者需关注市场波动及政策对关税、经济的影响。",
+      "conclusion_en": "Democratic control of both chambers may bring policy changes; investors should watch market volatility and policy impacts on tariffs and the economy.",
+      "key_points": [
+        {
+          "zh": "民主党赢得众议院和参议院控制权，至少228个众议院席位和54个参议院席位。",
+          "en": "Democrats win control of both the House and Senate, with at least 228 House seats and 54 Senate seats."
+        },
+        {
+          "zh": "美股期货因选举结果而波动。",
+          "en": "US equity futures fluctuate due to the election results."
+        },
+        {
+          "zh": "Seema Shah讨论了选举结果对市场的影响，涉及市场、美联储和AI。",
+          "en": "Seema Shah discussed the market impact of the election results, covering markets, the Fed, and AI."
+        },
+        {
+          "zh": "Brett Bruen分析了国会变化对特朗普政府的影响，包括关税和经济。",
+          "en": "Brett Bruen analyzed the implications of the congressional shift for the Trump administration, including tariffs and the economy."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "market impact",
+        "policy shift",
+        "US equities"
+      ],
+      "tickers": [
+        "AMD",
+        "CVS",
+        "NVDA",
+        "ORCL"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:MAa2SzJFtwk",
+      "title": "Former DNC Chair: 'This Election Was About The Economy, Stupid'",
+      "title_zh": "民主党中期选举大胜，Perez指腐败与生活成本为核心议题",
+      "url": "https://www.youtube.com/watch?v=MAa2SzJFtwk",
+      "published_at": "2026-11-04T13:09:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前民主党全国委员会主席Tom Perez表示，腐败和生活成本是推动民主党在中期选举中大胜的关键议题。民主党即将控制国会，Perez在彭博电视采访中讨论了这一“蓝色浪潮”及后续预期。",
+      "summary_en": "Former DNC Chair Tom Perez says corruption and affordability were the key issues driving the Democrat sweep in the US Midterm elections. With Democrats set to take control of Congress, Perez discussed the 'blue tsunami' and what to expect in a Bloomberg Television interview.",
+      "detail_zh": "前民主党全国委员会主席、Mayer Brown合伙人Tom Perez在彭博电视采访中表示，腐败和生活成本是推动民主党在中期选举中大胜的关键议题。Perez将此次选举结果形容为“蓝色浪潮”（blue tsunami），并指出民主党即将接管国会控制权。他在采访中讨论了这一选举结果以及人们应对民主党控制国会后的预期。采访由彭博的Caroline Hepker和Stephen Carroll主持。原文未提供更多关于具体政策影响或市场反应的细节。",
+      "detail_en": "Former Democratic National Committee Chair and Mayer Brown partner Tom Perez said in a Bloomberg Television interview that corruption and affordability were the key issues driving the Democrat sweep in the US Midterm elections. Perez described the outcome as a 'blue tsunami' and noted that Democrats are set to take over control of Congress. He discussed the election results and what people should expect with Democrats set to control Congress. The interview was conducted by Bloomberg's Caroline Hepker and Stephen Carroll. The original text does not provide further details on specific policy implications or market reactions.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "腐败和生活成本是民主党中期选举大胜的关键议题。",
+          "en": "Corruption and affordability were the key issues driving the Democrat sweep in the midterms."
+        },
+        {
+          "zh": "Perez将选举结果形容为“蓝色浪潮”。",
+          "en": "Perez described the election outcome as a 'blue tsunami'."
+        },
+        {
+          "zh": "民主党即将控制国会。",
+          "en": "Democrats are set to take over control of Congress."
+        },
+        {
+          "zh": "Perez是Mayer Brown的合伙人，曾任民主党全国委员会主席。",
+          "en": "Perez is a partner at Mayer Brown and former DNC Chair."
+        }
+      ],
+      "tags": [
+        "US Midterm Elections",
+        "Democrats",
+        "Congress",
+        "Affordability",
+        "Corruption"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:0ASe6l2mdvo",
       "title": "AI Agents Could Soon Trade Without Blockchain Delays",
@@ -17306,130 +17628,6 @@
       "tickers": [
         "MSFT"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:eY8fOfliImY",
-      "title": "Bank of Canada Raises Interest Rates to 2.5%, First Hike Since 2023",
-      "title_zh": "加拿大央行加息25基点至2.5%，为2023年7月以来首次",
-      "url": "https://www.youtube.com/watch?v=eY8fOfliImY",
-      "published_at": "2026-10-28T15:06:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "加拿大央行周三将基准隔夜利率上调25个基点至2.5%，为2023年7月以来首次加息。行长Tiff Macklem表示，此举可能降低能源价格上涨带来的通胀风险。",
-      "summary_en": "The Bank of Canada raised its benchmark overnight rate by 25 basis points to 2.5% on Wednesday, the first hike since July 2023. Governor Tiff Macklem said the move could reduce inflation risks posed by higher energy prices.",
-      "detail_zh": "加拿大央行周三宣布将基准隔夜利率上调25个基点至2.5%。这是该央行自2023年7月以来首次加息。加拿大央行行长Tiff Macklem表示，此次加息可能降低由能源价格上涨带来的通胀风险。原文未提供更多关于未来政策路径、经济数据或市场反应的细节。",
-      "detail_en": "The Bank of Canada raised its benchmark overnight interest rate by 25 basis points to 2.5% on Wednesday. It is the first increase since July 2023. Governor Tiff Macklem said the move could reduce inflation risks posed by higher energy prices. The original text does not provide further details on the future policy path, economic data, or market reaction.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "加拿大央行加息25个基点至2.5%。",
-          "en": "Bank of Canada raises rate by 25bp to 2.5%."
-        },
-        {
-          "zh": "这是自2023年7月以来首次加息。",
-          "en": "First rate hike since July 2023."
-        },
-        {
-          "zh": "行长Tiff Macklem称此举可能降低能源价格带来的通胀风险。",
-          "en": "Governor Tiff Macklem says the move could reduce inflation risks from higher energy prices."
-        }
-      ],
-      "tags": [
-        "Bank of Canada",
-        "rate hike",
-        "inflation",
-        "energy prices"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_YTz68RSbdc",
-      "title": "John Healey’s First UK Budget: What It Means for Markets",
-      "title_zh": "彭博《开盘交易》推出英国预算案特别节目",
-      "url": "https://www.youtube.com/watch?v=_YTz68RSbdc",
-      "published_at": "2026-10-28T15:01:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博《开盘交易》团队对英国财政大臣约翰·希利首次预算案进行特别报道，邀请RBC首席欧洲宏观策略师Peter Schaffrik与彭博经济与政府主管Stephanie Flanders进行圆桌分析，并实时跟踪市场对预算声明的反应。",
-      "summary_en": "Bloomberg's The Opening Trade team delivers special coverage of UK Chancellor John Healey's first budget, featuring a roundtable with RBC's Peter Schaffrik and Bloomberg's Stephanie Flanders, plus real-time market reaction.",
-      "detail_zh": "该节目由Anna Edwards、Guy Johnson和Tom Mackenzie主持，彭博的Caroline Hepker在Abingdon Green现场连线。节目分为多个章节：开场介绍、英国预算圆桌讨论（RBC首席欧洲宏观策略师Peter Schaffrik与彭博经济与政府主管Stephanie Flanders参与）、财政大臣John Healey发表预算声明、市场对预算声明的反应，以及周三“英国预算后”现场观众活动的前瞻。节目旨在提供专家分析、实时反应，并解读新预算对市场、政策和英国经济的意义。",
-      "detail_en": "The program is anchored by Anna Edwards, Guy Johnson and Tom Mackenzie, with Bloomberg's Caroline Hepker live from Abingdon Green. Chapters include: an introduction, a UK budget roundtable with RBC Chief European Macro Strategist Peter Schaffrik and Bloomberg Head of Economics and Government Stephanie Flanders, Chancellor John Healey delivering the budget statement, market reaction to the statement, and a look ahead to Wednesday's post-budget live audience event. The coverage promises expert analysis, real-time reaction, and insight into what the new budget means for markets, policy, and the UK economy.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目聚焦英国财政大臣John Healey首次预算案",
-          "en": "Focus on UK Chancellor John Healey's first budget"
-        },
-        {
-          "zh": "RBC首席欧洲宏观策略师Peter Schaffrik与彭博Stephanie Flanders参与圆桌讨论",
-          "en": "Roundtable with RBC's Peter Schaffrik and Bloomberg's Stephanie Flanders"
-        },
-        {
-          "zh": "实时跟踪市场对预算声明的反应",
-          "en": "Real-time market reaction to the budget statement"
-        },
-        {
-          "zh": "节目提供专家分析及对市场、政策和英国经济的影响解读",
-          "en": "Expert analysis and insight into implications for markets, policy, and the UK economy"
-        }
-      ],
-      "tags": [
-        "UK budget",
-        "fiscal policy",
-        "market reaction",
-        "Bloomberg TV"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ZEn3uB1mtec",
-      "title": "Bolsonaro Arrives in Miami After Fleeing Brazil",
-      "title_zh": "巴西右翼参议员博索纳罗现身迈阿密，此前大选失利",
-      "url": "https://www.youtube.com/watch?v=ZEn3uB1mtec",
-      "published_at": "2026-10-28T14:34:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "巴西右翼参议员弗拉维奥·博索纳罗在总统选举中输给卢拉·达席尔瓦后，抵达迈阿密。他此前数日行踪不明，且在巴西面临多项刑事调查并被勒令上交护照。",
-      "summary_en": "Right-wing Senator Flávio Bolsonaro has arrived in Miami after losing the presidential election to Luiz Inácio Lula da Silva. His whereabouts had been unknown for days, and he faces multiple criminal investigations in Brazil and was ordered to surrender his passports.",
-      "detail_zh": "弗拉维奥·博索纳罗在周日输掉总统选举后，于近日抵达迈阿密。此前数日，他的行踪不明。他在巴西面临多项刑事调查，并被勒令上交护照。",
-      "detail_en": "Flávio Bolsonaro arrived in Miami days after losing the presidential election on Sunday. His whereabouts had been unknown for several days. He is facing multiple criminal investigations in Brazil and was ordered to surrender his passports.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "弗拉维奥·博索纳罗在总统选举中败给卢拉·达席尔瓦。",
-          "en": "Flávio Bolsonaro lost the presidential election to Luiz Inácio Lula da Silva."
-        },
-        {
-          "zh": "他抵达迈阿密，此前数日行踪不明。",
-          "en": "He arrived in Miami after his whereabouts were unknown for days."
-        },
-        {
-          "zh": "他在巴西面临多项刑事调查，并被勒令上交护照。",
-          "en": "He faces multiple criminal investigations in Brazil and was ordered to surrender his passports."
-        }
-      ],
-      "tags": [
-        "Brazil",
-        "election",
-        "Miami",
-        "investigation"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
