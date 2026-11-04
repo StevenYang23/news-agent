@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-04T12:20:24.557645+00:00",
+  "generated_at": "2026-11-04T13:14:23.345512+00:00",
   "insights": [
+    {
+      "guid": "yt:0ASe6l2mdvo",
+      "title": "AI Agents Could Soon Trade Without Blockchain Delays",
+      "title_zh": "加密隧道技术实现链下零延迟代理间交易",
+      "url": "https://www.youtube.com/watch?v=0ASe6l2mdvo",
+      "published_at": "2026-11-04T12:30:06+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "原文介绍了一种名为“加密隧道”的技术，允许两个代理在链上建立智能合约后，在彼此之间进行零延迟、可加密证明的交易，并在结束时关闭隧道获得双方未作弊的数学可验证证明。该技术支持代理对代理支付、交易引擎、卡牌游戏、交易机器人及聊天系统等应用，使交易规模超越链上容量限制。",
+      "summary_en": "The original text introduces a technology called \"cryptographic tunnels,\" which allows two agents to enter into an on-chain smart contract and then conduct zero-latency, cryptographically provable transactions between themselves, closing the tunnel at the end to obtain mathematically verifiable proof that neither side cheated. This enables agent-to-agent payments, trading engines, card games, trading bots, and chat systems, scaling beyond what the chain can afford.",
+      "detail_zh": "原文描述了一种称为“加密隧道”的技术：两个代理在链上通过智能合约建立加密隧道，随后在彼此之间提交可加密证明的交易。原文强调，这并非没有账本，而是双方之间构建了一个零延迟的加密账本。交易结束时可以关闭隧道，并获得双方均未作弊的数学可验证证明。该机制包含一个争议协议（contest protocol）。该技术使代理能够以极快速度进行代理对代理支付，并可用于构建交易引擎、卡牌游戏、交易机器人、聊天系统等。原文指出，这使交易规模能够超越链上容量限制，并称这正是引擎所需，因为代理将进行一对一交易。",
+      "detail_en": "The original text describes a technology called \"cryptographic tunnels\": two agents enter into an on-chain smart contract with a cryptographic tunnel, and then submit cryptographically provable transactions between themselves. The text emphasizes that this is not a case of no ledger existing; rather, a zero-latency cryptographic ledger is built between the two parties. At the end of transactions, the tunnel can be closed, yielding mathematically verifiable proof that both sides have not cheated. The mechanism includes a contest protocol. It enables agents to do agent-for-agent payments at very fast speeds and can be used to build trading engines, card games, trading bots, and chat systems. The text states this allows scaling beyond what the chain will afford, and says this is exactly what engines need because agents will transact one-on-one.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "加密隧道允许两个代理在链上智能合约下进行零延迟、可加密证明的彼此交易。",
+          "en": "Cryptographic tunnels allow two agents to transact with each other under an on-chain smart contract with zero latency and cryptographic provability."
+        },
+        {
+          "zh": "交易结束时关闭隧道，可获得双方未作弊的数学可验证证明，并包含争议协议。",
+          "en": "Closing the tunnel at the end yields mathematically verifiable proof that neither side cheated, and includes a contest protocol."
+        },
+        {
+          "zh": "该技术支持代理对代理支付、交易引擎、卡牌游戏、交易机器人和聊天系统。",
+          "en": "The technology enables agent-to-agent payments, trading engines, card games, trading bots, and chat systems."
+        },
+        {
+          "zh": "该技术使交易规模超越链上容量限制，满足代理一对一交易的需求。",
+          "en": "It scales beyond what the chain will afford, meeting the need for one-on-one agent transactions."
+        }
+      ],
+      "tags": [
+        "cryptographic-tunnels",
+        "agent-payments",
+        "smart-contracts",
+        "blockchain-scaling"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4962070",
       "title": "Blue Wave Sweeps The Nation",
@@ -17632,453 +17677,6 @@
         "interest rates",
         "monetary policy",
         "December hike"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:AYP0npmpDIo",
-      "title": "Sachs: Netanyahu, Eisenkot Share Strategic Goals",
-      "title_zh": "以色列大选计票进行中，内塔尼亚胡与艾森科特阵营组阁前景不明",
-      "url": "https://www.youtube.com/watch?v=AYP0npmpDIo",
-      "published_at": "2026-10-28T13:13:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "以色列大选计票仍在进行，尚无明确胜者。中东研究所高级研究员Natan Sachs向彭博表示，内塔尼亚胡与艾森科特阵营的组阁形势尚不明朗。",
-      "summary_en": "Vote counting is still underway in Israel with no clear winner in sight. Natan Sachs, Senior Fellow at the Middle East Institute, told Bloomberg that the path to forming a government for Netanyahu and Eisenkot's blocs remains unclear as results trickle in.",
-      "detail_zh": "以色列大选计票工作仍在进行中，目前没有明确的获胜方。中东研究所高级研究员Natan Sachs在彭博电视台《Horizons Middle East & Africa》节目中，与主持人Abeer Abu Omar讨论了内塔尼亚胡和艾森科特阵营组建新政府的前景。Sachs的评论发表之际，相关阵营的计票结果正陆续出炉。原文未提供具体席位数字、得票率或组阁谈判的进一步细节。",
-      "detail_en": "Vote counting is still underway in Israel with no clear winner in sight. Natan Sachs, Senior Fellow at the Middle East Institute, spoke to Bloomberg's Abeer Abu Omar on Horizons Middle East & Africa about the prospects for Netanyahu and Eisenkot's blocs to form the new government as the numbers trickled in. The original text does not provide specific seat counts, vote percentages, or further details on coalition negotiations.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "以色列大选计票仍在进行，尚无明确胜者。",
-          "en": "Vote counting is still underway in Israel with no clear winner in sight."
-        },
-        {
-          "zh": "中东研究所高级研究员Natan Sachs就内塔尼亚胡与艾森科特阵营的组阁前景发表评论。",
-          "en": "Natan Sachs, Senior Fellow at the Middle East Institute, commented on the prospects for Netanyahu and Eisenkot's blocs to form a government."
-        },
-        {
-          "zh": "相关讨论发生在彭博电视台《Horizons Middle East & Africa》节目中。",
-          "en": "The discussion took place on Bloomberg's Horizons Middle East & Africa."
-        }
-      ],
-      "tags": [
-        "Israel election",
-        "Netanyahu",
-        "Eisenkot",
-        "government formation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:olteq357864",
-      "title": "Does France Answer to Its Citizens or the Bond Market?",
-      "title_zh": "法国预算之争：民众福利诉求与债券市场赤字容忍度的角力",
-      "url": "https://www.youtube.com/watch?v=olteq357864",
-      "published_at": "2026-10-28T12:54:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "法国预算之争凸显两股力量的对立：民众希望维持甚至扩大社会保障网，而债券市场无法接受法国赤字进一步扩大。",
-      "summary_en": "France's budget battle pits citizens' demands for maintaining or expanding the social safety net against a bond market that cannot tolerate any further increase in the deficit.",
-      "detail_zh": "法国预算之争正在考验两股强大力量：一方面，公民希望看到社会保障网得以维持甚至扩大；另一方面，债券市场无法接受法国赤字进一步扩大的想法。这场博弈的核心在于社会福利诉求与财政纪律之间的冲突，债券市场对赤字扩大的容忍度构成关键约束。",
-      "detail_en": "France's budget battle is testing two powerful forces: citizens who want to see the social safety net maintained and even expanded, and a bond market that can't stomach the idea of France's deficit getting any larger. The core of this struggle is the conflict between social welfare demands and fiscal discipline, with the bond market's tolerance for deficit expansion acting as a key constraint.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "法国民众要求维持甚至扩大社会保障网。",
-          "en": "French citizens demand maintaining or even expanding the social safety net."
-        },
-        {
-          "zh": "债券市场无法接受法国赤字进一步扩大。",
-          "en": "The bond market cannot tolerate any further increase in France's deficit."
-        },
-        {
-          "zh": "预算之争体现社会福利诉求与财政纪律的冲突。",
-          "en": "The budget battle reflects the conflict between social welfare demands and fiscal discipline."
-        }
-      ],
-      "tags": [
-        "France",
-        "budget",
-        "deficit",
-        "bond market",
-        "social safety net"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:f15rNkw65Cg",
-      "title": "Anthropic Files for IPO in Global Race to Raise Cash for AI",
-      "title_zh": "Anthropic 提交 IPO 申请",
-      "url": "https://www.youtube.com/watch?v=f15rNkw65Cg",
-      "published_at": "2026-10-28T12:53:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Anthropic 已提交备受期待的 IPO 申请，成为行业标志性时刻；该行业对资金的需求日益旺盛，以支撑其持续发展。",
-      "summary_en": "Anthropic has filed for its long-awaited IPO, a landmark moment for an industry that is growing ever-hungrier for cash to power ahead.",
-      "detail_zh": "据 Bloomberg Television 的 Ed Ludlow 报道，Anthropic 已提交其备受期待的 IPO 申请。报道称这是该行业的标志性时刻，因为行业对资金的需求正日益旺盛，以支撑其向前发展。原文未披露发行规模、估值、时间表或财务数据等细节。",
-      "detail_en": "According to Bloomberg Television's Ed Ludlow, Anthropic has filed for its long-awaited IPO. The report describes it as a landmark moment for an industry that is growing ever-hungrier for cash to power ahead. The original text does not disclose deal size, valuation, timeline, or financial details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Anthropic 已提交 IPO 申请",
-          "en": "Anthropic has filed for an IPO"
-        },
-        {
-          "zh": "该 IPO 被视为行业标志性时刻",
-          "en": "The IPO is described as a landmark moment for the industry"
-        },
-        {
-          "zh": "行业对资金的需求日益旺盛",
-          "en": "The industry is growing ever-hungrier for cash"
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "AI",
-        "funding"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:MNqJvzqLBbc",
-      "title": "PM Andy Burnham Says He Wants UK to Rejoin EU in His Lifetime",
-      "title_zh": "英国首相伯纳姆称希望有生之年重返欧盟",
-      "url": "https://www.youtube.com/watch?v=MNqJvzqLBbc",
-      "published_at": "2026-10-28T12:53:45+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英国首相安迪·伯纳姆表示，他希望英国能在自己有生之年重新加入欧盟。该表态由彭博社记者乔·梅斯报道，使英国与欧盟关系议题重新回到市场视野。",
-      "summary_en": "UK Prime Minister Andy Burnham said he wants the UK to rejoin the EU during his lifetime, according to Bloomberg's Joe Mayes, putting the Brexit issue back on the table.",
-      "detail_zh": "彭博社记者乔·梅斯报道，英国首相安迪·伯纳姆表示，他希望英国能在自己有生之年重新加入欧盟。这一表态使英国脱欧（Brexit）议题重新成为关注焦点。原文未提供更多关于时间表、政策路径或市场影响的细节。",
-      "detail_en": "Bloomberg's Joe Mayes reports that UK Prime Minister Andy Burnham said he wants the UK to rejoin the EU during his lifetime. The remark puts Brexit back on the table. The original text provides no further details on timing, policy path, or market implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英国首相安迪·伯纳姆表示希望英国在有生之年重新加入欧盟。",
-          "en": "UK Prime Minister Andy Burnham said he wants the UK to rejoin the EU during his lifetime."
-        },
-        {
-          "zh": "该表态由彭博社记者乔·梅斯报道，使脱欧议题重新受到关注。",
-          "en": "The remark, reported by Bloomberg's Joe Mayes, puts Brexit back on the table."
-        }
-      ],
-      "tags": [
-        "Brexit",
-        "UK",
-        "EU",
-        "politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:hnUYN9-7kkE",
-      "title": "Pandora Bets on Vietnam With New $150 Million Factory",
-      "title_zh": "Pandora 越南新建1.5亿美元工厂，应对成本与关税风险",
-      "url": "https://www.youtube.com/watch?v=hnUYN9-7kkE",
-      "published_at": "2026-10-28T12:53:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "丹麦珠宝商Pandora在越南开设其泰国以外的首个生产基地，投资1.5亿美元，旨在应对成本上升和关税风险，同时亚洲增长帮助抵消美国需求疲软。",
-      "summary_en": "Danish jeweler Pandora has opened a $150 million factory in Vietnam, its first production base outside Thailand, to address higher costs and tariff risks, while growth in Asia helps offset weaker US demand.",
-      "detail_zh": "Pandora在越南新建了一座价值1.5亿美元的工厂，这是该公司在泰国以外的首个生产基地。此次扩张的背景是这家丹麦珠宝商正面临成本上升和关税风险。与此同时，亚洲市场的增长有助于抵消美国需求的疲软。",
-      "detail_en": "Pandora has opened a new $150 million factory in Vietnam, its first production base outside Thailand. The expansion comes as the Danish jeweler tackles higher costs and tariff risks. Meanwhile, growth in Asia helps offset weaker US demand.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Pandora在越南投资1.5亿美元新建工厂，这是其泰国以外的首个生产基地。",
-          "en": "Pandora has invested $150 million in a new factory in Vietnam, its first production base outside Thailand."
-        },
-        {
-          "zh": "此次扩张旨在应对成本上升和关税风险。",
-          "en": "The expansion aims to address higher costs and tariff risks."
-        },
-        {
-          "zh": "亚洲市场的增长帮助抵消了美国需求的疲软。",
-          "en": "Growth in Asia helps offset weaker US demand."
-        }
-      ],
-      "tags": [
-        "Pandora",
-        "Vietnam",
-        "tariffs",
-        "supply chain"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:y9VKSSwQTbY",
-      "title": "Disclosure: National Archives Says White House Sent Torn Records",
-      "title_zh": "《Disclosure》第二季回归：调查特朗普首任期内白宫文件销毁问题",
-      "url": "https://www.youtube.com/watch?v=y9VKSSwQTbY",
-      "published_at": "2026-10-28T12:52:30+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博电视《Disclosure》第二季以视频形式回归，调查记者Jason Leopold与律师Matt Topic讲述他们历时数年阻止特朗普首任期内白宫文件销毁的努力。内容为调查纪录片，不涉及具体投资标的或市场分析。",
-      "summary_en": "Bloomberg Television's \"Disclosure\" returns for Season 2 in video format, with investigative reporter Jason Leopold and attorney Matt Topic taking viewers inside a yearslong effort to prevent document destruction at the White House during President Trump's first term. The content is an investigative documentary and does not involve specific investment targets or market analysis.",
-      "detail_zh": "彭博电视节目《Disclosure》第二季以视频形式推出。调查记者Jason Leopold与律师Matt Topic在节目中带观众深入了解他们历时数年、旨在阻止特朗普总统第一任期内白宫文件销毁的努力。该内容属于调查类纪录片，聚焦文件保存与政府透明度议题，未涉及金融市场、具体资产或投资策略。原文其余部分为彭博电视与彭博商业的社交媒体及视频平台推广链接，无实质财经信息。",
-      "detail_en": "Bloomberg Television's \"Disclosure\" launches Season 2 in video format. Investigative reporter Jason Leopold and attorney Matt Topic take viewers inside their yearslong effort to head off document destruction at the White House during President Trump's first term. The content is an investigative documentary focused on document preservation and government transparency, with no discussion of financial markets, specific assets, or investment strategies. The remainder of the original text consists of promotional links for Bloomberg Television and Bloomberg Business social media and video platforms, containing no substantive financial information.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "《Disclosure》第二季以视频形式回归。",
-          "en": "\"Disclosure\" returns for Season 2 in video format."
-        },
-        {
-          "zh": "调查记者Jason Leopold与律师Matt Topic讲述阻止特朗普首任期内白宫文件销毁的多年努力。",
-          "en": "Investigative reporter Jason Leopold and attorney Matt Topic recount their yearslong effort to prevent document destruction at the White House during Trump's first term."
-        },
-        {
-          "zh": "内容为调查纪录片，不涉及具体投资标的或市场分析。",
-          "en": "The content is an investigative documentary and does not involve specific investment targets or market analysis."
-        }
-      ],
-      "tags": [
-        "document destruction",
-        "White House",
-        "Trump first term",
-        "investigative documentary"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:FPXalTxp20s",
-      "title": "Mbappé Apologizes for Perceived Mao Insult After China Backlash",
-      "title_zh": "姆巴佩为涉毛泽东言论向中国球迷道歉",
-      "url": "https://www.youtube.com/watch?v=FPXalTxp20s",
-      "published_at": "2026-10-28T12:46:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "法国足球明星姆巴佩就其被指侮辱毛泽东的言论向中国球迷道歉。Tiwa Adebayo 解释了由此引发的反弹。",
-      "summary_en": "French football star Kylian Mbappé has apologized to Chinese fans for comments seen as insulting Mao Zedong. Tiwa Adebayo explains the backlash.",
-      "detail_zh": "法国足球明星基利安·姆巴佩（Kylian Mbappé）已就其被指侮辱毛泽东的言论向中国球迷道歉。Tiwa Adebayo 对此事引发的反弹进行了说明。原文未提供更多细节，包括言论的具体内容、发生时间、道歉方式及具体影响。",
-      "detail_en": "French football star Kylian Mbappé has apologized to Chinese fans for comments seen as insulting Mao Zedong. Tiwa Adebayo explains the backlash. The original text does not provide further details, including the specific content of the comments, when they were made, how the apology was delivered, or its specific impact.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "姆巴佩就涉毛泽东言论向中国球迷道歉。",
-          "en": "Mbappé apologized to Chinese fans for comments about Mao Zedong."
-        },
-        {
-          "zh": "Tiwa Adebayo 解释了由此引发的反弹。",
-          "en": "Tiwa Adebayo explained the backlash."
-        },
-        {
-          "zh": "原文未提供言论细节或道歉的具体背景。",
-          "en": "The original text does not provide details of the comments or the specific context of the apology."
-        }
-      ],
-      "tags": [
-        "Mbappé",
-        "apology",
-        "China",
-        "backlash"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:g6W5EhqvCEM",
-      "title": "Catastrophe, Rogue AI and Other Anthropic IPO Risks",
-      "title_zh": "Anthropic或迎史上最大IPO，同时警告产品对人类具灾难性风险",
-      "url": "https://www.youtube.com/watch?v=g6W5EhqvCEM",
-      "published_at": "2026-10-28T12:45:25+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Anthropic正推进可能成为史上规模最大的IPO，同时警告其产品可能对人类造成灾难性后果。彭博Big Take播客讨论了此次股票发行对AI、市场及其他方面的影响。",
-      "summary_en": "Anthropic is headed for what could be history's biggest IPO, while warning that its product could be catastrophic for humanity. Bloomberg's Big Take podcast discusses what the share offering means for AI, markets and everyone else.",
-      "detail_zh": "Anthropic正走向可能创下历史纪录的IPO，规模或为史上最大。该公司同时警告，其产品可能对人类造成灾难性后果。彭博Big Take播客节目探讨了此次股票发行对人工智能、市场以及更广泛群体的意义。原文未提供IPO的具体规模、时间表、估值或财务细节，也未展开产品风险的具体内容。",
-      "detail_en": "Anthropic is headed for what could be the biggest IPO in history. The company simultaneously warns that its product could be catastrophic for humanity. Bloomberg's Big Take podcast explores what the share offering means for AI, markets and everyone else. The source does not provide specific IPO size, timeline, valuation or financial details, nor does it elaborate on the specific nature of the product risk.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Anthropic的IPO可能成为史上规模最大的IPO。",
-          "en": "Anthropic's IPO could be the biggest in history."
-        },
-        {
-          "zh": "Anthropic警告其产品可能对人类造成灾难性后果。",
-          "en": "Anthropic warns its product could be catastrophic for humanity."
-        },
-        {
-          "zh": "彭博Big Take播客讨论了此次发行对AI、市场及其他方面的影响。",
-          "en": "Bloomberg's Big Take podcast discusses what the offering means for AI, markets and everyone else."
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "AI",
-        "Bloomberg Big Take"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Qk4Um0bLh9g",
-      "title": "Mukesh Ambani Gets Emotional at Jio Listing",
-      "title_zh": "信实集团上市活动：安巴尼家族感言，公司成为印度市值最高企业集团",
-      "url": "https://www.youtube.com/watch?v=Qk4Um0bLh9g",
-      "published_at": "2026-10-28T12:44:53+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在信实集团（Reliance Group）的上市活动中，穆克什·安巴尼情绪激动，其子阿南特·安巴尼回顾公司历程并玩味“Jio”（意为“生活”）的含义。此次上市使信实集团成为印度市值最高的企业集团。",
-      "summary_en": "At the listing event for Reliance Group, Mukesh Ambani became emotional as his son Anant Ambani reflected on the company's journey and played on the meaning of \"Jio\" (or \"live\"). The debut made Reliance Group India's most valuable conglomerate.",
-      "detail_zh": "在信实集团的上市仪式上，穆克什·安巴尼情绪激动。阿南特·安巴尼回顾了公司的历程，并玩味了“Jio”一词的含义，该词意为“生活”。此次上市使信实集团成为印度市值最高的企业集团。原文未提供具体财务数据或交易细节。",
-      "detail_en": "At the listing ceremony for Reliance Group, Mukesh Ambani became emotional. Anant Ambani reflected on the company's journey and played on the meaning of the word \"Jio,\" which means \"live.\" The debut made Reliance Group India's most valuable conglomerate. The original text does not provide specific financial data or deal details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "信实集团上市，穆克什·安巴尼情绪激动。",
-          "en": "Reliance Group listed, and Mukesh Ambani became emotional."
-        },
-        {
-          "zh": "阿南特·安巴尼回顾公司历程并玩味“Jio”的含义。",
-          "en": "Anant Ambani reflected on the company's journey and played on the meaning of \"Jio.\""
-        },
-        {
-          "zh": "此次上市使信实集团成为印度市值最高的企业集团。",
-          "en": "The debut made Reliance Group India's most valuable conglomerate."
-        }
-      ],
-      "tags": [
-        "Reliance Group",
-        "IPO",
-        "India",
-        "Conglomerate"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:t_-6o8tvPuk",
-      "title": "Israel Election Too Close To Call Between Netanyahu and Eisenkot",
-      "title_zh": "以色列大选计票胶着，内塔尼亚胡微幅领先但组阁前景不明",
-      "url": "https://www.youtube.com/watch?v=t_-6o8tvPuk",
-      "published_at": "2026-10-28T12:39:01+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "以色列大选计票中，内塔尼亚胡略微领先反对党领袖甘茨，但双方均无明确组阁路径。",
-      "summary_en": "As votes are counted in Israel's tight election, Benjamin Netanyahu edged ahead of opposition leader Gadi Eisenkot, but neither has a clear path toward forming a government.",
-      "detail_zh": "以色列大选计票显示，本杰明·内塔尼亚胡略微领先反对党领袖加迪·艾森科特，但两人均未获得明确的组阁路径。此次选举结果胶着，组阁前景不明朗。",
-      "detail_en": "As votes were counted in Israel's tight election, Benjamin Netanyahu edged ahead of opposition leader Gadi Eisenkot, but neither has a clear path toward forming a government. The election outcome remains close, with coalition prospects uncertain.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "内塔尼亚胡在计票中略微领先甘茨。",
-          "en": "Netanyahu edged ahead of Eisenkot in vote counting."
-        },
-        {
-          "zh": "双方均无明确组阁路径。",
-          "en": "Neither has a clear path toward forming a government."
-        },
-        {
-          "zh": "选举结果胶着。",
-          "en": "The election is tight."
-        }
-      ],
-      "tags": [
-        "Israel",
-        "election",
-        "Netanyahu",
-        "Eisenkot",
-        "government formation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:t9vggs82A7k",
-      "title": "To Hike or Not to Hike",
-      "title_zh": "摩根士丹利：美联储需在暂不加息的同时传递继续紧缩信号",
-      "url": "https://www.youtube.com/watch?v=t9vggs82A7k",
-      "published_at": "2026-10-28T12:25:50+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "摩根士丹利宏观策略团队讨论美联储如何在本次会议不加息的情况下，仍让投资者相信后续还会加息。首席美国经济学家Michael Gapen认为，美联储可采取“重新校准”而非“激进紧缩”的路径，并预计3月还会再加息一次。策略师Matthew Hornbach指出，近期美债收益率从5%升至5.25%更多由技术性资金流驱动。",
-      "summary_en": "Morgan Stanley's macro strategy team discusses how the Fed can hold rates steady at this meeting while still convincing investors that more hikes are coming. Chief US economist Michael Gapen sees a 'recalibration' rather than an aggressive tightening cycle, and expects one more hike in March. Strategist Matthew Hornbach attributes the recent rise in 10-year Treasury yields from 5% to 5.25% more to technical flows.",
-      "detail_zh": "摩根士丹利全球宏观策略主管Matthew Hornbach与首席美国经济学家Michael Gapen在播客中讨论美联储面临的沟通挑战：本次会议不加息，但仍需让市场相信加息周期未结束。Gapen认为，美联储可以采取“重新校准”政策立场的路径，而非“激进紧缩周期”，即去年为支持劳动力市场降息75个基点，现在应部分逆转，但无需回到2023年高点。他指出，当前就业增长仅约每月5万人，失业率虽低但工资增长在减速，即便有AI投资热潮，也缺乏经济全面过热的证据，因此美联储没有紧迫性。若通胀重新走强，或劳动力市场出现就业增长加快、失业率下降、工资增长回升的广泛过热迹象，才可能促使美联储每次会议都加息。Gapen还提到，由于残差季节性，年初通胀数据往往偏强，这可能使美联储在3月再加息一次，之后才确认通胀减速并停止加息。Hornbach则分析称，自3月初以来美债抛售的最大驱动因素是能源价格上涨及其对通胀的影响，迫使债券市场对货币政策预期重新定价；而近期10年期收益率从5%升至5.25%更多是技术性资金流所致。",
-      "detail_en": "Morgan Stanley's global head of macro strategy Matthew Hornbach and chief US economist Michael Gapen discuss the Fed's communication challenge: not hiking at this meeting while still convincing the market the hiking cycle isn't over. Gapen sees the Fed pursuing a 'recalibration' of policy stance rather than an aggressive tightening cycle—reversing some of last year's 75bp of cuts meant to support the labor market, but not returning to 2023 highs. He notes job growth is only about 50,000 per month, the unemployment rate is low but wage growth is decelerating, and even with the AI investment boom there is little evidence of broad economic overheating, so the Fed feels no urgency. A shift to hiking at every meeting would likely require either inflation regaining momentum or broad labor-market overheating—faster employment growth, lower unemployment, and firmer wage growth. Gapen also notes residual seasonality tends to make inflation data stronger early in the year, which could lead to one more hike in March before the Fed confirms deceleration and stops. Hornbach attributes the Treasury sell-off since early March mainly to higher energy prices and their effect on inflation, forcing a repricing of policy expectations; the recent move in 10-year yields from 5% to 5.25% was more technical-flow driven.",
-      "conclusion_zh": "摩根士丹利判断美联储将采取温和的“重新校准”路径，预计3月再加息一次后停止；美债近期波动更多是技术性因素，投资者应关注通胀与劳动力市场数据是否出现广泛过热信号。",
-      "conclusion_en": "Morgan Stanley expects a measured 'recalibration' path with one more hike in March before a pause; recent Treasury volatility is more technical, and investors should watch for broad overheating signals in inflation and labor-market data.",
-      "key_points": [
-        {
-          "zh": "Gapen认为美联储将采取“重新校准”而非“激进紧缩”，去年降息75个基点后应部分逆转，但无需回到2023年高点。",
-          "en": "Gapen sees the Fed pursuing a 'recalibration' rather than aggressive tightening—partially reversing last year's 75bp of cuts without returning to 2023 highs."
-        },
-        {
-          "zh": "就业增长仅约每月5万人，工资增长减速，即便有AI投资热潮也缺乏经济全面过热的证据，美联储没有加息紧迫性。",
-          "en": "Job growth is only about 50,000 per month and wage growth is decelerating; even with the AI investment boom there is little evidence of broad overheating, so the Fed feels no urgency."
-        },
-        {
-          "zh": "若通胀重新走强，或劳动力市场出现广泛过热迹象，才可能促使美联储每次会议都加息。",
-          "en": "A shift to hiking at every meeting would likely require inflation regaining momentum or broad labor-market overheating."
-        },
-        {
-          "zh": "残差季节性可能使年初通胀数据偏强，Gapen预计美联储3月还会再加息一次，之后才确认通胀减速并停止加息。",
-          "en": "Residual seasonality may make early-year inflation data stronger; Gapen expects one more hike in March before the Fed confirms deceleration and stops."
-        },
-        {
-          "zh": "Hornbach认为美债抛售主因是能源价格上涨及货币政策预期重定价，近期10年期收益率从5%升至5.25%更多是技术性资金流驱动。",
-          "en": "Hornbach attributes the Treasury sell-off mainly to higher energy prices and repricing of policy expectations; the recent rise in 10-year yields from 5% to 5.25% was more technical-flow driven."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "rate-hikes",
-        "Treasury-yields",
-        "inflation",
-        "labor-market"
       ],
       "tickers": [],
       "sentiment": "neutral"
