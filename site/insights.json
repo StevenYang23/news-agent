@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-11-04T20:15:27.937363+00:00",
+  "generated_at": "2026-11-04T21:13:19.190274+00:00",
   "insights": [
+    {
+      "guid": "yt:avXzdXkDGow",
+      "title": "This Is NOT the Dot-Com Bubble!",
+      "title_zh": "买方观点：半导体基本面仍佳，不认同“互联网泡沫重演”论",
+      "url": "https://www.youtube.com/watch?v=avXzdXkDGow",
+      "published_at": "2026-11-04T20:30:00+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "分析师认为半导体板块依然强劲，关键在于增长变化率需改善，当日ISM制造业数据是积极的第一步。其对美国增长的即时预测显示经济重现活力，部分得益于债券表现改善。分析师明确反驳当前半导体行情类似“.com泡沫积累”的观点，称从未见过在动能强劲时市场如此怀疑的情形。",
+      "summary_en": "The analyst remains bullish on semiconductors, arguing the key is an improving rate of change in growth, with today's ISM manufacturing reading a positive first step. Their US growth nowcast is showing signs of life, partly as a lagged consequence of better bond performance. The analyst explicitly rejects the notion that the current semiconductor momentum resembles the .com buildup, noting he cannot recall a moment when so many were skeptical of something still showing great momentum.",
+      "detail_zh": "分析师表示，从基本面看，半导体板块依然看起来很好，但需要增长的变化率出现改善。当日公布的ISM制造业数据是朝这一方向迈出的很好的第一步。其美国增长即时预测（nowcasting）显示经济重现活力迹象，并将其部分归因于债券表现改善带来的略微滞后效应，且称这种关系已持续很长时间。分析师强调，在金融危机（GFC）及历次危机期间，他回忆不起有哪个时刻像现在这样——市场对某个仍展现强劲动能的事物如此普遍怀疑。针对当前半导体行情与“.com泡沫积累”高度相似的说法，分析师明确表示“不买账”。",
+      "detail_en": "The analyst says semiconductors still look great fundamentally, but the rate of change in growth needs to improve. Today's ISM manufacturing print was a good first step in that direction. Their US growth nowcast is showing signs of life again, which they attribute partly to a slightly lagged consequence of bonds doing better—a pattern they say has persisted for a long time. The analyst stresses that during the GFC and other crises, he cannot recall a moment like this where everyone is so skeptical about something still showing great momentum. He explicitly says he does not buy the notion that the current setup is incredibly similar to the buildup of the .com bubble.",
+      "conclusion_zh": "分析师维持对半导体板块的积极看法，认为增长变化率改善与债券走强提供支撑，并反驳“.com泡沫重演”的类比。",
+      "conclusion_en": "The analyst stays positive on semiconductors, citing improving growth rate of change and stronger bonds, and rejects the .com bubble analogy.",
+      "key_points": [
+        {
+          "zh": "半导体板块基本面依然强劲，但需要增长变化率改善。",
+          "en": "Semiconductor fundamentals remain strong, but the rate of change in growth needs to improve."
+        },
+        {
+          "zh": "当日ISM制造业数据是增长改善方向的积极第一步。",
+          "en": "Today's ISM manufacturing reading is a positive first step toward better growth."
+        },
+        {
+          "zh": "美国增长即时预测重现活力，部分源于债券表现改善的滞后效应。",
+          "en": "The US growth nowcast is showing signs of life, partly a lagged effect of better bond performance."
+        },
+        {
+          "zh": "分析师称从未见过市场对仍具强劲动能的事物如此怀疑。",
+          "en": "The analyst cannot recall a moment when so many were skeptical of something still showing great momentum."
+        },
+        {
+          "zh": "分析师明确不认同当前半导体行情类似“.com泡沫积累”的说法。",
+          "en": "The analyst explicitly rejects the comparison of current semiconductor momentum to the .com buildup."
+        }
+      ],
+      "tags": [
+        "semiconductors",
+        "ISM manufacturing",
+        "US growth nowcast",
+        "bonds",
+        "dot-com comparison"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:kR1tHr9szig",
       "title": "Disclosure: “Golf Is Great on the Taxpayers’ Dime”",
@@ -17432,228 +17482,6 @@
         "GOOGL"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:JUaHtKJ06eY",
-      "title": "Ford CFO on Earnings, AI, Gas Prices, Going Off-Road",
-      "title_zh": "福特CFO：大宗商品成本或带来25亿美元逆风",
-      "url": "https://www.youtube.com/watch?v=JUaHtKJ06eY",
-      "published_at": "2026-10-28T21:06:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "福特汽车首席财务官Sherry House表示，大宗商品成本上升今年可能构成25亿美元的逆风。公司第三季度盈利超预期，并上调了全年利润指引的低端。",
-      "summary_en": "Ford Motor Co. CFO Sherry House says higher commodity costs could be a $2.5 billion headwind this year. The automaker beat on earnings in the third quarter and raised the low-end of its full-year profit forecast.",
-      "detail_zh": "福特汽车首席财务官Sherry House在“Bloomberg The Close”节目中表示，大宗商品成本上升今年可能给公司带来25亿美元的逆风。她同时指出，福特第三季度盈利超出预期，并上调了全年利润指引的低端。",
-      "detail_en": "Ford Motor Co. Chief Financial Officer Sherry House said on \"Bloomberg The Close\" that higher commodity costs could be a $2.5 billion headwind this year. She also noted that the automaker beat on earnings in the third quarter and raised the low-end of its full-year profit forecast.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "福特CFO Sherry House表示，大宗商品成本上升今年可能构成25亿美元的逆风。",
-          "en": "Ford CFO Sherry House says higher commodity costs could be a $2.5 billion headwind this year."
-        },
-        {
-          "zh": "福特第三季度盈利超出预期。",
-          "en": "The automaker beat on earnings in the third quarter."
-        },
-        {
-          "zh": "福特上调了全年利润指引的低端。",
-          "en": "Ford raised the low-end of its full-year profit forecast."
-        }
-      ],
-      "tags": [
-        "Ford",
-        "commodity costs",
-        "earnings",
-        "guidance"
-      ],
-      "tickers": [
-        "F"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:xqxNDgP00Qc",
-      "title": "How 0DTE Can Hide Market Risk",
-      "title_zh": "零日期权卖方行为为市场提供短期稳定，但放大长期风险",
-      "url": "https://www.youtube.com/watch?v=xqxNDgP00Qc",
-      "published_at": "2026-10-28T20:43:32+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility",
-        "macro"
-      ],
-      "summary_zh": "播客讨论指出，零日期权（0DTE）卖方在低波动日入场卖出期权，为市场（尤其是标普500）提供稳定性；但拉长时间看，这种稳定性并不存在，一旦风险事件出现且0DTE资金流缺失，市场可能面临更大下行。",
-      "summary_en": "The podcast discussion notes that zero-day options (0DTE) sellers add stability to the market, especially the S&P 500, on low-volatility days. However, this stability is absent over longer horizons; when a risk event occurs and 0DTE flows are missing, the market could face larger drawdowns.",
-      "detail_zh": "播客中提到，零日期权（0DTE）交易者会在市场看似平静时入场卖出期权，这种行为为市场增加了稳定性。此外，零日期权相关的资金流（原文称“zerod recycling”）也为市场、特别是标普500指数提供了稳定性。然而，当拉长时间维度观察时，这种稳定性并不存在。发言者认为，未来可能会先出现某种风险事件作为预警，而届时0DTE资金流不再提供支撑，市场就会突然开始出现更大的下跌。发言者强调，这并不一定需要负面的新闻标题来触发。",
-      "detail_en": "The podcast notes that zero-day options (0DTE) traders enter to sell options when the market appears calm, which adds stability to the market. Additionally, 0DTE-related flows (referred to as 'zerod recycling' in the transcript) provide stability to the market, specifically the S&P 500. However, when zooming out, this stability is not present. The speaker believes that some kind of risk will likely be shot across the bow as a warning, and with 0DTE flows absent at that time, the market would suddenly start to experience larger drawdowns. The speaker emphasizes that this does not necessarily require a negative headline to trigger.",
-      "conclusion_zh": "0DTE卖方提供的短期稳定可能掩盖长期脆弱性，投资者需警惕风险事件发生时0DTE资金流缺失导致的更大市场波动。",
-      "conclusion_en": "The short-term stability provided by 0DTE sellers may mask longer-term fragility; investors should watch for larger market swings when 0DTE flows are absent during a risk event.",
-      "key_points": [
-        {
-          "zh": "0DTE卖方在平静日卖出期权，为市场提供短期稳定性。",
-          "en": "0DTE sellers add short-term stability by selling options on calm days."
-        },
-        {
-          "zh": "0DTE相关资金流对标普500的稳定作用尤为明显。",
-          "en": "0DTE-related flows provide notable stability to the S&P 500."
-        },
-        {
-          "zh": "拉长时间看，这种稳定性并不存在。",
-          "en": "This stability is absent over longer horizons."
-        },
-        {
-          "zh": "风险事件出现且0DTE资金流缺失时，市场可能突然出现更大下跌。",
-          "en": "When a risk event occurs and 0DTE flows are missing, the market could suddenly experience larger drawdowns."
-        },
-        {
-          "zh": "更大的下跌不一定需要负面新闻标题触发。",
-          "en": "Larger drawdowns do not necessarily require a negative headline to trigger."
-        }
-      ],
-      "tags": [
-        "0DTE",
-        "options",
-        "market stability",
-        "S&P 500",
-        "risk"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:Ivip6gg3RKA",
-      "title": "Key Takeaways From Microsoft and ServiceNow Earnings",
-      "title_zh": "微软云收入超预期，ServiceNow订阅指引符合预期",
-      "url": "https://www.youtube.com/watch?v=Ivip6gg3RKA",
-      "published_at": "2026-10-28T20:35:04+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "微软云业务收入超出预期，ServiceNow季度订阅收入指引与分析师的预估一致。Anurag Rana在Bloomberg The Close节目中提供了更多细节。",
-      "summary_en": "Microsoft reported better-than-expected cloud revenue, while ServiceNow's quarterly subscription sales outlook met analysts' estimates. Anurag Rana provided more details on Bloomberg The Close.",
-      "detail_zh": "微软公布的云业务收入超出市场预期。ServiceNow给出的季度订阅收入展望与分析师的预估一致。Anurag Rana在Bloomberg The Close节目中讨论了这些业绩。原文未提供具体财务数字或进一步分析。",
-      "detail_en": "Microsoft reported cloud revenue that exceeded expectations. ServiceNow's outlook for quarterly subscription sales met analysts' estimates. Anurag Rana discussed these results on Bloomberg The Close. The original text does not provide specific financial figures or further analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "微软云收入超出预期",
-          "en": "Microsoft's cloud revenue beat expectations"
-        },
-        {
-          "zh": "ServiceNow季度订阅收入指引符合分析师预估",
-          "en": "ServiceNow's quarterly subscription revenue guidance met analysts' estimates"
-        },
-        {
-          "zh": "Anurag Rana在Bloomberg The Close节目中提供更多细节",
-          "en": "Anurag Rana provided more details on Bloomberg The Close"
-        }
-      ],
-      "tags": [
-        "Microsoft",
-        "ServiceNow",
-        "cloud revenue",
-        "earnings",
-        "guidance"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "4958855",
-      "title": "Wall Street Lunch: A Hawkish Hold",
-      "title_zh": "美联储维持利率不变，但鹰派信号推高12月加息预期",
-      "url": "https://seekingalpha.com/article/4958855-wall-street-lunch-a-hawkish-hold?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-28T20:33:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "美联储将利率维持在3.75%-4%，但声明称经济增长“强劲”、通胀“高企”，被视为鹰派。联邦基金期货显示12月加息概率接近90%。市场对Warsh新闻发布会反应波动，长端收益率走高。",
-      "summary_en": "The Fed held rates at 3.75%-4%, but its statement describing growth as 'strong' and inflation as 'elevated' was seen as hawkish. Fed funds futures now imply a nearly 90% probability of a December hike. Markets reacted with volatility to Warsh's press conference, and longer yields moved higher.",
-      "detail_zh": "美联储以10-2的投票结果维持利率在3.75%-4%不变，理事Cook和克利夫兰联储主席Hammack投反对票，均支持加息25个基点。声明将经济增长描述从9月的“稳健”升级为“强劲”，同时称通胀“高企”，Renaissance Macro认为这一组合最终将导致进一步加息。联邦基金期货目前定价12月会议加息概率接近90%。Warsh在新闻发布会上宣布，从明年起八次会议中仅七次用于利率决策，另一次专注于更广泛的战略。问答环节较短，Warsh限制每位记者只提一个问题，且回答被一位观察者称为“奇怪”，另一位称其“试图让我们睡着”。市场反应波动且不确定，股市在Warsh讲话后接近持平，但长端收益率 decisively 走高，Janney策略师Guy LeBas称“当新闻发布会充满文字沙拉时，曲线就疯狂陡峭化”。",
-      "detail_en": "The Fed kept rates steady at 3.75%-4% by a 10-2 vote, with Governor Cook and Cleveland Fed President Hammack dissenting in favor of a quarter-point hike. The statement upgraded its description of economic growth from 'solid' in September to 'strong' and called inflation 'elevated'; Renaissance Macro said this combination 'will ultimately degrade to additional rate hikes.' Fed funds futures now price in nearly a 90% chance of a hike at the December meeting. Warsh announced that starting next year, only seven of eight meetings will be rate-setting, with one devoted to broader strategy. The Q&A was relatively short as Warsh enforced a one-question-per-journalist rule, and his answers were called 'weird' by one Fed watcher and 'trying to put us asleep' by another. Markets reacted with volatile and indeterminate action; stocks drifted near the unchanged line after Warsh finished, but longer yields moved decisively higher. Guy LeBas of Janney said, 'Apparently when you have a press conference fully of word salad, the curve just steepens like crazy.'",
-      "conclusion_zh": "美联储鹰派立场强化了12月加息预期，长端收益率上行和曲线陡峭化值得关注。",
-      "conclusion_en": "The Fed's hawkish stance reinforces December hike expectations, with rising longer yields and curve steepening worth watching.",
-      "key_points": [
-        {
-          "zh": "美联储维持利率在3.75%-4%，但声明称经济增长“强劲”、通胀“高企”，被视为鹰派。",
-          "en": "The Fed held rates at 3.75%-4%, but the statement's 'strong' growth and 'elevated' inflation language was seen as hawkish."
-        },
-        {
-          "zh": "投票结果为10-2，Cook和Hammack反对，均支持加息25个基点。",
-          "en": "The vote was 10-2, with Cook and Hammack dissenting in favor of a 25bp hike."
-        },
-        {
-          "zh": "联邦基金期货显示12月加息概率接近90%。",
-          "en": "Fed funds futures imply a nearly 90% probability of a December hike."
-        },
-        {
-          "zh": "Warsh宣布从明年起八次会议中仅七次用于利率决策，一次专注于更广泛战略。",
-          "en": "Warsh announced that starting next year, only seven of eight meetings will be rate-setting, with one focused on broader strategy."
-        },
-        {
-          "zh": "市场对Warsh新闻发布会反应波动，长端收益率走高，曲线陡峭化。",
-          "en": "Markets reacted with volatility to Warsh's press conference, longer yields rose, and the curve steepened."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "rate hike",
-        "FOMC",
-        "yields",
-        "curve steepening"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:v94o7WYjr9s",
-      "title": "Fed's Warsh 'Sensitive' to AI, BlackRock's Rosenberg Says",
-      "title_zh": "贝莱德Rosenberg：美联储承认条件收紧但未称“紧”，并将利率与AI关联",
-      "url": "https://www.youtube.com/watch?v=v94o7WYjr9s",
-      "published_at": "2026-10-28T20:16:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "贝莱德系统化另类ETF高级投资组合经理Jeffrey Rosenberg在美联储维持利率不变后表示，美联储承认金融条件已收紧，但未将其定性为“紧”，同时将利率与人工智能联系起来。",
-      "summary_en": "Jeffrey Rosenberg, senior portfolio manager for the systematic alternatives ETF at BlackRock, said after the Fed held rates steady that the central bank recognizes conditions have tightened but stops short of calling them tight, while connecting interest rates to AI.",
-      "detail_zh": "贝莱德系统化另类ETF高级投资组合经理Jeffrey Rosenberg在“Bloomberg Surveillance: The Fed Decides”节目中，就美联储维持利率不变的决定作出反应。Rosenberg表示，美联储承认当前条件已经收紧，但并未进一步将其称为“紧”。他还提到，美联储将利率与人工智能联系起来。原文未提供更多关于AI与利率关联的具体论述或数字细节。",
-      "detail_en": "Jeffrey Rosenberg, senior portfolio manager for the systematic alternatives ETF at BlackRock, reacted to the Federal Reserve's decision to leave interest rates unchanged on \"Bloomberg Surveillance: The Fed Decides.\" Rosenberg said the Fed recognizes that conditions have tightened but stops short of calling them tight, while connecting interest rates to AI. The source does not provide further specifics or figures on the AI-rate linkage.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美联储维持利率不变。",
-          "en": "The Federal Reserve left interest rates unchanged."
-        },
-        {
-          "zh": "Rosenberg称美联储承认条件已收紧，但未称其为“紧”。",
-          "en": "Rosenberg says the Fed recognizes conditions have tightened but stops short of calling them tight."
-        },
-        {
-          "zh": "Rosenberg提到美联储将利率与人工智能联系起来。",
-          "en": "Rosenberg notes the Fed connects interest rates to AI."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "rates",
-        "AI",
-        "BlackRock"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
