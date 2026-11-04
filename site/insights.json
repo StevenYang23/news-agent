@@ -1,6 +1,233 @@
 {
-  "generated_at": "2026-11-04T11:15:31.022010+00:00",
+  "generated_at": "2026-11-04T12:20:24.557645+00:00",
   "insights": [
+    {
+      "guid": "4962070",
+      "title": "Blue Wave Sweeps The Nation",
+      "title_zh": "民主党中期选举大胜重塑政策格局，AI与财政前景面临变数",
+      "url": "https://seekingalpha.com/article/4962070-blue-wave-sweeps-the-nation?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-04T12:07:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "民主党赢得参众两院，将带来立法僵局、更严格的企业监管，并可能对AI数据中心建设形成政策阻力。财政僵局风险上升，但债市受益于支出放缓预期；可再生能源板块可能迎来转机。",
+      "summary_en": "Democrats swept the midterm elections, winning both chambers, which raises the odds of legislative gridlock, tougher corporate oversight, and potential policy headwinds for AI data center buildouts. Fiscal gridlock risk rises, but bonds benefit from expectations of slower spending; renewable energy could see a resurgence.",
+      "detail_zh": "民主党在中期选举中赢得参议院和众议院控制权，将于明年1月接管，显著改变特朗普最后两年的执政格局。立法僵局概率上升，企业监管可能趋严，对美伊战争的反对声增加，并可能展开腐败调查。联邦层面遏制AI扩张的立法可能因总统否决权而失败，但民主党已赢得多数州长职位，可能在关键州为数据中心计划设置更多障碍，如得州候任州长呼吁暂停新数据中心项目。ING策略师警告，更严格的政策可能开始形成逆风，但短期内不会出现重大变化。瑞银的Paul Donovan表示，数据中心建设者至少需要向当地社区提供更多激励。曾向美国政府授予股权的公司可能面临审查，如英特尔和MP Materials；向特朗普舞厅项目捐款的公司也可能被审查，包括Meta、亚马逊和苹果。可再生能源板块可能复苏，太阳能股上涨。财政方面，国家债务超过40万亿美元，国会更难就新支出达成一致，可能导致政府停摆。TD证券的Prashant Newnaha表示，债券成为明显赢家，市场将AI交易置于砧板，并认为进一步减税可能性降低且政府支出放缓。ING指出，通胀仍是一个变数，与伊朗的战争未结束，油价对选举结果反应不大，关税可能回归。民主党控制的参议院可能阻止特朗普对最高法院和美联储等职位空缺的提名。",
+      "detail_en": "Democrats swept the U.S. midterm elections, winning control of both the Senate and the House, significantly reshaping Trump's final two years in office. The Democratic majority will take over in January, raising the odds of legislative gridlock, tougher corporate oversight, increased pushback on the U.S.-Iran war, and probes into possible corruption. Any federal legislation to rein in the AI buildout will likely fail due to Trump's veto power, but Democrats have secured a majority of governorships, meaning they could bring more hurdles for data center plans in key states, such as incoming Texas Governor Gina Hinojosa calling for a moratorium on new data center projects. ING strategists cautioned that stricter policy could start forming a headwind, though big changes are unlikely near term. UBS's Paul Donovan said data center builders are likely to have to offer more incentives to local communities. Companies that granted stakes to the U.S. government, such as Intel and MP Materials, could face scrutiny; donors to Trump's ballroom project, including Meta, Amazon, and Apple, could also be scrutinized. The renewable energy sector could see a resurgence, with solar stocks rallying. On the fiscal side, with national debt past $40T, Congress will likely find it harder to agree on new spending, risking a government shutdown. Prashant Newnaha of TD Securities said bonds are the clear winner as markets put the AI trade on the chopping block and embrace the higher possibility that further tax cuts are put on ice and government spending slows. ING noted inflation remains a wild card, the war with Iran is not over, oil barely budged on election results, and tariffs could return. A Democrat-controlled Senate could block Trump's nominees for future vacant roles, such as in the Supreme Court and the Federal Reserve.",
+      "conclusion_zh": "民主党中期选举胜利可能带来政策逆风，尤其是对AI数据中心建设和企业监管，但债市和可再生能源板块可能受益；投资者需关注财政僵局和通胀变数。",
+      "conclusion_en": "The Democratic midterm sweep may create policy headwinds, especially for AI data center buildouts and corporate oversight, but bonds and renewable energy could benefit; investors should watch fiscal gridlock and inflation uncertainties.",
+      "key_points": [
+        {
+          "zh": "民主党赢得参众两院，政策僵局和企业监管加强的概率上升。",
+          "en": "Democrats won both chambers, raising the odds of policy gridlock and tougher corporate oversight."
+        },
+        {
+          "zh": "联邦AI立法难通过，但州级层面可能对数据中心建设设置更多障碍。",
+          "en": "Federal AI legislation is unlikely to pass, but state-level hurdles for data center buildouts may increase."
+        },
+        {
+          "zh": "财政僵局风险上升，债市受益于支出放缓预期。",
+          "en": "Fiscal gridlock risk rises, with bonds benefiting from expectations of slower spending."
+        },
+        {
+          "zh": "可再生能源板块可能因民主党胜利而复苏。",
+          "en": "The renewable energy sector could see a resurgence following Democratic wins."
+        },
+        {
+          "zh": "通胀前景不确定，关税可能回归，地缘风险犹存。",
+          "en": "Inflation outlook is uncertain, tariffs could return, and geopolitical risks remain."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "AI regulation",
+        "fiscal policy",
+        "renewable energy",
+        "corporate oversight"
+      ],
+      "tickers": [
+        "AMD",
+        "ORCL",
+        "TCEHY",
+        "CVS",
+        "INTC",
+        "MP",
+        "TSLA",
+        "SPCE",
+        "META",
+        "AMZN",
+        "AAPL",
+        "ANT",
+        "GOOGL",
+        "NVDA",
+        "NVO",
+        "MMM",
+        "BA",
+        "QCOM",
+        "UBER"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6rNPwABCuMk",
+      "title": "Democrats Win in Landslide, US Stock Futures Rebound",
+      "title_zh": "民主党中期选举大胜引发市场波动：美元走弱、美债上涨",
+      "url": "https://www.youtube.com/watch?v=6rNPwABCuMk",
+      "published_at": "2026-11-04T11:56:26+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党横扫国会的中期选举结果引发全球市场波动，标普500和纳斯达克100期货先跌后涨，美元走弱，10年期美债收益率下降3个基点至4.93%。市场押注民主党控制国会将制约特朗普议程，财政约束预期推动美债上涨。",
+      "summary_en": "A Democratic sweep of Congress in the midterm elections triggered global market fluctuations, with S&P 500 and Nasdaq 100 futures initially falling before recovering, the dollar weakening, and 10-year Treasury yields dropping 3 basis points to 4.93%. Markets are betting that Democratic control will constrain President Trump's agenda, with fiscal constraint expectations driving Treasury gains.",
+      "detail_zh": "民主党在中期选举中取得压倒性胜利，横扫国会两院，引发全球市场重新定价。标普500期货上涨0.2%，纳斯达克100期货上涨0.3%，两者均在早盘下跌后因买盘介入而反弹。美元对主要货币走弱，10年期美债收益率下降3个基点至4.93%。欧洲斯托克600指数上涨0.6%，亚洲股市指数基本持平。市场逻辑在于，民主党控制国会将制约特朗普的议程，尤其是财政扩张政策，从而推动美债上涨。节目还讨论了民主党在医疗、工资和关税方面的优先事项，以及选举结果对AI、数据中心政策、国防和可再生能源股票的影响。此外，欧洲财报（诺和诺德、宝马）和美国关税影响、美伊和谈与油市、以及国债 rally 与美元疲软等议题也被提及。",
+      "detail_en": "Democrats scored a landslide midterm victory, sweeping both chambers of Congress and triggering a global market repricing. S&P 500 futures rose 0.2% and Nasdaq 100 futures gained 0.3%, both recovering from earlier declines as buyers stepped in. The dollar weakened against major peers, and 10-year Treasury yields fell 3 basis points to 4.93%. Europe's Stoxx 600 climbed 0.6%, while a gauge for Asian equities was little changed. The market logic is that Democratic control of Congress will put the brakes on President Trump's agenda, especially fiscal expansion, driving Treasuries higher. The program also discussed Democratic priorities on healthcare, wages, and tariffs, as well as the election's impact on AI, data center policy, defense and renewable stocks. Other topics included European earnings (Novo Nordisk, BMW) and US tariff impacts, US-Iran peace talks and oil markets, and the Treasury rally amid dollar weakness.",
+      "conclusion_zh": "民主党控制国会将制约财政扩张，短期利好美债、利空美元，但股市反应反复，需关注政策细节对AI、医疗、国防等板块的差异化影响。",
+      "conclusion_en": "Democratic control of Congress will constrain fiscal expansion, near-term positive for Treasuries and negative for the dollar, but equity reactions are choppy; watch policy details for differentiated impacts on AI, healthcare, and defense sectors.",
+      "key_points": [
+        {
+          "zh": "民主党横扫国会，市场押注特朗普议程受制约，美债上涨、美元走弱。",
+          "en": "Democrats sweep Congress; markets bet Trump's agenda will be constrained, driving Treasuries higher and the dollar lower."
+        },
+        {
+          "zh": "标普500期货涨0.2%，纳指100期货涨0.3%，早盘下跌后买盘介入反弹。",
+          "en": "S&P 500 futures rose 0.2% and Nasdaq 100 futures gained 0.3%, rebounding from early declines as buyers stepped in."
+        },
+        {
+          "zh": "10年期美债收益率下降3个基点至4.93%，财政约束预期推动债市上涨。",
+          "en": "10-year Treasury yields fell 3 basis points to 4.93%, with fiscal constraint expectations driving bond gains."
+        },
+        {
+          "zh": "欧洲斯托克600指数涨0.6%，亚洲股市基本持平。",
+          "en": "Europe's Stoxx 600 climbed 0.6%, while Asian equities were little changed."
+        },
+        {
+          "zh": "选举结果影响AI、数据中心政策及国防、可再生能源股票走势分化。",
+          "en": "Election results impact AI, data center policy, and divergent moves in defense and renewable stocks."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Democratic sweep",
+        "Treasuries",
+        "dollar weakness",
+        "fiscal policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4962076",
+      "title": "Wall Street Breakfast Podcast: Blue Tsunami Hits Wall Street",
+      "title_zh": "民主党中期选举大胜：股市反弹，德州变天威胁AI数据中心，AMD财报亮眼",
+      "url": "https://seekingalpha.com/article/4962076-wall-street-breakfast-podcast-blue-tsunami-hits-wall-street?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-04T11:41:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "民主党横扫中期选举，国会僵局预期压低国债收益率并提振黄金，股指期货逆转上涨。德州州长席位翻蓝，对AI数据中心扩张构成风险，相关基础设施公司承压。AMD第三季度业绩超预期，数据中心收入大增97%，盘前涨7%。",
+      "summary_en": "Democrats' sweeping midterm wins raise expectations of gridlock, lowering Treasury yields and boosting gold, while stock futures reversed losses to trade higher. The Texas governor's race flipping Democratic poses risks to AI data center expansion, pressuring infrastructure names. AMD surged 7% premarket on Q3 beats, with data center revenue up 97%.",
+      "detail_zh": "民主党在中期选举中翻盘关键众议院和参议院席位，预计将控制国会两院；预测市场Kalshi显示民主党取得“蓝色巨浪”情景的概率为98%。股指期货逆转隔夜跌势上涨，纳斯达克100期货领涨1%。TS Lombard首席美国政策分析师Grace Fan认为特朗普时代进入尾声，2028年选举序幕拉开，后特朗普时代的共和党前途未卜，但不应低估总统通过行政命令和外交政策等巩固遗产的意愿。国债收益率全线下行，10年期收益率低于4.95%，市场预期华盛顿僵局将抑制财政扩张；低利率助推黄金反弹至4000美元/盎司上方。德州州长席位由民主党人Gina Hinojosa击败共和党现任Greg Abbott，德州作为数据中心枢纽，更严格的许可规则或税收激励变化可能影响项目审批和扩张，该州已在Abbott治下暂停部分许可。CoreWeave、Cipher Digital、亚马逊、Riot Platforms、Hut 8、Core Scientific等公司在德州有数据中心布局或租赁协议。AMD第三季度营收同比增长45%至133.8亿美元，数据中心收入增长97%至85.5亿美元，超过分析师预期的82亿美元；CEO苏姿丰表示第四季度增长将因Helios和Venice量产而加速，Q4营收指引170亿美元±3%，高于预期的162.9亿美元，调整后毛利率约55%。",
+      "detail_en": "Democrats flipped key House and Senate races and are expected to control both chambers of Congress; prediction market Kalshi shows a 98% chance of its 'Blue Mega Tsunami' scenario. Stock index futures reversed overnight losses to trade higher, with Nasdaq 100 futures up 1%. Grace Fan, lead U.S. policy analyst at TS Lombard, said the twilight of the Trump era is here and the future of the post-Trump Republican party is up in the air, but warned not to underestimate a president famed for doubling down and keen to cement his legacy via executive action, foreign policy, trade/tariffs, immigration and AI. Treasury yields are lower across the curve, with the 10-year yield below 4.95%, as traders eye gridlock curbing fiscal expansion; lower rates helped gold rally back above $4,000/oz. Democrat Gina Hinojosa defeated Republican incumbent Greg Abbott in the Texas governor's race, raising risks for AI data centers as tighter permitting rules or changes to tax incentives could affect project approvals and expansion; the state has already paused certain permits under Abbott pending reviews of grid capacity and water resources. Companies with Texas data center exposure include CoreWeave (contracted capacity at Galaxy Digital's Helios campus), Cipher Digital (Black Pearl facility for AWS under a 15-year lease), Amazon (other data centers), Riot Platforms (lease with AMD at Rockdale, potential expansion to 200 MW), Hut 8 (704 MW at Beacon Point), and Core Scientific (converting Denton site for HPC). AMD rose 7% premarket on Q3 results: revenue up 45% YoY to $13.38B, data center revenue up 97% YoY to $8.55B versus $8.2B expected, aided by MI-series AI accelerators and Instinct and EPYC processors. CEO Lisa Su said AMD expects growth to accelerate further in Q4 as it scales Helios and 'Venice' production; Q4 revenue guidance is $17B ±3% versus $16.29B estimate, with adjusted gross margin roughly 55%.",
+      "conclusion_zh": "中期选举结果带来财政僵局预期，利好债市和黄金，但德州政治变局对AI数据中心资本开支构成潜在风险，需关注相关基础设施公司；AMD业绩超预期显示AI芯片需求强劲。",
+      "conclusion_en": "Midterm results point to fiscal gridlock, supportive for Treasuries and gold, but the Texas political shift poses potential risks to AI data center capex, warranting attention to infrastructure names; AMD's beat underscores strong AI chip demand.",
+      "key_points": [
+        {
+          "zh": "民主党中期选举大胜，市场预期国会僵局抑制财政扩张，国债收益率下行，10年期收益率低于4.95%。",
+          "en": "Democrats' midterm sweep raises expectations of gridlock curbing fiscal expansion, pushing Treasury yields lower, with the 10-year below 4.95%."
+        },
+        {
+          "zh": "德州州长席位翻蓝，对AI数据中心扩张构成风险，可能影响许可审批和税收激励，相关基础设施公司盘前承压。",
+          "en": "Texas governor's race flips Democratic, posing risks to AI data center expansion via permitting and tax incentives, pressuring infrastructure names premarket."
+        },
+        {
+          "zh": "AMD第三季度营收133.8亿美元，数据中心收入85.5亿美元，均超预期；Q4营收指引170亿美元高于预期。",
+          "en": "AMD Q3 revenue $13.38B and data center revenue $8.55B both beat expectations; Q4 revenue guidance of $17B tops estimates."
+        },
+        {
+          "zh": "低利率环境助推黄金反弹至4000美元/盎司上方。",
+          "en": "Lower rates help gold rally back above $4,000/oz."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "AI data centers",
+        "AMD earnings",
+        "Treasury yields",
+        "gold"
+      ],
+      "tickers": [
+        "AMD",
+        "CRWV",
+        "GLXY",
+        "CIFR",
+        "AMZN",
+        "RIOT",
+        "HUT",
+        "CORZ"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:20SMsaCK8wg",
+      "title": "Democrats Sweep House and Senate in Midterm Rebuke of Trump",
+      "title_zh": "民主党中期选举大胜，美股期货收复失地",
+      "url": "https://www.youtube.com/watch?v=20SMsaCK8wg",
+      "published_at": "2026-11-04T11:37:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党在中期选举中一举拿下国会两院，被视为选民对经济与伊朗战争不满的集中表达。特朗普表示接受结果，不确定性缓解，美股期货抹去跌幅，投资者逢低买入。特斯拉与SpaceX盘前下跌，引发对马斯克核心资产的担忧。",
+      "summary_en": "Democrats won control of both chambers of Congress in a midterm landslide seen as a rejection of President Trump amid voter discontent over the economy and the war in Iran. Trump said he would accept the results, easing uncertainty; US futures erased losses as investors bought the dip. Tesla and SpaceX fell in premarket trading, sharpening concern over Musk's key holdings.",
+      "detail_zh": "民主党在中期选举中以压倒性优势赢得国会两院控制权，此次选举被视为选民对经济状况和伊朗战争不满的集中反映，也是对特朗普的否定。特朗普表示将接受选举结果，这一表态缓解了市场不确定性，美股期货随之抹去此前的下跌，投资者趁近期回调买入股票。个股方面，马斯克旗下的特斯拉和SpaceX在美股盘前交易中下跌，加剧了投资者对这位共和党大金主核心资产前景的担忧。节目还讨论了中期选举结果对大型科技股的影响，以及对美国以外市场（如欧洲）的意义。嘉宾包括巴克莱欧洲及亚太股票策略主管Emmanuel Cau、伦敦国王学院访问学者Negah Angha、诺和诺德CEO Mike Doustdar以及Actum合伙人Morris Reid。",
+      "detail_en": "Democrats won control of both chambers of Congress in a midterm landslide, seen as a rejection of President Trump reflecting widespread voter discontent with the economy and the war in Iran. Trump said he would accept the results, easing uncertainty; US futures erased earlier losses as investors bought the recent dip in stocks. Tesla and SpaceX, Elon Musk's key holdings, fell in US premarket trading, sharpening investor concern over the future of the Republican megadonor's assets. The program also discussed what the midterm results mean for big tech and for Europe. Guests included Emmanuel Cau, Barclays Head of European and APAC Equity Strategy; Negah Angha, King's College London Visiting Fellow; Mike Doustdar, Novo Nordisk CEO; and Morris Reid, Actum Partner.",
+      "conclusion_zh": "选举结果落地消除了政治不确定性，短期提振风险偏好；但政策方向变化对大型科技股及马斯克旗下资产的潜在影响仍需观察。",
+      "conclusion_en": "The election outcome removes political uncertainty and supports near-term risk appetite; however, the potential impact of policy shifts on big tech and Musk's holdings bears watching.",
+      "key_points": [
+        {
+          "zh": "民主党赢得国会两院控制权，选举被视为对经济与伊朗战争不满的体现。",
+          "en": "Democrats won both chambers of Congress; the election was seen as a rejection amid discontent over the economy and the war in Iran."
+        },
+        {
+          "zh": "特朗普表示接受选举结果，不确定性缓解，美股期货抹去跌幅。",
+          "en": "Trump said he would accept the results, easing uncertainty; US futures erased losses."
+        },
+        {
+          "zh": "投资者趁近期股市回调逢低买入。",
+          "en": "Investors bought the recent dip in stocks."
+        },
+        {
+          "zh": "特斯拉和SpaceX盘前下跌，引发对马斯克核心资产的担忧。",
+          "en": "Tesla and SpaceX fell in premarket trading, sharpening concern over Musk's key holdings."
+        },
+        {
+          "zh": "节目讨论中期选举结果对大型科技股及欧洲市场的影响。",
+          "en": "The program discussed implications of the midterm results for big tech and Europe."
+        }
+      ],
+      "tags": [
+        "US midterms",
+        "Congress",
+        "Trump",
+        "Tesla",
+        "SpaceX"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:5aqAPkNvslg",
       "title": "Is The AI Selloff A Buying Opportunity? | Warren Pies",
@@ -17855,190 +18082,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:EZ9wgtZ90j4",
-      "title": "Aftermath of Spanish Train Crash Near Madrid",
-      "title_zh": "西班牙马德里南部两列高铁相撞 至少30人死亡",
-      "url": "https://www.youtube.com/watch?v=EZ9wgtZ90j4",
-      "published_at": "2026-10-28T11:59:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "据卡斯蒂利亚-拉曼恰自治区政府发言人消息，西班牙马德里南部发生两列高速列车相撞事故，造成至少30人死亡。该事件为突发新闻，原文未提供更多细节。",
-      "summary_en": "At least 30 people have died after two high-speed trains collided south of Madrid, according to a spokesperson for the regional government of Castilla-La Mancha. This is breaking news with no further details provided in the source.",
-      "detail_zh": "据卡斯蒂利亚-拉曼恰自治区政府发言人透露，两列高速列车在马德里南部相撞，造成至少30人死亡。该信息来源于Capital Radio/Guardia Civil。原文未提供事故原因、涉事列车运营商、具体地点或伤亡更新等进一步信息。这是一则突发新闻，内容简短，未涉及金融市场或投资影响。",
-      "detail_en": "A spokesperson for the regional government of Castilla-La Mancha stated that two high-speed trains collided south of Madrid, resulting in at least 30 deaths. The information is sourced from Capital Radio/Guardia Civil. The source does not provide further details such as the cause of the accident, the train operators involved, the exact location, or updated casualty figures. This is a brief breaking news item with no direct financial market or investment implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "两列高速列车在马德里南部相撞，造成至少30人死亡。",
-          "en": "Two high-speed trains collided south of Madrid, killing at least 30 people."
-        },
-        {
-          "zh": "消息来源为卡斯蒂利亚-拉曼恰自治区政府发言人，援引Capital Radio/Guardia Civil。",
-          "en": "The information comes from a spokesperson for the Castilla-La Mancha regional government, citing Capital Radio/Guardia Civil."
-        },
-        {
-          "zh": "原文未提供事故原因、涉事方或后续影响等细节。",
-          "en": "The source does not provide details on the cause, involved parties, or aftermath."
-        }
-      ],
-      "tags": [
-        "train collision",
-        "Spain",
-        "breaking news",
-        "casualties"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4958395",
-      "title": "Pause Now, Hike Later?",
-      "title_zh": "美联储料按兵不动，但通胀压力或致紧缩延后而非避免",
-      "url": "https://seekingalpha.com/article/4958395-pause-now-hike-later?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-28T11:30:09+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "FOMC预计维持利率在3.75%-4.00%，但通胀仍远高于2%目标。经济学家Heather Long预计2027年还有两次加息，且高利率将维持更久，降息或要等到2028年。SA分析师警告，若美联储按兵不动而通胀风险上升，投资者可能认为紧缩只是被推迟，从而推高美债收益率。",
-      "summary_en": "The FOMC is expected to hold rates at 3.75%-4.00%, but inflation remains well above the 2% target. Economist Heather Long expects two more hikes in 2027 and a longer period at high rates, with cuts unlikely until 2028. SA analysts warn that if the Fed stands pat while inflation risks build, investors may see tightening as postponed rather than avoided, potentially pushing Treasury yields higher.",
-      "detail_zh": "联邦公开市场委员会（FOMC）今日预计将联邦基金利率目标区间维持在3.75%-4.00%。Navy Federal Credit Union首席经济学家Heather Long对Seeking Alpha表示，美联储喜欢说它不受政治影响，但在选举前一周加息将是一个相当大胆的政治声明；加息还意味着经济存在急需解决的紧迫问题。她认为等待几周在12月加息是可以的，风险状况没有太大变化，期间的数据将让政策制定者更好地了解通胀问题的广泛程度。根据CME FedWatch工具，12月加息25个基点的概率目前为76.5%。Long预计美联储在2027年还有更多工作要做，她预测还有两次加息，比美联储9月经济预测摘要中信号多一次。她表示，一旦加息结束，利率将不得不在高位维持比大多数人希望的长得多的时间，因此除非出现衰退，否则直到2028年才会讨论降息。维持高利率的原因包括伊朗战争导致的高汽油和柴油价格、AI繁荣带来的通胀压力、不断膨胀的医疗成本以及房地产市场积聚的压力。SA分析师Cain Lee指出，尽管通胀率超过3%，但国债收益率高于5%是美联储能够再等一次会议的主要原因之一；9月就业报告给了美联储等待的理由，而CPI给了它不等到12月之后的理由。SA分析师James Picerno表示，美联储主席Kevin Warsh面临的挑战不再仅仅是决定通胀是否需要再次加息，而是解释为何维持利率不变的决定与他反复承诺的恢复2%通胀目标相一致。如果政策制定者在通胀风险持续积累时按兵不动，投资者可能会得出结论：政策紧缩只是被推迟而非避免，这可能助长国债收益率的新一轮上行压力。",
-      "detail_en": "The FOMC is widely expected to hold the federal funds rate target range at 3.75%-4.00% today. Navy Federal Credit Union Chief Economist Heather Long told Seeking Alpha that while the Fed likes to say it's not political, hiking within a week of an election is a pretty bold political statement; a hike would also imply a sense of urgency that there's something urgently wrong with the economy. She said it's okay to wait a few more weeks and hike in December, as the risk profile hasn't changed much and interim data will give policymakers a better sense of how broad-based the inflation problem is. According to the CME FedWatch tool, the probability of a 25-basis-point hike in December currently stands at 76.5%. Long expects the Fed will have more work to do in 2027, penciling in two more rate hikes, one more than the Fed policymakers signaled in their September Summary of Economic Projections. She said once they're done hiking, they're going to have to stay at that high rate for a lot longer than most people want, so she doesn't think we'll be talking about cuts until 2028, unless there's a recession. Reasons for holding rates that high for that long include high gasoline and diesel prices from the ongoing Iran war, inflation pressures from the AI boom, swelling medical costs and pressure building in the housing market. SA analyst Cain Lee stated that higher yields are one of the main reasons why the Fed can afford to wait one more meeting, despite inflation running above 3%, pointing to Treasury yields sitting above 5%; the September jobs report gave the Fed a reason to wait, and the CPI gave it a reason not to wait past December. SA analyst James Picerno said the challenge for Fed Chair Kevin Warsh is no longer simply deciding whether inflation warrants another rate hike, but explaining how a decision to leave rates unchanged remains consistent with his repeated commitment to restoring inflation to the Fed's 2% target. If policymakers stand pat while inflation risks continue to build, investors may conclude that policy tightening is merely being postponed rather than avoided, potentially fueling renewed upward pressure on Treasury yields.",
-      "conclusion_zh": "美联储短期按兵不动，但通胀压力可能使紧缩延后而非避免，美债收益率上行风险值得关注。",
-      "conclusion_en": "The Fed may hold near-term, but inflation pressures could delay rather than avoid tightening, keeping upward risk on Treasury yields in focus.",
-      "key_points": [
-        {
-          "zh": "FOMC预计维持利率在3.75%-4.00%，但通胀仍远高于2%目标。",
-          "en": "The FOMC is expected to hold rates at 3.75%-4.00%, but inflation remains well above the 2% target."
-        },
-        {
-          "zh": "Heather Long预计2027年还有两次加息，比美联储9月点阵图多一次，且降息或要等到2028年。",
-          "en": "Heather Long expects two more hikes in 2027, one more than the Fed's September SEP, with cuts unlikely until 2028."
-        },
-        {
-          "zh": "CME FedWatch显示12月加息25个基点的概率为76.5%。",
-          "en": "CME FedWatch shows a 76.5% probability of a 25bp hike in December."
-        },
-        {
-          "zh": "SA分析师警告，若美联储按兵不动而通胀风险上升，投资者可能认为紧缩只是被推迟，从而推高美债收益率。",
-          "en": "SA analysts warn that if the Fed stands pat while inflation risks build, investors may see tightening as postponed rather than avoided, pushing Treasury yields higher."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "inflation",
-        "rate hike",
-        "Treasury yields"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:KSY01AHvCls",
-      "title": "Stocks Waver Ahead of Fed Decision, Tech Earnings; Netanyahu Leads Over Eisenkot",
-      "title_zh": "美股期货等待美联储决议，微软与Alphabet财报成焦点",
-      "url": "https://www.youtube.com/watch?v=KSY01AHvCls",
-      "published_at": "2026-10-28T11:21:37+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美股期货在美联储利率决议前缺乏方向，投资者等待微软和Alphabet的财报，此前SK海力士利润激增七倍。有报道称美国可能在中期选举后恢复对伊朗的军事打击，油价上涨。花旗的Andrew Hollenhorst在节目中展望了10月决议之后的美联储利率路径。",
-      "summary_en": "US equity futures struggled for direction ahead of the Federal Reserve's rate decision, with investors awaiting earnings from Microsoft and Alphabet after SK Hynix's seven-fold profit surge. Oil rose following a report that the US may resume military strikes on Iran after the midterm elections. Andrew Hollenhorst of Citi joined the program to look ahead to the Fed's rate path beyond October's decision.",
-      "detail_zh": "美股期货在美联储利率决议前难以找到明确方向。市场关注微软和Alphabet即将发布的财报，此前SK海力士公布了利润激增七倍的业绩。有报道称美国可能在中期选举后恢复对伊朗的军事打击，受此影响油价上涨。以色列方面，总理内塔尼亚胡在计票尚未结束的激烈选战中略微领先反对派领袖Gadi Eisenkot。花旗首席美国经济学家Andrew Hollenhorst在“Bloomberg Brief”节目中讨论了美联储10月决议之后的利率路径。节目还涵盖了Robinhood及盘前异动股、欧洲银行财报、巴基斯坦与乌克兰局势及美国国债资金流向等话题。",
-      "detail_en": "US equity futures struggled for direction ahead of the Federal Reserve's rate decision. Investors are focused on upcoming earnings from Microsoft and Alphabet, after SK Hynix reported a seven-fold surge in profit. Oil prices rose following a report that the US may resume military strikes on Iran after the midterm elections. In Israel, Prime Minister Netanyahu edged ahead of opposition leader Gadi Eisenkot in a tight race with more votes still to be counted. Andrew Hollenhorst, Citi's Chief US Economist, discussed the Fed's rate path beyond the October decision on \"Bloomberg Brief.\" The program also covered Robinhood and premarket movers, European bank earnings, Pakistan and Ukraine developments, and Treasury flows.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美股期货在美联储利率决议前缺乏明确方向。",
-          "en": "US equity futures struggled for direction ahead of the Fed's rate decision."
-        },
-        {
-          "zh": "投资者等待微软和Alphabet的财报，SK海力士利润激增七倍。",
-          "en": "Investors await earnings from Microsoft and Alphabet after SK Hynix's seven-fold profit surge."
-        },
-        {
-          "zh": "有报道称美国可能在中期选举后恢复对伊朗的军事打击，油价上涨。",
-          "en": "Oil rose on a report that the US may resume military strikes on Iran after the midterm elections."
-        },
-        {
-          "zh": "以色列总理内塔尼亚胡在激烈选战中略微领先反对派领袖Gadi Eisenkot。",
-          "en": "Israeli Prime Minister Netanyahu edged ahead of opposition leader Gadi Eisenkot in a tight race."
-        },
-        {
-          "zh": "花旗的Andrew Hollenhorst在节目中展望了美联储10月决议后的利率路径。",
-          "en": "Andrew Hollenhorst of Citi looked ahead to the Fed's rate path beyond the October decision."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "earnings",
-        "oil",
-        "Iran",
-        "Israel"
-      ],
-      "tickers": [
-        "MSFT",
-        "GOOGL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-ZJdcOD0SiE",
-      "title": "SK Hynix Profits Surge, Fed Decision on Deck",
-      "title_zh": "交易员轮动回科技股，聚焦微软Alphabet财报与美联储决议",
-      "url": "https://www.youtube.com/watch?v=-ZJdcOD0SiE",
-      "published_at": "2026-10-28T11:18:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "交易员因对AI支出回报信心重燃而轮动回科技股，市场关注微软和Alphabet即将发布的财报。美联储预计将维持利率不变，美债收益率在决议前小幅走高。SK海力士利润超预期增长七倍，并宣布向股东返还约450亿美元。",
-      "summary_en": "Traders are rotating back into tech stocks on renewed confidence that AI spending will pay off, ahead of earnings from Microsoft and Alphabet. The Fed is widely expected to hold rates steady, with Treasury yields edging higher before the decision. SK Hynix reported a stronger-than-expected seven-fold profit surge and unveiled plans to return about $45 billion more to shareholders.",
-      "detail_zh": "交易员正将资金轮动回科技股，因对AI支出将带来回报的信心重燃，市场等待微软和Alphabet在收盘后发布财报。市场注意力同时转向美联储，普遍预期周三将维持利率不变；决议前美债收益率小幅走高，美元变动不大。SK海力士在利润超预期增长七倍后，宣布计划向股东额外返还约450亿美元，反映AI基础设施部署的韧性正推动芯片需求。节目还讨论了欧洲银行财报（瑞银、渣打、法巴、桑坦德）、英国预算、油价风险以及半导体周期等话题。",
-      "detail_en": "Traders are rotating back into tech stocks on renewed confidence that AI spending will pay off, as markets await results from Microsoft and Alphabet due after the close. Attention is also turning to the Federal Reserve, which is widely expected to leave interest rates unchanged on Wednesday; Treasury yields edged higher ahead of the decision while the dollar was little changed. SK Hynix unveiled plans to return about $45 billion more to shareholders after profit surged a stronger-than-expected seven-fold, reflecting the resilience of an AI infrastructure rollout propelling chip demand. The program also covers European bank earnings (UBS, Standard Chartered, BNP Paribas, Santander), the UK budget, oil risks, and the semiconductor cycle.",
-      "conclusion_zh": "市场情绪转向科技股，AI支出回报信心与美联储利率决议是短期关键变量。",
-      "conclusion_en": "Market sentiment is shifting toward tech stocks, with confidence in AI spending payoffs and the Fed rate decision as key near-term variables.",
-      "key_points": [
-        {
-          "zh": "交易员因对AI支出回报信心重燃而轮动回科技股，等待微软和Alphabet财报。",
-          "en": "Traders are rotating back into tech stocks on renewed confidence in AI spending payoffs, awaiting Microsoft and Alphabet earnings."
-        },
-        {
-          "zh": "美联储预计周三维持利率不变，美债收益率在决议前小幅走高，美元变动不大。",
-          "en": "The Fed is widely expected to hold rates steady on Wednesday; Treasury yields edged higher ahead of the decision, dollar little changed."
-        },
-        {
-          "zh": "SK海力士利润超预期增长七倍，计划向股东额外返还约450亿美元。",
-          "en": "SK Hynix profit surged a stronger-than-expected seven-fold; plans to return about $45 billion more to shareholders."
-        },
-        {
-          "zh": "AI基础设施部署的韧性正推动芯片需求。",
-          "en": "The resilience of AI infrastructure rollout is propelling chip demand."
-        }
-      ],
-      "tags": [
-        "AI spending",
-        "tech rotation",
-        "Fed decision",
-        "semiconductors",
-        "earnings"
-      ],
-      "tickers": [
-        "MSFT",
-        "GOOGL"
-      ],
-      "sentiment": "positive"
     }
   ]
 }
