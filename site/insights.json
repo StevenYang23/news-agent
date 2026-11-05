@@ -1,6 +1,148 @@
 {
-  "generated_at": "2026-11-05T16:19:52.632615+00:00",
+  "generated_at": "2026-11-05T17:14:56.988574+00:00",
   "insights": [
+    {
+      "guid": "yt:G56Q9eKnSj0",
+      "title": "Bloomberg Surveillance 11/5/2026",
+      "title_zh": "彭博监控：AI轮动、利率风险与英国央行加息",
+      "url": "https://www.youtube.com/watch?v=G56Q9eKnSj0",
+      "published_at": "2026-11-05T16:30:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博监控讨论了股市降温、AI板块轮动和利率风险，法国兴业银行的Manish Kabra认为标普500的估值下调阶段即将结束。多位嘉宾就英国央行加息、美国政治僵局、黄金走势及美联储政策发表了看法。",
+      "summary_en": "This episode of Bloomberg Surveillance discusses cooling stocks, AI rotation, and rate risks, with Manish Kabra of Societe Generale arguing that the S&P 500's derating phase is ending. Guests also weigh in on the BOE rate hike, US political gridlock, gold, and Fed policy.",
+      "detail_zh": "节目首先关注股市降温和AI板块轮动，以及利率风险。法国兴业银行的Manish Kabra认为标普500的估值下调阶段即将结束。Signum Global的George Pollack讨论了Vance可能需要与Trump保持距离。PSP Growth的Momei Qu提到蓝色浪潮（民主党大胜）和对数据中心的担忧令芯片股承压。牛津经济研究院的Innes McFee认为央行在通胀问题上行动滞后。英国央行加息并警告通胀上升，BNY的Geoffrey Yu称这是一次“大动作且一次性”的加息。Stifel的Brian Gardner预计民主党大胜后可能出现立法僵局。汇丰的James Steel认为黄金还有上涨空间。美国银行证券的Mark Cabana表示不信任这位美联储主席。AlphaSimplex Group的Kathryn Kaminski认为选举标志着市场的转折点。野村证券的Brad Warden认为数据中心的阻力不会阻止AI建设。美国初请失业金人数降至18.9万。Hudson Bay Capital Management的Stephen Miran认为美联储应减少前瞻指引。State Street的Noel Dixon认为AI抛售是买入机会。",
+      "detail_en": "The program begins with stocks cooling, AI rotation, and rate risks. Manish Kabra of Societe Generale argues that the S&P 500's derating phase is ending. George Pollack of Signum Global discusses that Vance may need to distance himself from Trump. Momei Qu of PSP Growth mentions that a blue sweep and data center fears weigh on chips. Innes McFee of Oxford Economics believes central banks are behind the curve on inflation. The BOE hikes rates and warns of rising inflation; Geoffrey Yu of BNY calls it a 'big one and done' hike. Brian Gardner of Stifel expects legislative gridlock after a Democratic sweep. James Steel of HSBC sees more room for gold to rise. Mark Cabana of BofA Securities says he doesn't trust this Fed Chair. Kathryn Kaminski of AlphaSimplex Group says the election marks a pivot point for markets. Brad Warden of Nomura says data center pushback won't stop the AI buildout. US jobless claims fall to 189,000. Stephen Miran of Hudson Bay Capital Management says the Fed should pull back on forward guidance. Noel Dixon of State Street sees the AI selloff as a buying opportunity.",
+      "conclusion_zh": "多位嘉宾认为AI板块的抛售是买入机会，同时标普500的估值下调可能接近尾声，但需关注央行政策滞后和立法僵局的风险。",
+      "conclusion_en": "Several guests view the AI selloff as a buying opportunity and see the S&P 500 derating as nearing its end, though risks remain from central bank policy lag and legislative gridlock.",
+      "key_points": [
+        {
+          "zh": "法国兴业银行的Manish Kabra认为标普500的估值下调阶段即将结束。",
+          "en": "Manish Kabra of Societe Generale believes the S&P 500's derating phase is ending."
+        },
+        {
+          "zh": "英国央行加息并警告通胀上升，BNY的Geoffrey Yu称这是一次“大动作且一次性”的加息。",
+          "en": "The BOE hikes rates and warns of rising inflation; Geoffrey Yu of BNY calls it a 'big one and done' hike."
+        },
+        {
+          "zh": "美国初请失业金人数降至18.9万。",
+          "en": "US jobless claims fall to 189,000."
+        },
+        {
+          "zh": "State Street的Noel Dixon认为AI抛售是买入机会。",
+          "en": "Noel Dixon of State Street sees the AI selloff as a buying opportunity."
+        },
+        {
+          "zh": "Stifel的Brian Gardner预计民主党大胜后可能出现立法僵局。",
+          "en": "Brian Gardner of Stifel expects legislative gridlock after a Democratic sweep."
+        }
+      ],
+      "tags": [
+        "AI rotation",
+        "rate risks",
+        "BOE hike",
+        "S&P 500 derating",
+        "jobless claims"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:2l7hJICbumU",
+      "title": "ITAP Episode 2",
+      "title_zh": "顾问工具丰富但复杂性上升，理解细节的团队更易脱颖而出",
+      "url": "https://www.youtube.com/watch?v=2l7hJICbumU",
+      "published_at": "2026-11-05T16:25:42+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "原文指出，当前顾问可用的工具和投资载体空前丰富，但牛市演进和潜在监管变化也带来了更多复杂性。能够理解这些细微差别并善用工具的顾问团队，正与同行拉开差距。",
+      "summary_en": "The source notes that advisors now have access to an unprecedented range of tools and vehicles, but rising bull market conditions and potential regulatory changes have added complexity. Advisor teams that understand these nuances and leverage available tools are distinguishing themselves from peers.",
+      "detail_zh": "原文认为，综合各类工具来看，当前对顾问而言可能是最好的时期之一，因为可用的投资载体非常丰富，且不仅限于服务最高净值客户。与此同时，随着牛市持续和监管可能发生变化，复杂性也在上升。原文强调，理解这些细微差别并掌握可用工具的顾问团队，正在与同行形成明显区分。原文未提供具体工具类型、监管变化细节或数据。",
+      "detail_en": "The source argues that, with all tools combined, this may be one of the best times to be an advisor, given the wide range of investment vehicles available—not only for the highest-net-worth clients. At the same time, complexity has increased due to factors such as a rising bull market and potential regulatory changes. The source emphasizes that advisor teams understanding these nuances and the available tools are clearly distinguishing themselves from peers. No specific tool types, regulatory details, or data are provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "当前顾问可用的投资工具和载体空前丰富。",
+          "en": "Advisors now have an unprecedented range of investment tools and vehicles."
+        },
+        {
+          "zh": "工具不再仅限于服务最高净值客户。",
+          "en": "These tools are not limited to serving the highest-net-worth clients."
+        },
+        {
+          "zh": "牛市演进和潜在监管变化增加了复杂性。",
+          "en": "Rising bull market conditions and potential regulatory changes have added complexity."
+        },
+        {
+          "zh": "理解细微差别并善用工具的顾问团队正脱颖而出。",
+          "en": "Advisor teams that understand nuances and leverage tools are distinguishing themselves."
+        }
+      ],
+      "tags": [
+        "financial-advisors",
+        "investment-tools",
+        "regulation",
+        "bull-market"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Cp5xnh4COXg",
+      "title": "Tech Stocks Are Cracking. Spending Is Outrunning Wages. What Happens When the Wealth Effect Fades?",
+      "title_zh": "宏观双主题：油价与AI，民主党州长选举或影响数据中心",
+      "url": "https://www.youtube.com/watch?v=Cp5xnh4COXg",
+      "published_at": "2026-11-05T16:18:48+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "Ahan Hunt 与 Bob Elliott 讨论中期选举后的市场格局，认为财政政策不会大变，但民主党在州长选举中的意外胜利可能通过数据中心审批影响AI叙事。市场今年由油价和AI两大主题驱动，通胀预期已部分固化，增长不确定性成为焦点。",
+      "summary_en": "Ahan Hunt and Bob Elliott discuss the post-midterm market landscape, arguing that fiscal policy is unlikely to change materially, but unexpected Democratic gains in governorships could affect the AI narrative via data center approvals. The market this year has been driven by two macro themes—oil and AI—with inflation expectations partly baked in and growth uncertainty now front and center.",
+      "detail_zh": "Ahan Hunt 指出，今年市场主要由两大宏观主题驱动：油价和AI，两者交替主导。油价上涨推高整体通胀，并最终传导至核心通胀，但市场对油价波动的反应已趋于温和，通胀预期似乎已被部分定价。当前不确定性集中在增长，尤其是AI相关领域。Bob Elliott 认为，中期选举后国会分裂基本符合预期，财政政策不会显著变化；但民主党在州长选举中意外赢得多个席位，由于州长对数据中心投资拥有行政权力，可能影响AI基础设施的扩张。选前民主党州长覆盖约30%的预期数据中心建设增长，选后这一比例升至80%。市场反应上，股票上涨而英伟达下跌，这被视为AI狂热中的一个小裂痕，虽不改变整体格局，但增加了叙事阻力。",
+      "detail_en": "Ahan Hunt notes that the market this year has been driven by two macro themes: oil and AI, which have alternated in dominance. Rising oil prices push up headline inflation, which eventually feeds into core inflation, but market reactions to oil volatility have become more muted, suggesting inflation expectations are partly priced in. Current uncertainty centers on growth, particularly in the AI complex. Bob Elliott argues that post-midterm divided government is largely as expected, with no material fiscal policy change; however, Democrats' unexpected gains in governorships matter because governors have executive authority over data center investment. Before the election, Democratic governors covered about 30% of expected data center construction growth; after, that share rose to 80%. In market reaction, stocks rose while Nvidia fell, seen as a small chink in the AI mania—not enough to change the overall picture but another drag on the narrative.",
+      "conclusion_zh": "关注AI基础设施政策风险与增长预期变化，油价对通胀的传导已部分钝化，但增长不确定性可能主导后续市场。",
+      "conclusion_en": "Watch AI infrastructure policy risks and shifts in growth expectations; oil-to-inflation pass-through has partly dulled, but growth uncertainty may dominate markets going forward.",
+      "key_points": [
+        {
+          "zh": "今年市场由油价和AI两大主题交替驱动，通胀预期已部分固化，增长不确定性成为焦点。",
+          "en": "The market this year has been driven by two alternating themes—oil and AI—with inflation expectations partly baked in and growth uncertainty now in focus."
+        },
+        {
+          "zh": "中期选举后财政政策预计不会大变，但民主党州长意外增加可能通过数据中心审批影响AI基础设施。",
+          "en": "Fiscal policy is unlikely to change materially post-midterms, but unexpected Democratic governors could affect AI infrastructure via data center approvals."
+        },
+        {
+          "zh": "民主党州长覆盖的预期数据中心建设增长比例从选前约30%升至选后80%。",
+          "en": "The share of expected data center construction growth covered by Democratic governors rose from about 30% pre-election to 80% post-election."
+        },
+        {
+          "zh": "市场反应显示股票上涨而英伟达下跌，被视为AI叙事的一个小裂痕。",
+          "en": "Market reaction showed stocks up while Nvidia fell, viewed as a small chink in the AI narrative."
+        }
+      ],
+      "tags": [
+        "oil",
+        "AI",
+        "midterms",
+        "data centers",
+        "inflation"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:78SSeOZR-EI",
       "title": "Chipmakers Selloff Leads Nasdaq 100 Down 5%",
@@ -17035,62 +17177,6 @@
         "US politics"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lWPhQ-d7Ml0",
-      "title": "Open Interest 10/29/2026",
-      "title_zh": "Alphabet销售不及预期重燃AI担忧，微软Azure增长逆势而上",
-      "url": "https://www.youtube.com/watch?v=lWPhQ-d7Ml0",
-      "published_at": "2026-10-29T16:49:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Alphabet销售不及预期重新引发市场对AI的担忧，而微软Azure的增长则逆势而上。AI焦虑蔓延至大型科技股之外，卡特彼勒因投资者质疑支出繁荣而受到冲击。美联储按兵不动，欧洲央行紧随其后，拉加德继任者之争升温。",
-      "summary_en": "Alphabet's sales miss reignites AI fears, while Microsoft defies the gloom with Azure growth. AI jitters spread beyond Big Tech, hitting Caterpillar as investors question the spending boom. The Fed holds fire, the ECB is next, and the race to replace Lagarde heats up.",
-      "detail_zh": "Alphabet的销售不及预期重新点燃了市场对AI的担忧，而微软则凭借Azure的增长逆势而上。AI焦虑情绪蔓延至大型科技股之外，卡特彼勒因投资者质疑AI支出繁荣而受到冲击。节目还讨论了GDP增长、数据中心支出与通胀风险，以及Marvell的并购谈判、DoorDash与Instacart的交易、礼来公司减肥药与Medicare需求增长等话题。欧洲央行维持利率不变，拉加德意外离任引发对其继任者和欧洲政治风险的关注。白宫国家经济委员会主任Kevin Hassett就通胀和美联储下一步行动发表了看法。",
-      "detail_en": "Alphabet's sales miss reignites AI fears, while Microsoft defies the gloom with Azure growth. AI jitters spread beyond Big Tech, hitting Caterpillar as investors question the spending boom. The program also covers GDP growth, data center spending and inflation risks, as well as Marvell deal talks, DoorDash-Instacart, and Eli Lilly's weight-loss drugs and Medicare demand growth. The ECB holds rates steady, and Christine Lagarde's surprise departure raises questions about her successor and European political risks. White House NEC Director Kevin Hassett discusses inflation and the Fed's next move.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Alphabet销售不及预期，重新引发市场对AI的担忧。",
-          "en": "Alphabet's sales miss reignites AI fears."
-        },
-        {
-          "zh": "微软Azure增长逆势而上，抵御市场阴霾。",
-          "en": "Microsoft defies the gloom with Azure growth."
-        },
-        {
-          "zh": "AI焦虑蔓延至大型科技股之外，卡特彼勒因投资者质疑支出繁荣而受冲击。",
-          "en": "AI jitters spread beyond Big Tech, hitting Caterpillar as investors question the spending boom."
-        },
-        {
-          "zh": "美联储按兵不动，欧洲央行维持利率不变，拉加德继任者之争升温。",
-          "en": "The Fed holds fire, the ECB holds rates steady, and the race to replace Lagarde heats up."
-        },
-        {
-          "zh": "白宫国家经济委员会主任Kevin Hassett讨论通胀和美联储下一步行动。",
-          "en": "White House NEC Director Kevin Hassett discusses inflation and the Fed's next move."
-        }
-      ],
-      "tags": [
-        "AI",
-        "earnings",
-        "Fed",
-        "ECB",
-        "Big Tech"
-      ],
-      "tickers": [
-        "GOOGL",
-        "MSFT",
-        "CAT",
-        "MRVL",
-        "DASH",
-        "LLY"
-      ],
       "sentiment": "neutral"
     }
   ]
