@@ -1,6 +1,321 @@
 {
-  "generated_at": "2026-11-05T19:12:22.180637+00:00",
+  "generated_at": "2026-11-05T20:15:25.867420+00:00",
   "insights": [
+    {
+      "guid": "yt:ATmi0fL1tRE",
+      "title": "AI, Data Center Worries Sink Tech Stocks",
+      "title_zh": "科技股因民主党中期选举大胜对AI的影响而重挫",
+      "url": "https://www.youtube.com/watch?v=ATmi0fL1tRE",
+      "published_at": "2026-11-05T20:03:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "科技股大幅下跌，交易员正在评估美国中期选举中民主党大胜对人工智能的潜在影响。华尔街专家在Bloomberg Television上发表了看法。",
+      "summary_en": "Technology stocks plunged as traders assessed the implications of a Democratic sweep in the US midterm elections on artificial intelligence. Wall Street experts shared their views on Bloomberg Television.",
+      "detail_zh": "科技股出现大幅下跌。市场交易员正在评估美国中期选举中民主党大胜对人工智能领域可能产生的影响。华尔街专家通过Bloomberg Television对此进行了讨论。原文未提供具体跌幅、受影响个股或专家具体观点。",
+      "detail_en": "Technology stocks plunged. Traders are assessing the potential implications of a Democratic sweep in the US midterm elections on artificial intelligence. Wall Street experts discussed this on Bloomberg Television. The original text does not provide specific percentage declines, affected stocks, or detailed expert opinions.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技股大幅下跌",
+          "en": "Technology stocks plunged"
+        },
+        {
+          "zh": "交易员评估民主党中期选举大胜对AI的影响",
+          "en": "Traders assessed the impact of a Democratic sweep in midterm elections on AI"
+        },
+        {
+          "zh": "华尔街专家在Bloomberg Television上发表看法",
+          "en": "Wall Street experts spoke on Bloomberg Television"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "AI",
+        "tech stocks",
+        "Democratic sweep"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:fNfpiLSJ0Lk",
+      "title": "AI Fears Rattle Wall St., Safe Havens",
+      "title_zh": "Bloomberg Real Yield：美债避险、AI与信贷风险成焦点",
+      "url": "https://www.youtube.com/watch?v=fNfpiLSJ0Lk",
+      "published_at": "2026-11-05T19:34:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期Bloomberg Real Yield讨论了美债作为避险资产回归、美联储加息前景、债务上限风险、AI对增长与通胀的影响、科技股抛售以及信贷市场压力等议题。嘉宾包括Vanguard、TCW、Solus、MFS、RBC Bluebay和Academy Securities的策略师与基金经理。",
+      "summary_en": "This episode of Bloomberg Real Yield covers Treasuries returning as a safe haven, the Fed rate hike outlook, debt ceiling risks, AI's impact on growth and inflation, the tech selloff, and stress in credit markets. Guests include strategists and portfolio managers from Vanguard, TCW, Solus, MFS, RBC Bluebay, and Academy Securities.",
+      "detail_zh": "节目由Ira Jersey讨论美债作为避险资产回归开场，随后分析美联储加息前景。Ruben Hovhannisyan与Rebecca Venter探讨分裂政府与美债的关系，并涉及债务上限风险、美债与油价的关系。节目还讨论了AI对经济增长和通胀的影响，以及消费者情绪与通胀。Dan Greenhaus分析中期选举后的科技股抛售，并提及数据中心政策风险、大型科技公司AI支出以及Anthropic与市场抛售。随后讨论年底前最大风险、大型科技公司债务繁荣。Andrzej Skiba与Pilar Gomez-Bravo讨论信贷市场与AI、信贷抛售风险、AI融资风险、收益率下降与借贷、高收益信贷压力、信贷传染风险以及信贷买入机会。Peter Tchir讨论科技股抛售与AI、什么可能结束科技股抛售、670亿美元市政债券。Nir Kaissar讨论牛市与科技股抛售、AI支出与盈利增长、市场与政策制定者、市场与经济风险。",
+      "detail_en": "The program opens with Ira Jersey discussing Treasuries returning as a safe haven, followed by the Fed rate hike outlook. Ruben Hovhannisyan and Rebecca Venter discuss split government and Treasuries, touching on debt ceiling risks and Treasuries and oil prices. The show also covers AI's impact on growth and inflation, and consumer sentiment and inflation. Dan Greenhaus analyzes the tech selloff after midterms, mentioning data center policy risks, Big Tech AI spending, and Anthropic and market selloff. Later segments discuss the biggest risks through year-end and the Big Tech debt boom. Andrzej Skiba and Pilar Gomez-Bravo discuss credit markets and AI, credit selloff risks, AI funding risks, lower yields and borrowing, stress in high-yield credit, credit contagion risks, and credit buying opportunities. Peter Tchir discusses the tech selloff and AI, what could end the tech selloff, and $67 billion in muni bonds. Nir Kaissar discusses the bull market and tech selloff, AI spending and earnings growth, markets and policymakers, and market and economic risks.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美债作为避险资产回归，美联储加息前景受关注。",
+          "en": "Treasuries return as a safe haven, with focus on the Fed rate hike outlook."
+        },
+        {
+          "zh": "分裂政府与债务上限风险成为美债市场焦点。",
+          "en": "Split government and debt ceiling risks are in focus for the Treasury market."
+        },
+        {
+          "zh": "AI对经济增长、通胀及信贷市场的影响被广泛讨论。",
+          "en": "AI's impact on growth, inflation, and credit markets is widely discussed."
+        },
+        {
+          "zh": "科技股抛售与大型科技公司AI支出及债务繁荣引发关注。",
+          "en": "Tech selloff, Big Tech AI spending, and debt boom draw attention."
+        },
+        {
+          "zh": "高收益信贷压力与信贷传染风险被提及，同时存在信贷买入机会。",
+          "en": "Stress in high-yield credit and credit contagion risks are mentioned, along with credit buying opportunities."
+        }
+      ],
+      "tags": [
+        "Treasuries",
+        "Fed",
+        "AI",
+        "Credit",
+        "Tech Selloff"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:B2gO7hlae7M",
+      "title": "What women want | On the Ground",
+      "title_zh": "贝莱德研究：女性投资者追求财富增长，顾问认知存在偏差",
+      "url": "https://www.youtube.com/watch?v=B2gO7hlae7M",
+      "published_at": "2026-11-05T19:32:46+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "贝莱德投资研究院调查1000名富裕及高净值女性发现，她们的核心诉求是投资增长财富、管理税务复杂性并整合财务生活，而非传统顾问所认为的财富保值。贝莱德同时表示仍看好AI基本面但已获利了结，并因收益率吸引力而增持美国国债。",
+      "summary_en": "A BlackRock study of 1,000 affluent and high-net-worth women found their core desires are portfolio growth, tax management, and integrated financial coordination—not wealth preservation as advisors often assume. BlackRock also remains positive on AI fundamentals but has taken profits, and is leaning into US Treasuries given attractive yields.",
+      "detail_zh": "贝莱德美国财富咨询与退休业务负责人Jamie Mogera表示，最新调查覆盖1000名富裕及高净值女性，结果清晰显示她们希望投资组合增长财富、有人帮助管理税务复杂性，并协调整合生活的各个财务方面。研究指出，行业传统上从人生转折（离婚、丧偶、退休）视角看待女性，但调查发现女性不仅是财富获取者或继承者，更是财富创造者——80%受访者表示财富主要来源是职业收入。研究还揭示了一个需要弥合的差距：女性希望通过投资增长财富，而顾问却认为她们想要保值。在资产配置上，贝莱德仍看好AI，认为基本面非常稳健，但已逐步获利了结；同时增持美国国债，因10年期收益率从近六年前的不足90个基点升至5.25%左右，颇具吸引力，并上调了美国国债曲线前端和长端的评级。",
+      "detail_en": "Jamie Mogera, who runs BlackRock's US wealth advisory and retirement business, said a new survey of 1,000 affluent and high-net-worth women clearly shows they want portfolios to grow wealth, help managing tax complexity, and coordination of all financial aspects of their lives. The research notes the industry has traditionally viewed women through the lens of life transitions (divorce, widowhood, retirement), but found women are not just wealth acquirers or inheritors—they are wealth creators, with 80% of respondents citing career earnings as their primary wealth source. The study also points to a gap: women want to grow wealth through investing, while advisors think they want preservation. On allocation, BlackRock remains positive on AI, calling fundamentals very sound, but has taken some profits; it is also leaning into US Treasuries as the 10-year yield has risen from below 90 basis points nearly six years ago to around 5.25%, and upgraded both the front end and long end of the US Treasury curve.",
+      "conclusion_zh": "贝莱德调查显示女性投资者更看重增长而非保值，顾问需调整服务逻辑；同时贝莱德在AI上获利了结、转向美债，反映其对增长与收益并重的配置思路。",
+      "conclusion_en": "BlackRock's survey shows women investors prioritize growth over preservation, requiring advisors to adjust their approach; meanwhile, BlackRock taking profits in AI and leaning into Treasuries reflects a balanced growth-and-income allocation stance.",
+      "key_points": [
+        {
+          "zh": "调查覆盖1000名富裕及高净值女性，核心诉求是财富增长、税务管理与财务整合。",
+          "en": "Survey of 1,000 affluent and high-net-worth women shows core desires: wealth growth, tax management, and financial integration."
+        },
+        {
+          "zh": "80%受访者表示财富主要来源是职业收入，女性是财富创造者而非仅是获取者或继承者。",
+          "en": "80% cite career earnings as primary wealth source; women are wealth creators, not just acquirers or inheritors."
+        },
+        {
+          "zh": "顾问认为女性追求保值，但女性实际希望投资增长，存在认知差距。",
+          "en": "Advisors assume women want preservation, but women actually want investment growth—a perception gap."
+        },
+        {
+          "zh": "贝莱德仍看好AI基本面，但已逐步获利了结。",
+          "en": "BlackRock remains positive on AI fundamentals but has taken some profits."
+        },
+        {
+          "zh": "因10年期美债收益率从不足90个基点升至约5.25%，贝莱德增持美国国债并上调曲线两端评级。",
+          "en": "With the 10-year Treasury yield up from below 90bp to around 5.25%, BlackRock is leaning into Treasuries and upgraded both ends of the curve."
+        }
+      ],
+      "tags": [
+        "BlackRock",
+        "women investors",
+        "wealth management",
+        "AI",
+        "US Treasuries"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:gYLgS2jLNkg",
+      "title": "Ritholtz on What's Causing the Stock Selloff",
+      "title_zh": "民主党中期选举大胜预期引发科技股抛售，数据中心监管担忧拖累芯片需求",
+      "url": "https://www.youtube.com/watch?v=gYLgS2jLNkg",
+      "published_at": "2026-11-05T19:27:03+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "周四科技股大幅下挫，交易员评估民主党在中期选举中大胜对云数据中心的影响。市场担忧民主党掌控国会可能带来对美国数据中心更严格的监管，并拖累半导体需求。",
+      "summary_en": "Technology stocks plummeted on Thursday as traders assessed the implications of a Democratic sweep in the US midterm elections on cloud data centers. Fears are growing that a Democratic sweep of Congress could bring tighter regulation of US data centers and weigh on semiconductor demand.",
+      "detail_zh": "周四科技股大幅下跌，交易员正在评估民主党在中期选举中大胜对云数据中心的影响。此次科技股抛售的背景是，市场日益担忧民主党掌控国会可能带来对美国数据中心更严格的监管，并拖累半导体需求。Ritholtz Wealth Management 创始人、《Masters in Business》主持人 Barry Ritholtz 参与讨论此次市场抛售。报道还提到芯片股抛售延续至第二天，美国股指期货走势分化。",
+      "detail_en": "Technology stocks plummeted on Thursday as traders assessed the implications of a Democratic sweep in the US midterm elections on cloud data centers. The selloff in tech stocks comes amid growing worries that a Democratic sweep of Congress could bring tighter regulation of US data centers and weigh on semiconductor demand. Barry Ritholtz, Founder of Ritholtz Wealth Management and Host of \"Masters in Business,\" joined to discuss the market selloff. The report also noted that the chip selloff extended into a second day and US stock futures diverged.",
+      "conclusion_zh": "科技股短期承压，核心变量在于民主党中期选举大胜后对数据中心的监管力度及对半导体需求的影响，需关注政策落地节奏。",
+      "conclusion_en": "Tech stocks are under near-term pressure, with the key variable being the intensity of data center regulation following a Democratic midterm sweep and its impact on semiconductor demand; watch the pace of policy implementation.",
+      "key_points": [
+        {
+          "zh": "周四科技股大幅下挫，交易员评估民主党中期选举大胜对云数据中心的影响。",
+          "en": "Technology stocks plummeted on Thursday as traders assessed the implications of a Democratic sweep in the US midterm elections on cloud data centers."
+        },
+        {
+          "zh": "市场担忧民主党掌控国会可能带来对美国数据中心更严格的监管，并拖累半导体需求。",
+          "en": "Growing worries that a Democratic sweep of Congress could bring tighter regulation of US data centers and weigh on semiconductor demand."
+        },
+        {
+          "zh": "芯片股抛售延续至第二天，美国股指期货走势分化。",
+          "en": "The chip selloff extended into a second day, and US stock futures diverged."
+        },
+        {
+          "zh": "Ritholtz Wealth Management 创始人 Barry Ritholtz 参与讨论此次市场抛售。",
+          "en": "Barry Ritholtz, Founder of Ritholtz Wealth Management, joined to discuss the market selloff."
+        }
+      ],
+      "tags": [
+        "tech selloff",
+        "midterm elections",
+        "data center regulation",
+        "semiconductor demand",
+        "policy risk"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:knPNx4Vh7Ak",
+      "title": "Space & Defense",
+      "title_zh": "AI与太空：新一集《机器人年鉴》探讨",
+      "url": "https://www.youtube.com/watch?v=knPNx4Vh7Ak",
+      "published_at": "2026-11-05T19:15:34+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "tech"
+      ],
+      "summary_zh": "原文仅预告新一集《机器人年鉴》将探讨AI进入太空的话题，未提供具体内容或投资观点。",
+      "summary_en": "The original text only teases a new episode of The Robot Almanac exploring what happens when AI goes to space, without providing specific content or investment views.",
+      "detail_zh": "原文仅为一句预告：“What happens when AI goes to space? Watch the new episode of The Robot Almanac.” 未涉及任何公司、数据、事件或分析。因此无法提炼投资洞见，仅能确认该媒体内容主题为AI与太空的结合。",
+      "detail_en": "The original text is a single teaser: \"What happens when AI goes to space? Watch the new episode of The Robot Almanac.\" It contains no companies, data, events, or analysis. Thus no investment insight can be extracted; it only confirms the media content's theme is the combination of AI and space.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文仅为节目预告，无实质信息。",
+          "en": "The text is only a program teaser with no substantive information."
+        },
+        {
+          "zh": "主题涉及AI与太空，但未展开任何细节。",
+          "en": "The theme involves AI and space, but no details are elaborated."
+        },
+        {
+          "zh": "未提及任何美股公司或投资观点。",
+          "en": "No US-listed companies or investment views are mentioned."
+        }
+      ],
+      "tags": [
+        "AI",
+        "space",
+        "media"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:MNwv89FJ-l8",
+      "title": "The Robot Almanac: Space & Defense (Ep. 5)",
+      "title_zh": "摩根士丹利：太空与机器人开启物理AI新前沿",
+      "url": "https://www.youtube.com/watch?v=MNwv89FJ-l8",
+      "published_at": "2026-11-05T19:11:41+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "摩根士丹利研究认为，太空是物理AI与机器人技术的下一个前沿，可复用火箭、星链、月球与火星探索以及太空数据中心构成长期主题。中国在火箭复用、巨型星座、太空AI与量子基础设施方面进展迅速，可能先于美国重返月球。美国国防工业基础受制造业衰退制约，自主系统与新型国防承包商或改变采购与供应链格局。",
+      "summary_en": "Morgan Stanley Research sees space as the next frontier for physical AI and robotics, with reusable rockets, Starlink, lunar and Mars exploration, and space-based data centers as long-term themes. China is making rapid progress in rocket reusability, mega-constellations, space-based AI, and quantum infrastructure, and may return humans to the lunar surface before the US. The US defense industrial base is constrained by a multi-decade manufacturing decline, while autonomous systems and neo-primes could reshape procurement and supply chains.",
+      "detail_zh": "摩根士丹利研究团队将太空视为物理AI与机器人技术的“下一个前沿”，类比安全电梯对纽约城市建筑的变革，认为可复用火箭是“通往太空的电梯”。SpaceX拥有在轨卫星总数的三分之二以上，每两天发射一次火箭，每天新增约2.5万名Starlink用户；Starship旨在将发射成本再降低一个数量级，提升卫星容量并支持地球轨道、月球经济、火星等更宏大任务。火星距地球约6个月，拥有数万亿吨水冰和大量二氧化碳，昼夜周期与地球几乎相同，重力为地球的38%；月球仅3天距离，南极有水、大量氦-3，部分陨石坑有近乎永久光照，且从月球表面发射效率更高（重力为地球1/6且无大气）。摩根士丹利太空团队预计约5年内机器人将登陆火星，首批人类登陆火星约在10年后；中国在火箭复用、巨型星座、太空AI和量子计算基础设施方面进展惊人，许多太空专家认为中国可能5年内先于美国重返月球。太空数据中心因低轨空间广阔（1500万亿立方公里）、温度低（2.7开尔文/-270°C）、太阳同步轨道太阳能效率可达8倍且无邻避问题而具备吸引力；量子计算与通信在太空的物理优势更明显，中国在量子领域也领先。全球风险投资正快速涌入太空领域，覆盖卫星运营商、轨道发射、太空基础设施、制造与供应链。美国国防工业基础受制造业占GDP比重自1950年代初以来数十年下降的制约；中国占2010年以来下水的现役军舰的70%，美国仅占全球市场的0.1%。无人机在近期冲突中表现突出，自主AI蜂群将改变国防架构，国防预算方向受乌克兰和霍尔木兹海峡战场经验影响，风险投资在航空航天与国防领域近年大幅拐点。",
+      "detail_en": "Morgan Stanley Research frames space as the next frontier for physical AI and robotics, likening reusable rockets to an 'elevator to space' that changes architecture, as the safety elevator did for New York City. SpaceX accounts for over two-thirds of all satellites in orbit, launches a rocket every two days, and adds around 25,000 Starlink subscribers per day; Starship aims to drive a further order-of-magnitude improvement in launch costs, increasing satellite capacity and enabling more ambitious missions in Earth orbit, the lunar economy, and Mars. Mars is about 6 months away, has trillions of tons of water ice and loads of CO2, a day-night cycle almost identical to Earth, and gravity at 38% of Earth's. The moon is just three days away, has water at the South Pole, copious helium-3, near-permanent sunlight in some craters, and is more efficient for launches with 1/6th Earth's gravity and no atmosphere. The Morgan Stanley Space Team expects bots on Mars in about 5 years, well before the first human boots around 10 years later; China is making astonishing progress on rocket reusability, mega-constellations, space-based AI, and quantum computing infrastructure, and many space experts believe China will put humans back on the lunar surface before the US, possibly within 5 years. Space-based data centers are attractive because low Earth orbit offers 1.5 trillion cubic kilometers, 2.7 Kelvin (-270°C), up to eight times more solar efficiency in sun-synchronous orbit, and no NIMBYism; quantum computing and communications advantages become even more apparent in space, and China appears to lead there too. Global venture funding is moving quickly into space across satellite operators, orbital launch providers, space infrastructure, manufacturing, and supply partners. The US defense industrial base is underpinned by manufacturing, where the US has experienced a multi-decade decline as a share of GDP since the early 1950s; China accounts for 70% of active warships launched since 2010, while the US share of the global market is 0.1%. Drones feature prominently in recent campaigns, and agentic AI across proliferated swarms changes the capability and architecture of the arsenal; defense budgets worldwide are being shaped by lessons from Ukraine and the Straits of Hormuz, coinciding with the AI robot revolution. Concentration among a few defense primes is being re-examined, and venture funding for aerospace and defense has inflected substantially in recent years across autonomous platforms, munitions, cybersecurity, supply chain, and manufacturing.",
+      "conclusion_zh": "太空正成为物理AI与机器人技术的下一个前沿，可复用火箭、太空数据中心与自主国防系统构成长期投资主题，同时需关注中国在太空与量子领域的竞争进展。",
+      "conclusion_en": "Space is becoming the next frontier for physical AI and robotics, with reusable rockets, space-based data centers, and autonomous defense systems as long-term investment themes, while China's competitive progress in space and quantum merits close attention.",
+      "key_points": [
+        {
+          "zh": "SpaceX占在轨卫星三分之二以上，每两天发射一次火箭，每天新增约2.5万Starlink用户；Starship目标将发射成本再降一个数量级。",
+          "en": "SpaceX accounts for over two-thirds of satellites in orbit, launches every two days, adds ~25,000 Starlink subscribers daily; Starship aims to cut launch costs by another order of magnitude."
+        },
+        {
+          "zh": "摩根士丹利太空团队预计约5年内机器人登陆火星，人类约10年后登陆；中国可能在5年内先于美国重返月球。",
+          "en": "Morgan Stanley Space Team expects bots on Mars in ~5 years and humans ~10 years later; China may return humans to the moon before the US within 5 years."
+        },
+        {
+          "zh": "太空数据中心因空间大、温度低（2.7K）、太阳同步轨道太阳能效率可达8倍且无邻避问题而具吸引力；量子通信在太空物理优势更明显，中国领先。",
+          "en": "Space data centers are attractive due to vast space, 2.7K temperature, up to 8x solar efficiency in sun-synchronous orbit, and no NIMBYism; quantum communications have physical advantages in space, with China ahead."
+        },
+        {
+          "zh": "美国国防工业基础受制造业占GDP数十年下降制约；中国占2010年以来下水现役军舰的70%，美国仅占全球市场0.1%。",
+          "en": "US defense industrial base is constrained by decades-long decline in manufacturing as share of GDP; China accounts for 70% of active warships launched since 2010, US just 0.1% of global market."
+        },
+        {
+          "zh": "无人机与自主AI蜂群改变国防架构，乌克兰和霍尔木兹海峡战场经验影响全球国防预算方向，航空航天与国防风险投资近年大幅拐点。",
+          "en": "Drones and agentic AI swarms are changing defense architecture; lessons from Ukraine and the Straits of Hormuz are shaping global defense budgets, with aerospace and defense venture funding inflecting substantially."
+        }
+      ],
+      "tags": [
+        "space",
+        "robotics",
+        "AI",
+        "defense",
+        "China"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:7kVw2EzzUDY",
+      "title": "Agility Robotics CEO: Humanoid robots  have bipartisan support",
+      "title_zh": "Agility Robotics CEO：机器人议题获两党共识，人形机器人可填补美国劳动力缺口",
+      "url": "https://www.youtube.com/watch?v=7kVw2EzzUDY",
+      "published_at": "2026-11-05T18:59:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Agility Robotics CEO Peggy Johnson 表示，机器人是一个“非常两党共识的议题”，两党都认识到美国劳动力缺口正在扩大。随着更多制造业回流美国，她认为像 Digit 这样的人形机器人可以补充稀缺的人力，填补企业难以招到人的岗位。",
+      "summary_en": "Agility Robotics CEO Peggy Johnson says robotics is a \"very bipartisan issue,\" with both parties recognizing the growing US labor gap. As more manufacturing is reshored to the US, she says humanoid robots like Digit can help augment scarce human labor and fill roles companies are struggling to staff.",
+      "detail_zh": "Agility Robotics CEO Peggy Johnson 将机器人定位为一个“非常两党共识的议题”，理由是民主、共和两党都认识到美国劳动力缺口正在扩大。她把这与制造业回流美国的趋势联系起来：随着更多制造环节迁回美国，企业面临人力稀缺、部分岗位难以招满的问题。她的主张是，像 Digit 这样的人形机器人可以“增强”而非替代稀缺的人力，用于填补企业招不到人的岗位。原文未给出具体劳动力缺口数据、Digit 的部署规模或商业化时间表，也未涉及财务或估值信息。",
+      "detail_en": "Agility Robotics CEO Peggy Johnson frames robotics as a \"very bipartisan issue,\" citing recognition by both parties of the growing US labor gap. She ties this to the reshoring of manufacturing to the US: as more production returns, companies face scarce human labor and roles they struggle to staff. Her argument is that humanoid robots like Digit can augment—rather than replace—scarce human labor and fill positions companies cannot staff. The source provides no specific labor-gap figures, deployment scale, or commercialization timeline for Digit, nor any financial or valuation details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Agility Robotics CEO 称机器人是“非常两党共识的议题”，两党均认识到美国劳动力缺口扩大。",
+          "en": "Agility Robotics' CEO calls robotics a \"very bipartisan issue,\" with both parties recognizing the growing US labor gap."
+        },
+        {
+          "zh": "制造业回流美国使人力稀缺问题更突出，部分岗位企业难以招满。",
+          "en": "Reshoring of manufacturing to the US intensifies labor scarcity, leaving some roles hard to staff."
+        },
+        {
+          "zh": "公司主张人形机器人 Digit 可补充而非替代稀缺人力，填补招工困难的岗位。",
+          "en": "The company argues humanoid robot Digit can augment rather than replace scarce labor and fill hard-to-staff roles."
+        }
+      ],
+      "tags": [
+        "robotics",
+        "humanoid robots",
+        "labor shortage",
+        "reshoring",
+        "automation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:Y6bSu0ZZNjE",
       "title": "RAY DALIO ON HOW TO SURVIVE THE FALL",
@@ -17474,219 +17789,6 @@
         "investor sentiment"
       ],
       "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:A1BPJWX1Cso",
-      "title": "Lagarde's Exit, Safe Havens, Record Credit Sales",
-      "title_zh": "美联储按兵不动，Warsh 为后续加息留有余地；微软发行巨额债券",
-      "url": "https://www.youtube.com/watch?v=A1BPJWX1Cso",
-      "published_at": "2026-10-29T20:11:55+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美联储在中期选举前维持利率不变，但主席 Kevin Warsh 为恢复加息留有余地，市场预期12月及明年4月前各加息一次。9月核心PCE同比升至3.1%，通胀压力持续。微软利用AAA评级发行至少250亿美元投资级债券，恰逢债市供应创纪录。",
-      "summary_en": "The Fed held rates steady ahead of midterms, but Chair Kevin Warsh left the door open to resuming hikes, with markets pricing a December increase and another by April. Core PCE rose to 3.1% in September, signaling persistent inflation. Microsoft raised at least $25 billion in its first U.S. investment-grade bond sale in over nine years, amid record annual debt supply.",
-      "detail_zh": "美联储在中期选举前选择维持利率不变，但主席 Kevin Warsh 在会后表态为未来数月进一步收紧政策铺路，称“压倒性共识”是此前的温和紧缩政策开始见效，但尚无确定结论。9月价格指数显示通胀压力不减：整体PCE同比升至3.6%，核心PCE升至3.1%，均高于预期，表明美联储在通胀方面未取得理想进展。市场因此预期美联储将在12月9日加息，并在明年4月前再加一次；两年期期货交易价（483）高于当前两年期现货利率（467），反映加息预期。Warsh 还提到2027年将有一次会议专门用于战略讨论，Mike McKee 推测可能在10月，因9月和12月有经济预测摘要。债市方面，10月初美债遭遇抛售，收益率在当月第一周见顶，但抛售潮似乎暂歇，债券波动率（MOVE指数）降至约一个月低位，而股市波动率（VIX）相对稳定。微软利用其AAA评级，发行至少250亿美元投资级债券，为逾九年来首次在美国投资级市场发债，恰逢投资者面临创纪录的年度债券供应。",
-      "detail_en": "The Fed kept rates unchanged ahead of the midterm elections, but Chair Kevin Warsh set the stage for further tightening in the coming months, saying the \"overwhelming consensus\" was that the modest policy medicine is starting to work, though there are no firm conclusions. September price indexes showed persistent inflation: headline PCE rose to 3.6% and core PCE to 3.1%, both hotter than expected, indicating the Fed is not making the progress it wants on inflation. Markets therefore expect a rate hike on December 9 and another by next April; two-year futures trade at 483 versus the current two-year spot rate of 467, reflecting hike expectations. Warsh also mentioned that one of the 2027 meetings will be strategy-only, which Mike McKee speculated could be October, since September and December have economic projections. In bonds, Treasuries entered October in a sell-off with yields peaking in the first week, but the rush for the exits appears to have halted, with the MOVE index at its lowest in about a month, while the VIX has held steadier. Microsoft took advantage of its AAA rating to raise at least $25 billion in its first U.S. investment-grade bond sale in over nine years, just as investors face a record annual supply of debt.",
-      "conclusion_zh": "美联储在通胀仍高之际按兵不动但保留加息选项，市场已定价进一步收紧；债券波动率回落与微软巨额发债显示债市供需动态值得关注。",
-      "conclusion_en": "With inflation still elevated, the Fed held rates but kept the hiking option open, and markets have priced further tightening; falling bond volatility and Microsoft's large debt sale highlight supply-demand dynamics in fixed income.",
-      "key_points": [
-        {
-          "zh": "美联储维持利率不变，但Warsh为恢复加息留有余地，市场预期12月及明年4月前各加息一次。",
-          "en": "The Fed held rates steady, but Warsh left the door open to resuming hikes; markets expect a December increase and another by April."
-        },
-        {
-          "zh": "9月整体PCE同比升至3.6%，核心PCE升至3.1%，均高于预期，显示通胀进展不足。",
-          "en": "September headline PCE rose to 3.6% and core PCE to 3.1%, both above expectations, signaling insufficient inflation progress."
-        },
-        {
-          "zh": "美债抛售暂歇，MOVE指数降至约一个月低位，债券波动率回落。",
-          "en": "The Treasury sell-off has paused, with the MOVE index at a roughly one-month low, indicating lower bond volatility."
-        },
-        {
-          "zh": "微软利用AAA评级发行至少250亿美元投资级债券，为逾九年来首次，恰逢债市供应创纪录。",
-          "en": "Microsoft raised at least $25 billion in its first U.S. investment-grade bond sale in over nine years, amid record debt supply."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "inflation",
-        "rate hikes",
-        "bond supply",
-        "Microsoft"
-      ],
-      "tickers": [
-        "MSFT"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "6ae392679fd2fa3c16caf908",
-      "title": "Why the slowdown in Wall Street deals?",
-      "title_zh": "华尔街并购热潮降温：借贷成本上升与市场回撤削弱交易意愿",
-      "url": "https://shows.acast.com/unhedged/episodes/why-the-slowdown-in-wall-street-deals",
-      "published_at": "2026-10-29T20:00:00+00:00",
-      "source_name": "FT Unhedged",
-      "source_kind": "article",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "华尔街并购年开局强劲，但随借贷成本上升和市场回吐涨幅，新交易意愿减弱。尽管出现派拉蒙与华纳兄弟探索1100亿美元等巨型并购，整体并购活动已放缓。",
-      "summary_en": "What began as a boom year for Wall Street mergers is fading as borrowing costs tick up and markets pare gains, dampening appetite for new deals despite megamergers like the $111bn Paramount-Warner Bros Discovery deal.",
-      "detail_zh": "华尔街并购活动年初强劲，但近期明显放缓。借贷成本上升和市场回吐涨幅是主要原因，导致新交易意愿减弱。尽管出现了派拉蒙与华纳兄弟探索1100亿美元的巨型并购，但整体并购活动已从年初的繁荣水平回落。美国金融评论员Rob Armstrong、金融与市场编辑Arash Massoudi及即将离任的美国金融编辑James Fontanella-Khan讨论了这一放缓趋势及可能推动行业复苏的因素。",
-      "detail_en": "Wall Street mergers started the year strong but have recently slowed. Rising borrowing costs and markets paring back gains are the main reasons, weakening appetite for new deals. Although megamergers like the $111bn Paramount-Warner Bros Discovery deal occurred, overall M&A activity has fallen from early-year boom levels. US financial commentator Rob Armstrong, finance and markets editor Arash Massoudi, and outgoing US finance editor James Fontanella-Khan discuss the slowdown and what might bring the sector back to form.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "借贷成本上升和市场回吐涨幅导致并购交易意愿减弱。",
-          "en": "Rising borrowing costs and markets paring gains have dampened appetite for M&A deals."
-        },
-        {
-          "zh": "尽管出现派拉蒙与华纳兄弟探索1100亿美元巨型并购，整体并购活动已放缓。",
-          "en": "Despite the $111bn Paramount-Warner Bros Discovery megadeal, overall M&A activity has slowed."
-        },
-        {
-          "zh": "讨论涉及可能推动并购行业复苏的因素。",
-          "en": "Discussion covers what might bring the M&A sector back to form."
-        }
-      ],
-      "tags": [
-        "M&A",
-        "Wall Street",
-        "borrowing costs",
-        "market pullback"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:VqsrX0ixsu8",
-      "title": "Alaska Senate Race: Dems Tried to Find Another Sullivan to Run, NY Times Reports",
-      "title_zh": "特朗普呼吁禁止佩尔托拉参加参议院竞选",
-      "url": "https://www.youtube.com/watch?v=VqsrX0ixsu8",
-      "published_at": "2026-10-29T19:45:38+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普总统表示阿拉斯加民主党人玛丽·佩尔托拉应被禁止参加美国参议院竞选。《纽约时报》报道称，佩尔托拉及其盟友试图寻找与共和党现任参议员丹·沙利文姓名相似的人参选。",
-      "summary_en": "President Donald Trump says Alaska Democrat Mary Peltola should be banned from the US Senate race. The New York Times reported that Peltola and allies tried to find people with names similar to Dan Sullivan to run.",
-      "detail_zh": "特朗普总统公开主张，阿拉斯加民主党人玛丽·佩尔托拉应被禁止参加美国参议院竞选。据《纽约时报》报道，佩尔托拉及其盟友曾试图寻找与共和党现任参议员丹·沙利文姓名相似的人参选。彭博电视的泰勒·肯德尔和乔·马蒂厄对此进行了讨论。",
-      "detail_en": "President Donald Trump said that Alaska Democrat Mary Peltola should be banned from the US Senate race. The New York Times reported that Peltola and allies tried to find people with names similar to Dan Sullivan, the Republican incumbent, to run. Tyler Kendall and Joe Mathieu discussed the matter on Bloomberg Television.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普呼吁禁止佩尔托拉参加参议院竞选。",
-          "en": "Trump calls for Peltola to be banned from the Senate race."
-        },
-        {
-          "zh": "《纽约时报》报道称佩尔托拉及其盟友试图寻找与沙利文姓名相似的人参选。",
-          "en": "NYT reports Peltola and allies sought people with names similar to Sullivan to run."
-        },
-        {
-          "zh": "丹·沙利文是共和党现任参议员。",
-          "en": "Dan Sullivan is the Republican incumbent."
-        }
-      ],
-      "tags": [
-        "Alaska",
-        "Senate race",
-        "Trump",
-        "Peltola",
-        "Sullivan"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Nop7wfoL8go",
-      "title": "Chipotle Sales Beat as New Chicken, Chips Bring Diners Back",
-      "title_zh": "Chipotle第三季度销售增长超预期，菜单更新与会员优惠助力复苏",
-      "url": "https://www.youtube.com/watch?v=Nop7wfoL8go",
-      "published_at": "2026-10-29T19:32:35+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Chipotle第三季度销售额增长快于预期，得益于更频繁的菜单推出和改良的会员优惠，帮助维持了此前受食品安全事件威胁的复苏势头。",
-      "summary_en": "Chipotle's third-quarter sales rose faster than expected, driven by more frequent menu launches and revamped loyalty offers, helping sustain a recovery that had been threatened by a food-illness scare.",
-      "detail_zh": "Chipotle Mexican Grill Inc. 第三季度销售额增长快于预期。增长动力来自更频繁的菜单推出以及改良的会员优惠计划。这些举措帮助公司维持了复苏态势，而该复苏此前曾受到食品安全事件的威胁。彭博的Michael Halen就此进行了讨论。",
-      "detail_en": "Chipotle Mexican Grill Inc.'s sales rose faster than expected in the third quarter. The growth was driven by more frequent menu launches and revamped loyalty offers. These initiatives helped the company sustain a recovery that had been threatened by a food-illness scare. Bloomberg's Michael Halen joined to discuss.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Chipotle第三季度销售额增长快于预期。",
-          "en": "Chipotle's third-quarter sales rose faster than expected."
-        },
-        {
-          "zh": "增长得益于更频繁的菜单推出和改良的会员优惠。",
-          "en": "Growth was driven by more frequent menu launches and revamped loyalty offers."
-        },
-        {
-          "zh": "这些举措帮助维持了受食品安全事件威胁的复苏。",
-          "en": "These initiatives helped sustain a recovery threatened by a food-illness scare."
-        }
-      ],
-      "tags": [
-        "Chipotle",
-        "sales growth",
-        "loyalty program",
-        "food safety"
-      ],
-      "tickers": [
-        "CMG"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:G_B3zMWIe84",
-      "title": "Google Erases a Record $500 Billion as AI Eats Into Sales",
-      "title_zh": "Alphabet股价暴跌逾13%，市值蒸发超5000亿美元",
-      "url": "https://www.youtube.com/watch?v=G_B3zMWIe84",
-      "published_at": "2026-10-29T19:22:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Alphabet公布令人失望的搜索和广告销售业绩后，股价暴跌逾13%，市值蒸发超过5000亿美元，创史上最大单日跌幅。投资者担忧AI对其核心业务的威胁加剧。",
-      "summary_en": "Alphabet shares plunged more than 13%, erasing over $500 billion in market value in its biggest-ever one-day drop, after the company reported disappointing search and advertising sales, reinforcing investor concerns about AI's threat to its core business.",
-      "detail_zh": "Alphabet Inc. 股价下跌超过13%，市值蒸发逾5000亿美元，创下公司历史上最大单日市值跌幅。此次暴跌的导火索是公司公布的搜索和广告销售业绩令人失望，这加剧了投资者对人工智能威胁其核心业务的担忧。彭博的Mandeep Singh在节目中讨论了这一事件，同时还提及了可能发生的Marvell与Lumentum Holdings的交易，以及DoorDash收购Instacart的消息。",
-      "detail_en": "Alphabet Inc.'s shares fell more than 13%, erasing more than $500 billion in market value in its biggest-ever one-day plunge. The drop was triggered by disappointing search and advertising sales, which reinforced investor concerns about AI's threat to its core business. Bloomberg's Mandeep Singh discussed this on Bloomberg Television, along with a possible Marvell and Lumentum Holdings deal and DoorDash buying Instacart.",
-      "conclusion_zh": "Alphabet的业绩暴雷凸显AI对传统搜索广告模式的冲击，投资者需警惕科技巨头核心业务被颠覆的风险。",
-      "conclusion_en": "Alphabet's earnings miss highlights AI's disruption to the traditional search advertising model, and investors should watch for risks of core business disruption at tech giants.",
-      "key_points": [
-        {
-          "zh": "Alphabet股价暴跌逾13%，市值蒸发超5000亿美元，创史上最大单日跌幅。",
-          "en": "Alphabet shares plunged over 13%, erasing more than $500 billion in market value, the biggest one-day drop in its history."
-        },
-        {
-          "zh": "业绩不佳源于搜索和广告销售令人失望，加剧了投资者对AI威胁核心业务的担忧。",
-          "en": "The poor results stemmed from disappointing search and advertising sales, heightening investor fears about AI's threat to its core business."
-        },
-        {
-          "zh": "彭博的Mandeep Singh讨论了Alphabet的暴跌，以及可能的Marvell与Lumentum交易和DoorDash收购Instacart。",
-          "en": "Bloomberg's Mandeep Singh discussed Alphabet's plunge, as well as a possible Marvell-Lumentum deal and DoorDash's acquisition of Instacart."
-        }
-      ],
-      "tags": [
-        "Alphabet",
-        "AI disruption",
-        "advertising",
-        "market plunge"
-      ],
-      "tickers": [
-        "GOOGL"
-      ],
       "sentiment": "negative"
     }
   ]
