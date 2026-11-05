@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-05T18:19:18.916739+00:00",
+  "generated_at": "2026-11-05T19:12:22.180637+00:00",
   "insights": [
+    {
+      "guid": "yt:Y6bSu0ZZNjE",
+      "title": "RAY DALIO ON HOW TO SURVIVE THE FALL",
+      "title_zh": "从失败中学习：谨慎与练习结合以承担风险",
+      "url": "https://www.youtube.com/watch?v=Y6bSu0ZZNjE",
+      "published_at": "2026-11-05T18:20:12+00:00",
+      "source_name": "Principles by Ray Dalio",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "原文通过走钢丝和拳击的比喻，讨论如何在失败后重新承担风险。核心观点是：谨慎与练习的结合让人能够突破极限，而愿意承受打击但不被淘汰出局是关键。",
+      "summary_en": "The original text uses tightrope walking and boxing metaphors to discuss how to take risks after failure. The core idea is that the combination of caution and practice allows one to push limits, and the willingness to take hits without being knocked out of the game is key.",
+      "detail_zh": "原文以对话形式展开，先提到“跌倒且跌得很重”，然后指出有些人不会再上钢丝，而有些人会重新上去。重新上去的人会思考如何既大胆又积极并成功做到，方法是通过不同的做法和更多练习。原文强调，正是谨慎与练习的结合，让人能够达到此前无法达到的极限。作者表示，一旦学到这一点，一切都会改变，因为他也知道如何承受打击。他明确说：“我不介意被击打，但我不想被淘汰出局。”最后，愿意被击打但不被淘汰出局被视为重要部分，并比喻为优秀的拳击手。",
+      "detail_en": "The original text is a dialogue that first mentions 'fall and you fall hard,' then notes that some people won't get on the tightrope again, while others will. Those who get back on think about how to be bold and aggressive and pull it off, through doing things differently and practicing more. The text emphasizes that it is the combination of caution and practice that allows one to take it to limits never before possible. The speaker says that once learned, everything changed, because he also knows how to take the hits. He explicitly states: 'I don't mind getting banged but I don't want to get knocked out of the game.' Finally, the willingness to get banged but not knocked out of the game is described as a big part, likened to a good fighter.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "失败后有人选择不再冒险，有人选择重新尝试。",
+          "en": "After failure, some choose not to take risks again, while others choose to try again."
+        },
+        {
+          "zh": "重新尝试的关键是谨慎与练习的结合，从而突破极限。",
+          "en": "The key to trying again is the combination of caution and practice, thereby pushing limits."
+        },
+        {
+          "zh": "愿意承受打击但不被淘汰出局是重要心态。",
+          "en": "The willingness to take hits but not be knocked out of the game is an important mindset."
+        }
+      ],
+      "tags": [
+        "risk-taking",
+        "resilience",
+        "mindset"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4963328",
       "title": "Wall Street Lunch: Fear Grips The Market",
@@ -17649,86 +17688,6 @@
         "GOOGL"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:qTGiZmmNz-Q",
-      "title": "Economic Pain Turns Nebraska Into Unexpected Battleground",
-      "title_zh": "内布拉斯加州参议院选情趋紧，独立候选人逼近共和党热门人选",
-      "url": "https://www.youtube.com/watch?v=qTGiZmmNz-Q",
-      "published_at": "2026-10-29T19:03:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国参议院控制权争夺扩展至内布拉斯加州，一名独立候选人正缩小与共和党热门人选的差距。该候选人表示与两党均无关联。",
-      "summary_en": "The fight for control of the US Senate has expanded to Nebraska, where an independent candidate who says he wants nothing to do with either party is closing in on the Republican favorite.",
-      "detail_zh": "美国参议院控制权之争已扩展至内布拉斯加州。一名独立候选人表示不愿与任何政党有关联，目前正逼近共和党热门人选。该报道由Caitlin Reilly进行解释。原文未提供具体民调数字、候选人姓名或进一步的市场影响分析。",
-      "detail_en": "The battle for control of the US Senate has expanded to the deeply conservative farm state of Nebraska. An independent candidate, who says he wants nothing to do with either party, is closing in on the Republican favorite. The report is explained by Caitlin Reilly. No specific polling numbers, candidate names, or further market impact analysis were provided in the original text.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "参议院控制权争夺扩展至内布拉斯加州",
-          "en": "The fight for Senate control has expanded to Nebraska"
-        },
-        {
-          "zh": "一名独立候选人正逼近共和党热门人选",
-          "en": "An independent candidate is closing in on the Republican favorite"
-        },
-        {
-          "zh": "该候选人表示与两党均无关联",
-          "en": "The candidate says he wants nothing to do with either party"
-        }
-      ],
-      "tags": [
-        "US Senate",
-        "Nebraska",
-        "independent candidate",
-        "election"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lO3uIItv88I",
-      "title": "Spain's Rail Tragedy Becomes Political Issue Before Election",
-      "title_zh": "西班牙十多年来最严重铁路事故将基础设施问题推入选举辩论",
-      "url": "https://www.youtube.com/watch?v=lO3uIItv88I",
-      "published_at": "2026-10-29T19:01:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "西班牙发生十多年来最致命的铁路事故，引发对公共基础设施老化的担忧，并在11月大选前成为政治辩论焦点。该事件可能影响选举议题和公共支出方向。",
-      "summary_en": "Spain's deadliest rail crash in over a decade has raised concerns about deteriorating public infrastructure, pushing the issue to the top of the political debate ahead of November's election. The event could influence election topics and public spending direction.",
-      "detail_zh": "西班牙发生十多年来最致命的铁路事故。该事故引发了对公共基础设施状况恶化的担忧。这一担忧在11月大选前升至政治辩论的首要位置。报道由Macarena Munoz Montijano解释。事件可能影响选举议程，并引发对基础设施投资的关注。",
-      "detail_en": "Spain has experienced its deadliest rail crash in over a decade. The accident has raised concerns about deteriorating public infrastructure. These concerns have risen to the top of the political debate ahead of the November election. The report is explained by Macarena Munoz Montijano. The event could influence the election agenda and spark attention on infrastructure investment.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "西班牙发生十多年来最严重的铁路事故。",
-          "en": "Spain's deadliest rail crash in over a decade occurred."
-        },
-        {
-          "zh": "事故引发对公共基础设施恶化的担忧。",
-          "en": "The crash raises concerns about deteriorating public infrastructure."
-        },
-        {
-          "zh": "基础设施问题成为11月大选前政治辩论的焦点。",
-          "en": "Infrastructure issues have become a focus of political debate ahead of the November election."
-        }
-      ],
-      "tags": [
-        "Spain",
-        "rail crash",
-        "infrastructure",
-        "election"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
