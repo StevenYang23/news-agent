@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-11-05T13:15:26.190734+00:00",
+  "generated_at": "2026-11-05T14:18:44.790642+00:00",
   "insights": [
+    {
+      "guid": "yt:WJvxNrwjM74",
+      "title": "Ariana Salvatore on Bloomberg Surveillance",
+      "title_zh": "中期选举后市场与国际股票展望",
+      "url": "https://www.youtube.com/watch?v=WJvxNrwjM74",
+      "published_at": "2026-11-05T14:00:50+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "macro"
+      ],
+      "summary_zh": "美国公共政策研究主管Ariana Salvatore接受彭博采访，讨论中期选举后市场和国际股票的前景。原文未提供具体观点或数据。",
+      "summary_en": "Head of US Public Policy Research Ariana Salvatore spoke with Bloomberg about what's next for markets and international equities following the midterm election. No specific views or data were provided in the source.",
+      "detail_zh": "该内容仅为一段采访预告或简介，指出美国公共政策研究主管Ariana Salvatore与彭博讨论了中期选举后市场和国际股票的前景。原文没有给出任何具体的市场判断、数据、个股或资产配置观点。日期标注为2026年11月4日。由于缺乏实质内容，无法提炼更多投资洞见。",
+      "detail_en": "The content is only a brief interview teaser or summary, noting that Head of US Public Policy Research Ariana Salvatore sat down with Bloomberg to discuss what's next for markets and international equities following the midterm election. The source provides no specific market views, data, individual stocks, or asset allocation opinions. The date is marked November 4, 2026. Due to the lack of substantive content, no further investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Ariana Salvatore是US Public Policy Research主管。",
+          "en": "Ariana Salvatore is Head of US Public Policy Research."
+        },
+        {
+          "zh": "采访主题为中期选举后市场和国际股票的前景。",
+          "en": "The interview topic is what's next for markets and international equities following the midterm election."
+        },
+        {
+          "zh": "原文未提供任何具体市场观点或数据。",
+          "en": "The source provides no specific market views or data."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "market outlook",
+        "international equities",
+        "US public policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ed7je7yDg78",
+      "title": "Midterm Results Fuel Stock Rotation; Republicans Trade Blame For Losses",
+      "title_zh": "中期选举民主党大胜引发板块轮动，芯片股承压",
+      "url": "https://www.youtube.com/watch?v=ed7je7yDg78",
+      "published_at": "2026-11-05T13:11:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国中期选举民主党大胜后，市场轮动交易进入第二天，股指期货波动，芯片股承压。摩根大通资管Iain Stealey讨论蓝潮后的市场风险，CATO研究所Romina Boccia分析民主党掌控国会面临的挑战。",
+      "summary_en": "US equity futures wavered and chipmakers came under pressure as the midterm-fueled rotation trade entered a second day after a Democratic sweep. Iain Stealey of JPMorgan Asset Management discussed market risks ahead, while Romina Boccia of the CATO Institute examined challenges facing Democrats as they take control of Congress.",
+      "detail_zh": "美国中期选举以民主党大胜（蓝潮）告终，由此引发的板块轮动交易进入第二天，美国股指期货表现波动，芯片制造商面临压力。共和党在关键州失利后内部互相指责，民主党则警告可能对总统特朗普展开调查。摩根大通资产管理公司的Iain Stealey在“Bloomberg Brief”节目中讨论了蓝潮之后的市场风险，涉及债券、石油和中东局势。节目还预览了英国央行（BOE）的利率决议，探讨利率可能上升的幅度。此外，内容涵盖特朗普、万斯和共和党的后续走向，油价下跌对股市格局的重塑，数据中心限制与AI成本问题，以及CATO研究所的Romina Boccia对价格管制、补贴和财政前景的分析。",
+      "detail_en": "The US midterm elections resulted in a Democratic sweep, and the ensuing rotation trade entered its second day, with US equity futures wavering and chipmakers under pressure. Republicans traded blame after defeats in key states, while Democrats warned of potential investigations into President Trump. Iain Stealey of JPMorgan Asset Management joined \"Bloomberg Brief\" to discuss market risks following the blue sweep, covering bonds, oil, and the Middle East. The program also previewed the Bank of England (BOE) rate decision and how far rates could rise. Other segments covered what comes next for Trump, Vance, and the GOP; falling oil prices reshaping the equity market; data center constraints and the cost of AI; and Romina Boccia of the CATO Institute on price controls, subsidies, and the fiscal outlook.",
+      "conclusion_zh": "中期选举结果引发市场轮动，芯片股承压，投资者需关注政策变化及蓝潮后的市场风险。",
+      "conclusion_en": "The midterm election results triggered market rotation with chipmakers under pressure; investors should watch policy changes and post-blue-sweep market risks.",
+      "key_points": [
+        {
+          "zh": "中期选举民主党大胜后，市场轮动交易进入第二天，股指期货波动，芯片股承压。",
+          "en": "Following the Democratic midterm sweep, the rotation trade entered a second day, with equity futures wavering and chipmakers under pressure."
+        },
+        {
+          "zh": "共和党在关键州失利后互相指责，民主党警告可能对特朗普展开调查。",
+          "en": "Republicans traded blame after losing key states, while Democrats warned of potential investigations into Trump."
+        },
+        {
+          "zh": "摩根大通资管的Iain Stealey讨论了蓝潮后的市场风险，涉及债券、石油和中东。",
+          "en": "Iain Stealey of JPMorgan Asset Management discussed market risks after the blue sweep, covering bonds, oil, and the Middle East."
+        },
+        {
+          "zh": "节目预览英国央行利率决议，探讨利率可能上升的幅度。",
+          "en": "The program previewed the BOE rate decision and how far rates could rise."
+        },
+        {
+          "zh": "CATO研究所的Romina Boccia分析了价格管制、补贴和财政前景。",
+          "en": "Romina Boccia of the CATO Institute analyzed price controls, subsidies, and the fiscal outlook."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "rotation",
+        "chipmakers",
+        "blue sweep",
+        "market risk"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4962908",
       "title": "Wall Street Breakfast Podcast: The VIX Plunges In Post-Election Rally",
@@ -16817,303 +16907,6 @@
         "factor analysis",
         "ETF overlap",
         "intangible assets"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:kLfmdY47akY",
-      "title": "Reaching 2% Inflation Will Be Challenging for the Fed, Feroli Says",
-      "title_zh": "摩根大通首席经济学家：美联储将通胀降至2%目标面临挑战",
-      "url": "https://www.youtube.com/watch?v=kLfmdY47akY",
-      "published_at": "2026-10-29T14:06:30+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "摩根大通首席美国经济学家Mike Feroli表示，美联储将通胀降至2%目标将是一项挑战。他对美联储理事Lisa Cook呼吁FOMC加息25个基点感到意外。",
-      "summary_en": "JPMorgan Chief US Economist Mike Feroli says it will be a challenge for the Federal Reserve to get inflation back below its 2% target. He was surprised that Fed Governor Lisa Cook called on the FOMC to raise rates by a quarter percentage point.",
-      "detail_zh": "摩根大通首席美国经济学家Mike Feroli在“Bloomberg Surveillance”节目中表示，美联储将通胀率降回2%目标以下将是一项挑战。Feroli称，他对美联储理事Lisa Cook呼吁FOMC加息25个基点感到意外。Feroli是在Bloomberg Television的节目上发表上述评论的。",
-      "detail_en": "JPMorgan Chief US Economist Mike Feroli said on \"Bloomberg Surveillance\" that it will be a challenge for the Federal Reserve to get inflation back down below its 2% target. Feroli said he was surprised that Fed Governor Lisa Cook called on the FOMC to raise rates by a quarter percentage point. Feroli made these comments on Bloomberg Television.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "摩根大通首席美国经济学家Mike Feroli认为，美联储将通胀降至2%目标将是一项挑战。",
-          "en": "JPMorgan Chief US Economist Mike Feroli believes it will be a challenge for the Fed to bring inflation down to its 2% target."
-        },
-        {
-          "zh": "Feroli对美联储理事Lisa Cook呼吁FOMC加息25个基点感到意外。",
-          "en": "Feroli was surprised that Fed Governor Lisa Cook called on the FOMC to raise rates by a quarter percentage point."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "inflation",
-        "interest rates",
-        "JPMorgan"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:QLzCRndogB0",
-      "title": "Moore Still Bullish on Tech, Despite Alphabet's Miss",
-      "title_zh": "花旗财富CIO仍看多科技与美股，淡化Alphabet疲弱财报",
-      "url": "https://www.youtube.com/watch?v=QLzCRndogB0",
-      "published_at": "2026-10-29T14:00:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "花旗财富首席投资官Kate Moore在Alphabet搜索与广告收入令人失望的财报后，仍表示看多科技板块与美国经济。她还就美联储维持利率不变作出回应，并强调网络安全支出的重要性。",
-      "summary_en": "Citi Wealth Chief Investment Officer Kate Moore remains bullish on tech and the US economy despite Alphabet's disappointing search and advertising results. She also reacts to the Fed holding rates steady and stresses the importance of cybersecurity spending.",
-      "detail_zh": "花旗财富首席投资官Kate Moore表示，尽管Alphabet公布的搜索与广告销售业绩令人失望，她仍对科技板块和美国经济持看多立场。她同时就美联储维持利率不变的决定作出回应。Moore还强调了网络安全支出的重要性。原文未披露其对Alphabet的具体估值判断、目标价或仓位建议，也未给出美联储政策路径的细节预测。",
-      "detail_en": "Citi Wealth Chief Investment Officer Kate Moore said she remains bullish on tech and the US economy even after Alphabet reported disappointing results for search and advertising sales. She also reacted to the Federal Reserve leaving rates unchanged. Moore additionally highlighted the importance of spending on cybersecurity. The source does not disclose her specific valuation view, price target or position recommendation on Alphabet, nor detailed forecasts on the Fed's policy path.",
-      "conclusion_zh": "在大型科技股财报分化的背景下，买方观点仍倾向维持科技与美国经济的看多立场，并关注网络安全支出主题。",
-      "conclusion_en": "Amid mixed mega-cap tech earnings, the buy-side view still leans toward staying bullish on tech and the US economy, with attention on the cybersecurity spending theme.",
-      "key_points": [
-        {
-          "zh": "花旗财富CIO Kate Moore在Alphabet搜索与广告收入令人失望后仍看多科技板块。",
-          "en": "Citi Wealth CIO Kate Moore stays bullish on tech despite Alphabet's disappointing search and advertising sales."
-        },
-        {
-          "zh": "Moore同样表示看好美国经济。",
-          "en": "Moore also says she is bullish on the US economy."
-        },
-        {
-          "zh": "她对美联储维持利率不变作出回应。",
-          "en": "She reacts to the Fed leaving rates unchanged."
-        },
-        {
-          "zh": "她强调网络安全支出的重要性。",
-          "en": "She stresses the importance of spending on cybersecurity."
-        }
-      ],
-      "tags": [
-        "tech",
-        "US economy",
-        "Fed",
-        "cybersecurity",
-        "Alphabet"
-      ],
-      "tickers": [
-        "GOOGL"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:x6-PQBktIwQ",
-      "title": "The 'Socialist' Bank Thriving In Trump Country",
-      "title_zh": "北达科他州立银行模式：用公共银行救助煤电厂并押注AI数据中心",
-      "url": "https://www.youtube.com/watch?v=x6-PQBktIwQ",
-      "published_at": "2026-10-29T14:00:29+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "CNBC报道北达科他州唯一州立银行（Bank of North Dakota）通过购买1.5亿美元债券等方式，协助Rainbow Energy Center收购原本面临关闭的Coal Creek煤电厂，保住600多个工作岗位。该厂拥有数十年褐煤储量，计划建设430MW数据中心用于AI和超级智能。该银行以最大化税收资金公共效益而非利润为目标，资产达106亿美元，存款由州政府全额信用担保，累计向州一般基金贡献近19亿美元。",
-      "summary_en": "CNBC reports that North Dakota's state-owned Bank of North Dakota helped Rainbow Energy Center acquire the previously slated-to-close Coal Creek coal plant, including by purchasing $150 million in bonds, preserving over 600 jobs. The plant sits atop decades of lignite reserves and plans 430MW of data centers for AI and superintelligence. The bank aims to maximize public benefit from tax dollars rather than profit, holds $10.6 billion in assets, guarantees deposits with the state's full faith and credit, and has contributed nearly $1.9 billion to the state general fund over its lifetime.",
-      "detail_zh": "Coal Creek Station是北达科他州的大型煤电厂，为明尼苏达州约170万人口供电，五年前原计划关闭，影响600多个工作岗位。2022年，Rainbow Energy Center在北达科他州立银行协助下收购该厂；该行通过州基础设施当局购买了1.5亿美元债券，交易还包含传统贷款、利率买降和赠款。Rainbow Energy Center CEO Stacey Snider表示，公司拥有约4.5万至5万英亩土地，计划在该地点建设430MW数据中心，为AI和超级智能供电。该行成立于1900年代初社会主义民粹运动时期，由农民为对抗明尼阿波利斯和芝加哥大银行的利率与运费而创立，是美国仅存的州立银行。它不维持联邦存款保险，而是由北达科他州全额信用担保存款；居民可以50美元开户。截至2026年6月，该行报告资产106亿美元，累计向州一般基金贡献近19亿美元，帮助州维持稳健财政和较低税率。该行还以0%利率为西奥多·罗斯福总统图书馆提供7000万美元信贷额度。报道指出，该行治理涉及州长、立法机构和工业委员会，政治因素不可避免，但支持者认为治理框架是其存续107年的关键。马萨诸塞州和华盛顿州正在考虑效仿。",
-      "detail_en": "Coal Creek Station is a large coal-fired power plant in North Dakota that supplies electricity to about 1.7 million people in Minnesota and was slated to close five years ago, putting over 600 jobs at risk. In 2022, Rainbow Energy Center bought the plant with assistance from the Bank of North Dakota, which purchased $150 million in bonds from a state infrastructure authority; the deal also included traditional lending, interest rate buy-downs, and grants. Rainbow Energy Center CEO Stacey Snider said the company owns approximately 45,000 to 50,000 acres and plans 430MW of data centers at the site to power AI and superintelligence. The bank was founded during the early 1900s socialist populist movement, when wheat farmers formed the Nonpartisan League to fight high interest rates and shipping rates from big banks in Minneapolis and Chicago; it is the only state-owned bank left in the union. It does not maintain federal deposit insurance; instead, 100% of deposits are guaranteed by the full faith and credit of North Dakota, and residents can open accounts with as little as $50. As of June 2026, the bank reported $10.6 billion in assets and has contributed almost $1.9 billion to the state general fund over its lifetime, helping maintain a strong fiscal footing and relatively low state tax rates. It also provided a $70 million line of credit at a 0% interest rate to the Theodore Roosevelt Presidential Library. The report notes the bank's governance involves the governor, legislature, and an industrial commission, making politics unavoidable, but supporters credit the governance framework for its 107-year survival. Massachusetts and Washington state are considering copying the model.",
-      "conclusion_zh": "北达科他州立银行案例显示，公共银行可通过逆周期融资支持传统能源资产转型并撬动AI数据中心投资，但其政治治理风险与存款保险替代机制值得关注。",
-      "conclusion_en": "The Bank of North Dakota case shows how a public bank can provide countercyclical financing to support legacy energy asset transitions and catalyze AI data center investment, though political governance risks and its alternative to deposit insurance warrant attention.",
-      "key_points": [
-        {
-          "zh": "北达科他州立银行通过购买1.5亿美元债券协助Rainbow Energy Center收购Coal Creek煤电厂，保住600多个工作岗位。",
-          "en": "The Bank of North Dakota helped Rainbow Energy Center acquire the Coal Creek coal plant, including by purchasing $150 million in bonds, preserving over 600 jobs."
-        },
-        {
-          "zh": "该厂拥有数十年褐煤储量，计划建设430MW数据中心，为AI和超级智能提供电力。",
-          "en": "The plant sits atop decades of lignite reserves and plans 430MW of data centers to power AI and superintelligence."
-        },
-        {
-          "zh": "该行以最大化税收资金的公共效益为目标，而非利润最大化，资产达106亿美元，存款由州政府全额信用担保。",
-          "en": "The bank aims to maximize public benefit from tax dollars rather than profit, holds $10.6 billion in assets, and guarantees deposits with the state's full faith and credit."
-        },
-        {
-          "zh": "该行累计向州一般基金贡献近19亿美元，帮助州维持稳健财政和较低税率。",
-          "en": "The bank has contributed nearly $1.9 billion to the state general fund over its lifetime, helping maintain a strong fiscal footing and relatively low tax rates."
-        },
-        {
-          "zh": "马萨诸塞州和华盛顿州正在考虑效仿北达科他州立银行模式。",
-          "en": "Massachusetts and Washington state are considering copying the Bank of North Dakota model."
-        }
-      ],
-      "tags": [
-        "public bank",
-        "coal plant",
-        "AI data centers",
-        "North Dakota",
-        "energy transition"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:GisQE6cJh8Q",
-      "title": "Bullard Backs Fed Leaving Rates Unchanged",
-      "title_zh": "前圣路易斯联储主席布拉德：FOMC维持利率不变是正确之举",
-      "url": "https://www.youtube.com/watch?v=GisQE6cJh8Q",
-      "published_at": "2026-10-29T13:48:49+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前圣路易斯联储主席詹姆斯·布拉德表示，FOMC维持利率不变的决定是正确的，并谈及主席凯文·沃什后续可能采取的行动。",
-      "summary_en": "Former St. Louis Fed President James Bullard says the FOMC was right to leave interest rates unchanged, and discusses what Chairman Kevin Warsh could do next.",
-      "detail_zh": "前圣路易斯联储主席詹姆斯·布拉德在“Bloomberg Surveillance”节目中表示，FOMC维持利率不变的决定是正确的。他同时谈及美联储主席凯文·沃什接下来可能采取的行动。原文未提供布拉德对具体政策路径、经济数据或市场影响的进一步阐述。",
-      "detail_en": "Former St. Louis Fed President James Bullard said on \"Bloomberg Surveillance\" that the FOMC was right to leave interest rates unchanged. He also spoke about what Chairman Kevin Warsh could do next. The source does not provide further details on Bullard's views regarding the policy path, economic data, or market implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "布拉德认为FOMC维持利率不变是正确的。",
-          "en": "Bullard says the FOMC was right to leave rates unchanged."
-        },
-        {
-          "zh": "布拉德谈及主席凯文·沃什后续可能采取的行动。",
-          "en": "Bullard discusses what Chairman Kevin Warsh could do next."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "FOMC",
-        "interest rates",
-        "monetary policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:24L2Z1quzLQ",
-      "title": "Apple’s Folding iPhone Hit by Early Complaints of Screen Cracking",
-      "title_zh": "苹果折叠屏iPhone Duo上市数日即遭屏幕开裂投诉",
-      "url": "https://www.youtube.com/watch?v=24L2Z1quzLQ",
-      "published_at": "2026-10-29T13:32:01+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "苹果折叠屏iPhone Duo在上市仅数日后便出现屏幕开裂的早期投诉。Dana Wollman在彭博电视节目中对此进行了说明。",
-      "summary_en": "Apple's folding iPhone Duo is facing early complaints of cracked screens just days after its launch, as explained by Dana Wollman on Bloomberg Television.",
-      "detail_zh": "苹果新款折叠屏手机iPhone Duo在上市仅数日后，便遭遇了屏幕开裂的早期用户投诉。彭博的Dana Wollman就此事进行了说明。原文未披露投诉的具体数量、涉及机型批次、开裂原因或苹果方面的回应，也未提供任何财务或股价影响的数据。该事件属于产品上市初期的质量反馈，后续进展有待观察。",
-      "detail_en": "Apple's new folding iPhone Duo has drawn early complaints of cracked screens just days after its launch. Dana Wollman of Bloomberg provided commentary on the matter. The source does not disclose the number of complaints, affected batches, the cause of the cracking, or any response from Apple, nor does it provide financial or stock-price impact data. The issue is an early product-quality feedback following launch, and further developments remain to be seen.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "苹果折叠屏iPhone Duo上市数日后出现屏幕开裂投诉",
-          "en": "Apple's folding iPhone Duo faces cracked-screen complaints days after launch"
-        },
-        {
-          "zh": "彭博的Dana Wollman对此进行了说明",
-          "en": "Bloomberg's Dana Wollman provided commentary on the issue"
-        },
-        {
-          "zh": "原文未披露投诉规模、原因或苹果回应",
-          "en": "The source does not disclose the scale of complaints, cause, or Apple's response"
-        }
-      ],
-      "tags": [
-        "Apple",
-        "foldable iPhone",
-        "product quality",
-        "consumer tech"
-      ],
-      "tickers": [
-        "AAPL"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:Q2ZyA1ChPyA",
-      "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
-      "title_zh": "Alphabet第三季度多数核心业务销售令人失望，加剧AI支出担忧",
-      "url": "https://www.youtube.com/watch?v=Q2ZyA1ChPyA",
-      "published_at": "2026-10-29T13:31:53+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Alphabet第三季度多数核心业务销售表现不佳，加剧了投资者对公司在人工智能领域巨额支出的担忧。",
-      "summary_en": "Alphabet reported disappointing sales from most of its core businesses in the third quarter, escalating investor concerns about its massive AI spending.",
-      "detail_zh": "Alphabet第三季度财报显示，其多数核心业务的销售表现令人失望。这一业绩加剧了投资者对公司数百亿美元人工智能投入的担忧。彭博的Ed Ludlow对此进行了报道。原文未提供具体财务数据或管理层评论。",
-      "detail_en": "Alphabet's third-quarter results showed disappointing sales from most of its core businesses. The performance escalated investor concerns about the company's tens of billions of dollars in AI spending. Bloomberg's Ed Ludlow reported. The original text does not provide specific financial figures or management commentary.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Alphabet第三季度多数核心业务销售令人失望",
-          "en": "Alphabet's Q3 sales from most core businesses were disappointing"
-        },
-        {
-          "zh": "业绩加剧了投资者对公司在AI领域巨额支出的担忧",
-          "en": "Results escalated investor concerns about the company's massive AI spending"
-        },
-        {
-          "zh": "报道由彭博的Ed Ludlow提供",
-          "en": "Reported by Bloomberg's Ed Ludlow"
-        }
-      ],
-      "tags": [
-        "Alphabet",
-        "Q3 earnings",
-        "AI spending",
-        "sales miss"
-      ],
-      "tickers": [
-        "GOOGL"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:-2MwauLwusk",
-      "title": "Accomplishment vs. Enjoyment | Ray Dalio",
-      "title_zh": "关于成就与享受生活的平衡",
-      "url": "https://www.youtube.com/watch?v=-2MwauLwusk",
-      "published_at": "2026-10-29T13:21:31+00:00",
-      "source_name": "Principles by Ray Dalio",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "原文讨论人生中成就与享受生活之间的选择，认为最有效的方式是让两者对齐，将工作与热情合二为一。内容不涉及具体投资标的或市场观点。",
-      "summary_en": "The original text discusses the choice between accomplishment and savoring life, suggesting that the most effective approach is to align the two and make work and passion one and the same. It contains no specific investment targets or market views.",
-      "detail_zh": "原文围绕人生中“成就与影响”和“享受生活”之间的选择展开。发言者指出，人生有许多重大选择，其中之一便是成就与享受生活之间的取舍。享受生活意味着闻玫瑰花香、珍惜美好时刻、与所爱之人共度时光；而另一面则是成就与影响。发言者认为，人需要发现自己处于何种位置以及如何应对这类选择。最有效的方式是让两者对齐，即让工作与热情成为同一件事。",
-      "detail_en": "The original text centers on the choice between 'accomplishment and impact' and 'savoring life.' The speaker notes that life has many big choices, one of which is the trade-off between accomplishment and savoring life. Savoring life means smelling the roses, appreciating a beautiful day or moment, and spending time with loved ones; the other side is accomplishment and impact. The speaker believes one must discover where one stands and how to deal with such choices. The most effective approach is where they align—making work and passion one and the same.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "人生中的重大选择之一是成就与享受生活之间的取舍。",
-          "en": "One of life's big choices is the trade-off between accomplishment and savoring life."
-        },
-        {
-          "zh": "享受生活包括珍惜当下、与所爱之人共度时光。",
-          "en": "Savoring life includes appreciating the moment and spending time with loved ones."
-        },
-        {
-          "zh": "最有效的方式是让成就与享受生活对齐。",
-          "en": "The most effective approach is to align accomplishment and savoring life."
-        },
-        {
-          "zh": "让工作与热情合二为一被认为是关键。",
-          "en": "Making work and passion one and the same is seen as key."
-        }
-      ],
-      "tags": [
-        "life-balance",
-        "personal-development",
-        "philosophy"
       ],
       "tickers": [],
       "sentiment": "neutral"
