@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T03:15:15.178248+00:00",
+  "generated_at": "2026-11-05T05:13:37.460765+00:00",
   "insights": [
     {
       "guid": "yt:O8nINARvaTI",
@@ -17290,59 +17290,6 @@
         "proxy trades"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:SbYYzij9veA",
-      "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
-      "title_zh": "科技财报分化：Alphabet逊于预期，Azure强劲，美联储按兵不动",
-      "url": "https://www.youtube.com/watch?v=SbYYzij9veA",
-      "published_at": "2026-10-29T05:13:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Alphabet第三季度财报不及预期导致股价下挫，而微软Azure收入因AI需求增长48%。美联储如预期维持利率不变，但Warsh暗示更多加息。三星第三季度净利润75.21万亿韩元，低于预期，并计划派发30万亿韩元现金股息。",
-      "summary_en": "Alphabet shares fell after missing 3Q earnings expectations, while Microsoft Azure revenue jumped 48% on AI demand. The Fed held rates steady as expected, but Warsh signaled more hikes without saying it. Samsung's 3Q net profit came in at 75.21 trillion won, below estimates, and it plans a 30 trillion won cash dividend.",
-      "detail_zh": "Alphabet第三季度财报不及预期，股价大幅下跌。微软Azure收入因AI需求增长48%，表现强劲。美联储如市场预期维持利率不变，但Warsh的言论暗示可能进一步加息。三星电子第三季度净利润为75.21万亿韩元，低于市场预期的89.06万亿韩元，同时公司计划第三季度派发30万亿韩元现金股息。此外，甲骨文预计到2029财年将实现正自由现金流。日本和韩国市场开盘，交易员关注三星财报及科技股财报表现。地缘政治方面，内塔尼亚胡阵营在主要反对党之前崛起。",
-      "detail_en": "Alphabet shares tumbled after its 3Q earnings missed expectations. Microsoft Azure revenue jumped 48% on AI demand, showing strength. The Fed held rates steady as expected, but Warsh's remarks signaled possible further hikes. Samsung Electronics reported 3Q net profit of 75.21 trillion won, below the estimated 89.06 trillion won, and plans a 30 trillion won cash dividend for the quarter. Additionally, Oracle expects positive free cash flow by FY2029. Markets opened in Japan and South Korea, with traders focusing on Samsung's earnings and mixed tech earnings. On geopolitics, Netanyahu's bloc is set to emerge ahead of the main opposition.",
-      "conclusion_zh": "科技股财报表现分化，AI需求继续驱动微软增长，而Alphabet令人失望；美联储政策信号偏向鹰派，投资者需关注后续加息风险。",
-      "conclusion_en": "Tech earnings are mixed, with AI demand driving Microsoft while Alphabet disappoints; the Fed's hawkish signal suggests investors should watch for further rate hike risks.",
-      "key_points": [
-        {
-          "zh": "Alphabet第三季度财报不及预期，股价下跌。",
-          "en": "Alphabet's 3Q earnings missed expectations, dragging shares lower."
-        },
-        {
-          "zh": "微软Azure收入因AI需求增长48%。",
-          "en": "Microsoft Azure revenue jumped 48% on AI demand."
-        },
-        {
-          "zh": "美联储维持利率不变，但Warsh暗示更多加息。",
-          "en": "The Fed held rates steady, but Warsh signaled more hikes."
-        },
-        {
-          "zh": "三星第三季度净利润75.21万亿韩元，低于预期，计划派发30万亿韩元股息。",
-          "en": "Samsung's 3Q net profit was 75.21 trillion won, below estimates, with a planned 30 trillion won dividend."
-        },
-        {
-          "zh": "甲骨文预计2029财年实现正自由现金流。",
-          "en": "Oracle expects positive free cash flow by FY2029."
-        }
-      ],
-      "tags": [
-        "earnings",
-        "Fed",
-        "AI",
-        "tech",
-        "Samsung"
-      ],
-      "tickers": [
-        "GOOGL",
-        "MSFT",
-        "ORCL"
-      ],
       "sentiment": "neutral"
     }
   ]
