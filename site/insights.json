@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:22:02.535973+00:00",
+  "generated_at": "2026-11-05T07:14:06.443253+00:00",
   "insights": [
     {
       "guid": "yt:O8nINARvaTI",
@@ -17069,51 +17069,6 @@
         "MSFT",
         "UMC"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:FvK4h03xvR0",
-      "title": "Traders Brace for China Earnings as Samsung Disappoints",
-      "title_zh": "三星三季度业绩不及预期，美联储维持利率不变",
-      "url": "https://www.youtube.com/watch?v=FvK4h03xvR0",
-      "published_at": "2026-10-29T06:40:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "三星电子三季度业绩低于预期，拖累亚洲科技股表现，但公司称2027年HBM供应量已售罄。美联储维持利率不变，并表示将等待更多数据以决定12月政策。",
-      "summary_en": "Samsung's 3Q earnings missed estimates, weighing on Asian tech stocks, though the company said its 2027 HBM supply volume is sold out. The Fed held rates steady and said more data will help its December decision.",
-      "detail_zh": "本期节目聚焦三星电子三季度业绩不及预期，该消息拖累亚洲科技股。三星表示其2027年HBM（高带宽内存）供应量已售罄。美联储维持利率不变，并称更多数据将有助于12月的决策；Franklin Templeton Institute的Larry Hatheway讨论了美联储利率路径。投资者消化一系列中国财报，比亚迪空头头寸在第三季度财报前降至七个月低点。CLSA的Sanjeev Rana分析了三星业绩不及预期的影响。此外，恒基兆业的Andrew Fung讨论了Central Yards开发项目，腾讯的Dowson Tong探讨了“漏水的AI”战略，Race Capital的Alfred Chuang讨论了AI建设机会。",
-      "detail_en": "The program focuses on Samsung's 3Q earnings miss, which dented Asian tech stocks. Samsung said its 2027 HBM supply volume is sold out. The Fed held rates steady and said more data will help its December decision; Larry Hatheway of Franklin Templeton Institute discussed the Fed's rate path. Investors digested a wave of Chinese earnings, and BYD short interest fell to a seven-month low ahead of its 3Q earnings. CLSA's Sanjeev Rana analyzed Samsung's earnings miss. Additionally, Henderson Land's Andrew Fung discussed the Central Yards development, Tencent's Dowson Tong addressed the 'leaky AI' strategy, and Race Capital's Alfred Chuang discussed AI buildout opportunities.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "三星电子三季度业绩不及预期，拖累亚洲科技股。",
-          "en": "Samsung's 3Q earnings missed estimates, weighing on Asian tech stocks."
-        },
-        {
-          "zh": "三星表示2027年HBM供应量已售罄。",
-          "en": "Samsung said its 2027 HBM supply volume is sold out."
-        },
-        {
-          "zh": "美联储维持利率不变，称更多数据将有助于12月决策。",
-          "en": "The Fed held rates steady, saying more data will help its December decision."
-        },
-        {
-          "zh": "比亚迪空头头寸在第三季度财报前降至七个月低点。",
-          "en": "BYD short interest fell to a seven-month low ahead of its 3Q earnings."
-        }
-      ],
-      "tags": [
-        "Samsung",
-        "Fed",
-        "HBM",
-        "China earnings",
-        "AI"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
