@@ -1,6 +1,505 @@
 {
-  "generated_at": "2026-11-05T15:15:28.125318+00:00",
+  "generated_at": "2026-11-05T16:19:52.632615+00:00",
   "insights": [
+    {
+      "guid": "yt:78SSeOZR-EI",
+      "title": "Chipmakers Selloff Leads Nasdaq 100 Down 5%",
+      "title_zh": "芯片股抛售拖累纳指早盘跌5%，民主党横扫国会引发监管担忧",
+      "url": "https://www.youtube.com/watch?v=78SSeOZR-EI",
+      "published_at": "2026-11-05T15:57:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt就周四芯片股抛售导致纳指100早盘下跌5%发表评论。部分投资者担忧民主党横扫国会可能带来更严格的监管。",
+      "summary_en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, commented on Thursday's chipmaker selloff that pulled the Nasdaq 100 down 5% in early trading. Some investors worry a Democratic sweep of Congress could mean tighter regulation.",
+      "detail_zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt在“Bloomberg Open Interest”节目中，对周四芯片股抛售作出反应。此次抛售导致纳斯达克100指数早盘下跌5%。部分投资者担心，如果民主党横扫国会，可能会实施更严格的监管。Hunt的评论围绕这一市场动态展开，但原文未提供她对监管风险的具体分析或后市判断。",
+      "detail_en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, reacted on \"Bloomberg Open Interest\" to Thursday's chipmaker selloff, which pulled the Nasdaq 100 down 5% in early trading. Some investors are worried that a Democratic sweep of Congress could mean tighter regulation. Hunt's comments centered on this market development, but the source does not provide her specific analysis of regulatory risks or her outlook.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "周四芯片股遭抛售，纳斯达克100指数早盘下跌5%。",
+          "en": "Chipmakers sold off on Thursday, pulling the Nasdaq 100 down 5% in early trading."
+        },
+        {
+          "zh": "部分投资者担忧民主党横扫国会可能导致更严格的监管。",
+          "en": "Some investors worry a Democratic sweep of Congress could mean tighter regulation."
+        },
+        {
+          "zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt在Bloomberg节目中评论了此次抛售。",
+          "en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, commented on the selloff on Bloomberg."
+        }
+      ],
+      "tags": [
+        "chipmaker selloff",
+        "Nasdaq 100",
+        "Democratic sweep",
+        "regulation"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:ERDQencxiVs",
+      "title": "How Aaru Uses Advanced AI Simulations to Predict Human Behavior",
+      "title_zh": "高盛播客：Aaru用多智能体AI模拟预测消费者决策",
+      "url": "https://www.youtube.com/watch?v=ERDQencxiVs",
+      "published_at": "2026-11-05T15:49:55+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "tech"
+      ],
+      "summary_zh": "高盛播客对话Aaru联合创始人，介绍这家估值10亿美元的初创公司如何利用多智能体AI模拟预测人类决策，以克服传统消费者调研的局限，并探讨其在零售、金融服务和公用事业等领域的企业应用。",
+      "summary_en": "Goldman Sachs podcast interviews Aaru's co-founders about how the $1 billion-valued startup uses multi-agent AI simulations to predict human decision-making, overcoming traditional consumer polling limitations, and explores enterprise applications in retail, financial services, and utilities.",
+      "detail_zh": "高盛首席信息官Marco Argenti主持的播客中，Aaru联合创始人兼CEO Cam Fink与联合创始人兼总裁Ned Koh讨论了公司的创立故事。Aaru成立两年半，估值10亿美元，通过部署多智能体AI模拟来预测人类如何做出决策，从而重新定义市场研究和消费者情报。他们表示，先进的行为模拟能够克服传统消费者民意调查的局限性。对话还探讨了这种预测性模拟在零售、金融服务和公用事业等领域的实际企业应用，这些应用正推动Aaru快速崛起。该期节目录制于2026年7月22日。",
+      "detail_en": "In a Goldman Sachs podcast hosted by CIO Marco Argenti, Aaru co-founder and CEO Cam Fink and co-founder and president Ned Koh discuss the company's founding story. Aaru, a two-and-a-half-year-old startup valued at $1 billion, is redefining market research and consumer intelligence by deploying multi-agent AI simulations to predict how humans will make decisions. They say advanced behavioral simulation overcomes the limitations of traditional consumer polling. The conversation also explores real-world enterprise applications of such predictive simulations across retail, financial services, and utilities, which are driving Aaru's rapid rise. The episode was recorded on July 22, 2026.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Aaru成立两年半，估值达10亿美元，利用多智能体AI模拟预测人类决策。",
+          "en": "Aaru, a two-and-a-half-year-old startup valued at $1 billion, uses multi-agent AI simulations to predict human decision-making."
+        },
+        {
+          "zh": "公司旨在重新定义市场研究和消费者情报，克服传统消费者民意调查的局限。",
+          "en": "The company aims to redefine market research and consumer intelligence, overcoming the limitations of traditional consumer polling."
+        },
+        {
+          "zh": "预测性模拟在零售、金融服务和公用事业等领域有实际企业应用，推动Aaru快速崛起。",
+          "en": "Predictive simulations have real-world enterprise applications in retail, financial services, and utilities, driving Aaru's rapid rise."
+        },
+        {
+          "zh": "高盛首席信息官Marco Argenti主持对话，联合创始人Cam Fink和Ned Koh分享创立故事。",
+          "en": "Goldman Sachs CIO Marco Argenti hosts the conversation with co-founders Cam Fink and Ned Koh, who share the founding story."
+        }
+      ],
+      "tags": [
+        "AI",
+        "market research",
+        "consumer intelligence",
+        "startup"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:0nmE44usc5I",
+      "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
+      "title_zh": "Yardeni：10年期美债收益率约5%具吸引力，未来24个月看好纳指100",
+      "url": "https://www.youtube.com/watch?v=0nmE44usc5I",
+      "published_at": "2026-11-05T15:47:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Yardeni Research总裁Ed Yardeni认为，在通胀预期降温的背景下，10年期美债收益率处于5%左右“非常有吸引力”。他还表示，未来24个月纳指100是其偏好的资产。",
+      "summary_en": "Ed Yardeni, President of Yardeni Research, says US 10-year Treasury yields look \"very attractive\" at around 5% with inflation expected to cool. He also says the Nasdaq 100 is his preferred asset for the next 24 months.",
+      "detail_zh": "Yardeni Research总裁Ed Yardeni在彭博“Insight with Haslinda Amin”节目中表示，随着通胀预期降温，10年期美债收益率在5%左右“非常有吸引力”。他同时指出，未来24个月纳指100是其偏好的资产。原文未提供更多关于通胀路径、收益率走势或纳指100看多逻辑的细节。",
+      "detail_en": "Ed Yardeni, President of Yardeni Research, told Bloomberg's \"Insight with Haslinda Amin\" that US 10-year Treasury yields look \"very attractive\" at around the 5% level with inflation expected to cool. He also said the Nasdaq 100 is his preferred asset for the next 24 months. The source does not provide further details on the inflation path, yield outlook, or the rationale behind his preference for the Nasdaq 100.",
+      "conclusion_zh": "Yardeni对美债和纳指100均持积极看法，但原文未展开具体逻辑，投资者需结合更多信息判断。",
+      "conclusion_en": "Yardeni is positive on both US Treasuries and the Nasdaq 100, though the source does not elaborate on the rationale; investors should seek further information.",
+      "key_points": [
+        {
+          "zh": "Yardeni认为10年期美债收益率在5%左右“非常有吸引力”，前提是通胀预期降温。",
+          "en": "Yardeni sees US 10-year Treasury yields as \"very attractive\" at around 5%, with inflation expected to cool."
+        },
+        {
+          "zh": "未来24个月，纳指100是Yardeni偏好的资产。",
+          "en": "The Nasdaq 100 is Yardeni's preferred asset for the next 24 months."
+        }
+      ],
+      "tags": [
+        "Treasury yields",
+        "Nasdaq 100",
+        "inflation",
+        "asset allocation"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:UwG3VaBJ52M",
+      "title": "Three Signals for a Market Turning Point | Thoughts on the Market",
+      "title_zh": "摩根士丹利：美股调整进入尾声，需待三大出清事件",
+      "url": "https://www.youtube.com/watch?v=UwG3VaBJ52M",
+      "published_at": "2026-11-05T15:43:02+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "摩根士丹利首席美股策略师Mike Wilson表示，始于四个月前的调整已进入最后阶段，市场需经历三个“出清事件”后才能重启牛市，并延续至2027年。他同时指出，一年前从衰退中开启的早期周期复苏曾令早周期周期股大幅跑赢。",
+      "summary_en": "Morgan Stanley CIO and Chief US Equity Strategist Mike Wilson says the correction that began four months ago is in its final stages. He identifies three \"clearing events\" that must be passed before the bull market resumes into 2027, noting that the early-cycle recovery from the recession a year ago had driven strong outperformance in early-cycle cyclicals.",
+      "detail_zh": "摩根士丹利首席投资官兼美国股票策略师Mike Wilson在《Thoughts on the Market》中讨论了市场调整的深度问题。他回顾称，一年前市场从衰退中开启早期周期复苏，这一阶段早周期周期股表现显著领先。Wilson认为，当前这轮始于四个月前的调整已进入最后阶段。他表示，市场需要经历并跨越三个“出清事件”，此后牛市将重新启动并延续至2027年。他未在原文中具体说明这三个事件的内容，但邀请听众关注《Thoughts on the Market》以获取其对调整结束信号的详细观点。",
+      "detail_en": "In the \"Thoughts on the Market\" podcast, Morgan Stanley CIO and Chief US Equity Strategist Mike Wilson discussed how deep the market correction needs to go. He recalled that the early-cycle recovery from the recession a year ago led to significant outperformance by early-cycle cyclical stocks. Wilson believes the correction that began four months ago is now in its final stages. He said there are three \"clearing events\" that need to be passed, after which the bull market will resume into 2027. He did not specify those events in the excerpt, but directed listeners to \"Thoughts on the Market\" for more on his views and the signals to watch for the end of the correction.",
+      "conclusion_zh": "Wilson判断当前调整接近尾声，但牛市重启的前提是三个“出清事件”落地，投资者应关注这些信号而非单纯等待时间。",
+      "conclusion_en": "Wilson sees the correction nearing its end, but a bull market resumption hinges on three \"clearing events\"; investors should watch for those signals rather than simply waiting for time to pass.",
+      "key_points": [
+        {
+          "zh": "调整始于四个月前，Wilson认为已进入最后阶段。",
+          "en": "The correction began four months ago and Wilson believes it is in its final stages."
+        },
+        {
+          "zh": "市场需跨越三个“出清事件”，牛市才能重启。",
+          "en": "Three \"clearing events\" must be passed before the bull market resumes."
+        },
+        {
+          "zh": "Wilson预计牛市将延续至2027年。",
+          "en": "Wilson expects the bull market to resume and run into 2027."
+        },
+        {
+          "zh": "一年前从衰退中开启的早期周期复苏曾令早周期周期股大幅跑赢。",
+          "en": "The early-cycle recovery from the recession a year ago drove strong outperformance in early-cycle cyclicals."
+        }
+      ],
+      "tags": [
+        "market correction",
+        "Morgan Stanley",
+        "bull market",
+        "clearing events",
+        "early-cycle cyclicals"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:WFjsmBYZKoo",
+      "title": "Ed Yardeni Says 5% Treasury Yields Now Attractive",
+      "title_zh": "Yardeni：5%收益率的美债具吸引力，但长期仍看好股票",
+      "url": "https://www.youtube.com/watch?v=WFjsmBYZKoo",
+      "published_at": "2026-11-05T15:26:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Yardeni Research总裁Ed Yardeni认为，10年期美债收益率约5%提供了有吸引力的实际回报，因生产率提升有望抑制通胀。他预计未来十年债券票息将跑赢通胀，但长期而言股票仍将优于债券。",
+      "summary_en": "Yardeni Research President Ed Yardeni argues that 10-year Treasuries yielding around 5% offer an attractive real return, driven by expectations that productivity gains will keep inflation contained. He expects bond coupons to outpace inflation over the next decade, but maintains that stocks will continue to outperform bonds over the long term.",
+      "detail_zh": "Yardeni Research总裁Ed Yardeni表示，10年期美国国债收益率处于约5%的水平，提供了具吸引力的实际回报。这一判断基于他对生产率提升将抑制通胀的预期。他预计未来十年债券票息将跑赢通胀。尽管如此，Yardeni仍坚持认为，长期来看股票表现将继续优于债券。",
+      "detail_en": "Yardeni Research President Ed Yardeni says that 10-year Treasuries yielding around 5% offer an attractive real return. This view is driven by his expectation that productivity gains will keep inflation contained. He expects bond coupons to outpace inflation over the next decade. Nevertheless, Yardeni maintains that stocks will continue to outperform bonds over the long term.",
+      "conclusion_zh": "Yardeni认为5%的美债收益率具吸引力，但长期仍偏好股票，投资者可关注债市实际回报与股市的相对表现。",
+      "conclusion_en": "Yardeni sees 5% Treasury yields as attractive, but remains bullish on stocks for the long term; investors may watch relative performance of bonds and equities.",
+      "key_points": [
+        {
+          "zh": "10年期美债收益率约5%提供有吸引力的实际回报",
+          "en": "10-year Treasury yields around 5% offer an attractive real return"
+        },
+        {
+          "zh": "生产率提升预计将抑制通胀",
+          "en": "Productivity gains are expected to keep inflation contained"
+        },
+        {
+          "zh": "未来十年债券票息预计将跑赢通胀",
+          "en": "Bond coupons are expected to outpace inflation over the next decade"
+        },
+        {
+          "zh": "长期而言股票仍将优于债券",
+          "en": "Stocks will continue to outperform bonds over the long term"
+        }
+      ],
+      "tags": [
+        "Treasuries",
+        "yields",
+        "inflation",
+        "productivity",
+        "equities"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:s38dEZnJQMc",
+      "title": "SocGen’s Kabra Sees the End of Derating Phase for S&P 500",
+      "title_zh": "法兴美国股票策略主管：中期选举后投资者可借鉴历史",
+      "url": "https://www.youtube.com/watch?v=s38dEZnJQMc",
+      "published_at": "2026-11-05T15:25:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "法兴美国股票策略主管 Manish Kabra 在彭博节目中表示，投资者可以借鉴历史经验来理解中期选举后的市场表现。",
+      "summary_en": "Manish Kabra, head of US equity strategy at Societe Generale, said on Bloomberg Surveillance that investors can lean into history for perspective on market performance following midterm elections.",
+      "detail_zh": "法兴美国股票策略主管 Manish Kabra 在彭博“Surveillance”节目中表示，投资者可以借鉴历史经验来理解中期选举后的市场表现。他未在原文中提供具体的历史数据、涨跌幅或板块判断。",
+      "detail_en": "Manish Kabra, head of US equity strategy at Societe Generale, said on Bloomberg Surveillance that investors can lean into history for perspective on market performance following midterm elections. The original text does not provide specific historical data, performance figures, or sector views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "法兴美国股票策略主管 Manish Kabra 认为，中期选举后的市场表现可参考历史经验。",
+          "en": "Manish Kabra of Societe Generale says history can offer perspective on post-midterm market performance."
+        },
+        {
+          "zh": "该观点来自彭博“Surveillance”节目，原文未提供具体数据或板块判断。",
+          "en": "The comment was made on Bloomberg Surveillance; no specific data or sector calls were provided in the source."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "US equities",
+        "market history"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:RClg-hF5jLM",
+      "title": "Republican Blame Game Begins After Midterm Meltdown",
+      "title_zh": "共和党中期选举溃败后与特朗普和伊朗战争切割",
+      "url": "https://www.youtube.com/watch?v=RClg-hF5jLM",
+      "published_at": "2026-11-05T15:25:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "副总统JD·万斯及其他知名共和党人迅速与特朗普总统及伊朗战争保持距离。共和党在中期选举中的溃败引发了一波主要指向白宫的相互指责。",
+      "summary_en": "Vice President JD Vance and other prominent Republicans quickly distanced themselves from President Donald Trump and the Iran war. The GOP's collapse in the midterm elections prompted a wave of finger-pointing largely aimed at the Oval Office.",
+      "detail_zh": "据彭博电视的Tyler Kendall报道，副总统JD·万斯及其他知名共和党人在中期选举后迅速与总统唐纳德·特朗普以及伊朗战争保持距离。共和党在中期选举中遭遇溃败，随后出现了一波相互指责，矛头主要指向白宫。报道未提供更多关于选举结果、伊朗战争细节或具体表态的进一步信息。",
+      "detail_en": "According to Tyler Kendall on Bloomberg Television, Vice President JD Vance and other prominent Republicans quickly distanced themselves from President Donald Trump and the Iran war following the midterm elections. The GOP's collapse in the midterms prompted a wave of finger-pointing largely aimed at the Oval Office. The report does not provide further details on the election results, the Iran war, or specific statements.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "副总统JD·万斯及其他知名共和党人与特朗普和伊朗战争保持距离",
+          "en": "Vice President JD Vance and other prominent Republicans distanced themselves from Trump and the Iran war"
+        },
+        {
+          "zh": "共和党在中期选举中溃败",
+          "en": "The GOP collapsed in the midterm elections"
+        },
+        {
+          "zh": "溃败后出现一波主要指向白宫的相互指责",
+          "en": "The collapse prompted a wave of finger-pointing largely aimed at the Oval Office"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "GOP",
+        "Trump",
+        "Iran war",
+        "political risk"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bEDm97tWViM",
+      "title": "BofA’s Cabana Says It’s Premature to Call End to Fed’s Hiking Cycle",
+      "title_zh": "美银策略师：市场低估美联储加息幅度，或需超过三次",
+      "url": "https://www.youtube.com/watch?v=bEDm97tWViM",
+      "published_at": "2026-11-05T15:20:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美银证券全球利率策略联席主管Mark Cabana认为，市场对美联储加息路径的定价存在偏差，他预计美联储可能需要加息超过三次。该观点来自其在Bloomberg Surveillance节目中的发言。",
+      "summary_en": "Mark Cabana, co-head of global rates strategy at BofA Securities, argues that markets are mispricing the Federal Reserve's rate-hike path, and he expects the Fed may need to go beyond three hikes. The view was expressed on Bloomberg Surveillance.",
+      "detail_zh": "美银证券全球利率策略联席主管Mark Cabana在Bloomberg Surveillance节目中表示，市场在定价美联储加息方面存在错误。他预计美联储可能需要加息超过三次。原文未披露其对具体加息幅度、时点或终端利率的进一步判断，也未提供支持该观点的详细论据。该判断对利率敏感型资产及美股估值环境具有直接含义，但原文信息有限，未展开风险细节。",
+      "detail_en": "Mark Cabana, co-head of global rates strategy at BofA Securities, said on Bloomberg Surveillance that markets are getting the pricing of Federal Reserve rate hikes wrong. He expects the Fed may potentially need to go beyond three hikes. The source does not disclose further specifics on the magnitude, timing, or terminal rate, nor detailed reasoning behind the view. The call has direct implications for rate-sensitive assets and the U.S. equity valuation backdrop, but the source provides limited detail on risks.",
+      "conclusion_zh": "若美银判断成立，加息路径超预期将压制利率敏感型美股估值，需关注利率定价的修正风险。",
+      "conclusion_en": "If BofA's call proves right, a steeper-than-expected hiking path would weigh on rate-sensitive U.S. equity valuations; watch for repricing risk in rates.",
+      "key_points": [
+        {
+          "zh": "美银证券Mark Cabana认为市场对美联储加息的定价有误",
+          "en": "BofA Securities' Mark Cabana says markets are mispricing Fed rate hikes"
+        },
+        {
+          "zh": "他预计美联储可能需要加息超过三次",
+          "en": "He expects the Fed may need to go beyond three hikes"
+        },
+        {
+          "zh": "观点来自Bloomberg Surveillance节目",
+          "en": "The view was expressed on Bloomberg Surveillance"
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate hikes",
+        "rates strategy",
+        "BofA"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:dKNiqW_BD-I",
+      "title": "US Jobless Claims Fall Below Estimates to 189,000",
+      "title_zh": "美国初请失业金人数降至18.9万，续请人数上升",
+      "url": "https://www.youtube.com/watch?v=dKNiqW_BD-I",
+      "published_at": "2026-11-05T15:19:56+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "上周美国初请失业金人数减少6,000至18.9万；截至10月31日当周续请失业金人数增加23,000。数据反映劳动力市场初请端仍偏紧，但续请端有所回升。",
+      "summary_en": "US initial jobless claims fell by 6,000 to 189,000 last week, while continuing claims rose by 23,000 in the week ending Oct. 31. The data suggest a still-tight layoff picture at the initial-claims level, with some pickup in continuing claims.",
+      "detail_zh": "据彭博电视报道，美国上周初请失业金人数减少6,000，降至189,000。截至10月31日当周，续请失业金人数增加23,000。初请人数下降表明裁员水平仍处低位，而续请人数上升则显示部分失业者再就业难度有所增加。该数据是评估美国劳动力市场状况的周度指标之一，可能影响市场对就业市场松紧程度的判断。",
+      "detail_en": "According to Bloomberg Television, US initial jobless claims fell by 6,000 to 189,000 last week. Continuing claims rose by 23,000 in the week ending Oct. 31. The decline in initial claims indicates layoffs remain low, while the rise in continuing claims suggests some unemployed workers are finding it harder to return to work. This weekly data is one of the indicators for assessing US labor market conditions and may influence market views on labor market tightness.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "上周初请失业金人数减少6,000至18.9万。",
+          "en": "Initial jobless claims fell by 6,000 to 189,000 last week."
+        },
+        {
+          "zh": "截至10月31日当周续请失业金人数增加23,000。",
+          "en": "Continuing claims rose by 23,000 in the week ending Oct. 31."
+        },
+        {
+          "zh": "初请下降显示裁员水平仍低，续请上升显示再就业难度有所增加。",
+          "en": "The drop in initial claims signals layoffs remain low, while the rise in continuing claims points to somewhat greater difficulty in reemployment."
+        }
+      ],
+      "tags": [
+        "jobless claims",
+        "labor market",
+        "US economy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:8NHChTJ28L4",
+      "title": "Qualcomm Shares Fall Most in Six Months After Weak Profit Forecast",
+      "title_zh": "高通业绩指引疲软，股价开盘重挫14%",
+      "url": "https://www.youtube.com/watch?v=8NHChTJ28L4",
+      "published_at": "2026-11-05T15:17:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "高通因利润指引不及预期，周四开盘股价下跌14%，若跌势维持至收盘，将是自2020年以来最差单日表现。",
+      "summary_en": "Qualcomm shares fell 14% at the open on Thursday after the company issued a lackluster profit forecast. If the decline holds through the close, it would be the stock's worst day since 2020.",
+      "detail_zh": "高通（Qualcomm）周四开盘股价下跌14%，此前公司发布的利润指引表现疲软。据彭博的Ryan Vlastelica报道，若该跌幅维持至收盘，这将是高通自2020年以来最差的单日表现。原文未提供具体的指引数字或下跌原因的其他细节。",
+      "detail_en": "Qualcomm shares dropped 14% at the open on Thursday after the company gave a lackluster profit forecast. According to Bloomberg's Ryan Vlastelica, if the decline holds through the close, it would be the stock's worst day since 2020. The original text does not provide specific guidance figures or further details on the cause of the decline.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "高通开盘下跌14%，因利润指引不及预期。",
+          "en": "Qualcomm fell 14% at the open due to a lackluster profit forecast."
+        },
+        {
+          "zh": "若跌幅维持至收盘，将是自2020年以来最差单日表现。",
+          "en": "If the decline holds, it would be the worst single-day performance since 2020."
+        }
+      ],
+      "tags": [
+        "Qualcomm",
+        "earnings",
+        "guidance",
+        "stock decline"
+      ],
+      "tickers": [
+        "QCOM"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:qxB2eeHud6Q",
+      "title": "The Less Water Data Centers Use, The More Power They Consume. Here’s Why",
+      "title_zh": "AI数据中心的水耗与能耗权衡：液冷并非零水耗",
+      "url": "https://www.youtube.com/watch?v=qxB2eeHud6Q",
+      "published_at": "2026-11-05T15:00:18+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "液冷技术提升了AI芯片散热效率，但数据中心整体水耗并未消失，热量排出环节仍需水或电。全美已有近1400个数据中心运营，超2000个规划中，71%受访者反对本地新建，水资源与电价成为关键制约。",
+      "summary_en": "Liquid cooling improves heat removal for AI chips, but data centers still consume water at the facility level to reject heat. With nearly 1,400 data centers operating and over 2,000 planned in the U.S., 71% of respondents oppose local construction, making water and power key constraints.",
+      "detail_zh": "在加州圣何塞的Equinix数据中心，Grace Blackwell机架采用液冷，每个机架含72个GPU，芯片在80°C下运行，需持续冷却。液冷闭环系统在服务器内部确实不耗水，但热量需通过外部冷却排出建筑，这一环节消耗水和电。干冷（使用环境空气）水耗最低但高温时需高耗电冷却单元；蒸发冷却水耗最高。Equinix 2025年全球运营耗水12亿加仑，同比增长10%，但未披露单个站点水耗。CoolIT为Nvidia和AMD提供液冷设备，于7月被Ecolab以47.5亿美元收购。AMD的Helios是Nvidia Vera Rubin和Grace Blackwell机架的唯一真正竞争对手，两者最新系统均设计为全液冷。大型数据中心日耗水可达500万加仑，相当于5万人口小城镇的用水量；一个1吉瓦站点峰值需800万加仑。全美已有近1400个数据中心运营，超2000个规划中，71%受访者反对本地新建，地方和州领导人暂停新项目，居民担心承担电水费率上升。",
+      "detail_en": "At an Equinix data center in San Jose, California, Grace Blackwell racks use liquid cooling, with each rack containing 72 GPUs running at 80°C and requiring continuous cooling. Closed-loop liquid cooling uses no water inside the server, but heat must be rejected from the building, which consumes water and power. Dry cooling (using ambient air) is least water-intensive but requires power-hungry cooling units at high temperatures; evaporative cooling is most water-intensive. Equinix consumed 1.2 billion gallons of water globally in 2025, up 10% from 2024, but does not disclose site-level water use. CoolIT supplies liquid cooling equipment to Nvidia and AMD and was acquired by Ecolab for $4.75 billion in July. AMD's Helios is the only real competitor to Nvidia's Vera Rubin and Grace Blackwell racks, and both companies designed their latest systems to be entirely liquid cooled. Large data centers can use up to 5 million gallons per day, equivalent to a small town of up to 50,000 people; a one-gigawatt site like Meta's in Lebanon, Indiana, needs up to 8 million gallons at peak. Nearly 1,400 data centers are operating in the U.S. with over 2,000 planned, and 71% of respondents oppose local construction, leading local and state leaders to pause new projects amid concerns over rising electric and water rates.",
+      "conclusion_zh": "AI数据中心扩张面临水资源与电力约束，液冷技术缓解芯片散热但未消除设施级水耗，投资者需关注冷却技术路线及社区阻力对项目进度的影响。",
+      "conclusion_en": "AI data center expansion faces water and power constraints; liquid cooling helps chip-level heat removal but does not eliminate facility-level water use. Investors should watch cooling technology paths and community opposition affecting project timelines.",
+      "key_points": [
+        {
+          "zh": "液冷闭环系统在服务器内部不耗水，但热量排出建筑仍需水或电，水耗并未消失。",
+          "en": "Closed-loop liquid cooling uses no water inside servers, but rejecting heat from the building still requires water or power, so water use does not disappear."
+        },
+        {
+          "zh": "干冷水耗最低但高温时耗电高；蒸发冷却水耗最高，存在水与电的权衡。",
+          "en": "Dry cooling is least water-intensive but power-heavy at high temperatures; evaporative cooling is most water-intensive, creating a water-power trade-off."
+        },
+        {
+          "zh": "Equinix 2025年全球耗水12亿加仑，同比增长10%，但未披露单个站点水耗。",
+          "en": "Equinix consumed 1.2 billion gallons of water globally in 2025, up 10% year-over-year, but does not disclose site-level water use."
+        },
+        {
+          "zh": "CoolIT被Ecolab以47.5亿美元收购，显示液冷供应链整合。",
+          "en": "CoolIT was acquired by Ecolab for $4.75 billion, signaling consolidation in the liquid cooling supply chain."
+        },
+        {
+          "zh": "71%受访者反对本地新建数据中心，地方和州领导人暂停新项目，水资源和电价成为关键制约。",
+          "en": "71% of respondents oppose local data center construction, and local and state leaders are pausing new projects, with water and power costs as key constraints."
+        }
+      ],
+      "tags": [
+        "AI data centers",
+        "liquid cooling",
+        "water consumption",
+        "power demand",
+        "Nvidia",
+        "AMD"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ErCDO4d0uF8",
+      "title": "Miran on Midterms, Trump Tariffs, Fed Forward Guidance",
+      "title_zh": "前美联储理事Miran谈特朗普与民主党合作、关税回撤及前瞻指引",
+      "url": "https://www.youtube.com/watch?v=ErCDO4d0uF8",
+      "published_at": "2026-11-05T14:54:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前美联储理事、前经济顾问委员会主席Stephen Miran在Bloomberg Surveillance节目中讨论了特朗普若与掌控国会的民主党合作的情形、特朗普关税被回撤的可能后果，以及他是否认为美联储应提供前瞻指引。原文仅为节目预告，未包含Miran的具体观点或数据。",
+      "summary_en": "Former Fed Governor and former CEA Chairman Stephen Miran discussed on Bloomberg Surveillance how President Trump could work with Democrats controlling Congress, what would happen if Trump's tariffs were rolled back, and whether he believes the Fed should provide forward guidance. The source is only a program teaser and contains no specific views or data from Miran.",
+      "detail_zh": "原文为Bloomberg Surveillance节目的简短介绍，仅列出前美联储理事Stephen Miran（同时为前经济顾问委员会主席）将讨论的三个话题：一是特朗普如何与掌控国会的民主党合作；二是特朗普关税被回撤后可能发生的情况；三是他是否认为美联储应提供前瞻指引。原文未提供Miran对上述任一话题的具体看法、数据或结论，也未涉及任何美股个股或具体资产价格。其余内容为Bloomberg的社交媒体与订阅推广信息，无投资分析价值。",
+      "detail_en": "The source is a brief program description for Bloomberg Surveillance, listing three topics that former Fed Governor and former CEA Chairman Stephen Miran would discuss: how President Trump could work with Democrats controlling Congress; what would happen if Trump's tariffs were rolled back; and whether he believes the Fed should provide forward guidance. The source provides no specific views, data, or conclusions from Miran on any of these topics, nor does it mention any individual US equities or asset prices. The remainder consists of Bloomberg social media and subscription promotional material with no investment analysis value.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目预告列出Miran将讨论特朗普与民主党掌控国会下的合作方式。",
+          "en": "The program teaser lists that Miran would discuss how Trump could work with Democrats controlling Congress."
+        },
+        {
+          "zh": "Miran将讨论特朗普关税被回撤后可能发生的情况。",
+          "en": "Miran would discuss what would happen if Trump's tariffs were rolled back."
+        },
+        {
+          "zh": "Miran将讨论他是否认为美联储应提供前瞻指引。",
+          "en": "Miran would discuss whether he believes the Fed should provide forward guidance."
+        },
+        {
+          "zh": "原文未包含Miran对上述话题的具体观点、数据或结论。",
+          "en": "The source contains no specific views, data, or conclusions from Miran on these topics."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "tariffs",
+        "forward guidance",
+        "Trump",
+        "Congress"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:hAvM95MuGQk",
       "title": "Wendy’s Rejects Takeover Bid From Peltz's Trian",
@@ -16592,398 +17091,6 @@
         "DASH",
         "LLY"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:qL0nnGxriIw",
-      "title": "Bonus: Dan Ivascyn on Teamwork and Leadership",
-      "title_zh": "PIMCO首席投资官Ivascyn回顾接任“债券之王”后的领导过渡",
-      "url": "https://www.youtube.com/watch?v=qL0nnGxriIw",
-      "published_at": "2026-10-29T16:10:49+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "Dan Ivascyn回顾2014年接替Bill Gross领导PIMCO投资业务时面临媒体高度关注，强调依靠团队导向的投资流程和结构化决策来保持冷静。他指出固定收益行业自金融危机后竞争格局变化，PIMCO凭借资源优势和团队合作应对挑战。",
-      "summary_en": "Dan Ivascyn reflects on succeeding Bill Gross as PIMCO's investment chief in 2014 amid intense media scrutiny, emphasizing reliance on a team-oriented investment process and structured decision-making to stay calm. He notes the fixed income industry has changed since the financial crisis, with PIMCO leveraging its resource advantage and teamwork.",
-      "detail_zh": "Dan Ivascyn在访谈中回顾2014年接替“债券之王”Bill Gross领导PIMCO投资业务的经历，称过渡并非理想，当时压力超出必要程度。他强调公司拥有团队导向的投资流程和结构化决策方式，Bill Gross虽个性强势但重视团队质量。面对外界对领导层过渡的高度审视，Ivascyn认为关键是保持冷静，让流程完成大部分工作，不过度追求短期业绩。他表示凭借良好的结构和流程，团队得以谨慎行事，不偏离核心投资流程，最终维持了关键领域的业绩，并在部分未达客户预期的领域有所改善。Ivascyn还指出，自全球金融危机以来，固定收益行业发生很大变化，许多传统竞争对手规模缩小、面临成本压力，私人信贷增长迅速，而PIMCO始终拥有资源优势，团队合作对吸引人才和创造机会至关重要。",
-      "detail_en": "Dan Ivascyn reflects on succeeding \"Bond King\" Bill Gross as head of PIMCO's investment business in 2014, calling the transition less than ideal and more stressful than necessary. He emphasizes the firm's team-oriented investment process and structured decision-making, noting that despite Bill Gross's strong personality, he valued a quality team. Amid intense scrutiny of the leadership transition, Ivascyn says the key was to stay calm and let the process do the bulk of the work, avoiding excessive pressure for near-term performance. With good structure and process, the team remained careful and measured without straying from the core investment process, ultimately maintaining performance where it mattered and improving in some areas that had fallen short of client expectations. Ivascyn also notes the fixed income industry has changed significantly since the global financial crisis, with many traditional competitors shrinking amid cost pressures and rapid growth in private credit, while PIMCO has always had a resource advantage and teamwork is critical for attracting talent and creating opportunities.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Ivascyn接任时面临媒体高度关注，过渡期压力超出必要程度。",
-          "en": "Ivascyn faced intense media scrutiny during the transition, with more stress than necessary."
-        },
-        {
-          "zh": "依靠团队导向的投资流程和结构化决策，让流程完成大部分工作。",
-          "en": "Relied on a team-oriented investment process and structured decision-making, letting the process do the bulk of the work."
-        },
-        {
-          "zh": "避免过度追求短期业绩，坚持核心投资流程，最终维持并改善业绩。",
-          "en": "Avoided excessive focus on near-term performance, stuck to the core investment process, and ultimately maintained and improved performance."
-        },
-        {
-          "zh": "固定收益行业自金融危机后变化大，传统竞争对手规模缩小，私人信贷增长。",
-          "en": "The fixed income industry has changed significantly since the financial crisis, with traditional competitors shrinking and private credit growing."
-        },
-        {
-          "zh": "PIMCO拥有资源优势，团队合作对吸引人才和创造机会至关重要。",
-          "en": "PIMCO has a resource advantage, and teamwork is critical for attracting talent and creating opportunities."
-        }
-      ],
-      "tags": [
-        "PIMCO",
-        "fixed income",
-        "leadership transition",
-        "teamwork",
-        "investment process"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:bV9nMZW4-A8",
-      "title": "What's Next for Israel After Election Stalemate?",
-      "title_zh": "以色列选举僵局或致长期政治博弈",
-      "url": "https://www.youtube.com/watch?v=bV9nMZW4-A8",
-      "published_at": "2026-10-29T16:04:11+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "以色列选举陷入僵局，组阁谈判可能持续数周或数月，任何执政联盟的组建都可能需要艰难妥协并违背竞选承诺。",
-      "summary_en": "Israel's election deadlock could lead to weeks or months of political horse-trading, with any path to a government likely requiring difficult compromises and broken campaign promises.",
-      "detail_zh": "据彭博社Dan Williams报道，以色列选举陷入僵局，组阁前景不明。任何组建政府的路径都可能需要各方做出艰难妥协，并可能违背竞选期间做出的承诺。政治博弈可能持续数周甚至数月，反映出以色列政治版图的碎片化。这一不确定性可能影响该国政策连续性与市场情绪，但原文未提供具体市场影响分析。",
-      "detail_en": "According to Bloomberg's Dan Williams, Israel's election has resulted in a deadlock, setting the stage for weeks or months of political horse-trading. Every potential path to forming a government will likely require difficult compromises and broken campaign promises. The political uncertainty could affect policy continuity and market sentiment, though the original text does not provide specific market impact analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "以色列选举陷入僵局，组阁谈判可能持续数周或数月。",
-          "en": "Israel's election deadlock may lead to weeks or months of coalition negotiations."
-        },
-        {
-          "zh": "任何组建政府的路径都可能需要艰难妥协。",
-          "en": "Any path to forming a government will likely require difficult compromises."
-        },
-        {
-          "zh": "组阁过程可能导致竞选承诺被违背。",
-          "en": "The coalition-building process may result in broken campaign promises."
-        }
-      ],
-      "tags": [
-        "Israel",
-        "election",
-        "deadlock",
-        "coalition",
-        "politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:isJd6_0V7Bk",
-      "title": "Bloomberg Surveillance 10/29/2026",
-      "title_zh": "Alphabet因AI搜索冲击遭抛售，美联储按兵不动，拉加德将卸任欧央行行长",
-      "url": "https://www.youtube.com/watch?v=isJd6_0V7Bk",
-      "published_at": "2026-10-29T15:52:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期Bloomberg Surveillance聚焦Alphabet因AI侵蚀搜索现金牛而遭抛售，多位嘉宾讨论其搜索放缓可能持续及AI搜索变现需求；美联储维持利率不变，市场关注其对波动率敏感度上升；拉加德将于2月7日卸任欧央行行长，焦点转向欧央行面临的法国挑战。",
-      "summary_en": "This episode of Bloomberg Surveillance focuses on Alphabet's selloff as AI cannibalizes its search cash cow, with guests discussing persistent search slowdown and the need to monetize AI search; the Fed held rates steady with markets watching its greater sensitivity to volatility; Lagarde will step down as ECB President on Feb. 7, shifting focus to the ECB's France challenge.",
-      "detail_zh": "节目开篇讨论Alphabet遭抛售、美联储按兵不动以及拉加德卸任。NewEdge Wealth的Cameron Dawson指出AI正在蚕食谷歌的搜索现金牛，并认为美联储对市场波动率表现出更大的敏感度。CFRA的Angelo Zino表示Alphabet的搜索放缓可能持续。Evercore ISI的Krishna Guha讨论拉加德卸任后欧央行面临的法国挑战。Citi Wealth的Kate Moore尽管Alphabet业绩不及预期，仍对科技股保持看涨。PIMCO的Libby Cantrill提示中期选举后伊朗局势升级风险上升。Cisco的Jeetu Patel预计AI代理使用率可能在15个月内达到30%。前圣路易斯联储主席James Bullard支持美联储维持利率不变。Wells Fargo的Darrell Cronk认为科技股抛售可能创造估值买入机会。BNP Paribas的Nick Jones指出Alphabet需要将AI搜索变现。Michael McKee提到商业投资和政府支出支撑美国GDP。JPMorgan的Mike Feroli认为达到2%通胀将具有挑战性。BlackRock的Gargi Chaudhuri认为股票和债券均提供机会。",
-      "detail_en": "The program opens with discussions on Alphabet's selloff, the Fed holding rates, and Lagarde's exit. Cameron Dawson of NewEdge Wealth notes AI is cannibalizing Google's search cash cow and that the Fed shows greater sensitivity to market volatility. Angelo Zino of CFRA says Alphabet's search slowdown could persist. Krishna Guha of Evercore ISI discusses the ECB's France challenge after Lagarde's exit. Kate Moore of Citi Wealth remains bullish on tech despite Alphabet's miss. Libby Cantrill of PIMCO flags rising Iran escalation risk after midterms. Jeetu Patel of Cisco expects AI agent use could reach 30% in 15 months. Former St. Louis Fed President James Bullard backs the Fed leaving rates unchanged. Darrell Cronk of Wells Fargo sees the tech selloff potentially creating a valuation buying opportunity. Nick Jones of BNP Paribas says Alphabet needs to monetize AI search. Michael McKee notes business investment and government spending bolster US GDP. Mike Feroli of JPMorgan says reaching 2% inflation will be challenging. Gargi Chaudhuri of BlackRock sees opportunity in both stocks and bonds.",
-      "conclusion_zh": "Alphabet的AI搜索转型是当前科技股的核心争议点，其变现进展将影响市场对大型科技股的估值判断；同时美联储对波动率的敏感度上升，政策路径仍受通胀制约。",
-      "conclusion_en": "Alphabet's AI search transition is a core debate for tech stocks, and its monetization progress will shape valuations for mega-cap tech; meanwhile, the Fed's heightened sensitivity to volatility and sticky inflation continue to constrain the policy path.",
-      "key_points": [
-        {
-          "zh": "NewEdge Wealth的Cameron Dawson：AI正在蚕食谷歌的搜索现金牛，美联储对市场波动率表现出更大敏感度。",
-          "en": "Cameron Dawson of NewEdge Wealth: AI is cannibalizing Google's search cash cow; the Fed shows greater sensitivity to market volatility."
-        },
-        {
-          "zh": "CFRA的Angelo Zino：Alphabet的搜索放缓可能持续；BNP Paribas的Nick Jones：Alphabet需要将AI搜索变现。",
-          "en": "Angelo Zino of CFRA: Alphabet's search slowdown could persist; Nick Jones of BNP Paribas: Alphabet needs to monetize AI search."
-        },
-        {
-          "zh": "Citi Wealth的Kate Moore：尽管Alphabet业绩不及预期，仍对科技股保持看涨；Wells Fargo的Darrell Cronk：科技股抛售可能创造估值买入机会。",
-          "en": "Kate Moore of Citi Wealth remains bullish on tech despite Alphabet's miss; Darrell Cronk of Wells Fargo: tech selloff could create a valuation buying opportunity."
-        },
-        {
-          "zh": "拉加德将于2月7日卸任欧央行行长，Evercore ISI的Krishna Guha认为焦点转向欧央行面临的法国挑战。",
-          "en": "Lagarde to step down as ECB President on Feb. 7; Krishna Guha of Evercore ISI sees focus shifting to the ECB's France challenge."
-        },
-        {
-          "zh": "前圣路易斯联储主席James Bullard支持美联储维持利率不变；JPMorgan的Mike Feroli认为达到2%通胀将具有挑战性。",
-          "en": "Former St. Louis Fed President James Bullard backs the Fed leaving rates unchanged; Mike Feroli of JPMorgan says reaching 2% inflation will be challenging."
-        }
-      ],
-      "tags": [
-        "Alphabet",
-        "AI search",
-        "Fed",
-        "ECB",
-        "tech selloff"
-      ],
-      "tickers": [
-        "GOOGL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:wURPWKYAsAQ",
-      "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
-      "title_zh": "Alphabet与三星财报令人失望，全球科技股涨势停滞",
-      "url": "https://www.youtube.com/watch?v=wURPWKYAsAQ",
-      "published_at": "2026-10-29T15:49:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Alphabet和三星电子令人失望的财报，重新引发市场对AI巨额投入能否带来足够回报的质疑，导致本周全球科技股涨势停滞。",
-      "summary_en": "Disappointing earnings from Alphabet and Samsung revived doubts over whether billions of dollars in AI spending will deliver sufficient returns, stalling this week's global technology share rally.",
-      "detail_zh": "据彭博的Anthony Stephens报道，本周全球科技股一度上涨，但在Alphabet和三星电子公布令人失望的财报后，涨势停滞。市场因此重新怀疑，投入AI的数十亿美元能否产生足够回报。报道未提供具体财务数据或市场反应细节。",
-      "detail_en": "According to Bloomberg's Anthony Stephens, a global rally in technology shares this week stalled after Alphabet and Samsung reported disappointing earnings. The results revived doubts over whether billions of dollars in AI spending will deliver sufficient returns. The report did not provide specific financial figures or market reaction details.",
-      "conclusion_zh": "AI资本开支的回报兑现仍是科技股关键风险点，财报季相关信号值得密切关注。",
-      "conclusion_en": "The return on AI capital spending remains a key risk for tech stocks, and earnings-season signals warrant close attention.",
-      "key_points": [
-        {
-          "zh": "Alphabet和三星电子的财报令人失望。",
-          "en": "Alphabet and Samsung delivered disappointing earnings."
-        },
-        {
-          "zh": "财报重新引发市场对AI巨额投入回报的质疑。",
-          "en": "The earnings revived doubts over returns on massive AI spending."
-        },
-        {
-          "zh": "本周全球科技股涨势因此停滞。",
-          "en": "The global technology share rally stalled this week as a result."
-        }
-      ],
-      "tags": [
-        "AI spending",
-        "tech earnings",
-        "market rally"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:_WUHmUVHrB8",
-      "title": "Nasdaq 100 Falls as AI Trade Shows New Cracks",
-      "title_zh": "科技股全球涨势受挫，Alphabet创纪录下跌13%",
-      "url": "https://www.youtube.com/watch?v=_WUHmUVHrB8",
-      "published_at": "2026-10-29T15:46:03+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "两家行业巨头的财报令人失望，重新引发市场对数千亿美元AI支出能否带来足够回报的质疑，全球科技股涨势受挫。Alphabet因销售不及预期创纪录下跌13%，微软拟通过美国投资级债券发行筹集至少250亿美元。",
-      "summary_en": "A global rally in technology shares faltered as disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient returns. Alphabet sank a record 13% on a sales miss, while Microsoft is looking to raise at least $25 billion from a US investment-grade bond sale.",
-      "detail_zh": "全球科技股涨势出现动摇，原因是两家行业重量级公司的财报令人失望，重新点燃了市场对人工智能领域巨额投入能否产生足够回报的疑虑。谷歌母公司Alphabet因销售未达预期而创纪录地下跌13%。微软正寻求通过美国投资级债券发行筹集至少250亿美元。亚马逊和英特尔定于周四收盘后公布业绩。D.A. Davidson科技研究主管Gil Luria和彭博行业研究高级科技信用分析师Robert Schiffman对当日科技头条进行了分析。",
-      "detail_en": "A global rally in technology shares faltered as disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in artificial-intelligence spending will deliver sufficient returns. Google parent Alphabet sank a record 13% on a sales miss. Microsoft is looking to raise at least $25 billion from a US investment-grade bond sale. Amazon and Intel are slated to report results after Thursday's closing bell. Gil Luria, Head of Technology Research at D.A. Davidson, and Robert Schiffman, Senior Tech Credit Analyst for Bloomberg Intelligence, examined the day's top tech headlines.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "全球科技股涨势受挫，因两家巨头财报令人失望，引发对AI支出回报的质疑。",
-          "en": "Global tech rally faltered as disappointing earnings from two heavyweights raised doubts over AI spending returns."
-        },
-        {
-          "zh": "Alphabet因销售不及预期创纪录下跌13%。",
-          "en": "Alphabet sank a record 13% on a sales miss."
-        },
-        {
-          "zh": "微软拟通过美国投资级债券发行筹集至少250亿美元。",
-          "en": "Microsoft is looking to raise at least $25 billion from a US investment-grade bond sale."
-        },
-        {
-          "zh": "亚马逊和英特尔定于周四收盘后公布业绩。",
-          "en": "Amazon and Intel are slated to report results after Thursday's closing bell."
-        }
-      ],
-      "tags": [
-        "tech earnings",
-        "AI spending",
-        "Alphabet",
-        "Microsoft",
-        "bond sale"
-      ],
-      "tickers": [
-        "GOOGL",
-        "MSFT",
-        "AMZN",
-        "INTC"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:5JzWecManjc",
-      "title": "The Race to Replace Lagarde Begins",
-      "title_zh": "拉加德提前卸任欧洲央行行长，留下关键职位空缺",
-      "url": "https://www.youtube.com/watch?v=5JzWecManjc",
-      "published_at": "2026-10-29T15:42:13+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅报道克里斯蒂娜·拉加德提前卸任欧洲央行行长，导致这一全球最具影响力央行之一的高层职位出现空缺，并提及Alex Morgan将解释后续进展。原文未提供更多细节、原因或影响分析。",
-      "summary_en": "The original text only reports that Christine Lagarde's early exit as ECB president leaves a vacancy at the top of one of the world's most powerful central banks, and notes that Alex Morgan explains what happens now. No further details, reasons, or impact analysis are provided.",
-      "detail_zh": "原文内容极为简短，仅指出克里斯蒂娜·拉加德提前卸任欧洲央行行长，导致该全球最具影响力央行之一的高层职位出现空缺。文中提到Alex Morgan将解释接下来会发生什么，但未展开具体说明。原文没有提供拉加德提前卸任的原因、具体时间、继任者信息或对市场的影响分析。此外，原文包含大量Bloomberg社交媒体链接，与核心信息无关。",
-      "detail_en": "The original text is extremely brief, stating only that Christine Lagarde's early exit as ECB president leaves a vacancy at the top of one of the world's most powerful central banks. It mentions that Alex Morgan explains what happens now, but does not elaborate. The text provides no reasons for Lagarde's early departure, no specific timing, no information on a successor, and no market impact analysis. It also contains numerous Bloomberg social media links unrelated to the core information.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "拉加德提前卸任欧洲央行行长。",
-          "en": "Christine Lagarde exits early as ECB president."
-        },
-        {
-          "zh": "欧洲央行高层出现职位空缺。",
-          "en": "A vacancy opens at the top of the ECB."
-        },
-        {
-          "zh": "原文未提供卸任原因、时间或继任者信息。",
-          "en": "The text provides no reasons, timing, or successor information."
-        }
-      ],
-      "tags": [
-        "ECB",
-        "Lagarde",
-        "central bank",
-        "vacancy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:4AXYbQZ63Q0",
-      "title": "ECB Holds Rates as Lagarde Announces Early Resignation",
-      "title_zh": "欧洲央行维持利率2.5%不变，拉加德提前离任增添不确定性",
-      "url": "https://www.youtube.com/watch?v=4AXYbQZ63Q0",
-      "published_at": "2026-10-29T15:41:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "欧洲央行将利率维持在2.5%不变。行长拉加德将提前离任的消息，叠加能源成本与法国财政状况的担忧，共同构成市场关注的不确定性。",
-      "summary_en": "The ECB held rates at 2.5%. News that President Lagarde will step down early adds to concerns over energy costs and France's fiscal situation.",
-      "detail_zh": "欧洲央行决定维持利率在2.5%不变。与此同时，行长克里斯蒂娜·拉加德将提前离任的消息，加剧了市场对能源成本和法国财政状况的担忧。彭博的Oliver Crook从法兰克福报道了这一消息。原文未提供更多关于拉加德离任时间、继任安排或政策路径的细节。",
-      "detail_en": "The European Central Bank kept interest rates on hold at 2.5%. News that President Christine Lagarde will step down from her role early added to concern over energy costs and France's fiscal situation. Bloomberg's Oliver Crook reported from Frankfurt. The source provides no further details on the timing of Lagarde's departure, succession, or the policy path.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "欧洲央行维持利率在2.5%不变。",
-          "en": "The ECB kept interest rates on hold at 2.5%."
-        },
-        {
-          "zh": "行长拉加德将提前离任。",
-          "en": "President Christine Lagarde will step down from her role early."
-        },
-        {
-          "zh": "市场担忧能源成本与法国财政状况。",
-          "en": "Concerns persist over energy costs and France's fiscal situation."
-        }
-      ],
-      "tags": [
-        "ECB",
-        "interest rates",
-        "Lagarde",
-        "France fiscal",
-        "energy costs"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lgbBGKf_iKI",
-      "title": "ECB's Lagarde Says She Can't Stay Neutral in Current Situation",
-      "title_zh": "拉加德宣布将于2月卸任欧洲央行行长",
-      "url": "https://www.youtube.com/watch?v=lgbBGKf_iKI",
-      "published_at": "2026-10-29T15:40:51+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "欧洲央行行长拉加德宣布将于2月卸任，早于其2027年10月到期的任期。她在法兰克福新闻发布会上表示，希望获得言论自由和就非货币政策事务发声的自由。",
-      "summary_en": "ECB President Christine Lagarde announced she will leave her role in February, earlier than her term's October 2027 expiry. At a Frankfurt news conference, she said she wants freedom of speech and to engage on matters beyond monetary policy.",
-      "detail_zh": "欧洲央行行长克里斯蒂娜·拉加德宣布，她将于2月卸任欧洲央行行长一职，而其任期原定于2027年10月到期。她在法兰克福举行的新闻发布会上表示，“离开从来没有好时机”，但她希望“拥有言论自由、表达自由，以及就非货币政策事务进行参与的自由”。此番表态发生在其宣布提前离任之后。原文未提供继任安排或政策影响的进一步细节。",
-      "detail_en": "ECB President Christine Lagarde announced she will leave her role as head of the ECB in February, while her term was due to expire in October 2027. At a news conference in Frankfurt, she said \"there is never a good time to leave\" but that she wants \"to have the freedom of speech, the freedom of expression, and the freedom to engage on matters that are not monetary policy matters.\" The comments came after she earlier announced her early departure. The original text provides no further details on succession or policy implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "拉加德将于2月卸任欧洲央行行长，早于2027年10月的任期届满。",
-          "en": "Lagarde will leave the ECB presidency in February, earlier than her term's October 2027 expiry."
-        },
-        {
-          "zh": "她表示“离开从来没有好时机”，但希望获得言论自由和就非货币政策事务发声的自由。",
-          "en": "She said \"there is never a good time to leave\" but wants freedom of speech and to engage on non-monetary policy matters."
-        },
-        {
-          "zh": "相关表态是在法兰克福新闻发布会上作出的。",
-          "en": "The remarks were made at a news conference in Frankfurt."
-        }
-      ],
-      "tags": [
-        "ECB",
-        "Lagarde",
-        "succession",
-        "monetary policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:sKxnpuT2BsQ",
-      "title": "NEC's Hassett Sees Fed Acting If October Inflation Data High",
-      "title_zh": "白宫经济顾问哈塞特：若通胀数据高企，美联储或加息",
-      "url": "https://www.youtube.com/watch?v=sKxnpuT2BsQ",
-      "published_at": "2026-10-29T15:32:36+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "白宫国家经济委员会主任凯文·哈塞特表示，如果本月通胀数据高企，他预计美联储将加息。他在最新PCE通胀报告发布后接受彭博采访时称，若通胀数据偏高，美联储“可能会适当行动”。",
-      "summary_en": "White House National Economic Council Director Kevin Hassett said he expects the Federal Reserve to raise interest rates if this month's inflation figures are elevated. Speaking on Bloomberg after the latest PCE report, Hassett said the Fed will \"probably appropriately act\" if inflation data come out high.",
-      "detail_zh": "白宫国家经济委员会主任凯文·哈塞特（Kevin Hassett）在最新PCE通胀报告发布后不久接受彭博电视“Bloomberg The Open”采访时表示，如果本月通胀数据高企，他预计美联储将加息。哈塞特称，若通胀数据偏高，美联储“可能会适当行动”。此番言论将美联储的政策反应与即将公布的通胀数据直接挂钩，暗示白宫方面预期货币政策可能进一步收紧。原文未提供具体通胀数据、加息幅度或时间表。",
-      "detail_en": "White House National Economic Council Director Kevin Hassett, speaking on Bloomberg Television's \"Bloomberg The Open\" shortly after the latest PCE inflation report, said he expects the Federal Reserve to raise interest rates if this month's inflation figures are elevated. Hassett said the Fed will \"probably appropriately act\" if inflation data come out high. The remarks directly link the Fed's policy response to upcoming inflation data, suggesting the White House expects a possible further tightening of monetary policy. The original text does not provide specific inflation figures, rate hike magnitude, or timing.",
-      "conclusion_zh": "白宫经济顾问明确将美联储加息与本月通胀数据挂钩，投资者需密切关注后续通胀读数，以判断政策收紧风险。",
-      "conclusion_en": "The White House economic adviser explicitly ties a potential Fed rate hike to this month's inflation data, so investors should watch upcoming inflation readings to gauge policy tightening risk.",
-      "key_points": [
-        {
-          "zh": "哈塞特预计，若本月通胀数据高企，美联储将加息。",
-          "en": "Hassett expects the Fed to raise rates if this month's inflation data are elevated."
-        },
-        {
-          "zh": "他表示，若通胀数据偏高，美联储“可能会适当行动”。",
-          "en": "He said the Fed will \"probably appropriately act\" if inflation data come out high."
-        },
-        {
-          "zh": "上述言论发表于最新PCE通胀报告发布后不久。",
-          "en": "The comments came shortly after the latest PCE inflation report."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "inflation",
-        "PCE",
-        "rate hike",
-        "White House"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
