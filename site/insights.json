@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-11-05T10:15:39.872714+00:00",
+  "generated_at": "2026-11-05T11:14:11.742268+00:00",
   "insights": [
+    {
+      "guid": "yt:ebeFULqrPVY",
+      "title": "UBS Cuts London Jobs, European Stocks Hit Fresh Record",
+      "title_zh": "瑞银伦敦裁员200人，欧股创收盘新高",
+      "url": "https://www.youtube.com/watch?v=ebeFULqrPVY",
+      "published_at": "2026-11-05T10:37:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "瑞银在与瑞信整合接近尾声之际，于伦敦裁减约200个职位，涉及财富管理和投资银行等部门。欧洲股市在资金从AI交易轮动及强劲财报季推动下创下收盘新高。",
+      "summary_en": "UBS has cut about 200 positions in London as the Credit Suisse integration nears completion, affecting units including wealth management and investment banking. European stocks hit a record closing high, extending outperformance driven by a rotation out of the AI trade and a strong earnings season.",
+      "detail_zh": "瑞银在伦敦裁减约200个职位，裁员于近几周内部宣布，涉及财富管理和投资银行等多个部门，背景是与瑞信的整合接近尾声。欧洲股市超越此前收盘纪录高位，延续相对强势，动力来自资金从人工智能交易轮动撤出以及强劲的财报季。节目还提及英国央行加息预期、德国商业银行CEO、马士基CEO、中期选举后的板块轮动与政治博弈、美元因交易员权衡政治僵局而下跌、莱茵金属股价重挫等话题。",
+      "detail_en": "UBS cut about 200 positions in London, announced internally in recent weeks, across units including wealth management and investment banking, as its Credit Suisse integration nears its end. European stocks surpassed their prior closing record high, extending regional outperformance driven by a rotation out of the AI trade and a strong earnings season. The program also referenced expectations of a BOE rate hike, the Commerzbank and Maersk CEOs, post-midterm rotation and political blame games, a weaker dollar as traders weighed gridlock, and a plunge in Rheinmetall shares.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "瑞银在伦敦裁员约200人，涉及财富管理和投资银行等部门，整合瑞信接近完成。",
+          "en": "UBS cut about 200 London positions across units including wealth management and investment banking as the Credit Suisse integration nears completion."
+        },
+        {
+          "zh": "欧洲股市创收盘纪录新高，受资金撤出AI交易及强劲财报季推动。",
+          "en": "European stocks hit a record closing high, driven by a rotation out of the AI trade and a strong earnings season."
+        },
+        {
+          "zh": "节目提及英国央行加息预期及美元因政治僵局担忧走弱。",
+          "en": "The program cited BOE rate hike expectations and a weaker dollar amid gridlock concerns."
+        }
+      ],
+      "tags": [
+        "UBS",
+        "Credit Suisse integration",
+        "European equities",
+        "AI rotation",
+        "BOE"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:Fr_RURMsaJU",
       "title": "James Bosworth on What Comes After Lula's Stunning Win | Odd Lots",
@@ -17221,107 +17262,6 @@
         "INTC"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "4959185",
-      "title": "Wall Street Breakfast Podcast: Saving Wendy's Bacon(Ator)",
-      "title_zh": "Trian 14亿美元收购 Wendy's，Dine Brands 和 Lumentum 亦传并购消息",
-      "url": "https://seekingalpha.com/article/4959185-wall-street-breakfast-podcast-saving-wendys-baconator?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-29T10:50:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "other",
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "Wendy's 获 Trian 每股7.35美元现金收购，溢价20%，股价大涨15%；Dine Brands 收到每股39美元收购要约；Lumentum 因 Marvell 接近收购而上涨。盘前纳指期货跌超1%，因 Alphabet 业绩大幅不及预期拖累科技股。",
-      "summary_en": "Wendy's surged 15% after Trian offered $7.35/share in cash, a 20% premium; Dine Brands received a $39/share offer; Lumentum rallied on reports of advanced acquisition talks with Marvell. Nasdaq futures fell over 1% premarket as Alphabet's big earnings miss weighed on tech.",
-      "detail_zh": "Wendy's 股价周三大涨15%，此前 Nelson Peltz 旗下的 Trian Fund Management 确认提出以约14亿美元收购该公司，报价为每股7.35美元现金，较周二收盘价溢价20%。Trian 持有 Wendy's 16.3%的股份，并联合餐厅运营商 Flynn Group 以及投资公司 BlueFive Capital 和 Sixth Street Partners 组成收购团。该拟议交易不设融资条件，且无需新增债务。Wendy's 已确认收到该主动收购提议。今年2月，Peltz 曾表示 Wendy's 被低估，且该公司近期有一家主要加盟商申请破产。与此同时，Applebee's 和 IHOP 的母公司 Dine Brands 股价跳涨，此前有报道称 Cobblers Cove Capital 和 Arkhouse Management 试图收购该公司。据彭博社报道，该投资者团体周一向公司董事会提交了每股39美元现金的收购要约。这些投资者通过掉期和其他工具对 Dine Brands 近20%的股份拥有经济敞口，并愿意在尽职调查和管理层接触后提高报价。此外，Lumentum Holdings 因有报道称 Marvell Technology 正在深入讨论收购这家数据中心光学制造商而上涨。据彭博社报道，交易可能最早下周达成。Lumentum 市值830亿美元，Marvell 市值2210亿美元，该交易可能跻身电信或科技领域前十大收购之列。Lumentum CEO Michael Hurlston 本月表示，公司的光学组件已售罄至2029年初，且2027年某些产品的需求将无法满足70%。盘前股指期货预示低开，纳指期货跌超1%，因微软盘后公布的积极业绩不足以抵消 Alphabet 的大幅不及预期，后者正拖累超大规模计算公司以及 GPU 和内存制造商。债市方面，在美联储鹰派按兵不动后，国债收益率在前一交易日上升后有所回落。经济学家 Robin Brooks 指出，上次美联储主席 Kevin Warsh 鸽派是在7月会议上，“这导致美国收益率曲线大幅熊陡”。他表示：“昨天之后我们再次陡峭化，但情况非常不同。欧洲日益加剧的债务压力抑制了美国收益率。”经济日历包括：美国东部时间上午8:30公布第三季度GDP初值、每周失业救济申请、9月个人收入与支出以及9月核心PCE价格指数。",
-      "detail_en": "Wendy's shares soared 15% on Wednesday after Nelson Peltz's Trian Fund Management confirmed an offer to buy the company for about $1.4B, or $7.35 per share in cash, a 20% premium to Tuesday's close. Trian, which holds a 16.3% stake in Wendy's, is leading a group that includes restaurant operator Flynn Group and investment firms BlueFive Capital and Sixth Street Partners. The proposed deal is not subject to a financing condition and does not require any new debt. Wendy's confirmed it received the unsolicited proposal. In February, Peltz said Wendy's was undervalued, and the chain recently saw a major franchisee file for bankruptcy. Meanwhile, Dine Brands, the franchisor of Applebee's and IHOP, jumped on a report that Cobblers Cove Capital and Arkhouse Management are trying to buy the company. The investor group submitted an offer to the board on Monday worth $39 per share in cash, according to Bloomberg. The investors have economic exposure to almost 20% of Dine Brands' shares through swaps and other instruments and are willing to raise the offer pending due diligence and access to management. Additionally, Lumentum Holdings rallied on a report that Marvell Technology is in advanced discussions to buy the data center optics maker. A deal could happen as soon as next week, according to Bloomberg. Lumentum has a market cap of $83B, while Marvell is valued at $221B; the deal would likely rank among the top 10 telecom or tech acquisitions. Lumentum CEO Michael Hurlston said this month that the company's optical components are sold out through early 2029 and that it won't meet 70% of demand for some products in 2027. In premarket trading, stock index futures indicate a lower open, with Nasdaq futures down more than 1% after positive earnings from Microsoft after the bell Wednesday weren't enough to counter a big miss from Alphabet, which is weighing on hyperscalers as well as GPU and memory makers. In the bond market, Treasury yields are easing back after a rise in the previous session following the Fed's hawkish hold. Economist Robin Brooks noted that the last time Fed Chairman Kevin Warsh was dovish was the July meeting, \"which caused a sharp bear-steepening in the US yield curve.\" \"We're steepening again after yesterday, but circumstances are very different,\" he said. \"Mounting debt stress in Europe keeps a lid on US yields.\" On the economic calendar: 8:30 a.m. Advance Q3 GDP, Weekly Jobless Claims, September Personal Income and Spending, and September Core PCE Price Index.",
-      "conclusion_zh": "并购活动活跃，Wendy's、Dine Brands 和 Lumentum 均受收购消息提振；但科技股因 Alphabet 业绩拖累承压，市场关注后续经济数据。",
-      "conclusion_en": "M&A activity is brisk, boosting Wendy's, Dine Brands and Lumentum on takeover news; however, tech stocks are under pressure from Alphabet's earnings miss, with markets focused on upcoming economic data.",
-      "key_points": [
-        {
-          "zh": "Trian 联合 Flynn Group、BlueFive Capital 和 Sixth Street Partners 提出以每股7.35美元现金收购 Wendy's，溢价20%，交易无需新增债务。",
-          "en": "Trian, along with Flynn Group, BlueFive Capital and Sixth Street Partners, offered $7.35/share in cash for Wendy's, a 20% premium, with no new debt required."
-        },
-        {
-          "zh": "Dine Brands 收到 Cobblers Cove Capital 和 Arkhouse Management 每股39美元现金收购要约，投资者通过掉期持有近20%经济敞口。",
-          "en": "Dine Brands received a $39/share cash offer from Cobblers Cove Capital and Arkhouse Management; the investors have economic exposure to nearly 20% via swaps."
-        },
-        {
-          "zh": "Lumentum 因 Marvell 深入谈判收购而上涨，交易可能最早下周达成，Lumentum 市值830亿美元，Marvell 市值2210亿美元。",
-          "en": "Lumentum rallied on reports Marvell is in advanced talks to acquire it, with a deal possible as soon as next week; Lumentum market cap $83B, Marvell $221B."
-        },
-        {
-          "zh": "纳指期货跌超1%，因 Alphabet 业绩大幅不及预期拖累超大规模计算公司及 GPU、内存制造商，微软积极业绩不足以抵消。",
-          "en": "Nasdaq futures fell over 1% as Alphabet's big earnings miss weighed on hyperscalers, GPU and memory makers, outweighing Microsoft's positive results."
-        },
-        {
-          "zh": "美联储鹰派按兵不动后国债收益率回落；经济学家 Robin Brooks 称欧洲债务压力抑制美国收益率。",
-          "en": "Treasury yields eased after the Fed's hawkish hold; economist Robin Brooks said mounting European debt stress keeps a lid on US yields."
-        }
-      ],
-      "tags": [
-        "M&A",
-        "Wendy's",
-        "Dine Brands",
-        "Lumentum",
-        "Marvell",
-        "Alphabet",
-        "earnings"
-      ],
-      "tickers": [
-        "WEN",
-        "DIN",
-        "LITE",
-        "MRVL",
-        "MSFT",
-        "GOOG",
-        "GOOGL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:YtxWWgCS510",
-      "title": "Lagarde to Step Down as ECB President on Feb. 7",
-      "title_zh": "拉加德将于2027年2月卸任欧洲央行行长",
-      "url": "https://www.youtube.com/watch?v=YtxWWgCS510",
-      "published_at": "2026-10-29T10:21:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "欧洲央行行长拉加德已通知管理委员会及欧洲理事会主席科斯塔，她将于2027年2月7日卸任。该消息由彭博记者在法兰克福报道。",
-      "summary_en": "ECB President Christine Lagarde has informed the Governing Council and European Council President António Costa that she will resign effective February 7, 2027, per Bloomberg's Oliver Crook reporting from Frankfurt.",
-      "detail_zh": "欧洲央行行长克里斯蒂娜·拉加德已向欧洲央行管理委员会及欧洲理事会主席安东尼奥·科斯塔通报，她将于2027年2月7日正式卸任。彭博记者奥利弗·克鲁克从法兰克福发回报道。原文未披露继任安排、卸任原因或对货币政策路径的影响。",
-      "detail_en": "European Central Bank President Christine Lagarde informed the Governing Council and European Council President António Costa that she will resign effective February 7, 2027. Bloomberg's Oliver Crook reported from Frankfurt. The original text does not disclose succession plans, reasons for the departure, or implications for the monetary policy path.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "拉加德将于2027年2月7日卸任欧洲央行行长",
-          "en": "Lagarde will resign as ECB President effective February 7, 2027"
-        },
-        {
-          "zh": "她已通知欧洲央行管理委员会和欧洲理事会主席科斯塔",
-          "en": "She informed the ECB Governing Council and European Council President Costa"
-        },
-        {
-          "zh": "消息由彭博记者奥利弗·克鲁克从法兰克福报道",
-          "en": "Reported by Bloomberg's Oliver Crook from Frankfurt"
-        }
-      ],
-      "tags": [
-        "ECB",
-        "Lagarde",
-        "succession",
-        "central bank"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
