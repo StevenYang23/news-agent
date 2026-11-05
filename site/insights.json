@@ -1,6 +1,131 @@
 {
-  "generated_at": "2026-11-05T14:18:44.790642+00:00",
+  "generated_at": "2026-11-05T15:15:28.125318+00:00",
   "insights": [
+    {
+      "guid": "yt:hAvM95MuGQk",
+      "title": "Wendy’s Rejects Takeover Bid From Peltz's Trian",
+      "title_zh": "Wendy's董事会一致否决Trian基金约14亿美元收购要约",
+      "url": "https://www.youtube.com/watch?v=hAvM95MuGQk",
+      "published_at": "2026-11-05T14:43:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Wendy's董事会一致否决了由Nelson Peltz旗下Trian Fund Management牵头、约14亿美元的收购要约，认为该报价严重低估了公司前景与长期盈利潜力。",
+      "summary_en": "Wendy's board unanimously rejected an approximately $1.4 billion buyout offer from a group led by Nelson Peltz's Trian Fund Management, stating the proposal substantially undervalues the company's prospects and long-term earnings potential.",
+      "detail_zh": "Wendy's Co.董事会一致否决了由Nelson Peltz旗下Trian Fund Management牵头的一个集团提出的收购要约。该要约对这家汉堡连锁店的估值约为14亿美元。董事会表示，该提案严重低估了公司的前景和长期盈利潜力。Craig Trudell在Bloomberg Open Interest节目中提供了更多细节。",
+      "detail_en": "Wendy's Co. board unanimously rejected a buyout offer from a group led by Nelson Peltz's Trian Fund Management. The offer valued the burger chain at approximately $1.4 billion. The board said the proposal substantially undervalues the company's prospects and long-term earnings potential. Craig Trudell provided more details on Bloomberg Open Interest.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Wendy's董事会一致否决Trian基金牵头的约14亿美元收购要约。",
+          "en": "Wendy's board unanimously rejected the approximately $1.4 billion buyout offer led by Trian Fund Management."
+        },
+        {
+          "zh": "董事会认为该报价严重低估了公司的前景和长期盈利潜力。",
+          "en": "The board believes the proposal substantially undervalues the company's prospects and long-term earnings potential."
+        },
+        {
+          "zh": "该收购集团由Nelson Peltz旗下的Trian Fund Management牵头。",
+          "en": "The acquisition group is led by Nelson Peltz's Trian Fund Management."
+        }
+      ],
+      "tags": [
+        "Wendy's",
+        "Trian Fund Management",
+        "buyout offer",
+        "board rejection",
+        "valuation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:dkjgcMHOf84",
+      "title": "The BOE Decides | Special Coverage",
+      "title_zh": "英国央行加息至4%，警告明年通胀近5%",
+      "url": "https://www.youtube.com/watch?v=dkjgcMHOf84",
+      "published_at": "2026-11-05T14:33:16+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英国央行一致投票加息至4%，并警告明年通胀可能接近5%，暗示可能进一步加息。交易员加大了对下月再次加息的押注。",
+      "summary_en": "The Bank of England unanimously voted to raise interest rates to 4% and warned inflation could approach 5% next year, signaling another hike may be on the cards. Traders increased bets on a back-to-back hike next month.",
+      "detail_zh": "英国央行货币政策委员会一致投票决定将关键利率上调至4%。央行警告称，明年通胀率预计将接近5%。政策制定者表示，可能还会进一步加息。市场交易员因此加大了对下个月再次加息的押注。行长Andrew Bailey随后召开新闻发布会，彭博电视进行了直播并提供了市场反应和分析。",
+      "detail_en": "The Bank of England's Monetary Policy Committee voted unanimously to raise the key interest rate to 4%. The central bank warned that inflation is on track to hit almost 5% next year. Policymakers signaled that another rate hike is on the cards. Traders responded by adding to bets for another hike next month. Governor Andrew Bailey held a press conference, which was broadcast live by Bloomberg TV along with market reaction and analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英国央行一致投票加息至4%。",
+          "en": "BOE unanimously voted to raise rates to 4%."
+        },
+        {
+          "zh": "央行警告明年通胀可能接近5%。",
+          "en": "The central bank warned inflation could approach 5% next year."
+        },
+        {
+          "zh": "政策制定者暗示可能进一步加息。",
+          "en": "Policymakers signaled another hike is on the cards."
+        },
+        {
+          "zh": "交易员加大了对下月再次加息的押注。",
+          "en": "Traders added to bets for another hike next month."
+        }
+      ],
+      "tags": [
+        "Bank of England",
+        "interest rates",
+        "inflation",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:AUu8vjF6p_g",
+      "title": "Joshua Wong’s 10-Year Term Seals End of Hong Kong’s Protest Era",
+      "title_zh": "黄之锋因新判决获刑10年，民主运动领袖面临更严厉惩罚",
+      "url": "https://www.youtube.com/watch?v=AUu8vjF6p_g",
+      "published_at": "2026-11-05T14:17:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "香港民主运动前领袖黄之锋原本预计明年年初获释，但新的10年刑期意味着他整个三十多岁都将在狱中度过，这是对香港前抗议领袖最严厉的判决之一。",
+      "summary_en": "Joshua Wong, former face of Hong Kong's pro-democracy movement, was set to be released early next year after nearly six years in prison, but a new 10-year sentence means he will spend his entire thirties behind bars, marking one of the harshest penalties against the city's former protest leaders.",
+      "detail_zh": "黄之锋曾是香港民主运动的青少年代表，在服刑近六年后，原本预计于明年年初获释。然而，新的判决将刑期增至10年，这意味着他的整个三十多岁都将在监狱中度过。报道称，这是对香港前抗议领袖迄今最严厉的惩罚之一。原文未提供新判决的具体罪名、法院名称或判决日期等细节。",
+      "detail_en": "Joshua Wong, once the teenage face of Hong Kong's pro-democracy movement, was set to walk free early next year after nearly six years in prison. Instead, a new 10-year sentence means he will spend his entire thirties behind bars, marking one of the harshest penalties yet against the city's former protest leaders. The original text does not provide details on the specific charges, court, or sentencing date.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄之锋原本预计明年年初获释，但新判决将刑期增至10年。",
+          "en": "Joshua Wong was originally expected to be released early next year, but a new sentence increased his prison term to 10 years."
+        },
+        {
+          "zh": "这意味着他整个三十多岁都将在狱中度过。",
+          "en": "This means he will spend his entire thirties behind bars."
+        },
+        {
+          "zh": "该判决是对香港前抗议领袖最严厉的惩罚之一。",
+          "en": "The sentence is one of the harshest penalties yet against the city's former protest leaders."
+        }
+      ],
+      "tags": [
+        "Hong Kong",
+        "Joshua Wong",
+        "sentencing",
+        "pro-democracy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:WJvxNrwjM74",
       "title": "Ariana Salvatore on Bloomberg Surveillance",
@@ -16857,56 +16982,6 @@
         "PCE",
         "rate hike",
         "White House"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:jR3sAVB8mcs",
-      "title": "The S&P 500 Is Just 50 Stocks. The Nasdaq Is a 67% AI Bet. What Else Is Hiding in Your Funds?",
-      "title_zh": "Sparkline Capital的Kai Wu：揭示基金标签下的隐藏AI敞口与分散化假象",
-      "url": "https://www.youtube.com/watch?v=jR3sAVB8mcs",
-      "published_at": "2026-10-29T14:53:05+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Sparkline Capital的Kai Wu在Excess Returns播客中演示如何通过Sparkline Analytics识别投资组合中隐藏的AI敞口、ETF持仓重叠和 unintended factor bets。他指出，持有多个基金可能仍使投资者依赖相同的公司和AI支出周期，并区分了AI基础设施、早期采用者和落后者。",
-      "summary_en": "Kai Wu of Sparkline Capital demonstrates on the Excess Returns podcast how to uncover hidden AI exposure, overlapping ETF holdings, and unintended factor bets using Sparkline Analytics. He notes that owning several funds can still leave investors dependent on the same companies and AI spending cycle, and distinguishes between AI infrastructure, early adopters, and laggards.",
-      "detail_zh": "在Excess Returns播客中，Sparkline Capital的Kai Wu与Matt Zeigler和Justin Carbonneau一起演示了Sparkline Analytics工具。他们使用标普500、纳斯达克、新兴市场和主动基金的例子，检查投资者在基金标签之下实际拥有什么。Kai Wu解释了AI基础设施、早期采用者和落后者之间的区别，并展示了因子分析、无形资产数据和投资组合构建器如何帮助投资者就分散化和经理业绩提出更好的问题。讨论涵盖：AI基础设施敞口如何在标普500、纳斯达克和主题AI基金之间重叠；为何Kai Wu区分AI早期采用者与基础设施构建者和落后者；资本支出上升如何改变曾经轻资产企业的经济性；基金持仓数量为何可能夸大其分散化程度；半导体敞口如何将新兴市场与同一AI交易联系起来；减少AI基础设施敞口与增加落后者敞口之间的权衡；ARKK在区分选股与因子逆风方面说明了什么；股息、价值 and 低波动基金为何可能具有相似的底层敞口；专利、研发和人力资本如何揭示传统价值指标可能遗漏的资产；使用基金比较和投资组合透视工具识别重叠持仓。",
-      "detail_en": "In the Excess Returns podcast, Kai Wu of Sparkline Capital joins Matt Zeigler and Justin Carbonneau for a walkthrough of Sparkline Analytics. Using examples from the S&P 500, Nasdaq, emerging markets, and active funds, they examine what investors actually own beneath the fund labels. Kai explains his distinction between AI infrastructure, early adopters, and laggards, and demonstrates how factor analysis, intangible asset data, and a portfolio builder can help investors ask better questions about diversification and manager performance. Topics covered include: how AI infrastructure exposure can overlap across the S&P 500, Nasdaq, and thematic AI funds; why Kai Wu distinguishes AI early adopters from infrastructure builders and laggards; how rising capital expenditures can change the economics of formerly asset-light businesses; why a fund's number of holdings can overstate its diversification; how semiconductor exposure can connect emerging markets to the same AI trade; the trade-off between reducing AI infrastructure exposure and increasing exposure to laggards; what ARKK illustrates about separating stock selection from factor headwinds; why dividend, value, and low-volatility funds can have similar underlying exposures; how patents, R&D, and human capital reveal assets traditional value metrics can miss; using fund comparisons and portfolio look-through tools to identify overlapping positions.",
-      "conclusion_zh": "投资者应使用透视工具检查基金底层持仓，避免因持有多个基金而低估对AI基础设施的集中依赖。",
-      "conclusion_en": "Investors should use look-through tools to examine underlying fund holdings and avoid underestimating concentrated AI infrastructure exposure from owning multiple funds.",
-      "key_points": [
-        {
-          "zh": "持有多个基金可能仍使投资者依赖相同的公司和AI支出周期。",
-          "en": "Owning several funds can still leave investors dependent on the same companies and the same AI spending cycle."
-        },
-        {
-          "zh": "Kai Wu区分了AI基础设施、早期采用者和落后者，并指出资本支出上升可能改变曾经轻资产企业的经济性。",
-          "en": "Kai Wu distinguishes between AI infrastructure, early adopters, and laggards, and notes that rising capital expenditures can change the economics of formerly asset-light businesses."
-        },
-        {
-          "zh": "基金持仓数量可能夸大其分散化程度，股息、价值 and 低波动基金可能具有相似的底层敞口。",
-          "en": "A fund's number of holdings can overstate its diversification, and dividend, value, and low-volatility funds can have similar underlying exposures."
-        },
-        {
-          "zh": "半导体敞口可以将新兴市场与同一AI交易联系起来。",
-          "en": "Semiconductor exposure can connect emerging markets to the same AI trade."
-        },
-        {
-          "zh": "专利、研发和人力资本等无形资产数据可以揭示传统价值指标可能遗漏的资产。",
-          "en": "Intangible asset data such as patents, R&D, and human capital can reveal assets traditional value metrics may miss."
-        }
-      ],
-      "tags": [
-        "AI exposure",
-        "portfolio diversification",
-        "factor analysis",
-        "ETF overlap",
-        "intangible assets"
       ],
       "tickers": [],
       "sentiment": "neutral"
