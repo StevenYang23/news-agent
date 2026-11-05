@@ -1,6 +1,361 @@
 {
-  "generated_at": "2026-11-04T23:11:42.423567+00:00",
+  "generated_at": "2026-11-05T00:34:47.247711+00:00",
   "insights": [
+    {
+      "guid": "yt:O8nINARvaTI",
+      "title": "Democratic Sweep Redraws Political Map",
+      "title_zh": "Bloomberg《Balance of Power》选举后政治与商业对话",
+      "url": "https://www.youtube.com/watch?v=O8nINARvaTI",
+      "published_at": "2026-11-05T00:03:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目聚焦选举后美国政治格局：民主党在得州取得历史性胜利，共和党面临重大失利并展开反思；前国防部长帕内塔讨论白宫人事、国防部长去留及伊朗战争与对以军援等议题。内容以政治访谈为主，未涉及具体美股标的或市场数据。",
+      "summary_en": "This episode of Balance of Power focuses on the post-election U.S. political landscape: Democrats scored historic victories in Texas while Republicans reckon with major losses; former Defense Secretary Leon Panetta discusses White House staffing, the Defense Secretary's future, the Iran war, and halted military aid to Israel. The content is primarily political interviews with no specific U.S. equity tickers or market data.",
+      "detail_zh": "节目首先由Bloomberg记者更新关键众议院和参议院选举结果，阿拉斯加参议院选情仍未决出，密歇根州结果及Abdul El-Sayed的胜利也被提及。政治小组讨论共和党如何应对重大失利、民主党领导层与对特朗普的调查、JD Vance、伊朗以及2028年总统竞选。前国防部长兼前白宫幕僚长Leon Panetta表示，Susie Wiles能否继续担任白宫幕僚长取决于她与特朗普总统的关系，而这一关系看起来良好；他还谈到Pete Hegseth作为国防部长的前景、民主党能否结束伊朗战争，以及特朗普暂停对以色列数十亿美元军事援助。得州民主党主席Kendall Scudder称民主党在全州的胜利是多个选举周期努力重建党基础设施的结果，并表示马斯克收到了“得州不出售”的强硬信号；他还谈及数据中心开发、拉丁裔选民与得州战略以及治理优先事项。最后，Bloomberg的Jeff Mason报道特朗普在共和党失利后参观白宫舞厅，小组讨论Vance的2028年野心、DeSantis及新兴的2028年共和党阵营，民主党也开始着眼2028年总统竞选。",
+      "detail_en": "The program begins with Bloomberg reporters updating key House and Senate race results, with the Alaska Senate race still undecided and Michigan results and Abdul El-Sayed's victory noted. A political panel discusses how Republicans reckon with major losses, Democratic leadership and investigations of Trump, JD Vance, Iran, and the 2028 presidential race. Former Defense Secretary and White House Chief of Staff Leon Panetta says whether Susie Wiles remains White House Chief of Staff depends on her relationship with President Donald Trump, which he says appears good; he also discusses Pete Hegseth's future as Defense Secretary, whether Democrats can end the Iran war, and Trump halting billions in military aid to Israel. Texas Democratic Party Chair Kendall Scudder says Democrats' statewide wins resulted from hard work over multiple election cycles rebuilding the party's infrastructure, and that Elon Musk got a tough message that 'Texas is not for sale'; he also discusses data center development, Latino voters and Democrats' Texas strategy, and governing priorities. Finally, Bloomberg's Jeff Mason reports on Trump touring the White House ballroom after GOP losses, and the panel discusses Vance's 2028 ambitions, DeSantis and the emerging 2028 GOP field, with Democrats beginning to eye the 2028 presidential race.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党在得克萨斯州取得历史性全州胜利，归因于多个选举周期的基层工作和党建重建。",
+          "en": "Democrats scored historic statewide victories in Texas, attributed to grassroots work over multiple election cycles and party infrastructure rebuilding."
+        },
+        {
+          "zh": "前国防部长帕内塔称Susie Wiles能否留任白宫幕僚长取决于她与特朗普的关系，目前关系看起来良好。",
+          "en": "Former Defense Secretary Panetta says whether Susie Wiles remains White House Chief of Staff depends on her relationship with Trump, which currently appears good."
+        },
+        {
+          "zh": "帕内塔还谈及国防部长Hegseth的前景、民主党能否结束伊朗战争，以及特朗普暂停对以色列数十亿美元军援。",
+          "en": "Panetta also discussed Defense Secretary Hegseth's future, whether Democrats can end the Iran war, and Trump halting billions in military aid to Israel."
+        },
+        {
+          "zh": "得州民主党主席Scudder表示马斯克收到了“得州不出售”的强硬信号。",
+          "en": "Texas Democratic Party Chair Scudder says Elon Musk got a tough message that 'Texas is not for sale.'"
+        },
+        {
+          "zh": "政治小组讨论2028年总统竞选前景，涉及Vance的野心、DeSantis及两党布局。",
+          "en": "The political panel discussed the 2028 presidential race outlook, including Vance's ambitions, DeSantis, and both parties' positioning."
+        }
+      ],
+      "tags": [
+        "US elections",
+        "Texas politics",
+        "White House",
+        "Defense",
+        "2028 race"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uC1XCFmgtzE",
+      "title": "Trump Talks Ballroom & Arch After Election Loss",
+      "title_zh": "白宫回应中期选举失利：特朗普承认伊朗战争推高油价影响选情",
+      "url": "https://www.youtube.com/watch?v=uC1XCFmgtzE",
+      "published_at": "2026-11-04T23:29:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社的Jeff Mason讨论白宫对共和党中期选举失利的反应，指出特朗普将败选部分归因于伊朗战争导致汽油价格上涨，同时提及特朗普对舞厅事务的关注。",
+      "summary_en": "Bloomberg's Jeff Mason discusses the White House reaction to Republican midterm losses, noting Trump acknowledged higher gasoline prices tied to the Iran war contributed to the defeat, while also mentioning Trump's focus on the ballroom.",
+      "detail_zh": "在彭博“Balance of Power”特别节目中，彭博社的Jeff Mason向Joe Mathieu和Kailey Leinz介绍了白宫对共和党中期选举失利的反应。Mason提到，特朗普总统的关注点包括舞厅事务。此外，特朗普承认与伊朗战争相关的汽油价格上涨对选举失利起到了作用。节目未提供更多关于选举结果、油价具体涨幅或政策影响的细节。",
+      "detail_en": "On Bloomberg's Special Edition of \"Balance of Power,\" Bloomberg's Jeff Mason spoke with Joe Mathieu and Kailey Leinz about the White House reaction to Republican midterm losses. Mason noted that President Trump's focus included the ballroom. Additionally, Trump acknowledged that higher gasoline prices tied to the Iran war contributed to the defeat. The segment did not provide further details on election results, specific gasoline price increases, or policy implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "白宫对共和党中期选举失利作出反应。",
+          "en": "The White House reacted to Republican midterm losses."
+        },
+        {
+          "zh": "特朗普承认伊朗战争导致的汽油价格上涨对败选有影响。",
+          "en": "Trump acknowledged that higher gasoline prices tied to the Iran war contributed to the defeat."
+        },
+        {
+          "zh": "特朗普的关注点包括舞厅事务。",
+          "en": "Trump's focus included the ballroom."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "White House",
+        "gasoline prices",
+        "Iran war",
+        "Trump"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:CVxA4uYSIxY",
+      "title": "Scudder Says Texas Is Not for Sale",
+      "title_zh": "得州民主党主席称全州胜利源于基层建设，并向马斯克传递明确信号",
+      "url": "https://www.youtube.com/watch?v=CVxA4uYSIxY",
+      "published_at": "2026-11-04T23:25:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "得州民主党主席Kendall Scudder表示，民主党在得州的全州性胜利是多个选举周期努力重建政党基础设施的结果。他称埃隆·马斯克收到了“得州非卖品”的强硬信号，并主张社区应在数据中心开发决策中有发言权。",
+      "summary_en": "Texas Democratic Party Chair Kendall Scudder said Democrats' statewide wins in Texas resulted from hard work over multiple election cycles rebuilding the party's infrastructure. He said Elon Musk received a tough message that \"Texas is not for sale,\" and argued communities should have a say in data center development decisions.",
+      "detail_zh": "得州民主党主席Kendall Scudder在Bloomberg“Balance of Power”特别节目中表示，民主党在得州的全州性胜利是人们在多个选举周期中辛勤工作、重建政党基础设施的结果。Scudder称，埃隆·马斯克收到了一个强硬信号：“得州非卖品”。他还表示，得州对商业持开放态度，但社区应在数据中心开发中有发言权，而不是在决策已经做出后才得知。Scudder认为，民主党的优先事项应包括反腐败改革、降低房产税、回滚学校代金券同时加强公立学校。",
+      "detail_en": "Texas Democratic Party Chair Kendall Scudder said on Bloomberg's Special Edition of \"Balance of Power\" that Democrats' statewide wins in Texas were the result of people working hard over multiple election cycles and rebuilding the party's infrastructure. Scudder said Elon Musk got a tough message that \"Texas is not for sale.\" He also said Texas is open for business, but communities should have a say in data center development instead of finding out after decisions have already been made. Scudder believes Democrats' priorities should include corruption reform, reducing property taxes and rolling back school vouchers while strengthening public schools.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "得州民主党全州性胜利归因于多个选举周期的基层工作和政党基础设施重建。",
+          "en": "Texas Democrats' statewide wins attributed to grassroots work over multiple election cycles and rebuilding party infrastructure."
+        },
+        {
+          "zh": "Scudder称埃隆·马斯克收到了“得州非卖品”的强硬信号。",
+          "en": "Scudder said Elon Musk received a tough message that \"Texas is not for sale.\""
+        },
+        {
+          "zh": "得州对商业开放，但社区应在数据中心开发决策中有发言权。",
+          "en": "Texas is open for business, but communities should have a say in data center development decisions."
+        },
+        {
+          "zh": "民主党优先事项包括反腐败改革、降低房产税、回滚学校代金券并加强公立学校。",
+          "en": "Democratic priorities include corruption reform, reducing property taxes, and rolling back school vouchers while strengthening public schools."
+        }
+      ],
+      "tags": [
+        "Texas",
+        "Democrats",
+        "Elon Musk",
+        "data centers",
+        "property taxes"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:v-cxKkJ_3ZE",
+      "title": "Panetta Says Voters Sent Trump a Message on Iran War",
+      "title_zh": "帕内塔评白宫人事与伊朗政策：赫格塞思 credibility 不足，特朗普需回应民意",
+      "url": "https://www.youtube.com/watch?v=v-cxKkJ_3ZE",
+      "published_at": "2026-11-04T23:21:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前国防部长帕内塔表示，苏西·怀尔斯是否留任白宫幕僚长取决于她与特朗普的关系，目前看关系良好；国防部长赫格塞思在国会两党中缺乏可信度，且未充分向国会通报，特朗普最终需决定其去留；帕内塔还称特朗普必须认识到美国人民已明确表达不支持与伊朗的战争。",
+      "summary_en": "Former Defense Secretary Leon Panetta said whether Susie Wiles remains White House Chief of Staff depends on her relationship with President Trump, which appears good. He said Defense Secretary Pete Hegseth has little credibility with either party on Capitol Hill and has failed to keep Congress adequately informed, and Trump will eventually have to decide whether to keep him. Panetta also said Trump must recognize that the American people have spoken clearly and do not support the war with Iran.",
+      "detail_zh": "前国防部长、前白宫幕僚长莱昂·帕内塔在彭博“权力平衡”特别节目中表示，苏西·怀尔斯能否继续担任白宫幕僚长，取决于她与总统特朗普的关系，而帕内塔认为这一关系目前看来良好。帕内塔指出，国防部长皮特·赫格塞思在国会山对民主党和共和党都缺乏可信度，并且未能充分向国会通报情况；他认为特朗普最终将不得不决定是否让赫格塞思继续担任该职。帕内塔还表示，特朗普必须认识到美国人民已经发出明确信号，不支持与伊朗的战争。上述言论发表于彭博电视台节目，主持人为乔·马蒂厄和凯莉·莱因兹。",
+      "detail_en": "Former Defense Secretary and White House Chief of Staff Leon Panetta said on Bloomberg's Special Edition of \"Balance of Power\" that whether Susie Wiles remains White House Chief of Staff depends on her relationship with President Donald Trump, a relationship Panetta says appears to be good. Panetta said Defense Secretary Pete Hegseth has little credibility with either Democrats or Republicans on Capitol Hill and has failed to keep Congress adequately informed, and said Trump will eventually have to decide whether to keep him in the job. Panetta also said Trump has to recognize that the American people have spoken clearly and do not support the war with Iran. The remarks were made on Bloomberg Television with hosts Joe Mathieu and Kailey Leinz.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "帕内塔：苏西·怀尔斯是否留任白宫幕僚长取决于她与特朗普的关系，目前看关系良好。",
+          "en": "Panetta: Whether Susie Wiles stays as White House Chief of Staff depends on her relationship with Trump, which appears good."
+        },
+        {
+          "zh": "帕内塔：国防部长赫格塞思在国会两党中缺乏可信度，且未充分向国会通报。",
+          "en": "Panetta: Defense Secretary Hegseth has little credibility with either party on Capitol Hill and has failed to keep Congress adequately informed."
+        },
+        {
+          "zh": "帕内塔：特朗普最终需决定是否让赫格塞思继续担任国防部长。",
+          "en": "Panetta: Trump will eventually have to decide whether to keep Hegseth in the job."
+        },
+        {
+          "zh": "帕内塔：特朗普必须认识到美国人民已明确表达不支持与伊朗的战争。",
+          "en": "Panetta: Trump must recognize that the American people have spoken clearly and do not support the war with Iran."
+        }
+      ],
+      "tags": [
+        "White House",
+        "Defense Secretary",
+        "Iran",
+        "Congress"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-Jie5FdfJfw",
+      "title": "Democratic Sweep, Markets Rally & AI Stocks Slide",
+      "title_zh": "Bloomberg The Close 节目章节概览：中期选举、AI与半导体、财报及私人市场",
+      "url": "https://www.youtube.com/watch?v=-Jie5FdfJfw",
+      "published_at": "2026-11-04T22:55:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为 Bloomberg The Close 节目的嘉宾名单与章节时间轴，未包含任何具体观点、数字或市场判断。内容覆盖中期选举与市场、AI热潮、半导体财报（Qualcomm、Arm）、私人信贷与资产配置等主题，但均无实质论述。",
+      "summary_en": "The source is only a guest list and chapter timeline for Bloomberg's The Close, with no specific views, figures, or market judgments. Topics span midterms and markets, the AI boom, semiconductor earnings (Qualcomm, Arm), private credit and portfolio diversification, but no substantive discussion is provided.",
+      "detail_zh": "原文为 Bloomberg The Close 节目的嘉宾名单与章节时间轴，未提供任何具体观点、数字或分析内容。章节标题显示讨论主题包括：摩根士丹利谈中期选举、市场与政治僵局；民主党国会、赤字与美联储；CVS拆分与药房分拆及医疗保健策略；前思科CEO John Chambers谈AI热潮；AI数据中心、半导体与监管；ScottsMiracle-Gro CEO谈业绩与2027年增长；选举后市场轮动与AI交易；Cantor Fitzgerald谈股票、利率与市场广度；Qualcomm、Expedia与Arm财报；Qualcomm、Arm与智能手机之外转型；市场回顾：大型科技股上涨而芯片股下跌；CFRA谈Qualcomm、Arm与半导体展望；芯片股、AI增长与选举后政策；民主党大胜、可负担性与新国会；Future Standard CEO谈私人市场与AI投资；私人信贷、退休与投资组合多元化；Host Hotels CEO谈奢华旅行与收购；商务旅行、富裕消费者与2027年展望。由于原文仅为节目大纲，无法提炼具体投资洞见。",
+      "detail_en": "The source is only a guest list and chapter timeline for Bloomberg's The Close, with no specific views, figures, or analysis. Chapter titles indicate topics including: Morgan Stanley on midterms, markets and gridlock; a Democratic Congress, deficits and the Fed; CVS breakup, pharmacy spin-off and health-care strategy; former Cisco CEO John Chambers on the AI boom; AI data centers, semiconductors and regulation; ScottsMiracle-Gro CEO on earnings and 2027 growth; post-election market rotation and the AI trade; Cantor Fitzgerald on stocks, rates and market broadening; Qualcomm, Expedia and Arm earnings; Qualcomm, Arm and the shift away from smartphones; market recap: Big Tech rallies as chip stocks slide; CFRA on Qualcomm, Arm and the semiconductor outlook; chip stocks, AI growth and post-election policy; a Democratic sweep, affordability and the new Congress; Future Standard CEO on private markets and AI investing; private credit, retirement and portfolio diversification; Host Hotels CEO on luxury travel and acquisitions; business travel, affluent consumers and the 2027 outlook. As the source is only an outline, no specific investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文仅为节目章节时间轴，无实质观点或数据。",
+          "en": "The source is only a chapter timeline, with no substantive views or data."
+        },
+        {
+          "zh": "章节主题覆盖中期选举、AI、半导体财报、私人信贷与酒店旅行。",
+          "en": "Chapter topics cover midterms, AI, semiconductor earnings, private credit and hotels/travel."
+        },
+        {
+          "zh": "提及的嘉宾来自摩根士丹利、Cantor Fitzgerald、CFRA、Future Standard、Host Hotels等机构。",
+          "en": "Guests are from Morgan Stanley, Cantor Fitzgerald, CFRA, Future Standard, Host Hotels and others."
+        },
+        {
+          "zh": "章节标题显示市场回顾部分提到大型科技股上涨而芯片股下跌。",
+          "en": "A chapter title indicates the market recap noted Big Tech rallying while chip stocks slid."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "AI",
+        "semiconductors",
+        "private-credit",
+        "earnings"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:FANiFcFed78",
+      "title": "John Chambers Makes the Case for AI, Calling It a Win for Society",
+      "title_zh": "钱伯斯：对AI增长与资本形成速度不感意外，九年前已布局AI初创",
+      "url": "https://www.youtube.com/watch?v=FANiFcFed78",
+      "published_at": "2026-11-04T22:29:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "JC2 Ventures创始人、思科前CEO约翰·钱伯斯表示，他对AI的增长速度和资本形成速度并不感到意外，并透露自己九年前就已投资AI初创公司。",
+      "summary_en": "John Chambers, founder of JC2 Ventures and former Cisco CEO, said he was not surprised by the pace of AI growth or capital formation, noting he backed AI startups nine years ago.",
+      "detail_zh": "JC2 Ventures创始人、思科前CEO约翰·钱伯斯在“Bloomberg The Close”节目中表示，他对AI的增长速度以及资本形成速度并不感到意外。他提到，自己早在九年前就已投资AI初创公司。原文未提供更多关于其投资标的、AI市场前景或具体数据的细节。",
+      "detail_en": "John Chambers, founder of JC2 Ventures and former CEO of Cisco, said on \"Bloomberg The Close\" that he was not surprised by the pace of AI growth or capital formation. He noted that he backed AI startups nine years ago. The source provides no further details on his investments, AI market outlook, or specific data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "钱伯斯对AI增长和资本形成速度不感意外",
+          "en": "Chambers is not surprised by the pace of AI growth and capital formation"
+        },
+        {
+          "zh": "他九年前已投资AI初创公司",
+          "en": "He backed AI startups nine years ago"
+        },
+        {
+          "zh": "钱伯斯是JC2 Ventures创始人、思科前CEO",
+          "en": "Chambers is founder of JC2 Ventures and former CEO of Cisco"
+        }
+      ],
+      "tags": [
+        "AI",
+        "venture capital",
+        "Cisco",
+        "JC2 Ventures"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:B58210xiVNA",
+      "title": "Charlie Dent: What kind of party does the GOP want to be?",
+      "title_zh": "前共和党议员呼吁共和党重新评估方向",
+      "url": "https://www.youtube.com/watch?v=B58210xiVNA",
+      "published_at": "2026-11-04T22:27:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前宾夕法尼亚州众议员查理·登特表示，选举后共和党需要重新评估其方向，并认为共和党议员有责任在认为总统方向错误时“推回自己的总统”。",
+      "summary_en": "Former Pennsylvania Rep. Charlie Dent says Republicans need to reassess their direction after the election, and that GOP lawmakers have a responsibility to \"push back on their own president\" when they believe he's headed in the wrong direction.",
+      "detail_zh": "前宾夕法尼亚州众议员查理·登特在选举后表示，共和党需要重新评估其方向，并提出了“我们想成为什么样的政党？”的问题。登特认为，共和党议员有责任在认为总统方向错误时“推回自己的总统”。原文未提供更多具体细节或投资相关分析。",
+      "detail_en": "Former Pennsylvania Rep. Charlie Dent said after the election that Republicans need to reassess their direction, asking, \"What kind of a party do we want to be?\" Dent believes GOP lawmakers have a responsibility to \"push back on their own president\" when they think he's headed in the wrong direction. The original text does not provide further details or investment-related analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "登特呼吁共和党在选举后重新评估方向。",
+          "en": "Dent calls for Republicans to reassess their direction after the election."
+        },
+        {
+          "zh": "登特认为共和党议员应推回总统的错误方向。",
+          "en": "Dent believes GOP lawmakers should push back on the president's wrong direction."
+        },
+        {
+          "zh": "原文未涉及具体政策或市场影响。",
+          "en": "The original text does not address specific policies or market impact."
+        }
+      ],
+      "tags": [
+        "GOP",
+        "election",
+        "political direction"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:1RG2WRprnzc",
+      "title": "Democrats Sweep in Midterm GOP Implosion",
+      "title_zh": "民主党横扫国会，分裂政府或引发债市动荡",
+      "url": "https://www.youtube.com/watch?v=1RG2WRprnzc",
+      "published_at": "2026-11-04T22:07:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党在中期选举中横扫国会，生活成本与伊朗战争引发对特朗普及其政党的强烈反弹。华尔街策略师警告，分裂政府可能为明年债务上限之争埋下伏笔，扰乱债券市场。得州数据中心开发商面临新当选民主党州长的最坏情景。",
+      "summary_en": "Democrats swept Congress in the midterm elections, driven by outrage over the cost of living and the war in Iran, delivering a rebuke to President Trump and his party. Wall Street strategists warn that divided government could disrupt the bond market next year by setting up a bruising debt ceiling fight. Data center developers in Texas face their worst-case scenario under a newly elected Democratic governor.",
+      "detail_zh": "民主党在周二的中期选举中横扫国会，生活成本高企与伊朗战争引发的愤怒导致选民对特朗普总统及其政党进行强烈谴责，而就在两年前特朗普还曾强势重返白宫。得克萨斯州的数据中心开发商在新当选的民主党州长治下面临最坏情景。华尔街策略师警告，分裂政府的回归可能为明年债务上限的激烈争斗埋下伏笔，从而扰乱债券市场。负责任联邦预算委员会的Maya MacGuineas就此发表了看法。此外，预测市场行业在选举夜表现强劲，Kalshi研究员Nicole Kagan分享了相关见解。节目还讨论了市场动态：股市因油价暴跌而飙升，大型科技股反弹而半导体股下滑，以及CVS、麦当劳等个股走势。",
+      "detail_en": "Democrats swept into power in Congress on Tuesday, with outrage over the cost of living and the war in Iran leading to a thundering rebuke of President Donald Trump and his party, just two years after his dominant White House comeback. Data center developers in Texas are facing their worst-case scenario under a newly elected Democratic governor. Wall Street strategists are warning that the return of divided government could disrupt the bond market next year by setting the stage for a bruising fight over the debt ceiling. Maya MacGuineas of the Committee for a Responsible Federal Budget weighed in. Plus, the prediction market industry had a strong election night performance, with insights from Nicole Kagan, Researcher at Kalshi. The program also covered market moves: stocks surged as oil plunged, Big Tech rallied while semiconductors slid, and stock movers included CVS and McDonald's.",
+      "conclusion_zh": "分裂政府下债务上限博弈可能成为明年债市的主要风险点，同时数据中心面临政治 backlash，投资者需关注政策不确定性对相关板块的影响。",
+      "conclusion_en": "The debt ceiling fight under divided government could be a key risk for the bond market next year, while data centers face political backlash; investors should watch policy uncertainty's impact on related sectors.",
+      "key_points": [
+        {
+          "zh": "民主党横扫国会，生活成本与伊朗战争成为选民反弹的主因。",
+          "en": "Democrats swept Congress, with cost of living and the war in Iran driving voter backlash."
+        },
+        {
+          "zh": "华尔街策略师警告分裂政府可能导致明年债务上限之争，扰乱债券市场。",
+          "en": "Wall Street strategists warn divided government could disrupt the bond market next year via a debt ceiling fight."
+        },
+        {
+          "zh": "得州数据中心开发商在新当选民主党州长下面临最坏情景。",
+          "en": "Texas data center developers face worst-case scenario under newly elected Democratic governor."
+        },
+        {
+          "zh": "预测市场行业在选举夜表现强劲，Kalshi研究员分享观察。",
+          "en": "Prediction market industry had a strong election night performance, with Kalshi researcher sharing insights."
+        },
+        {
+          "zh": "市场动态：股市因油价暴跌而飙升，大型科技股反弹，半导体股下滑。",
+          "en": "Market moves: stocks surged as oil plunged, Big Tech rallied, semiconductors slid."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "divided government",
+        "debt ceiling",
+        "data centers",
+        "prediction markets"
+      ],
+      "tickers": [
+        "CVS",
+        "MCD"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:LN77M1CTkFM",
       "title": "FULL SHOW: Balance of Power: Early Edition 11/4/2026",
@@ -17117,153 +17472,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:2gxQAM8qAqM",
-      "title": "Signals to Watch in the U.S. Midterms",
-      "title_zh": "中期选举前瞻：政策不确定性更多来自行政分支而非国会",
-      "url": "https://www.youtube.com/watch?v=2gxQAM8qAqM",
-      "published_at": "2026-10-29T00:12:14+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "摩根士丹利分析师指出，中期选举本身不太可能改变美国政策方向，因为2025年以来的不确定性主要来自行政分支。国会控制权对财政政策影响更大，分裂政府可能使立法更难通过，但未必降低政策波动。投资者应关注州和地方层面的政策动向，尤其是AI基础设施建设和税收。",
-      "summary_en": "Morgan Stanley analysts argue that the midterm elections are unlikely to change the direction of US policy, as much of the uncertainty since early 2025 has come from the executive branch. Congressional control matters more for fiscal policy, and divided government may make legislation harder to pass but not necessarily reduce policy volatility. Investors should watch state and local policy developments, especially around AI infrastructure and taxes.",
-      "detail_zh": "摩根士丹利美国公共政策研究主管Ariana Salvatore与财富管理政策及地缘战略主管Monica Aguero讨论中期选举。Aguero的团队监测四个与中期选举结果正相关的指标：通用国会选票、总统支持率、消费者信心和汽油价格。民主党在通用选票上领先约8个百分点，总统支持率为38.8%，低于40%的历史参考点；10月消费者信心为密歇根大学调查有史以来中期选举前10月的最低值；9月汽油价格同比上涨37.6%。这些信号指向执政党面临挑战的环境，但属于方向性指标，并非选举结果的预测。Salvatore认为，中期选举不太可能从根本上改变美国政策方向，因为2025年初以来的不确定性主要来自行政分支，而非国会；关税、放松监管、移民、地缘政治、出口管制等仍是政策不确定性的重要来源。国会控制权对财政政策影响更大：分裂政府将使新立法更难通过，可能导致政府拨款、债务上限和国防开支的谈判更加激烈。对于机构投资者而言，关键不是哪个政党获胜，而是国会构成对政策议程的意义，以及领导层能否有效组织党团成员在谈判中运用杠杆。Aguero补充，个人投资者最关心选举对投资组合的影响。历史上，标普500在中期选举后的日历年平均回报约14%，而中期选举年本身仅约3%。今年该指数已超过典型的第二年轨迹，可能加剧政策敏感板块的风险与机会；科技和能源的近期强势加上市场宽度狭窄，可能放大政策相关波动。但她们警告不要仅基于历史选举模式或政治头条做投资决策，商业周期、企业盈利、通胀、利率和AI投资周期长期而言更重要。两人均强调电力成本和数据中心是重点政策主题。她们认为，无论谁控制国会，AI基础设施扩建不太可能面临广泛的联邦禁令，因为两党都承认AI是战略优先事项，尤其是考虑到与中国的竞争。但州和地方层面的政治阻力在增加，围绕电价、用水和基础设施成本的担忧日益重要。基准情景是“有条件扩建”：投资周期继续，但新项目的速度和地理分布可能更依赖地方政策决定。这对公用事业、发电和更广泛的AI基础设施供应链的投资者有影响。对于财富管理客户，Aguero指出，全国性政治问题可能有非常地方化的投资影响；个人担忧始于家庭电费，但也可能影响地方发行人和市政债券市场，取决于社区和地方政府是获得新投资的好处还是承担基础设施成本。因此，关注州和地方政府实际在做什么，而不是对华盛顿的每一个动向做出反应。税收是另一个收到很多问题的领域。她们预计，国会构成变化不会实质性逆转去年通过OBBA颁布的税收政策，因为总统在未来两年仍保留否决权，这对重大立法变化构成重大障碍。但中期选举可能为2028-29年围绕AI和扩建的不同税收辩论奠定基础；对市场而言，预期可能在立法实际到来之前就开始变化。个人投资者还需关注州层面的财富税、财产税和州所得税提案，这些可能影响家庭财务规划和市政债券市场。Salvatore最后指出，最大的风险是假设分裂政府自动意味着更少的政策波动；通常分裂政府意味着僵局，但这种约束实际上可能……（原文截断）。",
-      "detail_en": "Ariana Salvatore, head of US public policy research at Morgan Stanley, and Monica Aguero, head of policy and geopolitical strategy for Morgan Stanley Wealth Management, discuss the midterm elections. Aguero's team monitors four indicators positively correlated with midterm outcomes: the generic congressional ballot, presidential approval, consumer sentiment, and gasoline prices. Democrats lead the generic ballot by about eight points, and presidential approval is 38.8%, just below the 40% historical reference point. October consumer sentiment is the lowest of any October before a midterm election in the University of Michigan survey's history, and September gasoline prices were up 37.6% year over year. These signals point to a challenging environment for the incumbent party but are directional indicators, not a forecast of the outcome. Salvatore believes the midterms are unlikely to fundamentally change the direction of US policy because much of the uncertainty since early 2025 has come from the executive branch rather than Congress; tariffs, deregulation, immigration, geopolitics, and export controls remain important sources of policy uncertainty. Congressional control matters more for fiscal policy: divided government would make new legislation harder to pass and could mean more contentious negotiations over government funding, the debt limit, and defense spending. For institutional investors, it's less about which party wins and more about what the composition of Congress means for the policy agenda and leadership's ability to organize and corral caucus members to use leverage in negotiations. Aguero adds that individual investors' biggest question is what the election means for their portfolios. Historically, the S&P 500 has averaged about a 14% return in the calendar year following a midterm election versus roughly 3% in the midterm year itself. This year the index has already outperformed that typical second-year trajectory, which could heighten risks and opportunities for policy-sensitive sectors; recent strength in technology and energy combined with narrow market breadth could amplify policy-related volatility. But they caution against making portfolio decisions based on historical election patterns or political headlines alone, as the business cycle, corporate earnings, inflation, interest rates, and the AI investment cycle are likely to matter much more over the long run. Both emphasize electricity costs and data centers as a key policy theme. They believe the AI infrastructure buildout is unlikely to face broad federal prohibition regardless of who controls Congress, given bipartisan recognition of AI as a strategic priority, particularly amid competition with China. However, political resistance is growing at the state and local levels over electricity prices, water usage, and infrastructure costs. The base case is a conditional buildout: the investment cycle continues, but the pace and geographic distribution of new projects could depend more on local policy decisions. This matters for investors exposed to utilities, power generation, and the broader AI infrastructure supply chain. For wealth management clients, Aguero notes that a national political issue can have very local investment implications; concerns often begin with the electricity bill but can also affect local issuers and the municipal bond market depending on whether a community captures the benefits of new investment or absorbs infrastructure costs. She emphasizes following what state and local governments are actually doing rather than reacting to every move out of Washington. On taxes, they do not expect a change in congressional composition to meaningfully reverse the tax policies enacted last year through the OBBA, as the president retains veto authority for the next two years, creating a significant hurdle to major legislative changes. But the midterms could start to lay the groundwork for a different tax debate heading into 2028-29, specifically around AI and the buildout; for markets, expectations can start changing well before legislation arrives. Individual investors should also watch state-level proposals involving wealth taxes, property taxes, and state income taxes, which could affect household financial planning and the municipal bond market. Salvatore notes the biggest risk is assuming divided government automatically means less policy volatility; typically divided government means gridlock, but that constraint is actually... (original truncated).",
-      "conclusion_zh": "中期选举本身对美股方向影响有限，投资者更应关注财政政策谈判、州和地方层面的AI基础设施与税收政策变化，而非单纯押注选举结果。",
-      "conclusion_en": "The midterms themselves have limited directional impact on US equities; investors should focus more on fiscal policy negotiations and state/local developments in AI infrastructure and taxes rather than betting solely on election outcomes.",
-      "key_points": [
-        {
-          "zh": "中期选举监测指标显示执政党面临挑战：民主党通用选票领先约8个百分点，总统支持率38.8%，10月消费者信心为历史中期选举前最低，9月汽油价格同比上涨37.6%。",
-          "en": "Midterm monitor indicators point to a challenging environment for the incumbent party: Democrats lead the generic ballot by about 8 points, presidential approval is 38.8%, October consumer sentiment is the lowest pre-midterm October on record, and September gasoline prices rose 37.6% year over year."
-        },
-        {
-          "zh": "中期选举不太可能改变美国政策方向，因为不确定性主要来自行政分支；国会控制权对财政政策影响更大，分裂政府可能使立法更难通过。",
-          "en": "The midterms are unlikely to change the direction of US policy, as uncertainty stems mainly from the executive branch; congressional control matters more for fiscal policy, and divided government may make legislation harder to pass."
-        },
-        {
-          "zh": "AI基础设施扩建的基准情景是“有条件扩建”：联邦层面不太可能广泛禁止，但州和地方层面的阻力可能影响项目速度和地理分布。",
-          "en": "The base case for the AI infrastructure buildout is a 'conditional buildout': broad federal prohibition is unlikely, but state and local resistance could affect the pace and geographic distribution of projects."
-        },
-        {
-          "zh": "税收政策：预计国会构成变化不会实质性逆转OBBA税收政策，因总统否决权构成障碍；但中期选举可能为2028-29年围绕AI的税收辩论奠定基础。",
-          "en": "Tax policy: a change in congressional composition is not expected to meaningfully reverse OBBA tax policies due to the presidential veto; however, the midterms could lay groundwork for a tax debate around AI heading into 2028-29."
-        },
-        {
-          "zh": "个人投资者应关注州和地方层面的政策动向，如财富税、财产税和州所得税提案，这些可能影响家庭财务规划和市政债券市场。",
-          "en": "Individual investors should watch state and local policy developments, such as proposals on wealth taxes, property taxes, and state income taxes, which could affect household financial planning and the municipal bond market."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "fiscal policy",
-        "AI infrastructure",
-        "tax policy",
-        "municipal bonds"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "/guest-content/list-guest-transcripts/6233-transcript-of-the-podcast-interview-between-erik-townsend-luke-gromen/file",
-      "title": "Transcript of the Podcast Interview between Erik Townsend, Luke Gromen (\n                                                                                                            pdf,                                                                                                                                                                 347 KB                                                                                                    )",
-      "title_zh": "Gromen：霍尔木兹海峡封锁影响延迟，但美联储终将印钞购债",
-      "url": "https://www.macrovoices.com/guest-content/list-guest-transcripts/6233-transcript-of-the-podcast-interview-between-erik-townsend-luke-gromen/file",
-      "published_at": "2026-10-29T00:00:00+00:00",
-      "source_name": "Macro Voices",
-      "source_kind": "article",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Luke Gromen 在 MacroVoices 访谈中承认，霍尔木兹海峡封锁对经济和市场的冲击比预期更慢，原因包括中国抑制需求、全球释放战略储备以及化肥需求下降。他坚持认为，美国最终只能由美联储印钞购买国债，并称官方否认债务货币化的说法是“胡扯”。",
-      "summary_en": "Luke Gromen acknowledged on MacroVoices that the economic and market impact of the Strait of Hormuz closure has been slower than expected, citing China's demand restraint, global SPR releases, and falling fertilizer demand. He maintains that the Fed will ultimately have to print money and buy Treasuries, calling official denials of debt monetization 'bull crap.'",
-      "detail_zh": "Gromen 表示，海峡封锁的预测方向正确，但影响传导速度被低估。中国抑制需求并消耗战略储备，西方多国协调释放 SPR，增加了供应，缓解了冲击。化肥因价格过高导致部分新兴市场减少采购，可能先压低作物价格，但若施肥减少导致明年减产，则对农产品价格构成上行风险。炼油厂遭袭（俄罗斯、沙特、伊朗）可能使成品油裂解价差持续高企，柴油价格部分地区接近每桶200美元。Gromen 认为，尽管供应面消息看似利空，原油价格仍高于六个月前，中国可能吸收了部分供应。他重申，美国债务最终只能由美联储印钞购买，官方否认债务货币化的说辞不可信。",
-      "detail_en": "Gromen said the direction of the Strait closure call was right, but the transmission speed was underestimated. China restrained demand and drew down SPRs, while Western coordinated SPR releases added supply and mitigated the shock. Fertilizer became too expensive for some emerging markets, potentially depressing crop prices initially, but reduced application could cut next year's yields and become bullish for agricultural prices. Attacks on refineries in Russia, Saudi Arabia, and Iran could keep crack spreads elevated for years, with diesel near $200/bbl in some regions. Gromen noted crude prices remain higher than six months ago despite seemingly bearish supply news, and China may be absorbing supply. He reiterated that the U.S. debt will ultimately be monetized by the Fed, and official denials are not credible.",
-      "conclusion_zh": "Gromen 认为，尽管短期冲击延迟，但供应受限与财政货币化压力终将显现，美联储印钞购债是最终路径。",
-      "conclusion_en": "Gromen argues that despite delayed near-term impact, supply constraints and fiscal monetization pressures will eventually surface, with Fed money printing to buy Treasuries as the endgame.",
-      "key_points": [
-        {
-          "zh": "海峡封锁的经济影响传导慢于预期，因中国抑制需求及全球释放战略储备。",
-          "en": "The economic impact of the Strait closure has been slower to transmit due to China's demand restraint and global SPR releases."
-        },
-        {
-          "zh": "化肥价格过高导致部分新兴市场减少采购，可能先压低作物价格，但明年减产风险上升。",
-          "en": "High fertilizer prices have led some emerging markets to cut purchases, potentially depressing crop prices initially but raising next year's yield-loss risk."
-        },
-        {
-          "zh": "炼油厂遇袭可能使成品油裂解价差持续高企，柴油价格部分地区接近每桶200美元。",
-          "en": "Refinery attacks could keep product crack spreads elevated, with diesel near $200/bbl in some regions."
-        },
-        {
-          "zh": "Gromen 坚持美联储最终将印钞购买国债，官方否认债务货币化的说法不可信。",
-          "en": "Gromen insists the Fed will ultimately print money to buy Treasuries, and official denials of monetization are not credible."
-        }
-      ],
-      "tags": [
-        "Strait of Hormuz",
-        "oil",
-        "SPR",
-        "Fed",
-        "debt monetization"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:RuCjUIjM8mo",
-      "title": "Jeffrey Gundlach: Ready, Aim, Aim, Aim, Aim | CNBC",
-      "title_zh": "DoubleLine CEO Gunlock：美联储应加息，AI相关信贷评级遭市场质疑",
-      "url": "https://www.youtube.com/watch?v=RuCjUIjM8mo",
-      "published_at": "2026-10-28T23:52:35+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "DoubleLine创始人Gunlock认为，基于能源价格推升通胀、名义GDP高企及财政赤字扩大，美联储本应加息，而非等待更多信息。他警告AI及AI相关企业债券的评级正遭遇市场信任危机，BBB级银行贷款指数价格年内已跌18%，信贷利差扩大可能只是趋势的开始。",
-      "summary_en": "DoubleLine CEO Jeffrey Gunlock argues the Fed should be raising rates given energy-driven inflation, elevated nominal GDP, and widening fiscal deficits, rather than waiting for more information. He warns of a crisis of confidence in ratings on AI and AI-adjacent debt, noting the BBB bank loan index is down 18% year-to-date on price, and that spread widening may be the start of a trend.",
-      "detail_zh": "Gunlock在美联储新闻发布会后表示，美联储“积累更多信息”的立场让他想起近20年前对美联储“准备、瞄准、瞄准、瞄准”却不扣扳机的批评。他引用鲍威尔关于“再次关注小数点左边”的表述，认为这指向通胀率；其通胀模型显示，由于能源价格今年大幅上涨，整体CPI同比将开始以4开头，并可能持续数月，直到明年4月报告（或5月公布）出现基数效应。他指出彭博商品指数远高于200日均线且呈上升趋势，亚特兰大联储GDPNow显示第三季度实际GDP为3.4%，加上约3%的通胀，名义GDP约6%，而两年期美债收益率已达4.75%，因此美联储本应加息。他还提到，新闻发布会期间收益率曲线有所陡峭化，长债不喜欢这种“准备、瞄准”的做法。在信贷方面，Gunlock称金融条件收紧并非因为美联储，而是低质量信贷利差扩大：BBB级银行贷款指数价格已跌至65，年内价格跌幅约18%。他特别指出，AI及AI相关企业的大规模发债未获债券市场认可——SpaceX以BBB评级发行后利差立即扩大至垃圾债水平，甲骨文以BBB-发行但交易利差相当于B-级公司。他将此比作2006-2007年次贷ABX指数的市场行为，警告私人信贷相关领域（如私募股权拥有的保险公司依赖市场不认可的投资级评级）正出现信任危机，且趋势已开始加速。此外，所有利差均在扩大，包括新兴市场、资产支持证券、商业抵押贷款支持证券和投资级债券。Gunlock还提到，美国国家债务在两个月内增加5000亿美元至40.5万亿美元以上，意味着过去两个月赤字率达GDP的9%；而美国历史上6%的赤字率仅出现在内战、一战、二战、全球金融危机和新冠时期。他认为AI相关借款的旺盛需求与赤字共同对利率构成压力，10月因季度末再平衡（卖股买债）及法国和欧洲利差扩大问题而有所缓解。",
-      "detail_en": "Speaking after the Fed press conference, Gunlock said the Fed's stance of 'accumulating more information' reminded him of his criticism nearly 20 years ago that the Fed was 'ready, aim, aim, aim' without pulling the trigger. He cited Powell's remark about 'looking to the left of the decimal point again' as referring to the inflation rate; his inflation model, which leans heavily on energy prices that are up dramatically this year, suggests headline CPI will start with a 4 and stay there for several months until base effects roll off with the April report (possibly printed in May). He noted the Bloomberg commodity index is well above its 200-day moving average and in a rising trend, GDPNow shows Q3 real GDP at 3.4%, and adding roughly 3% inflation gives nominal GDP of about 6%, while the two-year Treasury yield is at 4.75%—so the Fed should be raising rates. He also observed the yield curve steepened somewhat during the press conference, with the long bond disliking the 'ready, aim' approach. On credit, Gunlock said financial conditions are tighter not because of the Fed but because of widening spreads on lower-quality credit: the BBB bank loan index is at a price of 65, down about 18% year-to-date on price alone. He highlighted that large AI and AI-adjacent issuance has not been well received—SpaceX came at BBB and immediately widened to junk-type spreads, while Oracle came at BBB- but trades like a single B- company. He likened this to market behavior around the BBB subprime ABX index in 2006-2007, warning of a crisis of confidence in ratings in private credit-related areas, where insurers owned by private equity firms lean on investment-grade ratings the market does not believe are real, and the trend has started to pick up steam. All spreads are widening, including EM, ABS, CMBS in certain pockets, and investment grade. Gunlock also noted national debt rose by half a trillion dollars in two months to over $40.5 trillion, implying a 9% of GDP deficit rate over the last two months; a 6% deficit has only occurred five times in U.S. history—Civil War, WWI, WWII, GFC, and COVID. He said insatiable AI-related borrowing demand plus the deficit pressures rates, relieved in October by quarter-end rebalancing (selling stocks, buying bonds) and spread blowouts in France and Europe.",
-      "conclusion_zh": "Gunlock的核心判断是：通胀与财政压力要求更高利率，而AI相关信贷的评级信任危机可能推动利差进一步扩大，投资者应关注低质量信贷和私人信贷领域的风险传导。",
-      "conclusion_en": "Gunlock's core view: inflation and fiscal pressures call for higher rates, while a ratings-confidence crisis in AI-related credit could drive further spread widening—investors should watch risk transmission in lower-quality and private credit.",
-      "key_points": [
-        {
-          "zh": "Gunlock认为美联储本应加息：两年期美债收益率4.75%已高于联邦基金利率4%，名义GDP约6%，通胀将重回4开头。",
-          "en": "Gunlock argues the Fed should be hiking: the two-year Treasury at 4.75% is above the 4% fed funds rate, nominal GDP is ~6%, and inflation will return to a 4-handle."
-        },
-        {
-          "zh": "AI及AI相关企业债券评级遭市场质疑：SpaceX BBB评级发行后利差立即扩至垃圾债水平，甲骨文BBB-交易利差相当于B-级。",
-          "en": "Ratings on AI and AI-adjacent debt are being questioned: SpaceX widened to junk-type spreads right after a BBB issue, and Oracle's BBB- trades like a single B- credit."
-        },
-        {
-          "zh": "BBB级银行贷款指数价格年内跌约18%至65，所有利差（新兴市场、ABS、CMBS、投资级）均在扩大，Gunlock认为这是趋势的开始而非暂时波动。",
-          "en": "The BBB bank loan index is down ~18% YTD in price to 65, and spreads are widening across EM, ABS, CMBS, and IG; Gunlock sees this as the start of a trend, not a bump."
-        },
-        {
-          "zh": "美国国家债务两个月增加5000亿美元至超40.5万亿美元，隐含赤字率达GDP的9%；历史上6%的赤字率仅出现在战争、金融危机和疫情时期。",
-          "en": "U.S. national debt rose $500 billion in two months to over $40.5 trillion, implying a 9% of GDP deficit rate; a 6% deficit has historically occurred only in wars, the GFC, and COVID."
-        },
-        {
-          "zh": "鲍威尔对利差扩大表示“不感到不安”，Gunlock认为市场已替美联储收紧了金融条件，且市场收紧程度超过美联储。",
-          "en": "Powell said he is 'not uncomfortable' with wider credit spreads; Gunlock believes the market has tightened financial conditions more than the Fed has."
-        }
-      ],
-      "tags": [
-        "Fed policy",
-        "inflation",
-        "credit spreads",
-        "AI debt",
-        "fiscal deficit"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
