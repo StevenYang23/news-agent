@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:13:18.006297+00:00",
+  "generated_at": "2026-11-06T18:17:33.106266+00:00",
   "insights": [
     {
       "guid": "yt:354vZMoIvlE",
@@ -17540,64 +17540,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:W8fAR3WJHTk",
-      "title": "Open Interest 10/30/2026",
-      "title_zh": "Bloomberg Open Interest：大型科技股惨淡收官，AI交易承压",
-      "url": "https://www.youtube.com/watch?v=W8fAR3WJHTk",
-      "published_at": "2026-10-30T17:15:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目聚焦大型科技股的惨淡一周，英特尔与亚马逊的疲软表现令AI交易承压。嘉宾讨论AI集中度风险、市场领导力变化与防御性轮动，并涉及币安63亿美元黑客事件、石油市场强势及特朗普中期选举策略调整。",
-      "summary_en": "This episode focuses on a brutal week for Big Tech, with Intel and Amazon capping a rough stretch for the AI trade. Guests discuss AI concentration risk, market leadership shifts and defensive rotation, alongside the $6.3 billion Binance hack, oil market strength and Trump's midterm strategy shift.",
-      "detail_zh": "节目以大型科技股的惨淡收官开场，英特尔与亚马逊的疲软表现为AI交易画上 brutal 一周的句号。Andrew Boone（Citizens）讨论亚马逊、AWS需求、AI资本开支及搜索竞争；Dana D'Auria（Envestnet）则聚焦AI集中度风险、市场领导力与防御性轮动。节目还涉及埃克森美孚与雪佛龙的创纪录炼油利润及石油市场强势，以及币安遭黑客窃取63亿美元（史上最大加密盗窃案）及朝鲜相关担忧。星巴克CEO Brian Niccol谈论增长目标、门店扩张与中国战略；Holly MacDonald（Bessemer Trust）讨论财富管理、AI投资与私募市场机会。此外，节目涵盖伊朗打击风险、油价与华尔街政治捐款，以及Ethan Allen董事会之争和激进投资者 campaign。最后讨论中期选举、特朗普竞选策略与选民负担能力担忧，以及AI交易平仓、市场轮动与执行风险上升。",
-      "detail_en": "The program opens with a frightful finish for Big Tech, as Intel and Amazon cap a brutal week for the AI trade. Andrew Boone (Citizens) discusses Amazon, AWS demand, AI capex and search competition, while Dana D'Auria (Envestnet) focuses on AI concentration risk, market leadership and defensive rotation. The episode also covers Exxon and Chevron's record refining profits and oil market strength, and the $6.3 billion Binance hack—the biggest crypto heist ever—along with North Korea concerns. Starbucks CEO Brian Niccol discusses growth targets, store expansion and China strategy; Holly MacDonald (Bessemer Trust) covers wealth management, AI investing and private market opportunities. Other segments include Iran strike risks, oil prices and Wall Street political donations, as well as the Ethan Allen board fight and activist campaign. The show closes with midterm elections, Trump's campaign strategy and voter affordability concerns, plus the AI trade unwind, market rotation and rising execution risks.",
-      "conclusion_zh": "AI交易的平仓与市场轮动值得关注，大型科技股的集中度风险及执行风险上升是当前市场的重要背景。",
-      "conclusion_en": "The AI trade unwind and market rotation warrant attention, with concentration risk in Big Tech and rising execution risks as key market backdrops.",
-      "key_points": [
-        {
-          "zh": "英特尔与亚马逊的疲软表现令AI交易经历惨淡一周。",
-          "en": "Intel and Amazon's weakness capped a brutal week for the AI trade."
-        },
-        {
-          "zh": "币安遭黑客窃取63亿美元，为史上最大加密盗窃案，引发朝鲜相关担忧。",
-          "en": "Binance suffered a $6.3 billion hack, the biggest crypto heist ever, raising North Korea concerns."
-        },
-        {
-          "zh": "埃克森美孚与雪佛龙录得创纪录炼油利润，石油市场表现强势。",
-          "en": "Exxon and Chevron posted record refining profits amid oil market strength."
-        },
-        {
-          "zh": "嘉宾讨论AI集中度风险、市场领导力变化与防御性轮动。",
-          "en": "Guests discussed AI concentration risk, market leadership shifts and defensive rotation."
-        },
-        {
-          "zh": "特朗普在选举日临近之际调整中期选举策略，选民负担能力担忧受关注。",
-          "en": "Trump shifted his midterm strategy as Election Day nears, with voter affordability concerns in focus."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "Big Tech",
-        "Binance hack",
-        "oil",
-        "midterms"
-      ],
-      "tickers": [
-        "INTC",
-        "AMZN",
-        "XOM",
-        "CVX",
-        "SBUX",
-        "RDDT",
-        "RIVN",
-        "ETD"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
