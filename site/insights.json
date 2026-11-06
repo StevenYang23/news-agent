@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:15:46.352302+00:00",
+  "generated_at": "2026-11-06T06:22:02.899976+00:00",
   "insights": [
     {
       "guid": "yt:LYVTAjaPvsc",
@@ -17105,110 +17105,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Brk9DUCIFbM",
-      "title": "AI Boom Shows Cracks After US, China Earnings",
-      "title_zh": "彭博中国秀：亚洲芯片股承压，铜短缺影响AI建设",
-      "url": "https://www.youtube.com/watch?v=Brk9DUCIFbM",
-      "published_at": "2026-10-30T06:13:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博中国秀聚焦中国汽车与光学制造商财报不及预期、亚洲芯片股受亚马逊和英特尔展望拖累、美银分析师谈铜短缺对AI建设的影响，以及中国投资者减持港股等话题。",
-      "summary_en": "This episode of Bloomberg: The China Show covers disappointing earnings from Chinese car and optics makers, Asian chip stocks under pressure after Amazon and Intel outlooks, BofA's take on how the copper shortage will impact the AI buildout, and Chinese investors pulling back from Hong Kong stocks.",
-      "detail_zh": "节目讨论了多个市场议题：中国汽车和光学制造商的财报令人失望；富士康的Michael Chiang在独家采访中谈论AI热潮如何提振消费电子，以及公司在印度的扩张计划；汇丰的Joey Chew分析外汇市场；中国投资者从港股撤资；远景的Ricky Zheng介绍其位于内蒙古的Galaxy Campus；亚洲芯片股在亚马逊和英特尔发布展望后承压；美银的Matty Zhao探讨铜短缺对AI建设的影响；此外还有欧洲央行行长拉加德提前离任、币安估计黑客攻击总影响达63亿美元、中国最高领导层出现罕见的中期变动，以及ETF发行商争相开发与Anthropic相关的ETF产品等新闻。",
-      "detail_en": "The program covers several market topics: Chinese car and optics makers reported disappointing earnings; Foxconn's Michael Chiang discussed in an exclusive interview how the AI boom will boost consumer electronics and the company's expansion plans in India; HSBC's Joey Chew analyzed FX markets; Chinese investors pulled back from Hong Kong stocks; Envision's Ricky Zheng introduced its Galaxy Campus in Inner Mongolia; Asian chip stocks came under pressure after Amazon and Intel outlooks; BofA's Matty Zhao discussed how the copper shortage will impact the AI buildout; other news included Christine Lagarde leaving the ECB early, Binance estimating the total impact of a hack at $6.3 billion, a rare mid-cycle change in China's top leadership, and ETF issuers rushing to develop Anthropic-related ETF products.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中国汽车和光学制造商财报不及预期。",
-          "en": "Chinese car and optics makers' earnings disappointed."
-        },
-        {
-          "zh": "亚洲芯片股在亚马逊和英特尔发布展望后承压。",
-          "en": "Asian chip stocks under pressure after Amazon and Intel outlooks."
-        },
-        {
-          "zh": "美银的Matty Zhao讨论铜短缺对AI建设的影响。",
-          "en": "BofA's Matty Zhao discussed how the copper shortage will impact the AI buildout."
-        },
-        {
-          "zh": "中国投资者从香港股市撤资。",
-          "en": "Chinese investors pulled back from Hong Kong stocks."
-        },
-        {
-          "zh": "币安估计黑客攻击总影响达63亿美元，但称无证据表明钱包私钥泄露。",
-          "en": "Binance estimates total impact of hack at $6.3 billion, but says no evidence of any wallet private key leak."
-        }
-      ],
-      "tags": [
-        "China",
-        "AI",
-        "semiconductors",
-        "copper",
-        "earnings"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:JtvNQLdExBY",
-      "title": "Crypto Rocked by Biggest Heist on Record",
-      "title_zh": "日本央行维持利率不变，亚洲股市因英特尔与亚马逊财报下挫",
-      "url": "https://www.youtube.com/watch?v=JtvNQLdExBY",
-      "published_at": "2026-10-30T06:08:35+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "日本央行将隔夜拆借利率维持在1.25%不变。英特尔与亚马逊财报公布后，亚洲股市抛售加剧。节目还讨论了加密黑客事件对币安数字资产约63亿美元的影响、全球AI交易的风险与机会、印度电动车需求与供应限制、特朗普暗示进一步打击伊朗背景下的油价前景，以及铜潜在短缺。",
-      "summary_en": "The BOJ kept its overnight call rate at 1.25%. Asian equities sold off more deeply after Intel and Amazon results. The program also covered a crypto hack's estimated $6.3B impact on Binance's digital assets, risks and opportunities in the global AI trade, India EV demand and supply constraints, oil outlook as Trump signals further Iran strikes, and a potential copper shortage.",
-      "detail_zh": "日本央行（BOJ）将隔夜拆借利率维持在1.25%不变。英特尔与亚马逊财报公布后，亚洲股市抛售加剧。Ballet的Bobby Lee讨论了加密黑客事件对币安数字资产约63亿美元的影响，以及该事件对比特币的影响。RBC Wealth Management的Gautam Chadda分析了AI敞口风险以及全球AI交易中的机会与风险。Jio的上市首秀持续吸引投资者关注。Ather Energy的Tarun Mehta讨论了印度电动车需求以及供应限制对业务的拖累。随着特朗普暗示可能进一步打击伊朗，石油交易员为新的动荡做准备。Saxo Bank的Ole Hansen讨论了铜的潜在短缺，以及如果伊朗战争结束的油价前景。",
-      "detail_en": "The Bank of Japan kept its overnight call rate at 1.25%. Asian stocks deepened their selloff after Intel and Amazon reported results. Bobby Lee of Ballet discussed a crypto hack's estimated $6.3B impact on Binance's digital assets and its impact on Bitcoin. Gautam Chadda of RBC Wealth Management discussed AI exposure risks and opportunities and risks in the global AI trade. Jio's debut continued to captivate investors. Tarun Mehta of Ather Energy discussed India EV demand and supply constraints weighing on the business. Oil traders braced for fresh turbulence as Trump signaled further Iran strikes. Ole Hansen of Saxo Bank discussed a potential copper shortage and the oil outlook if the Iran war ends.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "日本央行将隔夜拆借利率维持在1.25%不变。",
-          "en": "The BOJ kept its overnight call rate at 1.25%."
-        },
-        {
-          "zh": "英特尔与亚马逊财报公布后，亚洲股市抛售加剧。",
-          "en": "Asian stocks sold off more deeply after Intel and Amazon results."
-        },
-        {
-          "zh": "加密黑客事件对币安数字资产的影响估计约63亿美元。",
-          "en": "A crypto hack's estimated impact on Binance's digital assets was about $6.3B."
-        },
-        {
-          "zh": "特朗普暗示可能进一步打击伊朗，石油交易员为动荡做准备。",
-          "en": "Oil traders braced for turbulence as Trump signaled further Iran strikes."
-        },
-        {
-          "zh": "Saxo Bank的Ole Hansen讨论了铜的潜在短缺。",
-          "en": "Ole Hansen of Saxo Bank discussed a potential copper shortage."
-        }
-      ],
-      "tags": [
-        "BOJ",
-        "Asia stocks",
-        "Intel",
-        "Amazon",
-        "crypto hack",
-        "AI trade",
-        "oil",
-        "copper"
-      ],
-      "tickers": [
-        "INTC",
-        "AMZN"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
