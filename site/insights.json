@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-11-06T09:16:09.062994+00:00",
+  "generated_at": "2026-11-06T10:14:45.263311+00:00",
   "insights": [
+    {
+      "guid": "yt:r5HWoCEeemc",
+      "title": "The Macro Implications of the Blue Tsunami | Odd Lots",
+      "title_zh": "民主党中期选举大胜，市场影响与政策走向分析",
+      "url": "https://www.youtube.com/watch?v=r5HWoCEeemc",
+      "published_at": "2026-11-06T09:11:38+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "politics",
+        "macro"
+      ],
+      "summary_zh": "Odd Lots 播客讨论民主党赢得参众两院后的市场与政策影响。尽管此前有观点认为民主党获胜将导致标普500下跌10%，但实际市场反应温和，且板块表现分化。嘉宾 Skanda Amarnath 指出参议院的结构性优势对最高法院和美联储席位任命至关重要，而政治僵局可能增加危机时政策通过的难度。",
+      "summary_en": "The Odd Lots podcast discusses the market and policy implications after Democrats won both the House and Senate. Despite prior predictions of a 10% S&P 500 drop, the market reaction was muted with sector divergence. Guest Skanda Amarnath highlights the Senate's structural importance for Supreme Court and Fed appointments, and notes that political gridlock may complicate crisis-time policy passage.",
+      "detail_zh": "播客回顾了中期选举结果：民主党拿下众议院和参议院，此前 Nate Silver 预测的“蓝色浪潮”得到验证。市场方面，美国银行 Michael Hartnett 曾预计民主党获胜将导致标普500下跌10%，但实际选举后标普500上涨约1.5%；不过录制当天（11月5日）纳斯达克大幅下跌，部分与得克萨斯州相关的公司（如 SpaceX 和特斯拉）以及有扩张计划的公司股价受挫。嘉宾 Skanda Amarnath 强调参议院的结构性优势：参议院决定最高法院和美联储董事会的人选，且每州两票的规则使人口少的州（如堪萨斯、爱荷华、怀俄明）拥有更大影响力。他认为民主党在参议院有可持续保持竞争力的路径，这可能改变议程。关于政策，共识预期是政治僵局，因为民主党没有60票难以推动立法，而特朗普仍可行使否决权和行政命令（如关税）。但特朗普在政治上似乎对两党都具有毒性，可能在某些议题上促成合作。Amarnath 提到关税和战争是本次选举中政策影响明显的两个 tangible 事项，但共和党是否改变对总统的态度尚不确定。",
+      "detail_en": "The podcast reviews the midterm results: Democrats won both the House and Senate, validating Nate Silver's 'blue wave' prediction. On markets, BofA's Michael Hartnett had predicted a 10% S&P 500 drop if Democrats won, but the index rose about 1.5% after the election; however, on the recording day (Nov 5), the Nasdaq was sharply lower, with Texas-linked companies like SpaceX and Tesla and some expansion-minded firms hit hard. Guest Skanda Amarnath stresses the Senate's structural advantage: it shapes Supreme Court and Fed board appointments, and the two-votes-per-state rule gives outsized influence to low-population states like Kansas, Iowa, and Wyoming. He sees a path for Democrats to remain sustainably competitive in the Senate, which could change the agenda. On policy, the consensus is gridlock since Democrats lack 60 votes to overcome a filibuster, while Trump retains veto and executive order powers (e.g., tariffs). But Trump appears politically toxic on both sides, potentially enabling bipartisan cooperation on some issues. Amarnath cites tariffs and war as two tangible areas where policy mattered in the election, but whether Republicans change their approach to the president is uncertain.",
+      "conclusion_zh": "民主党控制国会后，市场短期反应温和，但政策僵局和参议院的结构性影响值得关注；投资者应关注两党在关税和战争等议题上的互动。",
+      "conclusion_en": "With Democrats controlling Congress, the near-term market reaction was muted, but policy gridlock and the Senate's structural influence warrant attention; investors should watch bipartisan interactions on issues like tariffs and war.",
+      "key_points": [
+        {
+          "zh": "民主党赢得参众两院，但市场反应与此前悲观预测相反，标普500在选举后上涨约1.5%。",
+          "en": "Democrats won both chambers, but the market reaction contradicted prior bearish predictions, with the S&P 500 rising about 1.5% after the election."
+        },
+        {
+          "zh": "参议院的结构性优势使其对最高法院和美联储席位任命具有关键影响，人口少的州拥有更大话语权。",
+          "en": "The Senate's structural advantage gives it key influence over Supreme Court and Fed appointments, with low-population states wielding outsized sway."
+        },
+        {
+          "zh": "政治僵局可能增加危机时政策通过的难度，但特朗普的政治毒性或促成某些两党合作。",
+          "en": "Gridlock may complicate crisis-time policy passage, but Trump's political toxicity could foster some bipartisan cooperation."
+        },
+        {
+          "zh": "关税和战争是本次选举中政策影响明显的两个领域，但共和党是否调整对总统的态度尚不确定。",
+          "en": "Tariffs and war were two areas where policy visibly mattered in the election, but whether Republicans adjust their stance toward the president remains uncertain."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "democrats",
+        "senate",
+        "gridlock",
+        "market reaction"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:GxDePOhxsqo",
       "title": "Stocks Primed for a Rough Ride Today: Market Analysis",
@@ -17407,135 +17453,6 @@
         "tech-selloff",
         "ai-spending",
         "binance-hack"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:1CKuYjtrPSc",
-      "title": "Midterm Election Battles, Hormuz Oil Flows, Tech Earnings | Bloomberg This Weekend: Nov 1st, 2026",
-      "title_zh": "彭博周末节目预告：中期选举、伊朗局势与嘉宾访谈",
-      "url": "https://www.youtube.com/watch?v=1CKuYjtrPSc",
-      "published_at": "2026-10-30T09:47:14+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博周末节目聚焦中期选举前最后冲刺、美国可能对伊朗采取军事行动的担忧，以及民调显示选举结果不确定。节目嘉宾包括国际海事组织秘书长、Brooks Running CEO、BMO高级经济学家及美国众议员。",
-      "summary_en": "This weekend's Bloomberg program focuses on the final push before the midterms, fears of a potential US strike on Iran after the election, and polling indicating uncertain midterm results. Guests include the IMO Secretary-General, Brooks Running CEO, a BMO senior economist, and a US Representative.",
-      "detail_zh": "彭博周末节目由David Gura、Lisa Mateo和Nathan Hager主持，旨在提供深入讨论与洞察。今日节目内容包括：中期选举前三天候选人做最后冲刺；选举后美国对伊朗打击的担忧加剧；民调显示中期选举结果不确定。节目嘉宾包括国际海事组织秘书长Arsenio Dominguez、Brooks Running首席执行官Dan Sheridan、BMO资本市场高级经济学家Jennifer Lee，以及康涅狄格州民主党众议员Rosa Delauro。",
-      "detail_en": "Bloomberg This Weekend, hosted by David Gura, Lisa Mateo, and Nathan Hager, aims to provide in-depth discussions and insights. Today's show covers candidates making their final push three days ahead of the midterms, mounting fears of a US strike on Iran after the election, and polling pointing to uncertain midterm results. Guests include Arsenio Dominguez, Secretary-General of the International Maritime Organization; Dan Sheridan, CEO of Brooks Running; Jennifer Lee, Senior Economist at BMO Capital Markets; and Rosa Delauro, US Representative from Connecticut (D).",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中期选举前三天，候选人做最后冲刺。",
-          "en": "Candidates make final push three days ahead of midterms."
-        },
-        {
-          "zh": "选举后美国对伊朗打击的担忧加剧。",
-          "en": "Fears mount of US strike on Iran after election."
-        },
-        {
-          "zh": "民调显示中期选举结果不确定。",
-          "en": "Polling points to uncertain midterm election results."
-        },
-        {
-          "zh": "嘉宾包括国际海事组织秘书长、Brooks Running CEO、BMO高级经济学家及美国众议员。",
-          "en": "Guests include IMO Secretary-General, Brooks Running CEO, BMO senior economist, and US Representative."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "Iran",
-        "polling",
-        "Bloomberg This Weekend"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5lKIW85jDDY",
-      "title": "Tech Stock Selloff, Trump Midterm Push, Israel Fallout | Bloomberg This Weekend: Oct 31st, 2026",
-      "title_zh": "彭博周末节目：科技股财报不及预期引发抛售，中期选举与以色列大选成焦点",
-      "url": "https://www.youtube.com/watch?v=5lKIW85jDDY",
-      "published_at": "2026-10-30T09:43:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博周末节目讨论了科技股财报不及预期导致的市场抛售、美国两党中期选举最后冲刺以及以色列选举结果不明朗等话题。节目嘉宾包括欧盟委员会高级代表卡拉斯、美国众议员米克斯和生物伦理学家尤科。",
-      "summary_en": "Bloomberg This Weekend discussed the deep stock selloff fueled by tech earnings misses, the final midterm election push by GOP and Democrats, and inconclusive Israel election results. Guests included EU High Representative Kaja Kallas, US Representative Gregory Meeks, and bioethicist Elizabeth Yuko.",
-      "detail_zh": "本期彭博周末节目由David Gura、Lisa Mateo和Nathan Hager主持，旨在提供深度对话与独特视角。节目重点新闻包括：科技公司财报不及预期，引发股市大幅抛售；美国共和党与民主党为中期选举做最后冲刺；以色列选举结果导致领导层不确定。嘉宾方面，节目对话了欧盟委员会高级代表Kaja Kallas、纽约州民主党众议员Gregory Meeks以及福德汉姆大学生物伦理学家Elizabeth Yuko。节目涵盖新闻、政治、生活方式与文化等多元话题。",
-      "detail_en": "Hosted by David Gura, Lisa Mateo, and Nathan Hager, Bloomberg This Weekend offers in-depth conversations and unique perspectives. Key stories included: tech earnings misses fueling a deep stock selloff; the final midterm election push by Republicans and Democrats; and Israel election results leaving leadership inconclusive. Guests included Kaja Kallas, European Commission High Representative; Gregory Meeks, US Representative from New York (D); and Elizabeth Yuko, bioethicist and adjunct professor of ethics at Fordham University. The show spans news, politics, lifestyle, and culture.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "科技股财报不及预期引发股市大幅抛售。",
-          "en": "Tech earnings misses fueled a deep stock selloff."
-        },
-        {
-          "zh": "美国共和党与民主党为中期选举做最后冲刺。",
-          "en": "GOP and Democrats made their final midterm election push."
-        },
-        {
-          "zh": "以色列选举结果导致领导层不确定。",
-          "en": "Israel election results left leadership inconclusive."
-        },
-        {
-          "zh": "嘉宾包括欧盟委员会高级代表Kaja Kallas、美国众议员Gregory Meeks和生物伦理学家Elizabeth Yuko。",
-          "en": "Guests included EU High Representative Kaja Kallas, US Rep. Gregory Meeks, and bioethicist Elizabeth Yuko."
-        }
-      ],
-      "tags": [
-        "tech earnings",
-        "stock selloff",
-        "midterm elections",
-        "Israel election",
-        "Bloomberg This Weekend"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:cw7WST9jBFI",
-      "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
-      "title_zh": "币安遭遇史上最大规模黑客攻击，63亿美元资金受影响",
-      "url": "https://www.youtube.com/watch?v=cw7WST9jBFI",
-      "published_at": "2026-10-30T09:26:53+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "全球最大加密货币交易所币安遭遇行业史上最大规模黑客攻击，涉及63亿美元资金，其中30亿美元加密货币被冻结。此事对数字资产进入主流市场的努力构成新的打击。",
-      "summary_en": "Binance, the world's largest cryptocurrency exchange, has suffered the industry's biggest-ever hack, with $6.3 billion worth of funds affected and $3 billion in crypto frozen. The incident deals a fresh blow to efforts to push digital assets into the mainstream.",
-      "detail_zh": "币安表示，此次黑客攻击影响到的资金规模达63亿美元，其中30亿美元的加密货币已被冻结。彭博的Emily Nicolle报道了这一最新进展。这是加密货币行业有史以来规模最大的黑客攻击事件，对推动数字资产进入主流金融体系的努力构成新的打击。原文未披露攻击的具体手法、发生时间、受影响资产的具体币种，也未说明客户资金是否受损或交易所的赔付安排。",
-      "detail_en": "Binance said $6.3 billion worth of funds were affected in the hack, with $3 billion in crypto frozen, according to Bloomberg's Emily Nicolle. This is the biggest-ever hack suffered by the cryptocurrency industry, dealing a fresh blow to efforts to push digital assets into the mainstream. The source does not disclose the attack method, timing, specific assets affected, whether customer funds were harmed, or any compensation arrangements.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "币安遭遇行业史上最大规模黑客攻击，63亿美元资金受影响",
-          "en": "Binance suffered the industry's biggest-ever hack, with $6.3 billion worth of funds affected"
-        },
-        {
-          "zh": "其中30亿美元加密货币已被冻结",
-          "en": "$3 billion in crypto has been frozen"
-        },
-        {
-          "zh": "事件对数字资产进入主流市场的努力构成新的打击",
-          "en": "The incident is a fresh blow to efforts to push digital assets into the mainstream"
-        }
-      ],
-      "tags": [
-        "crypto",
-        "hack",
-        "Binance",
-        "digital assets"
       ],
       "tickers": [],
       "sentiment": "negative"
