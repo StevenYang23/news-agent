@@ -1,6 +1,136 @@
 {
-  "generated_at": "2026-11-06T12:20:16.253838+00:00",
+  "generated_at": "2026-11-06T13:14:44.378693+00:00",
   "insights": [
+    {
+      "guid": "yt:9ZsotTCcfEY",
+      "title": "UK & Europe Avoid Worst of Stock Rout",
+      "title_zh": "AI驱动的全球股市抛售蔓延，纳指创2020年3月以来最差单日",
+      "url": "https://www.youtube.com/watch?v=9ZsotTCcfEY",
+      "published_at": "2026-11-06T13:09:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "AI驱动的股市抛售蔓延至全球，但英国和欧洲避开了最严重的冲击；美国期货因逢低买入转涨。此前纳斯达克指数经历了自2020年3月新冠疫情爆发以来最糟糕的一个交易日，日本日经225指数进入熊市。",
+      "summary_en": "The AI-driven equity selloff spread globally, though the UK and Europe avoided the worst of it; US futures turned green as dip buyers stepped in. This followed the Nasdaq's worst day since the start of the Covid pandemic in March 2020, with Japan's Nikkei 225 entering a bear market.",
+      "detail_zh": "AI驱动的股市抛售蔓延至全球市场，但英国和欧洲避开了最严重的冲击。美国期货转涨，因逢低买入者入场。此前纳斯达克指数经历了自2020年3月新冠疫情爆发以来最糟糕的一个交易日。日本日经225指数进入熊市。政治方面，美国国务卿Marco Rubio表示尽管彭博报道他可能离开政府，他仍致力于特朗普政府；部分美国议员寻求最早下周弹劾国防部长Pete Hegseth。节目嘉宾包括法国巴黎银行集团首席经济学家Isabelle Mateos y Lago、伦敦国王学院访问研究员Lindsay Newman以及冰岛总理Kristrún Frostadóttir。节目章节还涉及英国央行行长Bailey的讲话、欧洲航空公司遭炸弹威胁，以及彭博观点关于硅谷AI押注建立在炒作和希望之上的讨论。",
+      "detail_en": "The AI-driven equity selloff spread globally, but the UK and Europe avoided the worst of it. US futures turned green as dip buyers moved in, following the Nasdaq's worst day since the start of the Covid pandemic in March 2020. Japan's Nikkei 225 entered a bear market. On the political front, US Secretary of State Marco Rubio said he is committed to the Trump administration despite Bloomberg reporting he could potentially leave the government; some US lawmakers are looking to impeach Defense Secretary Pete Hegseth as early as next week. Guests included Isabelle Mateos y Lago, Group Chief Economist at BNP Paribas; Lindsay Newman, Visiting Research Fellow at King's College London; and Kristrún Frostadóttir, Prime Minister of Iceland. Chapters also covered BOE's Bailey, European airlines hit by bomb threats, and Bloomberg Opinion on Silicon Valley's AI bets built on hype and hope.",
+      "conclusion_zh": "AI驱动的抛售引发全球风险资产调整，纳指创疫情以来最差单日，但美欧市场出现分化且美国期货因逢低买入转涨，需关注抛售是否延续及政策与政治风险。",
+      "conclusion_en": "The AI-driven selloff triggered a global risk-asset correction, with the Nasdaq posting its worst day since the pandemic; however, US and European markets diverged and US futures turned green on dip buying. Watch whether the selloff continues and monitor policy and political risks.",
+      "key_points": [
+        {
+          "zh": "AI驱动的抛售蔓延全球，但英国和欧洲避免了最严重冲击。",
+          "en": "AI-driven selloff spread globally, but the UK and Europe avoided the worst."
+        },
+        {
+          "zh": "纳斯达克指数创下自2020年3月疫情爆发以来最差单日表现。",
+          "en": "Nasdaq had its worst day since the start of the Covid pandemic in March 2020."
+        },
+        {
+          "zh": "美国期货转涨，逢低买入者入场。",
+          "en": "US futures turned green as dip buyers moved in."
+        },
+        {
+          "zh": "日本日经225指数进入熊市。",
+          "en": "Japan's Nikkei 225 entered a bear market."
+        },
+        {
+          "zh": "美国国务卿Rubio表示致力于特朗普政府，尽管有报道称其可能离职；部分议员寻求弹劾国防部长Hegseth。",
+          "en": "US Secretary of State Rubio said he is committed to the Trump administration despite reports he could leave; some lawmakers seek to impeach Defense Secretary Hegseth."
+        }
+      ],
+      "tags": [
+        "AI selloff",
+        "Nasdaq",
+        "global markets",
+        "bear market",
+        "politics"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:lre_r1SIMwA",
+      "title": "Stocks Selloff Pauses Rebound After Tech Rout; Jobs Report Ahead",
+      "title_zh": "美股期货反弹，此前标普500因数据中心建设监管担忧创一年最大跌幅",
+      "url": "https://www.youtube.com/watch?v=lre_r1SIMwA",
+      "published_at": "2026-11-06T12:45:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "标普500指数因市场担忧数据中心建设可能受到打压而创下一年多来最大单日跌幅，随后美股期货回升。芯片制造商在领跌后反弹，特朗普总统将此次暴跌归咎于民主党。",
+      "summary_en": "US equity futures rose after the S&P 500 suffered its steepest drop in over a year on fears of a crackdown on data center construction. Chipmakers rallied after bearing the brunt of the selloff, and President Trump blamed Democrats for the rout.",
+      "detail_zh": "标普500指数经历了超过一年以来的最大单日跌幅，市场担忧情绪源于对数据中心建设可能面临监管打压的恐惧。芯片制造商板块在抛售中首当其冲，跌幅显著，但在随后的交易中出现反弹。美股期货在暴跌后上涨，显示市场情绪有所修复。美国总统特朗普将此次股市暴跌归咎于民主党。原文未提供具体跌幅数字、涉及的具体公司或监管政策细节。",
+      "detail_en": "The S&P 500 posted its steepest single-day drop in more than a year, driven by fears of a clampdown on data center construction. Chipmakers, which bore the brunt of the selloff, rallied afterward. US equity futures rose following the rout, indicating some recovery in sentiment. President Trump blamed Democrats for the market plunge. The original text does not provide specific percentage declines, company names, or regulatory details.",
+      "conclusion_zh": "市场短期波动受政策监管担忧驱动，芯片板块反弹显示情绪修复，但数据中心建设监管风险仍需关注。",
+      "conclusion_en": "Short-term market volatility is driven by regulatory concerns; the rebound in chipmakers signals sentiment recovery, but risks around data center construction regulation warrant attention.",
+      "key_points": [
+        {
+          "zh": "标普500创一年多来最大单日跌幅，因担忧数据中心建设受打压",
+          "en": "S&P 500 had its steepest drop in over a year on fears of a data center construction crackdown"
+        },
+        {
+          "zh": "芯片制造商领跌后反弹，美股期货回升",
+          "en": "Chipmakers rallied after leading the selloff; US equity futures rose"
+        },
+        {
+          "zh": "特朗普总统将市场暴跌归咎于民主党",
+          "en": "President Trump blamed Democrats for the rout"
+        }
+      ],
+      "tags": [
+        "S&P 500",
+        "data centers",
+        "chipmakers",
+        "regulation",
+        "Trump"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:dajFNqplDVk",
+      "title": "Data Centers Will Get Built, Even With More Regulation, Bryson Says",
+      "title_zh": "Wedbush分析师：即便监管加码，数据中心仍将建设",
+      "url": "https://www.youtube.com/watch?v=dajFNqplDVk",
+      "published_at": "2026-11-06T12:19:03+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Wedbush Securities的Matt Bryson表示，即使面临更多监管，数据中心仍会继续建设，投资者也会找到获利方式。该观点来自其在Bloomberg Surveillance节目上的发言。",
+      "summary_en": "Matt Bryson of Wedbush Securities says even with more regulation, data centers will still get built and investors will find a way to make money, speaking on Bloomberg Surveillance.",
+      "detail_zh": "Wedbush Securities分析师Matt Bryson在Bloomberg Surveillance节目中表示，即便未来出现更多监管，数据中心项目仍将继续推进。他认为投资者能够找到从中获利的方式。原文未提供具体的监管类型、数据中心建设规模或投资标的等细节。",
+      "detail_en": "Matt Bryson of Wedbush Securities said on Bloomberg Surveillance that even if more regulation emerges, data centers will still be built. He believes investors will find a way to make money. The original text does not provide specifics on the type of regulation, the scale of data center construction, or investment targets.",
+      "conclusion_zh": "数据中心建设受监管影响有限，投资者可关注相关机会。",
+      "conclusion_en": "Data center construction is likely to proceed despite regulation, and investors may find opportunities.",
+      "key_points": [
+        {
+          "zh": "Wedbush的Matt Bryson认为监管不会阻止数据中心建设。",
+          "en": "Wedbush's Matt Bryson believes regulation will not stop data center construction."
+        },
+        {
+          "zh": "他表示投资者仍能找到获利途径。",
+          "en": "He says investors will still find a way to make money."
+        },
+        {
+          "zh": "该评论来自Bloomberg Surveillance节目。",
+          "en": "The comment was made on Bloomberg Surveillance."
+        }
+      ],
+      "tags": [
+        "data centers",
+        "regulation",
+        "Wedbush",
+        "Bloomberg Surveillance"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:aXhpDL6ibBI",
       "title": "Sell Off Turns to Uncertainty",
