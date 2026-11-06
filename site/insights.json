@@ -1,6 +1,175 @@
 {
-  "generated_at": "2026-11-06T14:15:43.339592+00:00",
+  "generated_at": "2026-11-06T15:15:08.710167+00:00",
   "insights": [
+    {
+      "guid": "yt:wTQbDVUpKjs",
+      "title": "Modernizing your Wealth Strategy",
+      "title_zh": "家族财富管理：从集中持股到分散投资的策略演变",
+      "url": "https://www.youtube.com/watch?v=wTQbDVUpKjs",
+      "published_at": "2026-11-06T15:02:33+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "摩根士丹利播客探讨家族办公室如何通过交换基金（exchange fund）分散集中持股，在避免即时税负的同时降低风险，并强调策略需随家族需求演变而调整。",
+      "summary_en": "A Morgan Stanley podcast discusses how a family office used exchange funds to diversify a concentrated stock position while deferring taxes, and emphasizes that strategies must evolve with family priorities.",
+      "detail_zh": "Gus 管理家族财富，其祖母 Colette 出售房地产企业后获得大量股票，占家族财富约60%。Gus 与顾问 Erik 合作，通过交换基金（exchange fund）逐步分散持仓，同时避免出售带来的高额税负。交换基金允许合格投资者（个人净资产500万美元以上，不含主要居所；实体需2500万美元）将集中股票换成分散投资组合，七年后再退出。该策略旨在降低风险，但税负只是递延而非消除。家族资产已近乎翻三倍，并实现了投资组合的去风险化。如今他们需要进一步优化税务效率并调整投资计划。",
+      "detail_en": "Gus manages his family's wealth, which originated from his grandmother Colette's sale of a real estate business, leaving a large stock position that represented about 60% of the family fortune. Gus partnered with advisor Erik to diversify the concentrated holding using exchange funds, avoiding an immediate tax bill. Exchange funds are private funds for eligible investors (individuals with $5 million net worth excluding primary residence; entities $25 million) that allow swapping concentrated stock for a diversified portfolio after seven years. The strategy reduces risk but defers, rather than eliminates, taxes. The family's assets have nearly tripled, and they have de-risked the portfolio. Now they need to enhance tax efficiency and evolve their investment plan.",
+      "conclusion_zh": "对于持有集中股票的投资者，交换基金可作为分散化工具，但需权衡税负递延与长期规划。",
+      "conclusion_en": "For investors with concentrated stock, exchange funds can be a diversification tool, but investors must weigh tax deferral against long-term planning.",
+      "key_points": [
+        {
+          "zh": "家族财富高度集中于单一股票，曾占60%，分散化是首要任务。",
+          "en": "Family wealth was highly concentrated in a single stock (60%), making diversification a priority."
+        },
+        {
+          "zh": "交换基金提供了一种递延税负的分散化途径，适合不愿立即出售的投资者。",
+          "en": "Exchange funds offer a tax-deferred diversification path for investors reluctant to sell immediately."
+        },
+        {
+          "zh": "交换基金有资格门槛：个人净资产500万美元以上（不含主要居所），实体2500万美元。",
+          "en": "Exchange funds have eligibility thresholds: $5M net worth for individuals (excluding primary residence), $25M for entities."
+        },
+        {
+          "zh": "税负只是递延而非消除，未来仍需规划。",
+          "en": "Taxes are deferred, not eliminated, and future planning is still required."
+        },
+        {
+          "zh": "家族资产已近乎翻三倍，并实现了去风险化，下一步需优化税务效率并调整策略。",
+          "en": "Family assets have nearly tripled and been de-risked; next steps involve tax efficiency and strategy evolution."
+        }
+      ],
+      "tags": [
+        "exchange funds",
+        "concentrated stock",
+        "family office",
+        "tax deferral",
+        "diversification"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6Q08nql7vCA",
+      "title": "Midterms raise U.S. debt ceiling risks",
+      "title_zh": "中期选举后美国债务上限风险逼近",
+      "url": "https://www.youtube.com/watch?v=6Q08nql7vCA",
+      "published_at": "2026-11-06T15:00:04+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "美国未偿债务突破40万亿美元，接近41.1万亿美元的债务上限。中期选举将锁定财政轨迹，分裂政府下债务上限解决过程存在不确定性。若实质性违约，消费者将直接面临信用卡、汽车贷款和抵押贷款成本上升。",
+      "summary_en": "US outstanding debt has surpassed $40 trillion, approaching the $41.1 trillion debt ceiling. The midterms will lock in a fiscal trajectory, and with divided government, resolving the debt ceiling is uncertain. A meaningful breach would directly raise costs for consumers on credit cards, auto loans, and mortgages.",
+      "detail_zh": "美国近期未偿债务突破40万亿美元，距离去年设定的41.1万亿美元债务上限已不远。中期选举将使国会和国家锁定在一条不太理想的财政轨迹上。解决债务上限需要国会与白宫达成一致，而在分裂政府下，这一过程未必顺利。每次接近债务上限，财政部会估算所谓的“X日期”，即真正的最后期限。财政部有多种预算技巧可推迟必须支付的款项，但技巧终有用尽之时，届时将进入真正危险阶段。若实质性突破债务上限，将直接冲击消费者底线：信用卡、汽车贷款和抵押贷款成本可能大幅上升，整个经济中一切都会突然变得更贵。",
+      "detail_en": "US outstanding debt recently surpassed $40 trillion, nearing the $41.1 trillion debt ceiling set last year. The midterms will lock Congress and the country onto a fiscal trajectory that doesn't look very good. Fixing the debt ceiling requires agreement between Congress and the White House, and in divided government, there's no guarantee this will be easy. Each time we approach the debt ceiling, the Treasury estimates the so-called X date, the real drop-dead date. Treasury has budget tricks to delay required payments, but at some point its bag of tricks runs out, and that's when real danger begins. A meaningful breach of the debt ceiling would hit consumers' bottom lines directly: credit cards, auto loans, and mortgages could cost much more, and everything across the economy would suddenly get more expensive.",
+      "conclusion_zh": "债务上限风险在中期选举后可能上升，若出现实质性违约，消费者信贷成本将全面上升，需关注财政谈判进展。",
+      "conclusion_en": "Debt ceiling risk may rise after the midterms; a meaningful breach would broadly increase consumer borrowing costs, so monitor fiscal negotiations.",
+      "key_points": [
+        {
+          "zh": "美国未偿债务突破40万亿美元，接近41.1万亿美元的债务上限。",
+          "en": "US outstanding debt surpassed $40 trillion, approaching the $41.1 trillion debt ceiling."
+        },
+        {
+          "zh": "中期选举将锁定财政轨迹，分裂政府下债务上限解决存在不确定性。",
+          "en": "The midterms will lock in a fiscal trajectory, and divided government makes debt ceiling resolution uncertain."
+        },
+        {
+          "zh": "财政部估算“X日期”为真正最后期限，预算技巧用尽后风险显现。",
+          "en": "Treasury estimates the X date as the real drop-dead date; risks emerge when budget tricks run out."
+        },
+        {
+          "zh": "实质性突破债务上限将直接推高消费者信用卡、汽车贷款和抵押贷款成本。",
+          "en": "A meaningful breach would directly raise consumer costs for credit cards, auto loans, and mortgages."
+        }
+      ],
+      "tags": [
+        "debt ceiling",
+        "fiscal policy",
+        "midterms",
+        "consumer credit"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:MeBm8MPqCVA",
+      "title": "BlackRock's Rieder Sees an Epic Rebalancing of Equities",
+      "title_zh": "贝莱德固收CIO：股市将迎大规模再平衡，AI债务融资令人兴奋",
+      "url": "https://www.youtube.com/watch?v=MeBm8MPqCVA",
+      "published_at": "2026-11-06T14:50:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "贝莱德全球固定收益首席投资官Rick Rieder表示，他预计股市将出现一场“史诗级”的再平衡，并认为当前是AI债务融资的激动时刻。",
+      "summary_en": "BlackRock Global Fixed Income CIO Rick Rieder says he sees an epic rebalancing of equities and calls this an exciting time for AI-debt financing.",
+      "detail_zh": "贝莱德全球固定收益首席投资官Rick Rieder在“Bloomberg Open Interest”节目中表示，他预计股市将出现一场“史诗级”的再平衡。Rieder还表示，当前对于AI债务融资而言是一个令人兴奋的时期。",
+      "detail_en": "BlackRock Global Fixed Income CIO Rick Rieder said on \"Bloomberg Open Interest\" that he sees an epic rebalancing of equities. Rieder also said this is an exciting time for AI-debt financing.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "贝莱德固收CIO Rick Rieder预计股市将出现“史诗级”再平衡。",
+          "en": "BlackRock Global Fixed Income CIO Rick Rieder sees an epic rebalancing of equities."
+        },
+        {
+          "zh": "Rieder认为当前是AI债务融资的激动时刻。",
+          "en": "Rieder says this is an exciting time for AI-debt financing."
+        }
+      ],
+      "tags": [
+        "BlackRock",
+        "equities rebalancing",
+        "AI debt financing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5_5NqBB4haM",
+      "title": "Markets Focused More on AI Than Jobs Report, BlackRock's Rosenberg Says",
+      "title_zh": "贝莱德经理：市场对就业报告反应平淡，更关注海外动态与AI增长担忧",
+      "url": "https://www.youtube.com/watch?v=5_5NqBB4haM",
+      "published_at": "2026-11-06T14:38:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "贝莱德系统化多策略基金投资组合经理Jeffrey Rosenberg表示，市场对就业报告的反应不如对近期海外动态、期货交易以及对AI驱动增长前景的担忧。",
+      "summary_en": "Jeffrey Rosenberg, systematic multi-strategy fund portfolio manager at BlackRock, says markets are reacting less to the employment report than to recent overseas developments, futures trading, and concerns about the AI-driven growth outlook.",
+      "detail_zh": "贝莱德系统化多策略基金投资组合经理Jeffrey Rosenberg在“Bloomberg Surveillance”节目中表示，市场对就业报告的反应相对较小。他认为，市场更关注近期海外动态、期货交易以及对AI驱动增长前景的担忧。Rosenberg没有进一步提供具体数据或细节。",
+      "detail_en": "Jeffrey Rosenberg, systematic multi-strategy fund portfolio manager at BlackRock, said on \"Bloomberg Surveillance\" that markets are reacting less to the employment report. He attributed greater market attention to recent overseas developments, futures trading, and concerns about the AI-driven growth outlook. Rosenberg did not provide further specific data or details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "市场对就业报告的反应不如对海外动态和AI增长担忧的反应强烈。",
+          "en": "Markets are reacting less to the employment report than to overseas developments and AI growth concerns."
+        },
+        {
+          "zh": "期货交易也是市场关注的重点之一。",
+          "en": "Futures trading is also a key focus for the market."
+        },
+        {
+          "zh": "贝莱德的Rosenberg指出，AI驱动的增长前景引发担忧。",
+          "en": "BlackRock's Rosenberg notes concerns about the AI-driven growth outlook."
+        }
+      ],
+      "tags": [
+        "employment report",
+        "AI growth",
+        "overseas developments",
+        "futures trading"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:jZ6QrFMYJcU",
       "title": "Iceland Does Not Need Permanent US Troops in Country, Prime Minister Says",
@@ -230,6 +399,57 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "4963945",
+      "title": "Wall Street Breakfast Podcast: Cybertruck Drives Into The Sunset",
+      "title_zh": "特斯拉停产Cybertruck转产Cybercab；Anthropic IPO估值遭质疑；英伟达被比作思科泡沫",
+      "url": "https://seekingalpha.com/article/4963945-wall-street-breakfast-podcast-cybertruck-drives-into-the-sunset?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-06T12:51:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "volatility",
+        "macro"
+      ],
+      "summary_zh": "特斯拉将于2025年中停产Cybertruck，为Cybercab增产让路，尽管面临安全调查。Anthropic的1.5万亿美元IPO估值遭主要投资者质疑，可能需下调至约1万亿美元或推迟。资深投资者George Noble警告英伟达通过循环融资支持客户，类似思科2000年泡沫，英伟达占标普500权重约8%，是思科峰值时的两倍。",
+      "summary_en": "Tesla will wind down Cybertruck production in mid-2025 to expand Cybercab output despite a safety probe. Anthropic's $1.5T IPO valuation faces skepticism from major investors, with potential cuts to ~$1T or delays. Veteran investor George Noble warns Nvidia's circular financing mirrors Cisco's 2000 bubble, with NVDA at ~8% of the S&P 500, double Cisco's peak weight.",
+      "detail_zh": "特斯拉CEO马斯克表示，将在2025年中左右停止在得州超级工厂独家生产Cybertruck，为增加Cybercab产量腾出空间。Cybertruck自2023年上市以来难以维持热度，面临多次召回和质量控制问题，特斯拉多次调整价格。特斯拉计划在年底前开始公开销售Cybercab，尽管美国安全机构正在调查缺乏传统手动控制的无人驾驶车辆。车辆工程副总裁Lars Moravy表示，今年将小规模启动，学习交付、所有权和车队管理，然后继续扩大规模。Anthropic计划在感恩节前一周进行IPO，预计融资高达1000亿美元，但预测市场Polymarket上11月IPO概率从24小时前的83%骤降至54%。三位计划参与IPO的主要投资者告诉《华尔街日报》，估值可能需要下调，其中一位认为可能接近1万亿美元。有投资者希望看到10月业绩后再决定，Anthropic的run rate在10月底超过800亿美元，高于前一个月。一位投资者表示公司可能减少融资额至约800亿美元，并希望IPO后资产负债表上拥有超过2000亿美元。另一位投资者怀疑Anthropic可能推迟IPO以等待更有利条件。资深投资者George Noble警告，英伟达正在走向类似互联网泡沫的清算，因其支持购买其硬件的客户。他指出英伟达占标普500权重约8%，是思科系统在2000年互联网泡沫顶峰时权重的两倍，认为英伟达正走入与思科当年“完全相同”的陷阱。Noble将英伟达担保客户租赁协议和入股购买其芯片的初创公司比作思科当年的供应商融资，警告这种循环融资结构使英伟达面临违约风险，并称这是“历史上最大的资本错配”。市场方面，亚洲股市跟跌，日经指数跌破60000点进入熊市；美股期货涨跌互现，纳斯达克100期货涨超1%，标普期货涨0.3%，道指期货跌近1%；VIX指数从周四收盘的28以上降至27以下。交易员称这是“投资集中度过高、平仓过快”的影响，AI交易仍然拥挤。瑞银首席经济学家Paul Donovan表示，数据中心建设者可能需向当地社区提供更多激励，增加项目成本，但这些投资在经济上是积极的。",
+      "detail_en": "Tesla CEO Elon Musk said the company will stop exclusive Cybertruck production at Gigafactory Texas around mid-2025 to make room for increased Cybercab output. The Cybertruck has struggled to sustain interest since its 2023 launch, facing multiple recalls and quality-control issues, while Tesla repeatedly revised prices. Tesla aims to begin public Cybercab sales by year-end despite a U.S. safety probe into driverless vehicles lacking conventional manual controls. Lars Moravy, VP of vehicle engineering, said the company will start small this year and learn about delivery, ownership, and fleet management before scaling. Anthropic aims to stage its IPO the week before Thanksgiving and has been expected to raise up to $100B, but Polymarket odds of a November IPO plunged to 54% from 83% 24 hours earlier. Three major investors planning to participate told The Wall Street Journal the valuation will likely need to come down, with one saying it could be closer to $1T. Some want to see October results first; Anthropic's run rate topped $80B at the end of October, up from the prior month. One investor said the company could raise less, perhaps around $80B, and hopes for well over $200B on the balance sheet post-IPO. Another wondered if Anthropic might delay for more favorable conditions. Veteran investor George Noble warned Nvidia is steering toward a dot-com-style reckoning by propping up customers buying its hardware. He noted Nvidia accounts for roughly 8% of the S&P 500, double Cisco's weighting at the 2000 peak, and argued Nvidia is walking into the 'exact same' trap that decimated Cisco. Noble drew parallels to Cisco's vendor financing, when it lent to telecom startups unable to pay upfront; when those companies collapsed, Cisco shares plummeted 89%, dragging the S&P 500 down by half. Today, Nvidia guarantees customer lease agreements and takes equity stakes in startups purchasing its chips, a circular financing structure that leaves it heavily exposed to default, Noble said, calling it 'the biggest misallocation of capital in history.' In markets, Asian stocks are catching up to the selling, with Tokyo's Nikkei falling below 60,000 into a bear market. Wall Street is mixed: Nasdaq 100 futures up more than 1%, S&P futures up 0.3%, Dow futures down nearly 1%. The VIX is lower, below 27 from above 28 at Thursday's close. A trader told the FT: 'What we are seeing is the effect of too much investment concentration unwinding too fast.' A Tokyo-based head of trading said the AI trade was 'so, so crowded' and may still be crowded after the selling. UBS chief economist Paul Donovan said data-center builders might have to offer 'more inducements' to local communities, raising project costs, but these investments are economically positive: 'building a school generates economic activity.'",
+      "conclusion_zh": "特斯拉战略转向Cybercab面临监管风险，Anthropic高估值IPO遇冷，英伟达的循环融资模式引发泡沫担忧，AI交易拥挤度仍高，投资者需警惕集中度风险。",
+      "conclusion_en": "Tesla's strategic shift to Cybercab faces regulatory risk, Anthropic's high-valuation IPO meets skepticism, and Nvidia's circular financing raises bubble concerns; the AI trade remains crowded, warranting caution on concentration risk.",
+      "key_points": [
+        {
+          "zh": "特斯拉将于2025年中停产Cybertruck，转产Cybercab，目标年底前公开销售，但面临美国安全调查。",
+          "en": "Tesla will wind down Cybertruck production in mid-2025 to shift to Cybercab, targeting public sales by year-end despite a U.S. safety probe."
+        },
+        {
+          "zh": "Anthropic的1.5万亿美元IPO估值遭主要投资者质疑，可能下调至约1万亿美元或推迟，Polymarket概率降至54%。",
+          "en": "Anthropic's $1.5T IPO valuation faces skepticism from major investors, with potential cuts to ~$1T or delays; Polymarket odds fell to 54%."
+        },
+        {
+          "zh": "George Noble警告英伟达通过循环融资支持客户，类似思科2000年泡沫，英伟达占标普500权重约8%，是思科峰值时的两倍。",
+          "en": "George Noble warns Nvidia's circular financing mirrors Cisco's 2000 bubble; NVDA is ~8% of the S&P 500, double Cisco's peak weight."
+        },
+        {
+          "zh": "市场动荡：日经指数跌破60000点进入熊市，美股期货涨跌互现，VIX降至27以下，交易员称AI交易仍拥挤。",
+          "en": "Market turmoil: Nikkei falls below 60,000 into a bear market, U.S. futures mixed, VIX below 27; traders say the AI trade remains crowded."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "Anthropic IPO",
+        "Nvidia",
+        "AI bubble",
+        "market volatility"
+      ],
+      "tickers": [
+        "TSLA",
+        "NVDA",
+        "CSCO"
+      ],
+      "sentiment": "negative"
     },
     {
       "guid": "yt:lre_r1SIMwA",
@@ -16010,6 +16230,60 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:ZyTTf7pRlX4",
+      "title": "Token Troubles: AI & Crypto Edition | SpotGamma",
+      "title_zh": "零日期权正Gamma抑制标普波动，但科技股轮动风险隐现",
+      "url": "https://www.youtube.com/watch?v=ZyTTf7pRlX4",
+      "published_at": "2026-10-31T02:27:07+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility",
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "标普500因零日期权正Gamma而反应温和，但纳斯达克下跌超2.5%，科技股疲软。市场担忧若板块轮动停止，资金可能转向债券，加剧股市下行风险。",
+      "summary_en": "The S&P 500 is showing a muted reaction due to positive gamma from zero-DTE options, while the Nasdaq has dropped over 2.5% amid tech weakness. The risk is that if sector rotation stops, money could shift to bonds, exacerbating equity downside.",
+      "detail_zh": "标普500的零日期权正Gamma分布在行权价上下40个点，导致市场反应温和。零日期权跨式组合仅定价40个点（52个基点）的波动，尽管期货隔夜下跌80个点。纳斯达克跌幅是标普的2.5倍，但波动率表面（如一个月偏斜）仅上升约半个波动点，表明波动率未显著觉醒。科技股疲软，英特尔因财报糟糕下跌30%，而亚马逊、Meta、谷歌跌幅较小。市场担忧若科技股轮动至防御性板块的趋势停止，资金可能流向债券，导致股市进一步下跌。",
+      "detail_en": "The S&P 500's positive gamma from zero-DTE options is layered at strikes 40 handles above and below, leading to a muted market reaction. The zero-DTE straddle priced only $40 (52 basis points) of movement despite futures dropping 80 handles overnight. The Nasdaq fell 2.5 times as much as the S&P, but the volatility surface (e.g., one-month skew) rose only about half a vol point, indicating volatility hasn't woken up. Tech stocks are weak: Intel dropped 30% on awful earnings, while Amazon, Meta, and Google fell less. The risk is that if the rotation from tech to defensive sectors stops, money could flow into bonds, causing further equity downside.",
+      "conclusion_zh": "关注科技股轮动是否持续，若停止，资金可能流向债券，增加股市下行压力。",
+      "conclusion_en": "Watch whether tech rotation persists; if it stops, money may flow to bonds, increasing equity downside pressure.",
+      "key_points": [
+        {
+          "zh": "标普500零日期权正Gamma抑制波动，跨式组合定价仅40个点。",
+          "en": "Positive gamma from zero-DTE options suppresses S&P 500 volatility; straddle priced at only $40."
+        },
+        {
+          "zh": "纳斯达克下跌2.5%，但波动率表面仅小幅上升，未显著觉醒。",
+          "en": "Nasdaq fell 2.5%, but the volatility surface rose only modestly and hasn't woken up."
+        },
+        {
+          "zh": "英特尔财报糟糕，股价下跌30%，但其他科技股跌幅较小。",
+          "en": "Intel's awful earnings led to a 30% drop, while other tech stocks fell less."
+        },
+        {
+          "zh": "风险在于科技股轮动停止，资金可能转向债券，加剧股市下行。",
+          "en": "Risk is that tech rotation stops, potentially shifting money to bonds and exacerbating equity downside."
+        }
+      ],
+      "tags": [
+        "zero-DTE",
+        "gamma",
+        "tech-rotation",
+        "volatility",
+        "Intel"
+      ],
+      "tickers": [
+        "INTC",
+        "AMZN",
+        "META",
+        "GOOGL",
+        "NVDA",
+        "TSLA"
+      ],
+      "sentiment": "negative"
+    },
+    {
       "guid": "yt:ZuGC3zCrOTo",
       "title": "Equities Tricky, Fixed Income Treats During Busy Fed Week",
       "title_zh": "科技股回调拖累美股，固收与防御板块走强",
@@ -17341,95 +17615,6 @@
         "CMG"
       ],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:FmI8IBM3BM8",
-      "title": "Starbucks CEO Says Turnaround Is Ahead of Schedule",
-      "title_zh": "星巴克CEO：转型计划提前，盈利增长将持续",
-      "url": "https://www.youtube.com/watch?v=FmI8IBM3BM8",
-      "published_at": "2026-10-30T14:40:38+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "星巴克CEO Brian Niccol表示，公司盈利增长将持续，转型计划进度超前，并称成为多品牌公司是一种可能。公司近期表示未在探索收购Chipotle。",
-      "summary_en": "Starbucks CEO Brian Niccol expects earnings growth to continue and says the turnaround plan is ahead of schedule. He also says becoming a multi-brand company is a possibility. The company recently said it was not exploring a takeover of Chipotle.",
-      "detail_zh": "星巴克首席执行官Brian Niccol在接受彭博社Romaine Bostick采访时表示，他预计公司盈利增长将持续，且转型计划进度超前。Niccol还提到，成为一家多品牌公司是一种可能性。此外，星巴克近期表示，公司并未在探索收购Chipotle。",
-      "detail_en": "Starbucks CEO Brian Niccol told Bloomberg's Romaine Bostick that he expects earnings growth to continue and that the turnaround plan is ahead of schedule. Niccol also said that becoming a multi-brand company is a possibility. Additionally, the company recently said it was not exploring a takeover of Chipotle.",
-      "conclusion_zh": "星巴克管理层对转型进展和盈利前景持积极态度，并保留多品牌发展的可能性，但未探索收购Chipotle。",
-      "conclusion_en": "Starbucks management is positive on turnaround progress and earnings outlook, and keeps multi-brand expansion as a possibility, but is not exploring a Chipotle takeover.",
-      "key_points": [
-        {
-          "zh": "星巴克CEO预计盈利增长将持续",
-          "en": "Starbucks CEO expects earnings growth to continue"
-        },
-        {
-          "zh": "转型计划进度超前",
-          "en": "Turnaround plan is ahead of schedule"
-        },
-        {
-          "zh": "成为多品牌公司是一种可能性",
-          "en": "Becoming a multi-brand company is a possibility"
-        },
-        {
-          "zh": "公司近期表示未在探索收购Chipotle",
-          "en": "Company recently said it was not exploring a takeover of Chipotle"
-        }
-      ],
-      "tags": [
-        "Starbucks",
-        "turnaround",
-        "earnings growth",
-        "multi-brand",
-        "Chipotle"
-      ],
-      "tickers": [
-        "SBUX",
-        "CMG"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:xWbjzZTGOXg",
-      "title": "AstraZeneca CFO on AI, Earnings, Restructuring Plan",
-      "title_zh": "阿斯利康CFO：AI几乎贯穿所有工作环节",
-      "url": "https://www.youtube.com/watch?v=xWbjzZTGOXg",
-      "published_at": "2026-10-30T14:28:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "阿斯利康首席财务官Aradhana Sarin表示，公司在几乎所有工作环节都使用了AI。她还在访谈中谈及公司业绩超预期、药物管线以及交易策略。",
-      "summary_en": "AstraZeneca CFO Aradhana Sarin says the company uses AI in almost every aspect of its work. She also discussed beating on earnings, the drug pipeline, and the company's approach to dealmaking.",
-      "detail_zh": "阿斯利康首席财务官Aradhana Sarin在“Bloomberg Surveillance”节目中表示，公司在几乎所有工作环节中都使用了人工智能。她提及公司业绩超出预期，并讨论了药物管线情况。Sarin还介绍了公司在交易（并购/合作）方面的策略思路。",
-      "detail_en": "AstraZeneca CFO Aradhana Sarin said on \"Bloomberg Surveillance\" that the company uses AI in almost every aspect of its work. She mentioned that the company beat on earnings and discussed its drug pipeline. Sarin also described the company's approach to dealmaking.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "阿斯利康在几乎所有工作环节都使用AI",
-          "en": "AstraZeneca uses AI in almost every aspect of its work"
-        },
-        {
-          "zh": "公司业绩超出预期",
-          "en": "The company beat on earnings"
-        },
-        {
-          "zh": "CFO谈及药物管线与交易策略",
-          "en": "The CFO discussed the drug pipeline and dealmaking approach"
-        }
-      ],
-      "tags": [
-        "AstraZeneca",
-        "AI",
-        "pharma",
-        "earnings",
-        "dealmaking"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
