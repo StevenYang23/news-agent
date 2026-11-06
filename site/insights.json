@@ -1,6 +1,128 @@
 {
-  "generated_at": "2026-11-06T15:15:08.710167+00:00",
+  "generated_at": "2026-11-06T16:15:18.626272+00:00",
   "insights": [
+    {
+      "guid": "yt:JhU92UoF1SE",
+      "title": "Goldman Goes Quiet on Women Partner Promotions",
+      "title_zh": "高盛公布新合伙人：28%从实习生起步，但未披露女性比例",
+      "url": "https://www.youtube.com/watch?v=JhU92UoF1SE",
+      "published_at": "2026-11-06T15:49:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "高盛周四宣布新合伙人名单，强调28%的新合伙人从实习生做起，且通常需17年晋升至合伙人。但公告未提及新合伙人中女性占比。",
+      "summary_en": "Goldman Sachs announced its new partner class on Thursday, highlighting that 28% started as interns and that it typically takes 17 years to become a partner. However, the announcement did not disclose how many of the new partners are women.",
+      "detail_zh": "高盛集团周四公布了新合伙人名单。公告称，28%的新合伙人最初是以实习生身份加入公司，且新合伙人通常需要17年时间才能晋升至该职位。但公告未披露新合伙人中女性所占比例。该消息由Todd Gillespie在“Bloomberg Open Interest”节目中报道。",
+      "detail_en": "Goldman Sachs Group announced its new partners on Thursday. The announcement stated that 28% of the new partners started as interns and that new members typically took 17 years to reach the partner level. However, it was silent on how many of the new partners are women. The report was by Todd Gillespie on \"Bloomberg Open Interest.\"",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "高盛新合伙人中28%从实习生起步。",
+          "en": "28% of Goldman's new partners started as interns."
+        },
+        {
+          "zh": "新合伙人通常需要17年晋升至合伙人。",
+          "en": "New partners typically took 17 years to reach the partner level."
+        },
+        {
+          "zh": "公告未披露新合伙人中女性占比。",
+          "en": "The announcement did not disclose the proportion of women among the new partners."
+        }
+      ],
+      "tags": [
+        "Goldman Sachs",
+        "partnership",
+        "diversity"
+      ],
+      "tickers": [
+        "GS"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ozd5ySBPLO8",
+      "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
+      "title_zh": "科技股抛售或影响Anthropic估值，潜在买家讨论1.2万亿至1.3万亿美元区间",
+      "url": "https://www.youtube.com/watch?v=ozd5ySBPLO8",
+      "published_at": "2026-11-06T15:41:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博情报的Mandeep Singh指出，科技股抛售可能对Anthropic造成冲击。潜在买家正讨论该公司1.2万亿至1.3万亿美元的估值区间，公司可能在感恩节前上市。",
+      "summary_en": "Mandeep Singh of Bloomberg Intelligence notes that the tech selloff could hurt Anthropic. Potential buyers are discussing a valuation range of $1.2 trillion to $1.3 trillion for the company, which could go public before Thanksgiving.",
+      "detail_zh": "彭博情报的Mandeep Singh在彭博电视节目中表示，科技股遭遇的抛售可能对Anthropic构成不利影响。潜在买家正在讨论该公司的估值区间，为1.2万亿至1.3万亿美元。Anthropic有可能在感恩节之前上市。原文未提供更多关于估值依据、上市细节或抛售影响机制的信息。",
+      "detail_en": "Mandeep Singh of Bloomberg Intelligence said on Bloomberg Television that the selloff in tech stocks could hurt Anthropic. Potential buyers are discussing a valuation range of $1.2 trillion to $1.3 trillion for the company. Anthropic could go public before Thanksgiving. The source does not provide further details on the valuation basis, IPO specifics, or the mechanism of the selloff's impact.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技股抛售可能对Anthropic造成冲击",
+          "en": "The tech stock selloff could hurt Anthropic"
+        },
+        {
+          "zh": "潜在买家讨论的估值区间为1.2万亿至1.3万亿美元",
+          "en": "Potential buyers are discussing a valuation range of $1.2 trillion to $1.3 trillion"
+        },
+        {
+          "zh": "公司可能在感恩节前上市",
+          "en": "The company could go public before Thanksgiving"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "tech selloff",
+        "valuation"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:6ON1aohk8hY",
+      "title": "Jobs Report Doesn't Mean Fed Should Hike Rates, Hassett Argues",
+      "title_zh": "白宫经济顾问Hassett：强劲就业数据不必然导致美联储12月加息",
+      "url": "https://www.youtube.com/watch?v=6ON1aohk8hY",
+      "published_at": "2026-11-06T15:16:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "白宫国家经济委员会主任Kevin Hassett表示，强劲的美国就业报告并不一定意味着美联储应在12月加息。他是在Bloomberg Open Interest节目上发表上述评论的，同时亦谈及对美联储理事Lisa Cook的调查。",
+      "summary_en": "White House National Economic Council Director Kevin Hassett argued that a strong US employment report does not necessarily mean the Federal Reserve should raise rates in December. He made the comments on Bloomberg Open Interest and also discussed the investigation into Fed Governor Lisa Cook.",
+      "detail_zh": "白宫国家经济委员会主任Kevin Hassett在Bloomberg Open Interest节目中表示，强劲的美国就业报告并不必然意味着美联储应在12月加息。Hassett还就针对美联储理事Lisa Cook的调查发表了评论。原文未提供更多关于就业报告具体数据、加息理由或调查细节的信息。",
+      "detail_en": "White House National Economic Council Director Kevin Hassett said on Bloomberg Open Interest that a strong US employment report does not necessarily mean the Federal Reserve should raise rates in December. Hassett also commented on the investigation into Federal Reserve Governor Lisa Cook. The source does not provide further details on the employment data, the rationale for rates, or the investigation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Hassett认为强劲就业报告不必然导致美联储12月加息。",
+          "en": "Hassett argues a strong jobs report does not necessarily imply a December rate hike."
+        },
+        {
+          "zh": "Hassett是在Bloomberg Open Interest节目上发表上述观点的。",
+          "en": "Hassett made the remarks on Bloomberg Open Interest."
+        },
+        {
+          "zh": "Hassett还评论了对美联储理事Lisa Cook的调查。",
+          "en": "Hassett also commented on the investigation into Fed Governor Lisa Cook."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate hike",
+        "jobs report",
+        "White House",
+        "Lisa Cook"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:wTQbDVUpKjs",
       "title": "Modernizing your Wealth Strategy",
@@ -17426,195 +17548,6 @@
         "ETD"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:axFD8wNbdR4",
-      "title": "Bergeron Says Ethan Allen CEO Needs to Go",
-      "title_zh": "激进投资者Bergeron推动Ethan Allen更换CEO",
-      "url": "https://www.youtube.com/watch?v=axFD8wNbdR4",
-      "published_at": "2026-10-30T15:56:45+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "DGB Investments创始人Douglas Bergeron正推动对Ethan Allen的重大变革，要求撤换董事长兼CEO Farooq Kathwari，并由Stefanie Tsen Ward接替。Bergeron在Bloomberg Open Interest节目中发表了上述观点。",
-      "summary_en": "DGB Investments founder Douglas Bergeron is pushing for major changes at Ethan Allen, calling for the removal of CEO and Chairman Farooq Kathwari and his replacement by Stefanie Tsen Ward. Bergeron spoke on \"Bloomberg Open Interest.\"",
-      "detail_zh": "DGB Investments创始人Douglas Bergeron作为激进投资者，正在推动对家具零售商Ethan Allen进行重大调整。他明确表示，现任董事长兼首席执行官Farooq Kathwari需要被撤换，并提议由Stefanie Tsen Ward接任该职位。Bergeron是在Bloomberg Television的“Bloomberg Open Interest”节目中发表这一观点的。原文未提供Bergeron的具体持股比例、推动变革的详细理由或Ethan Allen的回应。",
-      "detail_en": "Douglas Bergeron, founder of DGB Investments, is acting as an activist investor pushing for major changes at furniture retailer Ethan Allen. He explicitly stated that current CEO and Chairman Farooq Kathwari needs to be removed and proposed Stefanie Tsen Ward as his replacement. Bergeron made these remarks on Bloomberg Television's \"Bloomberg Open Interest.\" The original text does not provide Bergeron's specific stake, detailed rationale for the changes, or any response from Ethan Allen.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "DGB Investments创始人Douglas Bergeron正推动Ethan Allen的重大变革。",
-          "en": "DGB Investments founder Douglas Bergeron is pushing for major changes at Ethan Allen."
-        },
-        {
-          "zh": "Bergeron要求撤换董事长兼CEO Farooq Kathwari。",
-          "en": "Bergeron is calling for the removal of CEO and Chairman Farooq Kathwari."
-        },
-        {
-          "zh": "Bergeron提议由Stefanie Tsen Ward接替Kathwari的职位。",
-          "en": "Bergeron proposes Stefanie Tsen Ward as Kathwari's replacement."
-        },
-        {
-          "zh": "Bergeron在Bloomberg Open Interest节目中发表了上述观点。",
-          "en": "Bergeron made these remarks on \"Bloomberg Open Interest.\""
-        }
-      ],
-      "tags": [
-        "activist investor",
-        "CEO change",
-        "Ethan Allen",
-        "corporate governance"
-      ],
-      "tickers": [
-        "ETH"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:aGX2Ezs0FG4",
-      "title": "Bloomberg Surveillance 10/30/2026",
-      "title_zh": "彭博观察：科技股抛售、亚马逊财报与中期选举风险",
-      "url": "https://www.youtube.com/watch?v=aGX2Ezs0FG4",
-      "published_at": "2026-10-30T15:38:45+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目讨论了科技股抛售、亚马逊AWS增长与资本开支、中期选举对AI交易的潜在风险、科技轮动的基本面依据、高收益债的替代价值等议题。嘉宾观点分歧：Darius Dale认为中期选举是AI交易被低估的风险，Jonathan Golub认为科技轮动缺乏基本面支撑，Milissa Hutchinson则看好高收益债提供8%的替代收益。",
-      "summary_en": "This episode covers the tech selloff, Amazon's AWS growth and capex, midterm election risks to the AI trade, the fundamental justification for tech rotation, and high-yield credit as an equity alternative. Guests diverge: Darius Dale sees midterms as an underpriced risk to AI, Jonathan Golub argues tech rotation isn't fundamentally justified, and Milissa Hutchinson favors high-yield credit offering an 8% alternative.",
-      "detail_zh": "节目首先聚焦科技股抛售、亚马逊财报和选举倒计时。42 Macro的Darius Dale指出，中期选举是AI交易中被低估的风险。Cook Political Report的Erin Covey认为民主党在众议院获胜的可能性较大。Maxim Group的Tom Forte表示，亚马逊AWS的增长足以证明其 heavy CapEx 的合理性。TD Securities的Jayati Bharadwaj预计，在歐洲央行过渡期间欧元将表现不佳。Seaport Research Partners的Jonathan Golub认为，科技轮动并不被基本面所支持。前白宫电力高级主管Peter Lake表示，数据中心成本不应由家庭承担。AstraZeneca的Aradhana Sarin讨论了癌症治疗的进展。Goldman Sachs的Kay Haigh预计，AI债券发行量每年可能超过5000亿美元。Alpine Saxon Woods的Sarah Hunt认为目前石油交易难度较大。LightShed Partners的Walt Piecyk评价苹果iPhone duo的AI体验不佳。ADP的Nela Richardson指出，家庭为了跟上物价上涨而更加努力工作。Nomura的Milissa Hutchinson认为，高收益信用债提供了8%的股票替代收益。",
-      "detail_en": "The program opens with the tech selloff, Amazon earnings, and the election countdown. Darius Dale of 42 Macro identifies the midterms as an underpriced risk to the AI trade. Erin Covey of Cook Political Report sees a Democratic wave in the House as likely. Tom Forte of Maxim Group says Amazon's AWS growth justifies its heavy CapEx. Jayati Bharadwaj of TD Securities expects the euro to underperform amid the ECB transition. Jonathan Golub of Seaport Research Partners argues the tech rotation isn't justified by fundamentals. Peter Lake, former White House Senior Director of Power, says data center costs shouldn't fall on households. Aradhana Sarin of AstraZeneca discusses cancer cures becoming a reality. Kay Haigh of Goldman Sachs expects AI bond issuance could top $500 billion a year. Sarah Hunt of Alpine Saxon Woods calls oil a tough trade for now. Walt Piecyk of LightShed Partners says the Apple iPhone duo is not a great AI experience. Nela Richardson of ADP notes households are working harder to keep up with prices. Milissa Hutchinson of Nomura sees high-yield credit offering an 8% alternative to stocks.",
-      "conclusion_zh": "投资者需关注中期选举对AI交易的潜在冲击，同时科技轮动的基本面支撑存疑，高收益债的替代价值值得留意。",
-      "conclusion_en": "Investors should watch the midterm elections as a potential shock to the AI trade, question the fundamental basis for tech rotation, and note the alternative value of high-yield credit.",
-      "key_points": [
-        {
-          "zh": "Darius Dale（42 Macro）认为中期选举是AI交易被低估的风险。",
-          "en": "Darius Dale of 42 Macro sees the midterms as an underpriced risk to the AI trade."
-        },
-        {
-          "zh": "Jonathan Golub（Seaport Research Partners）认为科技轮动并不被基本面所支持。",
-          "en": "Jonathan Golub of Seaport Research Partners argues the tech rotation isn't justified by fundamentals."
-        },
-        {
-          "zh": "Tom Forte（Maxim Group）表示亚马逊AWS的增长足以证明其 heavy CapEx 的合理性。",
-          "en": "Tom Forte of Maxim Group says Amazon's AWS growth justifies its heavy CapEx."
-        },
-        {
-          "zh": "Kay Haigh（Goldman Sachs）预计AI债券发行量每年可能超过5000亿美元。",
-          "en": "Kay Haigh of Goldman Sachs expects AI bond issuance could top $500 billion a year."
-        },
-        {
-          "zh": "Milissa Hutchinson（Nomura）认为高收益信用债提供了8%的股票替代收益。",
-          "en": "Milissa Hutchinson of Nomura sees high-yield credit offering an 8% alternative to stocks."
-        }
-      ],
-      "tags": [
-        "tech-selloff",
-        "midterms",
-        "AI-trade",
-        "high-yield",
-        "Amazon"
-      ],
-      "tickers": [
-        "AMZN",
-        "AAPL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:XlGsUWmShSw",
-      "title": "Starbucks Could Become a Multi-Brand Company, CEO Says",
-      "title_zh": "星巴克CEO：多品牌战略可行但非当前重点，否认收购Chipotle",
-      "url": "https://www.youtube.com/watch?v=XlGsUWmShSw",
-      "published_at": "2026-10-30T15:30:15+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "星巴克CEO Brian Niccol表示，成为多品牌公司是可能的，但目前并非重点。两周前公司已表明不会收购Chipotle Mexican Grill。Niccol称“永不说永不”，但现阶段公司专注于改善门店、菜单和服务。",
-      "summary_en": "Starbucks CEO Brian Niccol said becoming a multi-brand company is possible but not the current focus. Two weeks ago the company said it is not buying Chipotle Mexican Grill. Niccol said he'd \"never say never,\" but for now the company is concentrating on improving stores, menus and service.",
-      "detail_zh": "星巴克首席执行官Brian Niccol在接受彭博采访时表示，成为一家多品牌公司是可能的，但这并非公司当前的重点。两周前，星巴克已明确表示不会收购Chipotle Mexican Grill。Niccol对彭博的Romaine Bostick表示，他“永不说永不”，但就目前而言，公司正专注于改善门店、菜单和服务。此番言论呼应了星巴克近期对收购传闻的否认，并强调了其当前以运营提升为核心的战略方向。",
-      "detail_en": "Starbucks CEO Brian Niccol said in a Bloomberg interview that becoming a multi-brand company is possible, but that is not the company's focus right now. Two weeks ago, Starbucks explicitly said it is not buying Chipotle Mexican Grill. Niccol told Bloomberg's Romaine Bostick that he would \"never say never,\" but for now the company is concentrating on improving stores, menus and service. These remarks echo Starbucks' recent denial of acquisition rumors and underscore its current strategic focus on operational improvement.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "星巴克CEO Brian Niccol表示，成为多品牌公司是可能的，但目前并非重点。",
-          "en": "Starbucks CEO Brian Niccol said becoming a multi-brand company is possible, but it's not the current focus."
-        },
-        {
-          "zh": "两周前公司已表示不会收购Chipotle Mexican Grill。",
-          "en": "Two weeks ago the company said it is not buying Chipotle Mexican Grill."
-        },
-        {
-          "zh": "Niccol称“永不说永不”，但现阶段公司专注于改善门店、菜单和服务。",
-          "en": "Niccol said he'd \"never say never,\" but for now the company is concentrating on improving stores, menus and service."
-        }
-      ],
-      "tags": [
-        "Starbucks",
-        "Chipotle",
-        "M&A",
-        "CEO interview"
-      ],
-      "tickers": [
-        "SBUX",
-        "CMG"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:c_FdYeRsd_I",
-      "title": "Starbucks CEO Is Focused on Growth Plan, Fundamentals",
-      "title_zh": "星巴克CEO：转型计划提前，盈利增长将持续",
-      "url": "https://www.youtube.com/watch?v=c_FdYeRsd_I",
-      "published_at": "2026-10-30T15:15:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "星巴克CEO Brian Niccol表示，公司盈利增长将持续，转型计划进展超前于计划。他还提到成为多品牌公司是一种可能性，并澄清公司近期并未探索收购Chipotle。",
-      "summary_en": "Starbucks CEO Brian Niccol expects earnings growth to continue and says the turnaround plan is ahead of schedule. He also mentioned that becoming a multi-brand company is a possibility and clarified that the company is not exploring a takeover of Chipotle.",
-      "detail_zh": "星巴克首席执行官Brian Niccol在接受彭博社Romaine Bostick采访时表示，他预计公司盈利增长将持续，并且转型计划进展超前于计划。Niccol还提到，成为一家多品牌公司是一种可能性。此外，他澄清公司近期并未探索收购Chipotle。此次采访内容主要围绕星巴克的战略方向和增长前景。",
-      "detail_en": "Starbucks CEO Brian Niccol told Bloomberg's Romaine Bostick that he expects earnings growth to continue and that the turnaround plan is ahead of schedule. Niccol also said that becoming a multi-brand company is a possibility. Additionally, he clarified that the company recently said it was not exploring a takeover of Chipotle. The interview focused on Starbucks' strategic direction and growth prospects.",
-      "conclusion_zh": "星巴克管理层对转型进展和盈利前景持积极态度，并暗示多品牌战略可能，但近期无收购Chipotle计划。",
-      "conclusion_en": "Starbucks management is positive on turnaround progress and earnings outlook, and hints at multi-brand strategy, but no near-term plan to acquire Chipotle.",
-      "key_points": [
-        {
-          "zh": "星巴克CEO预计盈利增长将持续。",
-          "en": "Starbucks CEO expects earnings growth to continue."
-        },
-        {
-          "zh": "转型计划进展超前于计划。",
-          "en": "The turnaround plan is ahead of schedule."
-        },
-        {
-          "zh": "成为多品牌公司是一种可能性。",
-          "en": "Becoming a multi-brand company is a possibility."
-        },
-        {
-          "zh": "公司近期并未探索收购Chipotle。",
-          "en": "The company recently said it was not exploring a takeover of Chipotle."
-        }
-      ],
-      "tags": [
-        "Starbucks",
-        "earnings",
-        "turnaround",
-        "multi-brand",
-        "Chipotle"
-      ],
-      "tickers": [
-        "SBUX",
-        "CMG"
-      ],
-      "sentiment": "positive"
     }
   ]
 }
