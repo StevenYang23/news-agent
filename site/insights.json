@@ -1,6 +1,348 @@
 {
-  "generated_at": "2026-11-06T11:13:02.406419+00:00",
+  "generated_at": "2026-11-06T12:20:16.253838+00:00",
   "insights": [
+    {
+      "guid": "yt:aXhpDL6ibBI",
+      "title": "Sell Off Turns to Uncertainty",
+      "title_zh": "AI与美国政治不确定性令投资者避险",
+      "url": "https://www.youtube.com/watch?v=aXhpDL6ibBI",
+      "published_at": "2026-11-06T12:04:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博电视报道指出，在人工智能和美国政治带来的不确定性背景下，投资者倾向于规避风险。原文未提供具体数据或资产表现细节。",
+      "summary_en": "Bloomberg Television reports that investors are looking to avoid risk amid uncertainty stemming from AI and US politics. No specific data or asset performance details are provided.",
+      "detail_zh": "彭博电视的一则视频标题指出，投资者希望规避风险，原因是人工智能和美国政治带来了不确定性。原文仅包含该标题及彭博电视和市场的推广链接，未提供进一步的数据、引述或分析。因此，无法从原文中提取具体的市场影响、资产配置方向或风险细节。",
+      "detail_en": "A Bloomberg Television video headline states that investors want to avoid risk amid uncertainty from AI and US politics. The original text contains only this headline and promotional links for Bloomberg Television and Markets, with no further data, quotes, or analysis. Consequently, no specific market implications, asset allocation directions, or risk details can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "投资者因AI不确定性而寻求避险",
+          "en": "Investors seek to avoid risk due to AI uncertainty"
+        },
+        {
+          "zh": "美国政治不确定性也是避险情绪的来源",
+          "en": "US political uncertainty is also a source of risk aversion"
+        },
+        {
+          "zh": "原文未提供具体市场数据或资产表现",
+          "en": "The original text provides no specific market data or asset performance"
+        }
+      ],
+      "tags": [
+        "risk-aversion",
+        "AI-uncertainty",
+        "US-politics",
+        "market-sentiment"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:T3nOPIkxCjo",
+      "title": "There Was No Big Trigger for the Selloff, Page Says",
+      "title_zh": "T. Rowe Price CIO：市场仍有买入机会，看好超大规模计算与半导体",
+      "url": "https://www.youtube.com/watch?v=T3nOPIkxCjo",
+      "published_at": "2026-11-06T11:54:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "T. Rowe Price全球投资联席主管兼CIO Sebastien Page表示，市场仍有买入机会，且此次大幅抛售并无真正触发因素。他认为当前是投资超大规模计算公司和半导体的好时机。",
+      "summary_en": "Sebastien Page, co-head of global investments and CIO at T. Rowe Price, says there are still buying opportunities in the market and that there was no real trigger for the wide selloff. He says it's a good time to invest in hyperscalers and semiconductors.",
+      "detail_zh": "T. Rowe Price全球投资联席主管兼首席投资官Sebastien Page在彭博电视采访中表示，市场仍然存在买入机会。他指出，此次广泛的市场抛售并没有真正的触发因素。Page认为，当前是投资超大规模计算公司（hyperscalers）和半导体板块的好时机。原文未提供具体数据、个股名称或更详细的逻辑阐述。",
+      "detail_en": "Sebastien Page, co-head of global investments and CIO at T. Rowe Price, said in a Bloomberg Television interview that there are still buying opportunities in the market. He noted that there was no real trigger for the wide selloff. Page believes it is a good time to invest in hyperscalers and semiconductors. The original text does not provide specific data, individual stock names, or further detailed reasoning.",
+      "conclusion_zh": "Page认为市场抛售缺乏基本面触发因素，并视超大规模计算与半导体为当前买入方向。",
+      "conclusion_en": "Page sees the selloff as lacking a fundamental trigger and views hyperscalers and semiconductors as current buying opportunities.",
+      "key_points": [
+        {
+          "zh": "市场仍有买入机会",
+          "en": "There are still buying opportunities in the market"
+        },
+        {
+          "zh": "此次广泛抛售并无真正触发因素",
+          "en": "There was no real trigger for the wide selloff"
+        },
+        {
+          "zh": "当前是投资超大规模计算公司的好时机",
+          "en": "It's a good time to invest in hyperscalers"
+        },
+        {
+          "zh": "当前是投资半导体的好时机",
+          "en": "It's a good time to invest in semiconductors"
+        }
+      ],
+      "tags": [
+        "hyperscalers",
+        "semiconductors",
+        "market selloff",
+        "buying opportunities"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:f4lO3tW-ueQ",
+      "title": "HSBC’s Max Kettner: The AI Trade Hasn’t Fundamentally Changed",
+      "title_zh": "汇丰策略师：AI与美股急跌尚未构成基本面断裂，仓位与强制抛售或是主因",
+      "url": "https://www.youtube.com/watch?v=f4lO3tW-ueQ",
+      "published_at": "2026-11-06T11:40:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "汇丰首席多资产策略师Max Kettner认为，AI及美股近期的急剧抛售尚未指向交易逻辑的基本面断裂，仓位与强制抛售可能正在驱动波动。他还谈及对AI估值的看法，表示Anthropic IPO估值低于1万亿美元是可以接受的。",
+      "summary_en": "HSBC Chief Multi-Asset Strategist Max Kettner argues that the sharp selloff in AI and US equities does not yet signal a fundamental break in the trade, with positioning and forced selling likely driving the volatility. He also discusses AI valuations, saying he would be comfortable with an Anthropic IPO valuation below $1 trillion.",
+      "detail_zh": "华尔街最大的交易部门此前数周一直主张，一旦选举结束，股市涨势将恢复；但周四这一判断严重落空。汇丰首席多资产策略师Max Kettner指出，AI和美国股市的急剧抛售尚未指向该交易的基本面断裂。他解释称，仓位和强制抛售可能正在驱动这轮波动。在AI估值方面，Kettner表示，Anthropic IPO估值低于1万亿美元是他可以接受的水平。",
+      "detail_en": "Wall Street's biggest trading desks had spent weeks arguing that the stock-market rally would resume once the election was over, but that call backfired spectacularly on Thursday. Max Kettner, HSBC's Chief Multi-Asset Strategist, argues that the sharp selloff in AI and US equities does not yet point to a fundamental break in the trade. He explains that positioning and forced selling may be driving the volatility. On AI valuations, Kettner says he would be comfortable with an Anthropic IPO valuation below $1 trillion.",
+      "conclusion_zh": "汇丰策略师认为近期AI与美股抛售更多由仓位和强制抛售驱动，而非基本面断裂，投资者可关注波动中的结构性机会，并对AI估值保持理性预期。",
+      "conclusion_en": "HSBC's strategist sees the recent AI and US equity selloff as driven more by positioning and forced selling than a fundamental break, suggesting investors watch for structural opportunities amid volatility and keep rational expectations on AI valuations.",
+      "key_points": [
+        {
+          "zh": "华尔街交易部门此前普遍预期选举结束后股市涨势将恢复，但周四这一判断严重落空。",
+          "en": "Wall Street trading desks had widely expected the rally to resume post-election, but that call backfired spectacularly on Thursday."
+        },
+        {
+          "zh": "汇丰的Max Kettner认为，AI与美股的急剧抛售尚未构成交易的基本面断裂。",
+          "en": "HSBC's Max Kettner argues the sharp selloff in AI and US equities does not yet point to a fundamental break in the trade."
+        },
+        {
+          "zh": "Kettner将当前波动归因于仓位和强制抛售，而非基本面恶化。",
+          "en": "Kettner attributes the volatility to positioning and forced selling rather than deteriorating fundamentals."
+        },
+        {
+          "zh": "Kettner表示，Anthropic IPO估值低于1万亿美元是他可以接受的。",
+          "en": "Kettner says he would be comfortable with an Anthropic IPO valuation below $1 trillion."
+        }
+      ],
+      "tags": [
+        "AI selloff",
+        "positioning",
+        "forced selling",
+        "valuation",
+        "US equities"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:0WZ8zq77RkE",
+      "title": "Markets Are Reevaluating AI 'Speed Limit,' Schwab's Sonders Says",
+      "title_zh": "嘉信理财Sonders：投资者重新评估超大规模云厂商的财务负担",
+      "url": "https://www.youtube.com/watch?v=0WZ8zq77RkE",
+      "published_at": "2026-11-06T11:38:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "嘉信理财首席投资策略师Liz Ann Sonders表示，投资者正在重新评估超大规模云厂商的财务负担，包括其债务与股权融资的使用情况，以及投资回报是否足以覆盖资本成本。",
+      "summary_en": "Liz Ann Sonders, chief investment strategist at Charles Schwab, says investors are reassessing the financial burden on hyperscalers, including their use of credit and equity financing, and whether returns on investment justify the cost of capital.",
+      "detail_zh": "嘉信理财首席投资策略师Liz Ann Sonders在“Bloomberg The Close”节目中表示，投资者正在重新评估超大规模云厂商（hyperscalers）所承受的财务负担。她指出，评估重点包括这些公司对债务融资和股权融资的使用情况。此外，投资者还在审视这些公司的投资回报是否足以证明其资本成本的合理性。Sonders的评论反映出市场对超大规模云厂商资本配置效率与融资结构的关注。",
+      "detail_en": "Liz Ann Sonders, chief investment strategist at Charles Schwab, said on \"Bloomberg The Close\" that investors are reassessing the financial burden on hyperscalers. She noted that the reassessment includes these companies' use of credit and equity financing. Investors are also examining whether returns on investment justify the cost of capital. Sonders' comments reflect market attention to the capital allocation efficiency and financing structure of hyperscalers.",
+      "conclusion_zh": "超大规模云厂商的融资结构与资本回报效率正成为投资者审视的焦点。",
+      "conclusion_en": "The financing structure and capital return efficiency of hyperscalers are becoming a focus of investor scrutiny.",
+      "key_points": [
+        {
+          "zh": "投资者正在重新评估超大规模云厂商的财务负担。",
+          "en": "Investors are reassessing the financial burden on hyperscalers."
+        },
+        {
+          "zh": "评估内容包括这些公司对债务和股权融资的使用。",
+          "en": "The reassessment includes their use of credit and equity financing."
+        },
+        {
+          "zh": "投资者关注投资回报是否足以覆盖资本成本。",
+          "en": "Investors are focused on whether returns on investment justify the cost of capital."
+        }
+      ],
+      "tags": [
+        "hyperscalers",
+        "capital-cost",
+        "financing",
+        "ROI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:xhGLl3haQg0",
+      "title": "Fesharaki Says Oil’s Right Price Is $80-$90",
+      "title_zh": "FGE主席：供需与低库存支撑油价80-90美元，明年或回落至65-70美元",
+      "url": "https://www.youtube.com/watch?v=xhGLl3haQg0",
+      "published_at": "2026-11-06T11:36:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "FGE NexantECA名誉主席Fereidun Fesharaki认为，基于供需和低库存，油价应在80-90美元/桶；但预计供应过剩将在明年此时推动油价降至65-70美元。",
+      "summary_en": "FGE NexantECA Chairman Emeritus Fereidun Fesharaki believes oil should trade at $80-$90/bbl based on supply, demand, and low inventories, but expects oversupply to push prices to $65-$70 by this time next year.",
+      "detail_zh": "FGE NexantECA名誉主席Fereidun Fesharaki在彭博电视台《Insight with Haslinda Amin》节目中表示，基于当前的供需基本面以及低库存水平，油价合理区间应在每桶80至90美元。但他同时预期，供应过剩将导致油价在明年此时回落至每桶65至70美元。Fesharaki未在节目中进一步阐述其供需模型的具体细节或库存数据来源。",
+      "detail_en": "Fereidun Fesharaki, Chairman Emeritus of FGE NexantECA, said on Bloomberg Television's \"Insight with Haslinda Amin\" that based on supply and demand fundamentals and low inventories, oil should trade at $80 to $90 a barrel. However, he expects oversupply to push prices down to $65 to $70 a barrel by this time next year. Fesharaki did not elaborate on the specifics of his supply-demand model or inventory data sources in the program.",
+      "conclusion_zh": "Fesharaki认为油价短期有基本面支撑，但明年面临供应过剩的下行风险。",
+      "conclusion_en": "Fesharaki sees near-term support for oil from fundamentals, but downside risk from oversupply next year.",
+      "key_points": [
+        {
+          "zh": "基于供需和低库存，油价合理水平为80-90美元/桶。",
+          "en": "Based on supply, demand, and low inventories, the fair value for oil is $80-$90/bbl."
+        },
+        {
+          "zh": "预计供应过剩将在明年此时推动油价降至65-70美元/桶。",
+          "en": "Oversupply is expected to push prices down to $65-$70/bbl by this time next year."
+        },
+        {
+          "zh": "观点来自FGE NexantECA名誉主席Fereidun Fesharaki。",
+          "en": "The view comes from Fereidun Fesharaki, Chairman Emeritus of FGE NexantECA."
+        }
+      ],
+      "tags": [
+        "oil",
+        "commodities",
+        "supply-demand",
+        "inventories"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_M2FofIQFLY",
+      "title": "Tech Selloff Hits Asia After US Market Rout",
+      "title_zh": "亚洲市场因美股科技股下跌及半导体持仓平仓而承压",
+      "url": "https://www.youtube.com/watch?v=_M2FofIQFLY",
+      "published_at": "2026-11-06T11:36:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股科技股隔夜下跌，半导体持仓平仓引发跨板块的系统性风险削减，亚洲市场随之承压。",
+      "summary_en": "Asian markets face pressure after an overnight drop in US technology shares, as an unwind in semiconductor holdings triggers systematic risk reductions across sectors.",
+      "detail_zh": "美股科技股隔夜下跌，半导体持仓的平仓操作引发了跨板块的系统性风险削减。受此影响，亚洲市场面临压力。彭博的Anthony Stephens提供了最新情况。",
+      "detail_en": "US technology shares dropped overnight, and an unwind in semiconductor holdings triggered systematic risk reductions across sectors. As a result, Asian markets are under pressure. Bloomberg's Anthony Stephens has the latest.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美股科技股隔夜下跌。",
+          "en": "US technology shares fell overnight."
+        },
+        {
+          "zh": "半导体持仓平仓引发系统性风险削减。",
+          "en": "An unwind in semiconductor holdings triggered systematic risk reductions."
+        },
+        {
+          "zh": "风险削减波及多个板块。",
+          "en": "The risk reductions spread across sectors."
+        },
+        {
+          "zh": "亚洲市场因此承压。",
+          "en": "Asian markets are facing pressure as a result."
+        }
+      ],
+      "tags": [
+        "semiconductors",
+        "tech selloff",
+        "risk reduction",
+        "Asian markets"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:y5PSW6dpNaA",
+      "title": "Iceland PM Says There's No Need for Permanent US Troops",
+      "title_zh": "冰岛总理：与美国关系紧密，无需恢复美军永久驻军",
+      "url": "https://www.youtube.com/watch?v=y5PSW6dpNaA",
+      "published_at": "2026-11-06T11:28:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "冰岛总理表示冰岛与美国关系“紧密”，但在北极紧张局势加剧的背景下，认为无需恢复美国在冰岛的永久驻军。美国已于2006年结束在凯夫拉维克空军基地的永久存在。",
+      "summary_en": "Iceland's Prime Minister says the nation has a \"tight knit\" relationship with the US, but sees no need to reinstate permanent American troops despite growing Arctic tensions. The US ended its permanent presence at the Keflavík air base in 2006.",
+      "detail_zh": "冰岛总理Kristrun Frostadottir表示，冰岛与美国拥有“紧密”的关系。尽管北极地区紧张局势加剧，她认为没有必要恢复美国在冰岛的永久驻军。美国于2006年结束了在凯夫拉维克空军基地的永久存在。",
+      "detail_en": "Iceland Prime Minister Kristrun Frostadottir says the nation has a \"tight knit\" relationship with the US. She added that there is no need to reinstate permanent American troops despite growing Arctic tensions. The US ended its permanent presence at the Keflavík air base in 2006.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "冰岛总理称与美国关系“紧密”。",
+          "en": "Iceland's PM describes the relationship with the US as \"tight knit\"."
+        },
+        {
+          "zh": "尽管北极紧张局势加剧，冰岛认为无需恢复美军永久驻军。",
+          "en": "Despite growing Arctic tensions, Iceland sees no need to reinstate permanent US troops."
+        },
+        {
+          "zh": "美国于2006年结束在凯夫拉维克空军基地的永久存在。",
+          "en": "The US ended its permanent presence at the Keflavík air base in 2006."
+        }
+      ],
+      "tags": [
+        "Iceland",
+        "US military",
+        "Arctic tensions",
+        "NATO"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:rlOAaC-6uyc",
+      "title": "Stock Selloff Eases After $3 Trillion Rout",
+      "title_zh": "美股AI板块抛售后企稳，逢低买盘入场",
+      "url": "https://www.youtube.com/watch?v=rlOAaC-6uyc",
+      "published_at": "2026-11-06T11:06:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "标普500创一年多最大单日跌幅后，期货反弹0.6%，纳指100期货涨1.8%，逢低买盘支撑受挫的AI交易。此前对数据中心监管收紧的担忧令标普500市值蒸发约3万亿美元。",
+      "summary_en": "US equity futures rebounded after the S&P 500's steepest one-day drop in over a year, with dip buyers supporting the bruised AI trade. Worries about tighter regulation of data centers had wiped around $3 trillion off the index in the prior session.",
+      "detail_zh": "标普500指数在前一交易日遭遇一年多来最大跌幅，因市场担忧数据中心面临更严格监管，约3万亿美元市值蒸发。随后逢低买盘入场，标普500期货回升0.6%，纳指100期货上涨1.8%，部分收复周四6.4%的跌幅。节目章节显示，全球AI驱动的股票抛售一度加深，市场对AI建设加速的焦虑上升。与此同时，美国国债涨势增强，布伦特原油料创2020年以来最大周跌幅。欧洲股市低开，斯托克600所有板块下跌，随后加入全球抛售。美国中期选举也引发对AI建设前景的重新思考。",
+      "detail_en": "The S&P 500 suffered its steepest drop in more than a year as worries about tighter regulation of data centers wiped around $3 trillion off the index. Dip buyers then stepped in, lifting S&P 500 futures by 0.6% and Nasdaq 100 contracts by 1.8%, paring some of Thursday's 6.4% loss. The program's chapters show the global AI-led stock selloff deepened at one point, with anxiety over an accelerated AI buildout rising. Meanwhile, a Treasury rally gained momentum and Brent was set for its biggest weekly loss since 2020. European stocks opened lower with every Stoxx 600 sector down before joining the global selloff. The US midterms also sparked a rethink on the AI buildout.",
+      "conclusion_zh": "AI交易在监管担忧引发的急跌后出现逢低买盘，但数据中心监管与AI建设节奏仍是短期波动的核心变量。",
+      "conclusion_en": "Dip buyers emerged after a regulation-driven selloff in the AI trade, but data-center regulation and the pace of AI buildout remain key near-term volatility drivers.",
+      "key_points": [
+        {
+          "zh": "标普500创一年多最大单日跌幅，数据中心监管担忧令市值蒸发约3万亿美元",
+          "en": "S&P 500 posted its steepest one-day drop in over a year; data-center regulation worries wiped around $3 trillion in market value"
+        },
+        {
+          "zh": "标普500期货反弹0.6%，纳指100期货涨1.8%，逢低买盘支撑AI交易",
+          "en": "S&P 500 futures rose 0.6% and Nasdaq 100 contracts gained 1.8% as dip buyers supported the AI trade"
+        },
+        {
+          "zh": "全球AI驱动的股票抛售一度加深，市场对AI建设加速的焦虑上升",
+          "en": "The global AI-led selloff deepened at one point amid rising anxiety over an accelerated AI buildout"
+        },
+        {
+          "zh": "美国国债涨势增强，布伦特原油料创2020年以来最大周跌幅",
+          "en": "Treasury rally gained momentum; Brent was set for its biggest weekly loss since 2020"
+        },
+        {
+          "zh": "欧洲股市低开，斯托克600所有板块下跌；美国中期选举引发对AI建设的重新思考",
+          "en": "European stocks opened lower with every Stoxx 600 sector down; US midterms sparked a rethink on the AI buildout"
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "data center regulation",
+        "dip buying",
+        "Treasury rally",
+        "oil selloff"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:r5HWoCEeemc",
       "title": "The Macro Implications of the Blue Tsunami | Odd Lots",
@@ -17067,300 +17409,6 @@
       ],
       "tickers": [
         "AAPL"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:0g83nipDgY0",
-      "title": "Democratic Wave in House Looks Likely, Cook's Covey Says",
-      "title_zh": "库克政治报告：民主党中期选举或净增12-25席，有望夺回众议院",
-      "url": "https://www.youtube.com/watch?v=0g83nipDgY0",
-      "published_at": "2026-10-30T12:14:10+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "库克政治报告的Erin Covey在彭博电视上表示，中期选举战场地图正在变化，民主党可能净增12至25个席位，从而夺回众议院多数。她指出，特朗普在深红地区的支持率低迷，拖累了共和党现任议员。",
-      "summary_en": "Erin Covey of the Cook Political Report said on Bloomberg Television that the midterm battleground map is shifting, projecting a potential Democratic pickup of 12 to 25 seats to retake the House majority. She noted that President Donald Trump's underwater approval ratings in deep-red territory are dragging down Republican incumbents.",
-      "detail_zh": "库克政治报告（Cook Political Report）的Erin Covey在彭博电视台上分析了中期选举战场地图的变化。她预测，民主党可能净增12至25个席位，从而夺回众议院多数党地位。Covey解释称，总统唐纳德·特朗普在深红地区（传统共和党票仓）的支持率处于“水下”（即不支持率高于支持率），这正在拖累共和党现任议员。",
-      "detail_en": "Erin Covey of the Cook Political Report analyzed the shifting midterm elections battleground map on Bloomberg Television. She projected a potential Democratic pickup of 12 to 25 seats to retake the House majority. Covey explained that President Donald Trump's \"underwater\" approval ratings in deep-red territory are dragging down Republican incumbents.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "库克政治报告预测民主党可能净增12至25个众议院席位。",
-          "en": "The Cook Political Report projects a potential Democratic pickup of 12 to 25 House seats."
-        },
-        {
-          "zh": "若预测成真，民主党将夺回众议院多数党地位。",
-          "en": "If the projection holds, Democrats would retake the House majority."
-        },
-        {
-          "zh": "特朗普在深红地区的支持率“水下”，拖累共和党现任议员。",
-          "en": "Trump's \"underwater\" approval ratings in deep-red territory are dragging down Republican incumbents."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "House majority",
-        "approval ratings",
-        "battleground map"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:LWsMaaY0Mi4",
-      "title": "Tech Rout Deepens as Earnings Stoke AI Fears",
-      "title_zh": "科技股财报失望叠加AI支出疑虑，美股期货下挫",
-      "url": "https://www.youtube.com/watch?v=LWsMaaY0Mi4",
-      "published_at": "2026-10-30T11:57:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "亚马逊和英特尔财报令人失望，加剧科技板块抛售，投资者日益质疑巨额AI支出的回报。美联储、欧洲央行和日本央行均鹰派按兵不动，法国通胀上升而增长放缓。",
-      "summary_en": "Disappointing earnings from Amazon and Intel intensified the tech sector selloff, with investors increasingly questioning the payoff from massive AI spending. The Fed, ECB and BOJ all delivered hawkish holds, while French inflation rose as growth slowed.",
-      "detail_zh": "科技股和美国股指期货下跌，因新一轮令人失望的财报加剧了该板块的抛售。投资者日益质疑巨额人工智能支出的回报。节目议程显示，亚马逊和英特尔财报令人失望；美联储、欧洲央行和日本央行均鹰派按兵不动。BP财报超预期，CEO Meg O'Neill 讨论了债务、股东回报、炼油利润率和交易，并预告12月战略更新。贝莱德的 James Turner 讨论了固定收益机会、央行利率展望、法国政治风险和信贷。币安遭遇创纪录的63亿美元加密货币黑客攻击，朝鲜被关联到此次加密盗窃。法国通胀上升而增长放缓。Hargreaves Lansdown 的 Anna Macdonald 讨论了投资者撤离AI交易以及对英国国债的需求。Capgemini CFO Nive Bhagat 讨论了上调预测、数字主权和AI。英特尔暴跌，AI交易面临动荡。市场经历波动一周后收尾。",
-      "detail_en": "Tech stocks and US equity futures fell as another batch of disappointing earnings intensified the sector selloff, with investors increasingly questioning the payoff from massive AI spending. The agenda highlighted disappointing earnings from Amazon and Intel, and hawkish holds from the Fed, ECB and BOJ. BP beat earnings expectations; CEO Meg O'Neill discussed debt, shareholder returns, refining margins and trading, and previewed a December strategy update. BlackRock's James Turner discussed fixed income opportunities, central bank rate outlook, French political risk and credit. Binance was hit by a record $6.3 billion crypto hack, with North Korea linked to the crypto heist. French inflation rose as growth slowed. Hargreaves Lansdown's Anna Macdonald discussed investors rotating away from the AI trade and demand for gilts. Capgemini CFO Nive Bhagat discussed raising forecasts, digital sovereignty and AI. Intel plunged as the AI trade faced turbulence. Markets wrapped up a volatile week.",
-      "conclusion_zh": "AI交易面临压力，科技股财报失望与央行鹰派立场共同压制风险偏好，投资者需关注AI支出回报的验证信号。",
-      "conclusion_en": "The AI trade is under pressure as disappointing tech earnings and hawkish central banks weigh on risk appetite; investors should watch for validation signals on AI spending returns.",
-      "key_points": [
-        {
-          "zh": "亚马逊和英特尔财报令人失望，加剧科技板块抛售。",
-          "en": "Disappointing earnings from Amazon and Intel intensified the tech sector selloff."
-        },
-        {
-          "zh": "投资者日益质疑巨额人工智能支出的回报。",
-          "en": "Investors are increasingly questioning the payoff from massive AI spending."
-        },
-        {
-          "zh": "美联储、欧洲央行和日本央行均鹰派按兵不动。",
-          "en": "The Fed, ECB and BOJ all delivered hawkish holds."
-        },
-        {
-          "zh": "币安遭遇创纪录的63亿美元加密货币黑客攻击，朝鲜被关联。",
-          "en": "Binance was hit by a record $6.3 billion crypto hack, with North Korea linked."
-        },
-        {
-          "zh": "法国通胀上升而增长放缓。",
-          "en": "French inflation rose as growth slowed."
-        }
-      ],
-      "tags": [
-        "AI spending",
-        "tech selloff",
-        "earnings",
-        "hawkish central banks",
-        "crypto hack"
-      ],
-      "tickers": [
-        "AMZN",
-        "INTC"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:w21d64pB9jk",
-      "title": "Tech Selloff Intensifies on Earnings; Binance Estimates $6.3B Hacked",
-      "title_zh": "亚马逊与英特尔财报不及预期拖累美股期货；币安遭63亿美元黑客攻击；日本央行暗示12月可能加息",
-      "url": "https://www.youtube.com/watch?v=w21d64pB9jk",
-      "published_at": "2026-10-30T11:46:33+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "亚马逊和英特尔财报令人失望，美股期货下挫。币安估计遭黑客窃取63亿美元，为数字资产行业最大规模黑客事件。日本央行在通胀达标后暗示12月可能加息。Rabobank的Jane Foley讨论了外汇市场风险，包括欧洲央行行长拉加德计划提前离任。",
-      "summary_en": "US equity futures fell after disappointing earnings from Amazon and Intel. Binance estimated $6.3 billion was stolen in a hack, the largest to hit the digital-asset industry. The Bank of Japan signaled a potential rate hike in December after hitting its inflation target. Rabobank's Jane Foley discussed FX market risks, including ECB President Christine Lagarde's plan for an early departure.",
-      "detail_zh": "美股期货在亚马逊和英特尔公布令人失望的财报后下挫。币安估计在一起黑客攻击中约63亿美元被盗，这是数字资产行业遭遇的最大规模黑客事件。日本央行在实现通胀目标后，暗示可能在12月加息。Rabobank的Jane Foley做客“Bloomberg Brief”，讨论当前外汇市场风险，包括欧洲央行行长拉加德计划提前离任一事。",
-      "detail_en": "US equity futures slumped following disappointing earnings from Amazon and Intel. Binance estimated that $6.3 billion was stolen in a hack, the largest to hit the digital-asset industry. The Bank of Japan signaled a potential rate hike in December after reaching its inflation target. Jane Foley of Rabobank joined \"Bloomberg Brief\" to discuss current risks in the FX market, including ECB President Christine Lagarde's plan for an early departure.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "亚马逊和英特尔财报不及预期，美股期货下挫。",
-          "en": "Disappointing earnings from Amazon and Intel pushed US equity futures lower."
-        },
-        {
-          "zh": "币安估计63亿美元在黑客攻击中被盗，为数字资产行业最大规模黑客事件。",
-          "en": "Binance estimated $6.3 billion was stolen in a hack, the largest in the digital-asset industry."
-        },
-        {
-          "zh": "日本央行在通胀达标后暗示12月可能加息。",
-          "en": "The Bank of Japan signaled a potential December rate hike after hitting its inflation target."
-        },
-        {
-          "zh": "Rabobank的Jane Foley讨论了外汇市场风险，包括拉加德计划提前离任。",
-          "en": "Rabobank's Jane Foley discussed FX market risks, including Lagarde's plan for an early departure."
-        }
-      ],
-      "tags": [
-        "earnings",
-        "crypto-hack",
-        "BOJ",
-        "FX-risk",
-        "ECB"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:eG0tQN5gqiI",
-      "title": "Brookfield’s Connor Teskey on the Real Bottleneck in the AI Buildout",
-      "title_zh": "Brookfield CEO：AI建设瓶颈在于运营能力而非资本或需求",
-      "url": "https://www.youtube.com/watch?v=eG0tQN5gqiI",
-      "published_at": "2026-10-30T11:42:54+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "Brookfield资产管理公司CEO Connor Teskey指出，AI基础设施建设的真正瓶颈不是资本或需求，而是开发土地、获取电网接入和建设供电的运营能力。他反驳了数据中心需求“脆弱”的市场误解，并分享了长期投资、业务构建及私人信贷平台演变的观点。",
-      "summary_en": "Brookfield Asset Management CEO Connor Teskey argues that the bottleneck in AI buildout is not capital or demand, but the operational capability to develop land, secure grid connections, and build power supply. He challenges the market misconception that data center demand is 'fragile,' and shares views on long-term investing, business building, and the evolution of its private credit platform.",
-      "detail_zh": "在高盛Exchanges: Great Investors播客中，Brookfield资产管理公司CEO Connor Teskey表示，AI扩建的瓶颈既不是资本也不是需求，而是开发土地、确保电网连接和建设电力供应的运营能力。他特别指出，市场存在一个误解，即数据中心需求是“脆弱”的。Teskey还与高盛全球银行与市场部投资银行业务主席Alison Mass讨论了长期投资、Brookfield构建业务的方法以及其私人信贷平台的演变。对话还涉及全球能源机遇、主权AI的兴起、可再生能源的商业化转变、通过Oaktree Capital实现规模化、下行保护哲学、领导层交接以及另类资产的增长等话题。",
-      "detail_en": "Speaking on Goldman Sachs Exchanges: Great Investors, Brookfield Asset Management CEO Connor Teskey said the bottleneck in the AI buildout is neither capital nor demand, but rather the operational capability to develop land, secure a grid connection, and build the power supply. He specifically noted a market misconception that demand for data centers is somehow 'fragile.' Teskey also discussed long-term investing, Brookfield's approach to building businesses, and the evolution of its private credit platform with Alison Mass, chairman of Investment Banking in Goldman Sachs Global Banking & Markets. The conversation also covered the global energy opportunity, the rise of sovereign AI, the commercial shift in renewables, scaling through Oaktree Capital, a philosophy of downside protection, transitioning leadership, and the growth of alternative assets.",
-      "conclusion_zh": "AI基础设施投资应关注运营执行能力而非单纯资本投入，数据中心需求并非脆弱。",
-      "conclusion_en": "AI infrastructure investment should focus on operational execution rather than mere capital deployment; data center demand is not fragile.",
-      "key_points": [
-        {
-          "zh": "AI建设瓶颈在于运营能力：土地开发、电网接入和供电建设，而非资本或需求。",
-          "en": "AI buildout bottleneck is operational capability—land development, grid connection, and power supply—not capital or demand."
-        },
-        {
-          "zh": "市场误解数据中心需求“脆弱”，Teskey对此提出反驳。",
-          "en": "Teskey challenges the market misconception that data center demand is 'fragile.'"
-        },
-        {
-          "zh": "讨论涵盖主权AI兴起、可再生能源商业化转变及通过Oaktree实现规模化。",
-          "en": "Discussion covers the rise of sovereign AI, commercial shift in renewables, and scaling through Oaktree."
-        },
-        {
-          "zh": "Brookfield强调下行保护哲学和领导层交接。",
-          "en": "Brookfield emphasizes a philosophy of downside protection and leadership transition."
-        }
-      ],
-      "tags": [
-        "AI infrastructure",
-        "data centers",
-        "power supply",
-        "private credit",
-        "alternative assets"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "4960114",
-      "title": "Wall Street Breakfast Podcast: The Biggest Heist In History",
-      "title_zh": "币安遭63亿美元安全漏洞，英特尔指引疲软重挫科技股",
-      "url": "https://seekingalpha.com/article/4960114-wall-street-breakfast-podcast-the-biggest-heist-in-history?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-30T11:40:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "macro",
-        "other"
-      ],
-      "summary_zh": "币安披露63亿美元安全漏洞，已冻结约30亿美元链上资产并暂停提现；英特尔Q4指引远逊预期，营收150-160亿美元、毛利率38%，股价跌超25%；Reddit拟要求用户登录以遏制数据抓取，但日活用户可能下滑低双位数，股价盘前跌超20%。科技板块情绪受英特尔和亚马逊疲软指引打压，纳斯达克100期货盘前跌超2%。",
-      "summary_en": "Binance disclosed a $6.3B security breach, freezing ~$3B on-chain and suspending withdrawals; Intel issued Q4 guidance well below expectations ($15B-$16B revenue, 38% gross margin), sending shares down over 25%; Reddit plans to require sign-in to curb data scraping, but daily active users could decline by a low double-digit percentage, with shares down over 20% premarket. Tech sentiment is pressured by weak guidance from Intel and Amazon, with Nasdaq 100 futures down over 2% premarket.",
-      "detail_zh": "币安披露一起安全漏洞导致63亿美元潜在损失，业内称其为加密史上最大黑客事件。公司表示已与区块链伙伴合作冻结受影响资产，目前链上冻结约30亿美元，用户资金安全，但所有充提币暂时暂停，预计48小时内恢复提现，充值已恢复正常。初步调查显示，事件可能涉及一名DevOps工程师的笔记本电脑被入侵，攻击者借此访问服务容器并提交未经授权的提现交易。分析师警告，该事件可能促使投资者重新评估持有数字资产的风险，比特币和以太坊当日下跌。英特尔因PC市场放缓发布远逊预期的Q4指引，营收预计150-160亿美元，中值远低于170.5亿美元共识；调整后EPS预计0.25美元，共识为0.43美元；调整后毛利率预计38%，低于42.8%的预期。CEO陈立武在电话会上表示，客户因内存价格和供应问题开始信号PC放缓，且过去两个月PC修正加速，OEM伙伴积极管理库存以匹配疲软的终端销售，预计当前环境将持续至内存供应和价格正常化。Seeking Alpha分析师Bill Maurer称业绩“大多令人失望”，指引“远弱于预期”，并认为当前预测代表转型的重大倒退。Reddit CEO Steve Huffman提议要求用户登录以访问大部分内容，以遏制数据抓取，并指责谷歌AI搜索功能导致推荐流量下降。Reddit盘前跌超20%，Huffman警告若推荐流量持续疲软，Q4日活独立访客可能从约1.3亿下滑低双位数百分比。Madison and Wall分析师Luke Stillman认为强制登录“为参与创造了另一个障碍，尤其是对休闲用户”。盘前纳斯达克100期货跌超2%，英特尔指引和亚马逊财报后下跌近7%吓坏科技投资者，亚马逊的销售和资本支出指引盖过了AWS加速增长。经济日历包括Q3就业成本指数和10月芝加哥PMI。",
-      "detail_en": "Binance disclosed a security breach resulting in $6.3B in potential losses, which industry watchers call crypto's biggest-ever hack. The company said it worked with blockchain partners to freeze affected assets, with ~$3B frozen on-chain so far, and that user funds remain safe, but all deposits and withdrawals are temporarily suspended, with withdrawals expected to resume within 48 hours and deposits now operating normally. Initial investigation suggests the incident may involve a compromised DevOps engineer's laptop, allowing an attacker to access a service container and submit unauthorized withdrawal transactions. Analysts warned the incident could prompt investors to reassess risks of holding digital assets, and Bitcoin and Ethereum were lower. Intel plunged more than 25% after issuing Q4 guidance well below expectations due to a PC slowdown: revenue of $15B-$16B, midpoint well shy of the $17.05B estimate; adjusted EPS of $0.25 vs. $0.43 consensus; adjusted gross margin of 38% vs. 42.8% estimate. CEO Lip-Bu Tan said on the call that customers began signaling a PC slowdown based on memory prices and availability, and the pace of the PC correction accelerated over the last two months as OEM partners aggressively manage inventory to match softer sell-through, expecting the environment to persist until memory availability and prices normalize. Seeking Alpha analyst Bill Maurer said results were 'mostly disappointing' and guidance 'much weaker than expected,' representing a major step back for the turnaround. Reddit CEO Steve Huffman proposed requiring users to sign in to access most content to curb data scraping, and blamed Google's AI-powered search features for contributing to a decline in referral traffic. Reddit is down more than 20% premarket after Huffman cautioned daily active unique visitors could decline by a low double-digit percentage in Q4 from about 130M if referral traffic continues to weaken. Madison and Wall analyst Luke Stillman said requiring login 'creates another barrier to engagement, particularly for casual users.' Nasdaq 100 futures are more than 2% lower premarket, with Intel's guidance and Amazon's post-earnings tumble (down nearly 7% after sales and capex guidance overshadowed accelerating AWS growth) spooking tech investors. The economic calendar includes Q3 Employment Cost Index and October Chicago PMI.",
-      "conclusion_zh": "英特尔指引凸显PC市场放缓及内存供应问题，叠加亚马逊资本支出担忧，科技股短期承压；币安安全事件或引发对数字资产风险的重新评估。",
-      "conclusion_en": "Intel's guidance highlights PC market slowdown and memory supply issues, compounded by Amazon capex concerns, pressuring tech stocks near-term; the Binance breach may prompt reassessment of digital asset risks.",
-      "key_points": [
-        {
-          "zh": "币安因安全漏洞面临63亿美元潜在损失，已冻结约30亿美元链上资产，提现暂停但预计48小时内恢复。",
-          "en": "Binance faces $6.3B in potential losses from a security breach, with ~$3B frozen on-chain; withdrawals suspended but expected to resume within 48 hours."
-        },
-        {
-          "zh": "英特尔Q4指引远逊预期：营收150-160亿美元（共识170.5亿），调整后EPS 0.25美元（共识0.43），毛利率38%（预期42.8%），股价跌超25%。",
-          "en": "Intel's Q4 guidance badly missed: revenue $15B-$16B vs. $17.05B consensus, adjusted EPS $0.25 vs. $0.43, gross margin 38% vs. 42.8%; shares fell over 25%."
-        },
-        {
-          "zh": "英特尔CEO陈立武称PC放缓因内存价格和供应问题加速，OEM伙伴积极管理库存，预计环境持续至内存正常化。",
-          "en": "Intel CEO Lip-Bu Tan said the PC slowdown accelerated due to memory prices and availability, with OEM partners managing inventory; expects environment to persist until memory normalizes."
-        },
-        {
-          "zh": "Reddit拟要求用户登录以遏制数据抓取，但CEO警告Q4日活用户可能从约1.3亿下滑低双位数百分比，股价盘前跌超20%。",
-          "en": "Reddit plans to require sign-in to curb scraping, but CEO warned Q4 DAU could decline by a low double-digit percentage from ~130M; shares down over 20% premarket."
-        },
-        {
-          "zh": "科技板块情绪受英特尔和亚马逊疲软指引打压，纳斯达克100期货盘前跌超2%。",
-          "en": "Tech sentiment pressured by weak guidance from Intel and Amazon; Nasdaq 100 futures down over 2% premarket."
-        }
-      ],
-      "tags": [
-        "Intel",
-        "Binance",
-        "Reddit",
-        "tech selloff",
-        "guidance"
-      ],
-      "tickers": [
-        "INTC",
-        "AMZN",
-        "RDDT",
-        "GOOG",
-        "GOOGL"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "4960090",
-      "title": "The Biggest Crypto Heist In History",
-      "title_zh": "币安遭黑客攻击损失63亿美元，比特币跌破77000美元",
-      "url": "https://seekingalpha.com/article/4960090-the-biggest-crypto-heist-in-history?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-10-30T11:24:17+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "other",
-        "politics"
-      ],
-      "summary_zh": "币安热钱包遭黑客攻击，约63亿美元资金受影响，公司暂停提现。TRM Labs将攻击归因于朝鲜黑客组织TraderTraitor。比特币跌5%至77000美元下方，引发市场对加密行业信心和国会审查的担忧。",
-      "summary_en": "Binance suffered a cyberattack compromising $6.3B in funds, prompting temporary withdrawal suspension. TRM Labs attributed the attack to North Korea's TraderTraitor hacking unit. Bitcoin fell 5% below $77,000, raising concerns about crypto confidence and potential congressional scrutiny.",
-      "detail_zh": "币安遭遇重大网络安全事件，约63亿美元资金受影响，公司已暂停提现并正与区块链合作伙伴冻结相关资产，目前约30亿美元已在链上冻结，但并不意味着能够追回。区块链情报公司TRM Labs表示，根据链上和链下情报，此次攻击与朝鲜精英黑客组织TraderTraitor有关，且“高度确信”。黑客疑似通过一名DevOps工程师的笔记本电脑入侵内部系统，从而利用币安交易流程，在10条不同区块链上授权转账。行业担忧此次大规模黑客事件可能使加密市场进入熊市，类似FTX和Mt. Gox事件后信心受损的情况。比特币应声下跌5%至77000美元下方，创9月以来最低，以太坊和瑞波币等代币也遭抛售。若中期选举后国会对加密行业展开新的审查，未来几天波动可能加剧。币安称所有用户资金安全，并将覆盖所有损失，资金来源似乎包括运营储备、未来收益和应急基金。Bitbank市场分析师Yuya Hasegawa表示，事件规模令人震惊，但若币安能证明客户资产安全、覆盖损失并迅速恢复运营，市场影响可能相对短暂，比特币基本面未直接受损。",
-      "detail_en": "Binance suffered a major cybersecurity incident affecting about $6.3B in funds. The exchange temporarily suspended withdrawals and is working with blockchain partners to freeze affected assets, with about $3B frozen on-chain so far, though that does not guarantee recovery. Blockchain intelligence firm TRM Labs said with high confidence that the attack is linked to TraderTraitor, North Korea's elite hacking unit, based on robust on- and off-chain intelligence. Hackers appear to have exploited Binance's transaction process by gaining access to internal systems via a DevOps engineer's laptop, authorizing transfers across 10 different blockchains. There is industry worry that the massive hack could send the crypto world into a bear market, similar to the loss of confidence after past damaging events at FTX and Mt. Gox. Bitcoin fell 5% to below $77,000 on the news, its lowest since September, while Ethereum and Ripple also sold off. Increased volatility could occur in coming days, especially if there is fresh congressional scrutiny of the crypto industry following midterm elections. Binance said all user funds are safe and it will cover all losses, seemingly from operational reserves, future earnings, and emergency funds. Yuya Hasegawa, market analyst at Bitbank, said the reported scale is alarming, but if Binance can demonstrate customer assets remain secure, cover losses, and restore normal operations promptly, the market impact could prove relatively short-lived, as Bitcoin's underlying fundamentals have not been directly compromised.",
-      "conclusion_zh": "此次黑客事件短期内加剧加密市场波动与信心压力，但若币安能兑现资金安全承诺并迅速恢复运营，冲击或相对短暂；需关注美国国会后续监管动向。",
-      "conclusion_en": "The hack heightens near-term crypto volatility and confidence pressure, but the impact may be relatively short-lived if Binance delivers on fund safety and restores operations promptly; watch for subsequent U.S. congressional scrutiny.",
-      "key_points": [
-        {
-          "zh": "币安遭黑客攻击，约63亿美元资金受影响，公司暂停提现。",
-          "en": "Binance suffered a hack compromising $6.3B in funds and temporarily suspended withdrawals."
-        },
-        {
-          "zh": "TRM Labs高度确信攻击与朝鲜黑客组织TraderTraitor有关。",
-          "en": "TRM Labs is highly confident the attack is linked to North Korea's TraderTraitor hacking unit."
-        },
-        {
-          "zh": "比特币下跌5%至77000美元下方，创9月以来最低，以太坊和瑞波币等也遭抛售。",
-          "en": "Bitcoin fell 5% below $77,000, its lowest since September, with Ethereum and Ripple also selling off."
-        },
-        {
-          "zh": "币安称用户资金安全并将覆盖所有损失，资金来自运营储备、未来收益和应急基金。",
-          "en": "Binance said user funds are safe and it will cover all losses from operational reserves, future earnings, and emergency funds."
-        },
-        {
-          "zh": "分析师认为若币安能迅速恢复运营，市场影响可能短暂，比特币基本面未直接受损。",
-          "en": "Analysts suggest market impact could be short-lived if Binance restores operations promptly, as Bitcoin's fundamentals are not directly compromised."
-        }
-      ],
-      "tags": [
-        "crypto",
-        "cyberattack",
-        "Binance",
-        "Bitcoin",
-        "North Korea"
-      ],
-      "tickers": [
-        "BTC-USD",
-        "ETH-USD",
-        "XRP-USD"
       ],
       "sentiment": "negative"
     }
