@@ -1,6 +1,314 @@
 {
-  "generated_at": "2026-11-06T00:32:17.604136+00:00",
+  "generated_at": "2026-11-06T03:15:58.145540+00:00",
   "insights": [
+    {
+      "guid": "yt:LYVTAjaPvsc",
+      "title": "Rubio Tells NYT He Plans To Stay With Admin Until the End",
+      "title_zh": "AI数据中心建设面临政治审视，但已开工项目预计不受干扰",
+      "url": "https://www.youtube.com/watch?v=LYVTAjaPvsc",
+      "published_at": "2026-11-06T00:07:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Decision Tree Research创始人Greg Allen认为，已开工的AI数据中心项目不太可能因政治审视而中断，未来18个月将新增数十吉瓦算力。民主党众议员Subramanyam则推动监管，防止数据中心行业在社区附近建设并转嫁电力成本。",
+      "summary_en": "Greg Allen of Decision Tree Research believes AI data-center projects already underway are unlikely to be disrupted by growing political scrutiny and will bring tens of gigawatts of new compute capacity online over the next 18 months. Rep. Subramanyam (D-VA) is pushing for regulation to prevent the data-center industry from building near communities and shifting higher power costs onto residents.",
+      "detail_zh": "在Bloomberg“Balance of Power”节目中，Decision Tree Research创始人兼CEO Greg Allen表示，已经开工的AI数据中心项目不太可能受到日益增长的政治审视的干扰，并将在未来18个月带来数十吉瓦的新计算容量。与此同时，弗吉尼亚州民主党众议员Suhas Subramanyam表示，民主党希望防止数据中心行业“碾压”社区，即避免在住宅和学校附近建设数据中心，或让居民承担更高的电力成本。节目还讨论了AI基础设施放缓是否可能反而有利于行业，以及民主党推动新的AI护栏。此外，节目涉及Marco Rubio考虑离开特朗普政府、民主党在德克萨斯州的选举进展、2028年总统竞选轮廓等政治话题。",
+      "detail_en": "On Bloomberg's \"Balance of Power,\" Greg Allen, Founder & CEO of Decision Tree Research, said AI data-center projects already underway are unlikely to be disrupted by growing political scrutiny and will bring tens of gigawatts of new compute capacity online over the next 18 months. Meanwhile, Rep. Suhas Subramanyam (D-VA) said Democrats want to prevent the data-center industry from steamrolling communities by building near homes and schools or making residents bear higher power costs. The program also discussed whether an AI infrastructure slowdown could help the industry, Democrats' push for new AI guardrails, Marco Rubio weighing leaving the Trump administration, Democrats' gains in Texas, and the shaping of the 2028 presidential race.",
+      "conclusion_zh": "AI数据中心建设短期受政治审视扰动有限，已开工项目将按期推进，但社区与电力成本问题可能成为后续监管焦点。",
+      "conclusion_en": "Political scrutiny is unlikely to disrupt AI data-center projects already underway in the near term, but community and power-cost issues could become future regulatory focal points.",
+      "key_points": [
+        {
+          "zh": "Greg Allen：已开工的AI数据中心项目不太可能被政治审视打断，未来18个月将新增数十吉瓦算力。",
+          "en": "Greg Allen: AI data-center projects already underway are unlikely to be disrupted by political scrutiny, with tens of gigawatts of new capacity coming online over the next 18 months."
+        },
+        {
+          "zh": "众议员Subramanyam：民主党希望防止数据中心在住宅和学校附近建设，或让居民承担更高电力成本。",
+          "en": "Rep. Subramanyam: Democrats want to prevent data centers from being built near homes and schools or making residents bear higher power costs."
+        },
+        {
+          "zh": "节目讨论了AI基础设施放缓是否可能反而有利于行业。",
+          "en": "The program discussed whether an AI infrastructure slowdown could actually help the industry."
+        },
+        {
+          "zh": "政治议题包括Rubio考虑离开特朗普政府、民主党在德州的选举进展及2028年总统竞选。",
+          "en": "Political topics included Rubio weighing leaving the Trump administration, Democrats' gains in Texas, and the 2028 presidential race."
+        }
+      ],
+      "tags": [
+        "AI data centers",
+        "regulation",
+        "infrastructure",
+        "politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:RxzbF-y0Nik",
+      "title": "Rep. Subramanyam Says Federal Data Center Plan Is Needed",
+      "title_zh": "民主党议员Subramanyam呼吁联邦层面规范数据中心建设",
+      "url": "https://www.youtube.com/watch?v=RxzbF-y0Nik",
+      "published_at": "2026-11-05T23:42:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "弗吉尼亚州民主党众议员Subramanyam表示，民主党希望防止数据中心行业在住宅和学校附近建设、或让居民承担更高电力成本，从而“碾压”社区。他支持建设数据中心，但认为需要联邦层面的方案，而非逐州逐社区处理，并认为数据中心规则存在两党合作路径，其部分计划已通过委员会。",
+      "summary_en": "Rep. Subramanyam (D-VA) said Democrats want to prevent the data-center industry from steamrolling communities by building near homes and schools or making residents bear higher power costs. He supports building data centers but believes a federal approach is needed rather than addressing development community by community and state by state. He thinks there is a bipartisan path forward for data-center rules and that part of his plan has already advanced through committee.",
+      "detail_zh": "弗吉尼亚州民主党众议员Subramanyam在Bloomberg“Balance of Power”节目中表示，民主党希望防止数据中心行业“碾压”社区，具体关切包括在住宅和学校附近建设数据中心，以及让居民承担更高的电力成本。他强调自己支持建设数据中心，但认为需要联邦层面的解决方案，而不是逐社区、逐州地处理开发问题。他还认为数据中心规则存在两党合作的前进路径，并且其计划的一部分已经在委员会层面取得进展。",
+      "detail_en": "Rep. Subramanyam (D-VA) said on Bloomberg's \"Balance of Power\" that Democrats want to prevent the data-center industry from steamrolling communities, citing concerns about building near homes and schools and making residents bear higher power costs. He stressed that he supports building data centers but believes a federal approach is needed instead of addressing development community by community and state by state. He also thinks there is a bipartisan path forward for data-center rules and that part of his plan has already advanced through committee.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党希望防止数据中心行业在住宅和学校附近建设，或让居民承担更高电力成本。",
+          "en": "Democrats want to prevent the data-center industry from building near homes and schools or making residents bear higher power costs."
+        },
+        {
+          "zh": "Subramanyam支持建设数据中心，但主张联邦层面统一方案，而非逐州逐社区处理。",
+          "en": "Subramanyam supports building data centers but advocates a federal approach rather than addressing development state by state and community by community."
+        },
+        {
+          "zh": "他认为数据中心规则存在两党合作路径，其部分计划已通过委员会。",
+          "en": "He believes there is a bipartisan path forward for data-center rules, and part of his plan has already advanced through committee."
+        }
+      ],
+      "tags": [
+        "data centers",
+        "regulation",
+        "bipartisan",
+        "power costs",
+        "community impact"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:X0Rrt93deJI",
+      "title": "The Debrief: Democrats Map Out Priorities for Next Congress",
+      "title_zh": "民主党中期选举后聚焦降低生活成本与问责特朗普政府",
+      "url": "https://www.youtube.com/watch?v=X0Rrt93deJI",
+      "published_at": "2026-11-05T23:28:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社的Mario Parker在节目中讨论了民主党在中期选举后的关注重点：降低生活成本、根除腐败以及问责特朗普政府。",
+      "summary_en": "Bloomberg's Mario Parker discussed Democrats' post-midterm focus on lowering costs, rooting out corruption, and holding the Trump administration accountable.",
+      "detail_zh": "彭博社的Mario Parker做客“The Debrief”环节，与Joe Mathieu在彭博“Balance of Power”节目中讨论了民主党在中期选举后的关注重点。Parker表示，民主党的重点包括降低生活成本、根除腐败以及问责特朗普政府。",
+      "detail_en": "Bloomberg's Mario Parker joined the show for The Debrief to discuss Democrats' post-midterm focus on lowering costs, rooting out corruption, and holding the Trump administration accountable. He spoke with Joe Mathieu on Bloomberg's \"Balance of Power.\"",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党中期选举后聚焦降低生活成本",
+          "en": "Democrats focus on lowering costs post-midterms"
+        },
+        {
+          "zh": "民主党致力于根除腐败",
+          "en": "Democrats aim to root out corruption"
+        },
+        {
+          "zh": "民主党寻求问责特朗普政府",
+          "en": "Democrats seek to hold Trump administration accountable"
+        }
+      ],
+      "tags": [
+        "Democrats",
+        "midterms",
+        "cost of living",
+        "corruption",
+        "Trump administration"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:AbaaThgpc0c",
+      "title": "Allen Says AI Buildout Already Underway Will Continue",
+      "title_zh": "Allen：在建AI数据中心项目不受政治审查影响，未来18个月将新增数十吉瓦算力",
+      "url": "https://www.youtube.com/watch?v=AbaaThgpc0c",
+      "published_at": "2026-11-05T23:22:26+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Allen表示，已开工的AI数据中心项目不太可能因日益增长的政治审查而中断，未来18个月将上线数十吉瓦的新算力。他认为，无论政治局势如何，2027年和2028年AI算力都将出现惊人增长，但未来项目可能面临税收优惠、工会劳工和防止电费上涨等方面的新要求。",
+      "summary_en": "Allen says AI data-center projects already underway are unlikely to be disrupted by growing political scrutiny and will bring tens of gigawatts of new compute capacity online over the next 18 months. He says 2027 and 2028 will see astonishing growth in AI compute capacity regardless of what happens politically, while future projects could face new requirements around tax breaks, union labor and protections against higher power bills.",
+      "detail_zh": "Allen在Bloomberg“Balance of Power”节目中表示，已经开工的AI数据中心项目不太可能因日益增长的政治审查而中断，并将在未来18个月带来数十吉瓦的新计算容量上线。他判断，无论政治层面发生什么，2027年和2028年AI算力容量都将出现惊人增长。不过，他指出未来项目可能面临新的要求，涉及税收减免、工会劳工以及防止电费上涨的保护措施。",
+      "detail_en": "Speaking on Bloomberg's \"Balance of Power,\" Allen said AI data-center projects already underway are unlikely to be disrupted by growing political scrutiny and will bring tens of gigawatts of new compute capacity online over the next 18 months. He said 2027 and 2028 will see astonishing growth in AI compute capacity regardless of what happens politically. However, he noted that future projects could face new requirements around tax breaks, union labor and protections against higher power bills.",
+      "conclusion_zh": "在建AI数据中心项目短期受政治审查影响有限，算力供给增长确定性较高；但未来项目可能面临税收、劳工和电价方面的新约束，值得关注。",
+      "conclusion_en": "Projects already underway face limited near-term disruption from political scrutiny, supporting a high degree of certainty for AI compute capacity growth; however, future projects may face new constraints on tax breaks, labor and power costs, which warrant attention.",
+      "key_points": [
+        {
+          "zh": "已开工的AI数据中心项目不太可能被政治审查打断，未来18个月将上线数十吉瓦算力。",
+          "en": "AI data-center projects already underway are unlikely to be disrupted by political scrutiny, with tens of gigawatts of new compute capacity coming online over the next 18 months."
+        },
+        {
+          "zh": "2027年和2028年AI算力容量将出现惊人增长，与政治局势无关。",
+          "en": "2027 and 2028 will see astonishing growth in AI compute capacity regardless of what happens politically."
+        },
+        {
+          "zh": "未来项目可能面临税收减免、工会劳工和防止电费上涨等方面的新要求。",
+          "en": "Future projects could face new requirements around tax breaks, union labor and protections against higher power bills."
+        }
+      ],
+      "tags": [
+        "AI data centers",
+        "compute capacity",
+        "political scrutiny",
+        "tax breaks",
+        "power bills"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:F52GZaYynQE",
+      "title": "Market Selloff, Volatility & Post-Midterm Repositioning",
+      "title_zh": "彭博The Close：AI交易遭遇抛售，芯片股重挫",
+      "url": "https://www.youtube.com/watch?v=F52GZaYynQE",
+      "published_at": "2026-11-05T23:02:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目聚焦AI板块的剧烈抛售，芯片股领跌，投资者逃离AI交易。多位嘉宾讨论了市场技术位、AI抛售中的买入机会、数据中心对天然气需求的影响，以及消费与保险等板块的个股表现。",
+      "summary_en": "This episode focuses on the sharp selloff in AI-related stocks, with chip stocks plunging as investors flee the AI trade. Guests discuss technical levels, buying opportunities amid the AI selloff, data center demand for natural gas, and individual stock performance in consumer and insurance sectors.",
+      "detail_zh": "节目围绕AI交易的大幅回调展开，芯片股遭遇重挫，投资者纷纷撤离AI相关持仓。摩根大通技术策略主管Jason Hunter讨论了技术位与市场投降式抛售；UBS的Alli McCartney探讨了AI抛售中的买入机会。TC Energy CEO François Poirie谈及数据中心对天然气需求及能源基础设施和审批问题。Expedia CEO Ariane Gorin分享了财报、旅游与消费者状况，以及AI旅行代理和国际需求。Tapestry CEO Joanne Crevoiserat讨论了Coach品牌、Z世代与假日消费，以及定价、关税和Kate Spade的扭亏。花旗美国股票策略主管Scott Chronert分析了AI风险与市场疲软。T. Rowe Price的Tony Wang就英伟达、AI及逢低买入发表看法。Evercore ISI的Sarah Bianchi讨论了数据中心监管与选举后政策风险。MetLife CEO Michel Khalaf谈及财报、私募市场与AI，以及退休、保险和政治风险。e.l.f. Beauty CEO Tarang Amin讨论了财报、Rhode品牌与Z世代。Charles Schwab首席投资策略师Liz Ann Sonders评述了历史性的科技股抛售。",
+      "detail_en": "The program centers on a significant pullback in the AI trade, with chip stocks plunging as investors flee AI-related positions. JPMorgan Head of Technical Strategy Jason Hunter discusses technical levels and market capitulation; UBS's Alli McCartney explores buying opportunities amid the AI selloff. TC Energy CEO François Poirie talks about data center demand for natural gas, energy infrastructure, and permitting. Expedia CEO Ariane Gorin shares insights on earnings, travel and the consumer, AI travel agents, and international demand. Tapestry CEO Joanne Crevoiserat discusses Coach, Gen Z and holiday spending, as well as pricing, tariffs, and the Kate Spade turnaround. Citi Head of US Equity Strategy Scott Chronert analyzes AI risk and market weakness. T. Rowe Price's Tony Wang comments on Nvidia, AI, and buying the selloff. Evercore ISI's Sarah Bianchi addresses data center regulation and post-election policy risk. MetLife CEO Michel Khalaf covers earnings, private markets and AI, as well as retirement, insurance, and political risk. e.l.f. Beauty CEO Tarang Amin discusses earnings, the Rhode brand, and Gen Z. Charles Schwab Chief Investment Strategist Liz Ann Sonders comments on the historic tech selloff.",
+      "conclusion_zh": "AI交易遭遇剧烈抛售，芯片股领跌，市场关注技术位与潜在买入机会，同时数据中心能源需求与监管政策风险值得跟踪。",
+      "conclusion_en": "The AI trade faces a sharp selloff with chip stocks leading declines; investors are watching technical levels and potential buying opportunities, while data center energy demand and regulatory policy risks warrant attention.",
+      "key_points": [
+        {
+          "zh": "芯片股重挫，投资者逃离AI交易。",
+          "en": "Chip stocks plunge as investors flee the AI trade."
+        },
+        {
+          "zh": "摩根大通技术策略师讨论市场投降式抛售与技术位。",
+          "en": "JPMorgan technical strategist discusses market capitulation and technical levels."
+        },
+        {
+          "zh": "UBS探讨AI抛售中的买入机会。",
+          "en": "UBS explores buying opportunities amid the AI selloff."
+        },
+        {
+          "zh": "TC Energy CEO谈数据中心对天然气需求及能源基础设施审批。",
+          "en": "TC Energy CEO discusses data center natural gas demand and energy infrastructure permitting."
+        },
+        {
+          "zh": "Liz Ann Sonders评述历史性的科技股抛售。",
+          "en": "Liz Ann Sonders comments on the historic tech selloff."
+        }
+      ],
+      "tags": [
+        "AI selloff",
+        "chip stocks",
+        "market capitulation",
+        "data centers",
+        "consumer"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:SH0xfqwlA0c",
+      "title": "Stocks Dip on Massive Chip Selloff",
+      "title_zh": "民主党中期选举大胜后半导体股重挫，AI交易遭质疑",
+      "url": "https://www.youtube.com/watch?v=SH0xfqwlA0c",
+      "published_at": "2026-11-05T22:43:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党主导中期选举后，投资者对人工智能交易转为怀疑，半导体股周四延续跌势。彭博专家团队讨论了芯片需求能否跟上AI热潮、数据中心 backlash 与融资风险、微软收缩高风险数据中心、软件股与AI交易，以及钢铁、关税和中期选举对金属行业的影响。",
+      "summary_en": "Semiconductor stocks plunged on Thursday, extending a recent selloff as investors turned skeptical on the AI trade after Democrats dominated the midterm elections. A Bloomberg expert panel discussed whether chip demand can keep up with the AI boom, data center backlash and financing risks, Microsoft pulling back from risky data centers, software stocks and the AI trade, and steel, tariffs and the midterm impact on metals.",
+      "detail_zh": "半导体股周四大幅下挫，延续近期抛售，此前民主党在中期选举中占据主导，投资者对人工智能交易转为怀疑。彭博专家团队——包括美国半导体记者Ian King、美国高级股票编辑Eric Weiner、执行科技编辑Michael Shephard和全球科技研究主管Mandeep Singh——拆解了近期市场走势及后续可能。讨论议题涵盖芯片制造商、AI与“蓝色浪潮”、芯片需求能否跟上AI繁荣、市场对数据中心反弹的反应、AI交易与英伟达及避险资产、数据中心贷款与融资风险。科技股抛售持续，微软从高风险数据中心收缩，数据中心监管与政治风险、AI增长与社区担忧、新型云厂商面临新监管障碍、软件股与AI交易、AI支出与海外数据中心等亦被提及。此外，富国银行股票研究分析师Timna Tanners讨论了预期的钢铁抛售以及中期选举结果可能如何影响金属行业，议题还包括数据中心、金属与工业需求、伊朗战争、石油与利率，以及市场从低点回升和Sandisk、CoreWeave等个股走势。",
+      "detail_en": "Semiconductor stocks plunged on Thursday, extending a recent selloff as investors turned skeptical on the AI trade after Democrats dominated the midterm elections. A Bloomberg expert panel—including US Semiconductor Reporter Ian King, US Senior Equities Editor Eric Weiner, Executive Technology Editor Michael Shephard and Global Head of Tech Research Mandeep Singh—broke down the recent market moves and what comes next. Topics covered chipmakers, AI and the 'Blue Wave', whether chip demand can keep up with the AI boom, markets reacting to data center backlash, the AI trade, Nvidia and safe havens, and data center loans and financing risks. The tech selloff continued, with Microsoft pulling back from risky data centers, data center regulation and political risk, AI growth versus community concerns, neo-clouds facing new regulatory hurdles, software stocks and the AI trade, and AI spending and overseas data centers also discussed. Additionally, Wells Fargo Equity Research Analyst Timna Tanners discussed an anticipated steel selloff and how midterm results may impact metals industries, alongside data centers, metals and industrial demand, the Iran war, oil and interest rates, markets coming off their lows, and stock movers including Sandisk and CoreWeave.",
+      "conclusion_zh": "中期选举后AI交易遭遇质疑，半导体与数据中心相关风险（融资、监管、政治）成为市场关注焦点，需警惕科技股抛售的延续性。",
+      "conclusion_en": "The AI trade faces skepticism after the midterms, with semiconductor and data center-related risks (financing, regulation, politics) in focus; investors should watch for continuation of the tech selloff.",
+      "key_points": [
+        {
+          "zh": "民主党主导中期选举后，投资者对AI交易转为怀疑，半导体股周四延续跌势。",
+          "en": "After Democrats dominated the midterm elections, investors turned skeptical on the AI trade, and semiconductor stocks extended their selloff on Thursday."
+        },
+        {
+          "zh": "讨论涉及芯片需求能否跟上AI繁荣，以及市场对数据中心反弹的反应。",
+          "en": "Discussions covered whether chip demand can keep up with the AI boom and how markets are reacting to data center backlash."
+        },
+        {
+          "zh": "数据中心贷款与融资风险、微软从高风险数据中心收缩、数据中心监管与政治风险成为焦点。",
+          "en": "Data center loans and financing risks, Microsoft pulling back from risky data centers, and data center regulation and political risk were in focus."
+        },
+        {
+          "zh": "新型云厂商面临新监管障碍，软件股与AI交易、AI支出与海外数据中心亦被提及。",
+          "en": "Neo-clouds face new regulatory hurdles, and software stocks and the AI trade, AI spending and overseas data centers were also mentioned."
+        },
+        {
+          "zh": "富国银行分析师Timna Tanners讨论了预期的钢铁抛售及中期选举结果对金属行业的影响。",
+          "en": "Wells Fargo analyst Timna Tanners discussed an anticipated steel selloff and how midterm results may impact metals industries."
+        }
+      ],
+      "tags": [
+        "semiconductors",
+        "AI trade",
+        "midterm elections",
+        "data centers",
+        "steel"
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "SNDK",
+        "CRWV"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:coqFo2JD5DQ",
+      "title": "MetLife Seeing Volume Growth Across the Board, CEO Says",
+      "title_zh": "大都会人寿CEO：公司对AI投资敞口有限",
+      "url": "https://www.youtube.com/watch?v=coqFo2JD5DQ",
+      "published_at": "2026-11-05T22:22:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "大都会人寿总裁兼CEO Michel Khalaf在彭博电视节目中讨论公司第三季度财报与展望，并表示公司对AI投资的敞口有限。",
+      "summary_en": "MetLife President and CEO Michel Khalaf discussed the company's third-quarter earnings and outlook on Bloomberg Television, stating that MetLife has limited exposure to AI investments.",
+      "detail_zh": "大都会人寿总裁兼首席执行官Michel Khalaf在“Bloomberg The Close”节目中讨论了公司第三季度业绩与前景。Khalaf表示，公司对人工智能（AI）投资的敞口有限。原文未提供第三季度财报的具体数字、业绩指引或AI敞口的具体规模。",
+      "detail_en": "MetLife President and CEO Michel Khalaf discussed the company's third-quarter earnings and outlook on \"Bloomberg The Close.\" Khalaf stated that the company has limited exposure to AI investments. The original text does not provide specific figures from the third-quarter earnings, guidance, or the exact scale of the AI exposure.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "大都会人寿CEO Michel Khalaf讨论第三季度财报与展望。",
+          "en": "MetLife CEO Michel Khalaf discussed third-quarter earnings and outlook."
+        },
+        {
+          "zh": "Khalaf表示公司对AI投资的敞口有限。",
+          "en": "Khalaf stated the company has limited exposure to AI investments."
+        }
+      ],
+      "tags": [
+        "MetLife",
+        "earnings",
+        "AI exposure",
+        "insurance"
+      ],
+      "tickers": [
+        "MET"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:xO5Bb-acnHA",
       "title": "Chipmaker Selloff Deepens on Fears of Tighter Regulation",
