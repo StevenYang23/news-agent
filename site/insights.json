@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:11:39.217519+00:00",
+  "generated_at": "2026-11-06T00:32:17.604136+00:00",
   "insights": [
     {
       "guid": "yt:xO5Bb-acnHA",
@@ -17134,58 +17134,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:utgTvjBMv8A",
-      "title": "Early Voting Turnout Surges Nationwide",
-      "title_zh": "Bloomberg《Balance of Power》聚焦中期选举、伊朗局势与科技股财报",
-      "url": "https://www.youtube.com/watch?v=utgTvjBMv8A",
-      "published_at": "2026-10-29T23:30:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "参议员Rick Scott主张对伊朗采取强硬军事姿态以阻止其获得核武器，并称美国需为战争做准备；前众议院金融服务委员会主席Patrick McHenry认为民主党可能赢得众议院控制权，但多数优势规模不确定。节目还讨论了英特尔和亚马逊财报对科技股的冲击，以及多个参议院选区的选情。",
-      "summary_en": "Sen. Rick Scott (R-FL) advocates a hardline military stance to prevent Iran from obtaining a nuclear weapon, saying the US must prepare for war to achieve peace. Former House Financial Services Committee chair Patrick McHenry says Democrats are likely to win control of the House, though the size of their majority remains uncertain. The show also covers Intel and Amazon earnings rattling tech stocks and several Senate races.",
-      "detail_zh": "在Bloomberg的《Balance of Power》节目中，参议员Rick Scott（佛罗里达州共和党）表示美国应“摧毁”伊朗政权，并认为美国必须为战争做准备以实现和平，防止德黑兰获得核武器。他还讨论了AI投资、英特尔、油价和军事选项。前众议院金融服务委员会主席、Bloomberg撰稿人Patrick McHenry表示，民主党可能赢得众议院控制权，但多数优势的规模仍不确定；他还谈及共和党领导权之争（Scalise对Jordan）以及Hakeem Jeffries和潜在民主党众议院的前景。节目还提到特朗普在南卡罗来纳州紧张的参议院选战中竞选，以及英特尔和亚马逊财报对科技股的冲击。其他章节涉及巴西大选和博索纳罗、债务上限、支出和联邦预算、阿拉斯加和堪萨斯参议院选情，以及得克萨斯、缅因、密歇根参议院选战和俄亥俄广告反弹等。",
-      "detail_en": "On Bloomberg's \"Balance of Power,\" Sen. Rick Scott (R-FL) said the US should \"demolish\" Iran's regime and argued the country must prepare for war to achieve peace and prevent Tehran from obtaining a nuclear weapon. He also discussed AI investment, Intel, oil prices, and military options. Patrick McHenry, former House Financial Services Committee chair and Bloomberg contributor, said Democrats are likely to win control of the House, though the size of their majority remains uncertain; he also discussed the GOP leadership fight (Scalise vs. Jordan) and Hakeem Jeffries and a potential Democratic House. The show also covered Trump campaigning in a tight South Carolina Senate race and Intel and Amazon earnings rattling tech stocks. Other chapters touched on the Brazil election and Bolsonaro, the debt ceiling, spending and the federal budget, the Alaska and Kansas Senate races, and the Texas, Maine, and Michigan Senate races, Ohio ad backlash, and candidate quality.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "参议员Rick Scott主张美国应“摧毁”伊朗政权，并称必须为战争做准备以实现和平并防止伊朗获得核武器。",
-          "en": "Sen. Rick Scott (R-FL) said the US should \"demolish\" Iran's regime and argued the country must prepare for war to achieve peace and prevent Tehran from obtaining a nuclear weapon."
-        },
-        {
-          "zh": "前众议院金融服务委员会主席Patrick McHenry认为民主党可能赢得众议院控制权，但多数优势规模不确定。",
-          "en": "Patrick McHenry, former House Financial Services Committee chair, says Democrats are likely to win control of the House, though the size of their majority remains uncertain."
-        },
-        {
-          "zh": "英特尔和亚马逊财报对科技股造成冲击。",
-          "en": "Intel and Amazon earnings rattled tech stocks."
-        },
-        {
-          "zh": "节目讨论了共和党领导权之争（Scalise对Jordan）以及Hakeem Jeffries和潜在民主党众议院的前景。",
-          "en": "The show discussed the GOP leadership fight (Scalise vs. Jordan) and Hakeem Jeffries and a potential Democratic House."
-        },
-        {
-          "zh": "多个参议院选情受到关注，包括南卡罗来纳、阿拉斯加、堪萨斯、得克萨斯、缅因和密歇根。",
-          "en": "Several Senate races were in focus, including South Carolina, Alaska, Kansas, Texas, Maine, and Michigan."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "Iran",
-        "tech earnings",
-        "House control",
-        "Senate races"
-      ],
-      "tickers": [
-        "INTC",
-        "AMZN"
-      ],
-      "sentiment": "neutral"
     }
   ]
 }
