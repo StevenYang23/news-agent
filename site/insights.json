@@ -1,6 +1,225 @@
 {
-  "generated_at": "2026-11-07T15:12:08.335799+00:00",
+  "generated_at": "2026-11-07T16:14:24.707028+00:00",
   "insights": [
+    {
+      "guid": "yt:aUzDuI94tjs",
+      "title": "Big Democratic Win. Big Market Sell-Off. What Flows, Narrative and the Economy Say Comes Next",
+      "title_zh": "市场评论：选举后波动由资金流驱动，AI交易面临考验",
+      "url": "https://www.youtube.com/watch?v=aUzDuI94tjs",
+      "published_at": "2026-11-07T16:10:17+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "volatility",
+        "tech"
+      ],
+      "summary_zh": "播客讨论指出，选举后市场先涨后跌的剧烈波动主要由期权交易商资金流驱动，而非基本面变化。嘉宾认为选举除非伴随财政政策重大转变，否则影响有限；AI交易虽长期乐观，但高债务和变化的政治环境带来风险。当前经济呈现增长放缓但非衰退，市场波动创造再平衡机会。",
+      "summary_en": "The podcast discussion suggests that the post-election market rally and subsequent sell-off were largely driven by option dealer flows rather than fundamental changes. Guests argue elections matter little unless there's a material fiscal policy shift; while optimistic on AI long-term, high debt and a changed political landscape pose risks. The economy shows slower growth but not recession, and volatility creates rebalancing opportunities.",
+      "detail_zh": "在Last Call播客的月度市场回顾中，主持人Jack Forehand与嘉宾讨论了选举后市场的剧烈波动。嘉宾称选举后的市场表现是一个“令人难以置信的假动作”，先 rally 后暴跌，这很可能不是基本面驱动的，而是与期权交易商资金流有关。嘉宾提到，此前Kevin Weer曾指出波动率在中期选举前被低估，随后波动率回归导致市场大幅摆动。关于选举，嘉宾认为除非财政政策立场发生重大变化，否则选举本身对市场影响不大。对于AI交易，主持人表示长期乐观，但指出已承担大量债务且政治环境改变。经济方面，嘉宾认为当前是增长放缓但并非无增长，尚未出现企业盈利或GDP转负的冲击，但存在流动性紧张和波动性飙升。他们建议投资者坚持长期计划，利用波动进行再平衡，例如此前市政债一个月下跌4-4.5%带来的机会。",
+      "detail_en": "In the Last Call podcast monthly market recap, host Jack Forehand and guests discussed the sharp post-election market swings. The guest described the post-election move as an 'incredible head fake,' with a rally followed by a sell-off that was likely not fundamentally driven but related to option dealer flows. The guest noted that Kevin Weer had previously pointed out that volatility was underpriced going into the midterms, and the subsequent return of volatility led to large market swings. On elections, the guest argued they don't matter much unless there's a material change in fiscal policy stance. Regarding the AI trade, the host expressed long-term optimism but noted significant debt taken on and a changed political landscape. Economically, the guest sees slower growth but not no growth, with no negative shock yet in corporate earnings or GDP, though there are liquidity pinches and volatility spikes. They advise sticking to long-term plans and using volatility to rebalance, citing opportunities like munis falling 4-4.5% in a month.",
+      "conclusion_zh": "投资者应忽略短期资金流驱动的波动，坚持长期计划，并利用市场波动进行再平衡。",
+      "conclusion_en": "Investors should ignore short-term flow-driven volatility, stick to long-term plans, and use market swings to rebalance.",
+      "key_points": [
+        {
+          "zh": "选举后市场先涨后跌的剧烈波动主要由期权交易商资金流驱动，而非基本面变化。",
+          "en": "The sharp post-election rally and sell-off were largely driven by option dealer flows, not fundamental changes."
+        },
+        {
+          "zh": "除非财政政策立场发生重大变化，否则选举对市场影响有限。",
+          "en": "Elections have limited market impact unless there is a material change in fiscal policy stance."
+        },
+        {
+          "zh": "AI交易长期乐观，但高债务和变化的政治环境构成风险。",
+          "en": "Long-term optimism on AI, but high debt and a changed political landscape pose risks."
+        },
+        {
+          "zh": "经济呈现增长放缓但非衰退，尚未出现盈利或GDP转负的冲击。",
+          "en": "Economy shows slower growth but not recession, with no negative earnings or GDP shock yet."
+        },
+        {
+          "zh": "市场波动为长期投资者提供再平衡机会，如市政债下跌后的配置窗口。",
+          "en": "Market volatility offers rebalancing opportunities for long-term investors, such as after the muni sell-off."
+        }
+      ],
+      "tags": [
+        "election",
+        "option flows",
+        "AI trade",
+        "volatility",
+        "rebalancing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:q6AkgOsZI1s",
+      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "title_zh": "彭博推新闻问答游戏Pointed，测试知识与信心",
+      "url": "https://www.youtube.com/watch?v=q6AkgOsZI1s",
+      "published_at": "2026-11-07T15:59:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博推出Pointed新闻问答游戏，不仅测试玩家对新闻的了解，还测试其对答案的信心。彭博的Lisa Mateo、Christina Ruffini和David Gura参与体验。",
+      "summary_en": "Bloomberg introduces Pointed, a news quiz game that tests not only players' knowledge of the news but also their confidence in their answers. Bloomberg's Lisa Mateo, Christina Ruffini, and David Gura play the quiz.",
+      "detail_zh": "彭博推出名为Pointed的新闻问答游戏，该游戏在传统新闻问答基础上增加策略性元素，同时测试玩家对新闻的掌握程度和对自己答案的信心。彭博的Lisa Mateo、Christina Ruffini和David Gura参与了游戏体验。观众可在Bloomberg.com上自行尝试该问答。原文未提供更多关于游戏机制、发布时间或商业影响的细节。",
+      "detail_en": "Bloomberg introduces Pointed, a news quiz game that adds a strategic twist to the traditional news quiz format by testing both players' knowledge of the news and their confidence in their answers. Bloomberg's Lisa Mateo, Christina Ruffini, and David Gura play the quiz. Viewers can try the quiz themselves at Bloomberg.com. The original text does not provide further details on game mechanics, launch timing, or business impact.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Pointed是彭博推出的新闻问答游戏，测试新闻知识和答案信心。",
+          "en": "Pointed is a news quiz game from Bloomberg that tests news knowledge and confidence in answers."
+        },
+        {
+          "zh": "彭博的Lisa Mateo、Christina Ruffini和David Gura参与游戏。",
+          "en": "Bloomberg's Lisa Mateo, Christina Ruffini, and David Gura participate in the quiz."
+        },
+        {
+          "zh": "观众可在Bloomberg.com上体验该问答。",
+          "en": "Viewers can try the quiz at Bloomberg.com."
+        }
+      ],
+      "tags": [
+        "Bloomberg",
+        "news quiz",
+        "media"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Yzjt9-BX6es",
+      "title": "Ken Chenault on Leadership in an Age of AI",
+      "title_zh": "前美国运通CEO谈领导力、多元化与负责任AI",
+      "url": "https://www.youtube.com/watch?v=Yzjt9-BX6es",
+      "published_at": "2026-11-07T15:32:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "General Catalyst董事长、前美国运通CEO Ken Chenault在Bloomberg This Weekend节目中讨论领导力、多元化与负责任AI。他表示，面对政治与技术压力加剧，高管需有勇气坚守价值观，企业应在推动创新的同时保障安全、扩大机会，并确保AI最终改善人们的生活。",
+      "summary_en": "Ken Chenault, Chairman and Managing Director of General Catalyst and former CEO of American Express, discussed leadership, diversity and responsible AI on Bloomberg This Weekend. He argued that executives need the courage to stand by their values as political and technological pressures intensify, and that companies should pursue innovation while protecting safety, broadening opportunity and ensuring AI ultimately improves people's lives.",
+      "detail_zh": "在Bloomberg This Weekend节目中，General Catalyst董事长兼董事总经理、前美国运通CEO Ken Chenault与主持人David Gura讨论了领导力、多元化和负责任AI。Chenault认为，随着政治和技术压力的加剧，高管需要有勇气坚守自己的价值观。他表示，企业应在追求创新的同时保护安全、扩大机会，并确保AI最终改善人们的生活。",
+      "detail_en": "On Bloomberg This Weekend, Ken Chenault, Chairman and Managing Director of General Catalyst and former CEO of American Express, spoke with host David Gura about leadership, diversity and responsible AI. Chenault argued that executives need the courage to stand by their values even as political and technological pressures intensify. He said companies should pursue innovation while protecting safety, broadening opportunity and ensuring AI ultimately improves people's lives.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Chenault强调，面对政治与技术压力，高管需有勇气坚守价值观。",
+          "en": "Chenault stressed that executives need the courage to stand by their values amid political and technological pressures."
+        },
+        {
+          "zh": "他认为企业应在推动创新的同时保障安全、扩大机会。",
+          "en": "He believes companies should pursue innovation while protecting safety and broadening opportunity."
+        },
+        {
+          "zh": "他主张确保AI最终改善人们的生活。",
+          "en": "He advocates ensuring AI ultimately improves people's lives."
+        }
+      ],
+      "tags": [
+        "AI",
+        "leadership",
+        "diversity",
+        "responsible AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ff4TnErDQ04",
+      "title": "A Historic First for Women at the Metropolitan Opera",
+      "title_zh": "彭博周末访谈：作曲家Missy Mazzoli谈歌剧改编《林肯在中阴》",
+      "url": "https://www.youtube.com/watch?v=ff4TnErDQ04",
+      "published_at": "2026-11-07T15:22:16+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博周末节目中，作曲家Missy Mazzoli讨论将乔治·桑德斯的《林肯在中阴》改编为歌剧，并成为首位在大都会歌剧院首演作品的女作曲家。她谈及朋克音乐如何塑造其音乐感知，以及与剧本作者Royce Vavrek的长期合作对改编的重要性。",
+      "summary_en": "On Bloomberg This Weekend, composer Missy Mazzoli discusses adapting George Saunders's 'Lincoln in the Bardo' into an opera and becoming the first woman composer to have a world premiere at the Metropolitan Opera. She talks about how punk shaped her musical sensibility and why her long collaboration with librettist Royce Vavrek was essential to the adaptation.",
+      "detail_zh": "在彭博周末节目中，作曲家Missy Mazzoli讨论了将乔治·桑德斯的小说《林肯在中阴》改编为歌剧的过程。她成为首位在大都会歌剧院进行世界首演的女作曲家。Mazzoli向主持人David Gura和Christina Ruffini讲述朋克音乐如何塑造了她的音乐感知，以及她与剧本作者Royce Vavrek的长期合作对于将桑德斯这部结构松散的鬼故事转化为歌剧至关重要。",
+      "detail_en": "On Bloomberg This Weekend, composer Missy Mazzoli discussed adapting George Saunders's novel 'Lincoln in the Bardo' into an opera. She became the first woman composer to have a world premiere at the Metropolitan Opera. Mazzoli told hosts David Gura and Christina Ruffini how punk helped shape her musical sensibility and why her long collaboration with librettist Royce Vavrek was essential to transforming Saunders's sprawling ghost story into an opera.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Missy Mazzoli成为首位在大都会歌剧院首演作品的女作曲家。",
+          "en": "Missy Mazzoli became the first woman composer to have a world premiere at the Metropolitan Opera."
+        },
+        {
+          "zh": "她将乔治·桑德斯的小说《林肯在中阴》改编为歌剧。",
+          "en": "She adapted George Saunders's novel 'Lincoln in the Bardo' into an opera."
+        },
+        {
+          "zh": "朋克音乐塑造了她的音乐感知。",
+          "en": "Punk helped shape her musical sensibility."
+        },
+        {
+          "zh": "与剧本作者Royce Vavrek的长期合作对改编至关重要。",
+          "en": "Her long collaboration with librettist Royce Vavrek was essential to the adaptation."
+        }
+      ],
+      "tags": [
+        "opera",
+        "composer",
+        "Metropolitan Opera",
+        "Lincoln in the Bardo",
+        "Missy Mazzoli"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:NNl5TT_0lCQ",
+      "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
+      "title_zh": "伊朗战争推高油价，阿拉斯加或成隐性受益者",
+      "url": "https://www.youtube.com/watch?v=NNl5TT_0lCQ",
+      "published_at": "2026-11-07T15:00:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "伊朗战争导致美国油价飙升，多数州家庭成本上升，但阿拉斯加凭借高石油产量获得新收入，并通过其主权财富基金向居民再分配部分收益。尽管多数美国人反对这场战争，阿拉斯加可能成为冲突最痛苦经济副作用——高油价——的隐性赢家。",
+      "summary_en": "Oil prices have surged across the U.S. due to the ongoing war in Iran, raising costs for households in most states. However, Alaska is generating new revenue from its high oil production and redistributing some of it to residents through its sovereign wealth fund. Despite most Americans disapproving of the war, Alaska may emerge as a quiet winner from higher oil prices, one of the conflict's most painful economic side effects.",
+      "detail_zh": "伊朗战争持续，导致美国各地油价飙升。这对大多数州的家庭意味着更高的成本。然而，阿拉斯加作为高石油产量州，其州政府正从高油价中获得新收入，以抵消这些更高的成本。部分收入通过该州独特的主权财富基金重新分配给阿拉斯加居民。尽管大多数美国人不赞成伊朗战争，但阿拉斯加可能成为这场冲突最痛苦的经济副作用之一——油价上涨——的隐性赢家。",
+      "detail_en": "The ongoing war in Iran has caused oil prices to surge across the United States. This means higher costs for households in most states. However, Alaska, with its high oil production, is bringing in new revenue for the state government to offset these higher costs. Some of the revenue is redistributed to Alaskans through the state's unique sovereign wealth fund. While most Americans disapprove of the war in Iran, Alaska may emerge as a quiet winner from one of the conflict's most painful economic side effects: higher oil prices.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "伊朗战争导致美国油价飙升，多数州家庭面临更高成本。",
+          "en": "The war in Iran has caused oil prices to surge across the U.S., leading to higher costs for households in most states."
+        },
+        {
+          "zh": "阿拉斯加凭借高石油产量获得新收入，用于抵消成本上升。",
+          "en": "Alaska is generating new revenue from its high oil production to offset higher costs."
+        },
+        {
+          "zh": "部分收入通过州主权财富基金再分配给阿拉斯加居民。",
+          "en": "Some revenue is redistributed to Alaskans through the state's sovereign wealth fund."
+        },
+        {
+          "zh": "多数美国人反对伊朗战争，但阿拉斯加可能成为高油价的隐性赢家。",
+          "en": "Most Americans disapprove of the war in Iran, but Alaska may emerge as a quiet winner from higher oil prices."
+        }
+      ],
+      "tags": [
+        "oil prices",
+        "Iran war",
+        "Alaska",
+        "sovereign wealth fund"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:bOcwOqyZGNw",
       "title": "Anthropic’s Rise: What To Know Before The IPO",
@@ -47,6 +266,51 @@
         "AI",
         "OpenAI",
         "enterprise AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:zmedYyNlNTk",
+      "title": "Texas and Georgia Enter a New Political Era",
+      "title_zh": "民主党在得州和佐治亚州取得进展，面临治理挑战",
+      "url": "https://www.youtube.com/watch?v=zmedYyNlNTk",
+      "published_at": "2026-11-07T14:53:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "《纽约时报》和《亚特兰大宪章报》的记者在Bloomberg This Weekend节目中讨论了民主党在得克萨斯州和佐治亚州的政治进展，包括Keisha Lance Bottoms历史性当选全国首位黑人女性州长。他们指出，民主党在经历数十年共和党主导后，现在面临治理挑战，需应对分裂的立法机构和跨越党派界限的选民。",
+      "summary_en": "On Bloomberg This Weekend, journalists from The New York Times and The Atlanta Journal-Constitution discussed Democratic gains in Texas and Georgia, including Keisha Lance Bottoms' historic election as the nation's first Black woman governor. They noted that after decades of Republican dominance, Democrats now face the challenge of governing with divided legislatures and voters who crossed party lines.",
+      "detail_zh": "在Bloomberg This Weekend节目中，《纽约时报》得克萨斯州政治记者Lauren McGaughy和《亚特兰大宪章报》华盛顿分社社长Tia Mitchell与主持人David Gura和Christina Ruffini讨论了民主党在得克萨斯州和佐治亚州取得的政治进展。讨论重点包括Keisha Lance Bottoms历史性当选为全国首位黑人女性州长。McGaughy和Mitchell表示，民主党在经历数十年共和党主导后，现在面临治理挑战，需要应对分裂的立法机构以及跨越党派界限投票的选民。",
+      "detail_en": "On Bloomberg This Weekend, Lauren McGaughy, Texas political correspondent for The New York Times, and Tia Mitchell, Washington Bureau Chief for The Atlanta Journal-Constitution, joined hosts David Gura and Christina Ruffini to examine Democratic gains that transformed the political landscape in Texas and Georgia. The discussion highlighted Keisha Lance Bottoms' historic election as the nation's first Black woman governor. McGaughy and Mitchell noted that after decades of Republican dominance, Democrats now face the challenge of governing while navigating divided legislatures and voters who crossed party lines.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党在得克萨斯州和佐治亚州取得政治进展，改变了政治格局。",
+          "en": "Democrats made political gains in Texas and Georgia, transforming the political landscape."
+        },
+        {
+          "zh": "Keisha Lance Bottoms历史性当选为全国首位黑人女性州长。",
+          "en": "Keisha Lance Bottoms was historically elected as the nation's first Black woman governor."
+        },
+        {
+          "zh": "民主党在数十年共和党主导后，现在面临治理挑战。",
+          "en": "After decades of Republican dominance, Democrats now face the challenge of governing."
+        },
+        {
+          "zh": "民主党需应对分裂的立法机构和跨越党派界限的选民。",
+          "en": "Democrats must navigate divided legislatures and voters who crossed party lines."
+        }
+      ],
+      "tags": [
+        "US politics",
+        "Democratic Party",
+        "Texas",
+        "Georgia",
+        "elections"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -17263,149 +17527,6 @@
         "AI capex",
         "midterm elections",
         "liquidity tightening"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:tRcFJBbWoxI",
-      "title": "Tech Stocks Tank, Final Countdown to Midterm Elections",
-      "title_zh": "彭博周末节目：AI警钟引发股市下挫，加密黑客与中期选举成焦点",
-      "url": "https://www.youtube.com/watch?v=tRcFJBbWoxI",
-      "published_at": "2026-10-31T16:11:21+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博周末节目讨论了华尔街因AI担忧而出现的股市下挫、AI债务担忧创纪录、加密行业最大黑客事件（62亿美元）、中期选举对共和党支持率的影响、以色列选举无明确赢家、美联储维持利率但呼吁12月加息、以及Meta、Alphabet、Intel股票销售令买家深陷亏损等话题。",
-      "summary_en": "Bloomberg This Weekend discussed the stock slump as Wall Street gets an AI wake-up call, AI debt fears hitting record highs, the $6.2 billion crypto heist, midterm elections' impact on Republican support, Israel's election with no clear winner, the Fed holding rates steady with calls for a December hike, and share sales by Meta, Alphabet, and Intel leaving buyers underwater.",
-      "detail_zh": "节目首先报道了华尔街因AI担忧而出现的股市下挫，并提及AI债务担忧因供应和利润问题创下历史新高。随后讨论了加密行业最大黑客事件，涉及62亿美元。政治方面，分析了特朗普在可负担性危机下的中期选举机会，以及可负担性问题如何分裂共和党支持。国际方面，以色列选举最终结果无明确赢家，10月7日事件后果成为投票主要议题，阿拉伯政党获得创纪录的19个议会席位；伊朗战争预计在美国中期选举后加剧。市场方面，Meta、Alphabet、Intel的股票销售令买家深陷亏损；美联储维持利率不变，但有人呼吁12月加息；节目还列出了中期选举后值得关注的6个金融板块，以及选举对能源价格、AI和加密的影响，并讨论了消费者和零售业受特朗普新关税的影响。此外，G20外长会议在亚特兰大举行，俄罗斯出席导致G20全家福取消，Kallas推动对乌克兰的更多支持。最后，巴西前总统博索纳罗在败选后逃离巴西，巴西市场在卢拉获胜后下跌。",
-      "detail_en": "The program first reported on the stock slump as Wall Street gets an AI wake-up call, and mentioned AI debt fears hitting fresh record highs on supply and profit concerns. It then discussed the biggest crypto heist involving $6.2 billion. Politically, it analyzed Trump's midterm chances amid an affordability crisis and how affordability is splintering support for Republicans. Internationally, Israel's election final results showed no clear winner, with the Oct. 7th aftermath a major issue at polls and a record 19 parliament seats going to Arab parties; the Iran war is expected to intensify after US midterms. On markets, share sales by Meta, Alphabet, and Intel left buyers far underwater; the Fed held rates steady with calls for a December hike; the program also listed 6 financial sectors to watch post-midterms, and discussed the election's impact on energy prices, AI, and crypto, as well as consumer and retail exposure to Trump's new tariffs. Additionally, the G20 foreign ministers' meeting was held in Atlanta, the G20 group photo was nixed over Russian attendance, and Kallas pushed for more Ukraine support. Finally, Flávio Bolsonaro fled Brazil after defeat, and Brazilian markets dropped after Lula won the election.",
-      "conclusion_zh": "投资者需关注AI相关债务风险、中期选举对政策与板块的影响，以及美联储利率路径的信号。",
-      "conclusion_en": "Investors should watch AI-related debt risks, the midterm elections' impact on policy and sectors, and signals on the Fed's rate path.",
-      "key_points": [
-        {
-          "zh": "华尔街因AI担忧出现股市下挫，AI债务担忧因供应和利润问题创下历史新高。",
-          "en": "Wall Street saw a stock slump as it got an AI wake-up call, with AI debt fears hitting fresh record highs on supply and profit concerns."
-        },
-        {
-          "zh": "加密行业发生最大黑客事件，涉及金额达62亿美元。",
-          "en": "The crypto industry suffered its biggest heist, involving $6.2 billion."
-        },
-        {
-          "zh": "中期选举前，可负担性危机正在分裂共和党支持，特朗普的选举机会面临考验。",
-          "en": "Ahead of the midterms, the affordability crisis is splintering support for Republicans, testing Trump's election chances."
-        },
-        {
-          "zh": "美联储维持利率不变，但有人呼吁12月加息。",
-          "en": "The Fed held rates steady, but there are calls for a December hike."
-        },
-        {
-          "zh": "Meta、Alphabet、Intel的股票销售令买家深陷亏损。",
-          "en": "Share sales by Meta, Alphabet, and Intel left buyers far underwater."
-        }
-      ],
-      "tags": [
-        "AI",
-        "crypto",
-        "midterms",
-        "Fed",
-        "stocks"
-      ],
-      "tickers": [
-        "META",
-        "GOOGL",
-        "INTC"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:Sb7-3Qh8FuM",
-      "title": "市場調整の次の局面",
-      "title_zh": "摩根士丹利威尔逊：美股调整接近尾声，但最后阶段可能痛苦",
-      "url": "https://www.youtube.com/watch?v=Sb7-3Qh8FuM",
-      "published_at": "2026-10-31T16:06:05+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "摩根士丹利首席投资官兼美国首席股票策略师迈克·威尔逊认为，始于6月的调整已进入最后阶段，但指数层面可能还需进一步下跌，标普500指数在7100-7200点区域有坚实支撑。他预计未来将有三大“出清事件”——AI资本回报与信贷供给、中期选举、流动性收紧，这些事件可能引发最后一跌，但也将创造买入机会。",
-      "summary_en": "Morgan Stanley CIO and Chief US Equity Strategist Mike Wilson believes the correction that began in June is in its final stage, but the index level may need to fall further, with solid support for the S&P 500 around 7100-7200. He expects three \"clearing events\" ahead—AI capital returns and credit supply, midterm elections, and tightening liquidity—which could trigger a final selloff but also create buying opportunities.",
-      "detail_zh": "威尔逊指出，始于6月的调整在水面下已相当深入，但由高质量股票构成的标普500指数可能仍有未完成的调整，在调整走完之前不能断言结束。摩根士丹利将此次调整视为向周期中段的过渡，盈利预测修正率的变化已如预期在景气低谷后约一年见顶。市场反应是周期早期的高经营杠杆和财务杠杆股票开始跑输，而质量更高、资产轻、服务导向的企业崭露头角。这种向质量股的轮动已被广泛理解，投资者仓位也已跟进。通常最终阶段，高质量的标普500指数与水面下走弱的市场广度会相互靠拢，这一过程可能已经开始。若指数进一步下跌，标普500在7100-7200点区域将是本次调整的坚实支撑。威尔逊认为最终会以较好形式收场，因为已经发生了大量损害：自6月以来，纳斯达克3000指数约60%的成分股跌幅超过20%；非必需消费品、汽车、周期敏感消费、资本品等周期早期板块受创更重。同时对冲基金仓位大幅缩减，接近过去12个月最低水平，这是令人鼓舞的信号，但整体市场情绪尚未达到持续触底的极端水平，接近但未到达。他认为未来有三个“出清事件”：第一是AI，投资者对最终资本回报率、资本成本以及巨额支出能否全部通过信贷市场借款融资存疑；未来几周市场需吸收更多债券发行供应，质量较差的企业可能继续面临利差扩大和股价下跌，供应本身即是事件，一旦消化，风险将开始切换。非必需消费品仍是担忧中心，可能成为判断整体调整的指标，他预计到11月中旬该板块可能再跌10-15%。第二是中期选举，市场厌恶不确定性，蓝浪（民主党大胜）已非意外，更大的担忧是投票后可能发生的事，例如伊朗军事紧张重燃；历史显示中期选举后回报非常强劲，若投票日前后数日或数周股价急跌，应准备买入。第三也是最重要的出清事件是流动性：利率上升、资产负债表扩张步伐放缓、资金需求增加以及能源价格上涨共同导致金融环境快速收紧，类似2018年，尽管美联储紧缩幅度很小，但情况与2022年相差不大，市场实际上在替美联储紧缩；若这种收紧引发融资紧张或信贷市场不稳定，美联储和财政部有工具应对，问题是是否需情况进一步恶化才会行动。总结而言，调整处于最后阶段，但最后阶段可能非常不舒服，可能还需指数层面进一步下跌和波动率急升，或投资者再次认为“有东西坏了”，而这可能为美联储政策转向和下一轮上涨打开道路。当前他继续偏好资本品等调整已超过指数的板块，以及质量股；更重要的是，若出清事件导致股价急跌，应视为期待已久的买入机会而非逃离风险的理由。",
-      "detail_en": "Wilson notes that the correction that began in June has progressed significantly beneath the surface, but the high-quality S&P 500 may still have unfinished adjustment, and one cannot say the correction is complete until it runs its course. Morgan Stanley views this correction as a transition to mid-cycle, with the change in earnings revision breadth peaking as expected about a year after the economic trough. The market reaction has been typical: early-cycle stocks with higher operating and financial leverage have begun to underperform, while higher-quality, asset-light, service-oriented companies have come to the fore. This rotation to quality is now widely understood, and investor positioning has followed. Typically, in the final stage, the high-quality S&P 500 and the weakening market breadth beneath the surface converge toward each other, and that process may already be starting. If the index falls further, the S&P 500 area of 7100-7200 would be solid support for this correction. Wilson believes it will ultimately end well because substantial damage has already occurred: since June, about 60% of Nasdaq 3000 constituents have fallen more than 20%; early-cycle sectors such as consumer discretionary, autos, cyclical consumer, and capital goods have been hit harder. Meanwhile, hedge fund positioning has shrunk significantly, near the lowest level in the past 12 months, which is encouraging, but overall market sentiment has not yet reached the extreme level that signals a durable bottom—close but not there. He sees three clearing events ahead: first, AI—investors question the ultimate return on capital, cost of capital, and whether the massive promised spending can all be financed through credit market borrowing; in coming weeks the market must absorb more bond supply, and lower-quality companies may continue to face spread widening and further stock declines; the supply itself is the event, and once digested, risk should begin to rotate. Consumer discretionary remains the center of concern and may be a gauge for the overall correction; he expects the sector could fall another 10-15% by mid-November. Second, the midterm elections—markets dislike uncertainty, and a blue wave is no longer a surprise; the bigger concern is what could happen after the vote, such as renewed military tension with Iran; historically, post-midterm returns have been very strong, so if stocks plunge in the days or weeks around the election, one should be ready to buy. Third and most important is liquidity: rising rates, slower balance sheet expansion, higher funding demand, and rising energy prices are combining to tighten financial conditions rapidly, similar to 2018; despite only small Fed tightening, conditions are not much different from 2022, and the market is effectively tightening for the Fed; if this tightening causes funding stress or destabilizes credit markets, the Fed and Treasury have tools to respond, but the question is whether conditions must worsen further before they act. In summary, the correction is in its final stage, but that stage may be very uncomfortable, possibly requiring another index-level decline and a volatility spike, or another moment when investors decide something is broken—which could open the way for a Fed pivot and the next leg higher. For now, he continues to favor sectors such as capital goods where the correction has exceeded the index, as well as quality stocks; more importantly, if clearing events cause sharp stock declines, he would view them as a long-awaited buying opportunity rather than a reason to flee risk.",
-      "conclusion_zh": "美股调整接近尾声但最后阶段可能痛苦，投资者应准备好在出清事件引发急跌时买入，并继续偏好质量股及已充分调整的周期板块。",
-      "conclusion_en": "The US equity correction is near its end but the final stage may be painful; investors should be ready to buy during sharp declines triggered by clearing events, while continuing to favor quality stocks and already-adjusted cyclical sectors.",
-      "key_points": [
-        {
-          "zh": "调整已进入最后阶段，但指数层面可能还需进一步下跌，标普500在7100-7200点区域有坚实支撑。",
-          "en": "The correction is in its final stage, but the index may need to fall further, with solid S&P 500 support around 7100-7200."
-        },
-        {
-          "zh": "自6月以来纳斯达克3000指数约60%成分股跌幅超20%，对冲基金仓位接近12个月最低，但市场情绪尚未达到持续触底的极端水平。",
-          "en": "Since June, about 60% of Nasdaq 3000 constituents have fallen more than 20%, and hedge fund positioning is near a 12-month low, but sentiment has not yet reached the extreme level of a durable bottom."
-        },
-        {
-          "zh": "三大出清事件：AI资本回报与信贷供给、中期选举、流动性收紧；这些事件可能引发最后一跌，但也将创造买入机会。",
-          "en": "Three clearing events: AI capital returns and credit supply, midterm elections, and tightening liquidity; these could trigger a final selloff but also create buying opportunities."
-        },
-        {
-          "zh": "非必需消费品仍是担忧中心，预计到11月中旬可能再跌10-15%。",
-          "en": "Consumer discretionary remains the center of concern, expected to fall another 10-15% by mid-November."
-        },
-        {
-          "zh": "当前偏好资本品等调整已超过指数的板块以及质量股；若出清事件导致急跌，应视为买入机会。",
-          "en": "Currently favors sectors like capital goods where the correction has exceeded the index, as well as quality stocks; sharp declines from clearing events should be viewed as buying opportunities."
-        }
-      ],
-      "tags": [
-        "market correction",
-        "S&P 500",
-        "AI capex",
-        "midterm elections",
-        "liquidity"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-soOqRzDBW0",
-      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-      "title_zh": "彭博新闻测验节目介绍",
-      "url": "https://www.youtube.com/watch?v=-soOqRzDBW0",
-      "published_at": "2026-10-31T15:24:46+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博电视推出一档名为Pointed的新闻测验节目，不仅测试参与者对新闻的了解程度，还测试他们对自己答案的信心。节目由Lisa Mateo、Christina Ruffini和David Gura参与。",
-      "summary_en": "Bloomberg Television introduces Pointed, a news quiz format that tests not only players' knowledge of the news but also their confidence in their answers. The quiz features Lisa Mateo, Christina Ruffini, and David Gura.",
-      "detail_zh": "原文介绍了一档名为Pointed的新闻测验节目，该节目在传统新闻测验基础上增加了对参与者答案信心的测试。彭博的Lisa Mateo、Christina Ruffini和David Gura参与了节目。观众可以在Bloomberg.com上自行尝试该测验。原文其余内容为彭博电视和市场的推广链接及社交媒体信息，不包含投资分析或市场观点。",
-      "detail_en": "The original text introduces a news quiz called Pointed, which adds a test of players' confidence in their answers to the traditional news quiz format. Bloomberg's Lisa Mateo, Christina Ruffini, and David Gura participated in the quiz. Viewers can try the quiz themselves at Bloomberg.com. The rest of the text consists of promotional links and social media information for Bloomberg Television and Markets, with no investment analysis or market views.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Pointed是一档新闻测验节目，测试新闻知识和答案信心。",
-          "en": "Pointed is a news quiz that tests news knowledge and confidence in answers."
-        },
-        {
-          "zh": "彭博的Lisa Mateo、Christina Ruffini和David Gura参与了节目。",
-          "en": "Bloomberg's Lisa Mateo, Christina Ruffini, and David Gura participated."
-        },
-        {
-          "zh": "观众可在Bloomberg.com上尝试该测验。",
-          "en": "Viewers can try the quiz at Bloomberg.com."
-        }
-      ],
-      "tags": [
-        "Bloomberg",
-        "news quiz",
-        "media"
       ],
       "tickers": [],
       "sentiment": "neutral"
