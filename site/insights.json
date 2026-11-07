@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:13:51.647285+00:00",
+  "generated_at": "2026-11-07T10:12:06.857095+00:00",
   "insights": [
     {
       "guid": "yt:UACTCWikfLM",
@@ -17747,97 +17747,6 @@
         "FFIV"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:StARUc1Lxrw",
-      "title": "The Fed Is A Sideshow While The AI Trade Implodes | Weekly Roundup",
-      "title_zh": "美联储会议被指“毫无意义”，通胀料将加速",
-      "url": "https://www.youtube.com/watch?v=StARUc1Lxrw",
-      "published_at": "2026-10-31T10:00:21+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "播客嘉宾认为本次美联储会议缺乏实质内容，维持利率不变符合预期，但批评其沟通为“歌舞伎剧场”。嘉宾预计11月通胀数据将连续第四个月加速，并认为美联储在AI、大宗商品供应短缺及增长风险面前束手无策，12月加息可能性也被排除。",
-      "summary_en": "Podcast guests deemed the Fed meeting meaningless, with the hold expected but communication criticized as 'Kabuki theater.' They expect November inflation to accelerate for a fourth straight month and see the Fed as handcuffed by AI, commodity supply shortages, and growth risks, with a December hike also off the table.",
-      "detail_zh": "美联储本次会议维持利率不变，市场已广泛定价，嘉宾称此为“很长一段时间以来最无意义的美联储会议”。点阵图显示两位官员主张降息（Hammack和Cook，后者为首次），声明将经济活动描述从“温和”升级为“强劲”。嘉宾批评美联储沟通为“空谈”，并引用“歌舞伎剧场”形容。其预计11月通胀数据将连续第四个月加速，但认为美联储不应行动，且12月加息可能性也被排除，因市场下跌可能影响增长。嘉宾还提到美联储计划明年减少会议次数（一次非实时会议，后年降至六次），认为此举旨在让市场摆脱对美联储的持续关注。整体上，嘉宾认为美联储在AI交易、大宗商品供应短缺和增长风险面前束手无策。",
-      "detail_en": "The Fed held rates steady as widely expected, which guests called 'the most meaningless Fed meeting in a very long time.' The dot plot showed two dissents in favor of cuts (Hammack and Cook, the latter's first), and the statement upgraded activity from 'solid' to 'strong.' Guests criticized the communication as empty talk, citing 'Kabuki theater.' They expect November inflation to accelerate for a fourth consecutive month but argued the Fed should not act, and ruled out a December hike given market declines could affect growth. They also noted the Fed plans to reduce meeting frequency next year (one non-live meeting) and to six meetings the following year, seen as an effort to wean markets off constant Fed attention. Overall, guests see the Fed as handcuffed by the AI trade, commodity supply shortages, and growth risks.",
-      "conclusion_zh": "嘉宾认为美联储已非市场边际驱动力，通胀加速与供应短缺背景下，其政策空间受限，投资者应关注AI交易和大宗商品风险。",
-      "conclusion_en": "Guests argue the Fed is no longer the marginal market driver; with inflation accelerating and supply shortages, its policy space is limited, and investors should focus on AI trade and commodity risks.",
-      "key_points": [
-        {
-          "zh": "美联储维持利率不变，两位官员主张降息，声明将经济活动描述从“温和”升级为“强劲”。",
-          "en": "Fed held rates steady; two officials dissented in favor of cuts; statement upgraded activity from 'solid' to 'strong.'"
-        },
-        {
-          "zh": "嘉宾批评会议“毫无意义”，沟通为“歌舞伎剧场”，预计11月通胀连续第四个月加速。",
-          "en": "Guests called the meeting meaningless and communication 'Kabuki theater,' expecting November inflation to accelerate for a fourth straight month."
-        },
-        {
-          "zh": "嘉宾认为美联储在AI交易、大宗商品供应短缺和增长风险面前束手无策，12月加息可能性也被排除。",
-          "en": "Guests see the Fed as handcuffed by the AI trade, commodity supply shortages, and growth risks, with a December hike also ruled out."
-        },
-        {
-          "zh": "美联储计划明年减少会议次数，嘉宾认为旨在让市场摆脱对美联储的持续关注。",
-          "en": "The Fed plans to reduce meeting frequency next year, which guests see as aimed at weaning markets off constant Fed attention."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "inflation",
-        "monetary policy",
-        "AI trade",
-        "commodities"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-_IASIF7OeI",
-      "title": "What Happens When AI Spend Peaks?",
-      "title_zh": "高盛：AI交易或进入复杂双向阶段，关注超大规模企业资本开支与美联储路径",
-      "url": "https://www.youtube.com/watch?v=-_IASIF7OeI",
-      "published_at": "2026-10-31T09:30:06+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "高盛专家讨论认为，在超大规模企业资本开支放缓、企业盈利持稳的背景下，AI交易可能从单边上涨转向更复杂的双向阶段。市场关注大型科技股能否成为年底前股市上涨的催化剂，同时美联储政策路径与宏观忧虑交织。",
-      "summary_en": "Goldman Sachs experts suggest the AI trade may be shifting from a one-sided rally to a more complex, two-sided phase as hyperscaler capex moderates and corporate earnings hold steady. Focus is on whether big tech can catalyze an equity rally into year-end, amid the Fed's path and macro worries.",
-      "detail_zh": "高盛全球对冲基金业务主管Tony Pasquariello、全球风险主管Josh Schiffrin及研究高级顾问Dominic Wilson在10月29日录制的节目中，分析了财报季后AI资本开支叙事的变化。他们指出，经过多年高速增长，AI交易可能正过渡到一个更复杂的双向阶段。超大规模企业的资本开支出现放缓迹象，而企业盈利目前保持稳定。讨论的核心问题是，大型科技股能否在年底前为股市提供上涨催化剂。此外，专家们还探讨了美联储未来的政策路径以及宏观层面密集的担忧情绪。",
-      "detail_en": "Tony Pasquariello, global head of hedge fund coverage, Josh Schiffrin, global head of risk, and Dominic Wilson, senior advisor in Goldman Sachs Research, analyzed the evolving AI capex narrative post-earnings in an episode recorded on October 29. They noted that after years of supercharged growth, the AI trade may be transitioning into a more complex, two-sided phase. Hyperscaler capex is showing signs of moderation while corporate earnings currently hold the line. The central question is whether big tech can provide the catalyst for equities to rally into year-end. The experts also discussed the path ahead for the Fed and the crowded wall of worry in macro.",
-      "conclusion_zh": "AI交易进入双向波动阶段，大型科技股能否接棒成为年底行情关键，需关注资本开支变化与美联储信号。",
-      "conclusion_en": "As the AI trade enters a two-sided phase, whether big tech can lead a year-end rally is key, with attention on capex trends and Fed signals.",
-      "key_points": [
-        {
-          "zh": "AI交易可能从单边上涨转向更复杂的双向阶段。",
-          "en": "The AI trade may shift from a one-sided rally to a more complex, two-sided phase."
-        },
-        {
-          "zh": "超大规模企业资本开支出现放缓迹象，但企业盈利保持稳定。",
-          "en": "Hyperscaler capex is moderating, while corporate earnings hold the line."
-        },
-        {
-          "zh": "市场关注大型科技股能否成为年底前股市上涨的催化剂。",
-          "en": "Focus is on whether big tech can catalyze an equity rally into year-end."
-        },
-        {
-          "zh": "美联储政策路径与宏观担忧是讨论的重要背景。",
-          "en": "The Fed's path and macro worries are key backdrops in the discussion."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "hyperscaler capex",
-        "big tech",
-        "Fed",
-        "equity outlook"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
