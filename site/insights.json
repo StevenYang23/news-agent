@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:32:05.529855+00:00",
+  "generated_at": "2026-11-07T03:14:17.164266+00:00",
   "insights": [
     {
       "guid": "yt:UACTCWikfLM",
@@ -17709,60 +17709,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ZyTTf7pRlX4",
-      "title": "Token Troubles: AI & Crypto Edition | SpotGamma",
-      "title_zh": "零日期权正Gamma抑制标普波动，但科技股轮动风险隐现",
-      "url": "https://www.youtube.com/watch?v=ZyTTf7pRlX4",
-      "published_at": "2026-10-31T02:27:07+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility",
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "标普500因零日期权正Gamma而反应温和，但纳斯达克下跌超2.5%，科技股疲软。市场担忧若板块轮动停止，资金可能转向债券，加剧股市下行风险。",
-      "summary_en": "The S&P 500 is showing a muted reaction due to positive gamma from zero-DTE options, while the Nasdaq has dropped over 2.5% amid tech weakness. The risk is that if sector rotation stops, money could shift to bonds, exacerbating equity downside.",
-      "detail_zh": "标普500的零日期权正Gamma分布在行权价上下40个点，导致市场反应温和。零日期权跨式组合仅定价40个点（52个基点）的波动，尽管期货隔夜下跌80个点。纳斯达克跌幅是标普的2.5倍，但波动率表面（如一个月偏斜）仅上升约半个波动点，表明波动率未显著觉醒。科技股疲软，英特尔因财报糟糕下跌30%，而亚马逊、Meta、谷歌跌幅较小。市场担忧若科技股轮动至防御性板块的趋势停止，资金可能流向债券，导致股市进一步下跌。",
-      "detail_en": "The S&P 500's positive gamma from zero-DTE options is layered at strikes 40 handles above and below, leading to a muted market reaction. The zero-DTE straddle priced only $40 (52 basis points) of movement despite futures dropping 80 handles overnight. The Nasdaq fell 2.5 times as much as the S&P, but the volatility surface (e.g., one-month skew) rose only about half a vol point, indicating volatility hasn't woken up. Tech stocks are weak: Intel dropped 30% on awful earnings, while Amazon, Meta, and Google fell less. The risk is that if the rotation from tech to defensive sectors stops, money could flow into bonds, causing further equity downside.",
-      "conclusion_zh": "关注科技股轮动是否持续，若停止，资金可能流向债券，增加股市下行压力。",
-      "conclusion_en": "Watch whether tech rotation persists; if it stops, money may flow to bonds, increasing equity downside pressure.",
-      "key_points": [
-        {
-          "zh": "标普500零日期权正Gamma抑制波动，跨式组合定价仅40个点。",
-          "en": "Positive gamma from zero-DTE options suppresses S&P 500 volatility; straddle priced at only $40."
-        },
-        {
-          "zh": "纳斯达克下跌2.5%，但波动率表面仅小幅上升，未显著觉醒。",
-          "en": "Nasdaq fell 2.5%, but the volatility surface rose only modestly and hasn't woken up."
-        },
-        {
-          "zh": "英特尔财报糟糕，股价下跌30%，但其他科技股跌幅较小。",
-          "en": "Intel's awful earnings led to a 30% drop, while other tech stocks fell less."
-        },
-        {
-          "zh": "风险在于科技股轮动停止，资金可能转向债券，加剧股市下行。",
-          "en": "Risk is that tech rotation stops, potentially shifting money to bonds and exacerbating equity downside."
-        }
-      ],
-      "tags": [
-        "zero-DTE",
-        "gamma",
-        "tech-rotation",
-        "volatility",
-        "Intel"
-      ],
-      "tickers": [
-        "INTC",
-        "AMZN",
-        "META",
-        "GOOGL",
-        "NVDA",
-        "TSLA"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
