@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-11-07T11:11:31.012415+00:00",
+  "generated_at": "2026-11-07T12:18:07.760177+00:00",
   "insights": [
+    {
+      "guid": "yt:BhHTRMY-97Y",
+      "title": "Midterm Election Fallout, Oval Office Shakeup, Tech Stocks | Bloomberg This Weekend: Nov 7th, 2026",
+      "title_zh": "彭博周末节目预告：特朗普换幕僚长、科技股反弹与美伊局势",
+      "url": "https://www.youtube.com/watch?v=BhHTRMY-97Y",
+      "published_at": "2026-11-07T11:51:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博周末节目将讨论特朗普任命Stephen Miller接替Wiles出任幕僚长、科技股在焦虑情绪中维持周五反弹，以及美军对伊朗实施新一轮定点打击。节目嘉宾包括Dan Ives、Anna Wong、Joe Mathieu和Amanda Agati。",
+      "summary_en": "This weekend's Bloomberg program covers Trump tapping Stephen Miller to replace Wiles as chief of staff, tech stocks clinging to Friday's rebound amid high anxiety, and new US military strikes on Iran. Guests include Dan Ives, Anna Wong, Joe Mathieu, and Amanda Agati.",
+      "detail_zh": "彭博周末节目由David Gura、Lisa Mateo和Nathan Hager主持，旨在提供深度对话与洞察。今日节目涵盖三条主要新闻：特朗普任命Stephen Miller接替Wiles担任幕僚长；科技股在高度焦虑中维持周五的反弹；美军对伊朗实施新的定点打击。节目嘉宾包括Yorkville Ives & Co.合伙人兼高级董事总经理Dan Ives、彭博经济首席美国经济学家Anna Wong、《Balance of Power》联合主持人Joe Mathieu，以及PNC资产管理集团首席投资官Amanda Agati。",
+      "detail_en": "Hosted by David Gura, Lisa Mateo, and Nathan Hager, Bloomberg This Weekend aims to provide in-depth conversations and insight. Today's show covers three main stories: Trump tapping Stephen Miller to replace Wiles as chief of staff; tech stocks clinging to Friday's rebound amid high anxiety; and the US military carrying out new targeted strikes on Iran. Guests include Dan Ives, Partner & Senior Managing Director at Yorkville Ives & Co.; Anna Wong, Chief US Economist at Bloomberg Economics; Joe Mathieu, Co-Host of Balance of Power; and Amanda Agati, Chief Investment Officer at PNC Asset Management Group.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普任命Stephen Miller接替Wiles出任幕僚长。",
+          "en": "Trump taps Stephen Miller to replace Wiles as chief of staff."
+        },
+        {
+          "zh": "科技股在焦虑情绪高涨中维持周五反弹。",
+          "en": "Tech clings to Friday's rebound as anxiety runs high."
+        },
+        {
+          "zh": "美军对伊朗实施新的定点打击。",
+          "en": "US military carries out new targeted strikes on Iran."
+        },
+        {
+          "zh": "嘉宾包括Dan Ives、Anna Wong、Joe Mathieu和Amanda Agati。",
+          "en": "Guests include Dan Ives, Anna Wong, Joe Mathieu, and Amanda Agati."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "tech stocks",
+        "Iran",
+        "Bloomberg This Weekend"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4964579",
+      "title": "What Moved Markets This Week",
+      "title_zh": "中期选举后科技股抛售，三大指数创一年半最大单日跌幅",
+      "url": "https://seekingalpha.com/article/4964579-what-moved-markets-this-week?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-07T11:37:26+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "2026年中期选举后市场乐观情绪迅速逆转，科技股因AI政策担忧和持续抛售而重挫，半导体与软件板块领跌，纳斯达克进入回调区间。三大指数本周均录得显著跌幅，其中纳指跌3.4%，标普跌2.7%，道指跌0.9%。",
+      "summary_en": "Post-2026 midterm optimism quickly reversed as a tech selloff and AI policy fears hammered markets, with semiconductors and software leading losses and the Nasdaq entering correction territory. All major indexes posted sharp weekly declines, with the Nasdaq down 3.4%, S&P down 2.7%, and Dow down 0.9%.",
+      "detail_zh": "华尔街主要指数在2026年中期选举后的乐观情绪中迅速转向，遭遇一年半以来最差单日表现。民主党赢得众议院和参议院多数席位，市场预期国会将大幅限制总统议程。半导体和软件板块受创最重，美光科技、戴尔科技、泛林集团、英特尔和超威半导体等巨头本周跌幅高达25%。纳斯达克综合指数周四进入回调区间，道指当日下跌抹去了选举后的全部涨幅，三大指数均创下自2025年4月以来最差单日跌幅。经济数据方面，10月ISM服务业增长因新订单增长放缓而小幅下降，但10月非农就业人数增加16.5万，超过市场预期的两倍。根据CME FedWatch工具，12月FOMC会议加息25个基点的概率为77.1%。油价大幅下跌，WTI原油期货跌13.1%至90.50美元，布伦特原油跌13.7%至97.94美元。本周标普500跌2.7%，纳指跌3.4%，道指跌0.9%。",
+      "detail_en": "Wall Street's major indexes swung from post-2026 midterm optimism to their worst single-day performance in over a year and a half. Democrats gained majorities in both the House and Senate, with Congress expected to heavily limit the president's agenda. Semiconductors and software were the hardest-hit sectors, with giants like Micron, Dell, Lam Research, Intel, and AMD losing as much as 25% this week. The Nasdaq Composite entered correction territory on Thursday, and the Dow erased all post-midterm gains that day, with all three averages posting their worst one-day losses since April 2025. On the economic front, October ISM Services growth ticked down as new order growth slowed, while October nonfarm payrolls jumped by 165,000, more than doubling expectations. The probability of a 25-basis-point rate hike at the December FOMC meeting is now 77.1%, according to CME FedWatch. Oil prices fell sharply, with WTI crude down 13.1% to $90.50 and Brent down 13.7% to $97.94. For the week, the S&P lost 2.7%, the Nasdaq fell 3.4%, and the Dow dropped 0.9%.",
+      "conclusion_zh": "科技股在政策担忧和板块轮动中遭遇剧烈抛售，叠加加息预期升温，短期市场波动可能持续，需关注政策动向与利率路径对高估值科技板块的进一步影响。",
+      "conclusion_en": "Tech stocks faced a sharp selloff amid policy fears and sector rotation, compounded by rising rate hike expectations; near-term volatility may persist, with focus on policy developments and the rate path's impact on high-valuation tech.",
+      "key_points": [
+        {
+          "zh": "民主党赢得两院多数，市场预期国会将大幅限制总统议程，引发政策不确定性。",
+          "en": "Democrats won majorities in both chambers, with Congress expected to heavily limit the president's agenda, fueling policy uncertainty."
+        },
+        {
+          "zh": "半导体和软件板块领跌，美光、戴尔、泛林、英特尔、AMD等本周跌幅高达25%。",
+          "en": "Semiconductors and software led the decline, with Micron, Dell, Lam Research, Intel, and AMD losing as much as 25% this week."
+        },
+        {
+          "zh": "纳斯达克综合指数周四进入回调区间，三大指数均创2025年4月以来最差单日跌幅。",
+          "en": "The Nasdaq Composite entered correction territory on Thursday, and all three major averages had their worst one-day losses since April 2025."
+        },
+        {
+          "zh": "10月非农就业增加16.5万，超预期两倍多；12月加息25个基点概率升至77.1%。",
+          "en": "October nonfarm payrolls rose by 165,000, more than doubling expectations; the probability of a 25bp December rate hike rose to 77.1%."
+        },
+        {
+          "zh": "油价大幅下跌，WTI原油跌13.1%至90.50美元，布伦特原油跌13.7%至97.94美元。",
+          "en": "Oil prices fell sharply, with WTI crude down 13.1% to $90.50 and Brent down 13.7% to $97.94."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "tech selloff",
+        "semiconductors",
+        "rate hike",
+        "oil prices"
+      ],
+      "tickers": [
+        "MU",
+        "DELL",
+        "LRCX",
+        "INTC",
+        "AMD",
+        "AAPL",
+        "PLTR",
+        "ARM",
+        "QCOM",
+        "VICI",
+        "SNDK",
+        "CALM",
+        "GOOG",
+        "BE",
+        "MSFT",
+        "BIDU",
+        "APP",
+        "FISV",
+        "IDXX",
+        "MOS",
+        "ABNB",
+        "LITE",
+        "STX",
+        "MRVL",
+        "WDC"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:UACTCWikfLM",
       "title": "Wall Street Week | Blue Wave Economic Impacts, European Welfare Woes",
@@ -17484,142 +17605,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:L-3i5zMMvo4",
-      "title": "The Affordability Crisis Shaping US Elections",
-      "title_zh": "美国经济数据强劲与家庭财务压力之间的落差成为中期选举核心议题",
-      "url": "https://www.youtube.com/watch?v=L-3i5zMMvo4",
-      "published_at": "2026-10-31T12:04:29+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国经济仍具韧性，但许多美国人在住房、医疗、食品杂货等必需品成本上仍感吃力。前众议院筹款委员会主席Kevin Brady与Willett Advisors董事长兼CEO Steven Rattner解释了强劲经济数据与家庭财务状况之间的差距，为何使“可负担性”成为中期选举的决定性议题之一。",
-      "summary_en": "The US economy remains resilient, but many Americans are still struggling with the cost of housing, health care, groceries and other necessities. Former House Ways and Means Committee Chairman Kevin Brady and Willett Advisors Chairman & CEO Steven Rattner explain why the gap between strong economic data and household finances has made affordability one of the defining issues of the midterm elections.",
-      "detail_zh": "原文指出，美国经济仍保持韧性，但许多美国民众在住房、医疗、食品杂货及其他必需品方面仍面临成本压力。前众议院筹款委员会主席Kevin Brady与Willett Advisors董事长兼CEO Steven Rattner共同分析了强劲经济数据与家庭财务状况之间差距的成因。这一差距使“可负担性”成为中期选举的核心议题之一。原文未提供具体经济数据、政策细节或市场影响分析。",
-      "detail_en": "The source notes that the US economy remains resilient, yet many Americans are still struggling with the cost of housing, health care, groceries and other necessities. Former House Ways and Means Committee Chairman Kevin Brady and Willett Advisors Chairman & CEO Steven Rattner explain the reasons behind the gap between strong economic data and household finances. This gap has made affordability one of the defining issues of the midterm elections. The source does not provide specific economic data, policy details, or market impact analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国经济保持韧性，但许多家庭在住房、医疗和食品等必需品上仍面临成本压力。",
-          "en": "The US economy remains resilient, but many households still face cost pressures on necessities such as housing, health care and groceries."
-        },
-        {
-          "zh": "强劲经济数据与家庭财务状况之间存在明显差距。",
-          "en": "There is a clear gap between strong economic data and household finances."
-        },
-        {
-          "zh": "Kevin Brady与Steven Rattner共同解读了这一差距的成因。",
-          "en": "Kevin Brady and Steven Rattner jointly explain the causes of this gap."
-        },
-        {
-          "zh": "“可负担性”已成为中期选举的核心议题之一。",
-          "en": "Affordability has become one of the defining issues of the midterm elections."
-        }
-      ],
-      "tags": [
-        "affordability",
-        "US economy",
-        "midterm elections",
-        "household finances"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:8xaPW8lQUaw",
-      "title": "Cost of Living Looms Over the Midterms",
-      "title_zh": "生活成本上升冲击特朗普2024联盟，中期选举或重塑经济政策",
-      "url": "https://www.youtube.com/watch?v=8xaPW8lQUaw",
-      "published_at": "2026-10-31T11:55:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博经济学的Chris Kennedy指出，汽油、食品杂货和住房成本上升正对选民造成压力，并侵蚀特朗普2024年组建的部分联盟。他分析了密歇根、爱荷华和得克萨斯等州的负担能力问题，并指出中期选举后国会的控制权可能影响经济政策。",
-      "summary_en": "Bloomberg Economics' Chris Kennedy says higher costs for gasoline, groceries and housing are weighing on voters and pressuring parts of Donald Trump's 2024 coalition. He explains how affordability concerns are playing out in Michigan, Iowa and Texas, and how control of Congress could shape economic policy after the midterms.",
-      "detail_zh": "彭博经济学的经济治国方略负责人Chris Kennedy在Bloomberg This Weekend节目中表示，汽油、食品杂货和住房成本的上升正在对选民造成压力，并给唐纳德·特朗普在2024年组建的部分联盟带来压力。Kennedy与主持人David Gura和Christina Ruffini讨论了负担能力担忧在密歇根、爱荷华和得克萨斯等州的具体表现。他还阐述了中期选举后国会的控制权可能如何影响经济政策。",
-      "detail_en": "Chris Kennedy, Economic Statecraft Lead at Bloomberg Economics, told Bloomberg This Weekend that higher costs for gasoline, groceries and housing are weighing on voters and putting pressure on parts of the coalition Donald Trump assembled in 2024. Speaking with hosts David Gura and Christina Ruffini, Kennedy explained how affordability concerns are playing out in states including Michigan, Iowa and Texas. He also discussed how control of Congress could shape economic policy after the midterms.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "汽油、食品杂货和住房成本上升对选民造成压力",
-          "en": "Higher costs for gasoline, groceries and housing are weighing on voters"
-        },
-        {
-          "zh": "生活成本问题给特朗普2024年组建的部分联盟带来压力",
-          "en": "Affordability concerns are putting pressure on parts of Trump's 2024 coalition"
-        },
-        {
-          "zh": "负担能力担忧在密歇根、爱荷华和得克萨斯等州表现明显",
-          "en": "Affordability concerns are playing out in states including Michigan, Iowa and Texas"
-        },
-        {
-          "zh": "中期选举后国会的控制权可能影响经济政策",
-          "en": "Control of Congress could shape economic policy after the midterms"
-        }
-      ],
-      "tags": [
-        "affordability",
-        "inflation",
-        "midterms",
-        "US politics",
-        "economic policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:r2GrYx31AnU",
-      "title": "AI Spending Fears Hammer Big Tech Stocks",
-      "title_zh": "大型科技股财报令人失望，AI支出回报担忧加剧",
-      "url": "https://www.youtube.com/watch?v=r2GrYx31AnU",
-      "published_at": "2026-10-31T11:42:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博科技与战略行业高级编辑Mike Shepard表示，大型科技股令人失望的财报加剧了投资者对AI巨额支出能否产生足够回报的担忧，Alphabet和英特尔尤其承压。他还提到币安63亿美元黑客事件，并称朝鲜黑客可能是幕后黑手。",
-      "summary_en": "Bloomberg Senior Editor for Technology and Strategic Industries Mike Shepard said disappointing Big Tech earnings are intensifying investor concerns about whether massive AI spending will generate sufficient returns, with Alphabet and Intel under particular pressure. He also discussed the record $6.3 billion Binance hack and the possibility that North Korean hackers were responsible.",
-      "detail_zh": "彭博科技与战略行业高级编辑Mike Shepard在Bloomberg This Weekend节目中表示，大型科技股令人失望的财报正在加剧投资者的担忧，即AI领域的巨额支出能否产生足够的回报。他指出，Alphabet和英特尔尤其面临压力。Shepard还讨论了创纪录的63亿美元币安黑客事件，并表示朝鲜黑客可能是幕后黑手。",
-      "detail_en": "Bloomberg Senior Editor for Technology and Strategic Industries Mike Shepard told Bloomberg This Weekend that disappointing Big Tech earnings are intensifying investor concerns about whether massive AI spending will generate sufficient returns, as Alphabet and Intel come under particular pressure. He also discussed the record $6.3 billion Binance hack and the possibility that North Korean hackers were responsible.",
-      "conclusion_zh": "大型科技股财报显示AI支出回报存疑，投资者需关注Alphabet和英特尔等个股的压力。",
-      "conclusion_en": "Big Tech earnings raise doubts about AI spending returns, with investors focused on pressure on names like Alphabet and Intel.",
-      "key_points": [
-        {
-          "zh": "大型科技股财报令人失望，加剧投资者对AI巨额支出回报的担忧。",
-          "en": "Disappointing Big Tech earnings are intensifying investor concerns about returns on massive AI spending."
-        },
-        {
-          "zh": "Alphabet和英特尔在财报后尤其承压。",
-          "en": "Alphabet and Intel are under particular pressure following earnings."
-        },
-        {
-          "zh": "币安遭遇创纪录的63亿美元黑客攻击。",
-          "en": "Binance suffered a record $6.3 billion hack."
-        },
-        {
-          "zh": "朝鲜黑客可能是币安黑客事件的幕后黑手。",
-          "en": "North Korean hackers may have been responsible for the Binance hack."
-        }
-      ],
-      "tags": [
-        "Big Tech earnings",
-        "AI spending",
-        "Binance hack",
-        "North Korea"
-      ],
-      "tickers": [
-        "GOOGL",
-        "INTC"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
