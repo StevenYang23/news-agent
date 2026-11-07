@@ -1,6 +1,661 @@
 {
-  "generated_at": "2026-11-06T23:10:49.934688+00:00",
+  "generated_at": "2026-11-07T00:32:05.529855+00:00",
   "insights": [
+    {
+      "guid": "yt:UACTCWikfLM",
+      "title": "Wall Street Week | Blue Wave Economic Impacts, European Welfare Woes",
+      "title_zh": "彭博节目预告：中期选举经济影响、阿拉斯加石油、里士满联储制造业调研与欧洲福利挑战",
+      "url": "https://www.youtube.com/watch?v=UACTCWikfLM",
+      "published_at": "2026-11-07T00:00:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博节目涵盖多个话题：哥伦比亚商学院教授Glenn Hubbard分析美国中期选举的经济影响；油价上涨对阿拉斯加构成负担与利益并存；里士满联储主席Tom Barkin实地考察美国制造业；欧洲战后福利项目在预算紧缩和青年抗议下面临新挑战。",
+      "summary_en": "This Bloomberg program covers multiple topics: Columbia Business School professor Glenn Hubbard analyzes the economic implications of the US midterm elections; rising oil prices present both burdens and benefits for Alaska; Richmond Fed President Tom Barkin goes into the field to examine American manufacturing; Europe's postwar welfare programs face new challenges amid budget crunches and growing youth protests.",
+      "detail_zh": "节目分为五个章节：1) 中期选举经济影响（00:00:49），由哥伦比亚商学院教授Glenn Hubbard解析；2) 阿拉斯加的石油策略（00:11:39），探讨油价上涨对该州的双重影响；3) 与里士满联储主席Tom Barkin实地考察（00:23:50），深入了解美国制造业状况；4) 欧洲福利困境（00:35:46），关注战后福利项目在预算紧缩和青年抗议中面临的新挑战；5) 选举确定性（00:47:35）。节目由彭博电视台制作，更多内容可访问彭博网站。",
+      "detail_en": "The program is divided into five chapters: 1) Midterm Economic Impacts (00:00:49), analyzed by Columbia Business School professor Glenn Hubbard; 2) Alaska's Oil Gambit (00:11:39), exploring the dual impact of rising oil prices on the state; 3) On the Ground with the Richmond Fed (00:23:50), featuring Richmond Fed President Tom Barkin for a closer look at American manufacturing; 4) European Welfare Woes (00:35:46), focusing on postwar welfare programs facing new challenges amid budget crunches and youth protests; 5) Election Certainty (00:47:35). Produced by Bloomberg Television, more content is available on the Bloomberg website.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Glenn Hubbard分析中期选举的经济影响",
+          "en": "Glenn Hubbard analyzes the economic implications of the midterm elections"
+        },
+        {
+          "zh": "油价上涨对阿拉斯加既是负担也是利益",
+          "en": "Rising oil prices are both a burden and a benefit for Alaska"
+        },
+        {
+          "zh": "里士满联储主席Tom Barkin实地考察美国制造业",
+          "en": "Richmond Fed President Tom Barkin goes into the field to examine American manufacturing"
+        },
+        {
+          "zh": "欧洲战后福利项目面临预算紧缩和青年抗议的挑战",
+          "en": "Europe's postwar welfare programs face challenges from budget crunches and youth protests"
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "oil prices",
+        "manufacturing",
+        "European welfare",
+        "Fed"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:g3s5puTeopY",
+      "title": "Wiles Out as White House Chief of Staff, Stephen Miller Takes Role",
+      "title_zh": "Bloomberg《权力平衡》聚焦民主党策略与特朗普政府人事",
+      "url": "https://www.youtube.com/watch?v=g3s5puTeopY",
+      "published_at": "2026-11-06T23:56:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "节目讨论民主党在中期选举后是否应优先推动弹劾特朗普，前参议员曼钦警告可能过度用权；众议员拜尔和摩尔分别就特朗普凯旋门计划的法律挑战、可负担性与医疗保健议题发表看法。",
+      "summary_en": "The program discusses whether Democrats should prioritize impeaching Trump after midterm gains, with former Senator Manchin warning of overreach; Reps. Beyer and Moore comment on legal challenges to Trump's triumphal arch and affordability/healthcare priorities.",
+      "detail_zh": "前西弗吉尼亚州参议员兼州长乔·曼钦表示，如果民主党在控制国会后将弹劾总统特朗普作为优先事项，可能会过度用权。众议员唐·拜尔对联邦法官暂时阻止特朗普计划中的凯旋门破土动工表示欣喜。众议员格温·摩尔称可负担性是“所有美国人最关心的问题”，并认为医疗保健是民主党介入的明显领域。节目还讨论了特朗普改组白宫、斯蒂芬·米勒被任命为幕僚长、赫格塞斯弹劾与战争权力、民主党许可改革辩论、众议院共和党中期选举失利后的领导权争夺、密西西比州参议院选举以及AI/数据中心的经济风险等话题。",
+      "detail_en": "Former US Senator and Governor of West Virginia Joe Manchin said Democrats can overplay their hand if they make impeaching President Donald Trump a priority after taking control of Congress. Rep. Don Beyer (D-VA) expressed thrill that a federal judge temporarily blocked President Trump's planned triumphal arch from breaking ground. Rep. Gwen Moore (D-WI) said affordability is \"top of mind for all Americans\" and believes health care is an obvious place for Democrats to intervene. The show also covered Trump shaking up the White House with Stephen Miller named Chief of Staff, Hegseth impeachment and war powers, Democrats debating permitting reform, House Republicans facing a leadership battle after midterm losses, the Mississippi Senate race, and AI/data center economic risks.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "曼钦警告民主党若优先弹劾特朗普可能过度用权。",
+          "en": "Manchin warns Democrats may overplay their hand by prioritizing Trump impeachment."
+        },
+        {
+          "zh": "联邦法官暂时阻止特朗普凯旋门计划破土动工，拜尔对此表示欣喜。",
+          "en": "A federal judge temporarily blocked Trump's planned triumphal arch from breaking ground; Beyer is thrilled."
+        },
+        {
+          "zh": "摩尔称可负担性是所有美国人最关心的问题，医疗保健是民主党介入的明显领域。",
+          "en": "Moore says affordability is top of mind for all Americans and healthcare is an obvious area for Democrats to intervene."
+        },
+        {
+          "zh": "节目讨论特朗普任命斯蒂芬·米勒为幕僚长等白宫人事变动。",
+          "en": "The show discusses White House personnel changes, including Stephen Miller named Chief of Staff."
+        },
+        {
+          "zh": "众议院共和党在中期选举失利后面临领导权争夺。",
+          "en": "House Republicans face a leadership battle after midterm losses."
+        }
+      ],
+      "tags": [
+        "Democrats",
+        "Trump",
+        "impeachment",
+        "healthcare",
+        "affordability"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:SQyBr1-rug0",
+      "title": "Affordability First, Open to Hegseth Impeachment: Rep. Moore",
+      "title_zh": "民主党议员Moore：可负担性是美国人首要关切，医疗保健是干预重点",
+      "url": "https://www.youtube.com/watch?v=SQyBr1-rug0",
+      "published_at": "2026-11-06T23:28:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "众议员Gwen Moore表示，可负担性是所有美国人的首要关切，医疗保健是民主党明显的干预领域。她认为民主党议程不应以弹劾为首要任务，但表示不会推动弹劾国防部长Pete Hegseth，且对众议员Thomas Massie的特权决议“很难不投赞成票”。",
+      "summary_en": "Rep. Gwen Moore said affordability is top of mind for all Americans and health care is an obvious area for Democrats to intervene. She said Democrats' agenda should not be first and foremost about impeaching people, but she will not push to impeach Defense Secretary Pete Hegseth and would find it hard not to vote yes on Rep. Thomas Massie's privileged resolution.",
+      "detail_zh": "众议员Gwen Moore（威斯康星州民主党）在彭博“Balance of Power”节目中表示，可负担性是所有美国人“首要关切”的问题，并认为医疗保健是民主党可以介入的明显领域。她指出，民主党的议程不应“首先”是弹劾他人。但她同时表示，自己不会推动弹劾国防部长Pete Hegseth，并且对于众议员Thomas Massie提出的特权决议，她“很难不投赞成票”。",
+      "detail_en": "Rep. Gwen Moore (D-WI) said on Bloomberg's \"Balance of Power\" that affordability is \"top of mind for all Americans\" and believes health care is an obvious place for Democrats to intervene. She said Democrats' agenda should not be \"first and foremost\" to impeach people. However, she said she will not push for impeachment of Defense Secretary Pete Hegseth and that it would be \"hard not to vote yes\" on Rep. Thomas Massie's privileged resolution.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Moore称可负担性是所有美国人的首要关切",
+          "en": "Moore says affordability is top of mind for all Americans"
+        },
+        {
+          "zh": "她认为医疗保健是民主党明显的干预领域",
+          "en": "She believes health care is an obvious place for Democrats to intervene"
+        },
+        {
+          "zh": "民主党议程不应以弹劾为首要任务",
+          "en": "Democrats' agenda should not be first and foremost about impeachment"
+        },
+        {
+          "zh": "她不会推动弹劾国防部长Hegseth",
+          "en": "She will not push for impeachment of Defense Secretary Hegseth"
+        },
+        {
+          "zh": "对Massie的特权决议“很难不投赞成票”",
+          "en": "It would be 'hard not to vote yes' on Massie's privileged resolution"
+        }
+      ],
+      "tags": [
+        "Affordability",
+        "Healthcare",
+        "Impeachment",
+        "Democratic Party"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ZF66GWqn2w4",
+      "title": "Rep. Beyer: Democrats Were Not Elected to Impeach Trump",
+      "title_zh": "众议员Beyer称联邦法官暂阻特朗普凯旋门项目",
+      "url": "https://www.youtube.com/watch?v=ZF66GWqn2w4",
+      "published_at": "2026-11-06T23:22:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党众议员Don Beyer表示，联邦法官暂时阻止了特朗普计划中的凯旋门项目破土动工，他对此感到欣慰。Beyer称将依靠法院和公众情绪来阻止该项目，并已提出相关立法。他还表示，民主党人当选不是为了弹劾特朗普，而是为了停止战争并让美国人重获医疗保障。",
+      "summary_en": "Rep. Don Beyer (D-VA) said he was thrilled that a federal judge temporarily blocked President Donald Trump's planned triumphal arch from breaking ground. Beyer said he is depending on the courts and public sentiment to stop the project and has legislation aimed at preventing it. He also said Democrats were not elected to impeach Trump, but to stop the war and bring health care back to Americans.",
+      "detail_zh": "众议员Don Beyer（弗吉尼亚州民主党）在彭博“Balance of Power”节目中表示，他对联邦法官暂时阻止总统特朗普计划中的凯旋门项目破土动工感到欣慰。Beyer称，他正依靠法院和公众情绪来阻止该项目，并已提出旨在阻止该项目推进的立法。Beyer还表示，民主党人当选不是为了弹劾特朗普总统，而是为了停止战争并让美国人重获医疗保障。",
+      "detail_en": "Rep. Don Beyer (D-VA) said on Bloomberg's \"Balance of Power\" that he was thrilled a federal judge temporarily blocked President Donald Trump's planned triumphal arch from breaking ground. Beyer said he is depending on the courts and public sentiment to stop the project and has legislation aimed at preventing it from moving forward. Beyer also said Democrats were not elected to impeach President Trump, but to stop the war and bring health care back to Americans.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "联邦法官暂时阻止了特朗普凯旋门项目的破土动工。",
+          "en": "A federal judge temporarily blocked President Trump's planned triumphal arch from breaking ground."
+        },
+        {
+          "zh": "众议员Beyer表示将依靠法院和公众情绪来阻止该项目，并已提出相关立法。",
+          "en": "Rep. Beyer said he is depending on the courts and public sentiment to stop the project and has legislation aimed at preventing it."
+        },
+        {
+          "zh": "Beyer称民主党人当选不是为了弹劾特朗普，而是为了停止战争并让美国人重获医疗保障。",
+          "en": "Beyer said Democrats were not elected to impeach Trump, but to stop the war and bring health care back to Americans."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "Democrats",
+        "courts",
+        "legislation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bCgnb578VOE",
+      "title": "Manchin: Democrats Risk Overplaying Hand on Impeachment",
+      "title_zh": "曼钦：民主党若以弹劾特朗普为首要任务可能过犹不及",
+      "url": "https://www.youtube.com/watch?v=bCgnb578VOE",
+      "published_at": "2026-11-06T23:19:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前西弗吉尼亚州参议员乔·曼钦表示，民主党在控制国会后若将弹劾特朗普作为优先事项，可能过犹不及。他认为民主党应推动解决关税和公职人员利益冲突的立法，并指出特朗普将不得不与国会合作，因为行政命令“作用有限且持续时间有限”。",
+      "summary_en": "Former U.S. Senator Joe Manchin said Democrats could overplay their hand if they prioritize impeaching President Donald Trump after taking control of Congress. He argued they should instead pass legislation addressing tariffs and public officials profiting from their positions, and noted Trump will have to work with Congress because executive orders \"only go so far and only last so long.\"",
+      "detail_zh": "前美国参议员、西弗吉尼亚州前州长乔·曼钦在彭博“Balance of Power”节目中表示，民主党在控制国会后，若将弹劾总统唐纳德·特朗普作为优先事项，可能会“过犹不及”。曼钦建议民主党转而推动立法，解决关税问题以及公职人员利用职位谋利的问题，并“尽一切可能把精灵放回瓶中”。他还表示，特朗普将不得不与国会合作，因为行政命令“作用有限且持续时间有限”。此番言论发表于彭博电视台节目，由Kailey Leinz和Joe Mathieu采访。",
+      "detail_en": "Former U.S. Senator and former West Virginia Governor Joe Manchin said on Bloomberg's \"Balance of Power\" that Democrats could \"overplay their hand\" if they make impeaching President Donald Trump a priority after taking control of Congress. Manchin suggested Democrats instead pass legislation addressing tariffs and public officials profiting from their positions, and \"try everything possible to put the genie back in the bottle.\" He also said Trump will have to work with Congress because executive orders \"only go so far and only last so long.\" The remarks were made in an interview with Kailey Leinz and Joe Mathieu on Bloomberg Television.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "曼钦警告民主党若将弹劾特朗普作为优先事项可能过犹不及。",
+          "en": "Manchin warned Democrats could overplay their hand by prioritizing Trump's impeachment."
+        },
+        {
+          "zh": "曼钦建议民主党推动解决关税和公职人员利益冲突的立法。",
+          "en": "Manchin suggested Democrats pass legislation addressing tariffs and public officials profiting from their positions."
+        },
+        {
+          "zh": "曼钦认为特朗普将不得不与国会合作，因为行政命令作用有限且持续时间有限。",
+          "en": "Manchin said Trump will have to work with Congress because executive orders only go so far and only last so long."
+        }
+      ],
+      "tags": [
+        "impeachment",
+        "congress",
+        "tariffs",
+        "executive orders"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:HTuMh12kgUA",
+      "title": "Markets Rebound After Historic Tech Selloff",
+      "title_zh": "彭博The Close节目章节概览：AI交易、市场轮动与政策风险",
+      "url": "https://www.youtube.com/watch?v=HTuMh12kgUA",
+      "published_at": "2026-11-06T22:55:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本文仅为彭博The Close节目的章节列表与嘉宾名单，未包含具体讨论内容。章节主题涵盖AI与市场轮动、中期选举后的数据中心政策风险、科技股抛售与逢低买入、加密监管、假日消费等。由于缺乏实质细节，无法提炼具体投资洞见。",
+      "summary_en": "This is only a chapter list and guest roster for Bloomberg's The Close, with no substantive discussion content. Topics include AI and market rotation, data center policy risks after midterms, tech selloff and dip buying, crypto regulation, and holiday spending. No specific investment insights can be drawn due to lack of details.",
+      "detail_zh": "原文为彭博电视节目The Close的章节时间戳和嘉宾名单，未提供任何讨论的具体内容、数据或观点。章节标题显示节目涉及：AllianceBernstein的Nelson Yu谈AI与市场轮动；中期选举后的数据中心政策风险；FIGS CEO谈盈利与医疗保健增长；Sweetgreen CEO谈销售复苏与定价；Elanco CEO谈宠物支出与动物健康；AI交易、市场轮动与经济展望；收盘钟声；Airbnb、Moderna、SpaceX与特斯拉等市场异动；Fox-Roku交易与媒体并购未来；科技股抛售、石油与中期选举影响周度回顾；Eurasia Group总裁Ian Bremmer谈特朗普与全球风险；AI抛售、估值与逢低买入；Coinbase副主席谈加密监管；Bain全球零售主管谈假日消费与AI；餐厅增长与奢侈品消费者等。由于没有具体内容，无法提供数字、引述或因果判断。",
+      "detail_en": "The original text is a chapter timestamp list and guest roster for Bloomberg TV's The Close, without any specific discussion content, data, or opinions. Chapter titles indicate the program covers: AllianceBernstein's Nelson Yu on AI and market rotation; data center policy risks after midterm elections; FIGS CEO on earnings and health-care growth; Sweetgreen CEO on sales recovery and pricing; Elanco CEO on pet spending and animal health; AI trade, market rotation and economic outlook; the closing bell; market movers including Airbnb, Moderna, SpaceX and Tesla; Fox-Roku deal and future of media M&A; weekly recap of tech selloff, oil and midterm fallout; Eurasia Group President Ian Bremmer on Trump and global risk; AI selloff, valuations and buying the dip; Coinbase Vice Chair on crypto regulation; Bain's global head of retail on holiday spending and AI; restaurant growth and luxury consumers, etc. Due to lack of specifics, no numbers, quotes, or causal judgments can be provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目章节涵盖AI交易与市场轮动、中期选举后数据中心政策风险等主题。",
+          "en": "Chapters cover topics including AI trade and market rotation, and data center policy risks after midterms."
+        },
+        {
+          "zh": "嘉宾包括AllianceBernstein、Eurasia Group、Coinbase、Bain等机构代表。",
+          "en": "Guests include representatives from AllianceBernstein, Eurasia Group, Coinbase, Bain, and others."
+        },
+        {
+          "zh": "涉及个股异动：Airbnb、Moderna、SpaceX、特斯拉等被提及。",
+          "en": "Mentions market movers: Airbnb, Moderna, SpaceX, Tesla, etc."
+        },
+        {
+          "zh": "讨论主题包括科技股抛售、估值与逢低买入、加密监管、假日消费。",
+          "en": "Discussion topics include tech selloff, valuations and dip buying, crypto regulation, holiday spending."
+        }
+      ],
+      "tags": [
+        "AI",
+        "market rotation",
+        "midterms",
+        "tech selloff",
+        "crypto regulation"
+      ],
+      "tickers": [
+        "ABNB",
+        "MRNA",
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:7Cy4jNkZpys",
+      "title": "Could the Bond Market Slow AI's Momentum? | Presented by CME Group",
+      "title_zh": "债市质疑AI投资融资能力，融资成本或成扩张约束",
+      "url": "https://www.youtube.com/watch?v=7Cy4jNkZpys",
+      "published_at": "2026-11-06T22:10:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "股票投资者持续奖励AI热潮背后的巨额支出，但债券市场开始质疑这些投资将如何融资。随着企业借贷增加、政府债务已处高位且资本竞争加剧，更高的融资成本可能成为AI扩张的首个重大约束。",
+      "summary_en": "Equity investors have rewarded the massive spending behind the AI boom, but bond markets are beginning to question how that investment will be financed. With corporate borrowing rising, government debt already elevated and competition for capital intensifying, higher financing costs could become the first major constraint on AI expansion.",
+      "detail_zh": "股票投资者对AI热潮背后的巨额支出给予了回报，但债券市场开始质疑这些投资将如何获得融资。当前企业借贷正在上升，政府债务已经处于高位，同时资本竞争加剧。在此背景下，更高的融资成本可能成为AI扩张的首个重大约束。原文以提问方式提出这一风险，并未给出具体数据或明确结论。",
+      "detail_en": "Equity investors have rewarded the massive spending behind the AI boom, but bond markets are beginning to question how that investment will be financed. Corporate borrowing is rising, government debt is already elevated, and competition for capital is intensifying. Against this backdrop, higher financing costs could become the first major constraint on AI expansion. The original text raises this risk as a question and does not provide specific data or definitive conclusions.",
+      "conclusion_zh": "AI扩张的融资可持续性正受到债市审视，融资成本上升可能成为制约AI资本开支的首个关键变量，值得投资者关注。",
+      "conclusion_en": "The financing sustainability of AI expansion is under bond-market scrutiny; rising financing costs could be the first key variable constraining AI capex, warranting investor attention.",
+      "key_points": [
+        {
+          "zh": "股票投资者持续奖励AI热潮背后的巨额支出。",
+          "en": "Equity investors have rewarded the massive spending behind the AI boom."
+        },
+        {
+          "zh": "债券市场开始质疑AI投资将如何融资。",
+          "en": "Bond markets are beginning to question how AI investment will be financed."
+        },
+        {
+          "zh": "企业借贷上升、政府债务高企、资本竞争加剧。",
+          "en": "Corporate borrowing is rising, government debt is elevated, and competition for capital is intensifying."
+        },
+        {
+          "zh": "更高融资成本可能成为AI扩张的首个重大约束。",
+          "en": "Higher financing costs could become the first major constraint on AI expansion."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "financing costs",
+        "bond market",
+        "corporate borrowing",
+        "government debt"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:26FnoirIW_8",
+      "title": "Trump Names Miller Chief of Staff as Tech Rebounds",
+      "title_zh": "特朗普改组白宫团队，美股科技股遭遇历史性抛售",
+      "url": "https://www.youtube.com/watch?v=26FnoirIW_8",
+      "published_at": "2026-11-06T22:07:26+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普任命斯蒂芬·米勒为新任白宫幕僚长，苏西·怀尔斯转任政治运作，中期选举惨败后白宫团队洗牌。美股回吐早盘涨幅，投资者质疑历史性科技股抛售是否见底，并重新审视人工智能交易。",
+      "summary_en": "President Trump named Stephen Miller as his new chief of staff and moved Susie Wiles to his political operation after a devastating midterm result. US stocks pared earlier gains as investors questioned whether the worst of a historic tech selloff is over and dissected the artificial intelligence trade.",
+      "detail_zh": "特朗普在中期选举惨败后数日宣布白宫人事调整：长期助手斯蒂芬·米勒出任白宫幕僚长，苏西·怀尔斯转至其政治运作团队。市场方面，美股回吐早前涨幅，投资者正在判断这轮历史性科技股抛售的最坏阶段是否已经过去，并重新审视人工智能交易。节目讨论了半导体板块下挫、芯片需求能否跟上AI热潮、数据中心遭遇的抵制与监管政治风险、数据中心贷款与融资风险，以及微软从高风险数据中心项目中收缩。此外还涉及新云厂商面临的新监管障碍、软件股与AI交易、钢铁与关税及中期选举影响、伊朗战争与油价和利率，以及Sandisk、CoreWeave等个股走势。",
+      "detail_en": "Trump announced a White House staff shake-up days after a devastating midterm result: longtime aide Stephen Miller becomes chief of staff and Susie Wiles moves to his political operation. In markets, US stocks pared earlier gains as investors questioned whether the worst of a historic tech selloff is over and dissected the artificial intelligence trade. The program covered the semiconductor plunge, whether chip demand can keep up with the AI boom, data center backlash and regulatory/political risk, data center loans and financing risks, and Microsoft pulling back from risky data centers. It also touched on new regulatory hurdles for neo-clouds, software stocks and the AI trade, steel, tariffs and the midterm impact, the Iran war, oil and interest rates, and stock movers including Sandisk and CoreWeave.",
+      "conclusion_zh": "科技股抛售与AI交易正被重新定价，数据中心相关的监管、政治与融资风险成为关注焦点；白宫人事变动发生在中期选举惨败之后，政策不确定性上升。",
+      "conclusion_en": "The tech selloff and AI trade are being repriced, with data center regulatory, political and financing risks in focus; the White House staff shake-up follows a devastating midterm result, raising policy uncertainty.",
+      "key_points": [
+        {
+          "zh": "特朗普任命斯蒂芬·米勒为白宫幕僚长，苏西·怀尔斯转任政治运作，中期选举惨败后团队洗牌。",
+          "en": "Trump named Stephen Miller as chief of staff and moved Susie Wiles to his political operation, shaking up his team after a devastating midterm result."
+        },
+        {
+          "zh": "美股回吐早盘涨幅，投资者质疑历史性科技股抛售是否见底。",
+          "en": "US stocks pared earlier gains as investors questioned whether the worst of a historic tech selloff is over."
+        },
+        {
+          "zh": "半导体板块下挫，市场关注芯片需求能否跟上AI热潮。",
+          "en": "Semiconductors plunged, with focus on whether chip demand can keep up with the AI boom."
+        },
+        {
+          "zh": "数据中心面临抵制、监管与政治风险，以及贷款与融资风险；微软从高风险数据中心项目收缩。",
+          "en": "Data centers face backlash, regulatory and political risk, plus loan and financing risks; Microsoft pulled back from risky data centers."
+        },
+        {
+          "zh": "节目还涉及新云厂商监管障碍、软件股与AI交易、钢铁关税、伊朗战争与油价利率，以及Sandisk、CoreWeave等个股。",
+          "en": "The program also covered regulatory hurdles for neo-clouds, software stocks and the AI trade, steel tariffs, the Iran war, oil and rates, and movers including Sandisk and CoreWeave."
+        }
+      ],
+      "tags": [
+        "tech selloff",
+        "AI trade",
+        "data centers",
+        "White House",
+        "midterms"
+      ],
+      "tickers": [
+        "MSFT",
+        "SNDK",
+        "CRWV"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:7yIYckrXHfM",
+      "title": "AI Slowdown May Spark Flight to Franc | Presented by CME Group",
+      "title_zh": "AI投资担忧推动资金流向防御性货币，瑞郎或成避风港",
+      "url": "https://www.youtube.com/watch?v=7yIYckrXHfM",
+      "published_at": "2026-11-06T22:07:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "市场对AI投资的担忧正促使投资者转向防御性货币，瑞郎被视为潜在避险选择。文章提出一个开放性问题：AI交易的退潮是否会重塑全球外汇市场格局。",
+      "summary_en": "Concerns over AI investment are pushing investors toward defensive currencies, with the Swiss franc seen as a potential safe haven. The piece raises the question of whether a retreat from the AI trade could reshape global currency markets.",
+      "detail_zh": "原文指出，围绕AI投资的担忧正在驱动投资者转向防御性货币。其中，瑞士法郎被视为一个潜在的避险选择。文章以提问方式提出：如果AI交易出现退潮，是否会重塑全球货币市场的格局。原文未提供具体资金流数据、汇率水平、时间框架或个股信息，也未给出明确的因果判断或预测，仅呈现这一市场关注点与开放性问题。内容由彭博为芝商所（CME Group）制作的QuickTake栏目呈现。",
+      "detail_en": "The source states that concerns over AI investment are driving investors toward defensive currencies, with the Swiss franc emerging as a potential safe haven. It poses the question of whether a retreat from the AI trade could reshape global currency markets. No specific flow data, exchange-rate levels, time frames, or individual stocks are provided, and no definitive causal judgment or forecast is offered—only the market focus and an open question. The content is presented by Bloomberg's QuickTake for CME Group.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "对AI投资的担忧正推动投资者转向防御性货币。",
+          "en": "Concerns over AI investment are driving investors toward defensive currencies."
+        },
+        {
+          "zh": "瑞士法郎被视为潜在的避险货币。",
+          "en": "The Swiss franc is emerging as a potential safe haven."
+        },
+        {
+          "zh": "文章提出AI交易退潮是否可能重塑全球外汇市场的问题。",
+          "en": "The piece raises whether a retreat from the AI trade could reshape global currency markets."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "safe haven",
+        "Swiss franc",
+        "currency markets"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:qAJWKG1MBMU",
+      "title": "'Blue Wave' & Your Wallet, Managing Market Volatility",
+      "title_zh": "Bloomberg Money 节目章节概览：从薪资通胀到黄金配置与AI交易",
+      "url": "https://www.youtube.com/watch?v=qAJWKG1MBMU",
+      "published_at": "2026-11-06T21:44:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为 Bloomberg Money 节目的时间轴章节列表，涵盖薪资与通胀、中期选举与可负担性、Citi Wealth 首席投资官 Kate Moore 谈政治与市场、赤字风险、黄金与债券对比、人口结构与劳动力短缺、微软与甲骨文 AI 交易，以及金融素养等话题。由于缺乏具体论述内容，无法提炼实质性投资洞见。",
+      "summary_en": "The source is merely a chapter list from Bloomberg Money, covering topics such as wages vs. inflation, midterms and affordability, Citi Wealth CIO Kate Moore on politics and markets, deficit risks, gold vs. bonds, demographics and worker shortages, the Microsoft-Oracle AI deal, and financial literacy. Lacking substantive discussion, no concrete investment insights can be extracted.",
+      "detail_zh": "原文为 Bloomberg Money 节目的 YouTube 章节时间轴，列出了各段主题及嘉宾，包括：Bloomberg Economics 的 Michael McKee 谈薪资与通胀；Kailey Leinz 谈民主党与可负担性；Nikki Waller 谈中期选举与个人财务；就业报告与经济；人口变迁与选举；Citi Wealth 首席投资官 Kate Moore 谈政治与市场、赤字与市场风险、为何投资黄金、黄金与债券对比、南方经济增长、人口结构与劳动力短缺、个人组合中的黄金；Bloomberg 波士顿分社社长 Brooke Sutherland 谈选举可负担性；堪萨斯政治与选民；Bloomberg Opinion 的 Tim O'Brien 谈中期选举后的民主党、个人理财与财富积累、特朗普与民主党合作、特朗普的变化、特朗普遗产与可负担性、民主党的下一步；微软与甲骨文 AI 交易；斯坦福高级研究员 Annamaria Lusardi 谈金融素养教学、金融素养与投资素养、媒体与金融素养、社交媒体上的理财建议、提早为退休做准备、社会保障与年轻投资者、全球金融素养；以及 Bloomberg 的 Lisa Mateo 谈假日提前购物。原文未提供任何具体数据、观点引述或因果分析，因此无法据此形成投资判断。",
+      "detail_en": "The source is a YouTube chapter timeline for Bloomberg Money, listing segment topics and guests: Michael McKee of Bloomberg Economics on wages vs. inflation; Kailey Leinz on Democrats and affordability; Nikki Waller on midterms and personal finance; the jobs report and the economy; population shifts and elections; Citi Wealth CIO Kate Moore on politics and markets, deficits and market risks, why invest in gold, gold vs. bonds, economic growth in the South, demographics and worker shortages, and gold in a personal portfolio; Bloomberg Boston Bureau Chief Brooke Sutherland on election affordability; Kansas politics and voters; Bloomberg Opinion's Tim O'Brien on Democrats after midterms, personal finance and building wealth, Trump and Democratic cooperation, how Trump has changed, Trump's legacy and affordability, and Democrats' next steps; the Microsoft and Oracle AI deal; Stanford Senior Fellow Annamaria Lusardi on teaching financial literacy, financial vs. investment literacy, media and financial literacy, financial advice on social media, preparing early for retirement, Social Security and young investors, and financial literacy around the world; and Bloomberg's Lisa Mateo on holiday shopping early. The source provides no specific data, quoted opinions, or causal analysis, so no investment judgment can be formed from it.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目涵盖薪资与通胀、就业报告等宏观话题。",
+          "en": "The program covers macro topics such as wages vs. inflation and the jobs report."
+        },
+        {
+          "zh": "Citi Wealth 首席投资官 Kate Moore 讨论政治与市场、赤字风险及黄金配置。",
+          "en": "Citi Wealth CIO Kate Moore discusses politics and markets, deficit risks, and gold allocation."
+        },
+        {
+          "zh": "涉及中期选举、可负担性及人口结构对政治的影响。",
+          "en": "Midterms, affordability, and demographic impacts on politics are addressed."
+        },
+        {
+          "zh": "提及微软与甲骨文的 AI 交易。",
+          "en": "The Microsoft and Oracle AI deal is mentioned."
+        },
+        {
+          "zh": "金融素养与个人理财教育为另一主题。",
+          "en": "Financial literacy and personal finance education are another theme."
+        }
+      ],
+      "tags": [
+        "wages",
+        "inflation",
+        "gold",
+        "AI deal",
+        "financial literacy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:MFnJ-jKCGkQ",
+      "title": "Airbnb Surges 12% as Growth Accelerates and Outlook Rises | Closing Bell",
+      "title_zh": "彭博电视美股收盘节目介绍",
+      "url": "https://www.youtube.com/watch?v=MFnJ-jKCGkQ",
+      "published_at": "2026-11-06T21:32:16+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视美股收盘节目的介绍与社交媒体链接，未包含任何市场数据、观点或事件。",
+      "summary_en": "The original text is merely a program description and social media links for Bloomberg Television's U.S. market close coverage, with no market data, opinions, or events included.",
+      "detail_zh": "原文是彭博电视（Bloomberg Television）、彭博电台（Bloomberg Radio）和YouTube对美股收盘的跨平台综合报道的节目介绍，提及主持人Romaine Bostick、Kailey Leinz、Carol Massar和Tim Stenovec。内容主要为订阅提醒、社交媒体链接和彭博其他节目的推广，未提供任何具体的市场走势、个股表现、经济数据或投资观点。因此，无法提炼出实质性的投资洞见。",
+      "detail_en": "The original text is a program description for comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube, featuring hosts Romaine Bostick, Kailey Leinz, Carol Massar, and Tim Stenovec. The content consists mainly of subscription reminders, social media links, and promotions for other Bloomberg programs, without any specific market trends, individual stock performance, economic data, or investment opinions. Therefore, no substantive investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视美股收盘节目的介绍，无实质市场内容。",
+          "en": "The original text is an introduction to Bloomberg Television's U.S. market close program, with no substantive market content."
+        },
+        {
+          "zh": "提及主持人Romaine Bostick、Kailey Leinz、Carol Massar和Tim Stenovec。",
+          "en": "Mentions hosts Romaine Bostick, Kailey Leinz, Carol Massar, and Tim Stenovec."
+        },
+        {
+          "zh": "包含社交媒体链接和订阅提醒，无投资观点或数据。",
+          "en": "Contains social media links and subscription reminders, with no investment opinions or data."
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "market close",
+        "tv program"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:guNU0oQzhKQ",
+      "title": "Inside Singapore Airlines’ New Business Class Cabins",
+      "title_zh": "新加坡航空20亿新元升级长途航班客舱",
+      "url": "https://www.youtube.com/watch?v=guNU0oQzhKQ",
+      "published_at": "2026-11-06T21:11:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "新加坡航空宣布投入20亿新元对长途航班进行客舱改造，新的商务舱和头等舱座椅将于明年投入使用，主打更多隐私、更大空间及空中双人床。该消息与美股无直接关联。",
+      "summary_en": "Singapore Airlines is investing S$2 billion to upgrade its long-haul cabins, with new business and first class seats set to launch next year, featuring more privacy, more space and even a double bed in the sky. The news has no direct relevance to US equities.",
+      "detail_zh": "新加坡航空正为其长途航班进行一项20亿新元的客舱改造计划。改造内容包括新的商务舱和头等舱座椅，这些新座椅将于明年开始投入航班使用。新客舱强调更多隐私、更大空间，甚至提供空中双人床。该报道由Danny Lee进行介绍，展示了新客舱的内部设计。此内容为航空业产品升级新闻，不涉及美股市场或宏观经济。",
+      "detail_en": "Singapore Airlines is undertaking a S$2 billion cabin makeover for its long-haul flights. The upgrade includes new business and first class seats that are set to take flight next year. The new cabins emphasize more privacy, more space, and even a double bed in the sky. The report, presented by Danny Lee, offers a look inside these new cabins. This is an airline product upgrade news story and does not involve US equity markets or the macro economy.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "新加坡航空投入20亿新元升级长途航班客舱",
+          "en": "Singapore Airlines invests S$2 billion to upgrade long-haul cabins"
+        },
+        {
+          "zh": "新的商务舱和头等舱座椅将于明年投入使用",
+          "en": "New business and first class seats to launch next year"
+        },
+        {
+          "zh": "新客舱提供更多隐私、更大空间及空中双人床",
+          "en": "New cabins offer more privacy, more space and a double bed in the sky"
+        }
+      ],
+      "tags": [
+        "Singapore Airlines",
+        "cabin upgrade",
+        "aviation",
+        "long-haul travel"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:A46t9lCpGNE",
+      "title": "Democrats Got Their Blue Wave. What’s Next?",
+      "title_zh": "民主党警告“请律师” 预示将调查特朗普及其关联方",
+      "url": "https://www.youtube.com/watch?v=A46t9lCpGNE",
+      "published_at": "2026-11-06T21:10:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党发出“请律师”的警告，在华盛顿引发反响，该党正准备对总统特朗普及其关系网中的个人和公司展开调查。彭博的Joshua Green在Everybody's Business播客中讨论了在民主党领导的国会下这些调查可能的形式。",
+      "summary_en": "Democrats' warning to \"lawyer up\" is sending ripples through Washington as the party prepares to launch investigations into President Trump and the people and companies in his orbit. Bloomberg's Joshua Green discussed on the Everybody's Business podcast what these probes might look like under a Democrat-led Congress.",
+      "detail_zh": "民主党发出“请律师”的警告，在华盛顿引发反响。该党正准备对总统特朗普及其关系网中的个人和公司展开调查。彭博的Joshua Green做客Everybody's Business播客，与Max Chafkin和Stacey Vanek Smith讨论了在民主党领导的国会下这些调查可能呈现的形式。原文未提供调查的具体范围、时间表或涉及的公司名称。",
+      "detail_en": "Democrats' warning to \"lawyer up\" is sending ripples through Washington as the party gears up to launch investigations into President Trump and the people and companies in his orbit. Bloomberg's Joshua Green joined Max Chafkin and Stacey Vanek Smith on the Everybody's Business podcast to discuss what these probes might look like under a Democrat-led Congress. The original text does not provide specific scope, timeline, or names of companies involved.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党警告“请律师”，在华盛顿引发反响。",
+          "en": "Democrats' warning to \"lawyer up\" is sending ripples through Washington."
+        },
+        {
+          "zh": "该党正准备对总统特朗普及其关系网中的个人和公司展开调查。",
+          "en": "The party is gearing up to launch investigations into President Trump and the people and companies in his orbit."
+        },
+        {
+          "zh": "彭博的Joshua Green在Everybody's Business播客中讨论了在民主党领导的国会下这些调查可能的形式。",
+          "en": "Bloomberg's Joshua Green discussed on the Everybody's Business podcast what these probes might look like under a Democrat-led Congress."
+        }
+      ],
+      "tags": [
+        "Democrats",
+        "investigations",
+        "Trump",
+        "Congress"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:tBayPo2JnCY",
+      "title": "Power On: Ternus vs. Cook — Who Did Earnings Calls Better?",
+      "title_zh": "苹果投资者对John Ternus财报电话会表现反应平淡",
+      "url": "https://www.youtube.com/watch?v=tBayPo2JnCY",
+      "published_at": "2026-11-06T21:08:45+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "部分苹果投资者和粉丝认为，CEO John Ternus 的财报电话会似乎照本宣科，未能激发市场热情。在 Power On 播客中，Mark Gurman 和 Vlad Savov 将 Ternus 的表现与 Tim Cook 进行了比较。",
+      "summary_en": "Some Apple investors and fans say CEO John Ternus' seemingly scripted earnings call failed to inspire. On the Power On podcast, Mark Gurman and Vlad Savov compared Ternus' performance with Tim Cook's.",
+      "detail_zh": "部分苹果投资者和粉丝表示，CEO John Ternus 的财报电话会似乎经过脚本化安排，未能激发市场热情。在 Power On 播客节目中，Mark Gurman 和 Vlad Savov 对 Ternus 的表现与 Tim Cook 进行了比较。原文未提供更多关于电话会具体内容、财务数据或市场反应细节。",
+      "detail_en": "Some Apple investors and fans said that CEO John Ternus' earnings call seemed scripted and failed to inspire. On the Power On podcast, Mark Gurman and Vlad Savov compared Ternus' performance with Tim Cook's. The original text does not provide further details on the call's content, financial data, or market reaction.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "部分苹果投资者和粉丝认为 John Ternus 的财报电话会表现照本宣科，未能激发热情。",
+          "en": "Some Apple investors and fans believe John Ternus' earnings call was scripted and failed to inspire."
+        },
+        {
+          "zh": "Mark Gurman 和 Vlad Savov 在 Power On 播客中将 Ternus 的表现与 Tim Cook 进行了比较。",
+          "en": "Mark Gurman and Vlad Savov compared Ternus' performance with Tim Cook's on the Power On podcast."
+        }
+      ],
+      "tags": [
+        "Apple",
+        "earnings call",
+        "CEO performance",
+        "investor sentiment"
+      ],
+      "tickers": [
+        "AAPL"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:CcOkeLIyw6U",
+      "title": "How Will the Midterm Results Impact Stocks?",
+      "title_zh": "全球股市收复民主党横扫美国国会引发的抛售失地",
+      "url": "https://www.youtube.com/watch?v=CcOkeLIyw6U",
+      "published_at": "2026-11-06T21:08:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "全球股市已收复因民主党横扫美国国会而引发的抛售失地，中期选举不确定性消退。彭博的Charlie Wells就分析师当前关注点进行了解读。",
+      "summary_en": "Global stock markets have erased the selloff triggered by a Democratic sweep of the US Congress as uncertainty surrounding the midterms faded. Bloomberg's Charlie Wells explains what analysts are watching now.",
+      "detail_zh": "全球股市已收复此前因民主党横扫美国国会而引发的抛售失地。随着中期选举相关不确定性消退，市场出现反弹。彭博的Charlie Wells就分析师当前关注的重点进行了说明。原文未提供具体指数涨幅、板块表现或分析师的具体观点细节。",
+      "detail_en": "Global stock markets erased the selloff that had been sparked by a Democratic sweep of the US Congress. The rebound came as uncertainty surrounding the midterms faded. Bloomberg's Charlie Wells explained what analysts are watching now. The source does not provide specific index moves, sector performance, or detailed analyst views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "全球股市收复了因民主党横扫美国国会而引发的抛售失地。",
+          "en": "Global stock markets erased the selloff sparked by a Democratic sweep of the US Congress."
+        },
+        {
+          "zh": "中期选举不确定性消退是市场反弹的背景。",
+          "en": "The fading of midterm election uncertainty provided the backdrop for the rebound."
+        },
+        {
+          "zh": "彭博的Charlie Wells就分析师当前关注点进行了解读。",
+          "en": "Bloomberg's Charlie Wells discussed what analysts are watching now."
+        }
+      ],
+      "tags": [
+        "midterms",
+        "market-rebound",
+        "uncertainty",
+        "US-Congress"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:WflfRO5Nbxk",
       "title": "Kansas 'More Purple' Than People Realize",
@@ -17108,263 +17763,6 @@
         "TSLA"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:ZuGC3zCrOTo",
-      "title": "Equities Tricky, Fixed Income Treats During Busy Fed Week",
-      "title_zh": "科技股回调拖累美股，固收与防御板块走强",
-      "url": "https://www.youtube.com/watch?v=ZuGC3zCrOTo",
-      "published_at": "2026-10-31T00:31:46+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "本周美股科技与通信服务板块显著回调，Alphabet财报后创史上最差单日表现，市值蒸发约5000亿美元；但公用事业、医疗保健等防御板块上涨，等权标普500反而收涨，市场呈现明显分化。固收市场全面走强，2年期美债收益率下行约9-10个基点，金价跌破4000美元，比特币跌至77000美元。",
-      "summary_en": "US tech and communication services sectors sold off sharply this week, with Alphabet posting its worst trading day in history after earnings and wiping out roughly $500 billion in value. However, defensive sectors such as utilities and healthcare gained, and the equal-weighted S&P 500 rose, highlighting significant market dispersion. Fixed income rallied across the board, with the 2-year Treasury yield falling about 9-10 basis points, while gold broke below $4,000 and Bitcoin fell to $77,000.",
-      "detail_zh": "截至周五上午，标普500指数当日下跌约2%。本周科技板块下跌约2.25%，本月累计下跌8%；通信服务板块本周下跌5%，本月下跌10%。Alphabet财报后遭遇史上最差单日交易表现，市值蒸发约5000亿美元，并出现50日均线下穿200日均线的“死亡交叉”技术形态。与此同时，市场呈现明显板块分化：公用事业和材料板块本周均上涨约2.25%，工业板块上涨2%，医疗保健板块上涨3.5%，必需消费品板块上涨约1.5%。等权标普500指数本周上涨约0.75%，而市值加权的标普500指数下跌0.5%；罗素1000成长指数下跌约2%，罗素1000价值指数上涨约0.5%，罗素2000指数上涨约1%。固收市场全面上涨，2年期美债收益率本周下行约9-10个基点，5年期下行7个基点，10年期下行6个基点，30年期仅下行1个基点；30年期美债收益率报5.31%，10年期报4.94%。彭博综合债券指数本周上涨4%，本月上涨约2.25%，但全年仍为负收益。MBS表现最佳，本周上涨约0.67%；银行贷上涨37个基点，高收益债上涨50个基点，新兴市场债上涨20个基点。商品方面，BCOM本周下跌约1.25%，能源上涨约20个基点；贵金属板块本月下跌9%，本周下跌3.5%；金价跌破4000美元，报约3900美元/盎司，本周下跌2.5%，本月下跌6.5%。美元指数本周上涨12个基点，接近102；比特币本周下跌5%，报77000美元。此外，有报道称黑客从一家加密公司窃取60亿美元，据信为国家支持的行为。",
-      "detail_en": "As of Friday morning, the S&P 500 was down about 2% on the day. The technology sector fell about 2.25% for the week and 8% for the month, while communication services dropped 5% on the week and 10% on the month. Alphabet had its worst trading day in history after earnings, wiping out roughly $500 billion in value and forming a \"death cross\" as its 50-day moving average crossed below the 200-day. Meanwhile, sector dispersion was pronounced: utilities and materials each rose about 2.25% for the week, industrials gained 2%, healthcare rose 3.5%, and consumer staples added about 1.5%. The equal-weighted S&P 500 rose about 0.75% for the week, while the cap-weighted S&P 500 fell 0.5%; the Russell 1000 Growth fell about 2%, the Russell 1000 Value rose about 0.5%, and the Russell 2000 gained about 1%. Fixed income rallied broadly, with the 2-year Treasury yield falling about 9-10 basis points on the week, the 5-year down 7bp, the 10-year down 6bp, and the 30-year down only 1bp; the 30-year yield stood at 5.31% and the 10-year at 4.94%. The Bloomberg Aggregate index rose 4% on the week and about 2.25% on the month, though still negative year-to-date. MBS was the best performer, up about 0.67%; bank loans rose 37bp, high yield 50bp, and EM bonds 20bp. In commodities, the BCOM fell about 1.25% on the week, energy rose about 20bp; precious metals fell 9% on the month and 3.5% on the week; gold broke below $4,000 to about $3,900/oz, down 2.5% on the week and 6.5% on the month. The dollar index rose 12bp to near 102, and Bitcoin fell 5% to $77,000. Separately, reports said hackers stole $6 billion from a crypto firm, believed to be state-sponsored.",
-      "conclusion_zh": "市场呈现从科技成长向防御和价值板块的轮动，固收在利率下行中全面走强；AI资本开支叙事面临更高利率与政治不确定性考验，短期分化格局或延续。",
-      "conclusion_en": "The market is rotating from tech growth toward defensives and value, while fixed income rallies on falling rates; the AI capex narrative faces higher rates and political uncertainty, and near-term dispersion may persist.",
-      "key_points": [
-        {
-          "zh": "科技与通信服务板块大幅回调，Alphabet财报后创史上最差单日表现，市值蒸发约5000亿美元。",
-          "en": "Tech and communication services sold off sharply, with Alphabet posting its worst trading day ever after earnings and losing about $500 billion in market value."
-        },
-        {
-          "zh": "市场分化显著：等权标普500本周上涨约0.75%，而市值加权标普500下跌0.5%，防御板块如医疗保健和公用事业领涨。",
-          "en": "Market dispersion was stark: the equal-weighted S&P 500 rose about 0.75% for the week while the cap-weighted index fell 0.5%, with defensive sectors like healthcare and utilities leading."
-        },
-        {
-          "zh": "固收市场全面走强，2年期美债收益率下行约9-10个基点，MBS表现最佳。",
-          "en": "Fixed income rallied across the board, with the 2-year Treasury yield falling about 9-10 basis points and MBS the best performer."
-        },
-        {
-          "zh": "金价跌破4000美元至约3900美元/盎司，比特币跌至77000美元，美元指数接近102。",
-          "en": "Gold broke below $4,000 to about $3,900/oz, Bitcoin fell to $77,000, and the dollar index approached 102."
-        }
-      ],
-      "tags": [
-        "tech selloff",
-        "sector rotation",
-        "fixed income rally",
-        "gold",
-        "bitcoin"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:biE_-YkChqc",
-      "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast",
-      "title_zh": "Bokeh Capital创始人：英特尔下跌难言见底，AI就业影响长期显现",
-      "url": "https://www.youtube.com/watch?v=biE_-YkChqc",
-      "published_at": "2026-10-31T00:19:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Bokeh Capital Partners创始人兼首席投资官Kim Forrest表示，英特尔股价大跌之际“无法在刀落下时接刀”，需更多时间判断此次下跌对整体科技板块的指标意义。她并不担心AI会夺走大部分工作岗位，但其影响将在长期显现。",
-      "summary_en": "Kim Forrest, founder and CIO of Bokeh Capital Partners, said \"you can't call when the knife is falling\" regarding Intel's stock rout, and that it will take more time to see how much of an indicator the drop is for the overall tech trade. She also said she was not concerned that AI would end up taking the majority of jobs away from workers, but that its impact would be felt in the long term.",
-      "detail_zh": "Bokeh Capital Partners创始人兼首席投资官Kim Forrest就英特尔股价大跌发表看法，称“无法在刀落下时接刀”，意指当前难以判断下跌何时止住。她表示，需要更多时间才能看出英特尔此次下跌在多大程度上可作为整体科技交易的指标。关于人工智能对就业的影响，Forrest表示她并不担心AI最终会夺走大部分工人的工作，但认为其影响将在长期内显现。",
-      "detail_en": "Kim Forrest, founder and CIO of Bokeh Capital Partners, commented on Intel's stock rout, saying \"you can't call when the knife is falling,\" meaning it is difficult to judge when the decline will stop. She said it will take more time to see how much of an indicator the drop is for the overall tech trade. Regarding AI's impact on jobs, Forrest said she was not concerned that AI would end up taking the majority of jobs away from workers, but that its impact would be felt in the long term.",
-      "conclusion_zh": "Forrest认为英特尔下跌的底部尚难判断，其对科技板块的传导信号需时间验证；AI对就业的冲击是长期变量而非短期风险。",
-      "conclusion_en": "Forrest suggests Intel's bottom is hard to call and its signal for the tech sector needs time to verify; AI's impact on jobs is a long-term variable rather than an immediate risk.",
-      "key_points": [
-        {
-          "zh": "Forrest称英特尔股价大跌时“无法在刀落下时接刀”，暗示当前难以判断底部。",
-          "en": "Forrest said \"you can't call when the knife is falling\" regarding Intel's stock rout, implying it is difficult to call a bottom."
-        },
-        {
-          "zh": "她表示需要更多时间观察英特尔下跌对整体科技板块的指标意义。",
-          "en": "She said it will take more time to see how much of an indicator the drop is for the overall tech trade."
-        },
-        {
-          "zh": "Forrest不担心AI最终会夺走大部分工作岗位，但认为影响将在长期显现。",
-          "en": "Forrest is not concerned that AI will end up taking the majority of jobs, but believes its impact will be felt in the long term."
-        }
-      ],
-      "tags": [
-        "Intel",
-        "tech sector",
-        "AI and jobs",
-        "market outlook"
-      ],
-      "tickers": [
-        "INTC"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:mTW0OYXnqnk",
-      "title": "New Balance CEO Joe Preston on NYC Marathon Partnership",
-      "title_zh": "New Balance CEO 谈纽约马拉松赞助与品牌战略",
-      "url": "https://www.youtube.com/watch?v=mTW0OYXnqnk",
-      "published_at": "2026-10-31T00:19:34+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "New Balance 总裁兼 CEO Joe Preston 在 Bloomberg 访谈中介绍了公司与纽约马拉松的长期合作，称其为品牌的关键组成部分。超过 300 名员工参与赛事周，其中 200 名零售人员进驻 Javits Center 博览会，预计三天内吸引超 10 万访客。",
-      "summary_en": "New Balance President and CEO Joe Preston discussed the company's long-running partnership with the New York City Marathon, describing it as a key part of the brand. More than 300 associates are in the city for race week, including 200 retail staff at the Javits Center expo, which expects over 100,000 visitors in three days.",
-      "detail_zh": "New Balance 总裁兼 CEO Joe Preston 在 2026 年 10 月 29 日接受 Bloomberg \"The Close\" 节目 Romaine Bostick 采访时，重点谈及公司与纽约马拉松的长期合作关系，并称该合作是品牌的关键组成部分。为配合赛事周，公司有超过 300 名员工来到纽约，其中 200 名零售人员部署在 Javits Center 博览会现场。该博览会预计在三天内吸引超过 10 万名访客。访谈未涉及公司财务数据、销售表现或未来业绩指引。",
-      "detail_en": "New Balance President and CEO Joe Preston spoke with Romaine Bostick on Bloomberg's \"The Close\" on October 29, 2026, highlighting the company's long-running partnership with the New York City Marathon as a key part of the brand. More than 300 New Balance associates are in the city for race week, including 200 retail staff at the Javits Center expo, where more than 100,000 visitors are expected over three days. The interview did not cover financial data, sales performance, or forward guidance.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "New Balance 与纽约马拉松的长期合作被 CEO 称为品牌的关键组成部分。",
-          "en": "The long-running partnership with the NYC Marathon is described by the CEO as a key part of the brand."
-        },
-        {
-          "zh": "超过 300 名 New Balance 员工参与赛事周，其中 200 名零售人员进驻 Javits Center 博览会。",
-          "en": "More than 300 New Balance associates are in the city for race week, including 200 retail staff at the Javits Center expo."
-        },
-        {
-          "zh": "Javits Center 博览会预计三天内吸引超过 10 万名访客。",
-          "en": "The Javits Center expo expects over 100,000 visitors over three days."
-        }
-      ],
-      "tags": [
-        "New Balance",
-        "NYC Marathon",
-        "brand partnership",
-        "retail event"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:v36754Mj96Y",
-      "title": "Burger King US President on Sales Turnaround",
-      "title_zh": "汉堡王美加同店销售增长8.4%，超预期",
-      "url": "https://www.youtube.com/watch?v=v36754Mj96Y",
-      "published_at": "2026-10-31T00:18:24+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "汉堡王美国及加拿大总裁Tom Curtis表示，该地区同店销售额增长8.4%，高于6.2%的预期。增长主要来自曾流失的顾客重新光顾，他们因与品牌重建联系而回归。",
-      "summary_en": "Burger King US and Canada President Tom Curtis said the region's comparable sales grew 8.4%, beating the 6.2% estimate. Growth is driven largely by returning customers who had stopped visiting, drawn by a renewed connection to the brand.",
-      "detail_zh": "在彭博电视台《The Close》节目中，汉堡王美国及加拿大总裁Tom Curtis与Romaine Bostick讨论了该连锁店的同店销售增长情况。Curtis提到，同店销售额增长了8.4%，而预期为6.2%。他表示，增长主要来自那些曾停止光顾、现在又重新回来的顾客，原因是他们与品牌重新建立了联系。",
-      "detail_en": "On Bloomberg Television's \"The Close,\" Burger King US and Canada President Tom Curtis spoke with Romaine Bostick about the chain's comparable-sales growth. Curtis cited comparable sales growth of 8.4%, against an estimate of 6.2%. He said growth is being driven largely by customers who had stopped visiting and are now returning, drawn by a renewed connection to the brand.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "汉堡王美加同店销售增长8.4%，超过6.2%的预期。",
-          "en": "Burger King US and Canada comparable sales grew 8.4%, exceeding the 6.2% estimate."
-        },
-        {
-          "zh": "增长主要动力是曾流失的顾客回归。",
-          "en": "Growth is driven largely by returning customers who had stopped visiting."
-        },
-        {
-          "zh": "顾客回归的原因是重新建立了与品牌的联系。",
-          "en": "Customers are returning due to a renewed connection to the brand."
-        }
-      ],
-      "tags": [
-        "Burger King",
-        "comparable sales",
-        "consumer",
-        "restaurant"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:TwHgVWx3Lo8",
-      "title": "Ice Cube on Big3 League: In a Great Position To Scale",
-      "title_zh": "Ice Cube谈Big3联赛：夏季篮球需求与三人篮球职业化",
-      "url": "https://www.youtube.com/watch?v=TwHgVWx3Lo8",
-      "published_at": "2026-10-31T00:18:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Big3联赛CEO兼联合创始人Ice Cube表示，观众希望在夏季看到更多篮球比赛，该联赛已推动三人篮球职业化，并称Big3已是全球公认的顶级职业三人篮球联赛，具备增长潜力。",
-      "summary_en": "Ice Cube, CEO and co-founder of the Big3 basketball league, said audiences want more basketball in the summer and that the league has helped professionalize three-on-three play. He described Big3 as already recognized as the world's premier professional three-on-three league and said it is well positioned to grow.",
-      "detail_zh": "Ice Cube在2026年10月29日接受Bloomberg“The Close”节目Romaine Bostick采访时作出上述表态。他表示，观众希望在夏季看到更多篮球比赛，这是联赛发展的需求基础。他指出，Big3联赛已帮助三人篮球运动实现职业化。他将篮球描述为一项全球广受欢迎的运动，并认为联赛具备良好的增长条件。他特别强调，Big3已被公认为全球顶级的职业三人篮球联赛。",
-      "detail_en": "Ice Cube made the remarks in an interview with Romaine Bostick on Bloomberg's \"The Close\" on October 29, 2026. He said audiences want more basketball in the summer, which underpins demand for the league. He said the Big3 has helped professionalize three-on-three play. He described basketball as a globally beloved sport and said the league is well positioned to grow. He noted that it is already recognized as the world's premier professional three-on-three league.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Ice Cube称观众希望在夏季看到更多篮球比赛",
-          "en": "Ice Cube says audiences want more basketball in the summer"
-        },
-        {
-          "zh": "Big3联赛已帮助三人篮球实现职业化",
-          "en": "The Big3 has helped professionalize three-on-three play"
-        },
-        {
-          "zh": "Big3被描述为全球公认的顶级职业三人篮球联赛",
-          "en": "Big3 is described as the world's premier professional three-on-three league"
-        },
-        {
-          "zh": "Ice Cube认为篮球是全球性运动，联赛具备增长条件",
-          "en": "Ice Cube sees basketball as a global sport and the league as well positioned to grow"
-        }
-      ],
-      "tags": [
-        "Big3",
-        "three-on-three basketball",
-        "sports league",
-        "Ice Cube"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:k2QEU1awmxA",
-      "title": "Wall Street Week | Affordability, Data Center Divide, Debt Hits Households, Capitalism on the Ballot",
-      "title_zh": "中期选举特辑：生活成本、数据中心争议与债务负担",
-      "url": "https://www.youtube.com/watch?v=k2QEU1awmxA",
-      "published_at": "2026-10-30T23:12:18+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期Wall Street Week中期选举特辑聚焦三大议题：生活成本可负担性可能决定国会控制权；两党选民在反对新建数据中心上存在跨党派共识；美国债务负担上升推高政府借贷成本，并可能将数千美元成本转嫁至家庭财务。节目还探讨选民是否在拒绝资本主义，还是仅寻求降低生活成本的更好方案。",
-      "summary_en": "This special midterm elections edition of Wall Street Week focuses on three issues: affordability may decide who controls Congress; opposition to new data centers cuts across party lines; and America's growing debt burden is pushing up government borrowing costs and potentially adding thousands of dollars to household finances. The program also asks whether voters are rejecting capitalism or simply seeking better solutions to rising costs.",
-      "detail_zh": "节目围绕中期选举展开，首先讨论生活成本危机（Affordability Crisis），提出可负担性是否决定国会控制权的问题。其次关注数据中心分歧（Data Center Divide），指出选民可能在AI问题上意见不一，但对新建数据中心的反对跨越党派界限。第三部分讨论债务冲击家庭（Debt Hits Households），指出美国不断增长的债务负担正在推高政府的借贷成本，并可能将数千美元的成本转嫁到家庭财务上。最后两部分探讨资本主义是否被选民拒绝（Capitalism on the Ballot），以及中间派解决方案（Centrist Solutions）。节目未提供具体数字、民调数据或个股信息。",
-      "detail_en": "The program is framed around the midterm elections. It first examines the affordability crisis, asking whether affordability could decide who controls Congress. It then looks at the data center divide, noting that voters may not agree on AI but opposition to new data centers cuts across party lines. The third segment, Debt Hits Households, states that America's growing debt burden is pushing up borrowing costs for the government and potentially thousands of dollars onto household finances. The final segments discuss whether capitalism is on the ballot and centrist solutions. No specific figures, polling data, or individual stock information are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "生活成本可负担性可能成为决定国会控制权的关键选举议题。",
-          "en": "Affordability may be the key election issue deciding who controls Congress."
-        },
-        {
-          "zh": "对新建数据中心的反对跨越党派界限，尽管选民在AI问题上未必一致。",
-          "en": "Opposition to new data centers cuts across party lines, even if voters may not agree on AI."
-        },
-        {
-          "zh": "美国债务负担上升推高政府借贷成本，并可能将数千美元成本转嫁至家庭财务。",
-          "en": "America's growing debt burden is pushing up government borrowing costs and potentially adding thousands of dollars onto household finances."
-        },
-        {
-          "zh": "节目探讨选民是在拒绝资本主义，还是仅寻求降低生活成本的更好方案。",
-          "en": "The program explores whether voters are rejecting capitalism or simply looking for better solutions to rising costs."
-        }
-      ],
-      "tags": [
-        "midterm-elections",
-        "affordability",
-        "data-centers",
-        "debt-burden",
-        "capitalism"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
