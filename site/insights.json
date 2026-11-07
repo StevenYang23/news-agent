@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:12:31.664010+00:00",
+  "generated_at": "2026-11-07T08:17:41.950845+00:00",
   "insights": [
     {
       "guid": "yt:UACTCWikfLM",
@@ -273,6 +273,106 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:u-RekY8OsJE",
+      "title": "Goldman Sachs Chief Economist Jan Hatzius Joins CNBC to Discuss the US Jobs Report",
+      "title_zh": "高盛首席经济学家：10月非农强劲，劳动力市场稳定于充分就业，AI对就业影响将逐步显现",
+      "url": "https://www.youtube.com/watch?v=u-RekY8OsJE",
+      "published_at": "2026-11-06T22:51:47+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "高盛首席经济学家Jan Hatzius点评10月非农报告，认为就业增长稳健、失业率稳定在4.1%-4.2%，劳动力市场处于充分就业状态。他预计明年GDP增速放缓至2%-2.5%，并指出AI已导致科技行业每月减少1-1.5万个岗位，未来可能成为更广泛的宏观主题。",
+      "summary_en": "Goldman Sachs Chief Economist Jan Hatzius commented on the October jobs report, noting solid payroll growth and an unemployment rate stable at 4.1%-4.2%, consistent with full employment. He expects GDP growth to slow to 2%-2.5% next year and noted that AI has already reduced tech-sector job growth by 10,000-15,000 per month, with potential to become a broader macroeconomic theme.",
+      "detail_zh": "10月非农就业新增16.5万人，高于几乎所有预测。Hatzius认为报告非常稳健，尽管存在月度波动，但潜在就业增长趋势可能已回到10万人以上，比今年早些时候更稳固。失业率小幅下降但仍处于4.1%-4.2%区间，劳动力市场稳定在充分就业附近，这与工资增长相对温和、通胀较低相一致。初请失业金人数处于五十多年来最低水平，裁员极少，但招聘也相对低迷，整体环境停滞但水平非常扎实。当前GDP增速强劲，第二、三季度及可能第四季度均达3%以上，但Hatzius预计明年增速将放缓至2%-2.5%，失业率大致稳定。下行风险包括金融条件收紧约50个基点、能源价格、与伊朗的战争对实际收入的影响，以及AI建设对GDP和劳动力市场的影响。AI已导致科技行业每月减少约1-1.5万个就业岗位，并有迹象蔓延至服务业，但关系尚不强烈，预计未来一两年将增强，到2028年可能成为就业增长的逆风。AI目前仍是利润率顺风，但到2028年投资量可能趋平并最终下降，历史投资热潮均如此。",
+      "detail_en": "October nonfarm payrolls rose by 165,000, above nearly every forecast. Hatzius called it a very solid report, noting that despite month-to-month volatility, the underlying trend in job growth is probably back above 100,000, more solid than earlier in the year. The unemployment rate edged down but remains in the 4.1%-4.2% range, consistent with a labor market stable at about full employment, subdued wage growth, and low inflation. Jobless claims are at the lowest level in more than five decades, layoffs are extremely low, but hiring remains relatively subdued, creating a stagnant but very solid environment. Current GDP growth is rapid, with a three-handle in Q2, Q3, and likely Q4, but Hatzius expects growth to soften next year to 2%-2.5%, keeping unemployment roughly stable. Downside risks include tightening financial conditions of about 50 basis points, energy prices, the war with Iran and its implications for real income growth, and the AI buildout's effects on GDP and the labor market. AI has already reduced tech-sector job growth by roughly 10,000-15,000 per month, with some indications of broadening into services, though the relationship is not yet strong; it is expected to strengthen over the next year or two and become a headwind for employment growth by 2028. AI is currently a tailwind for profit margins, but by 2028 investment volume is expected to flatten and eventually decline, as in historical investment booms.",
+      "conclusion_zh": "劳动力市场稳健支持短期增长，但明年增速放缓与AI对就业的逐步替代值得关注，AI投资周期可能在2028年前后见顶。",
+      "conclusion_en": "A solid labor market supports near-term growth, but slowing GDP next year and AI's gradual labor impact warrant attention; the AI investment cycle may peak around 2028.",
+      "key_points": [
+        {
+          "zh": "10月非农新增16.5万人，高于几乎所有预测，潜在就业增长趋势可能已回到10万人以上。",
+          "en": "October nonfarm payrolls rose by 165,000, above nearly every forecast, with underlying job growth likely back above 100,000."
+        },
+        {
+          "zh": "失业率稳定在4.1%-4.2%，劳动力市场处于充分就业状态，与温和工资增长和低通胀一致。",
+          "en": "Unemployment rate stable at 4.1%-4.2%, labor market at full employment, consistent with subdued wage growth and low inflation."
+        },
+        {
+          "zh": "当前GDP增速达3%以上，但预计明年放缓至2%-2.5%，下行风险包括金融条件收紧约50个基点、能源价格及伊朗战争。",
+          "en": "Current GDP growth above 3%, but expected to slow to 2%-2.5% next year; downside risks include ~50bp tightening in financial conditions, energy prices, and the war with Iran."
+        },
+        {
+          "zh": "AI已导致科技行业每月减少约1-1.5万个岗位，并可能蔓延至服务业，到2028年成为就业增长逆风。",
+          "en": "AI has reduced tech-sector job growth by ~10,000-15,000 per month, potentially broadening to services and becoming a headwind for employment by 2028."
+        },
+        {
+          "zh": "AI目前仍是利润率顺风，但到2028年投资量可能趋平并最终下降，类似历史投资热潮。",
+          "en": "AI remains a tailwind for profit margins currently, but investment volume is expected to flatten and eventually decline by 2028, similar to historical investment booms."
+        }
+      ],
+      "tags": [
+        "jobs-report",
+        "labor-market",
+        "AI",
+        "GDP",
+        "Goldman Sachs"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:mL2xBdgoGl4",
+      "title": "AI’s rising bill of expectations | Market take",
+      "title_zh": "AI投资进入审视期：美股降级至中性，但AI基本面信心未改",
+      "url": "https://www.youtube.com/watch?v=mL2xBdgoGl4",
+      "published_at": "2026-11-06T22:32:20+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "经过两年AI投资热潮，投资者开始关注回报，促使该机构上月将美股下调至中性。但AI基本面信心依然完整，只是超大型科技股与其他市场的盈利差距自2022年以来首次反转，AI领导者表现不再那么突出。AI建设日益依赖债务融资，杠杆和融资能力成为焦点，信用市场是判断AI投资还能以何种成本融资的关键风向标。",
+      "summary_en": "After two years of booming AI investment, rising investor scrutiny over payoffs led the firm to downgrade US equities to neutral last month, though conviction in AI fundamentals remains intact. The earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7, making AI leaders' outperformance less exceptional. As the AI buildout is increasingly funded by debt, leverage and funding capacity are in sharp focus, and credit markets are a key signpost for how much more AI investment can be financed and at what cost.",
+      "detail_zh": "经过两年AI投资繁荣，投资者愈发审视AI主题，希望看到回报，这一背景促使该机构上月将美股下调至中性。但其对AI基本面的信心依然完整。超大型科技股的背景与几个月前截然不同：盈利差距自2022年以来首次反转，市场其余部分预计将超过Magnificent 7，AI领导者仍在交付业绩，但超额表现不再那么突出。在预期已很高的情况下，投资者日益关注货币化和现金生成能否支撑投资。上周财报凸显了AI相关商品和服务强劲需求与满足需求成本上升之间日益加剧的紧张关系。超大规模云厂商支出激增，资本开支后现金盈余所剩无几；每增加一美元收入带来的利润减少，引发回报能否跟上投资飙升的疑问。分析发现AI采用的早期迹象已影响盈利增长：采用率较高的大型科技以外公司本季度盈利增长预计比采用率较低的公司高出约3%。云收入上升也指向强劲AI需求。随着AI建设日益由债务融资，杠杆和融资能力备受关注；建设加剧资本竞争并对收益率构成上行压力。近期收益率下降反映了市场对资本竞争的资金流动，以及市场考虑部署更多资金可能面临的约束。因此，信用市场是判断AI投资还能融资多少、成本多高的关键风向标。AI面临更严峻的近期考验，投资者审视加剧，但对AI基本面的信心依然完整，使其在AI敞口上保持选择性。",
+      "detail_en": "After two years of booming AI investment, investors are increasingly scrutinizing the AI theme and want to see the payoff, a backdrop that contributed to the firm's decision to downgrade US equities to neutral last month. However, conviction in AI fundamentals remains intact. The backdrop for Mega Cap Tech looks very different from just a few months ago: the earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7. AI leaders are still delivering, but their outperformance is becoming less exceptional. With expectations already so high, investors are increasingly looking at whether monetization and cash generation can sustain investment. Last week's earnings highlighted a growing tension between strong demand for AI-linked goods and services and the rising cost of meeting it. Hyperscaler spending has surged, leaving little cash surplus after capex; each additional dollar of revenue is generating less profit, raising questions about whether returns can keep pace with soaring investment. Analysis finds early signs of AI adoption impacting earnings growth: companies outside big tech with higher adoption are on track for about 3% more earnings growth this quarter than those with lower adoption. Rising cloud revenues also point to strong AI demand. As the AI buildout is increasingly funded by debt, leverage and funding capacity are coming into sharp focus; the buildout is adding to competition for capital and keeping upward pressure on yields. The recent fall in yields reflects the flows of competition for capital as markets consider any emerging constraints on deploying even more funding. As such, credit markets are a key signpost for how much more AI investment can be financed and at what cost. AI faces a tougher near-term test as investor scrutiny intensifies, but conviction in AI fundamentals remains intact, keeping the firm selective on where to take AI exposure.",
+      "conclusion_zh": "AI基本面信心未改，但盈利差距反转和融资约束意味着需在AI敞口上保持选择性，并密切关注信用市场信号。",
+      "conclusion_en": "Conviction in AI fundamentals remains intact, but the flipped earnings gap and funding constraints mean investors should stay selective on AI exposure and watch credit markets closely.",
+      "key_points": [
+        {
+          "zh": "该机构上月将美股下调至中性，因投资者对AI回报的审视加剧。",
+          "en": "The firm downgraded US equities to neutral last month amid intensifying investor scrutiny over AI payoffs."
+        },
+        {
+          "zh": "盈利差距自2022年以来首次反转，市场其余部分预计将超过Magnificent 7。",
+          "en": "The earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7."
+        },
+        {
+          "zh": "超大规模云厂商支出激增，资本开支后现金盈余所剩无几，每美元收入的利润减少。",
+          "en": "Hyperscaler spending has surged, leaving little cash surplus after capex, and each additional dollar of revenue generates less profit."
+        },
+        {
+          "zh": "采用率较高的大型科技以外公司本季度盈利增长预计比采用率较低的公司高出约3%。",
+          "en": "Companies outside big tech with higher AI adoption are on track for about 3% more earnings growth this quarter than those with lower adoption."
+        },
+        {
+          "zh": "AI建设日益依赖债务融资，信用市场是判断融资规模和成本的关键风向标。",
+          "en": "As the AI buildout is increasingly funded by debt, credit markets are a key signpost for how much more AI investment can be financed and at what cost."
+        }
+      ],
+      "tags": [
+        "AI investment",
+        "US equities",
+        "earnings gap",
+        "credit markets",
+        "hyperscaler capex"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:7Cy4jNkZpys",
       "title": "Could the Bond Market Slow AI's Momentum? | Presented by CME Group",
       "title_zh": "债市质疑AI投资融资能力，融资成本或成扩张约束",
@@ -411,6 +511,56 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:-WeQKPZQ9AQ",
+      "title": "Rainy Days for Stocks, Silver Lining for Bonds",
+      "title_zh": "双线资本周报：标普500单周跌2.5%，能源重挫11.5%，债市普涨",
+      "url": "https://www.youtube.com/watch?v=-WeQKPZQ9AQ",
+      "published_at": "2026-11-06T22:06:34+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "截至11月6日当周，标普500下跌2.5%，能源板块因WTI原油单日从96美元跌至88美元而重挫11.5%，科技板块跌8.5%；通信服务与可选消费逆势上涨。债市全线走强，10年期美债收益率下行10个基点至4.83%，联邦基金期货对12月加息的定价在非农数据后回升至80%。",
+      "summary_en": "For the week ending Nov 6, the S&P 500 fell 2.5%, with energy down 11.5% as WTI crude dropped from $96 to $88 in a single day and tech down 8.5%; communication services and consumer discretionary outperformed. Bonds rallied broadly, with the 10-year yield down 10bp to 4.83%, and Fed funds futures priced an 80% chance of a December hike after the payrolls report.",
+      "detail_zh": "主持人Jeff Mabberry与Mark Kimbro回顾11月6日当周市场。标普500单周下跌2.5%，板块表现分化：能源以11.5%的跌幅领跌，主因周三WTI原油从每桶96美元跌至88美元，此后在90美元附近徘徊；但能源年内仍上涨41%。科技板块为第二差，单周跌8.5%，年内仍涨14.6%。通信服务意外成为最佳板块，涨5.4%，可选消费涨2.4%，房地产涨2.25%；通信服务年内仍下跌近10%。风格上，成长跌5%，价值仅跌15个基点；罗素1000跌2.3%，罗素2000跌2.2%，标普等权跌近1%，纳斯达克跌3.4%。债市方面，2年期收益率下行11个基点，10年期下行10个基点，长债下行7个基点；机构MBS以65个基点领涨，投资级公司债涨50个基点，高收益债涨40个基点，银行贷款与新兴市场均涨70个基点。10年期收益率录得4.83%，2年期4.50%。联邦基金期货对12月9日会议加息的定价一度降至约60%，非农数据公布后回升至80%。商品方面，彭博商品指数跌近5%，能源跌10%，贵金属是唯一上涨板块，涨4.6%，黄金涨4.5%至4060美元。",
+      "detail_en": "Hosts Jeff Mabberry and Mark Kimbro reviewed the week ending Nov 6. The S&P 500 fell 2.5% on the week with mixed sector performance: energy led losses, down 11.5%, as WTI crude fell from $96 to $88 a barrel on Wednesday before hovering around $90; energy remains up 41% year-to-date. Tech was the second-worst sector, down 8.5% on the week but still up 14.6% YTD. Communication services was the surprise best performer, up 5.4%, followed by consumer discretionary up 2.4% and real estate up 2.25%; communication services is still down nearly 10% YTD. By style, growth fell 5% while value fell only 15bp; the Russell 1000 fell 2.3%, Russell 2000 fell 2.2%, the equal-weight S&P fell nearly 1%, and the Nasdaq fell 3.4%. In bonds, the 2-year yield fell 11bp, the 10-year 10bp, and the long bond 7bp; agency MBS led with a 65bp gain, investment grade corporates rose 50bp, high yield 40bp, and bank loans and EM both 70bp. The 10-year stood at 4.83% and the 2-year at 4.50%. Fed funds futures priced roughly a 60% chance of a hike at the Dec 9 meeting before the payrolls report, rising to 80% after. Commodities: the Bloomberg Commodity Index fell nearly 5%, energy fell 10%, precious metals were the only gainer, up 4.6%, with gold up 4.5% to $4,060.",
+      "conclusion_zh": "本周呈现股弱债强的典型避险轮动：能源与科技回调、价值跑赢，债市普涨；12月加息概率在非农后回升至80%，利率路径仍是美股短期主要变量。",
+      "conclusion_en": "The week showed a classic risk-off rotation—weak equities, strong bonds, energy and tech pullbacks, and value outperformance; with December hike odds back at 80% after payrolls, the rate path remains the key near-term variable for US equities.",
+      "key_points": [
+        {
+          "zh": "标普500单周跌2.5%，能源板块因WTI原油单日从96美元跌至88美元而重挫11.5%，但能源年内仍涨41%。",
+          "en": "The S&P 500 fell 2.5% on the week; energy dropped 11.5% as WTI crude fell from $96 to $88 in one day, though energy remains up 41% YTD."
+        },
+        {
+          "zh": "科技板块单周跌8.5%，成长跌5%而价值仅跌15个基点，价值明显跑赢。",
+          "en": "Tech fell 8.5% on the week; growth fell 5% versus only 15bp for value, a clear value outperformance."
+        },
+        {
+          "zh": "通信服务逆势涨5.4%领跑，可选消费涨2.4%，但通信服务年内仍跌近10%。",
+          "en": "Communication services led with a 5.4% gain and consumer discretionary rose 2.4%, though communication services is still down nearly 10% YTD."
+        },
+        {
+          "zh": "债市全线走强，10年期收益率下行10个基点至4.83%，机构MBS以65个基点领涨。",
+          "en": "Bonds rallied broadly, with the 10-year yield down 10bp to 4.83% and agency MBS leading with a 65bp gain."
+        },
+        {
+          "zh": "联邦基金期货对12月加息的定价在非农数据后从约60%回升至80%。",
+          "en": "Fed funds futures priced an 80% chance of a December hike after the payrolls report, up from roughly 60%."
+        }
+      ],
+      "tags": [
+        "weekly-market-recap",
+        "energy-selloff",
+        "bond-rally",
+        "fed-funds-futures",
+        "value-vs-growth"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
       "guid": "yt:qAJWKG1MBMU",
       "title": "'Blue Wave' & Your Wallet, Managing Market Volatility",
       "title_zh": "Bloomberg Money 节目章节概览：从薪资通胀到黄金配置与AI交易",
@@ -455,6 +605,88 @@
         "gold",
         "AI deal",
         "financial literacy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:diHxgqt2pL0",
+      "title": "LSEG CEO David Schwimmer on Capital Shifting Beyond US Markets",
+      "title_zh": "伦交所CEO警告：市场低估通胀与地缘风险，政策灵活性受限",
+      "url": "https://www.youtube.com/watch?v=diHxgqt2pL0",
+      "published_at": "2026-11-06T21:37:10+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "伦敦证券交易所集团CEO David Schwimmer 认为，投资者可能低估了当前市场的风险，通胀和地缘政治紧张限制了政策灵活性，而过去市场下跌时正是这种灵活性支撑了市场。他建议以情景规划而非预测来应对不确定性。",
+      "summary_en": "David Schwimmer, CEO of London Stock Exchange Group, argues that investors may be underestimating market risks, as inflation and geopolitical tensions limit the policy flexibility that has supported markets in past downturns. He advocates scenario planning over prediction.",
+      "detail_zh": "伦敦证券交易所集团CEO David Schwimmer 在高盛访谈中表示，投资者可能低估了当今市场的风险。他指出，通胀和地缘政治紧张局势限制了政策灵活性，而这种灵活性在过去市场低迷时曾对市场形成支撑。Schwimmer 是在与高盛EMEA主席兼投资银行业务主席 FX de Mallmann 对话时发表上述观点的。他将情景规划描述为一种比试图预测下一步会发生什么更实用的方法。该访谈录制于2026年9月2日。",
+      "detail_en": "David Schwimmer, CEO of London Stock Exchange Group, said in a Goldman Sachs interview that investors may be underestimating risks in today's markets. He noted that inflation and geopolitical tensions limit the policy flexibility that has supported markets in past downturns. Schwimmer made these remarks in conversation with FX de Mallmann, chairman of Goldman Sachs EMEA and chairman of Investment Banking. He described scenario planning as a more practical discipline than trying to predict what happens next. The episode was recorded on September 2, 2026.",
+      "conclusion_zh": "在通胀与地缘政治约束政策灵活性的环境下，投资者应重视情景规划而非单纯预测，以应对可能被低估的市场风险。",
+      "conclusion_en": "With inflation and geopolitics constraining policy flexibility, investors should emphasize scenario planning over prediction to navigate potentially underestimated market risks.",
+      "key_points": [
+        {
+          "zh": "投资者可能低估了当前市场的风险。",
+          "en": "Investors may be underestimating risks in today's markets."
+        },
+        {
+          "zh": "通胀和地缘政治紧张限制了政策灵活性，而过去市场下跌时正是这种灵活性支撑了市场。",
+          "en": "Inflation and geopolitical tensions limit the policy flexibility that has supported markets in past downturns."
+        },
+        {
+          "zh": "情景规划比试图预测下一步更实用。",
+          "en": "Scenario planning is more practical than trying to predict what happens next."
+        }
+      ],
+      "tags": [
+        "inflation",
+        "geopolitical risk",
+        "policy flexibility",
+        "scenario planning",
+        "market risk"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:hhxPkhWrexQ",
+      "title": "The 2026 Goldman Sachs Analyst Impact Fund Finals",
+      "title_zh": "高盛分析师影响力基金：十年捐赠超600万美元",
+      "url": "https://www.youtube.com/watch?v=hhxPkhWrexQ",
+      "published_at": "2026-11-06T21:34:43+00:00",
+      "source_name": "Goldman Sachs",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "高盛分析师影响力基金是一项全球竞赛，让分析师合作推荐非营利组织以获取高盛捐赠基金的资助。过去十年，近8000名分析师参与，向192家非营利组织捐赠了超过600万美元。",
+      "summary_en": "The Goldman Sachs Analyst Impact Fund is a global competition where analysts collaborate to pitch nonprofits for grants from Goldman Sachs Gives. Over the past decade, nearly 8,000 analysts have participated, directing over $6 million to 192 nonprofits.",
+      "detail_zh": "高盛分析师影响力基金是一项全球性竞赛，旨在让员工在生活和工作的社区中产生切实影响。每年，来自全球的分析师与同行合作，推荐他们选择的非营利组织，以争取高盛捐赠基金（Goldman Sachs Gives）的资助。过去十年间，全公司近8000名分析师参与了该竞赛，向全球192家非营利组织提供了超过600万美元的赠款。该信息来自高盛官网，更多详情可访问链接。直播中表达的观点不一定反映高盛或其附属机构的机构观点。",
+      "detail_en": "The Analyst Impact Fund is a global competition that enables Goldman Sachs people to make a tangible impact in the communities where they live and work. Each year, analysts from across the globe collaborate with peers to pitch nonprofits of their choice for the opportunity to earn grants from Goldman Sachs Gives. Over the past decade, nearly 8,000 analysts across the firm have participated in the competition, directing over $6 million in grants to 192 nonprofits globally. For more information, visit the Goldman Sachs website. The opinions and views expressed in this livestream may not necessarily reflect the institutional views of Goldman Sachs or its affiliates.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "高盛分析师影响力基金是一项全球竞赛，分析师合作推荐非营利组织以获取资助。",
+          "en": "The Analyst Impact Fund is a global competition where analysts collaborate to pitch nonprofits for grants."
+        },
+        {
+          "zh": "过去十年，近8000名分析师参与，向192家非营利组织捐赠超过600万美元。",
+          "en": "Over the past decade, nearly 8,000 analysts participated, directing over $6 million to 192 nonprofits."
+        },
+        {
+          "zh": "资助来自高盛捐赠基金（Goldman Sachs Gives）。",
+          "en": "Grants are from Goldman Sachs Gives."
+        }
+      ],
+      "tags": [
+        "Goldman Sachs",
+        "philanthropy",
+        "Analyst Impact Fund",
+        "community"
       ],
       "tickers": [],
       "sentiment": "neutral"
@@ -655,6 +887,56 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:CK-pIVezRsw",
+      "title": "Why the Bond Market Remains Calm After the Blue Wave",
+      "title_zh": "摩根士丹利：蓝色浪潮对固定收益市场的影响",
+      "url": "https://www.youtube.com/watch?v=CK-pIVezRsw",
+      "published_at": "2026-11-06T21:00:36+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "摩根士丹利固定收益研究主管Andrew Sheets指出，尽管民主党大胜的“蓝色浪潮”最初被市场视为负面，但固定收益市场已逐渐适应，原因包括不确定性降低、通胀压力可能缓解、AI相关债券供应压力或减轻，以及历史数据显示中期选举后一年标普500均上涨。",
+      "summary_en": "Morgan Stanley's Andrew Sheets notes that while the 'blue wave' was initially seen as market-negative, fixed income markets have grown more comfortable with the outcome due to reduced uncertainty, potential easing of inflation pressures, possible relief in AI-related bond supply, and historical data showing S&P 500 gains one year after all midterm elections since 1982.",
+      "detail_zh": "摩根士丹利全球固定收益研究主管Andrew Sheets在11月6日的报告中讨论了美国中期选举结果对固定收益市场的影响。民主党在众议院和参议院赢得的席位远超预期，关键州级选举如德州州长也意外翻盘，民主党获得了近50年来最大的党派得票份额。市场最初反应负面，但Sheets认为固定收益市场已逐渐适应，原因有四：第一，不确定性降低，投资者在选举前已减少敞口，现在有空间加仓；第二，通胀高企是今年固收市场的压力之一，关税和能源价格推升了通胀，若选举结果反映关税或外交政策的不受欢迎，未来政策可能改变，有助于压低长期债券收益率，且经济学家预计本月通胀数据将显著下降；第三，AI支出导致创纪录的债券发行，推高利差和收益率，中期选举虽不改变AI大格局，但州级权力变化可能导致更多监管和建设周期拉长，从而缓解供应压力；第四，历史数据显示，自1982年至2022年的11次中期选举后一年，标普500均上涨，无论哪个党派获胜。",
+      "detail_en": "Morgan Stanley's Global Head of Fixed Income Research Andrew Sheets discusses the impact of the US midterm election results on fixed income markets in a November 6 report. Democrats won far more seats in both the House and Senate than expected, with key statewide races such as Texas Governor also flipping unexpectedly, and Democrats enjoyed the largest vote share of any party in almost 50 years. The initial market reaction was negative, but Sheets sees several reasons why fixed income markets have grown more comfortable: First, uncertainty is lower as investors had reduced exposure into the election and now have room to add. Second, inflation has been a headwind, with tariffs and energy prices contributing to upward pressure; if the results reflect unpopularity of tariffs or certain foreign policy, investors could assume these policies are more likely to change, helping push down long-term bond yields, and economists expect the next US inflation number to show a notable step down. Third, AI spending has generated record bond issuance, pushing up spreads and yields; while the midterms don't change the big picture on AI, changes in statewide power could result in more regulation and a more elongated buildout, easing supply pressure. Fourth, following the last 11 midterm elections from 1982 to 2022, the S&P 500 was higher one year later after all of them, regardless of the winning party.",
+      "conclusion_zh": "中期选举结果对固定收益市场的影响可能偏积极，不确定性降低、通胀压力缓解和AI债券供应压力减轻是主要逻辑，历史经验也显示选举后一年美股表现强劲。",
+      "conclusion_en": "The midterm election outcome may be positive for fixed income markets due to reduced uncertainty, easing inflation pressure, and relief in AI-related bond supply, while historical experience shows strong equity performance one year after elections.",
+      "key_points": [
+        {
+          "zh": "民主党中期选举大胜，最初被市场视为负面，但固定收益市场已逐渐适应。",
+          "en": "Democrats' midterm victory was initially seen as market-negative, but fixed income markets have grown more comfortable."
+        },
+        {
+          "zh": "不确定性降低，投资者在选举前已减少敞口，现在有空间加仓。",
+          "en": "Uncertainty is lower, and investors who reduced exposure before the election now have room to add."
+        },
+        {
+          "zh": "通胀压力可能缓解：选举结果或反映关税和外交政策的不受欢迎，未来政策可能改变，有助于压低长期收益率。",
+          "en": "Inflation pressure may ease: the results could reflect unpopularity of tariffs and foreign policy, making policy changes more likely and helping push down long-term yields."
+        },
+        {
+          "zh": "AI相关债券供应压力或减轻：州级权力变化可能导致更多监管和建设周期拉长。",
+          "en": "AI-related bond supply pressure may ease: changes in statewide power could lead to more regulation and a more elongated buildout."
+        },
+        {
+          "zh": "历史数据显示，1982-2022年11次中期选举后一年标普500均上涨，无论哪个党派获胜。",
+          "en": "History shows the S&P 500 was higher one year after all 11 midterm elections from 1982 to 2022, regardless of the winning party."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "fixed income",
+        "inflation",
+        "AI spending",
+        "bond supply"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
     },
     {
       "guid": "yt:WflfRO5Nbxk",
@@ -17596,57 +17878,6 @@
         {
           "zh": "若出清事件引发股价急跌，应视为期待已久的买入机会，而非逃离风险的理由；当前倾向于超配资本品等已充分调整的质量股。",
           "en": "If clearing events trigger sharp selloffs, they should be viewed as the long-awaited buying opportunity rather than a reason to flee risk; he currently prefers overweight quality stocks such as capital goods that have already corrected sufficiently."
-        }
-      ],
-      "tags": [
-        "market correction",
-        "quality rotation",
-        "AI capex",
-        "midterm elections",
-        "liquidity tightening"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3VFK4VkbWvI",
-      "title": "市場調整の次の局面",
-      "title_zh": "摩根士丹利威尔逊：美股调整接近尾声，但最后阶段可能痛苦",
-      "url": "https://www.youtube.com/watch?v=3VFK4VkbWvI",
-      "published_at": "2026-10-31T08:11:41+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "摩根士丹利首席投资官迈克·威尔逊认为，始于6月的美股调整已进入最后阶段，但指数层面可能还需进一步下跌，标普500在7100-7200点区域或提供坚实支撑。他预计未来将有三大'出清事件'——AI资本开支与信贷担忧、中期选举不确定性、以及流动性收紧，这些事件可能引发最后一跌，但也将创造买入机会。",
-      "summary_en": "Morgan Stanley CIO Mike Wilson believes the US equity correction that began in June is in its final stage, but the index may still need to fall further, with the S&P 500 likely finding solid support around 7,100-7,200. He expects three 'clearing events' ahead—AI capex and credit concerns, midterm election uncertainty, and tightening liquidity—which could trigger a final selloff but also create buying opportunities.",
-      "detail_zh": "威尔逊指出，始于6月的调整在水面下已相当深入，但由高质量股票构成的标普500指数可能仍有未完成的调整，在调整走完之前不能断言结束。摩根士丹利将此次调整视为典型的周期中段过渡，盈利修正率的变化已如预期见顶，市场反应是周期早期的高杠杆股票开始跑输，而高质量、轻资产、服务导向的公司表现突出。目前向质量股的轮动已被广泛理解，投资者仓位也随之调整；最终阶段通常是高质量的标普500指数与水面下疲弱的市场广度相互靠拢，这一过程可能已经开始。若指数进一步下跌，威尔逊认为标普500在7100-7200点区域将提供坚实支撑。他认为调整最终会以较好形式收尾，因为已经发生了相当大的损害：自6月以来，纳斯达克3000指数约60%的成份股跌幅超过20%，周期早期板块如工业、汽车、可选消费和资本品受创更重；同时对冲基金仓位已大幅缩减至过去12个月最低水平附近，这是令人鼓舞的信号，但整体市场情绪尚未达到持续触底的极端水平。他预计未来有三个'出清事件'：第一是AI，投资者对最终资本回报率、资本成本以及巨额支出能否全部通过信贷市场借款融资存疑，未来几周市场需吸收更多债券发行供应，质量较差的公司可能面临利差扩大和股价进一步下跌；供应本身即是事件，一旦被消化，风险应开始转变，工业板块仍是担忧中心，可能成为判断整体调整的指标，他预计到11月中旬工业板块可能再跌10-15%。第二是中期选举，市场厌恶不确定性，蓝色浪潮（民主党大胜）已不再是意外，更大的担忧是投票后可能发生的事，例如伊朗军事紧张局势再起；历史上中期选举后回报非常强劲，若投票日前后数日或数周股价急跌，应准备买入。第三也是最重要的是流动性：利率上升、资产负债表扩张放缓、资金需求增加以及能源价格上涨共同导致金融环境快速收紧，类似2018年情形；尽管美联储紧缩幅度很小，但情况与2022年经历相差不大，市场实际上在替美联储紧缩；若这种紧缩开始引发融资紧张或信贷市场不稳定，美联储和财政部有应对手段，问题是是否需情况进一步恶化才会行动。总结而言，威尔逊认为调整处于最后阶段，但最后阶段可能非常不舒服，可能还需要指数层面再跌一波和波动率急升，或者投资者再次经历'某处坏了'的时刻，而这可能为美联储政策转向和股市下一轮上涨铺路。他倾向于继续超配资本品等调整已超过指数的质量股，并将出清事件引发的急跌视为期待已久的买点而非逃离风险的理由。",
-      "detail_en": "Wilson notes that the correction that began in June is already quite advanced beneath the surface, but the high-quality S&P 500 index may still have unfinished adjustment, and the correction cannot be called complete until that runs its course. Morgan Stanley views this as a typical mid-cycle transition; the earnings revision rate peaked as expected, and the market reaction has been early-cycle, high-leverage stocks starting to underperform while high-quality, asset-light, service-oriented companies come to the fore. The rotation to quality is now widely understood and investor positioning has followed; in the final stage, the high-quality S&P 500 and the weak market breadth beneath the surface typically converge toward each other, and that process may already be underway. If the index falls further, Wilson sees solid support for the S&P 500 around 7,100-7,200. He believes the correction will ultimately resolve well because significant damage has already occurred: since June, about 60% of Nasdaq 3000 constituents have fallen more than 20%, with early-cycle sectors such as industrials, autos, consumer discretionary and capital goods hit harder; hedge fund positioning has shrunk sharply to near the lowest level in the past 12 months, which is encouraging, but overall market sentiment has not yet reached the extreme level that would signal a durable bottom. He expects three 'clearing events': first, AI—investors question the ultimate return on capital, cost of capital, and whether the massive promised spending can all be financed through credit market borrowing; the market will need to absorb more bond supply in coming weeks, and lower-quality companies may face wider spreads and further stock declines; the supply itself is the event, and once absorbed, risk should begin to shift, with industrials remaining at the center of concern and possibly a good indicator for the overall correction—he expects industrials to fall another 10-15% by mid-November. Second, the midterm elections: markets dislike uncertainty and this election is full of it; a blue wave is no longer a surprise, and the bigger concern is what could happen after the vote, such as renewed military tension over Iran; historically, post-midterm returns have been very strong, so if stocks plunge in the days or weeks around the vote, one should be ready to buy. Third and most important, liquidity: rising rates, slower balance sheet expansion, higher funding demand and rising energy prices are combining to tighten financial conditions rapidly, similar to 2018; despite only small Fed tightening, conditions are not much different from what was experienced in 2022—the market is effectively tightening for the Fed; if this tightening starts to cause funding stress or destabilize credit markets, the Fed and Treasury have tools to respond, but the question is whether conditions need to worsen further before they act. In sum, Wilson believes the correction is in its final stage, but that stage may be very uncomfortable, possibly requiring another leg down at the index level and a volatility spike, or another moment when investors decide something is broken—which could open the way for a Fed pivot and the next leg up in stocks. For now, he prefers to stay overweight quality stocks such as capital goods that have corrected more than the index, and to treat sharp selloffs caused by clearing events as a long-awaited buying opportunity rather than a reason to flee risk.",
-      "conclusion_zh": "威尔逊认为美股调整已近尾声，但最后阶段可能伴随指数再跌和波动率急升；投资者应继续持有质量股，并准备好将出清事件引发的急跌视为买入机会。",
-      "conclusion_en": "Wilson believes the US equity correction is nearing its end, but the final stage may bring another index decline and a volatility spike; investors should stay in quality stocks and be ready to treat clearing-event selloffs as buying opportunities.",
-      "key_points": [
-        {
-          "zh": "调整已进入最后阶段，但指数层面可能还需进一步下跌，标普500在7100-7200点区域或提供坚实支撑。",
-          "en": "The correction is in its final stage, but the index may need to fall further, with the S&P 500 likely finding solid support around 7,100-7,200."
-        },
-        {
-          "zh": "自6月以来纳斯达克3000指数约60%成份股跌幅超20%，对冲基金仓位降至12个月低点附近，但市场情绪尚未达到极端触底水平。",
-          "en": "About 60% of Nasdaq 3000 constituents have fallen more than 20% since June, and hedge fund positioning is near 12-month lows, but sentiment has not yet reached extreme bottom levels."
-        },
-        {
-          "zh": "未来三大出清事件：AI资本开支与信贷担忧（工业板块可能再跌10-15%）、中期选举不确定性、以及流动性快速收紧。",
-          "en": "Three clearing events ahead: AI capex and credit concerns (industrials may fall another 10-15%), midterm election uncertainty, and rapidly tightening liquidity."
-        },
-        {
-          "zh": "流动性收紧类似2018年，市场实际上在替美联储紧缩；若引发融资紧张或信贷市场不稳定，美联储和财政部有应对手段。",
-          "en": "Liquidity tightening resembles 2018, with the market effectively tightening for the Fed; if it causes funding stress or credit market instability, the Fed and Treasury have tools to respond."
-        },
-        {
-          "zh": "继续超配资本品等调整已超过指数的质量股，并将出清事件引发的急跌视为买点而非逃离风险的理由。",
-          "en": "Stay overweight quality stocks such as capital goods that have corrected more than the index, and treat sharp selloffs from clearing events as buying opportunities rather than reasons to flee risk."
         }
       ],
       "tags": [
