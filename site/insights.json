@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-11-08T11:11:38.415368+00:00",
+  "generated_at": "2026-11-08T12:18:12.604125+00:00",
   "insights": [
+    {
+      "guid": "yt:dOHU1_D0z04",
+      "title": "Midterm Election Fallout; Oval Office Shakeup | Bloomberg This Weekend: Nov 8th, 2026",
+      "title_zh": "彭博周末节目：特朗普施压民主党、通胀预期与波兰枪击案",
+      "url": "https://www.youtube.com/watch?v=dOHU1_D0z04",
+      "published_at": "2026-11-08T10:58:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博周末节目讨论了特朗普对民主党调查其团队的威胁、美国通胀在近期回升后预计将有所缓和，以及波兰最致命枪击案加深政治分歧。节目嘉宾包括两位民主党众议员当选人、SMBC日兴证券首席经济学家Joe Lavorgna和前副国务卿Stephen Biegun。",
+      "summary_en": "This weekend's Bloomberg program covered Trump's threats to Democrats over their plans to probe his team, expectations that US inflation will simmer down after a recent pickup, and Poland's deadliest shooting in years deepening political divides. Guests included two Democratic Representatives-elect, SMBC Nikko Securities Chief Economist Joe Lavorgna, and former Deputy Secretary of State Stephen Biegun.",
+      "detail_zh": "节目预告显示，本期Bloomberg This Weekend由David Gura、Lisa Mateo和Nathan Hager主持，内容涵盖新闻、政治、生活方式和文化。主要话题包括：特朗普威胁民主党人，因其计划调查特朗普团队；特朗普邀请UFC的Dana White担任下一任新闻秘书；美国通胀在近期回升后预计将有所缓和；波兰多年来最致命的枪击案加深了政治分歧。节目嘉宾包括北卡罗来纳州民主党众议员当选人Paul Barringer、弗吉尼亚州民主党众议员当选人Shannon Taylor、SMBC日兴证券首席经济学家Joe Lavorgna，以及前副国务卿、前美国朝鲜问题特别代表Stephen Biegun。",
+      "detail_en": "The program preview indicates that this edition of Bloomberg This Weekend, hosted by David Gura, Lisa Mateo, and Nathan Hager, covers news, politics, lifestyle, and culture. Key topics include: Trump threatening Democrats over their plans to probe his team; Trump asking UFC's Dana White to be his next press secretary; US inflation expected to simmer down a bit after a recent pickup; and Poland's deadliest shooting in years deepening political divides. Guests include Rep Elect Paul Barringer (D) of North Carolina, Rep Elect Shannon Taylor (D) of Virginia, Joe Lavorgna, Chief Economist at SMBC Nikko Securities, and Stephen Biegun, former Deputy Secretary of State and former US Special Representative for North Korea.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普威胁民主党人，因其计划调查特朗普团队。",
+          "en": "Trump threatens Democrats over their plans to probe his team."
+        },
+        {
+          "zh": "特朗普邀请UFC的Dana White担任下一任新闻秘书。",
+          "en": "Trump asks UFC's Dana White to be his next press secretary."
+        },
+        {
+          "zh": "美国通胀在近期回升后预计将有所缓和。",
+          "en": "US inflation is expected to simmer down a bit after a recent pickup."
+        },
+        {
+          "zh": "波兰最致命枪击案加深政治分歧。",
+          "en": "Poland's deadliest shooting in years deepens political divide."
+        },
+        {
+          "zh": "嘉宾包括两位民主党众议员当选人、SMBC日兴证券首席经济学家Joe Lavorgna和前副国务卿Stephen Biegun。",
+          "en": "Guests include two Democratic Representatives-elect, SMBC Nikko Securities Chief Economist Joe Lavorgna, and former Deputy Secretary of State Stephen Biegun."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "inflation",
+        "Poland",
+        "Bloomberg",
+        "politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:LBSveEI1MQI",
       "title": "Bremmer: U.S. Retreat From Global Leadership Is a Long-Term Shift",
@@ -17328,53 +17377,6 @@
         "Democratic control",
         "data centers",
         "innovation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:1nrT6b0fXfY",
-      "title": "市場調整の次の局面",
-      "title_zh": "摩根士丹利威尔逊：美股调整接近尾声，但最后阶段可能痛苦",
-      "url": "https://www.youtube.com/watch?v=1nrT6b0fXfY",
-      "published_at": "2026-11-01T12:03:47+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "摩根士丹利首席投资官迈克·威尔逊认为，始于6月的股市调整已进入最后阶段，但指数层面可能还需进一步下跌，波动性也可能飙升。他预计标普500指数若进一步走低，7100-7200点区域将构成坚实支撑，并建议关注AI、中期选举和流动性这三大“出清事件”带来的买入机会。",
-      "summary_en": "Morgan Stanley CIO Mike Wilson believes the equity market correction that began in June is in its final stage, but the index level may still need to fall further and volatility could spike. He sees 7100-7200 on the S&P 500 as a solid support area if the index declines further, and advises watching three 'clearing events'—AI, midterm elections, and liquidity—as buying opportunities.",
-      "detail_zh": "威尔逊指出，始于6月的调整在水面下已相当深入，但由高质量股票构成的标普500指数可能仍有未完成的调整，在调整走完之前不能断言结束。摩根士丹利将此次调整视为向周期中段的过渡，盈利预测修正率的变化已在周期底部约一年后见顶，市场反应是周期早期的高经营杠杆和财务杠杆股票开始跑输，而质量更高、轻资产、服务导向的公司崭露头角。目前向质量股的轮动已被广泛理解，投资者仓位也已跟进；通常最终阶段高质量指数与水面下疲弱的市场会相互靠拢，这种收敛可能已经开始。若指数进一步下跌，威尔逊认为标普500的7100-7200点区域将是本次调整的坚实下行支撑。他认为调整最终会以较好方式收场，因为自6月以来纳斯达克3000指数约60%的成分股跌幅超过20%，非必需消费品、汽车、周期性消费和资本品等周期早期板块受创更重；同时对冲基金仓位已大幅缩减至过去12个月最低水平附近，这是令人鼓舞的信号，但整体市场情绪尚未达到持续触底的极端水平。他预计未来有三个“出清事件”：第一是AI，投资者质疑最终资本回报率、资本成本以及巨额支出能否全部通过信贷市场借款融资，未来几周市场需吸收更多债券发行供应，质量较差的公司可能继续面临利差扩大和股价进一步下跌，供应本身即是事件，消化后风险应开始切换，非必需消费品仍是担忧中心，可能再跌10%-15%至11月中旬；第二是中期选举，市场厌恶不确定性，蓝色浪潮已非意外，更大的担忧是投票后可能发生的事，例如伊朗军事紧张重燃，历史上中期选举后回报非常强劲，若投票日前后数日或数周股价急跌，应准备买入；第三也是最重要的是流动性，利率上升、资产负债表扩张放缓、资金需求增加和能源价格上涨共同导致金融环境快速收紧，类似2018年，尽管美联储紧缩幅度很小，但状况与2022年相差不大，市场实际上在替美联储紧缩，若融资紧张或信贷市场不稳定，美联储和财政部有工具应对，问题是是否需要情况进一步恶化才会行动。总结而言，调整处于最后阶段但可能非常不舒服，可能还需要指数再跌一波和波动性飙升，或者投资者再次认为“有东西坏了”，而这可能为美联储政策转向和下一轮股价上涨打开道路。他继续偏好资本品等调整已超过指数的质量股，若出清事件导致股价急跌，应视为等待已久的买入机会而非逃离风险的理由。",
-      "detail_en": "Wilson notes that the correction that began in June has progressed considerably beneath the surface, but the high-quality S&P 500 index may still have unfinished adjustment, and the correction cannot be called complete until it runs its course. Morgan Stanley views this correction as a transition to mid-cycle; the rate of change in earnings revisions peaked about a year after the cycle bottom, as expected, and the market reacted as usual: early-cycle stocks with high operating and financial leverage began to underperform, while higher-quality, asset-light, service-oriented companies came to the fore. The rotation to quality is now widely understood and investor positioning has followed; typically in the final stage the high-quality index and the weak market breadth converge toward each other, and that convergence may already be starting. If the index falls further, Wilson sees the 7100-7200 area on the S&P 500 as solid downside support for this correction. He believes the correction will ultimately resolve well because significant damage has already occurred: since June, about 60% of Nasdaq 3000 constituents have fallen more than 20%, and early-cycle sectors such as consumer discretionary, autos, cyclical consumer and capital goods have been hit harder. Meanwhile, hedge fund positioning has shrunk sharply to near the lowest level in the past 12 months, which is encouraging, but overall market sentiment has not yet reached the extreme level that would signal a durable bottom. He expects three 'clearing events' ahead: first, AI—investors question the ultimate return on capital, cost of capital, and whether the massive promised spending can all be financed through credit market borrowing; the market will need to absorb more bond supply in coming weeks, and lower-quality companies may continue to face wider spreads and further stock declines. He views the supply itself as the event, and once absorbed, risk should begin to shift. Consumer discretionary remains the center of concern and may fall another 10-15% into mid-November. Second, the midterm elections—markets dislike uncertainty and this election is full of it; a blue wave is no longer a surprise, and the bigger concern is what could happen after the vote, such as renewed military tension over Iran. He claims no special strength in predicting election outcomes but knows such shocks often create very good buying opportunities; historically, post-midterm returns have been very strong, so he wants to be ready to buy if stocks plunge in the days or weeks around the election. Third and most important is liquidity—rising rates, slower balance sheet expansion, higher funding demand and rising energy prices are combining to tighten financial conditions rapidly, similar to 2018. Despite only small Fed tightening, conditions are not much different from what was experienced in 2022; the market is effectively doing the tightening for the Fed. If this tightening starts to cause funding stress or destabilize credit markets, the Fed and Treasury have tools to respond; the question is whether conditions need to worsen further before they act. In summary, Wilson believes the correction that began in June is in its final stage, but that final stage may be very uncomfortable. Another leg down at the index level and a spike in volatility may still be needed, or investors may need another moment of judging that something is broken—which could open the way for a Fed pivot and the next leg higher in stocks. For now, he continues to favor quality stocks in sectors such as capital goods that have corrected more than the index, and if clearing events cause sharp stock declines, he would view them as awaited buying opportunities rather than reasons to flee risk.",
-      "conclusion_zh": "美股调整接近尾声但最后阶段可能痛苦，投资者应准备迎接波动，并将出清事件引发的急跌视为买入质量股的机会。",
-      "conclusion_en": "The US equity correction is near its end but the final stage may be painful; investors should prepare for volatility and treat clearing-event selloffs as opportunities to buy quality stocks.",
-      "key_points": [
-        {
-          "zh": "调整已进入最后阶段，但指数层面可能还需进一步下跌，标普500的7100-7200点区域是坚实支撑。",
-          "en": "The correction is in its final stage, but the index may need to fall further; 7100-7200 on the S&P 500 is solid support."
-        },
-        {
-          "zh": "自6月以来纳斯达克3000指数约60%成分股跌幅超20%，对冲基金仓位降至12个月低点附近，但市场情绪尚未达到极端底部水平。",
-          "en": "About 60% of Nasdaq 3000 constituents have fallen more than 20% since June, and hedge fund positioning is near 12-month lows, but sentiment has not yet reached extreme bottom levels."
-        },
-        {
-          "zh": "三大出清事件：AI（资本回报与信贷融资担忧，非必需消费品可能再跌10-15%）、中期选举（投票后不确定性，历史显示选举后回报强劲）、流动性（金融环境快速收紧，类似2018年）。",
-          "en": "Three clearing events: AI (concerns over returns and credit financing; consumer discretionary may fall another 10-15%), midterm elections (post-vote uncertainty; historically strong post-election returns), and liquidity (rapidly tightening financial conditions, similar to 2018)."
-        },
-        {
-          "zh": "若出清事件引发股价急跌，应视为买入机会而非逃离风险的理由；继续偏好资本品等调整已超过指数的质量股。",
-          "en": "If clearing events cause sharp declines, view them as buying opportunities rather than reasons to flee risk; continue to favor quality stocks such as capital goods that have corrected more than the index."
-        }
-      ],
-      "tags": [
-        "market correction",
-        "quality rotation",
-        "AI capex",
-        "midterm elections",
-        "liquidity"
       ],
       "tickers": [],
       "sentiment": "neutral"
