@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:11:13.481513+00:00",
+  "generated_at": "2026-11-08T20:12:51.960412+00:00",
   "insights": [
     {
       "guid": "yt:rxAHCJ44Rck",
@@ -17275,51 +17275,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:e6C2fDJnOT8",
-      "title": "Why Bitcoin's Next Big Rally Could Catch Everyone Off Guard",
-      "title_zh": "机构看多比特币短期前景：若美元走弱与通胀放缓，或突破10万美元",
-      "url": "https://www.youtube.com/watch?v=e6C2fDJnOT8",
-      "published_at": "2026-11-01T20:00:17+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "该机构表示当前看好比特币短期表现，理由是在收益率和美元最悲观的背景下比特币仍维持在8万美元，若美元下跌且通胀显著放缓，比特币可能很快突破10万美元。该机构认为市场对比特币的持仓较低、投资者已放弃，且过去一年半持有者体验极差，但同时强调比特币并非黄金。",
-      "summary_en": "The firm says it likes Bitcoin here: with yields and the dollar at their most bearish, Bitcoin is still at 80 (thousand), and if the dollar falls and there is a big disinflation impulse, Bitcoin could break 100 (thousand) in the near term. The firm is very optimistic near term because people do not own it and have abandoned it, and market performance over the past year and a half has been very poor for Bitcoin holders. It stresses, however, that Bitcoin is not gold.",
-      "detail_zh": "该机构明确表示“我们在这里喜欢比特币”。其核心逻辑是：即便在收益率和美元最悲观的假设下，比特币仍能维持在8万美元（原文为80，结合语境指8万美元），那么一旦美元走弱并出现明显的通胀放缓动力，比特币短期内可能突破10万美元（原文为100）。基于此，该机构对比特币短期非常乐观，原因包括：人们并未持有比特币、已经放弃它，且过去一年半的市场表现对持有者极为糟糕。该机构同时提醒，必须认识到比特币不是黄金。原文未提供更多具体数据、时间框架或风险细节。",
-      "detail_en": "The firm explicitly says \"we like Bitcoin here.\" Its core logic: even under the most bearish factors for yields and the dollar, Bitcoin is still at 80 (thousand), so if the dollar falls and there is a big disinflation impulse, Bitcoin could break 100 (thousand) in the near term. On that basis, the firm is very optimistic on Bitcoin near term because people do not own it, have abandoned it, and market performance over the past year and a half has been very poor for Bitcoin holders. The firm also cautions that one must recognize Bitcoin is not gold. The original text provides no further specific data, time frame, or risk details.",
-      "conclusion_zh": "该机构短期看多比特币，认为低持仓与潜在美元走弱、通胀放缓可能推动其突破10万美元，但强调比特币不具备黄金属性。",
-      "conclusion_en": "The firm is near-term bullish on Bitcoin, arguing low positioning plus potential dollar weakness and disinflation could push it above 100 (thousand), while stressing Bitcoin is not gold.",
-      "key_points": [
-        {
-          "zh": "在收益率和美元最悲观的背景下，比特币仍维持在8万美元，显示韧性。",
-          "en": "Even with the most bearish factors for yields and the dollar, Bitcoin is still at 80 (thousand), showing resilience."
-        },
-        {
-          "zh": "若美元下跌且通胀显著放缓，比特币短期内可能突破10万美元。",
-          "en": "If the dollar falls and there is a big disinflation impulse, Bitcoin could break 100 (thousand) in the near term."
-        },
-        {
-          "zh": "该机构短期非常看多，理由是市场持仓低、投资者已放弃，且过去一年半持有者体验极差。",
-          "en": "The firm is very bullish near term because positioning is low, people have abandoned it, and the past year and a half has been very poor for holders."
-        },
-        {
-          "zh": "该机构提醒：比特币不是黄金。",
-          "en": "The firm cautions that Bitcoin is not gold."
-        }
-      ],
-      "tags": [
-        "bitcoin",
-        "dollar",
-        "disinflation",
-        "positioning"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
