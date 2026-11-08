@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-08T12:18:12.604125+00:00",
+  "generated_at": "2026-11-08T13:12:03.294851+00:00",
   "insights": [
+    {
+      "guid": "4964825",
+      "title": "Wall Street Week Ahead",
+      "title_zh": "本周关注：CPI通胀数据与AI动态，科技股波动持续",
+      "url": "https://seekingalpha.com/article/4964825-wall-street-week-ahead?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-08T11:13:56+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "投资者本周将聚焦通胀和人工智能，10月CPI预计同比上涨3.7%，机票价格或再次明显上升。多位美联储官员将发表讲话，Anthropic预计启动IPO路演，Adobe、台积电等科技公司也有重要活动。科技股在选举后波动仍存，市场关注AI板块是否泡沫破裂。",
+      "summary_en": "Investors will focus on inflation and AI this week, with October CPI expected at 3.7% and airfare seen rising notably. Several Fed speakers are scheduled, Anthropic is expected to start its IPO road show, and tech events from Adobe and TSMC are on tap. Post-election volatility lingers over tech stocks, with market watchers debating whether the AI stock meltdown signals a bubble burst.",
+      "detail_zh": "本周市场焦点重回通胀与人工智能。10月消费者价格指数（CPI）将于周二公布，市场预期整体通胀率为3.7%，机票价格预计再次显著上涨。美联储多位官员将发表讲话，包括Austan Goolsbee、Tom Barkin、Jeffrey Schmid、Lorie Logan和Mary Daly。AI领域保持高度关注：Anthropic预计启动IPO路演，并可能提交更新后的S-1/A文件，包含初始价格区间和最终估值目标；Adobe将于周二启动为期三天的MAX活动；台积电将发布月度营收数据。财报方面，KKR、Rocket Lab、Take-Two Interactive、西方石油、CoreWeave、思科、应用材料和Nebius等公司将公布业绩。此外，SA分析师关注的话题包括：AI股票暴跌是否意味着泡沫破裂、QQQ已成为防御性指数、10月CPI可能偏高、健康的10月就业报告支持加息论点、Nebius与CoreWeave的对比、D-Wave Quantum财报等。内部交易方面，Netflix、英特尔和Visa出现显著交易。",
+      "detail_en": "Market focus returns to inflation and AI this week. The October CPI report is due Tuesday, with headline inflation expected at 3.7% and airfare seen posting another notable increase. Several Fed speakers are scheduled, including Austan Goolsbee, Tom Barkin, Jeffrey Schmid, Lorie Logan and Mary Daly. AI remains in focus: Anthropic is expected to begin its IPO road show and could file an updated S-1/A with an initial price range and finalized valuation target; Adobe kicks off its three-day MAX event Tuesday; Taiwan Semiconductor is due to release monthly revenue. Earnings are expected from KKR, Rocket Lab, Take-Two Interactive, Occidental Petroleum, CoreWeave, Cisco, Applied Materials and Nebius. SA analysts are watching topics including whether the AI stock meltdown is a bubble burst, QQQ as a defensive index, a likely hot October CPI, a healthy October jobs report supporting the rate hike argument, Nebius vs. CoreWeave, and D-Wave Quantum earnings. Insider transactions were notable at Netflix, Intel and Visa.",
+      "conclusion_zh": "本周通胀数据和AI动态将主导市场情绪，科技股波动可能持续，投资者需关注CPI是否超预期以及AI板块的估值风险。",
+      "conclusion_en": "Inflation data and AI developments will dominate market sentiment this week, with tech volatility likely to persist; investors should watch whether CPI surprises and AI valuation risks.",
+      "key_points": [
+        {
+          "zh": "10月CPI预计同比上涨3.7%，机票价格或再次明显上升。",
+          "en": "October CPI is expected at 3.7% year-over-year, with airfare seen rising notably again."
+        },
+        {
+          "zh": "多位美联储官员本周将发表讲话，包括Goolsbee、Barkin、Schmid、Logan和Daly。",
+          "en": "Several Fed speakers are scheduled this week, including Goolsbee, Barkin, Schmid, Logan and Daly."
+        },
+        {
+          "zh": "Anthropic预计启动IPO路演，可能提交包含初始价格区间和估值目标的更新文件。",
+          "en": "Anthropic is expected to begin its IPO road show and may file an update with an initial price range and valuation target."
+        },
+        {
+          "zh": "科技股在选举后波动持续，市场关注AI板块是否泡沫破裂。",
+          "en": "Post-election volatility lingers over tech stocks, with focus on whether the AI sector is a bubble bursting."
+        },
+        {
+          "zh": "本周财报密集，包括KKR、CoreWeave、思科、应用材料、台积电月度营收等。",
+          "en": "A busy earnings week includes KKR, CoreWeave, Cisco, Applied Materials, and TSMC monthly revenue."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "AI",
+        "Fed",
+        "earnings",
+        "tech-volatility"
+      ],
+      "tickers": [
+        "ADBE",
+        "TSM",
+        "KKR",
+        "RKLB",
+        "TTWO",
+        "OXY",
+        "CRWV",
+        "CSCO",
+        "AMAT",
+        "NBIS",
+        "HIMS",
+        "SFTBF",
+        "NFLX",
+        "INTC",
+        "V"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:dOHU1_D0z04",
       "title": "Midterm Election Fallout; Oval Office Shakeup | Bloomberg This Weekend: Nov 8th, 2026",
@@ -17290,96 +17356,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:AUJA7d08ZeM",
-      "title": "The $40 Trillion Problem Washington Won’t Talk About",
-      "title_zh": "美国国债突破40万亿美元，赤字压力推高长期利率",
-      "url": "https://www.youtube.com/watch?v=AUJA7d08ZeM",
-      "published_at": "2026-11-01T13:02:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国国债规模已超过40万亿美元，持续赤字对长期利率构成上行压力。耶鲁预算实验室的Natasha Sarin等经济学家认为，政府借贷增加最终会以更高的抵押贷款、汽车贷款等融资成本转嫁给家庭。前众议院议长Paul Ryan表示，美国仍可改变方向，但需在市场迫使华盛顿行动之前，直面福利支出、税收和社会保障未来等政治难题。",
-      "summary_en": "U.S. national debt has surpassed $40 trillion, and persistent deficits are putting upward pressure on long-term interest rates. Economists including Natasha Sarin of the Yale Budget Lab argue that heavier government borrowing ultimately filters through to households as higher mortgages, car loans and other financing costs. Former House Speaker Paul Ryan says the country can still change course, but doing so requires confronting politically difficult questions around entitlement spending, taxes and the future of Social Security before markets force Washington to act.",
-      "detail_zh": "美国国债规模已攀升至40万亿美元以上，持续存在的赤字正对长期利率形成上行压力。耶鲁预算实验室的Natasha Sarin等经济学家指出，政府借贷加重最终会传导至家庭部门，表现为更高的抵押贷款利率、汽车贷款及其他融资成本。前众议院议长Paul Ryan表示，美国仍有能力改变政策方向，但这需要直面福利支出、税收以及社会保障未来等政治敏感问题，并且要在市场迫使华盛顿采取行动之前完成。原文未提供具体利率水平、赤字占GDP比重或时间表等细节。",
-      "detail_en": "America's national debt has climbed past $40 trillion, and persistent deficits are putting upward pressure on long-term interest rates. Economists including Natasha Sarin of the Yale Budget Lab argue that heavier government borrowing ultimately filters through to households in the form of higher mortgages, car loans and other financing costs. Former House Speaker Paul Ryan says the country can still change course, but doing so will require confronting politically difficult questions around entitlement spending, taxes and the future of Social Security before markets force Washington to act. The source does not provide specific interest rate levels, deficit-to-GDP ratios, or timelines.",
-      "conclusion_zh": "美国财政赤字与债务压力可能通过长期利率向家庭融资成本传导，投资者需关注财政政策动向及其对利率敏感型资产的潜在影响。",
-      "conclusion_en": "U.S. fiscal deficits and debt pressures may transmit to household financing costs via higher long-term rates; investors should watch fiscal policy developments and their potential impact on rate-sensitive assets.",
-      "key_points": [
-        {
-          "zh": "美国国债规模已超过40万亿美元，持续赤字推高长期利率。",
-          "en": "U.S. national debt has surpassed $40 trillion, with persistent deficits pushing up long-term interest rates."
-        },
-        {
-          "zh": "Natasha Sarin等经济学家认为，政府借贷增加最终会以更高抵押贷款、汽车贷款等融资成本转嫁给家庭。",
-          "en": "Economists including Natasha Sarin argue that heavier government borrowing ultimately filters through to households as higher mortgages, car loans and other financing costs."
-        },
-        {
-          "zh": "Paul Ryan表示美国仍可改变方向，但需直面福利支出、税收和社会保障等政治难题。",
-          "en": "Paul Ryan says the country can still change course, but it requires confronting politically difficult questions around entitlement spending, taxes and Social Security."
-        },
-        {
-          "zh": "Ryan强调，政策调整需在市场迫使华盛顿行动之前完成。",
-          "en": "Ryan emphasizes that policy changes need to happen before markets force Washington to act."
-        }
-      ],
-      "tags": [
-        "national debt",
-        "deficits",
-        "interest rates",
-        "fiscal policy",
-        "Social Security"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:DdNlxW4iC4U",
-      "title": "AI Concerns Move to Center of Midterm Campaigns",
-      "title_zh": "AI成为中期选举议题，民主党若掌控国会或加强监管",
-      "url": "https://www.youtube.com/watch?v=DdNlxW4iC4U",
-      "published_at": "2026-11-01T12:58:34+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博政府事务记者Cristiano Lima-Strong表示，AI正成为中期选举的重要议题，候选人围绕监管、数据中心、就业和安全展开争论。他指出，若民主党掌控国会，可能带来更积极的监管方式，议员们将在保障措施与创新之间寻求平衡。",
-      "summary_en": "Bloomberg Government senior AI and government reporter Cristiano Lima-Strong says AI is emerging as a major issue in the midterm elections, with candidates clashing over regulation, data centers, jobs and safety. He notes that Democratic control of Congress could bring a more aggressive regulatory approach as lawmakers debate balancing safeguards with innovation.",
-      "detail_zh": "彭博政府事务高级AI与政府记者Cristiano Lima-Strong在Bloomberg This Weekend节目中向主持人David Gura和Lisa Mateo表示，AI正成为中期选举的主要议题。候选人围绕AI监管、数据中心、就业和安全等问题存在分歧。Lima-Strong解释称，若民主党掌控国会，可能带来更积极的监管方式。议员们正在辩论如何平衡保障措施与创新。",
-      "detail_en": "Bloomberg Government senior AI and government reporter Cristiano Lima-Strong told Bloomberg This Weekend hosts David Gura and Lisa Mateo that AI is emerging as a major issue in the midterm elections. Candidates are clashing over AI regulation, data centers, jobs and safety. Lima-Strong explained that Democratic control of Congress could bring a more aggressive regulatory approach, as lawmakers debate how to balance safeguards with innovation.",
-      "conclusion_zh": "AI监管已成为中期选举议题，民主党若掌控国会可能加强监管，投资者需关注政策变化对AI相关板块的潜在影响。",
-      "conclusion_en": "AI regulation has become a midterm election issue; Democratic control of Congress could lead to stricter oversight, and investors should watch policy shifts for potential impact on AI-related sectors.",
-      "key_points": [
-        {
-          "zh": "AI正成为中期选举的重要议题",
-          "en": "AI is emerging as a major issue in the midterm elections"
-        },
-        {
-          "zh": "候选人围绕监管、数据中心、就业和安全展开争论",
-          "en": "Candidates are clashing over regulation, data centers, jobs and safety"
-        },
-        {
-          "zh": "民主党若掌控国会，可能带来更积极的监管方式",
-          "en": "Democratic control of Congress could bring a more aggressive regulatory approach"
-        },
-        {
-          "zh": "议员们辩论如何平衡保障措施与创新",
-          "en": "Lawmakers are debating how to balance safeguards with innovation"
-        }
-      ],
-      "tags": [
-        "AI regulation",
-        "midterm elections",
-        "Democratic control",
-        "data centers",
-        "innovation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
