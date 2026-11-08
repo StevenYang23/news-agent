@@ -1,6 +1,274 @@
 {
-  "generated_at": "2026-11-08T14:12:09.617020+00:00",
+  "generated_at": "2026-11-08T15:12:23.445755+00:00",
   "insights": [
+    {
+      "guid": "yt:cs3OyqbIMYo",
+      "title": "The AI Trade Is Cracking | Peter Boockvar on What to Own Instead",
+      "title_zh": "AI资本开支见顶担忧浮现，市场广度收窄",
+      "url": "https://www.youtube.com/watch?v=cs3OyqbIMYo",
+      "published_at": "2026-11-08T15:03:02+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "投资者开始定价AI资本开支见顶，数据中心建设放缓的迹象引发连锁担忧。半导体股6月见顶，CoreWeave因资本成本上升和信用违约互换利差扩大而股价下跌。市场广度全年狭窄，AI交易主导标普500表现，若AI资本开支放缓，经济可能面临衰退风险。",
+      "summary_en": "Investors are beginning to price in peak AI capex, with signs of slowing data center construction triggering cascading concerns. Semiconductor stocks peaked in June, and CoreWeave fell as cost of capital rose and credit default swaps blew out. Market breadth has been narrow all year, with the AI trade dominating S&P 500 performance; without it, the US economy would likely be in recession.",
+      "detail_zh": "基金经理Peter Boockvar（BFG Wealth Partners首席投资官）指出，股市定价的是变化率，投资者现在开始定价AI资本开支的峰值。他提到，过去三个月频繁听到以6倍市盈率交易的美光很便宜的说法，但他认为这令人震惊，因为AI交易几乎占标普500的一半。AI经济贡献可分为几个层面：数据中心的物理建设、模型制造商（如Anthropic和OpenAI）租赁算力、以及超大规模云厂商提供云服务托管模型。近期担忧始于物理建设层面：海外多家公司（FMIS、AirTrunk、NextDC、Endscale）的IPO被取消或投资者对估值提出反对；半导体股在6月见顶；CoreWeave因资本成本上升、债券抛售和信用违约互换利差扩大而股价下跌，引发对其债务和盈利能力的质疑。选举周后，新州长们可能对数据中心建设施加限制或设置参数，投资者开始质疑未来一两年 gigawatt 产能能否建成。若建设放缓，将波及水泥、钢铁、铝、HVAC、开关、电气设备及电工等整个供应链。周三选举后，建设相关股票下跌而超大规模厂商上涨，因市场认为建设减少意味着资本开支减少，但Boockvar认为这一前提有误，周四市场反转，因为云业务依赖更多设施建设。市场广度全年非常狭窄，呈现要么AI要么其他的二元格局，经济也类似；若没有AI交易和股市带动的上层收入消费，美国经济可能已陷入衰退。",
+      "detail_en": "Portfolio manager Peter Boockvar (CIO at BFG Wealth Partners) noted that stocks price in rate of change, and investors are now beginning to price in peak AI capex. He said he frequently heard over the past three months how cheap Micron was at six times earnings, which he found astonishing, as the AI trade is essentially half of the S&P 500. The AI economic contribution breaks into several layers: physical construction of data centers, model makers like Anthropic and OpenAI leasing computing capacity, and hyperscalers providing cloud services to host models. Recent concerns start with physical construction: overseas, IPOs from FMIS, AirTrunk, NextDC, and Endscale were canceled or investors pushed back on valuations; semiconductor stocks peaked in June; CoreWeave fell as cost of capital rose, bonds sold off, and credit default swaps blew out, raising questions about its debt and profitability. After election week, new governorships in certain states may impose restrictions or parameters on data center construction, leading investors to question whether the hoped-for gigawatt capacity will be built in the next year or two. A slowdown in construction would cascade to suppliers of cement, steel, aluminum, HVAC, switches, electrical equipment, and electricians. On Wednesday after the election, construction-related stocks sold off while hyperscalers rallied on the premise that less construction means less capex, but Boockvar called that premise faulty; Thursday reversed as cloud businesses depend on more facilities being built. Market breadth has been very narrow all year, an either-or market where either AI works and nothing else does, or when AI falters everything else works. The economy is similarly mixed; without the AI trade and upper-income spending fueled by the stock market, the US economy would probably be in a recession.",
+      "conclusion_zh": "AI资本开支见顶的定价可能刚刚开始，关注数据中心建设放缓对供应链和整体经济的连锁影响，以及市场广度狭窄带来的脆弱性。",
+      "conclusion_en": "The pricing of peak AI capex may be just beginning; watch for cascading effects of a data center construction slowdown on supply chains and the broader economy, as well as vulnerabilities from narrow market breadth.",
+      "key_points": [
+        {
+          "zh": "投资者开始定价AI资本开支见顶，半导体股6月见顶，CoreWeave因资本成本上升和信用违约互换利差扩大而下跌。",
+          "en": "Investors are beginning to price in peak AI capex; semiconductor stocks peaked in June, and CoreWeave fell as cost of capital rose and credit default swaps blew out."
+        },
+        {
+          "zh": "数据中心建设面临州级限制风险，若建设放缓将波及水泥、钢铁、铝、HVAC、电气设备等整个供应链。",
+          "en": "Data center construction faces risk of state-level restrictions; a slowdown would cascade to cement, steel, aluminum, HVAC, and electrical equipment suppliers."
+        },
+        {
+          "zh": "市场广度全年狭窄，AI交易主导标普500表现，呈现要么AI要么其他的二元格局。",
+          "en": "Market breadth has been narrow all year, with the AI trade dominating S&P 500 performance in an either-or market."
+        },
+        {
+          "zh": "Boockvar认为，若没有AI交易和股市带动的上层收入消费，美国经济可能已陷入衰退。",
+          "en": "Boockvar believes that without the AI trade and upper-income spending fueled by the stock market, the US economy would probably be in a recession."
+        }
+      ],
+      "tags": [
+        "AI capex",
+        "data center",
+        "market breadth",
+        "semiconductors",
+        "CoreWeave"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:GDJ1vdB4uGU",
+      "title": "Luxury Gyms Turn Fitness Into a Family Affair",
+      "title_zh": "高端健身俱乐部以家庭服务吸引家长，月费可达千美元以上",
+      "url": "https://www.youtube.com/watch?v=GDJ1vdB4uGU",
+      "published_at": "2026-11-08T14:39:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博Pursuits作者Hannah Howard在Bloomberg This Weekend节目中介绍，高端健身俱乐部正通过提供儿童看护、游泳课、作业辅导及大龄儿童活动等服务来吸引家庭客户。家长愿意为这种将健身、活动和家庭时光结合在同一场所的俱乐部支付每月数百甚至超过1000美元的费用。",
+      "summary_en": "Bloomberg Pursuits writer Hannah Howard explained on Bloomberg This Weekend how high-end fitness clubs are courting families with services ranging from child care and swimming lessons to homework help and activities for older kids. Parents are willing to pay hundreds or even more than $1,000 a month for clubs that combine workouts, activities and family time under one roof.",
+      "detail_zh": "在Bloomberg This Weekend节目中，Bloomberg Pursuits撰稿人Hannah Howard向主持人David Gura和Christina Ruffini介绍了高端健身俱乐部吸引家庭客户的策略。这些俱乐部提供的服务包括儿童看护、游泳课程、作业辅导以及针对大龄儿童的活动。Howard指出，家长愿意为将健身、活动和家庭时光结合在同一场所的俱乐部支付每月数百美元甚至超过1000美元的费用。该讨论聚焦于消费趋势，未涉及具体公司财务数据或美股投资标的。",
+      "detail_en": "On Bloomberg This Weekend, Bloomberg Pursuits writer Hannah Howard spoke with hosts David Gura and Christina Ruffini about how high-end fitness clubs are courting families. The clubs offer services including child care, swimming lessons, homework help and activities for older kids. Howard noted that parents are willing to pay hundreds or even more than $1,000 a month for clubs that combine workouts, activities and family time under one roof. The discussion focused on a consumer trend and did not include specific company financials or US equity investment targets.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "高端健身俱乐部通过儿童看护、游泳课、作业辅导等服务吸引家庭客户。",
+          "en": "High-end fitness clubs are attracting families with services such as child care, swimming lessons and homework help."
+        },
+        {
+          "zh": "家长愿意为整合健身、活动和家庭时光的俱乐部支付每月数百至超过1000美元。",
+          "en": "Parents are willing to pay hundreds or even more than $1,000 a month for clubs that integrate workouts, activities and family time."
+        },
+        {
+          "zh": "该内容来自Bloomberg This Weekend节目，由Pursuits撰稿人Hannah Howard与主持人David Gura和Christina Ruffini讨论。",
+          "en": "The content comes from Bloomberg This Weekend, discussed by Pursuits writer Hannah Howard with hosts David Gura and Christina Ruffini."
+        }
+      ],
+      "tags": [
+        "fitness clubs",
+        "consumer trends",
+        "family services",
+        "premium pricing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Q5Fv_GijVdQ",
+      "title": "Seattle and Las Vegas Make Their NBA Pitch",
+      "title_zh": "彭博周末节目：NBA扩军至西雅图与拉斯维加斯或带来数十亿美元收入",
+      "url": "https://www.youtube.com/watch?v=Q5Fv_GijVdQ",
+      "published_at": "2026-11-08T14:26:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博资深体育记者Randall Williams在Bloomberg This Weekend节目中解释，NBA可能扩军至西雅图和拉斯维加斯，或带来数十亿美元收入，但也引发现有球队老板财务回报的疑问。Williams还讨论了潜在所有权集团的竞争、LIV Golf的困境以及威胁美国职业棒球大联盟下赛季的劳资斗争。",
+      "summary_en": "Bloomberg senior sports reporter Randall Williams explained on Bloomberg This Weekend that the NBA's potential expansion to Seattle and Las Vegas could generate billions of dollars while raising questions about financial returns for existing owners. Williams also discussed competition among prospective ownership groups, LIV Golf's struggles, and the labor battle threatening Major League Baseball's next season.",
+      "detail_zh": "在Bloomberg This Weekend节目中，彭博资深体育记者Randall Williams向主持人David Gura和Christina Ruffini解释了NBA可能扩军至西雅图和拉斯维加斯的前景。Williams指出，这一扩军可能带来数十亿美元的收入，但同时也会引发关于现有球队老板财务回报的疑问。他还分析了潜在所有权集团之间的竞争。此外，Williams讨论了LIV Golf面临的困境，以及威胁美国职业棒球大联盟下赛季的劳资斗争。",
+      "detail_en": "On Bloomberg This Weekend, Bloomberg senior sports reporter Randall Williams explained to hosts David Gura and Christina Ruffini the prospect of the NBA's potential expansion to Seattle and Las Vegas. Williams noted that the expansion could generate billions of dollars while raising questions about the financial returns for existing owners. He also examined the competition among prospective ownership groups. Additionally, Williams discussed LIV Golf's struggles and the labor battle threatening Major League Baseball's next season.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "NBA可能扩军至西雅图和拉斯维加斯，或带来数十亿美元收入。",
+          "en": "The NBA's potential expansion to Seattle and Las Vegas could generate billions of dollars."
+        },
+        {
+          "zh": "扩军引发对现有球队老板财务回报的疑问。",
+          "en": "The expansion raises questions about the financial returns for existing owners."
+        },
+        {
+          "zh": "潜在所有权集团之间存在竞争。",
+          "en": "There is competition among prospective ownership groups."
+        },
+        {
+          "zh": "LIV Golf面临困境。",
+          "en": "LIV Golf is struggling."
+        },
+        {
+          "zh": "劳资斗争威胁美国职业棒球大联盟下赛季。",
+          "en": "A labor battle is threatening Major League Baseball's next season."
+        }
+      ],
+      "tags": [
+        "NBA expansion",
+        "sports business",
+        "LIV Golf",
+        "MLB labor"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:LN828h0Y5LE",
+      "title": "Voters Put the AI Data Center Boom on Notice",
+      "title_zh": "选民反弹或冲击AI数据中心建设",
+      "url": "https://www.youtube.com/watch?v=LN828h0Y5LE",
+      "published_at": "2026-11-08T14:26:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博科技记者Brody Ford在Bloomberg This Weekend节目中表示，选民对数据中心的反弹可能扰乱支撑AI热潮的基础设施快速建设。他讨论了高负债AI公司面临的风险，以及新当选官员更强硬的承诺是否会转化为对开发的实质性限制。",
+      "summary_en": "Bloomberg tech reporter Brody Ford said on Bloomberg This Weekend that voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. He discussed risks for heavily indebted AI companies and whether tougher promises from newly elected officials will translate into meaningful restrictions on development.",
+      "detail_zh": "彭博科技记者Brody Ford在Bloomberg This Weekend节目中，向主持人David Gura和Christina Ruffini阐述了选民对数据中心的反弹可能如何扰乱AI热潮所依赖的基础设施快速建设。Ford讨论了高负债AI公司面临的风险。他还探讨了新当选官员更强硬的承诺是否会转化为对数据中心开发的实质性限制。节目未提供具体数据、公司名称或政策细节。",
+      "detail_en": "Bloomberg tech reporter Brody Ford appeared on Bloomberg This Weekend with hosts David Gura and Christina Ruffini to explain how voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. Ford discussed the risks for heavily indebted AI companies. He also explored whether tougher promises from newly elected officials will translate into meaningful restrictions on development. No specific figures, company names, or policy details were provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "选民对数据中心的反弹可能扰乱AI基础设施的快速建设",
+          "en": "Voter backlash against data centers could disrupt the rapid buildout of AI infrastructure"
+        },
+        {
+          "zh": "高负债AI公司面临风险",
+          "en": "Heavily indebted AI companies face risks"
+        },
+        {
+          "zh": "新当选官员的强硬承诺是否会转化为实质性开发限制尚待观察",
+          "en": "Whether tougher promises from newly elected officials will translate into meaningful restrictions on development remains to be seen"
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "data centers",
+        "voter backlash",
+        "regulation"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:AQqCGMZAMQQ",
+      "title": "Ukraine Peace Push Returns to Abu Dhabi",
+      "title_zh": "美乌俄代表团将于阿布扎比会谈，讨论俄乌战争谈判",
+      "url": "https://www.youtube.com/watch?v=AQqCGMZAMQQ",
+      "published_at": "2026-11-08T14:23:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国、乌克兰和俄罗斯代表团计划于11月10日至11日 在阿布扎比会面，美方预计由Steve Witkoff和Jared Kushner代表。前副国务卿Stephen Biegun在彭博节目中讨论了民主党控制的国会可能如何加强对特朗普外交政策的审查，同时美国正重启结束俄乌战争的谈判努力。",
+      "summary_en": "US, Ukrainian and Russian delegations are scheduled to meet in Abu Dhabi on November 10-11, with Steve Witkoff and Jared Kushner expected to represent the US. Former Deputy Secretary of State Stephen Biegun discussed on Bloomberg This Weekend how a Democratic-controlled Congress could bring greater scrutiny to President Donald Trump's foreign policy as the US renews efforts to negotiate an end to Russia's war in Ukraine.",
+      "detail_zh": "美国、乌克兰和俄罗斯代表团定于11月10日和11日在阿布扎比举行会谈，美方预计由Steve Witkoff和Jared Kushner代表出席。前副国务卿Stephen Biegun在Bloomberg This Weekend节目中讨论了民主党控制的国会可能如何加强对特朗普总统外交政策的审查。与此同时，美国正重新努力推动谈判，以结束俄罗斯在乌克兰的战争。节目内容未提供更多关于谈判目标、条件或预期结果的细节。",
+      "detail_en": "US, Ukrainian and Russian delegations are scheduled to meet in Abu Dhabi on November 10th and 11th, with Steve Witkoff and Jared Kushner expected to represent the US. Former Deputy Secretary of State Stephen Biegun discussed on Bloomberg This Weekend how a Democratic-controlled Congress could bring greater scrutiny to President Donald Trump's foreign policy. The US is renewing efforts to negotiate an end to Russia's war in Ukraine. The segment did not provide further details on negotiation goals, conditions, or expected outcomes.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美乌俄代表团计划于11月10日至11日在阿布扎比举行会谈。",
+          "en": "US, Ukrainian and Russian delegations are scheduled to meet in Abu Dhabi on November 10-11."
+        },
+        {
+          "zh": "美方预计由Steve Witkoff和Jared Kushner代表出席。",
+          "en": "Steve Witkoff and Jared Kushner are expected to represent the US."
+        },
+        {
+          "zh": "前副国务卿Stephen Biegun讨论了民主党控制的国会可能加强对特朗普外交政策的审查。",
+          "en": "Former Deputy Secretary of State Stephen Biegun discussed how a Democratic-controlled Congress could bring greater scrutiny to Trump's foreign policy."
+        },
+        {
+          "zh": "美国正重新努力谈判结束俄乌战争。",
+          "en": "The US is renewing efforts to negotiate an end to Russia's war in Ukraine."
+        }
+      ],
+      "tags": [
+        "Russia-Ukraine",
+        "diplomacy",
+        "Congress",
+        "Trump foreign policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:hqOKMdbUaKk",
+      "title": "A Treasury Crisis Could Force the Fed’s Hand w/ Cem Karsan and Ash Bennington",
+      "title_zh": "Jim Carson：美联储政策是“政治剧场”，QE将回归以压低长端收益率",
+      "url": "https://www.youtube.com/watch?v=hqOKMdbUaKk",
+      "published_at": "2026-11-08T14:00:33+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "Kai Wealth创始人Jim Carson认为，美联储主席Warsh的鹰派姿态旨在建立 credibility，实为政治剧场；他预计Q1将出现大规模“印钞”以压低长端收益率，并认为12月不会再加息，甚至可能转向降息。",
+      "summary_en": "Jim Carson, founder of Kai Wealth, argues that Fed Chair Warsh's hawkish stance is aimed at building credibility and is essentially political theater. He expects massive money printing in Q1 to cap long-end yields, and believes the Fed will not deliver another 25bp hike in December, with cuts potentially following.",
+      "detail_zh": "Carson指出，Warsh上任后的首要目标是为自己和美联储建立可信度。他认为美联储在Jackson Hole突然转鹰、预测加息75个基点，但随后又无所作为，这一过程缺乏市场变化支撑，本质是“政治剧场”。他强调，结构性通胀、经济状况等基本面并未改变，美联储的鹰派表态只是“口头服务”，实际并未行动。Carson预计，2026年Q1将出现大规模“印钞”，即通过类似QE的工具压低长端收益率，因为长端债券缺乏买家，美联储必须成为最后买家。他引用Hank Paulson在4月Bloomberg采访中的警告——美国国债危机即将到来，需要准备相应工具——并提及政府已通过《战略贷款比率法案》（1月1日生效）和《稳定币法案》，显示当局意识到长端压力。Carson认为，Warsh与政府关系密切（是特朗普好友的女婿，与Bessent在Druckenmiller旗下共事），因此美联储与政府之间没有隔阂，美联储最终服务于美国政府的目标。他判断，12月不会再加息25个基点，市场会像之前一样消化掉这一预期，最终美联储会在下一次议息会议前转向降息。",
+      "detail_en": "Carson states that Warsh's primary goal since taking office is to build credibility for himself and the Fed. He points out that the Fed's sudden hawkish pivot at Jackson Hole, predicting 75bp of hikes, followed by inaction, lacked market justification and was essentially 'political theater.' He emphasizes that structural inflation and the economy have not changed, and the hawkish rhetoric is merely 'lip service' with no real action. Carson expects massive money printing in Q1 2026, essentially QE-like facilities to hold down the long end of the curve, because there are no buyers for US bonds and the Fed must be the buyer of last resort. He cites Hank Paulson's April Bloomberg interview warning of a coming Treasury crisis and the need to prepare facilities, and notes the administration passed the Strategic Loan Ratio Act (effective Jan 1) and the Stable Coin Act, indicating awareness of long-end pressures. Carson argues that Warsh is closely connected to the administration (son-in-law of Trump's best friend, worked under Druckenmiller with Bessent), so there is no air between the Fed and the administration, and the Fed ultimately serves US government objectives. He concludes that the Fed will not deliver another 25bp hike in December, the market will price it out, and ultimately the Fed will cut before the next meeting.",
+      "conclusion_zh": "Carson认为美联储的鹰派信号是政治表演，投资者应关注长端收益率和QE回归的风险，而非短期加息噪音。",
+      "conclusion_en": "Carson views the Fed's hawkish signals as political theater; investors should focus on long-end yields and the risk of QE's return rather than short-term hike noise.",
+      "key_points": [
+        {
+          "zh": "Warsh的鹰派姿态旨在建立可信度，实为政治剧场，基本面未变。",
+          "en": "Warsh's hawkish stance is aimed at building credibility and is political theater; fundamentals haven't changed."
+        },
+        {
+          "zh": "预计Q1将出现大规模“印钞”（类似QE）以压低长端收益率，因长端债券缺乏买家。",
+          "en": "Expects massive money printing (QE-like) in Q1 to cap long-end yields, as there are no buyers for long bonds."
+        },
+        {
+          "zh": "引用Hank Paulson警告：美国国债危机即将到来，需准备应对工具。",
+          "en": "Cites Hank Paulson's warning of a coming Treasury crisis and the need to prepare facilities."
+        },
+        {
+          "zh": "Warsh与政府关系密切，美联储最终服务于美国政府目标。",
+          "en": "Warsh is closely connected to the administration; the Fed ultimately serves US government objectives."
+        },
+        {
+          "zh": "12月不会再加息25个基点，市场将消化预期，最终转向降息。",
+          "en": "No further 25bp hike in December; market will price it out, and cuts will eventually follow."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "QE",
+        "Treasury",
+        "inflation",
+        "Warsh"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:HFJ3vDEsmVE",
       "title": "How Everyday Apps Feed Police Surveillance",
@@ -16864,389 +17132,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:57Ko8K0XOho",
-      "title": "Chip Stocks Look Cheap. AI Spending Is Surging. So Why Is Cameron Dawson Watching for Peak Earnings?",
-      "title_zh": "两年期美债收益率与美联储加息预期背离：历史两次均因“出事”而未兑现",
-      "url": "https://www.youtube.com/watch?v=57Ko8K0XOho",
-      "published_at": "2026-11-01T15:09:44+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "New Edge Wealth的Cameron Dawson指出，两年期美债收益率一度高于联邦基金利率75个基点，暗示美联储还将加息三次，但历史上1994年和2018年两年期收益率也曾预示加息而美联储最终未兑现，原因是“出了事”。她以此框架探讨本轮需要什么条件“出事”才能让两年期收益率被证伪、美联储转向降息。",
-      "summary_en": "Cameron Dawson of New Edge Wealth noted that the 2-year Treasury yield was about 75 basis points above the fed funds rate, implying three more hikes, but history shows only two instances—1994 and 2018—where the 2-year signaled hikes the Fed did not deliver because 'something broke.' She uses this framework to ask what would have to break this cycle for the 2-year to be proven wrong and for the Fed to potentially cut.",
-      "detail_zh": "Cameron Dawson在播客中解释，她观察两年期美债收益率与联邦基金利率的利差，约两周前该利差为75个基点，即两年期收益率高于联邦基金利率75个基点。她提到美联储官员Williams曾表示可能再加息一次，但两年期收益率的定价显示美联储将加息三次。她随后追问：两年期收益率是否曾经出错——即预示加息但美联储最终没有加息？她指出历史上只有1994年和2018年两个例子，这两次美联储都没有兑现两年期收益率所暗示的加息，原因是“出了事”（something broke），即时任美联储主席（她以“Kevin Worsh”指代现任主席）像Fred Durst一样“break stuff”。她由此提出核心问题：本轮需要什么条件“出事”，才能让两年期收益率被证伪、美联储不兑现加息甚至转向降息。整个讨论以Limp Biscuit乐队和“Break Stuff”歌曲作为主题包装，Dawson还制作了以Limp Biscuit为主题的两份图表演示。",
-      "detail_en": "Cameron Dawson explained on the podcast that she looks at the spread between the 2-year Treasury yield and the fed funds rate; about two weeks ago, the 2-year was 75 basis points above fed funds. She noted Fed's Williams said the Fed might hike one more time, but the 2-year was pricing three more hikes. She then asked: has the 2-year ever been wrong—signaling hikes the Fed did not deliver? She said there are only two examples, 1994 and 2018, and in both cases the Fed did not deliver the hikes the 2-year implied because 'something broke,' with the Fed chair (referred to as 'Kevin Worsh') acting like Fred Durst and breaking stuff. She framed the core question: what would have to break this cycle for the 2-year to be proven wrong and for the Fed not to hike, and potentially to cut. The discussion was wrapped in a Limp Biscuit/'Break Stuff' theme, and Dawson produced two Limp Biscuit-themed chart decks.",
-      "conclusion_zh": "关注两年期美债收益率与联邦基金利率的利差：若历史重演，需要出现“某处断裂”才能让美联储不兑现加息预期，这是判断政策转向的关键观察点。",
-      "conclusion_en": "Watch the 2-year Treasury yield spread over fed funds: if history repeats, 'something breaking' is needed for the Fed to not deliver the hikes priced in—a key marker for a policy pivot.",
-      "key_points": [
-        {
-          "zh": "两年期美债收益率一度高于联邦基金利率75个基点，定价美联储还将加息三次。",
-          "en": "The 2-year Treasury yield was about 75bp above the fed funds rate, pricing three more hikes."
-        },
-        {
-          "zh": "历史上仅1994年和2018年出现两年期预示加息而美联储未兑现，均因“出了事”。",
-          "en": "Only in 1994 and 2018 did the 2-year signal hikes the Fed did not deliver, both because 'something broke.'"
-        },
-        {
-          "zh": "Dawson提出本轮需要什么条件“出事”才能让两年期收益率被证伪、美联储转向降息。",
-          "en": "Dawson asks what would have to break this cycle for the 2-year to be proven wrong and the Fed to pivot to cuts."
-        }
-      ],
-      "tags": [
-        "2-year yield",
-        "Fed policy",
-        "rate hike expectations",
-        "historical precedent"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:7Kfe-dEEPO4",
-      "title": "Why Socialism Is Back in American Politics",
-      "title_zh": "社会主义理念在美国政治中抬头，经济压力成推手",
-      "url": "https://www.youtube.com/watch?v=7Kfe-dEEPO4",
-      "published_at": "2026-11-01T15:03:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "曾被视为政治不合格的社会主义理念在美国获得更多关注，尤其在年轻选民中。Paul Ryan与Steven Rattner认为，对负担能力、不平等和经济不安全的沮丧情绪，使选民更易接受传统自由市场政策的替代方案。",
-      "summary_en": "Socialism, once widely seen as politically disqualifying in the U.S., is gaining greater visibility, particularly among younger voters. Paul Ryan and Steven Rattner argue that frustration over affordability, inequality and economic insecurity is making voters more receptive to alternatives to traditional free-market policies.",
-      "detail_zh": "原文指出，社会主义曾在美国被广泛视为政治上不合格，但民主社会主义候选人和理念正获得更大可见度，尤其在年轻选民中。前众议院议长Paul Ryan和投资者Steven Rattner认为，选民对负担能力、不平等和经济不安全的沮丧情绪，正使他们更愿意接受传统自由市场政策之外的替代方案。原文未提供具体数据、政策细节或市场影响分析。",
-      "detail_en": "The original text notes that socialism was once widely seen as politically disqualifying in the United States, but democratic socialist candidates and ideas are gaining greater visibility, particularly among younger voters. Former House Speaker Paul Ryan and investor Steven Rattner argue that frustration over affordability, inequality and economic insecurity is making voters more receptive to alternatives to traditional free-market policies. The text does not provide specific data, policy details, or market impact analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "社会主义理念在美国的可见度上升，尤其在年轻选民中。",
-          "en": "Socialist ideas are gaining visibility in the U.S., especially among younger voters."
-        },
-        {
-          "zh": "Paul Ryan和Steven Rattner认为经济压力推动选民转向替代政策。",
-          "en": "Paul Ryan and Steven Rattner argue economic pressures are pushing voters toward alternative policies."
-        },
-        {
-          "zh": "对负担能力、不平等和经济不安全的沮丧是主要驱动因素。",
-          "en": "Frustration over affordability, inequality and economic insecurity is a key driver."
-        }
-      ],
-      "tags": [
-        "socialism",
-        "US politics",
-        "voter sentiment",
-        "economic insecurity"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:W4xJ3L6Vp2Q",
-      "title": "Why Crypto PACs Are Pouring $200 Million Into The 2026 Midterms",
-      "title_zh": "加密行业斥巨资影响美国中期选举，力图推动全面立法",
-      "url": "https://www.youtube.com/watch?v=W4xJ3L6Vp2Q",
-      "published_at": "2026-11-01T15:00:27+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "other"
-      ],
-      "summary_zh": "美国中期选举临近，加密货币行业通过超级政治行动委员会（PAC）投入巨资，试图塑造国会格局以推动有利立法。尽管2024年选举后取得了稳定币法案等进展，但全面的市场结构法案在参议院受阻，行业能否再次成功影响选举并完成立法议程仍存疑问。",
-      "summary_en": "As the U.S. midterm elections approach, the crypto industry is spending heavily through super PACs to shape Congress and advance favorable legislation. Despite achieving stablecoin legislation after the 2024 elections, comprehensive market structure legislation stalled in the Senate, leaving questions about whether the industry can again influence elections and complete its legislative agenda.",
-      "detail_zh": "美国中期选举临近，可能改变国会权力平衡。历史上最大的单一议题超级PAC团体正投入超过2.06亿美元影响选举结果。2024年，加密相关PAC花费约2.5亿美元支持亲行业候选人，Fairshake支持的57场选举中52场获胜，成功率达91%。此后，行业取得了稳定币法案（Genius Act）等进展，但全面的加密立法在参议院受阻。2025年9月15日，Clarity Act未能达到60票门槛，主要争议在于 ethics 条款，民主党人认为该法案未能防止高级官员（如总统）从加密中获利。特朗普总统的财务披露显示其家族从加密业务中获利超过10亿美元。尽管如此，行业仍在本次选举周期积极投入，Coinbase在2025年向Fairshake捐赠2500万美元，并支持45名候选人。Fairshake及其附属PAC支持33名现任议员，包括19名共和党和14名民主党人，以维持国会中的亲加密阵营。",
-      "detail_en": "The U.S. midterm elections are approaching, potentially changing the balance of power in Congress. The largest group of single-issue super PACs in U.S. history is spending over $206 million to influence the outcome. In 2024, crypto-related PACs spent around $250 million to elect pro-industry candidates, with Fairshake winning 52 of 57 races it spent money on, a 91% success rate. Since then, the industry achieved progress such as the stablecoin Genius Act, but comprehensive crypto legislation stalled in the Senate. On September 15, 2025, the Clarity Act failed to reach the 60-vote threshold, largely due to ethics provisions; Democrats argued the bill fails to prevent high-ranking officials like the president from profiting off crypto. President Trump's financial disclosures show his family earned over $1 billion from crypto-related businesses. Nevertheless, the industry is spending heavily again this election cycle, with Coinbase donating $25 million to Fairshake in 2025 and endorsing 45 candidates. Fairshake and affiliated PACs are backing 33 incumbents, including 19 Republicans and 14 Democrats, to preserve a pro-crypto bloc in Congress.",
-      "conclusion_zh": "加密行业正再次以巨额政治献金试图影响中期选举，以推动全面立法，但 ethics 争议和参议院阻力仍是主要障碍，投资者需关注选举结果对加密监管前景的影响。",
-      "conclusion_en": "The crypto industry is again using massive political donations to influence the midterms and push for comprehensive legislation, but ethics disputes and Senate hurdles remain key obstacles; investors should watch election outcomes for crypto regulatory implications.",
-      "key_points": [
-        {
-          "zh": "加密行业超级PAC计划投入超2.06亿美元影响中期选举，延续2024年2.5亿美元的成功策略。",
-          "en": "Crypto super PACs plan to spend over $206 million to influence the midterms, continuing the successful $250 million strategy from 2024."
-        },
-        {
-          "zh": "2024年Fairshake支持的候选人胜率达91%，但全面市场结构法案Clarity Act在参议院受阻。",
-          "en": "Fairshake-backed candidates had a 91% win rate in 2024, but the comprehensive market structure Clarity Act stalled in the Senate."
-        },
-        {
-          "zh": "稳定币法案Genius Act成为唯一通过的重大两党加密立法，但 ethics 争议阻碍了更广泛立法。",
-          "en": "The stablecoin Genius Act was the only major bipartisan crypto legislation passed, but ethics disputes blocked broader legislation."
-        },
-        {
-          "zh": "Coinbase等公司持续加大政治投入，2025年向Fairshake捐赠2500万美元，支持45名候选人。",
-          "en": "Companies like Coinbase continue to increase political spending, donating $25 million to Fairshake in 2025 and endorsing 45 candidates."
-        },
-        {
-          "zh": "行业旨在维持国会亲加密阵营，Fairshake支持33名现任议员，包括19名共和党和14名民主党人。",
-          "en": "The industry aims to preserve a pro-crypto bloc in Congress, with Fairshake backing 33 incumbents, including 19 Republicans and 14 Democrats."
-        }
-      ],
-      "tags": [
-        "crypto",
-        "elections",
-        "regulation",
-        "PACs",
-        "legislation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4960724",
-      "title": "Wall Street Brunch: Midterms, Jobs And Apple",
-      "title_zh": "中期选举、非农就业与科技股财报成焦点",
-      "url": "https://seekingalpha.com/article/4960724-wall-street-brunch-midterms-jobs-and-apple?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-01T14:45:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "politics",
-        "tech"
-      ],
-      "summary_zh": "预测市场显示民主党横扫概率升至约70%，可能影响财政政策及银行、加密、国防、医疗等板块。10月非农就业预计新增6.5万，失业率稳定在4.2%。苹果、AMD、Palantir财报将考验疲软的科技股，分析师对苹果看法分歧。",
-      "summary_en": "Prediction markets sharply favor a Democratic sweep at about 70%, potentially impacting fiscal policy and sectors like banks, crypto, defense, and healthcare. October nonfarm payrolls are expected to rise 65K with unemployment at 4.2%. Earnings from Apple, AMD, and Palantir will test battered tech stocks, with analysts divided on Apple.",
-      "detail_zh": "本周市场关注中期选举，预测市场Kalshi显示民主党赢得两院概率约70%，Polymarket为72%，均较初秋的低于50%大幅上升。国会控制权变化可能影响财政政策、监管及银行、加密、国防和医疗板块。经济方面，周五将公布10月非农就业报告，经济学家预计新增6.5万，失业率维持在4.2%。富国银行经济学家认为劳动力市场主题仍是稳定，初请失业金人数处于历史低位，职位空缺横盘，地区联储调查的就业指数虽小幅回落但仍处扩张区间，暗示就业增长接近盈亏平衡。科技股财报方面，苹果和Palantir周一公布，AMD周二公布，此前Alphabet和英特尔令多头失望，纳斯达克100指数上周下跌2%。分析师Capital Minded给予苹果买入评级，认为1999美元的折叠屏iPhone Duo可能带来70亿美元新增假日收入，但内存成本上升可能侵蚀2027年EPS增长；12月指引若显示营收增长10%以上、毛利率47%以上，将确认Duo的影响和利润率韧性。分析师Lee Bailey给予卖出评级，认为盈利上行空间有限，当前345美元股价对应36倍2027年市盈率“不合理”，其公允价值估计为270美元。其他新闻：币安表示已覆盖上周大规模网络攻击中90%的受影响加密资产，今日恢复提现，剩余10%为流动性较差的代币；Meta与中囯初创公司Fourier合作开发了人形机器人原型，内部代号Max，重约106磅，三个月内建成，并已在研发第二版。",
-      "detail_en": "This week, markets focus on the midterm elections, with prediction market Kalshi showing about a 70% chance of a Democratic sweep of both chambers, up sharply from below 50% in early September; Polymarket shows 72%. A shift in congressional control could impact fiscal policy, regulation, and sectors including banks, crypto, defense, and healthcare. On the economic front, the October jobs report is due Friday, with economists expecting a gain of 65K in nonfarm payrolls and unemployment steady at 4.2%. Wells Fargo economists say the labor market theme remains stability, with initial jobless claims historically low, job openings moving sideways, and regional Fed employment indices pulling back modestly but still in expansion territory, suggesting job growth near breakeven. On tech earnings, Apple and Palantir report Monday, AMD Tuesday, after Alphabet and Intel disappointed longs and the Nasdaq 100 fell 2% last week. SA analyst Capital Minded, with a Buy on Apple, sees the $1,999 foldable iPhone Duo adding $7B in new holiday revenue, but rising memory costs threaten 2027 EPS growth; December guidance of 10%+ revenue growth and 47%+ gross margin would confirm Duo's impact and margin resilience. Analyst Lee Bailey, with a Sell, sees limited earnings upside and says at $345, the stock trades at an unjustifiable 36x 2027 earnings, versus his $270 fair value estimate. In other news, Binance said it covered 90% of crypto assets affected by last week's massive cyberattack and resumes withdrawals today, with the remaining 10% in less liquid tokens; Meta developed a humanoid robot prototype with Chinese startup Fourier, internally called Max, weighing about 106 pounds and built in three months, and is already working on a second version.",
-      "conclusion_zh": "中期选举结果可能引发板块轮动，科技股财报将检验市场情绪，苹果估值分歧凸显个股风险。",
-      "conclusion_en": "Midterm election results could trigger sector rotation, tech earnings will test sentiment, and Apple valuation debate highlights stock-specific risk.",
-      "key_points": [
-        {
-          "zh": "预测市场显示民主党横扫概率约70%，较初秋大幅上升，可能影响财政政策及银行、加密、国防、医疗板块。",
-          "en": "Prediction markets show about 70% chance of a Democratic sweep, up sharply from early fall, potentially impacting fiscal policy and sectors like banks, crypto, defense, and healthcare."
-        },
-        {
-          "zh": "10月非农就业预计新增6.5万，失业率稳定在4.2%，富国银行认为劳动力市场保持稳定。",
-          "en": "October nonfarm payrolls expected up 65K, unemployment steady at 4.2%; Wells Fargo sees labor market stability."
-        },
-        {
-          "zh": "苹果、AMD、Palantir财报将考验疲软的科技股，纳斯达克100指数上周下跌2%。",
-          "en": "Apple, AMD, and Palantir earnings will test battered tech stocks after Nasdaq 100 fell 2% last week."
-        },
-        {
-          "zh": "分析师对苹果看法分歧：一位认为折叠屏iPhone Duo可带来70亿美元收入，另一位认为36倍2027年市盈率不合理，公允价值270美元。",
-          "en": "Analysts diverge on Apple: one sees $7B revenue from foldable iPhone Duo, another calls 36x 2027 earnings unjustifiable with $270 fair value."
-        },
-        {
-          "zh": "币安恢复提现，已覆盖90%被盗加密资产；Meta与Fourier合作开发人形机器人原型Max。",
-          "en": "Binance resumes withdrawals after covering 90% of stolen crypto assets; Meta develops humanoid robot prototype Max with Fourier."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "jobs report",
-        "tech earnings",
-        "Apple",
-        "crypto"
-      ],
-      "tickers": [
-        "AAPL",
-        "AMD",
-        "PLTR",
-        "GOOG",
-        "GOOGL",
-        "INTC",
-        "META",
-        "O",
-        "ON",
-        "AMGN",
-        "PFE",
-        "XYZ",
-        "ARM",
-        "QCOM",
-        "MCD",
-        "UBER",
-        "TM",
-        "COP",
-        "ABNB",
-        "BX",
-        "C",
-        "BRO",
-        "CCL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:su8DwsBpcbI",
-      "title": "Rep. DeLauro Sees Cost of Living Fueling Democratic Gains",
-      "title_zh": "民主党众议员DeLauro预期中期选举“蓝色浪潮”，若夺回众议院将聚焦生活成本与监督",
-      "url": "https://www.youtube.com/watch?v=su8DwsBpcbI",
-      "published_at": "2026-11-01T14:43:45+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "康涅狄格州民主党众议员Rosa DeLauro对Bloomberg This Weekend表示，她预计民主党将在中期选举中取得“蓝色浪潮”，驱动力是选民对生活负担和成本的担忧。她表示若民主党赢得众议院并重掌拨款委员会，将聚焦生活成本、监督与问责，而非弹劾。",
-      "summary_en": "Rep. Rosa DeLauro (D-CT) told Bloomberg This Weekend she expects a Democratic wave in the midterm elections, driven by voter concerns over affordability and the cost of living. She said if Democrats win the House and she reclaims the Appropriations Committee gavel, she would focus on affordability, oversight and accountability rather than impeachment.",
-      "detail_zh": "康涅狄格州民主党众议员Rosa DeLauro在Bloomberg This Weekend节目中接受主持人David Gura和Lisa Mateo采访时表示，她预计民主党将在中期选举中迎来“蓝色浪潮”。她认为，选民对生活负担能力和生活成本的担忧正推动选民转向民主党。DeLauro表示，如果民主党赢得众议院，并且她重新获得拨款委员会主席职位，她将把重点放在生活成本、监督和问责上，而不是弹劾。",
-      "detail_en": "Rep. Rosa DeLauro of Connecticut told Bloomberg This Weekend hosts David Gura and Lisa Mateo that she expects a Democratic wave in the midterm elections. She argued that concerns over affordability and the cost of living are driving voters toward her party. DeLauro said that if Democrats win the House and she reclaims the Appropriations Committee gavel, she would focus on affordability, oversight and accountability rather than impeachment.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "DeLauro预计民主党将在中期选举中取得“蓝色浪潮”。",
-          "en": "DeLauro expects a Democratic wave in the midterm elections."
-        },
-        {
-          "zh": "她认为生活负担能力和生活成本担忧是推动选民支持民主党的关键因素。",
-          "en": "She argues affordability and cost-of-living concerns are driving voters toward Democrats."
-        },
-        {
-          "zh": "若民主党赢得众议院，她将重新执掌拨款委员会。",
-          "en": "If Democrats win the House, she would reclaim the Appropriations Committee gavel."
-        },
-        {
-          "zh": "她的政策重点将是生活成本、监督与问责，而非弹劾。",
-          "en": "Her focus would be on affordability, oversight and accountability, not impeachment."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "Democratic Party",
-        "affordability",
-        "Appropriations Committee"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:cdt5apDplCk",
-      "title": "By The Way: Headlines You May Have Missed",
-      "title_zh": "彭博电视节目预告：白宫新闻稿中的AI、哈佛热门课程等头条汇总",
-      "url": "https://www.youtube.com/watch?v=cdt5apDplCk",
-      "published_at": "2026-11-01T14:36:42+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "这是一则彭博电视节目的预告，主持人将汇总一些可能被错过但值得关注的头条新闻，涉及白宫新闻稿中的人工智能、哈佛大学一门“残酷”但出奇受欢迎的课程、Life杂志再度兴起以及夏令时理由日渐减少等话题。内容仅为节目导览，未提供具体投资分析或市场数据。",
-      "summary_en": "This is a promo for a Bloomberg Television program where hosts will round up headlines you may have missed but should see, touching on AI in White House press releases, a 'brutal' but surprisingly popular Harvard class, Life Magazine's resurgence, and the dwindling justification for daylight saving time. The content is a program guide only and offers no specific investment analysis or market data.",
-      "detail_zh": "该原文为彭博电视节目预告，由Nathan Hager、David Gura和Lisa Mateo主持，内容为汇总一些可能被错过但值得一看的头条新闻。提及的话题包括：白宫新闻稿中的人工智能、哈佛大学一门“残酷”但出奇受欢迎的课程、Life杂志再度兴起，以及夏令时理由日渐减少。原文未提供任何具体数据、市场分析或投资观点，仅作为节目导览。",
-      "detail_en": "The original text is a Bloomberg Television program promo hosted by Nathan Hager, David Gura, and Lisa Mateo, rounding up headlines you may have missed but should see. Topics mentioned include AI in White House press releases, a 'brutal' but surprisingly popular class at Harvard, Life Magazine rising again, and the dwindling justification of daylight saving time. No specific data, market analysis, or investment views are provided; it serves only as a program guide.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目将讨论白宫新闻稿中的人工智能话题。",
-          "en": "The program will discuss AI in White House press releases."
-        },
-        {
-          "zh": "哈佛大学一门“残酷”但出奇受欢迎的课程将被提及。",
-          "en": "A 'brutal' but surprisingly popular class at Harvard will be mentioned."
-        },
-        {
-          "zh": "Life杂志再度兴起是话题之一。",
-          "en": "Life Magazine rising again is one of the topics."
-        },
-        {
-          "zh": "夏令时的理由日渐减少也被列入讨论。",
-          "en": "The dwindling justification of daylight saving time is also included."
-        }
-      ],
-      "tags": [
-        "Bloomberg TV",
-        "headlines",
-        "AI",
-        "Harvard",
-        "daylight saving"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:sLFZzq3UeP4",
-      "title": "AI Talent War Spreads to Wall Street",
-      "title_zh": "量化交易公司与AI实验室争夺顶尖科学家，部分博士首年薪酬达80万美元",
-      "url": "https://www.youtube.com/watch?v=sLFZzq3UeP4",
-      "published_at": "2026-11-01T14:26:04+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博高级市场记者Justina Lee表示，量化交易公司正与AI实验室争夺顶尖科学家和研究人员，部分博士的首年薪酬高达80万美元。这些公司通过提供奖学金、大学赞助和招聘活动来与提供高薪、股权和前沿技术机会的AI公司竞争。",
-      "summary_en": "Bloomberg Senior Markets Reporter Justina Lee says quantitative trading firms are competing with AI labs for top scientists and researchers, with first-year compensation for some PhDs reaching as much as $800,000. Firms are using fellowships, university sponsorships and recruiting events to compete with AI companies offering lucrative pay, equity and cutting-edge technology.",
-      "detail_zh": "彭博高级市场记者Justina Lee在Bloomberg This Weekend节目中向主持人David Gura和Lisa Mateo表示，量化交易公司正在与AI实验室争夺顶尖科学家和研究人员。部分博士的首年薪酬可达80万美元。Lee解释说，这些量化公司正在利用奖学金、大学赞助和招聘活动来与AI公司竞争，后者提供丰厚的薪酬、股权以及从事前沿技术工作的机会。",
-      "detail_en": "Bloomberg Senior Markets Reporter Justina Lee told Bloomberg This Weekend hosts David Gura and Lisa Mateo that quantitative trading firms are competing with AI labs for top scientists and researchers, with first-year compensation for some PhDs reaching as much as $800,000. Lee explained that firms are using fellowships, university sponsorships and recruiting events to compete with AI companies offering lucrative pay, equity and the chance to work on cutting-edge technology.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "量化交易公司与AI实验室争夺顶尖科学家和研究人员。",
-          "en": "Quantitative trading firms are competing with AI labs for top scientists and researchers."
-        },
-        {
-          "zh": "部分博士的首年薪酬高达80万美元。",
-          "en": "First-year compensation for some PhDs reaches as much as $800,000."
-        },
-        {
-          "zh": "量化公司通过奖学金、大学赞助和招聘活动来竞争。",
-          "en": "Firms are using fellowships, university sponsorships and recruiting events to compete."
-        },
-        {
-          "zh": "AI公司提供高薪、股权和前沿技术机会。",
-          "en": "AI companies offer lucrative pay, equity and the chance to work on cutting-edge technology."
-        }
-      ],
-      "tags": [
-        "quant trading",
-        "AI talent war",
-        "compensation",
-        "recruiting"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:2Jvxa2CAmQs",
-      "title": "Iran’s Long Game Complicates Trump’s War Plans",
-      "title_zh": "伊朗拖延冲突考验特朗普，中期选举增添政治压力",
-      "url": "https://www.youtube.com/watch?v=2Jvxa2CAmQs",
-      "published_at": "2026-11-01T14:13:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博白宫国家安全编辑Michelle Jamrisko表示，伊朗通过延长与美国的冲突来考验特朗普总统寻求快速解决的意愿，而中期选举为其决策增添了政治压力。伊朗将政权存续视为胜利，经济压力、地区不稳定和失败国家风险使前行路径复杂化。",
-      "summary_en": "Bloomberg White House National Security Editor Michelle Jamrisko says Iran's strategy of prolonging its conflict with the US is testing President Donald Trump's desire for a faster resolution, with midterm elections adding political pressure. Iran views regime survival as a victory, while economic pressure, regional instability and the risk of a failed state complicate the path forward.",
-      "detail_zh": "Michelle Jamrisko在Bloomberg This Weekend节目中向主持人David Gura和Lisa Mateo表示，伊朗正采取拖延与美国冲突的策略，以考验特朗普总统对快速解决的渴望。她指出，中期选举给特朗普的决策带来了额外的政治压力。Jamrisko称，伊朗将政权存续本身视为一种胜利。与此同时，经济压力、地区不稳定以及失败国家的风险，使得前行的道路更加复杂。",
-      "detail_en": "Speaking on Bloomberg This Weekend with hosts David Gura and Lisa Mateo, Michelle Jamrisko said Iran is pursuing a strategy of prolonging its conflict with the US, testing President Donald Trump's desire for a faster resolution. She noted that the midterm elections add political pressure to his decisions. Jamrisko said Iran views regime survival itself as a victory. Meanwhile, economic pressure, regional instability and the risk of a failed state complicate the path forward.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "伊朗通过延长冲突来考验特朗普寻求快速解决的意愿。",
-          "en": "Iran is testing Trump's desire for a faster resolution by prolonging the conflict."
-        },
-        {
-          "zh": "中期选举为特朗普的决策增添了政治压力。",
-          "en": "Midterm elections add political pressure to Trump's decisions."
-        },
-        {
-          "zh": "伊朗将政权存续视为胜利。",
-          "en": "Iran views regime survival as a victory."
-        },
-        {
-          "zh": "经济压力、地区不稳定和失败国家风险使前行路径复杂化。",
-          "en": "Economic pressure, regional instability and the risk of a failed state complicate the path forward."
-        }
-      ],
-      "tags": [
-        "Iran",
-        "US conflict",
-        "Trump",
-        "midterm elections",
-        "geopolitical risk"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
