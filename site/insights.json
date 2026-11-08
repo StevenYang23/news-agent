@@ -1,6 +1,124 @@
 {
-  "generated_at": "2026-11-08T17:11:28.246885+00:00",
+  "generated_at": "2026-11-08T18:14:53.776844+00:00",
   "insights": [
+    {
+      "guid": "yt:rxAHCJ44Rck",
+      "title": "Watching Wall Street, Back to Work After Blue Wave, Deadly Mass Shooting in Poland",
+      "title_zh": "彭博周末节目：华尔街试图从上周暴跌中反弹，特朗普面临分裂政府",
+      "url": "https://www.youtube.com/watch?v=rxAHCJ44Rck",
+      "published_at": "2026-11-08T17:04:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博周末节目讨论了华尔街试图从上周市场暴跌中反弹、特朗普面临分裂政府的政治新现实，以及亚太市场在AI担忧中开盘等议题。节目还涉及数据中心开发在中期选举中受挫、波兰枪击事件及以色列组阁等国际新闻。",
+      "summary_en": "Bloomberg This Weekend discusses Wall Street looking to rebound from last week's rout, Trump facing the new political reality of a divided government, and Asia-Pacific markets opening amid AI concerns. The program also covers data center development losing big in the US midterms, a shooting in Krakow, Poland, and Israel's government formation.",
+      "detail_zh": "节目由David Gura、Christina Ruffini和Lisa Mateo主持，嘉宾包括前副国务卿Stephen Biegun、SMBC日兴证券首席经济学家Joe Lavorgna等。讨论议题包括：华尔街试图从上周暴跌中反弹；特朗普面临分裂政府的政治新现实，并任命Stephen Miller为新任幕僚长；亚太市场在AI担忧中开盘；数据中心开发在中期选举中遭遇重大失败；波兰克拉科夫发生枪击事件，以及波兰大选前的宪法危机；以色列Eisenkot有六周时间组建新政府。此外还涉及应用程序中的隐藏技术引发隐私担忧、西雅图NBA回归面临老板们质疑、LIV高尔夫将清算、MLB可能12月停摆等话题。政治方面讨论了新当选民主党人与特朗普合作、权力转移可能削弱国会、2028年总统候选人、德州席位翻蓝及2026年中期选举复兴美国民粹主义。",
+      "detail_en": "Hosted by David Gura, Christina Ruffini and Lisa Mateo, with guests including former Deputy Secretary of State Stephen Biegun and SMBC Nikko Securities Chief Economist Joe Lavorgna. Topics include: Wall Street looking to rebound from last week's rout; Trump facing the new political reality of a divided government and tapping Stephen Miller as new Chief of Staff; Asia-Pacific markets opening amid AI concerns; data center development losing big in the US midterms; a gunman opening fire in Krakow, Poland, and the constitutional crisis one year before Poland's next general election; Eisenkot having six weeks to form a new government in Israel. Other segments cover hidden tech in apps raising privacy concerns, Seattle's NBA return facing skeptical owners, LIV Golf liquidating, and a possible MLB lockout in December. Political discussions include newly elected Democrats working with President Trump, a pending power shift that could hamstring Congress, the 2028 presidential nominee, Texas seats flipping blue, and the 2026 midterms reviving American populism.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "华尔街试图从上周暴跌中反弹",
+          "en": "Wall Street looks to rebound from last week's rout"
+        },
+        {
+          "zh": "特朗普面临分裂政府的政治新现实，任命Stephen Miller为幕僚长",
+          "en": "Trump faces new political reality of divided government, taps Stephen Miller as Chief of Staff"
+        },
+        {
+          "zh": "亚太市场在AI担忧中开盘",
+          "en": "Asia-Pacific markets open amid AI concerns"
+        },
+        {
+          "zh": "数据中心开发在中期选举中遭遇重大失败",
+          "en": "Data center development loses big in US midterms"
+        },
+        {
+          "zh": "波兰克拉科夫枪击事件及以色列组阁进程",
+          "en": "Shooting in Krakow, Poland and Israel's government formation"
+        }
+      ],
+      "tags": [
+        "market rebound",
+        "divided government",
+        "AI concerns",
+        "midterms",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4964841",
+      "title": "Wall Street Brunch: Anthropic IPO Goes On The Road",
+      "title_zh": "Anthropic推进IPO路演，目标估值1.25-1.75万亿美元；10月CPI与美联储加息预期受关注",
+      "url": "https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-08T16:50:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "Anthropic在科技股抛售后仍推进IPO，计划融资800-1000亿美元，估值1.25-1.75万亿美元，低于此前2万亿美元期望；投资者预计定价保守，约1.3-1.5万亿美元。10月CPI数据预计强化12月加息预期，联邦基金期货显示加息概率76%。伯克希尔Q3加速回购96亿美元。",
+      "summary_en": "Anthropic is proceeding with its IPO roadshow despite the tech selloff, aiming to raise $80-100B at a $1.25-1.75T valuation, below the previously hoped $2T; investors expect conservative pricing around $1.3-1.5T. October CPI data is expected to reinforce expectations for a December Fed hike, with fed funds futures pricing a 76% chance. Berkshire accelerated Q3 buybacks to $9.6B.",
+      "detail_zh": "Anthropic（ANT）在科技股大幅抛售后仍推进IPO路演，计划在感恩节前上市，拟融资800亿至1000亿美元，估值区间1.25万亿至1.75万亿美元，较当前9650亿美元估值显著提升，但低于一个月前投资者期望的2万亿美元。一位大型投资者预计定价将非常保守，约1.5万亿美元，其他参与者预期约1.3万亿美元。Kalshi平台上12月前IPO的概率在抛售后一度下跌，现已回升至80%以上。经济方面，10月CPI将于周二公布，市场预期整体CPI环比升0.3%，核心CPI升0.2%；当前整体通胀为3.7%，核心年率为2.6%。富国银行经济学家认为，核心读数若偏软将受欢迎，但不会改变2026年核心通胀无法回到2%的总体判断，并预计FOMC将在12月再加息一次；联邦基金期货显示12月加息25个基点的概率为76%。财报方面，本周仅有13家标普500公司公布业绩，包括KKR、Rocket Lab、Take-Two、Occidental、CoreWeave、Cisco、Applied Materials、Nebius，以及量子计算公司Quantum Computing、Rigetti和D-Wave。SA分析师Lee Bailey称D-Wave“在销售真实技术”，但按9美元股价看“容错空间不足”，给予卖出评级，公允价值约3美元。伯克希尔Q3回购96亿美元股票，远超Visible Alpha预期的16亿美元，全年回购达144亿美元；运营利润同比下降约6%至127亿美元，受保险业务疲软拖累。此外，据FT报道，美国情报官员认为英伟达CEO黄仁勋与一名被指为中国情报机构间谍的中国女性存在恋爱关系，英伟达称互动仅为普通客户会议，未分享敏感信息。",
+      "detail_en": "Anthropic (ANT) is pushing ahead with its IPO roadshow despite the tech selloff, racing toward a debut before Thanksgiving. It plans to raise $80-100B at a valuation of $1.25-1.75T, a significant increase from its current $965B valuation but below the $2T investors had hoped for as recently as a month ago. One large investor expects very conservative pricing around $1.5T, while others expect roughly $1.3T. Kalshi odds for the IPO before December are back above 80% after sinking amid the selloff. On the economy, October CPI is due Tuesday, with headline expected up 0.3% and core up 0.2%; consumer inflation is currently at 3.7%, with annual core at 2.6%. Wells Fargo economists say a softer core reading would be welcome but would do little to alter the view that 2026 is a lost year for returning core inflation to 2%, and they expect the FOMC to hike once more in December; fed funds futures put the odds of a quarter-point hike at 76%. The earnings calendar is lighter with just 13 S&P 500 companies reporting, including KKR, Rocket Lab, Take-Two, Occidental, CoreWeave, Cisco, Applied Materials, Nebius, and quantum computing names Quantum Computing, Rigetti, and D-Wave. SA analyst Lee Bailey says D-Wave is selling real technology but at $9 there is not enough margin for error; he rates it Sell with a fair value of ~$3. Berkshire accelerated Q3 buybacks to $9.6B, ahead of Visible Alpha estimates of $1.6B, bringing full-year buybacks to $14.4B; operating earnings fell ~6% YoY to $12.7B on insurance weakness. Separately, FT reported that U.S. intelligence officials believe Nvidia CEO Jensen Huang had a romantic relationship with a Chinese woman allegedly recruited as a spy; Nvidia said the interactions were ordinary customer meetings and no sensitive information was shared.",
+      "conclusion_zh": "Anthropic IPO定价可能偏保守，反映科技股波动下投资者谨慎；CPI数据与12月加息预期仍是短期美股主要宏观风险。",
+      "conclusion_en": "Anthropic's IPO pricing may be conservative, reflecting investor caution amid tech volatility; CPI data and December hike expectations remain key near-term macro risks for U.S. equities.",
+      "key_points": [
+        {
+          "zh": "Anthropic推进IPO，拟融资800-1000亿美元，估值1.25-1.75万亿美元，低于此前2万亿美元期望，投资者预计定价保守在1.3-1.5万亿美元。",
+          "en": "Anthropic is proceeding with its IPO, aiming to raise $80-100B at a $1.25-1.75T valuation, below the previously hoped $2T; investors expect conservative pricing around $1.3-1.5T."
+        },
+        {
+          "zh": "10月CPI预计整体环比升0.3%、核心升0.2%，富国银行认为数据将强化12月加息预期，联邦基金期货显示加息概率76%。",
+          "en": "October CPI is expected up 0.3% headline and 0.2% core; Wells Fargo expects the report to reinforce a December hike, with fed funds futures at 76% odds."
+        },
+        {
+          "zh": "伯克希尔Q3回购96亿美元股票，远超预期，全年回购达144亿美元；运营利润同比下降约6%至127亿美元。",
+          "en": "Berkshire repurchased $9.6B in Q3, well above estimates, bringing full-year buybacks to $14.4B; operating earnings fell ~6% YoY to $12.7B."
+        },
+        {
+          "zh": "SA分析师Lee Bailey给予D-Wave卖出评级，公允价值约3美元，认为当前9美元股价容错空间不足。",
+          "en": "SA analyst Lee Bailey rates D-Wave Sell with a ~$3 fair value, saying at $9 there is not enough margin for error."
+        },
+        {
+          "zh": "据FT报道，美国情报官员认为英伟达CEO黄仁勋与一名被指为中国间谍的女性有恋爱关系；英伟达称互动仅为普通客户会议。",
+          "en": "FT reported U.S. intelligence officials believe Nvidia CEO Jensen Huang had a romantic relationship with a woman alleged to be a Chinese spy; Nvidia says interactions were ordinary customer meetings."
+        }
+      ],
+      "tags": [
+        "Anthropic IPO",
+        "CPI",
+        "Fed hike",
+        "Berkshire buybacks",
+        "Nvidia"
+      ],
+      "tickers": [
+        "ANT",
+        "KKR",
+        "RKLB",
+        "TTWO",
+        "OXY",
+        "CRWV",
+        "CSCO",
+        "AMAT",
+        "NBIS",
+        "QUBT",
+        "RGTI",
+        "QBTS",
+        "BRK.A",
+        "BRK.B",
+        "NVDA",
+        "BKR",
+        "IBM"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:VSrpmavd1W8",
       "title": "Bookmarked: News Stories On Our Reading List",
@@ -17250,57 +17368,6 @@
         "AI capex",
         "midterm elections",
         "liquidity"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ula9YaTIVN8",
-      "title": "市場調整の次の局面",
-      "title_zh": "摩根士丹利威尔逊：股市调整接近尾声，但最后阶段可能痛苦",
-      "url": "https://www.youtube.com/watch?v=ula9YaTIVN8",
-      "published_at": "2026-11-01T17:59:20+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "摩根士丹利首席投资官兼美国首席股票策略师迈克·威尔逊认为，始于6月的股市调整已进入最后阶段，但指数层面可能还需再跌一段、波动率飙升，才能为美联储政策转向和下一轮上涨铺路。他建议继续超配资本品等已提前调整的优质股，并将潜在急跌视为买入机会。",
-      "summary_en": "Morgan Stanley CIO and Chief US Equity Strategist Mike Wilson believes the market correction that began in June is in its final phase, but the index may need another leg lower and a volatility spike before the Fed pivot and the next leg up. He favors quality stocks such as capital goods that have already corrected more than the index, and would treat a sharp selloff as a buying opportunity.",
-      "detail_zh": "威尔逊指出，始于6月的调整在水面下已相当深入，但由高质量成分股构成的标普500指数可能仍有未调整到位的部分，在调整走完之前不能断言结束。摩根士丹利将本轮调整视为典型的周期中段过渡，盈利预期修正率的变化恰好在经济周期触底约一年后见顶，随后市场出现熟悉的分化：经营杠杆和财务杠杆较高的周期早期落后股开始跑输，质量更高、资产轻、服务导向的企业走到台前。这种向质量股的轮动已被广泛理解，投资者仓位也已跟进；通常到最后阶段，高质量的标普500指数与水面下走弱的市场广度会相互靠拢，这一过程可能已经开始。若指数进一步下跌，标普500在7100至7200点附近可能构成本轮调整的坚实支撑。他认为调整最终会以较好方式收场，因为已经造成相当大的伤害：6月以来纳斯达克3000指数约60%的成分股跌幅超过20%，非必需消费、汽车、周期敏感消费、资本品等周期早期板块受创更重；同时对冲基金仓位大幅收缩，接近过去12个月最低水平，这是令人鼓舞的信号，但整体市场情绪尚未达到持续见底的极端水平。他提出未来三个“出清事件”：第一是AI，投资者质疑最终资本回报率、资本成本，以及承诺的巨额支出能否全部靠信贷市场借款融资；未来数周市场还需吸收更多债券发行供给，质量较差的企业可能继续面临利差扩大和股价下跌，供给本身即是事件，消化后风险应开始切换，非必需消费仍是担忧中心，可能成为判断整体调整的指标，他预计到11月中旬非必需消费板块可能再跌10%至15%。第二是中期选举，市场厌恶不确定性，蓝潮（民主党大胜）已不再是意外，更大的担忧是投票后可能发生的事，例如围绕伊朗的军事紧张再度升温；他承认自己并不特别擅长预测选举结果，但此类冲击往往创造很好的买入机会，历史上中期选举后的回报非常好，因此若投票日前后数日或数周股价急跌，应准备抓住机会。第三也是最重要的是流动性：利率上升、资产负债表扩张步伐放缓、资金需求上升以及能源价格上涨叠加，金融环境正快速收紧，类似2018年的情况；尽管美联储此轮紧缩幅度很小，但环境收紧程度与2022年经历的情况相差不大，实际上可以说是市场在替美联储紧缩；若这种收紧开始引发融资紧张或使信贷市场不稳定，美联储和财政部有应对手段，问题在于是否要等形势进一步恶化两者才会行动。总结而言，他认为调整处于最后阶段，但最后阶段可能非常不舒服，可能还需要指数层面再跌一段和波动率急升，或者需要再一次投资者认定“有东西坏了”的时刻，而这可能为美联储政策转向和股价下一轮上涨打开道路。当前他倾向于继续超配资本品等调整已超过指数的优质股；更重要的是，若这些出清事件导致股价急跌，他会将其视为期待已久的买入机会，而非逃离风险的理由。",
-      "detail_en": "Wilson notes the correction that began in June has progressed considerably beneath the surface, but the high-quality S&P 500 may still have unfinished adjustment, and the correction cannot be called complete until that runs its course. Morgan Stanley frames this as a typical mid-cycle transition: the earnings revision rate peaked about a year after the economic cycle bottomed, and the market reacted as usual—early-cycle laggards with higher operating and financial leverage began underperforming while higher-quality, asset-light, service-oriented companies came to the fore. This rotation to quality is now widely understood and investor positioning has followed; typically in the final stage the high-quality S&P 500 and the weakening market breadth beneath it converge toward a midpoint, and that process may already be starting. If the index falls further, he sees 7,100–7,200 on the S&P 500 as a solid support level for this correction. He believes the correction ultimately resolves well because substantial damage has already occurred: since June about 60% of Nasdaq 3000 constituents have fallen more than 20%, with early-cycle sectors such as consumer discretionary, autos, cyclical consumer and capital goods hit harder; hedge fund positioning has shrunk sharply to near the lowest level in the past 12 months, which is encouraging, but overall sentiment has not yet reached the extreme level that signals a durable bottom. He outlines three clearing events: first, AI—investors question the ultimate return on capital, the cost of capital, and whether the promised massive spending can all be financed with borrowing from credit markets; the market must absorb more bond supply in coming weeks, and lower-quality companies may keep facing wider spreads and further declines, with the supply itself an event whose digestion should begin to shift risk, and consumer discretionary remaining the center of concern and possibly a gauge for the overall correction, with him expecting a further 10–15% decline by mid-November. Second, the midterm elections—markets dislike uncertainty and this election is full of it; a blue wave is no longer a surprise, and the bigger concern is what may happen after the vote, such as a re-escalation of military tension over Iran; he does not claim special strength in forecasting election outcomes but knows such shocks often create very good buying opportunities, and historically post-midterm returns have been very strong, so he wants to be ready to act if stocks plunge in the days or weeks around the vote. Third and most important, liquidity—rising rates, a slower pace of balance sheet expansion, rising funding demand and higher energy prices are combining to tighten financial conditions rapidly, similar to 2018; despite only small Fed tightening, conditions are not far from what was experienced in 2022, and one could say the market is doing the tightening for the Fed; if this tightening starts to cause funding stress or destabilize credit markets, the Fed and Treasury have tools, but the question is whether conditions must worsen further before they act. In sum, he believes the correction is in its final phase but that phase may be very uncomfortable, possibly requiring another leg lower at the index level and a volatility spike, or another moment when investors conclude something is broken—which could open the way for a Fed pivot and the next leg up in stocks. For now he prefers to stay overweight quality stocks such as capital goods that have corrected more than the index; more importantly, if these clearing events cause a sharp selloff, he would treat it as the long-awaited buying opportunity rather than a reason to flee risk.",
-      "conclusion_zh": "调整尾声不等于立即反转：在指数最后一跌与波动率飙升出现前保持防御性质量配置，并为美联储转向前的急跌准备好买入清单。",
-      "conclusion_en": "The final phase of a correction is not an immediate reversal: stay in defensive quality until the last index leg lower and volatility spike, and prepare a buy list for the selloff ahead of a Fed pivot.",
-      "key_points": [
-        {
-          "zh": "威尔逊认为始于6月的调整已进入最后阶段，但标普500指数层面可能还需再跌一段，7100-7200点附近是坚实支撑。",
-          "en": "Wilson sees the June-starting correction in its final phase, but the S&P 500 may need another leg lower, with 7,100–7,200 a solid support area."
-        },
-        {
-          "zh": "6月以来纳斯达克3000指数约60%成分股跌幅超20%，对冲基金仓位接近12个月最低，但整体情绪尚未达到持续见底的极端水平。",
-          "en": "About 60% of Nasdaq 3000 constituents have fallen more than 20% since June and hedge fund positioning is near a 12-month low, but overall sentiment is not yet at the extreme that marks a durable bottom."
-        },
-        {
-          "zh": "三个出清事件：AI相关融资与回报质疑（非必需消费到11月中旬或再跌10-15%）、中期选举及投票后地缘风险、以及金融环境快速收紧的流动性压力。",
-          "en": "Three clearing events: AI financing/return doubts (consumer discretionary may fall another 10–15% by mid-November), the midterms and post-vote geopolitical risk, and liquidity stress from rapidly tightening financial conditions."
-        },
-        {
-          "zh": "金融环境收紧程度已类似2018年，尽管美联储紧缩幅度很小，实际是市场在替美联储紧缩；若引发融资紧张，美联储和财政部有工具应对。",
-          "en": "Financial conditions are tightening like 2018—despite small Fed tightening, the market is effectively doing the tightening—and the Fed and Treasury have tools if funding stress emerges."
-        },
-        {
-          "zh": "他倾向于继续超配资本品等已提前调整的优质股，并将出清事件引发的急跌视为买入机会而非逃离风险的理由。",
-          "en": "He favors staying overweight quality stocks such as capital goods that have already corrected, and would treat sharp selloffs from clearing events as buying opportunities rather than reasons to flee risk."
-        }
-      ],
-      "tags": [
-        "market correction",
-        "quality rotation",
-        "liquidity",
-        "midterms",
-        "AI capex"
       ],
       "tickers": [],
       "sentiment": "neutral"
