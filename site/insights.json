@@ -1,6 +1,174 @@
 {
-  "generated_at": "2026-11-08T13:12:03.294851+00:00",
+  "generated_at": "2026-11-08T14:12:09.617020+00:00",
   "insights": [
+    {
+      "guid": "yt:HFJ3vDEsmVE",
+      "title": "How Everyday Apps Feed Police Surveillance",
+      "title_zh": "彭博调查记者：手机位置数据被售予执法机构，引发隐私监管呼声",
+      "url": "https://www.youtube.com/watch?v=HFJ3vDEsmVE",
+      "published_at": "2026-11-08T13:18:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博调查记者Ryan Gallagher在Bloomberg This Weekend节目中披露，通过日常智能手机应用收集的位置数据可被出售给执法机构，用户往往不知情。Gallagher详述了Penlink的监控技术如何利用商业获取的数据追踪手机，并指出其使用已引发加强隐私保护和监管的呼声。",
+      "summary_en": "Bloomberg investigative journalist Ryan Gallagher explained on Bloomberg This Weekend how location data collected through everyday smartphone apps can be sold to law enforcement agencies, often without users' knowledge. Gallagher detailed how Penlink's surveillance technology can track phones using commercially obtained data, and why its use has fueled calls for greater privacy protections and oversight.",
+      "detail_zh": "在Bloomberg This Weekend节目中，彭博调查记者Ryan Gallagher向主持人David Gura和Christina Ruffini解释了日常智能手机应用收集的位置数据如何最终被出售给执法机构。Gallagher指出，用户通常不知道自己的信息最终流向何处。他详细说明了Penlink的监控技术能够利用商业获取的数据追踪手机。Gallagher还提到，这种技术的使用已引发加强隐私保护和监管的呼声。节目内容聚焦于数据隐私与监控技术，未涉及金融市场或投资观点。",
+      "detail_en": "On Bloomberg This Weekend, Bloomberg investigative journalist Ryan Gallagher explained to hosts David Gura and Christina Ruffini how location data collected through everyday smartphone apps can ultimately be sold to law enforcement agencies. Gallagher noted that users often do not know where their information ends up. He detailed how Penlink's surveillance technology can track phones using commercially obtained data. Gallagher also mentioned that the use of this technology has fueled calls for greater privacy protections and oversight. The segment focused on data privacy and surveillance technology, without discussing financial markets or investment views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "日常智能手机应用收集的位置数据可被出售给执法机构，用户往往不知情。",
+          "en": "Location data collected by everyday smartphone apps can be sold to law enforcement agencies, often without users' knowledge."
+        },
+        {
+          "zh": "Penlink的监控技术能利用商业获取的数据追踪手机。",
+          "en": "Penlink's surveillance technology can track phones using commercially obtained data."
+        },
+        {
+          "zh": "该技术的使用已引发加强隐私保护和监管的呼声。",
+          "en": "The use of this technology has fueled calls for greater privacy protections and oversight."
+        }
+      ],
+      "tags": [
+        "data privacy",
+        "surveillance",
+        "location data",
+        "law enforcement"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_VQIVPgzkWU",
+      "title": "Poland Probes Krakow Shooting as Terrorism",
+      "title_zh": "波兰克拉科夫枪击案调查聚焦极右翼动机",
+      "url": "https://www.youtube.com/watch?v=_VQIVPgzkWU",
+      "published_at": "2026-11-08T13:05:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博新闻记者Piotr Skolimowski在Bloomberg This Weekend节目中讨论了克拉科夫致命枪击案的调查，当局认为极右翼意识形态可能是袭击动机。该枪击事件发生在波兰政治紧张局势加剧、围绕乌克兰战争分歧加深的背景下。",
+      "summary_en": "Bloomberg News reporter Piotr Skolimowski discussed the investigation into the deadly Krakow shooting on Bloomberg This Weekend, noting that authorities say far-right ideology may have motivated the attack. The shooting comes amid heightened political tensions in Poland and growing divisions over the war in Ukraine.",
+      "detail_zh": "彭博新闻记者Piotr Skolimowski在Bloomberg This Weekend节目中，与主持人David Gura和Christina Ruffini讨论了克拉科夫致命枪击案的调查进展。Skolimowski表示，当局认为极右翼意识形态可能是此次袭击的动机。他进一步解释，这起枪击事件发生在波兰政治紧张局势加剧之际，同时波兰国内围绕乌克兰战争的分歧也在加深。节目内容聚焦于事件调查及其政治背景，未涉及具体市场数据或金融资产影响。",
+      "detail_en": "On Bloomberg This Weekend, Bloomberg News reporter Piotr Skolimowski spoke with hosts David Gura and Christina Ruffini about the investigation into the deadly Krakow shooting. Skolimowski noted that authorities say far-right ideology may have motivated the attack. He explained that the shooting comes amid heightened political tensions in Poland and growing divisions over the war in Ukraine. The segment focused on the investigation and its political context, without discussing specific market data or financial asset implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "克拉科夫发生致命枪击案，当局正在调查。",
+          "en": "A deadly shooting occurred in Krakow and authorities are investigating."
+        },
+        {
+          "zh": "当局认为极右翼意识形态可能是袭击动机。",
+          "en": "Authorities say far-right ideology may have motivated the attack."
+        },
+        {
+          "zh": "事件发生在波兰政治紧张局势加剧的背景下。",
+          "en": "The incident comes amid heightened political tensions in Poland."
+        },
+        {
+          "zh": "波兰国内围绕乌克兰战争的分歧正在加深。",
+          "en": "Divisions over the war in Ukraine are growing in Poland."
+        }
+      ],
+      "tags": [
+        "Poland",
+        "Krakow shooting",
+        "far-right",
+        "Ukraine war"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:nsHROgRxqeM",
+      "title": "What America’s Factories Reveal About the Economy",
+      "title_zh": "里士满联储主席Barkin走访南卡制造业，了解数据背后的经济实况",
+      "url": "https://www.youtube.com/watch?v=nsHROgRxqeM",
+      "published_at": "2026-11-08T13:00:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "里士满联储主席Tom Barkin前往南卡罗来纳州Union，实地听取制造业者的反馈。在汽车零部件制造商Gestamp，需求保持稳健且投资持续，但企业正应对成本上升、技术变革和政策环境不确定。",
+      "summary_en": "Richmond Fed President Tom Barkin traveled to Union, South Carolina, to hear directly from manufacturers. At auto-parts maker Gestamp, demand remains solid and investment continues, but businesses are navigating rising costs, changing technology and an uncertain policy environment.",
+      "detail_zh": "里士满联储主席Tom Barkin前往南卡罗来纳州Union，直接听取制造业者对经济数据背后实际情况的看法。在汽车零部件制造商Gestamp，需求保持稳健，投资也在继续。但企业同时面临成本上升、技术变化以及政策环境不确定等挑战。这次走访让Barkin获得了塑造经济的各种力量的第一手视角。原文未提供更多具体数据或政策判断。",
+      "detail_en": "Richmond Fed President Tom Barkin traveled to Union, South Carolina, to hear directly from manufacturers about what is happening beneath the economic data. At auto-parts maker Gestamp, demand remains solid and investment continues, but businesses are navigating rising costs, changing technology and an uncertain policy environment. The visit gave Barkin a ground-level view of the forces shaping the economy. The original text does not provide further specific data or policy judgments.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "里士满联储主席Barkin实地走访南卡罗来纳州制造业，了解经济数据背后的实况。",
+          "en": "Richmond Fed President Barkin visited manufacturers in South Carolina to see what is happening beneath the economic data."
+        },
+        {
+          "zh": "汽车零部件制造商Gestamp需求保持稳健，投资持续。",
+          "en": "At auto-parts maker Gestamp, demand remains solid and investment continues."
+        },
+        {
+          "zh": "企业正应对成本上升、技术变革和政策环境不确定。",
+          "en": "Businesses are navigating rising costs, changing technology and an uncertain policy environment."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "manufacturing",
+        "costs",
+        "policy uncertainty"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:dBI3wPigXDw",
+      "title": "Asia Markets Brace for More AI Volatility",
+      "title_zh": "亚洲投资者评估AI抛售影响，对冲基金削减敞口",
+      "url": "https://www.youtube.com/watch?v=dBI3wPigXDw",
+      "published_at": "2026-11-08T12:52:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博新闻市场制片人Anthony Stephens表示，亚洲投资者正在评估AI抛售带来的冲击，对冲基金正在削减敞口，且美国数据中心政策的不确定性上升。他指出，AI基础设施投资的时机可能决定科技市场下一批赢家和输家。",
+      "summary_en": "Bloomberg News markets producer Anthony Stephens said Asian investors are assessing the fallout from the AI selloff, with hedge funds cutting exposure and growing uncertainty over US data-center policy. He explained that the timing of AI infrastructure investment could determine the next winners and losers across technology markets.",
+      "detail_zh": "在Bloomberg This Weekend节目中，彭博新闻市场制片人Anthony Stephens向主持人David Gura和Christina Ruffini表示，亚洲投资者正在评估AI抛售的后续影响。他提到，对冲基金正在削减敞口，同时围绕美国数据中心政策的不确定性正在上升。Stephens解释称，AI基础设施投资的时机可能决定科技市场中的下一批赢家和输家。原文未提供具体抛售幅度、基金削减规模或政策细节。",
+      "detail_en": "On Bloomberg This Weekend, Bloomberg News markets producer Anthony Stephens told hosts David Gura and Christina Ruffini that Asian investors are assessing the fallout from the AI selloff. He noted that hedge funds are cutting exposure, and uncertainty is growing over US data-center policy. Stephens explained that the timing of AI infrastructure investment could determine the next winners and losers across technology markets. The original text does not provide specific selloff magnitudes, the scale of hedge fund reductions, or policy details.",
+      "conclusion_zh": "AI板块的抛售与数据中心政策不确定性正促使对冲基金降低敞口，AI基础设施投资节奏将成为区分科技股赢家与输家的关键变量。",
+      "conclusion_en": "The AI selloff and uncertainty over data-center policy are prompting hedge funds to reduce exposure, and the pace of AI infrastructure investment will be a key variable distinguishing winners from losers in tech stocks.",
+      "key_points": [
+        {
+          "zh": "亚洲投资者正在评估AI抛售的影响",
+          "en": "Asian investors are assessing the fallout from the AI selloff"
+        },
+        {
+          "zh": "对冲基金正在削减敞口",
+          "en": "Hedge funds are cutting exposure"
+        },
+        {
+          "zh": "美国数据中心政策的不确定性上升",
+          "en": "Uncertainty is growing over US data-center policy"
+        },
+        {
+          "zh": "AI基础设施投资的时机可能决定科技市场的赢家和输家",
+          "en": "The timing of AI infrastructure investment could determine winners and losers in tech markets"
+        }
+      ],
+      "tags": [
+        "AI selloff",
+        "hedge funds",
+        "data-center policy",
+        "tech investing"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "4964825",
       "title": "Wall Street Week Ahead",
@@ -17079,283 +17247,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:MgMp42NOCos",
-      "title": "Crypto’s Institutional Era Has Begun w/ Tanya Reif, David Duong, Christopher Perkins",
-      "title_zh": "加密宏观小组：利率、AI交易与加密韧性",
-      "url": "https://www.youtube.com/watch?v=MgMp42NOCos",
-      "published_at": "2026-11-01T14:00:11+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Tanya Reef 指出，利率因油价、AI资本开支和财政风险溢价而上升，但AI交易动摇后利率回落、美元走弱，支撑加密资产；加密市场因超卖和仓位干净而表现韧性，自8月以来上涨约40%。David Dwang 介绍新成立的 Ethereum Institutional 旨在推动机构从代币化试点转向生产级应用。",
-      "summary_en": "Tanya Reef noted that rates rose due to oil prices, AI capex, and fiscal risk premia, but have fallen as the AI trade wobbled, weakening the dollar and supporting crypto; crypto's resilience stems from oversold conditions and clean positioning, rallying ~40% since August. David Dwang introduced Ethereum Institutional, a new nonprofit helping institutions move tokenization from pilots to production.",
-      "detail_zh": "Tanya Reef 认为利率上升有三个原因：油价推高通胀担忧、AI资本开支推升名义和实际增长、以及财政可持续性与风险溢价担忧。其中风险溢价上升并不明显，油价高企更似供给冲击而非增长动力。真正驱动收益率恐慌的是强劲增长和AI资本开支。当AI交易开始动摇、CDS利差扩大后，利率反而回落，美元走弱，这对加密构成支撑。加密市场自8月以来上涨约40%，尽管面临高利率、AI交易动摇和战争等压力，仍保持强势，原因是此前极度超卖、仓位非常干净。David Dwang 介绍 Ethereum Institutional 是从以太坊基金会分拆出的非营利组织，旨在帮助大型金融机构实际使用以太坊，解决代币化资产上链后结算仍走老路、客户难以在链上申购赎回的痛点，推动从概念验证转向生产环境。",
-      "detail_en": "Tanya Reef attributed the rise in rates to three factors: oil prices fueling inflation fears, AI capex pushing up nominal and real growth, and concerns about fiscal sustainability and risk premia. Risk premia have not risen much, and high oil prices look more like a supply shock than a growth driver. The yield scare was mainly driven by strong growth and AI capex. As the AI trade wobbled and CDS spreads widened, rates fell and the dollar weakened, supporting crypto. Crypto has rallied about 40% since August and held up despite high rates, AI trade wobbles, and war, because it was very oversold with clean positioning. David Dwang introduced Ethereum Institutional, a nonprofit spun out of the Ethereum Foundation to help large financial institutions actually use Ethereum, addressing the gap where tokenized assets are on-chain but settlement still happens the old way and clients cannot easily subscribe or redeem on-chain, moving from proof of concept to production.",
-      "conclusion_zh": "加密市场在利率波动和AI交易动摇中展现出韧性，超卖修复与美元走弱是短期支撑；机构采用仍处于早期，需关注代币化从试点到生产环境的进展。",
-      "conclusion_en": "Crypto has shown resilience amid rate volatility and AI trade wobbles, supported by oversold recovery and a weaker dollar; institutional adoption remains early, with focus on tokenization moving from pilots to production.",
-      "key_points": [
-        {
-          "zh": "利率上升的三大原因：油价、AI资本开支、财政风险溢价；其中风险溢价上升不明显。",
-          "en": "Three drivers of higher rates: oil prices, AI capex, and fiscal risk premia; risk premia have not risen much."
-        },
-        {
-          "zh": "AI交易动摇后利率回落、美元走弱，对加密构成支撑。",
-          "en": "Rates fell and the dollar weakened as the AI trade wobbled, supporting crypto."
-        },
-        {
-          "zh": "加密自8月以来上涨约40%，因极度超卖和仓位干净而保持韧性。",
-          "en": "Crypto has rallied ~40% since August, resilient due to oversold conditions and clean positioning."
-        },
-        {
-          "zh": "Ethereum Institutional 旨在推动机构从代币化试点转向生产级应用。",
-          "en": "Ethereum Institutional aims to move institutions from tokenization pilots to production."
-        }
-      ],
-      "tags": [
-        "crypto",
-        "rates",
-        "AI trade",
-        "tokenization",
-        "Ethereum"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:VV8ga4hG2zU",
-      "title": "市場調整の次の局面",
-      "title_zh": "摩根士丹利威尔逊：美股调整接近尾声，但最后阶段可能痛苦",
-      "url": "https://www.youtube.com/watch?v=VV8ga4hG2zU",
-      "published_at": "2026-11-01T13:58:02+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "摩根士丹利首席投资官兼美国首席股票策略师迈克·威尔逊认为，始于6月的股市调整已进入最后阶段，但指数层面可能还需进一步下跌，标普500指数在7100-7200点区域有坚实支撑。他预计未来将出现三个“出清事件”：AI相关担忧、中期选举和流动性收紧，这些事件可能引发股价急跌，但也会创造买入机会。",
-      "summary_en": "Morgan Stanley CIO and US Chief Equity Strategist Mike Wilson believes the stock market correction that began in June is in its final stage, but the index level may need to fall further, with solid support for the S&P 500 around 7100-7200. He expects three \"clearing events\" ahead: AI-related concerns, midterm elections, and tightening liquidity, which could trigger sharp selloffs but also create buying opportunities.",
-      "detail_zh": "威尔逊指出，始于6月的调整在水面下已经相当深入，但由高质量股票构成的标普500指数可能仍有未调整到位的部分，在调整完成之前不能轻言结束。他将此次调整视为向周期中段的过渡，业绩预期修正率的变化已如预期见顶，市场反应是周期早期的高杠杆股票开始跑输，而质量更高、资产轻、服务导向的企业表现突出。目前向质量股的轮动已被广泛理解，投资者仓位也已跟上。他认为，最终标普500指数与水面下疲弱的市场广度会相互靠拢，这一过程可能已经开始。若指数进一步下跌，标普500在7100-7200点区域将是本次调整的坚实支撑。自6月以来，纳斯达克3000指数约60%的成份股跌幅超过20%，周期早期板块如非必需消费品、汽车、可选消费和资本品等受创更重。对冲基金仓位已大幅缩减至近12个月最低水平，这是令人鼓舞的信号，但整体市场情绪尚未达到持续触底的极端水平。他预计未来有三个“出清事件”：第一是AI，投资者对最终资本回报率、资本成本以及巨额支出能否完全通过信贷市场借款融资存疑，未来几周市场需吸收更多发行供应，质量较差的企业可能继续面临利差扩大和股价下跌，非必需消费品板块仍是担忧中心，可能到11月中旬再跌10-15%；第二是中期选举，不确定性高，蓝色浪潮已非意外，更大的担忧是投票后可能发生的事件，如伊朗军事紧张局势重燃，但历史显示中期选举后回报非常强劲，若投票日前后股价急跌，应准备买入；第三也是最重要的流动性，利率上升、资产负债表扩张放缓、资金需求增加和能源价格上涨共同导致金融环境快速收紧，类似2018年，尽管美联储紧缩幅度很小，但情况与2022年相差不大，市场实际上在替美联储紧缩，若融资紧张或信贷市场不稳定，美联储和财政部有工具应对，但问题是在他们行动前情况是否需进一步恶化。总结来说，他认为调整处于最后阶段，但最后阶段可能非常不舒服，可能还需要指数层面再跌一波和波动率急升，或者投资者再次判断“有东西坏了”，而这可能为美联储政策转向和股市下一轮上涨铺路。他倾向于继续超配资本品等板块中调整已超过指数的质量股，并将出清事件引发的急跌视为买入机会而非逃离风险的理由。",
-      "detail_en": "Wilson notes that the correction that began in June has already progressed significantly beneath the surface, but the high-quality S&P 500 index may still have unfinished adjustment, and the correction cannot be declared over until it runs its course. He views this correction as a transition to mid-cycle, with the rate of change in earnings revisions having peaked as expected, and the market reaction has been early-cycle high-leverage stocks starting to underperform while higher-quality, asset-light, service-oriented companies come to the fore. The rotation to quality stocks is now widely understood, and investor positioning has followed. He believes that eventually the S&P 500 index and the weak market breadth beneath the surface will converge, and that process may already be underway. If the index falls further, the 7100-7200 area on the S&P 500 would be a solid support level for this correction. Since June, about 60% of constituents in the Nasdaq 3000 index have suffered declines exceeding 20%, with early-cycle sectors such as consumer discretionary, autos, cyclical consumer, and capital goods hit even harder. Hedge fund positioning has shrunk significantly to near the lowest level in the past 12 months, which is encouraging, but overall market sentiment has not yet reached extreme levels that would indicate a sustained bottom. He expects three \"clearing events\" ahead: first, AI, where investors question the ultimate return on capital, cost of capital, and whether the massive promised spending can be fully financed through credit market borrowing; the market will need to absorb more issuance supply in coming weeks, and lower-quality companies may continue to face spread widening and further stock declines, with consumer discretionary still at the center of concerns and possibly falling another 10-15% by mid-November; second, the midterm elections, which are full of uncertainty, with a blue wave no longer a surprise, but the bigger concern is what may happen after the vote, such as renewed military tensions over Iran, though historically post-midterm returns have been very strong, and if stocks plunge around the election, one should be prepared to buy; third and most important, liquidity, as rising rates, slowing balance sheet expansion, increased funding demand, and higher energy prices combine to tighten financial conditions rapidly, similar to 2018, and despite small Fed tightening, conditions are not much different from 2022, with the market essentially tightening for the Fed, and if funding stress or credit market instability emerges, the Fed and Treasury have tools to respond, but the question is whether conditions need to worsen further before they act. In summary, he believes the correction is in its final stage, but that stage may be very uncomfortable, possibly requiring another leg down at the index level and a volatility spike, or another moment when investors decide something is broken, which could pave the way for a Fed pivot and the next leg up in stocks. He prefers to stay overweight quality stocks in sectors like capital goods that have corrected more than the index, and to view sharp selloffs triggered by clearing events as buying opportunities rather than reasons to flee risk.",
-      "conclusion_zh": "美股调整接近尾声但最后阶段可能痛苦，投资者应准备迎接波动，并将急跌视为买入质量股的机会。",
-      "conclusion_en": "The US equity correction is near its end but the final stage may be painful; investors should prepare for volatility and treat sharp selloffs as opportunities to buy quality stocks.",
-      "key_points": [
-        {
-          "zh": "调整始于6月，已进入最后阶段，但标普500指数可能仍需进一步下跌，7100-7200点区域为坚实支撑。",
-          "en": "The correction began in June and is in its final stage, but the S&P 500 may need to fall further, with solid support at 7100-7200."
-        },
-        {
-          "zh": "自6月以来，纳斯达克3000指数约60%的成份股跌幅超过20%，周期早期板块受创更重，对冲基金仓位已降至近12个月最低。",
-          "en": "Since June, about 60% of Nasdaq 3000 constituents have fallen more than 20%, early-cycle sectors are hit harder, and hedge fund positioning is near 12-month lows."
-        },
-        {
-          "zh": "未来三个出清事件：AI担忧（资本回报率、资本成本、债务融资能力）、中期选举不确定性、流动性快速收紧。",
-          "en": "Three clearing events ahead: AI concerns (ROIC, cost of capital, debt financing ability), midterm election uncertainty, and rapid liquidity tightening."
-        },
-        {
-          "zh": "非必需消费品板块可能到11月中旬再跌10-15%，是市场调整的重要风向标。",
-          "en": "Consumer discretionary may fall another 10-15% by mid-November and is a key indicator of the market correction."
-        },
-        {
-          "zh": "若出清事件引发股价急跌，应视为买入机会，而非逃离风险的理由；继续超配已充分调整的质量股。",
-          "en": "Sharp selloffs triggered by clearing events should be viewed as buying opportunities, not reasons to flee risk; stay overweight quality stocks that have already corrected."
-        }
-      ],
-      "tags": [
-        "market correction",
-        "quality rotation",
-        "AI concerns",
-        "midterm elections",
-        "liquidity"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:4ZVTisoa4LU",
-      "title": "Democrats Eye House and Senate Gains",
-      "title_zh": "民主党中期选举势头增强，共和党受可负担性与特朗普支持率拖累",
-      "url": "https://www.youtube.com/watch?v=4ZVTisoa4LU",
-      "published_at": "2026-11-01T13:43:05+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "罗格斯大学民调主任Ashley Koning与彭博观点高级执行编辑Tim O’Brien在Bloomberg This Weekend节目中表示，民主党带着势头进入中期选举，而共和党则受到可负担性担忧和特朗普总统支持率的拖累。他们讨论了民主党在众议院和参议院取得进展的可能性、民调的可靠性，以及共和党失利可能对特朗普在党内影响力意味着什么。",
-      "summary_en": "Rutgers University polling director Ashley Koning and Bloomberg Opinion Senior Executive Editor Tim O’Brien told Bloomberg This Weekend that Democrats enter the midterm elections with momentum as concerns about affordability and President Donald Trump’s approval weigh on Republicans. They discussed the possibility of Democratic gains in the House and Senate, the reliability of polling, and what a Republican defeat could mean for Trump’s influence over the party.",
-      "detail_zh": "罗格斯大学民调主任Ashley Koning和彭博观点高级执行编辑Tim O’Brien在Bloomberg This Weekend节目中与主持人David Gura和Lisa Mateo讨论了中期选举的形势。他们指出，民主党带着势头进入中期选举，而共和党则受到可负担性担忧和总统特朗普支持率的拖累。讨论涉及民主党在众议院和参议院取得进展的可能性、民调的可靠性，以及共和党失利可能对特朗普在党内影响力意味着什么。",
-      "detail_en": "Rutgers University polling director Ashley Koning and Bloomberg Opinion Senior Executive Editor Tim O’Brien joined hosts David Gura and Lisa Mateo on Bloomberg This Weekend to discuss the midterm elections. They said Democrats enter the midterm elections with momentum as concerns about affordability and President Donald Trump’s approval weigh on Republicans. The discussion examined the possibility of Democratic gains in the House and Senate, the reliability of polling, and what a Republican defeat could mean for Trump’s influence over the party.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党带着势头进入中期选举，共和党受可负担性担忧和特朗普支持率拖累。",
-          "en": "Democrats enter the midterm elections with momentum as concerns about affordability and President Donald Trump’s approval weigh on Republicans."
-        },
-        {
-          "zh": "讨论涉及民主党在众议院和参议院取得进展的可能性。",
-          "en": "The discussion examined the possibility of Democratic gains in the House and Senate."
-        },
-        {
-          "zh": "节目还探讨了民调的可靠性。",
-          "en": "The reliability of polling was also discussed."
-        },
-        {
-          "zh": "共和党失利可能影响特朗普对政党的影响力。",
-          "en": "A Republican defeat could affect Trump’s influence over the party."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "polling",
-        "Trump",
-        "Democrats",
-        "Republicans"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:k2EzesocrbY",
-      "title": "Tech Selloff Could Ease Pressure on the Fed",
-      "title_zh": "BMO经济学家：AI投资推高利率与通胀，降温或减轻美联储压力",
-      "url": "https://www.youtube.com/watch?v=k2EzesocrbY",
-      "published_at": "2026-11-01T13:32:30+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "BMO资本市场高级经济学家Jennifer Lee表示，大量AI投资推高了利率和通胀压力，而该领域降温可能使美联储的工作更容易。她指出美国经济仍稳健，但消费者支出和工资增长趋软，投资者正等待新的劳动力数据和科技企业财报。",
-      "summary_en": "BMO Capital Markets Senior Economist Jennifer Lee said heavy AI investment has helped drive interest rates and inflation pressures higher, while a cooling in the sector could make the Federal Reserve's job easier. She noted the US economy remains robust but pointed to softer consumer spending and wage growth as investors await fresh labor data and another round of technology earnings.",
-      "detail_zh": "BMO资本市场高级经济学家兼董事总经理Jennifer Lee在Bloomberg This Weekend节目中表示，大量AI投资是推高利率和通胀压力的因素之一。她同时指出，AI领域若出现降温，可能减轻美联储的政策压力。Lee认为美国经济整体仍保持稳健，但消费者支出和工资增长已显现趋软迹象。当前投资者正在等待新的劳动力市场数据以及新一轮科技企业财报。",
-      "detail_en": "BMO Capital Markets Senior Economist and Managing Director Jennifer Lee told Bloomberg This Weekend that heavy AI investment has helped drive interest rates and inflation pressures higher. She also indicated that a cooling in the AI sector could make the Federal Reserve's job easier. Lee said the US economy remains robust but pointed to softer consumer spending and wage growth. Investors are awaiting fresh labor data and another round of technology earnings.",
-      "conclusion_zh": "AI投资对利率和通胀的推升作用值得关注，若科技资本开支降温，或缓解美联储压力，同时需留意消费与工资趋软信号。",
-      "conclusion_en": "The upward pressure of AI investment on rates and inflation warrants attention; a cooling in tech capex could ease Fed pressure, while softer consumer and wage signals bear watching.",
-      "key_points": [
-        {
-          "zh": "大量AI投资推高了利率和通胀压力",
-          "en": "Heavy AI investment has helped drive interest rates and inflation pressures higher"
-        },
-        {
-          "zh": "AI领域降温可能使美联储的工作更容易",
-          "en": "A cooling in the AI sector could make the Federal Reserve's job easier"
-        },
-        {
-          "zh": "美国经济仍稳健，但消费者支出和工资增长趋软",
-          "en": "The US economy remains robust, but consumer spending and wage growth are softer"
-        },
-        {
-          "zh": "投资者正等待新的劳动力数据和新一轮科技企业财报",
-          "en": "Investors are awaiting fresh labor data and another round of technology earnings"
-        }
-      ],
-      "tags": [
-        "AI investment",
-        "inflation",
-        "Federal Reserve",
-        "consumer spending",
-        "tech earnings"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:dzV14ydwv-Q",
-      "title": "Brooks Steps Up Global Push as Running Boom Builds",
-      "title_zh": "Brooks Running CEO：全球跑步热潮与健康关注驱动增长，扩张欧中市场",
-      "url": "https://www.youtube.com/watch?v=dzV14ydwv-Q",
-      "published_at": "2026-11-01T13:23:52+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Brooks Running CEO Dan Sheridan 表示，全球跑步热潮和消费者对健康的持续关注推动公司增长，公司正在欧洲和中国等市场扩张。同时，公司拓展生活方式业务和实体店，并在应对关税和供应链中断时，未将全部成本转嫁给消费者。",
-      "summary_en": "Brooks Running CEO Dan Sheridan says a global running boom and consumers' continued focus on health and wellness are driving growth, with the company expanding in markets including Europe and China. The company is also expanding its lifestyle business and physical stores while navigating tariffs and supply-chain disruptions without passing all costs on to consumers.",
-      "detail_zh": "Brooks Running CEO Dan Sheridan 在接受 Bloomberg This Weekend 采访时表示，全球跑步热潮以及消费者对健康与保健的持续关注，正在帮助公司实现增长。公司正在包括欧洲和中国在内的市场进行扩张。Sheridan 还指出，Brooks 正在拓展其生活方式业务和实体门店。在应对关税和供应链中断方面，公司选择不将所有相关成本转嫁给消费者。",
-      "detail_en": "Brooks Running CEO Dan Sheridan told Bloomberg This Weekend that a global running boom and consumers' continued focus on health and wellness are helping drive growth, with the company expanding in markets including Europe and China. Sheridan also noted that Brooks is expanding its lifestyle business and physical stores. In navigating tariffs and supply-chain disruptions, the company is not passing all of those costs on to consumers.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "全球跑步热潮和健康关注推动 Brooks Running 增长。",
-          "en": "A global running boom and health focus are driving growth for Brooks Running."
-        },
-        {
-          "zh": "公司正在欧洲和中国等市场扩张。",
-          "en": "The company is expanding in markets including Europe and China."
-        },
-        {
-          "zh": "Brooks 同时拓展生活方式业务和实体门店。",
-          "en": "Brooks is also expanding its lifestyle business and physical stores."
-        },
-        {
-          "zh": "公司应对关税和供应链中断，未将全部成本转嫁给消费者。",
-          "en": "The company is navigating tariffs and supply-chain disruptions without passing all costs on to consumers."
-        }
-      ],
-      "tags": [
-        "Brooks Running",
-        "consumer trends",
-        "tariffs",
-        "supply chain",
-        "international expansion"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6Gr0WA3YW2c",
-      "title": "IMO Chief Says Strait of Hormuz Remains Unsafe",
-      "title_zh": "国际海事组织：霍尔木兹海峡仍不安全，航运量远低于冲突前水平",
-      "url": "https://www.youtube.com/watch?v=6Gr0WA3YW2c",
-      "published_at": "2026-11-01T13:12:10+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "国际海事组织秘书长多明格斯表示，霍尔木兹海峡对商船仍不安全，船舶通行量远低于冲突前水平，袭击、水雷等威胁持续存在。该中断正推高全球燃料与航运成本，并迫使行业开发替代航线、增强供应链韧性。",
-      "summary_en": "IMO Secretary-General Arsenio Dominguez says the Strait of Hormuz remains unsafe for commercial shipping, with vessel traffic sharply below pre-conflict levels due to attacks, mines and other hazards. The disruption is raising global fuel and shipping costs and forcing the industry to develop alternative routes and strengthen supply-chain resilience.",
-      "detail_zh": "国际海事组织秘书长Arsenio Dominguez在接受Bloomberg This Weekend采访时表示，霍尔木兹海峡对商业航运而言仍不安全。他指出，由于袭击、水雷及其他危险威胁船舶与海员，该海峡的船舶通行量远低于冲突前水平。Dominguez表示，这一中断正在推高全球燃料和航运成本。同时，该局势正迫使行业开发替代航线并加强供应链韧性。",
-      "detail_en": "International Maritime Organization Secretary-General Arsenio Dominguez told Bloomberg This Weekend that the Strait of Hormuz remains unsafe for commercial shipping. He noted that vessel traffic is sharply below pre-conflict levels as attacks, mines and other hazards threaten ships and seafarers. Dominguez said the disruption is raising global fuel and shipping costs. The situation is also forcing the industry to develop alternative routes and strengthen supply-chain resilience.",
-      "conclusion_zh": "霍尔木兹海峡航运风险持续，推高燃料与航运成本，并促使供应链调整，相关成本压力与航线变化值得关注。",
-      "conclusion_en": "Persistent shipping risks in the Strait of Hormuz are raising fuel and shipping costs and prompting supply-chain adjustments; related cost pressures and route changes warrant attention.",
-      "key_points": [
-        {
-          "zh": "霍尔木兹海峡对商船仍不安全，船舶通行量远低于冲突前水平。",
-          "en": "The Strait of Hormuz remains unsafe for commercial shipping, with vessel traffic sharply below pre-conflict levels."
-        },
-        {
-          "zh": "袭击、水雷及其他危险持续威胁船舶与海员。",
-          "en": "Attacks, mines and other hazards continue to threaten ships and seafarers."
-        },
-        {
-          "zh": "航运中断正推高全球燃料和航运成本。",
-          "en": "The disruption is raising global fuel and shipping costs."
-        },
-        {
-          "zh": "行业被迫开发替代航线并加强供应链韧性。",
-          "en": "The industry is being forced to develop alternative routes and strengthen supply-chain resilience."
-        }
-      ],
-      "tags": [
-        "Strait of Hormuz",
-        "shipping disruption",
-        "fuel costs",
-        "supply chain"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
