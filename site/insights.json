@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-11-08T16:14:02.727732+00:00",
+  "generated_at": "2026-11-08T17:11:28.246885+00:00",
   "insights": [
+    {
+      "guid": "yt:VSrpmavd1W8",
+      "title": "Bookmarked: News Stories On Our Reading List",
+      "title_zh": "彭博周末节目预告：Met Gala主题、软盘终结、McRib诉讼与玩具名人堂",
+      "url": "https://www.youtube.com/watch?v=VSrpmavd1W8",
+      "published_at": "2026-11-08T16:32:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本文仅为彭博电视节目《Bloomberg This Weekend》的预告，介绍主持人将讨论Met Gala主题、软盘终结、McRib诉讼和玩具名人堂等话题，不涉及任何金融市场或投资分析。",
+      "summary_en": "This is only a preview of Bloomberg Television's 'Bloomberg This Weekend' program, where hosts will discuss topics including the Met Gala theme, the end of floppy disks, a lawsuit over McRib contents, and the Hall of Fame of Toys. It contains no financial market or investment analysis.",
+      "detail_zh": "原文是彭博电视节目《Bloomberg This Weekend》中“Bookmarked”环节的预告。主持人David Gura、Christina Ruffini和Lisa Mateo将分享过去一周吸引他们注意的故事，包括Met Gala宣布的“normie”主题、软盘的终结、关于McRib成分的诉讼以及玩具名人堂。全文未提及任何金融市场、经济数据或投资观点，仅包含节目宣传和社交媒体链接。",
+      "detail_en": "The original text is a preview for the 'Bookmarked' segment on Bloomberg Television's 'Bloomberg This Weekend'. Hosts David Gura, Christina Ruffini, and Lisa Mateo will share stories that caught their attention over the past week, including the Met Gala's announced 'normie' theme, the end of floppy disks, a lawsuit over McRib contents, and the Hall of Fame of Toys. The text contains no mention of financial markets, economic data, or investment views; it only includes program promotion and social media links.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目将讨论Met Gala的“normie”主题。",
+          "en": "The program will discuss the Met Gala's 'normie' theme."
+        },
+        {
+          "zh": "话题包括软盘的终结。",
+          "en": "Topics include the end of floppy disks."
+        },
+        {
+          "zh": "涉及关于McRib成分的诉讼。",
+          "en": "A lawsuit over McRib contents is mentioned."
+        },
+        {
+          "zh": "还将介绍玩具名人堂。",
+          "en": "The Hall of Fame of Toys will also be featured."
+        }
+      ],
+      "tags": [
+        "Bloomberg This Weekend",
+        "Met Gala",
+        "floppy disks",
+        "McRib lawsuit",
+        "Hall of Fame of Toys"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:rYjn5oVM0ik",
+      "title": "By The Way: Headlines You May Have Missed",
+      "title_zh": "彭博电视节目预告：节日趣闻与AI考试作弊等话题",
+      "url": "https://www.youtube.com/watch?v=rYjn5oVM0ik",
+      "published_at": "2026-11-08T16:25:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "该内容为彭博电视一档节目的简短预告，提及将讨论圣诞节送礼对象选择、圣诞主题邮轮、学生缴纳大学定金后未入学，以及SAT和AP考试应对AI作弊等话题。内容不涉及任何金融市场或投资分析。",
+      "summary_en": "This is a brief teaser for a Bloomberg Television program, mentioning topics such as choosing Christmas gift recipients, a Christmas-themed cruise, students paying college deposits but not attending, and SAT/AP tests tackling AI cheating. It contains no financial market or investment analysis.",
+      "detail_zh": "该内容仅为彭博电视节目的预告片段，由Lisa Mateo、David Gura和Christina Ruffini主持，汇总一些可能被错过但值得一看的新闻头条。提及的具体话题包括：选择给谁送圣诞礼物、圣诞主题邮轮、学生缴纳大学定金后未入学，以及SAT和AP考试应对AI作弊。内容未提供任何数据、市场分析或投资观点，其余部分为彭博电视和商业新闻的社交媒体链接及订阅信息。",
+      "detail_en": "This is merely a teaser for a Bloomberg Television program hosted by Lisa Mateo, David Gura, and Christina Ruffini, rounding up headlines you may have missed but should see. Specific topics mentioned include choosing who to give Christmas presents to, a Christmas-themed cruise, students making a college deposit and then not attending, and SAT/AP tests tackling AI cheating. No data, market analysis, or investment views are provided; the rest consists of social media links and subscription information for Bloomberg Television and Business News.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目预告提及圣诞节送礼、圣诞主题邮轮等节日话题。",
+          "en": "The program teaser mentions holiday topics such as Christmas gift-giving and a Christmas-themed cruise."
+        },
+        {
+          "zh": "提及学生缴纳大学定金后未入学的情况。",
+          "en": "It mentions students making college deposits but not attending."
+        },
+        {
+          "zh": "提及SAT和AP考试应对AI作弊。",
+          "en": "It mentions SAT and AP tests tackling AI cheating."
+        },
+        {
+          "zh": "内容不包含任何金融市场或投资分析。",
+          "en": "The content contains no financial market or investment analysis."
+        }
+      ],
+      "tags": [
+        "Bloomberg TV",
+        "headlines",
+        "AI cheating",
+        "holiday"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:zZGwK5vfCi8",
+      "title": "Markets Brace for Washington Policy Battles",
+      "title_zh": "SMBC日兴首席经济学家：美国经济仍健康，分裂政府或限制政策大变",
+      "url": "https://www.youtube.com/watch?v=zZGwK5vfCi8",
+      "published_at": "2026-11-08T16:16:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "SMBC日兴证券首席经济学家Joe Lavorgna表示，可负担性问题推动了中期选举结果，但美国经济基本面依然健康。他认为分裂政府可能限制重大政策变化，并讨论了AI投资、通胀和市场前景。",
+      "summary_en": "SMBC Nikko Securities Chief Economist Joe Lavorgna said affordability helped drive the midterm results, but the underlying US economy remains healthy. He argued that divided government may limit major policy changes and discussed the outlook for AI investment, inflation, and markets.",
+      "detail_zh": "在Bloomberg This Weekend节目中，SMBC日兴证券首席经济学家Joe Lavorgna向主持人David Gura和Christina Ruffini表示，可负担性问题帮助推动了中期选举结果。但他认为，美国经济的基本面依然健康。Lavorgna指出，分裂政府可能会限制重大政策变化，因为华盛顿正准备迎接两年潜在的政策僵局。他还讨论了AI投资、通胀和市場的前景。",
+      "detail_en": "On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna told hosts David Gura and Christina Ruffini that affordability helped drive the midterm results. However, he argued that the underlying US economy remains healthy. Lavorgna noted that divided government may limit major policy changes as Washington prepares for two years of potential policy gridlock. He also discussed the outlook for AI investment, inflation, and markets.",
+      "conclusion_zh": "Lavorgna认为美国经济健康且政策变化有限，投资者可关注AI投资与通胀前景。",
+      "conclusion_en": "Lavorgna sees a healthy US economy with limited policy changes, suggesting investors focus on AI investment and inflation outlook.",
+      "key_points": [
+        {
+          "zh": "可负担性问题推动了中期选举结果",
+          "en": "Affordability helped drive the midterm results"
+        },
+        {
+          "zh": "美国经济基本面依然健康",
+          "en": "The underlying US economy remains healthy"
+        },
+        {
+          "zh": "分裂政府可能限制重大政策变化",
+          "en": "Divided government may limit major policy changes"
+        },
+        {
+          "zh": "讨论了AI投资、通胀和市场前景",
+          "en": "Discussed outlook for AI investment, inflation, and markets"
+        }
+      ],
+      "tags": [
+        "US economy",
+        "midterm elections",
+        "divided government",
+        "AI investment",
+        "inflation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:dHeLmxS9aoM",
       "title": "Miller Pick Tests Prospects for Cooperation",
@@ -17167,94 +17301,6 @@
         "liquidity",
         "midterms",
         "AI capex"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_dyvftxRfjs",
-      "title": "Big Tech Earnings Coming, Final Midterm Election Push",
-      "title_zh": "彭博周末节目：中期选举、AI监管与地缘风险成焦点",
-      "url": "https://www.youtube.com/watch?v=_dyvftxRfjs",
-      "published_at": "2026-11-01T16:44:02+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博周末节目围绕即将到来的中期选举展开，涵盖AI对选举的影响、数据中心热潮遭遇反弹、AI安全与监管辩论，以及伊朗战争成本与汽油价格上涨对选民情绪的影响。节目还讨论了美联储维持利率不变但呼吁12月加息、拉加德将于2月卸任欧洲央行行长，以及科技股面临新一轮财报考验。",
-      "summary_en": "This Bloomberg This Weekend episode focuses on the upcoming midterm elections, covering AI's influence on elections, the data center boom colliding with backlash, AI safety and regulation debates, and the impact of Iran war costs and rising gasoline prices on voter discontent. It also discusses the Fed holding rates steady while calls for a December hike emerge, ECB President Lagarde resigning in February, and tech facing another big earnings test.",
-      "detail_zh": "节目以中期选举为最大主线：距离投票日仅剩两天，多个章节讨论AI在选举中的影响、九场值得关注的AI相关选战，以及数据中心热潮在选举前遭遇反弹。民调方面，纽约时报最新民调显示民主党在关键州占优；特朗普总统当天在堪萨斯和爱荷华州竞选；节目还分析了民主党多数党对特朗普议程的影响以及关键参议院选战。地缘政治方面，特朗普就潜在伊朗战争计划发表评论，节目讨论伊朗长期博弈与美国政治时钟的碰撞，并预期伊朗战争在中期选举后可能加剧。经济与市场方面，美联储维持利率不变但存在12月加息呼声，欧洲央行行长拉加德将于2月卸任，科技股本周面临又一轮重大财报考验。选民不满情绪方面，关税与伊朗战争成本叠加，国防部称伊朗战争至少耗资471亿美元，特朗普第二任期内汽油成本上涨超过35%。此外，节目还讨论了AI人才争夺战促使量化机构竞相招聘。",
-      "detail_en": "The episode centers on the midterm elections: with just two days until voting, multiple chapters discuss AI's influence on elections, nine AI battles to watch, and the data center boom colliding with backlash ahead of the midterms. On polling, the latest NYT polls favor Democrats in key states; President Trump is set to campaign in Kansas and Iowa; the show also analyzes the impact of a Democratic majority on Trump's agenda and key Senate races. Geopolitically, Trump comments on potential Iran war plans, the show discusses Iran's long game colliding with America's political clock, and expects the Iran war to intensify after the midterms. On economy and markets, the Fed holds rates steady with calls for a December hike, ECB President Lagarde is resigning in February, and tech faces another big earnings test this week. On voter discontent, tariffs and Iran war costs add up, with the Defense Department saying the Iran war has cost at least $47.1 billion and gasoline costs up 35%+ during Trump's second term. The show also discusses the AI talent war having quant firms racing to hire.",
-      "conclusion_zh": "中期选举结果、AI监管走向与地缘冲突成本是短期美股情绪的关键变量，科技股财报与美联储12月加息预期亦需密切关注。",
-      "conclusion_en": "Midterm election outcomes, AI regulation direction, and geopolitical conflict costs are key short-term variables for US equity sentiment, while tech earnings and December Fed hike expectations also warrant close attention.",
-      "key_points": [
-        {
-          "zh": "中期选举进入最后两天倒计时，AI对选举的影响、数据中心热潮遭遇反弹以及AI安全监管成为辩论焦点。",
-          "en": "The midterm elections enter the final two-day countdown, with AI's influence on elections, data center boom backlash, and AI safety regulation as debate focal points."
-        },
-        {
-          "zh": "纽约时报最新民调显示民主党在关键州占优，节目分析民主党多数党对特朗普议程的影响及关键参议院选战。",
-          "en": "The latest NYT polls favor Democrats in key states; the show analyzes the impact of a Democratic majority on Trump's agenda and key Senate races."
-        },
-        {
-          "zh": "美联储维持利率不变，但存在12月加息呼声；欧洲央行行长拉加德将于2月卸任。",
-          "en": "The Fed holds rates steady with calls for a December hike; ECB President Lagarde is resigning in February."
-        },
-        {
-          "zh": "国防部称伊朗战争至少耗资471亿美元，特朗普第二任期内汽油成本上涨超过35%，关税与战争成本叠加加剧选民不满。",
-          "en": "The Defense Department says the Iran war has cost at least $47.1 billion, and gasoline costs are up 35%+ during Trump's second term; tariffs and war costs add up to voter discontent."
-        },
-        {
-          "zh": "科技股本周面临又一轮重大财报考验；AI人才争夺战促使量化机构竞相招聘。",
-          "en": "Tech faces another big earnings test this week; the AI talent war has quant firms racing to hire."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "AI regulation",
-        "Fed policy",
-        "Iran war",
-        "tech earnings"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:XkqH15JOVsI",
-      "title": "The Political Debate on Daylight Saving Time",
-      "title_zh": "美国夏令时调整僵局：华盛顿为何无法推进",
-      "url": "https://www.youtube.com/watch?v=XkqH15JOVsI",
-      "published_at": "2026-11-01T16:27:18+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "随着美国人准备将时钟拨回，彭博社的Shaquille Omari解释了华盛顿为何在改变每年两次调整时钟的问题上无法向前推进。",
-      "summary_en": "As Americans prepare to fall back, Bloomberg's Shaquille Omari explains why Washington can't seem to move forward on changing the twice-yearly clock change.",
-      "detail_zh": "原文仅指出，关于每年两次调整时钟的辩论时间紧迫。随着美国人准备“fall back”（将时钟拨回），彭博社的Shaquille Omari解释了华盛顿为何似乎无法在改变这一做法上取得进展。原文未提供具体立法细节、支持与反对的理由、可能受影响的行业或市场影响。",
-      "detail_en": "The original text only states that time is ticking on the debate over changing clocks twice a year. As Americans prepare to fall back, Bloomberg's Shaquille Omari explains why Washington can't seem to move forward. No specific legislative details, arguments for or against, or market implications are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国每年两次调整时钟的做法引发辩论，但华盛顿立法进展停滞。",
-          "en": "The twice-yearly clock change in the U.S. is debated, but legislative progress in Washington is stalled."
-        },
-        {
-          "zh": "彭博社的Shaquille Omari分析了华盛顿无法推进改变的原因。",
-          "en": "Bloomberg's Shaquille Omari analyzes why Washington cannot move forward on the change."
-        },
-        {
-          "zh": "美国人正准备将时钟拨回（fall back）。",
-          "en": "Americans are preparing to fall back."
-        }
-      ],
-      "tags": [
-        "daylight saving time",
-        "US politics",
-        "legislation"
       ],
       "tickers": [],
       "sentiment": "neutral"
