@@ -1,6 +1,315 @@
 {
-  "generated_at": "2026-11-09T13:15:49.520075+00:00",
+  "generated_at": "2026-11-09T14:16:09.565263+00:00",
   "insights": [
+    {
+      "guid": "yt:QzZYymM47ak",
+      "title": "Asia Reels From the Global AI Selloff",
+      "title_zh": "全球AI交易逆转，纳指100市值蒸发2.3万亿美元",
+      "url": "https://www.youtube.com/watch?v=QzZYymM47ak",
+      "published_at": "2026-11-09T13:58:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "全球AI交易出现逆转，纳斯达克100指数市值蒸发2.3万亿美元，并引发亚洲市场剧烈抛售。印度市场成为罕见的亮点。",
+      "summary_en": "The global AI trade reversed, wiping $2.3 trillion from the Nasdaq 100 and triggering a sharp selloff across Asia. India emerged as a rare bright spot.",
+      "detail_zh": "全球AI交易发生逆转，导致纳斯达克100指数市值蒸发2.3万亿美元。这一走势引发了亚洲市场的剧烈抛售。文章提出两个问题：为何抛售如此猛烈，以及为何印度成为罕见的亮点。原文未提供更多细节。",
+      "detail_en": "The global AI trade went into reverse, wiping $2.3 trillion from the Nasdaq 100. This triggered a brutal selloff across Asia. The article raises two questions: why the rout turned so violent, and why India is emerging as a rare bright spot. No further details are provided in the source.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "全球AI交易逆转，纳斯达克100市值蒸发2.3万亿美元。",
+          "en": "The global AI trade reversed, wiping $2.3 trillion from the Nasdaq 100."
+        },
+        {
+          "zh": "亚洲市场遭遇剧烈抛售。",
+          "en": "A brutal selloff swept across Asia."
+        },
+        {
+          "zh": "印度成为罕见的亮点。",
+          "en": "India emerged as a rare bright spot."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "Nasdaq 100",
+        "selloff",
+        "Asia markets",
+        "India"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:W1a8QjNG8Nc",
+      "title": "This $1.5 Trillion Manager Expects More Fed Hikes. So Why Is He Still Bullish?",
+      "title_zh": "Northern Trust资管总裁：AI占标普500风险过半，如何布局？",
+      "url": "https://www.youtube.com/watch?v=W1a8QjNG8Nc",
+      "published_at": "2026-11-09T13:55:13+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro",
+        "other"
+      ],
+      "summary_zh": "Northern Trust Asset Management总裁Mike Hunstad估计，AI占标普500指数风险的超过一半。他认为AI对利润率的提升可能早于GDP数据显现，并指出股市下跌可能通过富裕家庭消费传导至经济。他还讨论了价值基金中科技敞口的变化以及主动管理者的选股问题。",
+      "summary_en": "Mike Hunstad, president of Northern Trust Asset Management, estimates that AI accounts for more than half the risk in the S&P 500. He expects AI's impact on profit margins to show up before GDP, and notes that a stock market decline could affect the economy through wealthy households' spending. He also discusses the changing tech exposure in value funds and questions for active managers.",
+      "detail_zh": "Hunstad估计AI占标普500指数风险的超过一半，这对看好AI的投资者提出了组合依赖度的问题。他认为，利用AI以更低成本完成相同工作的公司，其利润率可能先于GDP增长而提升。他还指出，如果富裕家庭将部分股票收益用于消费，那么20%的股市下跌可能改变他们的购买行为。Hunstad用罗素1000价值指数构成的变化说明，价值基金可能拥有比其名称更多的科技敞口。他建议向主动管理者提问：为这些最佳选股而低配了哪些股票，并对这些决策有同样的信心吗？此外，对话还涉及国债收益率对通胀和美联储选择的指示、AI资本支出与互联网泡沫的教训、大型私营公司上市时实际可流通的股票数量、市净率可能遗漏无形资产价值、通过追踪供应商、客户和同行来衡量动量、因子择时的困难以及管理者遗漏的股票可能压倒选股收益等话题。",
+      "detail_en": "Hunstad estimates that AI accounts for more than half the risk in the S&P 500, raising the question of how much a portfolio should depend on being right about AI. He expects companies using AI to do the same work at lower cost to see margins rise before gains show up in GDP. He also notes that if wealthy households have been spending some stock gains, a 20% equity decline could change what they buy. Hunstad uses the changing makeup of the Russell 1000 Value Index to show how a value fund can carry more technology exposure than its name suggests. He advises asking an active manager which stocks they underweighted to pay for their best picks and whether they have as much conviction in those decisions. Other topics include what Treasury yields say about inflation and the Fed, AI capital spending and dot-com lessons, how much stock becomes available when a large private company goes public, price-to-book missing value in intangible assets, measuring momentum via suppliers, customers and peers, the difficulty of timing factor shifts, and how omitted stocks can overwhelm gains from picks.",
+      "conclusion_zh": "投资者需审视组合中AI风险敞口，并关注利润率等早期指标以验证AI投资回报。",
+      "conclusion_en": "Investors should examine their portfolio's AI risk exposure and watch early indicators like profit margins to validate AI investment payoffs.",
+      "key_points": [
+        {
+          "zh": "Hunstad估计AI占标普500指数风险的超过一半。",
+          "en": "Hunstad estimates that AI accounts for more than half the risk in the S&P 500."
+        },
+        {
+          "zh": "AI对利润率的提升可能早于GDP数据显现。",
+          "en": "AI's impact on profit margins may show up before GDP."
+        },
+        {
+          "zh": "股市下跌可能通过富裕家庭消费传导至经济。",
+          "en": "A stock market decline could affect the economy through wealthy households' spending."
+        },
+        {
+          "zh": "价值基金可能拥有比名称更多的科技敞口。",
+          "en": "Value funds may carry more tech exposure than their name suggests."
+        },
+        {
+          "zh": "主动管理者低配的股票可能压倒其选股收益。",
+          "en": "Stocks an active manager underweights can overwhelm gains from their picks."
+        }
+      ],
+      "tags": [
+        "AI",
+        "S&P 500",
+        "risk exposure",
+        "value investing",
+        "active management"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Uhq4bkWTKoc",
+      "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
+      "title_zh": "英伟达董事会就CEO黄仁勋被外国情报机构盯上报道启动独立调查",
+      "url": "https://www.youtube.com/watch?v=Uhq4bkWTKoc",
+      "published_at": "2026-11-09T13:54:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达董事会已启动独立调查，此前有报道称CEO黄仁勋被外国情报机构盯上，他本人承认与一名疑似中国间谍有染。",
+      "summary_en": "Nvidia's board has launched an independent probe into reports that CEO Jensen Huang was targeted by foreign intelligence after he admitted to an affair with a suspected Chinese spy.",
+      "detail_zh": "英伟达董事会已就相关报道启动独立调查。报道称，公司CEO黄仁勋被外国情报机构盯上。此前，黄仁勋承认与一名疑似中国间谍有染。",
+      "detail_en": "Nvidia's board has launched an independent probe into reports that its CEO Jensen Huang was targeted by foreign intelligence. The probe follows Huang's admission to an affair with a suspected Chinese spy.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达董事会启动独立调查",
+          "en": "Nvidia's board has launched an independent probe"
+        },
+        {
+          "zh": "调查针对CEO黄仁勋被外国情报机构盯上的报道",
+          "en": "The probe targets reports that CEO Jensen Huang was targeted by foreign intelligence"
+        },
+        {
+          "zh": "黄仁勋承认与一名疑似中国间谍有染",
+          "en": "Huang admitted to an affair with a suspected Chinese spy"
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "board probe",
+        "foreign intelligence",
+        "China spy"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:if5RybXnzI8",
+      "title": "Big Take: The Economic Policy Dems Can Do Without Trump",
+      "title_zh": "PIMCO政策主管谈民主党经济议题的政策转化",
+      "url": "https://www.youtube.com/watch?v=if5RybXnzI8",
+      "published_at": "2026-11-09T13:53:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博Big Take播客中，PIMCO公共政策主管Libby Cantrill与主持人Sarah Holder讨论民主党竞选时所提经济议题如何转化为政策，以及未来可能的妥协与冲突。原文指出，民主党在缺乏特朗普配合的情况下解决可负担性问题的选项有限。",
+      "summary_en": "On Bloomberg's Big Take podcast, PIMCO Head of Public Policy Libby Cantrill joined host Sarah Holder to discuss how the economic issues Democrats campaigned on could translate into policy, and the compromises and clashes that may lie ahead. The piece notes Democrats have limited options to tackle affordability without Trump.",
+      "detail_zh": "原文提到，所谓的“Blue Wave”可能被视为对特朗普及其经济政策的否定，但民主党在缺乏特朗普配合的情况下，解决可负担性问题的选项有限。在彭博Big Take播客中，PIMCO公共政策主管Libby Cantrill与主持人Sarah Holder讨论了民主党竞选时所主打的经济议题可能如何转化为实际政策，以及未来可能出现的妥协与冲突。原文未提供具体政策细节、数字或时间表。",
+      "detail_en": "The original text states that the 'Blue Wave' might have been a rebuke of Trump and his economy, but Democrats have limited options to tackle affordability without him. On the Big Take podcast, PIMCO's Head of Public Policy Libby Cantrill joined host Sarah Holder to discuss how the economic issues Democrats campaigned on could translate into policy, and the compromises and clashes that may lie ahead. No specific policy details, figures, or timelines are provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "“Blue Wave”可能被视为对特朗普及其经济政策的否定。",
+          "en": "The 'Blue Wave' might have been a rebuke of Trump and his economy."
+        },
+        {
+          "zh": "民主党在缺乏特朗普配合的情况下解决可负担性问题的选项有限。",
+          "en": "Democrats have limited options to tackle affordability without Trump."
+        },
+        {
+          "zh": "PIMCO公共政策主管Libby Cantrill在Big Take播客中讨论了民主党经济议题的政策转化。",
+          "en": "PIMCO's Head of Public Policy Libby Cantrill discussed the policy translation of Democrats' economic issues on the Big Take podcast."
+        },
+        {
+          "zh": "讨论涉及未来可能出现的妥协与冲突。",
+          "en": "The discussion covered the compromises and clashes that may lie ahead."
+        }
+      ],
+      "tags": [
+        "US politics",
+        "fiscal policy",
+        "affordability",
+        "PIMCO"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:RrXvsWkHhg8",
+      "title": "Is AI Degrading Our Music Taste?",
+      "title_zh": "作曲家Max Richter：AI使用人类作品应获报酬",
+      "url": "https://www.youtube.com/watch?v=RrXvsWkHhg8",
+      "published_at": "2026-11-09T13:53:16+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "作曲家Max Richter对Mishal Husain表示，AI系统建立在被盗数据之上，人类作曲家在AI使用其作品创作音乐时应获得报酬。该表态涉及AI训练数据的版权与补偿问题。",
+      "summary_en": "Composer Max Richter told Mishal Husain that AI systems were built on stolen data, and that human composers should be paid when AI uses their work to make music. The remarks concern copyright and compensation for AI training data.",
+      "detail_zh": "作曲家Max Richter在接受Mishal Husain采访时表示：“AI系统是建立在被盗数据之上的。”他主张，当AI利用人类作曲家的作品来创作音乐时，人类作曲家应当获得报酬。该访谈内容由Bloomberg Television播出。原文未提供更多关于补偿机制、法律框架或具体案例的细节。",
+      "detail_en": "Composer Max Richter told Mishal Husain: \"AI systems were built on data that was stolen.\" He argued that human composers should get paid when AI uses their work to make music. The interview was aired by Bloomberg Television. The source provides no further details on compensation mechanisms, legal frameworks, or specific cases.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Max Richter称AI系统建立在被盗数据之上。",
+          "en": "Max Richter said AI systems were built on stolen data."
+        },
+        {
+          "zh": "他主张人类作曲家在AI使用其作品创作音乐时应获得报酬。",
+          "en": "He argued that human composers should be paid when AI uses their work to make music."
+        },
+        {
+          "zh": "该表态涉及AI训练数据的版权与补偿问题。",
+          "en": "The remarks concern copyright and compensation for AI training data."
+        }
+      ],
+      "tags": [
+        "AI",
+        "copyright",
+        "music",
+        "compensation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:38ueFHuKh6E",
+      "title": "Stocks Rise as Investors Shrug Off Nvidia Probe; Trump Says Iran Strikes Unlikely",
+      "title_zh": "美股期货反弹，英伟达CEO丑闻引发关键人风险担忧",
+      "url": "https://www.youtube.com/watch?v=38ueFHuKh6E",
+      "published_at": "2026-11-09T13:48:45+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "标普500经历2025年4月以来最差一周后，美股期货反弹，但英伟达因CEO黄仁勋承认与中国间谍有染而启动调查，引发关键人风险担忧。BNY的Ella Gude讨论AI抛售后的投资者谨慎情绪。",
+      "summary_en": "US equity futures rose after the S&P 500's worst week since April 2025, despite Nvidia launching an investigation after CEO Jensen Huang admitted to an affair with an alleged Chinese spy, raising key man risk concerns. Ella Gude of BNY discussed investors' caution after the latest AI rout.",
+      "detail_zh": "美股期货在标普500指数经历2025年4月以来最差一周后上涨，尽管英伟达股价大幅下跌。英伟达在CEO黄仁勋承认与一名被指为中国间谍的女性有染后启动调查。特朗普总统称此事“极不可能”，国务卿马可·卢比奥则淡化了和平谈判的任何进展。BNY的Ella Gude在“Bloomberg Brief”节目中讨论了最新AI抛售潮后投资者的谨慎情绪。节目还涵盖了亚洲市场反弹、科技股抛售与市场波动、特朗普与伊朗及石油、UniCredit财报与Commerzbank、AI投资与资产配置、华盛顿头条与中期选举影响、中国关税与全球贸易、民主党准备对特朗普的调查、Pete Hegseth弹劾推动、英伟达的华盛顿与中国风险、Alphabet筹集更多资金，以及未来一周的CPI、财报和美联储发言人等议题。",
+      "detail_en": "US equity futures rose after the S&P 500 posted its worst week since April 2025, even as Nvidia shares fell sharply. Nvidia launched an investigation after CEO Jensen Huang admitted to an affair with an alleged Chinese spy. President Trump called it 'highly unlikely,' while Secretary of State Marco Rubio played down any progress in peace negotiations. Ella Gude of BNY joined 'Bloomberg Brief' to discuss investors' caution after the latest AI rout. The program also covered Asia markets rebounding, the tech selloff and market volatility, Trump, Iran and oil, UniCredit earnings and Commerzbank, AI investing and asset allocation, Washington headlines and midterm fallout, China tariffs and global trade, Democrats preparing for Trump investigations, the Pete Hegseth impeachment push, Nvidia's Washington and China risks, Alphabet raising more money, and the week ahead including CPI, earnings and Fed speakers.",
+      "conclusion_zh": "英伟达CEO丑闻凸显关键人风险，叠加AI抛售后的谨慎情绪，投资者需关注科技股波动及本周CPI与美联储信号。",
+      "conclusion_en": "The Nvidia CEO scandal highlights key man risk, and combined with caution after the AI rout, investors should watch tech volatility and this week's CPI and Fed signals.",
+      "key_points": [
+        {
+          "zh": "标普500经历2025年4月以来最差一周后，美股期货反弹。",
+          "en": "US equity futures rose after the S&P 500's worst week since April 2025."
+        },
+        {
+          "zh": "英伟达因CEO黄仁勋承认与中国间谍有染而启动调查，股价大幅下跌。",
+          "en": "Nvidia launched an investigation after CEO Jensen Huang admitted to an affair with an alleged Chinese spy, and shares fell sharply."
+        },
+        {
+          "zh": "特朗普称此事“极不可能”，卢比奥淡化和平谈判进展。",
+          "en": "President Trump said it's 'highly unlikely,' while Secretary of State Marco Rubio played down progress in peace negotiations."
+        },
+        {
+          "zh": "BNY的Ella Gude讨论AI抛售后的投资者谨慎情绪。",
+          "en": "Ella Gude of BNY discussed investors' caution after the latest AI rout."
+        },
+        {
+          "zh": "未来一周关注CPI、财报和美联储发言人。",
+          "en": "The week ahead includes CPI, earnings and Fed speakers."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI selloff",
+        "key man risk",
+        "market volatility",
+        "CPI"
+      ],
+      "tickers": [
+        "NVDA",
+        "GOOGL"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uKNo4ZZa94w",
+      "title": "Big Take: The New AI Trade Is FOGO",
+      "title_zh": "华尔街AI抛售波及亚洲市场，AI繁荣可持续性受质疑",
+      "url": "https://www.youtube.com/watch?v=uKNo4ZZa94w",
+      "published_at": "2026-11-09T13:46:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "华尔街AI板块的抛售先冲击美股，随后蔓延至亚洲市场，引发市场对全球AI繁荣可持续性及下一轮机会所在的新一轮质疑。",
+      "summary_en": "Wall Street's AI sell-off hit US markets and then spilled over into Asian markets, raising fresh questions about the sustainability of the global AI boom and where the next opportunities lie.",
+      "detail_zh": "华尔街AI板块出现抛售，美股首当其冲，随后亚洲市场也随之下跌。这轮下跌使市场重新审视全球AI繁荣的可持续性。原文同时提出，投资者正在思考下一轮机会可能出现在哪里。原文未提供具体指数跌幅、个股名称或资金流向数据。",
+      "detail_en": "A sell-off in AI-related stocks on Wall Street hit US markets first and then spread to Asian markets. The decline has prompted renewed scrutiny of whether the global AI boom is sustainable. The source also notes questions about where the next opportunities may lie. No specific index moves, individual stock names, or flow data were provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "华尔街AI板块抛售先冲击美股，随后蔓延至亚洲市场。",
+          "en": "Wall Street's AI sell-off hit US markets first, then spread to Asian markets."
+        },
+        {
+          "zh": "市场对全球AI繁荣的可持续性提出新的质疑。",
+          "en": "The sell-off raised fresh questions about the sustainability of the global AI boom."
+        },
+        {
+          "zh": "投资者同时关注下一轮机会可能出现在哪里。",
+          "en": "Investors are also asking where the next opportunities may lie."
+        }
+      ],
+      "tags": [
+        "AI selloff",
+        "US equities",
+        "Asian markets",
+        "AI boom sustainability"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:5Hwcue61QHw",
       "title": "3+1 Episode 27: Rick Rieder",
@@ -17049,56 +17358,6 @@
         "display",
         "supply",
         "podcast"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:BKxwtr14560",
-      "title": "AI’s rising bill of expectations",
-      "title_zh": "贝莱德：AI主题面临更严格审视，美股降级至中性",
-      "url": "https://www.youtube.com/watch?v=BKxwtr14560",
-      "published_at": "2026-11-02T14:07:51+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "贝莱德投资研究院指出，AI投资热潮进入第三年，投资者愈发关注回报兑现，导致其上月将美股下调至中性。尽管对AI基本面信心不变，但超大规模科技股盈利优势首次逆转，资本开支激增侵蚀现金流，债务融资推高杠杆并加剧资本竞争。",
-      "summary_en": "BlackRock Investment Institute notes that after two years of booming AI investment, rising scrutiny on monetization led it to downgrade US equities to neutral last month. While conviction in AI fundamentals remains intact, the earnings gap has flipped for the first time since 2022, hyperscaler capex is surging and leaving little cash surplus, and debt-funded buildout raises leverage and funding concerns.",
-      "detail_zh": "贝莱德投资研究院在最新Market Take中表示，经过两年AI投资繁荣后，投资者对AI主题的审视加强，希望看到回报兑现，这一背景促使其上月将美股下调至中性。该机构对AI基本面的信心依然完整，但指出超大规模科技股的环境与几个月前截然不同：自2022年以来，其盈利优势首次发生逆转，市场其余部分预计将超过Magnificent 7。AI领导者仍在交付业绩，但超额表现不再那么突出，且预期已很高，投资者日益关注货币化和现金生成能否支撑投资。上周财报凸显了AI相关商品和服务强劲需求与满足该需求成本上升之间的紧张关系：超大规模资本开支激增，扣除资本开支后现金盈余所剩无几，每增加一美元收入带来的利润减少，引发回报能否跟上投资步伐的疑问。分析发现，采用AI程度较高的大型科技以外公司本季度盈利增长预计比采用程度较低的公司高出约3%，云收入上升也指向强劲AI需求。随着AI建设日益由债务融资，杠杆和融资能力成为焦点，建设加剧资本竞争并对收益率构成上行压力；近期收益率下降反映了市场对部署更多资金可能面临约束的考量。信贷市场是衡量AI投资还能以何种成本融资多少的关键路标。",
-      "detail_en": "In its Market Take, BlackRock Investment Institute says that after two years of booming AI investment, greater scrutiny on the theme and investor demand for payoff contributed to its decision to downgrade US equities to neutral last month. Conviction in AI fundamentals remains intact, but the backdrop for mega-cap tech looks very different from just a few months ago: the earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7. AI leaders are still delivering, but their outperformance is becoming less exceptional, and with expectations already high, investors are increasingly focused on whether monetization and cash generation can sustain investment. Last week's earnings highlighted tension between strong demand for AI-linked goods and services and the rising cost of meeting it: hyperscaler spending has surged, leaving little cash surplus after capex, and each additional dollar of revenue generates less profit, raising questions about whether returns can keep pace. Analysis finds companies outside big tech with higher AI adoption are on track for about 3% more earnings growth this quarter than those with lower adoption, while rising cloud revenues also point to strong AI demand. As the buildout is increasingly funded by debt, leverage and funding capacity are in focus; the buildout adds to competition for capital and keeps upward pressure on yields, and the recent fall in yields reflects flows of competition for capital as markets consider constraints on deploying more funding. Credit markets are a key signpost for how much more AI investment can be financed and at what cost.",
-      "conclusion_zh": "AI基本面信心未改，但短期考验加剧，应对AI敞口保持选择性，并关注信贷市场信号。",
-      "conclusion_en": "Conviction in AI fundamentals remains intact, but near-term tests are intensifying; stay selective on AI exposure and watch credit markets as a key signpost.",
-      "key_points": [
-        {
-          "zh": "贝莱德上月将美股下调至中性，因AI主题审视加强、投资者要求回报兑现。",
-          "en": "BlackRock downgraded US equities to neutral last month as scrutiny on AI intensified and investors demanded payoff."
-        },
-        {
-          "zh": "自2022年以来，超大规模科技股盈利优势首次逆转，市场其余部分预计将跑赢Magnificent 7。",
-          "en": "The earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7."
-        },
-        {
-          "zh": "超大规模资本开支激增，扣除资本开支后现金盈余所剩无几，每美元收入利润下降。",
-          "en": "Hyperscaler capex has surged, leaving little cash surplus after capex, and each additional dollar of revenue generates less profit."
-        },
-        {
-          "zh": "大型科技以外采用AI程度较高的公司本季度盈利增长预计高出约3%。",
-          "en": "Companies outside big tech with higher AI adoption are on track for about 3% more earnings growth this quarter."
-        },
-        {
-          "zh": "AI建设日益依赖债务融资，杠杆和融资能力受关注，信贷市场是衡量融资成本的关键路标。",
-          "en": "The AI buildout is increasingly debt-funded, leverage and funding capacity are in focus, and credit markets are a key signpost for financing costs."
-        }
-      ],
-      "tags": [
-        "AI",
-        "US equities",
-        "earnings",
-        "capex",
-        "credit"
       ],
       "tickers": [],
       "sentiment": "neutral"
