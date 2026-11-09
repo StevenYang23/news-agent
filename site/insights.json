@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-11-09T10:14:28.342073+00:00",
+  "generated_at": "2026-11-09T11:13:51.029302+00:00",
   "insights": [
+    {
+      "guid": "yt:R5U0PpnS35I",
+      "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
+      "title_zh": "英伟达董事会调查CEO黄仁勋，股价盘前下跌",
+      "url": "https://www.youtube.com/watch?v=R5U0PpnS35I",
+      "published_at": "2026-11-09T10:45:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达董事会因CEO黄仁勋承认与一名被报道指认为疑似中国间谍的女性有婚外情而启动调查，公司股价盘前下跌。特朗普表示支持黄仁勋留任。",
+      "summary_en": "Nvidia's board launched an investigation into CEO Jensen Huang after he admitted to an affair with a woman identified in reports as a suspected Chinese spy, sending shares lower in premarket trading. President Trump backed Huang to stay as CEO.",
+      "detail_zh": "英伟达股价在盘前交易中下跌，此前公司董事会宣布对CEO黄仁勋展开调查。调查起因是黄仁勋承认与一名女性有婚外情，该女性在一系列报道中被指认为疑似中国间谍。特朗普总统表态支持黄仁勋继续担任英伟达CEO。此外，国会中期选举后共和党面临所谓'蓝色浪潮'，议员们返回华盛顿，在民主党明年1月接管前推动立法。特朗普承认其驱逐政策可能在选举中损害了共和党。俄罗斯统计局机密数据显示，自近五年前全面入侵乌克兰以来，俄方已记录约40万人死亡。",
+      "detail_en": "Nvidia shares fell in premarket trading after the company's board launched an investigation into CEO Jensen Huang. The probe follows Huang's admission of an affair with a woman identified in a series of reports as a suspected Chinese spy. President Trump backed Huang to stay as Nvidia CEO. Separately, Congress returns after the midterm elections' so-called 'Blue Tsunami,' with Republicans trying to pass legislation before Democrats take control in January. Trump conceded his deportation policies may have hurt Republicans at the polls. Confidential data from Russia's statistics agency Rosstat shows about 400,000 Russian deaths in Ukraine since the full-scale invasion almost five years ago.",
+      "conclusion_zh": "英伟达CEO调查事件构成短期不确定性，投资者需关注调查进展及对公司治理的潜在影响。",
+      "conclusion_en": "The investigation into Nvidia's CEO introduces short-term uncertainty; investors should monitor developments and potential governance implications.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会启动对CEO黄仁勋的调查，因其承认与疑似中国间谍的女性有婚外情。",
+          "en": "Nvidia's board launched an investigation into CEO Jensen Huang after he admitted an affair with a woman identified as a suspected Chinese spy."
+        },
+        {
+          "zh": "英伟达股价盘前下跌。",
+          "en": "Nvidia shares fell in premarket trading."
+        },
+        {
+          "zh": "特朗普总统支持黄仁勋继续担任英伟达CEO。",
+          "en": "President Trump backed Huang to stay as Nvidia CEO."
+        },
+        {
+          "zh": "中期选举后共和党主导的国会返回，试图在民主党接管前通过立法。",
+          "en": "The Republican-led Congress returns after the midterms, aiming to pass legislation before Democrats take control."
+        },
+        {
+          "zh": "俄罗斯机密数据显示，自入侵乌克兰以来约40万人死亡。",
+          "en": "Confidential data shows about 400,000 Russian deaths since the invasion of Ukraine."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO investigation",
+        "China spy",
+        "midterm elections",
+        "Russia Ukraine"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:_Juu7PVH9T0",
       "title": "This Is How New York City Takes Out Its Trash | Odd Lots",
@@ -17159,53 +17210,6 @@
         "GOOGL",
         "PLTR"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:h6hyYDqfB5c",
-      "title": "市場調整の次の局面",
-      "title_zh": "摩根士丹利威尔逊：美股调整进入尾声，但最后一程可能痛苦",
-      "url": "https://www.youtube.com/watch?v=h6hyYDqfB5c",
-      "published_at": "2026-11-02T11:11:42+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "摩根士丹利首席投资官兼美国首席股票策略师迈克·威尔逊认为，始于6月的调整已进入最后阶段，但指数层面可能还有一跌，波动率或急升。他预计标普500在7,100-7,200点有强支撑，并列出AI、中期选举、流动性三个「出清事件」，建议在急跌时视为买入机会。",
-      "summary_en": "Morgan Stanley CIO and US Chief Equity Strategist Mike Wilson believes the correction that began in June is in its final stage, but the index may still see another leg lower and a volatility spike. He sees strong support for the S&P 500 around 7,100-7,200 and identifies three 'clearing events'—AI, midterms, and liquidity—advising investors to treat sharp selloffs as buying opportunities.",
-      "detail_zh": "威尔逊指出，6月开始的调整在水面下已相当深入，但由高质量成分股构成的标普500指数可能仍有未调整到位的部分，在完成前不能断言调整结束。他将本轮调整定性为典型的「周期中段过渡期」，盈利修正率变化在衰退触底约一年后见顶，市场反应是周期早期高经营杠杆和财务杠杆的领涨股开始跑输，质量更高、轻资产、服务导向的公司走上前台。这种向质量股的轮动已被广泛理解，投资者仓位也已跟随；通常最终阶段，稳健的标普500指数与水面下走弱的市场广度会相互靠拢，这一过程可能已开始。若指数进一步下跌，标普500在7,100-7,200点附近将是本轮调整的坚实支撑。他认为过渡期最终向好，因为已产生相当大痛苦：6月以来罗素3000指数约60%成分股跌幅超过20%，半导体、汽车、周期敏感消费、资本品等周期早期板块受创更重；对冲基金仓位大幅收缩至近12个月最低，这是令人鼓舞的信号，但整体市场情绪尚未达到显示持续见底的极端水平，底部虽近但尚未到来。他列出三个「出清事件」：第一是AI，投资者质疑最终资本回报率、资本成本以及巨额支出能否全部靠信贷市场借款融资，未来数周市场需吸收更多公司债等发行供给，低质量企业可能继续面临利差扩大和股价进一步下跌，半导体仍是担忧中心，他预计到11月中旬半导体指数可能再跌10-15%。第二是中期选举，市场厌恶不确定性，「蓝色浪潮」（民主党大胜）已不再是意外，更大担忧是投票后可能发生的事，如伊朗周边军事紧张再起；历史上看中期选举后回报非常好，若投票日前后数日或数周股价急跌，应准备把握机会。第三也是最关键的是流动性：利率上升、资产负债表扩张放缓、资金需求增加和能源价格上涨叠加，金融环境正快速收紧，类似2018年；尽管美联储紧缩幅度很小，但情况与2022年经历相差不大，市场实际上在替美联储收紧；若这种收紧开始引发融资紧张或信贷市场不稳，美联储和美国财政部有应对工具，问题是两者行动前情况是否需进一步恶化。总结而言，他认为调整处于最后阶段，但最后阶段可能非常不舒服，可能还需要指数层面再跌一程和波动率急升，或投资者再次判断「有东西坏了」的时刻，而这可能为美联储政策转向和股市下一轮上涨铺路。当前他继续偏好资本品等已比指数调整更深的优质股，更重要的是，若出清事件导致股价急跌，应视为期待已久的买入良机而非逃离风险的理由。",
-      "detail_en": "Wilson notes that the correction that began in June has progressed considerably beneath the surface, but the high-quality, S&P 500 index may still have unfinished adjustment, and the correction cannot be called complete until that runs its course. He frames this as a typical 'mid-cycle transition': the earnings revision rate peaked about a year after the recession trough, and the market reacted as usual—early-cycle leaders with relatively high operating and financial leverage began to underperform, while higher-quality, asset-light, service-oriented companies came to the fore. This rotation to quality is now widely understood and investor positioning has followed; ironically, in the final stage the resilient, high-quality S&P 500 and the weakening market breadth beneath it typically converge toward each other, and that process may already be starting. If the index falls further, he sees 7,100-7,200 on the S&P 500 as a solid downside support level for this correction. He believes the transition ends well because substantial pain has already occurred: since June, roughly 60% of Russell 3000 constituents have suffered declines exceeding 20%, with early-cycle sectors such as semiconductors, autos, consumer discretionary, and capital goods hit even harder. Hedge fund positioning has shrunk sharply to near the lowest level in the past 12 months, which is encouraging, but overall market sentiment has not yet reached the extreme levels that would signal a durable bottom—the bottom is near but not yet here. He identifies three 'clearing events': first, AI—investors question the ultimate return on capital, the cost of capital, and whether all the promised massive spending can be financed by borrowing from credit markets; in coming weeks the market must absorb more supply from corporate bond issuance, and lower-quality companies may continue to face further spread widening and stock declines, with semiconductors still at the center of concern; he expects the semiconductor index to fall another 10-15% into mid-November. Second, the midterm elections—markets dislike uncertainty and this election is full of it; a 'blue wave' (a Democratic landslide) is no longer a surprise, and the bigger concern is what could happen after the vote, such as renewed military tension around Iran. He does not claim special strength in geopolitical forecasting, but knows such shocks often create very good buying opportunities; historically, post-midterm returns have been very strong, so he wants to be prepared to take advantage if stocks plunge in the days or weeks around the vote. Third and most important is liquidity: rising rates, slower balance sheet expansion, higher funding demand, and rising energy prices are combining to tighten financial conditions rapidly, similar to 2018; despite only small Fed tightening, conditions are not much different from what was experienced in 2022—the market is effectively tightening on the Fed's behalf. If this tightening starts to cause funding stress or destabilize credit markets, the Fed and US Treasury have tools to respond; the question is whether conditions need to worsen further before they act. In sum, he believes the correction is in its final stage, but that final stage may be very uncomfortable—another leg lower at the index level and a volatility spike may still be needed, or another moment when investors decide 'something is broken,' which could open the way for a Fed pivot and the next leg up in stocks. For now he continues to prefer quality stocks in sectors such as capital goods that have already corrected more than the index, and more importantly, if clearing events cause sharp declines, he would view them as a long-awaited buying opportunity rather than a reason to flee risk.",
-      "conclusion_zh": "调整尾声已近但最后一程可能痛苦，指数再跌与波动率急升或是美联储转向和下一轮上涨的前奏；对优质股应保持偏好，并把急跌视为买入机会。",
-      "conclusion_en": "The end of the correction is near but the final stretch may be painful; another index decline and a volatility spike could pave the way for a Fed pivot and the next rally—stay biased toward quality and treat sharp selloffs as buying opportunities.",
-      "key_points": [
-        {
-          "zh": "6月开始的调整已进入最后阶段，但标普500指数层面可能还有一跌，波动率或急升；7,100-7,200点附近为坚实支撑。",
-          "en": "The correction that began in June is in its final stage, but the S&P 500 index may still see another leg lower and a volatility spike; 7,100-7,200 is seen as solid support."
-        },
-        {
-          "zh": "6月以来罗素3000约60%成分股跌幅超20%，对冲基金仓位降至近12个月最低，但整体情绪尚未达到持续见底的极端水平。",
-          "en": "Since June, about 60% of Russell 3000 constituents are down more than 20%, and hedge fund positioning is near a 12-month low, but overall sentiment has not reached the extreme levels of a durable bottom."
-        },
-        {
-          "zh": "三个「出清事件」：AI相关信贷供给与资本回报质疑（半导体指数或再跌10-15%）、中期选举及投票后地缘风险、金融环境快速收紧的流动性压力。",
-          "en": "Three 'clearing events': AI-related credit supply and return-on-capital concerns (semiconductor index may fall another 10-15%), the midterms and post-vote geopolitical risk, and liquidity stress from rapidly tightening financial conditions."
-        },
-        {
-          "zh": "当前继续偏好资本品等已比指数调整更深的优质股；若出清事件引发急跌，应视为买入良机而非逃离风险的理由。",
-          "en": "He continues to prefer quality stocks such as capital goods that have corrected more than the index; sharp selloffs from clearing events should be treated as buying opportunities, not reasons to flee risk."
-        }
-      ],
-      "tags": [
-        "market correction",
-        "quality rotation",
-        "AI capex",
-        "midterms",
-        "liquidity"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
