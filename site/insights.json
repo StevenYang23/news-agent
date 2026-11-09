@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T23:11:59.290537+00:00",
+  "generated_at": "2026-11-09T05:14:50.030715+00:00",
   "insights": [
     {
       "guid": "yt:H7aJIEohvrE",
@@ -17219,55 +17219,6 @@
         "flash-memory",
         "US-midterms",
         "China-stock-market"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5uEMAmLuQZs",
-      "title": "China Stocks Rise on Reports of Market Support Measures",
-      "title_zh": "彭博《中国秀》节目单：风险资产抛售缓和，科技股波动加剧",
-      "url": "https://www.youtube.com/watch?v=5uEMAmLuQZs",
-      "published_at": "2026-11-02T04:40:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博《中国秀》涵盖风险资产抛售缓和、中国央行与监管机构据报开会讨论市场支持措施、科技股抛售加剧亚洲股市波动等议题，并采访了富士康董事长刘扬伟、春华资本胡祖六、橡树资本霍华德·马克斯等嘉宾。",
-      "summary_en": "This episode of Bloomberg The China Show covers the easing of the risk-asset selloff, reports that the PBOC and regulators are meeting on market support measures, and heightened volatility in Asian stocks from the tech rout, with interviews including Foxconn Chairman Young Liu, Primavera Capital's Fred Hu, and Oaktree's Howard Marks.",
-      "detail_zh": "节目首先关注风险资产抛售出现缓和迹象。随后讨论中国央行与监管机构据报正在开会商讨市场支持措施。科技股遭遇抛售，加剧了亚洲股市的波动。富士康董事长刘扬伟在节目中谈论了与OpenAI的合作关系。中国大型银行报告了创纪录的利润。春华资本的胡祖六就中国经济发表了看法。RatingDog中国制造业PMI仍处于扩张区间。交易员关注财报以寻找科技股方向。中国华夏基金（香港）行政总裁甘添讨论了代币化和AI投资。橡树资本的霍华德·马克斯分享了关于长期投资和AI的观点。节目最后提供了美国中期选举的交易指南。",
-      "detail_en": "The program begins by noting that the selloff in risk assets is easing. It then discusses reports that the PBOC and regulators are meeting on market support measures. A tech rout has heightened volatility in Asian stocks. Foxconn Chairman Young Liu discusses the OpenAI partnership. China's megabanks report record profits. Primavera Capital's Fred Hu shares views on China's economy. The RatingDog China manufacturing PMI remains in expansion territory. Traders look to earnings for direction on tech stocks. ChinaAMC (HK) CEO Tian Gan discusses tokenization and AI investments. Oaktree's Howard Marks offers perspectives on long-term investing and AI. The show concludes with a trader's guide to US midterm elections.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "风险资产抛售出现缓和迹象。",
-          "en": "The selloff in risk assets is easing."
-        },
-        {
-          "zh": "中国央行与监管机构据报开会讨论市场支持措施。",
-          "en": "The PBOC and regulators reportedly met on market support measures."
-        },
-        {
-          "zh": "科技股抛售加剧亚洲股市波动。",
-          "en": "The tech rout heightened volatility in Asian stocks."
-        },
-        {
-          "zh": "中国大型银行报告创纪录利润。",
-          "en": "China's megabanks reported record profits."
-        },
-        {
-          "zh": "RatingDog中国制造业PMI仍处于扩张区间。",
-          "en": "The RatingDog China manufacturing PMI remains in expansion territory."
-        }
-      ],
-      "tags": [
-        "China",
-        "PBOC",
-        "tech rout",
-        "PMI",
-        "earnings"
       ],
       "tickers": [],
       "sentiment": "neutral"
