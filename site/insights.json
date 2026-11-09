@@ -1,6 +1,136 @@
 {
-  "generated_at": "2026-11-09T07:15:29.656993+00:00",
+  "generated_at": "2026-11-09T08:21:25.818489+00:00",
   "insights": [
+    {
+      "guid": "yt:az-jQyfNlxM",
+      "title": "Jensen Huang’s Affair with Suspected Chinese Spy Adds New Risks to AI Trade",
+      "title_zh": "英伟达CEO绯闻引发中国间谍争议，亚洲股市反弹",
+      "url": "https://www.youtube.com/watch?v=az-jQyfNlxM",
+      "published_at": "2026-11-09T07:46:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO的绯闻事件使这家AI巨头卷入中国间谍争议，Futurum Group CEO Daniel Newman讨论了该调查对英伟达的风险。亚洲股市在经历逾18个月最大抛售后反弹，Newman认为美国投资者可能在抛售后重返AI板块。",
+      "summary_en": "Nvidia CEO's affair has engulfed the AI giant in a China spying controversy, with Futurum Group CEO Daniel Newman discussing the risks to Nvidia from the investigation. Asian stocks rebounded from their biggest selloff in more than 18 months, and Newman suggested US investors may return to AI after the selloff.",
+      "detail_zh": "本期节目首先聚焦英伟达CEO的绯闻事件，该事件使英伟达卷入中国间谍争议。Futurum Group CEO Daniel Newman就调查对英伟达构成的风险发表了看法。随后节目讨论了亚洲股市在经历逾18个月最大抛售后出现反弹，Newman解释了为何美国投资者可能在抛售后重返AI板块。地缘政治方面，卢比奥认为伊朗问题没有突破，特朗普淡化新的打击行动，前美国副国家安全顾问Mara Rudman分析了美国对伊朗发出的矛盾信息，以及民主党控制国会可能如何制约特朗普总统。市场方面，印度股市结束了排灯节连涨势头，出现2017年以来首次下跌；台湾股市在当局采取措施遏制市场暴跌后跳涨。瑞银集团CEO Sergio Ermotti表示，他并不特别担心AI板块的抛售。此外，比亚迪执行副总裁Stella Li讨论了在中国以外寻求增长，Raj Singh就印度增长前景、石油风险和外国资金回流发表了看法，菲律宾增长失去动力。",
+      "detail_en": "The program first focused on the Nvidia CEO's affair, which has engulfed the AI giant in a China spying controversy. Futurum Group CEO Daniel Newman shared his views on the risks to Nvidia from the investigation. The program then discussed Asian stocks rebounding from their biggest selloff in more than 18 months, with Newman explaining why US investors may return to AI after the selloff. On geopolitics, Rubio saw no Iran breakthrough as Trump downplayed new strikes, and former US Deputy National Security Advisor Mara Rudman analyzed conflicting US messages over Iran and how Democratic control of Congress could constrain President Trump. On markets, Indian stocks snapped their Diwali win streak with their first drop since 2017; Taiwan stocks jumped as authorities moved to stem the market rout. UBS Group CEO Sergio Ermotti said he is not overly concerned about the AI selloff. Additionally, BYD Executive Vice President Stella Li discussed looking for growth beyond China, Raj Singh shared views on India's growth outlook, oil risks and returning foreign flows, and Philippine growth lost momentum.",
+      "conclusion_zh": "英伟达相关争议与AI板块抛售后的资金回流迹象是短期关注点，瑞银CEO对AI抛售不特别担心的表态或缓解市场情绪。",
+      "conclusion_en": "The Nvidia controversy and signs of capital returning to AI after the selloff are near-term focal points, while UBS CEO's comment of not being overly concerned about the AI selloff may ease market sentiment.",
+      "key_points": [
+        {
+          "zh": "英伟达CEO绯闻事件使公司卷入中国间谍争议，Futurum Group CEO Daniel Newman讨论了调查带来的风险。",
+          "en": "Nvidia CEO's affair has engulfed the company in a China spying controversy, with Futurum Group CEO Daniel Newman discussing the risks from the investigation."
+        },
+        {
+          "zh": "亚洲股市在经历逾18个月最大抛售后反弹，Newman认为美国投资者可能在抛售后重返AI板块。",
+          "en": "Asian stocks rebounded from their biggest selloff in more than 18 months, and Newman believes US investors may return to AI after the selloff."
+        },
+        {
+          "zh": "瑞银集团CEO Sergio Ermotti表示并不特别担心AI板块的抛售。",
+          "en": "UBS Group CEO Sergio Ermotti said he is not overly concerned about the AI selloff."
+        },
+        {
+          "zh": "地缘政治方面，卢比奥认为伊朗问题无突破，特朗普淡化新打击，Mara Rudman分析美国矛盾信息及民主党控制国会的制约。",
+          "en": "On geopolitics, Rubio saw no Iran breakthrough, Trump downplayed new strikes, and Mara Rudman analyzed conflicting US messages and constraints from Democratic control of Congress."
+        },
+        {
+          "zh": "印度股市结束排灯节连涨，2017年以来首次下跌；台湾股市在当局遏制暴跌后跳涨。",
+          "en": "Indian stocks snapped their Diwali win streak with their first drop since 2017; Taiwan stocks jumped after authorities moved to stem the rout."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI selloff",
+        "Asian stocks",
+        "Iran",
+        "India stocks"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:hga7pFusjVc",
+      "title": "Hacked Records Put Russian War Deaths at  400,000",
+      "title_zh": "泄露数据：俄统计局记录约40万俄军阵亡",
+      "url": "https://www.youtube.com/watch?v=hga7pFusjVc",
+      "published_at": "2026-11-09T07:04:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据彭博报道，俄罗斯统计局（Rosstat）机密数据显示，自近五年前全面入侵以来，约有40万俄罗斯人在乌克兰战场阵亡。该数据由白俄罗斯反对派组织Cyber Partisans与乌克兰黑客组织Silent Crow获取，并分享给彭博新闻等少数媒体。",
+      "summary_en": "According to Bloomberg, confidential data held by Russia's statistics agency Rosstat shows that about 400,000 Russians have died fighting in Ukraine since the full-scale invasion nearly five years ago. The data was obtained by the Belarusian pro-opposition group Cyber Partisans and the Ukrainian hacker operation Silent Crow, and shared with Bloomberg News and a small group of other outlets.",
+      "detail_zh": "彭博的Anthony Halpin报道称，俄罗斯统计局（Rosstat）持有的机密数据显示，自近五年前全面入侵以来，约有40万俄罗斯人在乌克兰作战中死亡。该数据由白俄罗斯反对派组织Cyber Partisans和乌克兰黑客组织Silent Crow获取，随后被分享给彭博新闻及少数其他媒体。报道未提供更多关于数据来源可靠性、统计口径或俄方回应的细节。",
+      "detail_en": "Bloomberg's Anthony Halpin reports that confidential data held by Russia's statistics agency, Rosstat, shows about 400,000 Russians have died fighting in Ukraine since the full-scale invasion nearly five years ago. The data was obtained by the Belarusian pro-opposition group Cyber Partisans and the Ukrainian hacker operation Silent Crow, and was subsequently shared with Bloomberg News and a small group of other outlets. The report does not provide further details on the reliability of the data source, the statistical methodology, or any Russian response.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "俄统计局机密数据显示约40万俄军在乌克兰阵亡",
+          "en": "Confidential Rosstat data shows about 400,000 Russian military deaths in Ukraine"
+        },
+        {
+          "zh": "数据由白俄罗斯反对派组织Cyber Partisans与乌克兰黑客组织Silent Crow获取",
+          "en": "The data was obtained by Belarusian pro-opposition group Cyber Partisans and Ukrainian hacker operation Silent Crow"
+        },
+        {
+          "zh": "数据被分享给彭博新闻及少数其他媒体",
+          "en": "The data was shared with Bloomberg News and a small group of other outlets"
+        }
+      ],
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Rosstat",
+        "data leak",
+        "casualties"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:gTaHaSijCoo",
+      "title": "Rubio Plays Down Chances of Breakthrough in Iran Talks",
+      "title_zh": "鲁比奥称伊朗要求不可接受，淡化谈判突破前景",
+      "url": "https://www.youtube.com/watch?v=gTaHaSijCoo",
+      "published_at": "2026-11-09T06:51:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国国务卿鲁比奥表示，伊朗迄今提出的要求不可接受，部分内容“离谱且荒谬”，并淡化了结束冲突谈判取得突破的前景。",
+      "summary_en": "US Secretary of State Marco Rubio said Iran's demands to date are unacceptable, calling some \"outrageous and ridiculous,\" and downplayed prospects for a breakthrough in talks to end the conflict.",
+      "detail_zh": "美国国务卿马可·鲁比奥就结束冲突的谈判前景发表评论。他表示，伊朗迄今提出的要求不可接受，其中一些要求“离谱且荒谬”。鲁比奥同时淡化了相关谈判取得突破的可能性。报道由Onur Ant提供细节。",
+      "detail_en": "US Secretary of State Marco Rubio commented on the prospects for talks to end the conflict. He said Iran's demands to date are unacceptable, with some described as \"outrageous and ridiculous.\" Rubio also downplayed the prospects for a breakthrough in the talks. Onur Ant has the details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "鲁比奥称伊朗迄今的要求不可接受",
+          "en": "Rubio said Iran's demands to date are unacceptable"
+        },
+        {
+          "zh": "鲁比奥称部分要求“离谱且荒谬”",
+          "en": "Rubio called some demands \"outrageous and ridiculous\""
+        },
+        {
+          "zh": "鲁比奥淡化了结束冲突谈判取得突破的前景",
+          "en": "Rubio downplayed prospects for a breakthrough in talks to end the conflict"
+        }
+      ],
+      "tags": [
+        "Iran",
+        "US-Iran talks",
+        "conflict",
+        "diplomacy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:4zzpPkAnBlQ",
       "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
@@ -17173,106 +17303,6 @@
         "bloomberg",
         "tv-program",
         "no-content"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:zuYBGUOGzBA",
-      "title": "市場調整の次の局面",
-      "title_zh": "摩根士丹利威尔逊：美股调整进入尾声，但最后阶段可能痛苦",
-      "url": "https://www.youtube.com/watch?v=zuYBGUOGzBA",
-      "published_at": "2026-11-02T07:57:41+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "摩根士丹利首席投资官兼美国首席股票策略师迈克·威尔逊认为，始于6月的股市调整已进入最后阶段，但指数层面可能还需进一步下跌，波动性也可能飙升。他预计标普500指数若进一步走低，7100-7200点区域将构成坚实支撑，并建议在AI、中期选举和流动性这三大“出清事件”引发抛售时视为买入机会。",
-      "summary_en": "Morgan Stanley CIO and Chief US Equity Strategist Mike Wilson believes the equity correction that began in June is in its final stage, but the index may still need to fall further and volatility could spike. He sees 7,100-7,200 as a solid support zone for the S&P 500 if it declines further, and advises treating selloffs triggered by three 'clearing events'—AI, midterm elections, and liquidity—as buying opportunities.",
-      "detail_zh": "威尔逊指出，6月开始的调整在水面下已相当深入，但由高质量股票构成的标普500指数可能仍有未完成的调整，在调整走完之前不能断言结束。摩根士丹利将此次调整视为典型的周期中段过渡，业绩预期修正率的变化已在周期低谷约一年后见顶，市场反应是周期早期的高杠杆股票开始跑输，而质量更高、轻资产、服务导向的公司崭露头角。这种向质量股的轮动已被广泛理解，投资者仓位也已随之调整；通常最终阶段，高质量的标普500指数与水面下走弱的市场尾部会相互靠拢，这一过程可能已开始。若指数进一步下跌，威尔逊认为标普500在7100-7200点区域将构成此次调整的坚实支撑。他认为调整最终会以较好方式收场，因为自6月以来纳斯达克3000指数约60%的成分股跌幅超过20%，周期早期板块如非必需消费品、汽车、周期性消费品和资本品受创更重；同时对冲基金仓位已大幅缩减至过去12个月最低水平附近，这是令人鼓舞的信号，但整体市场情绪尚未达到显示持续触底的极端水平。他预计未来有三个“出清事件”：第一是AI，投资者对最终资本回报率、资本成本以及巨额支出能否全部通过信贷市场借款融资存疑，未来几周市场需吸收更多债券发行供应，质量较差的公司可能继续面临利差扩大和股价进一步下跌，供应本身即是事件，消化后风险应开始切换；汽车板块仍处担忧中心，可能成为判断整体调整的指标，他预计到11月中旬汽车股将再跌10-15%。第二是中期选举，市场厌恶不确定性，蓝色浪潮（民主党大胜）已不再是意外，更大的担忧是投票后可能发生的事，例如伊朗军事紧张局势重燃；他虽不擅长预测选举，但知道此类冲击常创造极佳买点，历史上中期选举后回报非常强劲，因此若投票日前后数日或数周股价急跌，应准备入场。第三也是最重要的是流动性：利率上升、资产负债表扩张放缓、资金需求增加和能源价格上涨共同导致金融环境迅速收紧，类似2018年，尽管美联储紧缩幅度很小，但状况与2022年经历相差不大，市场实际上在替美联储紧缩；若这种紧缩引发融资紧张或信贷市场不稳定，美联储和财政部有工具应对，问题是是否需情况进一步恶化才会行动。总结而言，威尔逊认为调整处于最后阶段，但最后阶段可能非常不适，可能还需指数层面再跌一波和波动性飙升，或需再次出现投资者认为“有东西坏了”的时刻，而这可能为美联储政策转向和股市下一轮上涨铺路。他建议继续超配资本品等调整已超过指数的质量股，更重要的是，若这些出清事件导致股价急跌，应视为期待已久的买点而非逃离风险的理由。",
-      "detail_en": "Wilson notes that the correction that began in June has progressed considerably beneath the surface, but the high-quality S&P 500 index may still have unfinished adjustment, and one cannot say it is over until that completes. Morgan Stanley views this as a typical mid-cycle transition; the rate of change in earnings revisions peaked about a year after the economic trough, as expected, and the market reacted as usual: early-cycle stocks with relatively high operating and financial leverage began to underperform, while higher-quality, asset-light, service-oriented companies came to the fore. This rotation to quality is now widely understood and investor positioning has followed; typically in the final stage, the high-quality S&P 500 and the weakening market tail converge toward a middle point, and that process may already be starting. If the index falls further, Wilson sees 7,100-7,200 as a solid support zone for the S&P 500 in this correction. He believes the correction will ultimately resolve well because since June roughly 60% of Nasdaq 3000 constituents have fallen more than 20%, with early-cycle sectors such as consumer discretionary, autos, cyclical consumer and capital goods hit harder; meanwhile hedge fund positioning has shrunk sharply to near the lowest level in the past 12 months, which is encouraging, but overall market sentiment has not yet reached the extreme level that would signal a durable bottom. He expects three 'clearing events' ahead: first, AI—investors question the ultimate return on capital, cost of capital, and whether the massive promised spending can all be financed through credit market borrowing; the market will need to absorb more bond issuance supply in coming weeks, and lower-quality companies may continue to face wider spreads and further stock declines; supply itself is the event, and once absorbed risk should begin to switch; autos remain at the center of concern and may be a good indicator for the overall correction, with Wilson expecting autos to fall another 10-15% by mid-November. Second, the midterm elections—markets dislike uncertainty and this election is full of it; a blue wave is no longer a surprise, and the bigger concern is what may happen after the vote, such as renewed military tension over Iran; he does not claim special strength in election forecasting but knows such shocks often create very good buying opportunities, and historically post-midterm returns have been very strong, so if stocks plunge in the days or weeks around the vote, he wants to be ready to act. Third and most important is liquidity: rising rates, slower balance sheet expansion, higher funding demand and rising energy prices are combining to tighten financial conditions rapidly, similar to 2018; despite only small Fed tightening, conditions are not much different from what was experienced in 2022, and the market can be said to be tightening on the Fed's behalf. If this tightening starts to cause funding stress or destabilize credit markets, the Fed and Treasury have tools to respond; the question is whether conditions need to worsen further before they act. In sum, Wilson believes the correction is in its final stage, but that stage may be very uncomfortable: another leg down at the index level and a volatility spike may still be needed, or another moment when investors decide something is broken, which could open the way for a Fed pivot and the next leg up in stocks. He continues to favor quality stocks such as capital goods that have corrected more than the index, and more importantly, if these clearing events cause sharp declines, he would view them as a long-awaited buying opportunity rather than a reason to flee risk.",
-      "conclusion_zh": "威尔逊认为美股调整已近尾声但最后阶段可能痛苦，指数若再跌至7100-7200点或出现波动率飙升，应视为逢低买入质量股的机会，而非逃离风险的理由。",
-      "conclusion_en": "Wilson believes the US equity correction is near its end but the final stage may be painful; another drop toward 7,100-7,200 or a volatility spike should be treated as an opportunity to buy quality stocks, not a reason to flee risk.",
-      "key_points": [
-        {
-          "zh": "6月开始的调整已进入最后阶段，但标普500指数可能仍有未完成的下跌，调整结束前不能断言完成。",
-          "en": "The correction that began in June is in its final stage, but the S&P 500 may still have unfinished downside, and it is too early to call it complete."
-        },
-        {
-          "zh": "若指数进一步走低，标普500在7100-7200点区域将构成此次调整的坚实支撑。",
-          "en": "If the index falls further, 7,100-7,200 should be a solid support zone for the S&P 500 in this correction."
-        },
-        {
-          "zh": "自6月以来纳斯达克3000指数约60%成分股跌幅超20%，对冲基金仓位已降至过去12个月最低附近，但市场情绪尚未达到极端触底水平。",
-          "en": "Since June, about 60% of Nasdaq 3000 constituents have fallen more than 20%, and hedge fund positioning is near the lowest in 12 months, but sentiment has not yet reached an extreme bottoming level."
-        },
-        {
-          "zh": "未来三大出清事件：AI相关债券供应与资本回报疑虑、中期选举及投票后地缘风险、金融环境快速收紧的流动性压力。",
-          "en": "Three clearing events ahead: AI-related bond supply and return-on-capital concerns, the midterm elections and post-vote geopolitical risks, and liquidity stress from rapidly tightening financial conditions."
-        },
-        {
-          "zh": "预计汽车股到11月中旬将再跌10-15%，若出清事件引发急跌，应视为买入机会而非逃离风险的理由。",
-          "en": "Autos are expected to fall another 10-15% by mid-November; sharp declines triggered by clearing events should be viewed as buying opportunities rather than reasons to flee risk."
-        }
-      ],
-      "tags": [
-        "market correction",
-        "quality rotation",
-        "AI capex",
-        "midterm elections",
-        "liquidity tightening"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:kmTPeYQP8u4",
-      "title": "Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked",
-      "title_zh": "油价因伊朗外交希望回落，AI与中东风向成焦点",
-      "url": "https://www.youtube.com/watch?v=kmTPeYQP8u4",
-      "published_at": "2026-11-02T07:31:58+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "伊朗表示霍尔木兹海峡谈判仍在轨道上并抛出两日重开方案，油价随之回落；美国中期选举提前投票显示民主党投票率更强。OpenAI与阿联酋企业签署新协议、下调融资目标，富士康称AI需求异常强劲，币安在黑客事件后出现36亿美元资金外流。",
-      "summary_en": "Oil slipped as Iran said Hormuz talks remain on track and floated a two-day reopening plan, while Gulf states push for a deal. US midterm early voting shows stronger Democratic turnout. OpenAI signed new UAE agreements and reportedly cut its fundraising target by $10 billion; Foxconn says AI demand remains exceptionally strong; Binance saw $3.6 billion in outflows after a cyber theft.",
-      "detail_zh": "油价因伊朗外交希望改善而回落：德黑兰称霍尔木兹海峡谈判仍在轨道上，并已提出两日重开方案，海湾国家继续推动达成协议；伊朗同时警告若遭攻击将准备更广泛回应。美国中期选举仍是焦点，特朗普称若民主党获胜他可能成为“否决先生”，提前投票显示民主党投票率更强，共和党面临特朗普支持率压力，民主党内部仍存在分歧。阿联酋方面，OpenAI与当地公司签署新协议，Sam Altman会见阿布扎比王储；Aramco与沙特PIF完成26亿美元交易，收购Humain股份。UBS的Paul Donovan认为长期结构性趋势比短期波动更重要，全球资本流动变化支撑阿联酋；Oaktree的Howard Marks称当前AI周期是他前所未见的。科技动态包括：OpenAI据报将最新融资目标下调100亿美元，DeepSeek推出针对Anthropic的编程代理，富士康称AI需求异常强劲。币安在网络安全盗窃事件后报告36亿美元资金外流，FBI将更广泛的60亿美元黑客事件归咎于朝鲜。其他新闻包括德国生活成本抗议、印度选民名册改革集会、OPay因监管问题暂停IPO、南非等待美国AGOA资格决定、俄罗斯停止招募加纳人参与乌克兰战争、肯尼亚法庭驳回与Dangote炼油厂相关的案件。",
-      "detail_en": "Oil slipped on improved hopes for Iran diplomacy: Tehran said Hormuz talks remain on track and has floated a two-day reopening plan, while Gulf states continue pushing for a deal; Iran also warned it is prepared for a broader response if attacked. US midterm politics remain in focus, with Trump saying he could become “Mr. Veto” if Democrats win; early voting shows stronger Democratic turnout, Republicans face pressure from Trump’s approval ratings, and Democrats continue to wrestle with internal divisions. In the UAE, OpenAI signed new agreements with local companies as Sam Altman met Abu Dhabi’s crown prince; Aramco closed a $2.6 billion deal with Saudi PIF to acquire a stake in Humain. UBS’s Paul Donovan said long-term structural trends matter more than short-term volatility and sees shifting global capital flows supporting the UAE; Oaktree’s Howard Marks said the current AI cycle is unlike anything he has seen. Tech developments include OpenAI reportedly cutting its latest fundraising target by $10 billion, DeepSeek launching a coding agent aimed at Anthropic, and Foxconn saying AI demand remains exceptionally strong. Binance reported $3.6 billion in outflows following the cyber theft, while the FBI blames North Korea for the wider $6 billion hack. Other news: protests in Germany over affordability, Indians rally over voter-roll changes, OPay pauses its IPO amid regulatory questions, South Africa awaits a US decision on AGOA eligibility, Russia halts recruitment of Ghanaians for the Ukraine war, and a Kenyan tribunal dismisses a case linked to Dangote’s refinery.",
-      "conclusion_zh": "地缘外交进展压低油价风险溢价，AI资本开支与融资动向仍是科技股关键变量，需关注OpenAI融资目标下调与富士康需求信号的背离。",
-      "conclusion_en": "Diplomatic progress is compressing oil’s risk premium, while AI capex and fundraising trends remain key for tech stocks—watch the divergence between OpenAI’s lowered fundraising target and Foxconn’s strong demand signal.",
-      "key_points": [
-        {
-          "zh": "伊朗称霍尔木兹谈判仍在轨道并抛出两日重开方案，油价回落，海湾国家继续推动协议。",
-          "en": "Iran says Hormuz talks remain on track and floated a two-day reopening plan; oil slipped as Gulf states continue pushing for a deal."
-        },
-        {
-          "zh": "美国中期选举提前投票显示民主党投票率更强，特朗普称若民主党获胜他可能成为“否决先生”。",
-          "en": "US midterm early voting shows stronger Democratic turnout; Trump said he could become “Mr. Veto” if Democrats win."
-        },
-        {
-          "zh": "OpenAI与阿联酋企业签署新协议，据报将最新融资目标下调100亿美元；富士康称AI需求异常强劲。",
-          "en": "OpenAI signed new UAE agreements and reportedly cut its latest fundraising target by $10 billion; Foxconn says AI demand remains exceptionally strong."
-        },
-        {
-          "zh": "UBS的Paul Donovan认为长期结构性趋势比短期波动更重要，全球资本流动变化支撑阿联酋；Oaktree的Howard Marks称当前AI周期前所未见。",
-          "en": "UBS’s Paul Donovan says long-term structural trends matter more than short-term volatility, with shifting global capital flows supporting the UAE; Oaktree’s Howard Marks says the current AI cycle is unlike anything he has seen."
-        },
-        {
-          "zh": "币安在网络安全盗窃后报告36亿美元资金外流，FBI将更广泛的60亿美元黑客事件归咎于朝鲜。",
-          "en": "Binance reported $3.6 billion in outflows following the cyber theft; the FBI blames North Korea for the wider $6 billion hack."
-        }
-      ],
-      "tags": [
-        "oil",
-        "Iran",
-        "US midterms",
-        "AI",
-        "OpenAI"
       ],
       "tickers": [],
       "sentiment": "neutral"
