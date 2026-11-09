@@ -1,6 +1,228 @@
 {
-  "generated_at": "2026-11-09T20:14:45.603738+00:00",
+  "generated_at": "2026-11-09T21:13:13.354431+00:00",
   "insights": [
+    {
+      "guid": "yt:2hY9U6japv8",
+      "title": "GoFundMe CEO: Fundraising for food jumped 50% in the US",
+      "title_zh": "GoFundMe：美国食品杂货筹款今年激增50%",
+      "url": "https://www.youtube.com/watch?v=2hY9U6japv8",
+      "published_at": "2026-11-09T20:52:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "GoFundMe CEO Tim Cadogan表示，今年迄今美国用于食品和杂货的筹款活动增加了50%，因生活成本压力促使更多美国人向亲友寻求经济支持。",
+      "summary_en": "GoFundMe CEO Tim Cadogan said U.S. fundraising for food and groceries has jumped 50% so far this year, as affordability pressures drive more Americans to seek financial support from friends and family.",
+      "detail_zh": "GoFundMe首席执行官Tim Cadogan透露，今年迄今为止，美国平台上为食品和杂货发起的筹款活动数量上升了50%。Cadogan将这一增长归因于生活成本压力（affordability pressures），这促使更多美国人转向亲友寻求经济援助以支付日常必需品。该数据反映出部分美国消费者在基本生活开支方面面临财务压力。",
+      "detail_en": "GoFundMe CEO Tim Cadogan revealed that U.S. fundraising campaigns for food and groceries on the platform have increased by 50% so far this year. Cadogan attributed the rise to affordability pressures, which are driving more Americans to seek financial support from friends and family to cover everyday essentials. The data reflects financial strain on some U.S. consumers regarding basic living expenses.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "GoFundMe美国食品和杂货筹款今年迄今增长50%",
+          "en": "U.S. GoFundMe fundraising for food and groceries is up 50% year-to-date"
+        },
+        {
+          "zh": "CEO Tim Cadogan将增长归因于生活成本压力",
+          "en": "CEO Tim Cadogan attributes the increase to affordability pressures"
+        },
+        {
+          "zh": "更多美国人转向亲友寻求经济支持以支付日常必需品",
+          "en": "More Americans are turning to friends and family for financial support to pay for everyday essentials"
+        }
+      ],
+      "tags": [
+        "affordability",
+        "consumer stress",
+        "fundraising",
+        "US consumer"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:OAZcX_ZFCog",
+      "title": "Hegseth Calls Impeachment Vote 'Politically Motivated'",
+      "title_zh": "共和党议员Massie提出弹劾国防部长Hegseth",
+      "url": "https://www.youtube.com/watch?v=OAZcX_ZFCog",
+      "published_at": "2026-11-09T20:36:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "共和党众议员Thomas Massie周一提出弹劾国防部长Pete Hegseth的动议，指控其未经国会批准对伊朗发动战争等。Hegseth称此举出于政治动机。Rick Davis与Jeanne Sheehan Zaino在\"Balance of Power\"节目中就此展开辩论。",
+      "summary_en": "Republican Representative Thomas Massie introduced a measure on Monday to impeach Defense Secretary Pete Hegseth, citing charges including waging war in Iran without congressional approval. Hegseth called the move politically motivated. Rick Davis and Jeanne Sheehan Zaino debated the issue on \"Balance of Power.\"",
+      "detail_zh": "共和党众议员Thomas Massie于周一提出弹劾国防部长Pete Hegseth的动议。Massie提出的指控包括Hegseth未经国会批准对伊朗发动战争等。Hegseth回应称这一弹劾动议是\"出于政治动机\"。Rick Davis与Jeanne Sheehan Zaino在Bloomberg的\"Balance of Power\"节目中就该问题进行了辩论。原文未提供弹劾程序的具体进展、其他指控细节或辩论双方的具体观点。",
+      "detail_en": "Republican Representative Thomas Massie introduced a measure on Monday to impeach Defense Secretary Pete Hegseth. The charges cited by Massie include waging war in Iran without congressional approval, among others. Hegseth called the impeachment move \"politically motivated.\" Rick Davis and Jeanne Sheehan Zaino debated the issue on Bloomberg's \"Balance of Power.\" The source does not provide details on the impeachment procedure's progress, other specific charges, or the debaters' specific arguments.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "共和党众议员Thomas Massie周一提出弹劾国防部长Pete Hegseth的动议。",
+          "en": "Republican Representative Thomas Massie introduced a measure on Monday to impeach Defense Secretary Pete Hegseth."
+        },
+        {
+          "zh": "指控包括Hegseth未经国会批准对伊朗发动战争等。",
+          "en": "Charges include waging war in Iran without congressional approval, among others."
+        },
+        {
+          "zh": "Hegseth称弹劾动议\"出于政治动机\"。",
+          "en": "Hegseth called the impeachment move \"politically motivated.\""
+        },
+        {
+          "zh": "Rick Davis与Jeanne Sheehan Zaino在\"Balance of Power\"节目中就此展开辩论。",
+          "en": "Rick Davis and Jeanne Sheehan Zaino debated the issue on \"Balance of Power.\""
+        }
+      ],
+      "tags": [
+        "impeachment",
+        "Hegseth",
+        "Iran",
+        "Congress"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:3TWTYR3rb4o",
+      "title": "The Whole Market Is Watching Nvidia. Are You Watching the Right Levels? | SpotGamma",
+      "title_zh": "英伟达下跌而AI板块反弹，期权数据揭示持仓驱动",
+      "url": "https://www.youtube.com/watch?v=3TWTYR3rb4o",
+      "published_at": "2026-11-09T20:32:39+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "volatility",
+        "macro"
+      ],
+      "summary_zh": "英伟达开盘下跌，但AI板块整体反弹，油价因美伊协议希望下跌近5%。SpotGamma指出，期权数据能揭示新闻未体现的持仓驱动因素，并邀请投资者参加免费网络研讨会，分析当日价格行为及关键水平。",
+      "summary_en": "Nvidia fell at the open, yet the broader AI trade rallied and oil dropped nearly 5% on hopes of a U.S.-Iran deal. SpotGamma notes that options data can reveal positioning-driven price action not evident in headlines, and invites investors to a free webinar analyzing the day's price action and key levels.",
+      "detail_zh": "英伟达今日开盘下跌，而就在几天前，AI引领的抛售将纳斯达克推入回调区间。然而，AI交易的其他部分却出现反弹，同时油价因美伊协议希望下跌近5%。SpotGamma创始人Brent Kochuba将举办免费网络研讨会，实时解析当日价格行为及关键SpotGamma水平，展示数据与图表，并回答观众提问。SpotGamma提供期权数据服务，包括关键水平、对冲影响、波动率仪表盘等工具，帮助交易者理解市场驱动因素。",
+      "detail_en": "Nvidia sank at the open today, just days after an AI-led selloff pushed the Nasdaq into correction territory. Yet the rest of the AI trade rallied, while oil fell nearly 5% on hopes of a U.S.-Iran deal. SpotGamma Founder Brent Kochuba will host a free webinar to break down the day's price action and key SpotGamma levels in real-time, showing the data and charts behind the read and answering questions. SpotGamma offers options data services including key levels, hedging impact, volatility dashboard, and more to help traders understand market drivers.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达开盘下跌，但AI板块其他股票反弹，油价因美伊协议希望下跌近5%。",
+          "en": "Nvidia fell at the open, but other AI stocks rallied, and oil dropped nearly 5% on hopes of a U.S.-Iran deal."
+        },
+        {
+          "zh": "几天前AI引领的抛售将纳斯达克推入回调区间。",
+          "en": "An AI-led selloff days earlier pushed the Nasdaq into correction territory."
+        },
+        {
+          "zh": "SpotGamma认为期权数据能揭示新闻未体现的持仓驱动因素。",
+          "en": "SpotGamma believes options data can reveal positioning-driven factors not evident in the news."
+        },
+        {
+          "zh": "SpotGamma提供免费网络研讨会，由Brent Kochuba解析当日价格行为及关键水平。",
+          "en": "SpotGamma offers a free webinar with Brent Kochuba to analyze the day's price action and key levels."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI trade",
+        "options positioning",
+        "oil",
+        "webinar"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ALXQRknFwr4",
+      "title": "Trump Backs Nvidia CEO Amid Spy Tie",
+      "title_zh": "彭博《权力平衡》早间版：英伟达调查、国会与市场前瞻",
+      "url": "https://www.youtube.com/watch?v=ALXQRknFwr4",
+      "published_at": "2026-11-09T20:17:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目涵盖英伟达股价下跌但市场整体上涨、国会调查英伟达及黄仁勋、特朗普与卡塔尔/伊朗外交、政府拨款与移民改革、CPI公布前的市场情绪，以及劳工部长谈就业数据与制造业。",
+      "summary_en": "This episode covers Nvidia's decline amid a broader market rally, congressional investigation into Nvidia and Jensen Huang, Trump's diplomacy with Qatar and Iran, government funding and immigration reform, market sentiment ahead of CPI, and the Labor Secretary on jobs data and manufacturing.",
+      "detail_zh": "节目首先讨论英伟达下跌而市场整体上涨的现象，随后聚焦英伟达、黄仁勋与中国及国家安全议题，并提及国会正对英伟达及黄仁勋展开调查。政治方面，节目涉及特朗普与卡塔尔、伊朗的外交，针对皮特·赫格塞斯的弹劾努力，跛脚鸭国会与政府拨款，以及特朗普、民主党与移民改革。市场部分关注CPI公布前的上涨行情。节目还讨论了中期选举后国会复会、共和党领导层之争、民主党在可负担性与调查之间的取舍，以及英伟达调查与黄仁勋继任问题。最后，劳工部长谈及科技与外国劳工、就业报告、BLS数据与修正、工资、通胀与制造业就业。",
+      "detail_en": "The program begins with markets rallying as Nvidia falls, then focuses on Nvidia, Jensen Huang, China and national security, noting Congress is investigating Nvidia and Jensen Huang. On politics, it covers Trump's diplomacy with Qatar and Iran, the impeachment effort against Pete Hegseth, the lame-duck Congress and government funding, and Trump, Democrats and immigration reform. Markets rally ahead of CPI is also discussed. The show also addresses Congress returning after the midterms, Republican leadership battles, Democrats' focus on affordability versus investigations, and the Nvidia investigation and Jensen Huang succession. Finally, the Labor Secretary discusses tech and foreign workers, the jobs report, BLS data and revisions, wages, inflation and manufacturing jobs.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达股价下跌，但市场整体上涨。",
+          "en": "Nvidia falls while markets rally overall."
+        },
+        {
+          "zh": "国会正在调查英伟达及黄仁勋，涉及中国与国家安全议题。",
+          "en": "Congress is investigating Nvidia and Jensen Huang, touching on China and national security."
+        },
+        {
+          "zh": "特朗普与卡塔尔、伊朗的外交是政治讨论的一部分。",
+          "en": "Trump's diplomacy with Qatar and Iran is part of the political discussion."
+        },
+        {
+          "zh": "市场在CPI数据公布前上涨。",
+          "en": "Markets rally ahead of CPI data."
+        },
+        {
+          "zh": "劳工部长谈及就业报告、BLS数据修正、工资、通胀与制造业就业。",
+          "en": "The Labor Secretary discusses the jobs report, BLS data revisions, wages, inflation and manufacturing jobs."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Congress",
+        "CPI",
+        "Jobs Report",
+        "Diplomacy"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PiwueVmx6uE",
+      "title": "Big Take: From ‘Vibecession’ to ‘Shrugflation’",
+      "title_zh": "美联储维持利率不变前，消费者支出与信心的背离",
+      "url": "https://www.youtube.com/watch?v=PiwueVmx6uE",
+      "published_at": "2026-11-09T20:00:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在美联储本周决定维持利率不变之前，Sarah Holder与作家兼经济评论员Kyla Scanlon讨论了消费者支出与消费者信心不相等时会发生什么。",
+      "summary_en": "Ahead of the Federal Reserve's decision to hold rates steady this week, Sarah Holder spoke with author and economic commentator Kyla Scanlon about what happens when consumer spending doesn't equal consumer confidence.",
+      "detail_zh": "原文仅提及美联储本周将维持利率不变，以及Sarah Holder与Kyla Scanlon的对话主题是消费者支出与消费者信心不相等时的情形。未提供具体数据、观点细节或市场影响分析。",
+      "detail_en": "The original text only mentions that the Federal Reserve will hold rates steady this week and that Sarah Holder's conversation with Kyla Scanlon focuses on what happens when consumer spending doesn't equal consumer confidence. No specific data, detailed views, or market impact analysis are provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联储本周决定维持利率不变。",
+          "en": "The Federal Reserve decided to hold rates steady this week."
+        },
+        {
+          "zh": "对话主题是消费者支出与消费者信心不相等时的情形。",
+          "en": "The conversation topic is what happens when consumer spending doesn't equal consumer confidence."
+        },
+        {
+          "zh": "嘉宾为作家兼经济评论员Kyla Scanlon。",
+          "en": "The guest is author and economic commentator Kyla Scanlon."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "consumer spending",
+        "consumer confidence",
+        "rates"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4965212",
       "title": "Wall Street Lunch: Megaspeed In The Crosshairs",
@@ -17287,211 +17509,6 @@
         "satellite",
         "infrastructure",
         "networking"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:cykinwAYQPw",
-      "title": "Oaktree's Marks on Long-term Investing",
-      "title_zh": "霍华德·马克斯：构建可长期表现的投资组合",
-      "url": "https://www.youtube.com/watch?v=cykinwAYQPw",
-      "published_at": "2026-11-02T21:11:29+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "橡树资本联席主席霍华德·马克斯在彭博《中国秀》节目中表示，投资者应构建一个能够在长期内表现良好的资产组合。",
-      "summary_en": "Howard Marks, Co-Chair at Oaktree Capital Management, said on Bloomberg's \"The China Show\" that investors should build a portfolio of assets that can perform over the long term.",
-      "detail_zh": "霍华德·马克斯在彭博电视节目《中国秀》的独家访谈中表示，投资者应构建一个能够在长期内表现良好的资产组合。原文仅包含这一核心观点，未提供具体的资产配置建议、市场展望或风险提示。",
-      "detail_en": "In an exclusive interview on Bloomberg Television's \"The China Show,\" Howard Marks said investors should build a portfolio of assets that can perform over the long term. The original text contains only this core view, without specific asset allocation advice, market outlook, or risk warnings.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "霍华德·马克斯建议投资者构建可长期表现的资产组合。",
-          "en": "Howard Marks advises investors to build a portfolio that can perform over the long term."
-        }
-      ],
-      "tags": [
-        "Howard Marks",
-        "Oaktree",
-        "long-term investing",
-        "portfolio construction"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:7a_S5UJ9ki0",
-      "title": "Learjet Plummets to Ground in Florida Neighborhood",
-      "title_zh": "一架从奥斯汀飞往巴哈马的里尔喷气机在佛罗里达州坠毁，机上9人全部遇难",
-      "url": "https://www.youtube.com/watch?v=7a_S5UJ9ki0",
-      "published_at": "2026-11-02T21:10:02+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "周日，一架从奥斯汀飞往巴哈马的里尔喷气机在佛罗里达州棕榈滩县坠毁，机上9人全部遇难。该事件为突发新闻，与美股市场无直接关联。",
-      "summary_en": "A Learjet flying from Austin to the Bahamas crashed in Palm Beach County, Florida, on Sunday, killing all nine people on board. This is breaking news with no direct relevance to U.S. equity markets.",
-      "detail_zh": "周日，一架从奥斯汀飞往巴哈马的里尔喷气机在佛罗里达州棕榈滩县坠毁，机上9人全部遇难。视频显示了经核实的坠机后画面。该内容为突发新闻播报，未涉及任何金融市场、经济或科技相关信息。",
-      "detail_en": "A Learjet flying from Austin to the Bahamas crashed in Palm Beach County, Florida, on Sunday, killing all nine people on board. The video shows verified footage of the aftermath of the incident. This is breaking news coverage and does not contain any financial market, economic, or technology-related information.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "一架从奥斯汀飞往巴哈马的里尔喷气机在佛罗里达州棕榈滩县坠毁。",
-          "en": "A Learjet flying from Austin to the Bahamas crashed in Palm Beach County, Florida."
-        },
-        {
-          "zh": "机上9人全部遇难。",
-          "en": "All nine people on board were killed."
-        },
-        {
-          "zh": "视频显示了经核实的坠机后画面。",
-          "en": "The video shows verified footage of the aftermath of the incident."
-        }
-      ],
-      "tags": [
-        "aviation accident",
-        "breaking news",
-        "Florida"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_lFIxELgYeg",
-      "title": "Feud Erupts in Michigan as El-Sayed Rival Backs GOP’s Rogers",
-      "title_zh": "密歇根州民主党初选落败者转而支持共和党候选人，党内分歧加剧",
-      "url": "https://www.youtube.com/watch?v=_lFIxELgYeg",
-      "published_at": "2026-11-02T21:05:59+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在密歇根州联邦参议员民主党初选中落败的众议员 Haley Stevens 转而支持共和党候选人 Mike Rogers，与民主党提名人 Abdul El-Sayed 决裂，加剧了进步派与温和派之间的分裂。",
-      "summary_en": "Representative Haley Stevens, who lost the Democratic primary for Michigan's US Senate seat, backed Republican candidate Mike Rogers, breaking with Democratic nominee Abdul El-Sayed and exacerbating a split between progressives and moderate party members.",
-      "detail_zh": "众议员 Haley Stevens 在密歇根州联邦参议员民主党初选中失利后，公开支持共和党候选人 Mike Rogers。此举使她与民主党提名人 Abdul El-Sayed 决裂。报道指出，这一背书加剧了民主党内部进步派与温和派之间的分裂。原文未提供更多政策细节或市场影响分析。",
-      "detail_en": "Representative Haley Stevens, after losing the Democratic primary for Michigan's US Senate seat, publicly backed Republican candidate Mike Rogers. This breaks with Democratic nominee Abdul El-Sayed. The report notes that the endorsement exacerbates the split between progressives and moderate party members. The original text provides no further policy details or market impact analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Haley Stevens 在密歇根州参议员民主党初选中落败。",
-          "en": "Haley Stevens lost the Democratic primary for Michigan's US Senate seat."
-        },
-        {
-          "zh": "她转而支持共和党候选人 Mike Rogers。",
-          "en": "She backed Republican candidate Mike Rogers."
-        },
-        {
-          "zh": "此举使她与民主党提名人 Abdul El-Sayed 决裂。",
-          "en": "This breaks with Democratic nominee Abdul El-Sayed."
-        },
-        {
-          "zh": "该事件加剧了民主党内部进步派与温和派的分裂。",
-          "en": "The event exacerbates the split between progressives and moderate party members."
-        }
-      ],
-      "tags": [
-        "Michigan Senate",
-        "Democratic primary",
-        "party split",
-        "endorsement"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:hOs4Uf-wgwQ",
-      "title": "ETF Anthropic Exposure, Political Funds, BOJ Unwinds ETFs",
-      "title_zh": "Bloomberg ETF IQ 讨论 Anthropic ETF、国会交易与另类策略",
-      "url": "https://www.youtube.com/watch?v=hOs4Uf-wgwQ",
-      "published_at": "2026-11-02T21:00:36+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期 Bloomberg ETF IQ 节目聚焦全球 ETF 行业的机会与风险，嘉宾讨论了 Anthropic 相关 ETF 的风险与私募股权估值、市场分散化与重新思考标普500、亚洲 ETF 与金融网红、NANC 等追踪国会交易的 ETF、体育博彩 ETF、比特币 ETF 以及加拿大另类 ETF 与市场对冲策略。",
-      "summary_en": "This episode of Bloomberg ETF IQ focuses on opportunities and risks in the global ETF industry, with guests discussing Anthropic-related ETF risks and private share valuation, market diversification and rethinking the S&P 500, ETFs in Asia and finfluencers, ETFs tracking congressional trades such as NANC, sports betting ETFs, Bitcoin ETFs, and alternative ETFs and market hedges in Canada.",
-      "detail_zh": "节目由 Bloomberg ETF IQ 出品，关注规模达数万亿美元的全球 ETF 行业。嘉宾包括 Active Investment Company Alliance 创始人兼执行主席 John Cole Scott、Tema ETFs 投资策略主管 Paisley Nardini、Subversive ETFs 投资组合经理 Dan Weiskopf 以及加拿大国家银行资本市场的 Linda Ma。讨论议题涵盖：Anthropic 相关 ETF 及其风险、私募股份估值、从 SpaceX 案例中吸取的教训；市场分散化、重新思考标普500、亚洲 ETF 与 ETF 金融网红；ETF IQ 深入分析 NANC，以及国会交易、国会表现为何跑赢、两党投资和国会交易方式；体育博彩 ETF、ETF 生命周期、比特币 ETF；最后 Linda Ma 讨论另类 ETF、另类策略、市场对冲以及加拿大 ETF。",
-      "detail_en": "The program is produced by Bloomberg ETF IQ and focuses on the multi-trillion-dollar global ETF industry. Guests include John Cole Scott, Founder & Executive Chair of Active Investment Company Alliance; Paisley Nardini, Head of Investment Strategy at Tema ETFs; Dan Weiskopf, Portfolio Manager at Subversive ETFs; and Linda Ma of National Banks of Canada Capital Markets. Topics covered include: Anthropic-related ETFs and their risks, valuing private shares, lessons from SpaceX; market diversification, rethinking the S&P 500, ETFs in Asia and ETF finfluencers; an ETF IQ drill down on NANC, congressional trades, why Congress outperforms, bipartisan investing and how Congress trades; sports betting ETFs, ETF lifecycle, Bitcoin ETFs; and finally Linda Ma on alternative ETFs, alternative strategies, market hedges and ETFs in Canada.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "讨论 Anthropic 相关 ETF 的风险与私募股份估值，并借鉴 SpaceX 的教训。",
-          "en": "Discussion of risks in Anthropic-related ETFs and valuation of private shares, drawing lessons from SpaceX."
-        },
-        {
-          "zh": "探讨市场分散化、重新思考标普500以及亚洲 ETF 与金融网红的影响。",
-          "en": "Exploration of market diversification, rethinking the S&P 500, and the influence of ETFs in Asia and finfluencers."
-        },
-        {
-          "zh": "深入分析 NANC 等追踪国会交易的 ETF，包括国会为何跑赢及两党投资。",
-          "en": "In-depth analysis of ETFs tracking congressional trades such as NANC, including why Congress outperforms and bipartisan investing."
-        },
-        {
-          "zh": "覆盖体育博彩 ETF、ETF 生命周期和比特币 ETF 等细分主题。",
-          "en": "Coverage of niche topics including sports betting ETFs, ETF lifecycle, and Bitcoin ETFs."
-        },
-        {
-          "zh": "Linda Ma 分享加拿大另类 ETF、另类策略与市场对冲观点。",
-          "en": "Linda Ma shares views on alternative ETFs, alternative strategies, and market hedges in Canada."
-        }
-      ],
-      "tags": [
-        "ETF",
-        "Anthropic",
-        "Congress Trades",
-        "Bitcoin ETF",
-        "Alternative Strategies"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:rY7g_16woEM",
-      "title": "Tariffs Hurt Michigan, Says Detroit Chamber President",
-      "title_zh": "密歇根州参议院选战聚焦经济，关税与贸易成选民关切",
-      "url": "https://www.youtube.com/watch?v=rY7g_16woEM",
-      "published_at": "2026-11-02T20:54:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "底特律地区商会主席Sandy Baruah表示，在备受关注的密歇根州参议院选举中，经济是核心议题，选民尤其关注关税和贸易政策。",
-      "summary_en": "Detroit Regional Chamber President Sandy Baruah says the economy is front and center in Michigan's closely watched Senate race, with voters particularly focused on tariffs and trade.",
-      "detail_zh": "在备受关注的密歇根州参议院选举中，经济议题占据核心位置。底特律地区商会主席Sandy Baruah向彭博的Romaine Bostick表示，选民们正在思考关税和贸易问题。Baruah的评论凸显了贸易政策在密歇根州政治话语中的重要性。该州经济与汽车产业及国际贸易紧密相连，使得关税成为选民的关键关切。这段采访片段未提供具体数据或进一步细节。",
-      "detail_en": "The economy is front and center in Michigan's closely watched Senate race. Sandy Baruah, President of the Detroit Regional Chamber, told Bloomberg's Romaine Bostick that tariffs and trade are on the minds of voters. Baruah's comments highlight the importance of trade policy in Michigan's political discourse. The state's economy is closely tied to the auto industry and international trade, making tariffs a key concern for voters. The interview excerpt does not provide specific data or further details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "密歇根州参议院选举中，经济是核心议题。",
-          "en": "The economy is front and center in Michigan's Senate race."
-        },
-        {
-          "zh": "底特律地区商会主席Sandy Baruah称选民关注关税和贸易。",
-          "en": "Detroit Regional Chamber President Sandy Baruah says voters are focused on tariffs and trade."
-        },
-        {
-          "zh": "Baruah是在接受彭博的Romaine Bostick采访时发表上述言论的。",
-          "en": "Baruah made the comments in an interview with Bloomberg's Romaine Bostick."
-        }
-      ],
-      "tags": [
-        "Michigan Senate race",
-        "tariffs",
-        "trade",
-        "economy",
-        "election"
       ],
       "tickers": [],
       "sentiment": "neutral"
