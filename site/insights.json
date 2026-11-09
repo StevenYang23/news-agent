@@ -1,6 +1,358 @@
 {
-  "generated_at": "2026-11-09T14:16:09.565263+00:00",
+  "generated_at": "2026-11-09T15:16:08.730925+00:00",
   "insights": [
+    {
+      "guid": "yt:9YLr-qa6Qq8",
+      "title": "How 3D Printing Is Saving Auto Makers Millions",
+      "title_zh": "3D打印技术助力车企降本增效，从原型制造迈向生产零件",
+      "url": "https://www.youtube.com/watch?v=9YLr-qa6Qq8",
+      "published_at": "2026-11-09T15:00:28+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "3D打印技术正被福特、Rivian等汽车制造商用于削减成本、节省时间，应用范围从原型和工具扩展到生产零件。Rivian称设备通常一年内回本，福特在工厂部署约二十台打印机生产数千种工具，通用汽车已开始将3D打印零件用于低产量凯迪拉克车型。",
+      "summary_en": "3D printing is increasingly being used by automakers like Ford and Rivian to cut costs and save time, expanding from prototypes and tools to production parts. Rivian says the machines typically pay for themselves within a year, Ford uses about two dozen printers at its River Rouge plant to produce thousands of tools, and GM has started using 3D printed parts for some low-volume Cadillac vehicles.",
+      "detail_zh": "3D打印（增材制造）技术已存在数十年，如今汽车制造商正越来越多地采用该技术以削减成本并节省时间，技术和商业案例都已增强到足以在汽车工厂安装机器的程度。福特和Rivian等车企将其用于原型、专用工具甚至替换零件。Rivian表示已在相关机器上花费超过500万美元，运营材料每年成本约170万美元；在其密歇根研发中心，小型打印机与造价数十万美元的工业机器并排，用于制造电动马达、方向盘等原型。Rivian告诉CNBC，这些机器通常仅通过节省供应商模具和物流成本以及时间，就能在一年内回本。福特在River Rouge工厂（生产关键F-150皮卡）部署了约二十台打印机，生产数千种工具，包括引擎盖支架、扭矩钻头套筒和胶水抹平工具；当某工厂需要大型加工轮时，福特打印了临时替代品以等待供应商交付。梅赛德斯-奔驰、丰田以及电动汽车初创公司Slate也在运营中使用3D打印。通用汽车已开始将3D打印零件用于部分低产量凯迪拉克车型，如徽章和手动换挡杆，标志着该技术从原型制造向生产零件的扩展。高管们认为，随着机器成本持续下降和效率提升，3D打印的未来如同其制造的零件一样无限。",
+      "detail_en": "3D printing (additive manufacturing) has been around for decades, but automakers are increasingly adopting it to cut costs and save time, with both the technology and business cases now strong enough to install machines in auto factories. Ford and Rivian use it for prototypes, specialized tools, and even replacement parts. Rivian says it has spent more than $5 million on these machines, with materials now costing about $1.7 million per year; at its Michigan R&D center, smaller printers sit alongside industrial machines that can cost hundreds of thousands of dollars, making prototypes for electric motors, steering wheels, and other interior parts. Rivian told CNBC the machines typically pay for themselves within a year just by saving on supplier tooling and logistics and time. Ford has about two dozen printers at its River Rouge plant, where it builds the F-150 pickup, producing thousands of tools including hood holders, torque bit sockets, and tools for smoothing adhesive; when a plant needed a large machining wheel, Ford printed a temporary replacement while waiting for supplier delivery. Mercedes-Benz, Toyota, and EV startup Slate also use 3D printing in their operations. General Motors has started using 3D printed parts for some low-volume Cadillac vehicles, such as a medallion and a manual gear shifter, marking the technology's growth from prototyping to production parts. Executives believe the future for 3D printing is limitless as machines continue to come down in cost and efficiency increases.",
+      "conclusion_zh": "3D打印在汽车制造中的商业化应用正从原型和工具向生产零件延伸，设备成本下降和效率提升有望进一步推动车企采用，关注相关设备与材料供应商的潜在受益。",
+      "conclusion_en": "The commercial application of 3D printing in auto manufacturing is extending from prototypes and tools to production parts, and falling machine costs and rising efficiency could further drive adoption, with potential benefits for equipment and materials suppliers.",
+      "key_points": [
+        {
+          "zh": "福特和Rivian等车企正将3D打印用于原型、专用工具和替换零件，以削减成本并节省时间。",
+          "en": "Automakers like Ford and Rivian are using 3D printing for prototypes, specialized tools, and replacement parts to cut costs and save time."
+        },
+        {
+          "zh": "Rivian已在3D打印机器上花费超过500万美元，材料年成本约170万美元，设备通常一年内回本。",
+          "en": "Rivian has spent over $5 million on 3D printing machines, with materials costing about $1.7 million per year, and the machines typically pay for themselves within a year."
+        },
+        {
+          "zh": "福特在River Rouge工厂部署约二十台打印机，生产数千种工具，并曾打印大型加工轮的临时替代品。",
+          "en": "Ford has about two dozen printers at its River Rouge plant producing thousands of tools, and once printed a temporary replacement for a large machining wheel."
+        },
+        {
+          "zh": "通用汽车已开始将3D打印零件用于部分低产量凯迪拉克车型，标志着该技术从原型制造向生产零件的扩展。",
+          "en": "General Motors has started using 3D printed parts for some low-volume Cadillac vehicles, marking the technology's expansion from prototyping to production parts."
+        },
+        {
+          "zh": "梅赛德斯-奔驰、丰田和电动汽车初创公司Slate也在运营中使用3D打印。",
+          "en": "Mercedes-Benz, Toyota, and EV startup Slate also use 3D printing in their operations."
+        }
+      ],
+      "tags": [
+        "3D printing",
+        "automakers",
+        "additive manufacturing",
+        "cost reduction"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:0gbtodaYArc",
+      "title": "Nvidia Adds ‘Huge Element of Surprise’ to AI Trade, Strategist Hunt Says",
+      "title_zh": "Alpine Saxon Woods：英伟达CEO调查为AI交易增添复杂性",
+      "url": "https://www.youtube.com/watch?v=0gbtodaYArc",
+      "published_at": "2026-11-09T14:42:57+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt表示，英伟达对CEO黄仁勋的调查给AI交易相关问题增添了“又一层复杂性”。她认为，从投资者角度谈论继任可能性是公司的“首要任务”。",
+      "summary_en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, says Nvidia's probe of CEO Jensen Huang adds \"another layer of complexity\" to questions around the AI trade. She says it is \"job one\" for the company to talk about the potential for succession from an investor standpoint.",
+      "detail_zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt在Bloomberg Television上表示，英伟达对CEO黄仁勋的调查给围绕AI交易的疑问增添了“又一层复杂性”。Hunt指出，从投资者角度来看，公司需要讨论继任计划的可能性，这是公司的“首要任务”。她没有进一步说明调查的具体性质或可能的结果。",
+      "detail_en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, said on Bloomberg Television that Nvidia's probe of CEO Jensen Huang adds \"another layer of complexity\" to questions surrounding the AI trade. Hunt noted that from an investor standpoint, it is \"job one\" for the company to talk about the potential for succession. She did not elaborate on the nature or potential outcome of the probe.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达对CEO黄仁勋的调查给AI交易增添了“又一层复杂性”。",
+          "en": "Nvidia's probe of CEO Jensen Huang adds \"another layer of complexity\" to the AI trade."
+        },
+        {
+          "zh": "从投资者角度谈论继任可能性是公司的“首要任务”。",
+          "en": "It is \"job one\" for the company to talk about the potential for succession from an investor standpoint."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI trade",
+        "CEO succession",
+        "investor sentiment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:w0I2upG95u0",
+      "title": "What Nvidia Probe Could Mean for US-China Chip Sales",
+      "title_zh": "China Beige Book CEO 呼吁加强对芯片商出口管制保证的审查",
+      "url": "https://www.youtube.com/watch?v=w0I2upG95u0",
+      "published_at": "2026-11-09T14:41:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在英伟达CEO黄仁勋承认与一名疑似中国间谍有染后，China Beige Book CEO Leland Miller 呼吁对芯片制造商的出口管制保证进行更严格的审查。",
+      "summary_en": "China Beige Book CEO Leland Miller calls for closer scrutiny of chipmakers' export-control assurances after Nvidia CEO Jensen Huang admitted to having an affair with a suspected Chinese spy.",
+      "detail_zh": "China Beige Book 首席执行官 Leland Miller 在“Bloomberg Surveillance”节目中表示，在英伟达首席执行官黄仁勋承认与一名疑似中国间谍有染后，应加强对芯片制造商出口管制保证的审查。Miller 的评论直接指向芯片行业在出口管制合规方面的可信度问题。",
+      "detail_en": "China Beige Book CEO Leland Miller, speaking on \"Bloomberg Surveillance,\" called for closer scrutiny of chipmakers' export-control assurances in the wake of Nvidia CEO Jensen Huang admitting to having an affair with a suspected Chinese spy. Miller's comments directly target the credibility of export-control compliance in the chip sector.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Leland Miller 呼吁对芯片制造商的出口管制保证进行更严格审查。",
+          "en": "Leland Miller calls for closer scrutiny of chipmakers' export-control assurances."
+        },
+        {
+          "zh": "此番言论的背景是英伟达CEO黄仁勋承认与一名疑似中国间谍有染。",
+          "en": "The remarks follow Nvidia CEO Jensen Huang's admission of an affair with a suspected Chinese spy."
+        },
+        {
+          "zh": "Miller 是在“Bloomberg Surveillance”节目上发表上述评论的。",
+          "en": "Miller made the comments on \"Bloomberg Surveillance.\""
+        }
+      ],
+      "tags": [
+        "export controls",
+        "semiconductors",
+        "Nvidia",
+        "China",
+        "compliance"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:WQZ4ge45orU",
+      "title": "Midterms and AI in focus at 2027 Forum",
+      "title_zh": "贝莱德论坛：AI采用与资本竞争成2027年关键主题",
+      "url": "https://www.youtube.com/watch?v=WQZ4ge45orU",
+      "published_at": "2026-11-09T14:35:45+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "贝莱德投资研究院在2027年内部展望论坛上指出，市场正从AI建设转向关注需求采用与资本竞争。由于建设速度与规模的不确定性，贝莱德上月将美股调至中性并上调美国国债评级。利率结构性走高、资本竞争加剧及资产相关性变化可能带来新的波动源。",
+      "summary_en": "The BlackRock Investment Institute's 2027 internal outlook forum highlighted a shift from the AI buildout to demand adoption and competition for capital. Citing uncertainty over the speed and scale of the buildout, BlackRock moved to neutral on US equities and upgraded US Treasuries last month. Structurally higher rates, intensifying competition for capital, and changing asset correlations could create new sources of volatility.",
+      "detail_zh": "贝莱德投资研究院首席投资策略师（荷兰与北欧）Rulus Alamance在播客中总结了2027年内部展望论坛的要点。论坛召开之际，美国中期选举结果出炉，市场日益定价一种供应驱动型 regime。市场仍在消化民主党横扫国会对于AI建设的影响：建设将继续，但焦点转向是否以相同规模和速度推进，以及采用能否跟上。论坛讨论认为，建设放缓可能对市场产生重大后果，但也可能缓解资本竞争并压低债券收益率。建设速度与规模的不确定性，是贝莱德上月将美股调至中性并上调美国国债评级的原因。资本竞争是另一焦点：AI建设正与政府借款、能源和国防投资争夺资金，而超大规模云厂商在融资成本上升之际仍大举支出，这引发关键问题——更强劲的增长和盈利能否抵消更高的成本，以及压力将在何处显现。贝莱德长期预期利率将结构性走高，论坛关注这对市场和组合的含义：资本流动转变、股票、债券与货币之间相关性的变化可能创造新的波动源，并挑战传统组合对冲工具，因此保持灵活是驾驭风险与把握机会的关键。论坛的市场结论是，AI采用和资本竞争是未来的关键，这些主题将构成下月发布的2027年全球展望的核心。",
+      "detail_en": "Rulus Alamance, Chief Investment Strategist for the Netherlands and the Nordics at the BlackRock Investment Institute, summarized the top takeaways from the 2027 internal outlook forum. The forum was held as the US midterms unfolded and markets increasingly priced in a supply-driven regime. Markets are still working through what the Democratic sweep of Congress means for the AI buildout: the buildout will continue, but the focus is now on whether it will proceed at the same scale and pace, and whether adoption can keep up. A slowdown could have significant consequences for markets, but it could also ease competition for capital and bring bond yields down. Uncertainty about the speed and size of the buildout was behind BlackRock's move to neutral on US equities and its upgrade of US Treasuries last month. Competition for capital was another major focus: the AI buildout is competing for funding with government borrowing, energy, and defense investments, and hyperscalers are still spending heavily even as financing costs rise. This raises the question of whether stronger growth and earnings can offset higher costs, and where pressure will show up next. BlackRock has long expected rates to stay structurally higher; the forum focused on what that means for markets and portfolios, noting that shifting capital flows and changing correlations between stocks, bonds, and currencies could create new sources of volatility and challenge traditional portfolio hedges, making flexibility key. The forum's market takeaway was that AI adoption and competition for capital are critical from here, and these topics will be key for the 2027 global outlook published next month.",
+      "conclusion_zh": "AI建设放缓可能压低债券收益率但冲击市场，资本竞争与结构性高利率环境下，保持组合灵活性以应对相关性变化是关键。",
+      "conclusion_en": "A slowdown in the AI buildout could bring bond yields down but hit markets; amid competition for capital and structurally higher rates, staying flexible to navigate changing correlations is key.",
+      "key_points": [
+        {
+          "zh": "市场焦点从AI建设转向需求采用与资本竞争，建设速度与规模的不确定性上升。",
+          "en": "Market focus is shifting from the AI buildout to demand adoption and competition for capital, with rising uncertainty over the speed and scale of the buildout."
+        },
+        {
+          "zh": "贝莱德上月将美股调至中性并上调美国国债评级，理由是对AI建设速度与规模的不确定性。",
+          "en": "BlackRock moved to neutral on US equities and upgraded US Treasuries last month, citing uncertainty over the speed and size of the AI buildout."
+        },
+        {
+          "zh": "AI建设正与政府借款、能源和国防投资争夺资金，超大规模云厂商在融资成本上升之际仍大举支出。",
+          "en": "The AI buildout is competing for funding with government borrowing, energy, and defense investments, and hyperscalers are still spending heavily even as financing costs rise."
+        },
+        {
+          "zh": "利率结构性走高，资本流动转变及股债汇相关性变化可能带来新的波动源，挑战传统组合对冲。",
+          "en": "Structurally higher rates, shifting capital flows, and changing correlations between stocks, bonds, and currencies could create new sources of volatility and challenge traditional portfolio hedges."
+        },
+        {
+          "zh": "AI采用和资本竞争将成为下月发布的2027年全球展望的关键主题。",
+          "en": "AI adoption and competition for capital will be key topics for the 2027 global outlook published next month."
+        }
+      ],
+      "tags": [
+        "AI buildout",
+        "capital competition",
+        "US equities",
+        "Treasuries",
+        "volatility"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:s75ib8S7T3M",
+      "title": "From Employees to Owners: Scaling Culture and Value With ISC CEO Matt Grossberg | Invested at Work",
+      "title_zh": "KKR旗下ISC：以全员持股文化提升员工参与度",
+      "url": "https://www.youtube.com/watch?v=s75ib8S7T3M",
+      "published_at": "2026-11-09T14:30:27+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "摩根士丹利《Invested at Work》播客对话ISC CEO Matt Gberg，探讨KKR引入的“所有权文化”。Gberg称，将员工称为“所有者”并给予股权，旨在提升参与度与组织信任，尽管盖洛普调查曾显示出售后员工参与度反而下降，但公司仍坚持五年。",
+      "summary_en": "Morgan Stanley's 'Invested at Work' podcast features ISC CEO Matt Gberg discussing the ownership culture introduced by KKR. Gberg says calling employees 'owners' and giving them equity aims to boost engagement and organizational trust, even though Gallup polls initially suggested lower engagement after the sale; the company pushed through a five-year commitment.",
+      "detail_zh": "ISC是一家保险领域的管理总代理（MGA），为保险公司难以有效开展的产品线提供外包承保服务。Gberg指出，保险业高度分散、技术发展缓慢，商业险领域仍以手工流程为主，ISC通过技术平台整合第三方及内部数据，支持数据驱动的承保决策，目前拥有约1.9万家经纪商分销产品，聚焦小商业及微型账户。KKR在竞购中成为最佳投标方，并帮助ISC建立组织架构和以“所有权”为核心的企业文化。Gberg称，公司内部不称“员工”而称“所有者”，并设立无高管监督的委员会，让所有者参与公司方向。他提到，盖洛普调查曾显示出售后员工参与度下降，但公司仍坚持五年推动。",
+      "detail_en": "ISC is a managing general agency (MGA) in insurance, providing outsourced underwriting for product lines insurers find hard to deliver value on. Gberg notes the insurance industry is highly fragmented with slow tech development, and commercial lines remain largely manual; ISC built a tech platform using third-party and in-house data to enable data-driven underwriting, now distributing through about 19,000 brokers and focusing on small commercial to micro accounts. KKR was the best bidder and helped ISC build organizational structure and an ownership-centric culture. Gberg says the company calls employees 'owners' and sets up committees without executive oversight to give owners input into company direction. He mentions Gallup polls initially suggested lower engagement after the sale, but the company pushed through a five-year commitment.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "ISC是保险MGA，通过技术平台整合数据，服务约1.9万家经纪商，聚焦小商业及微型账户。",
+          "en": "ISC is an insurance MGA using a tech platform to integrate data, serving about 19,000 brokers and focusing on small commercial to micro accounts."
+        },
+        {
+          "zh": "KKR成为ISC最佳投标方，并帮助其建立组织架构和以“所有权”为核心的文化。",
+          "en": "KKR was the best bidder for ISC and helped build its organizational structure and ownership-centric culture."
+        },
+        {
+          "zh": "ISC将员工称为“所有者”，设立无高管监督的委员会，以提升参与度和组织信任。",
+          "en": "ISC calls employees 'owners' and sets up committees without executive oversight to boost engagement and organizational trust."
+        },
+        {
+          "zh": "Gberg称盖洛普调查曾显示出售后员工参与度下降，但公司仍坚持五年推动所有权文化。",
+          "en": "Gberg says Gallup polls initially suggested lower engagement after the sale, but the company pushed the ownership culture for five years."
+        }
+      ],
+      "tags": [
+        "private equity",
+        "ownership culture",
+        "insurance",
+        "employee engagement"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:8ItPxgwGM8A",
+      "title": "Nvidia's Probe Into Huang Affair Adds to AI Trade Risks",
+      "title_zh": "英伟达调查CEO黄仁勋，AI市场再添不确定性",
+      "url": "https://www.youtube.com/watch?v=8ItPxgwGM8A",
+      "published_at": "2026-11-09T14:16:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达对CEO黄仁勋展开调查，此前他承认与一名被多篇报道指认为疑似中国间谍的女性有婚外情。此事可能进一步扰动本已因数据中心支出放缓担忧而动荡的AI市场。",
+      "summary_en": "Nvidia has launched a probe into CEO Jensen Huang after he admitted to an affair with a woman identified in reports as a suspected Chinese spy. The development threatens to further roil an AI market already shaken by concerns over slowing data center spending.",
+      "detail_zh": "据彭博电视台Anthony Stephens报道，英伟达正在对CEO黄仁勋进行调查。此前黄仁勋承认与一名女性有婚外情，该女性在一系列报道中被指认为疑似中国间谍。这一调查发生之际，AI市场本已因数据中心支出放缓的担忧而受到震动。报道称，该事件可能进一步加剧AI市场的动荡。原文未提供调查的具体性质、范围或时间表，也未说明对英伟达运营的潜在影响。",
+      "detail_en": "According to Bloomberg Television's Anthony Stephens, Nvidia is conducting a probe into CEO Jensen Huang. This follows Huang's admission of an affair with a woman identified in a series of reports as a suspected Chinese spy. The probe comes as the AI market is already shaken by concerns about a slowdown in data center spending. The report states that the situation threatens to further roil the AI market. The original text does not provide details on the nature, scope, or timeline of the probe, nor does it specify potential impacts on Nvidia's operations.",
+      "conclusion_zh": "该事件可能加剧AI板块的短期波动，投资者需关注调查进展及其对英伟达治理与市场情绪的潜在影响。",
+      "conclusion_en": "The event could exacerbate short-term volatility in the AI sector; investors should monitor the probe's developments and its potential impact on Nvidia's governance and market sentiment.",
+      "key_points": [
+        {
+          "zh": "英伟达对CEO黄仁勋展开调查",
+          "en": "Nvidia has launched a probe into CEO Jensen Huang"
+        },
+        {
+          "zh": "黄仁勋承认与一名被指认为疑似中国间谍的女性有婚外情",
+          "en": "Huang admitted to an affair with a woman identified as a suspected Chinese spy"
+        },
+        {
+          "zh": "AI市场本已因数据中心支出放缓担忧而动荡",
+          "en": "The AI market was already shaken by concerns over slowing data center spending"
+        },
+        {
+          "zh": "该事件可能进一步扰动AI市场",
+          "en": "The development threatens to further roil the AI market"
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO probe",
+        "AI market",
+        "China spy",
+        "data center spending"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:7_vcgyI4yKk",
+      "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
+      "title_zh": "英伟达CEO黄仁勋承认婚外情，董事会启动调查",
+      "url": "https://www.youtube.com/watch?v=7_vcgyI4yKk",
+      "published_at": "2026-11-09T14:15:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋承认与一名疑似中国间谍的女性有婚外情，英伟达董事会已对此启动调查。彭博的Minmin Low报道了这一消息，并提及黄仁勋此前向彭博透露的公司继任计划。",
+      "summary_en": "Nvidia CEO Jensen Huang admitted to having an affair with a woman suspected of being a Chinese spy, prompting the Nvidia board to launch an investigation. Bloomberg's Minmin Low reports on the news and shares what Huang previously told Bloomberg about the company's succession plans.",
+      "detail_zh": "英伟达首席执行官黄仁勋承认与一名疑似中国间谍的女性存在婚外情。此事已促使英伟达董事会启动调查。彭博的Minmin Low在报道中拆解了这一新闻，并分享了黄仁勋此前接受彭博采访时关于公司继任计划的表态。原文未提供调查的具体细节、涉事女性的身份信息或继任计划的具体内容。",
+      "detail_en": "Nvidia CEO Jensen Huang admitted to having an affair with a woman suspected of being a Chinese spy. The disclosure has prompted the Nvidia board to launch an investigation. Bloomberg's Minmin Low breaks down the news and shares what Huang previously told Bloomberg about the company's succession plans. The original text does not provide specific details of the investigation, the identity of the woman involved, or the specifics of the succession plans.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋承认与一名疑似中国间谍的女性有婚外情。",
+          "en": "Jensen Huang admitted to an affair with a woman suspected of being a Chinese spy."
+        },
+        {
+          "zh": "英伟达董事会已对此事启动调查。",
+          "en": "The Nvidia board has launched an investigation into the matter."
+        },
+        {
+          "zh": "彭博的Minmin Low报道了该消息，并提及黄仁勋此前关于公司继任计划的表态。",
+          "en": "Bloomberg's Minmin Low reported the news and referenced Huang's previous comments on succession plans."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "board investigation",
+        "succession planning"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:LEJHJpGyHso",
+      "title": "How Nvidia CEO’s Affair Engulfed AI Giant in Spy Probe",
+      "title_zh": "英伟达CEO黄仁勋承认婚外情，涉疑似中国间谍",
+      "url": "https://www.youtube.com/watch?v=LEJHJpGyHso",
+      "published_at": "2026-11-09T14:14:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋承认发生婚外情，涉事女性被一系列报道指认为疑似中国间谍。此事使这家芯片巨头陷入其三十年历史上前所未有的危机。",
+      "summary_en": "Nvidia CEO Jensen Huang has admitted to an affair. The woman involved was identified in a series of reports as a suspected Chinese spy, plunging the chip giant into an unprecedented crisis in its three-decade history.",
+      "detail_zh": "英伟达首席执行官黄仁勋已承认发生婚外情。一系列报道将涉事女性指认为疑似中国间谍。原文称，此事使这家芯片巨头陷入其三十年历史上前所未有的危机。原文未提供更多关于事件细节、时间线或公司回应的信息。",
+      "detail_en": "Nvidia CEO Jensen Huang has admitted to having an affair. A series of reports identified the woman as a suspected Chinese spy. The original text states that this has plunged the chip giant into a crisis unlike any before in its three-decade history. No further details on the event, timeline, or company response are provided in the source.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋承认婚外情",
+          "en": "Jensen Huang admitted to an affair"
+        },
+        {
+          "zh": "涉事女性被报道指认为疑似中国间谍",
+          "en": "The woman was identified in reports as a suspected Chinese spy"
+        },
+        {
+          "zh": "英伟达面临三十年历史上前所未有的危机",
+          "en": "Nvidia faces an unprecedented crisis in its three-decade history"
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "China",
+        "spy",
+        "crisis"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:QzZYymM47ak",
       "title": "Asia Reels From the Global AI Selloff",
@@ -133,6 +485,48 @@
       ],
       "tickers": [],
       "sentiment": "negative"
+    },
+    {
+      "guid": "yt:9JC499IVEAc",
+      "title": "The Economy Is Sending a Surprising Signal? with Mikkel Rosenvold | Macro Mondays Nov 9, 2026",
+      "title_zh": "Steno Research：美国中期选举、阿布扎比与深圳会议及经济 Nowcasting 信号",
+      "url": "https://www.youtube.com/watch?v=9JC499IVEAc",
+      "published_at": "2026-11-09T13:54:07+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "Steno Research 地缘政治主管 Mikkel Rosenvold 在 Macro Mondays 中分析了美国中期选举对政治格局、经济政策和金融市场的影响，并讨论了阿布扎比和深圳会议的意义，同时揭示了其经济 Nowcasting 模型发出的一个意外信号。",
+      "summary_en": "Mikkel Rosenvold, head of geopolitics at Steno Research, analyzes the implications of the U.S. midterm elections for the political landscape, economic policy, and financial markets on Macro Mondays. He also examines the significance of the Abu Dhabi and Shenzhen meetings and reveals a surprising signal from Steno Research's economic nowcasting models.",
+      "detail_zh": "本期 Macro Mondays 由 Steno Research 地缘政治主管 Mikkel Rosenvold 单独主持。节目聚焦美国中期选举，探讨其对政治格局、经济政策及金融市场的影响。同时，Rosenvold 分析了阿布扎比和深圳会议的重要性。此外，他披露了 Steno Research 经济 Nowcasting 模型发出的一个意外信号。节目还包含 Real Vision Trading 平台的推广信息。",
+      "detail_en": "In this episode of Macro Mondays, Mikkel Rosenvold, head of geopolitics at Steno Research, hosts solo. The program focuses on the U.S. midterm elections and their implications for the political landscape, economic policy, and financial markets. Rosenvold also examines the significance of the Abu Dhabi and Shenzhen meetings. Additionally, he reveals a surprising signal from Steno Research's economic nowcasting models. The episode also includes promotional content for the Real Vision Trading platform.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国中期选举对政治格局、经济政策和金融市场的影响是本期讨论的核心。",
+          "en": "The impact of the U.S. midterm elections on the political landscape, economic policy, and financial markets is the core discussion of this episode."
+        },
+        {
+          "zh": "阿布扎比和深圳会议的意义被纳入分析。",
+          "en": "The significance of the Abu Dhabi and Shenzhen meetings is analyzed."
+        },
+        {
+          "zh": "Steno Research 的经济 Nowcasting 模型发出了一个意外信号。",
+          "en": "Steno Research's economic nowcasting models reveal a surprising signal."
+        }
+      ],
+      "tags": [
+        "US midterm elections",
+        "geopolitics",
+        "nowcasting",
+        "economic policy",
+        "financial markets"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:if5RybXnzI8",
@@ -17018,349 +17412,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:-1Qf9nzS2kY",
-      "title": "What 'The Greatest' Tells Us About Boxer Muhammad Ali",
-      "title_zh": "Authentic Brands 与拳王阿里遗孀谈阿里授权剧集",
-      "url": "https://www.youtube.com/watch?v=-1Qf9nzS2kY",
-      "published_at": "2026-11-02T15:02:01+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "穆罕默德·阿里的妻子、剧集《The Greatest》执行制片人Lonnie Ali与Authentic Brands的Marc Rosen在彭博电视《The Close》节目中讨论了这部首个获授权的阿里题材剧集，该剧将更私密地展现拳击生涯之外的阿里。节目于2026年10月29日播出。",
-      "summary_en": "Lonnie Ali, Muhammad Ali's wife and executive producer of 'The Greatest,' and Marc Rosen of Authentic Brands discussed the first authorized scripted series about Muhammad Ali, offering a more intimate look beyond his boxing career, on Bloomberg's 'The Close' on October 29, 2026.",
-      "detail_zh": "Lonnie Ali是穆罕默德·阿里的妻子，也是剧集《The Greatest》的执行制片人。她与Authentic Brands的Marc Rosen一同接受了Romaine Bostick在彭博电视《The Close》节目中的采访。讨论的核心是这部首个获得授权的阿里题材剧本剧集，该剧旨在更私密地展现拳击生涯之外的阿里。节目播出日期为2026年10月29日。原文未提供剧集的具体播出平台、制作成本、财务条款或对相关公司股价的影响等信息。",
-      "detail_en": "Lonnie Ali, Muhammad Ali's wife and executive producer of 'The Greatest,' joined Marc Rosen of Authentic Brands for an interview with Romaine Bostick on Bloomberg's 'The Close.' The discussion centered on the first authorized scripted series about Muhammad Ali, which aims to take a more intimate look beyond his boxing career. The segment aired on October 29, 2026. The source does not provide details on the series' distribution platform, production budget, financial terms, or any impact on related company stock prices.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Lonnie Ali是穆罕默德·阿里的妻子，也是剧集《The Greatest》的执行制片人。",
-          "en": "Lonnie Ali is Muhammad Ali's wife and executive producer of 'The Greatest.'"
-        },
-        {
-          "zh": "该剧集是首个获授权的阿里题材剧本剧集，将更私密地展现拳击生涯之外的阿里。",
-          "en": "The series is the first authorized scripted series about Muhammad Ali, offering a more intimate look beyond his boxing career."
-        },
-        {
-          "zh": "Authentic Brands的Marc Rosen参与了讨论。",
-          "en": "Marc Rosen of Authentic Brands participated in the discussion."
-        },
-        {
-          "zh": "采访由Romaine Bostick在彭博电视《The Close》节目中进行，播出日期为2026年10月29日。",
-          "en": "The interview was conducted by Romaine Bostick on Bloomberg's 'The Close' and aired on October 29, 2026."
-        }
-      ],
-      "tags": [
-        "Muhammad Ali",
-        "Authentic Brands",
-        "scripted series",
-        "licensing",
-        "Bloomberg"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:semOGyzYuws",
-      "title": "Half the S&P Is One AI Trade. This Isn’t 1999. What If the Bubble Is in the Safe Stocks?",
-      "title_zh": "Jay Hatfield：标普500目标8000点，盈利驱动市场上涨",
-      "url": "https://www.youtube.com/watch?v=semOGyzYuws",
-      "published_at": "2026-11-02T15:01:40+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Jay Hatfield在播客中解释其标普500 8000点目标的逻辑：尽管利率和油价预测错误，但盈利增长抵消了估值压缩。他强调市场上涨由盈利驱动，而非估值扩张，并给出明年9300-10000点的看涨情景。",
-      "summary_en": "Jay Hatfield explains his S&P 500 8000 target: despite wrong calls on rates and oil, earnings growth offset multiple compression. He emphasizes the market is earnings-driven, not multiple-driven, and outlines a bull case of 9300-10000 for next year.",
-      "detail_zh": "Jay Hatfield表示，年初设定标普500 8000点目标基于23倍市盈率乘以350美元的盈利预期。尽管他在10年期收益率（误差400基点）、油价和美联储政策上判断错误，导致估值倍数下降4点至19倍，但盈利预期从350美元升至约425美元，仍支撑8000点目标。他强调每25个基点10年期收益率变动对应1个标普500估值倍数，且估值应基于贴现现金流。对于明年，他认为盈利将再增长13%，对应目标9300点（较当前约15%上行空间）；若霍尔木兹海峡重新开放且利率下降50个基点，可能达到10000点，实现超过25%的年度回报。他还提到战争和选举带来不确定性，但盈利持续增长是市场上涨的关键。主持人Jack Forehand补充，许多负面因素确实压低了估值，但盈利飙升是市场上涨的主因，价值投资者可能忽略了这一点。",
-      "detail_en": "Jay Hatfield explains that his initial 8000 S&P 500 target was based on 23x forward earnings of $350. Although he was wrong on the 10-year yield (off by 400bp), oil prices, and Fed policy, which compressed the multiple by 4 points to 19x, earnings estimates rose from $350 to about $425, still supporting 8000. He notes that every 25bp move in the 10-year yield corresponds to one S&P multiple point, and valuation should be based on discounted cash flow. For next year, he sees earnings growing another 13%, yielding a target of 9300 (about 15% upside); if the Strait of Hormuz reopens and rates drop 50bp, the index could reach 10000, a gain of over 25%. He acknowledges uncertainty from war and elections, but earnings growth is the key driver. Host Jack Forehand adds that negative factors have compressed the multiple, but surging earnings are why the market is up, a point value investors may have missed.",
-      "conclusion_zh": "盈利增长是当前美股上涨的核心动力，即使估值受利率和地缘风险压制，盈利上修仍可推动指数上行；关注盈利趋势而非单纯估值扩张。",
-      "conclusion_en": "Earnings growth is the core driver of the current U.S. equity rally; even with valuation pressure from rates and geopolitical risks, upward earnings revisions can push the index higher. Focus on earnings trends rather than multiple expansion alone.",
-      "key_points": [
-        {
-          "zh": "标普500 8000点目标基于23倍市盈率乘以350美元盈利，尽管利率和油价预测错误，盈利增长抵消了估值压缩。",
-          "en": "The 8000 S&P 500 target was based on 23x $350 earnings; despite wrong rate and oil calls, earnings growth offset multiple compression."
-        },
-        {
-          "zh": "每25个基点10年期收益率变动对应1个标普500估值倍数，估值应基于贴现现金流。",
-          "en": "Every 25bp move in the 10-year yield equates to one S&P multiple point; valuation should be based on DCF."
-        },
-        {
-          "zh": "明年盈利预计增长13%，目标9300点；若海峡重开且利率降50基点，可能达10000点。",
-          "en": "Next year's earnings are expected to grow 13%, targeting 9300; if the strait reopens and rates fall 50bp, 10000 is possible."
-        },
-        {
-          "zh": "市场上涨由盈利驱动，而非估值扩张；负面因素压低了估值，但盈利飙升是主因。",
-          "en": "The market is earnings-driven, not multiple-driven; negative factors compressed the multiple, but surging earnings are the main driver."
-        }
-      ],
-      "tags": [
-        "S&P 500",
-        "earnings",
-        "valuation",
-        "market outlook"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:lm7cUSMIdA0",
-      "title": "What Kalshi And Polymarket Mean For Election Integrity: Gamble On Democracy",
-      "title_zh": "预测市场在洛杉矶市长初选中出现异常价格波动，引发操纵担忧",
-      "url": "https://www.youtube.com/watch?v=lm7cUSMIdA0",
-      "published_at": "2026-11-02T15:00:34+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "other"
-      ],
-      "summary_zh": "CNBC与反腐败数据联盟（ACDC）的独家分析发现，在洛杉矶市长初选期间，Kalshi和Polymarket International上出现了与最终结果不符的赔率，以及多起异常价格尖峰。ACDC对167个国会选举市场分析显示，约23%曾出现30美分以上的价格尖峰，且88%的活跃市场仅需不到1000美元的单笔押注即可移动价格10美分，引发对预测市场准确性和潜在操纵的担忧。",
-      "summary_en": "An exclusive analysis by CNBC and the Anti-Corruption Data Collective (ACDC) found that prediction markets Kalshi and Polymarket International showed odds inconsistent with the actual outcome in the Los Angeles mayoral primary, along with numerous unusual price spikes. ACDC's analysis of 167 congressional markets found about 23% experienced price spikes of 30 cents or more, and 88% of active markets could have prices moved by 10 cents with a single bet under $1,000, raising concerns about accuracy and potential manipulation.",
-      "detail_zh": "在洛杉矶市长初选中，预测市场Kalshi在初选前夕给予候选人Spencer Pratt 78%的晋级概率，但Pratt最终排名第三未能晋级。ACDC发现，在5月期间，每当市场因负面新闻下跌时，总有部分市场参与者推高价格，形成复苏，而其他候选人未出现类似模式。ACDC还发现价格尖峰现象：在Kalshi上，一笔5.6万美元的合约以73至99美分一次性买入，暂时将价格推高至99美分，该交易者或交易者们因此损失约8000美元的潜在利润。类似地，在伊利诺伊州参议院民主党初选市场中，一笔5000美元的交易将价格从47美分推高至79美分，三秒后回落，但一分钟后另一笔3000美元的交易又将价格推高至99美分，最终价格回落至52美分。ACDC对167个价值超过10万美元的国会市场分析发现，38个（约23%）出现了30美分以上的价格尖峰。在超过1.8万个活跃国会市场中，88%的市场仅需不到1000美元的单笔押注即可移动价格10美分。Kalshi发言人表示，错误定价的市场代表免费的钱，交易者有财务激励迅速纠正。洛杉矶县书记官办公室指出，预测市场可能加剧混乱。马里兰州选举委员会官员表示，预测市场将放大对选举的审视和忧虑。",
-      "detail_en": "In the Los Angeles mayoral primary, prediction market Kalshi gave candidate Spencer Pratt a 78% chance of advancing on the eve of the June primary, but Pratt ultimately finished third and did not advance. ACDC found that throughout May, whenever the market dropped due to negative news, part of the market pushed prices back up, creating recoveries not seen for other candidates. ACDC also identified price spikes: on Kalshi, $56,000 in contracts were purchased at once ranging from 73 to 99 cents, temporarily pushing the price to 99 cents, with the trader or traders losing about $8,000 in potential profit. Similarly, in the Illinois Senate Democratic primary market, a $5,000 purchase pushed the price from 47 cents to 79 cents, normalized after three seconds, but a minute later another $3,000 in contracts pushed it to 99 cents, eventually trading back at 52 cents. ACDC's analysis of 167 congressional markets worth over $100,000 found 38, or about 23%, experienced price spikes of 30 cents or more. Across more than 18,000 active congressional markets, 88% could have prices moved by 10 cents with a single bet under $1,000. A Kalshi spokesperson said mispriced markets represent free money and traders are financially incentivized to correct that quickly. The L.A. County Clerk's office noted prediction markets can add to confusion. A Maryland State Board of Elections official said prediction markets will amplify scrutiny and apprehension regarding elections.",
-      "conclusion_zh": "预测市场在选举中的价格发现功能存在被少量资金操纵的风险，其赔率可能误导公众并影响选举公信力，投资者应警惕其作为信息源的可靠性。",
-      "conclusion_en": "Prediction markets' price discovery in elections is vulnerable to manipulation with relatively small amounts of money, and their odds may mislead the public and affect election credibility; investors should be cautious about their reliability as an information source.",
-      "key_points": [
-        {
-          "zh": "Kalshi在洛杉矶市长初选前夕给予Pratt 78%的晋级概率，但Pratt最终排名第三未晋级。",
-          "en": "Kalshi gave Pratt a 78% chance of advancing before the L.A. mayoral primary, but Pratt finished third and did not advance."
-        },
-        {
-          "zh": "ACDC发现Kalshi上存在异常价格尖峰，一笔5.6万美元的交易将价格推高至99美分，交易者损失约8000美元潜在利润。",
-          "en": "ACDC found unusual price spikes on Kalshi, with a $56,000 trade pushing the price to 99 cents, costing the trader about $8,000 in potential profit."
-        },
-        {
-          "zh": "在167个价值超10万美元的国会市场中，约23%出现了30美分以上的价格尖峰。",
-          "en": "Of 167 congressional markets worth over $100,000, about 23% experienced price spikes of 30 cents or more."
-        },
-        {
-          "zh": "超过1.8万个活跃国会市场中，88%仅需不到1000美元的单笔押注即可移动价格10美分。",
-          "en": "Across more than 18,000 active congressional markets, 88% could have prices moved by 10 cents with a single bet under $1,000."
-        },
-        {
-          "zh": "Kalshi发言人表示错误定价代表免费的钱，交易者有激励迅速纠正；选举官员担忧预测市场放大对选举的审视和忧虑。",
-          "en": "A Kalshi spokesperson said mispricing represents free money and traders are incentivized to correct it quickly; election officials worry prediction markets amplify scrutiny and apprehension."
-        }
-      ],
-      "tags": [
-        "prediction markets",
-        "election integrity",
-        "market manipulation",
-        "Kalshi",
-        "Polymarket"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:g0uZBGAcPFA",
-      "title": "Trump's Veto Threat Looms Over Midterms",
-      "title_zh": "特朗普称若民主党掌控国会将频繁行使否决权",
-      "url": "https://www.youtube.com/watch?v=g0uZBGAcPFA",
-      "published_at": "2026-11-02T14:51:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普对福克斯新闻表示，若民主党赢得国会控制权，他可能成为“否决先生”。另有一名民主党女议员转而支持密歇根州参议员选举中的共和党候选人。",
-      "summary_en": "President Donald Trump told Fox News he could become \"Mr. Veto\" if Democrats take control of Congress. A Democratic congresswoman has flipped to support a Republican candidate for Michigan's US Senate seat.",
-      "detail_zh": "特朗普在接受福克斯新闻采访时表示，如果民主党在选举中拿下国会控制权，他可能频繁使用否决权，自称可能成为“否决先生”。与此同时，一名民主党国会女议员改变立场，转而支持密歇根州美国参议院席位选举中的共和党候选人。上述内容由彭博的Tyler Kendall报道。原文未提供更多关于选举形势、具体人物或政策影响的细节。",
-      "detail_en": "President Donald Trump told Fox News he could become \"Mr. Veto\" if Democrats take control of Congress, suggesting he might wield the veto power frequently. Separately, a Democratic congresswoman flipped and is now supporting a Republican for Michigan's US Senate seat. The report was provided by Bloomberg's Tyler Kendall. No further details on the electoral landscape, specific individuals, or policy implications were provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普称若民主党掌控国会，他可能成为“否决先生”。",
-          "en": "Trump said he could become \"Mr. Veto\" if Democrats take control of Congress."
-        },
-        {
-          "zh": "一名民主党女议员转而支持密歇根州参议员选举中的共和党候选人。",
-          "en": "A Democratic congresswoman flipped to support a Republican for Michigan's US Senate seat."
-        }
-      ],
-      "tags": [
-        "Trump",
-        "Congress",
-        "veto",
-        "Michigan Senate",
-        "elections"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:4mTKz9jsWFc",
-      "title": "3+1 Episode 26: Jennifer Hsui",
-      "title_zh": "指数纳入机制与ETF税务效率解析",
-      "url": "https://www.youtube.com/watch?v=4mTKz9jsWFc",
-      "published_at": "2026-11-02T14:40:48+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "指数纳入由自由流通市值决定，而非表面市值，各指数公司纳入节奏不同导致指数构成差异。过去五年美国仅3%的指数ETF分配资本利得，而指数共同基金约65%，ETF在税务效率上优势显著。",
-      "summary_en": "Index inclusion is driven by float-adjusted market capitalization, not headline valuation, and differences in index providers' timing create composition variations. Over the past five years, only 3% of US index ETFs distributed capital gains versus about 65% of index mutual funds, highlighting ETFs' tax efficiency.",
-      "detail_zh": "Jennifer Shei在播客中指出，市场存在一个误解，即认为某些公司会立即主导指数权重。实际上，指数纳入由自由流通市值（即可自由交易股份的比例）决定，而非表面市值。在各指数公司全部纳入之前，指数构成会出现差异。投资者需要真正理解所投资产的敞口和指数构建方式，因为最终每个投资决策都是主动决策。在税务方面，过去五年美国只有3%的指数ETF分配了资本利得，而指数共同基金约为65%。投资者应了解并考虑所持投资的资本利得状况。",
-      "detail_en": "Jennifer Shei notes in the podcast that there is a misconception that certain companies will immediately dominate index weightings. In reality, index inclusion is driven by float-adjusted market capitalization—the percentage of shares freely tradable—not headline market valuation. Until all index providers add the stock, index composition will differ. Investors need to understand the exposures they hold and how indices are constructed, because ultimately every investment decision is an active decision. On taxes, over the past five years only 3% of US index ETFs distributed capital gains, compared to about 65% of index mutual funds. Investors should understand and consider the capital gains positions of their investments.",
-      "conclusion_zh": "关注指数纳入规则与ETF税务效率，理解敞口构建是主动决策的一部分。",
-      "conclusion_en": "Pay attention to index inclusion rules and ETF tax efficiency; understanding exposure construction is part of active decision-making.",
-      "key_points": [
-        {
-          "zh": "指数纳入基于自由流通市值，而非表面市值。",
-          "en": "Index inclusion is based on float-adjusted market cap, not headline valuation."
-        },
-        {
-          "zh": "各指数公司纳入节奏不同，导致指数构成存在差异。",
-          "en": "Differences in index providers' timing lead to variations in index composition."
-        },
-        {
-          "zh": "投资者需理解所投资产的敞口和指数构建方式，每个投资决策都是主动决策。",
-          "en": "Investors must understand their exposures and index construction; every investment decision is active."
-        },
-        {
-          "zh": "过去五年美国仅3%的指数ETF分配资本利得，指数共同基金约65%。",
-          "en": "Over five years, only 3% of US index ETFs distributed capital gains vs. ~65% of index mutual funds."
-        }
-      ],
-      "tags": [
-        "index inclusion",
-        "ETF",
-        "tax efficiency",
-        "float-adjusted market cap"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:wTW60c2-bn0",
-      "title": "Police and Protesters Square Off in Germany Over Weekend",
-      "title_zh": "德国示威活动夜间演变为暴力冲突",
-      "url": "https://www.youtube.com/watch?v=wTW60c2-bn0",
-      "published_at": "2026-11-02T14:35:26+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "周六德国多地由“Gen Z regelt”组织的示威活动在白天基本和平，但入夜后在法兰克福、科隆、汉堡和柏林演变为暴力冲突，示威者与警方对峙。示威诉求包括教育、健康、气候保护和可负担的生活。",
-      "summary_en": "Mass demonstrations in Germany organized by \"Gen Z regelt\" were largely peaceful on Saturday but turned violent after nightfall in Frankfurt, Cologne, Hamburg, and Berlin, with rioters clashing with police. The protests called for education, health, climate protection, and an affordable life.",
-      "detail_zh": "周六，德国爆发大规模示威活动，由名为“Gen Z regelt”的组织发起，呼吁各年龄段人群加入，诉求涵盖教育、健康、气候保护和可负担的生活。白天示威活动基本和平进行，但随着夜幕降临，局势在法兰克福、科隆、汉堡和柏林升级为暴力冲突，骚乱者与警方发生对峙。原文未提供更多关于冲突规模、伤亡或逮捕的细节。",
-      "detail_en": "On Saturday, mass demonstrations took place in Germany, organized by a group called \"Gen Z regelt,\" which called for people of all ages to join the demonstration \"for education, health, climate protection and an affordable life.\" The protests were largely peaceful during the day, but as night fell, violence erupted in Frankfurt, Cologne, Hamburg, and Berlin, with rioters facing off against police. The original text does not provide further details on the scale of the clashes, casualties, or arrests.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "示威由“Gen Z regelt”组织发起，诉求包括教育、健康、气候保护和可负担的生活。",
-          "en": "The protests were organized by \"Gen Z regelt,\" with demands including education, health, climate protection, and an affordable life."
-        },
-        {
-          "zh": "周六白天示威基本和平，但入夜后在法兰克福、科隆、汉堡和柏林演变为暴力冲突。",
-          "en": "The demonstrations were largely peaceful during the day on Saturday but turned violent after nightfall in Frankfurt, Cologne, Hamburg, and Berlin."
-        },
-        {
-          "zh": "骚乱者与警方在多个城市发生对峙。",
-          "en": "Rioters clashed with police in multiple cities."
-        }
-      ],
-      "tags": [
-        "germany",
-        "protests",
-        "violence",
-        "gen-z"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:uTeybmWEI9w",
-      "title": "The Icelandic DNA Behind Amgen’s Hunt for the Next Ozempic",
-      "title_zh": "安进肥胖药研发溯源冰岛实验室",
-      "url": "https://www.youtube.com/watch?v=uTeybmWEI9w",
-      "published_at": "2026-11-02T14:21:39+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博的Madison Muller介绍，安进进军高 stakes 肥胖药物市场的最佳机会，始于雷克雅未克冰岛大学科学园地下室一个零下13华氏度的冷冻柜。",
-      "summary_en": "Bloomberg's Madison Muller explains that Amgen's best chance at breaking into the high-stakes obesity drug market began in a basement at the University of Iceland Science Park in Reykjavík, in a freezer chilled to minus-13 degrees Fahrenheit.",
-      "detail_zh": "彭博的Madison Muller在视频中介绍，安进（Amgen）试图打入高 stakes 肥胖药物市场的最佳机会，其源头可以追溯到冰岛雷克雅未克大学科学园的地下室。那里有一个温度设定为零下13华氏度的冷冻柜，是这项研发工作的起点。原文未披露该冷冻柜中保存的具体样本、研发时间线、药物名称或临床数据。",
-      "detail_en": "In the video, Bloomberg's Madison Muller explains that Amgen's best chance at breaking into the high-stakes obesity drug market traces back to a basement at the University of Iceland Science Park in Reykjavík. There, a freezer chilled to minus-13 degrees Fahrenheit served as the starting point for the research effort. The original text does not disclose the specific samples stored in the freezer, the research timeline, the drug's name, or any clinical data.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "安进进军肥胖药物市场的最佳机会源自冰岛大学科学园地下室的一个冷冻柜。",
-          "en": "Amgen's best chance at entering the obesity drug market originated from a freezer in a basement at the University of Iceland Science Park."
-        },
-        {
-          "zh": "该冷冻柜温度为零下13华氏度。",
-          "en": "The freezer was chilled to minus-13 degrees Fahrenheit."
-        },
-        {
-          "zh": "信息由彭博的Madison Muller提供。",
-          "en": "The information was provided by Bloomberg's Madison Muller."
-        }
-      ],
-      "tags": [
-        "Amgen",
-        "obesity drug",
-        "Bloomberg",
-        "Iceland"
-      ],
-      "tickers": [
-        "AMGN"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:QLEMLTTGa3U",
-      "title": "Power On: How Apple Is Deflecting the Duo’s Cracked Display Problem",
-      "title_zh": "苹果设备屏幕破裂报告与更换供应紧张",
-      "url": "https://www.youtube.com/watch?v=QLEMLTTGa3U",
-      "published_at": "2026-11-02T14:20:04+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在Power On播客中，Chris Welch与Mark Gurman讨论了有关屏幕破裂的报告，以及苹果供应有限导致更换困难的问题。",
-      "summary_en": "On the Power On podcast, Chris Welch and Mark Gurman discussed reports of cracked displays and how Apple's limited supply has made getting a replacement difficult.",
-      "detail_zh": "本期Power On播客由Chris Welch与Mark Gurman主持，内容涉及有关屏幕破裂的报告。讨论指出，苹果的供应有限，导致用户难以获得更换部件。节目未提供具体受影响的产品型号、破裂原因或供应短缺的详细数据。",
-      "detail_en": "In this episode of the Power On podcast, Chris Welch joins Mark Gurman to discuss reports of cracked displays. They note that Apple's limited supply has made getting a replacement difficult. The episode does not provide specific product models affected, causes of the cracks, or detailed data on the supply shortage.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "播客讨论了屏幕破裂的报告",
-          "en": "Podcast discussed reports of cracked displays"
-        },
-        {
-          "zh": "苹果供应有限导致更换困难",
-          "en": "Apple's limited supply makes replacements difficult"
-        },
-        {
-          "zh": "未提及具体产品型号或数据",
-          "en": "No specific product models or data mentioned"
-        }
-      ],
-      "tags": [
-        "Apple",
-        "display",
-        "supply",
-        "podcast"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
