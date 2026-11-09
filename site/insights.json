@@ -1,6 +1,696 @@
 {
-  "generated_at": "2026-11-09T21:13:13.354431+00:00",
+  "generated_at": "2026-11-09T23:13:29.617232+00:00",
   "insights": [
+    {
+      "guid": "yt:lgUH70gZKnk",
+      "title": "The Close 11/9/2026",
+      "title_zh": "彭博The Close节目单：英伟达、CVS、Skydance等议题",
+      "url": "https://www.youtube.com/watch?v=lgUH70gZKnk",
+      "published_at": "2026-11-09T22:59:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本文仅为彭博电视节目The Close的章节列表，未提供具体讨论内容或观点。",
+      "summary_en": "This is only a chapter list for Bloomberg TV's The Close, with no specific discussion content or views provided.",
+      "detail_zh": "原文是彭博电视节目The Close的章节标题和嘉宾名单，没有实质性的市场分析或投资观点。章节涵盖英伟达与黄仁勋的领导力风险、AI投资与赤字、前美联储理事Betsy Duke谈通胀与利率、CVS健康CEO谈零售药房分拆、摩根士丹利谈金融科技与IPO、Skydance财报与流媒体、Lucid、Hims & Hers和Rocket Lab的财报、市场综述以及荷兰兄弟CEO谈增长与通胀等。由于缺乏具体内容，无法提炼投资洞见。",
+      "detail_en": "The original text is a chapter list and guest roster for Bloomberg TV's The Close, without substantive market analysis or investment views. Chapters cover Nvidia and Jensen Huang leadership risk, AI investing and deficits, former Fed Governor Betsy Duke on inflation and rates, CVS Health CEO on retail pharmacy spinoff, Morgan Stanley on fintech and IPOs, Skydance earnings and streaming, earnings from Lucid, Hims & Hers and Rocket Lab, a market recap, and Dutch Bros CEO on growth and inflation. Due to the lack of specific content, no investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目讨论英伟达及黄仁勋的领导力风险",
+          "en": "The program discusses Nvidia and Jensen Huang's leadership risk"
+        },
+        {
+          "zh": "前美联储理事Betsy Duke将谈论通胀与利率",
+          "en": "Former Fed Governor Betsy Duke will discuss inflation and rates"
+        },
+        {
+          "zh": "CVS健康CEO讨论零售药房分拆",
+          "en": "CVS Health CEO discusses retail pharmacy spinoff"
+        },
+        {
+          "zh": "摩根士丹利探讨金融科技、IPO与财富管理",
+          "en": "Morgan Stanley explores fintech, IPOs and wealth management"
+        },
+        {
+          "zh": "市场综述显示广泛上涨，英伟达逆势",
+          "en": "Market recap shows broad rally as Nvidia bucks the trend"
+        }
+      ],
+      "tags": [
+        "Bloomberg The Close",
+        "Nvidia",
+        "CVS Health",
+        "Skydance",
+        "Market Recap"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:XMjIDDxAY3A",
+      "title": "Trump Stands By Nvidia's Huang, Defense Secretary Hegseth",
+      "title_zh": "特朗普称赞英伟达CEO黄仁勋并支持Hegseth",
+      "url": "https://www.youtube.com/watch?v=XMjIDDxAY3A",
+      "published_at": "2026-11-09T22:53:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普称英伟达CEO黄仁勋为“了不起的人”，并对Pete Hegseth表示支持。该报道来自Bloomberg“Balance of Power: Evening Edition”。",
+      "summary_en": "President Donald Trump called Nvidia CEO Jensen Huang \"an amazing guy\" and offered support for Pete Hegseth, according to a Bloomberg \"Balance of Power: Evening Edition\" report.",
+      "detail_zh": "据Bloomberg“Balance of Power: Evening Edition”报道，美国总统特朗普称英伟达CEO黄仁勋为“一个了不起的人”，并对Pete Hegseth表达了支持。报道由Tyler Kendall完成。原文未提供更多关于特朗普言论的背景、具体场合或Hegseth相关细节。",
+      "detail_en": "According to Bloomberg's \"Balance of Power: Evening Edition\" report by Tyler Kendall, President Donald Trump called Nvidia CEO Jensen Huang \"an amazing guy\" and offered support for Pete Hegseth. The original text does not provide further context, specific setting, or details regarding Hegseth.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普称英伟达CEO黄仁勋为“了不起的人”。",
+          "en": "Trump called Nvidia CEO Jensen Huang \"an amazing guy.\""
+        },
+        {
+          "zh": "特朗普对Pete Hegseth表示支持。",
+          "en": "Trump offered support for Pete Hegseth."
+        },
+        {
+          "zh": "该报道来自Bloomberg“Balance of Power: Evening Edition”，由Tyler Kendall报道。",
+          "en": "The report is from Bloomberg's \"Balance of Power: Evening Edition,\" reported by Tyler Kendall."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "Nvidia",
+        "Jensen Huang",
+        "Hegseth"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:NJ6Xrh4HU2U",
+      "title": "Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO",
+      "title_zh": "Gerber Kawasaki CEO 就英伟达CEO黄仁勋相关调查置评",
+      "url": "https://www.youtube.com/watch?v=NJ6Xrh4HU2U",
+      "published_at": "2026-11-09T22:08:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Gerber Kawasaki 联合创始人、总裁兼CEO Ross Gerber 在 Bloomberg The Close 节目中，就针对英伟达CEO黄仁勋与一名据称中国间谍有染的调查作出回应。原文未披露其具体观点或调查细节。",
+      "summary_en": "Ross Gerber, co-founder, president and CEO of Gerber Kawasaki Wealth and Investment Management, reacted on Bloomberg The Close to the investigation into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. The source does not disclose his specific remarks or details of the investigation.",
+      "detail_zh": "原文仅说明 Ross Gerber 在 Bloomberg The Close 节目中，就针对英伟达CEO黄仁勋与一名据称中国间谍有染的调查作出回应。原文未提供调查的具体内容、Gerber 的具体评论、任何数字或对英伟达股价/业务的影响判断。其余内容为 Bloomberg 的社交媒体与订阅推广信息，不构成投资信息。",
+      "detail_en": "The source only states that Ross Gerber appeared on Bloomberg The Close to react to the investigation into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. It provides no details of the investigation, no specifics of Gerber's remarks, no figures, and no assessment of impact on Nvidia's stock or business. The remainder is Bloomberg promotional and subscription material and carries no investment information.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Gerber Kawasaki 的 Ross Gerber 就针对英伟达CEO黄仁勋的调查在 Bloomberg The Close 置评。",
+          "en": "Ross Gerber of Gerber Kawasaki commented on the investigation into Nvidia CEO Jensen Huang on Bloomberg The Close."
+        },
+        {
+          "zh": "调查涉及黄仁勋与一名据称中国间谍有染。",
+          "en": "The investigation concerns Huang's affair with an alleged Chinese spy."
+        },
+        {
+          "zh": "原文未披露 Gerber 的具体观点或调查细节。",
+          "en": "The source does not disclose Gerber's specific views or details of the investigation."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "investigation",
+        "Bloomberg"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:pTqqHEYzZ2Y",
+      "title": "Nvidia Shares Fall Amid CEO Probe",
+      "title_zh": "英伟达因CEO调查股价承压，市场整体反弹",
+      "url": "https://www.youtube.com/watch?v=pTqqHEYzZ2Y",
+      "published_at": "2026-11-09T22:04:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达董事会因CEO黄仁勋承认与疑似中国间谍的女性有婚外情而对其展开调查，导致英伟达股价周一下跌。尽管英伟达承压，市场整体反弹，AI交易在英伟达缺席下仍上涨。讨论还涉及英伟达的继任问题、国家安全审查以及竞争对手可能受益。",
+      "summary_en": "Nvidia shares fell Monday after the board launched an investigation into CEO Jensen Huang following his admission of an affair with a woman identified as a suspected Chinese spy. Despite Nvidia's pressure, markets rallied and the AI trade advanced without Nvidia. Discussions also covered Nvidia's succession problem, national security scrutiny, and potential benefits for rivals.",
+      "detail_zh": "英伟达股价周一下跌，此前公司董事会宣布对CEO黄仁勋展开调查，起因是黄仁勋承认与一名被多篇报道指认为疑似中国间谍的女性有婚外情。彭博新闻美国半导体记者Ian King和彭博情报的Mandeep Singh分析了这一丑闻和调查对行业的影响。讨论涉及英伟达的继任问题、国家安全审查以及竞争对手是否可能从英伟达的困境中受益。此外，共和党众议员Thomas Massie在众议院提交决议，要求弹劾国防部长Pete Hegseth，彭博的Mike Shepard和哥伦比亚大学政治学教授Elizabeth Saunders讨论了此举对特朗普政府的意义。节目还涵盖市场反弹、AI交易在英伟达承压下的表现、谷歌AI芯片对英伟达的挑战以及AMD和能源等股票动态。",
+      "detail_en": "Nvidia shares took a hit Monday after the company's board launched an investigation into CEO Jensen Huang, following his admission of an affair with a woman identified in reports as a suspected Chinese spy. Bloomberg News US Semiconductor Reporter Ian King and Bloomberg Intelligence's Mandeep Singh broke down how the scandal and investigation are impacting the industry. Discussions covered Nvidia's succession problem, national security scrutiny, and whether rivals could benefit from Nvidia's troubles. Additionally, Republican Congressman Thomas Massie filed a resolution in the House to impeach Defense Secretary Pete Hegseth; Bloomberg's Mike Shepard and Columbia University Political Science Professor Elizabeth Saunders discussed what the effort means for the Trump Administration. The program also covered markets rallying, the AI trade's performance amid Nvidia's pressure, Google's AI chips challenging Nvidia, and stock movers including Nvidia, AMD, and energy.",
+      "conclusion_zh": "英伟达CEO调查事件短期内对股价构成压力，但市场整体反弹和AI交易的韧性显示投资者可能正在分散风险；需关注调查进展、国家安全审查及竞争对手动态。",
+      "conclusion_en": "The CEO investigation pressures Nvidia shares in the short term, but the broader market rally and resilience of the AI trade suggest investors may be diversifying risk; watch investigation developments, national security scrutiny, and rival dynamics.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会因CEO黄仁勋承认婚外情（对方被指疑似中国间谍）而对其展开调查，导致股价周一下跌。",
+          "en": "Nvidia's board launched an investigation into CEO Jensen Huang after he admitted an affair with a woman identified as a suspected Chinese spy, causing shares to fall Monday."
+        },
+        {
+          "zh": "尽管英伟达承压，市场整体反弹，AI交易在英伟达缺席下仍上涨。",
+          "en": "Despite Nvidia's pressure, markets rallied and the AI trade advanced without Nvidia."
+        },
+        {
+          "zh": "讨论涉及英伟达的继任问题、国家安全审查以及竞争对手可能受益。",
+          "en": "Discussions covered Nvidia's succession problem, national security scrutiny, and potential benefits for rivals."
+        },
+        {
+          "zh": "共和党众议员Thomas Massie提交弹劾国防部长Pete Hegseth的决议，引发对特朗普政府影响的讨论。",
+          "en": "Republican Congressman Thomas Massie filed a resolution to impeach Defense Secretary Pete Hegseth, sparking discussion on implications for the Trump Administration."
+        },
+        {
+          "zh": "谷歌AI芯片对英伟达构成挑战，股票动态包括英伟达、AMD和能源股。",
+          "en": "Google's AI chips challenge Nvidia, with stock movers including Nvidia, AMD, and energy."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO investigation",
+        "AI trade",
+        "national security",
+        "semiconductors"
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "GOOGL"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5_H7PCUWYVc",
+      "title": "AI Held Up Stocks. What’s Holding Up AI?",
+      "title_zh": "流动性放缓与AI交易：市场面临的关键考验",
+      "url": "https://www.youtube.com/watch?v=5_H7PCUWYVc",
+      "published_at": "2026-11-09T22:03:02+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "Michael Howell指出全球流动性增速已在2025年末见顶，2026年持续放缓，导致风险资产波动加剧，而AI交易成为市场主要支撑，但该交易可能面临融资条件挑战。讨论强调金融与实体经济流动性相互竞争，AI资本开支正从金融市场抽离资金。",
+      "summary_en": "Michael Howell notes that global liquidity growth peaked in late 2025 and has been slowing in 2026, making asset gains harder and increasing choppiness in risk assets. The AI trade has been holding up the market, but it may face financing challenges as capital is redeployed from financial markets to real economy capex.",
+      "detail_zh": "在XS Returns播客中，流动性专家Michael Howell表示，全球流动性周期（以增速衡量）已于2025年末见顶，2026年流动性状况逐步恶化。尽管绝对水平未必下降，但增速放缓使资产增值更困难，风险资产市场出现更多波动。对流动性敏感的小盘股（罗素2000）、比特币、黄金和信用利差已开始表现不佳，市场越来越依赖AI这一单一交易支撑，而该交易可能即将结束。Howell强调，资本密集型行业始终具有周期性，周期往往因融资条件或无法为新资本开支融资而受到冲击。他定义全球流动性为资金通过世界金融市场的流动，区分金融市场流动性与实体经济流动性，指出所有货币必在某一处，若在实体经济则不在金融市场，反之亦然。流动性代表金融部门的融资能力，即资产负债表承接债务、再融资和进行交易的空间。近期华尔街与主街争夺流动性：大型 hyperscalers 的现金正从金融市场（如短期国债）重新配置到AI资本开支等实体经济项目，不再体现在金融市场统计中。",
+      "detail_en": "In the XS Returns podcast, liquidity expert Michael Howell stated that the global liquidity cycle, measured by its growth rate, peaked in late 2025 and liquidity conditions have been progressively deteriorating in 2026. While the absolute level may not be falling, the slowing growth rate is making asset gains much harder and causing more choppiness in risk asset markets. Liquidity-sensitive assets such as small caps (Russell 2000), Bitcoin, gold, and credit spreads are already performing poorly, and the market is increasingly held up by the single AI trade, which may be coming to an end. Howell emphasized that capital-intensive industries are always cyclical, and the cycle often bites due to financing conditions or an inability to fund new capex. He defines global liquidity as the flow of funds through world financial markets, distinguishing financial market liquidity from real economy liquidity, and noting that all money must be somewhere—if it's in the real economy, it's not in financial markets, and vice versa. Liquidity represents the financing capacity of the financial sector, i.e., balance sheet capacity to take on debt, refinance, and conduct transactions. Recently, Wall Street is competing with Main Street for liquidity: cash from large hyperscalers is being redeployed from financial markets (e.g., short-dated Treasuries) into real economy projects like AI capex, no longer appearing in financial market statistics.",
+      "conclusion_zh": "流动性增速放缓与AI交易集中度上升构成市场脆弱性，投资者需关注融资条件变化对资本密集型科技板块的潜在冲击。",
+      "conclusion_en": "Slowing liquidity growth and rising concentration in the AI trade create market fragility; investors should watch financing conditions for potential shocks to capital-intensive tech sectors.",
+      "key_points": [
+        {
+          "zh": "全球流动性增速已于2025年末见顶，2026年持续放缓，资产增值难度加大。",
+          "en": "Global liquidity growth peaked in late 2025 and has been slowing in 2026, making asset gains harder."
+        },
+        {
+          "zh": "对流动性敏感的小盘股、比特币、黄金和信用利差已开始表现不佳。",
+          "en": "Liquidity-sensitive assets like small caps, Bitcoin, gold, and credit spreads are already underperforming."
+        },
+        {
+          "zh": "市场越来越依赖AI单一交易支撑，但该交易可能因融资条件收紧而面临挑战。",
+          "en": "The market is increasingly held up by the single AI trade, which may face challenges as financing conditions tighten."
+        },
+        {
+          "zh": "AI资本开支正将资金从金融市场抽离至实体经济，形成对流动性的竞争。",
+          "en": "AI capex is draining capital from financial markets into the real economy, creating competition for liquidity."
+        }
+      ],
+      "tags": [
+        "liquidity",
+        "AI trade",
+        "risk assets",
+        "credit spreads",
+        "capex"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:9Gg9Ah2QyY4",
+      "title": "CVS Has Not Received Offers For the Retail Pharmacy Business, CEO Says",
+      "title_zh": "CVS健康CEO：零售药房业务分拆尚未收到收购要约",
+      "url": "https://www.youtube.com/watch?v=9Gg9Ah2QyY4",
+      "published_at": "2026-11-09T21:52:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "CVS健康CEO兼董事长David Joyner表示，其零售药房业务分拆计划于明年上半年进行，目前尚未收到任何收购要约。Aetna保险部门与Caremark药品福利管理部门将保留在集团内。",
+      "summary_en": "CVS Health CEO and Chairman David Joyner said no offers have yet been received for its retail pharmacy business, which is being spun off in the first half of next year. The Aetna insurance unit and Caremark pharmacy benefits division will remain together.",
+      "detail_zh": "CVS健康CEO兼董事长David Joyner在“Bloomberg The Close”节目中表示，公司计划于明年上半年分拆其零售药房业务，但截至目前尚未收到任何针对该业务的收购要约。Joyner同时确认，公司的Aetna保险部门与Caremark药品福利管理部门将保持合并，不会在此次分拆中分离。该分拆计划的具体交易结构、估值及财务细节未在原文中披露。",
+      "detail_en": "CVS Health CEO and Chairman David Joyner said on \"Bloomberg The Close\" that the company plans to spin off its retail pharmacy business in the first half of next year, but has not yet received any offers for the business. Joyner also confirmed that the company's Aetna insurance unit and Caremark pharmacy benefits division will stay together and will not be separated in the spin-off. Specific transaction structure, valuation, and financial details of the spin-off were not disclosed in the original text.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "CVS健康零售药房业务分拆计划于明年上半年进行。",
+          "en": "CVS Health's retail pharmacy business is being spun off in the first half of next year."
+        },
+        {
+          "zh": "CEO David Joyner表示，目前尚未收到任何针对该业务的收购要约。",
+          "en": "CEO David Joyner said no offers have yet been received for the business."
+        },
+        {
+          "zh": "Aetna保险部门与Caremark药品福利管理部门将保留在集团内，保持合并。",
+          "en": "The Aetna insurance unit and Caremark pharmacy benefits division will stay together within the company."
+        }
+      ],
+      "tags": [
+        "CVS Health",
+        "spin-off",
+        "retail pharmacy",
+        "Aetna",
+        "Caremark"
+      ],
+      "tickers": [
+        "CVS"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:hdm8F7jVq6c",
+      "title": "S&P 500 Erases Midterm Losses, Bitcoin Bounce",
+      "title_zh": "Bloomberg ETF IQ：市场集中度风险、比特币ETF与全球AI投资",
+      "url": "https://www.youtube.com/watch?v=hdm8F7jVq6c",
+      "published_at": "2026-11-09T21:40:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期Bloomberg ETF IQ讨论了ETF资金流与逢低买入、Rob Arnott对市场集中度风险的看法、Franklin Templeton的股票+比特币ETF策略，以及William Blair的全球AI投资与“有形资产复仇”主题。",
+      "summary_en": "This episode of Bloomberg ETF IQ covers ETF flows and dip buying, Rob Arnott's views on market concentration risk, Franklin Templeton's stock-plus-Bitcoin ETF strategy, and William Blair's global AI investing and the 'Revenge of the Tangibles' theme.",
+      "detail_zh": "节目首先关注ETF资金流与逢低买入现象。SYZGY Asset Management创始人Rob Arnott讨论了市场集中度风险，并探讨了超大盘股是否值得承担这种集中度风险。Arnott还谈及出售RAFI指数业务以及RAFI ETF背后的策略。在中期选举后的市场讨论中，Arnott与TMX VettaFi的Cinthia Murphy一起分析了选举后的市场环境，并涉及AI和半导体股票。节目还讨论了基本面指数如何选股、智能贝塔与主动投资的对比，以及规则驱动与自由裁量投资的区别。Eric Balchunas介绍了他的新比特币与加密货币书籍，话题延伸至比特币、加密货币和代币化。Franklin Templeton的Dina Ting解释了为何将股票与比特币结合，以及该ETF如何能跑赢股票和比特币，并讨论了比特币作为货币贬值对冲工具的理由。William Blair的Alaina Anderson则分享了全球AI股票投资、'有形资产复仇'主题、国家配置与选股，以及日本投资。",
+      "detail_en": "The program begins with ETF flows and dip buying. Rob Arnott, Chairman & Founder of SYZGY Asset Management, discusses market concentration risk and whether mega-cap stocks are worth the concentration risk. Arnott also talks about selling the RAFI index business and the strategy behind the RAFI ETF. In a post-midterms market discussion, Arnott and Cinthia Murphy of TMX VettaFi analyze the post-election market environment, touching on AI and semiconductor stocks. The show also covers how fundamental indexes pick stocks, smart beta vs. active investing, and rules-based vs. discretionary investing. Eric Balchunas introduces his new Bitcoin and crypto book, leading to a discussion on Bitcoin, crypto and tokenization. Dina Ting of Franklin Templeton explains why combine stocks and Bitcoin, how the ETF can outperform stocks and Bitcoin, and makes the case for Bitcoin as a currency debasement hedge. Alaina Anderson of William Blair shares insights on investing in global AI stocks, the 'Revenge of the Tangibles' theme, country allocation vs. stock picking, and investing in Japan.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Rob Arnott讨论了市场集中度风险以及超大盘股是否值得承担这种风险。",
+          "en": "Rob Arnott discussed market concentration risk and whether mega-cap stocks are worth the concentration risk."
+        },
+        {
+          "zh": "Franklin Templeton的Dina Ting解释了将股票与比特币结合的ETF策略，以及比特币作为货币贬值对冲的理由。",
+          "en": "Dina Ting of Franklin Templeton explained the ETF strategy combining stocks and Bitcoin, and the case for Bitcoin as a currency debasement hedge."
+        },
+        {
+          "zh": "William Blair的Alaina Anderson分享了全球AI股票投资和'有形资产复仇'主题。",
+          "en": "Alaina Anderson of William Blair shared insights on global AI stock investing and the 'Revenge of the Tangibles' theme."
+        },
+        {
+          "zh": "节目讨论了中期选举后的市场环境、AI和半导体股票，以及智能贝塔与主动投资的对比。",
+          "en": "The program covered post-midterm market environment, AI and semiconductor stocks, and smart beta vs. active investing."
+        }
+      ],
+      "tags": [
+        "ETF",
+        "market concentration",
+        "Bitcoin",
+        "AI",
+        "smart beta"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:wkQltlCtK8o",
+      "title": "Alice Huang: Who is she and why was she with Nvidia's Jensen Huang?",
+      "title_zh": "英伟达调查CEO黄仁勋与疑似中国间谍的关系",
+      "url": "https://www.youtube.com/watch?v=wkQltlCtK8o",
+      "published_at": "2026-11-09T21:26:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据彭博社报道，英伟达正在调查CEO黄仁勋与一名疑似中国间谍的女性Alice Huang的婚外情关系，该女性曾在其身边活动多年。报道未提供调查细节或公司回应。",
+      "summary_en": "Bloomberg reports that Nvidia is probing CEO Jensen Huang's affair with Alice Huang, an alleged Chinese spy who spent years in his orbit. No further details on the investigation or company response were provided.",
+      "detail_zh": "彭博电视的Nicole Sy报道称，英伟达正在调查首席执行官黄仁勋与一名叫Alice Huang的女性之间的婚外情。该女性被指疑似中国间谍，并曾在黄仁勋身边活动多年。报道未披露调查的具体进展、英伟达的官方回应或该事件对公司的潜在影响。",
+      "detail_en": "Bloomberg Television's Nicole Sy reports that Nvidia is investigating CEO Jensen Huang's affair with a woman named Alice Huang, who is alleged to be a Chinese spy and spent years in his orbit. The report does not provide details on the investigation's progress, Nvidia's official response, or potential impact on the company.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达正在调查CEO黄仁勋与Alice Huang的婚外情关系。",
+          "en": "Nvidia is investigating CEO Jensen Huang's affair with Alice Huang."
+        },
+        {
+          "zh": "Alice Huang被指疑似中国间谍，并曾在黄仁勋身边活动多年。",
+          "en": "Alice Huang is alleged to be a Chinese spy and spent years in Huang's orbit."
+        },
+        {
+          "zh": "报道未提供调查细节或英伟达的回应。",
+          "en": "The report provides no details on the investigation or Nvidia's response."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "espionage",
+        "investigation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:GHlZ3i6X-cY",
+      "title": "Nvidia Spying Probe Raises Thorny Questions For Its Rockstar CEO",
+      "title_zh": "英伟达调查黄仁勋与疑似中国间谍的绯闻",
+      "url": "https://www.youtube.com/watch?v=GHlZ3i6X-cY",
+      "published_at": "2026-11-09T21:26:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社报道，英伟达正调查CEO黄仁勋与一名疑似中国间谍的绯闻，此事对这位硅谷名人及整个AI行业具有重要影响。",
+      "summary_en": "Bloomberg reports that Nvidia is probing CEO Jensen Huang's affair with an alleged Chinese spy, a development with implications for the Silicon Valley celebrity and the broader AI industry.",
+      "detail_zh": "彭博社的Tom Mackenzie在视频中解释，英伟达正在调查其CEO黄仁勋与一名疑似中国间谍的绯闻。报道称，这一事件对硅谷最知名的名人之一黄仁勋而言是一个令人谦卑的时刻。Mackenzie进一步说明此事为何对整个AI行业具有重要意义。原文未提供调查细节、涉事方身份或具体影响机制。",
+      "detail_en": "Bloomberg's Tom Mackenzie explains in the video that Nvidia is investigating CEO Jensen Huang's affair with an alleged Chinese spy. The report describes this as a humbling moment for Huang, one of Silicon Valley's biggest celebrities. Mackenzie further explains why the matter matters to the entire AI industry. The original text does not provide details on the investigation, the identity of the parties involved, or the specific mechanisms of impact.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达正调查CEO黄仁勋与一名疑似中国间谍的绯闻。",
+          "en": "Nvidia is probing CEO Jensen Huang's affair with an alleged Chinese spy."
+        },
+        {
+          "zh": "此事被视为对硅谷名人黄仁勋的一个令人谦卑的时刻。",
+          "en": "The matter is described as a humbling moment for Huang, a Silicon Valley celebrity."
+        },
+        {
+          "zh": "彭博社的Tom Mackenzie解释此事为何对整个AI行业具有重要意义。",
+          "en": "Bloomberg's Tom Mackenzie explains why the matter matters to the entire AI industry."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "investigation",
+        "AI industry",
+        "China"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:C-W3lS1FCuE",
+      "title": "Apple Offers Disappointing Forecast | The Rundown",
+      "title_zh": "Anthropic巨额支出承诺与苹果展望引华尔街担忧",
+      "url": "https://www.youtube.com/watch?v=C-W3lS1FCuE",
+      "published_at": "2026-11-09T21:24:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic做出大规模支出承诺；华尔街对苹果展望存在不满。",
+      "summary_en": "Anthropic makes a massive spending commitment; Wall Street dislikes aspects of Apple's outlook.",
+      "detail_zh": "彭博科技播客《The Rundown》由Ed Ludlow主持，本期聚焦两大话题：Anthropic做出巨额支出承诺；以及华尔街对苹果展望的不满意之处。节目未披露支出承诺的具体金额、用途，也未说明华尔街对苹果展望不满的具体原因。",
+      "detail_en": "In this episode of Bloomberg Tech's \"The Rundown,\" hosted by Ed Ludlow, two topics are highlighted: Anthropic making a massive spending commitment, and what Wall Street doesn't like about Apple's outlook. No specific figures, purposes, or reasons are provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic做出巨额支出承诺",
+          "en": "Anthropic makes a massive spending commitment"
+        },
+        {
+          "zh": "华尔街对苹果展望存在不满",
+          "en": "Wall Street dislikes aspects of Apple's outlook"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Apple",
+        "Wall Street",
+        "tech"
+      ],
+      "tickers": [
+        "AAPL"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:xT5oc77kdMc",
+      "title": "Tengler Expects Nvidia CEO Huang to Stay in Job",
+      "title_zh": "Laffer Tengler CEO：黄仁勋婚外情曝光后英伟达股价跌幅有限，预计其将留任",
+      "url": "https://www.youtube.com/watch?v=xT5oc77kdMc",
+      "published_at": "2026-11-09T21:24:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Laffer Tengler Investments CEO兼CIO Nancy Tengler表示，英伟达CEO黄仁勋承认婚外情后，股价并未大幅下跌，这令她感到意外。她认为黄仁勋将挺过这一丑闻并保住职位。",
+      "summary_en": "Nancy Tengler, CEO and CIO of Laffer Tengler Investments, said she is surprised Nvidia's stock isn't trading much lower after CEO Jensen Huang admitted to an extramarital affair. She believes Huang will survive the scandal and hold onto his post.",
+      "detail_zh": "Laffer Tengler Investments CEO兼CIO Nancy Tengler在“Bloomberg Tech”节目中表示，英伟达CEO黄仁勋承认婚外情后，公司股价并未出现大幅下跌，这让她感到意外。Tengler认为，黄仁勋将能够挺过这一丑闻，并继续担任CEO职位。她未进一步阐述判断依据或对股价的具体影响。",
+      "detail_en": "Speaking on \"Bloomberg Tech,\" Nancy Tengler, CEO and CIO of Laffer Tengler Investments, said she is surprised that Nvidia's stock isn't trading much lower after CEO Jensen Huang admitted to an extramarital affair. Tengler said she believes Huang will survive the scandal and hold onto his post. She did not elaborate on the reasoning or specific stock impact.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Nancy Tengler对英伟达股价在黄仁勋承认婚外情后未大幅下跌感到意外。",
+          "en": "Nancy Tengler is surprised Nvidia's stock isn't trading much lower after Jensen Huang admitted to an extramarital affair."
+        },
+        {
+          "zh": "Tengler认为黄仁勋将挺过丑闻并保住CEO职位。",
+          "en": "Tengler believes Huang will survive the scandal and hold onto his post."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "management scandal",
+        "CEO succession"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:K8CEmkunumM",
+      "title": "Concentration Risk A 'Serious Issue': Rob Arnott",
+      "title_zh": "逢低买盘推动美股创4月以来最佳单日表现",
+      "url": "https://www.youtube.com/watch?v=K8CEmkunumM",
+      "published_at": "2026-11-09T21:23:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "新一轮逢低买盘推动美股创下自4月以来最佳单日表现，此前科技股抛售曾冲击华尔街；油价下跌也助推市场上涨。",
+      "summary_en": "A renewed wave of dip buying drove stocks toward their best day since April following a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell.",
+      "detail_zh": "原文指出，在经历了一轮冲击华尔街的科技股抛售之后，新一轮逢低买盘推动股市迈向自4月以来的最佳单日表现。市场同时因油价下跌而获得提振。节目嘉宾为Syzygy Asset Management董事长兼创始人Rob Arnott，但原文未提供其具体观点或评论内容。",
+      "detail_en": "The original text states that a renewed wave of dip buying drove stocks toward their best day since April in the wake of a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell. The guest was Rob Arnott, chairman and founder of Syzygy Asset Management, but the text does not include any specific views or comments from him.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "新一轮逢低买盘推动美股创4月以来最佳单日表现",
+          "en": "A renewed wave of dip buying drove stocks toward their best day since April"
+        },
+        {
+          "zh": "此前科技股抛售曾冲击华尔街",
+          "en": "The rally followed a technology selloff that roiled Wall Street"
+        },
+        {
+          "zh": "油价下跌也助推市场上涨",
+          "en": "The market also gained as oil prices fell"
+        },
+        {
+          "zh": "Syzygy Asset Management董事长兼创始人Rob Arnott参与节目，但原文未提及其具体观点",
+          "en": "Rob Arnott, chairman and founder of Syzygy Asset Management, appeared on the program, but the text does not include his specific views"
+        }
+      ],
+      "tags": [
+        "dip buying",
+        "tech selloff",
+        "oil prices",
+        "market rally"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:nFgmzKpujAA",
+      "title": "Labor Secretary Says Department Looking to 'Modernize' BLS Data",
+      "title_zh": "美劳工部长提名人关注就业数据波动与签证政策",
+      "url": "https://www.youtube.com/watch?v=nFgmzKpujAA",
+      "published_at": "2026-11-09T21:23:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国代理劳工部长Keith Sonderling表示，就业数据的剧烈波动导致公众对劳工部信息失去信任，他正寻求“现代化”这一流程。他还讨论了特朗普政府的外国工人签证政策，称该计划旨在吸引“最优秀、最聪明”的人才，但不应以牺牲美国工人利益为代价。",
+      "summary_en": "Acting US Labor Secretary Keith Sonderling said wild swings in jobs data make the public lose trust in the department's information and that he is looking to 'modernize' the process. He also discussed the Trump administration's foreign worker visa policy, saying the program targets the 'best and the brightest' but shouldn't come at the expense of American workers.",
+      "detail_zh": "美国代理劳工部长Keith Sonderling指出，就业数据的剧烈波动正在削弱公众对劳工部发布信息的信任，他表示正在寻求对相关流程进行“现代化”改革。此外，Sonderling讨论了特朗普政府的外国工人签证政策，他强调该签证计划的设计初衷是吸引“最优秀、最聪明”的人才，但这一政策不应损害美国工人的利益。",
+      "detail_en": "Acting US Labor Secretary Keith Sonderling said that wild swings in jobs data make the public lose trust in the information coming out of the department, and that he is looking to 'modernize' that process. Sonderling also discussed the Trump administration's foreign worker visa policy, saying that while the visa program is designed to target the 'best and the brightest,' it shouldn't come at the expense of American workers.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "代理劳工部长Sonderling承认就业数据剧烈波动导致公众信任流失。",
+          "en": "Acting Labor Secretary Sonderling acknowledged that wild swings in jobs data erode public trust."
+        },
+        {
+          "zh": "Sonderling正寻求对劳工部数据流程进行“现代化”改革。",
+          "en": "Sonderling is looking to 'modernize' the department's data process."
+        },
+        {
+          "zh": "特朗普政府的外国工人签证政策旨在吸引“最优秀、最聪明”的人才。",
+          "en": "The Trump administration's foreign worker visa policy aims to target the 'best and the brightest.'"
+        },
+        {
+          "zh": "Sonderling强调签证政策不应以牺牲美国工人利益为代价。",
+          "en": "Sonderling stressed the visa program shouldn't come at the expense of American workers."
+        }
+      ],
+      "tags": [
+        "jobs data",
+        "labor department",
+        "visa policy",
+        "trust",
+        "modernization"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Sy0oyx8ZwqY",
+      "title": "AMD Surges 13% as Wall Street Revives AI Chip Trade | Closing Bell",
+      "title_zh": "彭博电视美股收盘节目介绍",
+      "url": "https://www.youtube.com/watch?v=Sy0oyx8ZwqY",
+      "published_at": "2026-11-09T21:20:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视美股收盘节目的跨平台播出信息及社交媒体链接，未包含任何市场数据、观点或事件。",
+      "summary_en": "The original text is merely a program description and social media links for Bloomberg Television's U.S. market close coverage, with no market data, opinions, or events.",
+      "detail_zh": "原文介绍了由Vonnie Quinn、Scarlet Fu、Carol Massar和Tim Stenovec主持的彭博电视、广播及YouTube平台的美股收盘综合报道。内容主要为节目推广和社交媒体链接，未提供任何具体的市场分析、数据或投资观点。",
+      "detail_en": "The original text introduces Bloomberg Television, Radio, and YouTube's comprehensive coverage of the U.S. market close with Vonnie Quinn, Scarlet Fu, Carol Massar, and Tim Stenovec. It consists mainly of program promotion and social media links, without any specific market analysis, data, or investment views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视美股收盘节目的介绍和推广内容。",
+          "en": "The original text is an introduction and promotion for Bloomberg Television's U.S. market close program."
+        },
+        {
+          "zh": "节目由Vonnie Quinn、Scarlet Fu、Carol Massar和Tim Stenovec主持。",
+          "en": "The program is hosted by Vonnie Quinn, Scarlet Fu, Carol Massar, and Tim Stenovec."
+        },
+        {
+          "zh": "覆盖平台包括彭博电视、彭博广播和YouTube。",
+          "en": "Coverage spans Bloomberg Television, Bloomberg Radio, and YouTube."
+        },
+        {
+          "zh": "原文未包含任何市场数据、观点或事件。",
+          "en": "The original text contains no market data, opinions, or events."
+        }
+      ],
+      "tags": [
+        "Bloomberg",
+        "market close",
+        "TV program"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:pnwuD1FytEQ",
+      "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
+      "title_zh": "伯克希尔Q3回购96亿美元，保险承保业务下滑拖累运营利润",
+      "url": "https://www.youtube.com/watch?v=pnwuD1FytEQ",
+      "published_at": "2026-11-09T21:18:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "伯克希尔哈撒韦第三季度斥资约96亿美元回购自身股票，显示管理层认为股价被低估。但保险承保业务下滑拖累了运营利润，整体季度表现喜忧参半。",
+      "summary_en": "Berkshire Hathaway spent about $9.6 billion to buy back its own shares in the third quarter, a sign executives viewed the stock as undervalued. However, declining insurance underwriting weighed on operating earnings, making it a mixed quarter.",
+      "detail_zh": "伯克希尔哈撒韦在第三季度动用约96亿美元回购自家股票，这一规模表明公司管理层认为当前股价低于其内在价值。与此同时，保险承保业务的盈利出现下滑，对公司整体运营利润构成拖累。该季度业绩因此呈现喜忧参半的格局：回购彰显信心，但核心保险业务承压。彭博分析师Matthew Palazola就此进行了讨论。",
+      "detail_en": "Berkshire Hathaway spent about $9.6 billion to repurchase its own shares in the third quarter, a scale that indicates management viewed the stock as undervalued. At the same time, declining insurance underwriting earnings weighed on the company's overall operating earnings. The quarter was therefore mixed: the buyback signaled confidence, while the core insurance business faced pressure. Bloomberg's Matthew Palazola joined to discuss.",
+      "conclusion_zh": "回购规模凸显管理层对股价的信心，但保险承保疲软仍是运营利润的主要拖累，后续需关注承保周期变化。",
+      "conclusion_en": "The buyback scale highlights management's confidence in the stock, but weak insurance underwriting remains a key drag on operating earnings; watch underwriting cycle trends.",
+      "key_points": [
+        {
+          "zh": "伯克希尔Q3回购约96亿美元股票，显示管理层认为股价被低估。",
+          "en": "Berkshire repurchased about $9.6 billion of its own stock in Q3, signaling management viewed shares as undervalued."
+        },
+        {
+          "zh": "保险承保业务下滑拖累了公司运营利润。",
+          "en": "Declining insurance underwriting weighed on operating earnings."
+        },
+        {
+          "zh": "整体季度表现喜忧参半：回购积极，但核心业务承压。",
+          "en": "The quarter was mixed: buyback was positive, but the core business faced pressure."
+        }
+      ],
+      "tags": [
+        "Berkshire Hathaway",
+        "buyback",
+        "insurance underwriting",
+        "operating earnings"
+      ],
+      "tickers": [
+        "BRK.A",
+        "BRK.B"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fZM1K3iX3hE",
+      "title": "Who Could Replace Nvidia's CEO Jensen Huang?",
+      "title_zh": "若黄仁勋离职，英伟达继任者选择有限",
+      "url": "https://www.youtube.com/watch?v=fZM1K3iX3hE",
+      "published_at": "2026-11-09T21:08:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博行业研究的Mandeep Singh在Bloomberg Businessweek节目中表示，若英伟达CEO黄仁勋因与一名疑似中国间谍有染而辞职或被解雇，接替他的选择并不多。",
+      "summary_en": "Mandeep Singh of Bloomberg Intelligence said on Bloomberg Businessweek that if Nvidia CEO Jensen Huang steps down or is fired over an affair with an alleged Chinese spy, there are not many options to replace him.",
+      "detail_zh": "节目讨论了英伟达首席执行官黄仁勋可能因与一名疑似中国间谍有染而辞职或被解雇的假设情景。彭博行业研究的Mandeep Singh指出，在这种情况下，接替黄仁勋的人选并不多。原文未提供更多关于继任者候选或公司治理的细节。",
+      "detail_en": "The program discussed a hypothetical scenario in which Nvidia CEO Jensen Huang steps down or is fired for having an affair with an alleged Chinese spy. Mandeep Singh of Bloomberg Intelligence noted that there are not many options to replace Huang in such a case. The original text does not provide further details on successor candidates or corporate governance.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论假设情景：黄仁勋因与疑似中国间谍有染而辞职或被解雇。",
+          "en": "Discusses hypothetical scenario: Huang steps down or is fired over an affair with an alleged Chinese spy."
+        },
+        {
+          "zh": "彭博行业研究的Mandeep Singh表示继任者选择有限。",
+          "en": "Mandeep Singh of Bloomberg Intelligence says there are not many options for a replacement."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO succession",
+        "Jensen Huang",
+        "Bloomberg Intelligence"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:2hY9U6japv8",
       "title": "GoFundMe CEO: Fundraising for food jumped 50% in the US",
@@ -16584,931 +17274,6 @@
         "North Carolina",
         "election",
         "Senate race"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:bjiF2zcvy30",
-      "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-      "title_zh": "苹果第四财季营收超预期，但中国市场及iPad、可穿戴业务疲软",
-      "url": "https://www.youtube.com/watch?v=bjiF2zcvy30",
-      "published_at": "2026-11-02T22:58:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "苹果第四财季营收同比增长12%至1145亿美元，略超分析师预期的1135亿美元，但中国市场销售不及预期，iPad和可穿戴业务表现疲弱。iPhone业务保持强劲，整体增长较6月季度的16%有所放缓。",
-      "summary_en": "Apple's fiscal Q4 revenue rose 12% to $114.5 billion, narrowly beating analysts' $113.5 billion estimate, but sales in China fell short and iPad and wearables were weak. iPhone remained strong, while overall growth decelerated from 16% in the June quarter.",
-      "detail_zh": "苹果公布截至9月26日的第四财季业绩，营收同比增长12%至1145亿美元，高于分析师平均预期的1135亿美元。这是新任CEO John Ternus上任后的首份季报，结果喜忧参半。增长较6月季度的16%有所放缓，iPad和可穿戴业务表现尤其疲弱。但公司最大收入来源iPhone仍保持强劲。关键的中国市场销售未达预期。",
-      "detail_en": "Apple reported fiscal fourth-quarter revenue of $114.5 billion, up 12% year-over-year and above the $113.5 billion average analyst estimate, for the period ended Sept. 26. The first quarterly report under new CEO John Ternus offered a mixed picture: growth decelerated from 16% in the June quarter, iPad and wearables were particularly weak, and sales in the key Chinese market fell short of projections. However, the iPhone, the company's biggest moneymaker, remained strong.",
-      "conclusion_zh": "苹果业绩喜忧参半：营收超预期但增长放缓、中国市场及非iPhone硬件疲软，iPhone仍是核心支撑。",
-      "conclusion_en": "Apple's results were mixed: revenue beat but growth slowed, with China and non-iPhone hardware weak, while iPhone remains the key support.",
-      "key_points": [
-        {
-          "zh": "营收1145亿美元，同比增长12%，略超预期",
-          "en": "Revenue $114.5B, up 12% YoY, narrowly beat estimates"
-        },
-        {
-          "zh": "中国市场销售不及预期",
-          "en": "China sales fell short of projections"
-        },
-        {
-          "zh": "iPad和可穿戴业务表现疲弱",
-          "en": "iPad and wearables businesses were particularly weak"
-        },
-        {
-          "zh": "iPhone业务保持强劲",
-          "en": "iPhone remained strong"
-        },
-        {
-          "zh": "增长较6月季度的16%放缓",
-          "en": "Growth decelerated from 16% in the June quarter"
-        }
-      ],
-      "tags": [
-        "Apple",
-        "earnings",
-        "China",
-        "iPhone",
-        "wearables"
-      ],
-      "tickers": [
-        "AAPL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:LZASJBzAYjg",
-      "title": "iPhone Duo Sales To Hit 7M in 2026, Predicts IDC Sr. Director",
-      "title_zh": "IDC：iPhone出货量跑赢萎缩的智能手机市场",
-      "url": "https://www.youtube.com/watch?v=LZASJBzAYjg",
-      "published_at": "2026-11-02T22:58:04+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "IDC数据显示，日历三季度全球智能手机市场历史性下滑21%，而苹果iPhone出货量仅下降4%，跑赢大盘。IDC高管称苹果业绩超预期并不意外。",
-      "summary_en": "IDC data shows the global smartphone market suffered a historic 21% decline in calendar Q3, while Apple's iPhone shipments fell only 4%, outperforming the market. IDC's Nabila Popal said Apple's earnings beat was not surprising.",
-      "detail_zh": "IDC数据与分析高级总监Nabila Popal在彭博电视表示，苹果iPhone业绩超出分析师预期并不令人意外。IDC初步出货数据显示，日历三季度智能手机市场整体历史性下滑21%，而苹果iPhone出货量仅下降4%，表现显著优于大盘。Popal是在与Kailey Leinz和Ed Ludlow的节目交流中发表上述评论的。",
-      "detail_en": "IDC Senior Director of Data & Analytics Nabila Popal said on Bloomberg Television that Apple's iPhone results beating analyst expectations were not surprising. IDC's preliminary shipment data showed the overall smartphone market suffered a historic 21% decline in calendar Q3, while Apple's iPhone shipments fell only 4%, significantly outperforming the broader market. Popal made the comments in a conversation with Kailey Leinz and Ed Ludlow.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "IDC初步数据显示，日历三季度全球智能手机市场历史性下滑21%。",
-          "en": "IDC preliminary data shows the global smartphone market suffered a historic 21% decline in calendar Q3."
-        },
-        {
-          "zh": "同期苹果iPhone出货量仅下降4%，跑赢整体市场。",
-          "en": "Apple's iPhone shipments fell only 4% over the same period, outperforming the overall market."
-        },
-        {
-          "zh": "IDC高管称苹果业绩超预期并不令人意外。",
-          "en": "IDC's Popal said Apple's earnings beat was not surprising."
-        }
-      ],
-      "tags": [
-        "Apple",
-        "iPhone",
-        "smartphone market",
-        "IDC",
-        "shipments"
-      ],
-      "tickers": [
-        "AAPL"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:4nRyHk-v4yw",
-      "title": "Michigan Midterms, Apple Earnings & the Tech Selloff",
-      "title_zh": "Bloomberg The Close：市场轮动、AI交易与苹果财报",
-      "url": "https://www.youtube.com/watch?v=4nRyHk-v4yw",
-      "published_at": "2026-11-02T22:56:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目讨论了美股市场轮动、AI交易、密歇根经济与关税、底特律选民关注的可负担性与就业、通胀与美联储政策，以及苹果财报和AI战略。嘉宾涵盖策略师、经济学家、风投和行业分析师，提供了多角度观点。",
-      "summary_en": "This episode covers U.S. market rotation, the AI trade, Michigan's economy and tariffs, Detroit voters' concerns on affordability and jobs, inflation and the Fed, and Apple's earnings and AI strategy. Guests include strategists, economists, VCs, and industry analysts, offering diverse perspectives.",
-      "detail_zh": "节目首先由Edward Jones投资策略主管Mona Mahajan讨论市场轮动、AI和石油。随后，底特律地区商会总裁Sandy Baruah和North Rosedale Park Civic Association副总裁Eric Henry探讨密歇根经济、关税和参议院选举。底特律选民就负担能力、就业和中选表达看法。Sperling Economic Strategies总裁Gene Sperling分析通胀、美联储和负担能力。Detroit Future City CEO Anika Goss讨论就业和经济增长。Morgan Stanley Investment Management高级投资组合经理Andrew Slimmon分享科技轮动和AI交易观点。节目还涉及AI杠杆、数据中心和更高利率。收盘钟声后，讨论Palantir财报和科技股进入回调。M12管理合伙人Cheryl Cheng谈论AI初创企业、企业需求和ROI。随后讨论AI监管、初创企业和美中竞争。最后，节目预览苹果财报和消费者前景，苹果CEO John Ternus首次财报电话会议，苹果营收和iPhone销售超预期，以及苹果的AI战略、中国和资本支出展望，iPhone需求、中国和智能手机市场，iPhone 18 Pro、Duo和苹果产品策略，苹果的AI支出、现金流和大型科技公司优势，以及苹果财报回顾和中选。",
-      "detail_en": "The program begins with Edward Jones Head of Investment Strategy Mona Mahajan discussing market rotation, AI, and oil. Then, Detroit Regional Chamber President & CEO Sandy Baruah and North Rosedale Park Civic Association Vice President Eric Henry discuss Michigan's economy, tariffs, and the Senate race. Detroit voters share views on affordability, jobs, and the midterms. Sperling Economic Strategies President Gene Sperling analyzes inflation, the Fed, and affordability. Detroit Future City CEO Anika Goss discusses jobs and economic growth. Morgan Stanley Investment Management Senior Portfolio Manager Andrew Slimmon shares views on tech rotation and the AI trade. The program also covers AI leverage, data centers, and higher interest rates. After the closing bell, Palantir earnings and tech stocks entering correction are discussed. M12 Managing Partner Cheryl Cheng talks about AI startups, enterprise demand, and ROI. Then AI regulation, startups, and U.S.-China competition are discussed. Finally, the program previews Apple earnings and the consumer outlook, Apple CEO John Ternus's first earnings call, Apple's revenue and iPhone sales beating estimates, Apple's AI strategy, China, and capex outlook, iPhone demand, China, and the smartphone market, iPhone 18 Pro, Duo, and Apple's product strategy, Apple's AI spending, cash flow, and big tech advantage, and Apple earnings recap and midterms ahead.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Edward Jones的Mona Mahajan讨论了市场轮动、AI和石油。",
-          "en": "Edward Jones' Mona Mahajan discussed market rotation, AI, and oil."
-        },
-        {
-          "zh": "Morgan Stanley的Andrew Slimmon分享了科技轮动和AI交易的观点。",
-          "en": "Morgan Stanley's Andrew Slimmon shared views on tech rotation and the AI trade."
-        },
-        {
-          "zh": "苹果财报营收和iPhone销售超预期，CEO John Ternus首次财报电话会议。",
-          "en": "Apple's earnings revenue and iPhone sales beat estimates; CEO John Ternus's first earnings call."
-        },
-        {
-          "zh": "讨论涉及AI杠杆、数据中心和更高利率。",
-          "en": "Discussions covered AI leverage, data centers, and higher interest rates."
-        },
-        {
-          "zh": "Palantir财报和科技股进入回调被讨论。",
-          "en": "Palantir earnings and tech stocks entering correction were discussed."
-        }
-      ],
-      "tags": [
-        "market rotation",
-        "AI trade",
-        "Apple earnings",
-        "Michigan economy",
-        "Fed policy"
-      ],
-      "tickers": [
-        "PLTR",
-        "AAPL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:OUfYpCf5ktc",
-      "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
-      "title_zh": "美国航空安全调查人员：佛罗里达州里尔60型公务机坠毁前或已解体",
-      "url": "https://www.youtube.com/watch?v=OUfYpCf5ktc",
-      "published_at": "2026-11-02T22:55:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国航空安全调查人员表示，初步迹象显示周日于佛罗里达州棕榈滩坠毁的里尔60型公务机在撞击地面前已经解体，机上9人全部遇难，地面至少1人受伤。该事件为航空安全新闻，与美股投资无直接关联。",
-      "summary_en": "US air safety investigators said there are early indications that the Learjet 60 that crashed in Palm Beach, Florida, on Sunday had broken up before impacting the ground, killing all nine people on board and injuring at least one person on the ground. This is an aviation safety news item with no direct relevance to US equity investing.",
-      "detail_zh": "美国航空安全调查人员指出，初步迹象表明，周日于佛罗里达州棕榈滩坠毁的里尔60型公务机在撞击地面前已经解体。该事故导致机上9人全部遇难，地面至少1人受伤。原文未提供更多关于事故原因、涉事飞机运营方或调查进展的细节。该内容属于航空安全事件报道，不涉及金融市场、宏观经济或科技行业信息。",
-      "detail_en": "US air safety investigators said there are early indications that the Learjet 60 that crashed in Palm Beach, Florida, on Sunday had broken up before impacting the ground. The crash killed all nine people on board and injured at least one person on the ground. The source provides no further details on the cause, the operator of the aircraft, or the status of the investigation. This is an aviation safety news report and does not contain financial market, macroeconomic, or technology sector information.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "调查人员称有初步迹象显示里尔60型公务机在撞击地面前已解体",
-          "en": "Investigators said there are early indications the Learjet 60 had broken up before impacting the ground"
-        },
-        {
-          "zh": "事故发生于周日佛罗里达州棕榈滩",
-          "en": "The crash occurred on Sunday in Palm Beach, Florida"
-        },
-        {
-          "zh": "机上9人全部遇难，地面至少1人受伤",
-          "en": "All nine people on board were killed and at least one person on the ground was injured"
-        }
-      ],
-      "tags": [
-        "aviation safety",
-        "crash investigation",
-        "Learjet 60",
-        "Palm Beach"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:0gnj8gymxes",
-      "title": "Apple Looks Very Smart in Modest AI Spend: Tom Forte",
-      "title_zh": "Maxim分析师关注苹果12月季度iPhone销售及折叠机需求",
-      "url": "https://www.youtube.com/watch?v=0gnj8gymxes",
-      "published_at": "2026-11-02T22:45:19+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Maxim Group的Tom Forte表示，他特别关注苹果12月季度财报，届时新款iPhone对销售的影响将更清晰。他认为新iPhone双机型的初步需求强劲，并指出市场对折叠iPhone存在压抑已久的兴趣。",
-      "summary_en": "Tom Forte of Maxim Group says he is especially interested in Apple's December-quarter commentary, when the impact of the latest iPhones on sales will be clearer. He sees strong initial demand for the new iPhone duo and points to pent-up interest in a foldable iPhone.",
-      "detail_zh": "Maxim Group分析师Tom Forte在Bloomberg“The Close”节目中表示，他尤其关注苹果12月季度的评论，因为届时最新款iPhone机型将有更多时间影响销售。Forte称，新款iPhone双机型的初步需求看起来强劲。他还指出，在长时间等待后，市场对折叠iPhone存在压抑的兴趣。Forte是在与Kailey Leinz和Ed Ludlow的对话中发表上述观点的。",
-      "detail_en": "Maxim Group analyst Tom Forte said on Bloomberg's \"The Close\" that he is especially interested in commentary on the December quarter, when the latest iPhone models will have had more time to affect sales. Forte said initial demand for the new iPhone duo appears strong. He also pointed to pent-up interest in a foldable iPhone after a long wait. Forte made the comments in conversation with Kailey Leinz and Ed Ludlow.",
-      "conclusion_zh": "关注苹果12月季度财报，以验证新iPhone销售动能及折叠机潜在需求信号。",
-      "conclusion_en": "Watch Apple's December-quarter results to validate new iPhone sales momentum and potential foldable demand signals.",
-      "key_points": [
-        {
-          "zh": "Forte特别关注苹果12月季度，届时新款iPhone对销售的影响将更清晰。",
-          "en": "Forte is especially focused on Apple's December quarter, when the new iPhones' impact on sales will be clearer."
-        },
-        {
-          "zh": "他表示新款iPhone双机型的初步需求看起来强劲。",
-          "en": "He said initial demand for the new iPhone duo appears strong."
-        },
-        {
-          "zh": "他指出市场对折叠iPhone存在压抑已久的兴趣。",
-          "en": "He pointed to pent-up interest in a foldable iPhone after a long wait."
-        }
-      ],
-      "tags": [
-        "Apple",
-        "iPhone",
-        "foldable",
-        "demand"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:RmqTGwqnYD8",
-      "title": "Why are we letting a handful of billionaires dictate the terms of AI?",
-      "title_zh": "经济学家阿西莫格鲁呼吁媒体停止盲目报道科技巨头",
-      "url": "https://www.youtube.com/watch?v=RmqTGwqnYD8",
-      "published_at": "2026-11-02T22:44:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在Mishal Husain Show节目中，经济学家Daron Acemoglu指出媒体不应再盲目报道科技巨头。原文未提供具体论证细节或投资相关数据。",
-      "summary_en": "On The Mishal Husain Show, economist Daron Acemoglu argued that the press must stop covering tech giants so blindly. The source provides no further detail on his reasoning or investment-relevant data.",
-      "detail_zh": "原文仅提及经济学家Daron Acemoglu在The Mishal Husain Show节目中表示，媒体必须停止对科技巨头进行盲目报道。除此之外，原文未展开其具体论点、论据、涉及的公司名称、数据或政策建议，也未讨论对市场或投资的影响。其余内容均为Bloomberg的社交媒体与视频订阅引导信息，不构成实质新闻或分析。",
-      "detail_en": "The source only states that economist Daron Acemoglu, appearing on The Mishal Husain Show, said the press must stop covering tech giants so blindly. It does not elaborate on his arguments, evidence, specific companies, data, or policy recommendations, nor does it discuss market or investment implications. The remainder consists of Bloomberg social media and subscription prompts, with no substantive news or analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "经济学家Daron Acemoglu在The Mishal Husain Show上批评媒体对科技巨头的报道方式。",
-          "en": "Economist Daron Acemoglu criticized the press's coverage of tech giants on The Mishal Husain Show."
-        },
-        {
-          "zh": "其核心主张是媒体应停止盲目报道科技巨头。",
-          "en": "His core assertion is that the press must stop covering tech giants so blindly."
-        },
-        {
-          "zh": "原文未提供具体论证、数据或投资相关细节。",
-          "en": "The source provides no specific arguments, data, or investment-relevant details."
-        }
-      ],
-      "tags": [
-        "tech giants",
-        "media coverage",
-        "Daron Acemoglu",
-        "regulation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Kogl3YMGTOM",
-      "title": "Power On: How Will a Touchscreen MacBook Impact the iPad?",
-      "title_zh": "苹果触屏MacBook Pro是否将蚕食iPad市场？",
-      "url": "https://www.youtube.com/watch?v=Kogl3YMGTOM",
-      "published_at": "2026-11-02T22:44:36+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在Power On播客中，彭博社的Mark Gurman和Chris Welch讨论了苹果新款触屏MacBook Pro是否会与自家iPad形成竞争。核心议题是产品线内部重叠的风险。",
-      "summary_en": "On the Power On podcast, Bloomberg's Mark Gurman and Chris Welch discuss whether Apple's new touch-screen MacBook Pro will compete with its own iPad. The core issue is the risk of internal product line overlap.",
-      "detail_zh": "本期Power On播客聚焦苹果产品战略。主持人Mark Gurman与Chris Welch探讨了苹果新推出的触屏MacBook Pro是否可能侵蚀iPad的市场。讨论围绕产品线内部竞争展开，即触屏MacBook Pro与iPad在功能和定位上可能出现的重叠。原文未提供具体销量数据、价格或发布时间等细节，仅提出这一竞争性问题供讨论。",
-      "detail_en": "This episode of the Power On podcast focuses on Apple's product strategy. Hosts Mark Gurman and Chris Welch discuss whether Apple's new touch-screen MacBook Pro could cannibalize the iPad market. The discussion centers on internal product line competition, specifically the potential overlap in functionality and positioning between the touch-screen MacBook Pro and the iPad. The original text does not provide specific sales data, pricing, or release timing details; it only raises this competitive question for discussion.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "讨论主题：触屏MacBook Pro是否将消除iPad的市场。",
-          "en": "Discussion topic: whether a touch-screen MacBook Pro will eliminate the market for the iPad."
-        },
-        {
-          "zh": "参与讨论者：彭博社的Mark Gurman和Chris Welch。",
-          "en": "Participants: Bloomberg's Mark Gurman and Chris Welch."
-        },
-        {
-          "zh": "核心关切：苹果新产品可能与其自身iPad产品线形成竞争。",
-          "en": "Core concern: Apple's new product may compete with its own iPad product line."
-        }
-      ],
-      "tags": [
-        "Apple",
-        "iPad",
-        "MacBook",
-        "product strategy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:a2ST5ScajkI",
-      "title": "Ed Yardeni Is Sticking to his Year-End Call of 7,900 for the S&P 500",
-      "title_zh": "Yardeni：AI焦虑将持续，但标普500年底仍看7900点",
-      "url": "https://www.youtube.com/watch?v=a2ST5ScajkI",
-      "published_at": "2026-11-02T22:43:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Yardeni Research的Edward Yardeni表示，投资者对AI的焦虑将延续至万圣节之后，但他仍坚持标普500指数年底将达到7900点的预测。",
-      "summary_en": "Edward Yardeni of Yardeni Research expects investor anxiety about AI to persist beyond Halloween, but he still forecasts the S&P 500 will reach 7,900 by year-end.",
-      "detail_zh": "Yardeni Research的Edward Yardeni在彭博电视节目中表示，他预计投资者对人工智能（AI）的焦虑情绪将持续到万圣节之后。尽管如此，他仍然维持对标普500指数的乐观预测，认为该指数将在年底前达到7900点。原文未提供更多关于焦虑来源、市场逻辑或风险因素的细节。",
-      "detail_en": "Edward Yardeni of Yardeni Research said on Bloomberg Television that he expects investor anxiety about AI to persist beyond Halloween. Despite this, he maintained his optimistic forecast that the S&P 500 will hit 7,900 by year-end. The original text does not provide further details on the sources of anxiety, market logic, or risk factors.",
-      "conclusion_zh": "Yardeni认为AI焦虑情绪短期难消，但并未改变其对标普500年底7900点的乐观目标。",
-      "conclusion_en": "Yardeni believes AI-related anxiety will linger, but this does not change his optimistic year-end target of 7,900 for the S&P 500.",
-      "key_points": [
-        {
-          "zh": "Yardeni预计投资者对AI的焦虑将持续到万圣节之后。",
-          "en": "Yardeni expects investor anxiety about AI to persist beyond Halloween."
-        },
-        {
-          "zh": "他仍坚持标普500指数年底将达到7900点的预测。",
-          "en": "He still maintains his forecast that the S&P 500 will reach 7,900 by year-end."
-        }
-      ],
-      "tags": [
-        "AI anxiety",
-        "S&P 500 forecast",
-        "Yardeni",
-        "market outlook"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:jxob3qecioo",
-      "title": "US Midterm Election: Iowa Becomes Real Test for Trump and GOP",
-      "title_zh": "特朗普力图保住艾奥瓦州，参议员选情胶着",
-      "url": "https://www.youtube.com/watch?v=jxob3qecioo",
-      "published_at": "2026-11-02T22:36:38+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普寻求维持艾奥瓦州的共和党控制权。参议员候选人Ashley Hinson在接替退休共和党参议员Joni Ernst的席位上面临激烈竞争。此外还有州长选举和可能决定国会控制权的多场众议院选战。",
-      "summary_en": "President Donald Trump is looking to keep Iowa under Republican control. Senate candidate Ashley Hinson is in a tight race to hold the seat of retiring GOP Senator Joni Ernst. There is also an open governor's race and several House battles that could determine control of Congress.",
-      "detail_zh": "据彭博的Skylar Woodhouse从得梅因报道，特朗普正试图让艾奥瓦州继续由共和党掌控。参议员候选人Ashley Hinson正在激烈竞争中争取保住退休共和党参议员Joni Ernst的席位。此外，该州还有一场州长选举，以及多场可能决定国会控制权的众议院选战。报道未提供更多关于民调、政策立场或市场影响的具体细节。",
-      "detail_en": "Bloomberg's Skylar Woodhouse reports from Des Moines that President Donald Trump is looking to keep Iowa in Republican control. Senate candidate Ashley Hinson is in a tight race to hold on to retiring GOP Senator Joni Ernst's seat. There is also an open governor's race and several House battles that could determine control of Congress. The report does not provide further details on polling, policy positions, or market implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普寻求维持艾奥瓦州的共和党控制权。",
-          "en": "Trump is looking to keep Iowa in Republican control."
-        },
-        {
-          "zh": "参议员候选人Ashley Hinson在接替退休共和党参议员Joni Ernst的席位上面临激烈竞争。",
-          "en": "Senate candidate Ashley Hinson is in a tight race to hold retiring GOP Senator Joni Ernst's seat."
-        },
-        {
-          "zh": "艾奥瓦州还有一场州长选举。",
-          "en": "There is also an open governor's race in Iowa."
-        },
-        {
-          "zh": "多场众议院选战可能决定国会控制权。",
-          "en": "Several House battles could determine control of Congress."
-        }
-      ],
-      "tags": [
-        "Iowa",
-        "elections",
-        "Senate",
-        "House",
-        "Trump"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:NbQsAncGqRo",
-      "title": "How Binance’s $6 Billion Crypto Heist Unfolded",
-      "title_zh": "币安遭黑客攻击，净流出36亿美元",
-      "url": "https://www.youtube.com/watch?v=NbQsAncGqRo",
-      "published_at": "2026-11-02T22:29:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "10月底，黑客从加密货币交易所币安窃取超过60亿美元。币安在攻击后披露净流出36亿美元，并计划分阶段恢复客户提款。市场关注加密行业对此事件的反应。",
-      "summary_en": "In late October, hackers stole more than $6 billion from crypto exchange Binance. Binance disclosed $3.6 billion in net outflows after the cyber theft and plans to resume customer withdrawals in phases. All eyes are on how the crypto industry reacts to this latest breach.",
-      "detail_zh": "10月底，黑客从加密货币交易所币安窃取超过60亿美元。币安在应对此次攻击时，披露了36亿美元的净流出，并计划分阶段恢复客户提款。事件引发市场对加密行业如何应对此次最新安全漏洞的关注。原文未提供更多关于攻击细节、资金追回情况或对美股的具体影响。",
-      "detail_en": "In late October, hackers siphoned off more than $6 billion from crypto exchange Binance. As the company scrambles to respond, it disclosed $3.6 billion in net outflows and plans to resume customer withdrawals in phases after the hack. The incident has drawn attention to how the crypto industry reacts to this latest breach. The original text does not provide further details on the attack, fund recovery, or specific impact on US equities.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "黑客从币安窃取超过60亿美元。",
-          "en": "Hackers stole more than $6 billion from Binance."
-        },
-        {
-          "zh": "币安披露攻击后净流出36亿美元。",
-          "en": "Binance disclosed $3.6 billion in net outflows after the cyber theft."
-        },
-        {
-          "zh": "币安计划分阶段恢复客户提款。",
-          "en": "Binance plans to resume customer withdrawals in phases."
-        },
-        {
-          "zh": "市场关注加密行业对此次漏洞的反应。",
-          "en": "All eyes are on how the crypto industry reacts to this latest breach."
-        }
-      ],
-      "tags": [
-        "Binance",
-        "crypto hack",
-        "outflows",
-        "withdrawals"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:dkq_O7dcAps",
-      "title": "El-Sayed Rival Splits for Rogers",
-      "title_zh": "彭博《权力平衡》选举日前瞻：市场因伊朗外交油价下跌，聚焦中期选举与科技股",
-      "url": "https://www.youtube.com/watch?v=dkq_O7dcAps",
-      "published_at": "2026-11-02T22:27:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在选举日前的《权力平衡》节目中，彭博华盛顿记者讨论了最终论点，嘉宾包括前共和党议员和民主党议员等。节目涵盖市场因伊朗外交油价下跌而上涨、中期选举展望、关键众议院和参议院选情，以及苹果财报和AI交易。",
-      "summary_en": "On the early edition of Balance of Power ahead of Election Day, Bloomberg Washington correspondents discussed final arguments with guests including a former Republican congressman and a Democratic congresswoman. The show covered markets rallying as oil plunged on Iran diplomacy, midterm election outlooks, key House and Senate races, and Apple earnings and the AI trade.",
-      "detail_zh": "节目由彭博华盛顿记者Joe Mathieu和Kailey Leinz主持，嘉宾包括前共和党国会议员Patrick McHenry、民主党国会女议员Suzan DelBene、Stonecourt Capital合伙人Rick Davis、哈佛肯尼迪学院Ash中心访问民主研究员Jeanne Sheehan Zaino以及锡耶纳研究所主任Don Levy。讨论围绕选举日前的最终论点展开。市场方面，因伊朗外交进展导致油价暴跌，市场出现反弹。节目还涉及特朗普的闭幕信息、密歇根参议院竞选及Haley Stevens的背书、密歇根民调与共和党投票率、民主党中期选举前景、关键众议院席位、佛罗里达成为战场、特朗普选举前夕的信息、市场与苹果财报及AI交易、最终中期民调与战场州、德克萨斯参议院竞选收紧、堪萨斯成为参议院战场，以及缅因、阿拉斯加和参议院争夺战。",
-      "detail_en": "The program was hosted by Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz, with guests including former Republican Congressman Patrick McHenry, Democratic Congresswoman Suzan DelBene, Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino, and Siena Research Institute Director Don Levy. Discussions centered on final arguments ahead of Election Day. Markets rallied as oil plunged on Iran diplomacy. The show also covered Trump's closing message, the Michigan Senate race and Haley Stevens endorsement, Michigan polling and Republican turnout, Democrats' midterm outlook, key House races, Florida as a battleground, Trump's election eve message, markets and Apple earnings and the AI trade, final midterm polls and battleground states, the Texas Senate race tightening, Kansas as a Senate battleground, and Maine, Alaska and the fight for the Senate.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "市场因伊朗外交进展导致油价暴跌而反弹。",
-          "en": "Markets rallied as oil plunged on Iran diplomacy."
-        },
-        {
-          "zh": "节目讨论了选举日前的最终论点，嘉宾包括两党前议员和策略师。",
-          "en": "The show discussed final arguments ahead of Election Day with guests including former lawmakers and strategists from both parties."
-        },
-        {
-          "zh": "中期选举展望聚焦关键众议院和参议院选情，包括密歇根、德克萨斯、堪萨斯、缅因和阿拉斯加。",
-          "en": "Midterm outlook focused on key House and Senate races, including Michigan, Texas, Kansas, Maine, and Alaska."
-        },
-        {
-          "zh": "苹果财报和AI交易是市场讨论的一部分。",
-          "en": "Apple earnings and the AI trade were part of the market discussion."
-        }
-      ],
-      "tags": [
-        "Election Day",
-        "Midterms",
-        "Oil",
-        "Iran Diplomacy",
-        "Apple Earnings"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:wvfRg-hbO5g",
-      "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
-      "title_zh": "苹果第四财季销售放缓但超预期，中国区收入不及预期",
-      "url": "https://www.youtube.com/watch?v=wvfRg-hbO5g",
-      "published_at": "2026-11-02T21:58:34+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "苹果第四财季销售放缓但仍超出市场预期，中国区收入未达预期。这是John Ternus出任CEO后的首份财报。",
-      "summary_en": "Apple reported slowing sales in its fiscal fourth quarter but still beat estimates. Revenue from China missed expectations. This is the first earnings report under CEO John Ternus.",
-      "detail_zh": "苹果公司公布第四财季业绩，销售出现放缓，但整体营收仍超出市场预期。其中，来自中国市场的收入未达到预期。这是John Ternus担任首席执行官后发布的首份财报。彭博的Ed Ludlow和Mark Gurman对此进行了报道。",
-      "detail_en": "Apple reported fiscal fourth-quarter results, with sales slowing but overall revenue still beating estimates. Revenue from China missed expectations. This is the first earnings report released under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman reported.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "苹果第四财季销售放缓，但营收超出预期。",
-          "en": "Apple's fiscal Q4 sales slowed, but revenue beat estimates."
-        },
-        {
-          "zh": "中国区收入未达预期。",
-          "en": "Revenue from China missed expectations."
-        },
-        {
-          "zh": "这是John Ternus出任CEO后的首份财报。",
-          "en": "This is the first earnings report under CEO John Ternus."
-        }
-      ],
-      "tags": [
-        "Apple",
-        "earnings",
-        "China revenue",
-        "CEO transition"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:CPR9NvWL-xg",
-      "title": "How Founders Can Unlock Liquidity",
-      "title_zh": "企业家如何解锁流动性：以集中持股为抵押的借贷策略",
-      "url": "https://www.youtube.com/watch?v=CPR9NvWL-xg",
-      "published_at": "2026-11-02T21:47:34+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "摩根士丹利播客探讨企业家Kelsey面临集中持股导致的流动性困境，其财务顾问Ara提出以资产抵押获取信贷额度而非出售持股的解决方案，并讨论了现金管理、交换基金和主题投资（如氦气）的配置逻辑。",
-      "summary_en": "A Morgan Stanley podcast discusses entrepreneur Kelsey's liquidity crunch from concentrated stock, with advisor Ara proposing a collateralized line of credit instead of selling shares, while covering cash management, exchange funds, and thesis-based investments like helium.",
-      "detail_zh": "Kelsey Falter在大学期间创立科技公司，融资超200万美元并登上福布斯30 Under 30科技榜，四年后出售公司，但部分补偿为私营公司股票，缺乏流动性。她正筹建AI公司Mother.tech，需要运营资金，同时希望将财富投入自己的业务和投资。其财务顾问Ara指出，创始人常面临选择：出售资产支付资本利得税以获取现金，或以资产抵押获得信贷额度。Ara举例说明，若持有100万美元的多元化投资组合，摩根士丹利可能允许借出60%至80%的价值，即约60万美元，次日可电汇至运营账户。Ara建议优先使用储蓄账户中收益约3%的现金进行投资，再以资产抵押借贷，从而避免现金短缺。Kelsey目前有近六位数现金在储蓄账户，对黄金股和氦气主题投资感兴趣，并考虑为女儿做遗产规划。",
-      "detail_en": "Kelsey Falter founded a tech company in college, raised over $2 million, and landed on Forbes 30 Under 30 in tech; she sold the startup four years later, but part of the compensation was stock in a private company with no market for liquidity. She is building an AI company called Mother.tech and needs operating capital while wanting to put her wealth to work in her business and investments. Her financial advisor Ara notes that founders often face the choice of selling assets and paying capital gains tax to create cash, or using assets as collateral for a line of credit. Ara gives a hypothetical: with a $1 million diversified portfolio, Morgan Stanley might lend 60% to 80% of the value, or about $600,000, which can be wired to an operating account the next day. Ara suggests using cash in a savings account earning about 3% first, then borrowing against assets to avoid being cash poor. Kelsey currently has just under six figures in a savings account, is interested in gold stocks and a helium thesis investment, and is considering legacy planning for her daughter.",
-      "conclusion_zh": "对于持有集中头寸的企业家，以资产抵押获取信贷额度可在避免触发资本利得税的同时解锁流动性，但需评估自身风险承受能力。",
-      "conclusion_en": "For entrepreneurs with concentrated positions, collateralized lines of credit can unlock liquidity without triggering capital gains tax, but risk tolerance must be assessed.",
-      "key_points": [
-        {
-          "zh": "创始人常面临集中持股导致的流动性问题，出售资产需缴纳资本利得税，而抵押借贷可提供替代方案。",
-          "en": "Founders often face liquidity issues from concentrated stock; selling triggers capital gains tax, while collateralized borrowing offers an alternative."
-        },
-        {
-          "zh": "摩根士丹利可能允许借出多元化投资组合价值的60%至80%，资金可快速到账用于运营。",
-          "en": "Morgan Stanley may lend 60% to 80% of a diversified portfolio's value, with funds quickly available for operations."
-        },
-        {
-          "zh": "顾问建议优先使用储蓄账户中收益约3%的现金进行投资，再以资产抵押借贷，以优化流动性。",
-          "en": "The advisor suggests using cash in a savings account earning about 3% first, then borrowing against assets to optimize liquidity."
-        },
-        {
-          "zh": "Kelsey采用主题投资策略，包括氦气（用于AI发展）和黄金股，并考虑遗产规划。",
-          "en": "Kelsey uses thesis-based investing, including helium (for AI development) and gold stocks, and is considering legacy planning."
-        }
-      ],
-      "tags": [
-        "liquidity",
-        "concentrated stock",
-        "collateralized lending",
-        "exchange funds",
-        "thesis investing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lEJ1VhyaKA4",
-      "title": "How Can You Own Anthropic Before It Goes Public",
-      "title_zh": "Anthropic 10月26日提交IPO申请，拟募资规模对标SpaceX",
-      "url": "https://www.youtube.com/watch?v=lEJ1VhyaKA4",
-      "published_at": "2026-11-02T21:41:05+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Anthropic于10月26日提交IPO申请，计划在感恩节前完成上市。据知情人士透露，其募资目标为达到或超过SpaceX在上市中募集的862亿美元。",
-      "summary_en": "Anthropic filed for an IPO on Oct. 26, with the listing set to take place before Thanksgiving. People familiar with the matter said Anthropic is seeking to meet or exceed the $86.2 billion raised by SpaceX in its debut.",
-      "detail_zh": "据彭博电视节目“Bloomberg ETF IQ”报道，Anthropic已于10月26日提交IPO申请，上市计划安排在感恩节之前完成。知情人士表示，Anthropic此次IPO的募资目标为达到或超过SpaceX在其上市首秀中募集的862亿美元。节目嘉宾为CEF Advisors总裁兼首席投资官John Cole Scott，主持人为Scarlet Fu与Eric Balchunas。原文未披露Anthropic的具体估值、发行价区间、承销商或财务数据。",
-      "detail_en": "According to a report on Bloomberg Television's \"Bloomberg ETF IQ,\" Anthropic filed for an IPO on Oct. 26, with the listing scheduled to take place before Thanksgiving. People familiar with the matter said Anthropic is seeking to raise an amount that meets or exceeds the $86.2 billion raised by SpaceX in its debut. The segment featured John Cole Scott, president and CIO of CEF Advisors, with hosts Scarlet Fu and Eric Balchunas. The source did not disclose Anthropic's specific valuation, price range, underwriters, or financial data.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Anthropic于10月26日提交IPO申请，计划感恩节前上市。",
-          "en": "Anthropic filed for an IPO on Oct. 26 and plans to list before Thanksgiving."
-        },
-        {
-          "zh": "知情人士称，Anthropic寻求达到或超过SpaceX上市募集的862亿美元。",
-          "en": "People familiar said Anthropic seeks to meet or exceed the $86.2 billion raised by SpaceX in its debut."
-        },
-        {
-          "zh": "该消息在彭博电视“Bloomberg ETF IQ”节目中播出，嘉宾为CEF Advisors的John Cole Scott。",
-          "en": "The news was discussed on Bloomberg TV's \"Bloomberg ETF IQ\" with guest John Cole Scott of CEF Advisors."
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "SpaceX",
-        "AI"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:bTcwc383YD0",
-      "title": "Dems, GOP Make Final Pitch Ahead of Midterm Election Day",
-      "title_zh": "麦亨利：共和党现任议员面临选区压力，参议院多数取决于战场州投票",
-      "url": "https://www.youtube.com/watch?v=bTcwc383YD0",
-      "published_at": "2026-11-02T21:40:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前北卡罗来纳州众议员帕特里克·麦亨利表示，随着选民对共和党的情绪在选举日前变得“相当糟糕”，共和党现任议员在各自选区面临巨大压力。参议院多数席位将取决于选举日选民在势均力敌的战场州的投票情况。",
-      "summary_en": "Former North Carolina Representative Patrick McHenry said there is significant pressure on GOP incumbents in their districts as voters' feelings turn 'quite sour' on the Republican Party ahead of Election Day. He noted that the Senate majority hinges on how Election Day voters cast ballots in close battleground races.",
-      "detail_zh": "前北卡罗来纳州众议员、彭博撰稿人帕特里克·麦亨利指出，在选举日临近之际，选民对共和党的情绪变得“相当糟糕”，这给共和党现任议员在各自选区带来了巨大压力。麦亨利表示，参议院多数席位的归属取决于选举日选民在势均力敌的战场州的投票方式。原文未提供具体民调数字、选区名称或对市场的影响分析。",
-      "detail_en": "Former North Carolina Representative and Bloomberg contributor Patrick McHenry stated that voters' feelings have turned 'quite sour' on the Republican Party leading into Election Day, creating significant pressure on GOP incumbents to perform in their districts. McHenry said the Senate majority rests on how Election Day voters cast their ballots in close battleground races. The source does not provide specific polling numbers, district names, or market impact analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "麦亨利称选民对共和党的情绪在选举日前变得“相当糟糕”。",
-          "en": "McHenry said voters' feelings have turned 'quite sour' on the Republican Party leading into Election Day."
-        },
-        {
-          "zh": "共和党现任议员在各自选区面临巨大压力。",
-          "en": "There is a lot of pressure on GOP incumbents to perform in their districts."
-        },
-        {
-          "zh": "参议院多数取决于选举日选民在势均力敌的战场州的投票情况。",
-          "en": "The Senate majority rests on how Election Day voters cast their ballots in close battleground races."
-        }
-      ],
-      "tags": [
-        "election",
-        "GOP",
-        "Senate",
-        "battleground"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lJh6Gatbllg",
-      "title": "'No Moderates Left' in GOP Says DCCC Chair Suzan DelBene",
-      "title_zh": "民主党竞选委员会主席称共和党已无温和派，中期选举聚焦肯塔基第六选区",
-      "url": "https://www.youtube.com/watch?v=lJh6Gatbllg",
-      "published_at": "2026-11-02T21:40:46+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党国会竞选委员会主席DelBene表示共和党内已无温和派，民主党寻求在周二晚翻转关键共和党选区并夺取国会控制权。她指出肯塔基州第六国会选区的结果将是民主党中期选举表现的早期指标。",
-      "summary_en": "Representative Suzan DelBene, chair of the Democrats' congressional campaign committee, said there are 'no moderates left' in the Republican party as Democrats aim to flip key GOP-held districts and take control of Congress on Tuesday night. She cited Kentucky's 6th Congressional District as an early indicator of Democratic performance.",
-      "detail_zh": "民主党国会竞选委员会主席、众议员Suzan DelBene表示，共和党内已无温和派，民主党正寻求在周二晚翻转全国关键共和党选区并夺取国会控制权。DelBene指出，肯塔基州第六国会选区的投票结果将是判断民主党中期选举表现的一个早期指标，该选区投票将在当晚结束。原文未提供更多政策细节或市场影响分析。",
-      "detail_en": "Representative Suzan DelBene, chair of the Democrats' congressional campaign committee, said there are 'no moderates left' in the Republican party as Democrats look to flip key GOP-held districts across the country Tuesday night and take control of Congress. DelBene said an early indication of how Democrats are faring in the midterms will be the results in Kentucky's 6th Congressional District, where polls close in the night. The source provides no further policy details or market impact analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党竞选委员会主席DelBene称共和党内已无温和派。",
-          "en": "Democratic campaign committee chair DelBene said there are 'no moderates left' in the Republican party."
-        },
-        {
-          "zh": "民主党目标是在周二晚翻转关键共和党选区并夺取国会控制权。",
-          "en": "Democrats aim to flip key GOP-held districts and take control of Congress on Tuesday night."
-        },
-        {
-          "zh": "肯塔基州第六国会选区结果被视为民主党中期选举表现的早期指标。",
-          "en": "Kentucky's 6th Congressional District results are seen as an early indicator of Democratic midterm performance."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "congress",
-        "democrats",
-        "republicans",
-        "elections"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:SgE2gzHw0PE",
-      "title": "NYC Marathon Winner Andreas Almgren on Debut Victory",
-      "title_zh": "纽约马拉松冠军阿尔姆格伦访谈",
-      "url": "https://www.youtube.com/watch?v=SgE2gzHw0PE",
-      "published_at": "2026-11-02T21:40:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "纽约马拉松男子冠军安德烈亚斯·阿尔姆格伦在夺冠后接受彭博社采访，讨论了他的胜利、夺冠心态以及未来路径。内容不涉及金融市场或美股。",
-      "summary_en": "Men's winner Andreas Almgren sat down with Bloomberg's Randall Williams after his debut victory in the New York City Marathon to discuss his win, the mindset behind it, and his path forward. The content does not involve financial markets or US equities.",
-      "detail_zh": "原文仅简要报道了安德烈亚斯·阿尔姆格伦在纽约马拉松首秀中夺冠后接受彭博社兰德尔·威廉姆斯采访的消息。采访内容涉及他的胜利、夺冠心态以及未来前进方向，但未提供任何具体细节、数字或引述。其余内容为彭博社电视与市场的推广链接和社交媒体信息，与投资无关。",
-      "detail_en": "The original text only briefly reports that Andreas Almgren, the men's winner in his debut New York City Marathon, sat down with Bloomberg's Randall Williams to discuss his victory, the mindset behind winning, and his path forward. No specific details, numbers, or quotes from the interview are provided. The rest is promotional content for Bloomberg Television and Markets and social media links, unrelated to investing.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "安德烈亚斯·阿尔姆格伦在纽约马拉松首秀中夺冠。",
-          "en": "Andreas Almgren won the New York City Marathon in his debut."
-        },
-        {
-          "zh": "他赛后接受了彭博社兰德尔·威廉姆斯的采访。",
-          "en": "He was interviewed by Bloomberg's Randall Williams after the race."
-        },
-        {
-          "zh": "采访话题包括胜利、夺冠心态和未来路径。",
-          "en": "The interview covered his victory, winning mindset, and path forward."
-        },
-        {
-          "zh": "原文未提供采访的具体内容或引述。",
-          "en": "The original text does not provide specific content or quotes from the interview."
-        }
-      ],
-      "tags": [
-        "sports",
-        "marathon",
-        "interview"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:fDgTEGVyyUU",
-      "title": "Trump Delivers Final Midterm Message at Lincoln Memorial Reflecting Pool",
-      "title_zh": "特朗普中期选举最后拉票，提及伊朗协议可能性",
-      "url": "https://www.youtube.com/watch?v=fDgTEGVyyUU",
-      "published_at": "2026-11-02T21:40:35+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普在林肯纪念堂前发表中期选举最后拉票演讲，聚焦纪念碑翻新并抨击民主党候选人。他同时表示与伊朗的协议“可能发生”，而选民正评估战争对中期选举的影响。",
-      "summary_en": "President Trump delivered his final midterm pitch at the Lincoln Memorial, focusing on the monument's refurbishment and attacking Democratic candidates. He also said a deal with Iran 'could happen' as voters weigh the war's impact on the midterms.",
-      "detail_zh": "特朗普在林肯纪念堂前的倒影池发表中期选举前的最后拉票演讲。演讲重点包括纪念碑的翻新工程，并对周二选举中的民主党候选人进行猛烈抨击。特朗普还表示，与伊朗的协议“可能发生”。当前选民正在评估战争对其中期选举投票的影响。",
-      "detail_en": "Trump gave his final midterm election pitch in front of the reflecting pool at the Lincoln Memorial. He focused on the refurbishment of the monument and railed against the Democrat candidates up for election on Tuesday. Trump also said that a deal with Iran 'could happen.' Voters are currently weighing the impact of the war on their midterm ballots.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普在林肯纪念堂前发表中期选举最后拉票演讲。",
-          "en": "Trump delivered his final midterm pitch at the Lincoln Memorial."
-        },
-        {
-          "zh": "演讲聚焦纪念碑翻新，并抨击周二选举中的民主党候选人。",
-          "en": "He focused on the monument's refurbishment and attacked Democratic candidates up for election on Tuesday."
-        },
-        {
-          "zh": "特朗普表示与伊朗的协议“可能发生”。",
-          "en": "Trump said a deal with Iran 'could happen.'"
-        },
-        {
-          "zh": "选民正在评估战争对中期选举投票的影响。",
-          "en": "Voters are weighing the impact of the war on their midterm ballots."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "Trump",
-        "Iran",
-        "election"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:WwZy02KV41E",
-      "title": "Ryanair CEO O'Leary on Cost Savings, Fuel Prices, Higher Fares",
-      "title_zh": "瑞安航空CEO：明年燃油成本增20亿欧元，将削减成本并预警票价上涨",
-      "url": "https://www.youtube.com/watch?v=WwZy02KV41E",
-      "published_at": "2026-11-02T21:26:21+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "瑞安航空CEO Michael O'Leary表示，为抵消明年燃油费用增加20亿欧元（22亿美元）的影响，公司将进行成本削减。他建议消费者尽早预订明年夏季航班，因为票价将显著上涨。",
-      "summary_en": "Ryanair CEO Michael O'Leary said the airline will embark on a cost purge to offset a €2 billion ($2.2 billion) increase in fuel charges next year. He advised consumers to book early for next summer because prices are going to rise significantly.",
-      "detail_zh": "瑞安航空CEO Michael O'Leary在彭博电视采访中表示，公司明年将面临燃油费用增加20亿欧元（约22亿美元）的压力。为应对这一成本上升，瑞安航空将启动一项成本削减计划。O'Leary同时向消费者建议，应尽早预订明年夏季的航班，因为票价将显著上涨。",
-      "detail_en": "Ryanair CEO Michael O'Leary, speaking on Bloomberg Television, said the airline will face a €2 billion ($2.2 billion) increase in fuel charges next year. To help offset this, Ryanair will embark on a cost purge. O'Leary advised consumers to book early for next summer because prices are going to rise significantly.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "瑞安航空明年燃油费用将增加20亿欧元（22亿美元）。",
-          "en": "Ryanair faces a €2 billion ($2.2 billion) increase in fuel charges next year."
-        },
-        {
-          "zh": "公司将通过成本削减来部分抵消燃油成本上升。",
-          "en": "The airline will embark on a cost purge to help offset the higher fuel costs."
-        },
-        {
-          "zh": "CEO建议消费者尽早预订明年夏季航班，因票价将显著上涨。",
-          "en": "The CEO advises consumers to book early for next summer because prices are going to rise significantly."
-        }
-      ],
-      "tags": [
-        "Ryanair",
-        "fuel costs",
-        "airline",
-        "pricing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:KcdNVLT1LDA",
-      "title": "Currie Sees Permanent 'Regime Shift' in Oil Market",
-      "title_zh": "Jeff Currie：实物石油市场正定价能源“体制转变”",
-      "url": "https://www.youtube.com/watch?v=KcdNVLT1LDA",
-      "published_at": "2026-11-02T21:26:11+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Real Macro 创始人 Jeff Currie 表示，实物石油市场正在定价能源市场的永久性“体制转变”。他指出，布伦特远期合约价格接近每桶 99 美元，而真正的驱动因素并非近期冲突，而是对系统性能源安全和冗余的激进推动。",
-      "summary_en": "Jeff Currie, CEO and founder of Real Macro, says physical oil is pricing in a permanent \"regime shift\" in energy markets. He notes that long-dated Brent contracts are close to $99 a barrel, and the true driver is not near-term conflict but an aggressive push toward system-wide energy security and redundancy.",
-      "detail_zh": "Jeff Currie 在阿布扎比 Adipec 会议上对 Bloomberg 的 Abeer Abu Omar 表示，实物石油市场正在定价能源市场的永久性“体制转变”。他指出，布伦特远期合约价格接近每桶 99 美元。Currie 强调，真正的驱动因素并非近期冲突，而是对系统性能源安全和冗余的激进推动。",
-      "detail_en": "Speaking to Bloomberg's Abeer Abu Omar at the Adipec conference in Abu Dhabi, Jeff Currie said physical oil is pricing in a permanent \"regime shift\" in energy markets. He pointed out that long-dated Brent contracts are close to $99 a barrel. Currie stressed that the true driver is not near-term conflict, but an aggressive push toward system-wide energy security and redundancy.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "实物石油市场正在定价能源市场的永久性“体制转变”。",
-          "en": "Physical oil is pricing in a permanent \"regime shift\" in energy markets."
-        },
-        {
-          "zh": "布伦特远期合约价格接近每桶 99 美元。",
-          "en": "Long-dated Brent contracts are close to $99 a barrel."
-        },
-        {
-          "zh": "真正的驱动因素并非近期冲突，而是对系统性能源安全和冗余的激进推动。",
-          "en": "The true driver is not near-term conflict, but an aggressive push toward system-wide energy security and redundancy."
-        }
-      ],
-      "tags": [
-        "oil",
-        "energy",
-        "regime shift",
-        "Brent",
-        "energy security"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:8PP21d0nEsY",
-      "title": "Yardeni Says Bond Vigilantes Are Allocating Credit Properly",
-      "title_zh": "Yardeni：AI交易放缓对股债均有利，维持标普500年终目标",
-      "url": "https://www.youtube.com/watch?v=8PP21d0nEsY",
-      "published_at": "2026-11-02T21:25:55+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Yardeni Research总裁Edward Yardeni表示，AI交易的放缓对股票和债券都是好事，并维持其对标普500指数的年终目标。",
-      "summary_en": "Edward Yardeni, president of Yardeni Research, says the slowdown in the AI trade is a good thing for both stocks and bonds, and he maintains his year-end target for the S&P 500.",
-      "detail_zh": "Yardeni Research总裁Edward Yardeni在彭博电视上表示，AI交易的放缓对股票和债券市场都是有利的。他同时表示，维持其对标普500指数的年终目标不变。原文未提供具体目标点位、放缓原因或详细逻辑。",
-      "detail_en": "Edward Yardeni, president of Yardeni Research, said on Bloomberg Television that the slowdown in the AI trade is a good thing for both stocks and bonds. He also said he is holding to his year-end target for the S&P 500. The original text does not provide the specific target level, the reasons for the slowdown, or detailed reasoning.",
-      "conclusion_zh": "Yardeni认为AI交易放缓对股债市场是积极信号，并维持标普500年终目标，暗示其对美股前景仍持建设性态度。",
-      "conclusion_en": "Yardeni views the AI trade slowdown as a positive signal for both stocks and bonds, and maintains his S&P 500 year-end target, suggesting a constructive stance on U.S. equities.",
-      "key_points": [
-        {
-          "zh": "Yardeni认为AI交易放缓对股票和债券均有利。",
-          "en": "Yardeni believes the slowdown in the AI trade is good for both stocks and bonds."
-        },
-        {
-          "zh": "Yardeni维持对标普500指数的年终目标。",
-          "en": "Yardeni holds to his year-end target for the S&P 500."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "S&P 500",
-        "market outlook"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:nd5FKsEM0Zg",
-      "title": "Bridgit Mendler on building the ground network for space",
-      "title_zh": "Northwood Space CEO：地面基础设施未跟上太空创新步伐",
-      "url": "https://www.youtube.com/watch?v=nd5FKsEM0Zg",
-      "published_at": "2026-11-02T21:16:41+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Northwood Space CEO Bridgit Mendler 指出，太空产业创新迅速，但地面基础设施未能同步发展。该公司正在构建端到端地面基础设施和软件定义网络，以连接低地球轨道卫星与地球，目前已在九个国家部署站点。",
-      "summary_en": "Northwood Space CEO Bridgit Mendler says ground infrastructure hasn't kept pace with innovation in the space industry. The company is building end-to-end ground infrastructure and software-defined networks to connect satellites in low Earth orbit with Earth, with sites currently being deployed across nine countries.",
-      "detail_zh": "Northwood Space CEO Bridgit Mendler 表示，太空行业创新不断，但地面基础设施的发展未能跟上步伐。该公司致力于构建端到端的地面基础设施和软件定义网络，旨在连接低地球轨道（LEO）卫星与地球。目前，Northwood Space 正在九个国家部署相关站点。",
-      "detail_en": "Northwood Space CEO Bridgit Mendler says ground infrastructure hasn't kept pace with innovation in the space industry. The company is building end-to-end ground infrastructure and software-defined networks to connect satellites in low Earth orbit with Earth. Sites are currently being deployed across nine countries.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Northwood Space CEO 指出地面基础设施未跟上太空创新。",
-          "en": "Northwood Space CEO says ground infrastructure hasn't kept pace with space innovation."
-        },
-        {
-          "zh": "公司构建端到端地面基础设施和软件定义网络，连接低轨卫星与地球。",
-          "en": "The company builds end-to-end ground infrastructure and software-defined networks to connect LEO satellites with Earth."
-        },
-        {
-          "zh": "站点正在九个国家部署。",
-          "en": "Sites are being deployed across nine countries."
-        }
-      ],
-      "tags": [
-        "space",
-        "satellite",
-        "infrastructure",
-        "networking"
       ],
       "tickers": [],
       "sentiment": "neutral"
