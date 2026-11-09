@@ -1,6 +1,185 @@
 {
-  "generated_at": "2026-11-09T05:14:50.030715+00:00",
+  "generated_at": "2026-11-09T06:29:13.886385+00:00",
   "insights": [
+    {
+      "guid": "yt:4zzpPkAnBlQ",
+      "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
+      "title_zh": "英伟达董事会调查黄仁勋绯闻，间谍调查增添科技股反弹变数",
+      "url": "https://www.youtube.com/watch?v=4zzpPkAnBlQ",
+      "published_at": "2026-11-09T05:23:29+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博《亚洲交易》节目聚焦英伟达董事会就黄仁勋个人事务展开调查，以及相关间谍调查对科技股反弹的影响。节目还涵盖瑞银CEO对AI建设不确定性的看法、日本市场情绪、新西兰选举结果及比亚迪中东扩张等议题。",
+      "summary_en": "Bloomberg's The Asia Trade focuses on Nvidia's board probing Jensen Huang's affair and how an espionage probe adds a wrinkle to the tech rebound. The program also covers UBS CEO's views on AI buildout uncertainty, Japan market sentiment, New Zealand election results, and BYD's Middle East expansion.",
+      "detail_zh": "本期彭博《亚洲交易》节目首先报道英伟达董事会正就CEO黄仁勋的绯闻展开调查，亚洲市场可能因此承压。随后，瑞银CEO塞尔吉奥·埃尔莫蒂在独家采访中谈及AI建设面临的不确定性。节目还讨论了日本市场情绪与盈利情况（Amundi日本公司的石原弘美）、新西兰选举结果（梅西大学的理查德·肖），以及交易员对AI交易前景的考量。瑞穗证券亚洲的肖恩·达比就中期选举后的AI担忧发表看法，特朗普表示黄仁勋应继续担任英伟达CEO。此外，节目还包含对瑞银澳大利亚业务战略、地缘政治 futures 的乔治·弗里德曼关于英伟达间谍调查与美中战略的独家采访，以及比亚迪的李柯关于中东扩张的独家采访。最后提到英伟达间谍调查给科技股反弹增添变数，以及中国脱口秀喜剧 popularity 上升。",
+      "detail_en": "Bloomberg's The Asia Trade begins with a report that Nvidia's board is probing CEO Jensen Huang's affair, with Asian markets at risk of pressure from the probe. UBS CEO Sergio Ermotti discusses uncertainty around the AI buildout in an exclusive interview. The program also covers Japan market sentiment and earnings with Amundi Japan's Hiromi Ishihara, New Zealand election results with Massey University's Richard Shaw, and traders mulling the outlook for the AI trade. Mizuho Securities Asia's Sean Darby comments on post-midterms AI concerns, and Trump says Huang should stay on as Nvidia CEO. Additionally, there are exclusive interviews with UBS' Greg Peirce on Australia business strategy, Geopolitical Futures' George Friedman on the Nvidia spying probe and US-China strategy, and BYD's Stella Li on Middle East expansion. The segment notes that the Nvidia espionage probe adds a wrinkle to tech's rebound, and stand-up comedy's popularity grows in China.",
+      "conclusion_zh": "英伟达相关调查可能对科技股反弹构成短期扰动，投资者需关注AI交易情绪变化。",
+      "conclusion_en": "Nvidia-related probes may pose short-term disturbances to the tech rebound, and investors should watch shifts in AI trade sentiment.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会正就CEO黄仁勋的绯闻展开调查，亚洲市场可能因此承压。",
+          "en": "Nvidia's board is probing CEO Jensen Huang's affair, with Asian markets at risk of pressure from the probe."
+        },
+        {
+          "zh": "瑞银CEO埃尔莫蒂在独家采访中谈及AI建设的不确定性。",
+          "en": "UBS CEO Ermotti discusses uncertainty around the AI buildout in an exclusive interview."
+        },
+        {
+          "zh": "特朗普表示黄仁勋应继续担任英伟达CEO。",
+          "en": "Trump says Huang should stay on as Nvidia CEO."
+        },
+        {
+          "zh": "英伟达间谍调查给科技股反弹增添变数。",
+          "en": "The Nvidia espionage probe adds a wrinkle to tech's rebound."
+        },
+        {
+          "zh": "节目还涵盖日本市场情绪、新西兰选举、比亚迪中东扩张等议题。",
+          "en": "The program also covers Japan market sentiment, New Zealand elections, and BYD's Middle East expansion."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI",
+        "tech rebound",
+        "espionage probe",
+        "Asia markets"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:e-uRd_CS48c",
+      "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
+      "title_zh": "彭博《中国秀》节目要点：英伟达董事会调查间谍案、中国PPI加速、汇丰下调中国股市至中性",
+      "url": "https://www.youtube.com/watch?v=e-uRd_CS48c",
+      "published_at": "2026-11-09T04:54:56+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博《中国秀》涵盖多项议题：英伟达董事会就间谍案展开调查且CEO承认婚外情；中国生产者通胀以2022年6月以来最快速度加速；摩根士丹利邢自强与NF Trinity的Helen Zhu分别就中国经济和AI交易发表看法；汇丰将中国股市下调至中性、将印度上调至超配。",
+      "summary_en": "This episode of Bloomberg The China Show covers several topics: Nvidia's board probes a spying case as the CEO admits an affair; Chinese producer inflation accelerates at the fastest pace since June 2022; Morgan Stanley's Robin Xing and NF Trinity's Helen Zhu discuss China's economy and the AI trade respectively; HSBC lowers China stocks to neutral and boosts India to overweight.",
+      "detail_zh": "节目首先报道英伟达董事会正就一起间谍案展开调查，同时CEO承认婚外情。NF Trinity的Helen Zhu就AI交易及市场发表观点。宏观方面，中国生产者通胀以2022年6月以来最快速度加速。摩根士丹利邢自强讨论中国经济。汇丰将中国股市评级下调至中性，同时将印度上调至超配。瑞银集团Ermotti谈论AI的长期前景。作者Mehran Gul讨论中美AI技术竞赛。约翰霍普金斯大学的Elly Rostoum就英伟达间谍调查发表看法。节目最后聚焦中国坏账催收者追讨1亿违约者。",
+      "detail_en": "The program first reports that Nvidia's board is investigating a spying case while the CEO admits an affair. NF Trinity's Helen Zhu shares views on the AI trade and markets. On the macro front, Chinese producer inflation accelerates at the fastest pace since June 2022. Morgan Stanley's Robin Xing discusses China's economy. HSBC downgrades China stocks to neutral while upgrading India to overweight. UBS Group's Ermotti talks about AI's long-term prospects. Author Mehran Gul discusses the China-US AI tech race. Johns Hopkins University's Elly Rostoum comments on the Nvidia spying probe. The show concludes with a Big Take on China's bad-debt collectors chasing 100 million defaulters.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达董事会就间谍案展开调查，CEO承认婚外情",
+          "en": "Nvidia's board probes a spying case as the CEO admits an affair"
+        },
+        {
+          "zh": "中国生产者通胀以2022年6月以来最快速度加速",
+          "en": "Chinese producer inflation accelerates at the fastest pace since June 2022"
+        },
+        {
+          "zh": "汇丰将中国股市下调至中性，将印度上调至超配",
+          "en": "HSBC lowers China stocks to neutral and boosts India to overweight"
+        },
+        {
+          "zh": "摩根士丹利邢自强与NF Trinity的Helen Zhu分别讨论中国经济与AI交易",
+          "en": "Morgan Stanley's Robin Xing and NF Trinity's Helen Zhu discuss China's economy and the AI trade"
+        },
+        {
+          "zh": "瑞银Ermotti谈AI长期前景；Mehran Gul谈中美AI技术竞赛",
+          "en": "UBS's Ermotti on AI's long-term prospects; Mehran Gul on the China-US AI tech race"
+        }
+      ],
+      "tags": [
+        "China",
+        "Nvidia",
+        "AI",
+        "PPI",
+        "HSBC"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Vn85vaALt3w",
+      "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
+      "title_zh": "英伟达CEO黄仁勋承认婚外情，配合董事会独立调查",
+      "url": "https://www.youtube.com/watch?v=Vn85vaALt3w",
+      "published_at": "2026-11-09T02:18:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋承认婚外情，并表示正全面配合独立董事会调查。此前美国情报机构怀疑一名女高管被中国情报机构招募。",
+      "summary_en": "Nvidia CEO Jensen Huang has admitted to an extramarital relationship and says he is cooperating fully with an independent board investigation. The inquiry follows US intelligence suspicions that a female executive was recruited by a Chinese intelligence agency.",
+      "detail_zh": "英伟达公司首席执行官黄仁勋承认发生婚外情，并表示正全面配合独立董事会调查。此次调查源于美国情报机构的怀疑，即一名女高管被中国情报机构招募。黄仁勋的表态是在承认婚外情后作出的。原文未提供更多关于调查范围、涉事女高管身份或潜在后果的细节。",
+      "detail_en": "Nvidia Corp. CEO Jensen Huang has admitted to an extramarital relationship and stated he is cooperating fully with an independent board investigation. The inquiry follows suspicions by US intelligence that a female executive was recruited by a Chinese intelligence agency. Huang's statement came after admitting the relationship. The source does not provide further details on the scope of the investigation, the identity of the female executive, or potential consequences.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋承认婚外情，并配合独立董事会调查。",
+          "en": "Jensen Huang admitted to an extramarital relationship and is cooperating with an independent board investigation."
+        },
+        {
+          "zh": "调查源于美国情报机构怀疑一名女高管被中国情报机构招募。",
+          "en": "The investigation stems from US intelligence suspicions that a female executive was recruited by a Chinese intelligence agency."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "board investigation",
+        "China intelligence",
+        "executive misconduct"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:w-qWtVt2prU",
+      "title": "Trump Backs Nvidia CEO After He Admits Affair",
+      "title_zh": "特朗普称黄仁勋是“好人”，应继续担任英伟达CEO",
+      "url": "https://www.youtube.com/watch?v=w-qWtVt2prU",
+      "published_at": "2026-11-09T02:18:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统公开表示黄仁勋是“好人”，并认为他应继续担任英伟达CEO。此前黄仁勋承认与一名疑似中国间谍有婚外情。",
+      "summary_en": "President Trump called Jensen Huang a \"fine person\" and said he should remain CEO of Nvidia after Huang admitted to an affair with a suspected Chinese spy.",
+      "detail_zh": "特朗普总统对英伟达CEO黄仁勋给予正面评价，称其为“好人”，并表示黄仁勋应该继续担任英伟达首席执行官。这一表态发生在黄仁勋承认与一名疑似中国间谍有婚外情之后。报道未提供更多关于事件背景、调查细节或市场反应的细节。",
+      "detail_en": "President Donald Trump called Nvidia CEO Jensen Huang a \"fine person\" and said he should stay on as chief executive officer. This comes after Huang admitted having an affair with a suspected Chinese spy. The report does not provide further details on the context, investigation, or market reaction.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普称黄仁勋是“好人”，应继续担任英伟达CEO。",
+          "en": "Trump called Jensen Huang a \"fine person\" and said he should remain Nvidia CEO."
+        },
+        {
+          "zh": "此前黄仁勋承认与一名疑似中国间谍有婚外情。",
+          "en": "Huang had admitted to an affair with a suspected Chinese spy."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Trump",
+        "China spy"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:H7aJIEohvrE",
       "title": "Is the U.S. Dollar Setting Up for Historic Money Printing?",
@@ -17134,91 +17313,6 @@
         "Howard Marks",
         "market sentiment",
         "bubble"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:jp1bYfdXzQs",
-      "title": "Gulf States Push for US-Iran Diplomatic Off-Ramp",
-      "title_zh": "海湾国家担忧美以再袭伊朗，特朗普排除中期选举前动武",
-      "url": "https://www.youtube.com/watch?v=jp1bYfdXzQs",
-      "published_at": "2026-11-02T06:17:33+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "海湾国家担心美国与以色列对伊朗的再次打击可能引发更具破坏性的地区战争。美国总统特朗普已排除在周二美国中期选举前发动新一轮打击的可能性。",
-      "summary_en": "Gulf states fear that another US-Israeli attack on Iran could trigger a more destructive regional war. US President Donald Trump has ruled out fresh strikes before Tuesday's US midterm elections.",
-      "detail_zh": "据彭博社的Onur Ant报道，海湾国家担忧美国与以色列对伊朗的又一次攻击可能在整个地区引发更具破坏性的战争。美国总统特朗普已明确表示，在周二美国中期选举之前不会发动新的打击。报道未提供更多关于军事部署、外交斡旋或市场影响的细节。",
-      "detail_en": "According to Bloomberg's Onur Ant, Gulf states fear that another US-Israeli attack on Iran could unleash an even more destructive war across the region. US President Donald Trump has ruled out fresh strikes before Tuesday's US midterm elections. The report does not provide further details on military deployments, diplomatic efforts, or market implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "海湾国家担心美以再次打击伊朗可能引发更具破坏性的地区战争。",
-          "en": "Gulf states fear another US-Israeli attack on Iran could unleash a more destructive regional war."
-        },
-        {
-          "zh": "特朗普排除在周二美国中期选举前发动新一轮打击。",
-          "en": "Trump has ruled out fresh strikes before Tuesday's US midterm elections."
-        }
-      ],
-      "tags": [
-        "Iran",
-        "Gulf states",
-        "US midterms",
-        "geopolitical risk"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3wyPZg3wt74",
-      "title": "Asia's Traders Weigh Tech Selloff, US Midterms",
-      "title_zh": "彭博亚洲交易：科技股抛售引发波动关注，富士康谈AI需求",
-      "url": "https://www.youtube.com/watch?v=3wyPZg3wt74",
-      "published_at": "2026-11-02T05:37:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博亚洲交易节目聚焦科技股抛售引发的市场波动警惕，富士康董事长谈AI需求与支出，Kioxia警告闪存价格停滞，美国中期选举使亚洲AI交易受关注。",
-      "summary_en": "Bloomberg: The Asia Trade highlights market volatility watch amid a tech rout, Foxconn Chairman on AI demand and spending, Kioxia's warning on stalling flash memory prices, and US midterms putting Asia's AI trade on watch.",
-      "detail_zh": "节目首先关注科技股抛售使市场处于波动警惕状态。地缘方面，伊朗准备应对美国和以色列的新一轮打击。Kioxia警告闪存价格在第三季度指引不及预期后停滞。富士康董事长刘扬伟讨论AI需求与支出，并与OpenAI的合作。Westpac利润下滑1%至48亿美元，不及预期。高盛的Bruce Kirk分享日本股市策略。日本NTT的Mihoko Matsubara讨论日本网络攻击激增。美国中期选举使亚洲AI交易受到关注，特朗普表示若民主党赢得中期选举，他可能成为“否决先生”。独家采访中，UBS全球财富管理的Amy Lo谈业务前景与亚洲投资；Capital Group副董事长Jody Jonsson谈亚洲战略及阿布扎比FSRA牌照。标普全球发布10月工厂活动指标。有报道称中国将召开支持股市的会议。彭博情报称到2030年中国将在17项战略技术中的8项领先。",
-      "detail_en": "The program begins with a tech rout putting markets on volatility watch. Geopolitically, Iran braces for renewed US-Israeli strikes. Kioxia warns flash memory prices are stalling after a 3Q guidance miss. Foxconn Chairman Young Liu discusses AI demand and spending, and partnership with OpenAI. Westpac profit slips 1% to $4.8B, missing estimates. Goldman Sachs' Bruce Kirk shares Japan equity strategy. NTT's Mihoko Matsubara discusses Japan's cyberattack surge. US midterms put Asia's AI trade on watch, with Trump saying he may become 'Mr. Veto' if Democrats win midterms. In exclusive interviews, UBS Global Wealth Management's Amy Lo talks business outlook and investing in Asia; Capital Group Vice Chair Jody Jonsson discusses Asia strategy and FSRA license in Abu Dhabi. S&P Global releases Oct. factory activity gauges. Reports say China to convene meeting on supporting stock market. Bloomberg Intelligence says China to lead 8 of 17 strategic technologies by 2030.",
-      "conclusion_zh": "科技股波动与AI需求信号交织，关注富士康对AI支出的表述及亚洲AI交易在美中期选举前的风险敞口。",
-      "conclusion_en": "Tech volatility and AI demand signals intertwine; watch Foxconn's AI spending commentary and Asia's AI trade exposure ahead of US midterms.",
-      "key_points": [
-        {
-          "zh": "科技股抛售使市场处于波动警惕状态",
-          "en": "Tech rout puts markets on volatility watch"
-        },
-        {
-          "zh": "Kioxia警告闪存价格在第三季度指引不及预期后停滞",
-          "en": "Kioxia warns flash memory prices stalling after 3Q guidance miss"
-        },
-        {
-          "zh": "富士康董事长刘扬伟讨论AI需求、支出及与OpenAI的合作",
-          "en": "Foxconn Chairman Young Liu discusses AI demand, spending, and OpenAI partnership"
-        },
-        {
-          "zh": "美国中期选举使亚洲AI交易受到关注",
-          "en": "US midterms put Asia's AI trade on watch"
-        },
-        {
-          "zh": "有报道称中国将召开支持股市的会议",
-          "en": "Reports: China to convene meeting on supporting stock market"
-        }
-      ],
-      "tags": [
-        "tech-rout",
-        "AI-demand",
-        "flash-memory",
-        "US-midterms",
-        "China-stock-market"
       ],
       "tickers": [],
       "sentiment": "neutral"
