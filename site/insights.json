@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-09T09:19:13.100985+00:00",
+  "generated_at": "2026-11-09T10:14:28.342073+00:00",
   "insights": [
+    {
+      "guid": "yt:_Juu7PVH9T0",
+      "title": "This Is How New York City Takes Out Its Trash | Odd Lots",
+      "title_zh": "纽约市垃圾革命：每日2400万磅垃圾的物流挑战与容器化转型",
+      "url": "https://www.youtube.com/watch?v=_Juu7PVH9T0",
+      "published_at": "2026-11-09T09:10:05+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "纽约市 sanitation 部门每天处理2400万磅垃圾，被称为“最后免费无限服务”。该部门副专员 Joshua Goodman 在 Odd Lots 播客中表示，垃圾收集并非政治中立，而是需要大量规划。纽约正推进“垃圾革命”，包括容器化等改革，以改变850万居民与垃圾的关系。",
+      "summary_en": "New York City's Department of Sanitation processes 24 million pounds of trash daily, described as the 'last free unlimited service.' Deputy Commissioner Joshua Goodman said on the Odd Lots podcast that trash collection is not apolitical and requires extensive planning. NYC is undergoing a 'trash revolution,' including containerization, to transform the relationship between 8.5 million residents and waste.",
+      "detail_zh": "纽约市 sanitation 部门副专员 Joshua Goodman 在 Odd Lots 播客中介绍，该部门每天收集、处理并运出2400万磅垃圾、回收物和可堆肥材料。他将此称为定义性的“西西弗斯式”任务，因为每天都要重复且永无止境。Goodman 反驳了“垃圾收集无关政治”的说法，认为这一庞大公共空间物流计划必然受意识形态影响，尽管可能不涉及党派性。他指出，纽约的垃圾服务是“最后免费无限服务”：无需注册、无需选择加入、无经济状况调查，居民把垃圾放出去，部门就会来收。过去几十年，来自巴塞罗那、布宜诺斯艾利斯、巴黎、伦敦甚至芝加哥和洛杉矶的人常问纽约人“为什么你们这样生活”，而纽约的回答曾是“你们试过贝果吗？我们的披萨更好”。最近四五年，纽约开始通过“垃圾革命”认真应对挑战，重新构想850万纽约人与每日2400万磅垃圾的关系，涉及街道景观重新设计、数据分析、跨部门合作等。",
+      "detail_en": "Joshua Goodman, Deputy Commissioner at New York City's Department of Sanitation, said on the Odd Lots podcast that the department collects, processes, and exports 24 million pounds of trash, recycling, and compostable material every day. He called it a definitionally Sisyphean task because it repeats endlessly. Goodman pushed back on the idea that trash collection is apolitical, arguing that an enormous public space logistical initiative is inevitably colored by ideology, though perhaps not partisanship. He noted that NYC's trash service is the 'last free unlimited service': no signup, no opt-in, no means test—residents put it out and the department picks it up. For decades, visitors from Barcelona, Buenos Aires, Paris, London, even Chicago and LA, asked why New Yorkers live like this, and the answer used to be 'have you tried a bagel? We have better pizza.' In the last four or five years, NYC has begun addressing these challenges through a 'trash revolution,' a complete reimagining of the relationship that 8.5 million New Yorkers have with 24 million pounds of trash a day, involving streetscape redesign, data analysis, and cross-agency work.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "纽约市 sanitation 部门每天处理2400万磅垃圾、回收物和可堆肥材料，任务永无止境。",
+          "en": "NYC's Department of Sanitation processes 24 million pounds of trash, recycling, and compostable material every day, an endless task."
+        },
+        {
+          "zh": "副专员 Joshua Goodman 认为垃圾收集并非政治中立，庞大公共空间物流计划必然受意识形态影响。",
+          "en": "Deputy Commissioner Joshua Goodman argues trash collection is not apolitical; a massive public space logistical initiative is inevitably colored by ideology."
+        },
+        {
+          "zh": "纽约垃圾服务是“最后免费无限服务”：无需注册、无经济状况调查，居民放出去就收。",
+          "en": "NYC trash service is the 'last free unlimited service': no signup, no means test; residents put it out and it gets picked up."
+        },
+        {
+          "zh": "纽约正推进“垃圾革命”，重新构想850万居民与每日2400万磅垃圾的关系，包括容器化等改革。",
+          "en": "NYC is pursuing a 'trash revolution' to reimagine the relationship between 8.5 million residents and 24 million pounds of daily trash, including containerization."
+        }
+      ],
+      "tags": [
+        "NYC sanitation",
+        "waste management",
+        "logistics",
+        "containerization"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:pBg0YN3wsA0",
       "title": "AI Turbulence to Keep on Running: Market Analysis",
@@ -17160,100 +17204,6 @@
         "AI capex",
         "midterms",
         "liquidity"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:9bZcR-ekuds",
-      "title": "Midterm Elections 2026: Democrat Feud Erupts in Michigan",
-      "title_zh": "密歇根州民主党参议员初选落败者转而支持共和党候选人",
-      "url": "https://www.youtube.com/watch?v=9bZcR-ekuds",
-      "published_at": "2026-11-02T10:02:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在密歇根州美国参议院民主党初选中落败的众议员 Haley Stevens 转而支持共和党候选人 Mike Rogers，此举与民主党提名人 Abdul El-Sayed 决裂，并加剧了进步派与温和派之间的分裂。",
-      "summary_en": "Representative Haley Stevens, who lost the Democratic primary for Michigan's US Senate seat, backed Republican candidate Mike Rogers, breaking with Democratic nominee Abdul El-Sayed and exacerbating a split between progressives and moderate party members.",
-      "detail_zh": "据彭博社的 Oliver Crook 从纽约报道，众议员 Haley Stevens 在密歇根州美国参议院民主党初选中失利后，公开支持共和党候选人 Mike Rogers。这一背书意味着她与民主党提名人 Abdul El-Sayed 分道扬镳。报道指出，此举加剧了民主党内部进步派与温和派成员之间的分裂。原文未提供更多关于政策立场或选举影响的细节。",
-      "detail_en": "According to Bloomberg's Oliver Crook reporting from New York, Representative Haley Stevens, after losing the Democratic primary for Michigan's US Senate seat, publicly backed Republican candidate Mike Rogers. This endorsement means she breaks with Democratic nominee Abdul El-Sayed. The report notes that the move exacerbates a split between progressives and moderate party members within the Democratic Party. The original text does not provide further details on policy positions or electoral implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Haley Stevens 在密歇根州参议院民主党初选中落败。",
-          "en": "Haley Stevens lost the Democratic primary for Michigan's US Senate seat."
-        },
-        {
-          "zh": "她转而支持共和党候选人 Mike Rogers。",
-          "en": "She backed Republican candidate Mike Rogers."
-        },
-        {
-          "zh": "此举使她与民主党提名人 Abdul El-Sayed 决裂。",
-          "en": "This breaks with Democratic nominee Abdul El-Sayed."
-        },
-        {
-          "zh": "该事件加剧了民主党内部进步派与温和派的分裂。",
-          "en": "The move exacerbates a split between progressives and moderate party members."
-        }
-      ],
-      "tags": [
-        "Michigan Senate",
-        "Democratic Party",
-        "Republican Party",
-        "Election",
-        "Endorsement"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:kG6z_xeCkdc",
-      "title": "US Midterms & AI Strain: The Global Trader’s Guide",
-      "title_zh": "彭博每日洞察：中期选举、AI交易与亚洲市场动态",
-      "url": "https://www.youtube.com/watch?v=kG6z_xeCkdc",
-      "published_at": "2026-11-02T09:24:22+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目聚焦美国中期选举对市场、AI交易、国债收益率和美元的影响，同时涵盖富士康与OpenAI合作、Kioxia业绩预警、Kneron的IPO计划以及亚洲股市动态。",
-      "summary_en": "This episode focuses on the impact of US midterms on markets, the AI trade, Treasury yields, and the dollar, while also covering Foxconn's partnership with OpenAI, Kioxia's forecast miss, Kneron's IPO plans, and Asian market movements.",
-      "detail_zh": "节目讨论了美国中期选举后的市场展望，包括对AI交易、国债收益率和美元的影响。富士康董事长刘扬伟谈及与OpenAI的合作。BAI Capital创始管理合伙人龙宇介绍了8亿美元基金。Kioxia因第三季度业绩预告不及预期股价大跌。Kneron创始人兼CEO刘峻诚讨论了在纳斯达克IPO的计划。Reliance第二季度利润超预期股价上涨。中国股市因监管支持报道而上涨。油价因报道称特朗普将给伊朗外交更多时间而下跌。此外，节目还涉及印尼MSCI改革、币安资金外流、中期选举对美国外交政策的影响以及德国抗议活动。",
-      "detail_en": "The program discusses the post-election outlook for markets, including implications for the AI trade, Treasury yields, and the dollar. Foxconn Chairman Young Liu talks about the partnership with OpenAI. BAI Capital Founding and Managing Partner Annabelle Yu Long introduces an $800 million fund. Kioxia shares plunge after a third-quarter forecast miss. Kneron Founder and CEO Albert Liu discusses plans for a Nasdaq IPO. Reliance shares jump after second-quarter profit beats estimates. China stocks rise on a report of regulatory support. Oil slips as a report says Trump will give Iran diplomacy more time. Additionally, the program covers Indonesia's MSCI reforms, Binance outflows, the midterms' impact on US foreign policy, and German protests.",
-      "conclusion_zh": "中期选举后的政策走向可能对AI、国债和美元产生重要影响，投资者需关注相关风险与机会。",
-      "conclusion_en": "Post-midterm policy directions could significantly impact AI, Treasuries, and the dollar; investors should watch related risks and opportunities.",
-      "key_points": [
-        {
-          "zh": "美国中期选举结果可能影响AI交易、国债收益率和美元走势。",
-          "en": "US midterm election results could affect the AI trade, Treasury yields, and the dollar."
-        },
-        {
-          "zh": "富士康与OpenAI达成合作，董事长刘扬伟分享细节。",
-          "en": "Foxconn partners with OpenAI; Chairman Young Liu shares details."
-        },
-        {
-          "zh": "Kioxia因第三季度业绩预告不及预期股价大跌。",
-          "en": "Kioxia shares plunge after third-quarter forecast miss."
-        },
-        {
-          "zh": "Kneron计划在纳斯达克IPO，创始人兼CEO刘峻诚讨论相关计划。",
-          "en": "Kneron plans a Nasdaq IPO; Founder and CEO Albert Liu discusses the plans."
-        },
-        {
-          "zh": "中国股市因监管支持报道而上涨，油价因伊朗外交进展而下跌。",
-          "en": "China stocks rise on regulatory support report; oil falls on Iran diplomacy."
-        }
-      ],
-      "tags": [
-        "US midterms",
-        "AI trade",
-        "Treasury yields",
-        "dollar",
-        "Asia markets"
       ],
       "tickers": [],
       "sentiment": "neutral"
