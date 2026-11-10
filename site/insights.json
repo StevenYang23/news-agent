@@ -1,6 +1,184 @@
 {
-  "generated_at": "2026-11-10T14:15:25.057255+00:00",
+  "generated_at": "2026-11-10T15:13:48.669326+00:00",
   "insights": [
+    {
+      "guid": "yt:rkDiNKDv3Cg",
+      "title": "Why investors are borrowing money to buy stocks",
+      "title_zh": "散户借入近15万美元杠杆押注特斯拉",
+      "url": "https://www.youtube.com/watch?v=rkDiNKDv3Cg",
+      "published_at": "2026-11-10T15:00:27+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "一位休斯顿投资者以约2.5%的利率借入保证金贷款，全仓特斯拉，持仓市值约71.2万美元，保证金债务约14.7万美元。他将特斯拉跌至每股173美元（拆股调整后）视为触发追加保证金的“死亡价格”，并曾通过房屋再融资取出3万美元偿还部分债务。目前他仍计划继续增持特斯拉并逐步偿还保证金债务。",
+      "summary_en": "A Houston investor borrowed margin debt at roughly 2.5% interest to go all-in on Tesla, holding about $712,000 in Tesla shares against roughly $147,000 in margin debt. He calls $173 per share (split-adjusted) his \"death price\" that would trigger a margin call, and once refinanced his home to use $30,000 to pay down debt. He still plans to keep accumulating Tesla and pay off the margin debt over time.",
+      "detail_zh": "一位休斯顿投资者表示，他觉得原有回报“太慢”，想承担更多风险，并发现自己风险承受能力很高，几个月后便全仓押注特斯拉。到2026年8月底，他持有约71.2万美元的特斯拉股票，同时背负约14.7万美元的保证金债务。他称当时“利率是2.5%，股票在涨”，因此认为“不可能亏”，于是不断买入更多特斯拉。他将特斯拉跌至足以触发追加保证金的价格称为“死亡价格”；2022年7月他计算该价格为拆股调整后每股173美元，而当时特斯拉股价为272美元。由于担心追加保证金，他对房屋进行了再融资，取出3万美元用于偿还保证金债务。目前他仍在继续执行该策略，计划持续增持特斯拉并逐步还清保证金债务。",
+      "detail_en": "A Houston investor said he found his original returns \"too slow\" and wanted more risk, learning he had a very high risk tolerance, and a few months later went all-in on Tesla. By the end of August 2026, he held about $712,000 worth of Tesla shares while carrying roughly $147,000 in margin debt. He said the interest rate was 2.5% and the stock was going up, so he thought there was \"no way I could lose\" and kept buying more Tesla shares. He calls the price at which Tesla falls low enough to trigger a margin call his \"death price\"; in July 2022 he calculated it at $173 per share split-adjusted, when Tesla was at $272. Worried about that possibility, he refinanced his home and used $30,000 to pay down margin debt. He is still doing it today, with a plan to keep accumulating Tesla and pay off the margin debt over time.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "该投资者持有约71.2万美元特斯拉股票，保证金债务约14.7万美元。",
+          "en": "The investor holds about $712,000 in Tesla shares against roughly $147,000 in margin debt."
+        },
+        {
+          "zh": "他将拆股调整后每股173美元视为触发追加保证金的“死亡价格”。",
+          "en": "He sees $173 per share split-adjusted as his \"death price\" that would trigger a margin call."
+        },
+        {
+          "zh": "他曾通过房屋再融资取出3万美元偿还保证金债务。",
+          "en": "He refinanced his home to use $30,000 to pay down margin debt."
+        },
+        {
+          "zh": "他仍计划继续增持特斯拉并逐步还清保证金债务。",
+          "en": "He still plans to keep accumulating Tesla and pay off the margin debt over time."
+        }
+      ],
+      "tags": [
+        "Tesla",
+        "margin debt",
+        "retail investor",
+        "leverage"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:sMyhTauQTeA",
+      "title": "Hochstein on Nivdia CEO Scandal, AI and China, Elections",
+      "title_zh": "Hochstein：英伟达事件或影响美芯片出口管制，凸显中国对AI技术渴求",
+      "url": "https://www.youtube.com/watch?v=sMyhTauQTeA",
+      "published_at": "2026-11-10T14:59:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前拜登高级能源顾问、TWG Global管理合伙人Amos Hochstein就英伟达相关丑闻如何影响美国芯片出口管制发表看法，认为这显示中国对AI技术的迫切需求。他还讨论了伊朗战争、石油及中期选举议题。",
+      "summary_en": "Amos Hochstein, former top energy adviser to President Joe Biden and managing partner at TWG Global, discussed how the Nvidia scandal could impact US export controls on chips, saying it shows how desperate China is for AI tech. He also talked about the war in Iran, oil and the midterm elections.",
+      "detail_zh": "Amos Hochstein曾任拜登总统的高级能源顾问，现任TWG Global管理合伙人。他在Bloomberg Surveillance节目中表示，英伟达相关丑闻可能对美国芯片出口管制产生影响。Hochstein认为，这一事件表明中国对AI技术极为渴求。除芯片出口管制话题外，他还讨论了伊朗战争、石油以及中期选举等议题。原文未提供丑闻的具体细节、出口管制可能变化的方向或对美股的具体影响。",
+      "detail_en": "Amos Hochstein, a former top energy adviser to President Joe Biden and managing partner at TWG Global, said on Bloomberg Surveillance that the Nvidia scandal could impact US export controls on chips. He said this shows how desperate China is for AI tech. In addition to chip export controls, he also discussed the war in Iran, oil and the midterm elections. The source does not provide specifics on the scandal, the direction of potential export control changes, or specific implications for US equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Hochstein称英伟达相关丑闻可能影响美国芯片出口管制",
+          "en": "Hochstein says the Nvidia scandal could impact US chip export controls"
+        },
+        {
+          "zh": "他认为该事件显示中国对AI技术极为渴求",
+          "en": "He says this shows how desperate China is for AI tech"
+        },
+        {
+          "zh": "讨论还涉及伊朗战争、石油及中期选举",
+          "en": "The discussion also covered the war in Iran, oil and the midterm elections"
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "export controls",
+        "China AI",
+        "semiconductors",
+        "oil"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5TmE_8W5-qU",
+      "title": "The AI Trade May Have Just Hit Its Breaking Point!",
+      "title_zh": "AI交易趋势是否见顶？投资者面临仓位考验",
+      "url": "https://www.youtube.com/watch?v=5TmE_8W5-qU",
+      "published_at": "2026-11-10T14:25:31+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "原文讨论AI交易是否出现趋势性转折，发言者认为这可能是该交易的顶部，但强调趋势是否真正结束只能事后确认。核心洞见在于：若确为顶部，仓位管理至关重要，许多投资者持有大量相关股票，当前是重要的心理考验时刻。",
+      "summary_en": "The source discusses whether the AI trade is experiencing a trend break. The speaker believes this is likely a top in the trade, though whether the trend has fully ended can only be known in retrospect. The key insight is that if this is indeed a top, position sizing is hugely important, as many investors own a lot of these stocks—making this a major gut-check moment.",
+      "detail_zh": "原文围绕两个问题展开：第一，是否正在看到趋势的变化；第二，势不可挡的AI交易趋势是否正在断裂。发言者明确表示，趋势是否真正结束只能事后确认，当前无法确定这是趋势的彻底终结还是仅仅是一次\"摇树\"后趋势将恢复。基于其所见，发言者判断这是趋势的断裂，且这可能是该交易的顶部。发言者强调，如果这确实是顶部，仓位管理就至关重要，因为可以确定有很多投资者持有大量这类股票。发言者向听众提出反问：你是否持有过多？并称当前是重大的心理考验时刻。",
+      "detail_en": "The source centers on two questions: first, whether a change in trend is being observed; second, whether the epic, unstoppable AI trade trend is breaking. The speaker explicitly states that whether the trend has fully ended can only be known in retrospect, and that it is unclear whether this is a complete end of the trend or merely a shaking of the tree after which the trend will resume. Based on what the speaker is seeing, the judgment is that this is a break in trend and probably a top in this trade. The speaker stresses that if it is indeed a top, sizing is hugely important, because one can be sure there are a lot of investors out there that own a lot of these stocks. The speaker poses a question to the audience: do you own too much? And calls this a major gut-check time.",
+      "conclusion_zh": "发言者认为AI交易可能已见顶，投资者应审视自身仓位是否过重，当前是重要的心理考验时刻。",
+      "conclusion_en": "The speaker believes the AI trade may have topped; investors should review whether their positions are too large, as this is a major gut-check moment.",
+      "key_points": [
+        {
+          "zh": "发言者认为AI交易可能正在见顶，但趋势是否真正结束只能事后确认。",
+          "en": "The speaker believes the AI trade may be topping, but whether the trend has truly ended can only be known in retrospect."
+        },
+        {
+          "zh": "发言者判断这是趋势的断裂，且可能是该交易的顶部。",
+          "en": "The speaker judges this to be a break in trend and probably a top in the trade."
+        },
+        {
+          "zh": "若确为顶部，仓位管理至关重要，因为许多投资者持有大量相关股票。",
+          "en": "If it is indeed a top, position sizing is hugely important, as many investors own a lot of these stocks."
+        },
+        {
+          "zh": "发言者称当前是重大的心理考验时刻，并反问投资者是否持有过多。",
+          "en": "The speaker calls this a major gut-check time and asks whether investors own too much."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "trend break",
+        "position sizing",
+        "market top"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:lyIdi0tfeNs",
+      "title": "Food, Gas Prices Push October CPI Higher",
+      "title_zh": "食品与能源推高10月CPI，美联储或于下月加息",
+      "url": "https://www.youtube.com/watch?v=lyIdi0tfeNs",
+      "published_at": "2026-11-10T14:23:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "10月CPI受食品和能源价格上涨推动走高，可能使美联储保持在12月加息的轨道上。Pimco经济学家Tiffany Wilding指出，能源价格上涨正促使企业将成本转嫁给消费者。",
+      "summary_en": "October CPI rose on higher food and energy prices, likely keeping the Federal Reserve on track to raise rates next month. Pimco economist Tiffany Wilding said higher energy prices are causing companies to pass costs along to consumers.",
+      "detail_zh": "10月消费者价格指数（CPI）因食品和能源价格上涨而走高。食品杂货、汽油和电力价格均出现上涨。这一数据可能使美联储保持在12月加息的轨道上。Pimco经济学家Tiffany Wilding表示，能源价格上涨正导致企业将成本转嫁给消费者。原文未提供具体涨幅数据。",
+      "detail_en": "The October consumer price index rose, driven by higher food and energy prices. Grocery, gasoline and electricity prices all increased. The data likely keeps the Federal Reserve on track to raise interest rates next month. Tiffany Wilding, Pimco economist, said higher energy prices are causing companies to pass along costs to consumers. No specific percentage figures were provided in the source.",
+      "conclusion_zh": "通胀数据强化了美联储下月加息的预期，能源成本向消费端传导值得关注。",
+      "conclusion_en": "The inflation data reinforces expectations for a Fed rate hike next month, with energy cost pass-through to consumers worth watching.",
+      "key_points": [
+        {
+          "zh": "10月CPI受食品和能源价格推动走高",
+          "en": "October CPI rose, driven by food and energy prices"
+        },
+        {
+          "zh": "食品杂货、汽油和电力价格均上涨",
+          "en": "Grocery, gasoline and electricity prices all rose"
+        },
+        {
+          "zh": "数据可能使美联储保持在12月加息的轨道上",
+          "en": "The data likely keeps the Fed on track to raise rates next month"
+        },
+        {
+          "zh": "Pimco的Wilding：能源价格上涨促使企业将成本转嫁给消费者",
+          "en": "Pimco's Wilding: higher energy prices are causing companies to pass costs to consumers"
+        }
+      ],
+      "tags": [
+        "CPI",
+        "Fed",
+        "inflation",
+        "energy"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:KnbX0tZM9yA",
       "title": "Hegseth Hits Out at Critics as Massie Pushes Impeachment",
@@ -17187,56 +17365,6 @@
         "MSCI",
         "market manipulation",
         "emerging markets"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:csffPwGdx6o",
-      "title": "Can France Still Afford Its Generous Welfare State?",
-      "title_zh": "法国国债收益率创24年新高，美国财政轨迹相似但增长优势明显",
-      "url": "https://www.youtube.com/watch?v=csffPwGdx6o",
-      "published_at": "2026-11-03T15:00:21+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "法国10年期国债收益率升至24年高位，债务占GDP比重从约60%翻倍至近120%，赤字高企且增长停滞，引发市场对主权债务危机的担忧。美国与法国财政轨迹相似，但美国经济增长约2%以上且拥有美元储备货币地位，构成关键差异。",
-      "summary_en": "French 10-year government bond yields have risen to a 24-year high, with debt-to-GDP doubling from about 60% to just under 120%, a large primary deficit, and stagnant growth fueling sovereign debt concerns. The U.S. shares a similar fiscal trajectory but differs due to consistent growth of around 2% or more and the dollar's reserve currency status.",
-      "detail_zh": "法国政府债券收益率已升至二十多年来最高水平，推高法国借贷成本。过去约25年，法国债务占GDP比重从约60%翻倍至目前略低于120%，基本赤字巨大，被描述为“根本上财政不可持续”的局面。法国自2008年以来增长不均，高公共支出导致债务增速快于欧盟邻国，债务占GDP比率上升速度在G7中居前，赤字占GDP比率在欧洲居前。疫情救助计划、乌克兰战争后的能源价格上限以及减税措施推动债务占GDP比率升至115%。投资者情绪紧张，法国10年期国债收益率在2026年末飙升至24年高位，信用违约互换价格上升，法国国债利率高于意大利、西班牙和希腊，并向英国利率靠拢。法国养老金体系慷慨但成本高昂且人口老龄化加剧：2022年每名65岁以上人口对应略多于2.5名劳动年龄人口，预计2070年降至1.7。有观点认为，若无重大养老金改革（退休年龄至少65岁，最好67岁），法国没有可信的财政路径。美国与法国财政轨迹相似，债务均超过GDP的100%，但美国经济增长稳定在约2%或以上，而法国2026年增长预期仅约0.4%。美国以本币发债且美元储备货币地位支撑对美国资产的需求，这是法国和欧元区不具备的优势。市场担忧法国债务问题可能波及欧元区并外溢至全球经济。",
-      "detail_en": "French government bond yields have risen to their highest levels in more than two decades, pushing up French borrowing costs. Over the last 25 years or so, French debt has doubled from about 60% to just under 120% of GDP, with a huge primary deficit described as a fundamentally fiscally unsustainable situation. France's growth has been uneven since 2008, and high public spending is causing debt to rise faster than its EU neighbors; its debt-to-GDP ratio is rising at one of the fastest rates in the G7, and it has one of the highest deficit-to-GDP ratios in Europe. A large pandemic relief plan, energy price caps after the invasion of Ukraine, and tax cuts drove the debt-to-GDP ratio to 115%. Investors are on edge: yields on French 10-year government bonds spiked in late 2026 to a 24-year high, credit default swap prices have risen, and French bond rates are higher than in Italy, Spain, and Greece, converging toward UK rates. France's generous pension system is costly and the population is aging: for every person over 65 in 2022, there were a little more than 2.5 people of working age, expected to fall to 1.7 in 2070. One view holds there is no credible fiscal path forward for France without a major pension reform, with a retirement age of at least 65, preferably 67. The U.S. and France are in similar fiscal positions, with debt above 100% of GDP in both, but U.S. growth is consistently around 2% or more while French growth is stuck, with IMF estimates around 0.4% for 2026. The U.S. issues debt in a currency it controls, and the dollar's reserve currency status supports demand for U.S. assets, unlike France and the euro area. There are worries that French debt problems could affect the rest of the eurozone and spill out to the global economy.",
-      "conclusion_zh": "法国财政压力凸显主权债务风险，但美国凭借增长优势和美元地位，短期内轨迹虽相似却更具韧性；投资者需关注法国债务问题向欧元区及全球债市的外溢风险。",
-      "conclusion_en": "France's fiscal pressures highlight sovereign debt risks, but the U.S. is more resilient due to growth and dollar status despite a similar trajectory; investors should watch for spillover from French debt to the eurozone and global bond markets.",
-      "key_points": [
-        {
-          "zh": "法国债务占GDP比重从约60%翻倍至近120%，基本赤字巨大，财政状况被描述为不可持续。",
-          "en": "French debt-to-GDP has doubled from about 60% to just under 120%, with a huge primary deficit and a fundamentally fiscally unsustainable situation."
-        },
-        {
-          "zh": "法国10年期国债收益率在2026年末升至24年高位，信用违约互换价格上升，国债利率高于意大利、西班牙和希腊。",
-          "en": "French 10-year bond yields spiked in late 2026 to a 24-year high, CDS prices rose, and French rates are higher than in Italy, Spain, and Greece."
-        },
-        {
-          "zh": "美国与法国财政轨迹相似，但美国经济增长约2%以上且拥有美元储备货币地位，构成关键差异。",
-          "en": "The U.S. shares a similar fiscal trajectory but has consistent growth of around 2% or more and the dollar's reserve currency status, a key difference."
-        },
-        {
-          "zh": "法国养老金体系成本高昂且人口老龄化加剧，有观点认为若无重大养老金改革则没有可信的财政路径。",
-          "en": "France's pension system is costly and the population is aging; one view holds there is no credible fiscal path without major pension reform."
-        },
-        {
-          "zh": "市场担忧法国债务问题可能波及欧元区并外溢至全球经济。",
-          "en": "There are worries that French debt problems could affect the rest of the eurozone and spill out to the global economy."
-        }
-      ],
-      "tags": [
-        "France",
-        "sovereign debt",
-        "fiscal policy",
-        "bond yields",
-        "pension reform"
       ],
       "tickers": [],
       "sentiment": "negative"
