@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-11-10T08:20:16.221008+00:00",
+  "generated_at": "2026-11-10T09:15:53.275206+00:00",
   "insights": [
+    {
+      "guid": "yt:_P80dmhik9I",
+      "title": "Great for Investors, Tough for Traders: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目简介，无实质市场内容",
+      "url": "https://www.youtube.com/watch?v=_P80dmhik9I",
+      "published_at": "2026-11-10T08:37:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介及社交媒体链接，未包含任何具体的市场分析、数据或投资观点。",
+      "summary_en": "The original text is merely a description of Bloomberg's 'The Opening Trade' program and social media links, containing no specific market analysis, data, or investment views.",
+      "detail_zh": "原文仅说明Anna Edwards、Guy Johnson、Tom Mackenzie和Mark Cudmore在节目《Bloomberg: The Opening Trade》中为分析师和投资者梳理当日关键主题。其余内容均为彭博电视和市场的社交媒体链接及订阅提示，未提供任何具体的市场动态、经济数据或投资见解。",
+      "detail_en": "The original text only states that Anna Edwards, Guy Johnson, Tom Mackenzie, and Mark Cudmore break down today's key themes for analysts and investors on 'Bloomberg: The Opening Trade.' The rest consists of social media links and subscription prompts for Bloomberg Television and Markets, with no specific market developments, economic data, or investment insights provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视节目简介，无实质市场内容。",
+          "en": "The text is a program description for Bloomberg TV, with no substantive market content."
+        },
+        {
+          "zh": "未提及任何具体股票、指数、经济数据或投资观点。",
+          "en": "No specific stocks, indices, economic data, or investment views are mentioned."
+        },
+        {
+          "zh": "内容主要为社交媒体链接和订阅提示。",
+          "en": "The content mainly consists of social media links and subscription prompts."
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "tv-program",
+        "no-content"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:h-gV-xQG-4M",
+      "title": "Trump Says FBI Reviewing Nvidia CEO Huang's Affair",
+      "title_zh": "科技股反弹带动全球股市两日大涨，Anthropic启动IPO营销",
+      "url": "https://www.youtube.com/watch?v=h-gV-xQG-4M",
+      "published_at": "2026-11-10T08:08:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "全球股市有望创三个多月来最佳两日涨幅，科技股反弹与油价下跌提振情绪。Anthropic最早周二启动IPO正式营销，拟募资至多693亿美元（据路透）。特朗普称FBI正调查英伟达CEO黄仁勋婚外情对象疑似中国间谍，并表示支持黄仁勋。",
+      "summary_en": "Global stocks were on track for their best two-day gain in over three months, boosted by a tech rally and falling oil prices. Anthropic is set to begin formal IPO marketing as early as Tuesday, aiming to raise up to $69.3 billion (per Reuters). Trump said the FBI is looking into Nvidia CEO Jensen Huang's extramarital relationship with a suspected Chinese spy, and offered his support.",
+      "detail_zh": "全球股市有望录得三个多月来最佳两日涨幅，科技股反弹与油价进一步下跌共同提振市场情绪。Anthropic最早将于周二启动重磅IPO的正式营销，此前其申报文件出现明显失误，给本已紧张的市场增添了最后一刻的戏剧性；据路透，Anthropic拟募资至多693亿美元，随后又以信息不准确为由撤回了IPO申报细节。特朗普表示，FBI正在调查英伟达CEO黄仁勋与一名疑似中国间谍的婚外情关系，并在该事件披露次日对这位处境艰难的芯片巨头掌门人表示支持。特朗普还暗示无需对伊朗进行进一步空袭。芝加哥联储古尔斯比（Goolsbee）称必须解决通胀失败问题；英国央行行长贝利呼吁提高英国贸易开放度。软银在美国数据中心成本膨胀后录得70亿美元亏损。美国通胀依然顽固。",
+      "detail_en": "Global stocks were on track for their best two-day gain in more than three months, as a resurgent tech rally and a further decline in oil prices boosted sentiment. Anthropic is set to kick off formal marketing of its blockbuster IPO as early as Tuesday, after an apparent snafu over filing documents added last-minute drama to a nervous market; per Reuters, Anthropic aims to raise up to $69.3 billion, and later retracted IPO filing details citing inaccuracy. President Donald Trump said the FBI is looking into Nvidia CEO Jensen Huang's extramarital relationship with a suspected Chinese spy, and offered his support to the embattled chip magnate a day after the affair was disclosed. Trump also signaled further airstrikes on Iran won't be necessary. Goolsbee said the inflation failure must be addressed; Bailey urged greater UK trade openness. SoftBank logged a $7 billion loss after US data center costs swelled. US inflation remains stubborn.",
+      "conclusion_zh": "科技股反弹与油价回落短期提振风险偏好，但Anthropic IPO申报反复及美国通胀顽固提示市场情绪仍脆弱，需关注IPO定价与通胀数据对美股的影响。",
+      "conclusion_en": "The tech rally and falling oil prices are boosting risk appetite short-term, but Anthropic's IPO filing back-and-forth and stubborn US inflation suggest fragile sentiment; watch IPO pricing and inflation data for US equity implications.",
+      "key_points": [
+        {
+          "zh": "全球股市有望创三个多月来最佳两日涨幅，科技股反弹与油价下跌提振情绪。",
+          "en": "Global stocks were on track for their best two-day gain in over three months, boosted by a tech rally and falling oil prices."
+        },
+        {
+          "zh": "Anthropic最早周二启动IPO正式营销，据路透拟募资至多693亿美元，但随后以信息不准确为由撤回申报细节。",
+          "en": "Anthropic is set to begin formal IPO marketing as early as Tuesday, aiming to raise up to $69.3 billion per Reuters, but later retracted filing details citing inaccuracy."
+        },
+        {
+          "zh": "特朗普称FBI正调查英伟达CEO黄仁勋婚外情对象疑似中国间谍，并表示支持黄仁勋。",
+          "en": "Trump said the FBI is looking into Nvidia CEO Jensen Huang's extramarital relationship with a suspected Chinese spy, and offered his support."
+        },
+        {
+          "zh": "古尔斯比称必须解决通胀失败问题；美国通胀依然顽固。",
+          "en": "Goolsbee said the inflation failure must be addressed; US inflation remains stubborn."
+        },
+        {
+          "zh": "软银在美国数据中心成本膨胀后录得70亿美元亏损。",
+          "en": "SoftBank logged a $7 billion loss after US data center costs swelled."
+        }
+      ],
+      "tags": [
+        "tech rally",
+        "IPO",
+        "Nvidia",
+        "inflation",
+        "SoftBank"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "https://bondvigilantes.com/?p=26883",
       "title": "Le choix français",
@@ -17021,152 +17111,6 @@
         "dispersion",
         "liquidity gap",
         "recovery value"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:uo4q5khW4ps",
-      "title": "An Election Day Special With Nate Silver | Odd Lots",
-      "title_zh": "Nate Silver谈中期选举：民调、AI与政治对市场的影响",
-      "url": "https://www.youtube.com/watch?v=uo4q5khW4ps",
-      "published_at": "2026-11-03T09:13:39+00:00",
-      "source_name": "Odd Lots (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "Nate Silver在Odd Lots播客中讨论中期选举，指出特朗普支持率约37%，为1946年以来中期选举前总统最低之一，民主党在众议院和州长选举中优势明显，但参议院因需在深红州获胜而存在变数。他批评用AI数字孪生替代真实民调，强调原始数据的重要性，并认为政治对市场和经济的影响日益增大。",
-      "summary_en": "Nate Silver discusses the midterms on the Odd Lots podcast, noting Trump's approval at about 37%, the worst for a president before a midterm since 1946, with Democrats favored for the House and governorships but the Senate uncertain due to red-state math. He criticizes AI digital twins as substitutes for real polling, stressing the need for original data, and argues politics increasingly matters for markets and the economy.",
-      "detail_zh": "在Odd Lots选举日特别节目中，Nate Silver表示特朗普支持率约为37%，是自1946年杜鲁门以来中期选举前总统的最低水平。他指出，2018年中期选举时特朗普支持率略高，共和党仍丢失41个众议院席位。Silver认为当前背景对民主党极为有利：中期选举历史趋势、选民对经济的焦虑、特朗普作为跛脚鸭且年龄80岁，以及2025年新泽西和弗吉尼亚选举表现良好。但他也提到部分民主党候选人被视为过于左翼，且参议院选举需在得克萨斯、堪萨斯、阿拉斯加、南卡罗来纳等深红州获胜，数学上困难。Silver还批评用AI数字孪生模拟选民的做法，认为民调是少数真实数据来源，不能外包给AI代理，并举例合成西班牙裔受访者99%喜欢足球，说明模型输出趋同。他强调选民不可预测，西班牙裔投票群体内部差异大，是波动性最大的 demographic 之一。",
-      "detail_en": "On the Odd Lots election special, Nate Silver said Trump's approval rating is about 37%, the worst for a president before a midterm since Harry Truman in 1946. He noted that in 2018, with Trump somewhat more popular, Republicans still lost 41 House seats. Silver argued background conditions strongly favor Democrats: historical midterm trends, voter anxiety about the economy, Trump as a lame duck at 80, and strong 2025 performances in New Jersey and Virginia. But he also said some Democratic candidates are seen as too far left, and the Senate requires winning in deep-red states like Texas, Kansas, Alaska, and South Carolina, which is mathematically difficult. Silver criticized using AI digital twins to simulate voters, saying polling is one of the few sources of ground truth and cannot be outsourced to AI agents. He gave the example that 99% of synthetic Hispanic respondents love soccer, showing model output convergence. He stressed voters are unpredictable and the Hispanic vote is internally diverse and one of the most swingy demographics in the U.S.",
-      "conclusion_zh": "政治对市场和经济的影响日益增大，中期选举结果将影响政策走向，但参议院归属仍存不确定性，投资者需关注选举对财政、监管等政策的潜在影响。",
-      "conclusion_en": "Politics increasingly matters for markets and the economy; midterm outcomes will shape policy, but Senate control remains uncertain, and investors should watch potential fiscal and regulatory impacts.",
-      "key_points": [
-        {
-          "zh": "特朗普支持率约37%，为1946年以来中期选举前总统最低之一。",
-          "en": "Trump's approval is about 37%, among the lowest for a president before a midterm since 1946."
-        },
-        {
-          "zh": "民主党大概率赢得众议院和部分州长职位，但参议院因需在深红州获胜而存在变数。",
-          "en": "Democrats are likely to win the House and some governorships, but the Senate is uncertain due to the need to win in deep-red states."
-        },
-        {
-          "zh": "Silver批评用AI数字孪生替代真实民调，强调原始数据不可替代。",
-          "en": "Silver criticized AI digital twins as substitutes for real polling, stressing original data is irreplaceable."
-        },
-        {
-          "zh": "西班牙裔投票群体内部差异大，是波动性最大的 demographic 之一。",
-          "en": "The Hispanic vote is internally diverse and one of the most swingy demographics."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "polling",
-        "AI",
-        "Trump",
-        "Senate"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3ja53uUZW4o",
-      "title": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
-      "title_zh": "彭博访谈：科技股抛售、AI投资热潮与私人信贷需求",
-      "url": "https://www.youtube.com/watch?v=3ja53uUZW4o",
-      "published_at": "2026-11-03T08:43:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目聚焦香港金管局全球金融领袖投资峰会上讨论的科技股抛售，亚洲市场受美国科技股疲软拖累但中国显现韧性。摩根士丹利CEO Ted Pick讨论AI投资热潮及企业落后风险，PIMCO CEO Emmanuel Roman谈及AI融资与主权收益率，Ares Management CEO Michael Arougheti分享私人信贷需求。此外，苹果利润率收紧掩盖了乐观的假日预测，澳大利亚央行加息，华尔街看多印度股市。",
-      "summary_en": "This episode focuses on the tech rout discussed at the HKMA's Global Financial Leaders' Investment Summit, with Asian markets hit by US tech weakness but China showing resilience. Morgan Stanley CEO Ted Pick discusses the AI investment boom and the risk of enterprises falling behind, PIMCO CEO Emmanuel Roman talks AI financing and sovereign yields, and Ares Management CEO Michael Arougheti shares views on private credit demand. Additionally, Apple's tightening margins overshadow an upbeat holiday forecast, the RBA raises rates, and Wall Street turns bullish on India's top bourse.",
-      "detail_zh": "节目首先关注香港金管局全球金融领袖投资峰会上讨论的科技股抛售，亚洲市场受美国科技股疲软拖累，但中国表现出韧性。EFG International CEO Giorgio Pradelli讨论亚洲财富创造的加速。摩根士丹利董事长兼CEO Ted Pick就AI投资热潮发表看法，并解释为何企业不能在AI上落后。澳大利亚央行（RBA）上调基准利率。Ares Management CEO兼联合创始人Michael Arougheti讨论私人信贷需求。华尔街对印度主要交易所纷纷给出看涨观点。PIMCO CEO Emmanuel Roman讨论AI融资和主权收益率，以及欧洲的结构性增长、债务和财政挑战。苹果利润率收紧掩盖了乐观的假日预测。特朗普的司法部在加州选票问题上被最高法院驳回。Penta Group高级合伙人Bryan DeAngelis讨论美国中期选举。Mindspace Business Parks REIT董事总经理兼CEO Ramesh Nair讨论印度办公租赁和租金增长的持续性。",
-      "detail_en": "The program begins with the tech rout in focus at the HKMA's Global Financial Leaders' Investment Summit, as Asian markets take a hit from weakness in US tech but China shows resilience. EFG International CEO Giorgio Pradelli discusses Asia's accelerating wealth creation. Morgan Stanley Chairman and CEO Ted Pick shares views on the AI investment boom and why enterprises cannot afford to fall behind on AI. The RBA lifts its benchmark interest rate. Ares Management CEO and Co-Founder Michael Arougheti discusses private credit demand. Wall Street rushes in with bullish calls on India's top bourse. PIMCO CEO Emmanuel Roman talks about AI financing and sovereign yields, as well as Europe's structural growth, debt and fiscal challenges. Apple's tightening margins overshadow an upbeat holiday forecast. Trump's DOJ is rejected by the Supreme Court on California ballots. Penta Group Senior Partner Bryan DeAngelis discusses the US midterm elections. Mindspace Business Parks REIT MD & CEO Ramesh Nair talks about sustained office leasing and rental growth in India.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "香港金管局全球金融领袖投资峰会聚焦科技股抛售，亚洲市场受美国科技股疲软拖累，但中国显现韧性。",
-          "en": "The HKMA's Global Financial Leaders' Investment Summit focuses on the tech rout; Asian markets are hit by US tech weakness but China shows resilience."
-        },
-        {
-          "zh": "摩根士丹利CEO Ted Pick讨论AI投资热潮，并指出企业不能在AI上落后。",
-          "en": "Morgan Stanley CEO Ted Pick discusses the AI investment boom and says enterprises cannot afford to fall behind on AI."
-        },
-        {
-          "zh": "澳大利亚央行上调基准利率。",
-          "en": "The RBA lifts its benchmark interest rate."
-        },
-        {
-          "zh": "Ares Management CEO Michael Arougheti讨论私人信贷需求；PIMCO CEO Emmanuel Roman讨论AI融资与主权收益率。",
-          "en": "Ares Management CEO Michael Arougheti discusses private credit demand; PIMCO CEO Emmanuel Roman talks AI financing and sovereign yields."
-        },
-        {
-          "zh": "苹果利润率收紧掩盖了乐观的假日预测；华尔街看多印度主要交易所。",
-          "en": "Apple's tightening margins overshadow an upbeat holiday forecast; Wall Street is bullish on India's top bourse."
-        }
-      ],
-      "tags": [
-        "tech-rout",
-        "AI-investment",
-        "private-credit",
-        "RBA",
-        "India-markets"
-      ],
-      "tickers": [
-        "AAPL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:fSAH0VltlHk",
-      "title": "US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
-      "title_zh": "美伊冲突与霍尔木兹谈判牵动油市，Aramco业绩超预期",
-      "url": "https://www.youtube.com/watch?v=fSAH0VltlHk",
-      "published_at": "2026-11-03T08:29:19+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国打击伊朗格什姆岛，但美伊外交渠道保持开放，霍尔木兹谈判成为油供前景核心变量。Aramco第三季度营收、净利润和营业利润均超预期，中东能源扰动严重但长期增长机会仍存。亚洲股市因芯片抛售下跌，澳大利亚加息至18年高位。",
-      "summary_en": "US strikes hit Iran's Qeshm Island while diplomatic channels remain open; Hormuz negotiations are central to oil-supply outlook. Aramco's Q3 revenue, net income and operating profit all beat estimates. Asian stocks fall on deepening chip selloff; Australia raises rates to an 18-year high.",
-      "detail_zh": "美国对伊朗格什姆岛发动打击，但华盛顿与德黑兰保持外交渠道开放，JD Vance称双方进行了良好对话，霍尔木兹谈判仍是石油供应前景的核心，升级风险持续笼罩能源市场。Aramco第三季度业绩强劲，营收、净利润和营业利润均超出预期；Weatherford CEO Girish Saligram表示中东能源扰动依然严重，但该地区仍提供长期增长机会。亚洲股市因芯片抛售加深而下跌，澳大利亚将利率上调至18年高位；香港科技股上涨，因投资者转向消费类股，在岸人民币结束近期连涨。ADNOC和Eni支持阿根廷LNG项目，全球买家寻求新的供应选项；YPF董事长兼CEO Horacio Marín讨论阿根廷能源前景和盈利改善。AIQ CEO Dennis Jol表示公司正加速在钻井和设施中部署AI，提高效率并实现更自主的运营。西非石油流量降至七个月最低。美国政治方面，特朗普利用华盛顿反思池发表中期选举收官信息，最高法院驳回司法部涉及加州选票的挑战。",
-      "detail_en": "US strikes hit Iran's Qeshm Island even as Washington and Tehran keep diplomatic channels open. JD Vance says the two sides have had good conversations, while Hormuz negotiations remain central to the oil-supply outlook and escalation risks continue to hang over energy markets. Aramco reports a strong third quarter, with revenue, net income and operating profit all beating estimates. Middle East energy disruptions remain severe, but Weatherford CEO Girish Saligram says the region still offers long-term growth opportunities. Asian stocks fall as the chip selloff deepens, while Australia raises rates to an 18-year high. Hong Kong technology shares gain as investors rotate toward consumer names, and the onshore yuan ends its recent winning streak. ADNOC and Eni back an Argentina LNG project as global buyers look for new supply options; YPF Chairman and CEO Horacio Marín discusses Argentina's energy outlook and improving earnings. AI is reshaping the energy sector: AIQ CEO Dennis Jol says the company is accelerating deployment of AI across drilling and facilities, improving efficiency and enabling more autonomous operations. West African oil flows fall to their lowest level in seven months. In US politics, Trump uses Washington's reflecting pool for his midterm closing message, while the Supreme Court rejects a Justice Department challenge involving California ballots.",
-      "conclusion_zh": "地缘风险与供应扰动支撑能源市场，但美伊外交渠道开放提供缓冲；Aramco业绩超预期显示能源巨头韧性，AI在能源领域的应用值得关注。",
-      "conclusion_en": "Geopolitical risks and supply disruptions support energy markets, but open US-Iran diplomatic channels provide a buffer; Aramco's beat shows resilience of energy majors, and AI adoption in energy is worth watching.",
-      "key_points": [
-        {
-          "zh": "美国打击伊朗格什姆岛，但美伊外交渠道保持开放，霍尔木兹谈判是油供前景核心。",
-          "en": "US strikes hit Iran's Qeshm Island, but diplomatic channels remain open; Hormuz negotiations are central to oil-supply outlook."
-        },
-        {
-          "zh": "Aramco第三季度营收、净利润和营业利润均超预期。",
-          "en": "Aramco's Q3 revenue, net income and operating profit all beat estimates."
-        },
-        {
-          "zh": "亚洲股市因芯片抛售加深而下跌，澳大利亚加息至18年高位。",
-          "en": "Asian stocks fall as chip selloff deepens; Australia raises rates to an 18-year high."
-        },
-        {
-          "zh": "ADNOC和Eni支持阿根廷LNG项目，全球买家寻求新供应选项。",
-          "en": "ADNOC and Eni back an Argentina LNG project as global buyers seek new supply options."
-        },
-        {
-          "zh": "AIQ加速在能源领域部署AI，提升钻井和设施效率。",
-          "en": "AIQ accelerates AI deployment in energy, improving drilling and facilities efficiency."
-        }
-      ],
-      "tags": [
-        "oil",
-        "geopolitics",
-        "energy",
-        "AI",
-        "rates"
       ],
       "tickers": [],
       "sentiment": "neutral"
