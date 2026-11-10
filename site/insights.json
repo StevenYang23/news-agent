@@ -1,6 +1,173 @@
 {
-  "generated_at": "2026-11-10T21:15:12.714694+00:00",
+  "generated_at": "2026-11-10T22:13:30.191450+00:00",
   "insights": [
+    {
+      "guid": "yt:YZZOc5QlnQM",
+      "title": "CoreWeave Earnings Top Estimates, Boosts Annual Forecast",
+      "title_zh": "D.A. Davidson：CoreWeave业绩优异但融资能力存疑",
+      "url": "https://www.youtube.com/watch?v=YZZOc5QlnQM",
+      "published_at": "2026-11-10T21:40:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "D.A. Davidson科技研究主管Gil Luria表示，CoreWeave的财报“非常出色”，且算力供不应求；但他同时指出，该公司在筹集“更多资金以维持运营”方面将面临困难。",
+      "summary_en": "Gil Luria, technology research head at D.A. Davidson, says CoreWeave's earnings are \"very good\" and there is not enough compute power to go around, but the company will have trouble raising \"more capital to keep going.\"",
+      "detail_zh": "在Bloomberg The Close节目中，D.A. Davidson科技研究主管Gil Luria对CoreWeave的业绩给出评价。他表示，CoreWeave的财报“非常出色”（very good），并指出当前算力供应不足，无法满足所有需求。然而，Luria同时警告，CoreWeave在筹集“更多资金以维持运营”方面将遇到困难。原文未提供具体财务数字、融资规模或时间表。",
+      "detail_en": "Speaking on Bloomberg The Close, Gil Luria, technology research head at D.A. Davidson, commented on CoreWeave's earnings. He said the results are \"very good\" and noted that there is not enough compute power to go around. However, Luria cautioned that CoreWeave will have trouble raising \"more capital to keep going.\" The source does not provide specific financial figures, fundraising amounts, or timelines.",
+      "conclusion_zh": "CoreWeave业务需求强劲，但持续融资能力是其关键风险点。",
+      "conclusion_en": "CoreWeave has strong demand but its ability to raise ongoing capital is a key risk.",
+      "key_points": [
+        {
+          "zh": "D.A. Davidson科技研究主管Gil Luria认为CoreWeave的财报“非常出色”。",
+          "en": "Gil Luria, tech research head at D.A. Davidson, views CoreWeave's earnings as \"very good.\""
+        },
+        {
+          "zh": "Luria指出当前算力供不应求。",
+          "en": "Luria notes there is not enough compute power to go around."
+        },
+        {
+          "zh": "Luria警告CoreWeave在筹集更多资金以维持运营方面将面临困难。",
+          "en": "Luria warns CoreWeave will have trouble raising more capital to keep going."
+        }
+      ],
+      "tags": [
+        "CoreWeave",
+        "earnings",
+        "compute",
+        "capital raising"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:MaSWo0VYz5Q",
+      "title": "CoreWeave Rallies as AI Demand Drives Stronger Revenue Outlook | Closing Bell",
+      "title_zh": "彭博电视美股收盘跨平台报道（仅节目预告）",
+      "url": "https://www.youtube.com/watch?v=MaSWo0VYz5Q",
+      "published_at": "2026-11-10T21:21:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视/电台/YouTube美股收盘节目的跨平台播出预告，列出主持人姓名，未包含任何市场数据、观点或事件。无实质投资信息可供提炼。",
+      "summary_en": "The source is only a promotional listing for Bloomberg Television/Radio/YouTube's U.S. market close coverage, naming the hosts. It contains no market data, views, or events, and no substantive investment information.",
+      "detail_zh": "原文说明该内容为彭博电视、彭博电台及YouTube对美股收盘的跨平台综合报道，主持人为Vonnie Quinn、Jess Menton、Carol Massar和Tim Stenovec。其余内容均为彭博各平台（X、Facebook、Instagram、TikTok、Reddit、LinkedIn、YouTube频道等）的订阅与关注引导链接。文中未出现任何指数点位、个股、板块、宏观数据、政策事件或人物观点。因此无法据此形成投资判断。",
+      "detail_en": "The source states that the content is comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube, with hosts Vonnie Quinn, Jess Menton, Carol Massar, and Tim Stenovec. The remainder consists of subscription and follow links for Bloomberg's various platforms (X, Facebook, Instagram, TikTok, Reddit, LinkedIn, YouTube channels, etc.). No index levels, individual stocks, sectors, macro data, policy events, or personal views appear. No investment judgment can be derived.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博美股收盘节目的跨平台播出预告，非研究内容。",
+          "en": "The source is a cross-platform broadcast listing for Bloomberg's U.S. market close program, not research content."
+        },
+        {
+          "zh": "列出主持人：Vonnie Quinn、Jess Menton、Carol Massar、Tim Stenovec。",
+          "en": "Hosts listed: Vonnie Quinn, Jess Menton, Carol Massar, Tim Stenovec."
+        },
+        {
+          "zh": "未包含任何市场数据、个股、板块或宏观事件信息。",
+          "en": "Contains no market data, individual stocks, sectors, or macro events."
+        },
+        {
+          "zh": "其余为社交媒体与订阅链接，无投资观点。",
+          "en": "The rest are social media and subscription links, with no investment views."
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "market-close",
+        "media-listing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-8OoWocfU5M",
+      "title": "Congress Taking Closer Look at Nvidia's Huang",
+      "title_zh": "美国众议院外交事务委员会主席称可能传唤英伟达CEO黄仁勋",
+      "url": "https://www.youtube.com/watch?v=-8OoWocfU5M",
+      "published_at": "2026-11-10T21:20:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国众议院高层希望直接听取英伟达CEO黄仁勋关于其与涉嫌中国间谍的Alice Huang关系的说明。众议院外交事务委员会主席Brian Mast对ABC表示，他可能传唤黄仁勋。",
+      "summary_en": "Top US House lawmakers want to hear directly from Nvidia CEO Jensen Huang about his relationship with Alice Huang, an alleged Chinese spy. House Foreign Affairs Committee Chair Brian Mast told ABC he may subpoena the Nvidia CEO.",
+      "detail_zh": "美国众议院高层议员希望直接听取英伟达CEO黄仁勋关于其与Megaspeed的Alice Huang关系的说明，后者被指为中国间谍。众议院外交事务委员会主席Brian Mast对ABC表示，他可能传唤这位英伟达CEO。该消息由彭博的Megan Scully报道。",
+      "detail_en": "Top lawmakers in the US House want to hear directly from Nvidia CEO Jensen Huang about his relationship with Megaspeed's Alice Huang, an alleged Chinese spy. Brian Mast, chair of the House Foreign Affairs Committee, told ABC he may subpoena the Nvidia CEO. Bloomberg's Megan Scully reports.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国众议院高层希望直接听取英伟达CEO黄仁勋的说明",
+          "en": "Top US House lawmakers want to hear directly from Nvidia CEO Jensen Huang"
+        },
+        {
+          "zh": "焦点是黄仁勋与Megaspeed的Alice Huang的关系，后者被指为中国间谍",
+          "en": "The focus is Huang's relationship with Megaspeed's Alice Huang, an alleged Chinese spy"
+        },
+        {
+          "zh": "众议院外交事务委员会主席Brian Mast表示可能传唤黄仁勋",
+          "en": "House Foreign Affairs Committee Chair Brian Mast said he may subpoena Huang"
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Congress",
+        "Subpoena",
+        "China",
+        "Spy"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:s2P9_eHUc6Q",
+      "title": "US Commerce Dept. Delays Adding Megaspeed to Blacklist, FT Says",
+      "title_zh": "美国商务部推迟将Megaspeed列入黑名单",
+      "url": "https://www.youtube.com/watch?v=s2P9_eHUc6Q",
+      "published_at": "2026-11-10T21:11:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据《金融时报》报道，尽管其他几个美国部门推动将Megaspeed列入黑名单，美国商务部仍推迟了此举。Megaspeed是与英伟达CEO黄仁勋间谍丑闻相关的公司。",
+      "summary_en": "The US Commerce Department has delayed adding Megaspeed to a blacklist despite push from several other US departments, according to the Financial Times. Megaspeed is the company tied to the spy scandal involving Nvidia CEO Jensen Huang.",
+      "detail_zh": "据《金融时报》报道，美国商务部推迟了将Megaspeed列入黑名单的决定。尽管其他几个美国部门推动将该公司列入名单，商务部仍未采取行动。Megaspeed是与英伟达CEO黄仁勋间谍丑闻相关的公司。彭博社的Mike Shepard正在梳理细节。原文未提供更多关于推迟原因、涉及的具体部门或黑名单性质的信息。",
+      "detail_en": "The Financial Times reports that the US Commerce Department has delayed adding Megaspeed to a blacklist. Several other US departments pushed for the company to be placed on the list, but the Commerce Department held off. Megaspeed is the company tied to the spy scandal involving Nvidia CEO Jensen Huang. Bloomberg's Mike Shepard is sorting out the details. The original text does not provide further information on the reasons for the delay, the specific departments involved, or the nature of the blacklist.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国商务部推迟将Megaspeed列入黑名单。",
+          "en": "The US Commerce Department delayed adding Megaspeed to a blacklist."
+        },
+        {
+          "zh": "其他几个美国部门曾推动将Megaspeed列入名单。",
+          "en": "Several other US departments pushed for Megaspeed to be placed on the list."
+        },
+        {
+          "zh": "Megaspeed与英伟达CEO黄仁勋的间谍丑闻相关。",
+          "en": "Megaspeed is tied to the spy scandal involving Nvidia CEO Jensen Huang."
+        }
+      ],
+      "tags": [
+        "blacklist",
+        "export controls",
+        "Nvidia",
+        "spy scandal",
+        "US Commerce Department"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "6af36aeaee158fb9382f1b92",
       "title": "Nvidia shares down as Huang affair scandal deepens",
@@ -18129,231 +18296,6 @@
         "estate planning",
         "family wealth",
         "entrepreneurship"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:SavoWVMOwV4",
-      "title": "Investing in the Future of America",
-      "title_zh": "摩根士丹利：影响力投资与员工持股的结构性机会",
-      "url": "https://www.youtube.com/watch?v=SavoWVMOwV4",
-      "published_at": "2026-11-03T21:57:29+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "摩根士丹利财富管理首席投资官Lisa Shalett指出，美国经济处于重要拐点：住房供给持续落后于需求，AI推动能源基础设施投资，近三百万家私营企业面临所有权交接。她认为，通过解决资本获取缺口（如经济适用房、员工持股）可创造有吸引力的风险调整后回报，同时支持长期经济增长。",
-      "summary_en": "Morgan Stanley Wealth Management CIO Lisa Shalett highlights an important inflection point in the US economy: housing supply continues to lag demand, AI is driving energy infrastructure investment, and nearly three million privately held businesses are approaching ownership transitions. She argues that addressing gaps in access to capital—such as affordable housing and employee ownership—can offer attractive risk-adjusted returns while supporting long-term economic growth.",
-      "detail_zh": "在摩根士丹利财富管理的影响力投资年度聚会上，首席投资官Lisa Shalett与投资主管Emily Thomas讨论了当前市场的结构性变化。Shalett指出，住房供给持续落后于需求，AI正在推动能源基础设施投资，而近三百万家由55岁以上个人持有的美国私营企业（代表超过10万亿美元资产）正面临所有权交接。她认为，经济适用房在公开和私募市场均存在机会，可提供分散化和潜在税收优惠收入。讨论还涉及K型经济：高收入家庭受益于资产升值，而低收入家庭面临财务压力，实际劳动收入增长持续为负，储蓄率下降。福特基金会使命投资负责人Roy Swan提出“正和”视角，强调员工持股可对齐利益，尤其在企业所有权交接浪潮下。Shalett引用研究称，所有权结构可积极影响财务表现，员工参与度、生产力和留存率影响股东盈利能力，私募资本可在融资这些所有权过渡中发挥作用。但她强调投资纪律仍然关键：估值、管理层质量、流动性和风险始终重要。投资潜力在于将资本配置到住房、商业发展等融资渠道有限的领域，以解决真实经济需求并创造长期增长途径。",
-      "detail_en": "At Morgan Stanley Wealth Management's annual impact investing gathering, CIO Lisa Shalett and Head of Investing Emily Thomas discussed structural changes in the market. Shalett noted that housing supply continues to lag demand, AI is driving investment in energy infrastructure, and nearly three million privately held US businesses—representing more than $10 trillion in assets—are owned by individuals aged 55 or older and approaching ownership transitions. She sees opportunities in affordable housing across both public and private markets, offering diversification and potentially tax-efficient income. The discussion also covered the K-shaped economy: higher-income households have benefited from asset appreciation, while lower-income households face mounting financial pressures, with real labor income growth remaining negative and savings rates declining. Roy Swan, head of Mission Investments at the Ford Foundation, offered a 'positive sum' perspective, emphasizing that employee ownership aligns interests, especially amid the wave of business ownership transitions. Shalett cited research showing ownership structures can positively influence financial performance, with employee engagement, productivity, and retention affecting shareholder profitability, and private capital can help finance these ownership transitions. However, she stressed that investment discipline remains essential: valuation, management quality, liquidity, and risk all continue to matter. The investment potential lies in deploying capital across housing, business development, and other areas where access to financing remains limited, addressing real economic needs and creating new avenues for long-term growth.",
-      "conclusion_zh": "影响力投资可通过解决资本获取缺口（如经济适用房、员工持股）提供有吸引力的风险调整后回报，同时支持长期经济增长，但需坚持估值与风险管理纪律。",
-      "conclusion_en": "Impact investing can offer attractive risk-adjusted returns by addressing gaps in access to capital—such as affordable housing and employee ownership—while supporting long-term economic growth, but valuation and risk management discipline remain essential.",
-      "key_points": [
-        {
-          "zh": "美国经济处于拐点：住房供给落后于需求，AI推动能源基础设施投资，近三百万家私营企业面临所有权交接。",
-          "en": "The US economy is at an inflection point: housing supply lags demand, AI drives energy infrastructure investment, and nearly three million private businesses face ownership transitions."
-        },
-        {
-          "zh": "K型经济分化：高收入家庭受益于资产升值，低收入家庭面临实际劳动收入负增长和储蓄率下降的压力。",
-          "en": "K-shaped economy divergence: higher-income households benefit from asset appreciation, while lower-income households face negative real labor income growth and declining savings rates."
-        },
-        {
-          "zh": "员工持股被视为对齐利益的有效方式，尤其在所有权交接浪潮下，私募资本可参与融资。",
-          "en": "Employee ownership is seen as an effective way to align interests, especially amid ownership transitions, with private capital playing a financing role."
-        },
-        {
-          "zh": "投资纪律仍关键：估值、管理层质量、流动性和风险始终重要。",
-          "en": "Investment discipline remains key: valuation, management quality, liquidity, and risk always matter."
-        }
-      ],
-      "tags": [
-        "impact investing",
-        "employee ownership",
-        "affordable housing",
-        "K-shaped economy",
-        "private capital"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:4VvX7ois_8A",
-      "title": "AMD Earnings 'Met the Bar,' Wedbush's Bryson Says",
-      "title_zh": "Wedbush分析师点评AMD营收指引超预期",
-      "url": "https://www.youtube.com/watch?v=4VvX7ois_8A",
-      "published_at": "2026-11-03T21:52:35+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Wedbush Securities硬件股票研究董事总经理Matt Bryson就AMD营收指引超出分析师预期发表评论。原文仅提及该访谈发生在Bloomberg The Close节目，未披露具体指引数字或分析师观点细节。",
-      "summary_en": "Matt Bryson, managing director of hardware equity research at Wedbush Securities, commented on Advanced Micro Devices' revenue forecast exceeding analysts' estimates. The source only notes the interview occurred on Bloomberg The Close, without disclosing specific guidance figures or details of the analyst's view.",
-      "detail_zh": "原文为一段简短的节目预告/摘要，仅说明Wedbush Securities硬件股票研究董事总经理Matt Bryson在Bloomberg The Close节目中，就AMD营收指引超出分析师预期一事作出回应。原文未提供AMD指引的具体数值、超出预期的幅度、Bryson的具体观点或评级，也未涉及任何财务数据、时间节点或因果分析。其余内容均为Bloomberg的社交媒体与订阅链接，与投资洞见无关。",
-      "detail_en": "The source is a brief program teaser/summary stating only that Matt Bryson, managing director of hardware equity research at Wedbush Securities, reacted on Bloomberg The Close to Advanced Micro Devices' revenue forecast exceeding analysts' estimates. It provides no specific guidance figures, no magnitude of the beat, no details of Bryson's view or rating, and no financial data, timing, or causal analysis. The remainder consists of Bloomberg social media and subscription links unrelated to investment insight.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "AMD营收指引超出分析师预期。",
-          "en": "AMD's revenue forecast exceeded analysts' estimates."
-        },
-        {
-          "zh": "Wedbush硬件研究董事总经理Matt Bryson就此发表评论。",
-          "en": "Matt Bryson, managing director of hardware equity research at Wedbush Securities, commented on the matter."
-        },
-        {
-          "zh": "评论出现在Bloomberg The Close节目。",
-          "en": "The commentary appeared on Bloomberg The Close."
-        },
-        {
-          "zh": "原文未披露指引具体数字或分析师详细观点。",
-          "en": "The source did not disclose specific guidance figures or detailed analyst views."
-        }
-      ],
-      "tags": [
-        "AMD",
-        "revenue guidance",
-        "semiconductors",
-        "analyst commentary"
-      ],
-      "tickers": [
-        "AMD"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:H270Z7pMjjM",
-      "title": "Texas, South Carolina Races Could Hinge on Candidate Quality, Says John Thomas",
-      "title_zh": "共和党策略师：得州与南卡关键选情趋紧",
-      "url": "https://www.youtube.com/watch?v=H270Z7pMjjM",
-      "published_at": "2026-11-03T21:45:17+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "共和党策略师John Thomas表示，由于共和党在得州和南卡推出了陷入困境或缺乏经验的候选人，两州关键选情比原本更胶着。但他对得州参议院选战仍持“谨慎乐观”态度，因民主党数十年来未能赢得全州公职。",
-      "summary_en": "Republican strategist John Thomas said key races in Texas and South Carolina are closer than they otherwise would be because Republicans are running embattled or inexperienced candidates. He remains 'cautiously optimistic' about the Texas Senate race, given Democrats have not won statewide office there in decades.",
-      "detail_zh": "Nestpoint董事总经理、共和党策略师John Thomas指出，得克萨斯州和南卡罗来纳州的关键选情比原本更为胶着，原因是共和党在这两州推出的候选人分别陷入困境或缺乏经验，他点名提到Ken Paxton和Darline Graham。尽管如此，Thomas表示他对得州的参议院选战仍持“谨慎乐观”态度，理由是在过去数十年里民主党一直未能赢得该州的全州公职。原文未提供更多关于候选人背景、民调数字或选情细节的信息。",
-      "detail_en": "John Thomas, Republican strategist and managing director of Nestpoint, said key races in Texas and South Carolina are closer than they otherwise would be because Republicans are running embattled or inexperienced candidates, naming Ken Paxton and Darline Graham. Still, Thomas said he is 'cautiously optimistic' about the Senate race in Texas, given that Democrats have not been able to win statewide office there in decades. The source provides no further details on the candidates' backgrounds, polling numbers, or race specifics.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "共和党策略师John Thomas称得州和南卡关键选情比原本更胶着。",
-          "en": "Republican strategist John Thomas said key races in Texas and South Carolina are closer than they otherwise would be."
-        },
-        {
-          "zh": "原因在于共和党推出了陷入困境或缺乏经验的候选人，他点名Ken Paxton和Darline Graham。",
-          "en": "The reason is that Republicans are running embattled or inexperienced candidates, naming Ken Paxton and Darline Graham."
-        },
-        {
-          "zh": "Thomas对得州参议院选战仍持“谨慎乐观”态度。",
-          "en": "Thomas remains 'cautiously optimistic' about the Texas Senate race."
-        },
-        {
-          "zh": "其乐观依据是民主党数十年来未能赢得得州全州公职。",
-          "en": "His optimism is based on Democrats not having won statewide office in Texas in decades."
-        }
-      ],
-      "tags": [
-        "Texas",
-        "South Carolina",
-        "Senate race",
-        "Republican Party",
-        "election"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "6aea4f92b1966848f3ae101b",
-      "title": "What Binance's historic heist means for crypto",
-      "title_zh": "币安遭史上最大规模黑客攻击，逾60亿美元一夜蒸发",
-      "url": "https://shows.acast.com/unhedged/episodes/adsfdafsd",
-      "published_at": "2026-11-03T21:22:50+00:00",
-      "source_name": "FT Unhedged",
-      "source_kind": "article",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "区块链平台币安发生史上最大规模盗窃案，一夜之间超过60亿美元资产消失。当局指向朝鲜为可能的幕后黑手，但币安表示将全额补偿客户。专栏作家Katie Martin与数字市场记者Nikou Asgari探讨此次事件，并质疑为何已有数十亿美元资金重新流入该平台。",
-      "summary_en": "Binance, the blockchain platform, suffered the largest heist ever with over $6bn vanishing overnight. Authorities point to North Korea as the likely culprit, but the company says it will make customers whole. Columnist Katie Martin and digital markets correspondent Nikou Asgari examine the breach and question why billions have already flowed back onto the platform.",
-      "detail_zh": "币安——这个本应最大且最安全的区块链平台——在一夜之间遭遇了史上最大规模的盗窃，超过60亿美元资产不翼而飞。当局认为朝鲜是可能的罪魁祸首，但币安公司表示将全额补偿客户，使客户不受损失。专栏作家Katie Martin和数字市场记者Nikou Asgari对此次安全漏洞进行了分析，并提出了一个疑问：为何在事件发生后，已有数十亿美元资金重新流回该平台。",
-      "detail_en": "Binance, the blockchain platform that is supposed to be the biggest and safest, experienced the largest heist ever, with more than $6bn vanishing within a single night. Authorities point to North Korea as the likely culprit, but the company says it will make customers whole. Columnist Katie Martin and digital markets correspondent Nikou Asgari look at the breach and wonder why billions of dollars have already flowed back onto the platform.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "币安一夜之间被盗超过60亿美元，为史上最大规模盗窃案。",
-          "en": "Over $6bn was stolen from Binance overnight, the largest heist ever."
-        },
-        {
-          "zh": "当局指向朝鲜为可能的幕后黑手。",
-          "en": "Authorities point to North Korea as the likely culprit."
-        },
-        {
-          "zh": "币安表示将全额补偿客户。",
-          "en": "Binance says it will make customers whole."
-        },
-        {
-          "zh": "事件发生后已有数十亿美元资金重新流回币安平台。",
-          "en": "Billions of dollars have already flowed back onto the platform after the breach."
-        }
-      ],
-      "tags": [
-        "Binance",
-        "hack",
-        "North Korea",
-        "crypto",
-        "security breach"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:QBkoENvGntA",
-      "title": "Super Micro Rallies on Strong AI Data Center Sales Outlook | Closing Bell",
-      "title_zh": "彭博电视美股收盘节目介绍",
-      "url": "https://www.youtube.com/watch?v=QBkoENvGntA",
-      "published_at": "2026-11-03T21:19:24+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅为彭博电视美股收盘节目的跨平台播出信息及社交媒体链接，未包含任何市场数据、观点或投资洞见。",
-      "summary_en": "The source text is merely promotional information and social media links for Bloomberg Television's U.S. market close program; it contains no market data, commentary, or investment insights.",
-      "detail_zh": "原文介绍彭博电视、彭博电台及YouTube对美股收盘的跨平台报道，由Vonnie Quinn、Carol Massar和Tim Stenovec主持。其余内容为订阅提醒、彭博网站及社交媒体账号链接。全文无任何市场走势、个股、宏观数据或分析师观点，无法提炼投资洞见。",
-      "detail_en": "The text describes comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube, hosted by Vonnie Quinn, Carol Massar, and Tim Stenovec. The remainder consists of subscription prompts and links to Bloomberg's website and social media accounts. There is no market data, stock-specific information, macroeconomic content, or analyst opinion, so no investment insight can be derived.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "原文为彭博电视美股收盘节目的宣传介绍",
-          "en": "The text is promotional material for Bloomberg Television's U.S. market close program."
-        },
-        {
-          "zh": "节目由Vonnie Quinn、Carol Massar和Tim Stenovec主持",
-          "en": "The program is hosted by Vonnie Quinn, Carol Massar, and Tim Stenovec."
-        },
-        {
-          "zh": "覆盖平台包括彭博电视、彭博电台和YouTube",
-          "en": "Coverage spans Bloomberg Television, Bloomberg Radio, and YouTube."
-        },
-        {
-          "zh": "原文不含任何市场数据、观点或投资洞见",
-          "en": "The source contains no market data, commentary, or investment insights."
-        }
-      ],
-      "tags": [
-        "bloomberg",
-        "market-close",
-        "media"
       ],
       "tickers": [],
       "sentiment": "neutral"
