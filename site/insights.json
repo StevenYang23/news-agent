@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-10T11:12:55.463325+00:00",
+  "generated_at": "2026-11-10T12:19:07.442044+00:00",
   "insights": [
+    {
+      "guid": "yt:evbuQIA4O7Y",
+      "title": "Oil and Gas Fall on Iran De-escalation Hopes",
+      "title_zh": "特朗普暗示无需打击伊朗，油价下跌，欧股受科技股提振有望创新高",
+      "url": "https://www.youtube.com/watch?v=evbuQIA4O7Y",
+      "published_at": "2026-11-10T11:25:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普表示无需对伊朗进行新打击，布伦特原油和欧洲天然气价格下跌。欧洲股市在科技股和银行股反弹以及能源价格下跌的推动下有望创下历史新高。节目还讨论了Anthropic IPO计划、英伟达面临的中国审查、软银意外亏损等议题。",
+      "summary_en": "President Trump signalled new strikes on Iran won't be necessary, causing Brent crude and European gas to fall. European stocks headed for a record high, boosted by a resurgence in tech shares and banks along with a decline in energy prices. The program also covered Anthropic IPO plans, Nvidia's growing China scrutiny, and SoftBank's surprise loss.",
+      "detail_zh": "布伦特原油和欧洲天然气价格在特朗普总统暗示无需对伊朗进行新打击后下跌。欧洲股市在科技股和银行股反弹以及能源价格下跌的推动下有望创下历史新高。节目议程包括Anthropic的IPO计划、英伟达面临日益增长的中国审查、软银意外亏损。HSBC CIO Willem Sels讨论了科技股轮动和市场波动性。State Street的Marija Veitmane讨论了科技股和AI数据中心。此外，节目还涉及法国贸易部长谈美欧关税、欧洲央行Philip Lane谈12月利率决议、英国央行和通胀前景等话题。",
+      "detail_en": "Brent crude and European gas fell after President Trump signalled new strikes on Iran won't be necessary. European stocks headed for a record high, boosted by a resurgence in tech shares and banks along with a decline in energy prices. The agenda included Anthropic IPO plans, Nvidia facing growing China scrutiny, and SoftBank's surprise loss. HSBC CIO Willem Sels discussed tech rotation and market volatility. State Street's Marija Veitmane discussed tech stocks and AI data centers. Other topics included French Trade Minister on US-EU tariffs, ECB's Philip Lane on a December rate decision, and Bank of England and inflation outlook.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普暗示无需对伊朗进行新打击，布伦特原油和欧洲天然气价格下跌。",
+          "en": "Trump signalled new strikes on Iran won't be necessary; Brent crude and European gas fell."
+        },
+        {
+          "zh": "欧洲股市在科技股和银行股反弹以及能源价格下跌的推动下有望创下历史新高。",
+          "en": "European stocks headed for a record high, boosted by a resurgence in tech shares and banks along with a decline in energy prices."
+        },
+        {
+          "zh": "节目议程包括Anthropic IPO计划、英伟达面临日益增长的中国审查、软银意外亏损。",
+          "en": "The agenda included Anthropic IPO plans, Nvidia facing growing China scrutiny, and SoftBank's surprise loss."
+        },
+        {
+          "zh": "HSBC CIO Willem Sels和State Street的Marija Veitmane讨论了科技股轮动、市场波动性和AI数据中心。",
+          "en": "HSBC CIO Willem Sels and State Street's Marija Veitmane discussed tech rotation, market volatility, and AI data centers."
+        }
+      ],
+      "tags": [
+        "oil",
+        "european stocks",
+        "tech rotation",
+        "Iran",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:278PK9ybgMg",
       "title": "Nvidia Lawyer Intervened in US AI Chip Smuggling Probe",
@@ -17021,96 +17066,6 @@
         "semiconductors",
         "hyperscaler capex",
         "IPO"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "4961369",
-      "title": "Midterm Elections And Your Portfolio",
-      "title_zh": "中期选举日：民主党横扫概率超75%，市场关注政策影响",
-      "url": "https://seekingalpha.com/article/4961369-midterm-elections-and-your-portfolio?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-03T12:18:24+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "美国中期选举今日投票，预测市场认为民主党横扫国会的概率超过75%。若民主党赢得任一议院，将冻结政府的立法议程，包括金融去监管和加密框架，但贸易政策因依赖行政权力而基本不受影响。Seeking Alpha调查显示，半数投资者选择维持长期配置，近三分之一持有现金以应对波动。",
-      "summary_en": "U.S. midterm elections are underway, with prediction markets pricing a Democratic sweep of Congress above 75%. A Democratic win in either chamber would freeze the administration's legislative priorities, including financial deregulation and crypto frameworks, while trade policy remains largely untouched due to executive powers. A Seeking Alpha poll shows half of investors staying the course in long-term allocations, with nearly a third holding cash to reduce volatility or buy post-election dips.",
-      "detail_zh": "美国中期选举今日投票，众议院全部435席和参议院100席中的35席面临改选。预测市场交易者目前将民主党横扫国会的概率推高至75%以上。若民主党赢得任一议院，将冻结政府的立法优先事项，实际上叫停金融去监管和加密框架等法定议程。贸易政策则基本不受影响，因为关税、出口管制和对外贸易调查依赖行政权力。能源和科技领域也呈现类似分化：白宫可利用行政权力优先化石燃料租赁和收紧芯片出口限制，而分裂的国会将捍卫清洁能源税收抵免，并利用委员会加强对大型科技公司的反垄断审查。在Seeking Alpha近期调查中，871名参与者中有一半表示尽管中期选举波动，仍维持长期配置；近三分之一建立了现金缓冲以减少波动或买入选举后下跌；13%正在重新平衡投资组合；仅9%积极交易能源、国防和金融等选举主题。",
-      "detail_en": "Americans vote today in midterm elections, with all 435 House seats and 35 of 100 Senate seats on the ballot. Prediction-market traders are pushing the odds of a Democratic sweep of Congress above 75%. A Democratic win in either chamber would freeze the administration's legislative priorities, effectively halting statutory efforts surrounding agendas like financial deregulation and crypto frameworks. Trade policy would remain largely untouched as tariffs, export controls, and foreign trade investigations rely on executive powers. Energy and tech face a similar split: the White House can use executive authority to prioritize fossil-fuel leasing and tighten chip export curbs, while a divided Congress would defend clean-energy tax credits and use committees to intensify Big Tech antitrust scrutiny. In a recent Seeking Alpha poll of 871 participants, half said to stay the course in long-term allocations despite midterm swings, nearly a third have built a cash cushion to reduce volatility or buy post-election dips, 13% are rebalancing, and only 9% are actively playing election themes like energy, defense, and financials.",
-      "conclusion_zh": "中期选举结果将决定立法议程的推进与否，但贸易和部分能源、科技政策仍可通过行政权力推进；投资者整体倾向于维持长期配置而非押注选举主题。",
-      "conclusion_en": "Midterm outcomes will determine whether legislative agendas advance, but trade and some energy/tech policies can still proceed via executive authority; investors largely favor staying the course over betting on election themes.",
-      "key_points": [
-        {
-          "zh": "预测市场显示民主党横扫国会概率超过75%，众议院全部435席和参议院35席改选。",
-          "en": "Prediction markets price a Democratic sweep of Congress above 75%, with all 435 House seats and 35 Senate seats on the ballot."
-        },
-        {
-          "zh": "民主党赢得任一议院将冻结金融去监管和加密框架等立法议程，但贸易政策因依赖行政权力而基本不受影响。",
-          "en": "A Democratic win in either chamber would freeze legislative agendas like financial deregulation and crypto frameworks, but trade policy remains largely untouched due to executive powers."
-        },
-        {
-          "zh": "能源和科技领域政策分化：白宫可行政推进化石燃料租赁和芯片出口限制，分裂国会则捍卫清洁能源税收抵免并加强科技反垄断审查。",
-          "en": "Energy and tech policy would split: the White House can use executive authority for fossil-fuel leasing and chip export curbs, while a divided Congress would defend clean-energy tax credits and intensify Big Tech antitrust scrutiny."
-        },
-        {
-          "zh": "Seeking Alpha调查：半数投资者维持长期配置，近三分之一持有现金缓冲，仅9%积极交易选举主题。",
-          "en": "Seeking Alpha poll: half of investors stay the course in long-term allocations, nearly a third hold cash cushions, and only 9% actively play election themes."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "Democratic sweep",
-        "policy outlook",
-        "investor positioning"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:OMoKnV4gg5w",
-      "title": "US Election Day Kicks Off: Stocks Slip, Oil Rebounds",
-      "title_zh": "油价反弹与中期选举前市场情绪谨慎，美股期货小幅走低",
-      "url": "https://www.youtube.com/watch?v=OMoKnV4gg5w",
-      "published_at": "2026-11-03T11:25:33+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美股期货下跌，因美伊和平协议前景不明导致油价反弹，叠加中期选举投票前风险情绪低迷。标普500期货跌0.2%，布伦特原油涨1.7%至106美元上方；纳斯达克100期货持平，该指数已进入技术性回调。",
-      "summary_en": "US equity futures fell as oil prices rebounded on worries that the US and Iran remain far apart on a peace deal, adding to subdued risk sentiment before midterm elections. S&P 500 contracts slipped 0.2%, Brent crude rose 1.7% to above $106 a barrel, and flat Nasdaq 100 futures signaled a steadier start after the index entered a technical correction.",
-      "detail_zh": "美股期货在中期选举投票开始前走低，标普500期货下跌0.2%。布伦特原油上涨1.7%至每桶106美元上方，路透报道称尽管华盛顿和德黑兰均释放愿意外交解决的信号，但结束战争仍存在重大障碍。纳斯达克100期货持平，暗示人工智能交易在经历技术性回调后开局趋稳。节目议程还提及芯片股因科技股紧张情绪持续而遭抛售，以及油价在下跌8%后企稳。此外，节目讨论了中期选举结果对市场仓位、油价波动和地缘政治影响，以及苹果和Palantir财报对AI势头的关注。",
-      "detail_en": "US equity futures traded lower ahead of the start of midterm election voting, with S&P 500 contracts down 0.2%. Brent crude rose 1.7% to above $106 a barrel, with Reuters reporting that significant obstacles to ending the war remained despite signs from both Washington and Tehran that they were open to a diplomatic settlement. Nasdaq 100 futures were flat, signaling a steadier start for the AI trade after the index entered a technical correction. The agenda also noted chip stocks selling off as tech jitters lingered, and oil steadying after an 8% fall. Additionally, the program discussed how markets are positioned for midterm results, oil volatility and the market impact of geopolitics, as well as Apple and Palantir earnings putting AI momentum in focus.",
-      "conclusion_zh": "地缘政治风险与中期选举不确定性叠加，油价反弹压制风险偏好，科技股尤其是AI相关交易在回调后走势分化，投资者需关注选举结果与油价波动对市场仓位的冲击。",
-      "conclusion_en": "Geopolitical risk and midterm election uncertainty, combined with rebounding oil prices, are weighing on risk appetite, with tech stocks—especially AI-related trades—showing divergence after a correction; investors should watch election results and oil volatility for market positioning impacts.",
-      "key_points": [
-        {
-          "zh": "标普500期货下跌0.2%，因美伊和平协议前景不明导致油价反弹，叠加中期选举前风险情绪低迷。",
-          "en": "S&P 500 futures slipped 0.2% as oil rebounded on uncertainty over a US-Iran peace deal, adding to subdued risk sentiment before midterms."
-        },
-        {
-          "zh": "布伦特原油上涨1.7%至每桶106美元上方，路透报道称结束战争仍存在重大障碍。",
-          "en": "Brent crude rose 1.7% to above $106 a barrel, with Reuters reporting significant obstacles to ending the war remained."
-        },
-        {
-          "zh": "纳斯达克100期货持平，该指数已进入技术性回调，AI交易开局趋稳。",
-          "en": "Nasdaq 100 futures were flat, with the index having entered a technical correction, signaling a steadier start for the AI trade."
-        },
-        {
-          "zh": "芯片股因科技股紧张情绪持续而遭抛售，油价在下跌8%后企稳。",
-          "en": "Chip stocks sold off as tech jitters lingered, while oil steadied after an 8% fall."
-        }
-      ],
-      "tags": [
-        "oil",
-        "midterm elections",
-        "US-Iran",
-        "AI trade",
-        "equity futures"
       ],
       "tickers": [],
       "sentiment": "negative"
