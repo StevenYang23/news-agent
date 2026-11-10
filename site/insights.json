@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T05:13:35.027079+00:00",
+  "generated_at": "2026-11-10T06:21:02.309139+00:00",
   "insights": [
     {
       "guid": "yt:SoUu0bTs-rg",
@@ -17009,56 +17009,6 @@
       ],
       "tickers": [],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:y-mYlz5bUTc",
-      "title": "Asian Stocks Fall Ahead of US Midterms",
-      "title_zh": "纳斯达克100进入回调，AI疑虑加深；Anthropic承诺8950亿美元支出",
-      "url": "https://www.youtube.com/watch?v=y-mYlz5bUTc",
-      "published_at": "2026-11-03T05:43:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博亚洲交易时段报道，纳斯达克100指数进入回调，市场对AI的疑虑加深。Anthropic在大型IPO临近之际承诺8950亿美元支出。苹果业绩指引超预期但令投资者失望。",
-      "summary_en": "Bloomberg: The Asia Trade reports the Nasdaq 100 has entered a correction as doubts about AI deepen. Anthropic commits to $895B in spending as a mega-IPO nears. Apple's forecast tops estimates but disappoints investors.",
-      "detail_zh": "彭博《亚洲交易》节目梳理了全球市场主要动态。纳斯达克100指数进入回调，反映市场对AI的疑虑加深。Anthropic在大型IPO临近之际承诺8950亿美元支出。苹果公司发布的业绩指引超出市场预期，但投资者反应失望。调查显示澳洲联储（RBA）预计将加息至4.85%。独家专访中，富兰克林邓普顿CEO Jenny Johnson讨论AI交易与印尼MSCI警告；香港金管局总裁余伟文谈香港增长前景；L&G资产管理CEO Eric Adler谈私募资产策略与亚太展望。此外，中国股票回购规模激增至接近2025年全年水平；中国人民银行宣布将外汇存款准备金率上调2个百分点。",
-      "detail_en": "Bloomberg: The Asia Trade covers key global market developments. The Nasdaq 100 has entered a correction as doubts about AI deepen. Anthropic commits to $895B in spending as a mega-IPO nears. Apple's forecast tops estimates but disappoints investors. A survey indicates the RBA is expected to raise rates to 4.85%. In exclusive interviews, Franklin Templeton CEO Jenny Johnson discusses the AI trade and Indonesia's MSCI warning; HKMA Chief Executive Eddie Yue talks about Hong Kong's growth outlook; L&G Asset Management CEO Eric Adler discusses private asset strategy and the APAC outlook. Additionally, Chinese share buybacks have surged to near full-year 2025 levels, and the PBOC announced a 2 percentage point increase in the forex reserve requirement ratio.",
-      "conclusion_zh": "纳斯达克100进入回调且AI疑虑加深，叠加苹果指引超预期但市场失望，显示科技股情绪转弱；同时需关注澳洲联储加息预期与中国人民银行上调外汇准备金率等宏观信号。",
-      "conclusion_en": "The Nasdaq 100's correction and deepening AI doubts, along with Apple's forecast beating estimates but disappointing investors, point to weakening tech sentiment; meanwhile, watch macro signals such as the RBA rate hike expectation and the PBOC's forex reserve requirement ratio increase.",
-      "key_points": [
-        {
-          "zh": "纳斯达克100指数进入回调，AI疑虑加深",
-          "en": "Nasdaq 100 enters correction as AI doubts deepen"
-        },
-        {
-          "zh": "Anthropic在大型IPO临近之际承诺8950亿美元支出",
-          "en": "Anthropic commits to $895B in spending as mega-IPO nears"
-        },
-        {
-          "zh": "苹果业绩指引超预期但令投资者失望",
-          "en": "Apple's forecast tops estimates but disappoints investors"
-        },
-        {
-          "zh": "调查显示澳洲联储预计将加息至4.85%",
-          "en": "Survey: RBA expected to raise rates to 4.85%"
-        },
-        {
-          "zh": "中国人民银行将外汇存款准备金率上调2个百分点",
-          "en": "PBOC to raise forex reserve requirement ratio by 2 ppts"
-        }
-      ],
-      "tags": [
-        "Nasdaq 100",
-        "AI",
-        "Anthropic",
-        "Apple",
-        "RBA",
-        "PBOC"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
