@@ -1,6 +1,179 @@
 {
-  "generated_at": "2026-11-10T00:30:59.019186+00:00",
+  "generated_at": "2026-11-10T03:17:12.358882+00:00",
   "insights": [
+    {
+      "guid": "yt:SoUu0bTs-rg",
+      "title": "Articles of Impeachment Introduced Against Hegseth",
+      "title_zh": "英伟达CEO承认与中国间谍有不当关系，国会关注国家安全与出口管制",
+      "url": "https://www.youtube.com/watch?v=SoUu0bTs-rg",
+      "published_at": "2026-11-09T23:58:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋承认与中国间谍有不当关系，公司已启动独立调查。众议员吉梅内斯称此为高层国家安全漏洞，强调应加强敏感技术出口管制。",
+      "summary_en": "NVIDIA CEO Jensen Huang admitted to an inappropriate relationship with a Chinese spy, prompting an independent investigation. Congressman Gimenez called it a high-level national security breach and stressed stricter export controls on sensitive technology.",
+      "detail_zh": "在华盛顿举行的“权力平衡”节目中，主持人凯莉·莱因兹报道，英伟达CEO黄仁勋承认与中国间谍有不当关系，公司已启动独立调查，引发对国家安全及黄仁勋领导力的新质疑。佛罗里达州共和党众议员卡洛斯·吉梅内斯（中国问题特别委员会成员）表示，委员会需要答案，并称英伟达生产全球最先进芯片，对国家安全至关重要，此事是“相当高层的国家安全漏洞”。他同意民主党同僚格雷格·斯坦顿的观点，认为新国会应优先执行敏感技术（如英伟达芯片）的出口管制，并称“不应把最好的技术给对手”。此外，节目还讨论了针对国防部长皮特·赫格塞斯的弹劾条款、政府拨款、移民改革及领导权选举等议题。",
+      "detail_en": "On \"Balance of Power\" from Washington, host Kailey Leinz reported that NVIDIA CEO Jensen Huang admitted to an inappropriate relationship with a Chinese spy, and the company has launched an independent investigation, raising fresh questions about national security and Huang's leadership. Republican Congressman Carlos Gimenez (member of the China Select Committee) said the committee needs answers, noting NVIDIA produces some of the world's most advanced chips critical to national security, calling it a \"breach of national security at a pretty high level.\" He agreed with Democrat Greg Stanton that the new Congress should prioritize enforcing export controls on sensitive technologies like NVIDIA chips, saying \"we should always keep our best technology to ourselves.\" The program also covered impeachment articles against Defense Secretary Pete Hegseth, government funding, immigration reform, and leadership elections.",
+      "conclusion_zh": "英伟达CEO涉间谍关系事件可能加剧美国对华技术出口管制的政策风险，投资者需关注相关立法与监管动向对半导体板块的潜在影响。",
+      "conclusion_en": "The NVIDIA CEO spy relationship incident may heighten policy risks around U.S. technology export controls to China; investors should watch legislative and regulatory developments for potential impact on the semiconductor sector.",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋承认与中国间谍有不当关系，公司已启动独立调查。",
+          "en": "NVIDIA CEO Jensen Huang admitted to an inappropriate relationship with a Chinese spy; the company has launched an independent investigation."
+        },
+        {
+          "zh": "众议员吉梅内斯称此为高层国家安全漏洞，强调英伟达芯片对国家安全至关重要。",
+          "en": "Congressman Gimenez called it a high-level national security breach, stressing NVIDIA chips are critical to national security."
+        },
+        {
+          "zh": "吉梅内斯同意应优先执行敏感技术出口管制，防止对手获取美国最好的技术。",
+          "en": "Gimenez agreed that enforcing export controls on sensitive technology should be a priority to prevent adversaries from obtaining the best U.S. technology."
+        }
+      ],
+      "tags": [
+        "NVIDIA",
+        "export controls",
+        "national security",
+        "China",
+        "semiconductors"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:FNtU6qj11b8",
+      "title": "Short Says Huang China Trip Would Be a Big Mistake",
+      "title_zh": "前彭斯幕僚长评特朗普人事与英伟达出口管制",
+      "url": "https://www.youtube.com/watch?v=FNtU6qj11b8",
+      "published_at": "2026-11-09T23:31:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Marc Short 认为特朗普擅长转移舆论焦点，任命 Stephen Miller 为白宫幕僚长有助于摆脱中期选举失利的影响；他指出两党政治将使 bipartisan 协议难以达成，并称英伟达 CEO 黄仁勋相关爆料“令人震惊”，中国成功促使政府改变出口管制立场，预计国会将展开调查。",
+      "summary_en": "Marc Short says Trump is \"terrific at changing headlines\" and that naming Stephen Miller as White House Chief of Staff helped turn the page from Republicans' midterm losses. He says politics on both sides will make bipartisan deals difficult, calls revelations involving Nvidia CEO Jensen Huang \"shocking,\" and says China succeeded in getting the administration to change its export-control position, expecting congressional investigations.",
+      "detail_zh": "前副总统彭斯的前幕僚长 Marc Short 在 Bloomberg \"Balance of Power\" 节目中表示，特朗普总统“非常擅长改变新闻头条”，并认为宣布 Stephen Miller 出任白宫幕僚长有助于让共和党摆脱中期选举失利的影响。Short 指出，两党政治将使达成两党协议变得困难，即使特朗普政府的经济政策与参议员 Bernie Sanders 和 Elizabeth Warren 的立场有重叠之处也是如此。Short 称副总统 JD Vance 选后分析“愚蠢”，并称这“削弱了他的角色”，认为政府应转而关注如何解决选民的关切。Short 称涉及英伟达 CEO 黄仁勋的爆料“令人震惊”，并表示中国成功促使政府改变出口管制立场，他预计国会将展开调查。",
+      "detail_en": "Marc Short, former Chief of Staff to former Vice President Mike Pence, said on Bloomberg's \"Balance of Power\" that President Donald Trump is \"terrific at changing headlines\" and that announcing Stephen Miller as White House Chief of Staff helped turn the page from Republicans' midterm losses. Short said politics on both sides will make bipartisan deals difficult, even where the Trump administration's economic policies overlap with positions held by Sens. Bernie Sanders and Elizabeth Warren. Short called Vice President JD Vance's post-election analysis \"foolish\" and said it \"diminishes his role,\" arguing the administration should instead focus on how it will address voters' concerns. Short called the revelations involving Nvidia CEO Jensen Huang \"shocking\" and said China was successful in getting the administration to change its position on export controls, adding that he expects congressional investigations.",
+      "conclusion_zh": "英伟达出口管制立场可能因中国施压而调整，国会调查风险值得关注。",
+      "conclusion_en": "Nvidia export-control stance may have shifted under Chinese pressure, with congressional investigation risk worth watching.",
+      "key_points": [
+        {
+          "zh": "Short 称特朗普擅长改变新闻头条，任命 Stephen Miller 为白宫幕僚长有助于转移中期选举失利的焦点。",
+          "en": "Short says Trump is \"terrific at changing headlines\" and naming Stephen Miller as Chief of Staff helped turn the page from midterm losses."
+        },
+        {
+          "zh": "Short 认为两党政治将使两党协议难以达成，即使经济政策与 Sanders、Warren 立场有重叠。",
+          "en": "Short says politics on both sides will make bipartisan deals difficult, even where economic policies overlap with Sanders and Warren."
+        },
+        {
+          "zh": "Short 称副总统 JD Vance 的选后分析“愚蠢”并“削弱了他的角色”。",
+          "en": "Short calls VP JD Vance's post-election analysis \"foolish\" and says it \"diminishes his role.\""
+        },
+        {
+          "zh": "Short 称涉及英伟达 CEO 黄仁勋的爆料“令人震惊”，中国成功促使政府改变出口管制立场，预计国会将调查。",
+          "en": "Short calls revelations involving Nvidia CEO Jensen Huang \"shocking,\" says China succeeded in changing the administration's export-control position, and expects congressional investigations."
+        }
+      ],
+      "tags": [
+        "export controls",
+        "Nvidia",
+        "White House",
+        "China",
+        "congressional investigation"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:HaV-tKJaAoE",
+      "title": "Sen. Armstrong Says Time Is of the Essence on Permitting",
+      "title_zh": "参议员Armstrong：许可改革是长期基建解决方案，但非即时可负担性解药",
+      "url": "https://www.youtube.com/watch?v=HaV-tKJaAoE",
+      "published_at": "2026-11-09T23:24:30+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "参议员Alan Armstrong表示，许可改革将为基础设施建设提供长期、持久的解决方案，并将低成本能源资源连接至消费者，但他警告这并非解决可负担性问题的即时方案。他称在多年辩论后，必须抓住跛脚鸭会期通过两党法案，且不担心特朗普关于风机部件的反对，因为立法是技术中立的。",
+      "summary_en": "Sen. Alan Armstrong says permitting reform would provide a long-term, durable fix for building infrastructure and connecting lower-cost energy resources to consumers, but cautions it is not an immediate solution to affordability. He says time is of the essence to pass the bipartisan bill during the lame-duck session after years of debate, and he is not concerned by President Trump's comment opposing a permitting bill with wind turbine components because the legislation is source-neutral.",
+      "detail_zh": "参议员Alan Armstrong（俄克拉荷马州共和党）在彭博“Balance of Power”节目中表示，许可改革将为建设基础设施和将低成本能源资源连接至消费者提供长期、持久的解决方案。但他同时警告，这并非解决可负担性问题的即时方案。Armstrong称，经过多年辩论，必须抓住跛脚鸭会期通过这项两党法案，时间至关重要。对于总统特朗普表示不会签署包含风机部件的许可法案的言论，Armstrong表示并不担心，因为该立法是技术中立的，不偏向风能、太阳能或天然气。",
+      "detail_en": "Sen. Alan Armstrong (R-OK) said on Bloomberg's \"Balance of Power\" that permitting reform would provide a long-term, durable fix for building infrastructure and connecting lower-cost energy resources to consumers. However, he cautioned that it is not an immediate solution to affordability. Armstrong said time is of the essence to pass the bipartisan bill during the lame-duck session after years of debate. Regarding President Donald Trump's comment that he would not sign a permitting bill with wind turbine components, Armstrong said he is not concerned because the legislation is source-neutral and does not favor wind, solar or gas.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "许可改革是长期、持久的基建解决方案，但非即时可负担性解药。",
+          "en": "Permitting reform is a long-term, durable infrastructure fix, but not an immediate affordability solution."
+        },
+        {
+          "zh": "必须抓住跛脚鸭会期通过两党法案，时间至关重要。",
+          "en": "Time is of the essence to pass the bipartisan bill during the lame-duck session."
+        },
+        {
+          "zh": "立法技术中立，不偏向风能、太阳能或天然气，因此不担心特朗普的反对。",
+          "en": "The legislation is source-neutral and does not favor wind, solar or gas, so Trump's opposition is not a concern."
+        }
+      ],
+      "tags": [
+        "permitting reform",
+        "energy infrastructure",
+        "bipartisan bill",
+        "lame-duck session"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_5TI_x2FIEs",
+      "title": "Rep. Gimenez Says Nvidia Affair Raises Security Concerns",
+      "title_zh": "共和党议员Gimenez：中国特别委员会需查明黄仁勋与中国的确切关系",
+      "url": "https://www.youtube.com/watch?v=_5TI_x2FIEs",
+      "published_at": "2026-11-09T23:21:45+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国众议员Carlos Gimenez表示，中国特别委员会需要就英伟达CEO黄仁勋与中国关系的具体性质获得答案，并称此事为“相当高层级的国家安全漏洞”。他还表示除非有新情况，否则“很可能”反对针对国防部长Hegseth的弹劾条款，并认为移民执法“有些过头”，国会应在跛脚鸭会期结束前推动全面移民改革。",
+      "summary_en": "Rep. Carlos Gimenez (R-FL) said the China Select Committee needs answers on the exact nature of Nvidia CEO Jensen Huang's relationship with China, calling it \"a breach of national security at a pretty high level.\" He also said he is \"probably a no\" on impeachment articles against Defense Secretary Pete Hegseth unless something new emerges, and that immigration enforcement has gone \"a little too far,\" urging Congress to pursue comprehensive immigration reform before the lame-duck session ends.",
+      "detail_zh": "众议员Carlos Gimenez（佛罗里达州共和党）在Bloomberg“Balance of Power”节目中接受Kailey Leinz采访时表示，中国特别委员会需要就英伟达CEO黄仁勋与中国关系的具体性质获得答案，并将此事称为“相当高层级的国家安全漏洞”。在国防部长Pete Hegseth的弹劾问题上，Gimenez表示除非有新情况曝光，他“很可能投反对票”，理由是Hegseth是在执行总统的命令。关于移民问题，Gimenez认为移民执法“有些过头”，并表示国会应在跛脚鸭会期结束前推动全面移民改革。上述表态涉及国家安全审查、内阁官员弹劾与移民立法三个政策方向，但原文未提供更多细节或后续安排。",
+      "detail_en": "In an interview with Kailey Leinz on Bloomberg's \"Balance of Power,\" Rep. Carlos Gimenez (R-FL) said the China Select Committee needs answers about the exact nature of Nvidia CEO Jensen Huang's relationship with China, calling it \"a breach of national security at a pretty high level.\" On the impeachment articles against Defense Secretary Pete Hegseth, Gimenez said he is \"probably a no\" unless something comes to light, arguing Hegseth was carrying out orders from the President. On immigration, Gimenez said enforcement has gone \"a little too far\" and that Congress should pursue comprehensive immigration reform before the lame-duck session ends. The remarks touch on national security scrutiny, a cabinet impeachment, and immigration legislation, but the source provides no further details or next steps.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Gimenez称中国特别委员会需查明黄仁勋与中国关系的具体性质，并称之为“相当高层级的国家安全漏洞”。",
+          "en": "Gimenez said the China Select Committee needs answers on the exact nature of Jensen Huang's relationship with China, calling it \"a breach of national security at a pretty high level.\""
+        },
+        {
+          "zh": "Gimenez表示除非有新情况曝光，否则“很可能”反对针对国防部长Hegseth的弹劾条款，认为Hegseth是在执行总统命令。",
+          "en": "Gimenez said he is \"probably a no\" on impeachment articles against Defense Secretary Hegseth unless something comes to light, arguing Hegseth was carrying out the President's orders."
+        },
+        {
+          "zh": "Gimenez认为移民执法“有些过头”，国会应在跛脚鸭会期结束前推动全面移民改革。",
+          "en": "Gimenez said immigration enforcement has gone \"a little too far\" and Congress should pursue comprehensive immigration reform before the lame-duck session ends."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "China",
+        "national security",
+        "impeachment",
+        "immigration"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:lgUH70gZKnk",
       "title": "The Close 11/9/2026",
