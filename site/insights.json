@@ -1,6 +1,185 @@
 {
-  "generated_at": "2026-11-10T19:12:59.919580+00:00",
+  "generated_at": "2026-11-10T20:14:29.891199+00:00",
   "insights": [
+    {
+      "guid": "yt:-SjpSgOwxXA",
+      "title": "Strong Jobs Data Keeps the Fed Focused on Inflation | Presented by CME Group",
+      "title_zh": "美国就业数据强劲，为美联储聚焦通胀提供空间",
+      "url": "https://www.youtube.com/watch?v=-SjpSgOwxXA",
+      "published_at": "2026-11-10T19:50:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国非农就业数据强于预期且失业率下降，使美联储有余地将通胀作为首要任务。在初请失业金人数维持低位、招聘保持稳健的背景下，市场关注劳动力市场需恶化到何种程度才会迫使美联储转向保护就业。",
+      "summary_en": "Stronger-than-expected US payrolls and a decline in unemployment are giving the Fed room to keep inflation as its top priority. With jobless claims remaining low and hiring holding up, the question is how much labor market deterioration would force a shift toward protecting jobs.",
+      "detail_zh": "美国非农就业数据强于预期，同时失业率出现下降，这为美联储继续将抑制通胀作为政策重心提供了空间。初请失业金人数维持在低位，招聘活动保持稳健，显示劳动力市场当前仍有韧性。在这一背景下，核心问题在于劳动力市场需要恶化到什么程度，才会促使美联储将政策目标转向保护就业。原文未提供具体就业数据、失业率数值或美联储官员表态，仅提出上述政策权衡问题。",
+      "detail_en": "US payrolls came in stronger than expected and the unemployment rate declined, giving the Federal Reserve room to keep inflation as its top priority. Jobless claims remain low and hiring is holding up, indicating continued labor market resilience. Against this backdrop, the key question is how much deterioration in the labor market would force a shift toward protecting jobs. The original text does not provide specific payroll figures, unemployment rate levels, or Fed officials' comments; it only raises this policy trade-off question.",
+      "conclusion_zh": "劳动力市场韧性降低了美联储短期内转向保就业的紧迫性，通胀仍是政策重心；后续需关注就业数据恶化程度作为政策转向的潜在触发点。",
+      "conclusion_en": "Labor market resilience reduces the urgency for the Fed to shift toward protecting jobs in the near term, with inflation remaining the policy focus; watch the degree of labor market deterioration as a potential trigger for a policy shift.",
+      "key_points": [
+        {
+          "zh": "美国非农就业数据强于预期，失业率下降。",
+          "en": "US payrolls were stronger than expected and unemployment declined."
+        },
+        {
+          "zh": "劳动力市场韧性为美联储继续以通胀为首要目标提供空间。",
+          "en": "Labor market resilience gives the Fed room to keep inflation as its top priority."
+        },
+        {
+          "zh": "初请失业金人数维持低位，招聘保持稳健。",
+          "en": "Jobless claims remain low and hiring is holding up."
+        },
+        {
+          "zh": "关键问题是劳动力市场需恶化到何种程度才会迫使美联储转向保护就业。",
+          "en": "The key question is how much labor market deterioration would force a shift toward protecting jobs."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "labor market",
+        "inflation",
+        "payrolls"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:iUYlhmAIF7A",
+      "title": "El Niño Threatens Brazil’s Record Soybean Crop | Presented by CME Group",
+      "title_zh": "巴西大豆产量预期创纪录，但厄尔尼诺天气风险尚未兑现",
+      "url": "https://www.youtube.com/watch?v=iUYlhmAIF7A",
+      "published_at": "2026-11-10T19:48:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国农业部预测巴西大豆产量将达1.86亿吨，有望创下纪录。但厄尔尼诺可能增强，并在关键生长月份给主要产区带来干旱，大部分天气风险尚未到来，创纪录产量预期面临潜在威胁。",
+      "summary_en": "The USDA forecasts Brazil's soybean production at 186 million tons, on track for a record harvest. However, a strengthening El Niño could bring dry conditions to key growing regions during critical months ahead, with most weather risk still to come, putting record crop expectations under threat.",
+      "detail_zh": "美国农业部（USDA）预测巴西大豆产量将达到1.86亿吨，巴西正朝着创纪录的大豆收成迈进。但报告同时指出，厄尔尼诺现象可能增强，在接下来的关键月份给主要大豆产区带来干旱条件。目前大部分天气风险尚未兑现，这意味着创纪录的产量预期仍可能受到威胁。原文以提问方式呈现这一矛盾：在天气风险尚未充分显现的情况下，巴西创纪录的作物预期是否会面临挑战。内容由CME Group赞助，属于Bloomberg Quicktake内容。",
+      "detail_en": "The USDA forecasts Brazil's soybean production at 186 million tons, putting the country on track for a record soybean harvest. However, the report notes that a strengthening El Niño could bring dry conditions to key growing regions during the critical months ahead. Most of the weather risk is still to come, meaning the record production expectations could still be threatened. The original frames this as a question: with most weather risk still ahead, could Brazil's record crop expectations be under threat? The content is presented by CME Group as part of Bloomberg Quicktake.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "USDA预测巴西大豆产量为1.86亿吨，有望创纪录。",
+          "en": "The USDA forecasts Brazil's soybean production at 186 million tons, on track for a record."
+        },
+        {
+          "zh": "厄尔尼诺可能增强，在关键生长月份给主要产区带来干旱。",
+          "en": "A strengthening El Niño could bring dry conditions to key growing regions during critical months."
+        },
+        {
+          "zh": "大部分天气风险尚未到来，创纪录产量预期可能受到威胁。",
+          "en": "Most weather risk is still to come, and record crop expectations could be under threat."
+        }
+      ],
+      "tags": [
+        "Brazil",
+        "soybeans",
+        "El Nino",
+        "USDA",
+        "agriculture"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:bnfxnZe3BdY",
+      "title": "Gold Caught Between Opposing Forces | Presented by CME Group",
+      "title_zh": "黄金多空拉锯：地缘风险与能源价格推升避险需求，强美元与高实际收益率构成压制",
+      "url": "https://www.youtube.com/watch?v=bnfxnZe3BdY",
+      "published_at": "2026-11-10T19:46:53+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "地缘政治紧张与能源价格上涨正推动黄金的避险需求，但强势美元和高企的实际收益率对金价形成反向拉力。央行储备多元化与美联储鹰派立场构成两股相反力量，最终哪一方主导贵金属价格走势尚待观察。",
+      "summary_en": "Geopolitical tensions and rising energy prices are fueling safe-haven demand for gold, while a stronger US dollar and elevated real yields are pulling prices in the opposite direction. Central bank reserve diversification and the Fed's hawkish stance represent opposing forces, and it remains to be seen which will ultimately drive precious metals prices.",
+      "detail_zh": "原文指出，当前黄金市场存在两股方向相反的力量。一方面，地缘政治紧张局势和能源价格上涨正在推动对黄金的避险需求。另一方面，强势美元和高企的实际收益率对金价形成压制。此外，各国央行正在推进储备多元化，而美联储维持鹰派立场。原文以提问方式收尾：在这两股力量中，最终哪一方将主导贵金属价格，目前尚无定论。原文未提供具体价格、涨跌幅或时间框架等数据。",
+      "detail_en": "The source identifies two opposing forces in the gold market. On one side, geopolitical tensions and rising energy prices are fueling safe-haven demand for gold. On the other, a stronger US dollar and elevated real yields are weighing on prices. Additionally, central banks are diversifying reserves while the Fed maintains a hawkish stance. The source closes with a question: which of these forces will ultimately drive precious metals prices remains unresolved. No specific prices, percentage moves, or time frames are provided.",
+      "conclusion_zh": "黄金短期处于避险买盘与强美元/高实际收益率的拉锯之中，方向取决于这两股力量的相对强弱，需关注央行储备多元化与美联储政策路径的演变。",
+      "conclusion_en": "Gold is caught between safe-haven buying and the drag from a strong dollar and high real yields; direction depends on the relative strength of these forces, with central bank reserve diversification and the Fed's policy path as key variables to watch.",
+      "key_points": [
+        {
+          "zh": "地缘政治紧张与能源价格上涨推动黄金避险需求",
+          "en": "Geopolitical tensions and rising energy prices are fueling safe-haven demand for gold"
+        },
+        {
+          "zh": "强势美元与高企的实际收益率对金价构成反向压制",
+          "en": "A stronger US dollar and elevated real yields are pulling gold prices in the opposite direction"
+        },
+        {
+          "zh": "各国央行正在推进储备多元化",
+          "en": "Central banks are diversifying reserves"
+        },
+        {
+          "zh": "美联储维持鹰派立场",
+          "en": "The Fed maintains a hawkish stance"
+        },
+        {
+          "zh": "最终哪股力量主导贵金属价格尚无定论",
+          "en": "Which force will ultimately drive precious metals prices remains an open question"
+        }
+      ],
+      "tags": [
+        "gold",
+        "safe-haven",
+        "us-dollar",
+        "real-yields",
+        "fed"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lLEZaDXhc38",
+      "title": "Could AI Change Who Wins the Booking? | Thoughts on the Market",
+      "title_zh": "摩根士丹利：AI代理或降低酒店分销成本并提升品牌利润率",
+      "url": "https://www.youtube.com/watch?v=lLEZaDXhc38",
+      "published_at": "2026-11-10T19:43:02+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "摩根士丹利美国博彩、住宿与休闲分析师Steven Grahamling指出，大语言模型目前在搜索结果中相对独立酒店更倾向于展示品牌，相对第三方网站更倾向于展示品牌官网。这一趋势有望降低分销成本、改善业主利润率，进而推动品牌开发，甚至可能带来更高的特许权使用费率。",
+      "summary_en": "Morgan Stanley US gaming, lodging and leisure analyst Steven Grahamling said large language models are currently surfacing more brands relative to independents and more brand.com relative to third-party websites. This matters because it should reduce distribution costs and improve margins for owners, which in turn should drive more development for the brands and potentially even higher royalty rates.",
+      "detail_zh": "摩根士丹利美国博彩、住宿与休闲分析师Steven Grahamling在播客中表示，AI代理能够根据用户偏好交叉核对酒店位置、价格、设施及忠诚度计划的未来已比想象中更近。该行的分析发现，大语言模型目前在搜索结果中相对独立酒店更倾向于展示品牌，相对第三方网站更倾向于展示品牌官网。Grahamling指出，这一点很重要，因为它将降低分销成本并改善业主利润率，进而推动品牌获得更多开发项目，甚至可能带来更高的特许权使用费率。他建议关注Thoughts on the Market以了解更多观点及其对旅游板块的影响。",
+      "detail_en": "Morgan Stanley US gaming, lodging and leisure analyst Steven Grahamling said on the podcast that a future where an AI agent can take a user's preferences and cross-check hotel locations, pricing, amenities and loyalty programs is closer than people think. The firm's analysis found that large language models are currently surfacing more brands relative to independents and more brand.com relative to third-party websites. Grahamling said this is important because it will reduce distribution costs and improve margins for owners, which in turn will drive more development for the brands and potentially even higher royalty rates. He pointed listeners to Thoughts on the Market for more on the firm's views and implications for the travel sector.",
+      "conclusion_zh": "AI代理若持续偏向品牌官网，可能降低酒店分销成本并改善业主利润率，进而利好品牌扩张与特许权费率。",
+      "conclusion_en": "If AI agents continue to favor brand.com, hotel distribution costs could fall and owner margins improve, supporting brand expansion and potentially higher royalty rates.",
+      "key_points": [
+        {
+          "zh": "大语言模型目前在搜索结果中相对独立酒店更倾向于展示品牌。",
+          "en": "Large language models are currently surfacing more brands relative to independents."
+        },
+        {
+          "zh": "大语言模型相对第三方网站更倾向于展示品牌官网（brand.com）。",
+          "en": "Large language models are surfacing more brand.com relative to third-party websites."
+        },
+        {
+          "zh": "这一趋势将降低分销成本并改善业主利润率。",
+          "en": "This should reduce distribution costs and improve margins for owners."
+        },
+        {
+          "zh": "利润率改善将推动品牌获得更多开发项目，甚至可能带来更高的特许权使用费率。",
+          "en": "Better margins should drive more development for the brands and potentially even higher royalty rates."
+        }
+      ],
+      "tags": [
+        "AI agents",
+        "hotel brands",
+        "distribution costs",
+        "travel sector"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "4965780",
       "title": "Wall Street Lunch: When $1T Is A Disappointing Number",
