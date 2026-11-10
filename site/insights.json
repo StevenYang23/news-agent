@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:21:02.309139+00:00",
+  "generated_at": "2026-11-10T07:14:06.307675+00:00",
   "insights": [
     {
       "guid": "yt:SoUu0bTs-rg",
@@ -16969,46 +16969,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:JDxHpO51cAI",
-      "title": "Is AI a Bubble? Wall Street Titans Say Not Even Close",
-      "title_zh": "金融巨头驳斥AI泡沫论，Pimco称AI债务潮尚未扭曲信贷市场",
-      "url": "https://www.youtube.com/watch?v=JDxHpO51cAI",
-      "published_at": "2026-11-03T06:56:36+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "高盛CEO Solomon、富兰克林邓普顿CEO Johnson、摩根士丹利CEO Pick在HKMA全球金融领袖峰会上普遍驳斥了AI繁荣已进入泡沫区的担忧。Pimco CEO Roman指出，AI相关债务潮尚未对更广泛的信贷市场造成扭曲。",
-      "summary_en": "Goldman CEO David Solomon, Franklin Templeton's Jenny Johnson, and Morgan Stanley's Ted Pick broadly dismissed fears that the AI boom has entered bubble territory at the HKMA Global Financial Leaders' Summit. Pimco chief Emmanuel Roman noted that the AI-related debt wave has yet to distort broader credit markets.",
-      "detail_zh": "在HKMA全球金融领袖峰会期间，高盛CEO David Solomon、富兰克林邓普顿CEO Jenny Johnson和摩根士丹利CEO Ted Pick接受彭博电视采访时，普遍驳斥了AI繁荣已进入泡沫区的担忧。Pimco CEO Emmanuel Roman同时指出，AI板块的债务潮尚未对更广泛的信贷市场造成扭曲。上述表态均来自峰会间隙的彭博电视采访，但原文未提供各位高管的具体论证细节或更多数据。",
-      "detail_en": "Speaking to Bloomberg Television on the sidelines of the HKMA Global Financial Leaders' Summit, Goldman CEO David Solomon, Franklin Templeton's Jenny Johnson, and Morgan Stanley's Ted Pick broadly dismissed fears that the AI boom has entered bubble territory. Pimco chief Emmanuel Roman noted that the sector's debt wave has yet to distort broader credit markets. The remarks were made during Bloomberg TV interviews at the summit; the original text does not provide further specifics or data behind the executives' views.",
-      "conclusion_zh": "金融巨头淡化AI泡沫风险，且AI债务尚未传导至更广泛信贷市场，短期内缓解了市场对AI板块系统性风险的担忧。",
-      "conclusion_en": "Financial heavyweights downplay AI bubble risk, and AI debt has not yet spilled over into broader credit markets, easing near-term concerns about systemic risks in the AI sector.",
-      "key_points": [
-        {
-          "zh": "高盛、富兰克林邓普顿、摩根士丹利CEO均驳斥AI泡沫论",
-          "en": "CEOs of Goldman, Franklin Templeton, and Morgan Stanley dismiss AI bubble fears"
-        },
-        {
-          "zh": "Pimco CEO称AI债务潮尚未扭曲更广泛信贷市场",
-          "en": "Pimco CEO says AI debt wave has yet to distort broader credit markets"
-        },
-        {
-          "zh": "表态发生在HKMA全球金融领袖峰会期间",
-          "en": "Remarks made at the HKMA Global Financial Leaders' Summit"
-        }
-      ],
-      "tags": [
-        "AI",
-        "bubble",
-        "credit markets",
-        "financial leaders"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
