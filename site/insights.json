@@ -1,6 +1,247 @@
 {
-  "generated_at": "2026-11-10T22:13:30.191450+00:00",
+  "generated_at": "2026-11-10T23:12:34.739793+00:00",
   "insights": [
+    {
+      "guid": "yt:QkoSYxEZ7qs",
+      "title": "Hot Inflation, AI Selloff & Anthropic IPO",
+      "title_zh": "AI交易回调后现价值，超大规模云厂商与久期资产受青睐",
+      "url": "https://www.youtube.com/watch?v=QkoSYxEZ7qs",
+      "published_at": "2026-11-10T22:58:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "资管公司Tim认为AI交易的基本面未变，回调后估值具吸引力，尤其看好超大规模云厂商，并建议增加久期资产对冲AI失望风险。穆迪则警示2027年信用环境韧性有限，再融资成本上升与就业市场变化是主要风险点。",
+      "summary_en": "Tim from an asset management firm argues the AI trade's fundamentals remain intact, with valuations attractive after the selloff, particularly hyperscalers, and recommends adding duration as a hedge against AI disappointment. Moody's warns credit resilience is not limitless into 2027, citing refinancing cost jumps and job market shifts as key risks.",
+      "detail_zh": "在彭博TV的《The Close》节目中，资管公司Tim表示，选后抛售未改变AI的基本面故事，难以看到AI的看空理由。他指出，部分存储龙头股仅以去年盈利的2至3倍交易，若将AI复合体估值外推，仅为必需消费品同期估值的一半，因此认为AI板块具备良好价值。对于英伟达当日下跌超7%，Tim认为延迟的资本开支仍是资本开支，需求依然存在，超大规模云厂商估值显著更低，将受益于未来需求。他建议在组合中加入久期资产（如债券）以对冲AI失望情景，并偏好短端曲线。宏观方面，他认为通胀报告强劲但不足以改变核心展望，预计美联储再加息一次后暂停，工资增长强劲但受控；同时警告市场已定价伊朗局势缓和，油价值得关注。穆迪首席评级官则指出，2026年宏观经济有韧性，但2027年韧性并非无限，再融资成本上升和就业市场变化可能冲击信用市场；软件板块分化严重，需关注收入可预测性和AI适应能力。",
+      "detail_en": "On Bloomberg TV's \"The Close,\" Tim from an asset management firm said the post-election selloff has not changed the fundamental AI story, and he struggles to see the bear case. He noted some top memory names trade at two to three times last year's earnings, and extrapolating the AI complex's valuation implies half the multiple staples traded at during that period, making AI good value. Regarding Nvidia's more than 7% drop that day, Tim argued delayed capex is still capex and demand remains; hyperscalers trade at significantly lower valuations and will capitalize on future demand. He recommended adding duration (bonds) as a hedge against an AI disappointment scenario, favoring the short end of the curve. On macro, he said the hot inflation report was strong but not enough to change the core outlook, expecting the Fed to hike once more and pause, with wage growth strong but contained; he warned markets have priced in a lot of de-escalation in Iran and oil prices warrant attention. Moody's chief ratings officer noted the macroeconomy was resilient in 2026 but resilience is not limitless into 2027, with refinancing cost jumps and job market changes posing risks to credit markets; software sector dispersion is wide, requiring focus on revenue predictability and AI adaptation.",
+      "conclusion_zh": "AI板块回调后提供价值机会，超大规模云厂商和久期资产是当前值得关注的方向，但需警惕再融资成本与就业市场变化对信用环境的潜在冲击。",
+      "conclusion_en": "The AI selloff offers value, with hyperscalers and duration assets worth watching, but be alert to refinancing costs and job market shifts that could pressure credit conditions.",
+      "key_points": [
+        {
+          "zh": "AI交易回调后估值具吸引力，部分存储龙头仅以去年盈利2-3倍交易，超大规模云厂商估值显著更低。",
+          "en": "AI valuations look attractive after the selloff; some memory leaders trade at 2-3x last year's earnings, and hyperscalers are significantly cheaper."
+        },
+        {
+          "zh": "延迟的资本开支仍是资本开支，AI需求依然存在，建议增持高质量超大规模云厂商。",
+          "en": "Delayed capex is still capex and AI demand remains; favor high-quality hyperscalers."
+        },
+        {
+          "zh": "建议增加久期资产（债券）以对冲AI失望情景，偏好短端曲线。",
+          "en": "Add duration (bonds) as a hedge against AI disappointment, favoring the short end of the curve."
+        },
+        {
+          "zh": "预计美联储再加息一次后暂停，工资增长强劲但受控；市场已定价伊朗局势缓和，油价需关注。",
+          "en": "Expect one more Fed hike then a pause; wage growth strong but contained; markets have priced in Iran de-escalation, watch oil."
+        },
+        {
+          "zh": "穆迪警示2027年信用韧性有限，再融资成本上升和就业市场变化是主要风险，软件板块分化严重。",
+          "en": "Moody's warns credit resilience is not limitless into 2027; refinancing costs and job market shifts are key risks, with wide software dispersion."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "hyperscalers",
+        "duration",
+        "credit risk",
+        "Fed"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:36YLJCm3i2A",
+      "title": "Anthropic Targets $1.4 Trillion Valuation",
+      "title_zh": "通胀超预期推升美债收益率，Anthropic 拟以 1.4 万亿美元估值 IPO",
+      "url": "https://www.youtube.com/watch?v=36YLJCm3i2A",
+      "published_at": "2026-11-10T22:42:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国通胀连续第三个月高于预期，10 年期美债收益率一度突破 5%，美股全线下跌，英伟达跌 6%。Anthropic 寻求以 1.4 万亿美元估值 IPO，拟募资最高 904 亿美元，英伟达、台积电等参与战略投资。",
+      "summary_en": "US inflation topped estimates for a third straight month, pushing the 10-year Treasury yield briefly above 5% and dragging US equities lower, with Nvidia down 6%. Anthropic is seeking a $1.4 trillion valuation in its IPO, aiming to raise up to $90.4 billion, with strategic investors including Nvidia and TSMC.",
+      "detail_zh": "美国通胀数据连续第三个月高于预期，10 年期美债收益率盘中一度升破 5%，最新报 4.99%，2 年期收益率为 4.73%。美股全线走低：标普 500 下跌 0.6% 至约 7501 点，道指跌 233 点（约 0.4%），纳斯达克及纳斯达克 100 均跌 1.1%，费城半导体指数跌 1%，英伟达再度下跌 6%。商品方面，黄金跌至每盎司 4027 美元，WTI 原油报 86.03 美元/桶，布伦特原油跌 1.2% 至 91.50 美元/桶。能源板块个股涨跌互现，Diamondback Energy 与 KKR 同意联合收购油田水处理公司 DIBU Midland Basin 70% 股权，交易规模约 21 亿美元，KKR 涨 2.7%。Anthropic 寻求以 1.4 万亿美元估值成为首家上市的前沿 AI 实验室，拟通过 IPO 及私募配售募资最高 904 亿美元，基础发行募资 640 亿美元，发行价区间 70 至 78 美元；七位联合创始人将在 IPO 中出售 17.5 亿美元股份。Bailey Lipschultz 指出，创始人减持部分可能涉及税务因素，管理层下周将就实际动因作出说明。若计入英伟达、台积电等战略投资者及绿鞋机制，最高募资规模可达 1000 亿美元。关于 AI 循环融资的担忧，Bailey 表示这是已持续一年多的看空逻辑，但反方观点认为 Anthropic 是当前全球最重要的公司之一，战略投资方希望借此确立持股并支持其算力支出。",
+      "detail_en": "US inflation topped estimates for a third consecutive month, briefly pushing the 10-year Treasury yield above 5% (last at 4.99%), while the 2-year stood at 4.73%. US equities fell across the board: the S&P 500 dropped 0.6% to around 7,501, the Dow fell 233 points (~0.4%), the Nasdaq and Nasdaq 100 each lost 1.1%, the Philadelphia Semiconductor Index fell 1%, and Nvidia declined another 6%. In commodities, gold fell to $4,027/oz, WTI traded at $86.03/bbl, and Brent fell 1.2% to $91.50/bbl. Energy names were mixed; Diamondback Energy and KKR agreed to jointly acquire a 70% stake in oilfield water handling company DIBU Midland Basin in a deal said to be roughly $2.1 billion, with KKR up 2.7%. Anthropic is seeking a $1.4 trillion valuation to become the first frontier AI lab to go public, aiming to raise as much as $90.4 billion through an IPO and private placement, with a base offering of $64 billion at a price range of $70 to $78; its seven co-founders will sell $1.75 billion of shares in the IPO. Bailey Lipschultz noted that part of the founder selling may relate to tax issues, with management expected to address the actual drivers next week. Including strategic investors such as Nvidia and TSMC plus the green shoe, total proceeds could reach $100 billion at the top of the range. On AI circular financing concerns, Bailey said this has been part of the bear thesis for over a year, but the counterpoint is that Anthropic is one of the most important companies in the world right now, and strategic investors want a stake while supporting its compute spending.",
+      "conclusion_zh": "通胀连续超预期令美债收益率高企并压制估值敏感的科技股，而 Anthropic 的巨额 IPO 及英伟达、台积电等战略投资进一步凸显 AI 循环融资的争议，投资者需关注利率路径与 AI 资本闭环风险。",
+      "conclusion_en": "Persistent inflation upside is keeping Treasury yields elevated and pressuring valuation-sensitive tech stocks, while Anthropic's mega-IPO and strategic investments from Nvidia and TSMC intensify the debate over AI circular financing; investors should watch the rate path and AI capital-loop risks.",
+      "key_points": [
+        {
+          "zh": "美国通胀连续第三个月高于预期，10 年期美债收益率一度突破 5%，美股全线下跌。",
+          "en": "US inflation topped estimates for a third straight month, briefly pushing the 10-year yield above 5% and dragging US equities lower."
+        },
+        {
+          "zh": "英伟达下跌 6%，费城半导体指数跌 1%，纳斯达克及纳斯达克 100 均跌 1.1%。",
+          "en": "Nvidia fell 6%, the Philadelphia Semiconductor Index lost 1%, and both the Nasdaq and Nasdaq 100 dropped 1.1%."
+        },
+        {
+          "zh": "Anthropic 寻求以 1.4 万亿美元估值 IPO，拟募资最高 904 亿美元，发行价区间 70 至 78 美元。",
+          "en": "Anthropic is seeking a $1.4 trillion valuation in its IPO, aiming to raise up to $90.4 billion at a price range of $70 to $78."
+        },
+        {
+          "zh": "七位联合创始人将在 IPO 中出售 17.5 亿美元股份，部分减持可能与税务因素有关。",
+          "en": "Its seven co-founders will sell $1.75 billion of shares in the IPO, with part of the selling possibly tied to tax issues."
+        },
+        {
+          "zh": "Diamondback Energy 与 KKR 同意联合收购 DIBU Midland Basin 70% 股权，交易规模约 21 亿美元。",
+          "en": "Diamondback Energy and KKR agreed to jointly acquire a 70% stake in DIBU Midland Basin in a deal said to be roughly $2.1 billion."
+        }
+      ],
+      "tags": [
+        "inflation",
+        "Treasury yields",
+        "Anthropic IPO",
+        "AI circular financing",
+        "semiconductors"
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "FANG",
+        "KKR",
+        "XOM",
+        "CVX",
+        "COP"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:u7vO32Yeu1E",
+      "title": "Jensen Huang’s 700,000% Return Magnifies Nvidia Succession Risks",
+      "title_zh": "英伟达CEO黄仁勋的独特办公室布局与长期领导",
+      "url": "https://www.youtube.com/watch?v=u7vO32Yeu1E",
+      "published_at": "2026-11-10T22:15:37+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋的办公室采用椭圆形大桌和阶梯座位的独特设计，反映其管理风格。他领导公司33年，是硅谷任期最长的CEO，公司股票回报超过700,000%，但至今没有明确的继任者。",
+      "summary_en": "Nvidia CEO Jensen Huang's office features a unique oval desk and stadium seating, reflecting his management style. He has led the company for 33 years, the longest tenure in Silicon Valley, with stock returns exceeding 700,000%, but no successor has been designated.",
+      "detail_zh": "英伟达CEO黄仁勋的办公室布局不同寻常：他坐在巨大的椭圆形办公桌前，面向副手们，身后还有阶梯座位供更多员工使用。这一设计位于加州圣克拉拉的英伟达总部，专门为黄仁勋的管理方式量身打造。尽管科技界不乏注重细节的CEO，但黄仁勋独树一帜。他领导公司已33年，是硅谷任期最长的CEO。即使英伟达已成长为全球最强大的公司之一，股票回报超过700,000%，公司仍未指定潜在的继任者。彭博新闻美国半导体记者Ian King讨论了这一话题。",
+      "detail_en": "Nvidia CEO Jensen Huang's office has an unusual setup: he sits at an enormous oval desk facing his lieutenants, with stadium seating behind them for more employees. This arrangement, part of Nvidia's headquarters in Santa Clara, California, is purpose-built to suit Huang's management style. While cultlike tech CEOs who obsess over details are not uncommon, Huang is in a class of his own. He has led the business since its beginning 33 years ago, the longest such run in Silicon Valley. Even as Nvidia grew into one of the world's most powerful companies—with a stock return of more than 700,000%—there is still no one designated to potentially replace him. Ian King, Bloomberg News US semiconductor reporter, discusses the latest.",
+      "conclusion_zh": "英伟达的长期增长与黄仁勋的领导密不可分，但缺乏明确继任者可能构成关键人物风险，投资者需关注公司治理动态。",
+      "conclusion_en": "Nvidia's long-term growth is closely tied to Jensen Huang's leadership, but the lack of a clear successor may pose key-person risk; investors should monitor governance developments.",
+      "key_points": [
+        {
+          "zh": "黄仁勋的办公室设计独特，椭圆形大桌和阶梯座位反映其直接的管理风格。",
+          "en": "Huang's office design is unique, with an oval desk and stadium seating reflecting his direct management style."
+        },
+        {
+          "zh": "黄仁勋领导英伟达33年，是硅谷任期最长的CEO。",
+          "en": "Huang has led Nvidia for 33 years, the longest CEO tenure in Silicon Valley."
+        },
+        {
+          "zh": "英伟达股票回报超过700,000%，公司成为全球最强大公司之一。",
+          "en": "Nvidia's stock return exceeds 700,000%, making it one of the world's most powerful companies."
+        },
+        {
+          "zh": "公司尚未指定黄仁勋的潜在继任者。",
+          "en": "No potential successor to Huang has been designated."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "succession planning",
+        "semiconductors",
+        "corporate governance"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lOertlcg5OA",
+      "title": "Congress has to hear from Nvidia's Huang, Says Opinion's Dave Lee",
+      "title_zh": "两党议员拟就黄仁勋绯闻及涉间谍指控展开调查",
+      "url": "https://www.youtube.com/watch?v=lOertlcg5OA",
+      "published_at": "2026-11-10T22:11:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博观点专栏作家Dave Lee表示，两党议员准备就英伟达CEO黄仁勋与一名被指为中国间谍的女性有染一事展开调查。Lee还提到《纽约时报》报道称，特朗普总统在访华前已被告知围绕黄仁勋绯闻及其女友被怀疑是间谍的担忧。",
+      "summary_en": "Bloomberg Opinion columnist Dave Lee said lawmakers on both sides of the aisle are poised to investigate Nvidia CEO Jensen Huang over his affair with a woman accused of being a Chinese spy. Lee also commented on a New York Times report revealing that President Trump had been told before his trip to China about concerns around Huang's affair and the fact that his girlfriend was suspected of being a spy.",
+      "detail_zh": "彭博观点专栏作家Dave Lee指出，美国两党议员准备就英伟达CEO黄仁勋与一名被指为中国间谍的女性有染一事展开调查。Lee还评论了《纽约时报》的一篇报道，该报道披露，特朗普总统在访华前已被告知围绕黄仁勋绯闻的担忧，以及其女友被怀疑是间谍的情况。原文未提供调查的具体范围、时间表或可能的法律后果。",
+      "detail_en": "Bloomberg Opinion columnist Dave Lee said that lawmakers on both sides of the aisle are poised to investigate Nvidia CEO Jensen Huang about his affair with a woman accused of being a Chinese spy. Lee also commented on a New York Times report that reveals President Trump had been told before his trip to China about the concerns around Huang's affair and the fact that his girlfriend was suspected of being a spy. The original text does not provide specific details on the scope, timeline, or potential legal consequences of the investigation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "两党议员准备调查英伟达CEO黄仁勋的绯闻及涉间谍指控。",
+          "en": "Lawmakers on both sides of the aisle are poised to investigate Nvidia CEO Jensen Huang over his affair and espionage allegations."
+        },
+        {
+          "zh": "《纽约时报》报道称特朗普总统在访华前已被告知相关担忧。",
+          "en": "The New York Times reported that President Trump was told about the concerns before his trip to China."
+        },
+        {
+          "zh": "黄仁勋的女友被怀疑是中国间谍。",
+          "en": "Huang's girlfriend is suspected of being a Chinese spy."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "investigation",
+        "China",
+        "spy"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:sp0mx4I5Vs0",
+      "title": "Hegseth Says Massie Bid Hurts Troops",
+      "title_zh": "彭博《权力平衡》节目：中期选举领导层问题、特朗普支持英伟达CEO、10月CPI超预期",
+      "url": "https://www.youtube.com/watch?v=sp0mx4I5Vs0",
+      "published_at": "2026-11-10T22:11:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博《权力平衡》节目讨论了中期选举对两党领导层的潜在影响、特朗普在英伟达CEO与疑似中国间谍有染后对其表示支持，以及10月美国消费者价格涨幅超过预期。节目嘉宾包括Lael Brainard等。",
+      "summary_en": "This episode of Bloomberg's Balance of Power discusses midterm elections raising leadership questions in both parties, Trump backing Nvidia's CEO after an affair with a suspected China spy, and October US consumer prices rising faster than forecast. Guests include Lael Brainard.",
+      "detail_zh": "节目由彭博华盛顿记者Kailey Leinz和Tyler Kendall主持，讨论了国会山的最新动态。议题包括：中期选举引发两党领导层问题；蒙大拿州共和党众议员Troy Downing参与讨论；特朗普在英伟达CEO与疑似中国间谍有染后对其表示支持；10月美国消费者价格涨幅超过预期；前国家经济委员会主任Lael Brainard参与讨论。嘉宾还包括Stonecourt Capital合伙人Rick Davis和哈佛肯尼迪学院Ash中心访问民主研究员Jeanne Sheehan Zaino。",
+      "detail_en": "The show is hosted by Bloomberg Washington Correspondents Kailey Leinz and Tyler Kendall, discussing the latest from Capitol Hill. Topics include: midterms raising leadership questions in both parties; Rep. Troy Downing (R-MT) joins the discussion; Trump backs Nvidia CEO after an affair with a suspected China spy; October US consumer prices rise faster than forecast; former National Economic Council Director Lael Brainard joins the discussion. Guests also include Stonecourt Capital Partner Rick Davis and Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "中期选举引发两党领导层问题",
+          "en": "Midterms raise leadership questions in both parties"
+        },
+        {
+          "zh": "特朗普在英伟达CEO与疑似中国间谍有染后对其表示支持",
+          "en": "Trump backs Nvidia CEO after affair with suspected China spy"
+        },
+        {
+          "zh": "10月美国消费者价格涨幅超过预期",
+          "en": "October US consumer prices rise faster than forecast"
+        },
+        {
+          "zh": "嘉宾包括前国家经济委员会主任Lael Brainard",
+          "en": "Guests include former National Economic Council Director Lael Brainard"
+        }
+      ],
+      "tags": [
+        "midterms",
+        "Nvidia",
+        "CPI",
+        "Brainard"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:YZZOc5QlnQM",
       "title": "CoreWeave Earnings Top Estimates, Boosts Annual Forecast",
@@ -18197,105 +18438,6 @@
         "contango",
         "options",
         "volatility"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:iw5c1t7KyoQ",
-      "title": "Howard Marks: CNBC The Exchange (2026)",
-      "title_zh": "霍华德·马克斯：AI不确定性下应买股票而非债券，利率将维持当前水平",
-      "url": "https://www.youtube.com/watch?v=iw5c1t7KyoQ",
-      "published_at": "2026-11-03T22:51:23+00:00",
-      "source_name": "The Memo by Howard Marks",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "macro",
-        "other"
-      ],
-      "summary_zh": "橡树资本联合创始人霍华德·马克斯表示，AI是他职业生涯中见过最不可预测的事物，投资AI应买股票而非债券，因为债券没有上行空间。他倾向于以更安全的方式参与AI，如数据中心和电力基础设施，并认为利率将大致维持在当前水平，低利率时代不会回归。",
-      "summary_en": "Howard Marks, co-founder of Oaktree Capital, said AI is the least predictable thing he has witnessed in his career, and investors should buy stocks rather than debt to play AI because debt offers no upside. He prefers safer ways to participate, such as data centers and power infrastructure, and expects rates to stay around current levels, with the low-rate era unlikely to return.",
-      "detail_zh": "橡树资本联合创始人兼联席主席霍华德·马克斯在访谈中表示，市场本身会夸大一切，投资者不应从市场波动中寻找信号。他认为AI是他职业生涯中见过的最不可知、最不可预测的事物，难以判断任何一家公司的产品五年后如何被使用、销量、价格、成本和利润率，以及哪些公司会赢会输。对于AI投资，马克斯建议如果参与就买股票，因为股票在事情顺利时有上行空间，而债券最好的结果只是收回本息，之后全是不同程度的下行，因此只应在高度确信能收回本息且收益率补偿不确定性时才放贷。橡树资本作为信贷机构，只参与与AI基础设施相关的特殊机会，如数据中心和AI工厂，并倾向于在竞争较少、有建设限制的地方进行长期项目。马克斯提到，作为Brookfield的一部分，Brookfield在电力领域有很好的利基，电力将成为真正的瓶颈，因为未来几年基础设施可能需要增加3到10倍，电力来源是问题。关于AI泡沫，马克斯区分了AI本身与投资金额：AI是真实事物，将带来真实改变；但公司投资金额是否泡沫、个人投资是否定价过高、是否过于急切，他表示不知道。近期市场波动表明此前存在大量乐观情绪，部分被消减。对于科技公司发债对投资级和高收益信贷市场的影响，马克斯认为这提供了很多选择，但最明显安全的发行人回报不高，且仍涉及技术风险，其信贷并非白送。关于美联储利率，马克斯不做预测，但认为未来几年利率不会远低于当前水平，因为通胀仍是担忧，2009至2021年的低利率是异常现象，不会回归；利率可能因通胀担忧略高，也可能因环境波动而持平，但不会大幅高于当前。",
-      "detail_en": "Howard Marks, co-founder and co-chairman of Oaktree Capital, said in an interview that the market exaggerates everything and investors should not take signals from market moves. He considers AI the least knowable and least predictable thing he has witnessed in his career, making it difficult to judge how any company's product will be used in five years, how much it will sell, at what price and cost, what margins will be, and which companies will win or lose. For AI investing, Marks advises buying stocks if you want to play, because stocks offer upside if things go right, while debt offers no upside—the best outcome is receiving the interest and principal bargained for, and everything after that is varying degrees of downside. Therefore, one should only lend when highly confident of repayment and when the yield compensates for uncertainty. As a credit firm, Oaktree only plays in special situations mostly related to AI infrastructure, such as data centers and AI factories, and tries to do so in less crowded places with inhibitions to building too many data centers. Marks noted that as part of Brookfield, which has a great niche in power, power will be a real bottleneck because infrastructure may need to increase three to ten times in coming years, raising the question of where that much power will come from. On whether AI is a bubble, Marks distinguished AI itself from the amount of money invested: AI is a real thing that will make a real change, but whether companies' investment amounts are a bubble, whether individual investments are overpriced, and whether there is too much eagerness, he does not know. Recent market wobbles indicate there was a lot of optimism, some of which just got deflated. Regarding tech companies' debt issuance and its impact on investment-grade and high-yield credit markets, Marks said it gives a lot of choices, but the obviously safe payers aren't offering much return, still involve some technology risk, and their credits are not a giveaway. On Fed rates, Marks does not make predictions, but believes rates will not be much below current levels over the next few years because inflation remains a concern and the low rates of 2009 to 2021 were an aberration that won't return; rates could be a little higher if inflation concerns remain or level out if wobbles reduce overheating risk, but if rates should be much higher, they probably would be by now.",
-      "conclusion_zh": "马克斯的观点提示，在AI投资中应优先考虑具有上行空间的股票，并以更安全的方式参与基础设施（如数据中心和电力），同时利率环境将维持偏高水平，低利率时代不会回归。",
-      "conclusion_en": "Marks's views suggest prioritizing equities with upside in AI investing and participating in infrastructure (such as data centers and power) in safer ways, while the rate environment will remain relatively high and the low-rate era will not return.",
-      "key_points": [
-        {
-          "zh": "马克斯认为AI是他职业生涯中最不可预测的事物，市场本身会夸大一切，不应从市场波动中寻找信号。",
-          "en": "Marks sees AI as the least predictable thing in his career and says the market exaggerates everything, so investors should not take signals from market moves."
-        },
-        {
-          "zh": "投资AI应买股票而非债券，因为债券没有上行空间，只应在高度确信能收回本息且收益率补偿不确定性时才放贷。",
-          "en": "To invest in AI, buy stocks rather than debt because debt offers no upside; only lend when highly confident of repayment and when yield compensates for uncertainty."
-        },
-        {
-          "zh": "橡树资本只参与AI基础设施相关的特殊机会，如数据中心，并偏好竞争较少、有建设限制的地点；电力将成为瓶颈。",
-          "en": "Oaktree only plays in AI infrastructure-related special situations such as data centers, preferring less crowded places with building inhibitions; power will be a bottleneck."
-        },
-        {
-          "zh": "关于AI泡沫，马克斯区分AI本身与投资金额：AI是真实的，但投资是否泡沫、定价是否过高他表示不知道。",
-          "en": "On the AI bubble question, Marks distinguishes AI itself from investment amounts: AI is real, but whether investments are a bubble or overpriced, he does not know."
-        },
-        {
-          "zh": "马克斯预计利率将大致维持在当前水平，低利率时代不会回归，通胀仍是担忧。",
-          "en": "Marks expects rates to stay around current levels, with the low-rate era unlikely to return and inflation still a concern."
-        }
-      ],
-      "tags": [
-        "AI",
-        "credit",
-        "rates",
-        "infrastructure",
-        "Oaktree"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:HTsoVS_AUTw",
-      "title": "Don’t let your success ruin your children",
-      "title_zh": "摩根士丹利播客：企业家如何向成年子女传承财富而不剥夺其奋斗动力",
-      "url": "https://www.youtube.com/watch?v=HTsoVS_AUTw",
-      "published_at": "2026-11-03T22:31:13+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "摩根士丹利播客《What Should I Do With My Money?》中，企业家Scott与顾问Blair讨论如何向20多岁的子女传承财富，既给予选择自由，又避免剥夺他们建立韧性的机会。Scott因互联网泡沫后的市场暴跌而变得保守，如今希望用财富让子女追求梦想，同时保持家庭价值观与工作伦理。",
-      "summary_en": "In Morgan Stanley's podcast 'What Should I Do With My Money?', entrepreneur Scott and advisor Blair discuss how to pass wealth to his 20-something children—giving them freedom of choice without depriving them of grit-building experiences. Scott became conservative after a dot-com-era market crash, and now wants to use wealth to let his kids pursue dreams while maintaining family values and work ethic.",
-      "detail_zh": "Scott在1990年代白手起家，将父亲创立的电信公司规模扩大十倍，并在互联网泡沫末期出售，获得首次流动性事件。但随后市场回调，他几乎全仓投入，约30%的财富在60天内蒸发，这让他此后投资风格“过于保守”，并带有“稀缺心态”。2004年，他将对音乐和摩托车的热情转化为事业，开设了5万平方英尺的摩托车经销商，附带演唱会场地，后扩展至多个地点和零售店。2012年左右，Scott开始与摩根士丹利顾问Blair合作，进行长期财务规划，包括投资、遗嘱和信托。Blair帮助他制定了10-15年的规划，Scott不仅实现了目标，还超额完成。2023年，Scott剥离了一家较小的经销商进行出售，以熟悉交易流程，并庆幸没有出售整个业务。如今，他关注如何将财富传递给20多岁的女儿和儿子，既让他们有选择自由，又避免过度给予而剥夺他们塑造韧性的艰难经历。Blair有一套框架，帮助在给予子女追求梦想的自由的同时，保持家庭价值观、目标感和健康的工作伦理。",
-      "detail_en": "Scott built his career from scratch in the 1990s, growing his father's telecom company tenfold and selling it at the tail end of the dot-com era for his first liquidity event. But after a market correction, he was all in and lost about 30% of his money in 60 days, which made him 'far too conservative' and gave him a 'scarcity mentality.' In 2004, he turned his passions for music and motorcycles into a 50,000-square-foot motorcycle dealership with a concert venue, later expanding to multiple locations and retail stores. Around 2012, Scott began working with Morgan Stanley advisor Blair on long-term financial planning, including investments, wills, and trusts. Blair helped him create a 10-15 year plan, which Scott not only met but exceeded. In 2023, Scott divested one of his smaller dealerships to get comfortable with the transaction process, and he's glad he didn't sell the entire business. Now, he's focused on how to pass wealth to his 20-something daughter and son—giving them freedom of choice without giving so much that it takes away the tough experiences that build resilience. Blair has a framework to help give Scott's children the freedom to follow their dreams while maintaining family values, purpose, and a healthy work ethic.",
-      "conclusion_zh": "高净值家庭财富传承需平衡给予与保留，既提供选择自由，又通过规划维持子女的奋斗动力与家庭价值观。",
-      "conclusion_en": "Wealth transfer in high-net-worth families requires balancing giving and withholding—providing freedom of choice while preserving children's drive and family values through thoughtful planning.",
-      "key_points": [
-        {
-          "zh": "Scott在互联网泡沫后损失约30%财富，此后投资风格过于保守，带有稀缺心态。",
-          "en": "Scott lost about 30% of his wealth after the dot-com crash, making him overly conservative with a scarcity mentality."
-        },
-        {
-          "zh": "Scott于2004年开设5万平方英尺摩托车经销商，结合音乐与摩托车热情，后扩展至多地点。",
-          "en": "Scott opened a 50,000-square-foot motorcycle dealership in 2004, combining his passions for music and motorcycles, and later expanded to multiple locations."
-        },
-        {
-          "zh": "2012年左右与顾问Blair开始长期规划，包括投资、遗嘱和信托，10-15年目标超额完成。",
-          "en": "Around 2012, Scott began long-term planning with advisor Blair, including investments, wills, and trusts, and exceeded his 10-15 year goals."
-        },
-        {
-          "zh": "2023年Scott剥离一家较小经销商进行出售，以熟悉流程，并庆幸未出售整个业务。",
-          "en": "In 2023, Scott divested a smaller dealership to get comfortable with the process and is glad he didn't sell the entire business."
-        },
-        {
-          "zh": "当前核心议题：如何向20多岁子女传承财富，既给予自由又避免剥夺其塑造韧性的经历。",
-          "en": "The core issue: how to pass wealth to his 20-something kids—giving freedom without depriving them of resilience-building experiences."
-        }
-      ],
-      "tags": [
-        "wealth transfer",
-        "estate planning",
-        "family wealth",
-        "entrepreneurship"
       ],
       "tickers": [],
       "sentiment": "neutral"
