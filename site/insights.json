@@ -1,6 +1,176 @@
 {
-  "generated_at": "2026-11-10T20:14:29.891199+00:00",
+  "generated_at": "2026-11-10T21:15:12.714694+00:00",
   "insights": [
+    {
+      "guid": "6af36aeaee158fb9382f1b92",
+      "title": "Nvidia shares down as Huang affair scandal deepens",
+      "title_zh": "英伟达CEO传闻引发市值蒸发，公司治理结构受质疑",
+      "url": "https://shows.acast.com/unhedged/episodes/nvidia-shares-down-as-huang-affair-scandal-deepens",
+      "published_at": "2026-11-10T21:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "播客讨论英伟达CEO黄仁勋与疑似中国情报人员的绯闻导致公司市值大幅缩水，并质疑董事会缺乏主席和继任计划能否约束这位不受制约的CEO。节目还提及做多席琳·迪翁和做空弹劾交易。",
+      "summary_en": "The podcast discusses how Nvidia CEO Jensen Huang's affair with an alleged Chinese intelligence asset wiped billions off the company's market value, and questions whether a board with no chair and no succession plan can rein in an untouchable CEO. It also mentions long Celine Dion and short impeachment trades.",
+      "detail_zh": "播客指出，英伟达CEO黄仁勋与一名疑似中国情报人员的绯闻已导致这家全球最重要公司市值蒸发数十亿美元。节目质疑一个没有董事会主席、也没有继任计划的董事会，能否有效约束一位“不可触碰”的CEO。此外，节目还提到了“做多席琳·迪翁、做空弹劾”的交易策略，但未提供更多细节。",
+      "detail_en": "The podcast states that Nvidia CEO Jensen Huang's affair with an alleged Chinese intelligence asset has wiped billions off the world's most important company. It questions whether a board with no chair and no succession plan can rein in an 'untouchable' chief executive. The episode also mentions a 'long Celine Dion and short impeachment' trade without further details.",
+      "conclusion_zh": "英伟达的公司治理结构在CEO面临争议时显得脆弱，缺乏主席和继任计划可能加剧关键人物风险。",
+      "conclusion_en": "Nvidia's corporate governance appears fragile amid CEO controversy, with the lack of a chair and succession plan potentially exacerbating key-person risk.",
+      "key_points": [
+        {
+          "zh": "黄仁勋绯闻导致英伟达市值蒸发数十亿美元",
+          "en": "Jensen Huang's affair wiped billions off Nvidia's market value"
+        },
+        {
+          "zh": "英伟达董事会没有主席，也没有CEO继任计划",
+          "en": "Nvidia's board has no chair and no CEO succession plan"
+        },
+        {
+          "zh": "质疑董事会能否约束一位“不可触碰”的CEO",
+          "en": "Questions whether the board can rein in an 'untouchable' CEO"
+        },
+        {
+          "zh": "提及“做多席琳·迪翁、做空弹劾”的交易",
+          "en": "Mentions 'long Celine Dion and short impeachment' trade"
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "corporate governance",
+        "CEO controversy",
+        "key-person risk"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:yWJF1bSGwgw",
+      "title": "US Midterms Fallout, Biggest Heist in History",
+      "title_zh": "Bloomberg Crypto节目：中期选举后加密监管、代币化与Binance黑客事件",
+      "url": "https://www.youtube.com/watch?v=yWJF1bSGwgw",
+      "published_at": "2026-11-10T20:48:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期Bloomberg Crypto节目邀请了Securitize、区块链协会、Ava Labs、Ledger和Anchorage Digital的高管，讨论中期选举后的加密监管前景、代币化股票、NYSE采用Avalanche、Binance黑客事件及Coinbase银行牌照等议题。内容以访谈形式呈现，未提供具体数据或明确结论。",
+      "summary_en": "This Bloomberg Crypto episode features executives from Securitize, Blockchain Association, Ava Labs, Ledger, and Anchorage Digital discussing crypto regulation after midterms, tokenized stocks, NYSE's adoption of Avalanche, the Binance hack, and Coinbase's trust bank approval. The content is interview-based without specific data or definitive conclusions.",
+      "detail_zh": "节目由多个访谈片段组成，涵盖以下主题：中期选举后的加密监管（Nathan Dean）、Securitize CEO谈加密政治前景、代币化股票及其担忧、Binance黑客事件与区块链安全、区块链协会 interim CEO谈加密政治未来及中期选举支出、NYSE采用Avalanche及代币化交易启动、Ledger和Anchorage Digital CEO讨论Binance黑客教训与加密安全标准、比特币ETF是否更安全、AI与加密安全、Coinbase信托银行批准及其超级应用计划。节目未提供具体数字或明确投资观点，主要为行业高管对监管、安全和代币化趋势的讨论。",
+      "detail_en": "The program consists of multiple interview segments covering: crypto regulation after midterms (Nathan Dean), Securitize CEO on crypto's political outlook, tokenized stocks and concerns, the Binance hack and blockchain security, Blockchain Association interim CEO on crypto's political future and midterm spending, NYSE's adoption of Avalanche and tokenized trading launch, Ledger and Anchorage Digital CEOs on Binance hack lessons and crypto security standards, whether Bitcoin ETFs are safer, AI and crypto security, and Coinbase's trust bank approval and super app plans. No specific figures or clear investment views are provided; the discussion focuses on regulatory, security, and tokenization trends from industry executives' perspectives.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "中期选举后加密监管成为讨论焦点，涉及政治前景与规则收紧。",
+          "en": "Crypto regulation after midterms is a focus, covering political outlook and tougher rules."
+        },
+        {
+          "zh": "代币化股票和NYSE采用Avalanche是节目关注的新趋势。",
+          "en": "Tokenized stocks and NYSE's adoption of Avalanche are highlighted as emerging trends."
+        },
+        {
+          "zh": "Binance黑客事件引发对区块链安全和加密安全标准的讨论。",
+          "en": "The Binance hack sparks discussion on blockchain security and crypto security standards."
+        },
+        {
+          "zh": "Coinbase信托银行批准及其超级应用计划被提及。",
+          "en": "Coinbase's trust bank approval and super app plans are mentioned."
+        }
+      ],
+      "tags": [
+        "crypto regulation",
+        "tokenization",
+        "Binance hack",
+        "Coinbase",
+        "Avalanche"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5nlfsi2Ct08",
+      "title": "How Hackers Pulled Off the Greatest Heist Ever",
+      "title_zh": "黑客从币安窃取63亿美元，创史上最大规模",
+      "url": "https://www.youtube.com/watch?v=5nlfsi2Ct08",
+      "published_at": "2026-11-10T20:44:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据彭博报道，黑客从币安窃取63亿美元，为史上最大规模盗窃案。其中约31.3亿美元仍在与盗窃相关的钱包中，主要以比特币和以太坊计价；另有28.5亿美元被盗加密货币被冻结或拦截。",
+      "summary_en": "Hackers stole $6.3 billion from Binance in the biggest ever heist, according to Bloomberg. About $3.13 billion remains in wallets linked to the theft, mostly in Bitcoin and Ether, while a further $2.85 billion was frozen or intercepted.",
+      "detail_zh": "彭博的Vildana Hajric在“Bloomberg Crypto”节目中向Isabelle Lee和Tim Stenovec介绍了这起盗窃案。黑客从币安窃取了63亿美元，被称为史上最大规模盗窃。约31.3亿美元仍在与盗窃相关的钱包中，主要以比特币和以太坊计价。另有28.5亿美元被盗加密货币被冻结或拦截。原文未提供更多关于攻击方式、时间线或对市场影响的细节。",
+      "detail_en": "Bloomberg's Vildana Hajric joined Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto\" to discuss the heist. Hackers stole $6.3 billion from Binance, described as the biggest ever heist. Around $3.13 billion is with the hackers in wallets linked to the theft, mostly denominated in Bitcoin and Ether. A further $2.85 billion of the stolen crypto was either frozen or intercepted. The original text does not provide further details on the attack method, timeline, or market impact.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黑客从币安窃取63亿美元，为史上最大规模盗窃案。",
+          "en": "Hackers stole $6.3 billion from Binance in the biggest ever heist."
+        },
+        {
+          "zh": "约31.3亿美元仍在与盗窃相关的钱包中，主要以比特币和以太坊计价。",
+          "en": "About $3.13 billion remains in wallets linked to the theft, mostly in Bitcoin and Ether."
+        },
+        {
+          "zh": "另有28.5亿美元被盗加密货币被冻结或拦截。",
+          "en": "A further $2.85 billion of the stolen crypto was frozen or intercepted."
+        }
+      ],
+      "tags": [
+        "Binance",
+        "crypto hack",
+        "Bitcoin",
+        "Ether"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ZzSVwlD_iNU",
+      "title": "Everybody Will Be Hacked At Some Point: Ledger CEO",
+      "title_zh": "黑客仅花15美元从币安窃取63亿美元加密货币中的40%",
+      "url": "https://www.youtube.com/watch?v=ZzSVwlD_iNU",
+      "published_at": "2026-11-10T20:43:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据彭博加密节目报道，上周从币安窃取63亿美元的黑客找到一种方法，一次性转移了其中40%的赃款，从而降低了作案时被抓获的风险，而这一操作仅花费15美元。",
+      "summary_en": "According to Bloomberg Crypto, hackers who stole $6.3 billion from Binance last week found a way to move 40% of the stolen cryptocurrency in one hit, reducing their chances of being caught in the act, and it cost them just $15.",
+      "detail_zh": "在彭博加密节目（Bloomberg Crypto）中，Ledger董事长兼首席执行官Pascal Gautier与Isabelle Lee和Tim Stenovec讨论了相关事件。报道称，上周从币安窃取63亿美元的黑客找到了一种方法，一次性取走所盗加密货币的40%，此举降低了他们在作案过程中被抓获的可能性。完成这一操作的成本仅为15美元。原文未提供更多关于攻击手法、资金去向或币安回应的细节。",
+      "detail_en": "On Bloomberg Crypto, Pascal Gautier, chairman and CEO of Ledger, joined Isabelle Lee and Tim Stenovec to discuss the event. It was reported that hackers who stole $6.3 billion from Binance last week found a way to take 40% of the stolen cryptocurrency in one hit, reducing their chances of being caught in the act. The operation cost them just $15. The original text does not provide further details on the attack method, the destination of funds, or Binance's response.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黑客从币安窃取了63亿美元加密货币。",
+          "en": "Hackers stole $6.3 billion in cryptocurrency from Binance."
+        },
+        {
+          "zh": "黑客一次性转移了其中40%的赃款，以降低作案时被抓获的风险。",
+          "en": "The hackers moved 40% of the stolen funds in one hit to reduce the risk of being caught in the act."
+        },
+        {
+          "zh": "这一操作仅花费15美元。",
+          "en": "The operation cost only $15."
+        }
+      ],
+      "tags": [
+        "crypto hack",
+        "Binance",
+        "Ledger",
+        "security"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:-SjpSgOwxXA",
       "title": "Strong Jobs Data Keeps the Fed Focused on Inflation | Presented by CME Group",
@@ -18184,104 +18354,6 @@
         "bloomberg",
         "market-close",
         "media"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:nCz8guPdTUI",
-      "title": "Midterms Notch Record on Early Voting",
-      "title_zh": "彭博中期选举特别节目：科技股上涨，选情与政策影响受关注",
-      "url": "https://www.youtube.com/watch?v=nCz8guPdTUI",
-      "published_at": "2026-11-03T21:10:24+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博《Balance of Power》早期版讨论了中期选举日的最新选情，包括德克萨斯和密歇根参议院选战、提前投票创纪录、民主党夺回众议院的可能性，以及选举结果对2028年政治版图的影响。节目还提到科技股在选举日上涨，并探讨了可负担性、关税和医疗保健等议题。",
-      "summary_en": "Bloomberg's Balance of Power early edition covered the latest on midterm elections, including the Texas and Michigan Senate races, record early voting, Democrats' fight to take the House, and how the results could reshape the 2028 map. The program also noted tech stocks rising on Election Day and discussed affordability, tariffs, and health care.",
-      "detail_zh": "节目由彭博华盛顿记者Joe Mathieu和Kailey Leinz主持，讨论了中期选举日的最新动态。章节显示，科技股在选举日上涨。嘉宾包括德州分社社长Julie Fine、彭博《The Close》联合主持人Romaine Bostick、华盛顿记者Tyler Kendall，以及Jim Messina（Fortius Global CEO、奥巴马2012竞选经理）、众议员Jason Crow（科罗拉多州民主党）、Sarah Chamberlain（共和党主街伙伴关系总裁兼CEO）、Rick Davis（Stonecourt Capital合伙人、彭博政治撰稿人）和Jeanne Sheehan Zaino（哈佛肯尼迪学院Ash中心民主访问学者、彭博政治撰稿人）。讨论涉及德克萨斯州参议院选战和创纪录的提前投票、密歇根州参议院选战和选民投票率、中期选举展望、选举如何重塑2028年版图、选举挑战和创纪录的竞选支出、民主党的未来、民主党夺回众议院的努力、伊朗、赫格塞斯和民主党优先事项、可负担性、关税和医疗保健、民主党控制可能意味着什么、民主党浪潮可能有多大、北卡罗来纳州和早期选举指标、共和党为可能失去众议院做准备、以微弱多数执政、跛脚鸭国会和政府拨款。",
-      "detail_en": "Hosted by Bloomberg Washington correspondents Joe Mathieu and Kailey Leinz, the program covered the latest on Election Day. Chapters show tech stocks rising on Election Day. Guests included Julie Fine (Bloomberg Texas Bureau Chief), Romaine Bostick (Co-Host of Bloomberg's The Close), Tyler Kendall (Bloomberg News Washington Correspondent), Jim Messina (CEO of Fortius Global / Obama 2012 Campaign Manager), Rep. Jason Crow (D-CO), Sarah Chamberlain (President and CEO of the Republican Main Street Partnership), Rick Davis (Partner at Stonecourt Capital and Bloomberg Politics Contributor), and Jeanne Sheehan Zaino (Democracy Visiting Fellow at Harvard Kennedy School's Ash Center and Bloomberg Politics Contributor). Discussions covered the Texas Senate race and record early voting, the Michigan Senate race and voter turnout, the midterm outlook, how the midterms could reshape the 2028 map, election challenges and record campaign spending, the future of the Democratic Party, Democrats' fight to take the House, Iran, Hegseth and Democratic priorities, affordability, tariffs and health care, what Democratic control could mean, how big a Democratic wave could be, North Carolina and early election indicators, Republicans bracing for possible House loss, governing with a narrow Democratic majority, and the lame-duck Congress and government funding.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "科技股在选举日上涨。",
-          "en": "Tech stocks rose on Election Day."
-        },
-        {
-          "zh": "德克萨斯州参议院选战和提前投票创纪录。",
-          "en": "Texas Senate race and record early voting."
-        },
-        {
-          "zh": "民主党夺回众议院的努力及可能的影响。",
-          "en": "Democrats' fight to take the House and potential implications."
-        },
-        {
-          "zh": "中期选举可能重塑2028年政治版图。",
-          "en": "Midterms could reshape the 2028 map."
-        },
-        {
-          "zh": "讨论涉及可负担性、关税和医疗保健等议题。",
-          "en": "Discussions touched on affordability, tariffs, and health care."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "tech stocks",
-        "Senate races",
-        "House control",
-        "policy outlook"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6u1fxU4dHpA",
-      "title": "Weil Collapse, Data Centers on Ballots, Awaiting Anthropic",
-      "title_zh": "Bloomberg Deals 周中节目：交易与数据中心议题",
-      "url": "https://www.youtube.com/watch?v=6u1fxU4dHpA",
-      "published_at": "2026-11-03T21:06:51+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期 Bloomberg Deals 节目涵盖 Anthropic IPO 计划与估值、Marvell 的 1150 亿美元交易、Vail Resorts 代理权之争、T-Mobile 交易，以及基础设施投资、AI 数据中心风险与并购展望等议题。嘉宾包括 I Squared Capital 创始人 Sadek Wahba、Kirkland & Ellis 合伙人 Melissa Kalka、麦肯锡高级合伙人 Pankaj Sachdeva 和瑞穗美洲投资与公司银行业务主管 Michal Katz。",
-      "summary_en": "This Bloomberg Deals program covers Anthropic's IPO plans and valuation, Marvell's $115 billion deal, the Vail Resorts proxy fight, a T-Mobile deal, as well as infrastructure investing, AI data center risks, and the M&A outlook. Guests include I Squared Capital's Sadek Wahba, Kirkland & Ellis' Melissa Kalka, McKinsey's Pankaj Sachdeva, and Mizuho Americas' Michal Katz.",
-      "detail_zh": "节目以 Bloomberg Deals 开场，首先讨论 Anthropic 的 IPO 计划及其估值。随后 Liana Baker 讨论 Marvell 的 1150 亿美元交易，Mengqi Son 讨论 Vail Resorts 的代理权之争，Michelle Davis 讨论 T-Mobile 的交易。I Squared Capital 创始人 Sadek Wahba 参与讨论基础设施投资、AI 数据中心风险、AI 以外的投资机会、基础设施机遇、数据中心过度暴露以及选举与基础设施的关系。节目还涉及 Weil 律师事务所的人才流失与大型律所前景，以及数据中心在选举中的议题。麦肯锡的 Pankaj Sachdeva 与 Kirkland & Ellis 的 Melissa Kalka 讨论数据中心交易、延迟与成本，以及防御性 AI 投资。瑞穗美洲的 Michal Katz 讨论中期选举与并购、大型科技交易、交易融资、跨境并购与并购展望。节目最后提及 Delaware Life 出售报告和 Mark Walter 的资产出售。",
-      "detail_en": "The program opens with Bloomberg Deals, first discussing Anthropic's IPO plans and valuation. Liana Baker then covers Marvell's $115 billion deal, Mengqi Son covers the Vail Resorts proxy fight, and Michelle Davis covers a T-Mobile deal. I Squared Capital founder Sadek Wahba discusses infrastructure investing, AI data center risks, investing beyond AI, infrastructure opportunities, data center overexposure, and elections and infrastructure. The program also covers Weil law firm's talent loss and the big law outlook, as well as data centers on the ballot. McKinsey's Pankaj Sachdeva and Kirkland & Ellis' Melissa Kalka discuss data center deals, delays, and costs, and defensive AI investing. Mizuho Americas' Michal Katz discusses midterms and M&A, mega tech deals, deal financing, cross-border M&A, and the M&A outlook. The program closes with reports on a Delaware Life sale and Mark Walter asset sales.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目讨论 Anthropic 的 IPO 计划与估值。",
-          "en": "The program discusses Anthropic's IPO plans and valuation."
-        },
-        {
-          "zh": "Marvell 的 1150 亿美元交易、Vail Resorts 代理权之争和 T-Mobile 交易是重点交易话题。",
-          "en": "Marvell's $115 billion deal, the Vail Resorts proxy fight, and a T-Mobile deal are key transaction topics."
-        },
-        {
-          "zh": "Sadek Wahba 讨论基础设施投资、AI 数据中心风险及数据中心过度暴露。",
-          "en": "Sadek Wahba discusses infrastructure investing, AI data center risks, and data center overexposure."
-        },
-        {
-          "zh": "Pankaj Sachdeva 与 Melissa Kalka 讨论数据中心交易、延迟、成本及防御性 AI 投资。",
-          "en": "Pankaj Sachdeva and Melissa Kalka discuss data center deals, delays, costs, and defensive AI investing."
-        },
-        {
-          "zh": "Michal Katz 讨论中期选举与并购、大型科技交易、交易融资、跨境并购与并购展望。",
-          "en": "Michal Katz discusses midterms and M&A, mega tech deals, deal financing, cross-border M&A, and the M&A outlook."
-        }
-      ],
-      "tags": [
-        "M&A",
-        "IPO",
-        "data centers",
-        "infrastructure",
-        "proxy fight"
       ],
       "tickers": [],
       "sentiment": "neutral"
