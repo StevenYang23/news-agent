@@ -1,6 +1,356 @@
 {
-  "generated_at": "2026-11-10T15:13:48.669326+00:00",
+  "generated_at": "2026-11-10T16:16:47.744101+00:00",
   "insights": [
+    {
+      "guid": "yt:a57aQR-FkF0",
+      "title": "The Markets Fallout From the Huang Scandal #china #technology #shorts",
+      "title_zh": "英伟达CEO绯闻事件或波及整个AI行业",
+      "url": "https://www.youtube.com/watch?v=a57aQR-FkF0",
+      "published_at": "2026-11-10T15:49:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博播客讨论英伟达CEO黄仁勋与一名疑似中国间谍的绯闻曝光事件，指出该丑闻不仅对CEO个人构成风险，也可能给整个AI行业带来风险。",
+      "summary_en": "Bloomberg's Big Take podcast discusses the explosive revelation of an affair between Nvidia CEO Jensen Huang and an alleged Chinese spy, noting the scandal creates risks not just for the CEO but for the entire AI industry.",
+      "detail_zh": "彭博社的Sarah Frier在Big Take播客中向主持人Sarah Holder介绍了英伟达CEO黄仁勋与一名疑似中国间谍的绯闻曝光事件。相关报道标题指出，这一英伟达丑闻不仅对CEO个人构成风险，也为整个AI行业带来风险。播客提到AI经济依赖英伟达GPU运行，并以此作为讨论该事件影响的背景。节目嘉宾还包括Michael Shepard，由David Fox制作、Tracey Samuelson编辑。原文未提供绯闻的具体细节、事件时间线或市场反应数据。",
+      "detail_en": "Bloomberg's Sarah Frier joined host Sarah Holder on the Big Take podcast to explain the explosive revelation of an affair between Nvidia CEO Jensen Huang and an alleged Chinese spy. The linked Bloomberg article is titled 'Nvidia Scandal Creates Risks for Whole AI Industry, Not Just CEO,' indicating the scandal poses risks beyond the CEO to the entire AI industry. The podcast frames the discussion around the fact that the AI economy runs on Nvidia GPUs. Guest Michael Shepard is also listed; the episode was produced by David Fox and edited by Tracey Samuelson. The source does not provide specific details of the affair, a timeline, or market reaction data.",
+      "conclusion_zh": "该事件凸显英伟达及其CEO相关风险可能外溢至整个AI产业链，投资者需关注后续事态发展。",
+      "conclusion_en": "The event highlights that risks tied to Nvidia and its CEO could spill over to the broader AI supply chain; investors should watch for further developments.",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋与一名疑似中国间谍的绯闻被曝光。",
+          "en": "An affair between Nvidia CEO Jensen Huang and an alleged Chinese spy has been revealed."
+        },
+        {
+          "zh": "彭博报道称该丑闻给整个AI行业带来风险，而非仅限于CEO个人。",
+          "en": "Bloomberg reports the scandal creates risks for the whole AI industry, not just the CEO."
+        },
+        {
+          "zh": "讨论背景是AI经济依赖英伟达GPU运行。",
+          "en": "The discussion is framed around the AI economy running on Nvidia GPUs."
+        },
+        {
+          "zh": "该内容来自彭博Big Take播客，嘉宾Sarah Frier与Michael Shepard。",
+          "en": "The content comes from Bloomberg's Big Take podcast, with guests Sarah Frier and Michael Shepard."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI",
+        "scandal",
+        "China",
+        "risk"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:KBItn0meHYY",
+      "title": "Disclosure: Catching SEC Employees in the Act of Golfing",
+      "title_zh": "SEC内部调查：员工用公款打高尔夫",
+      "url": "https://www.youtube.com/watch?v=KBItn0meHYY",
+      "published_at": "2026-11-10T15:46:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Bloomberg《Disclosure》播客新一集，调查记者Jason Leopold与律师Matt Topic披露SEC针对员工“用纳税人钱打高尔夫”的内部调查结果。内容未涉及市场、个股或宏观数据。",
+      "summary_en": "On a new episode of Bloomberg's Disclosure podcast, investigative reporter Jason Leopold and attorney Matt Topic reveal the results of an SEC internal investigation into employees who golf \"on the taxpayer's dime.\" The content does not address markets, individual stocks, or macro data.",
+      "detail_zh": "本期《Disclosure》第二季由调查记者Jason Leopold与律师Matt Topic共同主持。两人在节目中披露了美国证券交易委员会（SEC）一项内部调查的结果，该调查针对的是员工“用纳税人的钱打高尔夫”的行为。原文仅提供节目简介，未给出调查的具体结论、涉及人数、金额或后续处理措施。内容属于监管机构内部事务与公共问责范畴，不涉及证券市场运行、上市公司基本面或宏观经济指标。",
+      "detail_en": "In this Season 2 episode of Disclosure, investigative reporter Jason Leopold and attorney Matt Topic co-host. They reveal the results of an SEC internal investigation into employees who golf \"on the taxpayer's dime.\" The source text only provides the episode description and does not include specific findings, the number of employees involved, amounts, or follow-up actions. The content falls under internal agency affairs and public accountability, and does not touch on securities market operations, listed company fundamentals, or macroeconomic indicators.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目披露SEC内部调查结果，涉及员工用公款打高尔夫。",
+          "en": "The episode reveals the results of an SEC internal investigation into employees golfing on the taxpayer's dime."
+        },
+        {
+          "zh": "由调查记者Jason Leopold与律师Matt Topic主持。",
+          "en": "Hosted by investigative reporter Jason Leopold and attorney Matt Topic."
+        },
+        {
+          "zh": "原文未提供调查的具体结论、人数或金额等细节。",
+          "en": "The source text does not provide specific findings, number of employees, or amounts."
+        },
+        {
+          "zh": "内容不涉及市场、个股或宏观经济数据。",
+          "en": "The content does not address markets, individual stocks, or macroeconomic data."
+        }
+      ],
+      "tags": [
+        "SEC",
+        "internal investigation",
+        "public accountability",
+        "podcast"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:G32zyl-aaoo",
+      "title": "Tech Is the Cheapest Since 2022. Walmart Is 46 Times Earnings. Where Is the Bubble?",
+      "title_zh": "市场结构变化加剧波动，AI基础设施股遭抛售",
+      "url": "https://www.youtube.com/watch?v=G32zyl-aaoo",
+      "published_at": "2026-11-10T15:46:03+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "volatility",
+        "macro"
+      ],
+      "summary_zh": "Robert Hackro 和 Chris Mayer 讨论近期市场波动，认为市场结构变化（对冲基金、期权交易量）导致波动加剧，而非基本面驱动。AI基础设施和半导体股一个月内下跌35%，可能被错杀，但需关注基本面。",
+      "summary_en": "Robert Hackro and Chris Mayer discuss recent market volatility, attributing it to structural changes (hedge funds, options volume) rather than fundamentals. AI infrastructure and semiconductor stocks are down 35% in a month and may be oversold, but fundamentals matter.",
+      "detail_zh": "在11月5日的播客中，Robert Hackro 指出市场结构已发生巨大变化：对冲基金管理规模达5万亿美元，pod shops 约3500亿美元，股票期权名义交易量已超过现货交易量。市场参与者多样化（基本面、量化）但市场本身并不完全有效，当市场失去多样性、偏向一侧时，波动性就会上升。Chris Mayer 表示，过去一年市场似乎基于资金流而非基本面交易，他未对投资组合做大幅调整。他提到AI基础设施和半导体股一个月内下跌35%，可能像去年SaaS软件股一样被错杀，后者已反弹转涨。Hackro 以英伟达为例：假设其未来10年营收增长10%、回报率仅等于资本成本，当前市盈率为19倍；而沃尔玛增长5%、资本回报率更低，却以46倍远期市盈率交易。他认为，市场抛售时投资者转向低波动防御股，导致必需消费品股（如宝洁、高露洁、好市多）估值高企，而科技股被抛售。他建议反向操作：减持必需消费品，加仓科技股，但时机难以把握。Chris Mayer 长期看好AI技术，认为10年后AI将更广泛应用，当前回调类似亚马逊2000年下跌90%后的情况，不寻常但终将过去。Hackro 强调需基于销售、盈利和资本回报等基本面分析，并指出AI基础设施股估值已非常便宜，为2022年以来最低。",
+      "detail_en": "In a Nov 5 podcast, Robert Hackro noted massive structural changes in markets: hedge funds manage $5 trillion, pod shops about $350 billion, and notional stock options volume exceeds actual trading volume. Market participants are diverse (fundamental, quantitative) but the market is not fully efficient; when it loses diversity and goes to one side, volatility rises. Chris Mayer said markets seem driven by money flows rather than fundamentals, and he hasn't made major portfolio changes. He noted AI infrastructure and semiconductor stocks are down 35% in a month and may be oversold like SaaS software stocks last year, which have rebounded. Hackro used Nvidia as an example: assuming 10% revenue growth for 10 years and returns equal to cost of capital, it trades at 19x earnings; Walmart, growing at 5% with lower returns on capital, trades at 46x forward earnings. He argued that during selloffs, investors rotate into low-volatility defensives, making consumer staples (P&G, Colgate, Costco) expensive while tech is sold off. He suggested the reverse trade: lighten staples and move into tech, though timing is difficult. Chris Mayer is long-term bullish on AI, believing it will be more widely used in 10 years, and compared the current pullback to Amazon's 90% drop in 2000. Hackro stressed the need for fundamental analysis based on sales, earnings, and returns on capital, and noted AI infrastructure stocks are as cheap as he's seen since 2022.",
+      "conclusion_zh": "市场波动由结构因素驱动，AI基础设施股可能被过度抛售，投资者可关注基本面稳健的科技股，但需注意时机风险。",
+      "conclusion_en": "Market volatility is driven by structural factors; AI infrastructure stocks may be oversold. Investors could focus on fundamentally sound tech stocks, but timing risks remain.",
+      "key_points": [
+        {
+          "zh": "市场结构变化：对冲基金规模达5万亿美元，期权名义交易量超过现货，导致波动加剧。",
+          "en": "Market structure shifts: hedge funds manage $5 trillion, options notional volume exceeds spot, amplifying volatility."
+        },
+        {
+          "zh": "AI基础设施和半导体股一个月内下跌35%，可能被错杀，类似去年SaaS股。",
+          "en": "AI infrastructure and semiconductor stocks down 35% in a month, potentially oversold like SaaS stocks last year."
+        },
+        {
+          "zh": "英伟达市盈率19倍，沃尔玛46倍，防御股估值高企，科技股相对便宜。",
+          "en": "Nvidia trades at 19x earnings vs Walmart at 46x; defensives are expensive, tech is relatively cheap."
+        },
+        {
+          "zh": "建议反向操作：减持必需消费品，加仓科技股，但时机难把握。",
+          "en": "Suggested reverse trade: lighten consumer staples, add to tech, though timing is difficult."
+        },
+        {
+          "zh": "长期看好AI技术，当前回调类似历史泡沫破裂后的机会。",
+          "en": "Long-term bullish on AI; current pullback similar to opportunities after past bubble bursts."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "market structure",
+        "volatility",
+        "semiconductors",
+        "defensive rotation"
+      ],
+      "tickers": [
+        "NVDA",
+        "WMT",
+        "PG",
+        "CL",
+        "COST"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Qjvm_nPVBsE",
+      "title": "Rep. Thomas Massie Introduces Hegseth Impeachment Measure",
+      "title_zh": "共和党议员Massie提出弹劾国防部长Hegseth的动议",
+      "url": "https://www.youtube.com/watch?v=Qjvm_nPVBsE",
+      "published_at": "2026-11-10T15:36:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "共和党众议员Thomas Massie提出弹劾国防部长Pete Hegseth的动议，指控包括未经国会授权发动伊朗战争以及实施法外处决。该消息来自Bloomberg Television，原文未提供更多细节或市场影响分析。",
+      "summary_en": "Republican Rep. Thomas Massie introduced a measure to impeach Defense Secretary Pete Hegseth, citing charges including waging the Iran war without congressional authorization and committing extrajudicial killings. The item comes from Bloomberg Television with no further details or market impact analysis provided.",
+      "detail_zh": "共和党众议员Thomas Massie提出了一项弹劾国防部长Pete Hegseth的动议。原文列出的指控包括：未经国会授权发动伊朗战争，以及实施法外处决。原文未说明该动议的后续程序、支持程度或政治背景，也未提及任何市场或资产价格反应。该内容仅为Bloomberg Television的新闻片段标题，其余为社交媒体与订阅链接，不包含额外实质信息。",
+      "detail_en": "Republican Rep. Thomas Massie introduced a measure to impeach Defense Secretary Pete Hegseth. The charges cited in the original text include waging the Iran war without congressional authorization and committing extrajudicial killings. The source does not specify the measure's procedural next steps, level of support, or political context, nor does it mention any market or asset price reaction. The content is a Bloomberg Television news headline; the remainder consists of social media and subscription links with no additional substantive information.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "共和党众议员Thomas Massie提出弹劾国防部长Pete Hegseth的动议。",
+          "en": "Republican Rep. Thomas Massie introduced a measure to impeach Defense Secretary Pete Hegseth."
+        },
+        {
+          "zh": "指控包括未经国会授权发动伊朗战争以及实施法外处决。",
+          "en": "Charges include waging the Iran war without congressional authorization and committing extrajudicial killings."
+        },
+        {
+          "zh": "原文未提供动议的后续程序、支持程度或市场影响。",
+          "en": "The source provides no details on the measure's next steps, level of support, or market impact."
+        }
+      ],
+      "tags": [
+        "impeachment",
+        "Hegseth",
+        "Massie",
+        "Iran war",
+        "defense"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ZmdxPIKz_NE",
+      "title": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
+      "title_zh": "“与房子结婚，与利率约会”：2022年加息周期中的购房策略口号",
+      "url": "https://www.youtube.com/watch?v=ZmdxPIKz_NE",
+      "published_at": "2026-11-10T15:36:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社的Michelle Amponsah报道了“与房子结婚，与利率约会”这一说法。该说法在2022年利率开始上升时，被房地产经纪人、抵押贷款银行家和网红推广，建议购房者不必过于担心贷款成本，而应专注于买到心仪的房子，待利率 inevitable 下降时再融资。",
+      "summary_en": "Bloomberg's Michelle Amponsah reports on the phrase 'Marry the house, date the rate,' which was promoted by realtors, mortgage bankers, and influencers as interest rates began rising in 2022. The idea was that buyers shouldn't worry too much about loan costs, but focus on getting the house they want and refinance when rates inevitably came down.",
+      "detail_zh": "彭博社的Michelle Amponsah报道了“与房子结婚，与利率约会”这一说法。该说法在2022年利率开始上升时，被房地产经纪人、抵押贷款银行家和网红推广。其核心观点是，购房者不应过于担心贷款成本，而应专注于买到心仪的房子，待利率 inevitable 下降时再融资。报道未提供更多细节或数据。",
+      "detail_en": "Bloomberg's Michelle Amponsah reports on the phrase 'Marry the house, date the rate.' The idea, boosted by realtors, mortgage bankers, and influencers as interest rates started rising in 2022, was that buyers shouldn't worry too much about loan costs. Instead, they should focus on getting the house they want, then refinance when rates inevitably came down. The report does not provide further details or data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "“与房子结婚，与利率约会”是2022年利率上升时流行的购房口号。",
+          "en": "'Marry the house, date the rate' was a popular homebuying slogan as rates rose in 2022."
+        },
+        {
+          "zh": "该口号被房地产经纪人、抵押贷款银行家和网红推广。",
+          "en": "The slogan was promoted by realtors, mortgage bankers, and influencers."
+        },
+        {
+          "zh": "核心建议是购房者不必过于担心贷款成本，应专注于买到心仪的房子。",
+          "en": "The core advice was that buyers shouldn't worry too much about loan costs and should focus on getting the house they want."
+        },
+        {
+          "zh": "该口号假设利率会 inevitable 下降，届时可再融资。",
+          "en": "The slogan assumed rates would inevitably come down, allowing refinancing later."
+        }
+      ],
+      "tags": [
+        "mortgage rates",
+        "housing market",
+        "refinancing",
+        "consumer advice"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fK_JPl6qqMg",
+      "title": "Hegseth Says Impeachment Bid Amounts to ‘Sabotage’",
+      "title_zh": "赫格塞斯就弹劾动议展开辩护",
+      "url": "https://www.youtube.com/watch?v=fK_JPl6qqMg",
+      "published_at": "2026-11-10T15:35:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国国防部长赫格塞斯针对国会对其发起的弹劾努力进行强硬辩护，将此举定性为对美国军队及特朗普总统下令的合法军事行动的政治化攻击。原文未涉及市场或经济内容。",
+      "summary_en": "Defense Secretary Pete Hegseth mounted a combative defense against the impeachment effort against him in Congress, casting the move as a politicized attack on US troops and lawful military operations ordered by President Trump. The source contains no market or economic content.",
+      "detail_zh": "美国国防部长皮特·赫格塞斯就国会针对他的弹劾努力作出强硬回应。他将这一弹劾动议描述为一种政治化攻击，矛头指向美国军队以及由总统特朗普下令的合法军事行动。原文仅提供上述单一事实，未包含弹劾的具体理由、程序进展、投票情况或任何市场与经济影响的信息。",
+      "detail_en": "Defense Secretary Pete Hegseth mounted a combative defense against the impeachment effort against him in Congress. He cast the move as a politicized attack on US troops and on lawful military operations ordered by President Trump. The source provides only this single fact and contains no details on the grounds for impeachment, procedural status, votes, or any market or economic implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "赫格塞斯就国会弹劾努力进行强硬辩护。",
+          "en": "Hegseth mounted a combative defense against the impeachment effort in Congress."
+        },
+        {
+          "zh": "他将弹劾动议定性为对美国军队的政治化攻击。",
+          "en": "He cast the move as a politicized attack on US troops."
+        },
+        {
+          "zh": "他称弹劾针对的是特朗普总统下令的合法军事行动。",
+          "en": "He framed it as targeting lawful military operations ordered by President Trump."
+        }
+      ],
+      "tags": [
+        "defense",
+        "impeachment",
+        "US politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:X9_ZKzaxDJw",
+      "title": "Skydance to release New Paramount+, HBO Max Bundle",
+      "title_zh": "Skydance 公布派拉蒙与华纳兄弟探索合并计划：拟推捆绑流媒体并实现60亿美元协同效应",
+      "url": "https://www.youtube.com/watch?v=X9_ZKzaxDJw",
+      "published_at": "2026-11-10T15:29:59+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Skydance 披露与派拉蒙及华纳兄弟探索合并后的规划，包括可能将 Paramount+ 与 HBO Max 捆绑，并推动实现60亿美元合并协同效应。彭博情报分析师 Geetha Ranganathan 指出，大型媒体并购的历史教训令投资者保持谨慎。",
+      "summary_en": "Skydance outlined plans for its merger with Paramount and Warner Bros. Discovery, including a potential bundle of Paramount+ and HBO Max and a push to deliver $6 billion in merger synergies. Bloomberg Intelligence analyst Geetha Ranganathan noted that the troubled history of major media mergers is giving investors reason for caution.",
+      "detail_zh": "Skydance 正在公布其与派拉蒙及华纳兄弟探索合并后的计划。方案包括可能将 Paramount+ 与 HBO Max 进行捆绑，并推动实现60亿美元的合并协同效应。彭博情报高级媒体分析师 Geetha Ranganathan 在 Bloomberg Businessweek Daily 节目中讨论了该公司的未来。她提到，大型媒体并购的历史表现不佳，这使投资者有理由保持谨慎。",
+      "detail_en": "Skydance is laying out its plans following its merger of Paramount and Warner Bros. Discovery. The plans include a potential bundle of Paramount+ and HBO Max and a push to deliver $6 billion in merger synergies. Bloomberg Intelligence Senior Media Analyst Geetha Ranganathan joined Bloomberg Businessweek Daily to discuss the future of the company. She noted that the troubled history of major media mergers is giving investors reason for caution.",
+      "conclusion_zh": "投资者需关注合并协同效应的执行风险，以及流媒体捆绑策略能否抵消媒体并购的历史负面记录。",
+      "conclusion_en": "Investors should watch execution risks around the merger synergies and whether the streaming bundle strategy can offset the negative track record of media mergers.",
+      "key_points": [
+        {
+          "zh": "Skydance 计划将 Paramount+ 与 HBO Max 捆绑。",
+          "en": "Skydance plans a potential bundle of Paramount+ and HBO Max."
+        },
+        {
+          "zh": "合并目标为实现60亿美元协同效应。",
+          "en": "The merger aims to deliver $6 billion in synergies."
+        },
+        {
+          "zh": "彭博情报分析师 Geetha Ranganathan 指出，大型媒体并购的历史问题令投资者保持谨慎。",
+          "en": "Bloomberg Intelligence analyst Geetha Ranganathan noted that the troubled history of major media mergers is giving investors reason for caution."
+        }
+      ],
+      "tags": [
+        "media merger",
+        "streaming bundle",
+        "synergies",
+        "Paramount+",
+        "HBO Max"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:DpLi72kNClg",
+      "title": "White House CEA Chair Says Fed Rate Hike Is Premature",
+      "title_zh": "白宫经济顾问委员会主席承认10月CPI数据不佳，但称加息50个基点为时过早",
+      "url": "https://www.youtube.com/watch?v=DpLi72kNClg",
+      "published_at": "2026-11-10T15:25:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "白宫经济顾问委员会主席Chris Phelan承认10月CPI报告“不是个好数字”，通胀高企，但他仍认为加息50个基点为时过早。",
+      "summary_en": "White House Council of Economic Advisers Chairman Chris Phelan admitted the October CPI report was \"not a good number\" with inflation running hot, but still said a 50 basis point rate hike would be premature.",
+      "detail_zh": "白宫经济顾问委员会主席Chris Phelan在“Bloomberg Open Interest”节目中表示，10月CPI报告“不是个好数字”，通胀表现火热。尽管如此，他仍认为加息50个基点为时过早。",
+      "detail_en": "White House Council of Economic Advisers Chairman Chris Phelan said on \"Bloomberg Open Interest\" that the October CPI report was \"not a good number\" and inflation came in hot. Nevertheless, he still believes that raising interest rates by 50 basis points would be premature.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "白宫经济顾问委员会主席Chris Phelan承认10月CPI报告“不是个好数字”，通胀高企。",
+          "en": "White House CEA Chairman Chris Phelan admitted the October CPI report was \"not a good number\" and inflation came in hot."
+        },
+        {
+          "zh": "Phelan仍认为加息50个基点为时过早。",
+          "en": "Phelan still says raising interest rates by 50 basis points would be premature."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "inflation",
+        "Fed",
+        "rate hike",
+        "White House"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:rkDiNKDv3Cg",
       "title": "Why investors are borrowing money to buy stocks",
@@ -17280,94 +17630,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:d_1Q4HIyjbA",
-      "title": "US Job Openings Jump as Factory, Durable Orders Also Rise",
-      "title_zh": "美国职位空缺升至752万，工厂订单与耐用品订单同步上升",
-      "url": "https://www.youtube.com/watch?v=d_1Q4HIyjbA",
-      "published_at": "2026-11-03T15:27:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国职位空缺增加33.3万至752万，前值上修为719万；工厂订单和耐用品订单亦上升。该数据由Michael McKee在Bloomberg Open Interest节目中报道。",
-      "summary_en": "US job openings rose by 333,000 to 7.52 million from a revised 7.19 million in August, while factory orders and durable goods orders also increased, according to Michael McKee on Bloomberg Open Interest.",
-      "detail_zh": "美国职位空缺增加33.3万，达到752万，前值从719万上修。同期工厂订单和耐用品订单均录得上升。上述数据由Michael McKee在Bloomberg Open Interest节目中报道。原文未提供更多关于数据背景、市场反应或政策含义的细节。",
-      "detail_en": "US job openings increased by 333,000 to 7.52 million, up from a revised 7.19 million in August. Factory orders and durable goods orders also rose during the same period. The report was provided by Michael McKee on Bloomberg Open Interest. No further details on context, market reaction, or policy implications were provided in the source.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国职位空缺增加33.3万至752万，前值上修为719万。",
-          "en": "US job openings rose by 333,000 to 7.52 million, from a revised 7.19 million."
-        },
-        {
-          "zh": "工厂订单和耐用品订单同时上升。",
-          "en": "Factory orders and durable goods orders also increased."
-        },
-        {
-          "zh": "数据由Michael McKee在Bloomberg Open Interest节目中报道。",
-          "en": "The data was reported by Michael McKee on Bloomberg Open Interest."
-        }
-      ],
-      "tags": [
-        "job openings",
-        "factory orders",
-        "durable goods",
-        "US economy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:QF3aWXD5ozY",
-      "title": "Inside Indonesia’s Wash-Trade Scheme",
-      "title_zh": "印尼市场操纵行为或致MSCI降级，资金外流风险上升",
-      "url": "https://www.youtube.com/watch?v=QF3aWXD5ozY",
-      "published_at": "2026-11-03T15:15:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博报道揭露印尼市场存在交易量操纵、所有权不透明和协同交易等问题，动摇了市场信心，并使该国面临被移出MSCI主要新兴市场指数的风险。若发生降级，可能导致数十亿美元资金流出这个亚洲最大经济体之一。",
-      "summary_en": "Bloomberg reporting reveals trading volume manipulation, opaque ownership, and coordinated trades that have shaken confidence in Indonesia's markets and put the country at risk of being pushed out of MSCI's major emerging-market indexes. A downgrade could drive billions of dollars out of one of Asia's biggest economies.",
-      "detail_zh": "彭博调查报道指出，印尼市场存在交易量操纵、所有权不透明和协同交易等问题，这些行为由部分经纪商策划，人为制造需求假象。此类交易计划帮助印尼富豪获利，却动摇了市场信心，并使该国面临被MSCI降级的风险，可能被移出主要新兴市场指数。报道提及“洗售交易”和“5000%涨幅”等细节，但未提供具体数据或涉及的公司名称。若MSCI降级成真，可能导致数十亿美元资金流出印尼市场。原文未明确提及对美股的影响。",
-      "detail_en": "Bloomberg reporting reveals that trading volume manipulation, opaque ownership, and coordinated trades have shaken confidence in Indonesia's markets. Some brokers engineered activity and inflated the appearance of demand, and these stock trading schemes helped enrich Indonesia's tycoons while putting the country on the verge of a costly MSCI downgrade. The report mentions \"wash trades\" and \"5,000% gains\" but does not provide specific figures or name companies. A downgrade could drive billions of dollars out of one of Asia's biggest economies. The original text does not explicitly mention any impact on US equities.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "印尼市场存在交易量操纵、所有权不透明和协同交易等问题。",
-          "en": "Indonesia's markets face issues of trading volume manipulation, opaque ownership, and coordinated trades."
-        },
-        {
-          "zh": "部分经纪商策划交易活动，人为夸大需求表象。",
-          "en": "Some brokers engineered activity and inflated the appearance of demand."
-        },
-        {
-          "zh": "这些交易计划帮助印尼富豪获利，但动摇了市场信心。",
-          "en": "These trading schemes helped enrich Indonesia's tycoons but shook market confidence."
-        },
-        {
-          "zh": "印尼面临被移出MSCI主要新兴市场指数的风险。",
-          "en": "Indonesia is at risk of being pushed out of MSCI's major emerging-market indexes."
-        },
-        {
-          "zh": "若发生降级，可能导致数十亿美元资金流出印尼。",
-          "en": "A downgrade could drive billions of dollars out of Indonesia."
-        }
-      ],
-      "tags": [
-        "Indonesia",
-        "MSCI",
-        "market manipulation",
-        "emerging markets"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
