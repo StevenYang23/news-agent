@@ -1,6 +1,298 @@
 {
-  "generated_at": "2026-11-10T13:14:37.494481+00:00",
+  "generated_at": "2026-11-10T14:15:25.057255+00:00",
   "insights": [
+    {
+      "guid": "yt:KnbX0tZM9yA",
+      "title": "Hegseth Hits Out at Critics as Massie Pushes Impeachment",
+      "title_zh": "特朗普与鲁比奥力挺国防部长赫格塞斯，众议员马西提出弹劾条款",
+      "url": "https://www.youtube.com/watch?v=KnbX0tZM9yA",
+      "published_at": "2026-11-10T14:04:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统与国务卿鲁比奥在共和党众议员托马斯·马西因伊朗军事行动提出弹劾条款后，公开为国防部长皮特·赫格塞斯辩护。赫格塞斯拒绝辞职，称此举出于政治动机。",
+      "summary_en": "President Donald Trump and Secretary of State Marco Rubio defended Defense Secretary Pete Hegseth after Republican Representative Thomas Massie introduced articles of impeachment over military operations in Iran. Hegseth has rejected calls to step down, characterizing the effort as politically motivated.",
+      "detail_zh": "特朗普总统与国务卿马科·鲁比奥对国防部长皮特·赫格塞斯表示支持。此前，共和党众议员托马斯·马西因伊朗军事行动提出针对赫格塞斯的弹劾条款。赫格塞斯拒绝辞职的呼吁，并将这一努力描述为出于政治动机。",
+      "detail_en": "President Donald Trump and Secretary of State Marco Rubio defended Defense Secretary Pete Hegseth. This follows Republican Representative Thomas Massie introducing articles of impeachment against Hegseth over military operations in Iran. Hegseth has rejected calls to step down and characterized the effort as politically motivated.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普总统与国务卿鲁比奥公开为国防部长赫格塞斯辩护。",
+          "en": "President Trump and Secretary of State Rubio publicly defended Defense Secretary Hegseth."
+        },
+        {
+          "zh": "共和党众议员托马斯·马西因伊朗军事行动提出弹劾条款。",
+          "en": "Republican Representative Thomas Massie introduced articles of impeachment over military operations in Iran."
+        },
+        {
+          "zh": "赫格塞斯拒绝辞职，称弹劾努力出于政治动机。",
+          "en": "Hegseth rejected calls to step down, calling the effort politically motivated."
+        }
+      ],
+      "tags": [
+        "impeachment",
+        "defense",
+        "iran",
+        "trump-administration"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:AgryJwwKGio",
+      "title": "US Defense Sec. Hegseth Calls Impeachment Effort a Farce",
+      "title_zh": "美防长称弹劾动议是闹剧",
+      "url": "https://www.youtube.com/watch?v=AgryJwwKGio",
+      "published_at": "2026-11-10T14:02:37+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国国防部长赫格塞斯在五角大楼记者会上表示，众议员马西提出的弹劾动议是一场闹剧，并称该决议等同于蓄意破坏。",
+      "summary_en": "US Secretary of Defense Pete Hegseth said at a Pentagon press conference that the impeachment resolution introduced by Rep. Thomas Massie is a farce and amounts to sabotage.",
+      "detail_zh": "美国国防部长皮特·赫格塞斯周二在五角大楼举行的记者会上，对众议员托马斯·马西提出的弹劾动议作出回应。赫格塞斯称该动议是一场闹剧，并进一步表示，这项决议等同于蓄意破坏。报道未提供弹劾动议的具体内容、投票进展或后续影响等细节。",
+      "detail_en": "US Secretary of Defense Pete Hegseth responded at a press conference at the Pentagon on Tuesday to the impeachment resolution introduced by Rep. Thomas Massie. Hegseth called the move a farce and further said the resolution amounts to sabotage. The report did not provide details on the content of the impeachment resolution, its voting progress, or its subsequent impact.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国国防部长赫格塞斯称众议员马西提出的弹劾动议是闹剧。",
+          "en": "US Secretary of Defense Hegseth called the impeachment resolution introduced by Rep. Massie a farce."
+        },
+        {
+          "zh": "赫格塞斯表示该决议等同于蓄意破坏。",
+          "en": "Hegseth said the resolution amounts to sabotage."
+        },
+        {
+          "zh": "上述表态是在五角大楼的记者会上作出的。",
+          "en": "The remarks were made at a press conference at the Pentagon."
+        }
+      ],
+      "tags": [
+        "impeachment",
+        "defense",
+        "politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5tVkY6fD4MI",
+      "title": "US October CPI Comes in Hotter Than Expected",
+      "title_zh": "美国10月CPI超预期，核心环比涨0.3%",
+      "url": "https://www.youtube.com/watch?v=5tVkY6fD4MI",
+      "published_at": "2026-11-10T14:01:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国10月消费者价格指数涨幅高于预期，可能给美联储带来难题。剔除食品和能源的核心CPI环比上涨0.3%，整体CPI环比上涨0.4%。",
+      "summary_en": "U.S. October consumer prices rose more than expected, posing a possible problem for the Federal Reserve. Core CPI, excluding food and energy, rose 0.3% month-over-month, while overall prices rose 0.4%.",
+      "detail_zh": "据彭博报道，美国10月消费者价格指数（CPI）涨幅超出预期，这可能对美联储构成潜在问题。具体数据显示，剔除食品和能源的核心CPI环比上升0.3%，整体CPI环比上升0.4%。报道由Michael McKee提供，未进一步披露同比数据、分项细节或市场反应。",
+      "detail_en": "According to Bloomberg, U.S. October consumer prices rose more than expected, posing a possible problem for the Federal Reserve. Specifically, the core CPI, excluding food and energy, increased 0.3% from a month earlier, while overall prices rose 0.4%. The report was provided by Michael McKee and did not disclose further year-over-year figures, component details, or market reaction.",
+      "conclusion_zh": "10月CPI超预期，或加大美联储政策压力，投资者需关注后续通胀走势及联储反应。",
+      "conclusion_en": "October CPI came in hotter than expected, potentially increasing pressure on the Federal Reserve; investors should watch subsequent inflation trends and the Fed's response.",
+      "key_points": [
+        {
+          "zh": "10月整体CPI环比上涨0.4%，高于预期。",
+          "en": "Overall CPI rose 0.4% month-over-month in October, above expectations."
+        },
+        {
+          "zh": "核心CPI（剔除食品和能源）环比上涨0.3%。",
+          "en": "Core CPI (excluding food and energy) rose 0.3% month-over-month."
+        },
+        {
+          "zh": "通胀数据超预期可能给美联储带来难题。",
+          "en": "The hotter-than-expected inflation data could pose a problem for the Federal Reserve."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "inflation",
+        "Federal Reserve",
+        "US economy"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:iwzqPVvsWG8",
+      "title": "Inside the Nvidia Spy Scandal Shaking AI",
+      "title_zh": "英伟达CEO黄仁勋承认婚外情，涉中国间谍嫌疑，公司及FBI展开调查",
+      "url": "https://www.youtube.com/watch?v=iwzqPVvsWG8",
+      "published_at": "2026-11-10T13:54:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋承认与一名被美国情报部门怀疑为中国间谍的女性有婚外情，公司董事会和FBI正在调查他是否被外国特工针对。此事可能加剧AI市场因数据中心支出放缓担忧而引发的动荡，并危及美中AI芯片竞赛。",
+      "summary_en": "Nvidia CEO Jensen Huang admitted to an affair with a woman reportedly suspected by US intelligence of spying for China. Corporate and FBI probes are underway, examining whether Huang was targeted by a foreign agent. The scandal threatens to further roil an AI market already shaken by data center spending slowdown concerns and risks upending the US-China AI chip race.",
+      "detail_zh": "英伟达首席执行官黄仁勋承认与一名女性有婚外情，而美国情报部门据报怀疑该女性为中国从事间谍活动。黄仁勋目前成为公司和FBI调查的对象。这一事件可能进一步扰乱本已因数据中心支出放缓担忧而动荡的AI市场，也可能破坏美中在AI芯片领域的主导权竞争。董事会正在调查其CEO是否成为外国特工的目标，并面临公司未来可能失去这位独一无二领导者的风险。原文还链接了一篇关于黄仁勋700,000%回报率放大英伟达继任危机的报道。",
+      "detail_en": "Nvidia CEO Jensen Huang admitted to an affair with a woman whom US intelligence reportedly suspect was spying for China. Huang is now the subject of corporate and FBI probes. The blowup threatens to further roil an AI market already shaken by concerns about a slowdown in data center spending, and it also risks upending the US-China race for AI chip supremacy. The board is probing whether its CEO was targeted by a foreign agent and facing the risk of a future without its singular leader. The original text also links to a report on Jensen Huang's 700,000% return magnifying Nvidia's succession crisis.",
+      "conclusion_zh": "英伟达CEO的婚外情及间谍嫌疑调查可能加剧AI板块波动，并引发对公司领导层稳定性的担忧，投资者需关注调查进展及其对美中芯片竞争格局的潜在影响。",
+      "conclusion_en": "The scandal surrounding Nvidia's CEO and the espionage probe could heighten volatility in the AI sector and raise concerns about leadership stability, with investors watching investigation developments and potential implications for the US-China chip rivalry.",
+      "key_points": [
+        {
+          "zh": "黄仁勋承认与一名被美国情报部门怀疑为中国间谍的女性有婚外情。",
+          "en": "Jensen Huang admitted to an affair with a woman reportedly suspected by US intelligence of spying for China."
+        },
+        {
+          "zh": "黄仁勋目前面临公司和FBI的调查。",
+          "en": "Huang is now the subject of corporate and FBI probes."
+        },
+        {
+          "zh": "事件可能加剧AI市场因数据中心支出放缓担忧而引发的动荡。",
+          "en": "The blowup threatens to further roil an AI market already shaken by concerns about a slowdown in data center spending."
+        },
+        {
+          "zh": "事件可能破坏美中AI芯片主导权竞赛。",
+          "en": "It also risks upending the US-China race for AI chip supremacy."
+        },
+        {
+          "zh": "董事会正在调查CEO是否被外国特工针对，并面临公司未来可能失去这位独特领导者的风险。",
+          "en": "The board is probing whether its CEO was targeted by a foreign agent and facing the risk of a future without its singular leader."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "China",
+        "espionage",
+        "AI chips"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:dCva1849bO0",
+      "title": "Fed's Waller Supports Rate Hike in December",
+      "title_zh": "美联储理事沃勒支持12月加息，并警告若通胀加速将支持加息50个基点",
+      "url": "https://www.youtube.com/watch?v=dCva1849bO0",
+      "published_at": "2026-11-10T13:52:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储理事沃勒表示支持12月加息，并警告若通胀持续加速，他将支持加息半个百分点以维护央行信誉。",
+      "summary_en": "Federal Reserve Governor Christopher Waller said he supports an interest-rate hike in December and warned he would support a half-percentage-point increase if inflation continues to accelerate, to protect the central bank's credibility.",
+      "detail_zh": "美联储理事克里斯托弗·沃勒在英格兰银行及其观察家活动上表示，他支持在12月进行加息。沃勒警告称，如果通胀持续加速，他将支持加息半个百分点，以保护央行的信誉。他进一步指出，如果通胀远高于他的预期，联邦公开市场委员会可能需要采取更有力的行动。",
+      "detail_en": "Federal Reserve Governor Christopher Waller, speaking at the Bank of England and Its Watchers event, said he supports an interest-rate hike in December. He warned that if inflation continues to accelerate, he would support a half-percentage-point increase to protect the central bank's credibility. He further stated that if inflation comes in substantially higher than he expects, more robust action by the FOMC may be called for.",
+      "conclusion_zh": "沃勒的言论暗示美联储可能采取更激进的加息步伐以应对通胀，投资者应关注通胀数据对12月利率决策的影响。",
+      "conclusion_en": "Waller's remarks suggest the Fed may take a more aggressive rate hike path to combat inflation; investors should watch inflation data for its impact on the December rate decision.",
+      "key_points": [
+        {
+          "zh": "沃勒支持12月加息。",
+          "en": "Waller supports a December rate hike."
+        },
+        {
+          "zh": "若通胀持续加速，沃勒将支持加息50个基点。",
+          "en": "Waller would support a 50 basis point hike if inflation continues to accelerate."
+        },
+        {
+          "zh": "沃勒强调保护央行信誉的重要性。",
+          "en": "Waller emphasizes the importance of protecting the central bank's credibility."
+        },
+        {
+          "zh": "若通胀远高于预期，FOMC可能需要更有力的行动。",
+          "en": "More robust action by the FOMC may be called for if inflation is substantially higher than expected."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate hike",
+        "inflation",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:VFsng_wiwOw",
+      "title": "Anthropic Targets $1.4 Trillion Valuation in IPO",
+      "title_zh": "Anthropic拟IPO估值约1.4万亿美元，募资至多904亿美元",
+      "url": "https://www.youtube.com/watch?v=VFsng_wiwOw",
+      "published_at": "2026-11-10T13:51:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic寻求在IPO中实现约1.4万亿美元完全稀释估值，并计划通过IPO及私募配售募资至多904亿美元。若成行，该公司将成为首家上市的前沿AI实验室。",
+      "summary_en": "Anthropic is seeking a fully diluted valuation of about $1.4 trillion in its IPO and aims to raise as much as $90.4 billion through the IPO and a private placement. If completed, it would become the first frontier AI lab to go public.",
+      "detail_zh": "据Bloomberg Television报道，Claude聊天机器人开发商Anthropic正寻求在首次公开募股中获得约1.4万亿美元的完全稀释估值。公司计划通过IPO及私募配售合计募资至多904亿美元。若顺利推进，Anthropic将成为首家上市的前沿人工智能实验室，创下行业先例。报道由Lisa Abramowicz与Annmarie Hordern提供细节，未披露发行时间表、上市地点、具体发行价或承销商等信息。",
+      "detail_en": "According to Bloomberg Television, Claude chatbot maker Anthropic is seeking a fully diluted valuation of about $1.4 trillion in its initial public offering. The company plans to raise as much as $90.4 billion in total through the IPO and a private placement. If completed, Anthropic would make history as the first frontier artificial intelligence lab to go public. The report, with details from Lisa Abramowicz and Annmarie Hordern, did not disclose a timetable, listing venue, offering price, or underwriters.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic寻求约1.4万亿美元完全稀释估值。",
+          "en": "Anthropic is seeking a fully diluted valuation of about $1.4 trillion."
+        },
+        {
+          "zh": "计划通过IPO及私募配售募资至多904亿美元。",
+          "en": "It aims to raise as much as $90.4 billion via the IPO and a private placement."
+        },
+        {
+          "zh": "若成行，将成为首家上市的前沿AI实验室。",
+          "en": "If completed, it would be the first frontier AI lab to go public."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "valuation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:I9ilAsq9fEU",
+      "title": "Fed’s Waller on Rates, Market Pricing and the US Economy",
+      "title_zh": "美联储理事沃勒将就货币政策与利率前景发表讲话",
+      "url": "https://www.youtube.com/watch?v=I9ilAsq9fEU",
+      "published_at": "2026-11-10T13:49:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储理事克里斯托弗·沃勒将在伦敦举行的“英格兰银行及其观察者”活动上与彭博社的弗朗辛·拉夸对话，讨论货币政策、利率及美国经济前景。原文仅为活动预告，未包含具体政策观点或数据。",
+      "summary_en": "Federal Reserve Governor Christopher Waller will speak with Bloomberg's Francine Lacqua at the Bank of England and Its Watchers event in London, discussing monetary policy, interest rates, and the US economic outlook. The original text is only an event announcement and contains no specific policy views or data.",
+      "detail_zh": "原文仅提供活动信息：美联储理事克里斯托弗·沃勒与彭博社的弗朗辛·拉夸在伦敦“英格兰银行及其观察者”活动上进行对话，主题涵盖货币政策、利率和美国经济前景。原文未包含沃勒的任何具体言论、政策立场、经济数据或市场影响分析。其余内容为彭博社的社交媒体链接和订阅推广，与投资洞见无关。",
+      "detail_en": "The original text only provides event information: Federal Reserve Governor Christopher Waller speaks with Bloomberg's Francine Lacqua at the Bank of England and Its Watchers event in London, covering monetary policy, interest rates, and the US economic outlook. The text contains no specific remarks, policy stances, economic data, or market impact analysis from Waller. The rest consists of Bloomberg's social media links and subscription promotions, unrelated to investment insights.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联储理事沃勒将讨论货币政策、利率及美国经济前景。",
+          "en": "Fed Governor Waller will discuss monetary policy, interest rates, and the US economic outlook."
+        },
+        {
+          "zh": "对话在伦敦“英格兰银行及其观察者”活动上进行，由彭博社的弗朗辛·拉夸主持。",
+          "en": "The conversation takes place at the Bank of England and Its Watchers event in London, hosted by Bloomberg's Francine Lacqua."
+        },
+        {
+          "zh": "原文未包含沃勒的具体政策观点或经济数据。",
+          "en": "The original text contains no specific policy views or economic data from Waller."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "monetary policy",
+        "interest rates",
+        "US economy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:N2fYAeneObs",
       "title": "3+1 Episode 27: Rick Rieder",
@@ -16948,101 +17240,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:hJDNXP-XA_o",
-      "title": "Seven Stocks Are 41% of the S&P. Inflows Hit $1.5 Trillion. So Why Did a $1B Manager Cut Risk?",
-      "title_zh": "Atoria CEO：AI交易过度拥挤，美股需转向自下而上精选",
-      "url": "https://www.youtube.com/watch?v=hJDNXP-XA_o",
-      "published_at": "2026-11-03T14:06:47+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "Atoria Investment Advisors创始人兼CIO John指出，当前美股由AI主题主导，七只股票占标普41%，市场情绪亢奋，资金流入强劲。他认为利率上升源于经济增长而非通胀，大盘科技股可承受更高利率，但小企业和低收入消费者承压。其团队已从超配股票转向中性，并从市值加权转向等权重，强调当前应进行高度自下而上的个股选择。",
-      "summary_en": "John, founder and CIO of Atoria Investment Advisors, argues that the U.S. equity market is dominated by a single AI bet, with seven stocks comprising 41% of the S&P and sentiment euphoric. He views rising rates as driven by growth rather than inflation, with mega-cap tech able to withstand higher rates while small businesses and lower-income consumers feel the pinch. His firm has scaled back from overweight equities to neutral and shifted from cap-weighted to equal-weight, emphasizing highly idiosyncratic stock picking.",
-      "detail_zh": "John在访谈中表示，当前投资世界似乎就是一场AI押注，七只股票占标普500指数的41%，市场情绪“极度亢奋”。他指出，资金流入强劲，ETF行业在好年份流入约7800亿美元，而今年已在一个月或两个月前突破1.5万亿美元。他认为，利率上升是因为经济增长，而非通胀，美国经济由超大规模科技公司和Mag 7主导，这些公司能够承受更高利率，但小企业和低收入消费者正受到高利率的严重挤压。John的团队几个月前关闭了股票超配头寸，认为“容易赚的钱已经赚到”，并将配置从市值加权转向等权重。他警告，从早期周期向中期周期过渡并不容易，美联储希望加息，地缘政治战争悬而未决，市场存在大量亢奋情绪。他建议投资者在投资组合中采取非常特异性的押注，而不是广泛超配。",
-      "detail_en": "In the interview, John stated that the investment world seems like a single AI bet, with seven stocks making up 41% of the S&P 500 and sentiment 'skyhigh.' He noted strong fund inflows, with the ETF industry seeing about $780 billion in a good year, and already crossing $1.5 trillion a month or two ago this year. He believes rates are rising due to economic growth, not inflation, and that the U.S. economy is dominated by hyperscalers and Mag 7 stocks that can withstand higher rates, while small businesses and lower-income consumers are getting pinched hard. John's team closed its overweight equity position several months ago, saying 'the easy money has been made,' and shifted from cap-weighted to equal-weight. He warned that the transition from early to mid-cycle is tricky, with a Fed wanting to hike, geopolitical war overhang, and a lot of euphoria. He advises investors to be very idiosyncratic with portfolio bets rather than broadly overweight.",
-      "conclusion_zh": "市场情绪亢奋且集中度过高，投资者应降低广泛风险敞口，转向自下而上的个股选择。",
-      "conclusion_en": "With euphoric sentiment and high concentration, investors should reduce broad risk exposure and shift to bottom-up stock picking.",
-      "key_points": [
-        {
-          "zh": "七只股票占标普500指数的41%，市场呈现单一AI押注特征。",
-          "en": "Seven stocks make up 41% of the S&P 500, reflecting a concentrated AI bet."
-        },
-        {
-          "zh": "ETF资金流入强劲，今年已突破1.5万亿美元，显示零售参与度极高。",
-          "en": "ETF inflows are strong, already crossing $1.5 trillion this year, indicating high retail participation."
-        },
-        {
-          "zh": "利率上升源于经济增长，大盘科技股可承受更高利率，但小企业和低收入消费者承压。",
-          "en": "Rising rates are driven by growth; mega-cap tech can withstand higher rates, but small businesses and lower-income consumers are pinched."
-        },
-        {
-          "zh": "Atoria已从股票超配转向中性，并从市值加权转向等权重。",
-          "en": "Atoria has moved from overweight equities to neutral and from cap-weighted to equal-weight."
-        },
-        {
-          "zh": "当前处于早期周期向中期周期过渡的棘手阶段，建议采取高度特异性的个股押注。",
-          "en": "The market is in a tricky early-to-mid cycle transition; highly idiosyncratic stock picking is advised."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "market concentration",
-        "rate hikes",
-        "equal-weight",
-        "stock picking"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:q1bXLkfVg7Y",
-      "title": "Stocks Waver as Voters Head to Polls; US, Iran Pursue Diplomacy; Tech Earnings",
-      "title_zh": "中期选举投票开启，美股期货震荡；苹果财报展望分化",
-      "url": "https://www.youtube.com/watch?v=q1bXLkfVg7Y",
-      "published_at": "2026-11-03T13:42:38+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国中期选举首批投票站开放，美股期货走势摇摆。高盛Peter Oppenheimer在节目中讨论选举后市场进一步波动的风险。苹果在CEO John Ternus任内首份季报中给出分化展望。",
-      "summary_en": "US equity futures wavered as the first polls opened for the midterm elections. Goldman Sachs' Peter Oppenheimer discussed the risk of further market volatility after the elections. Apple delivered a mixed outlook in its first quarterly report under CEO John Ternus.",
-      "detail_zh": "美国中期选举首批投票站开放，美股期货走势摇摆。据一位外交官透露，伊朗与美国正在审议调解方提出的和平谈判最新提案。苹果在CEO John Ternus任内首份季报中给出分化展望。高盛Peter Oppenheimer做客\"Bloomberg Brief\"，讨论选举后市场进一步波动的风险。Chatham House的Laurel Rapp解释民主党与共和党各自的关键利害。节目章节还涵盖亚洲市场、中国流动性与澳大利亚加息，苹果财报、Palantir与英伟达，美国中期选举关键摇摆州，AI融资（甲骨文、谷歌、微软、Meta），苹果利润率压力与AI成本，美伊谈判与油价，以及民主党\"蓝色浪潮\"前景。",
-      "detail_en": "US equity futures wavered as the first set of polls opened for the midterm elections. According to a diplomat, Iran and the US are reviewing the latest proposals on peace negotiations from mediators. Apple delivered a mixed outlook in the first quarterly report under CEO John Ternus. Peter Oppenheimer of Goldman Sachs joined \"Bloomberg Brief\" to discuss the risk of further market volatility after the elections. Laurel Rapp of Chatham House explained what is at stake for both Democrats and Republicans. Chapters also cover Asia markets, China liquidity and an Australia rate hike; Apple earnings, Palantir and Nvidia; key US midterm battleground states; AI financing (Oracle, Google, Microsoft, Meta); Apple margin pressures and AI costs; US-Iran negotiations and oil prices; and Democrats' prospects for a blue wave.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中期选举首批投票站开放，美股期货走势摇摆",
-          "en": "First polls opened for the midterm elections as US equity futures wavered"
-        },
-        {
-          "zh": "高盛Peter Oppenheimer讨论选举后市场进一步波动的风险",
-          "en": "Goldman Sachs' Peter Oppenheimer discussed the risk of further market volatility after the elections"
-        },
-        {
-          "zh": "苹果在CEO John Ternus任内首份季报中给出分化展望",
-          "en": "Apple delivered a mixed outlook in its first quarterly report under CEO John Ternus"
-        },
-        {
-          "zh": "据一位外交官，伊朗与美国正审议调解方提出的和平谈判最新提案",
-          "en": "According to a diplomat, Iran and the US are reviewing the latest proposals on peace negotiations from mediators"
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "market volatility",
-        "Apple earnings",
-        "US-Iran talks",
-        "AI financing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
