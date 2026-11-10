@@ -1,6 +1,224 @@
 {
-  "generated_at": "2026-11-10T18:16:37.380189+00:00",
+  "generated_at": "2026-11-10T19:12:59.919580+00:00",
   "insights": [
+    {
+      "guid": "4965780",
+      "title": "Wall Street Lunch: When $1T Is A Disappointing Number",
+      "title_zh": "Anthropic IPO拟募资644亿美元，CPI超预期推升加息押注",
+      "url": "https://seekingalpha.com/article/4965780-wall-street-lunch-when-1t-is-a-disappointing-number?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-10T18:45:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "macro",
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "Anthropic更新SEC文件，拟以每股70-78美元发行，最高募资644亿美元，含私募配售总规模904亿美元，将超越SpaceX纪录。10月CPI超预期，核心环比0.3%，美联储官员Waller称应考虑12月加息50个基点，联邦基金期货显示概率升至14%。",
+      "summary_en": "Anthropic updated its SEC filing to raise up to $64.4B in its IPO at $70–$78 per share, with the combined $90.4B deal including private placement surpassing SpaceX's record. October CPI came in above expectations, with core up 0.3% m/m, prompting Fed Governor Waller to say a 50bp December hike 'should be considered'; fed funds futures now price a 14% chance.",
+      "detail_zh": "Anthropic（ANT）在更新的SEC文件中计划通过IPO募资至多644亿美元，发行价区间为每股70至78美元，包含现有股东出售的股份。按区间上限计算，其市值约1万亿美元，约为一个月前市场讨论的2万亿美元的一半。加上私募配售，总规模904亿美元的交易将超过SpaceX创纪录的750亿美元基础发行及行使超额配售权后的862亿美元。公司发行8.014亿股A类普通股，现有股东额外出售2360万股，并授予承销商30天超额配售权，最多可额外购买1.2375亿股。经济数据方面，10月CPI整体环比上涨0.4%，核心CPI环比上涨0.3%，均略高于预期，二手车价格形成较大拖累。由于政府停摆，BLS未发布同比数据，但彭博终端团队用估算填补了2025年10月的缺失数据，显示整体CPI同比约4.02%，高于9月的3.74%。美联储理事Waller在伦敦表示，若10月核心CPI达到0.3%或以上，则应考虑12月加息50个基点，并称届时加息25个基点将危及美联储信誉。联邦基金期货目前显示下月加息50个基点的概率为14%，CPI公布前为零。个股方面，D-Wave Quantum（QBTS）第三季度亏损比预期多一美分，尽管营收超预期，预订额190万美元同比下降40万美元；Rocket Lab（RKLB）第三季度亏损超预期，掩盖了强劲的营收增长和乐观的第四季度展望；软银（SFTBY）季度亏损70亿美元，凸显创始人孙正义激进的AI策略，数据中心建设成本上升和融资支付严重拖累利润。此外，特朗普表示FBI正在调查英伟达CEO黄仁勋与涉嫌为中国从事间谍活动的Alice Huang之间的关系，The Information报道称该关系帮助促成了至少75亿美元的英伟达芯片流向中国公司。",
+      "detail_en": "Anthropic (ANT) plans to raise up to $64.4B in its IPO at $70–$78 per share, including shares sold by existing investors, per an updated SEC filing. At the top end, it would command a market valuation of about $1T, roughly half the $2T discussed just a month ago. Along with its private placement, the $90.4B deal would surpass SpaceX's record $75B base offering and $86.2B raised after exercising its overallotment option. The company is offering 801.4M Class A shares, with existing investors selling an additional 23.6M shares, and will grant underwriters a 30-day option for up to 123.75M additional shares. On the economy, October headline CPI rose 0.4% m/m and core CPI 0.3%, both just above expectations, with used cars a big drag. The BLS did not issue annual inflation rates due to the government shutdown a year ago, but Bloomberg's Terminal team backfilled missing October 2025 observations with estimates, showing headline CPI at roughly 4.02% y/y in October, up from 3.74% in September. Fed Governor Christopher Waller said in London that if October core CPI came in at 0.3% or above, a December 50bp hike 'should be considered,' adding a quarter-point increase would put the Fed's credibility at risk. Fed funds futures now show a 14% chance of a 50bp hike next month, versus no chance before the CPI. Among stocks, D-Wave Quantum (QBTS) is under pressure after a Q3 loss a penny wider than expected despite revenue topping forecasts, with bookings of $1.9M down $400K y/y; Rocket Lab (RKLB) is sliding after a wider-than-expected Q3 loss overshadowed strong revenue growth and an upbeat Q4 outlook; SoftBank (SFTBY) reported a $7B quarterly loss, highlighting Masayoshi Son's aggressive AI strategy, with higher data center construction costs and financing payments hitting the bottom line. Separately, President Trump said the FBI is 'looking into' the affair between Nvidia CEO Jensen Huang and Alice Huang, suspected of spying for China; The Information reported the relationship helped facilitate at least $7.5B in Nvidia chip shipments to Chinese firms.",
+      "conclusion_zh": "CPI超预期使12月加息50个基点的可能性从零升至14%，利率路径风险上升；同时Anthropic IPO定价显示AI资产估值预期较一个月前明显降温，需关注一级市场对二级市场AI板块的传导。",
+      "conclusion_en": "The hot CPI lifted the odds of a 50bp December hike from zero to 14%, raising rate-path risk; meanwhile Anthropic's IPO pricing signals AI valuation expectations have cooled markedly from a month ago, warranting attention to primary-market read-through for AI equities.",
+      "key_points": [
+        {
+          "zh": "Anthropic IPO拟以每股70-78美元募资至多644亿美元，含私募配售总规模904亿美元，将超越SpaceX纪录。",
+          "en": "Anthropic's IPO targets up to $64.4B at $70–$78 per share; the $90.4B deal including private placement would surpass SpaceX's record."
+        },
+        {
+          "zh": "按区间上限计算，Anthropic市值约1万亿美元，约为一个月前讨论的2万亿美元的一半。",
+          "en": "At the top end, Anthropic would be valued at about $1T, roughly half the $2T discussed a month ago."
+        },
+        {
+          "zh": "10月整体CPI环比0.4%、核心CPI环比0.3%，均略超预期；彭博估算整体CPI同比约4.02%，高于9月的3.74%。",
+          "en": "October headline CPI rose 0.4% m/m and core 0.3%, both slightly above expectations; Bloomberg estimates put headline CPI at ~4.02% y/y, up from 3.74% in September."
+        },
+        {
+          "zh": "美联储理事Waller称若核心CPI达0.3%或以上，应考虑12月加息50个基点；联邦基金期货显示概率升至14%。",
+          "en": "Fed Governor Waller said a 50bp December hike 'should be considered' if core CPI is 0.3% or above; fed funds futures now price a 14% chance."
+        },
+        {
+          "zh": "软银季度亏损70亿美元，反映其激进AI投资及数据中心成本上升；英伟达CEO黄仁勋因涉嫌间谍案关系被FBI调查。",
+          "en": "SoftBank posted a $7B quarterly loss amid aggressive AI investments and higher data center costs; Nvidia CEO Jensen Huang is subject to an FBI inquiry over an espionage-related relationship."
+        }
+      ],
+      "tags": [
+        "Anthropic IPO",
+        "CPI",
+        "Fed rate hike",
+        "SoftBank",
+        "Nvidia"
+      ],
+      "tickers": [
+        "QBTS",
+        "RKLB",
+        "SFTBY",
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:BtqVTfl2Bk4",
+      "title": "Milwaukee Bucks President: AI wealth hasn’t hit sports yet",
+      "title_zh": "雄鹿队总裁：AI财富尚未推高体育估值，供需仍是主因",
+      "url": "https://www.youtube.com/watch?v=BtqVTfl2Bk4",
+      "published_at": "2026-11-10T18:43:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "密尔沃基雄鹿队总裁Josh Glessing表示，AI创造的财富目前尚未推动体育球队估值，但未来随着该领域流动性释放可能改变。当前球队估值上涨主要源于供需关系：更多亿万富翁竞逐有限的体育特许经营权。",
+      "summary_en": "Milwaukee Bucks President Josh Glessing says AI wealth isn't driving sports valuations yet, but that could change as more liquidity is unlocked in the sector. For now, rising team values are largely a matter of supply and demand: more billionaires competing for the same limited number of sports franchises.",
+      "detail_zh": "密尔沃基雄鹿队总裁Josh Glessing指出，人工智能（AI）创造的财富目前尚未成为推动体育球队估值上升的因素。但他认为，随着该领域释放更多流动性，情况可能发生变化。Glessing表示，当前球队价值上涨主要归因于供需动态：市场上存在更多亿万富翁，而体育特许经营权数量有限，竞争加剧推高了估值。",
+      "detail_en": "Milwaukee Bucks President Josh Glessing noted that AI-generated wealth is not currently a driver of sports team valuations. However, he suggested this could change as more liquidity is unlocked in the sector. Glessing attributed rising team values primarily to supply and demand dynamics: there are more billionaires competing for a limited number of sports franchises, which pushes valuations higher.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "AI财富目前尚未推动体育球队估值。",
+          "en": "AI wealth is not yet driving sports team valuations."
+        },
+        {
+          "zh": "未来随着行业流动性释放，AI财富可能成为影响因素。",
+          "en": "AI wealth could become a factor as more liquidity is unlocked in the sector."
+        },
+        {
+          "zh": "当前估值上涨主要由于供需关系：更多亿万富翁竞逐有限的特许经营权。",
+          "en": "Current valuation increases are largely due to supply and demand: more billionaires competing for limited franchises."
+        }
+      ],
+      "tags": [
+        "sports valuations",
+        "AI wealth",
+        "supply and demand"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:B7lA3UqllZY",
+      "title": "How a Bank Collapse Brought Down a President",
+      "title_zh": "巴拉圭银行丑闻冲击特朗普盟友",
+      "url": "https://www.youtube.com/watch?v=B7lA3UqllZY",
+      "published_at": "2026-11-10T18:33:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "巴拉圭曾被视为南美安全投资地，但Ueno银行倒闭引发国家危机，并波及特朗普的盟友。",
+      "summary_en": "Paraguay was once seen as a safe bet in South America, but the collapse of Ueno Bank has triggered a national crisis and is taking down Trump's ally.",
+      "detail_zh": "巴拉圭原本被认为是南美洲的安全选择，具有快速增长、低通胀和国际投资者的信心。然而，Ueno银行的倒闭演变成了一场国家危机，并正在拖累特朗普的盟友。原文未提供更多细节。",
+      "detail_en": "Paraguay was supposed to be South America's safe bet, with fast growth, low inflation and the confidence of international investors. However, the collapse of Ueno Bank has turned into a national crisis and is taking down Trump's ally. The original text does not provide further details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "巴拉圭曾被视为南美安全投资地，以快速增长和低通胀为特点。",
+          "en": "Paraguay was considered a safe bet in South America, characterized by fast growth and low inflation."
+        },
+        {
+          "zh": "Ueno银行的倒闭引发了国家危机。",
+          "en": "The collapse of Ueno Bank triggered a national crisis."
+        },
+        {
+          "zh": "该丑闻正在波及特朗普的盟友。",
+          "en": "The scandal is taking down Trump's ally."
+        }
+      ],
+      "tags": [
+        "Paraguay",
+        "banking scandal",
+        "political risk"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:_2yk_3rLIJU",
+      "title": "Grand Theft Auto VI Finally Comes Out Nov. 19",
+      "title_zh": "《侠盗猎车手VI》定档11月19日，预购量空前",
+      "url": "https://www.youtube.com/watch?v=_2yk_3rLIJU",
+      "published_at": "2026-11-10T18:24:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "《侠盗猎车手VI》将于11月19日发售，预计成为史上最赚钱的娱乐产品之一，预购量已达“空前水平”。前作《侠盗猎车手V》于2013年推出。",
+      "summary_en": "Grand Theft Auto VI is set to release on November 19 and is expected to be one of the most lucrative entertainment releases ever, with pre-orders already at \"unprecedented levels.\" Its predecessor, Grand Theft Auto V, came out in 2013.",
+      "detail_zh": "据彭博电台报道，《侠盗猎车手VI》将于11月19日正式发售。该游戏被预期将成为有史以来最赚钱的娱乐产品发布之一。目前预购量已达到“空前水平”。作为对比，前作《侠盗猎车手V》于2013年发行。彭博情报科技研究分析师Nathan Naidu在彭博电台节目中讨论了相关话题。",
+      "detail_en": "According to Bloomberg Radio, Grand Theft Auto VI is set to be released on November 19. It is expected to be one of the most lucrative entertainment releases ever. Pre-orders are already at \"unprecedented levels.\" For comparison, the previous installment, Grand Theft Auto V, was released in 2013. Nathan Naidu, Bloomberg Intelligence Technology Research Analyst, joined Bloomberg Radio to discuss more.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "《侠盗猎车手VI》定于11月19日发售。",
+          "en": "Grand Theft Auto VI is scheduled for release on November 19."
+        },
+        {
+          "zh": "该游戏预计将成为史上最赚钱的娱乐产品发布之一。",
+          "en": "The game is expected to be one of the most lucrative entertainment releases ever."
+        },
+        {
+          "zh": "预购量已达到“空前水平”。",
+          "en": "Pre-orders are already at \"unprecedented levels.\""
+        },
+        {
+          "zh": "前作《侠盗猎车手V》于2013年发行。",
+          "en": "The predecessor, Grand Theft Auto V, was released in 2013."
+        }
+      ],
+      "tags": [
+        "Grand Theft Auto VI",
+        "video game release",
+        "pre-orders",
+        "entertainment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:2Gy7K-p4VpA",
+      "title": "Hegseth Calls Massie Impeachment Bid an Attack on Troops (Full Press Conference)",
+      "title_zh": "国防部长Hegseth回应弹劾动议，称其为政治化攻击",
+      "url": "https://www.youtube.com/watch?v=2Gy7K-p4VpA",
+      "published_at": "2026-11-10T18:11:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国国防部长Pete Hegseth在五角大楼回应国会弹劾努力，称此举是对美军及特朗普总统合法军事行动的政治化攻击。众议院计划于周二晚间开始就弹劾决议进行程序性投票。",
+      "summary_en": "Defense Secretary Pete Hegseth responded at the Pentagon to the impeachment effort in Congress, calling it a politicized attack on US troops and lawful military operations ordered by President Trump. The House is scheduled to begin procedural votes on the impeachment resolution Tuesday evening.",
+      "detail_zh": "美国国防部长Pete Hegseth在五角大楼发表讲话，针对国会对其发起的弹劾努力作出回应。他将这一弹劾行动定性为对美军以及总统特朗普下令的合法军事行动的政治化攻击。众议院计划于周二晚间开始就弹劾决议进行程序性投票。原文未提供弹劾决议的具体内容、发起方或投票结果等进一步细节。",
+      "detail_en": "Defense Secretary Pete Hegseth, speaking at the Pentagon, addressed the impeachment effort against him in Congress, casting the move as a politicized attack on US troops and lawful military operations ordered by President Donald Trump. The House is scheduled to begin procedural votes on the impeachment resolution Tuesday evening. The original text does not provide further details on the content of the resolution, its sponsors, or the expected outcome of the votes.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "国防部长Hegseth在五角大楼回应弹劾努力，称其为政治化攻击。",
+          "en": "Defense Secretary Hegseth responded at the Pentagon to the impeachment effort, calling it a politicized attack."
+        },
+        {
+          "zh": "Hegseth将弹劾行动描述为对美军及特朗普总统合法军事行动的攻击。",
+          "en": "Hegseth characterized the impeachment move as an attack on US troops and lawful military operations ordered by President Trump."
+        },
+        {
+          "zh": "众议院计划于周二晚间开始就弹劾决议进行程序性投票。",
+          "en": "The House is scheduled to begin procedural votes on the impeachment resolution Tuesday evening."
+        }
+      ],
+      "tags": [
+        "impeachment",
+        "defense",
+        "politics",
+        "congress"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:FJK2Bsh9tm4",
       "title": "Chevron CFO: Patience pays off  in Venezuela",
@@ -17885,90 +18103,6 @@
         "data centers",
         "infrastructure",
         "proxy fight"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:kMbk_Vl6iAk",
-      "title": "Gensler: AI isn’t crypto, but Washington is moving too slowly",
-      "title_zh": "前SEC主席Gensler：AI具变革性，但华盛顿监管行动不够快",
-      "url": "https://www.youtube.com/watch?v=kMbk_Vl6iAk",
-      "published_at": "2026-11-03T18:20:36+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前美国SEC主席Gary Gensler表示人工智能具有变革性，并强调AI不同于加密货币。他警告华盛顿在应对该技术风险方面行动仍不够迅速。",
-      "summary_en": "Former SEC Chair Gary Gensler said artificial intelligence is transformative and distinct from crypto, warning that Washington is still not moving fast enough to address the technology's risks.",
-      "detail_zh": "前美国证券交易委员会（SEC）主席Gary Gensler就人工智能监管发表看法。他表示“人工智能具有变革性”，并将AI与加密货币区分开来，称AI并非加密货币。Gensler警告称，华盛顿在应对人工智能所带来的风险方面，行动仍然不够迅速。原文未提供更多关于具体风险类型、监管措施或政策建议的细节。",
-      "detail_en": "Former U.S. Securities and Exchange Commission (SEC) Chair Gary Gensler commented on AI regulation. He stated that \"artificial intelligence is transformative\" and distinguished AI from crypto, saying AI isn't crypto. Gensler warned that Washington still isn't moving fast enough to address the risks posed by the technology. The source does not provide further details on specific risks, regulatory measures, or policy recommendations.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Gensler称人工智能具有变革性。",
-          "en": "Gensler says artificial intelligence is transformative."
-        },
-        {
-          "zh": "Gensler强调AI不是加密货币，将两者区分。",
-          "en": "Gensler emphasizes AI isn't crypto, distinguishing the two."
-        },
-        {
-          "zh": "Gensler警告华盛顿在应对AI风险方面行动不够快。",
-          "en": "Gensler warns Washington isn't moving fast enough to address AI risks."
-        }
-      ],
-      "tags": [
-        "AI regulation",
-        "SEC",
-        "Gary Gensler",
-        "Washington policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:VtmmBDAgO8M",
-      "title": "Bridgit Mendler on building the ground network for space",
-      "title_zh": "Northwood Space CEO：地面基础设施未跟上航天创新步伐",
-      "url": "https://www.youtube.com/watch?v=VtmmBDAgO8M",
-      "published_at": "2026-11-03T18:19:22+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Northwood Space CEO Bridgit Mendler 指出，航天产业创新迅速，但地面基础设施未能同步跟进。该公司正在建设端到端地面基础设施和软件定义网络，以连接低地球轨道卫星与地球，目前已在九个国家部署站点。",
-      "summary_en": "Northwood Space CEO Bridgit Mendler says ground infrastructure has not kept pace with innovation in the space industry. The company is building end-to-end ground infrastructure and software-defined networks to connect low Earth orbit satellites with Earth, with sites currently being deployed across nine countries.",
-      "detail_zh": "Northwood Space CEO Bridgit Mendler 表示，航天产业的地面基础设施未能跟上行业创新的步伐。该公司致力于构建端到端的地面基础设施和软件定义网络，用于连接低地球轨道卫星与地球。目前，公司正在九个国家部署相关站点。原文未披露具体财务数据、客户信息或时间表。",
-      "detail_en": "Northwood Space CEO Bridgit Mendler says ground infrastructure has not kept pace with innovation in the space industry. The company is building end-to-end ground infrastructure and software-defined networks to connect satellites in low Earth orbit with Earth. Sites are currently being deployed across nine countries. The source does not disclose financial details, customers, or timelines.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Northwood Space CEO 认为地面基础设施落后于航天创新",
-          "en": "Northwood Space CEO says ground infrastructure lags space innovation"
-        },
-        {
-          "zh": "公司建设端到端地面基础设施和软件定义网络",
-          "en": "Company builds end-to-end ground infrastructure and software-defined networks"
-        },
-        {
-          "zh": "目标连接低地球轨道卫星与地球",
-          "en": "Aims to connect LEO satellites with Earth"
-        },
-        {
-          "zh": "站点正在九个国家部署",
-          "en": "Sites being deployed across nine countries"
-        }
-      ],
-      "tags": [
-        "space",
-        "satellite",
-        "infrastructure",
-        "networking"
       ],
       "tickers": [],
       "sentiment": "neutral"
