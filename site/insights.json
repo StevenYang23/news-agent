@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-11-11T10:15:03.754969+00:00",
+  "generated_at": "2026-11-11T11:13:20.789368+00:00",
   "insights": [
+    {
+      "guid": "yt:4wCfWRrD3C0",
+      "title": "Anthropic IPO Demand Surges as AI Trade Roars Back",
+      "title_zh": "AI交易回暖：CoreWeave业绩与Anthropic IPO需求提振美股期货",
+      "url": "https://www.youtube.com/watch?v=4wCfWRrD3C0",
+      "published_at": "2026-11-11T10:45:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在经历抛售后，交易员重新涌入AI交易，CoreWeave的强劲业绩与Anthropic IPO的旺盛需求推动美股期货走高。Nuveen首席投资官Saira Malik指出AI正进入“证明给我看”的阶段。此外，CPI数据与美联储官员讲话引发债市抛售。",
+      "summary_en": "Traders piled back into the AI trade, lifting US stock futures after strong results from beaten-down neocloud firm CoreWeave and robust demand for Anthropic's IPO. Nuveen CIO Saira Malik said AI is entering a 'show me' phase. Meanwhile, CPI and Fed speakers fueled a bond market rout.",
+      "detail_zh": "交易员重新涌入人工智能交易，在CoreWeave公布强劲业绩以及Anthropic首次公开募股获得旺盛需求后，美股期货走高。CoreWeave被描述为一家此前受到打压的neocloud公司。Nuveen首席投资官Saira Malik在节目中表示，AI正进入“证明给我看”的阶段。节目还提到，CPI数据与美联储官员讲话引发了债市抛售。Anthropic的IPO股份以3%至5%的溢价发行。此外，乌克兰和俄罗斯在阿布扎比开始由美国主导的第二天的和平谈判，此前乌克兰总统泽连斯基称第一轮讨论“富有建设性且相当实质性”。来自近200个国家的气候谈判代表齐聚土耳其安塔利亚参加COP31，议程较以往收窄；有人担心应对气候变化的雄心正在减弱，但全球能源供应紧张和对AI的反弹情绪可能促使政策制定者采取行动。",
+      "detail_en": "Traders piled back into the artificial intelligence trade, lifting US stock futures after strong results from CoreWeave, described as a beaten-down neocloud firm, and robust demand for Anthropic's initial public offering. Nuveen CIO Saira Malik said on the program that AI is entering a 'show me' phase. The program also noted that CPI and Fed speakers fueled a bond market rout. Anthropic IPO shares were offered at a 3-5% premium. Separately, Ukraine and Russia started a second day of US-led peace talks in Abu Dhabi after Ukrainian President Volodymyr Zelenskyy called the first round 'constructive and quite substantive.' Climate negotiators from almost 200 countries gathered for COP31 in Antalya, Turkey, with a narrower agenda than in the past; there are concerns that ambition to tackle climate change is waning, but the global energy supply crunch and growing AI backlash may spur policymakers into action.",
+      "conclusion_zh": "AI交易情绪回暖，但Nuveen CIO所称的“证明给我看”阶段意味着个股表现将更依赖业绩兑现；同时债市因CPI与美联储讲话承压，需关注利率波动对估值的传导。",
+      "conclusion_en": "AI sentiment is recovering, but the 'show me' phase cited by Nuveen's CIO implies performance will depend more on earnings delivery; meanwhile, the bond market is under pressure from CPI and Fed speakers, so watch rate volatility transmission to valuations.",
+      "key_points": [
+        {
+          "zh": "CoreWeave强劲业绩与Anthropic IPO旺盛需求推动交易员重返AI交易，美股期货走高。",
+          "en": "Strong CoreWeave results and robust Anthropic IPO demand drove traders back into the AI trade, lifting US stock futures."
+        },
+        {
+          "zh": "Nuveen首席投资官Saira Malik表示，AI正进入“证明给我看”的阶段。",
+          "en": "Nuveen CIO Saira Malik said AI is entering a 'show me' phase."
+        },
+        {
+          "zh": "CPI数据与美联储官员讲话引发债市抛售。",
+          "en": "CPI and Fed speakers fueled a bond market rout."
+        },
+        {
+          "zh": "Anthropic IPO股份以3%至5%的溢价发行。",
+          "en": "Anthropic IPO shares were offered at a 3-5% premium."
+        },
+        {
+          "zh": "乌克兰与俄罗斯在阿布扎比恢复由美国主导的和平谈判；COP31气候谈判以更窄的议程开幕。",
+          "en": "Ukraine and Russia resumed US-led peace talks in Abu Dhabi; COP31 climate talks opened with a narrower agenda."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "CoreWeave",
+        "Anthropic IPO",
+        "bond rout",
+        "CPI"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "4966364",
+      "title": "Wall Street Breakfast Podcast: Stocking Up On Costco Cash",
+      "title_zh": "Costco派发每股30美元特别股息；CoreWeave Q3营收超预期并上调指引",
+      "url": "https://seekingalpha.com/article/4966364-wall-street-breakfast-podcast-stocking-up-on-costco-cash?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-11T10:45:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "other",
+        "tech"
+      ],
+      "summary_zh": "Costco宣布每股30美元特别股息，总额约133亿美元，并重新授权40亿美元回购计划。CoreWeave第三季度营收36.6亿美元超预期，并将2026财年营收指引上调至130-133亿美元，高于市场共识。7 Brew推出食品菜单，加剧与Starbucks和Dutch Bros的竞争。",
+      "summary_en": "Costco declared a $30 per share special dividend totaling about $13.3B and reauthorized a $4B buyback. CoreWeave reported Q3 revenue of $3.66B, beating expectations, and raised FY26 revenue guidance to $13–13.3B, above consensus. 7 Brew launched a food menu, intensifying competition with Starbucks and Dutch Bros.",
+      "detail_zh": "Costco董事会宣布每股30美元特别现金股息，将于12月4日支付给11月24日登记在册的股东，总额约133亿美元。公司还重新授权了高达40亿美元的普通股回购计划。CoreWeave第三季度调整后每股亏损1.27美元，营收同比增长逾一倍至36.6亿美元，超过分析师预期的每股亏损1.54美元和营收35.4亿美元；期末营收积压约1325亿美元。公司预计2026财年营收在130亿至133亿美元之间，高于128.8亿美元的市场共识，也高于此前124亿至132亿美元的指引。7 Brew推出五款烘焙食品，每款3美元，旨在提升客单价，加剧了与Starbucks、Dutch Bros和Dunkin的竞争。",
+      "detail_en": "Costco's board declared a special cash dividend of $30 per share, payable December 4 to shareholders of record on November 24, totaling approximately $13.3B. The company also reauthorized a common-stock repurchase program of up to $4B. CoreWeave reported an adjusted loss of $1.27 per share for Q3, with revenue more than doubling year-over-year to $3.66B, beating analysts' expectations of a $1.54 adjusted loss per share on $3.54B in revenue; it ended the period with a revenue backlog of roughly $132.5B. The company now expects FY26 revenue between $13B and $13.3B, above the $12.88B consensus and its prior guidance of $12.4B to $13.2B. 7 Brew added five bakery items at $3 each to its menu, aiming to lift average ticket and intensifying competition with Starbucks, Dutch Bros, and Dunkin.",
+      "conclusion_zh": "Costco的特别股息和回购计划彰显其现金流实力，CoreWeave的强劲业绩和上调指引显示AI基础设施需求持续，7 Brew的食品扩张可能加剧咖啡连锁行业的竞争。",
+      "conclusion_en": "Costco's special dividend and buyback highlight its cash flow strength, CoreWeave's strong results and raised guidance signal sustained AI infrastructure demand, and 7 Brew's food expansion could intensify competition in the coffee chain sector.",
+      "key_points": [
+        {
+          "zh": "Costco宣布每股30美元特别股息，总额约133亿美元，并重新授权40亿美元回购。",
+          "en": "Costco declared a $30 per share special dividend totaling about $13.3B and reauthorized a $4B buyback."
+        },
+        {
+          "zh": "CoreWeave第三季度营收36.6亿美元超预期，调整后每股亏损1.27美元，期末营收积压约1325亿美元。",
+          "en": "CoreWeave Q3 revenue of $3.66B beat expectations, adjusted loss per share was $1.27, and revenue backlog was about $132.5B."
+        },
+        {
+          "zh": "CoreWeave将2026财年营收指引上调至130-133亿美元，高于市场共识。",
+          "en": "CoreWeave raised FY26 revenue guidance to $13–13.3B, above consensus."
+        },
+        {
+          "zh": "7 Brew推出食品菜单，加剧与Starbucks、Dutch Bros等竞争对手的竞争。",
+          "en": "7 Brew launched a food menu, intensifying competition with Starbucks, Dutch Bros, and others."
+        }
+      ],
+      "tags": [
+        "Costco",
+        "CoreWeave",
+        "special dividend",
+        "AI infrastructure",
+        "competition"
+      ],
+      "tickers": [
+        "COST",
+        "CRWV",
+        "SBUX",
+        "BROS"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:L7X76ZGg5_U",
       "title": "Why Anthropic's IPO Is Make or Break for the Markets",
@@ -18159,146 +18259,6 @@
         "TSLA"
       ],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5aqAPkNvslg",
-      "title": "Is The AI Selloff A Buying Opportunity? | Warren Pies",
-      "title_zh": "314 Research创始人Warren Pies因技术面转弱下调股票配置",
-      "url": "https://www.youtube.com/watch?v=5aqAPkNvslg",
-      "published_at": "2026-11-04T11:00:32+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "314 Research创始人Warren Pies在Forward Guidance播客中表示，因市场进入盘整、防御性板块领涨及超大规模企业信用利差走阔，他已下调股票配置。他仍看好AI长期故事，但强调用技术面管理风险，并等待盘整区间突破或情绪洗盘后再考虑加仓。",
-      "summary_en": "Warren Pies of 314 Research said on the Forward Guidance podcast that he downgraded equities due to a market consolidation, defensive sector leadership, and widening hyperscaler credit spreads. He remains bullish on the AI story long-term but manages risk with technicals, waiting for the range to resolve or a sentiment washout before buying further weakness.",
-      "detail_zh": "Warren Pies表示，自2023年末美联储转向宽松以来，他一直超配股票，但部分顺风正在结束。他 downgrade 股票的直接触发因素有三：一是市场进入盘整，即63天左右、6-7%的窄幅交易区间，且发生在接近历史高位时，历史上约13%的时间会出现；二是领涨板块转向防御，10月必需消费品上涨14%，金融相对必需消费品的比率走弱，这与解放日抛售和今年早些时候的盘整前模式一致；三是超大规模企业信用利差突破7月低点时的宽幅，而股权尚未完全回调至该水平，暗示AI建设所需融资环境恶化。他还提到中期选举、得州立法机构放缓数据中心建设的压力、10月年末税务卖压等因素共同造成弱势市场环境。他建议等待盘整区间解决，或出现真正的情绪/仓位洗盘（如投机性ETF和反向ETF成交量占比尚未出现投降式读数）后再考虑买入进一步下跌。",
-      "detail_en": "Warren Pies said he had been overweight equities since late 2023 after the Fed signaled easing, but some tailwinds are ending. He downgraded equities for three reasons: first, the market entered a consolidation—a tight 6-7% trading range over roughly 63 days near all-time highs, occurring about 13% of the time; second, leadership turned defensive, with staples up 14% in October and the financials-versus-staples ratio rolling over, similar to patterns before the Liberation Day selloff and earlier consolidations this year; third, hyperscaler credit spreads broke above their July wides before equities had fully corrected back to those levels, signaling worsening financing conditions for the AI buildout. He also cited the midterms, pressure in the Texas legislature to slow data center buildouts, and October year-end tax selling as contributing to a weak market environment. He prefers to wait for the range to resolve or for a true sentiment/positioning washout—speculative and inverse ETF volume as a percentage of total has not yet shown a capitulatory reading—before buying further weakness.",
-      "conclusion_zh": "在技术面转弱与AI融资环境恶化的信号下，投资者应尊重趋势、控制风险，等待盘整区间突破或情绪洗盘后再择机加仓。",
-      "conclusion_en": "With technicals weakening and AI financing conditions deteriorating, investors should respect the trend, manage risk, and wait for the range to resolve or a sentiment washout before adding exposure.",
-      "key_points": [
-        {
-          "zh": "市场进入盘整区间，动量丧失，需警惕趋势变化。",
-          "en": "The market entered a consolidation, losing momentum and raising the risk of a trend change."
-        },
-        {
-          "zh": "防御性板块领涨（10月必需消费品涨14%），金融相对必需消费品走弱，市场内部不健康。",
-          "en": "Defensive leadership (staples up 14% in October) and a weakening financials-versus-staples ratio signal an unhealthy market."
-        },
-        {
-          "zh": "超大规模企业信用利差突破7月宽幅，早于股权回调，暗示AI融资环境恶化。",
-          "en": "Hyperscaler credit spreads broke above July wides before equities corrected, suggesting deteriorating AI financing conditions."
-        },
-        {
-          "zh": "仍看好AI长期故事，但强调用技术面管理风险，承认路径可能危险。",
-          "en": "He remains bullish on the long-term AI story but manages risk with technicals, acknowledging the path could be dangerous."
-        },
-        {
-          "zh": "等待盘整区间解决或情绪/仓位洗盘后再考虑买入进一步下跌。",
-          "en": "He prefers to wait for the range to resolve or a sentiment/positioning washout before buying further weakness."
-        }
-      ],
-      "tags": [
-        "equity allocation",
-        "market consolidation",
-        "AI buildout",
-        "credit spreads",
-        "sentiment"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:6gtw8oLc82o",
-      "title": "Drowning Financially | Animal Spirits 489",
-      "title_zh": "AI交易退潮但盈利预测上修，市场或迎买入机会",
-      "url": "https://www.youtube.com/watch?v=6gtw8oLc82o",
-      "published_at": "2026-11-04T11:00:28+00:00",
-      "source_name": "Animal Spirits",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "播客讨论近期AI交易退潮，但强调未来12个月EPS预测持续上修（从270美元升至413美元），且估值/利润率比率下降，65%的标普500成分股远期市盈率低于20倍。若盈利兑现，当前或是买入机会，但需警惕债市风险。",
-      "summary_en": "The podcast discusses the recent unwinding of the AI trade but highlights that forward 12-month EPS estimates keep rising (from $270 to $413) and the price-to-earnings divided by operating margin is declining, with 65% of S&P 500 stocks trading below 20x forward earnings. If earnings materialize, this could be a buying opportunity, though the debt market remains a risk.",
-      "detail_zh": "播客开场提到市场在平静的夏季后经历了几周动荡，AI交易正在退潮。主持人认为很难过度看空，因为未来12个月每股收益（EPS）预测持续上修：2025年1月分析师预测为270美元，如今已升至413美元。同时，标普500远期市盈率除以营业利润率的比率在下降，且65%的标普500成分股远期市盈率低于20倍。主持人承认盈利预测并非百分百准确，若发生衰退则可能大幅偏离，但多数时候相当准确。他们还指出，年初分析师对全年EPS的预测为310美元，如今已升至约360美元，且每个财报季都在上修，表明投资者可能仍在低估盈利增长。此外，他们讨论了当前“泡沫”缺乏以往泡沫的狂热氛围，且真正的逆向投资者已难寻觅。",
-      "detail_en": "The podcast opens by noting market turbulence after a quiet summer, with the AI trade unwinding. The hosts find it hard to be too bearish because forward 12-month EPS estimates keep rising: analysts projected $270 in January 2025, now up to $413. Meanwhile, the S&P 500 forward P/E divided by operating margin is declining, and 65% of S&P 500 stocks trade below 20x forward earnings. They acknowledge earnings estimates aren't always accurate—a recession would make them wildly wrong—but most of the time they are surprisingly close. They also note that at the start of the year analysts predicted $310 EPS for the S&P 500, now about $360, with estimates ratcheted up each earnings season, suggesting investors may still be underreacting to earnings growth. They also discuss how this \"bubble\" lacks the euphoria of past bubbles and that true contrarians are hard to find.",
-      "conclusion_zh": "盈利预测持续上修且估值/增长比率下降，若盈利兑现，当前AI交易退潮后的市场可能提供买入机会，但需密切关注债市风险。",
-      "conclusion_en": "With earnings estimates rising and the valuation/growth ratio declining, the post-AI-unwind market could offer a buying opportunity if earnings materialize, but the debt market warrants close attention.",
-      "key_points": [
-        {
-          "zh": "未来12个月EPS预测从2025年1月的270美元升至当前的413美元，持续上修。",
-          "en": "Forward 12-month EPS estimates have risen from $270 in January 2025 to $413 currently, continuously revised upward."
-        },
-        {
-          "zh": "标普500远期市盈率除以营业利润率的比率在下降，估值相对盈利增长并不极端。",
-          "en": "The S&P 500 forward P/E divided by operating margin is declining, suggesting valuations are not extreme relative to earnings growth."
-        },
-        {
-          "zh": "65%的标普500成分股远期市盈率低于20倍。",
-          "en": "65% of S&P 500 stocks trade below 20x forward earnings."
-        },
-        {
-          "zh": "若盈利兑现，当前市场可能是一个良好的买入机会，但债市是主要风险。",
-          "en": "If earnings materialize, the current market could be a good buying opportunity, but the debt market is a key risk."
-        },
-        {
-          "zh": "当前市场缺乏以往泡沫的狂热情绪，真正的逆向投资者难以寻觅。",
-          "en": "The current market lacks the euphoria of past bubbles, and true contrarians are hard to find."
-        }
-      ],
-      "tags": [
-        "earnings",
-        "valuation",
-        "AI trade",
-        "market outlook"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:b-IwOJF1-ow",
-      "title": "US Midterm Blue Wave Puts AI, Data Centers in Spotlight",
-      "title_zh": "得州新州长拟暂停数据中心开发，AI基建面临政策风险",
-      "url": "https://www.youtube.com/watch?v=b-IwOJF1-ow",
-      "published_at": "2026-11-04T10:47:45+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "新当选的得克萨斯州民主党州长Gina Hinojosa呼吁立即暂停数据中心开发，使计划在得州建设数十个AI园区的开发商面临最坏情景。Bloomberg的Tom Giles分析了中期选举结果对科技板块的潜在影响。",
-      "summary_en": "Newly elected Democratic Texas Governor Gina Hinojosa has called for an immediate moratorium on data center development, putting developers planning dozens of AI campuses across the state in a worst-case scenario. Bloomberg's Tom Giles breaks down what the midterm election results could mean for the tech sector.",
-      "detail_zh": "得克萨斯州新当选的民主党州长Gina Hinojosa呼吁立即暂停数据中心开发。这一立场使计划在得州建设数十个AI园区的数据中心开发商面临最坏情景。Bloomberg的Tom Giles就中期选举结果对科技板块的可能影响进行了分析。原文未提供具体受影响公司、投资规模或时间表等细节。",
-      "detail_en": "Newly elected Democratic Texas Governor Gina Hinojosa has called for an immediate moratorium on data center development. This stance puts data center developers seeking to build dozens of AI campuses across Texas in a worst-case scenario. Bloomberg's Tom Giles analyzed what the midterm election results could mean for the tech sector. The source does not provide specific affected companies, investment amounts, or timelines.",
-      "conclusion_zh": "得州数据中心暂停令若实施，将直接冲击AI基础设施扩张计划，投资者需关注政策落地进展及相关开发商的敞口。",
-      "conclusion_en": "If implemented, Texas's data center moratorium would directly hit AI infrastructure expansion plans; investors should watch policy developments and developers' exposure.",
-      "key_points": [
-        {
-          "zh": "得州新州长Gina Hinojosa呼吁立即暂停数据中心开发",
-          "en": "New Texas Governor Gina Hinojosa calls for an immediate moratorium on data center development"
-        },
-        {
-          "zh": "计划在得州建设数十个AI园区的数据中心开发商面临最坏情景",
-          "en": "Data center developers planning dozens of AI campuses in Texas face a worst-case scenario"
-        },
-        {
-          "zh": "Bloomberg的Tom Giles分析了中期选举结果对科技板块的潜在影响",
-          "en": "Bloomberg's Tom Giles breaks down what the midterm election results could mean for the tech sector"
-        }
-      ],
-      "tags": [
-        "data centers",
-        "AI infrastructure",
-        "Texas",
-        "moratorium",
-        "midterm elections"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
