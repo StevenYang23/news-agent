@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-11-11T20:13:21.304549+00:00",
+  "generated_at": "2026-11-11T21:16:46.629422+00:00",
   "insights": [
+    {
+      "guid": "yt:IzRH9CA6Kfk",
+      "title": "Huang’s Trump Ties Face Scrutiny",
+      "title_zh": "彭博《权力平衡》节目：科技与半导体股上涨，英伟达CEO黄仁勋面临传票风险",
+      "url": "https://www.youtube.com/watch?v=IzRH9CA6Kfk",
+      "published_at": "2026-11-11T20:31:42+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博《权力平衡》早期版讨论了科技与半导体股的上涨行情，以及英伟达CEO黄仁勋可能面临国会传票的消息。节目还涵盖了尼基·黑利对英伟达与国家安全的看法、伊朗局势、共和党内部动态等政治议题。",
+      "summary_en": "Bloomberg's Balance of Power early edition discussed the rally in tech and semiconductor stocks, and the possibility of Nvidia CEO Jensen Huang facing subpoenas. The show also covered Nikki Haley's views on Nvidia and national security, Iran, and Republican Party dynamics.",
+      "detail_zh": "节目首先关注市场动态，指出科技与半导体板块出现上涨。随后讨论英伟达CEO黄仁勋可能面临国会传票，前美国驻联合国大使尼基·黑利就此发表了对英伟达与国家安全的看法。黑利还谈及伊朗与美国战略、共和党失利原因、JD·万斯与共和党未来、斯蒂芬·米勒与共和党下一步方向，并明确排除了2028年参选的可能性。节目还提到赫格塞斯弹劾努力停滞、民主党在哈基姆·杰弗里斯领导下的议程、伊朗战争与国会及五角大楼资金问题。此外，英伟达在华盛顿压力下仍上涨，特朗普、中国与黄仁勋调查成为话题，政治小组讨论了对英伟达的两党审查，吉姆·乔丹将领导众议院共和党人。",
+      "detail_en": "The program first focused on market dynamics, noting a rally in tech and semiconductor sectors. It then discussed the possibility of Nvidia CEO Jensen Huang facing congressional subpoenas, with former US Ambassador to the UN Nikki Haley sharing her views on Nvidia and national security. Haley also discussed Iran and US strategy, why Republicans lost, JD Vance and the future of the GOP, Stephen Miller and the GOP's next direction, and ruled out a 2028 run. The show also mentioned the stalled Hegseth impeachment effort, Democrats' agenda under Hakeem Jeffries, the Iran war and Congress and Pentagon funding. Additionally, Nvidia rallied despite Washington pressure, Trump, China and the Jensen Huang investigation were topics, and a political panel discussed bipartisan scrutiny of Nvidia, with Jim Jordan to lead House Republicans.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "科技与半导体股出现上涨行情。",
+          "en": "Tech and semiconductor stocks rallied."
+        },
+        {
+          "zh": "英伟达CEO黄仁勋可能面临国会传票。",
+          "en": "Nvidia CEO Jensen Huang may face subpoenas."
+        },
+        {
+          "zh": "尼基·黑利就英伟达与国家安全发表看法。",
+          "en": "Nikki Haley shared views on Nvidia and national security."
+        },
+        {
+          "zh": "英伟达在华盛顿压力下仍上涨。",
+          "en": "Nvidia rallied despite Washington pressure."
+        },
+        {
+          "zh": "政治小组讨论了对英伟达的两党审查。",
+          "en": "Political panel discussed bipartisan scrutiny of Nvidia."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "semiconductors",
+        "Congress",
+        "national security",
+        "GOP"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:WnsSc5TRPWg",
+      "title": "Massive Demand for Anthropic IPO, Megadeals After Midterms",
+      "title_zh": "彭博Deals：Anthropic IPO需求、Marvell 1150亿美元Lumentum交易与私募资本AI风险",
+      "url": "https://www.youtube.com/watch?v=WnsSc5TRPWg",
+      "published_at": "2026-11-11T20:04:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博Deals节目讨论了Anthropic的IPO需求与投资者结构、Marvell以1150亿美元收购Lumentum的交易、CVS药房分拆，以及AI与科技并购。Sixth Street CEO Alan Waxman、3Wire Partners的Anita Antenucci和Clearlake Capital的Jose E. Feliciano分别就AI市场风险、私募信贷风险、国防并购和私募财富等话题发表看法。",
+      "summary_en": "This Bloomberg Deals episode covers Anthropic IPO demand and investor mix, Marvell's $115B Lumentum deal, CVS pharmacy spinoff, and AI/tech M&A. Guests Alan Waxman (Sixth Street), Anita Antenucci (3Wire Partners), and Jose E. Feliciano (Clearlake Capital) discuss AI market risks, private credit risks, defense M&A, and private wealth.",
+      "detail_zh": "节目首先关注Anthropic的IPO需求及其投资者结构。随后讨论Marvell以1150亿美元收购Lumentum的交易，并延伸至AI与科技并购话题。CVS药房分拆也被提及。在政治变动前的并购环境方面，节目设置了专门段落。Sixth Street CEO兼联合创始人Alan Waxman就AI市场风险、AI市场错位、私募资本与AI风险、私募信贷风险以及Sixth Street的投资机会发表看法，并谈及中期选举与私募资本。3Wire Partners创始人兼管理合伙人Anita Antenucci讨论了国防开支、国防并购、国防行业不确定性、国防并购与反垄断，以及国防初创公司与主要承包商。Clearlake Capital联合创始人José Feliciano则围绕私募财富、私募市场投资、AI基础设施、AI泡沫担忧、Clearlake的增长策略、另类投资的未来、Clearlake与切尔西、切尔西的表现、教士队与体育投资、平衡教士队与Clearlake、更多体育投资等话题展开。最后提到Oura的6.25亿美元AI健康交易。",
+      "detail_en": "The program opens with Anthropic IPO demand and its investor mix. It then covers Marvell's $115B Lumentum deal and expands into AI and tech M&A. A CVS pharmacy spinoff is also mentioned. A segment is dedicated to M&A ahead of a political shift. Alan Waxman, CEO & Co-Founder of Sixth Street, discusses AI market risks, AI market dislocation, private capital and AI risk, risks for private credit, and Sixth Street's investment opportunities, as well as midterms and private capital. Anita Antenucci, Founder & Managing Partner of 3Wire Partners, discusses defense spending, defense M&A, defense industry uncertainty, defense M&A and antitrust, and defense startups vs. major contractors. José Feliciano, Co-Founder of Clearlake Capital, covers private wealth, private market investments, AI infrastructure, AI bubble concerns, Clearlake's growth strategy, the future of alternative investments, Clearlake and Chelsea, Chelsea's performance, the Padres and sports investing, balancing the Padres and Clearlake, and more sports investments. The episode ends with Oura's $625M AI health deal.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic的IPO需求与投资者结构是节目开场焦点。",
+          "en": "Anthropic IPO demand and investor mix are the opening focus."
+        },
+        {
+          "zh": "Marvell以1150亿美元收购Lumentum的交易被讨论，并延伸至AI与科技并购。",
+          "en": "Marvell's $115B Lumentum deal is discussed, extending into AI and tech M&A."
+        },
+        {
+          "zh": "Sixth Street的Alan Waxman谈及AI市场风险、私募信贷风险及投资机会。",
+          "en": "Alan Waxman of Sixth Street discusses AI market risks, private credit risks, and investment opportunities."
+        },
+        {
+          "zh": "3Wire Partners的Anita Antenucci讨论国防开支、国防并购与反垄断。",
+          "en": "Anita Antenucci of 3Wire Partners discusses defense spending, defense M&A, and antitrust."
+        },
+        {
+          "zh": "Clearlake的José Feliciano谈及AI基础设施、AI泡沫担忧及另类投资未来。",
+          "en": "José Feliciano of Clearlake discusses AI infrastructure, AI bubble concerns, and the future of alternative investments."
+        }
+      ],
+      "tags": [
+        "M&A",
+        "AI",
+        "private capital",
+        "defense",
+        "IPO"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:XtkJd_aPD0w",
+      "title": "Take-Two CEO Zelnick: AI Wont Kill Gaming Jobs",
+      "title_zh": "Take-Two CEO：AI将变革游戏业但不会减少就业",
+      "url": "https://www.youtube.com/watch?v=XtkJd_aPD0w",
+      "published_at": "2026-11-11T20:00:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Take-Two Interactive董事长兼CEO Strauss Zelnick表示，人工智能将改变视频游戏行业，但他不认为会导致就业岗位减少。他强调技术最终需服务于一个目标：创造伟大的娱乐。",
+      "summary_en": "Take-Two Interactive Chairman & CEO Strauss Zelnick says artificial intelligence will transform the video game industry, but he doesn't believe it will lead to fewer jobs. He says technology ultimately needs to serve one goal: make great entertainment.",
+      "detail_zh": "在彭博《The David Rubenstein Show: Peer to Peer Conversations》节目中，Take-Two Interactive董事长兼CEO Strauss Zelnick与David Rubenstein对话。Zelnick表示，人工智能将变革视频游戏行业，但他不认为AI会导致就业岗位减少。他强调，技术最终需要服务于一个目标：创造伟大的娱乐。该采访于10月19日在纽约录制。",
+      "detail_en": "In an interview on Bloomberg's The David Rubenstein Show: Peer to Peer Conversations, Take-Two Interactive Chairman & CEO Strauss Zelnick spoke with David Rubenstein. Zelnick said artificial intelligence will transform the video game industry, but he does not believe it will lead to fewer jobs. He emphasized that technology ultimately needs to serve one goal: make great entertainment. The interview was recorded on October 19 in New York.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Take-Two CEO Strauss Zelnick认为AI将变革视频游戏行业。",
+          "en": "Take-Two CEO Strauss Zelnick believes AI will transform the video game industry."
+        },
+        {
+          "zh": "Zelnick不认为AI会导致游戏行业就业岗位减少。",
+          "en": "Zelnick does not believe AI will lead to fewer jobs in the gaming industry."
+        },
+        {
+          "zh": "他强调技术最终需服务于创造伟大娱乐这一目标。",
+          "en": "He emphasizes that technology ultimately needs to serve the goal of making great entertainment."
+        }
+      ],
+      "tags": [
+        "Take-Two",
+        "AI",
+        "video games",
+        "employment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:sMO9WTDYgDw",
       "title": "Investor Selby on Why Anthropic's IPO Puzzles Him",
@@ -18153,56 +18293,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:avXzdXkDGow",
-      "title": "This Is NOT the Dot-Com Bubble!",
-      "title_zh": "买方观点：半导体基本面仍佳，不认同“互联网泡沫重演”论",
-      "url": "https://www.youtube.com/watch?v=avXzdXkDGow",
-      "published_at": "2026-11-04T20:30:00+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "分析师认为半导体板块依然强劲，关键在于增长变化率需改善，当日ISM制造业数据是积极的第一步。其对美国增长的即时预测显示经济重现活力，部分得益于债券表现改善。分析师明确反驳当前半导体行情类似“.com泡沫积累”的观点，称从未见过在动能强劲时市场如此怀疑的情形。",
-      "summary_en": "The analyst remains bullish on semiconductors, arguing the key is an improving rate of change in growth, with today's ISM manufacturing reading a positive first step. Their US growth nowcast is showing signs of life, partly as a lagged consequence of better bond performance. The analyst explicitly rejects the notion that the current semiconductor momentum resembles the .com buildup, noting he cannot recall a moment when so many were skeptical of something still showing great momentum.",
-      "detail_zh": "分析师表示，从基本面看，半导体板块依然看起来很好，但需要增长的变化率出现改善。当日公布的ISM制造业数据是朝这一方向迈出的很好的第一步。其美国增长即时预测（nowcasting）显示经济重现活力迹象，并将其部分归因于债券表现改善带来的略微滞后效应，且称这种关系已持续很长时间。分析师强调，在金融危机（GFC）及历次危机期间，他回忆不起有哪个时刻像现在这样——市场对某个仍展现强劲动能的事物如此普遍怀疑。针对当前半导体行情与“.com泡沫积累”高度相似的说法，分析师明确表示“不买账”。",
-      "detail_en": "The analyst says semiconductors still look great fundamentally, but the rate of change in growth needs to improve. Today's ISM manufacturing print was a good first step in that direction. Their US growth nowcast is showing signs of life again, which they attribute partly to a slightly lagged consequence of bonds doing better—a pattern they say has persisted for a long time. The analyst stresses that during the GFC and other crises, he cannot recall a moment like this where everyone is so skeptical about something still showing great momentum. He explicitly says he does not buy the notion that the current setup is incredibly similar to the buildup of the .com bubble.",
-      "conclusion_zh": "分析师维持对半导体板块的积极看法，认为增长变化率改善与债券走强提供支撑，并反驳“.com泡沫重演”的类比。",
-      "conclusion_en": "The analyst stays positive on semiconductors, citing improving growth rate of change and stronger bonds, and rejects the .com bubble analogy.",
-      "key_points": [
-        {
-          "zh": "半导体板块基本面依然强劲，但需要增长变化率改善。",
-          "en": "Semiconductor fundamentals remain strong, but the rate of change in growth needs to improve."
-        },
-        {
-          "zh": "当日ISM制造业数据是增长改善方向的积极第一步。",
-          "en": "Today's ISM manufacturing reading is a positive first step toward better growth."
-        },
-        {
-          "zh": "美国增长即时预测重现活力，部分源于债券表现改善的滞后效应。",
-          "en": "The US growth nowcast is showing signs of life, partly a lagged effect of better bond performance."
-        },
-        {
-          "zh": "分析师称从未见过市场对仍具强劲动能的事物如此怀疑。",
-          "en": "The analyst cannot recall a moment when so many were skeptical of something still showing great momentum."
-        },
-        {
-          "zh": "分析师明确不认同当前半导体行情类似“.com泡沫积累”的说法。",
-          "en": "The analyst explicitly rejects the comparison of current semiconductor momentum to the .com buildup."
-        }
-      ],
-      "tags": [
-        "semiconductors",
-        "ISM manufacturing",
-        "US growth nowcast",
-        "bonds",
-        "dot-com comparison"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
