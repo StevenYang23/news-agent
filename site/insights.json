@@ -1,6 +1,89 @@
 {
-  "generated_at": "2026-11-11T19:11:18.964143+00:00",
+  "generated_at": "2026-11-11T20:13:21.304549+00:00",
   "insights": [
+    {
+      "guid": "yt:sMO9WTDYgDw",
+      "title": "Investor Selby on Why Anthropic's IPO Puzzles Him",
+      "title_zh": "Copper Sky高管质疑Anthropic上市时机",
+      "url": "https://www.youtube.com/watch?v=sMO9WTDYgDw",
+      "published_at": "2026-11-11T19:10:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Copper Sky Capital董事总经理Jack Selby质疑Anthropic为何在拥有大量现金的情况下急于进入公开市场，并称其现金规模几乎与谷歌相当。",
+      "summary_en": "Copper Sky Capital Managing Director Jack Selby questioned why Anthropic is rushing into public markets when it has substantial cash on its balance sheet, almost as much as Google.",
+      "detail_zh": "在彭博电视节目“Insight with Haslinda Amin”中，Copper Sky Capital董事总经理Jack Selby对Anthropic急于上市提出疑问。Selby表示，Anthropic拥有大量现金，规模几乎与谷歌相当，因此其上市动机值得商榷。该视频内容已更正公司名称及Jack Selby的职位。",
+      "detail_en": "Speaking on Bloomberg Television's \"Insight with Haslinda Amin,\" Copper Sky Capital Managing Director Jack Selby questioned why Anthropic is rushing into the public markets. Selby noted that the company has so much cash on its balance sheet, almost as much as Google, making its push to go public questionable. The video has been corrected for the company name and Jack Selby's job title.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Jack Selby质疑Anthropic急于上市的必要性。",
+          "en": "Jack Selby questions the necessity of Anthropic's rush to go public."
+        },
+        {
+          "zh": "Selby指出Anthropic拥有大量现金，几乎与谷歌相当。",
+          "en": "Selby notes Anthropic has substantial cash, almost as much as Google."
+        },
+        {
+          "zh": "该评论来自彭博电视节目“Insight with Haslinda Amin”。",
+          "en": "The comment was made on Bloomberg Television's \"Insight with Haslinda Amin.\""
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "cash balance",
+        "public markets"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:nAhj3Te6PnE",
+      "title": "Nikki Haley on Nvidia Scandal, Iran and Midterms",
+      "title_zh": "Nikki Haley 谈英伟达CEO与疑似中国间谍关系等问题",
+      "url": "https://www.youtube.com/watch?v=nAhj3Te6PnE",
+      "published_at": "2026-11-11T19:08:50+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前美国驻联合国大使 Nikki Haley 在 Bloomberg \"Balance of Power\" 节目中讨论了围绕英伟达 CEO 黄仁勋与一名疑似中国间谍之间所谓关系的疑问，并谈及伊朗战争、以色列领导层未来及美国中期选举结果。原文未提供这些话题的具体细节或投资判断。",
+      "summary_en": "Former U.S. Ambassador to the UN Nikki Haley discussed questions surrounding an alleged relationship between Nvidia CEO Jensen Huang and a suspected Chinese spy on Bloomberg's \"Balance of Power.\" She also commented on the war in Iran, the future of leadership in Israel, and the results of the U.S. midterm elections. The source provides no specifics or investment conclusions on these topics.",
+      "detail_zh": "原文仅为一则 Bloomberg 电视节目片段简介。Nikki Haley 作为前美国驻联合国大使，在 \"Balance of Power\" 节目中讨论了围绕英伟达 CEO 黄仁勋与一名疑似中国间谍之间所谓关系的疑问。她还就伊朗战争、以色列领导层的未来以及美国中期选举结果发表了评论。原文没有披露上述任何话题的具体内容、事实细节、数字或明确观点，也未给出对英伟达或美股的投资判断。",
+      "detail_en": "The source is only a brief description of a Bloomberg Television segment. Nikki Haley, former U.S. Ambassador to the UN, discussed on \"Balance of Power\" the questions surrounding an alleged relationship between Nvidia CEO Jensen Huang and a suspected Chinese spy. She also commented on the war in Iran, the future of leadership in Israel, and the results of the U.S. midterm elections. The source does not disclose any specifics, factual details, figures, or explicit views on these topics, nor does it offer investment judgments on Nvidia or U.S. equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Nikki Haley 在 Bloomberg \"Balance of Power\" 节目中讨论了围绕英伟达 CEO 黄仁勋与一名疑似中国间谍之间所谓关系的疑问。",
+          "en": "Nikki Haley discussed on Bloomberg's \"Balance of Power\" the questions surrounding an alleged relationship between Nvidia CEO Jensen Huang and a suspected Chinese spy."
+        },
+        {
+          "zh": "Haley 还就伊朗战争、以色列领导层的未来以及美国中期选举结果发表了评论。",
+          "en": "Haley also commented on the war in Iran, the future of leadership in Israel, and the results of the U.S. midterm elections."
+        },
+        {
+          "zh": "原文未提供上述话题的具体细节、数字或明确观点。",
+          "en": "The source provides no specifics, figures, or explicit views on these topics."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "China spy",
+        "Nikki Haley",
+        "US midterms"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:V8blwWSbl4A",
       "title": "Rep. Krishnamoorthi: Nvidia CEO faces possible congressional subpoena",
@@ -18120,87 +18203,6 @@
       ],
       "tickers": [],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:kR1tHr9szig",
-      "title": "Disclosure: “Golf Is Great on the Taxpayers’ Dime”",
-      "title_zh": "SEC员工被曝上班时间打高尔夫，举报线索引发调查",
-      "url": "https://www.youtube.com/watch?v=kR1tHr9szig",
-      "published_at": "2026-11-04T19:42:38+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "调查记者Jason Leopold与律师Matt Topic在Disclosure播客中讨论了一条举报线索，该线索提示美国证券交易委员会（SEC）员工可能在办公时间打高尔夫。节目围绕该线索的细节及其如何引起SEC注意展开。",
-      "summary_en": "Investigative reporter Jason Leopold and attorney Matt Topic discuss on the Disclosure podcast a tip that alerted the SEC that its employees might be golfing during office hours. The episode unpacks the details of the tip and how it came to the SEC's attention.",
-      "detail_zh": "在Disclosure播客的一期节目中，调查记者Jason Leopold与律师Matt Topic共同讨论了一条举报线索。该线索提示美国证券交易委员会（SEC）的员工可能在办公时间打高尔夫。节目围绕这条线索的内容、来源以及它如何引起SEC的注意展开分析。讨论涉及举报线索的细节及其对SEC内部监管的潜在影响。",
-      "detail_en": "On an episode of the Disclosure podcast, investigative reporter Jason Leopold and attorney Matt Topic unpack a tip that alerted the SEC that its employees might be golfing during office hours. The discussion covers the details of the tip, its origins, and how it came to the SEC's attention. The episode analyzes the implications of the tip for internal oversight at the SEC.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "举报线索提示SEC员工可能在办公时间打高尔夫。",
-          "en": "A tip alerted the SEC that its employees might be golfing during office hours."
-        },
-        {
-          "zh": "调查记者Jason Leopold与律师Matt Topic在Disclosure播客中讨论该线索。",
-          "en": "Investigative reporter Jason Leopold and attorney Matt Topic discussed the tip on the Disclosure podcast."
-        },
-        {
-          "zh": "节目围绕线索的细节及其如何引起SEC注意展开。",
-          "en": "The episode unpacked the details of the tip and how it came to the SEC's attention."
-        }
-      ],
-      "tags": [
-        "SEC",
-        "whistleblower",
-        "investigation",
-        "podcast"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:V1dggYjIVZM",
-      "title": "Trump Says He's Not Worried About Impeachment",
-      "title_zh": "特朗普称不担心被弹劾，称弹劾将“摧毁”民主党",
-      "url": "https://www.youtube.com/watch?v=V1dggYjIVZM",
-      "published_at": "2026-11-04T19:12:42+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党夺回国会控制权次日，特朗普在白宫表示不担心被弹劾，并称弹劾将“摧毁”民主党。内容为政治表态，未涉及市场或经济政策细节。",
-      "summary_en": "The day after Democrats regained control of Congress, President Donald Trump said at the White House that he is not worried about being impeached, adding that doing so would 'destroy' the Democratic Party. The remarks are political and contain no market or economic policy details.",
-      "detail_zh": "特朗普在白宫发表讲话，此时正值民主党夺回国会控制权的次日。他表示自己并不担心被弹劾。他还称，弹劾程序将“摧毁”民主党。原文未提供更多关于弹劾理由、程序或经济政策影响的信息。该内容属于政治事件报道，与美股或宏观经济无直接关联。",
-      "detail_en": "Trump spoke at the White House the day after Democrats took back control of Congress. He said he is not worried about being impeached. He also said that doing so would 'destroy' the Democratic Party. The source provides no further details on grounds, procedure, or economic policy implications. This is a political news item with no direct link to US equities or macroeconomics.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党夺回国会控制权次日，特朗普在白宫表态。",
-          "en": "Trump spoke at the White House the day after Democrats regained control of Congress."
-        },
-        {
-          "zh": "特朗普称不担心被弹劾。",
-          "en": "Trump said he is not worried about being impeached."
-        },
-        {
-          "zh": "特朗普称弹劾将“摧毁”民主党。",
-          "en": "Trump said impeachment would 'destroy' the Democratic Party."
-        }
-      ],
-      "tags": [
-        "Trump",
-        "impeachment",
-        "Democrats",
-        "Congress",
-        "politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
