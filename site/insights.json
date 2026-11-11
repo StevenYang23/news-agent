@@ -1,6 +1,246 @@
 {
-  "generated_at": "2026-11-10T23:12:34.739793+00:00",
+  "generated_at": "2026-11-11T00:34:31.708340+00:00",
   "insights": [
+    {
+      "guid": "yt:QVp9mwgiJLM",
+      "title": "Triple B in Name Only",
+      "title_zh": "AI相关债券发行遭遇评级信任危机",
+      "url": "https://www.youtube.com/watch?v=QVp9mwgiJLM",
+      "published_at": "2026-11-11T00:17:42+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "近期AI及AI相关企业的大规模债券发行未获债市认可，市场对评级机构给出的投资级评级产生质疑。SpaceX和Oracle的债券交易利差均远宽于其评级对应水平，令人联想到2006-2007年次贷危机前BBB级市场的表现。",
+      "summary_en": "Recent large-scale bond issuance by AI and AI-adjacent businesses has not been well received by the bond market, with investors questioning the investment-grade ratings assigned by agencies. SpaceX and Oracle bonds are trading at spreads far wider than their ratings imply, reminiscent of the BBB subprime market behavior in 2006-2007.",
+      "detail_zh": "过去数周至数月，AI及AI相关企业的大规模债券发行未能获得债市良好接纳。这些债券发行时获得的评级立即遭到市场质疑：SpaceX以BBB评级发行，但利差随即扩大至垃圾债水平；Oracle以BBB-评级发行，市场并不认可该评级，其交易利差水平相当于B-级公司。市场对部分AI及AI相关企业的评级不予接受，这让人联想到2006-2007年BBB级次贷及ABX指数的市场表现。评级机构在私人信贷相关领域面临信任危机，尤其是私人信贷拥有的保险公司依赖市场并不认可的投资级评级。这一趋势已开始加速，值得关注。",
+      "detail_en": "Over the past several weeks to months, huge issuance by AI and AI-adjacent businesses has not been well received by the bond market. The ratings these bonds receive at issuance are immediately questioned by the market: SpaceX came out at BBB but its spreads immediately widened to junk-bond levels; Oracle came out at BBB- but is trading at spreads equivalent to a single B- company, as the market does not embrace the assigned rating. The market's rejection of ratings on some AI and AI-adjacent businesses is reminiscent of how the market behaved regarding BBB subprime and the ABX index in 2006-2007. There is a crisis of confidence in rating agencies, particularly in private credit-related areas where insurance companies owned by private credit and private equity firms lean on investment-grade ratings that the market does not believe are real. This trend has started to pick up steam and is worth following.",
+      "conclusion_zh": "AI相关债券的评级信任危机正在发酵，市场对投资级评级的质疑可能蔓延至私人信贷领域，值得投资者密切关注。",
+      "conclusion_en": "A rating credibility crisis is brewing for AI-related bonds, and market skepticism toward investment-grade ratings could spread into private credit, warranting close investor attention.",
+      "key_points": [
+        {
+          "zh": "AI及AI相关企业的大规模债券发行未获债市认可，发行评级遭市场质疑。",
+          "en": "Large-scale bond issuance by AI and AI-adjacent businesses has not been well received, with issuance ratings questioned by the market."
+        },
+        {
+          "zh": "SpaceX以BBB评级发行，利差随即扩大至垃圾债水平；Oracle以BBB-发行，交易利差相当于B-级公司。",
+          "en": "SpaceX came out at BBB but spreads widened to junk levels; Oracle came out at BBB- but trades at spreads equivalent to a single B- company."
+        },
+        {
+          "zh": "市场对评级机构在私人信贷相关领域的信任出现危机，保险公司依赖市场不认可的投资级评级。",
+          "en": "A crisis of confidence is emerging regarding rating agencies in private credit-related areas, where insurers rely on investment-grade ratings the market does not accept."
+        },
+        {
+          "zh": "当前市场表现令人联想到2006-2007年BBB级次贷及ABX指数的行为。",
+          "en": "The current market behavior is reminiscent of BBB subprime and the ABX index in 2006-2007."
+        },
+        {
+          "zh": "这一趋势已开始加速，值得持续关注。",
+          "en": "This trend has started to pick up steam and is worth following."
+        }
+      ],
+      "tags": [
+        "AI bonds",
+        "credit ratings",
+        "private credit",
+        "spreads",
+        "rating agencies"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:EhmPpWYAhQo",
+      "title": "House Takes up Hegseth Impeachment Procedural Vote",
+      "title_zh": "Bloomberg《权力平衡》节目：聚焦国会领导层变动、Hegseth弹劾与Nvidia对华出口管制",
+      "url": "https://www.youtube.com/watch?v=EhmPpWYAhQo",
+      "published_at": "2026-11-10T23:56:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期Bloomberg《权力平衡》节目讨论了美国国会领导层变动、针对Pete Hegseth的弹劾动议、政府停摆与债务上限风险，以及Nvidia CEO黄仁勋涉及的中国出口管制争议。节目还涉及加密货币立法《Clarity Act》和两党移民改革议题。",
+      "summary_en": "This episode of Bloomberg's \"Balance of Power\" covers new congressional leadership, the impeachment push against Pete Hegseth, government shutdown and debt ceiling risks, and the controversy surrounding Nvidia CEO Jensen Huang and China export controls. It also touches on crypto legislation (the Clarity Act) and bipartisan immigration reform.",
+      "detail_zh": "节目首先关注国会领导层变动：纽约共和党众议员Nick LaLota对Jim Jordan当选众议院少数党领袖作出反应，同时赞扬Steve Scalise的履历和政治技巧。亚利桑那州民主党参议员Ruben Gallego（曾在伊拉克服役的海军陆战队老兵）表示，他所称的绕过国会在战争权力问题上的做法为弹劾Pete Hegseth提供了“充分理由”，但表示在参议院审判前会审查证据。节目还讨论了政府停摆风险、债务上限与支出辩论，以及共和党人加紧完成跛脚鸭议程。Gallego还就民主党领导层、两党合作与移民改革、伊朗战争与政府拨款、以及加密货币和《Clarity Act》发表了看法。此外，节目涉及Gallego对黄仁勋、Nvidia和中国安全担忧的评论，以及政治小组对Hegseth弹劾、Jim Jordan接管众议院共和党领导层、Nvidia和黄仁勋及中国出口管制的反应。Bloomberg的Mike Shepard还讨论了特朗普对黄仁勋争议的了解程度。",
+      "detail_en": "The program first focuses on congressional leadership changes: New York Republican Congressman Nick LaLota reacts to Jim Jordan's election as incoming House minority leader while praising Steve Scalise's record and political skills. Arizona Democratic Senator Ruben Gallego, a Marine Corps combat veteran who served in Iraq, says what he describes as efforts to sidestep Congress on war powers provide \"good grounds\" for Pete Hegseth's impeachment, while saying he would review the evidence before any Senate trial. The show also discusses government shutdown risks, the debt ceiling and spending debate, and Republicans racing to finish the lame-duck agenda. Gallego also shares views on Democratic leadership, bipartisanship and immigration reform, Democrats weighing the Iran war and government funding, and crypto and the Clarity Act. Additionally, the program covers Gallego's comments on Jensen Huang, Nvidia and China security concerns, and the political panel's reaction to the Hegseth impeachment, Jim Jordan taking over House GOP leadership, Nvidia, Jensen Huang and China export controls. Bloomberg's Mike Shepard also discusses what Trump knew about the Jensen Huang controversy.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Jim Jordan当选众议院少数党领袖，Nick LaLota对此作出反应并赞扬Steve Scalise的履历。",
+          "en": "Jim Jordan elected incoming House minority leader; Nick LaLota reacts and praises Steve Scalise's record."
+        },
+        {
+          "zh": "参议员Ruben Gallego称绕过国会的战争权力做法为弹劾Pete Hegseth提供“充分理由”，但表示审判前会审查证据。",
+          "en": "Senator Ruben Gallego says efforts to sidestep Congress on war powers provide \"good grounds\" for Pete Hegseth's impeachment, but would review evidence before a Senate trial."
+        },
+        {
+          "zh": "节目讨论政府停摆风险、债务上限与支出辩论，以及共和党跛脚鸭议程。",
+          "en": "The show covers government shutdown risks, the debt ceiling and spending debate, and the Republican lame-duck agenda."
+        },
+        {
+          "zh": "Gallego就Nvidia、黄仁勋和中国安全担忧发表评论，政治小组也讨论了相关出口管制。",
+          "en": "Gallego comments on Nvidia, Jensen Huang and China security concerns; the political panel also discusses related export controls."
+        },
+        {
+          "zh": "节目涉及加密货币立法《Clarity Act》以及两党移民改革议题。",
+          "en": "The program touches on crypto legislation the Clarity Act and bipartisan immigration reform."
+        }
+      ],
+      "tags": [
+        "Congress",
+        "Impeachment",
+        "Nvidia",
+        "Export Controls",
+        "Crypto"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:L2X8eYIlAq8",
+      "title": "Big Political Shift, Narrow Economic Impact",
+      "title_zh": "中期选举对宏观影响有限，AI建设周期更趋条件化",
+      "url": "https://www.youtube.com/watch?v=L2X8eYIlAq8",
+      "published_at": "2026-11-10T23:36:39+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "摩根士丹利认为，尽管民主党横扫国会，但关税、移民和监管等关键政策仍属总统权限，因此近期宏观影响较窄。AI建设不会全面逆转，但可能因地方政治和许可问题而放缓或转移，形成更条件化的周期。财政方面，即使完全逆转SNAP和Medicaid削减，对增长和赤字影响也有限。",
+      "summary_en": "Morgan Stanley argues that despite Democrats sweeping Congress, key policies like tariffs, immigration, and regulation remain under executive authority, so the near-term macro impact is narrower. The AI buildout is not reversing broadly but may slow or shift due to local politics and permitting, leading to a more conditional cycle. On fiscal policy, even fully reversing SNAP and Medicaid cuts would have limited growth and deficit impact.",
+      "detail_zh": "摩根士丹利美国与全球经济学团队指出，中期选举虽带来国会和多个州的广泛变化，但近期宏观脉冲较窄。由于总统掌握关税、移民和大部分监管议程的权限，立法变化可能只是对部分国内支出的边际调整，而非宏观政策主题。在AI方面，一些共和党人以反数据中心为竞选纲领，可能导致部分项目从2028年推迟到2029年，但该行仍对整体建设持建设性看法。贸易传导类似：美国AI进口支撑了亚洲出口增长，使亚洲贸易数据成为投资周期的重要领先指标。选举可能放缓美国部分地区的产能增加，但不会导致建设广泛逆转，更可能形成条件化周期——项目在电力、许可和地方政治支持的地方推进，而容量从审批更难的地方迁移。这改变的是投资地理分布而非需求方向。从微芯片到更广泛的韩国出口的转变，可能是明年贸易流更分散、更广泛的早期信号。台湾和韩国仍处于芯片和内存的核心，墨西哥对服务器组装重要，东南亚在网络和光学设备上增加敞口，日本和欧洲日益参与半导体设备、涡轮机、变压器和其他电力基础设施。同时，美国更大的电力短缺可能使需求溢出到亚洲和EMIA，加速股票分析师已强调的动态。财政政策是更直接的联邦渠道，但主要不是赤字故事。民主党多数可能推迟或软化计划中的SNAP和Medicaid削减，但增长效应较小。即使完全逆转2027年1月生效的措施，实际支出增长增加也不到0.5个百分点。赤字预计仍维持在GDP的6%左右。尽管存在赤字担忧，但由于名义增长的上行惊喜，美国债务在5年 horizon 上看起来比一年前更可持续。底线是范围问题：政治变化可能意义重大，并对AI许可、财政谈判产生影响，从而对资产类别产生差异化影响，但近期总体经济渠道比政治头条更窄。关税、移民和大部分去监管议程仍主要属于行政权力，因此选举主要改变了有限立法和地方政策结果周围的概率分布。",
+      "detail_en": "Morgan Stanley's US and global economics team notes that while the midterm elections brought sweeping changes to Congress and several states, the near-term macro impulse is narrower. Because the president has authority over tariffs, immigration, and much of the regulatory agenda, legislative change might be a marginal adjustment to some domestic spending, not the key macro policy theme. On AI, some Republicans ran on anti-data center platforms, which could delay some projects from 2028 to 2029, but the bank remains constructive on the overall buildout. The trade readthrough is similar: US AI imports have supported Asian export growth, making Asian trade data an important lead indicator for the investment cycle. The election may slow US capacity additions in some places but does not point to a broad reversal; the more likely outcome is a more conditional cycle where projects proceed where power, permitting, and local politics are supportive, and capacity migrates away from places where approval gets harder. This changes the geography of investment more than the direction of demand. The shift from microchips to broader Korean exports is likely an early signal that trade flows next year become less concentrated and broader-based. Taiwan and Korea remain central to chips and memory, Mexico is important for server assembly, Southeast Asia is gaining exposure in networking and optical equipment, and Japan and Europe are increasingly involved in semiconductor equipment, turbines, transformers, and other power infrastructure. At the same time, a larger US power shortfall could allow demand to spill over to Asia and EMIA, accelerating a dynamic equity analysts have already highlighted. Fiscal policy is the more direct federal channel, but this is not primarily a deficit story. A Democratic majority could delay or soften scheduled SNAP and Medicaid cuts, but the growth effect would be small. Even a full rollback of measures due to take effect in January 2027 would add less than half a percentage point to real spending growth. Deficits are expected to stay around 6% of GDP. Despite deficit concerns, US debt looks more sustainable on a 5-year horizon than a year ago due to upside surprises in nominal growth. The bottom line is one of scope: political change may be meaningful and have implications for AI permitting and fiscal negotiations, thus differentiated implications across asset classes, but near-term aggregate economic channels are narrower than the political headline. Tariffs, immigration, and much of the deregulatory agenda remain largely under executive authority, so the election mainly shifts the probability distribution around a limited set of legislative and local policy outcomes.",
+      "conclusion_zh": "选举主要改变有限立法和地方政策结果的概率分布，而非近期宏观总需求；AI建设的地理分布可能调整，但需求方向未变，关注电力、许可和地方政治对项目的影响。",
+      "conclusion_en": "The election mainly shifts the probability distribution around a limited set of legislative and local policy outcomes, not near-term aggregate macro demand; the geography of AI investment may adjust, but the direction of demand is unchanged—watch power, permitting, and local politics.",
+      "key_points": [
+        {
+          "zh": "中期选举后，关税、移民和监管等关键政策仍属总统权限，近期宏观影响较窄。",
+          "en": "After the midterms, key policies like tariffs, immigration, and regulation remain under executive authority, so the near-term macro impact is narrower."
+        },
+        {
+          "zh": "AI建设不会全面逆转，但可能因地方政治和许可问题而放缓或转移，形成更条件化的周期。",
+          "en": "The AI buildout is not reversing broadly but may slow or shift due to local politics and permitting, leading to a more conditional cycle."
+        },
+        {
+          "zh": "亚洲贸易数据是AI投资周期的重要领先指标，贸易流可能更分散、更广泛。",
+          "en": "Asian trade data is an important lead indicator for the AI investment cycle, and trade flows may become less concentrated and broader-based."
+        },
+        {
+          "zh": "财政方面，即使完全逆转SNAP和Medicaid削减，对增长和赤字影响也有限，赤字预计仍占GDP的6%左右。",
+          "en": "On fiscal policy, even fully reversing SNAP and Medicaid cuts would have limited growth and deficit impact, with deficits expected to stay around 6% of GDP."
+        },
+        {
+          "zh": "由于名义增长的上行惊喜，美国债务在5年 horizon 上看起来比一年前更可持续。",
+          "en": "Due to upside surprises in nominal growth, US debt looks more sustainable on a 5-year horizon than a year ago."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "AI buildout",
+        "fiscal policy",
+        "trade flows",
+        "US debt"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lYkHPqzTAlM",
+      "title": "Sen. Gallego Sees ‘Good Grounds’ for Hegseth Impeachment",
+      "title_zh": "参议员Gallego：绕过国会战争权力或构成Hegseth弹劾理由，并呼吁审查英伟达对华芯片出口管制游说",
+      "url": "https://www.youtube.com/watch?v=lYkHPqzTAlM",
+      "published_at": "2026-11-10T23:21:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚利桑那州民主党参议员Ruben Gallego表示，绕过国会战争权力的做法为弹劾Pete Hegseth提供了“充分理由”，但称在参议院审判前会审查证据。他还呼吁审查外部影响是否在英伟达推动放宽对华芯片出口管制中发挥作用，并称加密行业在重金反对参议员Sherrod Brown后需“请求原谅”。",
+      "summary_en": "Arizona Democratic Senator Ruben Gallego said efforts to sidestep Congress on war powers provide \"good grounds\" for Pete Hegseth's impeachment, while saying he would review evidence before any Senate trial. He also called for scrutiny of whether outside influence played a role in Nvidia's push to loosen chip export controls on China, and said the crypto industry will have to \"ask for some forgiveness\" from returning Senator Sherrod Brown after spending heavily against him.",
+      "detail_zh": "亚利桑那州民主党参议员、曾在伊拉克服役的海军陆战队战斗老兵Ruben Gallego表示，他所描述的那些绕过国会战争权力的做法，为Pete Hegseth的弹劾提供了“充分理由”。Gallego同时表示，在任何参议院审判之前，他会审查相关证据。此外，Gallego呼吁审查外部影响是否在英伟达推动放宽对华芯片出口管制方面发挥了作用。他还表示，加密行业在重金反对参议员Sherrod Brown之后，将不得不与回归的Brown交谈并“请求一些原谅”。上述言论来自他在国会山接受Bloomberg“Balance of Power”节目Kailey Leinz采访时的表态。",
+      "detail_en": "Arizona Democratic Senator Ruben Gallego, a Marine Corps combat veteran who served in Iraq, said what he describes as efforts to sidestep Congress on war powers provide \"good grounds\" for Pete Hegseth's impeachment. Gallego said he would review the evidence before any Senate trial. He also called for scrutiny of whether outside influence played a role in Nvidia's push to loosen chip export controls on China. In addition, he said the crypto industry will have to talk to returning Senator Sherrod Brown and \"ask for some forgiveness\" after spending heavily against him. The remarks were made in an interview with Kailey Leinz on Capitol Hill for Bloomberg's \"Balance of Power.\"",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Gallego称绕过国会战争权力的做法为弹劾Hegseth提供了“充分理由”，但表示参议院审判前会审查证据。",
+          "en": "Gallego said efforts to sidestep Congress on war powers provide \"good grounds\" for Hegseth's impeachment, but said he would review evidence before a Senate trial."
+        },
+        {
+          "zh": "Gallego呼吁审查外部影响是否在英伟达推动放宽对华芯片出口管制中发挥作用。",
+          "en": "Gallego called for scrutiny of whether outside influence played a role in Nvidia's push to loosen chip export controls on China."
+        },
+        {
+          "zh": "Gallego称加密行业在重金反对参议员Sherrod Brown后，需与回归的Brown交谈并“请求一些原谅”。",
+          "en": "Gallego said the crypto industry will have to talk to returning Senator Sherrod Brown and \"ask for some forgiveness\" after spending heavily against him."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "chip export controls",
+        "crypto policy",
+        "impeachment",
+        "Senate"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:G_QdNfhltnk",
+      "title": "Rep. LaLota ‘Bullish’ on Bipartisan Lame-Duck Deals",
+      "title_zh": "共和党众议员LaLota：对两党在可负担性议题上合作有信心，看好跛脚鸭会期通过拨款法案",
+      "url": "https://www.youtube.com/watch?v=G_QdNfhltnk",
+      "published_at": "2026-11-10T23:14:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "纽约州共和党众议员Nick LaLota就Jim Jordan当选众议院少数党领袖一事发表看法，同时赞扬Steve Scalise的履历和政治技巧。LaLota表示，他有信心共和党能在可负担性等共同优先事项上与民主党合作，并对国会利用跛脚鸭会期在政府拨款和其他两党立法上取得进展感到“乐观”。",
+      "summary_en": "New York Republican Congressman Nick LaLota commented on Jim Jordan's election as incoming House minority leader while praising Steve Scalise's record and political skills. LaLota said he is confident Republicans can work with Democrats on affordability and other shared priorities, and that he is \"bullish\" Congress can use the lame-duck session to make progress on government funding and other bipartisan legislation.",
+      "detail_zh": "纽约州共和党众议员Nick LaLota在彭博“Balance of Power”节目中，就Jim Jordan当选即将上任的众议院少数党领袖作出回应，同时赞扬了Steve Scalise的履历和政治技巧。LaLota表示，他有信心共和党人能在可负担性及其他共同优先事项上与民主党人合作。他还表示，自己对国会能够利用跛脚鸭会期在政府拨款和其他两党立法上取得进展感到“乐观”。上述言论是在国会山接受Kailey Leinz采访时发表的。",
+      "detail_en": "New York Republican Congressman Nick LaLota reacted on Bloomberg's \"Balance of Power\" to Jim Jordan's election as incoming House minority leader, while praising Steve Scalise's record and political skills. LaLota said he is confident Republicans can work with Democrats on affordability and other shared priorities. He also said he is \"bullish\" that Congress can use the lame-duck session to make progress on government funding and other bipartisan legislation. He spoke with Kailey Leinz on Capitol Hill.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Jim Jordan当选即将上任的众议院少数党领袖，LaLota对此作出回应。",
+          "en": "Jim Jordan was elected incoming House minority leader, and LaLota reacted to the development."
+        },
+        {
+          "zh": "LaLota赞扬Steve Scalise的履历和政治技巧。",
+          "en": "LaLota praised Steve Scalise's record and political skills."
+        },
+        {
+          "zh": "LaLota表示有信心共和党能在可负担性等共同优先事项上与民主党合作。",
+          "en": "LaLota said he is confident Republicans can work with Democrats on affordability and other shared priorities."
+        },
+        {
+          "zh": "LaLota对国会利用跛脚鸭会期在政府拨款和其他两党立法上取得进展感到“乐观”。",
+          "en": "LaLota is \"bullish\" Congress can use the lame-duck session to make progress on government funding and other bipartisan legislation."
+        }
+      ],
+      "tags": [
+        "Congress",
+        "House Minority Leader",
+        "bipartisan legislation",
+        "government funding",
+        "lame-duck session"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:QkoSYxEZ7qs",
       "title": "Hot Inflation, AI Selloff & Anthropic IPO",
@@ -18393,51 +18633,6 @@
         "inflation",
         "Republicans",
         "US politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:m1VcW6aMo70",
-      "title": "The VIX Curve Warning Signal Traders Should Watch",
-      "title_zh": "VIX期限结构趋平被视为风险信号",
-      "url": "https://www.youtube.com/watch?v=m1VcW6aMo70",
-      "published_at": "2026-11-04T00:14:38+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility"
-      ],
-      "summary_zh": "分析师指出，VIX期限结构虽仍处期货升水（contango），但正在趋平，这反映市场从平静转向担忧。当交易员预期波动率飙升时，会转向短期限期权以获取凸性，因长期合约在风险事件中涨幅有限。",
-      "summary_en": "The analyst notes that the VIX term structure remains in contango but is flattening, signaling a shift from calm to concern. Traders expecting a volatility spike move to shorter-dated options for convexity, as longer-dated contracts offer limited upside in risk-off events.",
-      "detail_zh": "分析VIX期限结构需关注两点：一是陡峭程度，二是绝对水平（如锚定在14-15还是更高）。当前近月合约约19-20，远月升至21-22，仍处contango但趋平。VIX不会从12直线跳至80，通常先升至20多，之后才变得“convex”或“gross”（波动率真正飙升）。趋平是风险信号，表明市场从平静转向担忧。若预期市场崩盘、波动率飙升，交易员会停止购买长期看跌期权，转向短期期权对冲，因为长期合约（如明年5月）在风险事件中可能仅从21升至25，而短期合约或VIX指数可从20升至50，长期合约无法提供对冲。此外，当VIX已处30时，购买5月看跌期权成本高昂（如25delta看跌期权需100美元），交易员被迫转向本周或下周到期、成本更低的期权（如15-20美元）。",
-      "detail_en": "Analyzing the VIX term structure involves two things: steepness and absolute level (e.g., anchored at 14-15 or higher). Currently, near-term contracts are around 19-20, rising to 21-22 further out, still in contango but flattening. The VIX doesn't go from 12 to 80 in a straight line; it tends to shift to a risk position in the 20s, from where things get convex or 'gross' (volatility really spikes). Flattening is a risk signal, indicating the market is shifting from calm to concerned. If expecting a crash and volatility spike, traders stop buying longer-term puts and move to shorter-dated options for hedging, because longer-dated contracts (e.g., May next year) may only go from 21 to 25 in a risk-off event, while shorter-dated contracts or the VIX index could go from 20 to 50, offering no hedge. Also, with VIX already at 30, buying a May put is expensive (e.g., a 25-delta put costs $100), forcing traders to use this week's or next week's puts, which may cost $15-20 for a 25-delta put expiring tomorrow.",
-      "conclusion_zh": "VIX期限结构趋平值得关注，可能预示市场担忧加剧，交易员偏好短期期权以对冲波动率飙升风险。",
-      "conclusion_en": "The flattening VIX term structure warrants attention as it may signal rising market concern, with traders favoring short-dated options to hedge against volatility spikes.",
-      "key_points": [
-        {
-          "zh": "VIX期限结构仍处contango，但趋平是市场从平静转向担忧的风险信号。",
-          "en": "The VIX term structure remains in contango, but its flattening is a risk signal that the market is shifting from calm to concern."
-        },
-        {
-          "zh": "VIX通常不会直线跳升，而是先升至20多，之后才出现波动率急剧飙升（convex/gross）。",
-          "en": "The VIX typically doesn't jump in a straight line; it first shifts to the 20s, after which volatility spikes sharply (convex/gross)."
-        },
-        {
-          "zh": "预期波动率飙升时，交易员转向短期限期权以获取凸性，因长期合约在风险事件中涨幅有限。",
-          "en": "When expecting a volatility spike, traders turn to shorter-dated options for convexity, as longer-dated contracts have limited upside in risk-off events."
-        },
-        {
-          "zh": "当VIX已处高位（如30），长期看跌期权成本高昂，迫使交易员使用更便宜的短期期权。",
-          "en": "With VIX already elevated (e.g., 30), longer-dated puts are expensive, forcing traders to use cheaper short-dated options."
-        }
-      ],
-      "tags": [
-        "VIX",
-        "term structure",
-        "contango",
-        "options",
-        "volatility"
       ],
       "tickers": [],
       "sentiment": "neutral"
