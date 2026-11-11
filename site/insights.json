@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-11T08:19:33.333070+00:00",
+  "generated_at": "2026-11-11T09:16:17.354825+00:00",
   "insights": [
+    {
+      "guid": "yt:b27QxCYtHeo",
+      "title": "CoreWeave Gives Bulls a Green Light: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目预告，无实质市场内容",
+      "url": "https://www.youtube.com/watch?v=b27QxCYtHeo",
+      "published_at": "2026-11-11T08:25:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介与社交媒体链接，未包含任何具体的市场数据、观点或投资分析。因此无法提炼投资洞见。",
+      "summary_en": "The original text is merely a program description and social media links for Bloomberg's 'The Opening Trade,' with no substantive market data, views, or investment analysis. No investment insights can be extracted.",
+      "detail_zh": "原文仅说明Anna Edwards、Tom Mackenzie和Mark Cudmore将在《Bloomberg: The Opening Trade》节目中为分析师和投资者梳理当日关键主题，但未提供任何具体主题内容。其余部分均为彭博电视和商业的社交媒体链接及订阅指引。由于缺乏实质信息，无法进行进一步分析。",
+      "detail_en": "The original text only states that Anna Edwards, Tom Mackenzie, and Mark Cudmore will break down today's key themes for analysts and investors on 'Bloomberg: The Opening Trade,' without providing any specific themes. The rest consists of social media links and subscription instructions for Bloomberg Television and Business. Due to the lack of substantive information, no further analysis is possible.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视节目《开盘交易》的简介，未包含具体市场分析。",
+          "en": "The text is a description of Bloomberg's 'The Opening Trade' program and contains no specific market analysis."
+        },
+        {
+          "zh": "节目由Anna Edwards、Tom Mackenzie和Mark Cudmore主持。",
+          "en": "The program is hosted by Anna Edwards, Tom Mackenzie, and Mark Cudmore."
+        },
+        {
+          "zh": "原文未提及任何股票、指数、经济数据或投资观点。",
+          "en": "The text does not mention any stocks, indices, economic data, or investment views."
+        }
+      ],
+      "tags": [
+        "Bloomberg",
+        "TV Program",
+        "No Content"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:w204zDghXBs",
+      "title": "Asia Tech Rally Defies SoftBank AI Concerns",
+      "title_zh": "美国10月CPI推升美联储加息预期，Anthropic IPO估值或超1.5万亿美元",
+      "url": "https://www.youtube.com/watch?v=w204zDghXBs",
+      "published_at": "2026-11-11T08:18:36+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国10月CPI数据火热，引发市场对美联储加息的押注，多位美联储官员暗示有加息意愿。Anthropic IPO定价在即，投行考虑将估值推高至1.5万亿美元以上。台积电10月营收增长60%，并计划在AI领域投资10亿美元。",
+      "summary_en": "A hot US October CPI print stoked bets on Fed rate hikes, with several Fed officials signaling appetite to raise rates. Anthropic's IPO is set to price, with bankers weighing pushing the valuation above $1.5 trillion. TSMC's October revenue rose 60% as it plans $1 billion in AI investments.",
+      "detail_zh": "美国10月CPI数据表现火热，加剧了市场对美联储加息的押注，多位美联储官员释放加息信号，其中芝加哥联储主席Goolsbee称该通胀报告令人不安。Anthropic的IPO定于11月18日定价，据FT报道，投行正在权衡将其IPO估值推高至1.5万亿美元以上，投资者已在提前交易其IPO股份。CoreWeave上调了2026年销售展望。台积电10月营收同比增长60%，并计划在AI领域投资10亿美元。软银股价因美国数据中心资产减记而下跌。欧洲央行管委Philip Lane表示，若当前数据保持不变，12月加息是审慎之举。此外，美国众议院投票阻止Hegseth弹劾条款，该措施被送交司法委员会。",
+      "detail_en": "A hot US October CPI print stoked bets on Fed rate hikes, with several Fed officials signaling appetite to raise rates; Chicago Fed's Goolsbee called the inflation report distressing. Anthropic's IPO is set to price on November 18, and according to the FT, bankers are weighing pushing the IPO valuation above $1.5 trillion, with investors already shopping for IPO shares early. CoreWeave boosted its 2026 sales outlook. TSMC's October revenue rose 60% year-over-year as the firm plans $1 billion in AI investments. SoftBank shares fell on a US data center writedown. ECB's Philip Lane said a December hike would be prudent if current data holds. Separately, the US House voted to block Hegseth impeachment articles, sending the measure to the Judiciary Committee.",
+      "conclusion_zh": "火热的通胀数据强化了美联储加息预期，需关注利率路径对美股估值的影响；同时AI领域IPO与资本开支活跃，显示科技板块结构性机会仍存。",
+      "conclusion_en": "Hot inflation data reinforced Fed hike expectations, warranting attention to the rate path's impact on US equity valuations; meanwhile, active AI IPOs and capex suggest structural opportunities in tech remain.",
+      "key_points": [
+        {
+          "zh": "美国10月CPI数据火热，推升美联储加息预期，多位官员暗示加息意愿。",
+          "en": "Hot US October CPI stoked Fed hike bets, with multiple officials signaling appetite to raise rates."
+        },
+        {
+          "zh": "Anthropic IPO定于11月18日定价，投行考虑将估值推高至1.5万亿美元以上。",
+          "en": "Anthropic IPO is set to price on November 18; bankers weigh pushing valuation above $1.5 trillion."
+        },
+        {
+          "zh": "台积电10月营收同比增长60%，计划在AI领域投资10亿美元。",
+          "en": "TSMC October revenue rose 60% YoY, plans $1 billion in AI investments."
+        },
+        {
+          "zh": "CoreWeave上调2026年销售展望。",
+          "en": "CoreWeave boosted its 2026 sales outlook."
+        },
+        {
+          "zh": "欧洲央行管委Lane称若数据保持，12月加息是审慎之举。",
+          "en": "ECB's Lane said a December hike is prudent if data holds."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "CPI",
+        "Anthropic IPO",
+        "TSMC",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:8gnbH4Ky5p8",
       "title": "Gulf States Deepen Military Coordination as Iran Diplomacy Faces Hormuz Risks",
