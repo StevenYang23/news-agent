@@ -1,6 +1,512 @@
 {
-  "generated_at": "2026-11-11T21:16:46.629422+00:00",
+  "generated_at": "2026-11-11T22:13:16.898514+00:00",
   "insights": [
+    {
+      "guid": "yt:AlQpswqoI4I",
+      "title": "Stocks Slide as AI Trade Roars Back | Closing Bell",
+      "title_zh": "彭博电视美股收盘节目介绍",
+      "url": "https://www.youtube.com/watch?v=AlQpswqoI4I",
+      "published_at": "2026-11-11T22:00:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视美股收盘节目的跨平台播出信息及社交媒体链接，未包含任何市场数据、观点或分析。",
+      "summary_en": "The original text is merely promotional information and social media links for Bloomberg Television's U.S. market close program, with no market data, opinions, or analysis included.",
+      "detail_zh": "原文介绍了彭博电视、彭博电台和YouTube对美股收盘的跨平台综合报道，由Romaine Bostick、Vonnie Quinn、Carol Massar和Tim Stenovec主持。内容主要为订阅提示和社交媒体链接，未提供任何具体的市场动态、数据或投资观点。",
+      "detail_en": "The original text introduces comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube, hosted by Romaine Bostick, Vonnie Quinn, Carol Massar, and Tim Stenovec. It consists mainly of subscription prompts and social media links, without any specific market updates, data, or investment views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目由Romaine Bostick、Vonnie Quinn、Carol Massar和Tim Stenovec主持。",
+          "en": "The program is hosted by Romaine Bostick, Vonnie Quinn, Carol Massar, and Tim Stenovec."
+        },
+        {
+          "zh": "覆盖平台包括彭博电视、彭博电台和YouTube。",
+          "en": "Coverage platforms include Bloomberg Television, Bloomberg Radio, and YouTube."
+        },
+        {
+          "zh": "原文未包含任何市场数据或分析内容。",
+          "en": "The original text contains no market data or analysis."
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "market close",
+        "media"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:dxZc2esQmAw",
+      "title": "CoreWeave Earnings Triggers AI Boost",
+      "title_zh": "CoreWeave财报缓解债务担忧，Anthropic IPO需求旺盛，OpenAI季度营收首破百亿",
+      "url": "https://www.youtube.com/watch?v=dxZc2esQmAw",
+      "published_at": "2026-11-11T21:50:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "CoreWeave股价因财报缓解债务担忧并显示强劲销售增长而上涨；Anthropic的IPO认购需求达到发行量的数倍；OpenAI季度营收首次达到100亿美元，受最新AI软件需求推动。",
+      "summary_en": "CoreWeave shares rose after its earnings eased debt concerns and signaled strong sales growth; Anthropic's IPO drew multiple times the orders for available shares; OpenAI's quarterly revenue hit $10 billion for the first time, driven by demand for its latest AI software.",
+      "detail_zh": "CoreWeave股价在财报发布后上涨，公司缓解了市场对其高负债业务的担忧，并显示出强劲的销售增长，尽管数据中心热潮面临逆风。据知情人士透露，Anthropic的首次公开募股（IPO）已吸引数倍于可认购股份的订单，彭博的Bailey Lipschultz对下周预期的巨型IPO进行了预览。OpenAI的季度营收首次达到100亿美元，受其最新人工智能软件的强劲需求推动。此外，节目还讨论了联邦对英伟达CEO黄仁勋与一名被指为间谍的婚外情调查，以及国会考虑传唤黄仁勋。最后，节目分析了气候模型在关键预测上的偏差及气候极端事件的经济风险。",
+      "detail_en": "CoreWeave shares jumped after the company eased fears about its debt-laden business and signaled strong sales growth despite headwinds facing the data center boom. Anthropic's initial public offering has drawn multiple times the orders for the shares available, according to people familiar with the matter, and Bloomberg's Bailey Lipschultz previewed the expected mega-IPO next week. OpenAI's quarterly revenue hit $10 billion for the first time, driven by strong demand for its latest artificial intelligence software. The program also covered federal investigations into Nvidia CEO Jensen Huang's affair with an alleged spy, and Congress weighing a subpoena for Huang. Finally, it discussed how climate models missed on key predictions and the economic risks of climate extremes.",
+      "conclusion_zh": "AI基础设施与模型公司需求强劲，但需关注债务风险与监管审查对相关个股的影响。",
+      "conclusion_en": "AI infrastructure and model companies show strong demand, but investors should watch debt risks and regulatory scrutiny affecting related stocks.",
+      "key_points": [
+        {
+          "zh": "CoreWeave股价上涨，因财报缓解了债务担忧并显示强劲销售增长。",
+          "en": "CoreWeave shares rose as earnings eased debt concerns and showed strong sales growth."
+        },
+        {
+          "zh": "Anthropic的IPO认购需求达到可发行股份的数倍。",
+          "en": "Anthropic's IPO drew multiple times the orders for available shares."
+        },
+        {
+          "zh": "OpenAI季度营收首次达到100亿美元，受最新AI软件需求推动。",
+          "en": "OpenAI's quarterly revenue hit $10 billion for the first time, driven by demand for its latest AI software."
+        },
+        {
+          "zh": "联邦调查涉及英伟达CEO黄仁勋与一名被指为间谍的婚外情，国会考虑传唤。",
+          "en": "Federal investigations involve Nvidia CEO Jensen Huang's affair with an alleged spy; Congress weighs a subpoena."
+        }
+      ],
+      "tags": [
+        "AI",
+        "IPO",
+        "earnings",
+        "Nvidia",
+        "regulation"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:OW88JF4hRcY",
+      "title": "How to Trade CoreWeave Earnings Amid High Implied Volatility",
+      "title_zh": "利用Gamma暴露与期权偏斜布局CoreWeave财报",
+      "url": "https://www.youtube.com/watch?v=OW88JF4hRcY",
+      "published_at": "2026-11-11T21:40:08+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility",
+        "tech"
+      ],
+      "summary_zh": "SpotGamma的Brent Kochuba通过期权定位分析CoreWeave（CRWV），讲解如何结合GEX与偏斜来预判财报后股价走势并管理风险。",
+      "summary_en": "Brent Kochuba of SpotGamma analyzes CoreWeave (CRWV) through options positioning, explaining how to combine GEX and skew to frame potential post-earnings moves and manage risk.",
+      "detail_zh": "视频中，Brent Kochuba以CoreWeave（NASDAQ: CRWV）为例，展示如何通过期权市场定位来为财报做准备。他重点讲解如何结合gamma暴露（GEX）与期权偏斜（skew）来解读期权市场定价，并据此评估财报公布后的潜在股价波动。内容还涉及如何在财报前思考风险，利用这些信号构建交易框架。此外，视频推广了SpotGamma的Opening Setup™免费试用服务。",
+      "detail_en": "In the video, Brent Kochuba uses CoreWeave (NASDAQ: CRWV) as a case study to demonstrate how to prepare for earnings using options positioning. He focuses on combining gamma exposure (GEX) and options skew to interpret what the options market is pricing and to assess potential post-earnings moves. The discussion also covers how to think through risk ahead of the announcement and use these signals to frame trading decisions. The video also promotes SpotGamma's Opening Setup™ free trial.",
+      "conclusion_zh": "投资者可关注GEX与偏斜等期权指标，以更结构化地应对CoreWeave等个股的财报事件风险。",
+      "conclusion_en": "Investors can monitor options metrics like GEX and skew to more structurally navigate earnings event risk in names like CoreWeave.",
+      "key_points": [
+        {
+          "zh": "结合GEX与偏斜分析期权市场定价",
+          "en": "Combine GEX and skew to analyze options market pricing"
+        },
+        {
+          "zh": "以CoreWeave（CRWV）为例讲解财报前布局",
+          "en": "Use CoreWeave (CRWV) as an example for pre-earnings positioning"
+        },
+        {
+          "zh": "利用期权信号预判财报后股价波动",
+          "en": "Use options signals to anticipate post-earnings moves"
+        },
+        {
+          "zh": "强调财报前风险管理与交易框架构建",
+          "en": "Emphasize risk management and trade framing before earnings"
+        }
+      ],
+      "tags": [
+        "GEX",
+        "options skew",
+        "earnings",
+        "CoreWeave",
+        "risk management"
+      ],
+      "tickers": [
+        "CRWV"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:of96wd8ityM",
+      "title": "Big Take: Democrats Now Control the Future of the Supreme Court",
+      "title_zh": "民主党中期选举大胜改变最高法院改革讨论",
+      "url": "https://www.youtube.com/watch?v=of96wd8ityM",
+      "published_at": "2026-11-11T21:32:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党曾考虑对最高法院的保守倾向进行激进改革，但其中期选举的压倒性胜利改变了这一讨论的焦点。彭博观点专栏作家Noah Feldman在Big Take播客中对此进行了解释。",
+      "summary_en": "Democrats were considering radical reform to address the Supreme Court's conservative lean, but their sweeping midterms victory changed the conversation. Bloomberg Opinion's Noah Feldman explained this on the Big Take podcast.",
+      "detail_zh": "原文指出，民主党此前正在考虑对最高法院的保守派倾向采取激进改革措施。然而，民主党在中期选举中取得压倒性胜利，这一结果改变了相关讨论的走向。彭博观点（Bloomberg Opinion）的Noah Feldman做客Big Take播客，与David Gura一同解释了这一变化。原文未提供改革的具体内容、选举结果的具体数字或Feldman的详细观点。",
+      "detail_en": "The original text states that Democrats were considering radical reform to address the Supreme Court's conservative lean. However, their sweeping midterms victory changed the conversation. Noah Feldman of Bloomberg Opinion joined David Gura on the Big Take podcast to explain this shift. The original text does not provide specifics on the reforms, election results, or Feldman's detailed views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党曾考虑对最高法院的保守倾向进行激进改革。",
+          "en": "Democrats were considering radical reform to address the Supreme Court's conservative lean."
+        },
+        {
+          "zh": "民主党在中期选举中取得压倒性胜利，改变了相关讨论。",
+          "en": "Their sweeping midterms victory changed the conversation."
+        },
+        {
+          "zh": "彭博观点的Noah Feldman在Big Take播客中解释了这一变化。",
+          "en": "Noah Feldman of Bloomberg Opinion explained this shift on the Big Take podcast."
+        }
+      ],
+      "tags": [
+        "Supreme Court",
+        "Democrats",
+        "Midterms",
+        "Reform"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:n7PrkWGEgqo",
+      "title": "CoreWeave Boosts Forecast, Easing Slowdown Concerns",
+      "title_zh": "CoreWeave季度业绩超预期并上调全年指引",
+      "url": "https://www.youtube.com/watch?v=n7PrkWGEgqo",
+      "published_at": "2026-11-11T21:31:48+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "AI算力提供商CoreWeave季度业绩超出分析师预期，并上调年度预测，缓解了投资者对这家高负债企业增长放缓的担忧。",
+      "summary_en": "AI computing provider CoreWeave topped analysts' quarterly estimates and raised its annual forecast, easing investor concerns about a slowdown at the debt-laden company.",
+      "detail_zh": "AI算力提供商CoreWeave公布的季度业绩超出分析师预期，同时上调了全年业绩指引。此举缓解了投资者对该高负债企业可能面临增长放缓的担忧。报道由Brody Ford完成，内容来自Bloomberg Television。原文未披露具体财务数字、指引区间或债务细节。",
+      "detail_en": "AI computing provider CoreWeave reported quarterly results that exceeded analysts' estimates and raised its annual forecast. The move eased investor concerns that the debt-laden business might be suffering a slowdown. The report was by Brody Ford on Bloomberg Television. Specific financial figures, guidance ranges, or debt details were not disclosed in the original text.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "CoreWeave季度业绩超出分析师预期",
+          "en": "CoreWeave's quarterly results topped analysts' estimates"
+        },
+        {
+          "zh": "公司上调了年度业绩预测",
+          "en": "The company raised its annual forecast"
+        },
+        {
+          "zh": "业绩与指引缓解了投资者对高负债企业增长放缓的担忧",
+          "en": "Results and guidance eased investor concerns about a slowdown at the debt-laden business"
+        }
+      ],
+      "tags": [
+        "CoreWeave",
+        "AI computing",
+        "earnings",
+        "guidance"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:52YT4KFnGks",
+      "title": "Odd Lots: The AI Trade Shrugs Off a Blue Wave and a Tech Scandal",
+      "title_zh": "宏观忧虑下科技股仍显韧性，市场等待Anthropic IPO",
+      "url": "https://www.youtube.com/watch?v=52YT4KFnGks",
+      "published_at": "2026-11-11T21:30:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党全国大胜引发对AI持续发展的质疑，英伟达调查CEO黄仁勋与疑似中国间谍的绯闻，多重因素令投资者不安；但科技板块仍在市场等待Anthropic IPO之际走强。彭博的Michael Ball在Odd Lots播客中解析科技交易为何在宏观忧虑下保持韧性。",
+      "summary_en": "Democrats' sweeping nationwide win raises questions about continued AI development, and Nvidia investigates CEO Jensen Huang's affair with an alleged Chinese spy—yet the tech trade is showing resilience as markets await the upcoming Anthropic IPO. Bloomberg's Michael Ball joins the Odd Lots podcast to unpack why.",
+      "detail_zh": "原文指出，美国政治与科技行业本月均发生重大事件。民主党在全国范围内取得大胜，这使AI的持续发展受到质疑。英伟达对CEO黄仁勋与一名疑似中国间谍的绯闻展开调查。原文称，有诸多因素令投资者感到不安，但科技板块仍在走强，市场正在等待即将到来的Anthropic IPO。彭博的Michael Ball做客Odd Lots播客，与Joe Weisenthal和Tracy Alloway共同解析科技交易为何在宏观忧虑下表现出韧性。原文未提供具体涨幅、估值或IPO时间等细节。",
+      "detail_en": "The source notes major developments in both American politics and the tech industry this month. Democrats delivered a sweeping win across the country, calling continued AI development into question. Nvidia launched an investigation into CEO Jensen Huang's affair with an alleged Chinese spy. The source says there are plenty of things to make investors jittery, yet a tech rally is underway as markets await the upcoming Anthropic IPO. Bloomberg's Michael Ball joins Joe Weisenthal and Tracy Alloway on the Odd Lots podcast to unpack why the tech trade is showing resilience despite macro jitters. No specific gains, valuations, or IPO timing are provided.",
+      "conclusion_zh": "科技交易在政治与公司治理噪音中仍显韧性，市场焦点转向Anthropic IPO。",
+      "conclusion_en": "The tech trade is showing resilience amid political and governance noise, with attention turning to the Anthropic IPO.",
+      "key_points": [
+        {
+          "zh": "民主党全国大胜，使AI持续发展受到质疑",
+          "en": "Democrats' sweeping nationwide win calls continued AI development into question"
+        },
+        {
+          "zh": "英伟达调查CEO黄仁勋与疑似中国间谍的绯闻",
+          "en": "Nvidia investigates CEO Jensen Huang's affair with an alleged Chinese spy"
+        },
+        {
+          "zh": "尽管宏观忧虑重重，科技板块仍在走强",
+          "en": "Tech is rallying despite macro jitters"
+        },
+        {
+          "zh": "市场正在等待即将到来的Anthropic IPO",
+          "en": "Markets are awaiting the upcoming Anthropic IPO"
+        },
+        {
+          "zh": "彭博的Michael Ball在Odd Lots播客解析科技交易的韧性",
+          "en": "Bloomberg's Michael Ball unpacks the tech trade's resilience on Odd Lots"
+        }
+      ],
+      "tags": [
+        "tech rally",
+        "AI",
+        "Anthropic IPO",
+        "Nvidia",
+        "US politics"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:lkFJCjwAM-0",
+      "title": "Midterms Could Delay the AI Buildout, Not Derail It",
+      "title_zh": "数据中心政治阻力：中期选举影响超大规模资本开支",
+      "url": "https://www.youtube.com/watch?v=lkFJCjwAM-0",
+      "published_at": "2026-11-11T21:30:29+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "公共政策研究主管Ariana Salvatore指出，对电费和水资源使用的担忧正转化为政治行动，中期选举将对数据中心项目管道和超大规模企业资本开支产生影响，进而波及投资者。",
+      "summary_en": "Head of Public Policy Research Ariana Salvatore notes that concerns over electricity bills and water use are turning into political action, and the midterms will affect the data center pipeline, hyperscaler CapEx, and investors.",
+      "detail_zh": "公共政策研究主管Ariana Salvatore分析称，围绕电费和水资源使用的担忧正在转化为政治行动。她拆解了中期选举对数据中心项目管道、超大规模企业资本开支以及投资者的潜在影响。原文未提供具体数据、案例或政策细节。",
+      "detail_en": "Head of Public Policy Research Ariana Salvatore analyzes that concerns over electricity bills and water use are turning into political action. She breaks down what the midterms mean for the data center pipeline, hyperscaler CapEx, and investors. The source does not provide specific data, cases, or policy details.",
+      "conclusion_zh": "数据中心面临的政治阻力可能影响超大规模企业资本开支节奏，投资者需关注中期选举对项目管道的潜在冲击。",
+      "conclusion_en": "Political headwinds for data centers could affect the pace of hyperscaler CapEx, and investors should watch for potential midterm election impacts on the project pipeline.",
+      "key_points": [
+        {
+          "zh": "电费和水资源使用担忧正转化为政治行动",
+          "en": "Concerns over electricity bills and water use are turning into political action"
+        },
+        {
+          "zh": "中期选举将影响数据中心项目管道",
+          "en": "The midterms will affect the data center pipeline"
+        },
+        {
+          "zh": "中期选举将影响超大规模企业资本开支",
+          "en": "The midterms will affect hyperscaler CapEx"
+        },
+        {
+          "zh": "上述因素对投资者有直接影响",
+          "en": "These factors have direct implications for investors"
+        }
+      ],
+      "tags": [
+        "data centers",
+        "midterms",
+        "hyperscaler CapEx",
+        "political risk",
+        "infrastructure"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:0a4EtCtXw4o",
+      "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
+      "title_zh": "Anthropic IPO 认购需求数倍超额",
+      "url": "https://www.youtube.com/watch?v=0a4EtCtXw4o",
+      "published_at": "2026-11-11T21:26:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据知情人士透露，Anthropic PBC 的首次公开募股（IPO）已获得数倍于可认购份额的订单，需求正在加速，有望成为史上规模最大的 IPO 之一。",
+      "summary_en": "Anthropic PBC's initial public offering has drawn multiple times the orders for the shares available, according to people familiar with the matter, with demand accelerating for what could be the biggest first-time share sale ever.",
+      "detail_zh": "据知情人士透露，Anthropic PBC 的首次公开募股（IPO）已获得数倍于可认购份额的订单。报道称，市场对这笔潜在史上最大规模 IPO 之一的需求正在加速。彭博的 Sridhar Natarajan 就此进行了讨论。原文未披露具体发行规模、估值、定价区间或时间表等细节。",
+      "detail_en": "Anthropic PBC's initial public offering has drawn multiple times the orders for the shares available, according to people familiar with the matter. The report said demand is accelerating for what could be the biggest first-time share sale ever. Bloomberg's Sridhar Natarajan joined to discuss. The original text did not disclose specific deal size, valuation, price range, or timetable.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic IPO 认购订单数倍于可认购份额",
+          "en": "Anthropic IPO orders are multiple times the shares available"
+        },
+        {
+          "zh": "需求正在加速，可能成为史上最大 IPO 之一",
+          "en": "Demand is accelerating for what could be the biggest IPO ever"
+        },
+        {
+          "zh": "信息来自知情人士，具体发行细节未披露",
+          "en": "Information comes from people familiar; deal details were not disclosed"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "demand"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:o2n8HG_Je1M",
+      "title": "Observing Distortions in the AI Market: Sixth Street's Alan Waxman",
+      "title_zh": "Sixth Street CEO 谈 AI 投资周期、信贷市场与体育投资",
+      "url": "https://www.youtube.com/watch?v=o2n8HG_Je1M",
+      "published_at": "2026-11-11T21:26:22+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在 Bloomberg Deals 节目中，Sixth Street 联合创始人、CEO 兼联席 CIO Alan Waxman 与 Dani Burger 讨论了 AI 投资周期、信贷市场和体育投资。原文未提供具体观点或数据。",
+      "summary_en": "On Bloomberg Deals, Sixth Street co-founder, CEO and co-CIO Alan Waxman spoke with Dani Burger about the AI investment cycle, credit markets and sports investments. No specific views or data were provided in the source.",
+      "detail_zh": "该内容仅为 Bloomberg Deals 节目的简介，指出 Sixth Street 联合创始人、CEO 兼联席 CIO Alan Waxman 与主持人 Dani Burger 讨论了三个主题：AI 投资周期、信贷市场以及体育投资。原文没有披露任何具体观点、数字、交易细节或市场判断，因此无法提炼更深入的投资洞见。",
+      "detail_en": "The source is only a brief description of a Bloomberg Deals episode, noting that Sixth Street co-founder, CEO and co-CIO Alan Waxman spoke with host Dani Burger about three topics: the AI investment cycle, credit markets and sports investments. No specific views, figures, transaction details or market judgments were disclosed, so no deeper investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Sixth Street 联合创始人、CEO 兼联席 CIO Alan Waxman 做客 Bloomberg Deals。",
+          "en": "Sixth Street co-founder, CEO and co-CIO Alan Waxman appeared on Bloomberg Deals."
+        },
+        {
+          "zh": "讨论主题包括 AI 投资周期、信贷市场和体育投资。",
+          "en": "Topics discussed included the AI investment cycle, credit markets and sports investments."
+        },
+        {
+          "zh": "原文未提供任何具体观点、数据或交易细节。",
+          "en": "The source provided no specific views, data or transaction details."
+        }
+      ],
+      "tags": [
+        "AI investment cycle",
+        "credit markets",
+        "sports investments",
+        "Sixth Street"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:G9T83rWT8ug",
+      "title": "Wall St Races for Megadeals as Countdown Begins on Trump Era",
+      "title_zh": "特朗普重返白宫改变并购政治格局，企业重启“梦想交易”",
+      "url": "https://www.youtube.com/watch?v=G9T83rWT8ug",
+      "published_at": "2026-11-11T21:26:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博的Ryan Gould在“Bloomberg Deals”节目中表示，特朗普重返白宫改变了并购的政治算计，重新点燃了企业对曾难以实现的“梦想交易”的渴望。美国企业界正面临时间压力。",
+      "summary_en": "Bloomberg's Ryan Gould said on \"Bloomberg Deals\" that President Trump's return to the White House has changed the political calculus around M&A, reviving companies' desire for dream deals that had become difficult to pull off. Corporate America is now on the clock.",
+      "detail_zh": "在“Bloomberg Deals”节目中，彭博的Ryan Gould向Dani Burger表示，特朗普重返白宫改变了围绕并购的政治算计。这一变化重新点燃了企业对于“梦想交易”的渴望，而这类交易此前曾变得难以实现。如今，美国企业界正面临时间压力（on the clock）。原文未提供具体交易案例、行业细节或时间表。",
+      "detail_en": "On \"Bloomberg Deals,\" Bloomberg's Ryan Gould told Dani Burger that President Trump's return to the White House changed the political calculus around mergers and acquisitions. This shift has revived companies' desire for dream deals that had become difficult to pull off. Now, corporate America is on the clock. The original text does not provide specific deal examples, sector details, or a timeline.",
+      "conclusion_zh": "特朗普重返白宫可能为并购活动松绑，美国企业正抓紧窗口期推进此前受阻的交易。",
+      "conclusion_en": "Trump's return to the White House may loosen constraints on M&A, and corporate America is rushing to advance previously stalled deals within the window.",
+      "key_points": [
+        {
+          "zh": "特朗普重返白宫改变了并购的政治算计",
+          "en": "Trump's return to the White House changed the political calculus around M&A"
+        },
+        {
+          "zh": "企业重新燃起对曾难以实现的“梦想交易”的渴望",
+          "en": "Companies are reviving their desire for dream deals that had become difficult to pull off"
+        },
+        {
+          "zh": "美国企业界正面临时间压力",
+          "en": "Corporate America is on the clock"
+        }
+      ],
+      "tags": [
+        "M&A",
+        "Trump",
+        "deal-making",
+        "policy"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:n9OYNkdpAKY",
+      "title": "Expect ‘Dislocations’ in AI Investment Cycle: Waxman",
+      "title_zh": "Sixth Street CEO 谈 AI 市场错位",
+      "url": "https://www.youtube.com/watch?v=n9OYNkdpAKY",
+      "published_at": "2026-11-11T21:26:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Sixth Street 联合创始人兼 CEO Alan Waxman 在 Bloomberg Deals 节目中与 Dani Burger 讨论了他在 AI 市场中看到的错位现象。",
+      "summary_en": "Alan Waxman, CEO and co-founder of Sixth Street, discussed the dislocations he is seeing in the AI market with Dani Burger on \"Bloomberg Deals.\"",
+      "detail_zh": "Sixth Street 联合创始人兼首席执行官 Alan Waxman 做客 Bloomberg Deals 节目，与主持人 Dani Burger 进行对话。对话的核心主题是 Waxman 在人工智能（AI）市场中所观察到的错位（dislocations）。原文未披露错位的具体表现、涉及领域、规模或投资方向等细节。",
+      "detail_en": "Alan Waxman, CEO and co-founder of Sixth Street, joined Dani Burger on \"Bloomberg Deals.\" The conversation centered on the dislocations Waxman is seeing in the AI market. The source does not disclose specific details about the nature, scope, or investment implications of these dislocations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Sixth Street CEO Alan Waxman 在 Bloomberg Deals 节目中讨论了 AI 市场的错位。",
+          "en": "Sixth Street CEO Alan Waxman discussed dislocations in the AI market on Bloomberg Deals."
+        },
+        {
+          "zh": "原文未提供错位的具体细节或投资观点。",
+          "en": "The source provides no specific details or investment views on the dislocations."
+        }
+      ],
+      "tags": [
+        "AI market",
+        "dislocations",
+        "Sixth Street",
+        "Bloomberg Deals"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fmdYTI1yyvc",
+      "title": "Nikki Haley Says She's Not Running for President in 2028",
+      "title_zh": "黑利表示不会参加2028年总统竞选",
+      "url": "https://www.youtube.com/watch?v=fmdYTI1yyvc",
+      "published_at": "2026-11-11T21:23:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前南卡罗来纳州州长妮基·黑利表示，她不会参加2028年总统竞选，原因是她需要看到共和党内的团结，且党内成员需要展现出愿意战斗的姿态。黑利曾在2024年竞选白宫但未能获得共和党提名。",
+      "summary_en": "Former South Carolina Governor Nikki Haley said she will not run for president in 2028 because she needs to see unity in the Republican Party and members need to show they are willing to fight. Haley ran for the White House in 2024 but failed to secure the Republican nomination.",
+      "detail_zh": "前南卡罗来纳州州长妮基·黑利在Bloomberg Television的《Balance of Power》节目中表示，她不会参加2028年总统竞选。她给出的理由是，她需要看到共和党内的团结，并且党内成员需要展现出愿意战斗的姿态。黑利曾在2024年竞选白宫，但未能获得共和党提名。",
+      "detail_en": "Former South Carolina Governor Nikki Haley said on Bloomberg Television's \"Balance of Power\" that she will not run for president in 2028. She cited the need to see unity in the Republican Party and for members to show they are willing to fight. Haley ran for the White House in 2024 but failed to secure the Republican nomination.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黑利明确表示不会参加2028年总统竞选。",
+          "en": "Haley explicitly stated she will not run for president in 2028."
+        },
+        {
+          "zh": "她给出的理由是需看到共和党团结，且成员需展现战斗意愿。",
+          "en": "She cited the need to see Republican Party unity and for members to show willingness to fight."
+        },
+        {
+          "zh": "黑利曾在2024年竞选总统但未能获得共和党提名。",
+          "en": "Haley ran for president in 2024 but failed to secure the Republican nomination."
+        }
+      ],
+      "tags": [
+        "Nikki Haley",
+        "2028 election",
+        "Republican Party",
+        "US politics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:IzRH9CA6Kfk",
       "title": "Huang’s Trump Ties Face Scrutiny",
@@ -18053,243 +18559,6 @@
         "GOP",
         "election",
         "political direction"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:1RG2WRprnzc",
-      "title": "Democrats Sweep in Midterm GOP Implosion",
-      "title_zh": "民主党横扫国会，分裂政府或引发债市动荡",
-      "url": "https://www.youtube.com/watch?v=1RG2WRprnzc",
-      "published_at": "2026-11-04T22:07:22+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党在中期选举中横扫国会，生活成本与伊朗战争引发对特朗普及其政党的强烈反弹。华尔街策略师警告，分裂政府可能为明年债务上限之争埋下伏笔，扰乱债券市场。得州数据中心开发商面临新当选民主党州长的最坏情景。",
-      "summary_en": "Democrats swept Congress in the midterm elections, driven by outrage over the cost of living and the war in Iran, delivering a rebuke to President Trump and his party. Wall Street strategists warn that divided government could disrupt the bond market next year by setting up a bruising debt ceiling fight. Data center developers in Texas face their worst-case scenario under a newly elected Democratic governor.",
-      "detail_zh": "民主党在周二的中期选举中横扫国会，生活成本高企与伊朗战争引发的愤怒导致选民对特朗普总统及其政党进行强烈谴责，而就在两年前特朗普还曾强势重返白宫。得克萨斯州的数据中心开发商在新当选的民主党州长治下面临最坏情景。华尔街策略师警告，分裂政府的回归可能为明年债务上限的激烈争斗埋下伏笔，从而扰乱债券市场。负责任联邦预算委员会的Maya MacGuineas就此发表了看法。此外，预测市场行业在选举夜表现强劲，Kalshi研究员Nicole Kagan分享了相关见解。节目还讨论了市场动态：股市因油价暴跌而飙升，大型科技股反弹而半导体股下滑，以及CVS、麦当劳等个股走势。",
-      "detail_en": "Democrats swept into power in Congress on Tuesday, with outrage over the cost of living and the war in Iran leading to a thundering rebuke of President Donald Trump and his party, just two years after his dominant White House comeback. Data center developers in Texas are facing their worst-case scenario under a newly elected Democratic governor. Wall Street strategists are warning that the return of divided government could disrupt the bond market next year by setting the stage for a bruising fight over the debt ceiling. Maya MacGuineas of the Committee for a Responsible Federal Budget weighed in. Plus, the prediction market industry had a strong election night performance, with insights from Nicole Kagan, Researcher at Kalshi. The program also covered market moves: stocks surged as oil plunged, Big Tech rallied while semiconductors slid, and stock movers included CVS and McDonald's.",
-      "conclusion_zh": "分裂政府下债务上限博弈可能成为明年债市的主要风险点，同时数据中心面临政治 backlash，投资者需关注政策不确定性对相关板块的影响。",
-      "conclusion_en": "The debt ceiling fight under divided government could be a key risk for the bond market next year, while data centers face political backlash; investors should watch policy uncertainty's impact on related sectors.",
-      "key_points": [
-        {
-          "zh": "民主党横扫国会，生活成本与伊朗战争成为选民反弹的主因。",
-          "en": "Democrats swept Congress, with cost of living and the war in Iran driving voter backlash."
-        },
-        {
-          "zh": "华尔街策略师警告分裂政府可能导致明年债务上限之争，扰乱债券市场。",
-          "en": "Wall Street strategists warn divided government could disrupt the bond market next year via a debt ceiling fight."
-        },
-        {
-          "zh": "得州数据中心开发商在新当选民主党州长下面临最坏情景。",
-          "en": "Texas data center developers face worst-case scenario under newly elected Democratic governor."
-        },
-        {
-          "zh": "预测市场行业在选举夜表现强劲，Kalshi研究员分享观察。",
-          "en": "Prediction market industry had a strong election night performance, with Kalshi researcher sharing insights."
-        },
-        {
-          "zh": "市场动态：股市因油价暴跌而飙升，大型科技股反弹，半导体股下滑。",
-          "en": "Market moves: stocks surged as oil plunged, Big Tech rallied, semiconductors slid."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "divided government",
-        "debt ceiling",
-        "data centers",
-        "prediction markets"
-      ],
-      "tickers": [
-        "CVS",
-        "MCD"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:LN77M1CTkFM",
-      "title": "FULL SHOW: Balance of Power: Early Edition 11/4/2026",
-      "title_zh": "民主党中期选举大胜，股市上涨油价下跌",
-      "url": "https://www.youtube.com/watch?v=LN77M1CTkFM",
-      "published_at": "2026-11-04T21:55:33+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党在中期选举中横扫国会，股市应声上涨而油价大跌。节目讨论了选举结果对市场、伊朗战争、共和党未来及2028年选情的影响。",
-      "summary_en": "Democrats swept into power in Congress in the midterm elections, prompting a stock market rally and a plunge in oil prices. The program discussed the implications for markets, the Iran war, the future of the Republican Party, and the 2028 election landscape.",
-      "detail_zh": "在Bloomberg的Balance of Power节目中，主持人Joe Mathieu和Kailey Leinz讨论了民主党在国会中期选举中的大胜。节目提到市场对此反应积极，股市上涨而油价下跌。章节标题显示，民主党翻转了深红州，德克萨斯州变蓝，阿拉斯加和密西西比州的选情仍难分胜负。嘉宾包括多位民主党议员和政治分析师，他们分析了民主党获胜的原因、共和党的历史性失败以及MAGA运动的未来。此外，节目还探讨了伊朗战争、可负担性、关税、政府改革、AI和数据中心监管等议题，以及拉丁裔和年轻选民转向民主党的趋势。",
-      "detail_en": "On Bloomberg's Balance of Power, hosts Joe Mathieu and Kailey Leinz discussed the Democrats' sweeping victory in the congressional midterm elections. The program noted that markets reacted positively, with stocks rallying and oil prices plunging. Chapter titles indicate that Democrats flipped deep-red states, Texas turned blue, and Alaska and Mississippi remained too close to call. Guests included several Democratic lawmakers and political analysts who analyzed the reasons for the Democratic win, the historic Republican losses, and the future of the MAGA movement. Additionally, the program explored issues such as the Iran war, affordability, tariffs, government reform, AI and data center regulation, as well as the shift of Latino and young voters toward the Democrats.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党在中期选举中横扫国会，股市上涨而油价下跌。",
-          "en": "Democrats swept Congress in the midterm elections, stocks rallied and oil prices fell."
-        },
-        {
-          "zh": "民主党翻转多个深红州，德克萨斯州变蓝，阿拉斯加和密西西比州选情胶着。",
-          "en": "Democrats flipped several deep-red states, Texas turned blue, and Alaska and Mississippi remained too close to call."
-        },
-        {
-          "zh": "节目讨论了伊朗战争、可负担性、关税及AI监管等议题。",
-          "en": "The program discussed issues including the Iran war, affordability, tariffs, and AI regulation."
-        },
-        {
-          "zh": "拉丁裔和年轻选民转向民主党。",
-          "en": "Latino and young voters shifted toward Democrats."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "market reaction",
-        "oil prices",
-        "Iran war",
-        "2028 election"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:75SWUaCAeuQ",
-      "title": "John Waldron on GDP Growth, AI, and the M&A Outlook",
-      "title_zh": "高盛总裁Waldron：美国经济具韧性，M&A将创纪录，但通胀与地缘政治令谨慎情绪升温",
-      "url": "https://www.youtube.com/watch?v=75SWUaCAeuQ",
-      "published_at": "2026-11-04T21:55:02+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "高盛总裁兼COO John Waldron表示，企业领袖与投资者整体仍偏乐观，但较6-12个月前更谨慎，主因通胀更高、利率更高、资本成本上升及地缘政治（如伊朗局势）不确定性。美国名义增长有望超6%、实际增长约2.5%，消费者与企业需求强劲；企业存在明显的“规模偏好”，推动大规模并购，预计今年企业M&A增长30%-35%，并创纪录。",
-      "summary_en": "Goldman Sachs President and COO John Waldron said business leaders and investors remain generally optimistic but more cautious than six to 12 months ago, citing higher inflation, higher rates, a higher cost of capital and geopolitical uncertainty including the Iran situation. He sees US nominal growth above 6% and real growth around 2.5%, with resilient consumer and enterprise demand; a pronounced bias for scale is driving large corporate M&A, which he expects to rise 30%-35% this year and set a record.",
-      "detail_zh": "Waldron在访谈中称，当前环境与一年前相比是“通胀更高、利率更高”，经济中的资本成本与经营成本均上升；但名义增长很好，多数公司终端需求强劲、盈利仍强，因此他仍站在乐观一边，只是在2027年规划上更关注价格与资本成本的持续影响。他指出今年是“非凡的资本募集年”，AI是重要主题，美国经济名义增长将超过6%，消费者仍非常有韧性，消费端、批发端与企业端市场均强劲。他观察到明显的“规模偏好”：大公司吸引更多资本、资本回报更好、市场估值更优，也更有能力投入昂贵的AI算力，这推动大规模企业并购；CEO只有在对自己业务有信心时才会做并购，因此并购是CEO信心的良好指标。宏观展望上，高盛具建设性，预测美国实际增长约2.5%（上下），若条件配合可能达3%，并认为通胀将开始回落。区域上，亚洲经济体非常强劲，日本出现更多增长、贷款需求和收益率曲线，并有资产管理推动释放存款；欧洲情绪最差，受政治、地缘、能源安全、乌克兰与伊朗战争及中国出口机器（尤其汽车领域低价过剩供给）冲击，但实际表现略好于叙事。并购方面，他预计今年企业M&A增长30%-35%，在原本强劲基数上实现健康增长，并称今年应创纪录，积压订单与项目管道非常强劲，后续仍有大量胃口。",
-      "detail_en": "Waldron said the environment versus a year ago features higher inflation and higher rates, raising both the cost of capital and the cost of doing business; but nominal growth is very good, most companies see strong end demand and earnings remain strong, so he stays on the side of optimism while flagging more concern in 2027 planning about the continuing impact of higher prices and capital costs. He called it an extraordinary capital-raising year with AI in the frame, said US nominal growth should exceed 6%, and described the consumer as very resilient with strong demand across consumer, wholesale and enterprise end markets. He sees a big bias for scale: larger companies attract more capital, generate better returns, are treated better in the marketplace and can spend into the expensive AI compute theme, driving large corporate M&A; CEOs only do M&A when confident in their own business, making it a good confidence indicator. On the economy, Goldman is constructive, forecasting about 2.5% US real growth (plus or minus), possibly 3% if things break a certain way, and expects inflation to migrate down. Regionally, Asia economies are very strong, Japan is having a real moment with more growth, loan demand, a yield curve and an asset-management push to unlock deposits; Europe has the worst sentiment, hit by politics, geopolitics, lack of energy security, the wars in Ukraine and Iran and the Chinese export machine, particularly in autos, though activity is a little better than the narrative. On M&A, he expects corporate M&A up 30%-35% this year, a record year on an already strong base, with very strong backlogs and pipelines and continued appetite ahead.",
-      "conclusion_zh": "高盛视角下，美国名义增长与企业盈利仍支撑风险偏好，大规模并购和AI资本开支是主线；但通胀、利率与地缘政治使资本成本上升，投资者需关注2027年规划中价格与融资环境对企业决策的边际拖累。",
-      "conclusion_en": "From Goldman's view, US nominal growth and earnings still support risk appetite, with large M&A and AI capex as key themes; but higher inflation, rates and geopolitics raise the cost of capital, and investors should watch how price and financing pressures weigh on corporate decisions in 2027 planning.",
-      "key_points": [
-        {
-          "zh": "客户情绪整体乐观但边际更谨慎：通胀更高、利率更高、资本成本上升，地缘政治（伊朗局势）增添不确定性。",
-          "en": "Client sentiment is generally optimistic but more cautious at the margin: higher inflation, higher rates, a higher cost of capital and geopolitical uncertainty including Iran."
-        },
-        {
-          "zh": "美国名义增长预计超6%、实际增长约2.5%，消费者与企业需求强劲，高盛对经济持建设性看法。",
-          "en": "US nominal growth is seen above 6% with real growth around 2.5%; consumer and enterprise demand are strong and Goldman is constructive on the economy."
-        },
-        {
-          "zh": "企业存在明显“规模偏好”，大公司更易获得资本并投入AI算力，推动大规模并购。",
-          "en": "There is a pronounced bias for scale; larger companies attract capital and can spend into AI compute, driving large M&A."
-        },
-        {
-          "zh": "预计今年企业M&A增长30%-35%并创纪录，积压订单与项目管道强劲。",
-          "en": "Corporate M&A is expected to rise 30%-35% this year and set a record, with strong backlogs and pipelines."
-        },
-        {
-          "zh": "区域分化：亚洲（尤其日本）情绪积极，欧洲情绪最差但实际略好于叙事。",
-          "en": "Regional divergence: Asia, especially Japan, is buoyant, while Europe has the worst sentiment though activity is a little better than the narrative."
-        }
-      ],
-      "tags": [
-        "M&A",
-        "inflation",
-        "rates",
-        "AI capex",
-        "regional divergence"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:SabN716TlFo",
-      "title": "Midterm Election Results: Three Key Takeaways",
-      "title_zh": "中期选举民主党超预期，但政策影响有限",
-      "url": "https://www.youtube.com/watch?v=SabN716TlFo",
-      "published_at": "2026-11-04T21:46:44+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "摩根士丹利美国公共政策研究主管Ariana Salvatore指出，民主党在中期选举中表现强于预期，但政策层面的实质变化有限。对AI交易而言，需区分州级政治约束与国家基础设施需求；金融与并购领域将面临更多国会监督，但监管机构仍主导审批；财政方面，支出削减延迟可能带来温和增长上行风险。",
-      "summary_en": "Morgan Stanley's head of US public policy research, Ariana Salvatore, notes that Democrats outperformed expectations in the midterms, but substantive policy changes are limited. For the AI trade, distinguish state-level political constraints from national infrastructure needs; financials and M&A will see more congressional oversight but agencies still drive approvals; fiscal delays in spending cuts could pose modest upside risk to growth.",
-      "detail_zh": "摩根士丹利美国公共政策研究主管Ariana Salvatore在11月4日的报告中表示，民主党在中期选举中的表现远超预期，在传统共和党地区扩大了优势。市场即时反应呈现风险规避：美债收益率下行、美元走弱、股指期货下跌。德克萨斯州州长翻蓝引发了对数据中心开发限制的担忧，可能影响AI投资逻辑，但新州长面临共和党控制的州议会，限制了税收政策等立法变革的空间，不过行政和监管渠道的风险仍存。其次，选举未改变放松监管等行政政策方向，并购活动预计明年初提前，国会监督增加但监管机构仍主导审批。第三，立法影响有限，最重大的潜在变化是SNAP和Medicaid支出削减实施的延迟，可能对增长预测带来温和上行风险。未来两年政治噪音多于实质立法变化，总统在关税、地缘政治、放松监管和出口管制方面的行政权力仍是市场关键。",
-      "detail_en": "Morgan Stanley's head of US public policy research, Ariana Salvatore, said in a November 4 note that Democrats delivered a much stronger result than anticipated, expanding margins in traditionally Republican areas. The immediate market reaction was risk-off: Treasury yields moved lower, the dollar weakened, and equity futures declined. The Texas governor's flip raised concerns about potential restrictions on data center development, which could affect the AI investment thesis, but the incoming Democratic governor would still face a Republican-controlled state legislature, limiting scope for legislative changes such as tax policy, though executive and regulatory risks remain. Second, the election does not fundamentally change the direction of executive policy areas including deregulation; M&A activity is expected to pull forward early next year, with greater congressional oversight but agencies still driving approvals. Third, legislative implications are limited; the most consequential potential change is a delay in SNAP and Medicaid spending reductions, which could present modest upside risk to growth forecasts. The next two years will be characterized by more political noise than substantive legislative change, and the president's executive authority on tariffs, geopolitics, deregulation, and export controls remains key for markets.",
-      "conclusion_zh": "投资者应区分政治格局的重大变化与最终驱动市场结果的政策有限变化，关注AI领域的州级政治约束与国家基础设施需求之间的张力，以及并购监管的国会监督增加但审批路径未变。",
-      "conclusion_en": "Investors should distinguish between a meaningful change in the political landscape and much more limited change in the policies that ultimately drive market outcomes, focusing on the tension between state-level political constraints and national infrastructure needs for AI, and on increased congressional oversight but unchanged approval paths for M&A.",
-      "key_points": [
-        {
-          "zh": "民主党中期选举表现超预期，市场即时反应为风险规避：美债收益率下行、美元走弱、股指期货下跌。",
-          "en": "Democrats outperformed expectations in the midterms; immediate market reaction was risk-off: Treasury yields lower, dollar weaker, equity futures declined."
-        },
-        {
-          "zh": "德州州长翻蓝引发数据中心开发限制担忧，但共和党控制的州议会限制了立法变革空间，行政和监管渠道风险仍存。",
-          "en": "Texas governor's flip raises concerns about data center restrictions, but a Republican-controlled legislature limits legislative changes; executive and regulatory risks remain."
-        },
-        {
-          "zh": "选举未改变放松监管方向，并购活动预计明年初提前，国会监督增加但监管机构仍主导审批。",
-          "en": "Election does not change deregulation direction; M&A expected to pull forward early next year; more congressional oversight but agencies still drive approvals."
-        },
-        {
-          "zh": "立法影响有限，最重大潜在变化是SNAP和Medicaid支出削减延迟，可能带来温和增长上行风险。",
-          "en": "Limited legislative impact; most consequential potential change is delay in SNAP and Medicaid spending cuts, posing modest upside risk to growth."
-        },
-        {
-          "zh": "未来两年政治噪音多于实质立法变化，总统在关税、地缘政治、放松监管和出口管制方面的行政权力仍是市场关键。",
-          "en": "Next two years will feature more political noise than substantive legislative change; presidential executive authority on tariffs, geopolitics, deregulation, and export controls remains key for markets."
-        }
-      ],
-      "tags": [
-        "US midterms",
-        "policy outlook",
-        "AI trade",
-        "M&A",
-        "fiscal policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:WtAFWrhzxqw",
-      "title": "Big Tech Rallies as Election Results Reshape AI Spending Outlook | Closing Bell",
-      "title_zh": "彭博电视美股收盘节目预告",
-      "url": "https://www.youtube.com/watch?v=WtAFWrhzxqw",
-      "published_at": "2026-11-04T21:21:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅为彭博电视美股收盘节目的介绍与社交媒体链接，未包含任何市场数据、观点或事件信息。",
-      "summary_en": "The original text is merely a program description and social media links for Bloomberg Television's U.S. market close coverage, containing no market data, opinions, or event information.",
-      "detail_zh": "原文是彭博电视、彭博电台和YouTube对美股收盘的跨平台报道介绍，提及主持人Romaine Bostick、Vonnie Quinn、Carol Massar和Tim Stenovec。内容全部为节目推广和社交媒体链接，没有任何关于市场走势、个股、宏观经济或投资观点的实质信息。",
-      "detail_en": "The original text is an introduction to Bloomberg Television, Bloomberg Radio, and YouTube's cross-platform coverage of the U.S. market close, mentioning hosts Romaine Bostick, Vonnie Quinn, Carol Massar, and Tim Stenovec. The content consists entirely of program promotion and social media links, with no substantive information on market movements, individual stocks, macroeconomics, or investment views.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "原文为彭博电视美股收盘节目的介绍",
-          "en": "The original text is an introduction to Bloomberg Television's U.S. market close program."
-        },
-        {
-          "zh": "提及主持人Romaine Bostick、Vonnie Quinn、Carol Massar和Tim Stenovec",
-          "en": "Mentions hosts Romaine Bostick, Vonnie Quinn, Carol Massar, and Tim Stenovec."
-        },
-        {
-          "zh": "内容包含社交媒体链接，无市场数据或观点",
-          "en": "Content includes social media links, with no market data or opinions."
-        }
-      ],
-      "tags": [
-        "bloomberg",
-        "market close",
-        "tv program"
       ],
       "tickers": [],
       "sentiment": "neutral"
