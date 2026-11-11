@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-11-11T18:14:14.537120+00:00",
+  "generated_at": "2026-11-11T19:11:18.964143+00:00",
   "insights": [
+    {
+      "guid": "yt:V8blwWSbl4A",
+      "title": "Rep. Krishnamoorthi: Nvidia CEO faces possible congressional subpoena",
+      "title_zh": "美国议员称可能传唤英伟达CEO黄仁勋",
+      "url": "https://www.youtube.com/watch?v=V8blwWSbl4A",
+      "published_at": "2026-11-11T18:20:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "伊利诺伊州民主党众议员拉贾·克里希纳穆尔蒂表示，若英伟达CEO黄仁勋不自愿出席涉及中国与英伟达芯片国家安全关切的闭门简报会，国会可能发出传票。",
+      "summary_en": "Rep. Raja Krishnamoorthi (D-IL) said Congress may subpoena Nvidia CEO Jensen Huang if he does not voluntarily appear for a closed-door briefing on national security concerns involving China and Nvidia chips.",
+      "detail_zh": "伊利诺伊州民主党众议员拉贾·克里希纳穆尔蒂表示，国会可能传唤英伟达首席执行官黄仁勋。此前，黄仁勋被要求就涉及中国与英伟达芯片的国家安全关切出席闭门简报会。克里希纳穆尔蒂称，如果黄仁勋不自愿出席，国会将考虑发出传票。该表态凸显美国立法机构对英伟达对华芯片业务的审查压力。",
+      "detail_en": "Rep. Raja Krishnamoorthi (D-IL) said Congress may subpoena Nvidia CEO Jensen Huang. Huang has been asked to appear for a closed-door briefing over national security concerns involving China and Nvidia chips. Krishnamoorthi said that if Huang does not appear voluntarily, Congress would consider issuing a subpoena. The statement highlights legislative scrutiny of Nvidia's China chip business.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "众议员克里希纳穆尔蒂称，若黄仁勋不自愿出席闭门简报会，国会可能发出传票。",
+          "en": "Rep. Krishnamoorthi said Congress may subpoena Huang if he does not voluntarily appear for a closed-door briefing."
+        },
+        {
+          "zh": "简报会涉及中国与英伟达芯片的国家安全关切。",
+          "en": "The briefing concerns national security issues involving China and Nvidia chips."
+        },
+        {
+          "zh": "黄仁勋被要求出席的是闭门简报会，而非公开听证。",
+          "en": "Huang was asked to appear for a closed-door briefing, not a public hearing."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Congress",
+        "China",
+        "national security",
+        "subpoena"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:UBt8VTBRKEQ",
+      "title": "Clearlake’s Feliciano on the highs and lows of co-owning Chelsea FC",
+      "title_zh": "Clearlake联合创始人谈切尔西俱乐部投资的“煎熬”",
+      "url": "https://www.youtube.com/watch?v=UBt8VTBRKEQ",
+      "published_at": "2026-11-11T18:07:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Clearlake Capital Group联合创始人José E. Feliciano公开谈论共同拥有切尔西足球俱乐部的高潮与低谷，以及投资世界最大足球俱乐部之一所带来的“煎熬”。",
+      "summary_en": "Clearlake Capital Group Co-Founder José E. Feliciano opens up about the highs and lows of co-owning Chelsea Football Club, and the “suffering” that comes with investing in one of the world’s biggest football clubs.",
+      "detail_zh": "Clearlake Capital Group联合创始人José E. Feliciano公开讨论了共同拥有切尔西足球俱乐部的高潮与低谷。他提到，投资这家世界最大的足球俱乐部之一伴随着“煎熬”。原文未提供更多具体细节、数字或投资逻辑。",
+      "detail_en": "Clearlake Capital Group Co-Founder José E. Feliciano openly discussed the highs and lows of co-owning Chelsea Football Club. He mentioned that investing in one of the world's biggest football clubs comes with \"suffering.\" The original text does not provide further specific details, numbers, or investment logic.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Clearlake Capital Group联合创始人José E. Feliciano谈论共同拥有切尔西足球俱乐部的经历。",
+          "en": "Clearlake Capital Group Co-Founder José E. Feliciano discussed the experience of co-owning Chelsea Football Club."
+        },
+        {
+          "zh": "Feliciano提到投资世界最大足球俱乐部之一伴随着“煎熬”。",
+          "en": "Feliciano mentioned that investing in one of the world's biggest football clubs comes with \"suffering.\""
+        }
+      ],
+      "tags": [
+        "Chelsea FC",
+        "private equity",
+        "sports investment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:VOFXxYkEhfc",
       "title": "Nvidia Scandal Raises China Stakes",
@@ -18119,172 +18197,6 @@
         "impeachment",
         "Democrats",
         "Congress",
-        "politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:7xJyT03KZqU",
-      "title": "Oil Market Starting to Embed Geopolitical Risk, Says Rapidan’s McNally",
-      "title_zh": "Rapidan创始人：中期选举后美伊军事升级风险高，成品油市场仍偏紧",
-      "url": "https://www.youtube.com/watch?v=7xJyT03KZqU",
-      "published_at": "2026-11-04T19:03:06+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Rapidan Energy Group创始人Bob McNally预计，中期选举后美伊军事升级是最可能的结果。尽管石油流量增加，他认为成品油市场仍存在紧张风险。",
-      "summary_en": "Bob McNally, founder of Rapidan Energy Group, expects military escalation between the US and Iran to be the most likely outcome after the midterm elections. Despite increased oil flows, he sees continued risk of tightness in the refined product market.",
-      "detail_zh": "Rapidan Energy Group创始人兼总裁Bob McNally在“Bloomberg Surveillance”节目中表示，中期选举后美国与伊朗之间军事升级是最可能的结果。他还指出，尽管石油流量有所增加，成品油市场仍面临紧张风险。",
-      "detail_en": "Bob McNally, founder and president of Rapidan Energy Group, said on \"Bloomberg Surveillance\" that military escalation between the US and Iran is the most likely outcome following the midterm elections. He also noted that risks remain for tightness in the refined product market despite increased oil flows.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中期选举后美伊军事升级是最可能的结果",
-          "en": "Military escalation between the US and Iran is the most likely outcome after the midterm elections"
-        },
-        {
-          "zh": "尽管石油流量增加，成品油市场仍存在紧张风险",
-          "en": "Risk remains for tightness in the refined product market despite increased oil flows"
-        }
-      ],
-      "tags": [
-        "US-Iran",
-        "oil",
-        "refined products",
-        "midterm elections"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:IQC_Q9NMovs",
-      "title": "As the Democrats prepare to gain control of Congress, what will be their legislative agenda?",
-      "title_zh": "中期选举后民主党聚焦生活成本与问责，或加强企业监管",
-      "url": "https://www.youtube.com/watch?v=IQC_Q9NMovs",
-      "published_at": "2026-11-04T19:00:09+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "中期选举民主党大胜后，立法议程将聚焦可负担性与问责，优先处理医疗补助、伊朗战争及关税权力等议题，并加强监督调查。可能的下任众议长杰弗里斯称资本主义对工薪阶层失灵，下任参院多数党领袖舒默则强调追查腐败，暗示企业可能成为监管目标。",
-      "summary_en": "After a big midterm win, Democrats will focus their legislative agenda on affordability and accountability, prioritizing Medicaid, the Iran war, and tariff authority, along with oversight and investigations. Likely next House Speaker Jeffries said capitalism is broken for working-class Americans, while likely next Senate Majority Leader Schumer said 'you've got to go after the corruption,' signaling potential corporate scrutiny.",
-      "detail_zh": "中期选举结果对民主党而言是一场大胜，焦点现已转向立法议程。党派领导人表示重点将有两方面：可负担性和问责。民主党希望首先聚焦钱包问题，例如逆转对医疗补助的削减、结束伊朗战争，以及收回国会对总统关税的部分权力。同时，监督和调查也将是重点。本文作者今早与可能的下任众议院议长哈基姆·杰弗里斯交谈，询问私营企业是否会成为民主党的焦点。杰弗里斯表示，相关对话需要在未来几周进行，他们尚未决定具体目标是谁。但他随后表示：“显然，对美国人民来说事情并不顺利。资本主义在如此多工薪阶层和中产阶级美国人所经历的方式上是破碎的。我们必须确保建立一个为日常美国人服务的经济，一个自由市场经济。”作者后来向可能的下任参议院多数党领袖查克·舒默提出同样的问题，他简单地说：“你必须追查腐败。”",
-      "detail_en": "The midterms turned out to be a huge win for the Democrats, and focus is now shifting to the legislative agenda. Party leaders say the focus will be twofold: affordability and accountability. Democrats want to focus first on pocketbook issues, such as reversing cuts to Medicaid, ending the war in Iran, and clawing back some congressional authority over the president's tariffs. There will also be a big focus on oversight and investigations. The author spoke with the likely next House Speaker, Hakeem Jeffries, this morning and asked whether private companies would be a focus for Democrats. Jeffries said those conversations need to happen over the coming weeks and they haven't yet decided exactly who the target will be. But he then said: 'Clearly, things aren't going right for the American people. Capitalism is broken in the way in which it is being experienced by so many working-class Americans and middle-class Americans. We've got to make sure we build an economy, a free market economy that works for everyday Americans.' The author later asked Chuck Schumer, the likely next Senate Majority Leader, the same question, and he said simply, 'You've got to go after the corruption.'",
-      "conclusion_zh": "民主党控制国会后可能加强企业监管与调查，投资者需关注政策不确定性对美股板块的影响。",
-      "conclusion_en": "With Democrats controlling Congress, increased corporate oversight and investigations could introduce policy uncertainty for US equities.",
-      "key_points": [
-        {
-          "zh": "中期选举民主党大胜，立法议程聚焦可负担性与问责。",
-          "en": "Democrats won big in the midterms; the legislative agenda will focus on affordability and accountability."
-        },
-        {
-          "zh": "优先事项包括逆转医疗补助削减、结束伊朗战争、收回国会对总统关税的部分权力。",
-          "en": "Priorities include reversing Medicaid cuts, ending the war in Iran, and clawing back some congressional authority over the president's tariffs."
-        },
-        {
-          "zh": "监督和调查将成为重点，但私营企业是否成为目标尚未决定。",
-          "en": "Oversight and investigations will be a major focus, but whether private companies will be targets has not been decided."
-        },
-        {
-          "zh": "可能的下任众议长杰弗里斯称资本主义对工薪阶层失灵，需建立为日常美国人服务的经济。",
-          "en": "Likely next House Speaker Jeffries said capitalism is broken for working-class Americans and called for an economy that works for everyday Americans."
-        },
-        {
-          "zh": "可能的下任参院多数党领袖舒默强调追查腐败。",
-          "en": "Likely next Senate Majority Leader Schumer emphasized going after corruption."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "democrats",
-        "legislative agenda",
-        "affordability",
-        "oversight"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-qzRFBh5a58",
-      "title": "Rahm Emanuel: Democrats have a chance to be transformational",
-      "title_zh": "拉姆·伊曼纽尔：民主党需以速度与实质兑现变革",
-      "url": "https://www.youtube.com/watch?v=-qzRFBh5a58",
-      "published_at": "2026-11-04T18:39:46+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前芝加哥市长拉姆·伊曼纽尔表示，民主党必须将选举成果转化为持久支持，关键在于以速度和实质兑现变革。他认为此次选举是“交易性”还是“变革性”取决于民主党接下来的行动。",
-      "summary_en": "Former Chicago Mayor Rahm Emanuel says Democrats must convert election gains into lasting support by delivering 'change with speed and with substance.' He says whether the election proves 'transactional or transformational' depends on what Democrats do next.",
-      "detail_zh": "前芝加哥市长拉姆·伊曼纽尔指出，民主党现在必须将选举成果转化为持久的支持，方式是以“速度和实质”兑现变革。他表示，民主党有机会建立更广泛的联盟，但此次选举究竟是“交易性”还是“变革性”，将取决于民主党接下来的行动。",
-      "detail_en": "Former Chicago Mayor Rahm Emanuel says Democrats now have to turn their election gains into lasting support by delivering 'change with speed and with substance.' He says the party has an opportunity to build a broader coalition, but whether the election proves 'transactional or transformational' will depend on what Democrats do next.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "伊曼纽尔强调民主党需以速度和实质兑现变革，将选举成果转化为持久支持。",
-          "en": "Emanuel stresses Democrats must deliver change with speed and substance to convert election gains into lasting support."
-        },
-        {
-          "zh": "他认为民主党有机会建立更广泛的联盟。",
-          "en": "He sees an opportunity for the party to build a broader coalition."
-        },
-        {
-          "zh": "选举是“交易性”还是“变革性”取决于民主党接下来的行动。",
-          "en": "Whether the election proves 'transactional or transformational' depends on what Democrats do next."
-        }
-      ],
-      "tags": [
-        "democrats",
-        "election",
-        "coalition",
-        "political-strategy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:a-1sjh8C5aM",
-      "title": "Democrats' Texas Shocker Caps Rebuilding by Party Chief",
-      "title_zh": "民主党在得州选举意外获胜，归因于候选人招募与统一讯息",
-      "url": "https://www.youtube.com/watch?v=a-1sjh8C5aM",
-      "published_at": "2026-11-04T18:23:53+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博报道，民主党在得克萨斯州选举中取得意外胜利，从James Talarico的参议院竞选到下游选票均表现强劲。此次胜利源于广泛招募完整候选人名单并打磨统一讯息的努力，州党主席Kendall Scudder领导了这一行动。",
-      "summary_en": "Bloomberg reports that Democrats achieved a stunning upset in Texas races, from James Talarico's Senate campaign down the ballot. The victory followed a broad effort to recruit a full slate of candidates and hone a unified message, led by state party Chairman Kendall Scudder.",
-      "detail_zh": "彭博的Julie Fine报道，民主党在得克萨斯州选举中取得意外胜利，涵盖从James Talarico的参议院竞选到下游选票的多个选举。这一结果背后是一项广泛努力：招募完整的候选人名单并打磨统一的讯息。州党主席Kendall Scudder领导了这一行动。报道未提供具体得票率、席位变化或对市场的影响分析。",
-      "detail_en": "Bloomberg's Julie Fine reports that Democrats scored a stunning upset in Texas races, spanning from James Talarico's Senate campaign down the ballot. The outcome followed a broad effort to recruit a full slate of candidates and hone a unified message. State party Chairman Kendall Scudder led the charge. The report does not provide specific vote margins, seat changes, or market impact analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党在得州选举中意外获胜，涵盖参议院竞选及下游选票。",
-          "en": "Democrats achieved a stunning upset in Texas races, covering a Senate campaign and down-ballot contests."
-        },
-        {
-          "zh": "胜利归因于广泛招募完整候选人名单并打磨统一讯息。",
-          "en": "The victory is attributed to a broad effort to recruit a full slate of candidates and hone a unified message."
-        },
-        {
-          "zh": "州党主席Kendall Scudder领导了此次行动。",
-          "en": "State party Chairman Kendall Scudder led the charge."
-        }
-      ],
-      "tags": [
-        "Texas",
-        "Democrats",
-        "election",
         "politics"
       ],
       "tickers": [],
