@@ -1,6 +1,260 @@
 {
-  "generated_at": "2026-11-11T15:15:11.234836+00:00",
+  "generated_at": "2026-11-11T16:14:16.967449+00:00",
   "insights": [
+    {
+      "guid": "yt:37FfC-UYrno",
+      "title": "Nvidia Is Playing Out Like a Greek Tragedy, Says Seaport's Goldberg",
+      "title_zh": "分析师称英伟达若失去黄仁勋将失去身份，CEO被撤风险显著",
+      "url": "https://www.youtube.com/watch?v=37FfC-UYrno",
+      "published_at": "2026-11-11T16:03:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Seaport高级分析师Jay Goldberg表示，英伟达若没有CEO黄仁勋将失去其身份，并认为黄仁勋被撤职的风险显著。该评论在Bloomberg Surveillance节目中发表。",
+      "summary_en": "Seaport senior analyst Jay Goldberg says Nvidia would lose its identity without CEO Jensen Huang, and sees a significant risk of Huang being removed. He spoke on Bloomberg Surveillance.",
+      "detail_zh": "Seaport高级分析师Jay Goldberg在Bloomberg Surveillance节目中表示，英伟达若没有CEO黄仁勋将失去其身份。Goldberg还指出，黄仁勋被撤职的风险显著。原文未提供更多关于风险来源或具体情境的细节。",
+      "detail_en": "Seaport senior analyst Jay Goldberg said on Bloomberg Surveillance that Nvidia would lose its identity without CEO Jensen Huang. Goldberg also stated that the risk of Huang being removed is significant. The original text does not provide further details on the source of the risk or specific context.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Seaport分析师Jay Goldberg认为英伟达若没有CEO黄仁勋将失去身份。",
+          "en": "Seaport analyst Jay Goldberg believes Nvidia would lose its identity without CEO Jensen Huang."
+        },
+        {
+          "zh": "Goldberg表示黄仁勋被撤职的风险显著。",
+          "en": "Goldberg says the risk of Huang being removed is significant."
+        },
+        {
+          "zh": "该评论发表于Bloomberg Surveillance节目。",
+          "en": "The comments were made on Bloomberg Surveillance."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO risk",
+        "Jensen Huang",
+        "Seaport",
+        "analyst comment"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:mRYhIIsHXxc",
+      "title": "Track Record | Founder's Notes Walkthru #8",
+      "title_zh": "SpotGamma 推广其期权流分析工具",
+      "url": "https://www.youtube.com/watch?v=mRYhIIsHXxc",
+      "published_at": "2026-11-11T16:00:09+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "volatility",
+        "other"
+      ],
+      "summary_zh": "本文是 SpotGamma 的推广内容，介绍其期权流分析工具和服务，强调其洞察力被多家媒体引用，并设有公开报告卡。内容不包含具体市场观点或数据，对美股投资决策无实质信息。",
+      "summary_en": "This is a promotional piece for SpotGamma, highlighting its options flow analysis tools and services, noting its insights are cited by major publications and that it holds itself accountable with a public report card. It contains no specific market views or data and offers no substantive information for US equity investment decisions.",
+      "detail_zh": "SpotGamma 是一家提供期权流分析的公司，其内容主要面向股票、指数、期货和期权交易者。该公司声称其分析被《华尔街日报》、CNBC、路透社等媒体引用，并每季度发布公开报告卡以展示其市场判断的准确性。文章列举了其订阅服务包含的功能，如创始人笔记、关键点位、实时对冲影响分析（HIRO）、波动率仪表盘、合成未平仓合约等。全文为推广性质，未提供任何具体的市场分析、数据或投资观点。",
+      "detail_en": "SpotGamma is a company providing options flow analysis, targeting stock, index, futures, and options traders. It claims its analysis is cited by major publications such as The Wall Street Journal, CNBC, and Reuters, and that it publishes a public report card each quarter to show the accuracy of its market calls. The article lists features included in its subscription service, such as Founder's Note, Key Levels, real-time hedging impact analysis (HIRO), Volatility Dashboard, and Synthetic Open Interest. The entire text is promotional and does not provide any specific market analysis, data, or investment views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "SpotGamma 提供期权流分析工具，声称被多家主流媒体引用。",
+          "en": "SpotGamma provides options flow analysis tools and claims to be cited by major media outlets."
+        },
+        {
+          "zh": "该公司每季度发布公开报告卡，展示其市场判断的准确性。",
+          "en": "The company publishes a public report card quarterly to demonstrate the accuracy of its market calls."
+        },
+        {
+          "zh": "订阅服务包括创始人笔记、关键点位、HIRO、波动率仪表盘等功能。",
+          "en": "Subscription services include Founder's Note, Key Levels, HIRO, Volatility Dashboard, and other features."
+        },
+        {
+          "zh": "全文为推广内容，不包含具体市场观点或数据。",
+          "en": "The entire text is promotional and contains no specific market views or data."
+        }
+      ],
+      "tags": [
+        "options",
+        "volatility",
+        "trading",
+        "promotion"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:fE64ztfPxjU",
+      "title": "Chevron CFO on plans to power AI data centers",
+      "title_zh": "雪佛龙CFO：与微软AI数据中心供电协议或成公司新业务线",
+      "url": "https://www.youtube.com/watch?v=fE64ztfPxjU",
+      "published_at": "2026-11-11T15:57:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "雪佛龙首席财务官Eimear Bonner表示，公司与微软达成为德克萨斯州AI数据中心供电的协议，可能催生类似交易，并最终成为公司内部的一个“垂直业务”。",
+      "summary_en": "Chevron CFO Eimear Bonner said the company's agreement to provide power for a Microsoft AI data center in Texas could lead to similar deals and eventually become \"a vertical within the company.\"",
+      "detail_zh": "雪佛龙首席财务官Eimear Bonner表示，雪佛龙与微软达成协议，为德克萨斯州的一个AI数据中心提供电力。Bonner指出，此类协议可能带来更多类似交易，并最终发展成为公司内部的一个“垂直业务”。该言论出自即将播出的《Chief Future Officer》节目预告，节目将于美东时间晚上9:30播出。原文未披露协议的具体财务条款、供电规模或时间表。",
+      "detail_en": "Chevron CFO Eimear Bonner said the company has an agreement with Microsoft to provide power for an AI data center in Texas. Bonner said such deals could lead to similar agreements and eventually become \"a vertical within the company.\" The remarks were previewed from an upcoming episode of \"Chief Future Officer,\" airing at 9:30 pm ET. The original text did not disclose financial terms, power capacity, or timeline of the agreement.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "雪佛龙与微软签署协议，为德克萨斯州AI数据中心供电。",
+          "en": "Chevron has an agreement with Microsoft to provide power for an AI data center in Texas."
+        },
+        {
+          "zh": "雪佛龙CFO Eimear Bonner表示，该协议可能催生类似交易。",
+          "en": "Chevron CFO Eimear Bonner said the agreement could lead to similar deals."
+        },
+        {
+          "zh": "Bonner称此类业务最终可能成为公司内部的一个“垂直业务”。",
+          "en": "Bonner said such business could eventually become \"a vertical within the company.\""
+        }
+      ],
+      "tags": [
+        "Chevron",
+        "Microsoft",
+        "AI data center",
+        "power supply",
+        "energy"
+      ],
+      "tickers": [
+        "CVX",
+        "MSFT"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:AmsAnwpzrpU",
+      "title": "Chile is in recession, but will rebound, says Finance Minister Quiroz",
+      "title_zh": "智利财长首次承认经济陷入衰退，但预计将快速反弹",
+      "url": "https://www.youtube.com/watch?v=AmsAnwpzrpU",
+      "published_at": "2026-11-11T15:47:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "智利财政部长Jorge Quiroz首次承认该国经济已陷入衰退，但强调这主要是铜产量大幅下降等供给冲击所致，并预计经济活动将迅速反弹。",
+      "summary_en": "Chile's Finance Minister Jorge Quiroz conceded for the first time that the economy is in a recession, but stressed it was due to supply shocks such as a sharp decline in copper production and predicted a quick rebound.",
+      "detail_zh": "智利财政部长Jorge Quiroz首次承认该国经济处于衰退之中。他表示，从技术上讲可以称之为衰退，但本质上经济今年面临了一些供给冲击，主要来自铜产量的强劲下降。Quiroz强调，经济活动将迅速反弹。",
+      "detail_en": "Chile's Finance Minister Jorge Quiroz conceded for the first time that the economy is in a recession. He said it may be called technically a recession, but basically the economy has faced supply shocks this year, mostly from the strong decline in copper production. Quiroz stressed that activity will rebound quickly.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "智利财长首次承认经济陷入衰退",
+          "en": "Chile's finance minister concedes economy is in recession for the first time"
+        },
+        {
+          "zh": "衰退主因是铜产量大幅下降带来的供给冲击",
+          "en": "Recession mainly due to supply shocks from a sharp decline in copper production"
+        },
+        {
+          "zh": "财长预计经济活动将快速反弹",
+          "en": "Minister expects activity to rebound quickly"
+        }
+      ],
+      "tags": [
+        "Chile",
+        "recession",
+        "copper",
+        "supply shock"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:q0j9P61eOe4",
+      "title": "A Layman Thinks About AI",
+      "title_zh": "霍华德·马克斯备忘录：AI投资既至关重要又高度不可预测",
+      "url": "https://www.youtube.com/watch?v=q0j9P61eOe4",
+      "published_at": "2026-11-11T15:16:03+00:00",
+      "source_name": "The Memo by Howard Marks",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "橡树资本联合主席霍华德·马克斯在最新备忘录中再次探讨人工智能，认为其影响深远但高度不可预测。他提出围绕AI投资的11个问题，涉及谁将获利以及对信贷市场的意义，并指出尽管无法给出确定答案，但不确定性并不意味着投资者可以或应该忽视AI。",
+      "summary_en": "Howard Marks, Co-Chair of Oaktree, revisits artificial intelligence in his latest memo, calling it deeply consequential and highly unpredictable. He poses 11 questions about investing in AI, including who will profit and what it means for credit markets, noting that uncertainty does not mean investors can or should ignore AI.",
+      "detail_zh": "霍华德·马克斯在最新备忘录中再次讨论人工智能，将其描述为影响深远且高度不可预测。他围绕AI投资提出了11个问题，其中包括谁将从中获利，以及AI对信贷市场意味着什么。马克斯指出，这些问题无法得到确定性答案，但不确定性的存在并不意味着投资者可以或应该忽视AI——它实在太重要了。",
+      "detail_en": "In his latest memo, Howard Marks revisits artificial intelligence, describing it as deeply consequential and highly unpredictable. He addresses 11 questions surrounding investing in AI, including who will profit and what it means for the credit markets. Marks points out that while these questions can't be answered definitively, the presence of uncertainty doesn't mean investors can or should ignore AI: it's simply too important for that.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "霍华德·马克斯认为AI影响深远且高度不可预测。",
+          "en": "Howard Marks describes AI as deeply consequential and highly unpredictable."
+        },
+        {
+          "zh": "备忘录提出11个围绕AI投资的问题，包括谁将获利及对信贷市场的意义。",
+          "en": "The memo addresses 11 questions on AI investing, including who will profit and implications for credit markets."
+        },
+        {
+          "zh": "马克斯指出这些问题无法确定回答，但不确定性不意味着投资者可以忽视AI。",
+          "en": "Marks notes these questions can't be answered definitively, but uncertainty doesn't mean investors can ignore AI."
+        }
+      ],
+      "tags": [
+        "AI",
+        "Howard Marks",
+        "Oaktree",
+        "credit markets",
+        "uncertainty"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:x_iD6rni888",
+      "title": "Why Cheaper Car Sales Have Fallen",
+      "title_zh": "美国低价车库存周转加快但整体销量下滑",
+      "url": "https://www.youtube.com/watch?v=x_iD6rni888",
+      "published_at": "2026-11-11T15:00:34+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "2026年三季度数据显示，最便宜车型的库存周转速度较年初加快，且快于高价车型；但紧凑型轿车和紧凑型SUV等可负担细分市场的整体销量却出现下滑。分析师认为这是车型选择、消费者压力及其他因素共同作用的结果。",
+      "summary_en": "Third-quarter 2026 data show the least expensive cars are moving off dealer lots faster than at the start of the year and faster than expensive models, yet overall sales in affordable segments such as compact cars and compact SUVs have fallen. Analysts attribute this to a mix of selection, consumer pressure and other factors.",
+      "detail_zh": "2026年三季度数据显示，最便宜的汽车从经销商处售出的速度比年初更快，也快于价格昂贵的车型。然而，整体销售数据却显示，紧凑型轿车和紧凑型SUV等可负担细分市场的销量出现下滑。分析师表示，这一现象是车型选择、消费者压力以及其他因素共同作用的结果。原文未提供具体销量数字、品牌名称或进一步的分析细节。",
+      "detail_en": "Data indicate that in the third quarter of 2026, the least expensive cars have been moving off dealer lots faster than they were at the beginning of the year, and faster than expensive ones. However, overall sales data show that affordable segments like compact cars and compact SUVs have fallen. Analysts say it's a mix of selection, pressure on the consumer and other factors. The source does not provide specific sales figures, brand names, or further analytical details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "2026年三季度，最便宜车型的库存周转速度较年初加快，且快于高价车型。",
+          "en": "In Q3 2026, the least expensive cars are moving off dealer lots faster than at the start of the year and faster than expensive models."
+        },
+        {
+          "zh": "紧凑型轿车和紧凑型SUV等可负担细分市场的整体销量出现下滑。",
+          "en": "Overall sales in affordable segments such as compact cars and compact SUVs have fallen."
+        },
+        {
+          "zh": "分析师将这一现象归因于车型选择、消费者压力及其他因素的混合影响。",
+          "en": "Analysts attribute the trend to a mix of selection, pressure on the consumer and other factors."
+        }
+      ],
+      "tags": [
+        "auto sales",
+        "consumer",
+        "affordable cars",
+        "inventory turnover"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:eYYGCxT3JUY",
       "title": "Tech Is Selling Off. Investors Are Complacent. So Why is Jim Paulsen Watching a 100-Year Chart",
@@ -18287,135 +18541,6 @@
         "technical-analysis",
         "bitcoin",
         "altcoins"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:C7-XqvI8Zrc",
-      "title": "Abby Joseph Cohen Calls for More Realistic Approaches to Policy",
-      "title_zh": "科恩：已通过立法的负面影响尚未完全显现，中期选举结果否定共和党领导",
-      "url": "https://www.youtube.com/watch?v=C7-XqvI8Zrc",
-      "published_at": "2026-11-04T16:10:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "哥伦比亚商学院教授、前高盛合伙人Abby Joseph Cohen表示，已通过立法的负面影响尚未完全显现。她还在Bloomberg Open Interest节目中称，中期选举结果是对共和党领导层的否定。",
-      "summary_en": "Abby Joseph Cohen, Columbia Business School professor and former Goldman Sachs partner, says the negative effects of legislation already passed have not yet fully emerged. Speaking on \"Bloomberg Open Interest,\" Cohen also said the midterm elections signal a repudiation of Republican leadership.",
-      "detail_zh": "Abby Joseph Cohen在Bloomberg Open Interest节目中表示，已经通过的立法所带来的负面影响尚未完全显现。她同时指出，中期选举的结果表明选民对共和党领导层投下了否定票。Cohen现任哥伦比亚商学院教授，并曾担任高盛合伙人。原文未提供更多关于具体立法内容、影响机制或市场数据的细节。",
-      "detail_en": "Speaking on \"Bloomberg Open Interest,\" Abby Joseph Cohen, a Columbia Business School professor and former Goldman Sachs partner, said the negative effects of legislation already passed have not yet fully emerged. She also said the results of the midterm elections signal a repudiation of Republican leadership. The original text does not provide further details on the specific legislation, its impact mechanism, or market data.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "已通过立法的负面影响尚未完全显现",
-          "en": "Negative effects of already-passed legislation have not yet fully emerged"
-        },
-        {
-          "zh": "中期选举结果被视为对共和党领导层的否定",
-          "en": "Midterm election results signal a repudiation of Republican leadership"
-        },
-        {
-          "zh": "发言者为哥伦比亚商学院教授、前高盛合伙人Abby Joseph Cohen",
-          "en": "Speaker is Abby Joseph Cohen, Columbia Business School professor and former Goldman Sachs partner"
-        }
-      ],
-      "tags": [
-        "legislation",
-        "midterm elections",
-        "fiscal policy",
-        "political risk"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5s1hJl1U_ZQ",
-      "title": "'An Unmitigated Repudiation of Donald Trump and a Very Clear Message' says Former DNC Chair",
-      "title_zh": "民主党全国委员会前主席谈蓝营大胜：经济是关键",
-      "url": "https://www.youtube.com/watch?v=5s1hJl1U_ZQ",
-      "published_at": "2026-11-04T15:20:16+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党全国委员会前主席Tom Perez在彭博电视采访中，将民主党的压倒性胜利归因于经济议题，引用“问题是经济，笨蛋！”这一经典口号。原文未提供具体选举结果、经济数据或市场影响分析。",
-      "summary_en": "Former DNC Chair Tom Perez, in a Bloomberg TV interview, attributed the sweeping Democratic win to the economy, invoking the classic phrase 'It's the economy, stupid!' The source provides no specific election results, economic data, or market impact analysis.",
-      "detail_zh": "民主党全国委员会前主席Tom Perez在彭博“The Opening Trade”节目中，与主持人Guy Johnson、Anna Edwards和Tom Mackenzie讨论民主党的压倒性胜利。Perez将胜选归因于经济，并引用“问题是经济，笨蛋！”这一经典政治口号。原文未披露选举的具体范围、结果数据、Perez的进一步论述，也未涉及对美股或宏观政策的直接影响。内容仅为采访片段概述，缺乏可操作的投研细节。",
-      "detail_en": "Former DNC Chair Tom Perez discussed the sweeping Democratic win on Bloomberg's 'The Opening Trade' with hosts Guy Johnson, Anna Edwards, and Tom Mackenzie. Perez attributed the victory to the economy, invoking the classic political phrase 'It's the economy, stupid!' The source does not disclose the specific scope or results of the election, further details of Perez's remarks, or any direct impact on US equities or macro policy. The content is merely a brief interview summary with no actionable investment details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党全国委员会前主席Tom Perez将民主党压倒性胜利归因于经济议题。",
-          "en": "Former DNC Chair Tom Perez attributed the sweeping Democratic win to the economy."
-        },
-        {
-          "zh": "Perez引用经典政治口号“问题是经济，笨蛋！”来概括胜选原因。",
-          "en": "Perez invoked the classic political phrase 'It's the economy, stupid!' to summarize the reason for the win."
-        },
-        {
-          "zh": "采访在彭博“The Opening Trade”节目中进行，主持人为Guy Johnson、Anna Edwards和Tom Mackenzie。",
-          "en": "The interview took place on Bloomberg's 'The Opening Trade' with hosts Guy Johnson, Anna Edwards, and Tom Mackenzie."
-        },
-        {
-          "zh": "原文未提供选举具体结果、经济数据或对市场的影响分析。",
-          "en": "The source provides no specific election results, economic data, or market impact analysis."
-        }
-      ],
-      "tags": [
-        "Democratic Party",
-        "election",
-        "economy",
-        "Tom Perez"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lPTlbSUXxT8",
-      "title": "Byron Donalds: Florida Will Be a State for Everyone",
-      "title_zh": "共和党人拜伦·唐纳德斯赢得佛罗里达州州长选举",
-      "url": "https://www.youtube.com/watch?v=lPTlbSUXxT8",
-      "published_at": "2026-11-04T15:17:47+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在选举夜的少数亮点中，共和党人拜伦·唐纳德斯赢得佛罗里达州州长竞选，接替罗恩·德桑蒂斯。这位由特朗普总统亲自挑选的国会议员以微弱优势击败民主党人大卫·乔利，成为佛罗里达州首位黑人州长。",
-      "summary_en": "In one of the few bright spots for Republicans on election night, Byron Donalds won the Florida governor's race to replace Ron DeSantis. The congressman, handpicked by President Donald Trump, narrowly defeated Democrat David Jolly to become Florida's first Black governor.",
-      "detail_zh": "在选举夜的少数亮点中，共和党人拜伦·唐纳德斯赢得佛罗里达州州长竞选，接替罗恩·德桑蒂斯。这位国会议员由总统唐纳德·特朗普亲自挑选参选。他以微弱优势击败民主党人大卫·乔利，成为佛罗里达州首位黑人州长。原文未提供更多关于选举结果、得票率或政策影响的细节。",
-      "detail_en": "In one of the few bright spots for Republicans on election night, Byron Donalds won the governor's race to replace Ron DeSantis. The congressman was handpicked by President Donald Trump to run. He squeaked by Democrat David Jolly to become Florida's first Black governor. The original text does not provide further details on the election results, vote margins, or policy implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "拜伦·唐纳德斯赢得佛罗里达州州长选举，接替罗恩·德桑蒂斯。",
-          "en": "Byron Donalds won the Florida governor's race to replace Ron DeSantis."
-        },
-        {
-          "zh": "唐纳德斯由总统唐纳德·特朗普亲自挑选参选。",
-          "en": "Donalds was handpicked by President Donald Trump to run."
-        },
-        {
-          "zh": "他以微弱优势击败民主党人大卫·乔利。",
-          "en": "He narrowly defeated Democrat David Jolly."
-        },
-        {
-          "zh": "唐纳德斯成为佛罗里达州首位黑人州长。",
-          "en": "Donalds became Florida's first Black governor."
-        }
-      ],
-      "tags": [
-        "Florida governor race",
-        "Byron Donalds",
-        "David Jolly",
-        "Donald Trump",
-        "election"
       ],
       "tickers": [],
       "sentiment": "neutral"
