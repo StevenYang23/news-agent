@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-11-11T12:21:04.449449+00:00",
+  "generated_at": "2026-11-11T13:13:56.796337+00:00",
   "insights": [
+    {
+      "guid": "yt:x0xoCwRrHx8",
+      "title": "AI Stocks Rally After Coreweave's Results; Treasury Market Closed",
+      "title_zh": "AI乐观情绪推升美股期货，CPI超预期重燃加息押注",
+      "url": "https://www.youtube.com/watch?v=x0xoCwRrHx8",
+      "published_at": "2026-11-11T12:20:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "CoreWeave业绩强劲及Anthropic IPO需求旺盛推动美股期货上涨，AI交易情绪乐观；但CPI数据超预期引发美联储加息押注升温，美债期货下跌、收益率跳升。花旗的Olaolu Aganga讨论了AI驱动科技股涨势的可持续性。",
+      "summary_en": "US equity futures rose on strong CoreWeave results and robust demand for Anthropic's IPO, boosting AI optimism, while a hot inflation print revived Fed rate-hike bets, pushing Treasury futures lower and yields higher. Citi's Olaolu Aganga discussed the sustainability of the AI-driven tech rally.",
+      "detail_zh": "美股期货在CoreWeave公布强劲业绩以及Anthropic IPO获得旺盛需求后上涨，市场对AI相关交易的乐观情绪升温。与此同时，美国国债期货因通胀数据超预期而下跌，该数据强化了市场对美联储加息的押注，并推动收益率跳升。由于退伍军人节假期，美国现货国债市场休市。花旗投资组合构建与分析主管Olaolu Aganga就AI驱动的科技股涨势的可持续性发表了看法。节目还讨论了全球市场因AI乐观情绪而上涨、对冲基金削减风险以及美中紧张关系等话题。此外，俄罗斯与乌克兰和平谈判恢复，雪佛龙CFO Eimear Bonner讨论了石油产量问题。",
+      "detail_en": "US equity futures rose after CoreWeave reported strong results and Anthropic's IPO saw robust demand, fueling optimism around AI-related trades. Meanwhile, US Treasury futures fell after a hotter-than-expected inflation print strengthened bets on Fed rate hikes and spurred a spike in yields. The cash Treasury market was closed for the Veterans Day holiday. Olaolu Aganga, Citi's Head of Portfolio Construction and Analytics, discussed the sustainability of the AI-driven tech rally. The program also covered a global markets rally on AI optimism, hedge funds cutting risk, and US-China tensions. Additionally, Russia-Ukraine peace talks resumed, and Chevron CFO Eimear Bonner discussed oil production.",
+      "conclusion_zh": "AI相关积极消息支撑美股期货，但通胀超预期可能强化美联储加息预期并推高收益率，投资者需关注AI涨势的可持续性与利率风险。",
+      "conclusion_en": "Positive AI news supports US equity futures, but the hot inflation print could reinforce Fed rate-hike expectations and push yields higher; investors should watch the sustainability of the AI rally and rate risk.",
+      "key_points": [
+        {
+          "zh": "CoreWeave业绩强劲且Anthropic IPO需求旺盛，推动美股期货上涨，AI交易情绪乐观。",
+          "en": "Strong CoreWeave results and robust demand for Anthropic's IPO lifted US equity futures, boosting AI trade sentiment."
+        },
+        {
+          "zh": "通胀数据超预期引发美联储加息押注升温，美债期货下跌，收益率跳升。",
+          "en": "A hot inflation print revived Fed rate-hike bets, pushing Treasury futures lower and yields higher."
+        },
+        {
+          "zh": "美国现货国债市场因退伍军人节假期休市。",
+          "en": "The US cash Treasury market was closed for the Veterans Day holiday."
+        },
+        {
+          "zh": "花旗的Olaolu Aganga讨论了AI驱动科技股涨势的可持续性。",
+          "en": "Citi's Olaolu Aganga discussed the sustainability of the AI-driven tech rally."
+        },
+        {
+          "zh": "节目还涉及对冲基金削减风险、美中紧张关系以及俄乌和平谈判恢复。",
+          "en": "The program also covered hedge funds cutting risk, US-China tensions, and the resumption of Russia-Ukraine peace talks."
+        }
+      ],
+      "tags": [
+        "AI",
+        "inflation",
+        "Fed",
+        "Treasuries",
+        "equities"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:CqxlhtrsLVY",
+      "title": "Nvidia Is Core Part AI-Basket of Stocks, Emanuel Says",
+      "title_zh": "Evercore ISI：英伟达是AI股票组合核心，预计Anthropic IPO顺利",
+      "url": "https://www.youtube.com/watch?v=CqxlhtrsLVY",
+      "published_at": "2026-11-11T12:19:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Evercore ISI首席股票策略师Julian Emanuel表示，英伟达是其AI股票组合的核心部分，并预计Anthropic的IPO将顺利进行。",
+      "summary_en": "Evercore ISI chief equity strategist Julian Emanuel says Nvidia is a core part of their AI stock basket and expects the Anthropic IPO to go smoothly.",
+      "detail_zh": "在Bloomberg Surveillance节目中，Evercore ISI首席股票策略师兼量化策略师Julian Emanuel表示，英伟达（Nvidia）是其AI股票组合的核心组成部分。他同时表达了对Anthropic IPO的乐观预期，认为该IPO将顺利进行。原文未提供更多关于组合构成、IPO细节或市场背景的信息。",
+      "detail_en": "Speaking on Bloomberg Surveillance, Julian Emanuel, chief equity strategist and quantitative strategist at Evercore ISI, said Nvidia is a core part of their basket of AI stocks. He also expressed expectations that the Anthropic IPO will go smoothly. The original text does not provide further details on the basket composition, IPO specifics, or market context.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Evercore ISI将英伟达视为AI股票组合的核心部分。",
+          "en": "Evercore ISI views Nvidia as a core part of its AI stock basket."
+        },
+        {
+          "zh": "Julian Emanuel预计Anthropic的IPO将顺利进行。",
+          "en": "Julian Emanuel expects the Anthropic IPO to go smoothly."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI",
+        "Anthropic",
+        "IPO",
+        "Evercore ISI"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:01t-AEDbAFs",
+      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+      "title_zh": "Anthropic 寻求约1.4万亿美元估值IPO",
+      "url": "https://www.youtube.com/watch?v=01t-AEDbAFs",
+      "published_at": "2026-11-11T12:06:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic 在首次公开募股中寻求约1.4万亿美元估值，力争成为首家上市的前沿人工智能实验室。公司IPO定于11月18日（周三）定价，次日开始交易。",
+      "summary_en": "Anthropic is seeking a valuation of about $1.4 trillion in its initial public offering, aiming to become the first frontier AI lab to go public. The IPO is set to price on Wednesday, Nov. 18 and trade the following day.",
+      "detail_zh": "据彭博电视报道，Anthropic 正在推进首次公开募股，寻求约1.4万亿美元的估值。若按此估值完成上市，该公司将成为历史上首家上市的前沿人工智能实验室。报道称，此次IPO定于11月18日（周三）定价，并于次日开始交易。上述信息由彭博的 Bailey Lipschultz 提供。原文未披露发行规模、募资用途、承销商等进一步细节。",
+      "detail_en": "According to Bloomberg Television, Anthropic is pursuing an initial public offering at a valuation of about $1.4 trillion. If completed at that level, it would make history as the first frontier artificial intelligence lab to go public. The report states the IPO is set to price on Wednesday, Nov. 18, and trade the following day. The information was reported by Bloomberg's Bailey Lipschultz. The original text did not disclose further details such as offering size, use of proceeds, or underwriters.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic 在IPO中寻求约1.4万亿美元估值。",
+          "en": "Anthropic is seeking a valuation of about $1.4 trillion in its IPO."
+        },
+        {
+          "zh": "若成功上市，将成为首家上市的前沿人工智能实验室。",
+          "en": "If it lists successfully, it would be the first frontier AI lab to go public."
+        },
+        {
+          "zh": "IPO定于11月18日（周三）定价，次日开始交易。",
+          "en": "The IPO is set to price on Wednesday, Nov. 18, and trade the following day."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "valuation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4966359",
       "title": "Fed Speak Turns Hawkish",
@@ -18221,96 +18349,6 @@
         "NVDA",
         "ORCL"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:MAa2SzJFtwk",
-      "title": "Former DNC Chair: 'This Election Was About The Economy, Stupid'",
-      "title_zh": "民主党中期选举大胜，Perez指腐败与生活成本为核心议题",
-      "url": "https://www.youtube.com/watch?v=MAa2SzJFtwk",
-      "published_at": "2026-11-04T13:09:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前民主党全国委员会主席Tom Perez表示，腐败和生活成本是推动民主党在中期选举中大胜的关键议题。民主党即将控制国会，Perez在彭博电视采访中讨论了这一“蓝色浪潮”及后续预期。",
-      "summary_en": "Former DNC Chair Tom Perez says corruption and affordability were the key issues driving the Democrat sweep in the US Midterm elections. With Democrats set to take control of Congress, Perez discussed the 'blue tsunami' and what to expect in a Bloomberg Television interview.",
-      "detail_zh": "前民主党全国委员会主席、Mayer Brown合伙人Tom Perez在彭博电视采访中表示，腐败和生活成本是推动民主党在中期选举中大胜的关键议题。Perez将此次选举结果形容为“蓝色浪潮”（blue tsunami），并指出民主党即将接管国会控制权。他在采访中讨论了这一选举结果以及人们应对民主党控制国会后的预期。采访由彭博的Caroline Hepker和Stephen Carroll主持。原文未提供更多关于具体政策影响或市场反应的细节。",
-      "detail_en": "Former Democratic National Committee Chair and Mayer Brown partner Tom Perez said in a Bloomberg Television interview that corruption and affordability were the key issues driving the Democrat sweep in the US Midterm elections. Perez described the outcome as a 'blue tsunami' and noted that Democrats are set to take over control of Congress. He discussed the election results and what people should expect with Democrats set to control Congress. The interview was conducted by Bloomberg's Caroline Hepker and Stephen Carroll. The original text does not provide further details on specific policy implications or market reactions.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "腐败和生活成本是民主党中期选举大胜的关键议题。",
-          "en": "Corruption and affordability were the key issues driving the Democrat sweep in the midterms."
-        },
-        {
-          "zh": "Perez将选举结果形容为“蓝色浪潮”。",
-          "en": "Perez described the election outcome as a 'blue tsunami'."
-        },
-        {
-          "zh": "民主党即将控制国会。",
-          "en": "Democrats are set to take over control of Congress."
-        },
-        {
-          "zh": "Perez是Mayer Brown的合伙人，曾任民主党全国委员会主席。",
-          "en": "Perez is a partner at Mayer Brown and former DNC Chair."
-        }
-      ],
-      "tags": [
-        "US Midterm Elections",
-        "Democrats",
-        "Congress",
-        "Affordability",
-        "Corruption"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:0ASe6l2mdvo",
-      "title": "AI Agents Could Soon Trade Without Blockchain Delays",
-      "title_zh": "加密隧道技术实现链下零延迟代理间交易",
-      "url": "https://www.youtube.com/watch?v=0ASe6l2mdvo",
-      "published_at": "2026-11-04T12:30:06+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "原文介绍了一种名为“加密隧道”的技术，允许两个代理在链上建立智能合约后，在彼此之间进行零延迟、可加密证明的交易，并在结束时关闭隧道获得双方未作弊的数学可验证证明。该技术支持代理对代理支付、交易引擎、卡牌游戏、交易机器人及聊天系统等应用，使交易规模超越链上容量限制。",
-      "summary_en": "The original text introduces a technology called \"cryptographic tunnels,\" which allows two agents to enter into an on-chain smart contract and then conduct zero-latency, cryptographically provable transactions between themselves, closing the tunnel at the end to obtain mathematically verifiable proof that neither side cheated. This enables agent-to-agent payments, trading engines, card games, trading bots, and chat systems, scaling beyond what the chain can afford.",
-      "detail_zh": "原文描述了一种称为“加密隧道”的技术：两个代理在链上通过智能合约建立加密隧道，随后在彼此之间提交可加密证明的交易。原文强调，这并非没有账本，而是双方之间构建了一个零延迟的加密账本。交易结束时可以关闭隧道，并获得双方均未作弊的数学可验证证明。该机制包含一个争议协议（contest protocol）。该技术使代理能够以极快速度进行代理对代理支付，并可用于构建交易引擎、卡牌游戏、交易机器人、聊天系统等。原文指出，这使交易规模能够超越链上容量限制，并称这正是引擎所需，因为代理将进行一对一交易。",
-      "detail_en": "The original text describes a technology called \"cryptographic tunnels\": two agents enter into an on-chain smart contract with a cryptographic tunnel, and then submit cryptographically provable transactions between themselves. The text emphasizes that this is not a case of no ledger existing; rather, a zero-latency cryptographic ledger is built between the two parties. At the end of transactions, the tunnel can be closed, yielding mathematically verifiable proof that both sides have not cheated. The mechanism includes a contest protocol. It enables agents to do agent-for-agent payments at very fast speeds and can be used to build trading engines, card games, trading bots, and chat systems. The text states this allows scaling beyond what the chain will afford, and says this is exactly what engines need because agents will transact one-on-one.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "加密隧道允许两个代理在链上智能合约下进行零延迟、可加密证明的彼此交易。",
-          "en": "Cryptographic tunnels allow two agents to transact with each other under an on-chain smart contract with zero latency and cryptographic provability."
-        },
-        {
-          "zh": "交易结束时关闭隧道，可获得双方未作弊的数学可验证证明，并包含争议协议。",
-          "en": "Closing the tunnel at the end yields mathematically verifiable proof that neither side cheated, and includes a contest protocol."
-        },
-        {
-          "zh": "该技术支持代理对代理支付、交易引擎、卡牌游戏、交易机器人和聊天系统。",
-          "en": "The technology enables agent-to-agent payments, trading engines, card games, trading bots, and chat systems."
-        },
-        {
-          "zh": "该技术使交易规模超越链上容量限制，满足代理一对一交易的需求。",
-          "en": "It scales beyond what the chain will afford, meeting the need for one-on-one agent transactions."
-        }
-      ],
-      "tags": [
-        "cryptographic-tunnels",
-        "agent-payments",
-        "smart-contracts",
-        "blockchain-scaling"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
