@@ -1,6 +1,192 @@
 {
-  "generated_at": "2026-11-11T16:14:16.967449+00:00",
+  "generated_at": "2026-11-11T17:13:12.096000+00:00",
   "insights": [
+    {
+      "guid": "yt:6R__mvXdCUs",
+      "title": "Gundlach: Historic GDP Deficit",
+      "title_zh": "美国赤字压力与AI借贷需求推高利率，市场收紧程度超美联储",
+      "url": "https://www.youtube.com/watch?v=6R__mvXdCUs",
+      "published_at": "2026-11-11T17:01:12+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "美国赤字占GDP比重达6%的历史罕见水平，近两月更接近9%，叠加AI相关借贷的旺盛需求，对利率构成实际压力。10月利率缓解仅是季末再平衡和资金流出法国所致，市场收紧程度已超过美联储。",
+      "summary_en": "A deficit at 6% of GDP is historically rare, and recent months have seen it approach 9%. Combined with insatiable demand for AI and adjacent borrowing, this puts real pressure on rates. October's relief was just quarter-end rebalancing and money leaving France, and the market has tightened more than the Fed.",
+      "detail_zh": "原文指出，美国赤字占GDP的6%在历史上仅出现过五次：内战、一战、二战、全球金融危机和新冠时期。而最近两个月的赤字率已接近9%。此外，对AI及相关借贷的“永不满足的需求”进一步加剧了利率压力。作者认为，10月利率的缓解只是季末再平衡和资金撤离法国所致，并非趋势逆转。其核心判断是：“市场收紧的幅度已超过美联储。”这意味着金融条件可能比美联储政策所显示的更为紧缩。",
+      "detail_en": "The original text notes that a 6% of GDP deficit has only occurred five times in history: the Civil War, World War One, World War Two, the global financial crisis, and Covid. In the last two months, the deficit has run closer to 9%. Additionally, 'insatiable demand for AI and adjacent borrowing' adds to the pressure on rates. The author attributes October's relief in rates to quarter-end rebalancing and money leaving France, not a reversal. His key read: 'the market has tightened more than the Fed,' implying financial conditions may be tighter than Fed policy suggests.",
+      "conclusion_zh": "财政赤字高企与AI借贷需求可能使利率维持上行压力，市场收紧程度已超美联储，投资者需关注金融条件实际紧缩对美股估值的影响。",
+      "conclusion_en": "High fiscal deficits and AI-related borrowing demand may keep upward pressure on rates, with the market already tighter than the Fed, so investors should watch the impact of tighter financial conditions on US equity valuations.",
+      "key_points": [
+        {
+          "zh": "6%的赤字率历史上仅五次：内战、一战、二战、金融危机和新冠。",
+          "en": "A 6% deficit-to-GDP ratio has occurred only five times: Civil War, WWI, WWII, GFC, and Covid."
+        },
+        {
+          "zh": "最近两个月赤字率接近9%，财政压力显著。",
+          "en": "The deficit has run closer to 9% in the last two months, indicating significant fiscal pressure."
+        },
+        {
+          "zh": "AI及相关借贷的旺盛需求对利率构成上行压力。",
+          "en": "Insatiable demand for AI and adjacent borrowing puts upward pressure on rates."
+        },
+        {
+          "zh": "10月利率缓解是季末再平衡和资金流出法国所致，并非趋势改变。",
+          "en": "October's rate relief was due to quarter-end rebalancing and money leaving France, not a trend change."
+        },
+        {
+          "zh": "市场收紧程度已超过美联储，金融条件可能比政策利率显示的更紧。",
+          "en": "The market has tightened more than the Fed, suggesting financial conditions may be tighter than the policy rate indicates."
+        }
+      ],
+      "tags": [
+        "deficit",
+        "interest rates",
+        "AI borrowing",
+        "Fed",
+        "financial conditions"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:j1ro7bw5RkA",
+      "title": "Nvidia's Future Rests Squarely on Shoulders of CEO Huang",
+      "title_zh": "英伟达调查黄仁勋绯闻，股价大跌引发公司前景疑问",
+      "url": "https://www.youtube.com/watch?v=j1ro7bw5RkA",
+      "published_at": "2026-11-11T16:58:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达正调查CEO黄仁勋与一名疑似中国间谍的绯闻，此事引发市场对公司未来的质疑，并导致股价大跌。若黄仁勋离职，公司能否存续成为华尔街热议的问题。",
+      "summary_en": "Nvidia Corp. is investigating CEO Jensen Huang's affair with an alleged Chinese spy, raising questions about the company's future and sending its stock into a tailspin. If he leaves, whether the company can survive is a question many on Wall Street are trying to answer.",
+      "detail_zh": "据彭博社的Ryan Vlastelica报道，英伟达公司正在调查首席执行官黄仁勋与一名疑似中国间谍的绯闻。这一调查引发了外界对英伟达未来的质疑，并导致公司股价大幅下跌。报道指出，如果黄仁勋因此离职，公司能否继续生存成为华尔街许多人士试图回答的问题。报道未提供调查的具体细节、股价跌幅或公司官方回应。",
+      "detail_en": "According to Bloomberg's Ryan Vlastelica, Nvidia Corp. is investigating Chief Executive Officer Jensen Huang's affair with an alleged Chinese spy. The investigation is raising questions about the company's future and has sent its stock into a tailspin. The report notes that if Huang leaves, whether the company can survive is a question many on Wall Street are trying to answer. The report does not provide specific details of the investigation, the extent of the stock decline, or official company response.",
+      "conclusion_zh": "该事件凸显了关键人物风险，投资者需关注调查进展及管理层稳定性对英伟达的潜在影响。",
+      "conclusion_en": "The event highlights key-person risk; investors should monitor the investigation's progress and management stability for potential impact on Nvidia.",
+      "key_points": [
+        {
+          "zh": "英伟达正在调查CEO黄仁勋与一名疑似中国间谍的绯闻。",
+          "en": "Nvidia is investigating CEO Jensen Huang's affair with an alleged Chinese spy."
+        },
+        {
+          "zh": "该调查引发了对公司未来的质疑，并导致股价大跌。",
+          "en": "The investigation raises questions about the company's future and has sent the stock into a tailspin."
+        },
+        {
+          "zh": "若黄仁勋离职，公司能否存续成为华尔街关注的核心问题。",
+          "en": "If Huang leaves, whether the company can survive is a central question for Wall Street."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO investigation",
+        "key-person risk",
+        "stock decline"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:HRIjtvWogyE",
+      "title": "Bloomberg Surveillance 11/11/2026",
+      "title_zh": "AI交易反弹但英伟达面临审查，美联储鹰派立场引关注",
+      "url": "https://www.youtube.com/watch?v=HRIjtvWogyE",
+      "published_at": "2026-11-11T16:38:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Evercore ISI的Julian Emanuel认为英伟达是AI核心持仓，国会威胁传唤黄仁勋；多位嘉宾讨论AI资本开支的债务融资风险、美联储加息前景及60/40组合失效等议题。",
+      "summary_en": "Evercore ISI's Julian Emanuel sees Nvidia as a core AI holding amid congressional subpoena threats; guests discuss debt-financed AI capex, Fed hike prospects, and the diminished efficacy of 60/40 portfolios.",
+      "detail_zh": "节目围绕AI交易与英伟达展开：Evercore ISI的Julian Emanuel称英伟达是AI一篮子股票的核心部分，并认为科技板块能承受黄仁勋离职的冲击；国会因英伟达问题威胁传唤黄仁勋（Tyler Kendall报道）。Futurum Group的Daniel Newman指出AI采用仍在加速。前世界银行行长David Malpass认为美联储加息无法解决当前通胀。Principal Asset Management的Seema Shah称这并非AI交易的终结。Baird Strategas的Jeannette Lowe认为英伟达丑闻可能促使芯片管制收紧。高盛的Amanda Lynam提到4400亿美元AI资本开支可能通过债务融资。Anurag Rana讨论Anthropic IPO可能为更多AI公司上市打开大门。Federated Hermes的Phil Orlando称50个基点的加息为时过早。Seaport的Jay Goldberg表示难以想象没有黄仁勋的英伟达。JPMorgan Private Bank的Abby Yoder认为60/40组合已不如从前有效。Carlyle Group的David Rubenstein预计黄仁勋很可能留任英伟达CEO。",
+      "detail_en": "The program centered on the AI trade and Nvidia: Evercore ISI's Julian Emanuel called Nvidia a core part of the AI basket and said tech can weather a Jensen Huang exit; Congress threatened to subpoena Huang over Nvidia (reported by Tyler Kendall). Daniel Newman of The Futurum Group said AI adoption is still accelerating. Former World Bank President David Malpass argued Fed rate hikes won't solve today's inflation. Seema Shah of Principal Asset Management said this is not the end of the AI trade. Jeannette Lowe of Baird Strategas suggested the Nvidia scandal could spur tighter chip controls. Goldman Sachs' Amanda Lynam noted $440 billion of AI capex could be debt-financed. Anurag Rana discussed how an Anthropic IPO could open the door for more AI listings. Phil Orlando of Federated Hermes said a 50 bps Fed hike would be premature. Jay Goldberg of Seaport said he can't imagine Nvidia without Jensen Huang. Abby Yoder of JPMorgan Private Bank said the 60/40 portfolio doesn't work like it used to. David Rubenstein of The Carlyle Group expects Huang likely to remain Nvidia CEO.",
+      "conclusion_zh": "AI交易仍获部分机构支持，但英伟达面临政治与监管风险，AI资本开支的债务融资趋势及美联储政策路径值得关注。",
+      "conclusion_en": "The AI trade retains some institutional support, but Nvidia faces political and regulatory risks; debt-financed AI capex and the Fed's policy path warrant attention.",
+      "key_points": [
+        {
+          "zh": "Evercore ISI的Julian Emanuel认为英伟达是AI核心持仓，科技板块能承受黄仁勋离职。",
+          "en": "Evercore ISI's Julian Emanuel sees Nvidia as a core AI holding and believes tech can weather a Jensen Huang exit."
+        },
+        {
+          "zh": "国会因英伟达问题威胁传唤黄仁勋，Baird Strategas认为丑闻可能促使芯片管制收紧。",
+          "en": "Congress threatened to subpoena Jensen Huang over Nvidia; Baird Strategas sees the scandal potentially leading to tighter chip controls."
+        },
+        {
+          "zh": "高盛的Amanda Lynam指出4400亿美元AI资本开支可能通过债务融资。",
+          "en": "Goldman Sachs' Amanda Lynam noted $440 billion of AI capex could be debt-financed."
+        },
+        {
+          "zh": "前世界银行行长David Malpass认为美联储加息无法解决当前通胀，Federated Hermes的Phil Orlando称50基点加息为时过早。",
+          "en": "Former World Bank President David Malpass argued Fed hikes won't solve inflation, and Federated Hermes' Phil Orlando called a 50 bps hike premature."
+        },
+        {
+          "zh": "JPMorgan Private Bank的Abby Yoder认为60/40组合已不如从前有效。",
+          "en": "JPMorgan Private Bank's Abby Yoder said the 60/40 portfolio doesn't work like it used to."
+        }
+      ],
+      "tags": [
+        "AI trade",
+        "Nvidia",
+        "Fed",
+        "AI capex",
+        "60/40 portfolio"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:8W_-7CWvf0o",
+      "title": "Are Investors Buying or Selling US Stocks? Both, Apparently | The Bid Investing podcast",
+      "title_zh": "贝莱德：全球股市乐观情绪升温，但投资者对美股敞口分歧明显",
+      "url": "https://www.youtube.com/watch?v=8W_-7CWvf0o",
+      "published_at": "2026-11-11T16:36:37+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "贝莱德全球投资与组合解决方案主管Alex Brazier指出，尽管全球股市乐观情绪升温，投资者在是否增加或减少美股敞口上仍存在明显分歧。相关调查揭示了市场情绪的分化，以及投资者采取不同策略的原因。",
+      "summary_en": "Alex Brazier, Global Head of Investment and Portfolio Solutions at BlackRock, notes that despite growing optimism across global equity markets, investors remain sharply divided on whether to increase or reduce their exposure to U.S. stocks. Surveys reveal this split in sentiment and why investors are taking different approaches.",
+      "detail_zh": "贝莱德全球投资与组合解决方案主管Alex Brazier在The Bid播客节目中指出，全球股市整体乐观情绪正在升温。然而，投资者对于是否应增加或减少美股敞口存在尖锐分歧。Brazier援引近期投资者调查，解释了当前股市情绪的分化状况，以及投资者采取截然不同策略的原因。该播客节目主题为“股市涨势能否超越AI继续延续”，内容涉及全球股市、AI投资与组合分散化。",
+      "detail_en": "Alex Brazier, Global Head of Investment and Portfolio Solutions at BlackRock, said on The Bid podcast that optimism is growing across global equity markets. However, investors are sharply divided on whether to increase or reduce their exposure to U.S. stocks. Brazier cited recent investor surveys to explain the split in stock market sentiment and why investors are taking such different approaches. The podcast episode, titled 'Can the Stock Market Rally Continue Beyond AI?', covers global equity markets, AI investing and portfolio diversification.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "全球股市乐观情绪正在升温",
+          "en": "Optimism is growing across global equity markets"
+        },
+        {
+          "zh": "投资者对美股敞口存在尖锐分歧：是否增加或减少配置",
+          "en": "Investors are sharply divided on whether to increase or reduce U.S. equity exposure"
+        },
+        {
+          "zh": "贝莱德调查揭示了股市情绪的分化",
+          "en": "BlackRock surveys reveal a split in stock market sentiment"
+        },
+        {
+          "zh": "投资者采取不同策略的原因被讨论",
+          "en": "The reasons behind investors' different approaches are discussed"
+        }
+      ],
+      "tags": [
+        "US equities",
+        "investor sentiment",
+        "BlackRock",
+        "portfolio positioning"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:37FfC-UYrno",
       "title": "Nvidia Is Playing Out Like a Greek Tragedy, Says Seaport's Goldberg",
@@ -18326,221 +18512,6 @@
         "inflation",
         "midterms",
         "forward-guidance"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:QXv9_iqt2pk",
-      "title": "Trump Praises Democrats, Deflects Blame for GOP Loss",
-      "title_zh": "特朗普祝贺民主党中期选举大胜，未担责共和党失利",
-      "url": "https://www.youtube.com/watch?v=QXv9_iqt2pk",
-      "published_at": "2026-11-04T16:43:02+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党在中期选举中夺回国会两院并赢得多个州长职位，特朗普总统祝贺民主党“干得好”，但未为共和党失利承担责任。彭博观点高级执行编辑Tim O'Brien讨论了特朗普的政治遗产及其最后两年任期的治理方式。",
-      "summary_en": "Democrats won back both houses of Congress and several governors' mansions in midterm elections, and President Trump congratulated them for doing 'a good job' but did not take responsibility for GOP defeats. Tim O'Brien of Bloomberg Opinion discussed Trump's legacy and how he may govern in his final two years.",
-      "detail_zh": "民主党在中期选举中对特朗普的共和党盟友造成毁灭性失败，赢回国会两院并拿下多个州长职位。特朗普总统周三早间接受福克斯新闻采访时祝贺民主党“干得好”，但未对共和党漫长的失败之夜承担责任。彭博观点高级执行编辑Tim O'Brien讨论了特朗普的政治遗产、他对共和党失利的反应，以及他可能在最后两年任期内如何治理。原文未提供具体席位变化数字、市场影响分析或投资相关评论。",
-      "detail_en": "Democrats inflicted devastating defeats on President Trump's Republican allies in the midterm elections, winning back both houses of Congress and picking up several governors' mansions. In an interview with Fox News early Wednesday morning, Trump congratulated Democrats for doing 'a good job' but did not take responsibility for the long night of GOP defeats. Tim O'Brien, Senior Executive Editor at Bloomberg Opinion, discussed Trump's legacy, his reaction to the GOP loss, and how he may govern in his final two years in office. The original text does not provide specific seat change numbers, market impact analysis, or investment-related commentary.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党赢回国会两院并拿下多个州长职位",
-          "en": "Democrats won back both houses of Congress and picked up several governors' mansions"
-        },
-        {
-          "zh": "特朗普祝贺民主党“干得好”，但未为共和党失利担责",
-          "en": "Trump congratulated Democrats for doing 'a good job' but did not take responsibility for GOP defeats"
-        },
-        {
-          "zh": "彭博观点的Tim O'Brien讨论特朗普的政治遗产及最后两年任期治理",
-          "en": "Tim O'Brien of Bloomberg Opinion discussed Trump's legacy and how he may govern in his final two years"
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "Trump",
-        "Democrats",
-        "GOP",
-        "Bloomberg Opinion"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ryGI-Yj42CM",
-      "title": "This was 'Most Devastating Midterm Defeat' for a President in 68 years, Say Gautam Mukunda",
-      "title_zh": "民主党中期选举大胜，生活成本与伊朗战争成关键议题",
-      "url": "https://www.youtube.com/watch?v=ryGI-Yj42CM",
-      "published_at": "2026-11-04T16:42:58+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党凭借选民对生活成本的不满和对伊朗战争的愤怒，在中期选举中席卷国会，重挫特朗普及其政党。耶鲁管理学院讲师Gautam Mukunda讨论了此次胜利及2028年总统选举策略。",
-      "summary_en": "Democrats swept into power in Congress amid voter anger over the cost of living and the war in Iran, delivering a rebuke to President Donald Trump and his party. Gautam Mukunda, Yale School of Management lecturer and Bloomberg Opinion contributor, discussed the sweeping midterm win and strategy for the 2028 presidential election.",
-      "detail_zh": "民主党在中期选举中取得国会控制权，这一结果被描述为对特朗普总统及其政党的强烈否定。驱动因素包括选民对生活成本的不满以及对伊朗战争的愤怒。耶鲁管理学院讲师、彭博观点撰稿人Gautam Mukunda就民主党的中期选举大胜及2028年总统选举策略进行了讨论。原文未提供具体席位变化、市场反应或政策细节。",
-      "detail_en": "Democrats swept into power in Congress in the midterm elections, a result described as a thundering rebuke to President Donald Trump and his party. The driving factors included voter outrage over the cost of living and the war in Iran. Gautam Mukunda, a lecturer at Yale School of Management and Bloomberg Opinion contributor, discussed the Democrats' sweeping midterm win and strategy for the 2028 presidential election. The original text does not provide specific seat changes, market reactions, or policy details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党在中期选举中赢得国会控制权。",
-          "en": "Democrats won control of Congress in the midterm elections."
-        },
-        {
-          "zh": "选民对生活成本的不满和对伊朗战争的愤怒是主要驱动因素。",
-          "en": "Voter outrage over the cost of living and the war in Iran were key drivers."
-        },
-        {
-          "zh": "此次选举结果被视为对特朗普及其政党的强烈否定。",
-          "en": "The election result was seen as a thundering rebuke to Trump and his party."
-        },
-        {
-          "zh": "Gautam Mukunda讨论了民主党的胜利及2028年总统选举策略。",
-          "en": "Gautam Mukunda discussed the Democrats' win and strategy for the 2028 presidential election."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "Democrats",
-        "Trump",
-        "cost of living",
-        "Iran war"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:yPzHWYtbmqc",
-      "title": "Democrat Becerra Will Become California's Next Governor",
-      "title_zh": "民主党人Xavier Becerra当选加州州长",
-      "url": "https://www.youtube.com/watch?v=yPzHWYtbmqc",
-      "published_at": "2026-11-04T16:42:22+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党人Xavier Becerra击败前福克斯新闻评论员、特朗普盟友Steven Hilton，当选加州下一任州长。Becerra曾任加州总检察长，将成为该州150多年来首位拉丁裔州长。",
-      "summary_en": "Democrat Xavier Becerra defeated former Fox News commentator and Trump ally Steven Hilton to become California's next governor. A former California attorney general, Becerra will be the state's first Latino governor in more than 150 years.",
-      "detail_zh": "民主党人Xavier Becerra将出任加州下一任州长，他在选举中轻松击败了前福克斯新闻评论员、特朗普盟友Steven Hilton。Becerra此前担任加州总检察长，此次胜选使他成为加州150多年来首位拉丁裔州长。他在萨克拉门托向支持者发表了讲话。",
-      "detail_en": "Democrat Xavier Becerra will become California's next governor, cruising to victory over Steven Hilton, a former Fox News commentator and Trump ally. Becerra, a former California attorney general, will be the state's first Latino governor in more than 150 years. He spoke to supporters in Sacramento.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Xavier Becerra（民主党）赢得加州州长选举。",
-          "en": "Xavier Becerra (Democrat) won the California governor's race."
-        },
-        {
-          "zh": "Becerra击败了前福克斯新闻评论员、特朗普盟友Steven Hilton。",
-          "en": "Becerra defeated Steven Hilton, a former Fox News commentator and Trump ally."
-        },
-        {
-          "zh": "Becerra曾任加州总检察长，将成为该州150多年来首位拉丁裔州长。",
-          "en": "Becerra, a former California attorney general, will be the state's first Latino governor in more than 150 years."
-        }
-      ],
-      "tags": [
-        "California",
-        "governor",
-        "election",
-        "Democrat"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:8WXvEuG2BPU",
-      "title": "Wall Street Reacts to Blue Wave on Election Night",
-      "title_zh": "中期选举民主党夺回国会控制权，股债上涨美元下跌",
-      "url": "https://www.youtube.com/watch?v=8WXvEuG2BPU",
-      "published_at": "2026-11-04T16:36:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国中期选举中民主党重新掌控国会，全球市场反应总体积极：股票和债券上涨，美元下跌。彭博电视台就此采访了华尔街专家，讨论选情对市场的影响。",
-      "summary_en": "Global markets reacted mostly favorably to Democrats taking back control of Congress in the US midterm elections. Stocks and bonds rose while the dollar fell. Bloomberg Television spoke with Wall Street experts about how the races are impacting markets.",
-      "detail_zh": "美国中期选举结果出炉，民主党重新掌控国会。全球市场对此反应总体积极。具体来看，股票和债券价格上涨，美元汇率下跌。彭博电视台采访了华尔街专家，讨论选举对市场的影响。原文未提供具体指数涨幅、专家姓名或详细观点。",
-      "detail_en": "Democrats took back control of Congress in the US midterm elections. Global markets reacted mostly favorably. Stocks and bonds rose, while the dollar fell. Bloomberg Television spoke to Wall Street experts about how the races are impacting markets. The original text does not provide specific index moves, expert names, or detailed views.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党在中期选举中重新掌控国会。",
-          "en": "Democrats took back control of Congress in the midterm elections."
-        },
-        {
-          "zh": "全球市场反应总体积极。",
-          "en": "Global markets reacted mostly favorably."
-        },
-        {
-          "zh": "股票和债券上涨，美元下跌。",
-          "en": "Stocks and bonds rose, while the dollar fell."
-        },
-        {
-          "zh": "彭博电视台采访华尔街专家讨论选情对市场的影响。",
-          "en": "Bloomberg Television spoke to Wall Street experts about how the races are impacting markets."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "Democrats",
-        "Congress",
-        "stocks",
-        "dollar"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:epzJTWFkxpQ",
-      "title": "What's Left in the AI Trade? Trading the Markets w/ Kris Bullock and Durden BTC",
-      "title_zh": "Real Vision 加密图表分析：部分代币续涨、部分盘整、部分转跌",
-      "url": "https://www.youtube.com/watch?v=epzJTWFkxpQ",
-      "published_at": "2026-11-04T16:32:12+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "Real Vision 节目由 DurdenBTC 与 Kris Bullock 解读加密图表，区分持续上涨、盘整及开始转跌的代币，并回答会员提问。内容聚焦加密资产技术面，未涉及美股个股或宏观数据。",
-      "summary_en": "Real Vision hosts DurdenBTC and Kris Bullock walk through crypto charts, highlighting tokens that continue to surge, those consolidating, and those starting to roll over, followed by live member Q&A. The content focuses on crypto technicals and does not address US equities or macro data.",
-      "detail_zh": "该节目由 DurdenBTC 和 Kris Bullock 主持，通过图表分析加密代币走势，将代币分为三类：持续飙升、盘整中、以及已开始转跌。节目最后回答 Real Vision 会员的现场提问。原文未提及任何具体代币名称、价格、涨跌幅或美股标的，也未给出宏观或基本面判断。内容属于加密交易技术讨论，与美股无直接关联。",
-      "detail_en": "The show, hosted by DurdenBTC and Kris Bullock, analyzes crypto charts and categorizes tokens into three groups: those continuing to surge, those consolidating, and those already starting to roll over. It concludes with live questions from Real Vision members. The source does not name any specific tokens, prices, percentage moves, or US equity tickers, nor does it offer macro or fundamental judgments. The content is crypto trading technical discussion with no direct US equity linkage.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目按图表将代币分为续涨、盘整、转跌三类",
-          "en": "Tokens are categorized by charts into surging, consolidating, and rolling over"
-        },
-        {
-          "zh": "主持人包括 DurdenBTC 与 Kris Bullock",
-          "en": "Hosts include DurdenBTC and Kris Bullock"
-        },
-        {
-          "zh": "节目包含 Real Vision 会员现场问答",
-          "en": "Includes live Q&A from Real Vision members"
-        },
-        {
-          "zh": "原文未提及具体代币名称、价格或涨跌幅",
-          "en": "No specific token names, prices, or percentage moves are mentioned"
-        }
-      ],
-      "tags": [
-        "crypto",
-        "technical-analysis",
-        "bitcoin",
-        "altcoins"
       ],
       "tickers": [],
       "sentiment": "neutral"
