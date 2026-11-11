@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-11-11T09:16:17.354825+00:00",
+  "generated_at": "2026-11-11T10:15:03.754969+00:00",
   "insights": [
+    {
+      "guid": "yt:L7X76ZGg5_U",
+      "title": "Why Anthropic's IPO Is Make or Break for the Markets",
+      "title_zh": "彭博访谈：AI乐观情绪抵消美国通胀升温，亚洲股市上涨",
+      "url": "https://www.youtube.com/watch?v=L7X76ZGg5_U",
+      "published_at": "2026-11-11T09:25:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚洲股市在AI乐观情绪推动下上涨，抵消了美国通胀数据升温的影响。Copper Sky Capital董事总经理Jack Selby讨论了AI热潮的可持续性，并对Anthropic的IPO持保留态度。此外，黑石集团将收购印度IIFL Finance价值5.32亿美元的股份。",
+      "summary_en": "Asian stocks rose on AI optimism, offsetting hotter US inflation data. Jack Selby, Managing Director of Copper Sky Capital, discussed the sustainability of the AI boom and expressed reservations about Anthropic's IPO. Additionally, Blackstone is set to buy a $532 million stake in India's IIFL Finance.",
+      "detail_zh": "本期彭博访谈节目涵盖多个市场话题。亚洲股市上涨，因AI乐观情绪抵消了美国通胀升温的影响。Copper Sky Capital董事总经理Jack Selby就AI热潮的可持续性发表看法，并解释了他为何不看好Anthropic的IPO。Selby还讨论了英伟达危机对AI交易的风险。黑石集团宣布将以5.32亿美元收购印度IIFL Finance的股份，IIFL Finance创始人兼董事总经理Nirmal Jain阐述了黑石这笔投资的战略价值。此外，节目还预览了新加坡航空的财报，预计利润将因需求增长和燃油价格下降而上升。科技股上涨推动股市，而债券因美联储押注而下滑。Anthropic提交了澳大利亚招股说明书，向散户开放IPO。美国驻华大使David Perdue讨论了商业间谍活动威胁。印度市场在排灯节假期后重新开放。道富投资管理亚太经济学家Krishna Bhimavarapu就印度和AI交易发表观点。加州亿万富翁庆祝选民否决了一次性财富税，UC Berkeley法学院教授Brian Galle讨论了亿万富翁税的必要性和加州预算问题。",
+      "detail_en": "This Bloomberg Insight program covers multiple market topics. Asian stocks rose as AI optimism offset hotter US inflation. Jack Selby, Managing Director of Copper Sky Capital, discussed the sustainability of the AI boom and why he is not a fan of Anthropic's IPO. Selby also addressed the risk to the AI trade from the Nvidia crisis. Blackstone announced it will buy a $532 million stake in India's IIFL Finance, with IIFL Finance Founder & MD Nirmal Jain discussing the strategic value of Blackstone's bet. The program also previewed Singapore Airlines earnings, with profit set to rise on demand and lower fuel costs. Tech gains boosted stocks while bonds slid on Fed bets. Anthropic lodged an Australian prospectus, opening its IPO to retail investors. US Ambassador to China David Perdue discussed navigating the growing threat of commercial espionage. Indian markets reopened after the Diwali break. Krishna Bhimavarapu, APAC Economist at State Street Investment Management, shared views on India and the AI trade. California billionaires celebrated after voters rejected a one-time wealth tax, and UC Berkeley Law Professor Brian Galle discussed the need for a billionaires tax and California's budget issues.",
+      "conclusion_zh": "AI乐观情绪仍是支撑市场的重要因素，但需关注美国通胀数据和美联储政策对债券市场的影响。",
+      "conclusion_en": "AI optimism remains a key market support, but investors should watch US inflation data and Fed policy impacts on bonds.",
+      "key_points": [
+        {
+          "zh": "亚洲股市上涨，AI乐观情绪抵消了美国通胀升温的影响。",
+          "en": "Asian stocks rose as AI optimism offset hotter US inflation."
+        },
+        {
+          "zh": "Copper Sky Capital的Jack Selby对AI热潮的可持续性发表看法，并表示不看好Anthropic的IPO。",
+          "en": "Jack Selby of Copper Sky Capital discussed the sustainability of the AI boom and said he is not a fan of Anthropic's IPO."
+        },
+        {
+          "zh": "黑石集团将以5.32亿美元收购印度IIFL Finance的股份。",
+          "en": "Blackstone is set to buy a $532 million stake in India's IIFL Finance."
+        },
+        {
+          "zh": "科技股上涨推动股市，而债券因美联储押注而下滑。",
+          "en": "Tech gains boosted stocks while bonds slid on Fed bets."
+        },
+        {
+          "zh": "Anthropic提交澳大利亚招股说明书，向散户开放IPO。",
+          "en": "Anthropic lodged an Australian prospectus, opening its IPO to retail investors."
+        }
+      ],
+      "tags": [
+        "AI",
+        "inflation",
+        "IPO",
+        "Blackstone",
+        "Asia stocks"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:p8IhboBVlno",
+      "title": "The Perfect Storm That Clobbered Hedge Funds | Odd Lots",
+      "title_zh": "多策略对冲基金10月遭遇历史性回撤，策略相关性暴露",
+      "url": "https://www.youtube.com/watch?v=p8IhboBVlno",
+      "published_at": "2026-11-11T09:11:34+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "other",
+        "macro"
+      ],
+      "summary_zh": "10月多策略对冲基金普遍亏损，Millennium、Balyasny、Point72等均下跌，Citadel等少数基金录得正收益。核心问题在于策略高度相关，看似分散的投资实则共同暴露于AI动量交易，风险模型未能识别。",
+      "summary_en": "Multi-strategy hedge funds suffered historic losses in October, with Millennium, Balyasny, and Point72 all down, while a few like Citadel posted gains. The core issue is high correlation among strategies, with seemingly diversified bets actually sharing exposure to the AI momentum trade, which risk models failed to capture.",
+      "detail_zh": "10月对多策略对冲基金而言是历史性的糟糕月份。Millennium当月下跌2.3%，按年化计算约14%，对于该基金而言是重大损失；Balyasny和Point72也出现类似亏损。通常股市下跌时宏观或信贷策略可提供缓冲，但这次所有策略同时受挫。Citadel和Point72是少数例外，Citadel录得正收益。亏损的宏观背景包括：AI相关股票自夏季中旬以来持续走弱并最终崩溃、巴西意外选举、高收益债市场大规模抛售、法国债券下跌，这些因素共同构成完美风暴。核心质疑在于，过去12-24个月赚钱的策略可能都隐含做多AI，而风险经理并未意识到这种隐性暴露。",
+      "detail_en": "October was a historically bad month for multi-strategy hedge funds. Millennium fell 2.3% for the month, annualizing to about 14%, a significant loss for a steady vehicle; Balyasny and Point72 suffered similar losses. Normally, macro or credit strategies provide a buffer when equities fall, but this time all strategies were hit simultaneously. Citadel and Point72 were among the few exceptions, with Citadel posting positive returns. The macro backdrop included: AI-related stocks weakening since mid-summer and eventually crashing, a surprise election in Brazil, a massive selloff in the high-yield bond market, and French bond declines—together creating a perfect storm. The core question is whether strategies that made money over the past 12-24 months were implicitly long AI, and whether risk managers understood that hidden exposure.",
+      "conclusion_zh": "多策略对冲基金10月的集体回撤揭示了策略高度相关的风险，投资者需重新审视其“分散化”实质与风险控制能力。",
+      "conclusion_en": "The collective drawdown of multi-strategy hedge funds in October revealed the risk of highly correlated strategies, prompting investors to re-examine the true diversification and risk control of these funds.",
+      "key_points": [
+        {
+          "zh": "多策略基金10月集体亏损：Millennium跌2.3%，Balyasny和Point72同样受损，Citadel等少数基金录得正收益。",
+          "en": "Multi-strategy funds collectively lost in October: Millennium fell 2.3%, Balyasny and Point72 also suffered, while a few like Citadel posted gains."
+        },
+        {
+          "zh": "亏损并非孤立：AI股票崩溃、巴西大选、高收益债抛售、法国债券下跌等多重冲击同时发生。",
+          "en": "Losses were not isolated: AI stock crash, Brazil election, high-yield selloff, and French bond declines occurred simultaneously."
+        },
+        {
+          "zh": "策略相关性暴露：看似独立的投资组合实则共同暴露于AI动量交易，风险模型未能识别。",
+          "en": "Strategy correlation exposed: seemingly independent portfolios shared exposure to the AI momentum trade, which risk models failed to capture."
+        },
+        {
+          "zh": "对冲基金在组合中的角色是提供下行保护，但10月未能实现，引发对多策略商业模式的质疑。",
+          "en": "Hedge funds are meant to provide downside protection in a portfolio, but failed to do so in October, raising questions about the multi-strategy business model."
+        }
+      ],
+      "tags": [
+        "hedge funds",
+        "multi-strategy",
+        "AI trade",
+        "risk management",
+        "market volatility"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:b27QxCYtHeo",
       "title": "CoreWeave Gives Bulls a Green Light: Market Analysis",
@@ -18204,46 +18299,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:RkzSsKqGd9I",
-      "title": "Trump Downplays Prospect of Strikes on Iran Following Midterm Elections",
-      "title_zh": "特朗普称中期选举后暂无立即打击伊朗计划",
-      "url": "https://www.youtube.com/watch?v=RkzSsKqGd9I",
-      "published_at": "2026-11-04T09:46:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国总统特朗普表示，中期选举后没有立即对伊朗发动打击的计划，并称“我们似乎正在得到我们想要的一切”。该表态降低了短期内中东军事冲突升级的即时风险。",
-      "summary_en": "US President Donald Trump said he has no immediate plans to launch strikes on Iran following the midterm elections, stating \"We seem to be getting everything we want.\" The remark lowers the immediate risk of a near-term military escalation in the Middle East.",
-      "detail_zh": "特朗普在接受《金融时报》采访时表示，中期选举后他没有立即对伊朗发动打击的计划。他称“我们似乎正在得到我们想要的一切”，暗示当前施压策略已取得预期效果。该表态直接降低了市场对短期内中东军事冲突升级的担忧。原文未提供更多关于对伊政策细节、时间表或具体条件的说明。",
-      "detail_en": "In an interview with the Financial Times, Trump said he had no immediate plans to launch strikes on Iran following the midterm elections. He said, \"We seem to be getting everything we want,\" suggesting the current pressure strategy has achieved its intended results. The remark directly reduces market concerns about a near-term escalation of military conflict in the Middle East. The original text does not provide further details on Iran policy, timelines, or specific conditions.",
-      "conclusion_zh": "特朗普的表态降低了短期中东军事冲突升级的即时风险，但原文信息有限，对美股的方向性含义尚不明确。",
-      "conclusion_en": "Trump's remark lowers the immediate risk of near-term military escalation in the Middle East, but the original text is limited and the directional implication for US equities remains unclear.",
-      "key_points": [
-        {
-          "zh": "特朗普称中期选举后暂无立即打击伊朗的计划",
-          "en": "Trump says no immediate plans to strike Iran after midterms"
-        },
-        {
-          "zh": "特朗普称“我们似乎正在得到我们想要的一切”",
-          "en": "Trump says \"We seem to be getting everything we want\""
-        },
-        {
-          "zh": "该表态降低了短期中东军事冲突升级的即时风险",
-          "en": "The remark lowers the immediate risk of near-term military escalation in the Middle East"
-        }
-      ],
-      "tags": [
-        "Iran",
-        "Trump",
-        "geopolitics",
-        "Middle East"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
