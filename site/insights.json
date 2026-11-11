@@ -1,6 +1,159 @@
 {
-  "generated_at": "2026-11-11T17:13:12.096000+00:00",
+  "generated_at": "2026-11-11T18:14:14.537120+00:00",
   "insights": [
+    {
+      "guid": "yt:VOFXxYkEhfc",
+      "title": "Nvidia Scandal Raises China Stakes",
+      "title_zh": "Pangea Policy创始人：英伟达丑闻影响或远超公司本身",
+      "url": "https://www.youtube.com/watch?v=VOFXxYkEhfc",
+      "published_at": "2026-11-11T17:38:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Pangea Policy创始人Terry Haines在彭博Open Interest节目中表示，英伟达丑闻的影响可能远超该公司本身。国会和执法机构的调查可能耗时数月，而这一事件可能强化限制对华芯片销售的呼声。",
+      "summary_en": "Terry Haines, Founder of Pangea Policy, said on Bloomberg Open Interest that the Nvidia scandal could have consequences far beyond the company. Congressional and law-enforcement investigations may take months, and the episode could strengthen calls to restrict chip sales to China.",
+      "detail_zh": "Pangea Policy创始人Terry Haines做客彭博Open Interest节目，讨论了英伟达丑闻的潜在影响。Haines指出，该事件的影响可能远远超出英伟达公司本身。他表示，国会和执法机构的调查可能需要数月时间。此外，这一事件可能强化限制对华芯片销售的呼声。原文未提供丑闻的具体细节、涉及方或调查的明确范围。",
+      "detail_en": "Terry Haines, Founder of Pangea Policy, joined Bloomberg Open Interest to discuss the implications of the Nvidia scandal. Haines said the consequences could extend far beyond the company itself. He noted that congressional and law-enforcement investigations may take months. Additionally, the episode could strengthen calls to restrict chip sales to China. The original text does not provide specific details of the scandal, the parties involved, or the exact scope of the investigations.",
+      "conclusion_zh": "英伟达丑闻可能引发长期调查并加剧对华芯片销售限制的政策风险，投资者需关注相关政治与监管动向。",
+      "conclusion_en": "The Nvidia scandal may lead to prolonged investigations and heighten policy risks around restrictions on chip sales to China; investors should monitor related political and regulatory developments.",
+      "key_points": [
+        {
+          "zh": "Pangea Policy创始人Terry Haines认为，英伟达丑闻的影响可能远超公司本身。",
+          "en": "Terry Haines, Founder of Pangea Policy, believes the Nvidia scandal could have consequences far beyond the company."
+        },
+        {
+          "zh": "国会和执法机构的调查可能耗时数月。",
+          "en": "Congressional and law-enforcement investigations may take months."
+        },
+        {
+          "zh": "该事件可能强化限制对华芯片销售的呼声。",
+          "en": "The episode could strengthen calls to restrict chip sales to China."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "China",
+        "chip sales",
+        "investigations",
+        "policy risk"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:1fq5MIOxt8k",
+      "title": "Open Interest 11/11/2026",
+      "title_zh": "CoreWeave财报与Anthropic IPO重燃AI交易，CPI升温推升美联储加息押注",
+      "url": "https://www.youtube.com/watch?v=1fq5MIOxt8k",
+      "published_at": "2026-11-11T17:33:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "CoreWeave乐观指引重新点燃科技股交易，Anthropic超额认购的IPO为AI乐观情绪添柴。CPI数据火热，Goolsbee对通胀发出警告，市场对美联储加息的押注升温。英伟达领导层危机与相关调查成为政治与市场焦点。",
+      "summary_en": "CoreWeave's upbeat forecast reignites the tech trade, while Anthropic's oversubscribed IPO adds fuel to AI optimism. A hot CPI print and Goolsbee's inflation alarm boost Fed hike bets. Nvidia's leadership crisis and probe remain a political and market focus.",
+      "detail_zh": "节目围绕三大主线展开：其一，CoreWeave公布乐观业绩指引，重新激活科技股交易，但讨论也涉及AI融资风险与算力成本，以及CoreWeave的债务与融资挑战；其二，Anthropic的IPO获得超额认购，引发对其1.4万亿美元估值的辩论，并被视为对整个市场具有重要意义，涉及散户参与和AI估值风险；其三，通胀方面，CPI数据火热，Austan Goolsbee对通胀发出警告，市场对美联储加息的押注升温。此外，英伟达陷入领导层危机，涉及Jensen Huang调查、内部调查、关键人风险、估值重置以及华盛顿的政治余波，Terry Haines就国家安全风险与对华政策发表看法。个股方面提到CoreWeave遭下调评级、Johnson Controls以及英伟达被下调至中性。",
+      "detail_en": "The program centers on three themes: First, CoreWeave's upbeat guidance reignites the tech trade, but discussion also covers AI financing risks and compute costs, as well as CoreWeave's debt and financing challenges. Second, Anthropic's oversubscribed IPO sparks debate over its $1.4 trillion valuation and is seen as significant for the entire market, touching on retail participation and AI valuation risks. Third, on inflation, a hot CPI print and Austan Goolsbee's inflation alarm boost bets on Fed rate hikes. In addition, Nvidia faces a leadership crisis involving a Jensen Huang probe, internal investigation, key-man risk, valuation reset, and political fallout in Washington, with Terry Haines weighing in on national security risks and China policy. On individual names, the program mentions a CoreWeave downgrade, Johnson Controls, and Nvidia cut to Neutral.",
+      "conclusion_zh": "AI交易在CoreWeave与Anthropic消息推动下重获动力，但通胀升温与英伟达领导层风险构成双重考验，需关注估值与政策不确定性。",
+      "conclusion_en": "The AI trade regains momentum on CoreWeave and Anthropic news, but rising inflation and Nvidia leadership risks pose a dual test, with valuation and policy uncertainty in focus.",
+      "key_points": [
+        {
+          "zh": "CoreWeave乐观指引重新点燃科技股交易，但AI融资风险与算力成本受到关注。",
+          "en": "CoreWeave's upbeat forecast reignites the tech trade, while AI financing risks and compute costs draw attention."
+        },
+        {
+          "zh": "Anthropic的IPO获得超额认购，引发对其1.4万亿美元估值的辩论，并被视为对整个市场具有重要意义。",
+          "en": "Anthropic's oversubscribed IPO sparks debate over its $1.4 trillion valuation and is seen as significant for the entire market."
+        },
+        {
+          "zh": "CPI数据火热，Goolsbee对通胀发出警告，市场对美联储加息的押注升温。",
+          "en": "A hot CPI print and Goolsbee's inflation alarm boost bets on Fed rate hikes."
+        },
+        {
+          "zh": "英伟达面临领导层危机，涉及Jensen Huang调查、关键人风险与估值重置。",
+          "en": "Nvidia faces a leadership crisis involving a Jensen Huang probe, key-man risk, and a valuation reset."
+        },
+        {
+          "zh": "Terry Haines就英伟达丑闻的华盛顿余波、国家安全风险与对华政策发表看法。",
+          "en": "Terry Haines weighs in on the Washington fallout from Nvidia's scandal, national security risks, and China policy."
+        }
+      ],
+      "tags": [
+        "AI",
+        "IPO",
+        "CPI",
+        "Fed",
+        "Nvidia"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4966572",
+      "title": "Wall Street Lunch: Cancer Could Become History Thanks To AI, Says Anthropic CEO",
+      "title_zh": "Anthropic CEO称AI十年内消除重大疾病，IPO估值或超1.5万亿美元",
+      "url": "https://seekingalpha.com/article/4966572-wall-street-lunch-cancer-could-become-history-thanks-to-ai-says-anthropic-ceo?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-11T17:27:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "Anthropic CEO Dario Amodei表示AI有望在十年内消除癌症等重大疾病，同时公司因投资者需求强劲，承销商考虑将IPO发行价区间从70-78美元上调，估值目标或达1.5万亿美元以上。CoreWeave强劲财报提振同业AI云股，Rivian R2获MotorTrend 2027年度SUV。",
+      "summary_en": "Anthropic CEO Dario Amodei claims AI could eliminate major diseases like cancer within a decade, while strong investor demand may lead underwriters to raise the IPO price range above $70-$78, targeting a valuation of $1.5T or higher. CoreWeave's strong quarter boosts neocloud peers, and Rivian's R2 wins MotorTrend's 2027 SUV of the Year.",
+      "detail_zh": "Anthropic CEO Dario Amodei表示，癌症、阿尔茨海默病、心脏病和精神疾病等将在不到十年内成为历史，若处理得当可开创人类解决千年难题的奇迹时代。据Financial Times报道，由于投资者需求强劲，由高盛和摩根士丹利牵头的承销商正考虑将Anthropic的IPO发行价区间从周二文件中的70-78美元上调，估值目标可能提升至1.5万亿美元或更高。CoreWeave的“突破性季度”和强劲指引提振了其他AI云（neocloud）股票，包括Nebius、IREN、Cipher Digital、Applied Digital和Core Scientific均上涨。Rigetti Computing因Q3业绩不及预期而下跌，但分析师长期仍看好；StoneX分析师Gary Mobley指出，门级量子计算机距离商业化和容错还需数年，RGTI的销售、订单和RPO将保持季度波动。Six Flags Entertainment因内部人士买入而上涨，Jana Partners等投资者正推动公司出售，该股今年下跌28%。Rivian的R2 SUV获MotorTrend 2027年度SUV，被赞为“奇迹”，对面临销售疲软和现金消耗的Rivian至关重要。",
+      "detail_en": "Anthropic CEO Dario Amodei said cancer, Alzheimer's, heart disease, and mental illness will become relics of the past in less than a decade, and if done right, humanity could enter an age of miracles solving problems that have eluded us for millennia. According to the Financial Times, bankers led by Goldman Sachs and Morgan Stanley are considering raising Anthropic's IPO price range above the $70-$78 provided in Tuesday's filing due to strong investor demand, potentially lifting the valuation target to $1.5T or higher. CoreWeave's 'breakout quarter' and strong guidance boosted other neocloud stocks, including Nebius, IREN, Cipher Digital, Applied Digital, and Core Scientific, all higher. Rigetti Computing fell as Q3 results missed expectations, but analysts remain positive long-term; StoneX analyst Gary Mobley noted that gate-based quantum computers are years away from being commercial-grade and fault-tolerant, and RGTI's sales, bookings, and RPOs will remain lumpy quarterly. Six Flags Entertainment rose after insider buying from its executive chairman, a director, and its chief legal officer, as Jana Partners joins investors pushing for a sale; shares are down 28% this year. Rivian's R2 SUV was named MotorTrend's 2027 SUV of the Year, celebrated as 'something of a miracle,' crucial for Rivian amid lackluster sales and crippling cash burn.",
+      "conclusion_zh": "Anthropic的IPO估值上调反映市场对AI长期潜力的强烈信心，但需注意其CEO的愿景性言论与商业化落地之间的差距；同时AI云和量子计算板块的业绩分化值得关注。",
+      "conclusion_en": "Anthropic's raised IPO valuation reflects strong market confidence in AI's long-term potential, but investors should note the gap between the CEO's visionary claims and commercialization; meanwhile, performance divergence in AI cloud and quantum computing stocks warrants attention.",
+      "key_points": [
+        {
+          "zh": "Anthropic CEO Dario Amodei称AI有望在十年内消除癌症、阿尔茨海默病等重大疾病。",
+          "en": "Anthropic CEO Dario Amodei claims AI could eliminate major diseases like cancer and Alzheimer's within a decade."
+        },
+        {
+          "zh": "因投资者需求强劲，承销商考虑将Anthropic IPO发行价区间从70-78美元上调，估值目标或达1.5万亿美元以上。",
+          "en": "Strong investor demand may lead underwriters to raise Anthropic's IPO price range above $70-$78, targeting a valuation of $1.5T or higher."
+        },
+        {
+          "zh": "CoreWeave强劲财报和指引提振Nebius、IREN、Cipher Digital、Applied Digital和Core Scientific等AI云股。",
+          "en": "CoreWeave's strong results and guidance boosted neocloud stocks including Nebius, IREN, Cipher Digital, Applied Digital, and Core Scientific."
+        },
+        {
+          "zh": "Rigetti Computing Q3业绩不及预期，分析师认为量子计算机商业化仍需数年，季度业绩将波动。",
+          "en": "Rigetti Computing's Q3 results missed expectations; analysts say quantum computers are years from commercialization and results will remain lumpy."
+        },
+        {
+          "zh": "Rivian R2获MotorTrend 2027年度SUV，对面临销售疲软和现金消耗的Rivian是重要利好。",
+          "en": "Rivian's R2 won MotorTrend's 2027 SUV of the Year, a key positive for Rivian amid lackluster sales and high cash burn."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "CoreWeave",
+        "Rivian"
+      ],
+      "tickers": [
+        "NBIS",
+        "IREN",
+        "CIFR",
+        "APLD",
+        "CORZ",
+        "RGTI",
+        "FUN",
+        "RIVN"
+      ],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:6R__mvXdCUs",
       "title": "Gundlach: Historic GDP Deficit",
@@ -18133,385 +18286,6 @@
         "Democrats",
         "election",
         "politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4962377",
-      "title": "Wall Street Lunch: Uncertainty Removed, Optimism Returns",
-      "title_zh": "中期选举结果降低不确定性，股市上涨，债市油市反应积极",
-      "url": "https://seekingalpha.com/article/4962377-wall-street-lunch-uncertainty-removed-optimism-returns?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-04T18:07:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "politics",
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "中期选举结果消除了市场不确定性，推动美股上涨，同时国债收益率和油价下跌。民主党控制国会提高了对化石燃料监管和可再生能源支持的预期，但可能对国防开支和承包商构成压力。德克萨斯州意外翻蓝，新州长对新建数据中心实施暂停令，给特斯拉、SpaceX和AI基础设施项目带来监管风险。",
-      "summary_en": "Midterm election results reduced uncertainty, driving equities higher while Treasury yields and oil prices fell. Democratic control raises prospects for stricter fossil fuel regulation and support for renewables, but may pressure defense spending and contractors. Texas' unexpected blue sweep introduces a moratorium on new data centers, posing regulatory risks for Tesla, SpaceX, and AI infrastructure projects.",
-      "detail_zh": "中期选举结果公布后，市场不确定性降低，标普500、纳斯达克和道指均上涨。债市对此反应积极，收益率全线走低，因为投资者预期华盛顿将出现政治僵局，大规模支出法案难以通过。油价下跌，部分原因是特朗普淡化了打击伊朗的可能性，国务卿卢比奥表示希望通过外交途径解决问题。民主党历来支持对化石燃料实施严格监管并扩大可再生能源，First Solar等太阳能和风能股票大幅上涨。国防承包商如诺斯罗普·格鲁曼和洛克希德·马丁的股价近几个月已大幅下跌，投资者不相信特朗普政府能推动军费大幅增加，而民主党控制国会可能使军费开支受到打击。德克萨斯州完全翻蓝，新州长吉娜·希诺霍萨对新建数据中心实施立即暂停令，但已建成的数据中心可能被 grandfather 条款覆盖。大型科技公司如亚马逊、微软、Alphabet和Meta将比CoreWeave、Nebius、IREN等规模较小的公司更能应对监管压力，后者依赖债券市场融资，可能面临整合。此外，民主党对并购交易不太友好，SpaceX与特斯拉的合并可能需等待数年或完全取消。ARM和高通的财报将为智能手机行业（除苹果外）提供重要参考。",
-      "detail_en": "Following the midterm election results, market uncertainty decreased, with the S&P 500, Nasdaq, and Dow all rising. The bond market reacted positively, with yields falling across the curve as investors expect political gridlock in Washington and major spending bills are unlikely to pass. Oil prices declined, partly because Trump downplayed the prospect of strikes on Iran and Secretary of State Marco Rubio said Trump wanted to resolve things diplomatically. Democrats have historically favored heavy regulation of fossil fuels and expanding renewable energy, and solar and wind stocks such as First Solar rose sharply. Defense contractors like Northrop Grumman and Lockheed Martin have seen shares fall sharply over the past six months as investors doubted the Trump administration could push through significant military spending increases, and Democratic control of Congress could hit military spending. Texas turned completely blue, and incoming Governor Gina Hinojosa has been firm on an immediate moratorium on new data centers, though existing data centers may be grandfathered in. Large tech companies like Amazon, Microsoft, Alphabet, and Meta will fare better than smaller companies like CoreWeave, Nebius, and IREN, which rely on bond market financing and may face consolidation. Additionally, Democrats are less friendly to corporate M&A, so the SpaceX-Tesla merger may need to wait a couple of years or be called off. ARM and Qualcomm earnings will provide a read-through on the smartphone sector outside of Apple.",
-      "conclusion_zh": "中期选举后市场不确定性降低，但行业影响分化：可再生能源受益，国防承包商承压，数据中心监管风险上升，大型科技公司相对更具韧性。",
-      "conclusion_en": "Post-midterm uncertainty is reduced, but sector impacts diverge: renewables benefit, defense contractors face pressure, data center regulatory risks rise, and large tech companies are relatively more resilient.",
-      "key_points": [
-        {
-          "zh": "中期选举结果降低不确定性，美股上涨，国债收益率和油价下跌。",
-          "en": "Midterm election results reduced uncertainty, lifting equities while Treasury yields and oil prices fell."
-        },
-        {
-          "zh": "民主党控制国会提高化石燃料监管和可再生能源支持预期，太阳能股上涨，但国防开支可能承压。",
-          "en": "Democratic control raises prospects for stricter fossil fuel regulation and renewable support, boosting solar stocks, while defense spending may face headwinds."
-        },
-        {
-          "zh": "德克萨斯州翻蓝，新州长对新建数据中心实施暂停令，特斯拉、SpaceX和AI基础设施项目面临监管风险。",
-          "en": "Texas turned blue, and the new governor imposed a moratorium on new data centers, posing regulatory risks for Tesla, SpaceX, and AI infrastructure projects."
-        },
-        {
-          "zh": "大型科技公司（亚马逊、微软、Alphabet、Meta）比小型数据中心公司（CoreWeave、Nebius、IREN）更能应对监管压力。",
-          "en": "Large tech companies (Amazon, Microsoft, Alphabet, Meta) are better positioned than smaller data center companies (CoreWeave, Nebius, IREN) to handle regulatory pressure."
-        },
-        {
-          "zh": "ARM和高通财报将提供智能手机行业（除苹果外）的读解。",
-          "en": "ARM and Qualcomm earnings will provide a read-through on the smartphone sector outside of Apple."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "defense spending",
-        "renewable energy",
-        "data centers",
-        "regulation"
-      ],
-      "tickers": [
-        "NOC",
-        "LMT",
-        "TSLA",
-        "SPCX",
-        "AMZN",
-        "MSFT",
-        "GOOG",
-        "META",
-        "CRWV",
-        "NBIS",
-        "IREN"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:bTWu_mg2NTY",
-      "title": "Open Interest 11/4/2026",
-      "title_zh": "民主党中期选举大胜，AI与大型科技面临新风险",
-      "url": "https://www.youtube.com/watch?v=bTWu_mg2NTY",
-      "published_at": "2026-11-04T18:03:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党在中期选举中横扫国会，使特朗普总统处于守势，并给AI、大型科技和马斯克旗下公司带来新的风险。节目讨论了政治后果、市场反弹、监管与并购前景，以及数据中心限制和AI基础设施建设放缓等议题。",
-      "summary_en": "Democrats swept Congress in a midterm landslide, putting President Trump on the defensive and raising new risks for AI, Big Tech and Musk Inc. The program discussed political fallout, the market rally, regulation and dealmaking outlook, as well as data center restrictions and a slowdown in AI infrastructure buildout.",
-      "detail_zh": "彭博节目《Open Interest》讨论了民主党在中期选举中以压倒性优势横扫国会，使特朗普总统处于守势，并给AI、大型科技和马斯克旗下公司带来新的风险。Rahm Emanuel分析了政治后果。John Stoltzfus讨论了市场反弹并解释了他为何保持看涨。Ralph Schlosstein和Abby Joseph Cohen讨论了监管、并购交易以及投资者的下一步。节目还涉及财政部再融资、债券市场与选举的经济影响，数据中心限制、得州政策转变与AI基础设施，以及ISM服务业、经济韧性与政府停摆风险。此外，还讨论了CVS的历史性分拆、医疗保健并购与零售药房风险，AI建设放缓、得州数据中心 backlash 与Anthropic IPO风险，以及国防开支、伊朗战略与五角大楼优先事项。",
-      "detail_en": "Bloomberg's \"Open Interest\" discussed Democrats sweeping Congress in a midterm landslide, putting President Trump on the defensive and raising new risks for AI, Big Tech and Musk Inc. Rahm Emanuel broke down the political fallout. John Stoltzfus discussed the market rally and why he's staying bullish. Ralph Schlosstein and Abby Joseph Cohen discussed regulation, dealmaking and what comes next for investors. The program also covered the Treasury refunding, bond markets and economic impact of the election, data center restrictions, Texas policy shifts and AI infrastructure, as well as ISM Services, economic resilience and government shutdown risks. Additionally, it discussed CVS' historic breakup, healthcare M&A and retail pharmacy risks, AI buildout slowdown, Texas data center backlash and Anthropic IPO risks, and defense spending, Iran strategy and Pentagon priorities.",
-      "conclusion_zh": "中期选举结果可能加剧对AI和大型科技的监管压力，投资者需关注政策变化对相关板块的影响。",
-      "conclusion_en": "The midterm election results may intensify regulatory pressure on AI and Big Tech, and investors should watch policy changes affecting related sectors.",
-      "key_points": [
-        {
-          "zh": "民主党中期选举大胜，特朗普处于守势，AI、大型科技和马斯克旗下公司面临新风险。",
-          "en": "Democrats' midterm landslide puts Trump on the defensive, raising new risks for AI, Big Tech and Musk Inc."
-        },
-        {
-          "zh": "John Stoltzfus保持看涨，讨论市场反弹、数据中心等议题。",
-          "en": "John Stoltzfus stays bullish, discussing the market rally and data centers."
-        },
-        {
-          "zh": "Ralph Schlosstein和Abby Joseph Cohen讨论监管、并购和投资者前景。",
-          "en": "Ralph Schlosstein and Abby Joseph Cohen discuss regulation, dealmaking and the outlook for investors."
-        },
-        {
-          "zh": "节目涉及数据中心限制、得州政策转变与AI基础设施，以及AI建设放缓和Anthropic IPO风险。",
-          "en": "The program covers data center restrictions, Texas policy shifts and AI infrastructure, as well as AI buildout slowdown and Anthropic IPO risks."
-        },
-        {
-          "zh": "讨论还包括财政部再融资、债券市场、ISM服务业、政府停摆风险，以及CVS分拆和医疗保健并购。",
-          "en": "Discussions also include Treasury refunding, bond markets, ISM Services, government shutdown risks, and CVS breakup and healthcare M&A."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "AI regulation",
-        "Big Tech",
-        "market rally",
-        "data centers"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:CHIMEbvvkBY",
-      "title": "Why the Fed Can’t Tame Rising Bond Yields | Presented by CME Group",
-      "title_zh": "长期美债收益率面临上行压力：利率更高更久与资本竞争",
-      "url": "https://www.youtube.com/watch?v=CHIMEbvvkBY",
-      "published_at": "2026-11-04T17:56:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "长期美债收益率因“利率更高更久”预期及政府赤字与AI基础设施投资带来的资本竞争而承压。文章提出，在借贷成本攀升背景下，财政约束可能比货币紧缩更有效压低收益率。",
-      "summary_en": "Long-term Treasury yields are under upward pressure from expectations of higher-for-longer rates and growing competition for capital, driven by government deficits and massive AI infrastructure investment. The piece raises whether fiscal restraint could prove more effective than monetary tightening in bringing yields down as borrowing costs climb.",
-      "detail_zh": "长期美债收益率正面临上行压力，来源包括两方面：一是市场对“利率更高更久”的预期，二是资本竞争加剧。资本竞争加剧的背后，是政府赤字和庞大的AI基础设施投资。随着借贷成本攀升，文章提出一个政策问题：财政约束是否可能比货币紧缩更有效地压低收益率。原文未提供具体收益率数字、赤字规模或AI投资金额，也未给出明确结论，仅以提问方式呈现这一政策权衡。",
-      "detail_en": "Long-term Treasury yields are facing upward pressure from two sources: expectations of higher-for-longer interest rates and growing competition for capital. The competition for capital is driven by government deficits and massive AI infrastructure investment. With borrowing costs climbing, the piece poses a policy question: could fiscal restraint prove more effective than monetary tightening in bringing yields down? The original text does not provide specific yield levels, deficit figures, or AI investment amounts, nor does it offer a definitive conclusion, presenting the policy trade-off as an open question.",
-      "conclusion_zh": "长期美债收益率的上行压力凸显财政与资本竞争因素，投资者需关注财政政策动向对收益率的潜在影响。",
-      "conclusion_en": "Upward pressure on long-term Treasury yields highlights fiscal and capital-competition factors; investors should watch fiscal policy developments for potential yield impact.",
-      "key_points": [
-        {
-          "zh": "长期美债收益率面临上行压力，受“利率更高更久”预期推动。",
-          "en": "Long-term Treasury yields face upward pressure from higher-for-longer rate expectations."
-        },
-        {
-          "zh": "政府赤字与大规模AI基础设施投资加剧资本竞争，推高借贷成本。",
-          "en": "Government deficits and massive AI infrastructure investment intensify competition for capital, pushing borrowing costs higher."
-        },
-        {
-          "zh": "文章提出财政约束可能比货币紧缩更有效压低收益率的政策问题。",
-          "en": "The piece raises the policy question of whether fiscal restraint could be more effective than monetary tightening in lowering yields."
-        }
-      ],
-      "tags": [
-        "Treasury yields",
-        "fiscal policy",
-        "AI infrastructure",
-        "higher-for-longer"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Qx-Dr4ZCcxM",
-      "title": "The Fed Holds While Canada Plays Catch-Up | Presented by CME Group",
-      "title_zh": "加拿大央行加息而美联储按兵不动，北美汇债市场面临分化",
-      "url": "https://www.youtube.com/watch?v=Qx-Dr4ZCcxM",
-      "published_at": "2026-11-04T17:55:12+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "加拿大央行三年来首次加息，而美联储在面临相同的中东能源冲击下维持利率不变。两家央行在时机、经济状况和起始利率上的差异导致政策分化，可能影响北美货币和债券市场。",
-      "summary_en": "The Bank of Canada raised interest rates for the first time in over three years, while the Fed held steady despite facing the same Middle East energy shock. Differences in timing, economic conditions, and starting rates drive the divergence, with potential implications for North American currency and bond markets.",
-      "detail_zh": "加拿大央行进行了三年多以来的首次加息。美联储尽管面临相同的中东能源冲击，仍选择维持利率不变。两家央行的政策分化源于加息时机、经济状况以及起始利率水平的不同。这种对比鲜明的决策可能对北美货币和债券市场产生影响。原文未提供具体加息幅度、利率水平或市场影响细节。",
-      "detail_en": "The Bank of Canada raised interest rates for the first time in more than three years. The Fed held steady despite facing the same Middle East energy shock. The divergence in decisions is driven by differences in timing, economic conditions, and starting rates. The contrasting decisions could have implications for North American currency and bond markets. The original text does not provide specific rate hike magnitudes, rate levels, or detailed market impact.",
-      "conclusion_zh": "加拿大央行与美联储的政策分化可能加剧北美汇债市场波动，投资者需关注两国利差变化对加元、美元及债券收益率的影响。",
-      "conclusion_en": "The policy divergence between the Bank of Canada and the Fed could increase volatility in North American currency and bond markets, with investors watching rate differentials for impacts on the CAD, USD, and bond yields.",
-      "key_points": [
-        {
-          "zh": "加拿大央行三年来首次加息。",
-          "en": "Bank of Canada raises rates for the first time in over three years."
-        },
-        {
-          "zh": "美联储维持利率不变，尽管面临相同的中东能源冲击。",
-          "en": "Fed holds rates steady despite the same Middle East energy shock."
-        },
-        {
-          "zh": "政策分化源于时机、经济状况和起始利率的差异。",
-          "en": "Divergence driven by differences in timing, economic conditions, and starting rates."
-        },
-        {
-          "zh": "对比决策可能影响北美货币和债券市场。",
-          "en": "Contrasting decisions could affect North American currency and bond markets."
-        }
-      ],
-      "tags": [
-        "Bank of Canada",
-        "Fed",
-        "rate hike",
-        "policy divergence",
-        "North American markets"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:uGptWaPM7po",
-      "title": "Alaska's Senate Race Is Still Too Close to Call",
-      "title_zh": "阿拉斯加参议院选举结果或需至少两周才能揭晓",
-      "url": "https://www.youtube.com/watch?v=uGptWaPM7po",
-      "published_at": "2026-11-04T17:53:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "阿拉斯加参议院选举中，民主党人Mary Peltola与共和党人Dan Sullivan得票差距约600票，最终胜者可能至少两周后才能确定。",
-      "summary_en": "In Alaska's Senate race, Democrat Mary Peltola and Republican Dan Sullivan are separated by about 600 votes, and a winner may not be declared for at least two weeks.",
-      "detail_zh": "据彭博社的Anna Edgerton从安克雷奇报道，阿拉斯加参议院选举的胜者可能需要至少两周时间才能确定。民主党候选人Mary Peltola与共和党候选人Dan Sullivan目前的得票差距约为600票。报道未提供更多关于计票进展或后续流程的细节。",
-      "detail_en": "According to Bloomberg's Anna Edgerton reporting from Anchorage, it could be at least two weeks until a winner is declared in Alaska's Senate race. Democrat Mary Peltola and Republican Dan Sullivan are currently separated by about 600 votes. The report does not provide further details on the vote-counting process or next steps.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "阿拉斯加参议院选举结果可能至少两周后才能确定。",
-          "en": "The outcome of Alaska's Senate race may not be known for at least two weeks."
-        },
-        {
-          "zh": "民主党人Mary Peltola与共和党人Dan Sullivan得票差距约600票。",
-          "en": "Democrat Mary Peltola and Republican Dan Sullivan are separated by about 600 votes."
-        },
-        {
-          "zh": "彭博社的Anna Edgerton从安克雷奇报道了这一消息。",
-          "en": "Bloomberg's Anna Edgerton reported the news from Anchorage."
-        }
-      ],
-      "tags": [
-        "Alaska Senate race",
-        "election",
-        "vote count"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:U3z8x-y2te0",
-      "title": "France’s Turmoil Sends Investors Toward US Treasuries | Presented by CME Group",
-      "title_zh": "法国政治财政动荡推升法债收益率，美债避险吸引力增强",
-      "url": "https://www.youtube.com/watch?v=U3z8x-y2te0",
-      "published_at": "2026-11-04T17:53:02+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "法国政治与财政动荡波及全球债市，法国借贷成本上升而美国国债收益率下降。尽管市场对美国自身债务与赤字存在担忧，投资者似乎仍在寻求美债的相对安全性。欧洲不稳定可能强化美债的避险吸引力。",
-      "summary_en": "Political and fiscal unrest in France is rippling through global bond markets, with French borrowing costs rising as US Treasury yields fall. Despite concerns over America's own debt and deficits, investors appear to be seeking the relative safety of US government bonds. European instability could reinforce the Treasury market's safe-haven appeal.",
-      "detail_zh": "法国政治与财政动荡正在全球债券市场引发连锁反应。法国借贷成本上升，而美国国债收益率下降，形成鲜明对比。尽管投资者对美国自身的债务和赤字状况存在担忧，但他们似乎仍在寻求美国国债的相对安全性。这一现象引出一个问题：欧洲的不稳定是否会强化美国国债市场的避险吸引力。原文未提供具体收益率数字或进一步细节。",
-      "detail_en": "Political and fiscal unrest in France is sending ripples through global bond markets. French borrowing costs are rising while US Treasury yields are falling, a notable divergence. Despite concerns over America's own debt and deficits, investors appear to be seeking the relative safety of US government bonds. This raises the question of whether European instability could reinforce the Treasury market's safe-haven appeal. The source does not provide specific yield figures or further details.",
-      "conclusion_zh": "欧洲政治财政不稳定可能强化美债的避险地位，值得关注全球资金流向美国国债的迹象。",
-      "conclusion_en": "European political and fiscal instability could reinforce the safe-haven status of US Treasuries, warranting attention to global flows into US government bonds.",
-      "key_points": [
-        {
-          "zh": "法国政治与财政动荡推升法国借贷成本",
-          "en": "Political and fiscal unrest in France is pushing French borrowing costs higher"
-        },
-        {
-          "zh": "美国国债收益率下降，与法债走势分化",
-          "en": "US Treasury yields are falling, diverging from French borrowing costs"
-        },
-        {
-          "zh": "尽管对美国债务和赤字有担忧，投资者仍寻求美债的相对安全性",
-          "en": "Despite concerns over US debt and deficits, investors seek the relative safety of Treasuries"
-        },
-        {
-          "zh": "欧洲不稳定可能强化美债的避险吸引力",
-          "en": "European instability could reinforce the Treasury market's safe-haven appeal"
-        }
-      ],
-      "tags": [
-        "France",
-        "Treasuries",
-        "safe-haven",
-        "bond markets",
-        "fiscal unrest"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:jnL8qk_9Hxw",
-      "title": "Bloomberg Surveillance 11/4/2026",
-      "title_zh": "民主党中期选举大胜，市场聚焦可负担性与AI融资",
-      "url": "https://www.youtube.com/watch?v=jnL8qk_9Hxw",
-      "published_at": "2026-11-04T17:51:25+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党在中期选举中横扫国会及得州，Evercore ISI认为可负担性议题对美股构成利好，PIMCO称蓝潮是对可负担性的公投。多位嘉宾指出AI收入与融资比选举更重要，数据中心债务可能需要10%以上收益率，债市是本轮牛市最大约束。",
-      "summary_en": "Democrats swept Congress and Texas in the midterms. Evercore ISI sees the affordability message as bullish for equities, while PIMCO calls the blue wave a referendum on affordability. Guests said AI revenue and financing matter more than the midterms, data center debt may need 10%-plus yields, and the bond market is the biggest constraint on the bull run.",
-      "detail_zh": "民主党在中期选举中横扫国会，并在得克萨斯州取得历史性胜利，Iowa参议院席位也由民主党人Turek赢得。Evercore ISI的Julian Emanuel认为可负担性议题对美股构成利好；PIMCO的Libby Cantrill称蓝潮是对可负担性的公投；摩根士丹利的Ariana Salvatore认为选举对全球股市是清除事件。前副总统彭斯幕僚长Marc Short称中期选举对共和党是“政治末日”。Rapidan Energy的Bob McNally指出油市开始计入地缘政治风险。Oaktree的David Rosenberg表示数据中心债务交易可能需要10%以上的收益率。巴克莱的Alex Altmann认为AI收入和融资比中期选举更重要。AlphaCore的David Stubbs称对数据中心的抵制可能使AI繁荣更可持续。Realtor.com的Jake Krimmel认为住房复苏取决于地缘政治缓和。Academy Securities的Peter Tchir称选举后的平静可能不会持久。10月美国私人部门就业增加86,000人。PGIM的Daleep Singh预计美联储未来一年加息100个基点。Schroders的Johanna Kyrklund认为债市是本轮牛市最大的约束。",
-      "detail_en": "Democrats swept Congress and won a historic victory in Texas, with Turek winning the Iowa Senate seat for Democrats. Evercore ISI's Julian Emanuel sees the affordability message as bullish for equities; PIMCO's Libby Cantrill calls the blue wave a referendum on affordability; Morgan Stanley's Ariana Salvatore says the election is a clearing event for global equities. Marc Short, former chief of staff to VP Pence, calls the midterms a 'political Armageddon' for Republicans. Rapidan Energy's Bob McNally says the oil market is starting to embed geopolitical risk. Oaktree's David Rosenberg says data center debt deals may need 10%-plus yields. Barclays' Alex Altmann says AI revenue and financing matter more than the midterms. AlphaCore's David Stubbs says data center pushback could make the AI boom more sustainable. Realtor.com's Jake Krimmel says the housing recovery hinges on calmer geopolitics. Academy Securities' Peter Tchir says post-election calm may not last. US private payrolls rose 86,000 in October. PGIM's Daleep Singh expects the Fed to hike 100 basis points over the next year. Schroders' Johanna Kyrklund says the bond market is the biggest constraint on the bull run.",
-      "conclusion_zh": "选举清除不确定性后，美股短期情绪偏暖，但AI融资成本与债市约束是更关键的中期变量。",
-      "conclusion_en": "With the election clearing uncertainty, near-term equity sentiment is warmer, but AI financing costs and bond market constraints are the more critical medium-term variables.",
-      "key_points": [
-        {
-          "zh": "民主党横扫国会并赢得得州，Evercore ISI认为可负担性议题对美股构成利好。",
-          "en": "Democrats swept Congress and won Texas; Evercore ISI sees the affordability message as bullish for equities."
-        },
-        {
-          "zh": "PIMCO称蓝潮是对可负担性的公投，摩根士丹利认为选举对全球股市是清除事件。",
-          "en": "PIMCO calls the blue wave a referendum on affordability; Morgan Stanley sees the election as a clearing event for global equities."
-        },
-        {
-          "zh": "Oaktree的Rosenberg表示数据中心债务交易可能需要10%以上的收益率。",
-          "en": "Oaktree's Rosenberg says data center debt deals may need 10%-plus yields."
-        },
-        {
-          "zh": "巴克莱认为AI收入和融资比中期选举更重要；AlphaCore称对数据中心的抵制可能使AI繁荣更可持续。",
-          "en": "Barclays says AI revenue and financing matter more than the midterms; AlphaCore says data center pushback could make the AI boom more sustainable."
-        },
-        {
-          "zh": "PGIM预计美联储未来一年加息100个基点；Schroders认为债市是本轮牛市最大的约束。",
-          "en": "PGIM expects the Fed to hike 100 basis points over the next year; Schroders says the bond market is the biggest constraint on the bull run."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "affordability",
-        "AI financing",
-        "data center debt",
-        "Fed"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:C81JuEo-aAI",
-      "title": "5% Is Normal. The Deficit Isn’t. | Tim Paulson",
-      "title_zh": "美联储暂停加息与中期选举：Tim Duy 谈利率前景",
-      "url": "https://www.youtube.com/watch?v=C81JuEo-aAI",
-      "published_at": "2026-11-04T17:25:01+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "Tim Duy 认为美联储基金利率被过度关注，当前政策仅“略微宽松”，未来预期有限。他预计12月可能再次加息，但并非重大加息周期。两位委员反对凸显美联储内部对通胀风险的分歧，而薪资相关压力是核心通胀的主要来源。",
-      "summary_en": "Tim Duy argues the Fed funds rate is overhyped and policy is only 'slightly accommodative' with limited future expectations. He expects a possible December hike but not a major cycle. Two dissents highlight internal debate on inflation risks, with wage-related pressures driving core inflation.",
-      "detail_zh": "在11月3日（中期选举日）录制的对话中，Tim Duy 回顾了上周美联储暂停加息的决定。他指出，美联储通过幕后渠道提前沟通，因此暂停并不意外，并暗示12月可能再次加息。Duy 强调，单次会议的具体行动几乎无关紧要，重要的是未来预期，而当前预期有限。他引用沃什（Warsh）的措辞，称政策“略微宽松”，目标是转向“略微限制性”，因此并非重大加息周期。Duy 认为利率市场此前过度反应，如今已回调，部分因为意识到美联储不会“加息到通胀死亡”。他还提到沃什主张减少前瞻指引，让市场重新定价风险，这可能导致短期摩擦。本次会议有两位反对者：美联储主席哈马克（Hammack）和丽莎·库克（Cook）。Duy 认为哈马克并非政治进步派，其理由一致：在担忧领域看到问题性通胀迹象，现在加息比未来更痛苦地加息成本更低。库克则被认为是最政治化的理事，但Duy 不愿猜测其动机。Duy 认为10比2的投票显示美联储运作健康。关于通胀，他指出问题不在关税或进口价格，而在薪资相关增长，这是“超级核心”通胀的来源。一年前对工资跟不上通胀和衰退的担忧已经消退。",
-      "detail_en": "In a conversation recorded on November 3 (midterm election day), Tim Duy reviewed the Fed's decision to pause rate hikes last week. He noted the pause was unsurprising as the Fed messaged it quietly through back channels, and hinted at a possible December hike. Duy stressed that the specific action at any meeting is almost irrelevant; what matters is future expectations, which are currently limited. He cited Warsh's language that policy is 'slightly accommodative' and aims to become 'slightly restrictive,' implying no major hiking cycle. Duy said the rates market had overshot and has since backed off, partly realizing the Fed is not in a 'hike until inflation is dead' cycle. He also mentioned Warsh's push to reduce forward guidance and let markets price risk again, which could cause short-term friction. There were two dissents: Fed Chair Hammack and Lisa Cook. Duy views Hammack as not a political progressive, with consistent reasoning that problem inflation signs warrant hikes now rather than more painful ones later. Cook is seen as the most politicized governor, but Duy declined to speculate on her motives. Duy sees the 10-2 vote as a sign of a healthy, functioning Fed. On inflation, he noted the problem is not tariffs or import prices but wage-related gains, the source of 'super core' inflation. The prior year's worries about wages lagging inflation and recession have faded.",
-      "conclusion_zh": "关注美联储未来预期变化及薪资通胀数据，而非单次利率决策；市场对利率的过度反应可能提供机会。",
-      "conclusion_en": "Focus on shifts in Fed future expectations and wage inflation data rather than single rate decisions; market overreaction to rates may present opportunities.",
-      "key_points": [
-        {
-          "zh": "美联储基金利率被过度关注，单次会议行动几乎无关紧要，未来预期才是关键。",
-          "en": "The Fed funds rate is overhyped; specific meeting actions are almost irrelevant, future expectations matter most."
-        },
-        {
-          "zh": "政策仅“略微宽松”，目标转向“略微限制性”，并非重大加息周期。",
-          "en": "Policy is only 'slightly accommodative' with a goal to become 'slightly restrictive,' not a major hiking cycle."
-        },
-        {
-          "zh": "两位委员反对（哈马克和库克），凸显对通胀风险的分歧，但10-2投票被视为健康。",
-          "en": "Two dissents (Hammack and Cook) highlight debate on inflation risks, but the 10-2 vote is seen as healthy."
-        },
-        {
-          "zh": "核心通胀压力来自薪资相关增长，而非关税或进口价格。",
-          "en": "Core inflation pressures come from wage-related gains, not tariffs or import prices."
-        },
-        {
-          "zh": "减少前瞻指引可能带来市场波动，但让市场重新定价风险。",
-          "en": "Reducing forward guidance may bring market volatility but lets markets reprice risk."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "rates",
-        "inflation",
-        "midterms",
-        "forward-guidance"
       ],
       "tickers": [],
       "sentiment": "neutral"
