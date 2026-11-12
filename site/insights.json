@@ -1,6 +1,201 @@
 {
-  "generated_at": "2026-11-12T11:12:37.808178+00:00",
+  "generated_at": "2026-11-12T12:19:08.470107+00:00",
   "insights": [
+    {
+      "guid": "4966916",
+      "title": "Wall Street Breakfast Podcast: Nvidia Lets Chips Fall Where They May, Eyes New CEO",
+      "title_zh": "英伟达CEO黄仁勋面临罢免，董事会准备换帅",
+      "url": "https://seekingalpha.com/article/4966916-wall-street-breakfast-podcast-nvidia-lets-chips-fall-where-they-may-eyes-new-ceo?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-12T11:59:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "据《华尔街日报》报道，英伟达董事会因新的婚外情指控准备罢免CEO黄仁勋，并可能任命临时CEO。预测市场Polymarket显示黄仁勋年底前离职概率升至76%，英伟达盘前下跌6%，而AMD和博通则上涨。分析师Dan Ives将英伟达公允价值从300美元下调至225美元，警告黄仁勋离职将冲击其AI领导地位且无明确继任者。",
+      "summary_en": "Nvidia's board is preparing to remove CEO Jensen Huang following new affair allegations, according to The Wall Street Journal, and may name an interim CEO. Polymarket odds of Huang's exit by year-end rose to 76%, NVDA fell 6% premarket while AMD and AVGO gained. Analyst Dan Ives cut his fair value to $225 from $300, warning Huang's departure would hurt Nvidia's AI leadership with no clear successor.",
+      "detail_zh": "据《华尔街日报》报道，英伟达董事会因黄仁勋与下属的新婚外情指控，正准备将其罢免，预计很快开会，并正在与高管猎头公司合作，考虑在更广泛搜寻前先任命临时CEO。此前黄仁勋已承认与新加坡数据中心公司Megaspeed高管Alice Huang有婚外情，美国情报机构认定后者疑似中国特工；最新指控涉及英伟达医疗健康副总裁Kimberly Powell，据《纽约时报》报道，两人在3月圣何塞一场英伟达会议期间被拍到在酒店举止亲密。预测市场Polymarket上，黄仁勋今日宣布辞职或被罢免的概率达52%，周五末升至58%，11月30日前升至71%，年底前升至76%。英伟达盘前再跌6%，芯片竞争对手AMD和博通盘前上涨。继任者方面，预测市场交易员青睐内部人士，超大规模与高性能计算副总裁Ian Buck和CFO Colette Kress在Polymarket和Kalshi上均被给予约三分之一概率；外部人选包括前苹果CEO Tim Cook和前谷歌CEO Eric Schmidt，概率均为5%。长期看多英伟达的Dan Ives表示，黄仁勋“给自己和英伟达制造了黑眼时刻，如今又织出一张复杂的蜘蛛网”，他将该股公允价值下调至225美元，较黄仁勋留任情形下的300美元折价25%，因股价“将开始计入没有黄仁勋的英伟达”，但225美元仍较当前盘前水平有35%上行空间。Kobeissi Letter则敦促董事会不要解雇黄仁勋，称“没有明确的黄仁勋替代者”，其离职对英伟达和AI革命将是净负面，并呼吁董事会“暂停并咨询股东”。此外，马斯克发帖称若雇用黄仁勋将是“荣幸”。盘前纳斯达克100期货走低，此前一交易日科技股反弹，英伟达的拖累被其他芯片股上涨部分抵消；美国国债收益率在退伍军人节债市休市后基本持平。经济日历方面，关注8:30公布的每周初请失业金人数和10:00公布的10月成屋销售。",
+      "detail_en": "Nvidia's board is preparing to remove CEO Jensen Huang following new allegations of an affair with a subordinate and is expected to meet soon, according to The Wall Street Journal. The board is also weighing whether to name an interim CEO before a wider search and is working with an executive search firm. Huang had already admitted an affair with Alice Huang, an executive at Singapore-based data center company Megaspeed whom U.S. intelligence agencies have identified as a suspected Chinese operative. The latest allegations involve Kimberly Powell, Nvidia's vice president of healthcare; according to The New York Times, the two were seen on video being affectionate at a San Jose hotel during an Nvidia conference in March. On Polymarket, the odds of Huang announcing his resignation or being removed hit 52% for today, rising to 58% by the end of Friday, 71% by Nov. 30 and 76% by the end of the year. Nvidia shares fell another 6% premarket, while chip rivals AMD and Broadcom were both higher before the bell. On succession, prediction market traders favor insiders: Ian Buck, VP of hyperscale and high-performance computing, and CFO Colette Kress were each given around a one-in-three chance on Polymarket and Kalshi. Outside bets include former Apple CEO Tim Cook and former Google CEO Eric Schmidt at 5%. Big Nvidia bull Dan Ives said Huang \"has created a black eye moment for himself and Nvidia and now has created a spider web of complexity.\" Ives cut his fair value to $225, a 25% haircut from the $300 he sees with Huang at the helm, as the stock \"will now bake in Nvidia without Jensen going forward\"; that still implies 35% upside from current premarket levels. Meanwhile, the Kobeissi Letter urged the board not to fire Huang, saying \"There is no clear replacement for Jensen Huang\" and arguing his departure would be a net negative for Nvidia and the AI revolution; it added, \"It is time to pause and consult your shareholders.\" Elon Musk posted that it would be \"an honor\" to hire Huang. In premarket trading, Nasdaq 100 futures were lower after a tech rally in the previous session, with the Nvidia damage somewhat mitigated by gains in other chip stocks, and Treasury yields were little changed a day after the bond market was closed for Veterans Day. On the economic calendar: 8:30 a.m. weekly Initial Jobless Claims and 10:00 a.m. October Existing Home Sales.",
+      "conclusion_zh": "黄仁勋去留是英伟达短期核心风险，董事会决策与继任安排将主导股价；分析师虽下调公允价值，但仍认为当前盘前水平有上行空间，投资者需关注董事会会议及临时CEO任命进展。",
+      "conclusion_en": "Huang's fate is the key near-term risk for Nvidia, with the board's decision and succession plan set to drive the stock; analysts cut fair value but still see upside from premarket levels, and investors should watch the board meeting and any interim CEO appointment.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会因新的婚外情指控准备罢免CEO黄仁勋，并考虑先任命临时CEO，正与高管猎头合作。",
+          "en": "Nvidia's board is preparing to remove CEO Jensen Huang following new affair allegations, weighing an interim CEO and working with an executive search firm."
+        },
+        {
+          "zh": "Polymarket显示黄仁勋年底前离职概率升至76%，今日宣布辞职或被罢免概率为52%。",
+          "en": "Polymarket odds of Huang's exit by year-end rose to 76%, with a 52% chance of resignation or removal today."
+        },
+        {
+          "zh": "英伟达盘前下跌6%，AMD和博通盘前上涨；纳斯达克100期货走低。",
+          "en": "NVDA fell 6% premarket while AMD and AVGO gained; Nasdaq 100 futures were lower."
+        },
+        {
+          "zh": "Dan Ives将英伟达公允价值从300美元下调至225美元，称股价将计入没有黄仁勋的情形，但仍较盘前有35%上行空间。",
+          "en": "Dan Ives cut NVDA fair value to $225 from $300, saying the stock will bake in Nvidia without Huang, though it still implies 35% upside from premarket."
+        },
+        {
+          "zh": "Kobeissi Letter反对解雇黄仁勋，称无明确替代者，其离职对英伟达和AI革命是净负面。",
+          "en": "The Kobeissi Letter urged the board not to fire Huang, saying there is no clear replacement and his departure would be a net negative for Nvidia and the AI revolution."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO succession",
+        "AI leadership",
+        "prediction markets",
+        "chip stocks"
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "AAPL",
+        "GOOG"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:8qxIcpGfWUM",
+      "title": "Nvidia Board Meets to Consider Replacing Jensen Huang",
+      "title_zh": "英伟达CEO危机冲击科技股涨势，AI供应链面临连锁风险",
+      "url": "https://www.youtube.com/watch?v=8qxIcpGfWUM",
+      "published_at": "2026-11-12T11:55:00+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋被曝多起婚外情（其中一人疑似为中国间谍），董事会正讨论其去留，英伟达盘前下跌7%，纳斯达克100期货跌0.9%，威胁到该指数自5月以来最佳周涨幅。市场担忧领导层危机将波及全球AI供应链。",
+      "summary_en": "Nvidia CEO Jensen Huang faces a leadership crisis after reports of multiple extramarital affairs, including one with a woman suspected of spying for China; the board is discussing his future. Nvidia fell 7% premarket and Nasdaq 100 futures dropped 0.9%, threatening the index's best weekly gain since May, with concerns the crisis could reverberate across the global AI supply chain.",
+      "detail_zh": "英伟达盘前下跌7%，此前有报道称CEO黄仁勋存在多起婚外情，其中一名女性疑似为中国从事间谍活动，公司董事会正在讨论黄仁勋的未来。纳斯达克100期货下跌0.9%，可能削减该指数自5月以来的最佳周涨幅。节目讨论了该丑闻对投资者情绪的影响、英伟达危机如何使美中关系复杂化，以及全球AI交易的溢出效应。巴克莱的Julien Lafargue讨论了英伟达与AI投资前景以及AI繁荣是否泡沫化；Saxo的Charu Chanana讨论了没有黄仁勋的英伟达估值；Databricks联合创始人Arsalan Tavakoli-Shiraji讨论了英伟达与AI生态系统。此外，西门子因AI需求上调业绩指引，其CEO称与英伟达的合作是“一切照旧”。节目还涉及债券能否对冲AI动荡、英国增长与国债及英国央行前景、赫伯罗特CEO谈全球航运需求与苏伊士运河回归等话题。",
+      "detail_en": "Nvidia dropped 7% in premarket trading after reports of CEO Jensen Huang's multiple extramarital affairs, including one with a woman suspected of spying for China, with the board discussing his future. Nasdaq 100 contracts fell 0.9%, threatening to trim the index's best weekly gain since May. The program discussed the scandal's hit to investor sentiment, how the Nvidia crisis complicates US-China relations, and fallout for the global AI trade. Barclays' Julien Lafargue discussed Nvidia and the AI investment outlook and whether the AI boom is a bubble; Saxo's Charu Chanana discussed Nvidia's valuation without Jensen Huang; Databricks co-founder Arsalan Tavakoli-Shiraji discussed Nvidia and the AI ecosystem. Separately, Siemens raised guidance on AI demand, with its CEO calling the Nvidia partnership 'business as usual.' The program also covered whether bonds can hedge AI turmoil, UK growth, gilts and the BOE outlook, and Hapag-Lloyd's CEO on global shipping demand and return to the Suez Canal.",
+      "conclusion_zh": "英伟达领导层危机构成AI交易的关键尾部风险，投资者需关注董事会决策及对全球AI供应链的溢出效应。",
+      "conclusion_en": "The Nvidia leadership crisis is a key tail risk for the AI trade; investors should watch the board's decision and spillover effects on the global AI supply chain.",
+      "key_points": [
+        {
+          "zh": "英伟达盘前下跌7%，董事会讨论CEO黄仁勋的去留，此前报道称其存在多起婚外情，其中一人疑似为中国间谍。",
+          "en": "Nvidia fell 7% premarket as the board discusses CEO Jensen Huang's future after reports of multiple extramarital affairs, including one with a woman suspected of spying for China."
+        },
+        {
+          "zh": "纳斯达克100期货下跌0.9%，可能削减该指数自5月以来的最佳周涨幅。",
+          "en": "Nasdaq 100 futures fell 0.9%, threatening to trim the index's best weekly gain since May."
+        },
+        {
+          "zh": "市场担忧领导层危机将波及全球AI供应链，并使美中关系复杂化。",
+          "en": "Concerns that the leadership crisis could reverberate across the global AI supply chain and complicate US-China relations."
+        },
+        {
+          "zh": "西门子因AI需求上调业绩指引，其CEO称与英伟达的合作是“一切照旧”。",
+          "en": "Siemens raised guidance on AI demand, with its CEO calling the Nvidia partnership 'business as usual.'"
+        },
+        {
+          "zh": "节目讨论了没有黄仁勋的英伟达估值、AI繁荣是否泡沫化，以及债券能否对冲AI动荡。",
+          "en": "The program discussed Nvidia's valuation without Jensen Huang, whether the AI boom is a bubble, and whether bonds can hedge AI turmoil."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI supply chain",
+        "leadership crisis",
+        "US-China",
+        "tech selloff"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:yxIjIQ8GKz0",
+      "title": "UN Secretary-General Warns of ‘Perfect Storm’ of Global Risks",
+      "title_zh": "联合国秘书长警告全球威胁“完美风暴”，提及美国缺席巴黎协定与AI影响",
+      "url": "https://www.youtube.com/watch?v=yxIjIQ8GKz0",
+      "published_at": "2026-11-12T11:53:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "联合国秘书长安东尼奥·古特雷斯在COP31期间接受采访时，描述了他所看到的威胁“完美风暴”，认为这给全球社会带来“巨大风险”。他还谈及美国缺席巴黎协定以及人工智能在全球环境中的影响。",
+      "summary_en": "UN Secretary-General Antonio Guterres described a \"perfect storm\" of threats creating an \"enormous risk for the global society\" in an interview on the sidelines of COP31. He also addressed the US absence from the Paris Agreement and the reach of artificial intelligence across the global environment.",
+      "detail_zh": "联合国秘书长安东尼奥·古特雷斯在土耳其举行的COP31会议期间接受彭博社的詹妮弗·扎巴萨贾采访时表示，他看到一系列威胁正在形成“完美风暴”，并称这给全球社会带来“巨大风险”。古特雷斯还提到了美国缺席巴黎协定这一情况。此外，他讨论了人工智能在全球环境中的影响范围。采访未提供更多具体细节或数据。",
+      "detail_en": "UN Secretary-General Antonio Guterres, speaking with Bloomberg's Jennifer Zabasajja on the sidelines of COP31 in Turkey, said he sees a \"perfect storm\" of threats creating an \"enormous risk for the global society.\" He also addressed the absence of the US from the Paris Agreement. Additionally, he discussed the reach of artificial intelligence across the global environment. The interview did not provide further specific details or data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "古特雷斯称多重威胁形成“完美风暴”，对全球社会构成“巨大风险”。",
+          "en": "Guterres described a \"perfect storm\" of threats posing an \"enormous risk for the global society.\""
+        },
+        {
+          "zh": "他提及美国缺席巴黎协定。",
+          "en": "He addressed the absence of the US from the Paris Agreement."
+        },
+        {
+          "zh": "他还谈到人工智能在全球环境中的影响范围。",
+          "en": "He also discussed the reach of artificial intelligence across the global environment."
+        }
+      ],
+      "tags": [
+        "UN",
+        "COP31",
+        "Paris Agreement",
+        "AI",
+        "global risks"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:31KLRe0keMA",
+      "title": "Nvidia CEO Crisis Deepens as Board Weighs Jensen Huang Future",
+      "title_zh": "英伟达董事会寻求CEO黄仁勋潜在继任者，股价盘前大跌8%",
+      "url": "https://www.youtube.com/watch?v=31KLRe0keMA",
+      "published_at": "2026-11-12T11:43:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据彭博报道，英伟达董事会正与外部机构合作，物色CEO黄仁勋的潜在继任者，此前有报道称黄仁勋存在多起婚外情，其中一名女性被怀疑为中国从事间谍活动。英伟达股价盘前一度下跌8%，至少三位分析师下调评级，科技股反弹势头中断，市场担忧领导层危机可能波及全球AI供应链。",
+      "summary_en": "Bloomberg has learned that Nvidia's board is working with an outside firm to identify potential replacements for CEO Jensen Huang following reports of multiple extramarital affairs, including one with a woman suspected of spying for China. Nvidia shares fell as much as 8% in premarket trading, at least three analysts downgraded the stock, and a tech rally halted as traders confronted a leadership crisis that threatens fallout across the global AI supply chain.",
+      "detail_zh": "彭博获悉，英伟达董事会已与一家外部公司合作，寻找CEO黄仁勋的潜在继任者。此前有报道称黄仁勋存在多起婚外情，其中一名女性被怀疑为中国从事间谍活动。受此影响，英伟达股价在盘前交易中一度下跌8%。华尔街对英伟达的情绪开始出现裂痕，自黄仁勋上周末承认一段婚外情以来，至少三位分析师下调了该股评级。科技股的反弹势头戛然而止，交易员们正面临英伟达的领导层危机，这可能对全球人工智能供应链产生更广泛的冲击。节目还讨论了英伟达事件对美中贸易休战的考验、中期选举蓝色浪潮被视为对特朗普的否定、数据中心建设、英国央行利率压力、AI集中度上升需要选择性投资、公司治理等议题。",
+      "detail_en": "Bloomberg has learned that Nvidia's board has been working with an outside firm to identify potential replacements for CEO Jensen Huang following reports of multiple extramarital affairs, including one with a woman reportedly suspected of spying for China. Nvidia shares fell as much as 8% in premarket trading. Wall Street sentiment toward Nvidia is starting to crack, with at least three analysts downgrading the stock since Huang admitted over the weekend that he had an extramarital affair. A rebound in technology stocks came to a halt as traders confronted a leadership crisis at Nvidia that threatens a wider fallout across the global artificial intelligence supply chain. The program also discussed the Nvidia fallout testing the US-China trade truce, a midterm blue wave seen as a rebuke of Trump, datacenter buildout, strong growth adding to BOE rate pressures, rising AI concentration calling for selectivity, and corporate governance.",
+      "conclusion_zh": "英伟达领导层危机已引发股价剧烈反应和分析师下调评级，投资者需关注事件对全球AI供应链的潜在溢出风险及公司治理影响。",
+      "conclusion_en": "The leadership crisis at Nvidia has triggered a sharp stock reaction and analyst downgrades; investors should watch for potential spillover risks to the global AI supply chain and corporate governance implications.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会正与外部机构合作，物色CEO黄仁勋的潜在继任者。",
+          "en": "Nvidia's board is working with an outside firm to identify potential replacements for CEO Jensen Huang."
+        },
+        {
+          "zh": "此前有报道称黄仁勋存在多起婚外情，其中一名女性被怀疑为中国从事间谍活动。",
+          "en": "Reports emerged of multiple extramarital affairs, including one with a woman suspected of spying for China."
+        },
+        {
+          "zh": "英伟达股价盘前一度下跌8%，至少三位分析师下调评级。",
+          "en": "Nvidia shares fell as much as 8% in premarket trading, and at least three analysts downgraded the stock."
+        },
+        {
+          "zh": "科技股反弹中断，市场担忧领导层危机波及全球AI供应链。",
+          "en": "The tech rally halted as traders confronted a leadership crisis that threatens fallout across the global AI supply chain."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO succession",
+        "AI supply chain",
+        "US-China",
+        "corporate governance"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:pTMMuKYpc_E",
       "title": "Why The Fed Is A Bigger Risk For The AI Boom Than Nvidia",
@@ -18359,156 +18554,6 @@
         "NET"
       ],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:8MuLw_tGOQY",
-      "title": "Godzilla vs. King Kong, Degen Dip-Buyers and Anthropic | Trillions",
-      "title_zh": "Vanguard超越BlackRock成美国ETF龙头；杠杆ETF风险引韩国政治关注；投资者逢跌买入半导体ETF",
-      "url": "https://www.youtube.com/watch?v=8MuLw_tGOQY",
-      "published_at": "2026-11-05T11:40:30+00:00",
-      "source_name": "Trillions (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "volatility"
-      ],
-      "summary_zh": "Vanguard在美国资产规模上超越BlackRock，且此次领先可能持续，被动投资主导地位强化。杠杆ETF的风险引发韩国政治层面关注，而美国半导体ETF在下跌中获大量资金流入，尤其是3倍杠杆产品。",
-      "summary_en": "Vanguard has overtaken BlackRock in US assets, and this lead may hold, reinforcing passive investing dominance. Leveraged ETF risks drew political attention in South Korea, while US semiconductor ETFs saw aggressive dip-buying, especially in 3x leveraged products.",
-      "detail_zh": "在最新一集Trillions播客中，彭博情报ETF分析师Athanasio Saraphagus与彭博TV市场记者Isabelle Lee讨论了多个主题。首先，Vanguard在资产规模上超越BlackRock，此次领先似乎可能持续，而此前几个月两者的竞争曾难分伯仲。Vanguard的产品线以低成本核心产品为主，这帮助其取得领先；BlackRock则通过比特币ETF和主动型产品努力保持领先。自2020年以来，Vanguard在被动股票资产中的份额上升了5个百分点。全球范围内，BlackRock资产规模仍更大，iShares品牌认知度更强，尤其在欧洲。Vanguard正加大债券产品力度，以挑战iShares在债券领域的领先地位。其次，Tradr关闭了其2倍杠杆的SK海力士ETF（一多一空），因产品推出后未能获得强劲开局。Isabelle Lee指出，韩国总统府幕僚长因杠杆ETF问题辞职，显示杠杆ETF风险已上升至政治层面。最后，半导体ETF出现大量逢跌买入，半导体板块较10月高点下跌约17%，3倍做多半导体ETF（SOXL）资金流入创纪录，因投资者预期逢跌买入总能获得回报。",
-      "detail_en": "In the latest Trillions podcast, Bloomberg Intelligence ETF analyst Athanasio Saraphagus and Bloomberg TV markets reporter Isabelle Lee discussed several themes. First, Vanguard has surpassed BlackRock in assets, and this lead appears likely to hold, after the two were neck and neck a few months ago. Vanguard's lineup of low-cost core products helped it take the lead, while BlackRock tried to fend it off with Bitcoin ETFs and active products. Since 2020, Vanguard's share of passive equity assets rose 5 percentage points. Globally, BlackRock remains larger, with iShares having stronger brand recognition, especially in Europe. Vanguard is ramping up its bond offering to challenge iShares' lead in bonds. Second, Tradr closed its 2x leveraged SK Hynix ETFs (one long, one short) after they failed to gain strong traction out of the gate. Isabelle Lee noted that South Korea's presidential chief of staff offered to resign over leveraged ETFs, showing the political dimension of leveraged ETF risks. Finally, semiconductor ETFs saw massive dip-buying, with the sector down about 17% from its October highs, and the 3x long semiconductor ETF (SOXL) seeing record monthly inflows, as investors expect dip-buying to be rewarded.",
-      "conclusion_zh": "Vanguard的领先地位强化了被动投资趋势，而杠杆ETF的风险与半导体ETF的逢跌买入值得投资者关注。",
-      "conclusion_en": "Vanguard's lead reinforces the passive investing trend, while leveraged ETF risks and dip-buying in semiconductor ETFs warrant investor attention.",
-      "key_points": [
-        {
-          "zh": "Vanguard在美国资产规模上超越BlackRock，此次领先可能持续，自2020年以来其被动股票资产份额上升5个百分点。",
-          "en": "Vanguard has overtaken BlackRock in US assets, and the lead may hold, with its passive equity asset share up 5 percentage points since 2020."
-        },
-        {
-          "zh": "全球范围内BlackRock资产规模仍更大，iShares品牌认知度更强，尤其在欧洲；Vanguard正加大债券产品力度。",
-          "en": "Globally, BlackRock remains larger with stronger iShares brand recognition, especially in Europe; Vanguard is ramping up bond offerings."
-        },
-        {
-          "zh": "Tradr关闭了2倍杠杆SK海力士ETF，因产品推出后未能获得强劲开局。",
-          "en": "Tradr closed its 2x leveraged SK Hynix ETFs after they failed to gain strong traction out of the gate."
-        },
-        {
-          "zh": "韩国总统府幕僚长因杠杆ETF问题辞职，显示杠杆ETF风险已上升至政治层面。",
-          "en": "South Korea's presidential chief of staff offered to resign over leveraged ETFs, showing political attention to leveraged ETF risks."
-        },
-        {
-          "zh": "半导体板块较10月高点下跌约17%，3倍做多半导体ETF（SOXL）资金流入创纪录，投资者逢跌买入。",
-          "en": "Semiconductors are down about 17% from October highs, and the 3x long semiconductor ETF (SOXL) saw record inflows as investors bought the dip."
-        }
-      ],
-      "tags": [
-        "Vanguard",
-        "BlackRock",
-        "leveraged ETFs",
-        "semiconductors",
-        "dip-buying"
-      ],
-      "tickers": [
-        "SOXL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:VdckdqADp48",
-      "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-      "title_zh": "彭博节目章节概览：民主党中期选举大胜与市场影响",
-      "url": "https://www.youtube.com/watch?v=VdckdqADp48",
-      "published_at": "2026-11-05T11:23:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅为彭博电视节目《Insight with Haslinda Amin》的章节列表，未提供具体访谈内容或数据。章节显示节目讨论了民主党在中期选举中的大胜、Yardeni Research总裁Ed Yardeni对市场影响的看法、亚洲股市板块轮动、中国与日本经济、特朗普贸易政策以及固定收益市场等话题。",
-      "summary_en": "The original text is merely a chapter list from Bloomberg TV's 'Insight with Haslinda Amin' program, without specific interview content or data. The chapters indicate discussions on Democrats' midterm wins, market impact views from Yardeni Research President Ed Yardeni, Asian stock rotation, China and Japan economies, Trump trade policy, and fixed income markets.",
-      "detail_zh": "原文为彭博电视节目《Insight with Haslinda Amin》的章节列表，包含时间戳和章节标题，但无具体内容。章节标题显示：民主党因通胀愤怒和特朗普疲劳赢得巨大胜利；Yardeni Research总裁Ed Yardeni讨论美国投票的市场影响及AI建设的政治监督和资本获取；亚洲股市波动，交易员从科技股轮动到消费股；法国巴黎银行资产管理高级市场策略师Ecaterina Bigos讨论中国经济和日本政府债券需求复苏；印度在民主党大胜后获得贸易缓解但面临新风险；Hinrich Foundation贸易政策主管Deborah Elms讨论中期选举后的特朗普贸易政策；特朗普淡化伊朗打击可能性；Franklin Templeton投资组合经理Tracy Chen讨论固定收益和美国中期选举；中国对特朗普保持信心；印度企业家Sunil Bharti Mittal讨论美印贸易关系；万豪国际亚太区前总裁Rajeev Menon讨论区域旅游增长和扩张；印尼在总统窃听调查中部署军队。",
-      "detail_en": "The original text is a chapter list from Bloomberg TV's 'Insight with Haslinda Amin', containing timestamps and chapter titles but no specific content. Chapter titles indicate: Democrats clinch huge wins on inflation anger and Trump fatigue; Yardeni Research President Ed Yardeni discusses market impact of US vote and political oversight and access to capital for AI buildout; Asian stocks fluctuate as traders rotate from tech to consumer shares; BNP Paribas Asset Management Senior Market Strategist Ecaterina Bigos discusses China's economy and recovering demand for Japanese government bonds; India sees trade relief and new risks after Democrat sweep; Hinrich Foundation Trade Policy Head Deborah Elms discusses Trump trade policy post-midterms; Trump plays down prospect of Iran strikes after midterm rout; Franklin Templeton Portfolio Manager Tracy Chen discusses fixed income and US midterms; China keeps faith in Trump even as 'total defeat' adds new risks; Indian entrepreneur Sunil Bharti Mittal discusses US-India trade relations; Marriott International APAC Ex-China President Rajeev Menon discusses sustained regional travel growth and expansion; Indonesia deploys troops amid probe into president wiretapping.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党在中期选举中因通胀愤怒和特朗普疲劳取得大胜。",
-          "en": "Democrats clinch huge wins on inflation anger and Trump fatigue."
-        },
-        {
-          "zh": "Yardeni Research总裁Ed Yardeni讨论美国投票的市场影响及AI建设的资本获取。",
-          "en": "Yardeni Research President Ed Yardeni discusses market impact of US vote and access to capital for AI buildout."
-        },
-        {
-          "zh": "亚洲股市波动，交易员从科技股轮动至消费股。",
-          "en": "Asian stocks fluctuate as traders rotate from tech to consumer shares."
-        },
-        {
-          "zh": "法国巴黎银行资产管理策略师Ecaterina Bigos讨论中国经济和日本政府债券需求复苏。",
-          "en": "BNP Paribas Asset Management strategist Ecaterina Bigos discusses China's economy and recovering demand for Japanese government bonds."
-        },
-        {
-          "zh": "Hinrich Foundation的Deborah Elms讨论中期选举后的特朗普贸易政策。",
-          "en": "Hinrich Foundation's Deborah Elms discusses Trump trade policy post-midterms."
-        }
-      ],
-      "tags": [
-        "US midterms",
-        "market impact",
-        "trade policy",
-        "Asia stocks",
-        "fixed income"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:nAU84t7kT3M",
-      "title": "Trump Faces Backlash After Midterm Election Rout",
-      "title_zh": "高盛称中期选举\"蓝色海啸\"或对AI与数据中心监管产生重大影响",
-      "url": "https://www.youtube.com/watch?v=nAU84t7kT3M",
-      "published_at": "2026-11-05T11:21:48+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "高盛将美国中期选举结果定性为\"蓝色海啸\"，认为这可能对AI和数据中心监管产生重大影响。共和党在中期选举中遭遇世代性溃败，党内相互指责并指向白宫，为2028年潜在候选人提供了调整叙事的机会。此外，英国央行准备进行三年来首次加息，UBS据称将在伦敦裁员约200人。",
-      "summary_en": "Goldman Sachs characterized the US midterm results as a \"blue tsunami\" with potentially significant implications for AI and data center regulation. The Republican Party suffered a generational collapse in the midterms, triggering finger-pointing largely aimed at the Oval Office and opening the door for 2028 hopefuls. Separately, the BOE is poised for its first rate hike in three years, and UBS is said to cut about 200 London jobs.",
-      "detail_zh": "高盛将美国中期选举结果描述为\"蓝色海啸\"，并指出这可能对AI和数据中心监管产生重大影响。共和党在本周中期选举中遭遇世代性溃败，随之而来的相互指责主要指向白宫，暴露出党内深层裂痕，同时为2028年潜在候选人提供了打磨自身信息的机会。JD Vance将中期选举失利归咎于伊朗战争和以色列关系。法国正准备迎接因生活成本问题而爆发的一天罢工和示威，延续已超过一个月的抗议活动，同时围绕明年预算的议会谈判仍陷僵局。英国央行准备进行三年来首次加息。UBS据称将在伦敦裁员约200人。Mittal认为卫星替代方案不仅限于美国和中国。",
-      "detail_en": "Goldman Sachs described the US midterm election results as a \"blue tsunami\" with potentially significant implications for AI and data center regulation. The Republican Party suffered a generational collapse in this week's midterms, ushering in a wave of finger-pointing largely aimed at the Oval Office, exposing deep fissures within the party and opening the door for 2028 hopefuls to hone their message. JD Vance pinned the midterm loss on the Iran war and Israel ties. France is bracing for a day of strikes and demonstrations over the cost of living, extending more than a month of protests, as parliamentary talks over next year's budget remain deadlocked. The BOE is poised for its first rate hike in three years. UBS is said to cut about 200 London jobs. Mittal sees satellite alternatives beyond the US and China.",
-      "conclusion_zh": "中期选举\"蓝色海啸\"可能改变AI与数据中心监管前景，是美股科技板块需关注的政策变量。",
-      "conclusion_en": "The midterm \"blue tsunami\" could shift the outlook for AI and data center regulation, a policy variable US tech investors should watch.",
-      "key_points": [
-        {
-          "zh": "高盛将中期选举结果定性为\"蓝色海啸\"，认为可能对AI和数据中心监管产生重大影响。",
-          "en": "Goldman Sachs characterized the midterm results as a \"blue tsunami\" with potentially significant implications for AI and data center regulation."
-        },
-        {
-          "zh": "共和党遭遇世代性溃败，党内指责主要指向白宫，暴露出深层裂痕，并为2028年潜在候选人创造空间。",
-          "en": "The Republican Party suffered a generational collapse, with finger-pointing largely aimed at the Oval Office, exposing deep fissures and opening the door for 2028 hopefuls."
-        },
-        {
-          "zh": "JD Vance将中期选举失利归咎于伊朗战争和以色列关系。",
-          "en": "JD Vance pinned the midterm loss on the Iran war and Israel ties."
-        },
-        {
-          "zh": "英国央行准备进行三年来首次加息。",
-          "en": "The BOE is poised for its first rate hike in three years."
-        },
-        {
-          "zh": "UBS据称将在伦敦裁员约200人。",
-          "en": "UBS is said to cut about 200 London jobs."
-        }
-      ],
-      "tags": [
-        "US midterms",
-        "AI regulation",
-        "data centers",
-        "BOE rate hike",
-        "UBS layoffs"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
