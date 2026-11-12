@@ -1,6 +1,389 @@
 {
-  "generated_at": "2026-11-12T15:14:03.407097+00:00",
+  "generated_at": "2026-11-12T16:15:43.635509+00:00",
   "insights": [
+    {
+      "guid": "yt:s-V2803JIvo",
+      "title": "An AI Bubble Could Hit Stocks. Inflation Could Hit Bonds. How Do You Diversify and Keep Both?",
+      "title_zh": "Return Stacking：分散化为何难以坚持，以及如何用杠杆叠加策略",
+      "url": "https://www.youtube.com/watch?v=s-V2803JIvo",
+      "published_at": "2026-11-12T16:00:08+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "macro"
+      ],
+      "summary_zh": "Corey Hoffstein与Adam Butler探讨了分散化策略难以坚持的原因，以及return stacking如何让投资者在保留股债敞口的同时加入管理期货等策略。他们强调，杠杆的使用需关注抵押品管理和投资者能否承受长期回撤，并区分了低相关性与崩盘保护的不同。",
+      "summary_en": "Corey Hoffstein and Adam Butler discuss why diversification is hard to stick with and how return stacking allows investors to add strategies like managed futures while preserving stock and bond exposure. They highlight that leverage requires attention to collateral management and an investor's ability to endure long drawdowns, and distinguish low correlation from crash protection.",
+      "detail_zh": "在Excess Returns播客中，Corey Hoffstein和Adam Butler与Matt Zeigler讨论了分散化策略的执行难点。他们指出，当股票持续上涨时，长期跑输的策略可能让人感觉错误；而当通胀同时打压股债时，持有不同资产的理由更易显现。Corey解释了为何与股市关联度低的策略也可能在股市下跌日亏钱。Adam回顾了2008年，一些对冲基金在投资者需要现金再平衡时暂停赎回。他们以管理期货为例说明return stacking：投资者可保留60/40组合的股债敞口，并用期货加入另一策略，这引入了杠杆，使两个问题尤为重要——组合需要持有何种抵押品，以及投资者能否在长期回撤中坚持策略。讨论还涉及低相关性与崩盘保护的区别、2008年机构将流动期货与非流动对冲基金配对的问题、单一基金管理双重敞口对抵押品管理和再平衡的改变、管理期货与股票、债券或黄金的搭配，以及分散化策略可能让投资者失望多久。",
+      "detail_en": "In the Excess Returns podcast, Corey Hoffstein and Adam Butler join Matt Zeigler to discuss the execution challenges of diversification. They note that when stocks keep climbing, a strategy that trails them for years can feel like a mistake, while an inflation shock that pushes stocks and bonds down together makes the case for owning something different easier to see. Corey explains why even a strategy with little connection to the stock market can lose money on the day stocks fall. Adam revisits 2008, when some hedge funds suspended withdrawals just as investors needed cash to rebalance. They use managed futures to illustrate return stacking: an investor can keep the stock and bond exposure of a 60/40 portfolio and use futures to add another strategy, which introduces leverage and makes two questions especially important—what collateral the portfolio will need to hold, and whether the investor can stay with the strategy through a long drawdown. The discussion also covers the difference between low correlation and protection during a stock market crash, what went wrong when institutions paired liquid futures with illiquid hedge funds in 2008, how holding both exposures in one fund changes collateral management and rebalancing, why managed futures can fit alongside stocks, bonds or gold, and how long a diversifier can disappoint before an investor gives up.",
+      "conclusion_zh": "Return stacking为在保留股债敞口的同时加入分散化策略提供了框架，但杠杆下的抵押品管理和投资者能否承受长期回撤是执行关键。",
+      "conclusion_en": "Return stacking offers a framework to add diversifying strategies while preserving stock and bond exposure, but collateral management under leverage and an investor's ability to endure long drawdowns are key to execution.",
+      "key_points": [
+        {
+          "zh": "当股票持续上涨时，长期跑输的分散化策略可能让投资者感觉错误；而通胀同时打压股债时，持有不同资产的理由更易显现。",
+          "en": "When stocks keep climbing, a diversifying strategy that trails for years can feel like a mistake; when inflation hurts both stocks and bonds, the reason for owning something different becomes clearer."
+        },
+        {
+          "zh": "Return stacking允许投资者保留60/40组合的股债敞口，并用期货加入另一策略，但会引入杠杆，需关注抵押品管理和长期回撤承受力。",
+          "en": "Return stacking allows investors to keep the stock and bond exposure of a 60/40 portfolio and use futures to add another strategy, but it introduces leverage and requires attention to collateral management and tolerance for long drawdowns."
+        },
+        {
+          "zh": "低相关性不等于崩盘保护：与股市关联度低的策略也可能在股市下跌日亏钱。",
+          "en": "Low correlation is not the same as crash protection: a strategy with little connection to the stock market can still lose money on the day stocks fall."
+        },
+        {
+          "zh": "2008年的教训：一些对冲基金在投资者需要现金再平衡时暂停赎回，机构将流动期货与非流动对冲基金配对出现问题。",
+          "en": "The 2008 lesson: some hedge funds suspended withdrawals just as investors needed cash to rebalance, and institutions ran into problems pairing liquid futures with illiquid hedge funds."
+        },
+        {
+          "zh": "管理期货可与股票、债券或黄金搭配，但投资者可能需忍受长期表现不佳才会放弃。",
+          "en": "Managed futures can fit alongside stocks, bonds or gold, but investors may need to endure long periods of underperformance before giving up."
+        }
+      ],
+      "tags": [
+        "return stacking",
+        "managed futures",
+        "diversification",
+        "leverage",
+        "collateral"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:KTE9T1PjwhU",
+      "title": "Delta Sees No Pushback on Higher Fares, CEO Says",
+      "title_zh": "达美航空CEO：票价上涨未抑制需求",
+      "url": "https://www.youtube.com/watch?v=KTE9T1PjwhU",
+      "published_at": "2026-11-12T15:45:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "达美航空CEO Ed Bastian表示，尽管票价上涨，需求并未放缓，未见到抵触情绪，强调供需关系下需求非常强劲。",
+      "summary_en": "Delta Air Lines CEO Ed Bastian said there has been no slowdown in demand even as ticket prices rise, noting no pushback and strong demand driven by supply and demand.",
+      "detail_zh": "达美航空首席执行官Ed Bastian周四对彭博的Lisa Abramowicz表示，尽管票价上涨，但需求并未出现放缓。他说：“我们没有看到抵触情绪。这就是供需关系。需求非常强劲。”Bastian将当前形势归因于供需动态，强调需求端表现强劲。",
+      "detail_en": "Delta Air Lines CEO Ed Bastian told Bloomberg's Lisa Abramowicz on Thursday that there has been no slowdown in demand even as ticket prices rise. \"We haven't seen the pushback,\" he said. \"It is supply and demand. The demand is really strong.\" Bastian attributed the current situation to supply and demand dynamics, emphasizing strong demand.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "达美航空CEO表示，尽管票价上涨，需求并未放缓。",
+          "en": "Delta CEO says demand has not slowed even as ticket prices rise."
+        },
+        {
+          "zh": "Bastian称未见到消费者对涨价的抵触情绪。",
+          "en": "Bastian says there has been no consumer pushback against higher prices."
+        },
+        {
+          "zh": "他将当前形势描述为供需关系驱动，需求非常强劲。",
+          "en": "He describes the situation as driven by supply and demand, with demand very strong."
+        }
+      ],
+      "tags": [
+        "Delta Air Lines",
+        "demand",
+        "pricing",
+        "airlines"
+      ],
+      "tickers": [
+        "DAL"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:r8zFAZr1uKY",
+      "title": "How Democrats Won Back Union Voters",
+      "title_zh": "民主党在2026年中期选举中重获工会选民支持",
+      "url": "https://www.youtube.com/watch?v=r8zFAZr1uKY",
+      "published_at": "2026-11-12T15:34:55+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "politics"
+      ],
+      "summary_zh": "CNBC报道指出，民主党在经历多年工会家庭支持率下滑后，于2026年中期选举中实现显著反弹。但工会内部政治立场仍存分歧，从2024年卡车司机工会拒绝背书总统候选人，到UAW在密歇根州的广泛组织活动，民主党能否在2028年维持这一优势仍存疑问。",
+      "summary_en": "CNBC reports that Democrats saw a major rebound among union households in the 2026 midterms after years of shrinking margins. However, organized labor remains politically divided, from the Teamsters' decision not to endorse a presidential candidate in 2024 to the UAW's extensive organizing efforts in Michigan, raising questions about whether the party can sustain its advantage in 2028.",
+      "detail_zh": "CNBC的Alex Harring在视频中探讨了工会与民主党之间变化的关系。报道指出，民主党在工会家庭中的支持率经历了多年萎缩后，在2026年中期选举中出现了重大反弹。然而，有组织的劳工在政治上仍然存在分歧。具体事例包括：卡车司机工会（Teamsters）在2024年决定不为总统候选人背书；以及美国汽车工人联合会（UAW）在密歇根州开展了广泛的组织工作。视频分为多个章节，包括“逆转”、“密歇根”、“更大图景”和“2028年问题”，重点分析民主党能否在2028年维持其优势。",
+      "detail_en": "CNBC's Alex Harring examines the changing relationship between unions and Democrats. The report notes that Democrats saw a major rebound in the 2026 midterms after years of shrinking margins with union households. However, organized labor remains politically divided. Specific examples include the Teamsters' decision not to endorse a presidential candidate in 2024, and the UAW's extensive organizing efforts in Michigan. The video is divided into chapters including 'The reversal,' 'Michigan,' 'The bigger picture,' and 'The 2028 question,' focusing on whether the party can sustain its advantage in 2028.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "民主党在2026年中期选举中于工会家庭的支持率出现重大反弹，扭转了多年下滑趋势。",
+          "en": "Democrats saw a major rebound in support among union households in the 2026 midterms, reversing years of shrinking margins."
+        },
+        {
+          "zh": "工会内部政治立场仍存分歧，卡车司机工会2024年未背书总统候选人。",
+          "en": "Organized labor remains politically divided, with the Teamsters declining to endorse a presidential candidate in 2024."
+        },
+        {
+          "zh": "UAW在密歇根州开展了广泛的组织活动，成为分析工会与民主党关系的重要案例。",
+          "en": "The UAW's extensive organizing efforts in Michigan serve as a key case study for the union-Democrat relationship."
+        },
+        {
+          "zh": "核心问题在于民主党能否在2028年维持其在工会选民中的优势。",
+          "en": "The central question is whether Democrats can sustain their advantage among union voters in 2028."
+        }
+      ],
+      "tags": [
+        "unions",
+        "democrats",
+        "2026 midterms",
+        "2028 election",
+        "labor"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:BHHJJBib-KM",
+      "title": "Iran War Leaves Europe Vulnerable To Harsh Winter",
+      "title_zh": "欧洲天然气库存偏低、价格飙升，市场寄望暖冬",
+      "url": "https://www.youtube.com/watch?v=BHHJJBib-KM",
+      "published_at": "2026-11-12T15:16:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博电视报道指出，欧洲天然气库存处于低位且价格大幅上涨，市场正寄望于一个温和的冬季来缓解供应压力。该内容主要涉及欧洲能源市场，与美股无直接关联。",
+      "summary_en": "Bloomberg Television reports that Europe's natural gas storage is low and prices are surging, with markets holding their breath for a mild winter to ease supply pressure. The content focuses on European energy markets and has no direct link to U.S. equities.",
+      "detail_zh": "彭博电视的Nicole Sy在报道中表示，欧洲天然气库存水平偏低，同时价格正在飙升。在此背景下，市场参与者正密切关注冬季天气，寄望于一个温和的冬季能够缓解当前的供需紧张局面。报道未提供具体的库存数据、价格涨幅或对美股的影响分析。",
+      "detail_en": "Bloomberg Television's Nicole Sy reports that Europe's natural gas storage is low while prices are surging. Against this backdrop, market participants are closely watching winter weather, hoping a mild winter can alleviate the current supply-demand tightness. The report does not provide specific storage figures, price gains, or analysis of implications for U.S. equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "欧洲天然气库存处于低位",
+          "en": "Europe's natural gas storage is low"
+        },
+        {
+          "zh": "天然气价格正在飙升",
+          "en": "Natural gas prices are surging"
+        },
+        {
+          "zh": "市场寄望于温和的冬季来缓解压力",
+          "en": "Markets are hoping for a mild winter to ease pressure"
+        }
+      ],
+      "tags": [
+        "Europe",
+        "natural gas",
+        "energy prices",
+        "winter weather"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:7t9sjPh_zGE",
+      "title": "House Democrats Respond to White House Threat Over Coming Probes",
+      "title_zh": "众议院民主党人称不会因特朗普律师威胁而退缩",
+      "url": "https://www.youtube.com/watch?v=7t9sjPh_zGE",
+      "published_at": "2026-11-12T15:15:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "众议院民主党人周三表示，不会因总统特朗普的顶级律师就下届国会预期调查发出的威胁而受到恐吓或退缩。",
+      "summary_en": "House Democrats said Wednesday they would not be intimidated or deterred by threats from President Trump's top lawyer over expected investigations in the next Congress.",
+      "detail_zh": "众议院民主党人周三明确表态，面对总统特朗普的顶级律师针对下届国会预期调查所发出的威胁，他们不会因此感到恐惧或改变立场。这一声明是对特朗普律师警告的直接回应，凸显了两党在国会调查权上的紧张对峙。民主党人强调，他们将继续履行监督职责，不会因外部压力而退缩。",
+      "detail_en": "House Democrats stated on Wednesday that they would not be intimidated or deterred by threats from President Trump's top lawyer regarding expected investigations in the next Congress. This declaration is a direct response to warnings from Trump's lawyer, highlighting the tense confrontation between the parties over congressional oversight powers. Democrats emphasized they will continue to fulfill their oversight duties and will not back down due to external pressure.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "众议院民主党人表示不会因特朗普律师的威胁而退缩。",
+          "en": "House Democrats said they would not be deterred by threats from Trump's top lawyer."
+        },
+        {
+          "zh": "威胁涉及下届国会预期进行的调查。",
+          "en": "The threats concern expected investigations in the next Congress."
+        },
+        {
+          "zh": "民主党人强调将坚持履行监督职责。",
+          "en": "Democrats emphasized they will persist in their oversight duties."
+        }
+      ],
+      "tags": [
+        "House Democrats",
+        "Trump lawyer",
+        "congressional investigations",
+        "oversight"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:4728WMkQa-E",
+      "title": "Big Take: Huang's Scandal Will Push Democrats on US-China Policy",
+      "title_zh": "特朗普试图在任内最后两年巩固地缘政治遗产，民主党国会拟制约其贸易与对外干预",
+      "url": "https://www.youtube.com/watch?v=4728WMkQa-E",
+      "published_at": "2026-11-12T15:15:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博Big Take播客讨论特朗普总统在任内最后两年试图巩固的地缘政治遗产，同时新一届民主党多数国会旨在贸易和对外干预上对其加以制约。",
+      "summary_en": "Bloomberg's Big Take podcast examines the geopolitical legacy President Trump is trying to cement in his final two years in office, even as a new Democratic-majority Congress aims to rein him in on trade and foreign intervention.",
+      "detail_zh": "彭博Big Take播客聚焦特朗普总统在任内最后两年试图巩固的地缘政治遗产。与此同时，新一届由民主党占多数的国会计划在贸易和对外干预议题上对特朗普形成制约。播客探讨了行政当局与立法机构在外交和贸易政策上的潜在张力。原文未提供具体政策细节、时间表或市场影响分析。",
+      "detail_en": "Bloomberg's Big Take podcast focuses on the geopolitical legacy President Trump is trying to cement in his final two years in office. At the same time, a new Democratic-majority Congress aims to rein him in on trade and foreign intervention. The podcast explores potential tensions between the executive branch and the legislature over foreign and trade policy. The original text does not provide specific policy details, timelines, or market impact analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普总统在任内最后两年试图巩固地缘政治遗产。",
+          "en": "President Trump is trying to cement a geopolitical legacy in his final two years in office."
+        },
+        {
+          "zh": "新一届民主党多数国会旨在贸易和对外干预上制约特朗普。",
+          "en": "A new Democratic-majority Congress aims to rein in Trump on trade and foreign intervention."
+        },
+        {
+          "zh": "播客讨论行政与立法机构在外交和贸易政策上的潜在张力。",
+          "en": "The podcast discusses potential tensions between the executive and legislative branches over foreign and trade policy."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "geopolitics",
+        "Congress",
+        "trade",
+        "foreign policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:GiGSTKuaR2M",
+      "title": "Nvidia Weighs Replacing Huang. But It Won’t Be Easy",
+      "title_zh": "英伟达董事会据报在物色CEO黄仁勋的潜在继任者",
+      "url": "https://www.youtube.com/watch?v=GiGSTKuaR2M",
+      "published_at": "2026-11-12T15:14:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达董事会正在寻找CEO黄仁勋的潜在继任者，此前有报道称黄仁勋再次涉嫌婚外情。但鉴于黄仁勋已与英伟达及其成功紧密绑定，寻找继任者并非易事。",
+      "summary_en": "Nvidia's board is working to identify a potential replacement for CEO Jensen Huang following reports of another alleged affair. However, replacing the man who has become synonymous with Nvidia and its success will not be easy.",
+      "detail_zh": "据原文报道，英伟达董事会正在着手确定CEO黄仁勋的潜在继任人选，背景是有关黄仁勋再次涉嫌婚外情的报道。原文指出，黄仁勋已与英伟达及其成功画上等号，因此替换他并非易事。原文未提供继任者搜寻的具体进展、时间表或候选人信息，也未说明该报道对英伟达运营或股价的直接影响。",
+      "detail_en": "According to the original report, Nvidia's board is working to identify a potential successor to CEO Jensen Huang, following reports of another alleged affair. The article notes that Huang has become synonymous with Nvidia and its success, making him difficult to replace. No further details are provided on the search process, timeline, or candidates, nor on any direct impact on Nvidia's operations or stock price.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达董事会正在寻找CEO黄仁勋的潜在继任者。",
+          "en": "Nvidia's board is working to identify a potential replacement for CEO Jensen Huang."
+        },
+        {
+          "zh": "此举发生在此前有报道称黄仁勋再次涉嫌婚外情之后。",
+          "en": "The move follows reports of another alleged affair involving Huang."
+        },
+        {
+          "zh": "黄仁勋已与英伟达及其成功紧密绑定，替换他并非易事。",
+          "en": "Huang has become synonymous with Nvidia and its success, making him difficult to replace."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO succession",
+        "Jensen Huang",
+        "board"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:F8xVr5j27cA",
+      "title": "Alice Huang Resurfaces in Beijing Amid Nvidia Scandal",
+      "title_zh": "英伟达调查间谍指控，涉事女子已返北京",
+      "url": "https://www.youtube.com/watch?v=F8xVr5j27cA",
+      "published_at": "2026-11-12T15:14:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据彭博独家报道，卷入英伟达CEO黄仁勋丑闻的核心人物Alice Huang已返回中国并身处北京。英伟达正调查相关间谍指控，北京方面否认该指控。",
+      "summary_en": "Bloomberg exclusively reports that Alice Huang, the woman at the center of the scandal engulfing Nvidia CEO Jensen Huang, has returned to China and is in Beijing. The chipmaker is investigating spying allegations, which Beijing denies.",
+      "detail_zh": "彭博独家报道称，处于英伟达CEO黄仁勋丑闻中心的女子Alice Huang已返回中国，目前在北京。英伟达正在调查相关间谍指控，北京方面对此予以否认。原文未提供更多关于丑闻性质、调查进展或潜在影响的细节。",
+      "detail_en": "Bloomberg exclusively reports that Alice Huang, the woman at the center of the scandal engulfing Nvidia CEO Jensen Huang, has returned to China and is in Beijing. The chipmaker is investigating spying allegations, which Beijing denies. The original text provides no further details on the nature of the scandal, the investigation's progress, or potential implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "彭博独家：Alice Huang已返回中国并身处北京。",
+          "en": "Bloomberg exclusive: Alice Huang has returned to China and is in Beijing."
+        },
+        {
+          "zh": "英伟达正调查针对该女子的间谍指控。",
+          "en": "Nvidia is investigating spying allegations against the woman."
+        },
+        {
+          "zh": "北京方面否认相关间谍指控。",
+          "en": "Beijing denies the spying allegations."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "spying allegations",
+        "China",
+        "Bloomberg exclusive"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:UwUwya2wC8g",
+      "title": "Nvidia Scandal Could Change US-China Relationship",
+      "title_zh": "英伟达CEO黄仁勋辞职，或影响特朗普访华行程",
+      "url": "https://www.youtube.com/watch?v=UwUwya2wC8g",
+      "published_at": "2026-11-12T15:06:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社报道，英伟达CEO黄仁勋辞职，此事预计将影响美国总统特朗普下周与中国国家主席习近平的会晤。报道称黄仁勋与一名据称为中国间谍的女性有染。",
+      "summary_en": "Bloomberg reports that Nvidia CEO Jensen Huang has resigned, a development expected to affect President Donald Trump's trip to China next week to meet with Xi Jinping. The report states Huang had an affair with a woman said to be a Chinese spy.",
+      "detail_zh": "彭博电视的Mike Shepard报道，英伟达CEO黄仁勋已辞职。报道称，黄仁勋与一名据称为中国间谍的女性有染。此事预计将对美国总统特朗普下周访问中国并与习近平会晤产生影响。原文未提供更多关于辞职原因、时间或后续安排的细节。",
+      "detail_en": "Bloomberg Television's Mike Shepard reports that Nvidia CEO Jensen Huang has resigned. The report states that Huang had an affair with a woman said to be a Chinese spy. The development is expected to have an impact on President Donald Trump's trip to China next week to meet with Xi Jinping. The original text does not provide further details on the reason for resignation, timing, or subsequent arrangements.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋辞职。",
+          "en": "Nvidia CEO Jensen Huang has resigned."
+        },
+        {
+          "zh": "报道称黄仁勋与一名据称为中国间谍的女性有染。",
+          "en": "The report states Huang had an affair with a woman said to be a Chinese spy."
+        },
+        {
+          "zh": "此事预计将影响特朗普下周与习近平的会晤。",
+          "en": "The development is expected to affect Trump's meeting with Xi next week."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO resignation",
+        "US-China relations",
+        "Trump-Xi meeting"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:A23HYgyQJqY",
       "title": "Market Insights: Is This a New Golden Age for Income Investing?",
@@ -18116,409 +18499,6 @@
         "NVDA"
       ],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:78SSeOZR-EI",
-      "title": "Chipmakers Selloff Leads Nasdaq 100 Down 5%",
-      "title_zh": "芯片股抛售拖累纳指早盘跌5%，民主党横扫国会引发监管担忧",
-      "url": "https://www.youtube.com/watch?v=78SSeOZR-EI",
-      "published_at": "2026-11-05T15:57:49+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt就周四芯片股抛售导致纳指100早盘下跌5%发表评论。部分投资者担忧民主党横扫国会可能带来更严格的监管。",
-      "summary_en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, commented on Thursday's chipmaker selloff that pulled the Nasdaq 100 down 5% in early trading. Some investors worry a Democratic sweep of Congress could mean tighter regulation.",
-      "detail_zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt在“Bloomberg Open Interest”节目中，对周四芯片股抛售作出反应。此次抛售导致纳斯达克100指数早盘下跌5%。部分投资者担心，如果民主党横扫国会，可能会实施更严格的监管。Hunt的评论围绕这一市场动态展开，但原文未提供她对监管风险的具体分析或后市判断。",
-      "detail_en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, reacted on \"Bloomberg Open Interest\" to Thursday's chipmaker selloff, which pulled the Nasdaq 100 down 5% in early trading. Some investors are worried that a Democratic sweep of Congress could mean tighter regulation. Hunt's comments centered on this market development, but the source does not provide her specific analysis of regulatory risks or her outlook.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "周四芯片股遭抛售，纳斯达克100指数早盘下跌5%。",
-          "en": "Chipmakers sold off on Thursday, pulling the Nasdaq 100 down 5% in early trading."
-        },
-        {
-          "zh": "部分投资者担忧民主党横扫国会可能导致更严格的监管。",
-          "en": "Some investors worry a Democratic sweep of Congress could mean tighter regulation."
-        },
-        {
-          "zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt在Bloomberg节目中评论了此次抛售。",
-          "en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, commented on the selloff on Bloomberg."
-        }
-      ],
-      "tags": [
-        "chipmaker selloff",
-        "Nasdaq 100",
-        "Democratic sweep",
-        "regulation"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:ERDQencxiVs",
-      "title": "How Aaru Uses Advanced AI Simulations to Predict Human Behavior",
-      "title_zh": "高盛播客：Aaru用多智能体AI模拟预测消费者决策",
-      "url": "https://www.youtube.com/watch?v=ERDQencxiVs",
-      "published_at": "2026-11-05T15:49:55+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "tech"
-      ],
-      "summary_zh": "高盛播客对话Aaru联合创始人，介绍这家估值10亿美元的初创公司如何利用多智能体AI模拟预测人类决策，以克服传统消费者调研的局限，并探讨其在零售、金融服务和公用事业等领域的企业应用。",
-      "summary_en": "Goldman Sachs podcast interviews Aaru's co-founders about how the $1 billion-valued startup uses multi-agent AI simulations to predict human decision-making, overcoming traditional consumer polling limitations, and explores enterprise applications in retail, financial services, and utilities.",
-      "detail_zh": "高盛首席信息官Marco Argenti主持的播客中，Aaru联合创始人兼CEO Cam Fink与联合创始人兼总裁Ned Koh讨论了公司的创立故事。Aaru成立两年半，估值10亿美元，通过部署多智能体AI模拟来预测人类如何做出决策，从而重新定义市场研究和消费者情报。他们表示，先进的行为模拟能够克服传统消费者民意调查的局限性。对话还探讨了这种预测性模拟在零售、金融服务和公用事业等领域的实际企业应用，这些应用正推动Aaru快速崛起。该期节目录制于2026年7月22日。",
-      "detail_en": "In a Goldman Sachs podcast hosted by CIO Marco Argenti, Aaru co-founder and CEO Cam Fink and co-founder and president Ned Koh discuss the company's founding story. Aaru, a two-and-a-half-year-old startup valued at $1 billion, is redefining market research and consumer intelligence by deploying multi-agent AI simulations to predict how humans will make decisions. They say advanced behavioral simulation overcomes the limitations of traditional consumer polling. The conversation also explores real-world enterprise applications of such predictive simulations across retail, financial services, and utilities, which are driving Aaru's rapid rise. The episode was recorded on July 22, 2026.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Aaru成立两年半，估值达10亿美元，利用多智能体AI模拟预测人类决策。",
-          "en": "Aaru, a two-and-a-half-year-old startup valued at $1 billion, uses multi-agent AI simulations to predict human decision-making."
-        },
-        {
-          "zh": "公司旨在重新定义市场研究和消费者情报，克服传统消费者民意调查的局限。",
-          "en": "The company aims to redefine market research and consumer intelligence, overcoming the limitations of traditional consumer polling."
-        },
-        {
-          "zh": "预测性模拟在零售、金融服务和公用事业等领域有实际企业应用，推动Aaru快速崛起。",
-          "en": "Predictive simulations have real-world enterprise applications in retail, financial services, and utilities, driving Aaru's rapid rise."
-        },
-        {
-          "zh": "高盛首席信息官Marco Argenti主持对话，联合创始人Cam Fink和Ned Koh分享创立故事。",
-          "en": "Goldman Sachs CIO Marco Argenti hosts the conversation with co-founders Cam Fink and Ned Koh, who share the founding story."
-        }
-      ],
-      "tags": [
-        "AI",
-        "market research",
-        "consumer intelligence",
-        "startup"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:0nmE44usc5I",
-      "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
-      "title_zh": "Yardeni：10年期美债收益率约5%具吸引力，未来24个月看好纳指100",
-      "url": "https://www.youtube.com/watch?v=0nmE44usc5I",
-      "published_at": "2026-11-05T15:47:49+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Yardeni Research总裁Ed Yardeni认为，在通胀预期降温的背景下，10年期美债收益率处于5%左右“非常有吸引力”。他还表示，未来24个月纳指100是其偏好的资产。",
-      "summary_en": "Ed Yardeni, President of Yardeni Research, says US 10-year Treasury yields look \"very attractive\" at around 5% with inflation expected to cool. He also says the Nasdaq 100 is his preferred asset for the next 24 months.",
-      "detail_zh": "Yardeni Research总裁Ed Yardeni在彭博“Insight with Haslinda Amin”节目中表示，随着通胀预期降温，10年期美债收益率在5%左右“非常有吸引力”。他同时指出，未来24个月纳指100是其偏好的资产。原文未提供更多关于通胀路径、收益率走势或纳指100看多逻辑的细节。",
-      "detail_en": "Ed Yardeni, President of Yardeni Research, told Bloomberg's \"Insight with Haslinda Amin\" that US 10-year Treasury yields look \"very attractive\" at around the 5% level with inflation expected to cool. He also said the Nasdaq 100 is his preferred asset for the next 24 months. The source does not provide further details on the inflation path, yield outlook, or the rationale behind his preference for the Nasdaq 100.",
-      "conclusion_zh": "Yardeni对美债和纳指100均持积极看法，但原文未展开具体逻辑，投资者需结合更多信息判断。",
-      "conclusion_en": "Yardeni is positive on both US Treasuries and the Nasdaq 100, though the source does not elaborate on the rationale; investors should seek further information.",
-      "key_points": [
-        {
-          "zh": "Yardeni认为10年期美债收益率在5%左右“非常有吸引力”，前提是通胀预期降温。",
-          "en": "Yardeni sees US 10-year Treasury yields as \"very attractive\" at around 5%, with inflation expected to cool."
-        },
-        {
-          "zh": "未来24个月，纳指100是Yardeni偏好的资产。",
-          "en": "The Nasdaq 100 is Yardeni's preferred asset for the next 24 months."
-        }
-      ],
-      "tags": [
-        "Treasury yields",
-        "Nasdaq 100",
-        "inflation",
-        "asset allocation"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:UwG3VaBJ52M",
-      "title": "Three Signals for a Market Turning Point | Thoughts on the Market",
-      "title_zh": "摩根士丹利：美股调整进入尾声，需待三大出清事件",
-      "url": "https://www.youtube.com/watch?v=UwG3VaBJ52M",
-      "published_at": "2026-11-05T15:43:02+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro"
-      ],
-      "summary_zh": "摩根士丹利首席美股策略师Mike Wilson表示，始于四个月前的调整已进入最后阶段，市场需经历三个“出清事件”后才能重启牛市，并延续至2027年。他同时指出，一年前从衰退中开启的早期周期复苏曾令早周期周期股大幅跑赢。",
-      "summary_en": "Morgan Stanley CIO and Chief US Equity Strategist Mike Wilson says the correction that began four months ago is in its final stages. He identifies three \"clearing events\" that must be passed before the bull market resumes into 2027, noting that the early-cycle recovery from the recession a year ago had driven strong outperformance in early-cycle cyclicals.",
-      "detail_zh": "摩根士丹利首席投资官兼美国股票策略师Mike Wilson在《Thoughts on the Market》中讨论了市场调整的深度问题。他回顾称，一年前市场从衰退中开启早期周期复苏，这一阶段早周期周期股表现显著领先。Wilson认为，当前这轮始于四个月前的调整已进入最后阶段。他表示，市场需要经历并跨越三个“出清事件”，此后牛市将重新启动并延续至2027年。他未在原文中具体说明这三个事件的内容，但邀请听众关注《Thoughts on the Market》以获取其对调整结束信号的详细观点。",
-      "detail_en": "In the \"Thoughts on the Market\" podcast, Morgan Stanley CIO and Chief US Equity Strategist Mike Wilson discussed how deep the market correction needs to go. He recalled that the early-cycle recovery from the recession a year ago led to significant outperformance by early-cycle cyclical stocks. Wilson believes the correction that began four months ago is now in its final stages. He said there are three \"clearing events\" that need to be passed, after which the bull market will resume into 2027. He did not specify those events in the excerpt, but directed listeners to \"Thoughts on the Market\" for more on his views and the signals to watch for the end of the correction.",
-      "conclusion_zh": "Wilson判断当前调整接近尾声，但牛市重启的前提是三个“出清事件”落地，投资者应关注这些信号而非单纯等待时间。",
-      "conclusion_en": "Wilson sees the correction nearing its end, but a bull market resumption hinges on three \"clearing events\"; investors should watch for those signals rather than simply waiting for time to pass.",
-      "key_points": [
-        {
-          "zh": "调整始于四个月前，Wilson认为已进入最后阶段。",
-          "en": "The correction began four months ago and Wilson believes it is in its final stages."
-        },
-        {
-          "zh": "市场需跨越三个“出清事件”，牛市才能重启。",
-          "en": "Three \"clearing events\" must be passed before the bull market resumes."
-        },
-        {
-          "zh": "Wilson预计牛市将延续至2027年。",
-          "en": "Wilson expects the bull market to resume and run into 2027."
-        },
-        {
-          "zh": "一年前从衰退中开启的早期周期复苏曾令早周期周期股大幅跑赢。",
-          "en": "The early-cycle recovery from the recession a year ago drove strong outperformance in early-cycle cyclicals."
-        }
-      ],
-      "tags": [
-        "market correction",
-        "Morgan Stanley",
-        "bull market",
-        "clearing events",
-        "early-cycle cyclicals"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:WFjsmBYZKoo",
-      "title": "Ed Yardeni Says 5% Treasury Yields Now Attractive",
-      "title_zh": "Yardeni：5%收益率的美债具吸引力，但长期仍看好股票",
-      "url": "https://www.youtube.com/watch?v=WFjsmBYZKoo",
-      "published_at": "2026-11-05T15:26:04+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Yardeni Research总裁Ed Yardeni认为，10年期美债收益率约5%提供了有吸引力的实际回报，因生产率提升有望抑制通胀。他预计未来十年债券票息将跑赢通胀，但长期而言股票仍将优于债券。",
-      "summary_en": "Yardeni Research President Ed Yardeni argues that 10-year Treasuries yielding around 5% offer an attractive real return, driven by expectations that productivity gains will keep inflation contained. He expects bond coupons to outpace inflation over the next decade, but maintains that stocks will continue to outperform bonds over the long term.",
-      "detail_zh": "Yardeni Research总裁Ed Yardeni表示，10年期美国国债收益率处于约5%的水平，提供了具吸引力的实际回报。这一判断基于他对生产率提升将抑制通胀的预期。他预计未来十年债券票息将跑赢通胀。尽管如此，Yardeni仍坚持认为，长期来看股票表现将继续优于债券。",
-      "detail_en": "Yardeni Research President Ed Yardeni says that 10-year Treasuries yielding around 5% offer an attractive real return. This view is driven by his expectation that productivity gains will keep inflation contained. He expects bond coupons to outpace inflation over the next decade. Nevertheless, Yardeni maintains that stocks will continue to outperform bonds over the long term.",
-      "conclusion_zh": "Yardeni认为5%的美债收益率具吸引力，但长期仍偏好股票，投资者可关注债市实际回报与股市的相对表现。",
-      "conclusion_en": "Yardeni sees 5% Treasury yields as attractive, but remains bullish on stocks for the long term; investors may watch relative performance of bonds and equities.",
-      "key_points": [
-        {
-          "zh": "10年期美债收益率约5%提供有吸引力的实际回报",
-          "en": "10-year Treasury yields around 5% offer an attractive real return"
-        },
-        {
-          "zh": "生产率提升预计将抑制通胀",
-          "en": "Productivity gains are expected to keep inflation contained"
-        },
-        {
-          "zh": "未来十年债券票息预计将跑赢通胀",
-          "en": "Bond coupons are expected to outpace inflation over the next decade"
-        },
-        {
-          "zh": "长期而言股票仍将优于债券",
-          "en": "Stocks will continue to outperform bonds over the long term"
-        }
-      ],
-      "tags": [
-        "Treasuries",
-        "yields",
-        "inflation",
-        "productivity",
-        "equities"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:s38dEZnJQMc",
-      "title": "SocGen’s Kabra Sees the End of Derating Phase for S&P 500",
-      "title_zh": "法兴美国股票策略主管：中期选举后投资者可借鉴历史",
-      "url": "https://www.youtube.com/watch?v=s38dEZnJQMc",
-      "published_at": "2026-11-05T15:25:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "法兴美国股票策略主管 Manish Kabra 在彭博节目中表示，投资者可以借鉴历史经验来理解中期选举后的市场表现。",
-      "summary_en": "Manish Kabra, head of US equity strategy at Societe Generale, said on Bloomberg Surveillance that investors can lean into history for perspective on market performance following midterm elections.",
-      "detail_zh": "法兴美国股票策略主管 Manish Kabra 在彭博“Surveillance”节目中表示，投资者可以借鉴历史经验来理解中期选举后的市场表现。他未在原文中提供具体的历史数据、涨跌幅或板块判断。",
-      "detail_en": "Manish Kabra, head of US equity strategy at Societe Generale, said on Bloomberg Surveillance that investors can lean into history for perspective on market performance following midterm elections. The original text does not provide specific historical data, performance figures, or sector views.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "法兴美国股票策略主管 Manish Kabra 认为，中期选举后的市场表现可参考历史经验。",
-          "en": "Manish Kabra of Societe Generale says history can offer perspective on post-midterm market performance."
-        },
-        {
-          "zh": "该观点来自彭博“Surveillance”节目，原文未提供具体数据或板块判断。",
-          "en": "The comment was made on Bloomberg Surveillance; no specific data or sector calls were provided in the source."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "US equities",
-        "market history"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:RClg-hF5jLM",
-      "title": "Republican Blame Game Begins After Midterm Meltdown",
-      "title_zh": "共和党中期选举溃败后与特朗普和伊朗战争切割",
-      "url": "https://www.youtube.com/watch?v=RClg-hF5jLM",
-      "published_at": "2026-11-05T15:25:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "副总统JD·万斯及其他知名共和党人迅速与特朗普总统及伊朗战争保持距离。共和党在中期选举中的溃败引发了一波主要指向白宫的相互指责。",
-      "summary_en": "Vice President JD Vance and other prominent Republicans quickly distanced themselves from President Donald Trump and the Iran war. The GOP's collapse in the midterm elections prompted a wave of finger-pointing largely aimed at the Oval Office.",
-      "detail_zh": "据彭博电视的Tyler Kendall报道，副总统JD·万斯及其他知名共和党人在中期选举后迅速与总统唐纳德·特朗普以及伊朗战争保持距离。共和党在中期选举中遭遇溃败，随后出现了一波相互指责，矛头主要指向白宫。报道未提供更多关于选举结果、伊朗战争细节或具体表态的进一步信息。",
-      "detail_en": "According to Tyler Kendall on Bloomberg Television, Vice President JD Vance and other prominent Republicans quickly distanced themselves from President Donald Trump and the Iran war following the midterm elections. The GOP's collapse in the midterms prompted a wave of finger-pointing largely aimed at the Oval Office. The report does not provide further details on the election results, the Iran war, or specific statements.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "副总统JD·万斯及其他知名共和党人与特朗普和伊朗战争保持距离",
-          "en": "Vice President JD Vance and other prominent Republicans distanced themselves from Trump and the Iran war"
-        },
-        {
-          "zh": "共和党在中期选举中溃败",
-          "en": "The GOP collapsed in the midterm elections"
-        },
-        {
-          "zh": "溃败后出现一波主要指向白宫的相互指责",
-          "en": "The collapse prompted a wave of finger-pointing largely aimed at the Oval Office"
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "GOP",
-        "Trump",
-        "Iran war",
-        "political risk"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:bEDm97tWViM",
-      "title": "BofA’s Cabana Says It’s Premature to Call End to Fed’s Hiking Cycle",
-      "title_zh": "美银策略师：市场低估美联储加息幅度，或需超过三次",
-      "url": "https://www.youtube.com/watch?v=bEDm97tWViM",
-      "published_at": "2026-11-05T15:20:32+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美银证券全球利率策略联席主管Mark Cabana认为，市场对美联储加息路径的定价存在偏差，他预计美联储可能需要加息超过三次。该观点来自其在Bloomberg Surveillance节目中的发言。",
-      "summary_en": "Mark Cabana, co-head of global rates strategy at BofA Securities, argues that markets are mispricing the Federal Reserve's rate-hike path, and he expects the Fed may need to go beyond three hikes. The view was expressed on Bloomberg Surveillance.",
-      "detail_zh": "美银证券全球利率策略联席主管Mark Cabana在Bloomberg Surveillance节目中表示，市场在定价美联储加息方面存在错误。他预计美联储可能需要加息超过三次。原文未披露其对具体加息幅度、时点或终端利率的进一步判断，也未提供支持该观点的详细论据。该判断对利率敏感型资产及美股估值环境具有直接含义，但原文信息有限，未展开风险细节。",
-      "detail_en": "Mark Cabana, co-head of global rates strategy at BofA Securities, said on Bloomberg Surveillance that markets are getting the pricing of Federal Reserve rate hikes wrong. He expects the Fed may potentially need to go beyond three hikes. The source does not disclose further specifics on the magnitude, timing, or terminal rate, nor detailed reasoning behind the view. The call has direct implications for rate-sensitive assets and the U.S. equity valuation backdrop, but the source provides limited detail on risks.",
-      "conclusion_zh": "若美银判断成立，加息路径超预期将压制利率敏感型美股估值，需关注利率定价的修正风险。",
-      "conclusion_en": "If BofA's call proves right, a steeper-than-expected hiking path would weigh on rate-sensitive U.S. equity valuations; watch for repricing risk in rates.",
-      "key_points": [
-        {
-          "zh": "美银证券Mark Cabana认为市场对美联储加息的定价有误",
-          "en": "BofA Securities' Mark Cabana says markets are mispricing Fed rate hikes"
-        },
-        {
-          "zh": "他预计美联储可能需要加息超过三次",
-          "en": "He expects the Fed may need to go beyond three hikes"
-        },
-        {
-          "zh": "观点来自Bloomberg Surveillance节目",
-          "en": "The view was expressed on Bloomberg Surveillance"
-        }
-      ],
-      "tags": [
-        "Fed",
-        "rate hikes",
-        "rates strategy",
-        "BofA"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:dKNiqW_BD-I",
-      "title": "US Jobless Claims Fall Below Estimates to 189,000",
-      "title_zh": "美国初请失业金人数降至18.9万，续请人数上升",
-      "url": "https://www.youtube.com/watch?v=dKNiqW_BD-I",
-      "published_at": "2026-11-05T15:19:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "上周美国初请失业金人数减少6,000至18.9万；截至10月31日当周续请失业金人数增加23,000。数据反映劳动力市场初请端仍偏紧，但续请端有所回升。",
-      "summary_en": "US initial jobless claims fell by 6,000 to 189,000 last week, while continuing claims rose by 23,000 in the week ending Oct. 31. The data suggest a still-tight layoff picture at the initial-claims level, with some pickup in continuing claims.",
-      "detail_zh": "据彭博电视报道，美国上周初请失业金人数减少6,000，降至189,000。截至10月31日当周，续请失业金人数增加23,000。初请人数下降表明裁员水平仍处低位，而续请人数上升则显示部分失业者再就业难度有所增加。该数据是评估美国劳动力市场状况的周度指标之一，可能影响市场对就业市场松紧程度的判断。",
-      "detail_en": "According to Bloomberg Television, US initial jobless claims fell by 6,000 to 189,000 last week. Continuing claims rose by 23,000 in the week ending Oct. 31. The decline in initial claims indicates layoffs remain low, while the rise in continuing claims suggests some unemployed workers are finding it harder to return to work. This weekly data is one of the indicators for assessing US labor market conditions and may influence market views on labor market tightness.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "上周初请失业金人数减少6,000至18.9万。",
-          "en": "Initial jobless claims fell by 6,000 to 189,000 last week."
-        },
-        {
-          "zh": "截至10月31日当周续请失业金人数增加23,000。",
-          "en": "Continuing claims rose by 23,000 in the week ending Oct. 31."
-        },
-        {
-          "zh": "初请下降显示裁员水平仍低，续请上升显示再就业难度有所增加。",
-          "en": "The drop in initial claims signals layoffs remain low, while the rise in continuing claims points to somewhat greater difficulty in reemployment."
-        }
-      ],
-      "tags": [
-        "jobless claims",
-        "labor market",
-        "US economy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:8NHChTJ28L4",
-      "title": "Qualcomm Shares Fall Most in Six Months After Weak Profit Forecast",
-      "title_zh": "高通业绩指引疲软，股价开盘重挫14%",
-      "url": "https://www.youtube.com/watch?v=8NHChTJ28L4",
-      "published_at": "2026-11-05T15:17:49+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "高通因利润指引不及预期，周四开盘股价下跌14%，若跌势维持至收盘，将是自2020年以来最差单日表现。",
-      "summary_en": "Qualcomm shares fell 14% at the open on Thursday after the company issued a lackluster profit forecast. If the decline holds through the close, it would be the stock's worst day since 2020.",
-      "detail_zh": "高通（Qualcomm）周四开盘股价下跌14%，此前公司发布的利润指引表现疲软。据彭博的Ryan Vlastelica报道，若该跌幅维持至收盘，这将是高通自2020年以来最差的单日表现。原文未提供具体的指引数字或下跌原因的其他细节。",
-      "detail_en": "Qualcomm shares dropped 14% at the open on Thursday after the company gave a lackluster profit forecast. According to Bloomberg's Ryan Vlastelica, if the decline holds through the close, it would be the stock's worst day since 2020. The original text does not provide specific guidance figures or further details on the cause of the decline.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "高通开盘下跌14%，因利润指引不及预期。",
-          "en": "Qualcomm fell 14% at the open due to a lackluster profit forecast."
-        },
-        {
-          "zh": "若跌幅维持至收盘，将是自2020年以来最差单日表现。",
-          "en": "If the decline holds, it would be the worst single-day performance since 2020."
-        }
-      ],
-      "tags": [
-        "Qualcomm",
-        "earnings",
-        "guidance",
-        "stock decline"
-      ],
-      "tickers": [
-        "QCOM"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
