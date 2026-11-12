@@ -1,6 +1,99 @@
 {
-  "generated_at": "2026-11-12T09:15:10.348470+00:00",
+  "generated_at": "2026-11-12T11:12:37.808178+00:00",
   "insights": [
+    {
+      "guid": "yt:pTMMuKYpc_E",
+      "title": "Why The Fed Is A Bigger Risk For The AI Boom Than Nvidia",
+      "title_zh": "英伟达董事会讨论黄仁勋去留，AI泡沫与美联储加息风险成焦点",
+      "url": "https://www.youtube.com/watch?v=pTMMuKYpc_E",
+      "published_at": "2026-11-12T10:34:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达董事会开会讨论黄仁勋的未来，引发市场对AI泡沫破裂及潜在间谍指控的关注。洛克菲勒国际主席Ruchir Sharma警告AI泡沫风险，并主张美联储加息50个基点，同时指出散户是AI股上涨的重要推手。节目还讨论了东南亚受英伟达危机冲击、中国产能过剩、印度作为AI替代选项，以及油价下跌和消费韧性等议题。",
+      "summary_en": "Nvidia's board is meeting to discuss Jensen Huang's future, raising concerns about an AI bubble and espionage allegations. Ruchir Sharma of Rockefeller International warns of AI bubble risks and argues for a 50-basis-point Fed rate hike, noting retail investors are fueling the AI stock boom. The program also covers Southeast Asia's exposure to the Nvidia crisis, China's overcapacity, India as an alternative AI trade, falling oil prices, and consumer resilience.",
+      "detail_zh": "节目首先报道英伟达董事会正在开会讨论CEO黄仁勋的未来，这一事件被描述为“英伟达危机”或“丑闻”，并涉及间谍指控的可信度讨论。洛克菲勒国际主席兼Breakout Capital创始人Ruchir Sharma就AI泡沫破裂风险发表看法，并提出了美联储加息50个基点的理由，同时指出散户投资者正在推动AI股票市场的繁荣。节目还讨论了东南亚对英伟达危机溢出效应的准备、印尼副总统辞职及该国估值低迷与政治风险、中国经济困境与产能过剩的全球影响，以及印度作为美国AI交易替代选项的潜力。此外，交易员关注英伟达丑闻的赢家和输家，油价跌向两个月低点，Neste CEO讨论柴油供应紧张与能源市场波动，日产CEO讨论公司转型与中国挑战，万事达卡亚太总裁讨论高利率下的消费韧性及代理式AI对在线购物和支付的变革。最后，英伟达丑闻可能使即将到来的特朗普-习会晤复杂化，Gavekal Research总监Laila Khawaja讨论了间谍指控的可信度。",
+      "detail_en": "The program begins with Nvidia's board meeting to discuss CEO Jensen Huang's future, described as the 'Nvidia crisis' or 'scandal,' with discussions on the credibility of espionage allegations. Ruchir Sharma, Chairman of Rockefeller International and Founder of Breakout Capital, discusses the risks of an AI bubble bursting, makes the case for a 50-basis-point Fed rate hike, and notes that retail investors are fueling the AI stock market boom. The show also covers Southeast Asia bracing for fallout from the Nvidia crisis, Indonesia's Vice President resignation and the country's depressed valuations and political risks, China's economic troubles and the global impact of overcapacity, and India's potential as an alternative to the US AI trade. Additionally, traders focus on winners and losers from the Nvidia scandal, oil prices fall toward a two-month low, Neste CEO discusses diesel supply tightness and volatile energy markets, Nissan CEO discusses the automaker's turnaround and challenges in China, and Mastercard Asia Pacific President discusses consumer resilience amid higher interest rates and how agentic AI could transform online shopping and payments. Finally, the Nvidia scandal threatens to complicate the upcoming Trump-Xi meeting, and Gavekal Research Director Laila Khawaja discusses the credibility of espionage allegations.",
+      "conclusion_zh": "英伟达领导层不确定性叠加AI泡沫争论与美联储加息风险，构成美股科技板块短期的主要压力点，需关注事件对中美关系及供应链的溢出影响。",
+      "conclusion_en": "Nvidia leadership uncertainty, combined with AI bubble debates and Fed rate hike risks, poses key near-term pressure on US tech stocks, with potential spillover to US-China relations and supply chains.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会开会讨论黄仁勋的未来，事件被描述为“英伟达危机”或“丑闻”，并涉及间谍指控。",
+          "en": "Nvidia's board is meeting to discuss Jensen Huang's future, described as the 'Nvidia crisis' or 'scandal,' involving espionage allegations."
+        },
+        {
+          "zh": "Ruchir Sharma警告AI泡沫破裂风险，主张美联储加息50个基点，并指出散户投资者是AI股繁荣的推手。",
+          "en": "Ruchir Sharma warns of AI bubble risks, argues for a 50-basis-point Fed rate hike, and notes retail investors are fueling the AI stock boom."
+        },
+        {
+          "zh": "东南亚准备应对英伟达危机的溢出效应，交易员关注丑闻的赢家和输家。",
+          "en": "Southeast Asia braces for fallout from the Nvidia crisis, and traders focus on winners and losers from the scandal."
+        },
+        {
+          "zh": "英伟达丑闻可能使即将到来的特朗普-习会晤复杂化。",
+          "en": "The Nvidia scandal threatens to complicate the upcoming Trump-Xi meeting."
+        },
+        {
+          "zh": "油价跌向两个月低点，Neste CEO讨论柴油供应紧张与能源市场波动。",
+          "en": "Oil prices fall toward a two-month low, and Neste CEO discusses diesel supply tightness and volatile energy markets."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI bubble",
+        "Fed rate hike",
+        "retail investors",
+        "US-China"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:f3kPI-H0WqA",
+      "title": "Nvidia's Board Weighs Huang's Future After Affairs",
+      "title_zh": "英伟达董事会据报启动CEO继任者搜寻",
+      "url": "https://www.youtube.com/watch?v=f3kPI-H0WqA",
+      "published_at": "2026-11-12T10:27:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据知情人士透露，英伟达董事会正与外部机构合作，寻找可能接替CEO黄仁勋的人选，此前有报道称黄仁勋存在多起婚外情。彭博观点专栏作者Parmy Olson对此进行了解读。",
+      "summary_en": "Nvidia's board is reportedly working with an outside firm to identify potential replacements for CEO Jensen Huang following reports of multiple extramarital affairs, according to a person familiar with the matter. Bloomberg Opinion's Parmy Olson breaks down the situation.",
+      "detail_zh": "据一位知情人士透露，英伟达董事会正在与一家外部公司合作，以确定可能接替首席执行官黄仁勋的潜在人选。此举发生在此前有报道称黄仁勋存在多起婚外情之后。彭博观点（Bloomberg Opinion）的Parmy Olson对此事进行了分析，其观点仅代表她个人。原文未提供更多关于继任者搜寻进展、董事会声明或黄仁勋本人回应的细节。",
+      "detail_en": "Nvidia's board is working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang, according to a person familiar with the matter. The move follows reports of multiple extramarital affairs. Bloomberg Opinion's Parmy Olson breaks down the situation; her views are her own. The original text does not provide further details on the search process, board statement, or response from Huang.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达董事会正与外部机构合作寻找CEO黄仁勋的潜在继任者。",
+          "en": "Nvidia's board is working with an outside firm to identify potential successors to CEO Jensen Huang."
+        },
+        {
+          "zh": "此举发生在此前有报道称黄仁勋存在多起婚外情之后。",
+          "en": "The move follows reports of multiple extramarital affairs."
+        },
+        {
+          "zh": "彭博观点专栏作者Parmy Olson对此事进行了解读，其观点仅代表个人。",
+          "en": "Bloomberg Opinion's Parmy Olson breaks down the situation; her views are her own."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO succession",
+        "board",
+        "Jensen Huang"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:FNvEJmjlmHs",
       "title": "Nvidia Board Considers Replacing CEO Jensen Huang",
@@ -18413,47 +18506,6 @@
         "data centers",
         "BOE rate hike",
         "UBS layoffs"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ebeFULqrPVY",
-      "title": "UBS Cuts London Jobs, European Stocks Hit Fresh Record",
-      "title_zh": "瑞银伦敦裁员200人，欧股创收盘新高",
-      "url": "https://www.youtube.com/watch?v=ebeFULqrPVY",
-      "published_at": "2026-11-05T10:37:14+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "瑞银在与瑞信整合接近尾声之际，于伦敦裁减约200个职位，涉及财富管理和投资银行等部门。欧洲股市在资金从AI交易轮动及强劲财报季推动下创下收盘新高。",
-      "summary_en": "UBS has cut about 200 positions in London as the Credit Suisse integration nears completion, affecting units including wealth management and investment banking. European stocks hit a record closing high, extending outperformance driven by a rotation out of the AI trade and a strong earnings season.",
-      "detail_zh": "瑞银在伦敦裁减约200个职位，裁员于近几周内部宣布，涉及财富管理和投资银行等多个部门，背景是与瑞信的整合接近尾声。欧洲股市超越此前收盘纪录高位，延续相对强势，动力来自资金从人工智能交易轮动撤出以及强劲的财报季。节目还提及英国央行加息预期、德国商业银行CEO、马士基CEO、中期选举后的板块轮动与政治博弈、美元因交易员权衡政治僵局而下跌、莱茵金属股价重挫等话题。",
-      "detail_en": "UBS cut about 200 positions in London, announced internally in recent weeks, across units including wealth management and investment banking, as its Credit Suisse integration nears its end. European stocks surpassed their prior closing record high, extending regional outperformance driven by a rotation out of the AI trade and a strong earnings season. The program also referenced expectations of a BOE rate hike, the Commerzbank and Maersk CEOs, post-midterm rotation and political blame games, a weaker dollar as traders weighed gridlock, and a plunge in Rheinmetall shares.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "瑞银在伦敦裁员约200人，涉及财富管理和投资银行等部门，整合瑞信接近完成。",
-          "en": "UBS cut about 200 London positions across units including wealth management and investment banking as the Credit Suisse integration nears completion."
-        },
-        {
-          "zh": "欧洲股市创收盘纪录新高，受资金撤出AI交易及强劲财报季推动。",
-          "en": "European stocks hit a record closing high, driven by a rotation out of the AI trade and a strong earnings season."
-        },
-        {
-          "zh": "节目提及英国央行加息预期及美元因政治僵局担忧走弱。",
-          "en": "The program cited BOE rate hike expectations and a weaker dollar amid gridlock concerns."
-        }
-      ],
-      "tags": [
-        "UBS",
-        "Credit Suisse integration",
-        "European equities",
-        "AI rotation",
-        "BOE"
       ],
       "tickers": [],
       "sentiment": "neutral"
