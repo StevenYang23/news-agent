@@ -1,6 +1,305 @@
 {
-  "generated_at": "2026-11-12T14:14:10.206836+00:00",
+  "generated_at": "2026-11-12T15:14:03.407097+00:00",
   "insights": [
+    {
+      "guid": "yt:A23HYgyQJqY",
+      "title": "Market Insights: Is This a New Golden Age for Income Investing?",
+      "title_zh": "贝莱德：固定收益从收益稀缺转向更多收益机会",
+      "url": "https://www.youtube.com/watch?v=A23HYgyQJqY",
+      "published_at": "2026-11-12T14:50:18+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "贝莱德全球固定收益高级投资组合经理Chi Chen讨论固定收益市场从收益稀缺转向更多收益机会的转变，并指出投资者可能不再需要依赖利率下降来获取债券回报，同时提及高质量固定收益（包括证券化资产）中的机会。",
+      "summary_en": "BlackRock Senior Portfolio Manager in Global Fixed Income Chi Chen discusses the shift from income scarcity to greater income opportunities in fixed income, noting investors may not need to rely on falling interest rates to generate bond returns, and highlights opportunities in high-quality fixed income, including securitized assets.",
+      "detail_zh": "贝莱德全球固定收益高级投资组合经理Chi Chen在宣传材料中表示，固定收益市场正从收益稀缺转向更多收益机会。她指出，投资者可能不再需要依赖利率下降来产生债券回报。她认为高质量固定收益领域存在机会，并特别提及证券化资产。该内容为贝莱德固定收益产品的推广材料，未提供具体数据、久期或配置建议。",
+      "detail_en": "BlackRock Senior Portfolio Manager in Global Fixed Income Chi Chen states in a promotional piece that the fixed income market is shifting from income scarcity to greater income opportunities. She notes investors may not need to rely on falling interest rates to generate bond returns. She sees opportunities in high-quality fixed income, specifically mentioning securitized assets. The content is promotional material for BlackRock fixed income products and does not provide specific data, duration, or allocation recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "固定收益市场从收益稀缺转向更多收益机会",
+          "en": "Fixed income market shifting from income scarcity to greater income opportunities"
+        },
+        {
+          "zh": "投资者可能不再需要依赖利率下降来获取债券回报",
+          "en": "Investors may not need to rely on falling interest rates for bond returns"
+        },
+        {
+          "zh": "高质量固定收益中存在机会，包括证券化资产",
+          "en": "Opportunities exist in high-quality fixed income, including securitized assets"
+        }
+      ],
+      "tags": [
+        "fixed income",
+        "bond yields",
+        "securitized assets",
+        "BlackRock"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:nHqfMWY3RpE",
+      "title": "Jensen Huang's Influence on Washington",
+      "title_zh": "黄仁勋与特朗普关系受关注",
+      "url": "https://www.youtube.com/watch?v=nHqfMWY3RpE",
+      "published_at": "2026-11-12T14:50:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博报道称，前英伟达CEO黄仁勋曾是华盛顿和特朗普政府中有影响力的人物，如今他与特朗普总统的关系正受到密切关注。",
+      "summary_en": "Bloomberg reports that former Nvidia CEO Jensen Huang was an influential figure in Washington and the Trump administration, and his relationship with President Donald Trump is now being closely scrutinized.",
+      "detail_zh": "彭博电视台的Mike Shepard报道，前英伟达CEO黄仁勋曾在华盛顿和特朗普政府中具有影响力。目前，黄仁勋与美国总统特朗普的关系正受到密切关注。报道未提供更多细节。",
+      "detail_en": "Bloomberg's Mike Shepard reports that former Nvidia CEO Jensen Huang was an influential figure in Washington and the Trump administration. His relationship with President Donald Trump is now being closely scrutinized. The report provides no further details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋曾是华盛顿和特朗普政府中有影响力的人物。",
+          "en": "Jensen Huang was an influential figure in Washington and the Trump administration."
+        },
+        {
+          "zh": "他与特朗普总统的关系正受到密切关注。",
+          "en": "His relationship with President Donald Trump is being closely scrutinized."
+        }
+      ],
+      "tags": [
+        "Jensen Huang",
+        "Trump administration",
+        "Nvidia",
+        "Washington influence"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:d5hcfvtggJo",
+      "title": "BREAKING NEWS: Nvidia's Jensen Huang Resigns as CEO Effective Immediately",
+      "title_zh": "英伟达CEO黄仁勋因绯闻及间谍嫌疑被解职，CFO临时接任",
+      "url": "https://www.youtube.com/watch?v=d5hcfvtggJo",
+      "published_at": "2026-11-12T14:33:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据Bloomberg Television报道，英伟达CEO黄仁勋因两段婚外情传闻被解职，其中一名女性涉嫌为中国从事间谍活动。CFO Colette Kress被任命为临时CEO，董事会任命Harvey Jones为董事长，黄仁勋未来与公司的关系尚不明确。",
+      "summary_en": "Nvidia CEO Jensen Huang was ousted following reports of two affairs, including one with a woman suspected of spying for China. CFO Colette Kress was named interim CEO, and the board appointed Harvey Jones as chair; Huang's future association with Nvidia is unclear.",
+      "detail_zh": "Bloomberg Television的Ed Ludlow报道，英伟达首席执行官黄仁勋因两段婚外情传闻被免职，其中一名女性被怀疑为中国从事间谍活动。公司首席财务官Colette Kress被任命为临时首席执行官，董事会同时任命Harvey Jones为董事长。报道称，黄仁勋未来与英伟达的关系尚不明确。该报道未提供更多关于事件细节、公司官方声明或市场反应的信息。",
+      "detail_en": "Ed Ludlow of Bloomberg Television reported that Nvidia CEO Jensen Huang was ousted after reports of two affairs, including with one woman suspected of spying for China. Chief Financial Officer Colette Kress was named interim CEO, and the board appointed Harvey Jones as its chair. The report states that Huang's future association with Nvidia is unclear. No further details on the circumstances, official company statement, or market reaction were provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋因两段婚外情传闻被解职，其中一名女性涉嫌为中国从事间谍活动。",
+          "en": "Nvidia CEO Jensen Huang was ousted after reports of two affairs, including one with a woman suspected of spying for China."
+        },
+        {
+          "zh": "首席财务官Colette Kress被任命为临时首席执行官。",
+          "en": "Chief Financial Officer Colette Kress was named interim CEO."
+        },
+        {
+          "zh": "董事会任命Harvey Jones为董事长。",
+          "en": "The board appointed Harvey Jones as its chair."
+        },
+        {
+          "zh": "黄仁勋未来与英伟达的关系尚不明确。",
+          "en": "Huang's future association with Nvidia is unclear."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO departure",
+        "espionage",
+        "management change"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Ks8wNJlVwO0",
+      "title": "What Huang's Departure Means for the Future of Nvidia",
+      "title_zh": "英伟达CEO黄仁勋因绯闻及疑似间谍指控被免职",
+      "url": "https://www.youtube.com/watch?v=Ks8wNJlVwO0",
+      "published_at": "2026-11-12T14:32:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据彭博报道，英伟达CEO黄仁勋因两段婚外情报道被免职，其中一名女性疑似为中国从事间谍活动。Ed Ludlow与Mandeep Singh在节目中讨论了此事对公司未来的影响。",
+      "summary_en": "Nvidia CEO Jensen Huang was ousted following reports of two affairs, including with a woman suspected of spying for China. Ed Ludlow and Mandeep Singh discussed the implications for the company's future on Bloomberg Open Interest.",
+      "detail_zh": "彭博电视节目“Bloomberg Open Interest”报道，英伟达CEO黄仁勋因两段婚外情报道被免职，其中一名涉事女性被怀疑为中国从事间谍活动。节目嘉宾Ed Ludlow和Mandeep Singh就此事对英伟达未来的影响进行了讨论。原文未提供更多关于免职程序、公司官方回应或具体影响的细节。",
+      "detail_en": "Bloomberg's \"Open Interest\" reported that Nvidia CEO Jensen Huang was ousted after reports of two affairs, including with a woman suspected of spying for China. Guests Ed Ludlow and Mandeep Singh discussed what this means for the future of the company. The original text does not provide further details on the removal process, official company response, or specific impacts.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋因两段婚外情报道被免职。",
+          "en": "Nvidia CEO Jensen Huang was ousted following reports of two affairs."
+        },
+        {
+          "zh": "其中一名涉事女性被怀疑为中国从事间谍活动。",
+          "en": "One of the women involved is suspected of spying for China."
+        },
+        {
+          "zh": "彭博节目讨论了此事对英伟达未来的影响。",
+          "en": "The Bloomberg program discussed the implications for Nvidia's future."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO departure",
+        "espionage",
+        "corporate governance"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Mh9zuoYtGeg",
+      "title": "Nvidia Board Considers Jensen Huang's Future After Affair",
+      "title_zh": "英伟达为CEO黄仁勋寻找继任者",
+      "url": "https://www.youtube.com/watch?v=Mh9zuoYtGeg",
+      "published_at": "2026-11-12T14:29:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达正在为全球市值最高的芯片公司寻找CEO黄仁勋的继任者，这是一项艰巨的挑战。彭博新闻社高级市场策略师Neil Campling参与讨论。",
+      "summary_en": "Nvidia Corp. is searching for a replacement for CEO Jensen Huang, a daunting challenge at the world's most valuable chipmaker. Neil Campling, Bloomberg News Senior Market Strategist, joins to discuss.",
+      "detail_zh": "英伟达公司正在寻找其CEO黄仁勋的继任者。黄仁勋被描述为“传奇人物”，而英伟达是全球市值最高的芯片制造商，因此这一继任挑战十分艰巨。彭博新闻社高级市场策略师Neil Campling参与了相关讨论。原文未提供更多关于继任者搜寻的细节、潜在人选或时间表。",
+      "detail_en": "Nvidia Corp. is searching for a replacement for its larger-than-life CEO Jensen Huang. The challenge is described as daunting at the world's most valuable chipmaker. Neil Campling, Bloomberg News Senior Market Strategist, joins to discuss. The original text does not provide further details on the search process, potential candidates, or timeline.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达正在寻找CEO黄仁勋的继任者。",
+          "en": "Nvidia is searching for a successor to CEO Jensen Huang."
+        },
+        {
+          "zh": "黄仁勋被形容为“传奇人物”，继任挑战艰巨。",
+          "en": "Huang is described as larger-than-life, making the succession a daunting challenge."
+        },
+        {
+          "zh": "英伟达是全球市值最高的芯片制造商。",
+          "en": "Nvidia is the world's most valuable chipmaker."
+        },
+        {
+          "zh": "彭博高级市场策略师Neil Campling参与了讨论。",
+          "en": "Neil Campling, Bloomberg News Senior Market Strategist, joined to discuss."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO succession",
+        "semiconductors"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:cW_9FeipFxM",
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "title_zh": "英伟达CEO黄仁勋因董事会压力辞职，CFO临时接任",
+      "url": "https://www.youtube.com/watch?v=cW_9FeipFxM",
+      "published_at": "2026-11-12T14:29:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋在董事会压力下辞职，此前有报道称其涉及两段婚外情，其中一人被指为中国间谍。董事会任命CFO Colette Kress为临时CEO，并任命Harvey Jones为董事会主席。",
+      "summary_en": "Nvidia CEO Jensen Huang resigned under pressure from the board after reports of two affairs, including one with a woman alleged to be a Chinese spy. The board named CFO Colette Kress as interim CEO and appointed Harvey Jones as chair.",
+      "detail_zh": "英伟达首席执行官黄仁勋在董事会压力下辞职。此前有报道称其涉及两段婚外情，其中一名女性被指为中国间谍。董事会对黄仁勋的贡献表示感谢，并任命首席财务官Colette Kress为临时首席执行官，同时任命Harvey Jones为董事会主席。彭博的Mandeep Singh将分析此事对这家芯片巨头及整个人工智能行业的影响。",
+      "detail_en": "Nvidia CEO Jensen Huang resigned under pressure from the chipmaker's board after reports of two affairs came to light, including one with a woman alleged to be a Chinese spy. The board thanked Huang for his contributions and named Chief Financial Officer Colette Kress as interim CEO, as well as appointing Harvey Jones as chair of the board. Bloomberg's Mandeep Singh breaks down the implications for the chip giant and the AI industry at large.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋因董事会压力辞去英伟达CEO职务。",
+          "en": "Jensen Huang resigned as Nvidia CEO under pressure from the board."
+        },
+        {
+          "zh": "辞职前有报道称其涉及两段婚外情，其中一人被指为中国间谍。",
+          "en": "Reports of two affairs came to light, including one with a woman alleged to be a Chinese spy."
+        },
+        {
+          "zh": "董事会任命CFO Colette Kress为临时CEO。",
+          "en": "The board named CFO Colette Kress as interim CEO."
+        },
+        {
+          "zh": "Harvey Jones被任命为董事会主席。",
+          "en": "Harvey Jones was appointed as chair of the board."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO resignation",
+        "management change",
+        "AI industry"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:CgXdL2unP9Q",
+      "title": "Stocks Fall on Nvidia Worries; Nvidia Board Considers Huang's Future",
+      "title_zh": "英伟达领导层危机拖累美股期货，AI供应链与中美关系受关注",
+      "url": "https://www.youtube.com/watch?v=CgXdL2unP9Q",
+      "published_at": "2026-11-12T14:13:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股期货下跌，投资者正在应对英伟达领导层危机，该危机可能对全球AI供应链及中美贸易关系产生更广泛影响。贝莱德的Wei Li在Bloomberg Brief节目中讨论了英伟达动荡的市场影响。",
+      "summary_en": "US equity futures declined as investors grappled with a leadership crisis at Nvidia that threatens wider fallout across the global AI supply chain and US-China trade relations. BlackRock's Wei Li discussed the market impact of the Nvidia turmoil on Bloomberg Brief.",
+      "detail_zh": "美股期货走低，市场焦点集中在英伟达的领导层危机上。节目章节显示，英伟达董事会正在权衡Jensen Huang的未来去向。贝莱德全球首席投资策略师Wei Li在Bloomberg Brief中讨论了英伟达动荡及其对AI板块的市场影响。节目还涉及英伟达事件的溢出效应以及中美关系。此外，节目内容涵盖乌克兰谈判、英国经济、CoreWeave、密西西比州选举、加沙袭击、COP31与全球气候风险、联合国秘书长古特雷斯关于联合国改革与美国的表态、Steve Witkoff与Jared Kushner会见普京，以及美国失业救济申请和美联储官员讲话。",
+      "detail_en": "US equity futures declined, with market focus centered on the leadership crisis at Nvidia. The program chapters indicate that Nvidia's board is weighing Jensen Huang's future. BlackRock Global Chief Investment Strategist Wei Li discussed the market impact of the Nvidia turmoil and its implications for the AI sector on Bloomberg Brief. The program also covered the fallout from the Nvidia situation and US-China relations. Additionally, the program touched on Ukraine talks, the UK economy, CoreWeave, the Mississippi election, a Gaza strike, COP31 and global climate risks, UN Secretary-General Antonio Guterres on UN reform and the US, Steve Witkoff and Jared Kushner meeting Putin, and US jobless claims and Fed speakers.",
+      "conclusion_zh": "英伟达领导层危机成为美股短期核心风险，投资者需关注其对AI供应链和中美关系的溢出效应。",
+      "conclusion_en": "The Nvidia leadership crisis is a near-term core risk for US equities, and investors should watch for spillover effects on the AI supply chain and US-China relations.",
+      "key_points": [
+        {
+          "zh": "美股期货下跌，投资者正在应对英伟达领导层危机。",
+          "en": "US equity futures declined as investors grappled with a leadership crisis at Nvidia."
+        },
+        {
+          "zh": "英伟达危机可能对全球AI供应链和中美贸易关系产生更广泛影响。",
+          "en": "The Nvidia crisis threatens wider fallout across the global AI supply chain and US-China trade relations."
+        },
+        {
+          "zh": "英伟达董事会正在权衡Jensen Huang的未来。",
+          "en": "Nvidia's board is weighing Jensen Huang's future."
+        },
+        {
+          "zh": "贝莱德的Wei Li在Bloomberg Brief中讨论了英伟达动荡的市场影响。",
+          "en": "BlackRock's Wei Li discussed the market impact of the Nvidia turmoil on Bloomberg Brief."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI supply chain",
+        "US-China relations",
+        "leadership crisis",
+        "US equity futures"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:f9pcdTKeBM8",
       "title": "Why Crypto's Biggest Weakness Could Be Its Strength",
@@ -18220,227 +18519,6 @@
         "QCOM"
       ],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:qxB2eeHud6Q",
-      "title": "The Less Water Data Centers Use, The More Power They Consume. Here’s Why",
-      "title_zh": "AI数据中心的水耗与能耗权衡：液冷并非零水耗",
-      "url": "https://www.youtube.com/watch?v=qxB2eeHud6Q",
-      "published_at": "2026-11-05T15:00:18+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "液冷技术提升了AI芯片散热效率，但数据中心整体水耗并未消失，热量排出环节仍需水或电。全美已有近1400个数据中心运营，超2000个规划中，71%受访者反对本地新建，水资源与电价成为关键制约。",
-      "summary_en": "Liquid cooling improves heat removal for AI chips, but data centers still consume water at the facility level to reject heat. With nearly 1,400 data centers operating and over 2,000 planned in the U.S., 71% of respondents oppose local construction, making water and power key constraints.",
-      "detail_zh": "在加州圣何塞的Equinix数据中心，Grace Blackwell机架采用液冷，每个机架含72个GPU，芯片在80°C下运行，需持续冷却。液冷闭环系统在服务器内部确实不耗水，但热量需通过外部冷却排出建筑，这一环节消耗水和电。干冷（使用环境空气）水耗最低但高温时需高耗电冷却单元；蒸发冷却水耗最高。Equinix 2025年全球运营耗水12亿加仑，同比增长10%，但未披露单个站点水耗。CoolIT为Nvidia和AMD提供液冷设备，于7月被Ecolab以47.5亿美元收购。AMD的Helios是Nvidia Vera Rubin和Grace Blackwell机架的唯一真正竞争对手，两者最新系统均设计为全液冷。大型数据中心日耗水可达500万加仑，相当于5万人口小城镇的用水量；一个1吉瓦站点峰值需800万加仑。全美已有近1400个数据中心运营，超2000个规划中，71%受访者反对本地新建，地方和州领导人暂停新项目，居民担心承担电水费率上升。",
-      "detail_en": "At an Equinix data center in San Jose, California, Grace Blackwell racks use liquid cooling, with each rack containing 72 GPUs running at 80°C and requiring continuous cooling. Closed-loop liquid cooling uses no water inside the server, but heat must be rejected from the building, which consumes water and power. Dry cooling (using ambient air) is least water-intensive but requires power-hungry cooling units at high temperatures; evaporative cooling is most water-intensive. Equinix consumed 1.2 billion gallons of water globally in 2025, up 10% from 2024, but does not disclose site-level water use. CoolIT supplies liquid cooling equipment to Nvidia and AMD and was acquired by Ecolab for $4.75 billion in July. AMD's Helios is the only real competitor to Nvidia's Vera Rubin and Grace Blackwell racks, and both companies designed their latest systems to be entirely liquid cooled. Large data centers can use up to 5 million gallons per day, equivalent to a small town of up to 50,000 people; a one-gigawatt site like Meta's in Lebanon, Indiana, needs up to 8 million gallons at peak. Nearly 1,400 data centers are operating in the U.S. with over 2,000 planned, and 71% of respondents oppose local construction, leading local and state leaders to pause new projects amid concerns over rising electric and water rates.",
-      "conclusion_zh": "AI数据中心扩张面临水资源与电力约束，液冷技术缓解芯片散热但未消除设施级水耗，投资者需关注冷却技术路线及社区阻力对项目进度的影响。",
-      "conclusion_en": "AI data center expansion faces water and power constraints; liquid cooling helps chip-level heat removal but does not eliminate facility-level water use. Investors should watch cooling technology paths and community opposition affecting project timelines.",
-      "key_points": [
-        {
-          "zh": "液冷闭环系统在服务器内部不耗水，但热量排出建筑仍需水或电，水耗并未消失。",
-          "en": "Closed-loop liquid cooling uses no water inside servers, but rejecting heat from the building still requires water or power, so water use does not disappear."
-        },
-        {
-          "zh": "干冷水耗最低但高温时耗电高；蒸发冷却水耗最高，存在水与电的权衡。",
-          "en": "Dry cooling is least water-intensive but power-heavy at high temperatures; evaporative cooling is most water-intensive, creating a water-power trade-off."
-        },
-        {
-          "zh": "Equinix 2025年全球耗水12亿加仑，同比增长10%，但未披露单个站点水耗。",
-          "en": "Equinix consumed 1.2 billion gallons of water globally in 2025, up 10% year-over-year, but does not disclose site-level water use."
-        },
-        {
-          "zh": "CoolIT被Ecolab以47.5亿美元收购，显示液冷供应链整合。",
-          "en": "CoolIT was acquired by Ecolab for $4.75 billion, signaling consolidation in the liquid cooling supply chain."
-        },
-        {
-          "zh": "71%受访者反对本地新建数据中心，地方和州领导人暂停新项目，水资源和电价成为关键制约。",
-          "en": "71% of respondents oppose local data center construction, and local and state leaders are pausing new projects, with water and power costs as key constraints."
-        }
-      ],
-      "tags": [
-        "AI data centers",
-        "liquid cooling",
-        "water consumption",
-        "power demand",
-        "Nvidia",
-        "AMD"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ErCDO4d0uF8",
-      "title": "Miran on Midterms, Trump Tariffs, Fed Forward Guidance",
-      "title_zh": "前美联储理事Miran谈特朗普与民主党合作、关税回撤及前瞻指引",
-      "url": "https://www.youtube.com/watch?v=ErCDO4d0uF8",
-      "published_at": "2026-11-05T14:54:34+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前美联储理事、前经济顾问委员会主席Stephen Miran在Bloomberg Surveillance节目中讨论了特朗普若与掌控国会的民主党合作的情形、特朗普关税被回撤的可能后果，以及他是否认为美联储应提供前瞻指引。原文仅为节目预告，未包含Miran的具体观点或数据。",
-      "summary_en": "Former Fed Governor and former CEA Chairman Stephen Miran discussed on Bloomberg Surveillance how President Trump could work with Democrats controlling Congress, what would happen if Trump's tariffs were rolled back, and whether he believes the Fed should provide forward guidance. The source is only a program teaser and contains no specific views or data from Miran.",
-      "detail_zh": "原文为Bloomberg Surveillance节目的简短介绍，仅列出前美联储理事Stephen Miran（同时为前经济顾问委员会主席）将讨论的三个话题：一是特朗普如何与掌控国会的民主党合作；二是特朗普关税被回撤后可能发生的情况；三是他是否认为美联储应提供前瞻指引。原文未提供Miran对上述任一话题的具体看法、数据或结论，也未涉及任何美股个股或具体资产价格。其余内容为Bloomberg的社交媒体与订阅推广信息，无投资分析价值。",
-      "detail_en": "The source is a brief program description for Bloomberg Surveillance, listing three topics that former Fed Governor and former CEA Chairman Stephen Miran would discuss: how President Trump could work with Democrats controlling Congress; what would happen if Trump's tariffs were rolled back; and whether he believes the Fed should provide forward guidance. The source provides no specific views, data, or conclusions from Miran on any of these topics, nor does it mention any individual US equities or asset prices. The remainder consists of Bloomberg social media and subscription promotional material with no investment analysis value.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目预告列出Miran将讨论特朗普与民主党掌控国会下的合作方式。",
-          "en": "The program teaser lists that Miran would discuss how Trump could work with Democrats controlling Congress."
-        },
-        {
-          "zh": "Miran将讨论特朗普关税被回撤后可能发生的情况。",
-          "en": "Miran would discuss what would happen if Trump's tariffs were rolled back."
-        },
-        {
-          "zh": "Miran将讨论他是否认为美联储应提供前瞻指引。",
-          "en": "Miran would discuss whether he believes the Fed should provide forward guidance."
-        },
-        {
-          "zh": "原文未包含Miran对上述话题的具体观点、数据或结论。",
-          "en": "The source contains no specific views, data, or conclusions from Miran on these topics."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "tariffs",
-        "forward guidance",
-        "Trump",
-        "Congress"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:hAvM95MuGQk",
-      "title": "Wendy’s Rejects Takeover Bid From Peltz's Trian",
-      "title_zh": "Wendy's董事会一致否决Trian基金约14亿美元收购要约",
-      "url": "https://www.youtube.com/watch?v=hAvM95MuGQk",
-      "published_at": "2026-11-05T14:43:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Wendy's董事会一致否决了由Nelson Peltz旗下Trian Fund Management牵头、约14亿美元的收购要约，认为该报价严重低估了公司前景与长期盈利潜力。",
-      "summary_en": "Wendy's board unanimously rejected an approximately $1.4 billion buyout offer from a group led by Nelson Peltz's Trian Fund Management, stating the proposal substantially undervalues the company's prospects and long-term earnings potential.",
-      "detail_zh": "Wendy's Co.董事会一致否决了由Nelson Peltz旗下Trian Fund Management牵头的一个集团提出的收购要约。该要约对这家汉堡连锁店的估值约为14亿美元。董事会表示，该提案严重低估了公司的前景和长期盈利潜力。Craig Trudell在Bloomberg Open Interest节目中提供了更多细节。",
-      "detail_en": "Wendy's Co. board unanimously rejected a buyout offer from a group led by Nelson Peltz's Trian Fund Management. The offer valued the burger chain at approximately $1.4 billion. The board said the proposal substantially undervalues the company's prospects and long-term earnings potential. Craig Trudell provided more details on Bloomberg Open Interest.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Wendy's董事会一致否决Trian基金牵头的约14亿美元收购要约。",
-          "en": "Wendy's board unanimously rejected the approximately $1.4 billion buyout offer led by Trian Fund Management."
-        },
-        {
-          "zh": "董事会认为该报价严重低估了公司的前景和长期盈利潜力。",
-          "en": "The board believes the proposal substantially undervalues the company's prospects and long-term earnings potential."
-        },
-        {
-          "zh": "该收购集团由Nelson Peltz旗下的Trian Fund Management牵头。",
-          "en": "The acquisition group is led by Nelson Peltz's Trian Fund Management."
-        }
-      ],
-      "tags": [
-        "Wendy's",
-        "Trian Fund Management",
-        "buyout offer",
-        "board rejection",
-        "valuation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:dkjgcMHOf84",
-      "title": "The BOE Decides | Special Coverage",
-      "title_zh": "英国央行加息至4%，警告明年通胀近5%",
-      "url": "https://www.youtube.com/watch?v=dkjgcMHOf84",
-      "published_at": "2026-11-05T14:33:16+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英国央行一致投票加息至4%，并警告明年通胀可能接近5%，暗示可能进一步加息。交易员加大了对下月再次加息的押注。",
-      "summary_en": "The Bank of England unanimously voted to raise interest rates to 4% and warned inflation could approach 5% next year, signaling another hike may be on the cards. Traders increased bets on a back-to-back hike next month.",
-      "detail_zh": "英国央行货币政策委员会一致投票决定将关键利率上调至4%。央行警告称，明年通胀率预计将接近5%。政策制定者表示，可能还会进一步加息。市场交易员因此加大了对下个月再次加息的押注。行长Andrew Bailey随后召开新闻发布会，彭博电视进行了直播并提供了市场反应和分析。",
-      "detail_en": "The Bank of England's Monetary Policy Committee voted unanimously to raise the key interest rate to 4%. The central bank warned that inflation is on track to hit almost 5% next year. Policymakers signaled that another rate hike is on the cards. Traders responded by adding to bets for another hike next month. Governor Andrew Bailey held a press conference, which was broadcast live by Bloomberg TV along with market reaction and analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英国央行一致投票加息至4%。",
-          "en": "BOE unanimously voted to raise rates to 4%."
-        },
-        {
-          "zh": "央行警告明年通胀可能接近5%。",
-          "en": "The central bank warned inflation could approach 5% next year."
-        },
-        {
-          "zh": "政策制定者暗示可能进一步加息。",
-          "en": "Policymakers signaled another hike is on the cards."
-        },
-        {
-          "zh": "交易员加大了对下月再次加息的押注。",
-          "en": "Traders added to bets for another hike next month."
-        }
-      ],
-      "tags": [
-        "Bank of England",
-        "interest rates",
-        "inflation",
-        "monetary policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:AUu8vjF6p_g",
-      "title": "Joshua Wong’s 10-Year Term Seals End of Hong Kong’s Protest Era",
-      "title_zh": "黄之锋因新判决获刑10年，民主运动领袖面临更严厉惩罚",
-      "url": "https://www.youtube.com/watch?v=AUu8vjF6p_g",
-      "published_at": "2026-11-05T14:17:44+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "香港民主运动前领袖黄之锋原本预计明年年初获释，但新的10年刑期意味着他整个三十多岁都将在狱中度过，这是对香港前抗议领袖最严厉的判决之一。",
-      "summary_en": "Joshua Wong, former face of Hong Kong's pro-democracy movement, was set to be released early next year after nearly six years in prison, but a new 10-year sentence means he will spend his entire thirties behind bars, marking one of the harshest penalties against the city's former protest leaders.",
-      "detail_zh": "黄之锋曾是香港民主运动的青少年代表，在服刑近六年后，原本预计于明年年初获释。然而，新的判决将刑期增至10年，这意味着他的整个三十多岁都将在监狱中度过。报道称，这是对香港前抗议领袖迄今最严厉的惩罚之一。原文未提供新判决的具体罪名、法院名称或判决日期等细节。",
-      "detail_en": "Joshua Wong, once the teenage face of Hong Kong's pro-democracy movement, was set to walk free early next year after nearly six years in prison. Instead, a new 10-year sentence means he will spend his entire thirties behind bars, marking one of the harshest penalties yet against the city's former protest leaders. The original text does not provide details on the specific charges, court, or sentencing date.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "黄之锋原本预计明年年初获释，但新判决将刑期增至10年。",
-          "en": "Joshua Wong was originally expected to be released early next year, but a new sentence increased his prison term to 10 years."
-        },
-        {
-          "zh": "这意味着他整个三十多岁都将在狱中度过。",
-          "en": "This means he will spend his entire thirties behind bars."
-        },
-        {
-          "zh": "该判决是对香港前抗议领袖最严厉的惩罚之一。",
-          "en": "The sentence is one of the harshest penalties yet against the city's former protest leaders."
-        }
-      ],
-      "tags": [
-        "Hong Kong",
-        "Joshua Wong",
-        "sentencing",
-        "pro-democracy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
