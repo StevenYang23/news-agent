@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-11-11T23:14:06.718400+00:00",
+  "generated_at": "2026-11-12T00:33:34.241718+00:00",
   "insights": [
+    {
+      "guid": "yt:2jwTRDvQtUo",
+      "title": "Nvidia Preparing to Oust CEO Jensen Huang: WSJ",
+      "title_zh": "美国议员呼吁调查英伟达与黄仁勋，关注国家安全与关键人风险",
+      "url": "https://www.youtube.com/watch?v=2jwTRDvQtUo",
+      "published_at": "2026-11-12T00:09:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "众议员Suzan DelBene呼吁对英伟达及CEO黄仁勋展开调查，以了解潜在的国家安全影响；众议员Raja Krishnamoorthi表示若黄仁勋不接受自愿约谈应发出传票。Gregory Allen指出英伟达的组织结构难以轻易消化黄仁勋的离开，公司围绕其领导力构建且无明确继任者。",
+      "summary_en": "Rep. Suzan DelBene called for an investigation into Nvidia and CEO Jensen Huang to understand potential national security implications, while Rep. Raja Krishnamoorthi said Huang should be subpoenaed if he does not appear for a requested voluntary interview. Gregory Allen noted Nvidia is not structured to easily absorb the loss of Huang, as the company has been built around his leadership without a clear successor.",
+      "detail_zh": "在Bloomberg的“Balance of Power”节目中，众议员Suzan DelBene表示应对英伟达及黄仁勋展开调查，以了解潜在的国家安全影响。众议员Raja Krishnamoorthi（伊利诺伊州民主党）表示，如果黄仁勋不出席立法者要求的自愿约谈，应向其发出传票。Gregory Allen（Decision Tree Research创始人兼CEO）认为，英伟达的组织结构难以轻易消化黄仁勋的离开，公司围绕黄仁勋的领导力构建，且没有明确的继任者。节目还讨论了国会即将对英伟达展开的监督、黄仁勋退出对英伟达估值可能意味着什么，以及英伟达的AI帝国与关键人风险。此外，前得克萨斯州共和党众议员Kevin Brady就跛脚鸭国会、政府拨款与停摆截止日期以及分裂政府下的税收政策发表了看法。",
+      "detail_en": "On Bloomberg's \"Balance of Power,\" Rep. Suzan DelBene said there should be an investigation into Nvidia and Jensen Huang to understand potential national security implications. Rep. Raja Krishnamoorthi (D-IL) said Huang should be subpoenaed if he does not appear for a requested voluntary interview with lawmakers. Gregory Allen, Founder and CEO of Decision Tree Research, argued that Nvidia is not structured to easily absorb the loss of Jensen Huang, noting the company has been built around Huang's leadership without a clear successor. The program also discussed looming congressional oversight of Nvidia, what Huang's exit could mean for Nvidia's valuation, and Nvidia's AI empire and key-man risk. Additionally, Kevin Brady, former Republican Congressman from Texas, commented on the lame-duck Congress, government funding and the shutdown deadline, and tax policy under divided government.",
+      "conclusion_zh": "英伟达面临国会对其CEO及公司国家安全影响的审查，同时关键人风险凸显，投资者需关注政治与治理层面的不确定性。",
+      "conclusion_en": "Nvidia faces congressional scrutiny over its CEO and potential national security implications, while key-man risk is highlighted; investors should watch political and governance uncertainties.",
+      "key_points": [
+        {
+          "zh": "众议员Suzan DelBene呼吁调查英伟达和黄仁勋，以了解潜在的国家安全影响。",
+          "en": "Rep. Suzan DelBene called for an investigation into Nvidia and Jensen Huang to understand potential national security implications."
+        },
+        {
+          "zh": "众议员Raja Krishnamoorthi表示，若黄仁勋不出席自愿约谈，应发出传票。",
+          "en": "Rep. Raja Krishnamoorthi said Huang should be subpoenaed if he does not appear for a requested voluntary interview."
+        },
+        {
+          "zh": "Gregory Allen指出英伟达难以轻易消化黄仁勋的离开，公司围绕其领导力构建且无明确继任者。",
+          "en": "Gregory Allen noted Nvidia is not structured to easily absorb the loss of Huang, as the company has been built around his leadership without a clear successor."
+        },
+        {
+          "zh": "节目讨论了国会即将对英伟达的监督以及黄仁勋退出对估值的潜在影响。",
+          "en": "The program discussed looming congressional oversight of Nvidia and what Huang's exit could mean for the company's valuation."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "congressional oversight",
+        "key-man risk",
+        "national security"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:KV5DXNjt89M",
+      "title": "Rep. Krishnamoorthi Says Huang Should Face Subpoena",
+      "title_zh": "议员呼吁就涉嫌中国间谍案传唤黄仁勋并加强出口管制",
+      "url": "https://www.youtube.com/watch?v=KV5DXNjt89M",
+      "published_at": "2026-11-11T23:38:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国众议员克里希纳穆尔蒂表示，若英伟达CEO黄仁勋不出席自愿面谈，应发出传票；国会需就涉嫌中国间谍可能获取的信息及黄仁勋是否涉案举行机密情报简报。他还呼吁在跛脚鸭会期加强美国出口管制法律。",
+      "summary_en": "Rep. Raja Krishnamoorthi said Jensen Huang should be subpoenaed if he does not appear for a voluntary interview, and Congress needs a classified intelligence briefing on what information the alleged Chinese spy may have obtained and whether Huang was involved. He also called for strengthening US export-control laws during the lame-duck session.",
+      "detail_zh": "美国伊利诺伊州民主党众议员拉贾·克里希纳穆尔蒂表示，如果英伟达CEO黄仁勋不出席国会要求的自愿面谈，应向其发出传票。克里希纳穆尔蒂称，国会需要就涉嫌中国间谍可能获取了哪些信息、以及黄仁勋是否参与任何非法活动举行机密情报简报。他还表示，议员们必须在跛脚鸭会期加强美国出口管制法律，并称有信心同僚会支持迅速推进。上述言论来自其在彭博“Balance of Power”节目上与乔·马蒂厄和凯莉·莱因茨的对话。",
+      "detail_en": "Rep. Raja Krishnamoorthi (D-IL) said Jensen Huang should be subpoenaed if he does not appear for a requested voluntary interview with lawmakers. Krishnamoorthi said Congress needs a classified intelligence briefing on what information may have been obtained by the alleged Chinese spy and whether Huang was involved in any illicit activity. He also said lawmakers must strengthen US export-control laws during the lame-duck session and that he is confident colleagues will support moving expeditiously. He spoke with Joe Mathieu and Kailey Leinz on Bloomberg's \"Balance of Power.\"",
+      "conclusion_zh": "事件指向美国对华出口管制可能进一步收紧，英伟达等半导体龙头面临政策与监管不确定性。",
+      "conclusion_en": "The development points to potentially tighter US export controls, leaving semiconductor leaders like Nvidia facing policy and regulatory uncertainty.",
+      "key_points": [
+        {
+          "zh": "克里希纳穆尔蒂称，若黄仁勋不出席自愿面谈，应发出传票。",
+          "en": "Krishnamoorthi says Huang should be subpoenaed if he does not appear for the voluntary interview."
+        },
+        {
+          "zh": "国会需就涉嫌中国间谍可能获取的信息及黄仁勋是否涉案举行机密情报简报。",
+          "en": "Congress needs a classified intelligence briefing on what the alleged Chinese spy may have obtained and whether Huang was involved."
+        },
+        {
+          "zh": "议员呼吁在跛脚鸭会期加强美国出口管制法律，并预期迅速推进。",
+          "en": "Lawmakers must strengthen US export-control laws during the lame-duck session, with confidence colleagues will support moving expeditiously."
+        }
+      ],
+      "tags": [
+        "export controls",
+        "Nvidia",
+        "Congress",
+        "China",
+        "semiconductors"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Fp85jzlK2CU",
+      "title": "Brady Says Democrats Control Lame-Duck Funding Timing",
+      "title_zh": "前议员Brady：民主党主导跛脚鸭期拨款议程，预期延长拨款而非停摆",
+      "url": "https://www.youtube.com/watch?v=Fp85jzlK2CU",
+      "published_at": "2026-11-11T23:26:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前得州共和党众议员Kevin Brady表示，在众议院控制权交接的跛脚鸭会期，民主党实际上掌控政府拨款立法的时间与内容。他预计议员们将延长政府拨款而非让政府停摆，但时间仍不确定；分裂政府可能为两党税收政策创造机会，包括国税局改革和与2025年税法相关的调整。",
+      "summary_en": "Former Texas Republican Congressman Kevin Brady says Democrats are effectively in control of the timing and content of government funding legislation during the lame-duck session as House control changes hands. He expects lawmakers to extend government funding rather than allow a shutdown, though timing remains unsettled, and says divided government could create opportunities for bipartisan tax policy, including IRS reforms and changes related to the 2025 tax law.",
+      "detail_zh": "前得克萨斯州共和党众议员Kevin Brady在彭博“Balance of Power”节目中表示，随着众议院控制权易手，民主党在跛脚鸭会期实际上掌控了政府拨款立法的时间与内容。Brady预计议员们将延长政府拨款，而不是让政府停摆，但具体时间仍不确定。他认为分裂政府可能为两党税收政策创造机会，包括国税局（IRS）改革以及与2025年税法相关的调整。Brady还表示，民主党可能寻求恢复可再生能源、儿童和医疗保健税收抵免，同时提议提高对企业和高收入个人的税收。上述表态来自Brady与Joe Mathieu和Kailey Leinz的对话。",
+      "detail_en": "Former Texas Republican Congressman Kevin Brady said on Bloomberg's \"Balance of Power\" that Democrats are effectively in control of the timing and content of government funding legislation during the lame-duck session as control of the House changes hands. Brady said he expects lawmakers to extend government funding rather than allow a shutdown, although the timing remains unsettled. He said divided government could create opportunities for bipartisan tax policy, including IRS reforms and changes related to the 2025 tax law. Brady also said Democrats are likely to pursue restoration of renewable-energy, child and health-care tax credits while proposing higher taxes on corporations and individuals. He spoke with Joe Mathieu and Kailey Leinz.",
+      "conclusion_zh": "拨款延期而非停摆是基准情形，但税改方向（IRS改革、2025税法调整、抵免恢复与加税提议）值得关注，分裂政府下的两党税收政策可能带来结构性影响。",
+      "conclusion_en": "A funding extension rather than a shutdown is the base case, but the tax policy direction—IRS reforms, changes to the 2025 tax law, credit restorations and proposed tax hikes—warrants attention, as bipartisan tax policy under divided government could have structural implications.",
+      "key_points": [
+        {
+          "zh": "Brady称民主党在跛脚鸭会期实际掌控政府拨款立法的时间与内容。",
+          "en": "Brady says Democrats are effectively in control of the timing and content of government funding legislation during the lame-duck session."
+        },
+        {
+          "zh": "他预计议员们将延长政府拨款而非让政府停摆，但时间仍不确定。",
+          "en": "He expects lawmakers to extend government funding rather than allow a shutdown, though timing remains unsettled."
+        },
+        {
+          "zh": "分裂政府可能为两党税收政策创造机会，包括IRS改革和与2025年税法相关的调整。",
+          "en": "Divided government could create opportunities for bipartisan tax policy, including IRS reforms and changes related to the 2025 tax law."
+        },
+        {
+          "zh": "民主党可能寻求恢复可再生能源、儿童和医疗保健税收抵免，同时提议提高对企业和高收入个人的税收。",
+          "en": "Democrats are likely to pursue restoration of renewable-energy, child and health-care tax credits while proposing higher taxes on corporations and individuals."
+        }
+      ],
+      "tags": [
+        "government funding",
+        "shutdown",
+        "tax policy",
+        "divided government",
+        "lame-duck session"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:64uq2_j8nJk",
+      "title": "Rep. DelBene: Nvidia, Huang Should Face Investigation",
+      "title_zh": "民主党众议员呼吁调查英伟达及黄仁勋的国家安全影响",
+      "url": "https://www.youtube.com/watch?v=64uq2_j8nJk",
+      "published_at": "2026-11-11T23:21:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "众议员Suzan DelBene表示应调查英伟达及黄仁勋，以了解潜在的国家安全影响。她还表示民主党夺回众议院后将监督特朗普政府，并聚焦高生活成本与医疗保健议题。",
+      "summary_en": "Rep. Suzan DelBene says there should be an investigation into Nvidia and Jensen Huang to understand potential national security implications. She also says Democrats will conduct oversight of the Trump administration once they take control of the House, focusing on high costs and health care.",
+      "detail_zh": "众议员Suzan DelBene在彭博“Balance of Power”节目中表示，应就英伟达及黄仁勋展开调查，以了解潜在的国家安全影响。她表示，民主党在夺回众议院控制权后，将对特朗普政府进行监督，并要求政府官员到国会作证、遵守立法者颁布的法律。DelBene称，民主党将聚焦高生活成本与医疗保健议题，并愿与支持这些优先事项的共和党人跨党派合作。",
+      "detail_en": "Rep. Suzan DelBene, speaking on Bloomberg's \"Balance of Power,\" said there should be an investigation into Nvidia and Jensen Huang to understand potential national security implications. She said Democrats will conduct oversight of the Trump administration when they take control of the House, requiring administration officials to appear before Congress and follow laws enacted by lawmakers. DelBene said Democrats will focus on high costs and health care and will work across the aisle with Republicans willing to support those priorities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "DelBene呼吁调查英伟达及黄仁勋，以了解潜在国家安全影响。",
+          "en": "DelBene calls for an investigation into Nvidia and Jensen Huang over potential national security implications."
+        },
+        {
+          "zh": "民主党夺回众议院后将监督特朗普政府，要求官员到国会作证并遵守法律。",
+          "en": "Democrats will oversee the Trump administration once they control the House, requiring officials to testify and follow laws."
+        },
+        {
+          "zh": "民主党将聚焦高生活成本与医疗保健，并寻求跨党派合作。",
+          "en": "Democrats will focus on high costs and health care, seeking bipartisan cooperation."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "national security",
+        "House oversight",
+        "Democrats",
+        "health care"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:9bLsVFKAEVU",
       "title": "Gundlach: 4 Handle Inflation",
@@ -18382,231 +18558,6 @@
         "semiconductors",
         "trade",
         "inflation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:O8nINARvaTI",
-      "title": "Democratic Sweep Redraws Political Map",
-      "title_zh": "Bloomberg《Balance of Power》选举后政治与商业对话",
-      "url": "https://www.youtube.com/watch?v=O8nINARvaTI",
-      "published_at": "2026-11-05T00:03:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目聚焦选举后美国政治格局：民主党在得州取得历史性胜利，共和党面临重大失利并展开反思；前国防部长帕内塔讨论白宫人事、国防部长去留及伊朗战争与对以军援等议题。内容以政治访谈为主，未涉及具体美股标的或市场数据。",
-      "summary_en": "This episode of Balance of Power focuses on the post-election U.S. political landscape: Democrats scored historic victories in Texas while Republicans reckon with major losses; former Defense Secretary Leon Panetta discusses White House staffing, the Defense Secretary's future, the Iran war, and halted military aid to Israel. The content is primarily political interviews with no specific U.S. equity tickers or market data.",
-      "detail_zh": "节目首先由Bloomberg记者更新关键众议院和参议院选举结果，阿拉斯加参议院选情仍未决出，密歇根州结果及Abdul El-Sayed的胜利也被提及。政治小组讨论共和党如何应对重大失利、民主党领导层与对特朗普的调查、JD Vance、伊朗以及2028年总统竞选。前国防部长兼前白宫幕僚长Leon Panetta表示，Susie Wiles能否继续担任白宫幕僚长取决于她与特朗普总统的关系，而这一关系看起来良好；他还谈到Pete Hegseth作为国防部长的前景、民主党能否结束伊朗战争，以及特朗普暂停对以色列数十亿美元军事援助。得州民主党主席Kendall Scudder称民主党在全州的胜利是多个选举周期努力重建党基础设施的结果，并表示马斯克收到了“得州不出售”的强硬信号；他还谈及数据中心开发、拉丁裔选民与得州战略以及治理优先事项。最后，Bloomberg的Jeff Mason报道特朗普在共和党失利后参观白宫舞厅，小组讨论Vance的2028年野心、DeSantis及新兴的2028年共和党阵营，民主党也开始着眼2028年总统竞选。",
-      "detail_en": "The program begins with Bloomberg reporters updating key House and Senate race results, with the Alaska Senate race still undecided and Michigan results and Abdul El-Sayed's victory noted. A political panel discusses how Republicans reckon with major losses, Democratic leadership and investigations of Trump, JD Vance, Iran, and the 2028 presidential race. Former Defense Secretary and White House Chief of Staff Leon Panetta says whether Susie Wiles remains White House Chief of Staff depends on her relationship with President Donald Trump, which he says appears good; he also discusses Pete Hegseth's future as Defense Secretary, whether Democrats can end the Iran war, and Trump halting billions in military aid to Israel. Texas Democratic Party Chair Kendall Scudder says Democrats' statewide wins resulted from hard work over multiple election cycles rebuilding the party's infrastructure, and that Elon Musk got a tough message that 'Texas is not for sale'; he also discusses data center development, Latino voters and Democrats' Texas strategy, and governing priorities. Finally, Bloomberg's Jeff Mason reports on Trump touring the White House ballroom after GOP losses, and the panel discusses Vance's 2028 ambitions, DeSantis and the emerging 2028 GOP field, with Democrats beginning to eye the 2028 presidential race.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党在得克萨斯州取得历史性全州胜利，归因于多个选举周期的基层工作和党建重建。",
-          "en": "Democrats scored historic statewide victories in Texas, attributed to grassroots work over multiple election cycles and party infrastructure rebuilding."
-        },
-        {
-          "zh": "前国防部长帕内塔称Susie Wiles能否留任白宫幕僚长取决于她与特朗普的关系，目前关系看起来良好。",
-          "en": "Former Defense Secretary Panetta says whether Susie Wiles remains White House Chief of Staff depends on her relationship with Trump, which currently appears good."
-        },
-        {
-          "zh": "帕内塔还谈及国防部长Hegseth的前景、民主党能否结束伊朗战争，以及特朗普暂停对以色列数十亿美元军援。",
-          "en": "Panetta also discussed Defense Secretary Hegseth's future, whether Democrats can end the Iran war, and Trump halting billions in military aid to Israel."
-        },
-        {
-          "zh": "得州民主党主席Scudder表示马斯克收到了“得州不出售”的强硬信号。",
-          "en": "Texas Democratic Party Chair Scudder says Elon Musk got a tough message that 'Texas is not for sale.'"
-        },
-        {
-          "zh": "政治小组讨论2028年总统竞选前景，涉及Vance的野心、DeSantis及两党布局。",
-          "en": "The political panel discussed the 2028 presidential race outlook, including Vance's ambitions, DeSantis, and both parties' positioning."
-        }
-      ],
-      "tags": [
-        "US elections",
-        "Texas politics",
-        "White House",
-        "Defense",
-        "2028 race"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "/guest-content/list-guest-transcripts/6234-transcript-of-the-podcast-interview-between-erik-townsend-michael-every/file",
-      "title": "Transcript of the Podcast Interview between Erik Townsend & Michael Every (\n                                                                                                            pdf,                                                                                                                                                                 362 KB                                                                                                    )",
-      "title_zh": "美中期选举民主党大胜：地缘与市场影响",
-      "url": "https://www.macrovoices.com/guest-content/list-guest-transcripts/6234-transcript-of-the-podcast-interview-between-erik-townsend-michael-every/file",
-      "published_at": "2026-11-05T00:00:00+00:00",
-      "source_name": "Macro Voices",
-      "source_kind": "article",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "Rabobank策略师Michael Every指出，民主党赢得两院将制约美国外交政策，可能迫使美国退出中东，从而改变全球能源格局与大国博弈。他认为短期能源价格难以下降，但以色列核升级仍是极端尾部风险。",
-      "summary_en": "Rabobank strategist Michael Every argues that a Democratic sweep in the midterms will constrain US foreign policy, potentially forcing a withdrawal from the Middle East and reshaping global energy and great-power dynamics. He sees no short-term case for lower energy prices, while nuclear escalation remains an extreme tail risk.",
-      "detail_zh": "在MacroVoices第557期节目中，Rabobank全球策略师Michael Every与主持人Erik Townsend和Patrick Ceresna讨论了美国中期选举的市场与地缘影响。Every认为，民主党赢得两院不仅是美国国内的政治冲击，更将对全球地缘格局产生复杂影响。他指出，民主党已誓言停止伊朗战争，国会的“钱袋权”虽重要，但更关键的是，美国在国内外同时进行政治战将极大削弱其长期军事行动能力，尤其是在新国会于明年1月就任后。若美国因国会制约而减少海外干预成为常态，美国将成为一个受约束的地缘政治行为体。这可能导致美国最终退出中东，从而改变全球能源综合体和大国博弈格局，权力真空可能由伊朗（与俄中朝合作）或土耳其填补，或引发地区不稳定。Every认为，无论哪种情景，短期内都不支持能源价格下降。对于以色列可能使用核武器的风险，Every认为这是“极端肥尾风险”，因为作为小国跨越红线代价巨大，且1973年赎罪日战争初期以色列面临存亡威胁时也未动用核武器。",
-      "detail_en": "In MacroVoices Episode 557, Rabobank global strategist Michael Every joined hosts Erik Townsend and Patrick Ceresna to discuss the market and geopolitical implications of the US midterm elections. Every argued that a Democratic sweep of both houses is not just a domestic political shock but a complex geopolitical shock for the world. He noted that Democrats have vowed to stop the Iran war, and while the power of the purse is significant, the more pertinent point is that fighting a political war at home without congressional or public backing makes it enormously harder for the US to sustain military action, especially after the new Congress sits in January. If US foreign policy becomes constrained by a Congress unwilling to support adventures, the US becomes a greatly constrained geopolitical actor. This could lead to a US withdrawal from the Middle East, reshaping the global energy complex and great-power competition, with power vacuums potentially filled by Iran (aligned with Russia, China, and North Korea) or Turkey, or leading to regional destabilization. Every sees no short-term case for lower energy prices under either scenario. On the risk of Israeli nuclear escalation, Every views it as an extreme fat-tail risk, given the enormous implications for a small country crossing that red line, and notes that even during the early stages of the 1973 Yom Kippur War, Prime Minister Golda Meir did not reach for the nuclear option.",
-      "conclusion_zh": "美国中期选举结果可能显著制约美国海外军事干预，投资者应关注中东权力真空对能源价格的潜在上行风险，而非期待短期油价下跌。",
-      "conclusion_en": "The US midterm outcome could significantly constrain US overseas military intervention; investors should watch for potential upside energy price risks from a Middle East power vacuum rather than expecting lower oil prices near term.",
-      "key_points": [
-        {
-          "zh": "民主党赢得两院将制约美国外交政策，国会的钱袋权和新国会1月就任是关键节点。",
-          "en": "A Democratic sweep will constrain US foreign policy, with the power of the purse and the new Congress seating in January as key factors."
-        },
-        {
-          "zh": "美国若退出中东，将改变全球能源格局和大国博弈，权力真空可能由伊朗或土耳其填补。",
-          "en": "A US withdrawal from the Middle East would reshape the global energy landscape and great-power dynamics, with power vacuums potentially filled by Iran or Turkey."
-        },
-        {
-          "zh": "Every认为，无论哪种情景，短期内都不支持能源价格下降。",
-          "en": "Every sees no short-term case for lower energy prices under either scenario."
-        },
-        {
-          "zh": "以色列核升级被视为极端肥尾风险，而非基准情景。",
-          "en": "Israeli nuclear escalation is viewed as an extreme fat-tail risk, not a base case."
-        }
-      ],
-      "tags": [
-        "US midterms",
-        "Middle East",
-        "energy",
-        "geopolitics",
-        "foreign policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:uC1XCFmgtzE",
-      "title": "Trump Talks Ballroom & Arch After Election Loss",
-      "title_zh": "白宫回应中期选举失利：特朗普承认伊朗战争推高油价影响选情",
-      "url": "https://www.youtube.com/watch?v=uC1XCFmgtzE",
-      "published_at": "2026-11-04T23:29:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博社的Jeff Mason讨论白宫对共和党中期选举失利的反应，指出特朗普将败选部分归因于伊朗战争导致汽油价格上涨，同时提及特朗普对舞厅事务的关注。",
-      "summary_en": "Bloomberg's Jeff Mason discusses the White House reaction to Republican midterm losses, noting Trump acknowledged higher gasoline prices tied to the Iran war contributed to the defeat, while also mentioning Trump's focus on the ballroom.",
-      "detail_zh": "在彭博“Balance of Power”特别节目中，彭博社的Jeff Mason向Joe Mathieu和Kailey Leinz介绍了白宫对共和党中期选举失利的反应。Mason提到，特朗普总统的关注点包括舞厅事务。此外，特朗普承认与伊朗战争相关的汽油价格上涨对选举失利起到了作用。节目未提供更多关于选举结果、油价具体涨幅或政策影响的细节。",
-      "detail_en": "On Bloomberg's Special Edition of \"Balance of Power,\" Bloomberg's Jeff Mason spoke with Joe Mathieu and Kailey Leinz about the White House reaction to Republican midterm losses. Mason noted that President Trump's focus included the ballroom. Additionally, Trump acknowledged that higher gasoline prices tied to the Iran war contributed to the defeat. The segment did not provide further details on election results, specific gasoline price increases, or policy implications.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "白宫对共和党中期选举失利作出反应。",
-          "en": "The White House reacted to Republican midterm losses."
-        },
-        {
-          "zh": "特朗普承认伊朗战争导致的汽油价格上涨对败选有影响。",
-          "en": "Trump acknowledged that higher gasoline prices tied to the Iran war contributed to the defeat."
-        },
-        {
-          "zh": "特朗普的关注点包括舞厅事务。",
-          "en": "Trump's focus included the ballroom."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "White House",
-        "gasoline prices",
-        "Iran war",
-        "Trump"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:CVxA4uYSIxY",
-      "title": "Scudder Says Texas Is Not for Sale",
-      "title_zh": "得州民主党主席称全州胜利源于基层建设，并向马斯克传递明确信号",
-      "url": "https://www.youtube.com/watch?v=CVxA4uYSIxY",
-      "published_at": "2026-11-04T23:25:11+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "得州民主党主席Kendall Scudder表示，民主党在得州的全州性胜利是多个选举周期努力重建政党基础设施的结果。他称埃隆·马斯克收到了“得州非卖品”的强硬信号，并主张社区应在数据中心开发决策中有发言权。",
-      "summary_en": "Texas Democratic Party Chair Kendall Scudder said Democrats' statewide wins in Texas resulted from hard work over multiple election cycles rebuilding the party's infrastructure. He said Elon Musk received a tough message that \"Texas is not for sale,\" and argued communities should have a say in data center development decisions.",
-      "detail_zh": "得州民主党主席Kendall Scudder在Bloomberg“Balance of Power”特别节目中表示，民主党在得州的全州性胜利是人们在多个选举周期中辛勤工作、重建政党基础设施的结果。Scudder称，埃隆·马斯克收到了一个强硬信号：“得州非卖品”。他还表示，得州对商业持开放态度，但社区应在数据中心开发中有发言权，而不是在决策已经做出后才得知。Scudder认为，民主党的优先事项应包括反腐败改革、降低房产税、回滚学校代金券同时加强公立学校。",
-      "detail_en": "Texas Democratic Party Chair Kendall Scudder said on Bloomberg's Special Edition of \"Balance of Power\" that Democrats' statewide wins in Texas were the result of people working hard over multiple election cycles and rebuilding the party's infrastructure. Scudder said Elon Musk got a tough message that \"Texas is not for sale.\" He also said Texas is open for business, but communities should have a say in data center development instead of finding out after decisions have already been made. Scudder believes Democrats' priorities should include corruption reform, reducing property taxes and rolling back school vouchers while strengthening public schools.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "得州民主党全州性胜利归因于多个选举周期的基层工作和政党基础设施重建。",
-          "en": "Texas Democrats' statewide wins attributed to grassroots work over multiple election cycles and rebuilding party infrastructure."
-        },
-        {
-          "zh": "Scudder称埃隆·马斯克收到了“得州非卖品”的强硬信号。",
-          "en": "Scudder said Elon Musk received a tough message that \"Texas is not for sale.\""
-        },
-        {
-          "zh": "得州对商业开放，但社区应在数据中心开发决策中有发言权。",
-          "en": "Texas is open for business, but communities should have a say in data center development decisions."
-        },
-        {
-          "zh": "民主党优先事项包括反腐败改革、降低房产税、回滚学校代金券并加强公立学校。",
-          "en": "Democratic priorities include corruption reform, reducing property taxes, and rolling back school vouchers while strengthening public schools."
-        }
-      ],
-      "tags": [
-        "Texas",
-        "Democrats",
-        "Elon Musk",
-        "data centers",
-        "property taxes"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:v-cxKkJ_3ZE",
-      "title": "Panetta Says Voters Sent Trump a Message on Iran War",
-      "title_zh": "帕内塔评白宫人事与伊朗政策：赫格塞思 credibility 不足，特朗普需回应民意",
-      "url": "https://www.youtube.com/watch?v=v-cxKkJ_3ZE",
-      "published_at": "2026-11-04T23:21:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前国防部长帕内塔表示，苏西·怀尔斯是否留任白宫幕僚长取决于她与特朗普的关系，目前看关系良好；国防部长赫格塞思在国会两党中缺乏可信度，且未充分向国会通报，特朗普最终需决定其去留；帕内塔还称特朗普必须认识到美国人民已明确表达不支持与伊朗的战争。",
-      "summary_en": "Former Defense Secretary Leon Panetta said whether Susie Wiles remains White House Chief of Staff depends on her relationship with President Trump, which appears good. He said Defense Secretary Pete Hegseth has little credibility with either party on Capitol Hill and has failed to keep Congress adequately informed, and Trump will eventually have to decide whether to keep him. Panetta also said Trump must recognize that the American people have spoken clearly and do not support the war with Iran.",
-      "detail_zh": "前国防部长、前白宫幕僚长莱昂·帕内塔在彭博“权力平衡”特别节目中表示，苏西·怀尔斯能否继续担任白宫幕僚长，取决于她与总统特朗普的关系，而帕内塔认为这一关系目前看来良好。帕内塔指出，国防部长皮特·赫格塞思在国会山对民主党和共和党都缺乏可信度，并且未能充分向国会通报情况；他认为特朗普最终将不得不决定是否让赫格塞思继续担任该职。帕内塔还表示，特朗普必须认识到美国人民已经发出明确信号，不支持与伊朗的战争。上述言论发表于彭博电视台节目，主持人为乔·马蒂厄和凯莉·莱因兹。",
-      "detail_en": "Former Defense Secretary and White House Chief of Staff Leon Panetta said on Bloomberg's Special Edition of \"Balance of Power\" that whether Susie Wiles remains White House Chief of Staff depends on her relationship with President Donald Trump, a relationship Panetta says appears to be good. Panetta said Defense Secretary Pete Hegseth has little credibility with either Democrats or Republicans on Capitol Hill and has failed to keep Congress adequately informed, and said Trump will eventually have to decide whether to keep him in the job. Panetta also said Trump has to recognize that the American people have spoken clearly and do not support the war with Iran. The remarks were made on Bloomberg Television with hosts Joe Mathieu and Kailey Leinz.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "帕内塔：苏西·怀尔斯是否留任白宫幕僚长取决于她与特朗普的关系，目前看关系良好。",
-          "en": "Panetta: Whether Susie Wiles stays as White House Chief of Staff depends on her relationship with Trump, which appears good."
-        },
-        {
-          "zh": "帕内塔：国防部长赫格塞思在国会两党中缺乏可信度，且未充分向国会通报。",
-          "en": "Panetta: Defense Secretary Hegseth has little credibility with either party on Capitol Hill and has failed to keep Congress adequately informed."
-        },
-        {
-          "zh": "帕内塔：特朗普最终需决定是否让赫格塞思继续担任国防部长。",
-          "en": "Panetta: Trump will eventually have to decide whether to keep Hegseth in the job."
-        },
-        {
-          "zh": "帕内塔：特朗普必须认识到美国人民已明确表达不支持与伊朗的战争。",
-          "en": "Panetta: Trump must recognize that the American people have spoken clearly and do not support the war with Iran."
-        }
-      ],
-      "tags": [
-        "White House",
-        "Defense Secretary",
-        "Iran",
-        "Congress"
       ],
       "tickers": [],
       "sentiment": "neutral"
