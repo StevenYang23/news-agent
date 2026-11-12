@@ -1,6 +1,186 @@
 {
-  "generated_at": "2026-11-12T20:13:14.894783+00:00",
+  "generated_at": "2026-11-12T21:11:59.627672+00:00",
   "insights": [
+    {
+      "guid": "6af613ed9dce432809911d43",
+      "title": "Bonds, inflation and the Fed. Plus, Nvidia in turmoil",
+      "title_zh": "通胀顽固、美联储放鹰；英伟达老板辞职致股价大跌",
+      "url": "https://shows.acast.com/unhedged/episodes/bonds-inflation-and-the-fed-plus-nvidia-in-turmoil",
+      "published_at": "2026-11-12T21:00:00+00:00",
+      "source_name": "FT Unhedged",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "PGIM联席首席投资官Gregory Peters讨论通胀顽固与美联储鹰派立场下的债市前景；英伟达CEO辞职引发市场动荡，股价较10月高点下跌超三分之一。",
+      "summary_en": "PGIM co-CIO Gregory Peters discusses the outlook amid stubborn inflation and a hawkish Fed; the resignation of Nvidia's boss has roiled markets, with shares down more than a third from their October peak.",
+      "detail_zh": "本期节目聚焦两大主题：一是通胀依然顽固，美联储再次发表鹰派言论，PGIM联席首席投资官、债券资深人士Gregory Peters就此讨论后续市场走向；二是英伟达老板辞职带来的冲击，这家芯片制造商的股价已较10月峰值下跌超过三分之一。节目由Robert Armstrong和Katie Martin主持，并提供Unhedged newsletter的免费试用链接。",
+      "detail_en": "The episode focuses on two main topics: first, inflation remains stubborn and the Federal Reserve is talking tough again, with bond veteran Gregory Peters, co-chief investment officer at PGIM, discussing what comes next; second, the fallout from the resignation of the Nvidia boss, with the chipmaker's shares having slumped more than a third from their October peak. Hosted by Robert Armstrong and Katie Martin, with a free trial link for the Unhedged newsletter.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "通胀顽固，美联储再次发表鹰派言论。",
+          "en": "Inflation is stubborn and the Federal Reserve is talking tough again."
+        },
+        {
+          "zh": "PGIM联席首席投资官Gregory Peters讨论债市后续走向。",
+          "en": "PGIM co-CIO Gregory Peters discusses what comes next for bonds."
+        },
+        {
+          "zh": "英伟达老板辞职引发冲击，股价较10月峰值下跌超三分之一。",
+          "en": "The resignation of the Nvidia boss has caused fallout, with shares down more than a third from their October peak."
+        }
+      ],
+      "tags": [
+        "inflation",
+        "Fed",
+        "Nvidia",
+        "bonds"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:ROVLEI-YNM8",
+      "title": "Jensen Exits, AI Debt Under Review, Treasuries Slide",
+      "title_zh": "彭博Real Yield节目章节概览：黄仁勋离职、信用市场与美联储展望",
+      "url": "https://www.youtube.com/watch?v=ROVLEI-YNM8",
+      "published_at": "2026-11-12T20:26:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本文仅为彭博Real Yield节目的章节列表，未提供具体讨论内容。章节显示节目涉及黄仁勋从英伟达离职、硅谷反应、信用圆桌、投资级债务展望、AI融资与CoreWeave信用风险、美联储利率展望、通胀与PPI、市政债与选举、以及英伟达与Anthropic相关话题。",
+      "summary_en": "This is only a chapter list from Bloomberg Real Yield, without substantive discussion content. Chapters indicate topics including Jensen Huang resigning from Nvidia, Silicon Valley reaction, credit roundtable, investment-grade debt outlook, AI financing and CoreWeave credit risks, Fed rate outlook, inflation and PPI, municipal bonds and elections, and Nvidia and Anthropic.",
+      "detail_zh": "原文为彭博Real Yield节目的YouTube章节列表，仅列出时间戳和标题，未包含任何具体讨论内容、数据或观点。章节标题显示节目涵盖：黄仁勋从英伟达离职（00:00:44）、硅谷反应（00:02:38）、信用圆桌（00:04:36）、投资级债务展望（00:06:21）、黄仁勋离职后的AI融资（00:09:00）、CoreWeave信用风险（00:11:00）、信用市场机会（00:14:20）、科技债务展望（00:15:56）、Alan Waxman谈AI信用风险（00:17:28）、美联储加息展望（00:22:05）、通胀与美联储政策（00:22:56）、PPI与通胀（00:24:26）、Kelsey Berro访谈（00:26:07）、美联储利率定价（00:27:52）、2027年美联储展望（00:28:01）、国债作为避险资产（00:30:46）、英伟达与AI信用（00:31:56）、Shannon Rinehart访谈（00:33:35）、选举与市政债（00:34:00）、佛罗里达房产税（00:35:00）、英伟达与Anthropic（00:37:28）、Anthropic IPO（00:39:15）、英伟达对Anthropic的投资（00:40:07）、黄仁勋离职后的风险（00:41:09）、英伟达财报与Anthropic（00:42:20）。由于缺乏具体内容，无法提炼投资洞见。",
+      "detail_en": "The original text is a YouTube chapter list for Bloomberg Real Yield, containing only timestamps and titles without any substantive discussion, data, or opinions. Chapter titles indicate coverage of: Jensen Huang resigning from Nvidia (00:00:44), Silicon Valley reaction (00:02:38), credit roundtable (00:04:36), investment-grade debt outlook (00:06:21), AI financing after Huang (00:09:00), CoreWeave credit risks (00:11:00), credit market opportunities (00:14:20), tech debt outlook (00:15:56), Alan Waxman on AI credit risks (00:17:28), Fed rate hike outlook (00:22:05), inflation and Fed policy (00:22:56), PPI and inflation (00:24:26), Kelsey Berro interview (00:26:07), Fed pricing (00:27:52), 2027 Fed outlook (00:28:01), Treasuries as safe haven (00:30:46), Nvidia and AI credit (00:31:56), Shannon Rinehart interview (00:33:35), elections and municipal bonds (00:34:00), Florida property taxes (00:35:00), Nvidia and Anthropic (00:37:28), Anthropic IPO (00:39:15), Nvidia's investment in Anthropic (00:40:07), risks after Huang's exit (00:41:09), Nvidia earnings and Anthropic (00:42:20). Due to lack of substantive content, no investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目章节涉及黄仁勋从英伟达离职及硅谷反应。",
+          "en": "Chapters cover Jensen Huang resigning from Nvidia and Silicon Valley reaction."
+        },
+        {
+          "zh": "信用市场话题包括投资级债务展望、CoreWeave信用风险、科技债务和AI信用风险。",
+          "en": "Credit topics include investment-grade debt outlook, CoreWeave credit risks, tech debt, and AI credit risks."
+        },
+        {
+          "zh": "美联储相关章节涉及加息展望、通胀与PPI、利率定价及2027年展望。",
+          "en": "Fed-related chapters cover rate hike outlook, inflation and PPI, Fed pricing, and 2027 outlook."
+        },
+        {
+          "zh": "其他话题包括国债避险、选举与市政债、佛罗里达房产税、英伟达与Anthropic及Anthropic IPO。",
+          "en": "Other topics include Treasuries as safe haven, elections and municipal bonds, Florida property taxes, Nvidia and Anthropic, and Anthropic IPO."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "credit",
+        "Fed",
+        "AI",
+        "municipal bonds"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:OHGDIbIa9Ao",
+      "title": "Expect Federal Gridlock, Changes in States: Columbia Threadneedle's Rinehart",
+      "title_zh": "彭博Real Yield讨论中期选举对市政债影响",
+      "url": "https://www.youtube.com/watch?v=OHGDIbIa9Ao",
+      "published_at": "2026-11-12T20:25:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "哥伦比亚Threadneedle市政投资联席主管Shannon Rinehart做客彭博Real Yield节目，讨论美国中期选举将如何影响市政债券的后续走势。原文未提供具体观点或数据。",
+      "summary_en": "Shannon Rinehart, co-head of municipal investments at Columbia Threadneedle, joined Bloomberg Real Yield to discuss how the US midterms will impact municipal bonds going forward. No specific views or data were provided in the source.",
+      "detail_zh": "该内容为彭博电视节目“Bloomberg Real Yield”的片段介绍，主持人Scarlet Fu与哥伦比亚Threadneedle市政投资联席主管、高级投资组合经理Shannon Rinehart进行对话。讨论主题为美国中期选举对市政债券未来走势的影响。原文仅包含节目预告和社交媒体链接，未披露Rinehart的具体观点、数据或分析逻辑。",
+      "detail_en": "This is a program description for a Bloomberg Real Yield segment featuring host Scarlet Fu in conversation with Shannon Rinehart, co-head of municipal investments and senior portfolio manager at Columbia Threadneedle. The topic is how the US midterms will impact municipal bonds going forward. The source contains only the program blurb and social media links, with no specific views, data, or analytical details from Rinehart.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "嘉宾为哥伦比亚Threadneedle市政投资联席主管Shannon Rinehart",
+          "en": "Guest is Shannon Rinehart, co-head of municipal investments at Columbia Threadneedle"
+        },
+        {
+          "zh": "讨论主题为美国中期选举对市政债券的影响",
+          "en": "Topic is the impact of US midterms on municipal bonds"
+        },
+        {
+          "zh": "原文未提供具体观点或数据",
+          "en": "No specific views or data provided in the source"
+        }
+      ],
+      "tags": [
+        "municipal bonds",
+        "US midterms",
+        "fixed income"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:mVMr2EclrC4",
+      "title": "Trump Backs Lutnick Amid Chip Uproar",
+      "title_zh": "彭博节目讨论黄仁勋从英伟达离职及芯片出口管制",
+      "url": "https://www.youtube.com/watch?v=mVMr2EclrC4",
+      "published_at": "2026-11-12T20:05:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博《Balance of Power》早间版讨论了黄仁勋从英伟达离职一事，市场对此作出反应，并探讨了英伟达在失去黄仁勋后的未来、继任挑战以及AI与中国国家安全议题。节目还涉及芯片出口管制、特朗普政府出口政策、美中芯片竞争、国会调查及政府拨款截止日期等话题。",
+      "summary_en": "Bloomberg's Balance of Power early edition discussed Jensen Huang's resignation from Nvidia, market reaction, Nvidia's future without Huang, succession challenges, and AI, China & national security issues. The show also covered chip export controls, the Trump administration's export policy, U.S.-China chip competition, congressional investigation, and the government funding deadline.",
+      "detail_zh": "节目首先报道了黄仁勋从英伟达离职的消息，并提及市场对此作出反应（章节标题显示“Markets React to Huang's Exit”和“Markets: Nvidia Falls”）。随后讨论了英伟达在没有黄仁勋情况下的未来以及继任挑战。嘉宾包括前白宫AI特别顾问Ben Buchanan、Stonecourt Capital合伙人Rick Davis、Third Way高级研究员Caitlin Legacki和众议员Maxine Dexter。节目还涉及AI、中国与国家安全，芯片出口管制与中国的议题，特朗普政府的出口政策，美中芯片竞争，白宫对Howard Lutnick的支持，国会与英伟达调查，出口管制与执法，特朗普、中国与可能的报复，英伟达领导层与市场反应，英伟达调查扩大，国会推动更严格的芯片控制，数据中心与国家安全，以及退伍军人福利和众议院民主党人、政府拨款截止日期等话题。",
+      "detail_en": "The program first reported Jensen Huang's resignation from Nvidia and noted market reaction (chapter titles include 'Markets React to Huang's Exit' and 'Markets: Nvidia Falls'). It then discussed Nvidia's future without Huang and succession challenges. Guests included former White House Special Advisor for AI Ben Buchanan, Stonecourt Capital Partner Rick Davis, Third Way Senior Fellow Caitlin Legacki, and Rep. Maxine Dexter. The show also covered AI, China & national security, chip export controls & China, the Trump administration's export policy, U.S.-China chip competition, the White House standing by Howard Lutnick, Congress & the Nvidia investigation, export controls & enforcement, Trump, China & possible retaliation, Nvidia leadership & market reaction, the Nvidia investigation expanding, Congress pushing tighter chip controls, data centers & national security, as well as veterans benefits & House Democrats and the government funding deadline.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋从英伟达离职，市场对此作出反应，英伟达股价下跌。",
+          "en": "Jensen Huang resigned from Nvidia, markets reacted, and Nvidia shares fell."
+        },
+        {
+          "zh": "节目讨论了英伟达在没有黄仁勋情况下的未来及继任挑战。",
+          "en": "The show discussed Nvidia's future without Jensen Huang and succession challenges."
+        },
+        {
+          "zh": "议题涉及AI、中国与国家安全，以及芯片出口管制和美中芯片竞争。",
+          "en": "Topics included AI, China & national security, chip export controls, and U.S.-China chip competition."
+        },
+        {
+          "zh": "国会与英伟达调查、出口管制执法以及可能的中国报复被提及。",
+          "en": "Congress & the Nvidia investigation, export control enforcement, and possible Chinese retaliation were mentioned."
+        },
+        {
+          "zh": "节目还涉及白宫对Howard Lutnick的支持、数据中心与国家安全、退伍军人福利和政府拨款截止日期。",
+          "en": "The show also covered the White House standing by Howard Lutnick, data centers & national security, veterans benefits, and the government funding deadline."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "export controls",
+        "US-China",
+        "AI"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:dFHFbm0xigU",
       "title": "Ex-Nvidia CEO Huang Says ‘Not My Job to Agree or Disagree’ With Trump",
@@ -17851,91 +18031,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:1h8CXfzgrS8",
-      "title": "Expedia CEO on Full-Year Forecast, Travel Demand and AI",
-      "title_zh": "Expedia CEO：富裕消费者旅行需求仍具韧性，但四季度前出现放缓",
-      "url": "https://www.youtube.com/watch?v=1h8CXfzgrS8",
-      "published_at": "2026-11-05T21:03:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Expedia CEO Ariane Gorin 表示，公司第三季度业绩与展望显示旅行需求仍具韧性，尤其是富裕消费者群体；但在进入第四季度前，需求出现一定程度的放缓。",
-      "summary_en": "Expedia CEO Ariane Gorin said the company's third-quarter performance and forecast show travel demand remains resilient, particularly among affluent consumers, but the company is seeing some moderation ahead of the fourth quarter.",
-      "detail_zh": "Expedia CEO Ariane Gorin 在 Bloomberg The Close 节目中讨论了公司第三季度业绩和预测。她表示，旅行需求仍具韧性，尤其是在富裕消费者中。不过，公司观察到在第四季度之前需求出现一定程度的放缓。",
-      "detail_en": "Expedia CEO Ariane Gorin discussed the company's third-quarter performance and forecast on Bloomberg The Close. She said travel demand remains resilient, particularly among affluent consumers. However, the company is seeing some moderation ahead of the fourth quarter.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "旅行需求仍具韧性，富裕消费者是主要支撑。",
-          "en": "Travel demand remains resilient, supported primarily by affluent consumers."
-        },
-        {
-          "zh": "进入第四季度前，需求出现一定程度的放缓。",
-          "en": "Some moderation in demand is observed ahead of the fourth quarter."
-        },
-        {
-          "zh": "CEO Ariane Gorin 讨论了第三季度业绩与预测。",
-          "en": "CEO Ariane Gorin discussed third-quarter performance and forecast."
-        }
-      ],
-      "tags": [
-        "Expedia",
-        "travel demand",
-        "consumer",
-        "earnings"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-FHHmFtVPas",
-      "title": "Republican Blame Game Starts",
-      "title_zh": "中期选举与AI交易：半导体领跌，数据中心 backlash 冲击市场",
-      "url": "https://www.youtube.com/watch?v=-FHHmFtVPas",
-      "published_at": "2026-11-05T20:35:51+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博《Balance of Power》早期版讨论了中期选举结果对两党未来的影响，同时市场方面半导体板块领跌，AI与数据中心相关交易遭遇抛售，投资者正在从AI主题中降低风险。节目还涉及数据中心监管 backlash、AI资本开支前景以及数据中心贷款与市场抛售的关联。",
-      "summary_en": "Bloomberg's Balance of Power early edition discusses the midterm election results and their implications for both political parties, while markets see semiconductors leading a selloff, with AI and data center trades under pressure as investors de-risk from AI. The show also covers data center backlash and regulation, the future of AI capex, and the link between data center loans and the market rout.",
-      "detail_zh": "节目围绕中期选举结果及其对两党未来的意义展开讨论，嘉宾包括佛罗里达州民主党众议员Debbie Wasserman Schultz、Stonecourt Capital合伙人Rick Davis、Bully Pulpit International董事总经理Adam Hodge以及前共和党众议员Mick Mulvaney。市场方面，半导体板块领跌，AI、数据中心与市场抛售成为焦点，科技股抛售加深。节目还探讨了数据中心 backlash 对AI交易的影响，以及投资者从AI中降低风险的趋势。政治小组讨论了数据中心与监管问题，密西西比州参议院选举结果仍未确定。此外，节目涉及AI资本开支与数据中心未来、州级选举重塑AI建设、特朗普在中期选举后的政治前景、Pete Hegseth与弹劾、南卡罗来纳州民主党参议院意外胜利，以及数据中心贷款与市场抛售的关联。",
-      "detail_en": "The program discusses the midterm election results and what they mean for the future of both political parties, with guests including Democratic Congresswoman Debbie Wasserman Schultz of Florida, Stonecourt Capital Partner Rick Davis, Bully Pulpit International Managing Director Adam Hodge, and former Republican Congressman Mick Mulvaney. On markets, semiconductors lead the selloff, with AI, data centers, and the market rout in focus as the tech selloff deepens. The show also examines the data center backlash hitting the AI trade and investors de-risking from AI. A political panel discusses data centers and regulation, while the Mississippi Senate race remains undecided. Other topics include AI capex and the future of data centers, state elections reshaping the AI buildout, Trump's political future after the midterms, Pete Hegseth and impeachment, South Carolina's Democratic Senate upset, and data center loans and the market selloff.",
-      "conclusion_zh": "AI与数据中心主题面临监管 backlash 和投资者降风险的双重压力，半导体板块领跌反映市场对AI资本开支前景的重新定价。",
-      "conclusion_en": "The AI and data center theme faces dual pressures from regulatory backlash and investor de-risking, with semiconductors leading the selloff reflecting a repricing of AI capex prospects.",
-      "key_points": [
-        {
-          "zh": "半导体板块领跌市场，科技股抛售加深。",
-          "en": "Semiconductors lead the market selloff, with tech stocks plunging."
-        },
-        {
-          "zh": "数据中心 backlash 冲击AI交易，投资者正在从AI主题中降低风险。",
-          "en": "Data center backlash hits the AI trade, and investors are de-risking from AI."
-        },
-        {
-          "zh": "中期选举结果影响两党未来，州级选举可能重塑AI建设。",
-          "en": "Midterm results shape the future of both parties, and state elections may reshape the AI buildout."
-        },
-        {
-          "zh": "数据中心贷款与市场抛售存在关联。",
-          "en": "Data center loans are linked to the market selloff."
-        }
-      ],
-      "tags": [
-        "AI",
-        "semiconductors",
-        "data centers",
-        "midterm elections",
-        "market selloff"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
