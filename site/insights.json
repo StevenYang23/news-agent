@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-12T21:11:59.627672+00:00",
+  "generated_at": "2026-11-12T22:11:58.362939+00:00",
   "insights": [
+    {
+      "guid": "yt:C_TjOTYXlWo",
+      "title": "Huang Ousted By Nvidia Board As CEO | Closing Bell",
+      "title_zh": "彭博电视美股收盘节目预告",
+      "url": "https://www.youtube.com/watch?v=C_TjOTYXlWo",
+      "published_at": "2026-11-12T21:50:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视美股收盘节目的介绍与社交媒体链接，未包含任何市场数据、观点或事件，无实质投资信息。",
+      "summary_en": "The original text is merely a program description and social media links for Bloomberg Television's U.S. market close coverage, containing no market data, opinions, or events, and thus no substantive investment information.",
+      "detail_zh": "原文是彭博电视（Bloomberg Television）、彭博电台（Bloomberg Radio）和YouTube对美股收盘的跨平台报道介绍，由Romaine Bostick、Jess Menton、Carol Massar和Tim Stenovec主持。内容仅包含节目宣传和社交媒体链接，未提及任何具体市场走势、数据、个股或投资观点。因此，无法从中提炼出投资洞见。",
+      "detail_en": "The original text is an introduction to Bloomberg Television, Bloomberg Radio, and YouTube's cross-platform coverage of the U.S. market close, hosted by Romaine Bostick, Jess Menton, Carol Massar, and Tim Stenovec. It contains only program promotion and social media links, with no mention of specific market movements, data, individual stocks, or investment opinions. Therefore, no investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视美股收盘节目介绍，无实质市场内容。",
+          "en": "The original text is a program description for Bloomberg Television's U.S. market close coverage, with no substantive market content."
+        },
+        {
+          "zh": "未提及任何具体数据、事件或投资观点。",
+          "en": "No specific data, events, or investment opinions are mentioned."
+        },
+        {
+          "zh": "仅包含节目主持人和社交媒体链接。",
+          "en": "It only includes program hosts and social media links."
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "market close",
+        "tv program"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "6af613ed9dce432809911d43",
       "title": "Bonds, inflation and the Fed. Plus, Nvidia in turmoil",
@@ -17744,292 +17783,6 @@
       "tickers": [
         "MET"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:xO5Bb-acnHA",
-      "title": "Chipmaker Selloff Deepens on Fears of Tighter Regulation",
-      "title_zh": "芯片股领跌华尔街，英伟达盘中跌7%",
-      "url": "https://www.youtube.com/watch?v=xO5Bb-acnHA",
-      "published_at": "2026-11-05T21:43:15+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "周四芯片股引领华尔街抛售，英伟达股价盘中一度下跌7%。高通和Arm因前景展望不及预期而下跌。",
-      "summary_en": "Chipmaker stocks led a Wall Street selloff on Thursday, with Nvidia shares sliding 7% at one point. Qualcomm and Arm Holdings sank on underwhelming outlooks.",
-      "detail_zh": "周四，芯片制造商股票引领华尔街市场抛售。英伟达（Nvidia Corp.）股价盘中一度下跌7%。高通（Qualcomm Inc.）和Arm Holdings Plc的股价因前景展望不及预期而下跌。彭博社的Ian King在“Bloomberg Tech”节目中跟踪了最新动态。",
-      "detail_en": "On Thursday, chipmaker stocks led a selloff on Wall Street. Nvidia Corp. shares slid 7% at one point. Qualcomm Inc. and Arm Holdings Plc's shares sank on underwhelming outlooks. Bloomberg's Ian King tracked the latest on \"Bloomberg Tech.\"",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "芯片股周四引领华尔街抛售。",
-          "en": "Chipmaker stocks led a Wall Street selloff on Thursday."
-        },
-        {
-          "zh": "英伟达股价盘中一度下跌7%。",
-          "en": "Nvidia shares slid 7% at one point."
-        },
-        {
-          "zh": "高通和Arm因前景展望不及预期而下跌。",
-          "en": "Qualcomm and Arm sank on underwhelming outlooks."
-        }
-      ],
-      "tags": [
-        "chipmakers",
-        "selloff",
-        "Nvidia",
-        "Qualcomm",
-        "Arm"
-      ],
-      "tickers": [
-        "NVDA",
-        "QCOM",
-        "ARM"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:cKMoQCqurmM",
-      "title": "Hegseth Likely to be Impeached After GOP Midterm Rout, Says Mulvaney",
-      "title_zh": "穆尔瓦尼：民主党掌控两院后 赫格塞斯或遭弹劾",
-      "url": "https://www.youtube.com/watch?v=cKMoQCqurmM",
-      "published_at": "2026-11-05T21:43:06+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前白宫代理幕僚长米克·穆尔瓦尼表示，国防部长皮特·赫格塞斯可能在民主党与共和党共同支持下被弹劾，议员们正试图利用中期选举结果。穆尔瓦尼称，民主党在周二晚掌控国会两院后，希望特朗普政府官员“人头落地”，包括霍华德·卢特尼克和埃隆·马斯克。",
-      "summary_en": "Former acting White House chief of staff Mick Mulvaney said Defense Secretary Pete Hegseth is likely to be impeached with backing from both Democrats and Republicans as lawmakers seek to leverage midterm results. Mulvaney said that after Democrats took control of both chambers of Congress Tuesday night, they 'want heads on platters' from the Trump administration, including Howard Lutnick and Elon Musk.",
-      "detail_zh": "前白宫代理幕僚长米克·穆尔瓦尼（Mick Mulvaney）表示，国防部长皮特·赫格塞斯（Pete Hegseth）可能在弹劾程序中面临由民主党与共和党共同支持的弹劾，议员们正寻求利用中期选举结果。穆尔瓦尼称，在周二晚民主党掌控国会两院后，他们希望特朗普政府官员“人头落地”，并点名霍华德·卢特尼克（Howard Lutnick）和埃隆·马斯克（Elon Musk）。原文未提供弹劾程序的具体时间表、法律依据或市场影响分析。",
-      "detail_en": "Former acting White House chief of staff Mick Mulvaney said Defense Secretary Pete Hegseth is likely to be impeached in proceedings backed by both Democrats and Republicans as lawmakers look to leverage midterm results. Mulvaney said that after Democrats took control of both chambers of Congress Tuesday night, they 'want heads on platters' from the Trump administration, including Howard Lutnick and Elon Musk. The original text does not provide a specific timeline, legal basis, or market impact analysis for the impeachment proceedings.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "穆尔瓦尼预计赫格塞斯可能面临两党共同支持的弹劾程序。",
-          "en": "Mulvaney expects Hegseth may face impeachment proceedings backed by both parties."
-        },
-        {
-          "zh": "民主党在周二晚掌控国会两院，议员们寻求利用中期选举结果。",
-          "en": "Democrats took control of both chambers of Congress Tuesday night, and lawmakers are seeking to leverage midterm results."
-        },
-        {
-          "zh": "穆尔瓦尼称民主党希望特朗普政府官员“人头落地”，点名卢特尼克和马斯克。",
-          "en": "Mulvaney said Democrats 'want heads on platters' from the Trump administration, naming Lutnick and Musk."
-        }
-      ],
-      "tags": [
-        "impeachment",
-        "midterms",
-        "Trump administration",
-        "Congress"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:47gE7ZOWuq4",
-      "title": "Could Political Pushback on Data Centers Drive Financial Discipline?",
-      "title_zh": "Grenadilla Advisory创始人：科技股下跌中看好低杠杆AI公司",
-      "url": "https://www.youtube.com/watch?v=47gE7ZOWuq4",
-      "published_at": "2026-11-05T21:42:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在科技市场下跌之际，Grenadilla Advisory创始人兼CEO Anna Rathbun认为，杠杆较低的AI相关公司存在买入机会。她还表示，民主党控制的国会可能出台新的监管措施，为数据中心建设带来一定的财务纪律。",
-      "summary_en": "As tech markets tumble, Anna Rathbun, founder and CEO of Grenadilla Advisory, sees a buying opportunity in less-levered AI-related firms. She also says new oversight and regulations from a Democratic-controlled Congress could bring some financial discipline to the data center buildout.",
-      "detail_zh": "Grenadilla Advisory创始人兼CEO Anna Rathbun在彭博科技节目中表示，随着科技市场下跌，她看到了买入机会，尤其看好杠杆较低的AI相关公司。她认为，民主党控制的国会可能推出新的监管措施，这将为数据中心建设带来一定的财务纪律。Rathbun是在与Tim Stenovec的对话中发表上述观点的。",
-      "detail_en": "Anna Rathbun, founder and CEO of Grenadilla Advisory, said on Bloomberg Tech that she sees a buying opportunity as tech markets tumble, particularly in less-levered AI-related firms. She believes new oversight and regulations from a Democratic-controlled Congress could bring some financial discipline to the data center buildout. Rathbun made these comments in conversation with Tim Stenovec.",
-      "conclusion_zh": "在科技股回调中，可关注杠杆较低的AI相关公司，同时留意政策监管对数据中心建设的影响。",
-      "conclusion_en": "Amid the tech pullback, consider less-levered AI-related companies, while watching for policy and regulatory impacts on the data center buildout.",
-      "key_points": [
-        {
-          "zh": "科技市场下跌中，Rathbun认为低杠杆AI公司存在买入机会。",
-          "en": "Rathbun sees a buying opportunity in less-levered AI firms amid the tech market selloff."
-        },
-        {
-          "zh": "她预计民主党控制的国会可能出台新监管，为数据中心建设带来财务纪律。",
-          "en": "She expects new oversight and regulations from a Democratic-controlled Congress could bring financial discipline to the data center buildout."
-        }
-      ],
-      "tags": [
-        "AI",
-        "tech selloff",
-        "regulation",
-        "data centers",
-        "leverage"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "6aecf7e03be80be7f3d5a201",
-      "title": "Taking stock of tumbling stocks",
-      "title_zh": "中期选举后AI股涨势逆转，市场关注回调持续性",
-      "url": "https://shows.acast.com/unhedged/episodes/stocks-tumble-as-the-post-midterm-bubble-pops",
-      "published_at": "2026-11-05T21:40:47+00:00",
-      "source_name": "FT Unhedged",
-      "source_kind": "article",
-      "categories": [
-        "tech",
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "中期选举后市场出现的AI概念上涨行情在周四逆转，AI公司回吐前日涨幅。专栏作家Katie Martin与评论员Rob Armstrong讨论了此次下跌是否与民主党控制国会的影响有关，抑或是资金持续撤离该板块的趋势，并探讨了AI板块受挫可能产生的连锁反应。",
-      "summary_en": "The post-midterm AI-driven market rally reversed on Thursday, with AI companies giving back the previous day's gains. Columnists Katie Martin and Rob Armstrong discussed whether the drop reflects a reassessment of Democratic control of Congress or a continuation of a trend away from the sector, and how a dent to the AI world could ripple.",
-      "detail_zh": "在中期选举后，市场出现了一轮被描述为“泡沫”的上涨，但这一行情在周四发生逆转，AI公司回吐了前一个交易日的涨幅。讨论聚焦于两个可能的解释：一是市场正在重新评估民主党控制美国国会对AI行业意味着什么；二是资金持续撤离AI板块的趋势仍在延续。专栏作家Katie Martin与美股评论员Rob Armstrong就周四的下跌是否会继续，以及AI领域受挫可能如何向外传导进行了探讨。节目未给出明确结论，但提出了上述关键问题。",
-      "detail_en": "After the midterm elections, markets experienced a rally described as a \"bubble,\" but this reversed on Thursday as AI companies gave back the previous day's gains. The discussion focused on two possible explanations: a reassessment of what Democratic control of the US Congress would mean for the AI industry, or a continuation of the trend away from the sector. Columnist Katie Martin and US financial commentator Rob Armstrong talked about whether Thursday's drop could continue and how a dent to the AI world could ripple. The podcast did not offer a definitive conclusion but raised these key questions.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中期选举后AI股上涨行情在周四逆转，AI公司回吐前日涨幅。",
-          "en": "The post-midterm AI rally reversed on Thursday, with AI companies giving back the previous day's gains."
-        },
-        {
-          "zh": "讨论提出两种可能：市场重新评估民主党控制国会对AI行业的影响，或资金持续撤离该板块。",
-          "en": "Two possibilities were discussed: a reassessment of Democratic control of Congress on the AI industry, or a continued trend away from the sector."
-        },
-        {
-          "zh": "主持人探讨了周四下跌是否会延续，以及AI领域受挫可能产生的连锁反应。",
-          "en": "The hosts explored whether Thursday's drop could continue and how a dent to the AI world could ripple."
-        }
-      ],
-      "tags": [
-        "AI",
-        "midterm elections",
-        "market reversal",
-        "tech stocks"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:eZh1MHADr4Q",
-      "title": "Bitcoin's Worst-Case Scenario: $58K Level Could Trigger a World of Pain",
-      "title_zh": "技术分析警示：若跌破58000点或引发大幅下跌",
-      "url": "https://www.youtube.com/watch?v=eZh1MHADr4Q",
-      "published_at": "2026-11-05T21:33:17+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "原文讨论了一种技术图表风险：可能形成大型头肩顶形态，若跌破58000点将带来“痛苦”。但作者认为这不是其预期结果，同时强调需为图表出现意外结局做好准备。",
-      "summary_en": "The original text discusses a technical chart risk: a potential large head-and-shoulders top, with a break below 58,000 leading to 'a world of pain.' However, the author does not see this as the likely outcome, while emphasizing the need to be prepared for charts ending in unexpected ways.",
-      "detail_zh": "原文指出存在一种风险情景：某个图表可能形成大型派发头肩顶形态。如果价格跌破58000点，将进入“痛苦”区域。但作者明确表示，并不认为这会是最终结果。同时，作者强调始终需要做好准备，因为有些图表的结局会超出想象。原文未提及具体资产、时间框架或基本面背景。",
-      "detail_en": "The original text identifies a risk scenario: a chart could form a large distribution head-and-shoulders top. A break below 58,000 would lead to 'a world of pain.' However, the author explicitly states they do not see this as the outcome. The author also stresses the need to always be prepared, as some charts end in ways you don't imagine. The original does not mention the specific asset, timeframe, or fundamental context.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "存在形成大型头肩顶形态的风险",
-          "en": "Risk of a large head-and-shoulders top formation"
-        },
-        {
-          "zh": "跌破58000点将带来“痛苦”",
-          "en": "A break below 58,000 would cause 'a world of pain'"
-        },
-        {
-          "zh": "作者不认为这是预期结果",
-          "en": "The author does not see this as the expected outcome"
-        },
-        {
-          "zh": "需为图表意外结局做好准备",
-          "en": "Need to be prepared for unexpected chart outcomes"
-        }
-      ],
-      "tags": [
-        "technical analysis",
-        "head and shoulders",
-        "risk management"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:50V2BcYo3ew",
-      "title": "Nvidia Plunges 9% as AI Selloff Wipes Out $2.3 Trillion | Closing Bell",
-      "title_zh": "彭博电视美股收盘节目预告",
-      "url": "https://www.youtube.com/watch?v=50V2BcYo3ew",
-      "published_at": "2026-11-05T21:32:42+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅为彭博电视美股收盘节目的介绍与社交媒体链接，未包含任何市场数据、观点或事件。",
-      "summary_en": "The original text is merely a program description and social media links for Bloomberg Television's U.S. market close coverage, containing no market data, opinions, or events.",
-      "detail_zh": "原文是彭博电视（Bloomberg Television）、彭博电台（Bloomberg Radio）和YouTube对美股收盘的跨平台综合报道的节目介绍，提及主持人Romaine Bostick、Kailey Leinz、Carol Massar和Tim Stenovec。内容主要为订阅提醒、彭博社网站链接以及各社交媒体平台（X、Facebook、Instagram、TikTok、Reddit、LinkedIn）的账号信息。文中未提供任何具体的市场走势、经济数据、公司新闻或投资观点。",
-      "detail_en": "The original text is a program description for comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube, featuring hosts Romaine Bostick, Kailey Leinz, Carol Massar, and Tim Stenovec. It primarily consists of subscription reminders, links to the Bloomberg website, and social media account information across platforms (X, Facebook, Instagram, TikTok, Reddit, LinkedIn). No specific market movements, economic data, company news, or investment opinions are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "原文为彭博电视美股收盘节目的介绍，无实质市场内容。",
-          "en": "The original text is an introduction to Bloomberg Television's U.S. market close program, with no substantive market content."
-        },
-        {
-          "zh": "提及主持人Romaine Bostick、Kailey Leinz、Carol Massar和Tim Stenovec。",
-          "en": "Mentions hosts Romaine Bostick, Kailey Leinz, Carol Massar, and Tim Stenovec."
-        },
-        {
-          "zh": "包含彭博社网站及社交媒体账号链接，无投资相关信息。",
-          "en": "Contains links to the Bloomberg website and social media accounts, with no investment-related information."
-        }
-      ],
-      "tags": [
-        "bloomberg",
-        "market close",
-        "tv program"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ILq4J2gM55g",
-      "title": "Oil's Sudden Price Drop Surprises Citi's Chronert",
-      "title_zh": "花旗策略师：油价骤跌缓解通胀压力",
-      "url": "https://www.youtube.com/watch?v=ILq4J2gM55g",
-      "published_at": "2026-11-05T21:27:03+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "花旗美国股票策略主管Scott Chronert表示，周三油价突然下跌令他意外，布伦特原油一度下跌近9%，周四反弹。他认为这在一定程度上减轻了通胀背景的压力。",
-      "summary_en": "Citi Head of US Equity Strategy Scott Chronert said the sudden drop in oil prices on Wednesday surprised him. Brent fell almost 9% and rebounded on Thursday, which he says took some pressure off the inflation backdrop.",
-      "detail_zh": "花旗美国股票策略主管Scott Chronert在彭博电视采访中表示，周三油价突然下跌出乎他的意料。布伦特原油当日跌幅接近9%，随后在周四出现反弹。Chronert指出，这一油价波动在一定程度上缓解了通胀背景所面临的压力。原文未提供更多关于油价下跌原因、后续走势或对美股具体板块影响的分析。",
-      "detail_en": "Citi Head of US Equity Strategy Scott Chronert said in a Bloomberg Television interview that the sudden drop in oil prices on Wednesday surprised him. Brent crude fell almost 9% that day and then rebounded on Thursday. Chronert noted that this move took some pressure off the inflation backdrop. The source does not provide further details on the cause of the drop, its outlook, or specific implications for US equity sectors.",
-      "conclusion_zh": "油价短期急跌并反弹，可能暂时缓和通胀预期，但需关注其持续性及对美股的影响。",
-      "conclusion_en": "The sharp but brief drop in oil prices may temporarily ease inflation expectations, but sustainability and equity market implications warrant monitoring.",
-      "key_points": [
-        {
-          "zh": "花旗策略师Scott Chronert对周三油价突然下跌感到意外。",
-          "en": "Citi strategist Scott Chronert was surprised by the sudden drop in oil prices on Wednesday."
-        },
-        {
-          "zh": "布伦特原油周三下跌近9%，周四出现反弹。",
-          "en": "Brent crude fell almost 9% on Wednesday and rebounded on Thursday."
-        },
-        {
-          "zh": "Chronert认为油价下跌在一定程度上减轻了通胀压力。",
-          "en": "Chronert says the oil price drop took some pressure off the inflation backdrop."
-        }
-      ],
-      "tags": [
-        "oil prices",
-        "inflation",
-        "Citi",
-        "Brent crude"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
