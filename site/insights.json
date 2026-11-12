@@ -1,6 +1,145 @@
 {
-  "generated_at": "2026-11-12T08:17:50.838118+00:00",
+  "generated_at": "2026-11-12T09:15:10.348470+00:00",
   "insights": [
+    {
+      "guid": "yt:FNvEJmjlmHs",
+      "title": "Nvidia Board Considers Replacing CEO Jensen Huang",
+      "title_zh": "英伟达CEO黄仁勋去留风波冲击股价，中美AI竞争或生变",
+      "url": "https://www.youtube.com/watch?v=FNvEJmjlmHs",
+      "published_at": "2026-11-12T08:43:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达董事会正与外部机构合作寻找CEO黄仁勋的潜在继任者，此前有报道称其存在多起婚外情，其中一人疑似为中国从事间谍活动。消息导致英伟达盘后股价下跌，并可能影响美中AI竞赛格局。",
+      "summary_en": "Nvidia's board is working with an outside firm to identify potential replacements for CEO Jensen Huang following reports of multiple extramarital affairs, including one with a woman suspected of spying for China. The news sent Nvidia shares lower in extended trading and could reshape the US-China AI race.",
+      "detail_zh": "据知情人士透露，英伟达董事会已与外部公司合作，物色可能接替CEO黄仁勋的人选。此前有报道称黄仁勋存在多起婚外情，其中一名女性被怀疑为中国从事间谍活动。相关报道称英伟达正准备罢免黄仁勋。受此影响，英伟达股价在美股盘后交易中下跌，交易员正在评估没有黄仁勋的英伟达未来前景。这一间谍指控风波也波及中美关系，习近平与特朗普年内第三次峰会尚未开始便已偏离原定议程，黄仁勋的去留可能重塑美中AI竞赛格局。此外，市场因英伟达动荡而涨势受挫。",
+      "detail_en": "Nvidia's board has been working with an outside firm to identify potential replacements for CEO Jensen Huang, according to a person familiar with the situation, following reports of multiple extramarital affairs, including one with a woman reportedly suspected of spying for China. Reports indicate Nvidia is preparing to oust CEO Jensen Huang. Nvidia shares sank in extended US trading as investors grappled with the possibility of the company without Huang at the helm. Traders are weighing Nvidia's future without Huang. The spy allegations have also affected US-China relations, with Xi Jinping's third summit of the year with Donald Trump going off script before meetings even get underway. A Huang exit could reshape the US-China AI race. The stock rally faltered on Nvidia turmoil.",
+      "conclusion_zh": "英伟达CEO黄仁勋的去留风波构成重大不确定性，可能影响公司战略与美中AI竞争态势，投资者需密切关注事态发展。",
+      "conclusion_en": "The turmoil surrounding Nvidia CEO Jensen Huang creates significant uncertainty that could affect the company's strategy and the US-China AI competition, warranting close investor attention.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会正与外部机构合作寻找CEO黄仁勋的潜在继任者。",
+          "en": "Nvidia's board is working with an outside firm to identify potential replacements for CEO Jensen Huang."
+        },
+        {
+          "zh": "报道称黄仁勋存在多起婚外情，其中一人疑似为中国从事间谍活动。",
+          "en": "Reports say Huang had multiple extramarital affairs, including one with a woman suspected of spying for China."
+        },
+        {
+          "zh": "英伟达股价在盘后交易中下跌，交易员评估没有黄仁勋的公司前景。",
+          "en": "Nvidia shares sank in extended trading as traders weighed the company's future without Huang."
+        },
+        {
+          "zh": "间谍指控风波波及中美关系，习近平与特朗普的峰会尚未开始便偏离议程。",
+          "en": "The spy allegations have spilled into US-China relations, with the Xi-Trump summit going off script before meetings began."
+        },
+        {
+          "zh": "黄仁勋的离开可能重塑美中AI竞赛格局。",
+          "en": "A Huang exit could reshape the US-China AI race."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO succession",
+        "US-China relations",
+        "spy allegations",
+        "AI race"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:K86aHmOW6fw",
+      "title": "Nvidia Board Weighs Huang’s Future as Congress Prepares Subpoena",
+      "title_zh": "英伟达董事会评估黄仁勋去留，AI交易争议升温",
+      "url": "https://www.youtube.com/watch?v=K86aHmOW6fw",
+      "published_at": "2026-11-12T08:30:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达董事会正评估黄仁勋的未来，因他与一名被指与中国情报机构有关联的女性关系受到审查，国会也准备传唤黄仁勋，公司考虑在更广泛的领导层审查期间任命临时CEO。这一争议加剧了关于AI交易的辩论，中国芯片股因投资者押注自给自足而上涨，Anthropic的IPO计划持续受关注，Al Dhabi Capital的Rashmi Garg对英伟达仍持谨慎建设性态度。",
+      "summary_en": "Nvidia's board is weighing Jensen Huang's future amid scrutiny over his relationship with a woman alleged to have links to Chinese intelligence, while Congress prepares to subpoena Huang and the company considers appointing a temporary CEO during a broader leadership review. The controversy is feeding a wider debate over the AI trade, with Chinese chip stocks jumping as investors bet on greater self-sufficiency, Anthropic's IPO plans drawing attention, and Rashmi Garg of Al Dhabi Capital remaining cautiously constructive on Nvidia.",
+      "detail_zh": "英伟达董事会正在评估黄仁勋作为CEO的未来，背景是外界对他与一名被指与中国情报机构有关联的女性之间关系的审查日益严格。国会也准备传唤黄仁勋，而公司则在考虑是否在更广泛的领导层审查期间任命一位临时CEO。这一争议正在推动关于AI交易的更广泛辩论。中国芯片股上涨，因为投资者押注更大的自给自足。Anthropic的IPO计划继续吸引关注。Al Dhabi Capital的Rashmi Garg对英伟达仍持谨慎建设性态度。在迪拜的Bloomberg Invest会议上，阿联酋投资部长Mohamed Hassan Alsuwaidi表示，全球资本流动的转变正在为该国创造新机会，他指出更多行业向投资者开放，并认为当前条件可能有助于加速项目。SLR Capital Partners的Michael Gross表示，私人信贷仍然是具有吸引力的收入来源，投资者正越来越多地超越大型直接贷款，在全球市场寻找机会。尽管地区紧张局势存在，阿联酋仍继续吸引富裕投资者，巩固了其在地缘政治和市场不确定性时期作为资本目的地的角色。",
+      "detail_en": "Nvidia's board is weighing Jensen Huang's future as CEO amid growing scrutiny over his relationship with a woman alleged to have links to Chinese intelligence. Congress is also preparing to subpoena Huang, and the company is considering whether to appoint a temporary CEO during a broader leadership review. The controversy is feeding a wider debate over the AI trade. Chinese chip stocks jumped as investors bet on greater self-sufficiency. Anthropic's IPO plans continue to attract attention. Rashmi Garg of Al Dhabi Capital remains cautiously constructive on Nvidia. At Bloomberg Invest in Dubai, UAE Investment Minister Mohamed Hassan Alsuwaidi said shifting global capital flows are creating new opportunities for the country, pointing to the opening of more sectors to investors and arguing that current conditions could help accelerate projects. Michael Gross of SLR Capital Partners said private credit remains an attractive source of income and that investors are increasingly looking beyond large-cap direct lending for opportunities across global markets. The UAE also continues to attract wealthy investors despite regional tensions, reinforcing its role as a destination for capital during a period of geopolitical and market uncertainty.",
+      "conclusion_zh": "英伟达领导层不确定性构成短期风险，但部分机构仍持谨慎建设性看法；同时关注中国芯片自给自足主题及私人信贷等收益机会。",
+      "conclusion_en": "Nvidia leadership uncertainty poses near-term risk, but some institutions remain cautiously constructive; also watch China chip self-sufficiency theme and income opportunities like private credit.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会正评估黄仁勋的未来，因他与一名被指与中国情报机构有关联的女性关系受到审查。",
+          "en": "Nvidia's board is weighing Jensen Huang's future amid scrutiny over his relationship with a woman alleged to have links to Chinese intelligence."
+        },
+        {
+          "zh": "国会准备传唤黄仁勋，公司考虑在领导层审查期间任命临时CEO。",
+          "en": "Congress is preparing to subpoena Huang, and the company is considering appointing a temporary CEO during a leadership review."
+        },
+        {
+          "zh": "中国芯片股上涨，投资者押注更大的自给自足；Anthropic的IPO计划持续吸引关注。",
+          "en": "Chinese chip stocks jumped as investors bet on greater self-sufficiency; Anthropic's IPO plans continue to attract attention."
+        },
+        {
+          "zh": "Al Dhabi Capital的Rashmi Garg对英伟达仍持谨慎建设性态度。",
+          "en": "Rashmi Garg of Al Dhabi Capital remains cautiously constructive on Nvidia."
+        },
+        {
+          "zh": "阿联酋投资部长称全球资本流动转变带来新机会；SLR Capital Partners的Michael Gross认为私人信贷仍是具吸引力的收入来源。",
+          "en": "UAE Investment Minister says shifting global capital flows create new opportunities; Michael Gross of SLR Capital Partners sees private credit as an attractive income source."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI trade",
+        "China chips",
+        "private credit"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_mSNtS8GgR4",
+      "title": "China and Korea Will Outperform Taiwan: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目预告，无实质市场内容",
+      "url": "https://www.youtube.com/watch?v=_mSNtS8GgR4",
+      "published_at": "2026-11-12T08:20:34+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介及社交媒体链接，未包含任何具体的市场分析、数据或投资观点。",
+      "summary_en": "The original text is merely a description of the Bloomberg TV program 'Bloomberg: The Opening Trade' and social media links, with no specific market analysis, data, or investment views.",
+      "detail_zh": "原文仅说明Anna Edwards、Tom Mackenzie和Mark Cudmore将在节目《Bloomberg: The Opening Trade》中为分析师和投资者梳理当日关键主题，但未提供任何主题细节、市场数据或观点。其余内容均为彭博电视和商业的社交媒体链接及订阅指引。因此，无法提炼出任何投资洞见。",
+      "detail_en": "The original text only states that Anna Edwards, Tom Mackenzie, and Mark Cudmore will break down today's key themes for analysts and investors on 'Bloomberg: The Opening Trade,' but provides no details on the themes, market data, or views. The rest consists of social media links and subscription guides for Bloomberg Television and Business. Therefore, no investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为节目预告，无实质市场内容",
+          "en": "The text is a program description with no substantive market content"
+        },
+        {
+          "zh": "未提及任何具体股票、板块或宏观数据",
+          "en": "No specific stocks, sectors, or macro data are mentioned"
+        },
+        {
+          "zh": "无法据此形成投资判断",
+          "en": "No investment judgment can be formed based on this"
+        }
+      ],
+      "tags": [
+        "bloomberg",
+        "tv-program",
+        "no-content"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:RGbKbVxM-G0",
       "title": "Ruchir Sharma on AI Bubble Risks, Opportunities in India",
@@ -18315,92 +18454,6 @@
         "European equities",
         "AI rotation",
         "BOE"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Fr_RURMsaJU",
-      "title": "James Bosworth on What Comes After Lula's Stunning Win | Odd Lots",
-      "title_zh": "巴西大选爆冷：卢拉逆转胜出，委内瑞拉局势牵动美国",
-      "url": "https://www.youtube.com/watch?v=Fr_RURMsaJU",
-      "published_at": "2026-11-05T09:06:16+00:00",
-      "source_name": "Odd Lots (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "巴西总统选举中，卢拉在首轮落后情况下逆转击败弗拉维奥·博索纳罗，反现任情绪、博索纳罗的负面新闻及卢拉团队的社交媒体动员成为关键。同时，美国与委内瑞拉就军事存在进行讨论，鲁比奥推动委内瑞拉明年举行选举，但特朗普政府内部存在分歧。",
-      "summary_en": "In Brazil's presidential election, Lula staged a comeback to defeat Flavio Bolsonaro after trailing in the first round, driven by anti-incumbent sentiment, Bolsonaro's scandals, and Lula's social media mobilization. Meanwhile, the US is discussing a military presence in Venezuela, with Rubio pushing for elections next year amid internal Trump administration divisions.",
-      "detail_zh": "在巴西大选中，卢拉在首轮投票落后于弗拉维奥·博索纳罗的情况下最终逆转获胜。嘉宾詹姆斯·博斯沃思指出，弗拉维奥是糟糕的候选人，背负多项丑闻，包括洗钱指控、与Banco Master金融丑闻的关联、以及选举前被曝与制药游说者和妓女有牵连；他逃离巴西时乘坐的飞机还与阿根廷洗钱调查和得州贩毒案有关。此外，反现任环境对首轮领先者不利，首轮实为对卢拉的公投，弗拉维奥领先反而使注意力集中到他身上，让卢拉得以追赶。卢拉团队还大力运用社交媒体，建立超过1000万人的WhatsApp群组，占巴西选民5%以上，在选举日动员选民投票。关于委内瑞拉，美国正讨论在委内瑞拉设立军事存在。鲁比奥的计划是让德尔西·罗德里格斯宣布总统职位空缺，成立新的选举委员会，并在六个月后举行选举，理想情况是明年7月，但可能推迟到9月或11月。罗德里格斯本人可能希望更晚，接近2028或2029年。鲁比奥希望委内瑞拉民主进程成为其政绩，因此大力推动明年选举，但特朗普政府内部有人希望推迟选举。",
-      "detail_en": "In Brazil's election, Lula overcame a first-round deficit to defeat Flavio Bolsonaro. Guest James Bosworth noted that Flavio was a terrible candidate burdened by scandals, including money laundering accusations, ties to the Banco Master financial scandal, and a pre-election report linking him to pharmaceutical lobbyists and prostitutes; the plane he used to flee Brazil was connected to an Argentine money laundering investigation and a Texas drug trafficking case. Additionally, the anti-incumbent environment worked against the first-round leader, as the first round was a referendum on Lula, and Flavio's lead focused attention on him, allowing Lula to catch up. Lula's team also leveraged social media, building a WhatsApp group of over 10 million people, more than 5% of Brazilian voters, to mobilize voters on election day. Regarding Venezuela, the US is discussing setting up a military presence. Rubio's plan is for Delcy Rodriguez to declare a vacancy in the presidency, form a new electoral board, and hold elections six months later, ideally in July next year but possibly September or November. Rodriguez herself might prefer closer to 2028 or 2029. Rubio wants Venezuelan democracy on his record and is pushing hard for elections next year, but some within the Trump administration want to delay.",
-      "conclusion_zh": "巴西大选结果凸显反现任情绪和社交媒体动员的影响力；委内瑞拉局势显示美国政策内部分歧，选举时间表存在不确定性。",
-      "conclusion_en": "Brazil's election highlights the power of anti-incumbent sentiment and social media mobilization; the Venezuela situation shows internal US policy divisions and uncertainty over the election timeline.",
-      "key_points": [
-        {
-          "zh": "卢拉在首轮落后情况下逆转赢得巴西大选，反现任情绪和博索纳罗的丑闻成为关键因素。",
-          "en": "Lula staged a comeback from a first-round deficit to win Brazil's election, with anti-incumbent sentiment and Bolsonaro's scandals playing key roles."
-        },
-        {
-          "zh": "卢拉团队通过超过1000万人的WhatsApp群组进行社交媒体动员，覆盖5%以上选民，在选举日有效拉票。",
-          "en": "Lula's team used a WhatsApp group of over 10 million people, covering more than 5% of voters, to mobilize effectively on election day."
-        },
-        {
-          "zh": "美国正讨论在委内瑞拉设立军事存在，鲁比奥推动委内瑞拉明年举行选举，但特朗普政府内部存在分歧。",
-          "en": "The US is discussing a military presence in Venezuela; Rubio is pushing for elections next year, but there are internal divisions within the Trump administration."
-        },
-        {
-          "zh": "鲁比奥计划让德尔西·罗德里格斯宣布总统空缺，成立新选举委员会，并在六个月内举行选举，理想时间为明年7月。",
-          "en": "Rubio's plan calls for Delcy Rodriguez to declare a presidential vacancy, form a new electoral board, and hold elections within six months, ideally in July next year."
-        }
-      ],
-      "tags": [
-        "Brazil election",
-        "Venezuela",
-        "Lula",
-        "Bolsonaro",
-        "Rubio"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:y0VAzhRyDJ0",
-      "title": "Korea Crushed as China Cheers US Midterm: Market Analysis",
-      "title_zh": "彭博开盘交易：亚洲芯片股承压，债市与中期选举后风险受关注",
-      "url": "https://www.youtube.com/watch?v=y0VAzhRyDJ0",
-      "published_at": "2026-11-05T08:50:55+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博“开盘交易”节目围绕三大主题展开：亚洲芯片制造商因“蓝色浪潮”下跌、市场对债券收益率受控的希望，以及中期选举后的风险。原文未提供具体数据或个股细节。",
-      "summary_en": "Bloomberg's \"The Opening Trade\" covers three themes: Asian chipmakers falling on a \"Blue Wave,\" hopes for curbing bonds, and post-midterm risks. No specific data or individual stock details are provided.",
-      "detail_zh": "节目由 Anna Edwards、Guy Johnson、Tom Mackenzie 和 Paul Dobson 主持，为分析师和投资者梳理当日关键主题。章节标题显示：亚洲芯片制造商因“蓝色浪潮”而下跌；市场存在对债券（收益率）受控的希望；以及中期选举后的风险。原文仅列出章节标题，未展开具体数字、个股或因果分析。",
-      "detail_en": "Hosted by Anna Edwards, Guy Johnson, Tom Mackenzie and Paul Dobson, the program breaks down key themes for analysts and investors. Chapter titles indicate: Asian chipmakers sinking on a \"Blue Wave\"; hopes for curbing bonds; and post-midterm risks. The source only lists chapter titles without specific figures, tickers, or causal analysis.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "亚洲芯片制造商因“蓝色浪潮”下跌",
-          "en": "Asian chipmakers sink on a \"Blue Wave\""
-        },
-        {
-          "zh": "市场存在对债券（收益率）受控的希望",
-          "en": "Hopes for curbing bonds"
-        },
-        {
-          "zh": "中期选举后的风险受到关注",
-          "en": "Post-midterm risks in focus"
-        }
-      ],
-      "tags": [
-        "Asian chipmakers",
-        "bonds",
-        "midterm elections",
-        "market themes"
       ],
       "tickers": [],
       "sentiment": "neutral"
