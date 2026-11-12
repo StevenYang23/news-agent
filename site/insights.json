@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-11-12T16:15:43.635509+00:00",
+  "generated_at": "2026-11-12T17:12:54.531433+00:00",
   "insights": [
+    {
+      "guid": "yt:zFpWJQxHfUU",
+      "title": "Nvidia Shake-Up Is a Buying Opportunity, Says Analyst Chkaiban",
+      "title_zh": "英伟达领导层变动引发投资者关注，分析师称抛售或为买入机会",
+      "url": "https://www.youtube.com/watch?v=zFpWJQxHfUU",
+      "published_at": "2026-11-12T16:22:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达面临领导层变动，投资者正在评估黄仁勋离职对该公司AI主导地位可能意味着什么。New Street Technology Infrastructure分析师Antoine Chkaiban表示，英伟达的软件生态系统、工程人才和供应链实力难以被替代，并认为该股抛售可能是一个买入机会。",
+      "summary_en": "Nvidia is facing a leadership shake-up as investors weigh what Jensen Huang's departure could mean for its AI dominance. Antoine Chkaiban, New Street Technology Infrastructure Analyst, says Nvidia's software ecosystem, engineering talent, and supply-chain strength won't be easy to replace, and the stock sell-off may be a buying opportunity.",
+      "detail_zh": "英伟达正面临领导层变动，投资者正在评估黄仁勋离职对该公司AI主导地位可能意味着什么。New Street Technology Infrastructure分析师Antoine Chkaiban在Bloomberg Open Interest节目中分享了他的看法。他表示，英伟达的软件生态系统、工程人才和供应链实力不会轻易被替代。Chkaiban认为，该股的抛售可能是一个买入机会。",
+      "detail_en": "Nvidia is facing a leadership shake-up as investors weigh what Jensen Huang's departure could mean for its AI dominance. Antoine Chkaiban, New Street Technology Infrastructure Analyst, joined Bloomberg Open Interest with his take. He says Nvidia's software ecosystem, engineering talent, and supply-chain strength won't be easy to replace. He says the stock sell-off may be a buying opportunity.",
+      "conclusion_zh": "分析师认为英伟达的核心竞争力难以替代，当前抛售或提供买入机会。",
+      "conclusion_en": "The analyst views Nvidia's core strengths as hard to replace, and the sell-off may offer a buying opportunity.",
+      "key_points": [
+        {
+          "zh": "英伟达面临领导层变动，投资者关注黄仁勋离职的影响。",
+          "en": "Nvidia is facing a leadership shake-up as investors weigh the impact of Jensen Huang's departure."
+        },
+        {
+          "zh": "分析师Antoine Chkaiban认为英伟达的软件生态系统、工程人才和供应链实力难以被替代。",
+          "en": "Analyst Antoine Chkaiban believes Nvidia's software ecosystem, engineering talent, and supply-chain strength won't be easy to replace."
+        },
+        {
+          "zh": "Chkaiban表示，英伟达股票的抛售可能是一个买入机会。",
+          "en": "Chkaiban says the stock sell-off may be a buying opportunity."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "leadership change",
+        "AI dominance",
+        "buying opportunity"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
     {
       "guid": "yt:s-V2803JIvo",
       "title": "An AI Bubble Could Hit Stocks. Inflation Could Hit Bonds. How Do You Diversify and Keep Both?",
@@ -18265,239 +18305,6 @@
         "monetary policy"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ekMx76tFzi0",
-      "title": "End Times?",
-      "title_zh": "纳斯达克负伽马主导的抛售与波动率飙升",
-      "url": "https://www.youtube.com/watch?v=ekMx76tFzi0",
-      "published_at": "2026-11-05T16:58:29+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "volatility",
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "市场在负伽马环境下快速下跌，纳斯达克领跌，波动率大幅上升。作者认为抛售速度暗示有机构爆仓，但波动率已非常昂贵，短期可能出现死猫跳反弹。",
-      "summary_en": "The market sold off sharply in a negative gamma environment, led by Nasdaq weakness, with implied volatility surging. The author suggests the pace of selling implies a blow-up, but with volatility very rich, a near-term dead-cat bounce is possible.",
-      "detail_zh": "作者在直播中回顾市场动态，指出标普500跌破7400点，纳斯达克下跌5%。负伽马环境延伸至7300-7200点，缺乏正伽马支撑。纳斯达克隐含波动率大幅上升，一个月期固定行权价波动率上升约6个波动率点，短期期权波动率变动更大。作者认为抛售速度之快暗示有机构爆仓，因为自然卖家不会在30分钟内将价格打压5%。看跌期权保护成本高昂，投资者更倾向于卖出而非买入看跌期权。作者关注“新云”ETF（NLD）的疲软表现，认为其是科技股稳定的风向标。此外，纳斯达克期货可能因下跌7%而暂停，但现货市场没有全市场熔断机制，这可能造成混乱。作者建议关注看涨期权买入和看跌期权卖出的信号，但目前信号微弱。",
-      "detail_en": "In a live stream, the author reviewed market dynamics, noting the S&P 500 broke below 7400 and Nasdaq fell 5%. Negative gamma extends down to 7300-7200 with no positive gamma support. Nasdaq implied volatility surged, with one-month fixed-strike vol up about 6 vol points and even larger moves in short-dated options. The author believes the pace of selling implies a blow-up, as natural sellers wouldn't push prices down 5% in 30 minutes. Put protection is expensive, incentivizing selling rather than buying puts. The author monitors the Neocloud ETF (NLD) as a tech stability indicator, which is weak. Additionally, Nasdaq futures can pause on a 7% drop, but cash markets have no market-wide circuit breaker, potentially causing chaos. The author looks for signals of call buying and put selling, but they remain light.",
-      "conclusion_zh": "市场在负伽马和波动率飙升环境下超卖，短期可能出现死猫跳反弹，但需警惕机构爆仓和流动性风险。",
-      "conclusion_en": "The market is oversold amid negative gamma and surging volatility, with a near-term dead-cat bounce possible, but be wary of blow-up and liquidity risks.",
-      "key_points": [
-        {
-          "zh": "标普500跌破7400点，负伽马环境延伸至7300-7200点，缺乏正伽马支撑。",
-          "en": "S&P 500 broke below 7400, with negative gamma extending to 7300-7200 and no positive gamma support."
-        },
-        {
-          "zh": "纳斯达克隐含波动率大幅上升，一个月期固定行权价波动率上升约6个波动率点。",
-          "en": "Nasdaq implied volatility surged, with one-month fixed-strike vol up about 6 vol points."
-        },
-        {
-          "zh": "抛售速度暗示有机构爆仓，自然卖家不会在30分钟内打压5%。",
-          "en": "The pace of selling implies a blow-up; natural sellers wouldn't push prices down 5% in 30 minutes."
-        },
-        {
-          "zh": "看跌期权保护成本高昂，投资者更倾向于卖出而非买入看跌期权。",
-          "en": "Put protection is expensive, incentivizing selling rather than buying puts."
-        },
-        {
-          "zh": "纳斯达克期货可能因下跌7%而暂停，但现货市场没有全市场熔断机制。",
-          "en": "Nasdaq futures can pause on a 7% drop, but cash markets have no market-wide circuit breaker."
-        }
-      ],
-      "tags": [
-        "negative gamma",
-        "implied volatility",
-        "Nasdaq",
-        "put protection",
-        "circuit breaker"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:x_A8ZMstfHc",
-      "title": "BOE Rate Hike a ‘Big One and Done,' Says BNY’s Yu",
-      "title_zh": "英国央行加息25基点，BNY策略师称属“保险性”举措",
-      "url": "https://www.youtube.com/watch?v=x_A8ZMstfHc",
-      "published_at": "2026-11-05T16:51:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英国央行以8比1投票结果加息25个基点。BNY高级市场策略师Geoffrey Yu认为此举可能是“保险性”行动，并指出央行信息显示货币政策委员会“未设想进一步行动”。",
-      "summary_en": "The Bank of England voted 8-1 to raise rates by a quarter point. Geoffrey Yu, senior market strategist at BNY, sees it as \"probably an insurance move\" and notes the messaging does not envisage further moves by the Monetary Policy Committee.",
-      "detail_zh": "英国央行货币政策委员会以8比1的投票结果决定加息25个基点。BNY高级市场策略师Geoffrey Yu在“Bloomberg Surveillance”节目中表示，这“可能是一次保险性举措”。他同时指出，央行的信息传递显示，货币政策委员会“未设想进一步行动”。原文未提供更多关于加息背景、经济数据或市场反应的具体细节。",
-      "detail_en": "The Bank of England's Monetary Policy Committee voted 8-1 to raise rates by a quarter point. Geoffrey Yu, senior market strategist at BNY, said on \"Bloomberg Surveillance\" that it is \"probably an insurance move.\" He also noted that the messaging does not envisage further moves by the Monetary Policy Committee. The original text does not provide further details on the background of the hike, economic data, or market reaction.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英国央行以8比1投票结果加息25个基点。",
-          "en": "The Bank of England voted 8-1 to raise rates by a quarter point."
-        },
-        {
-          "zh": "BNY高级市场策略师Geoffrey Yu称此举可能是“保险性”行动。",
-          "en": "Geoffrey Yu, senior market strategist at BNY, called it \"probably an insurance move.\""
-        },
-        {
-          "zh": "Yu指出央行信息显示货币政策委员会“未设想进一步行动”。",
-          "en": "Yu noted the messaging does not envisage further moves by the Monetary Policy Committee."
-        }
-      ],
-      "tags": [
-        "Bank of England",
-        "rate hike",
-        "monetary policy",
-        "BNY"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:G56Q9eKnSj0",
-      "title": "Bloomberg Surveillance 11/5/2026",
-      "title_zh": "彭博监控：AI轮动、利率风险与英国央行加息",
-      "url": "https://www.youtube.com/watch?v=G56Q9eKnSj0",
-      "published_at": "2026-11-05T16:30:05+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博监控讨论了股市降温、AI板块轮动和利率风险，法国兴业银行的Manish Kabra认为标普500的估值下调阶段即将结束。多位嘉宾就英国央行加息、美国政治僵局、黄金走势及美联储政策发表了看法。",
-      "summary_en": "This episode of Bloomberg Surveillance discusses cooling stocks, AI rotation, and rate risks, with Manish Kabra of Societe Generale arguing that the S&P 500's derating phase is ending. Guests also weigh in on the BOE rate hike, US political gridlock, gold, and Fed policy.",
-      "detail_zh": "节目首先关注股市降温和AI板块轮动，以及利率风险。法国兴业银行的Manish Kabra认为标普500的估值下调阶段即将结束。Signum Global的George Pollack讨论了Vance可能需要与Trump保持距离。PSP Growth的Momei Qu提到蓝色浪潮（民主党大胜）和对数据中心的担忧令芯片股承压。牛津经济研究院的Innes McFee认为央行在通胀问题上行动滞后。英国央行加息并警告通胀上升，BNY的Geoffrey Yu称这是一次“大动作且一次性”的加息。Stifel的Brian Gardner预计民主党大胜后可能出现立法僵局。汇丰的James Steel认为黄金还有上涨空间。美国银行证券的Mark Cabana表示不信任这位美联储主席。AlphaSimplex Group的Kathryn Kaminski认为选举标志着市场的转折点。野村证券的Brad Warden认为数据中心的阻力不会阻止AI建设。美国初请失业金人数降至18.9万。Hudson Bay Capital Management的Stephen Miran认为美联储应减少前瞻指引。State Street的Noel Dixon认为AI抛售是买入机会。",
-      "detail_en": "The program begins with stocks cooling, AI rotation, and rate risks. Manish Kabra of Societe Generale argues that the S&P 500's derating phase is ending. George Pollack of Signum Global discusses that Vance may need to distance himself from Trump. Momei Qu of PSP Growth mentions that a blue sweep and data center fears weigh on chips. Innes McFee of Oxford Economics believes central banks are behind the curve on inflation. The BOE hikes rates and warns of rising inflation; Geoffrey Yu of BNY calls it a 'big one and done' hike. Brian Gardner of Stifel expects legislative gridlock after a Democratic sweep. James Steel of HSBC sees more room for gold to rise. Mark Cabana of BofA Securities says he doesn't trust this Fed Chair. Kathryn Kaminski of AlphaSimplex Group says the election marks a pivot point for markets. Brad Warden of Nomura says data center pushback won't stop the AI buildout. US jobless claims fall to 189,000. Stephen Miran of Hudson Bay Capital Management says the Fed should pull back on forward guidance. Noel Dixon of State Street sees the AI selloff as a buying opportunity.",
-      "conclusion_zh": "多位嘉宾认为AI板块的抛售是买入机会，同时标普500的估值下调可能接近尾声，但需关注央行政策滞后和立法僵局的风险。",
-      "conclusion_en": "Several guests view the AI selloff as a buying opportunity and see the S&P 500 derating as nearing its end, though risks remain from central bank policy lag and legislative gridlock.",
-      "key_points": [
-        {
-          "zh": "法国兴业银行的Manish Kabra认为标普500的估值下调阶段即将结束。",
-          "en": "Manish Kabra of Societe Generale believes the S&P 500's derating phase is ending."
-        },
-        {
-          "zh": "英国央行加息并警告通胀上升，BNY的Geoffrey Yu称这是一次“大动作且一次性”的加息。",
-          "en": "The BOE hikes rates and warns of rising inflation; Geoffrey Yu of BNY calls it a 'big one and done' hike."
-        },
-        {
-          "zh": "美国初请失业金人数降至18.9万。",
-          "en": "US jobless claims fall to 189,000."
-        },
-        {
-          "zh": "State Street的Noel Dixon认为AI抛售是买入机会。",
-          "en": "Noel Dixon of State Street sees the AI selloff as a buying opportunity."
-        },
-        {
-          "zh": "Stifel的Brian Gardner预计民主党大胜后可能出现立法僵局。",
-          "en": "Brian Gardner of Stifel expects legislative gridlock after a Democratic sweep."
-        }
-      ],
-      "tags": [
-        "AI rotation",
-        "rate risks",
-        "BOE hike",
-        "S&P 500 derating",
-        "jobless claims"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:2l7hJICbumU",
-      "title": "ITAP Episode 2",
-      "title_zh": "顾问工具丰富但复杂性上升，理解细节的团队更易脱颖而出",
-      "url": "https://www.youtube.com/watch?v=2l7hJICbumU",
-      "published_at": "2026-11-05T16:25:42+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "原文指出，当前顾问可用的工具和投资载体空前丰富，但牛市演进和潜在监管变化也带来了更多复杂性。能够理解这些细微差别并善用工具的顾问团队，正与同行拉开差距。",
-      "summary_en": "The source notes that advisors now have access to an unprecedented range of tools and vehicles, but rising bull market conditions and potential regulatory changes have added complexity. Advisor teams that understand these nuances and leverage available tools are distinguishing themselves from peers.",
-      "detail_zh": "原文认为，综合各类工具来看，当前对顾问而言可能是最好的时期之一，因为可用的投资载体非常丰富，且不仅限于服务最高净值客户。与此同时，随着牛市持续和监管可能发生变化，复杂性也在上升。原文强调，理解这些细微差别并掌握可用工具的顾问团队，正在与同行形成明显区分。原文未提供具体工具类型、监管变化细节或数据。",
-      "detail_en": "The source argues that, with all tools combined, this may be one of the best times to be an advisor, given the wide range of investment vehicles available—not only for the highest-net-worth clients. At the same time, complexity has increased due to factors such as a rising bull market and potential regulatory changes. The source emphasizes that advisor teams understanding these nuances and the available tools are clearly distinguishing themselves from peers. No specific tool types, regulatory details, or data are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "当前顾问可用的投资工具和载体空前丰富。",
-          "en": "Advisors now have an unprecedented range of investment tools and vehicles."
-        },
-        {
-          "zh": "工具不再仅限于服务最高净值客户。",
-          "en": "These tools are not limited to serving the highest-net-worth clients."
-        },
-        {
-          "zh": "牛市演进和潜在监管变化增加了复杂性。",
-          "en": "Rising bull market conditions and potential regulatory changes have added complexity."
-        },
-        {
-          "zh": "理解细微差别并善用工具的顾问团队正脱颖而出。",
-          "en": "Advisor teams that understand nuances and leverage tools are distinguishing themselves."
-        }
-      ],
-      "tags": [
-        "financial-advisors",
-        "investment-tools",
-        "regulation",
-        "bull-market"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Cp5xnh4COXg",
-      "title": "Tech Stocks Are Cracking. Spending Is Outrunning Wages. What Happens When the Wealth Effect Fades?",
-      "title_zh": "宏观双主题：油价与AI，民主党州长选举或影响数据中心",
-      "url": "https://www.youtube.com/watch?v=Cp5xnh4COXg",
-      "published_at": "2026-11-05T16:18:48+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "Ahan Hunt 与 Bob Elliott 讨论中期选举后的市场格局，认为财政政策不会大变，但民主党在州长选举中的意外胜利可能通过数据中心审批影响AI叙事。市场今年由油价和AI两大主题驱动，通胀预期已部分固化，增长不确定性成为焦点。",
-      "summary_en": "Ahan Hunt and Bob Elliott discuss the post-midterm market landscape, arguing that fiscal policy is unlikely to change materially, but unexpected Democratic gains in governorships could affect the AI narrative via data center approvals. The market this year has been driven by two macro themes—oil and AI—with inflation expectations partly baked in and growth uncertainty now front and center.",
-      "detail_zh": "Ahan Hunt 指出，今年市场主要由两大宏观主题驱动：油价和AI，两者交替主导。油价上涨推高整体通胀，并最终传导至核心通胀，但市场对油价波动的反应已趋于温和，通胀预期似乎已被部分定价。当前不确定性集中在增长，尤其是AI相关领域。Bob Elliott 认为，中期选举后国会分裂基本符合预期，财政政策不会显著变化；但民主党在州长选举中意外赢得多个席位，由于州长对数据中心投资拥有行政权力，可能影响AI基础设施的扩张。选前民主党州长覆盖约30%的预期数据中心建设增长，选后这一比例升至80%。市场反应上，股票上涨而英伟达下跌，这被视为AI狂热中的一个小裂痕，虽不改变整体格局，但增加了叙事阻力。",
-      "detail_en": "Ahan Hunt notes that the market this year has been driven by two macro themes: oil and AI, which have alternated in dominance. Rising oil prices push up headline inflation, which eventually feeds into core inflation, but market reactions to oil volatility have become more muted, suggesting inflation expectations are partly priced in. Current uncertainty centers on growth, particularly in the AI complex. Bob Elliott argues that post-midterm divided government is largely as expected, with no material fiscal policy change; however, Democrats' unexpected gains in governorships matter because governors have executive authority over data center investment. Before the election, Democratic governors covered about 30% of expected data center construction growth; after, that share rose to 80%. In market reaction, stocks rose while Nvidia fell, seen as a small chink in the AI mania—not enough to change the overall picture but another drag on the narrative.",
-      "conclusion_zh": "关注AI基础设施政策风险与增长预期变化，油价对通胀的传导已部分钝化，但增长不确定性可能主导后续市场。",
-      "conclusion_en": "Watch AI infrastructure policy risks and shifts in growth expectations; oil-to-inflation pass-through has partly dulled, but growth uncertainty may dominate markets going forward.",
-      "key_points": [
-        {
-          "zh": "今年市场由油价和AI两大主题交替驱动，通胀预期已部分固化，增长不确定性成为焦点。",
-          "en": "The market this year has been driven by two alternating themes—oil and AI—with inflation expectations partly baked in and growth uncertainty now in focus."
-        },
-        {
-          "zh": "中期选举后财政政策预计不会大变，但民主党州长意外增加可能通过数据中心审批影响AI基础设施。",
-          "en": "Fiscal policy is unlikely to change materially post-midterms, but unexpected Democratic governors could affect AI infrastructure via data center approvals."
-        },
-        {
-          "zh": "民主党州长覆盖的预期数据中心建设增长比例从选前约30%升至选后80%。",
-          "en": "The share of expected data center construction growth covered by Democratic governors rose from about 30% pre-election to 80% post-election."
-        },
-        {
-          "zh": "市场反应显示股票上涨而英伟达下跌，被视为AI叙事的一个小裂痕。",
-          "en": "Market reaction showed stocks up while Nvidia fell, viewed as a small chink in the AI narrative."
-        }
-      ],
-      "tags": [
-        "oil",
-        "AI",
-        "midterms",
-        "data centers",
-        "inflation"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
       "sentiment": "neutral"
     }
   ]
