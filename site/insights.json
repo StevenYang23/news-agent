@@ -1,6 +1,99 @@
 {
-  "generated_at": "2026-11-12T13:13:02.868531+00:00",
+  "generated_at": "2026-11-12T14:14:10.206836+00:00",
   "insights": [
+    {
+      "guid": "yt:f9pcdTKeBM8",
+      "title": "Why Crypto's Biggest Weakness Could Be Its Strength",
+      "title_zh": "区块链透明度或使加密盗窃比传统银行抢劫更易调查",
+      "url": "https://www.youtube.com/watch?v=f9pcdTKeBM8",
+      "published_at": "2026-11-12T13:44:41+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "TRM Labs 全球政策主管 Ari Redbord 表示，尽管 60 亿美元的加密盗窃案看似严重，但区块链的透明性使得交易可追踪、非法资金可冻结、被盗资产有望通过行业合作追回。这引发了一个问题：区块链透明度是否能让加密盗窃比传统银行抢劫更容易调查。",
+      "summary_en": "Ari Redbord, global head of policy at TRM Labs, explains that despite the severity of a $6 billion crypto heist, blockchain transparency allows transactions to be traced, illicit funds frozen, and stolen assets potentially recovered through industry cooperation. This raises the question of whether blockchain transparency makes crypto theft easier to investigate than traditional bank robbery.",
+      "detail_zh": "在 Real Vision 的采访中，TRM Labs 全球政策主管 Ari Redbord 讨论了 60 亿美元加密盗窃案后的情况。他指出，区块链技术的一个 surprising advantage 是交易可追踪性，这使得非法资金能够被冻结，被盗资产有可能通过行业合作被追回。Redbord 提出了一个对比性问题：区块链的透明度是否可能使加密盗窃比传统银行抢劫更容易调查。采访由 Ash Bennington 主持。",
+      "detail_en": "In an interview on Real Vision, Ari Redbord, global head of policy at TRM Labs, discussed the aftermath of a $6 billion crypto heist. He noted that a surprising advantage of blockchain technology is the traceability of transactions, which allows illicit funds to be frozen and stolen assets potentially recovered through industry cooperation. Redbord raised the comparative question of whether blockchain transparency could make crypto theft easier to investigate than traditional bank robbery. The interview was conducted by Ash Bennington.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "60 亿美元加密盗窃案后，区块链的透明性显示出优势。",
+          "en": "After a $6 billion crypto heist, blockchain transparency shows an advantage."
+        },
+        {
+          "zh": "加密交易可追踪，非法资金可冻结，被盗资产有望通过行业合作追回。",
+          "en": "Crypto transactions can be traced, illicit funds frozen, and stolen assets potentially recovered through industry cooperation."
+        },
+        {
+          "zh": "区块链透明度可能使加密盗窃比传统银行抢劫更容易调查。",
+          "en": "Blockchain transparency could make crypto theft easier to investigate than traditional bank robbery."
+        }
+      ],
+      "tags": [
+        "crypto",
+        "blockchain",
+        "security",
+        "investigation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4966918",
+      "title": "Jensen Huang's Nvidia Future Hangs By A Thread",
+      "title_zh": "英伟达CEO黄仁勋陷丑闻，股价大跌",
+      "url": "https://seekingalpha.com/article/4966918-jensen-huangs-nvidia-future-hangs-by-a-thread?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-12T12:30:09+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋被曝与下属有染，可能面临离职压力，股价盘前大跌7%，市值蒸发超1.5万亿美元。市场担忧英伟达领导层变动及其中美芯片出口政策风险。",
+      "summary_en": "Nvidia CEO Jensen Huang faces departure pressure amid reports of a relationship with a subordinate, sending shares down 7% premarket and wiping over $1.5 trillion in market value. Markets worry about leadership change and U.S.-China chip export policy risks.",
+      "detail_zh": "英伟达CEO黄仁勋被曝与直接下属、医疗业务高管Kimberly Powell存在恋爱关系，引发利益冲突和职场行为不当的质疑。此前他已承认与中国间谍有婚外情。报道称，相比中国关系问题，与下属的恋情更可能迫使其离职。黄仁勋对英伟达保持严格控制，直接下属众多，目前没有明确继任者，有人猜测首席工程师Ian Buck或CFO Colette Kress可能接任，但多为推测。英伟达是AI革命的中坚力量，在主要股指中权重很高，其领导层变动对整体经济也有影响。英伟达股价盘前下跌7%至160美元左右，过去一个月下跌近30%，市值损失超过1.5万亿美元，这提振了AMD和博通等竞争对手。Yorkville Ives估计，若黄仁勋离职，英伟达公允价值将下降约25%至每股225美元，而留任则为300美元。此外，美国对华芯片出口政策存在争议：2025年4月美国禁止H20芯片对华出口，但黄仁勋游说后限制被解除，特朗普总统后来甚至允许英伟达向中国出口更先进的H200产品，并向华盛顿支付25%的分成。这引发了对裙带资本主义和中国战略的辩论。",
+      "detail_en": "Nvidia CEO Jensen Huang is reported to have had a romantic relationship with Kimberly Powell, a senior executive running the company's healthcare business and a direct subordinate, raising conflict-of-interest and workplace misconduct issues. This follows his admitted extramarital affair with an alleged Chinese spy. Reports suggest the entanglement with a subordinate is more likely to force his departure than the China ties. Huang maintains tight control over Nvidia with dozens of direct reports, and there is no clear successor; some speculate chief engineer Ian Buck or CFO Colette Kress could take over, but it's mostly speculation. Nvidia is the backbone of the AI revolution and a heavy weight in major stock indexes, so leadership changes have broader economic implications. Nvidia shares are down 7% premarket to around $160, down nearly 30% over the past month, translating to a loss of more than $1.5 trillion, which has boosted rivals like AMD and Broadcom. Yorkville Ives estimates Nvidia's fair value would fall about 25% to $225 per share without Huang, versus $300 if he remains. Additionally, U.S. chip export policy toward China is controversial: in April 2025 the U.S. banned H20 chip exports to China, but after Huang lobbied hard, restrictions were lifted months later, and President Trump later allowed Nvidia to ship more advanced H200 products to China with a 25% cut paid to Washington. This has sparked debates over crony capitalism and China strategy.",
+      "conclusion_zh": "英伟达领导层风险凸显，短期股价承压，投资者需关注继任问题及对华政策变化。",
+      "conclusion_en": "Nvidia's leadership risk is prominent, pressuring shares short-term; investors should watch succession and China policy developments.",
+      "key_points": [
+        {
+          "zh": "黄仁勋与直接下属的恋情可能比中国关系问题更严重，或迫使其离职。",
+          "en": "Huang's relationship with a direct subordinate may be more serious than the China ties and could force his departure."
+        },
+        {
+          "zh": "英伟达股价盘前跌7%至160美元，过去一个月跌近30%，市值损失超1.5万亿美元。",
+          "en": "Nvidia shares fell 7% premarket to $160, down nearly 30% over the past month, with over $1.5 trillion in market value lost."
+        },
+        {
+          "zh": "Yorkville Ives估计，若黄仁勋离职，英伟达公允价值将降至每股225美元，留任则为300美元。",
+          "en": "Yorkville Ives estimates Nvidia's fair value would drop to $225 per share if Huang leaves, versus $300 if he stays."
+        },
+        {
+          "zh": "英伟达没有明确继任者，黄仁勋直接下属众多，继任猜测包括Ian Buck和Colette Kress。",
+          "en": "Nvidia has no clear successor; Huang has many direct reports, and speculation includes Ian Buck and Colette Kress."
+        },
+        {
+          "zh": "美国对华芯片出口政策反复，引发对国家安全的担忧。",
+          "en": "U.S. chip export policy toward China has fluctuated, raising national security concerns."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO scandal",
+        "chip export",
+        "succession"
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "4966916",
       "title": "Wall Street Breakfast Podcast: Nvidia Lets Chips Fall Where They May, Eyes New CEO",
@@ -18345,47 +18438,6 @@
         "Joshua Wong",
         "sentencing",
         "pro-democracy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:WJvxNrwjM74",
-      "title": "Ariana Salvatore on Bloomberg Surveillance",
-      "title_zh": "中期选举后市场与国际股票展望",
-      "url": "https://www.youtube.com/watch?v=WJvxNrwjM74",
-      "published_at": "2026-11-05T14:00:50+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "美国公共政策研究主管Ariana Salvatore接受彭博采访，讨论中期选举后市场和国际股票的前景。原文未提供具体观点或数据。",
-      "summary_en": "Head of US Public Policy Research Ariana Salvatore spoke with Bloomberg about what's next for markets and international equities following the midterm election. No specific views or data were provided in the source.",
-      "detail_zh": "该内容仅为一段采访预告或简介，指出美国公共政策研究主管Ariana Salvatore与彭博讨论了中期选举后市场和国际股票的前景。原文没有给出任何具体的市场判断、数据、个股或资产配置观点。日期标注为2026年11月4日。由于缺乏实质内容，无法提炼更多投资洞见。",
-      "detail_en": "The content is only a brief interview teaser or summary, noting that Head of US Public Policy Research Ariana Salvatore sat down with Bloomberg to discuss what's next for markets and international equities following the midterm election. The source provides no specific market views, data, individual stocks, or asset allocation opinions. The date is marked November 4, 2026. Due to the lack of substantive content, no further investment insights can be extracted.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Ariana Salvatore是US Public Policy Research主管。",
-          "en": "Ariana Salvatore is Head of US Public Policy Research."
-        },
-        {
-          "zh": "采访主题为中期选举后市场和国际股票的前景。",
-          "en": "The interview topic is what's next for markets and international equities following the midterm election."
-        },
-        {
-          "zh": "原文未提供任何具体市场观点或数据。",
-          "en": "The source provides no specific market views or data."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "market outlook",
-        "international equities",
-        "US public policy"
       ],
       "tickers": [],
       "sentiment": "neutral"
