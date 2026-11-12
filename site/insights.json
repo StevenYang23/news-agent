@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-12T00:33:34.241718+00:00",
+  "generated_at": "2026-11-12T01:14:06.630255+00:00",
   "insights": [
+    {
+      "guid": "yt:r05uI9Fnv6g",
+      "title": "AI Trade Roars Back, Anthropic IPO Outlook, Nordstrom Co-CEO on Going Private",
+      "title_zh": "彭博《The Close》节目嘉宾名单公布",
+      "url": "https://www.youtube.com/watch?v=r05uI9Fnv6g",
+      "published_at": "2026-11-12T00:36:59+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《The Close》的嘉宾预告，列出了摩根士丹利投资管理、花旗研究、Woodside Energy、Nordstrom等机构人士的参与，未包含任何市场观点、数据或投资判断。",
+      "summary_en": "The source is only a guest lineup for Bloomberg TV's 'The Close,' listing participants from Morgan Stanley Investment Management, Citi Research, Woodside Energy, Nordstrom and others, with no market views, data or investment judgments included.",
+      "detail_zh": "原文是彭博电视《The Close》节目的介绍，说明该节目提供华尔街收盘前后最新新闻与分析。列出的当日嘉宾包括：摩根士丹利投资管理解决方案与多资产副首席投资官Jitania Kandhari、花旗研究全球首席经济学家Nathan Sheets、Woodside Energy首席执行官兼董事总经理Liz Westcott、纽约大学心理学与神经科学荣休教授Gary Marcus、Pivotal Advisors首席执行官兼首席投资官Tiffany McGhee、Neostellar负责人Evan Schlossman、Niles Investment Management创始人兼投资组合经理Dan Niles、Nordstrom联席首席执行官Pete Nordstrom、Telsey Advisory Group首席执行官兼首席研究官Dana Telsey，以及SPREEAI首席执行官兼联合创始人John Imah。其余内容为彭博电视与商业新闻的社交媒体链接及订阅提示，不包含任何市场观点、经济数据或投资建议。",
+      "detail_en": "The source is a description of Bloomberg TV's 'The Close,' which it says provides the latest news and analysis leading up to and after the closing bell on Wall Street. The listed guests are: Jitania Kandhari, Deputy CIO, Solutions & Multi-Asset at Morgan Stanley Investment Management; Nathan Sheets, Global Chief Economist at Citi Research; Liz Westcott, CEO & Managing Director of Woodside Energy; Gary Marcus, NYU Emeritus Professor of psychology and neural science; Tiffany McGhee, CEO and CIO of Pivotal Advisors; Evan Schlossman, Principal at Neostellar; Dan Niles, Founder and Portfolio Manager at Niles Investment Management; Pete Nordstrom, Co-CEO of Nordstrom; Dana Telsey, CEO and Chief Research Officer at Telsey Advisory Group; and John Imah, CEO and Co-Founder of SPREEAI. The remainder consists of Bloomberg Television and Bloomberg Business social media links and subscription prompts, with no market views, economic data or investment recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文仅为彭博电视《The Close》节目的嘉宾预告，无实质市场分析内容。",
+          "en": "The source is only a guest lineup for Bloomberg TV's 'The Close,' with no substantive market analysis."
+        },
+        {
+          "zh": "列出的嘉宾来自摩根士丹利投资管理、花旗研究、Woodside Energy、Nordstrom、Telsey Advisory Group等机构。",
+          "en": "Listed guests come from Morgan Stanley Investment Management, Citi Research, Woodside Energy, Nordstrom, Telsey Advisory Group and others."
+        },
+        {
+          "zh": "原文未包含任何数字、市场观点、经济数据或投资建议。",
+          "en": "The source contains no figures, market views, economic data or investment recommendations."
+        }
+      ],
+      "tags": [
+        "Bloomberg TV",
+        "guest lineup",
+        "no market content"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:2jwTRDvQtUo",
       "title": "Nvidia Preparing to Oust CEO Jensen Huang: WSJ",
