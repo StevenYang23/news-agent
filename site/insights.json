@@ -1,6 +1,179 @@
 {
-  "generated_at": "2026-11-12T17:12:54.531433+00:00",
+  "generated_at": "2026-11-12T18:16:19.400178+00:00",
   "insights": [
+    {
+      "guid": "yt:nKEuoEVX720",
+      "title": "Bloomberg Surveillance 11/12/2026",
+      "title_zh": "英伟达CEO黄仁勋被罢免，市场担忧美联储加息",
+      "url": "https://www.youtube.com/watch?v=nKEuoEVX720",
+      "published_at": "2026-11-12T17:40:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博监控节目讨论了英伟达CEO黄仁勋被罢免的消息及其对科技股和美股的影响。嘉宾观点分歧：CFRA的Angelo Zino认为英伟达可能需要外部CEO，而Wedbush的Matt Bryson认为尽管面临“最坏情况”，英伟达估值仍显得便宜。此外，美国初请失业金人数升至20万，Wells Fargo的Tom Porcelli预计美联储12月应加息25个基点。",
+      "summary_en": "Bloomberg Surveillance discussed the ouster of Nvidia CEO Jensen Huang and its impact on tech stocks and the US equity market. Guest views diverged: CFRA's Angelo Zino suggested Nvidia may need an outside CEO, while Wedbush's Matt Bryson argued Nvidia looks cheap despite the 'worst possible outcome.' Additionally, US jobless claims rose to 200,000, and Wells Fargo's Tom Porcelli expects the Fed to hike 25 bps in December.",
+      "detail_zh": "节目首先聚焦英伟达CEO黄仁勋被罢免的消息，并探讨其影响。CFRA的Angelo Zino认为英伟达可能需要一位外部CEO来重建信心。Truist Advisory Services的Keith Lerner则认为科技股抛售创造了买入机会。Raymond James的Ed Mills指出，英伟达丑闻可能威胁美中关系缓和。Baird的Ted Mortonson提到投资者正在从英伟达分散投资。Wedbush Securities的Matt Bryson认为，尽管面临“最坏情况”，英伟达的估值仍显得过于便宜。BlackRock的Mike Pyle表示，AI转型的影响比任何单一公司都大。前美国国防部副部长Brad Carson认为中国在AI领域仅落后美国几个月。JPMorgan的Nathaniel Rosenbaum指出，尽管英伟达动荡，AI融资依然强劲。Academy Securities的Peter Tchir将黄仁勋的离职视为科技股的尾部风险。Seaport的Jay Goldberg预计英伟达在失去黄仁勋后可能进一步下跌。经济数据方面，美国初请失业金人数升至20万。Wells Fargo的Tom Porcelli预计美联储应在12月加息25个基点。最后，消息确认黄仁勋被罢免，英伟达将董事长和CEO角色分开。Wellington Management的Matt Witheiler认为AI交易能承受黄仁勋离职的影响。",
+      "detail_en": "The program focused on the ouster of Nvidia CEO Jensen Huang and its implications. CFRA's Angelo Zino suggested Nvidia may need an outside CEO to restore confidence. Truist Advisory Services' Keith Lerner saw the tech selloff as a buying opportunity. Raymond James' Ed Mills noted the Nvidia scandal could threaten US-China detente. Baird's Ted Mortonson mentioned investors are diversifying away from Nvidia. Wedbush Securities' Matt Bryson argued Nvidia looks too cheap despite the 'worst possible outcome.' BlackRock's Mike Pyle said the AI transformation is bigger than any company. Former DoD Undersecretary Brad Carson believes China is only months behind the US in AI. JPMorgan's Nathaniel Rosenbaum noted AI financing remains strong despite Nvidia turmoil. Academy Securities' Peter Tchir viewed Huang's exit as a tail risk for tech. Seaport's Jay Goldberg expected more downside for Nvidia without Huang. On the economic front, US jobless claims rose to 200,000. Wells Fargo's Tom Porcelli expects the Fed to hike 25 bps in December. Finally, it was confirmed that Huang was ousted and Nvidia split the chairman and CEO roles. Wellington Management's Matt Witheiler believes the AI trade can weather Huang's exit.",
+      "conclusion_zh": "英伟达领导层变动引发科技股波动，但部分投资者视其为买入机会；同时美联储加息预期升温，需关注宏观风险。",
+      "conclusion_en": "Nvidia's leadership change has triggered tech volatility, but some investors see it as a buying opportunity; meanwhile, rising Fed hike expectations warrant attention to macro risks.",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋被罢免，公司分拆董事长和CEO角色。",
+          "en": "Nvidia CEO Jensen Huang was ousted, and the company split the chairman and CEO roles."
+        },
+        {
+          "zh": "CFRA的Angelo Zino认为英伟达可能需要外部CEO；Wedbush的Matt Bryson认为尽管面临最坏情况，英伟达估值仍便宜。",
+          "en": "CFRA's Angelo Zino suggested Nvidia may need an outside CEO; Wedbush's Matt Bryson argued Nvidia looks cheap despite the worst-case scenario."
+        },
+        {
+          "zh": "美国初请失业金人数升至20万；Wells Fargo的Tom Porcelli预计美联储12月应加息25个基点。",
+          "en": "US jobless claims rose to 200,000; Wells Fargo's Tom Porcelli expects the Fed to hike 25 bps in December."
+        },
+        {
+          "zh": "嘉宾观点分歧：Truist的Keith Lerner认为科技股抛售是买入机会，而Seaport的Jay Goldberg预计英伟达可能进一步下跌。",
+          "en": "Guest views diverged: Truist's Keith Lerner saw the tech selloff as a buying opportunity, while Seaport's Jay Goldberg expected more downside for Nvidia."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO departure",
+        "tech selloff",
+        "Fed rate hike",
+        "AI"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Uh5w8Fdn5Iw",
+      "title": "Huang Says Agentic AI Systems Need Monitoring, Containment",
+      "title_zh": "黄仁勋：无约束的代理式AI是最大风险",
+      "url": "https://www.youtube.com/watch?v=Uh5w8Fdn5Iw",
+      "published_at": "2026-11-12T17:25:36+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前英伟达CEO黄仁勋在10月14日接受彭博采访时表示，开发缺乏遏制与监控的代理式AI系统是他眼中该技术发展的最大风险。原文未提供更多关于风险逻辑或投资影响的细节。",
+      "summary_en": "Former Nvidia CEO Jensen Huang said in an Oct. 14 Bloomberg interview that developing agentic AI systems without containment and monitoring is the biggest risk he sees in the technology's development. The source provides no further detail on the risk logic or investment implications.",
+      "detail_zh": "前英伟达CEO黄仁勋于10月14日接受彭博社Emily Chang采访时表示，开发缺乏遏制与监控的代理式AI系统是他所认为的该技术发展中的最大风险。该采访在黄仁勋曝出婚外情传闻前数周进行，原文提及美国据报怀疑该女性为中国间谍，但未就此展开。原文未进一步阐述代理式AI风险的具体逻辑、监管含义或对美股的影响。",
+      "detail_en": "Former Nvidia CEO Jensen Huang told Bloomberg's Emily Chang on Oct. 14 that developing agentic AI systems without containment and monitoring is the biggest risk he sees in the technology's development. The interview took place weeks before he revealed an extramarital affair with a woman reportedly suspected by the US to be a Chinese spy; the source does not elaborate on this. The source does not further explain the specific logic of the agentic AI risk, its regulatory implications, or its impact on US equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋认为，无遏制与监控的代理式AI系统是AI发展中的最大风险。",
+          "en": "Huang sees agentic AI systems without containment and monitoring as the biggest risk in AI development."
+        },
+        {
+          "zh": "该观点来自10月14日彭博Emily Chang的采访。",
+          "en": "The comment came from an Oct. 14 Bloomberg interview with Emily Chang."
+        },
+        {
+          "zh": "原文未提供风险的具体逻辑或投资影响细节。",
+          "en": "The source provides no specific logic or investment impact details."
+        }
+      ],
+      "tags": [
+        "agentic AI",
+        "AI risk",
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Nh8aIlyivRY",
+      "title": "The AI Chip Race with Apple’s Former Chief Chip Architect | Power On with Mark Gurman",
+      "title_zh": "前苹果芯片架构师谈AI数据中心CPU新创NUVACORE",
+      "url": "https://www.youtube.com/watch?v=Nh8aIlyivRY",
+      "published_at": "2026-11-12T17:09:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前苹果芯片架构师Gerard Williams III在Bloomberg播客中回顾其主导A7至M1处理器开发的经历，并介绍其新公司NUVACORE，致力于为AI数据中心热潮打造高性能、高能效CPU。",
+      "summary_en": "Former Apple chip architect Gerard Williams III discusses his work on Apple's A7 through M1 processors and his new company NUVACORE, which aims to build powerful, energy-efficient CPUs for the AI data center boom.",
+      "detail_zh": "在Bloomberg的Power On播客中，前苹果芯片架构师Gerard Williams III回顾了他在苹果的经历，包括参与开发从A7到M1的处理器。他目前创立了新公司NUVACORE，专注于为AI数据中心热潮构建高性能、高能效的CPU。节目还讨论了AI芯片竞赛、AI对芯片开发的影响、NUVACORE的愿景，以及Williams对苹果现状和Ternus的看法。",
+      "detail_en": "In Bloomberg's Power On podcast, former Apple chip architect Gerard Williams III discusses his time at Apple, including the development of processors from the A7 through M1. He now leads a new company, NUVACORE, focused on building powerful, energy-efficient CPUs for the AI data center boom. The episode also covers the AI chip race, AI's impact on chip development, NUVACORE's vision, and Williams' thoughts on Apple and Ternus.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Gerard Williams III曾主导苹果A7至M1处理器的开发。",
+          "en": "Gerard Williams III led development of Apple's A7 through M1 processors."
+        },
+        {
+          "zh": "他创立NUVACORE，瞄准AI数据中心的高性能、高能效CPU。",
+          "en": "He founded NUVACORE, targeting high-performance, energy-efficient CPUs for AI data centers."
+        },
+        {
+          "zh": "节目讨论了AI芯片竞赛及AI对芯片开发的影响。",
+          "en": "The episode discusses the AI chip race and AI's impact on chip development."
+        },
+        {
+          "zh": "Williams还分享了对苹果现状及Ternus的看法。",
+          "en": "Williams also shares his thoughts on Apple and Ternus."
+        }
+      ],
+      "tags": [
+        "AI chips",
+        "data center",
+        "CPU",
+        "Apple",
+        "NUVACORE"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:rLH6Tx4u2kM",
+      "title": "With Jensen Huang Gone, Who Will Be Nvidia's Next CEO?",
+      "title_zh": "谁将接替英伟达CEO黄仁勋？",
+      "url": "https://www.youtube.com/watch?v=rLH6Tx4u2kM",
+      "published_at": "2026-11-12T17:06:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博电视讨论英伟达CEO黄仁勋的继任者人选，指出这一挑战十分艰巨。",
+      "summary_en": "Bloomberg Television discusses who might succeed Nvidia CEO Jensen Huang, noting the daunting challenge of the role.",
+      "detail_zh": "彭博的Amy Thomson在节目中探讨了谁可能接替英伟达CEO黄仁勋的位置。报道指出，寻找继任者是一项艰巨的挑战。原文未提及具体候选人名单或继任计划细节。",
+      "detail_en": "Bloomberg's Amy Thomson discusses who might be in the frame to replace Nvidia CEO Jensen Huang. The report notes that it is a daunting challenge for the chipmaker. No specific candidates or succession plan details are mentioned.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论焦点是英伟达CEO黄仁勋的继任者人选。",
+          "en": "The discussion focuses on who will succeed Nvidia CEO Jensen Huang."
+        },
+        {
+          "zh": "报道称寻找继任者是一项艰巨的挑战。",
+          "en": "The report describes the succession as a daunting challenge."
+        },
+        {
+          "zh": "原文未提供具体候选人信息。",
+          "en": "No specific candidates are named in the source."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO succession",
+        "semiconductors"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:zFpWJQxHfUU",
       "title": "Nvidia Shake-Up Is a Buying Opportunity, Says Analyst Chkaiban",
@@ -1640,6 +1813,52 @@
         "NVDA"
       ],
       "sentiment": "negative"
+    },
+    {
+      "guid": "/guest-content/list-guest-transcripts/6236-transcript-of-the-podcast-interview-between-erik-townsend-mike-alkin/file",
+      "title": "Transcript of the Podcast Interview between Erik Townsend & Mike Alkin (\n                                                                                                            pdf,                                                                                                                                                                 383 KB                                                                                                    )",
+      "title_zh": "铀价基本面与AI无关，但市场仍将其与AI资本开支捆绑",
+      "url": "https://www.macrovoices.com/guest-content/list-guest-transcripts/6236-transcript-of-the-podcast-interview-between-erik-townsend-mike-alkin/file",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "source_name": "Macro Voices",
+      "source_kind": "article",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "Sachem Cove首席投资官Mike Alkin指出，铀的结构性牛市源于现有反应堆需求与新增反应堆管线，与AI和数据中心无关。然而市场将核能板块与AI资本开支捆绑，导致铀矿股在AI资本开支担忧下被抛售，尽管燃料买家正推高铀价。",
+      "summary_en": "Mike Alkin, CIO of Sachem Cove, argues that the structural uranium bull market is driven by existing reactor demand and new reactor pipeline, not AI or data centers. However, the market has bundled nuclear with AI capex, causing uranium mining shares to sell off on AI capex fears even as fuel buyers push uranium prices higher.",
+      "detail_zh": "Mike Alkin表示，铀的结构性短缺源于全球440座运行反应堆（其中420余座发电）和80座新反应堆的管线，以及核能增长率从约0.5%提升至4-5%，这些都与AI和数据中心无关。但他承认市场确实将核能与AI捆绑，铀矿股因此被纳入AI篮子，当AI资本开支担忧引发抛售时，铀矿股也受到拖累。Alkin指出，一些铀矿初级公司也主动将自己包装成AI交易的一部分，如今却因AI资本开支可能缩减而承受后果。他强调，铀价已从十年前的17-20美元/磅升至接近100美元/磅以上，而铀矿股却跌至“解放日”低点，与燃料买家看涨铀价形成鲜明对比。",
+      "detail_en": "Mike Alkin states that the structural uranium deficit stems from the global fleet of 440 operating reactors (over 420 producing electricity) and a pipeline of 80 new reactors, with nuclear growth accelerating from about 0.5% to 4-5%, none of which is related to AI or data centers. He acknowledges, however, that the market does bundle nuclear with AI, and uranium mining shares get lumped into AI baskets, suffering when AI capex fears trigger selling. Alkin notes that some uranium juniors actively marketed themselves as part of the AI trade and are now paying the price as AI capex spending is questioned. He emphasizes that uranium prices have risen from $17-20/lb a decade ago to near or above $100/lb, while uranium mining shares have crashed to 'Liberation Day' lows, contrasting with fuel buyers turning bullish on uranium prices.",
+      "conclusion_zh": "铀矿股因被错误地与AI捆绑而遭抛售，但铀的结构性牛市独立于AI，投资者可关注情绪与基本面背离带来的机会。",
+      "conclusion_en": "Uranium mining shares are being sold off due to mistaken bundling with AI, but the structural uranium bull market is independent of AI, and investors may watch for opportunities from the sentiment-fundamentals divergence.",
+      "key_points": [
+        {
+          "zh": "铀的结构性短缺与AI无关：全球440座运行反应堆和80座新反应堆管线，核能增长率已从0.5%升至4-5%。",
+          "en": "The structural uranium deficit is unrelated to AI: 440 operating reactors and 80 new reactors in the pipeline, with nuclear growth rising from 0.5% to 4-5%."
+        },
+        {
+          "zh": "市场将核能纳入AI篮子，导致铀矿股受AI资本开支担忧拖累，尽管基本面强劲。",
+          "en": "The market bundles nuclear into AI baskets, causing uranium mining shares to be dragged down by AI capex fears despite strong fundamentals."
+        },
+        {
+          "zh": "一些铀矿初级公司主动将自己包装成AI交易的一部分，如今承受后果。",
+          "en": "Some uranium juniors actively marketed themselves as part of the AI trade and are now suffering the consequences."
+        },
+        {
+          "zh": "铀价已从十年前的17-20美元/磅升至接近100美元/磅以上，而铀矿股却跌至低点。",
+          "en": "Uranium prices have risen from $17-20/lb a decade ago to near or above $100/lb, while uranium mining shares have crashed to lows."
+        }
+      ],
+      "tags": [
+        "uranium",
+        "nuclear",
+        "AI capex",
+        "commodities",
+        "sentiment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:KV5DXNjt89M",
@@ -17792,517 +18011,6 @@
         "risk-taking",
         "resilience",
         "mindset"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4963328",
-      "title": "Wall Street Lunch: Fear Grips The Market",
-      "title_zh": "美股剧烈波动：AI监管不确定性引发科技股大跌，苹果发债、黄金避险",
-      "url": "https://seekingalpha.com/article/4963328-wall-street-lunch-fear-grips-the-market?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-05T18:05:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "市场因AI监管不确定性、财报反应及经济前景担忧而剧烈波动，主要指数与科技股大幅下挫，VIX飙升。高通因手机业务疲软及指引偏弱创2020年以来最差单日表现，而AppLovin和Unity因财报超预期分别大涨30%和22%。苹果发行约70亿美元债券，延续其稳定可预测的资本配置，黄金因避险情绪升温而上涨。",
-      "summary_en": "Markets experienced severe volatility amid uncertainty over AI regulation, earnings reactions, and the economic outlook, with major indices and tech stocks sharply lower and the VIX spiking. Qualcomm had its worst trading session since 2020 on weak guidance and handset weakness, while AppLovin and Unity surged 30% and 22% respectively on better-than-expected results. Apple issued about $7 billion in bonds, reinforcing its steady capital allocation, and gold rallied on safe-haven demand.",
-      "detail_zh": "美股周四遭遇剧烈抛售，标普500指数跌幅达3%以上，纳斯达克指数跌幅超过5%，Chris Ciaccia指出这种幅度的波动极为罕见，通常由技术性问题而非基本面驱动。开盘时出现大规模卖出程序，可能来自大型机构投资者，市场情绪自我强化。科技股普遍重挫：AMD跌12%，博通跌5%，英伟达跌5%，台积电跌超7%，Meta跌4%，亚马逊跌3%，微软亦下跌。高通因手机业务疲软且数据中心业务不足以抵消，指引弱于预期，创2020年以来最差交易日。财报反应分化：AppLovin在业绩超预期后大涨30%，Unity Software因上市以来首次实现GAAP盈利且Q3超预期、Q4指引强劲而盘前涨22%。VIX飙升逾25，日内涨幅约50%，反映市场对民主党是否将禁止AI或实施严厉监管的困惑。苹果发行约70亿美元的多部分债券，用于回购或一般企业用途，规模小于Alphabet、亚马逊和Meta的巨额发债，其稳定性和相对较轻的AI支出获投资者青睐。黄金自中期选举以来大幅上涨，因投资者担忧民主党控制国会后的政策不确定性，资金涌入避险资产。",
-      "detail_en": "U.S. stocks sold off sharply on Thursday, with the S&P 500 down 3% or more and the Nasdaq down over 5%, moves that Chris Ciaccia noted are exceedingly rare and generally technical rather than fundamental. Large sell programs hit at the open, likely from large institutional investors, and the selling seemed to feed on itself. Tech stocks fell broadly: AMD -12%, Broadcom -5%, Nvidia -5%, TSMC -7%+, Meta -4%, Amazon -3%, and Microsoft also lower. Qualcomm had its worst trading session since 2020 after weak guidance and brutal handset trends, with its ramping data center business insufficient to offset the weakness. Earnings reactions were mixed: AppLovin surged 30% after better-than-expected results, and Unity Software jumped 22% pre-market on its first GAAP profit since going public, Q3 beat, and strong Q4 guidance. The VIX spiked over 25, up about 50% on the day, reflecting confusion over whether Democrats will outright ban AI or impose severe regulations. Apple issued a seven-part bond offering of about $7 billion for buybacks or general corporate purposes, smaller than mega offerings from Alphabet, Amazon, and Meta, and its steadiness and lighter AI spending relative to peers are being rewarded by investors. Gold has surged since the midterms on safe-haven demand amid concerns over what Democrats will do now that they control Congress.",
-      "conclusion_zh": "市场短期波动由AI监管不确定性和情绪驱动，而非基本面恶化；苹果的稳定性和黄金的避险需求值得关注，但需警惕财报反应过度和监管风险。",
-      "conclusion_en": "Near-term volatility is driven by AI regulatory uncertainty and sentiment rather than deteriorating fundamentals; Apple's steadiness and gold's safe-haven appeal warrant attention, but investors should be wary of overblown earnings reactions and regulatory risks.",
-      "key_points": [
-        {
-          "zh": "标普500跌超3%，纳斯达克跌超5%，VIX飙升逾25（日内涨约50%），市场因AI监管不确定性而恐慌。",
-          "en": "S&P 500 fell over 3% and Nasdaq over 5%, with the VIX spiking above 25 (up about 50% on the day) as AI regulatory uncertainty gripped the market."
-        },
-        {
-          "zh": "高通因手机业务疲软和指引偏弱创2020年以来最差交易日；AMD跌12%，台积电跌超7%，英伟达和博通各跌5%。",
-          "en": "Qualcomm had its worst session since 2020 on weak handset trends and soft guidance; AMD fell 12%, TSMC over 7%, and Nvidia and Broadcom 5% each."
-        },
-        {
-          "zh": "财报反应分化：AppLovin涨30%，Unity Software因首次GAAP盈利及强劲Q4指引涨22%，显示市场波动极大。",
-          "en": "Earnings reactions diverged: AppLovin rose 30% and Unity Software jumped 22% on its first GAAP profit and strong Q4 guidance, highlighting extreme market volatility."
-        },
-        {
-          "zh": "苹果发行约70亿美元债券，规模小于其他科技巨头，其稳定性和较轻的AI支出获投资者奖励。",
-          "en": "Apple issued about $7 billion in bonds, smaller than mega offerings from peers, and its steadiness and lighter AI spending are being rewarded by investors."
-        },
-        {
-          "zh": "黄金自中期选举以来大涨，因民主党控制国会带来政策不确定性，投资者寻求避险。",
-          "en": "Gold has surged since the midterms as investors seek safe haven amid policy uncertainty with Democrats in control of Congress."
-        }
-      ],
-      "tags": [
-        "AI regulation",
-        "market volatility",
-        "earnings",
-        "Apple bonds",
-        "gold"
-      ],
-      "tickers": [
-        "QCOM",
-        "AAPL",
-        "AMD",
-        "AVGO",
-        "NVDA",
-        "TSM",
-        "META",
-        "AMZN",
-        "MSFT",
-        "APP",
-        "U",
-        "GOOG",
-        "GOOGL"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:asASd-s68kM",
-      "title": "Why do financial advisors look beyond U.S. bonds?",
-      "title_zh": "iShares灵活收益主动ETF：为何财务顾问将固收敞口拓展至美国以外",
-      "url": "https://www.youtube.com/watch?v=asASd-s68kM",
-      "published_at": "2026-11-05T18:00:08+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "财务顾问常将固定收益敞口构建于美国债券之外，因为全球债券市场覆盖不同经济体、利率环境、货币和信用市场，且这些市场并不总是同步同向变动。iShares灵活收益主动ETF（BINC）投资于全球固定收益板块，并随市场、风险和机会变化实时调整敞口。",
-      "summary_en": "Financial advisers often build fixed income exposures beyond US bonds because global bond markets span different economies, interest rate environments, currencies, and credit markets that do not always move in the same way at the same time. The iShares Flexible Income Active ETF (BINC) invests across global fixed income sectors and adjusts exposures in real time as markets, risks, and opportunities evolve.",
-      "detail_zh": "财务顾问将固定收益敞口构建于美国债券之外并不罕见，原因是机会并非只存在于一个国家。债券市场覆盖不同的经济体、利率环境、货币和信用市场，而这些市场并不总是同时以相同方式变动。对顾问而言，放眼全球可以拓宽机会集，提供更多评估收益、分散化和相对价值的地方。这种更广泛的方法已内置到iShares灵活收益主动ETF（BINC）中。BINC投资于全球固定收益板块，并随着市场、风险和机会的演变实时调整敞口。该ETF是一只灵活的多板块ETF，提供对全球固定收益领域的敞口。",
-      "detail_en": "It is not uncommon for financial advisers to build fixed income exposures beyond US bonds, because the opportunities are not all in one country. Bond markets span different economies, interest rate environments, currencies, and credit markets, and those markets do not always move in the same way at the same time. For advisers, looking globally can broaden the opportunity set, giving them more places to evaluate income, diversification, and relative value. That broader approach is built into the iShares Flexible Income Active ETF (BINC). BINC invests across global fixed income sectors and adjusts exposures in real time as markets, risks, and opportunities evolve. It is a flexible multi-sector ETF that provides exposure to the global fixed income universe.",
-      "conclusion_zh": "对于寻求收益、分散化和相对价值的固定收益投资者，全球多板块主动ETF（如BINC）提供了一种灵活拓展美国以外机会的工具。",
-      "conclusion_en": "For fixed income investors seeking income, diversification, and relative value, a global multi-sector active ETF such as BINC offers a flexible tool to expand opportunities beyond the US.",
-      "key_points": [
-        {
-          "zh": "财务顾问常将固定收益敞口拓展至美国债券之外，因为机会并非只存在于一个国家。",
-          "en": "Financial advisers often build fixed income exposures beyond US bonds because opportunities are not all in one country."
-        },
-        {
-          "zh": "全球债券市场覆盖不同经济体、利率环境、货币和信用市场，且这些市场并不总是同步同向变动。",
-          "en": "Global bond markets span different economies, interest rate environments, currencies, and credit markets that do not always move in the same way at the same time."
-        },
-        {
-          "zh": "放眼全球可以拓宽机会集，为顾问提供更多评估收益、分散化和相对价值的地方。",
-          "en": "Looking globally can broaden the opportunity set, giving advisers more places to evaluate income, diversification, and relative value."
-        },
-        {
-          "zh": "iShares灵活收益主动ETF（BINC）投资于全球固定收益板块，并随市场、风险和机会变化实时调整敞口。",
-          "en": "The iShares Flexible Income Active ETF (BINC) invests across global fixed income sectors and adjusts exposures in real time as markets, risks, and opportunities evolve."
-        },
-        {
-          "zh": "BINC是一只灵活的多板块ETF，提供对全球固定收益领域的敞口。",
-          "en": "BINC is a flexible multi-sector ETF that provides exposure to the global fixed income universe."
-        }
-      ],
-      "tags": [
-        "fixed income",
-        "global bonds",
-        "active ETF",
-        "diversification"
-      ],
-      "tickers": [
-        "BINC"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:1TrIq9buPfk",
-      "title": "AI Highway to Hell",
-      "title_zh": "市场领导权更替：科技股承压，等权重与防御板块走强",
-      "url": "https://www.youtube.com/watch?v=1TrIq9buPfk",
-      "published_at": "2026-11-05T17:58:29+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "主持人Ken Shenoda指出，标普500指数横盘但内部领导权发生重大变化：科技与动量因子大幅下跌，通信服务10月跌15%，而公用事业、必需消费、医疗保健和能源反弹。等权重指数跑赢市值加权指数，市场宽度改善但大型科技股拖累指数。主持人认为科技股超卖、情绪过度悲观，预计中期选举后反弹。",
-      "summary_en": "Host Ken Shenoda notes the S&P 500 is sideways but leadership has shifted dramatically: tech and momentum factors fell sharply, with communication services down 15% in October, while utilities, staples, healthcare and energy rebounded. Equal-weight outperformed cap-weighted, breadth improved but large tech names dragged the index. He believes tech is oversold and sentiment overly bearish, expecting a recovery after midterms.",
-      "detail_zh": "标普500指数在7541点附近反弹至7600点，仍高于200日移动均线，但整体横盘。10月通信服务下跌15%，动量因子下跌11%，而公用事业上涨9.4%、必需消费上涨9.8%、医疗保健上涨8.4%、能源上涨14%（年内上涨53%）。全球市场方面，新兴市场10月下跌，日经下跌3%，纳斯达克下跌5%；年内标普500上涨11%，富时上涨11%，日经上涨27%，罗素2000上涨14.4%。科技动量因子目前低于互联网泡沫破裂时的水平（截至10月23日）。主持人提到Ray Dalio和Howard Marks的悲观言论，但认为市场过度悲观、科技股超卖。市场宽度方面，仅16.8%的股票处于超卖，但等权重指数跑赢市值加权指数，Mag 7表现落后。半导体年内仍上涨40-50%，但较峰值大幅回落；软件板块从早前低点反弹。国际市场中欧洲和EM表现分化，EM因科技敞口较高（如中国和台湾）而落后。美元因避险和法国问题走强，债券市场因超卖、季末再平衡、科技支出担忧和法国局势而反弹。商品指数大涨，能源领跌但整体仍上涨，天然气和贵金属下跌，黄金可能被用于流动性。制造业和服务业PMI均为正，除中国持平于50外全球无衰退迹象。",
-      "detail_en": "The S&P 500 bounced from around 7541 to 7600, still above its 200-day moving average but sideways overall. In October, communication services fell 15% and momentum dropped 11%, while utilities rose 9.4%, staples 9.8%, healthcare 8.4%, and energy 14% (up 53% year-to-date). Globally, emerging markets fell in October, Nikkei dropped 3%, and Nasdaq fell 5%; year-to-date, the S&P 500 is up 11%, FTSE up 11%, Nikkei up 27%, and Russell 2000 up 14.4%. The tech momentum factor is now lower than during the dot-com bust (as of October 23). The host mentions bearish comments from Ray Dalio and Howard Marks but believes the market is overly pessimistic and tech is oversold. On breadth, only 16.8% of stocks are oversold, yet equal-weight outperformed cap-weighted, with Mag 7 lagging. Semiconductors are still up 40-50% year-to-date but well off highs; software rebounded from earlier lows. International markets diverge, with EM lagging due to higher tech exposure (e.g., China and Taiwan). The dollar strengthened on flight to quality and France concerns, while bonds rallied due to oversold conditions, quarter-end rebalancing, tech spending worries, and France issues. The commodity index surged; energy led the selloff but remains up, while natural gas and precious metals fell, with gold possibly used for liquidity. Manufacturing and services PMIs are positive, with no recession signs globally except China flat at 50.",
-      "conclusion_zh": "主持人认为科技股超卖且情绪过度悲观，预计中期选举后市场将反弹，但需关注领导权从科技向防御板块的轮动。",
-      "conclusion_en": "The host believes tech is oversold and sentiment overly bearish, expecting a market recovery after midterms, while noting the rotation from tech to defensive sectors.",
-      "key_points": [
-        {
-          "zh": "10月科技与动量因子大幅下跌，通信服务跌15%，而公用事业、必需消费、医疗保健和能源反弹。",
-          "en": "Tech and momentum factors fell sharply in October, with communication services down 15%, while utilities, staples, healthcare and energy rebounded."
-        },
-        {
-          "zh": "等权重指数跑赢市值加权指数，Mag 7表现落后，市场宽度改善但大型科技股拖累指数。",
-          "en": "Equal-weight outperformed cap-weighted, Mag 7 lagged, breadth improved but large tech names dragged the index."
-        },
-        {
-          "zh": "科技动量因子低于互联网泡沫破裂时的水平，主持人认为市场过度悲观、科技股超卖。",
-          "en": "Tech momentum factor is lower than during the dot-com bust; the host believes sentiment is overly bearish and tech is oversold."
-        },
-        {
-          "zh": "全球制造业和服务业PMI均为正，除中国持平于50外，无明显衰退迹象。",
-          "en": "Global manufacturing and services PMIs are positive, with no clear recession signs except China flat at 50."
-        },
-        {
-          "zh": "美元因避险和法国问题走强，债券因超卖、季末再平衡和法国局势反弹。",
-          "en": "The dollar strengthened on flight to quality and France concerns; bonds rallied due to oversold conditions, quarter-end rebalancing and France issues."
-        }
-      ],
-      "tags": [
-        "market rotation",
-        "tech selloff",
-        "breadth",
-        "momentum",
-        "PMI"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:mAlGyme3KG0",
-      "title": "Open Interest 11/5/2026",
-      "title_zh": "科技股抛售加剧：中期选举余波冲击芯片股，AI板块承压",
-      "url": "https://www.youtube.com/watch?v=mAlGyme3KG0",
-      "published_at": "2026-11-05T17:42:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博Open Interest节目指出，中期选举后的余波令科技股抛售加速，芯片制造商受挫、英伟达下跌。节目还讨论了AI基础设施风险、内存供应紧张与涨价、数据中心电力需求，以及AI资本配置与市场重置等议题。",
-      "summary_en": "Bloomberg Open Interest reports that the post-midterm fallout accelerated the tech selloff, hitting chipmakers and dragging Nvidia lower. The program also covers AI infrastructure risk, memory supply constraints and inflation, data-center power demand, and AI capital allocation and market reset.",
-      "detail_zh": "节目以中期选举余波为背景，描述科技股抛售加速，芯片制造商受到冲击，英伟达（Nvidia）下跌。讨论涉及AI基础设施风险及CoreWeave面临的压力，并提到高通（Qualcomm）、美光（Micron）的供应约束与内存涨价。个股方面，Wendy's拒绝了Trian的收购要约，节目还讨论了餐饮行业趋势。Duke Energy的Brian Savoy谈及数据中心需求与电网投资；Alpine Saxon的Sarah Hunt讨论AI轮动、科技疲软及投资者避险方向。节目还包含First Solar上调评级、Nike下调评级及高通展望等Top Calls，并讨论AI建设风险、英伟达需求与数据中心放缓。随后分析中期选举后AI股票遭抛售的原因，以及共和党内部纷争、伊朗事件余波与选举后果。节目还讨论AI抛售中的买入机会与全球分散配置；摩根士丹利的David Miller谈私人信贷、AI融资与资本成本；Resolution Copper的Vicky Peacey谈美国供应需求与长期基础设施需求。Forrester的George Colony讨论AI下一阶段、英伟达的未来及私有AI模型，并提到微软缩减对NeoCloud的敞口、AI资本配置与市场重置，最后以纳斯达克大跌、AI反思与科技新现实收尾。",
-      "detail_en": "Against the backdrop of the midterm fallout, the program describes an accelerating tech selloff that hit chipmakers and dragged Nvidia lower. Discussion covers AI infrastructure risk and pressure on CoreWeave, as well as supply constraints and memory inflation at Qualcomm and Micron. On single names, Wendy's rejected Trian's takeover bid, and restaurant industry trends were discussed. Duke Energy's Brian Savoy discussed data-center demand and grid investment; Alpine Saxon's Sarah Hunt discussed AI rotation, tech weakness and where investors should hide. The program also included Top Calls such as a First Solar upgrade, a Nike downgrade and the Qualcomm outlook, and discussed AI buildout risks, Nvidia demand and data-center slowdowns. It then examined why AI stocks sold off after the midterms, along with GOP infighting, Iran fallout and election consequences. It also discussed buying opportunities amid the AI selloff and global diversification; Morgan Stanley's David Miller on private credit, AI financing and the cost of capital; Resolution Copper's Vicky Peacey on U.S. supply needs and long-term infrastructure demand. Forrester's George Colony discussed AI's next phase, Nvidia's future and private AI models, and the program noted Microsoft pulling back from NeoCloud exposure, AI capital allocation and a market reset, closing with the Nasdaq meltdown, an AI reckoning and tech's new reality.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中期选举余波令科技股抛售加速，芯片制造商受挫，英伟达下跌。",
-          "en": "The post-midterm fallout accelerated the tech selloff, hitting chipmakers and dragging Nvidia lower."
-        },
-        {
-          "zh": "节目讨论AI基础设施风险及CoreWeave面临的压力。",
-          "en": "The program discussed AI infrastructure risk and pressure on CoreWeave."
-        },
-        {
-          "zh": "高通与美光面临供应约束，内存出现涨价。",
-          "en": "Qualcomm and Micron face supply constraints, with memory inflation."
-        },
-        {
-          "zh": "Wendy's拒绝Trian的收购要约。",
-          "en": "Wendy's rejected Trian's takeover bid."
-        },
-        {
-          "zh": "微软缩减对NeoCloud的敞口，节目讨论AI资本配置与市场重置。",
-          "en": "Microsoft pulled back from NeoCloud exposure; the program discussed AI capital allocation and a market reset."
-        }
-      ],
-      "tags": [
-        "tech selloff",
-        "AI infrastructure",
-        "semiconductors",
-        "midterm elections",
-        "data centers"
-      ],
-      "tickers": [
-        "NVDA",
-        "QCOM",
-        "MU",
-        "WEN",
-        "FSLR",
-        "NKE",
-        "MSFT"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:-ENa10gIeZo",
-      "title": "Treasuries Soar as Tech-Stock Selloff Lures Investors to Havens",
-      "title_zh": "民主党中期选举大胜引发科技股抛售，美债上涨",
-      "url": "https://www.youtube.com/watch?v=-ENa10gIeZo",
-      "published_at": "2026-11-05T17:24:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国中期选举中民主党大胜，导致大型科技股遭抛售，避险需求推动美债上涨。",
-      "summary_en": "A Democratic sweep in the US midterms led to a selloff in large US technology shares, stoking demand for havens and pushing Treasuries higher.",
-      "detail_zh": "美国中期选举出现民主党大胜的结果，引发大型美国科技公司股票遭到抛售。这一股市动向促使投资者寻求避险，从而提振了美国国债的需求，推动国债价格上涨。彭博的Ira Jersey将参与讨论这一市场动态。",
-      "detail_en": "A Democratic sweep in the US midterms resulted in a selloff in shares of large US technology companies. This equity move stoked demand for havens, boosting demand for Treasuries and pushing their prices higher. Bloomberg's Ira Jersey joins to discuss.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党在中期选举中大胜，导致大型科技股被抛售。",
-          "en": "A Democratic sweep in the US midterms led to a selloff in large technology shares."
-        },
-        {
-          "zh": "科技股抛售引发避险需求，推动美债上涨。",
-          "en": "The tech selloff stoked demand for havens, pushing Treasuries higher."
-        },
-        {
-          "zh": "彭博的Ira Jersey将讨论这一市场动态。",
-          "en": "Bloomberg's Ira Jersey joins to discuss the market moves."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "treasuries",
-        "tech-selloff",
-        "haven-demand"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:-604wcjbg6Y",
-      "title": "Global Stock Selloff: AI Investment Will Continue, George Colony Says",
-      "title_zh": "Forrester创始人：AI热潮或进入新阶段，定制芯片挑战英伟达，价值转向软件",
-      "url": "https://www.youtube.com/watch?v=-604wcjbg6Y",
-      "published_at": "2026-11-05T17:23:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Forrester Research创始人George Colony表示，AI热潮可能正进入新阶段，定制芯片或挑战英伟达的主导地位，同时价值将向软件转移。但这一转型不会平稳，企业必须适应AI计算，否则有被甩在后面的风险。",
-      "summary_en": "George Colony, founder of Forrester Research, says the AI boom may be entering a new phase where custom chips could challenge Nvidia's dominance and value shifts toward software. He warns the transition won't be smooth and companies must adapt to AI computing or risk being left behind.",
-      "detail_zh": "Forrester Research创始人、董事长兼CEO George Colony在彭博电视上表示，AI热潮可能正在进入一个新阶段。他指出，定制芯片可能对英伟达的主导地位构成挑战。与此同时，价值正在向软件转移。Colony强调，这一转型过程不会平稳，企业必须适应AI计算，否则将面临被甩在后面的风险。",
-      "detail_en": "George Colony, founder, chairman and CEO of Forrester Research, said on Bloomberg Television that the AI boom may be entering a new phase. He noted that custom chips could challenge Nvidia's dominance, while value is shifting toward software. Colony stressed that the transition won't be smooth and companies must adapt to AI computing or risk being left behind.",
-      "conclusion_zh": "Colony提示AI投资逻辑可能从英伟达等通用芯片向定制芯片与软件转移，企业适应AI计算的能力将成为关键分水岭。",
-      "conclusion_en": "Colony signals a potential shift in AI investment logic from general-purpose chips like Nvidia toward custom chips and software, with companies' ability to adapt to AI computing becoming a key differentiator.",
-      "key_points": [
-        {
-          "zh": "AI热潮可能正进入新阶段",
-          "en": "The AI boom may be entering a new phase"
-        },
-        {
-          "zh": "定制芯片或挑战英伟达的主导地位",
-          "en": "Custom chips could challenge Nvidia's dominance"
-        },
-        {
-          "zh": "价值正在向软件转移",
-          "en": "Value is shifting toward software"
-        },
-        {
-          "zh": "转型不会平稳，企业必须适应AI计算，否则有被甩在后面的风险",
-          "en": "The transition won't be smooth; companies must adapt to AI computing or risk being left behind"
-        }
-      ],
-      "tags": [
-        "AI",
-        "custom chips",
-        "Nvidia",
-        "software",
-        "semiconductors"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:1Jb6viEx7t0",
-      "title": "Midterm Results Have Israel Fearing its US Alliance Is Broken",
-      "title_zh": "民主党中期选举大胜或动摇以色列在美国的两党支持",
-      "url": "https://www.youtube.com/watch?v=1Jb6viEx7t0",
-      "published_at": "2026-11-05T17:22:19+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博电视节目探讨以色列在美国的两党支持是否正在松动，Dan Williams 分析民主党在中期选举中的压倒性胜利对美以同盟意味着什么。原文未提供具体选举结果、政策细节或市场影响判断。",
-      "summary_en": "Bloomberg Television examines whether Israel's rock-solid bipartisan American support is crumbling, with Dan Williams explaining what sweeping Democratic midterm wins mean for the alliance. The source provides no specific election results, policy details, or market-impact judgments.",
-      "detail_zh": "原文仅为一段节目导语：提问以色列在美国“稳固的两党支持”是否正在瓦解，并称 Dan Williams 将解释民主党在中期选举中的“压倒性胜利”对美以同盟意味着什么。原文没有给出任何具体选举数字、席位变化、政策主张、人物引述或因果分析，也没有涉及美股、板块或宏观市场的直接判断。其余内容均为彭博电视与彭博商业的社交媒体链接和订阅推广信息，不构成实质研究内容。因此本摘要仅能确认议题方向，无法提炼具体投资结论。",
-      "detail_en": "The source is only a program lead-in: it asks whether Israel's \"rock-solid bipartisan American support\" is crumbling and says Dan Williams will explain what sweeping Democratic midterm wins mean for the alliance. It provides no specific election figures, seat changes, policy positions, quotations, or causal analysis, and makes no direct judgment on US equities, sectors, or macro markets. The remainder consists of Bloomberg Television and Bloomberg Business social-media links and subscription promotions, not substantive research. The summary can therefore confirm only the topic direction, not specific investment conclusions.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "议题：以色列在美国的两党支持是否正在松动",
-          "en": "Topic: whether Israel's bipartisan US support is eroding"
-        },
-        {
-          "zh": "Dan Williams 被邀解读民主党中期选举压倒性胜利对美以同盟的影响",
-          "en": "Dan Williams was invited to interpret what sweeping Democratic midterm wins mean for the US-Israel alliance"
-        },
-        {
-          "zh": "原文未提供具体选举数据、政策细节或市场影响判断",
-          "en": "The source provides no specific election data, policy details, or market-impact judgment"
-        }
-      ],
-      "tags": [
-        "US-Israel relations",
-        "Democratic midterms",
-        "bipartisan support",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:clr7-4ADANs",
-      "title": "AI Selloff Is a 'Modest Wave' in a Multiyear Cycle, Bernstein's Chaloff Says",
-      "title_zh": "Bernstein私人财富CIO：AI股抛售带来买入机会",
-      "url": "https://www.youtube.com/watch?v=clr7-4ADANs",
-      "published_at": "2026-11-05T17:22:03+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Bernstein Private Wealth Management首席投资官Alex Chaloff表示，AI股票的抛售正在市场中创造买入机会。",
-      "summary_en": "Bernstein Private Wealth Management CIO Alex Chaloff says the selloff in AI stocks is creating buying opportunities in the market.",
-      "detail_zh": "Bernstein Private Wealth Management首席投资官Alex Chaloff在Bloomberg Open Interest节目中表示，AI股票的抛售正在创造买入机会。他未在原文中提供具体标的、估值或时间框架等细节。",
-      "detail_en": "Bernstein Private Wealth Management CIO Alex Chaloff, speaking on Bloomberg Open Interest, said the selloff in AI stocks is creating buying opportunities in the market. The original text does not provide specific names, valuations, or time frames.",
-      "conclusion_zh": "一位买方CIO将AI板块回调视为布局机会，但原文未给出具体标的或操作细节。",
-      "conclusion_en": "A buy-side CIO views the AI pullback as an opportunity, though the original text offers no specific names or execution details.",
-      "key_points": [
-        {
-          "zh": "Bernstein私人财富管理CIO Alex Chaloff认为AI股抛售带来买入机会。",
-          "en": "Bernstein Private Wealth Management CIO Alex Chaloff sees the AI stock selloff as creating buying opportunities."
-        }
-      ],
-      "tags": [
-        "AI stocks",
-        "selloff",
-        "buying opportunity",
-        "Bernstein"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:tyRgr0MVwa0",
-      "title": "Siri AI's Biggest Upgrade Yet + John Ternus's First Apple Earnings Call | Power On with Mark Gurman",
-      "title_zh": "苹果iOS 27.3将迎Siri重大AI升级，Ternus首次财报电话会受关注",
-      "url": "https://www.youtube.com/watch?v=tyRgr0MVwa0",
-      "published_at": "2026-11-05T17:16:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博Power On播客讨论了苹果iOS 27.3中Siri的新AI能力，包括控制应用、执行复杂任务及跨应用协调操作，但与OpenAI和Meta的AI代理相比仍有差距。节目还分析了John Ternus作为苹果CEO的首次财报电话会，iPhone销售强劲但增长和利润率引发担忧，未来可能进一步涨价。",
-      "summary_en": "Bloomberg's Power On podcast discusses Apple's upcoming iOS 27.3, which brings major Siri AI upgrades including app control, complex task execution, and cross-app coordination, though Apple still lags OpenAI and Meta's AI agents. The episode also analyzes John Ternus's first earnings call as Apple CEO, highlighting strong iPhone sales but concerns over slowing growth and profit margins, with more price increases potentially coming.",
-      "detail_zh": "彭博Power On播客中，Mark Gurman和Vlad Savov详细讨论了苹果即将随iOS 27.3推出的重大变化，Siri将获得控制应用、执行复杂任务以及跨多个应用协调操作的新能力。他们将这些改进与OpenAI和Meta的AI代理进行了比较，并指出苹果仍有很长的路要走。节目还分析了John Ternus作为苹果CEO的首次财报电话会，提及iPhone销售强劲，但对增长放缓和利润率存在担忧，且未来可能有更多涨价。此外，他们探讨了苹果AI在中国的推出情况，以及新款始终聆听的Apple Watch功能带来的隐私影响。",
-      "detail_en": "In Bloomberg's Power On podcast, Mark Gurman and Vlad Savov break down major changes coming with iOS 27.3, including Siri's new ability to control apps, carry out complex tasks, and coordinate actions across multiple applications. They compare these improvements with AI agents from OpenAI and Meta and note that Apple still has a long way to go. The episode also analyzes John Ternus's first earnings call as Apple's CEO, mentioning strong iPhone sales but concerns about slowing growth and profit margins, with more price increases potentially coming. They also examine Apple's AI rollout in China and the privacy implications of new always-listening Apple Watch features.",
-      "conclusion_zh": "苹果在AI功能上追赶但仍落后于竞争对手，短期iPhone销售强劲但增长与利润率压力及潜在涨价值得关注。",
-      "conclusion_en": "Apple is catching up in AI features but still lags competitors; near-term iPhone sales are strong, but growth and margin pressures and potential price increases warrant attention.",
-      "key_points": [
-        {
-          "zh": "iOS 27.3将带来Siri重大AI升级，包括控制应用、执行复杂任务和跨应用协调。",
-          "en": "iOS 27.3 will bring major Siri AI upgrades, including app control, complex task execution, and cross-app coordination."
-        },
-        {
-          "zh": "与OpenAI和Meta的AI代理相比，苹果仍有较大差距。",
-          "en": "Apple still has a long way to go compared to AI agents from OpenAI and Meta."
-        },
-        {
-          "zh": "John Ternus首次以CEO身份主持财报会，iPhone销售强劲但增长和利润率引发担忧。",
-          "en": "John Ternus hosted his first earnings call as CEO, with strong iPhone sales but concerns over growth and profit margins."
-        },
-        {
-          "zh": "未来可能有更多产品涨价。",
-          "en": "More price increases could be coming."
-        },
-        {
-          "zh": "苹果AI在中国推出，新款始终聆听的Apple Watch引发隐私担忧。",
-          "en": "Apple's AI rollout in China and privacy concerns around new always-listening Apple Watch features."
-        }
-      ],
-      "tags": [
-        "Apple",
-        "Siri",
-        "AI",
-        "Earnings",
-        "iOS"
-      ],
-      "tickers": [
-        "AAPL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:XZQUVedqt8Q",
-      "title": "BOE's Bailey Says Second Hike More Likely If Oil Stays High",
-      "title_zh": "英国央行行长贝利：若能源成本高企重现，加息可能性更大",
-      "url": "https://www.youtube.com/watch?v=XZQUVedqt8Q",
-      "published_at": "2026-11-05T17:13:37+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英国央行行长贝利表示，若近几周出现的高能源成本持续，再次加息“可能比不更有可能”。此前英国央行货币政策委员会周四一致投票决定加息。",
-      "summary_en": "Bank of England Governor Andrew Bailey said another rate hike is \"probably more likely than not\" if the high energy costs seen in recent weeks return. This followed the BOE Monetary Policy Committee's unanimous vote to raise rates on Thursday.",
-      "detail_zh": "英国央行行长安德鲁·贝利在接受彭博社采访时表示，如果近几周出现的高能源成本再次出现，进一步加息“可能比不更有可能”。贝利是在英国央行货币政策委员会周四一致投票决定加息后发表上述评论的。该委员会一致投票的结果显示，政策制定者们在加息问题上形成了共识。贝利的言论暗示，未来的利率路径将高度依赖于能源成本的走势。",
-      "detail_en": "Bank of England Governor Andrew Bailey said in an interview with Bloomberg that another interest-rate hike is \"probably more likely than not\" if the high energy costs seen in recent weeks return. Bailey made the comments after the BOE's Monetary Policy Committee unanimously voted to lift rates on Thursday. The unanimous vote indicates a consensus among policymakers on raising rates. Bailey's remarks suggest that the future rate path will be highly dependent on the trajectory of energy costs.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "贝利：若高能源成本重现，再次加息“可能比不更有可能”。",
-          "en": "Bailey: another rate hike is \"probably more likely than not\" if high energy costs return."
-        },
-        {
-          "zh": "英国央行货币政策委员会周四一致投票决定加息。",
-          "en": "The BOE Monetary Policy Committee unanimously voted to raise rates on Thursday."
-        },
-        {
-          "zh": "贝利是在接受彭博社采访时发表上述言论的。",
-          "en": "Bailey made the comments in an interview with Bloomberg."
-        }
-      ],
-      "tags": [
-        "Bank of England",
-        "interest rates",
-        "energy costs",
-        "monetary policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5v-9FJJIUhg",
-      "title": "BOE Sees Case for Another Rate Hike If Iran War Doesn't End",
-      "title_zh": "英国央行行长贝利：不认同“两次加息即止”，若中东冲突未解或再加25基点",
-      "url": "https://www.youtube.com/watch?v=5v-9FJJIUhg",
-      "published_at": "2026-11-05T17:12:58+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英国央行行长贝利表示，不认同市场关于“两次加息即止”的观点；若中东冲突未解决，他个人认为有理由进一步加息25个基点。",
-      "summary_en": "Bank of England Governor Andrew Bailey said he is not signing up to the 'two-and-done' view, and that absent a resolution of the Middle East conflict, he could see the case for a further 25 basis point rate hike.",
-      "detail_zh": "英国央行行长贝利在伦敦新闻发布会上被问及周四加息后是否会有第二次加息时表示，他不会认同“两次加息即止”的观点。贝利称，若中东冲突未能解决，他个人认为有理由进一步加息25个基点，并提到这一判断已写入会议纪要的评论中。",
-      "detail_en": "At a news conference in London, Bank of England Governor Andrew Bailey was asked whether a second interest-rate increase was on the cards following Thursday's decision to hike. Bailey said he is not going to sign up to the 'two-and-done' point. He added that absent a resolution of the conflict in the Middle East, he could see the case for a further 25 basis points, noting he had put this in his commentary in the minutes.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "贝利明确表示不认同“两次加息即止”的市场观点。",
-          "en": "Bailey explicitly said he is not signing up to the 'two-and-done' view."
-        },
-        {
-          "zh": "贝利认为，若中东冲突未解决，有理由进一步加息25个基点。",
-          "en": "Bailey could see the case for a further 25 basis point hike absent a resolution of the Middle East conflict."
-        },
-        {
-          "zh": "贝利称这一判断已写入会议纪要的评论中。",
-          "en": "Bailey said he put this in his commentary in the minutes."
-        }
-      ],
-      "tags": [
-        "Bank of England",
-        "rate hike",
-        "Andrew Bailey",
-        "Middle East conflict",
-        "monetary policy"
       ],
       "tickers": [],
       "sentiment": "neutral"
