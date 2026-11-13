@@ -1,6 +1,131 @@
 {
-  "generated_at": "2026-11-13T18:14:34.527695+00:00",
+  "generated_at": "2026-11-13T19:11:26.197293+00:00",
   "insights": [
+    {
+      "guid": "yt:K4XpVAB3zAw",
+      "title": "Sen. Coons: Lutnick “let America down” over Nvidia controversy",
+      "title_zh": "参议员库恩斯批评商务部长卢特尼克在英伟达相关争议中的处理方式",
+      "url": "https://www.youtube.com/watch?v=K4XpVAB3zAw",
+      "published_at": "2026-11-13T18:39:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特拉华州民主党参议员克里斯·库恩斯表示，商务部长霍华德·卢特尼克在处理涉及英伟达的一起争议时“让美国失望了”。原文未提供争议的具体细节及卢特尼克的具体回应。",
+      "summary_en": "Senator Chris Coons, a Democrat from Delaware, said Commerce Secretary Howard Lutnick \"let America down\" in his handling of a controversy involving Nvidia. The source does not provide details of the controversy or Lutnick's response.",
+      "detail_zh": "特拉华州民主党参议员克里斯·库恩斯公开批评商务部长霍华德·卢特尼克，称其在处理一起涉及英伟达的争议时“让美国失望了”。该表态通过彭博社的报道链接发布，但原文未披露争议的具体内容、时间线或卢特尼克方面的回应。由于缺乏细节，目前无法判断该争议对英伟达业务或美国科技政策的具体影响。",
+      "detail_en": "Senator Chris Coons, a Democrat from Delaware, publicly criticized Commerce Secretary Howard Lutnick, saying he \"let America down\" over his handling of a controversy involving Nvidia. The statement was reported via a Bloomberg link, but the source does not disclose the specifics of the controversy, its timeline, or any response from Lutnick. Given the lack of detail, the specific impact on Nvidia's business or U.S. tech policy cannot be assessed.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "参议员库恩斯批评商务部长卢特尼克在英伟达相关争议中的处理方式。",
+          "en": "Senator Coons criticized Commerce Secretary Lutnick's handling of a controversy involving Nvidia."
+        },
+        {
+          "zh": "库恩斯称卢特尼克“让美国失望了”。",
+          "en": "Coons said Lutnick \"let America down.\""
+        },
+        {
+          "zh": "原文未提供争议的具体细节或卢特尼克的回应。",
+          "en": "The source does not provide details of the controversy or Lutnick's response."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Commerce Department",
+        "Chris Coons",
+        "Howard Lutnick",
+        "US politics"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:b86tVSFkk8M",
+      "title": "Ed Morse Says Oil Can Drop to $50 a Barrel",
+      "title_zh": "Hartree Partners策略师：当前油市动荡堪比1970年代OPEC危机，油价或再探50美元",
+      "url": "https://www.youtube.com/watch?v=b86tVSFkk8M",
+      "published_at": "2026-11-13T18:30:03+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Hartree Partners高级顾问兼大宗商品策略师Ed Morse将当前油市动荡与1970年代OPEC危机相提并论。他表示油价可能再次触及50美元/桶，但这取决于OPEC以及伊朗战争的结局。",
+      "summary_en": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, compares the current oil-market disruption to the OPEC crises of the 1970s. He says oil could hit $50 a barrel again, but that depends on OPEC and how the war in Iran ends.",
+      "detail_zh": "Hartree Partners高级顾问兼大宗商品策略师Ed Morse在“Bloomberg Money”节目中表示，当前油市所经历的动荡可与1970年代的OPEC危机相比。他提出油价可能再次跌至50美元/桶，但这一判断存在前提条件：取决于OPEC的行动以及伊朗战争的最终走向。原文未提供更多关于供需、库存或具体时间框架的细节。",
+      "detail_en": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, said on \"Bloomberg Money\" that the current oil-market disruption is comparable to the OPEC crises of the 1970s. He said oil could hit $50 a barrel again, but that this depends on OPEC and on how the war in Iran ends. The source provides no further detail on supply, demand, inventories or timing.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Ed Morse将当前油市动荡与1970年代OPEC危机类比",
+          "en": "Ed Morse compares the current oil-market disruption to the OPEC crises of the 1970s"
+        },
+        {
+          "zh": "Morse认为油价可能再次触及50美元/桶",
+          "en": "Morse says oil could hit $50 a barrel again"
+        },
+        {
+          "zh": "油价路径取决于OPEC的行动以及伊朗战争的结局",
+          "en": "The oil price path depends on OPEC and how the war in Iran ends"
+        }
+      ],
+      "tags": [
+        "oil",
+        "OPEC",
+        "Iran war",
+        "commodities"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lWShAkZpFgc",
+      "title": "Microsoft Struggles to Restore Access to Software",
+      "title_zh": "微软旗舰软件服务中断，正全力恢复访问",
+      "url": "https://www.youtube.com/watch?v=lWShAkZpFgc",
+      "published_at": "2026-11-13T18:14:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "微软旗舰软件发生中断，用户无法访问邮件和聊天服务，公司正努力恢复。这是该科技巨头近期最严重的服务中断之一。",
+      "summary_en": "Microsoft is racing to restore access to its flagship software after an outage left users unable to access email and chat services, marking one of the tech giant's most severe disruptions in recent memory.",
+      "detail_zh": "微软正努力恢复其旗舰软件的访问权限，此前发生的中断已持续半天，导致用户无法使用邮件和聊天服务。彭博社的Peter Elstrom报道称，这是微软近期记忆中最严重的服务中断之一。目前微软正在全力修复，但原文未提供具体恢复时间或中断原因。",
+      "detail_en": "Microsoft is racing to restore access to its flagship software half a day after an outage began, leaving users unable to access email and chat services. Bloomberg's Peter Elstrom reports that this is one of the tech giant's most severe disruptions in recent memory. The company is working to restore access, but no specific recovery time or cause was provided in the original text.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "微软旗舰软件发生中断，用户无法访问邮件和聊天服务。",
+          "en": "Microsoft's flagship software experienced an outage, leaving users unable to access email and chat services."
+        },
+        {
+          "zh": "中断已持续半天，公司正努力恢复访问。",
+          "en": "The outage has lasted half a day, and the company is racing to restore access."
+        },
+        {
+          "zh": "这是微软近期最严重的服务中断之一。",
+          "en": "This is one of Microsoft's most severe disruptions in recent memory."
+        }
+      ],
+      "tags": [
+        "Microsoft",
+        "outage",
+        "software",
+        "service disruption"
+      ],
+      "tickers": [
+        "MSFT"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:FwzBGg8tHYA",
       "title": "Open Interest 11/13/2026",
@@ -17162,148 +17287,6 @@
         "tax evaluator",
         "advisors",
         "tax-loss harvesting"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:seDdlJnpKFo",
-      "title": "The 2026 Goldman Sachs Analyst Impact Fund Finals",
-      "title_zh": "高盛分析师影响力基金：用AI加速非营利使命",
-      "url": "https://www.youtube.com/watch?v=seDdlJnpKFo",
-      "published_at": "2026-11-06T18:54:11+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "高盛第11届分析师影响力基金（AIF）比赛聚焦于利用AI加速非营利组织使命，分析师向高盛领导人推介非营利组织以争夺奖金。今年决赛非营利组织均借助AI推进使命，体现了高盛对技术和影响力的结合。",
-      "summary_en": "The 11th annual Goldman Sachs Analyst Impact Fund (AIF) competition focused on nonprofits harnessing AI to accelerate their missions. Analysts pitched nonprofits to firm leaders for a share of the prize pool, highlighting the firm's emphasis on technology and impact.",
-      "detail_zh": "高盛分析师影响力基金（AIF）已举办11年，旨在让分析师通过竞赛向公司高层推介非营利组织，争夺资金支持。今年有1000名分析师参与，最终18名分析师进入决赛，竞争总额50万美元的奖金，其中大奖为25万美元。高盛Gives总裁Asahi Pompei表示，今年决赛的非营利组织都在利用AI加速完成使命，而分析师是“最具技术素养的一代”。比赛还设有“粉丝最爱”投票，让观众影响结果。自成立以来，AIF已向192家非营利组织捐赠超过600万美元，共有7800名分析师参与。",
-      "detail_en": "The Goldman Sachs Analyst Impact Fund (AIF), now in its 11th year, allows analysts to pitch nonprofits to firm leaders for funding. This year, 1,000 analysts participated, with 18 finalists competing for a total of $500,000, including a $250,000 grand prize. Asahi Pompei, global head of corporate engagement and president of Goldman Sachs Gives, noted that this year's finalist organizations are all harnessing AI to accelerate their missions, and that the analysts represent the most technologically fluent generation. The competition also includes a fan favorite vote, allowing the audience to influence the outcome. To date, AIF has directed more than $6 million to 192 nonprofits, with 7,800 analysts participating.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "高盛分析师影响力基金已举办11年，今年有1000名分析师参与，18名进入决赛。",
-          "en": "The Goldman Sachs Analyst Impact Fund is in its 11th year, with 1,000 analysts participating this year and 18 finalists."
-        },
-        {
-          "zh": "决赛非营利组织均利用AI加速使命，分析师被称为最具技术素养的一代。",
-          "en": "This year's finalist nonprofits are all harnessing AI to accelerate their missions, and the analysts are described as the most technologically fluent generation."
-        },
-        {
-          "zh": "比赛总奖金50万美元，大奖25万美元，另设粉丝最爱投票。",
-          "en": "The competition awards a total of $500,000, including a $250,000 grand prize, and includes a fan favorite vote."
-        },
-        {
-          "zh": "自成立以来，AIF已向192家非营利组织捐赠超过600万美元，7800名分析师参与。",
-          "en": "Since its inception, AIF has directed over $6 million to 192 nonprofits, with 7,800 analysts participating."
-        }
-      ],
-      "tags": [
-        "Goldman Sachs",
-        "philanthropy",
-        "AI",
-        "nonprofits",
-        "analyst program"
-      ],
-      "tickers": [
-        "GS"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:zBKVtdZ0jZc",
-      "title": "How the US Midterms May Reshape the Stock Market",
-      "title_zh": "高盛：中期选举或强化美股板块轮动，医疗保健兼具防御与盈利加速",
-      "url": "https://www.youtube.com/watch?v=zBKVtdZ0jZc",
-      "published_at": "2026-11-06T18:53:56+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "高盛FICC及股票部门定制篮子交易全球主管Lou Miller指出，美国中期选举可能强化已在进行中的股市轮动。传统防御性板块如必需消费品目前估值偏高，而医疗保健股或能提供防御性并伴随盈利加速。与数据中心建设相关的股票已大幅下跌，估值重置且正面意外的门槛降低。",
-      "summary_en": "Lou Miller, global head of Custom Basket Trading in Goldman Sachs FICC and Equities, says the US midterm elections could strengthen the stock market rotation already underway. Traditional defensive sectors such as consumer staples are expensive, but healthcare stocks may offer defense along with earnings acceleration. Stocks tied to the data-center buildout have fallen sharply, resetting valuations and lowering the bar for positive surprises.",
-      "detail_zh": "高盛FICC及股票部门定制篮子交易全球主管Lou Miller在The Markets播客中表示，美国中期选举可能强化股市中已经开始的轮动。他指出，传统防御性板块如必需消费品当前估值昂贵，而医疗保健股可能提供防御性，同时伴随盈利加速。Miller还提到，与数据中心建设相关的股票已大幅下跌，估值得到重置，并且正面意外的门槛已降低。该期节目录制于2026年11月5日。",
-      "detail_en": "Lou Miller, global head of Custom Basket Trading in Goldman Sachs FICC and Equities, said on The Markets podcast that the US midterm elections could strengthen the stock market rotation that was already underway. He noted that traditional defensive sectors such as consumer staples are expensive right now, but healthcare stocks may provide defense along with earnings acceleration. Miller also said that stocks related to the data-center buildout have fallen sharply, resetting valuations and lowering the bar for positive surprises. The episode was recorded on November 5, 2026.",
-      "conclusion_zh": "中期选举或强化板块轮动，医疗保健可作防御并具盈利加速潜力，数据中心相关股票估值重置后正面意外门槛降低。",
-      "conclusion_en": "Midterm elections may reinforce sector rotation; healthcare offers defense with earnings acceleration potential, and data-center-related stocks have reset valuations, lowering the bar for positive surprises.",
-      "key_points": [
-        {
-          "zh": "美国中期选举可能强化已在进行中的股市轮动。",
-          "en": "The US midterm elections could strengthen the stock market rotation already underway."
-        },
-        {
-          "zh": "传统防御性板块如必需消费品目前估值昂贵。",
-          "en": "Traditional defensive sectors such as consumer staples are expensive right now."
-        },
-        {
-          "zh": "医疗保健股可能提供防御性并伴随盈利加速。",
-          "en": "Healthcare stocks may provide defense along with earnings acceleration."
-        },
-        {
-          "zh": "与数据中心建设相关的股票已大幅下跌，估值重置且正面意外的门槛降低。",
-          "en": "Stocks related to the data-center buildout have fallen sharply, resetting valuations and lowering the bar for positive surprises."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "sector rotation",
-        "healthcare",
-        "data centers",
-        "defensive sectors"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:frFLFkWvixQ",
-      "title": "Bloomberg Surveillance 11/6/2026",
-      "title_zh": "科技股抛售与AI反思，非农超预期强化加息预期",
-      "url": "https://www.youtube.com/watch?v=frFLFkWvixQ",
-      "published_at": "2026-11-06T18:32:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "T. Rowe Price的Sebastien Page认为此次抛售无重大触发因素；多位嘉宾讨论数据中心建设阻力与AI前景；美国10月非农新增16.5万超预期，Wolfe Research认为12月加息仍在考虑中；美银预计美联储应继续加息，摩根大通资管认为美债重新发挥对冲作用。",
-      "summary_en": "Sebastien Page of T. Rowe Price sees no big trigger for the selloff; panelists discuss data center backlash and AI outlook; October nonfarm payrolls rose 165,000, topping estimates, keeping a December Fed hike in play per Wolfe Research; BofA expects the Fed to keep hiking, while JPMorgan AM says Treasuries are working as a hedge again.",
-      "detail_zh": "节目围绕科技股抛售、AI交易反思和就业数据展开。T. Rowe Price的Sebastien Page表示此次抛售没有重大触发因素。Eurasia Group的Clayton Allen认为数据中心遭遇的反对不会阻止美国建设，Wedbush的Matt Bryson也认为数据中心终将建成。美银全球研究的Aditya Bhave主张美联储应无视市场抛售继续加息。摩根大通资管的Priya Misra指出美债重新发挥对冲作用。Bully Pulpit International的Adam Hodge称数据中心反对是两党共同运动。高盛的Samantha Dart将布伦特原油预测上调至105美元。前堪萨斯城联储主席Esther George认为美联储政策尚未具有限制性。瑞银财富管理的Nadia Lovell警告可能还有更多抛售压力。Seaport的Jay Goldberg认为英伟达的抛售过度。10月非农新增16.5万，超过所有预期。Wolfe Research的Stephanie Roth称强劲就业报告使12月加息仍在考虑中。贝莱德的Jeffrey Rosenberg表示市场更关注AI而非就业。",
-      "detail_en": "The program focused on the tech selloff, AI trade reckoning, and jobs data. Sebastien Page of T. Rowe Price said there was no big trigger for the selloff. Clayton Allen of Eurasia Group said data center backlash won't halt the US buildout, and Matt Bryson of Wedbush Securities agreed data centers will get built. Aditya Bhave of BofA Global Research argued the Fed should keep hiking despite the market selloff. Priya Misra of JPMorgan Asset Management said Treasuries are working as a hedge again. Adam Hodge of Bully Pulpit International called the data center backlash a bipartisan movement. Samantha Dart of Goldman Sachs raised the Brent forecast to $105. Former Kansas City Fed President Esther George said Fed policy isn't restrictive yet. Nadia Lovell of UBS Wealth Management warned more selling pressure could be ahead. Jay Goldberg of Seaport said the Nvidia selloff is overdone. US added 165,000 jobs in October, topping all estimates. Stephanie Roth of Wolfe Research said the strong jobs report keeps a December Fed hike in play. Jeffrey Rosenberg of BlackRock said markets are focused more on AI than jobs.",
-      "conclusion_zh": "强劲就业数据强化了美联储继续加息的可能性，而市场更关注AI交易；美债的对冲功能重新显现，数据中心建设阻力被视为政治噪音而非实质障碍。",
-      "conclusion_en": "Strong jobs data reinforces the possibility of further Fed hikes, while markets focus more on the AI trade; Treasuries are regaining their hedge role, and data center backlash is seen as political noise rather than a substantive obstacle.",
-      "key_points": [
-        {
-          "zh": "T. Rowe Price的Sebastien Page：此次抛售没有重大触发因素。",
-          "en": "Sebastien Page of T. Rowe Price: There was no big trigger for the selloff."
-        },
-        {
-          "zh": "美银的Aditya Bhave：美联储应无视市场抛售继续加息。",
-          "en": "Aditya Bhave of BofA: The Fed should keep hiking despite the market selloff."
-        },
-        {
-          "zh": "摩根大通资管的Priya Misra：美债重新发挥对冲作用。",
-          "en": "Priya Misra of JPMorgan AM: Treasuries are working as a hedge again."
-        },
-        {
-          "zh": "10月非农新增16.5万，超过所有预期；Wolfe Research的Stephanie Roth称12月加息仍在考虑中。",
-          "en": "October nonfarm payrolls rose 165,000, topping all estimates; Stephanie Roth of Wolfe Research says a December Fed hike remains in play."
-        },
-        {
-          "zh": "高盛的Samantha Dart将布伦特原油预测上调至105美元。",
-          "en": "Samantha Dart of Goldman Sachs raised the Brent forecast to $105."
-        }
-      ],
-      "tags": [
-        "tech selloff",
-        "AI",
-        "jobs report",
-        "Fed hike",
-        "Treasuries"
       ],
       "tickers": [],
       "sentiment": "neutral"
