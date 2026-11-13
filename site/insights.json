@@ -1,6 +1,356 @@
 {
-  "generated_at": "2026-11-13T22:11:37.024976+00:00",
+  "generated_at": "2026-11-13T23:12:12.338246+00:00",
   "insights": [
+    {
+      "guid": "yt:Njwi5arqcJQ",
+      "title": "Broad Rally for Stocks, Bear Flattening for Bonds",
+      "title_zh": "DoubleLine：10月CPI引发债市抛售，等权重标普500年内跑赢市值加权指数",
+      "url": "https://www.youtube.com/watch?v=Njwi5arqcJQ",
+      "published_at": "2026-11-13T23:01:39+00:00",
+      "source_name": "DoubleLine Capital",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "other"
+      ],
+      "summary_zh": "DoubleLine分析师指出，10月CPI呈现\"广泛再通胀\"，叠加美联储理事Waller在报告前的鹰派言论，债市（除浮动利率债外）遭遇抛售，市场一度提高12月9日FOMC加息50个基点的概率。年内回报显示领导权切换，等权重标普500跑赢市值加权版本；商品走弱，工业金属与能源领跌。",
+      "summary_en": "DoubleLine analysts said October CPI showed \"broad-based reflation,\" and combined with hawkish remarks by Fed Governor Christopher Waller ahead of the report, fixed income (except floating-rate debt) sold off, briefly raising the odds of a 50bp hike at the Dec. 9 FOMC meeting. Year-to-date returns show a leadership shift favoring the equal-weight S&P 500 over its cap-weighted counterpart; commodities weakened, led by industrial metals and energy.",
+      "detail_zh": "DoubleLine分析师Mark Kimbrough与资产配置策略师Ryan Kimmel在11月13日复盘当周市场：股市全周表现广泛强劲，而债市除浮动利率债外普遍走弱，原因是10月CPI数据\"近乎令人不安\"，且美联储理事Christopher Waller在该报告发布前发表了鹰派言论。宏观层面，10月CPI显示\"广泛再通胀\"，一度提高12月9日FOMC会议加息50个基点的概率；但在当周债市抛售后，截至周五加息半个百分点的概率约为10%。Kimmel还指出，10月联邦预算缺口扩大至4040亿美元，较去年同期增长42%，称\"这对我们财政轨迹的可持续性并不令人鼓舞\"。抛开周度价格波动，两位分析师从年内回报中观察到领导权切换，等权重标普500跑赢市值加权版本。商品走弱，工业金属与能源领跌。",
+      "detail_en": "DoubleLine analyst Mark Kimbrough and asset allocation strategist Ryan Kimmel reviewed the week on Nov. 13: stocks showed broad strength for the week, while fixed income (with the exception of floating-rate debt) sold off on a \"borderline disturbing\" October CPI and hawkish remarks by Fed Governor Christopher Waller ahead of that report. On the macro front, October CPI showed \"broad-based reflation\" and raised the odds of a 50bp hike at the Dec. 9 FOMC meeting; after the week's bond selloff, the odds of a half-point move stood at about 10% by Friday. Kimmel also noted the federal budget gap widened \"to $404 billion in October, up 42% from the same period last year,\" calling it \"not encouraging for the sustainability for our fiscal trajectory.\" Looking beyond week-to-week price moves, the two discerned a leadership shift in year-to-date returns, with the equal-weight S&P 500 outperforming its market-cap-weighted cousin. Commodities weakened, led lower by industrial metals and energy.",
+      "conclusion_zh": "债市对再通胀与鹰派信号敏感，等权重指数年内跑赢显示市场领导权正从市值权重股扩散，财政赤字扩大构成中期风险。",
+      "conclusion_en": "Bonds are sensitive to reflation and hawkish signals; the equal-weight index's YTD outperformance signals leadership broadening beyond cap-weighted names, while the widening fiscal deficit poses a medium-term risk.",
+      "key_points": [
+        {
+          "zh": "10月CPI呈现\"广泛再通胀\"，叠加Waller报告前的鹰派言论，债市（除浮动利率债外）遭抛售。",
+          "en": "October CPI showed \"broad-based reflation\"; combined with Waller's hawkish pre-report remarks, fixed income (except floating-rate debt) sold off."
+        },
+        {
+          "zh": "CPI一度提高12月9日FOMC加息50个基点的概率，但截至周五该概率约为10%。",
+          "en": "CPI briefly raised the odds of a 50bp hike at the Dec. 9 FOMC meeting, but by Friday the odds stood at about 10%."
+        },
+        {
+          "zh": "10月联邦预算缺口扩大至4040亿美元，同比增长42%，Kimmel称这对财政轨迹可持续性并不令人鼓舞。",
+          "en": "The federal budget gap widened to $404 billion in October, up 42% year over year; Kimmel called this not encouraging for fiscal sustainability."
+        },
+        {
+          "zh": "年内回报显示领导权切换，等权重标普500跑赢市值加权版本。",
+          "en": "Year-to-date returns show a leadership shift favoring the equal-weight S&P 500 over the cap-weighted index."
+        },
+        {
+          "zh": "商品走弱，工业金属与能源领跌。",
+          "en": "Commodities weakened, led lower by industrial metals and energy."
+        }
+      ],
+      "tags": [
+        "CPI",
+        "Fed",
+        "equal-weight",
+        "fiscal-deficit",
+        "commodities"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:19bg1LcSbuU",
+      "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
+      "title_zh": "新奥尔良密西西比河油轮与游轮相撞",
+      "url": "https://www.youtube.com/watch?v=19bg1LcSbuU",
+      "published_at": "2026-11-13T22:47:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "一艘油轮在新奥尔良密西西比河与一艘停靠的河轮游船相撞，导致较小的游船部分沉没，并引发救援行动。该事件为突发事故新闻，原文未提及对市场或美股的直接影响。",
+      "summary_en": "A tanker collided with a docked river cruise ship on the Mississippi River in New Orleans, leaving the smaller vessel partly submerged and triggering a rescue operation. This is breaking accident news with no stated direct market or U.S. equity impact in the source.",
+      "detail_zh": "据彭博社报道，一艘油轮在新奥尔良密西西比河与一艘停靠的河轮游船相撞。事故导致较小的游船部分沉没。事件引发救援行动。原文未提供更多细节，如伤亡情况、事故原因、环境影响或对航运、保险及能源市场的潜在影响。该内容为突发事故新闻，与美股投资无直接关联。",
+      "detail_en": "According to Bloomberg, a tanker collided with a docked river cruise ship on the Mississippi River in New Orleans. The accident left the smaller vessel partly submerged and set off a rescue operation. The source provides no further details on casualties, cause, environmental impact, or potential effects on shipping, insurance, or energy markets. This is breaking accident news with no direct U.S. equity investment relevance.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "一艘油轮在新奥尔良密西西比河与一艘停靠的河轮游船相撞。",
+          "en": "A tanker collided with a docked river cruise ship on the Mississippi River in New Orleans."
+        },
+        {
+          "zh": "相撞导致较小的游船部分沉没。",
+          "en": "The collision left the smaller vessel partly submerged."
+        },
+        {
+          "zh": "事故引发救援行动。",
+          "en": "The incident set off a rescue operation."
+        },
+        {
+          "zh": "原文未提及对市场或美股的直接影响。",
+          "en": "The source does not mention any direct market or U.S. equity impact."
+        }
+      ],
+      "tags": [
+        "accident",
+        "shipping",
+        "New Orleans",
+        "Mississippi River"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:FjBTH7aYLzM",
+      "title": "Flights Grounded Across US Over Air Traffic Control Problems",
+      "title_zh": "美国因空管通信问题全国停飞",
+      "url": "https://www.youtube.com/watch?v=FjBTH7aYLzM",
+      "published_at": "2026-11-13T22:38:40+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国联邦航空管理局因影响空中交通管制的通信问题，下令全国机场停飞所有离港航班，直至另行通知，并援引“特殊情况”与“安全原因”。此举可能扰乱全球旅行。",
+      "summary_en": "The FAA issued a nationwide ground stop affecting all US airports due to communication issues impacting air traffic control, citing 'extraordinary circumstances' and 'reasons of safety.' Departing flights are to remain grounded until further notice, threatening global travel disruption.",
+      "detail_zh": "美国联邦航空管理局（FAA）周五在其网站发布通告，宣布因影响空中交通管制的通信问题，全国所有机场实施地面停飞，所有离港航班须保持停飞直至另行通知。FAA援引“特殊情况”和“安全原因”作为依据。该措施影响全美机场，并可能扰乱全球旅行。彭博行业研究全球航空航天、国防与航空分析主管就此进行了评论。",
+      "detail_en": "The Federal Aviation Administration said in an advisory notice on its website on Friday that a ground stop affects all US airports and departing flights should remain grounded until further notice, due to communication issues affecting air traffic control. It cited 'extraordinary circumstances' and 'reasons of safety.' The action threatens to disrupt travel across the globe. Bloomberg Intelligence's Global Head of Aerospace, Defense & Airline Analysis reacted to the ongoing situation.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "FAA因通信问题下令全国机场停飞所有离港航班。",
+          "en": "FAA ordered a nationwide ground stop of all departing flights due to communication issues."
+        },
+        {
+          "zh": "停飞令援引“特殊情况”和“安全原因”，持续至另行通知。",
+          "en": "The ground stop cites 'extraordinary circumstances' and 'reasons of safety,' lasting until further notice."
+        },
+        {
+          "zh": "该措施影响全美机场，并可能扰乱全球旅行。",
+          "en": "The measure affects all US airports and threatens to disrupt global travel."
+        }
+      ],
+      "tags": [
+        "FAA",
+        "ground stop",
+        "air travel disruption",
+        "air traffic control"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:E1G8mPO3Zcc",
+      "title": "Ground Stop Fix Will 'Take Some Time,' Mullin Says",
+      "title_zh": "美国国土安全部长：全国航班停飞问题需时间解决，不排除网络攻击",
+      "url": "https://www.youtube.com/watch?v=E1G8mPO3Zcc",
+      "published_at": "2026-11-13T22:37:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国国土安全部长马克韦恩·穆林表示，影响全国航班的问题需要一段时间才能解决，所有航班均已停飞。他不能排除网络攻击是原因，但称旅客安全。",
+      "summary_en": "Homeland Security Secretary Markwayne Mullin said the issues affecting flights nationwide will take time to resolve, with all flights grounded. He could not rule out a cyber attack but said travelers are safe.",
+      "detail_zh": "美国国土安全部长马克韦恩·穆林周五在白宫对记者表示，影响全国航班的问题不会在一小时内解决，需要一段时间。所有航班均已停飞。穆林表示不能排除网络攻击是原因，但强调旅客是安全的。他没有提供更多关于问题原因或解决时间表的细节。",
+      "detail_en": "Homeland Security Secretary Markwayne Mullin told reporters at the White House on Friday that the issues affecting flights nationwide will not be resolved within the hour and will take some time. All flights have been grounded. Mullin said he cannot rule out a cyber attack as the cause but emphasized that travelers are safe. He did not provide further details on the cause or a timeline for resolution.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "所有航班已停飞，问题解决需要时间",
+          "en": "All flights have been grounded; resolution will take time"
+        },
+        {
+          "zh": "国土安全部长不能排除网络攻击是原因",
+          "en": "DHS Secretary cannot rule out a cyber attack as the cause"
+        },
+        {
+          "zh": "部长称旅客安全",
+          "en": "Secretary says travelers are safe"
+        }
+      ],
+      "tags": [
+        "flight grounding",
+        "cyber attack",
+        "homeland security",
+        "travel disruption"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:abGVC9ru8hE",
+      "title": "Alice Huang Firm Procured Banned Nvidia Chips in China",
+      "title_zh": "英伟达争议中心人物黄爱丽丝旗下公司被指采购走私AI芯片",
+      "url": "https://www.youtube.com/watch?v=abGVC9ru8hE",
+      "published_at": "2026-11-13T22:13:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "据彭博新闻查阅的文件，由黄爱丽丝（Alice Huang）创立的中国公司采购了走私AI芯片，并安装在与Megaspeed International Pte有关联的上海数据中心。部分服务器最初出售给总部位于新加坡的英伟达官方云合作伙伴Aperia Cloud Services。",
+      "summary_en": "A Chinese company founded by Alice Huang, the woman at the center of a controversy dogging Nvidia, procured smuggled AI chips installed at a Shanghai data center linked to Megaspeed International Pte, according to documents reviewed by Bloomberg News. Some servers were originally sold to Aperia Cloud Services, an official Nvidia Cloud Partner headquartered in Singapore.",
+      "detail_zh": "彭博新闻查阅的文件显示，由黄爱丽丝创立的中国公司采购了走私AI芯片，这些芯片被安装在一个与Megaspeed International Pte有关联的上海数据中心。据一位知情人士透露，其中部分服务器最初出售给了Aperia Cloud Services——一家总部位于新加坡的英伟达官方云合作伙伴。黄爱丽丝正是围绕英伟达争议的中心人物。Parmy Olson提供了上述细节。",
+      "detail_en": "Documents reviewed by Bloomberg News show that a Chinese company founded by Alice Huang procured smuggled AI chips that were installed at a Shanghai data center with links to Megaspeed International Pte. According to a person familiar with the matter, some of the servers were originally sold to Aperia Cloud Services, an official Nvidia Cloud Partner headquartered in Singapore. Alice Huang is the woman at the center of a controversy dogging Nvidia. Parmy Olson has the details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄爱丽丝创立的中国公司采购了走私AI芯片，并安装在与Megaspeed International Pte有关联的上海数据中心。",
+          "en": "A Chinese company founded by Alice Huang procured smuggled AI chips installed at a Shanghai data center linked to Megaspeed International Pte."
+        },
+        {
+          "zh": "部分服务器最初出售给英伟达官方云合作伙伴Aperia Cloud Services，该公司总部位于新加坡。",
+          "en": "Some servers were originally sold to Aperia Cloud Services, an official Nvidia Cloud Partner headquartered in Singapore."
+        },
+        {
+          "zh": "黄爱丽丝是围绕英伟达争议的中心人物。",
+          "en": "Alice Huang is the woman at the center of a controversy dogging Nvidia."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI chips",
+        "smuggling",
+        "China",
+        "export controls"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:jbvHYx9aQ6k",
+      "title": "Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’",
+      "title_zh": "Anthropic CEO 强调AI安全与对齐，称不希望AI代理“失控”",
+      "url": "https://www.youtube.com/watch?v=jbvHYx9aQ6k",
+      "published_at": "2026-11-13T22:12:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Anthropic联合创始人兼CEO Dario Amodei在IPO路演中与摩根大通CEO Jamie Dimon对话时表示，公司持续投入“安全、安保与对齐”工作，不希望AI代理“失控”。",
+      "summary_en": "Anthropic CEO and co-founder Dario Amodei said during the company's IPO roadshow, in a conversation with JPMorgan Chase CEO Jamie Dimon, that Anthropic is continuously investing in 'safety and security and alignment' and does not want AI agents to 'run wild.'",
+      "detail_zh": "Anthropic CEO兼联合创始人Dario Amodei在周五与摩根大通董事长兼CEO Jamie Dimon的直播对话中作出上述表态，该对话是Anthropic IPO路演的一部分。Amodei表示，公司正在持续投入“安全、安保与对齐”方面的工作，并且不希望AI代理“失控”。原文未披露IPO的具体条款、估值或时间表。",
+      "detail_en": "Anthropic CEO and co-founder Dario Amodei made the remarks Friday during a live-streamed conversation with JPMorgan Chase Chairman & CEO Jamie Dimon, as part of Anthropic's IPO roadshow. Amodei said the company is continuously putting efforts into 'safety and security and alignment' and doesn't want AI agents to 'run wild.' No IPO terms, valuation, or timeline were disclosed in the source.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic CEO Dario Amodei表示公司持续投入“安全、安保与对齐”工作。",
+          "en": "Anthropic CEO Dario Amodei said the company is continuously investing in 'safety and security and alignment.'"
+        },
+        {
+          "zh": "Amodei称不希望AI代理“失控”。",
+          "en": "Amodei said he doesn't want AI agents to 'run wild.'"
+        },
+        {
+          "zh": "上述表态发生在Anthropic IPO路演期间，对话对象为摩根大通CEO Jamie Dimon。",
+          "en": "The remarks were made during Anthropic's IPO roadshow in a conversation with JPMorgan Chase CEO Jamie Dimon."
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "AI safety",
+        "IPO roadshow",
+        "AI agents"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:qksyreJWXAo",
+      "title": "FAA Grounds All Flights Nationwide",
+      "title_zh": "美国所有航班停飞，FAA以安全为由下令",
+      "url": "https://www.youtube.com/watch?v=qksyreJWXAo",
+      "published_at": "2026-11-13T22:06:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国联邦航空管理局（FAA）以“特殊情况”和“安全原因”为由，下令全美所有机场航班停飞。彭博的Will Guisbond正在跟踪这一突发新闻。",
+      "summary_en": "The Federal Aviation Administration ordered a ground stop for all flights at all US airports, citing \"extraordinary circumstances\" and \"reasons of safety.\" Bloomberg's Will Guisbond is following the breaking news.",
+      "detail_zh": "美国联邦航空管理局（FAA）下令全美所有航班停飞，影响所有美国机场。FAA将停飞原因归结为“特殊情况”和“安全原因”。彭博的Will Guisbond正在跟踪这一突发新闻。原文未提供停飞的具体原因、持续时间或进一步细节。",
+      "detail_en": "The Federal Aviation Administration (FAA) has ordered a ground stop for all flights, affecting all US airports. The FAA cited \"extraordinary circumstances\" and \"reasons of safety\" for the ground stop. Bloomberg's Will Guisbond is following this breaking news. The original text does not provide specific reasons, duration, or further details about the ground stop.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "FAA下令全美所有航班停飞",
+          "en": "FAA orders ground stop for all US flights"
+        },
+        {
+          "zh": "停飞影响所有美国机场",
+          "en": "Ground stop affects all US airports"
+        },
+        {
+          "zh": "FAA引用“特殊情况”和“安全原因”",
+          "en": "FAA cites \"extraordinary circumstances\" and \"reasons of safety\""
+        }
+      ],
+      "tags": [
+        "FAA",
+        "ground stop",
+        "aviation",
+        "breaking news"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:yBGjmomZmK8",
+      "title": "Jensen Huang Scandal Fallout Grows",
+      "title_zh": "英伟达CEO黄仁勋辞职，芯片股下滑，微软服务中断",
+      "url": "https://www.youtube.com/watch?v=yBGjmomZmK8",
+      "published_at": "2026-11-13T22:02:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博报道称，由Alice Huang创立的中国公司获取了走私AI芯片，并安装在与Megaspeed International有关联的上海数据中心。英伟达CEO黄仁勋辞职，引发芯片股下滑，市场关注英伟达的未来。此外，微软发生大规模服务中断。",
+      "summary_en": "Bloomberg reports that a Chinese company founded by Alice Huang procured smuggled AI chips installed at a Shanghai data center linked to Megaspeed International. Nvidia CEO Jensen Huang's resignation sent chip stocks sliding, with markets focused on Nvidia's future. Additionally, Microsoft experienced a massive services outage.",
+      "detail_zh": "据彭博新闻查阅的文件，由Alice Huang创立的中国公司获取了走私AI芯片，这些芯片被安装在与Megaspeed International有关联的上海数据中心。彭博新闻首尔分社社长Cat Barton从国际视角分析了黄仁勋的下台。彭博新闻美国半导体记者Ian King独家披露了黄仁勋作为英伟达CEO最后时刻的内幕。彭博新闻科技记者Matt Day提供了微软大规模服务中断的最新情况和影响。Global X ETFs产品研究与策略总监Lis Agosto从投资者角度解读了英伟达丑闻。节目还讨论了英伟达及芯片股下滑、韩国市场的波及、黄仁勋之后英伟达的全球关系、韩国与全球AI竞赛、中国与芯片限制、微软Outlook中断、微软对美国企业的重要性、市场：英伟达与半导体下跌、黄仁勋的辞职与心态、英伟达董事会及没有黄仁勋的未来、黄仁勋的下一步、英伟达能否在没有其门面的情况下蓬勃发展、英伟达寻找新CEO、英伟达的看涨理由、高盛市场展望、黄仁勋退出后的AI投资、能源、数据中心与AI交易、数据中心 backlash 与投资、英伟达财报与超大规模企业支出、股票动向：英伟达、Cerebras与思科。",
+      "detail_en": "According to documents reviewed by Bloomberg News, a Chinese company founded by Alice Huang procured smuggled AI chips that were installed at a Shanghai data center with links to Megaspeed International. Bloomberg News Seoul Bureau Chief Cat Barton takes an international view of Jensen Huang's downfall. Bloomberg News US Semiconductor Reporter Ian King brings an exclusive inside look at Huang's final hours as Nvidia CEO. Bloomberg News Technology Reporter Matt Day has the update and fallout of Microsoft's massive services outage. Lis Agosto, Director of Product Research & Strategy at Global X ETFs, takes an investor's view on the Nvidia scandal. The program also covers Nvidia & chip stocks slide, Nvidia's fallout in South Korea, Nvidia's global relationships after Huang, South Korea & the global AI race, China, Nvidia & chip restrictions, Microsoft Outlook outage, Microsoft's importance to corporate America, markets: Nvidia & semiconductors fall, Jensen Huang's final hours as Nvidia CEO, Huang's resignation & state of mind, Nvidia's board & future without Huang, what's next for Jensen Huang, can Nvidia thrive without its front man, Nvidia's search for a new CEO, the bull case for Nvidia, Goldman's market outlook, AI investing after Huang's exit, energy, data centers & the AI trade, data center backlash & investment, Nvidia earnings & hyperscaler spending, stock movers: Nvidia, Cerebras & Cisco.",
+      "conclusion_zh": "英伟达CEO辞职与走私芯片丑闻叠加，短期内芯片股承压，投资者需关注英伟达管理层变动及AI芯片供应链风险。",
+      "conclusion_en": "The resignation of Nvidia's CEO combined with the smuggled chip scandal pressures chip stocks in the short term; investors should watch Nvidia's management changes and AI chip supply chain risks.",
+      "key_points": [
+        {
+          "zh": "由Alice Huang创立的中国公司获取了走私AI芯片，并安装在与Megaspeed International有关联的上海数据中心。",
+          "en": "A Chinese company founded by Alice Huang procured smuggled AI chips installed at a Shanghai data center linked to Megaspeed International."
+        },
+        {
+          "zh": "英伟达CEO黄仁勋辞职，引发芯片股下滑。",
+          "en": "Nvidia CEO Jensen Huang resigned, causing chip stocks to slide."
+        },
+        {
+          "zh": "微软发生大规模服务中断，影响企业运营。",
+          "en": "Microsoft experienced a massive services outage, affecting corporate operations."
+        },
+        {
+          "zh": "节目讨论了英伟达在没有黄仁勋的情况下的未来、新CEO搜寻以及看涨理由。",
+          "en": "The program discussed Nvidia's future without Huang, the search for a new CEO, and the bull case."
+        },
+        {
+          "zh": "Global X ETFs的Lis Agosto从投资者角度解读了英伟达丑闻。",
+          "en": "Lis Agosto of Global X ETFs provided an investor's view on the Nvidia scandal."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI chips",
+        "smuggling",
+        "Microsoft outage"
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "CSCO"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:rAg6G_Are6k",
       "title": "Inside Jensen Huang’s Last Hours as Nvidia CEO",
@@ -16716,155 +17066,6 @@
         "congress",
         "tariffs",
         "executive orders"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:HTuMh12kgUA",
-      "title": "Markets Rebound After Historic Tech Selloff",
-      "title_zh": "彭博The Close节目章节概览：AI交易、市场轮动与政策风险",
-      "url": "https://www.youtube.com/watch?v=HTuMh12kgUA",
-      "published_at": "2026-11-06T22:55:10+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本文仅为彭博The Close节目的章节列表与嘉宾名单，未包含具体讨论内容。章节主题涵盖AI与市场轮动、中期选举后的数据中心政策风险、科技股抛售与逢低买入、加密监管、假日消费等。由于缺乏实质细节，无法提炼具体投资洞见。",
-      "summary_en": "This is only a chapter list and guest roster for Bloomberg's The Close, with no substantive discussion content. Topics include AI and market rotation, data center policy risks after midterms, tech selloff and dip buying, crypto regulation, and holiday spending. No specific investment insights can be drawn due to lack of details.",
-      "detail_zh": "原文为彭博电视节目The Close的章节时间戳和嘉宾名单，未提供任何讨论的具体内容、数据或观点。章节标题显示节目涉及：AllianceBernstein的Nelson Yu谈AI与市场轮动；中期选举后的数据中心政策风险；FIGS CEO谈盈利与医疗保健增长；Sweetgreen CEO谈销售复苏与定价；Elanco CEO谈宠物支出与动物健康；AI交易、市场轮动与经济展望；收盘钟声；Airbnb、Moderna、SpaceX与特斯拉等市场异动；Fox-Roku交易与媒体并购未来；科技股抛售、石油与中期选举影响周度回顾；Eurasia Group总裁Ian Bremmer谈特朗普与全球风险；AI抛售、估值与逢低买入；Coinbase副主席谈加密监管；Bain全球零售主管谈假日消费与AI；餐厅增长与奢侈品消费者等。由于没有具体内容，无法提供数字、引述或因果判断。",
-      "detail_en": "The original text is a chapter timestamp list and guest roster for Bloomberg TV's The Close, without any specific discussion content, data, or opinions. Chapter titles indicate the program covers: AllianceBernstein's Nelson Yu on AI and market rotation; data center policy risks after midterm elections; FIGS CEO on earnings and health-care growth; Sweetgreen CEO on sales recovery and pricing; Elanco CEO on pet spending and animal health; AI trade, market rotation and economic outlook; the closing bell; market movers including Airbnb, Moderna, SpaceX and Tesla; Fox-Roku deal and future of media M&A; weekly recap of tech selloff, oil and midterm fallout; Eurasia Group President Ian Bremmer on Trump and global risk; AI selloff, valuations and buying the dip; Coinbase Vice Chair on crypto regulation; Bain's global head of retail on holiday spending and AI; restaurant growth and luxury consumers, etc. Due to lack of specifics, no numbers, quotes, or causal judgments can be provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目章节涵盖AI交易与市场轮动、中期选举后数据中心政策风险等主题。",
-          "en": "Chapters cover topics including AI trade and market rotation, and data center policy risks after midterms."
-        },
-        {
-          "zh": "嘉宾包括AllianceBernstein、Eurasia Group、Coinbase、Bain等机构代表。",
-          "en": "Guests include representatives from AllianceBernstein, Eurasia Group, Coinbase, Bain, and others."
-        },
-        {
-          "zh": "涉及个股异动：Airbnb、Moderna、SpaceX、特斯拉等被提及。",
-          "en": "Mentions market movers: Airbnb, Moderna, SpaceX, Tesla, etc."
-        },
-        {
-          "zh": "讨论主题包括科技股抛售、估值与逢低买入、加密监管、假日消费。",
-          "en": "Discussion topics include tech selloff, valuations and dip buying, crypto regulation, holiday spending."
-        }
-      ],
-      "tags": [
-        "AI",
-        "market rotation",
-        "midterms",
-        "tech selloff",
-        "crypto regulation"
-      ],
-      "tickers": [
-        "ABNB",
-        "MRNA",
-        "TSLA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:u-RekY8OsJE",
-      "title": "Goldman Sachs Chief Economist Jan Hatzius Joins CNBC to Discuss the US Jobs Report",
-      "title_zh": "高盛首席经济学家：10月非农强劲，劳动力市场稳定于充分就业，AI对就业影响将逐步显现",
-      "url": "https://www.youtube.com/watch?v=u-RekY8OsJE",
-      "published_at": "2026-11-06T22:51:47+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "高盛首席经济学家Jan Hatzius点评10月非农报告，认为就业增长稳健、失业率稳定在4.1%-4.2%，劳动力市场处于充分就业状态。他预计明年GDP增速放缓至2%-2.5%，并指出AI已导致科技行业每月减少1-1.5万个岗位，未来可能成为更广泛的宏观主题。",
-      "summary_en": "Goldman Sachs Chief Economist Jan Hatzius commented on the October jobs report, noting solid payroll growth and an unemployment rate stable at 4.1%-4.2%, consistent with full employment. He expects GDP growth to slow to 2%-2.5% next year and noted that AI has already reduced tech-sector job growth by 10,000-15,000 per month, with potential to become a broader macroeconomic theme.",
-      "detail_zh": "10月非农就业新增16.5万人，高于几乎所有预测。Hatzius认为报告非常稳健，尽管存在月度波动，但潜在就业增长趋势可能已回到10万人以上，比今年早些时候更稳固。失业率小幅下降但仍处于4.1%-4.2%区间，劳动力市场稳定在充分就业附近，这与工资增长相对温和、通胀较低相一致。初请失业金人数处于五十多年来最低水平，裁员极少，但招聘也相对低迷，整体环境停滞但水平非常扎实。当前GDP增速强劲，第二、三季度及可能第四季度均达3%以上，但Hatzius预计明年增速将放缓至2%-2.5%，失业率大致稳定。下行风险包括金融条件收紧约50个基点、能源价格、与伊朗的战争对实际收入的影响，以及AI建设对GDP和劳动力市场的影响。AI已导致科技行业每月减少约1-1.5万个就业岗位，并有迹象蔓延至服务业，但关系尚不强烈，预计未来一两年将增强，到2028年可能成为就业增长的逆风。AI目前仍是利润率顺风，但到2028年投资量可能趋平并最终下降，历史投资热潮均如此。",
-      "detail_en": "October nonfarm payrolls rose by 165,000, above nearly every forecast. Hatzius called it a very solid report, noting that despite month-to-month volatility, the underlying trend in job growth is probably back above 100,000, more solid than earlier in the year. The unemployment rate edged down but remains in the 4.1%-4.2% range, consistent with a labor market stable at about full employment, subdued wage growth, and low inflation. Jobless claims are at the lowest level in more than five decades, layoffs are extremely low, but hiring remains relatively subdued, creating a stagnant but very solid environment. Current GDP growth is rapid, with a three-handle in Q2, Q3, and likely Q4, but Hatzius expects growth to soften next year to 2%-2.5%, keeping unemployment roughly stable. Downside risks include tightening financial conditions of about 50 basis points, energy prices, the war with Iran and its implications for real income growth, and the AI buildout's effects on GDP and the labor market. AI has already reduced tech-sector job growth by roughly 10,000-15,000 per month, with some indications of broadening into services, though the relationship is not yet strong; it is expected to strengthen over the next year or two and become a headwind for employment growth by 2028. AI is currently a tailwind for profit margins, but by 2028 investment volume is expected to flatten and eventually decline, as in historical investment booms.",
-      "conclusion_zh": "劳动力市场稳健支持短期增长，但明年增速放缓与AI对就业的逐步替代值得关注，AI投资周期可能在2028年前后见顶。",
-      "conclusion_en": "A solid labor market supports near-term growth, but slowing GDP next year and AI's gradual labor impact warrant attention; the AI investment cycle may peak around 2028.",
-      "key_points": [
-        {
-          "zh": "10月非农新增16.5万人，高于几乎所有预测，潜在就业增长趋势可能已回到10万人以上。",
-          "en": "October nonfarm payrolls rose by 165,000, above nearly every forecast, with underlying job growth likely back above 100,000."
-        },
-        {
-          "zh": "失业率稳定在4.1%-4.2%，劳动力市场处于充分就业状态，与温和工资增长和低通胀一致。",
-          "en": "Unemployment rate stable at 4.1%-4.2%, labor market at full employment, consistent with subdued wage growth and low inflation."
-        },
-        {
-          "zh": "当前GDP增速达3%以上，但预计明年放缓至2%-2.5%，下行风险包括金融条件收紧约50个基点、能源价格及伊朗战争。",
-          "en": "Current GDP growth above 3%, but expected to slow to 2%-2.5% next year; downside risks include ~50bp tightening in financial conditions, energy prices, and the war with Iran."
-        },
-        {
-          "zh": "AI已导致科技行业每月减少约1-1.5万个岗位，并可能蔓延至服务业，到2028年成为就业增长逆风。",
-          "en": "AI has reduced tech-sector job growth by ~10,000-15,000 per month, potentially broadening to services and becoming a headwind for employment by 2028."
-        },
-        {
-          "zh": "AI目前仍是利润率顺风，但到2028年投资量可能趋平并最终下降，类似历史投资热潮。",
-          "en": "AI remains a tailwind for profit margins currently, but investment volume is expected to flatten and eventually decline by 2028, similar to historical investment booms."
-        }
-      ],
-      "tags": [
-        "jobs-report",
-        "labor-market",
-        "AI",
-        "GDP",
-        "Goldman Sachs"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:mL2xBdgoGl4",
-      "title": "AI’s rising bill of expectations | Market take",
-      "title_zh": "AI投资进入审视期：美股降级至中性，但AI基本面信心未改",
-      "url": "https://www.youtube.com/watch?v=mL2xBdgoGl4",
-      "published_at": "2026-11-06T22:32:20+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "经过两年AI投资热潮，投资者开始关注回报，促使该机构上月将美股下调至中性。但AI基本面信心依然完整，只是超大型科技股与其他市场的盈利差距自2022年以来首次反转，AI领导者表现不再那么突出。AI建设日益依赖债务融资，杠杆和融资能力成为焦点，信用市场是判断AI投资还能以何种成本融资的关键风向标。",
-      "summary_en": "After two years of booming AI investment, rising investor scrutiny over payoffs led the firm to downgrade US equities to neutral last month, though conviction in AI fundamentals remains intact. The earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7, making AI leaders' outperformance less exceptional. As the AI buildout is increasingly funded by debt, leverage and funding capacity are in sharp focus, and credit markets are a key signpost for how much more AI investment can be financed and at what cost.",
-      "detail_zh": "经过两年AI投资繁荣，投资者愈发审视AI主题，希望看到回报，这一背景促使该机构上月将美股下调至中性。但其对AI基本面的信心依然完整。超大型科技股的背景与几个月前截然不同：盈利差距自2022年以来首次反转，市场其余部分预计将超过Magnificent 7，AI领导者仍在交付业绩，但超额表现不再那么突出。在预期已很高的情况下，投资者日益关注货币化和现金生成能否支撑投资。上周财报凸显了AI相关商品和服务强劲需求与满足需求成本上升之间日益加剧的紧张关系。超大规模云厂商支出激增，资本开支后现金盈余所剩无几；每增加一美元收入带来的利润减少，引发回报能否跟上投资飙升的疑问。分析发现AI采用的早期迹象已影响盈利增长：采用率较高的大型科技以外公司本季度盈利增长预计比采用率较低的公司高出约3%。云收入上升也指向强劲AI需求。随着AI建设日益由债务融资，杠杆和融资能力备受关注；建设加剧资本竞争并对收益率构成上行压力。近期收益率下降反映了市场对资本竞争的资金流动，以及市场考虑部署更多资金可能面临的约束。因此，信用市场是判断AI投资还能融资多少、成本多高的关键风向标。AI面临更严峻的近期考验，投资者审视加剧，但对AI基本面的信心依然完整，使其在AI敞口上保持选择性。",
-      "detail_en": "After two years of booming AI investment, investors are increasingly scrutinizing the AI theme and want to see the payoff, a backdrop that contributed to the firm's decision to downgrade US equities to neutral last month. However, conviction in AI fundamentals remains intact. The backdrop for Mega Cap Tech looks very different from just a few months ago: the earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7. AI leaders are still delivering, but their outperformance is becoming less exceptional. With expectations already so high, investors are increasingly looking at whether monetization and cash generation can sustain investment. Last week's earnings highlighted a growing tension between strong demand for AI-linked goods and services and the rising cost of meeting it. Hyperscaler spending has surged, leaving little cash surplus after capex; each additional dollar of revenue is generating less profit, raising questions about whether returns can keep pace with soaring investment. Analysis finds early signs of AI adoption impacting earnings growth: companies outside big tech with higher adoption are on track for about 3% more earnings growth this quarter than those with lower adoption. Rising cloud revenues also point to strong AI demand. As the AI buildout is increasingly funded by debt, leverage and funding capacity are coming into sharp focus; the buildout is adding to competition for capital and keeping upward pressure on yields. The recent fall in yields reflects the flows of competition for capital as markets consider any emerging constraints on deploying even more funding. As such, credit markets are a key signpost for how much more AI investment can be financed and at what cost. AI faces a tougher near-term test as investor scrutiny intensifies, but conviction in AI fundamentals remains intact, keeping the firm selective on where to take AI exposure.",
-      "conclusion_zh": "AI基本面信心未改，但盈利差距反转和融资约束意味着需在AI敞口上保持选择性，并密切关注信用市场信号。",
-      "conclusion_en": "Conviction in AI fundamentals remains intact, but the flipped earnings gap and funding constraints mean investors should stay selective on AI exposure and watch credit markets closely.",
-      "key_points": [
-        {
-          "zh": "该机构上月将美股下调至中性，因投资者对AI回报的审视加剧。",
-          "en": "The firm downgraded US equities to neutral last month amid intensifying investor scrutiny over AI payoffs."
-        },
-        {
-          "zh": "盈利差距自2022年以来首次反转，市场其余部分预计将超过Magnificent 7。",
-          "en": "The earnings gap has flipped for the first time since 2022, with the rest of the market expected to outpace the Magnificent 7."
-        },
-        {
-          "zh": "超大规模云厂商支出激增，资本开支后现金盈余所剩无几，每美元收入的利润减少。",
-          "en": "Hyperscaler spending has surged, leaving little cash surplus after capex, and each additional dollar of revenue generates less profit."
-        },
-        {
-          "zh": "采用率较高的大型科技以外公司本季度盈利增长预计比采用率较低的公司高出约3%。",
-          "en": "Companies outside big tech with higher AI adoption are on track for about 3% more earnings growth this quarter than those with lower adoption."
-        },
-        {
-          "zh": "AI建设日益依赖债务融资，信用市场是判断融资规模和成本的关键风向标。",
-          "en": "As the AI buildout is increasingly funded by debt, credit markets are a key signpost for how much more AI investment can be financed and at what cost."
-        }
-      ],
-      "tags": [
-        "AI investment",
-        "US equities",
-        "earnings gap",
-        "credit markets",
-        "hyperscaler capex"
       ],
       "tickers": [],
       "sentiment": "neutral"
