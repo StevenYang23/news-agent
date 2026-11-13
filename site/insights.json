@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:13:12.980671+00:00",
+  "generated_at": "2026-11-13T11:12:22.404657+00:00",
   "insights": [
     {
       "guid": "yt:V8yOSpJ6D1c",
@@ -17570,55 +17570,6 @@
         "US military",
         "Arctic tensions",
         "NATO"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:rlOAaC-6uyc",
-      "title": "Stock Selloff Eases After $3 Trillion Rout",
-      "title_zh": "美股AI板块抛售后企稳，逢低买盘入场",
-      "url": "https://www.youtube.com/watch?v=rlOAaC-6uyc",
-      "published_at": "2026-11-06T11:06:47+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "标普500创一年多最大单日跌幅后，期货反弹0.6%，纳指100期货涨1.8%，逢低买盘支撑受挫的AI交易。此前对数据中心监管收紧的担忧令标普500市值蒸发约3万亿美元。",
-      "summary_en": "US equity futures rebounded after the S&P 500's steepest one-day drop in over a year, with dip buyers supporting the bruised AI trade. Worries about tighter regulation of data centers had wiped around $3 trillion off the index in the prior session.",
-      "detail_zh": "标普500指数在前一交易日遭遇一年多来最大跌幅，因市场担忧数据中心面临更严格监管，约3万亿美元市值蒸发。随后逢低买盘入场，标普500期货回升0.6%，纳指100期货上涨1.8%，部分收复周四6.4%的跌幅。节目章节显示，全球AI驱动的股票抛售一度加深，市场对AI建设加速的焦虑上升。与此同时，美国国债涨势增强，布伦特原油料创2020年以来最大周跌幅。欧洲股市低开，斯托克600所有板块下跌，随后加入全球抛售。美国中期选举也引发对AI建设前景的重新思考。",
-      "detail_en": "The S&P 500 suffered its steepest drop in more than a year as worries about tighter regulation of data centers wiped around $3 trillion off the index. Dip buyers then stepped in, lifting S&P 500 futures by 0.6% and Nasdaq 100 contracts by 1.8%, paring some of Thursday's 6.4% loss. The program's chapters show the global AI-led stock selloff deepened at one point, with anxiety over an accelerated AI buildout rising. Meanwhile, a Treasury rally gained momentum and Brent was set for its biggest weekly loss since 2020. European stocks opened lower with every Stoxx 600 sector down before joining the global selloff. The US midterms also sparked a rethink on the AI buildout.",
-      "conclusion_zh": "AI交易在监管担忧引发的急跌后出现逢低买盘，但数据中心监管与AI建设节奏仍是短期波动的核心变量。",
-      "conclusion_en": "Dip buyers emerged after a regulation-driven selloff in the AI trade, but data-center regulation and the pace of AI buildout remain key near-term volatility drivers.",
-      "key_points": [
-        {
-          "zh": "标普500创一年多最大单日跌幅，数据中心监管担忧令市值蒸发约3万亿美元",
-          "en": "S&P 500 posted its steepest one-day drop in over a year; data-center regulation worries wiped around $3 trillion in market value"
-        },
-        {
-          "zh": "标普500期货反弹0.6%，纳指100期货涨1.8%，逢低买盘支撑AI交易",
-          "en": "S&P 500 futures rose 0.6% and Nasdaq 100 contracts gained 1.8% as dip buyers supported the AI trade"
-        },
-        {
-          "zh": "全球AI驱动的股票抛售一度加深，市场对AI建设加速的焦虑上升",
-          "en": "The global AI-led selloff deepened at one point amid rising anxiety over an accelerated AI buildout"
-        },
-        {
-          "zh": "美国国债涨势增强，布伦特原油料创2020年以来最大周跌幅",
-          "en": "Treasury rally gained momentum; Brent was set for its biggest weekly loss since 2020"
-        },
-        {
-          "zh": "欧洲股市低开，斯托克600所有板块下跌；美国中期选举引发对AI建设的重新思考",
-          "en": "European stocks opened lower with every Stoxx 600 sector down; US midterms sparked a rethink on the AI buildout"
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "data center regulation",
-        "dip buying",
-        "Treasury rally",
-        "oil selloff"
       ],
       "tickers": [],
       "sentiment": "neutral"
