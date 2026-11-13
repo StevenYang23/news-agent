@@ -1,6 +1,275 @@
 {
-  "generated_at": "2026-11-13T19:11:26.197293+00:00",
+  "generated_at": "2026-11-13T20:13:28.298590+00:00",
   "insights": [
+    {
+      "guid": "yt:wwim0-lE1hk",
+      "title": "Richer on Paper, Americans Still Feel Price Pain",
+      "title_zh": "数据与体感的落差：美国经济强劲但选民不满",
+      "url": "https://www.youtube.com/watch?v=wwim0-lE1hk",
+      "published_at": "2026-11-13T20:06:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博的Sarah Foster指出，美国股市四年翻倍、经济持续增长、失业率接近历史低位、房价稳定，按数据美国人从未如此富有；但周二选举结果显示许多选民感受不同。",
+      "summary_en": "Bloomberg's Sarah Foster notes that by the numbers Americans have never been richer—the stock market has doubled in four years, the economy keeps growing, unemployment is near historic lows, and home values are holding steady—yet Tuesday's election results suggest a different reality for many voters.",
+      "detail_zh": "在Bloomberg Money节目中，彭博的Sarah Foster向Tome Keene表示，从数据上看美国人从未如此富有。她列举：股市在四年内翻倍，经济持续增长，失业率接近历史低位，房屋价值保持稳定。然而，周二的选举结果暗示，对许多选民而言现实感受不同。原文未进一步解释选举结果的具体内容或原因。",
+      "detail_en": "On Bloomberg Money, Bloomberg's Sarah Foster told Tome Keene that by the numbers, Americans have never been richer. She cited that the stock market has doubled in four years, the economy keeps growing, unemployment is near historic lows, and home values are holding steady. However, Tuesday's election results suggest a different reality for many voters. The original text does not elaborate on the specifics or causes of the election results.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "股市四年翻倍，经济持续增长，失业率接近历史低位，房价稳定。",
+          "en": "The stock market has doubled in four years, the economy keeps growing, unemployment is near historic lows, and home values are holding steady."
+        },
+        {
+          "zh": "按数据衡量，美国人从未如此富有。",
+          "en": "By the numbers, Americans have never been richer."
+        },
+        {
+          "zh": "周二选举结果显示许多选民感受到不同的现实。",
+          "en": "Tuesday's election results suggest a different reality for many voters."
+        }
+      ],
+      "tags": [
+        "US economy",
+        "election",
+        "consumer sentiment",
+        "stock market"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6t01iI5WERI",
+      "title": "Grading Global Retirement Plans, US Receives C+",
+      "title_zh": "Marsh与CFA协会发布2026全球养老金指数",
+      "url": "https://www.youtube.com/watch?v=6t01iI5WERI",
+      "published_at": "2026-11-13T19:53:42+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Marsh全球固定收益与固定缴费负责人Christine Mahoney在Bloomberg Money节目中与Tom Keene讨论了2026年Marsh CFA Institute全球养老金指数，该指数对全球最佳和最差退休计划进行评级。",
+      "summary_en": "Christine Mahoney, global defined benefit & defined contribution leader at Marsh, joined Tom Keene on \"Bloomberg Money\" to discuss the 2026 Marsh CFA Institute Global Pension Index, which grades the best and worst retirement plans around the world.",
+      "detail_zh": "Marsh全球固定收益与固定缴费负责人Christine Mahoney做客Bloomberg Money节目，与主持人Tom Keene进行对话。讨论的核心是2026年Marsh CFA Institute全球养老金指数。该指数对全球各地的退休计划进行评级，区分出最佳和最差的养老金体系。原文未披露指数的具体评分、国家排名或任何详细数据。",
+      "detail_en": "Christine Mahoney, global defined benefit & defined contribution leader at Marsh, appeared on \"Bloomberg Money\" with host Tom Keene. The discussion centered on the 2026 Marsh CFA Institute Global Pension Index. The index grades retirement plans around the world, identifying the best and worst pension systems. The source does not disclose specific scores, country rankings, or any detailed data from the index.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Marsh的Christine Mahoney在Bloomberg Money节目中讨论了2026年Marsh CFA Institute全球养老金指数。",
+          "en": "Christine Mahoney of Marsh discussed the 2026 Marsh CFA Institute Global Pension Index on \"Bloomberg Money.\""
+        },
+        {
+          "zh": "该指数对全球退休计划进行评级，区分最佳和最差的养老金体系。",
+          "en": "The index grades retirement plans worldwide, identifying the best and worst pension systems."
+        },
+        {
+          "zh": "原文未提供指数的具体评分、国家排名或详细数据。",
+          "en": "The source does not provide specific scores, country rankings, or detailed data from the index."
+        }
+      ],
+      "tags": [
+        "pension",
+        "retirement",
+        "global-index"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:w-Nc38SQAH8",
+      "title": "Hard To Get A Retirement System ‘Right’: Ed Morse",
+      "title_zh": "彭博访谈：Hartree Partners大宗商品策略师谈退休难题",
+      "url": "https://www.youtube.com/watch?v=w-Nc38SQAH8",
+      "published_at": "2026-11-13T19:44:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Hartree Partners高级顾问兼大宗商品策略师Ed Morse做客Bloomberg Money节目，与Tome Keene讨论解决退休问题的挑战。原文未提供具体观点或数据。",
+      "summary_en": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tom Keene on \"Bloomberg Money\" to discuss the challenges of fixing retirement. The source provides no specific views or data.",
+      "detail_zh": "该内容仅为节目预告或简介，提及Hartree Partners高级顾问兼大宗商品策略师Ed Morse将做客Bloomberg Money，与Tome Keene讨论解决退休问题的挑战。原文没有展开任何具体观点、数据或分析，因此无法提供更详细的投资洞见。",
+      "detail_en": "This content is only a program teaser or description, mentioning that Ed Morse, senior advisor and commodities strategist at Hartree Partners, will join Tom Keene on \"Bloomberg Money\" to discuss the challenges of fixing retirement. The source does not elaborate on any specific views, data, or analysis, so no further investment insights can be provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Ed Morse是Hartree Partners的高级顾问兼大宗商品策略师。",
+          "en": "Ed Morse is a senior advisor and commodities strategist at Hartree Partners."
+        },
+        {
+          "zh": "节目为Bloomberg Money，主持人为Tome Keene。",
+          "en": "The program is Bloomberg Money, hosted by Tom Keene."
+        },
+        {
+          "zh": "讨论主题是解决退休问题的挑战。",
+          "en": "The discussion topic is the challenges of fixing retirement."
+        },
+        {
+          "zh": "原文未提供任何具体观点、数据或分析。",
+          "en": "The source provides no specific views, data, or analysis."
+        }
+      ],
+      "tags": [
+        "retirement",
+        "commodities",
+        "Bloomberg",
+        "interview"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:oxO9vi5CgpM",
+      "title": "We’re Living In An Inflationary Environment: Morse",
+      "title_zh": "Hartree Partners 高级顾问 Ed Morse 谈油市、职业生涯与中国",
+      "url": "https://www.youtube.com/watch?v=oxO9vi5CgpM",
+      "published_at": "2026-11-13T19:44:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Hartree Partners 高级顾问兼大宗商品策略师 Ed Morse 做客 Bloomberg Money，与 Tome Keene 讨论当前石油市场状况、个人职业生涯以及中国相关话题。原文仅为节目预告，未提供具体观点或数据。",
+      "summary_en": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tome Keene on Bloomberg Money to discuss the current state of the oil market, his career, and China. The source is only a program description and contains no specific views or data.",
+      "detail_zh": "该内容为 Bloomberg Money 节目的简介，仅说明 Hartree Partners 高级顾问兼大宗商品策略师 Ed Morse 作为嘉宾，与主持人 Tome Keene 讨论了三个话题：当前石油市场状况、他的职业生涯以及中国。原文没有展开任何关于油价走势、供需格局、中国需求或相关交易策略的具体观点、数字或判断。因此无法从中提炼出实质性的投资洞见。",
+      "detail_en": "This is a program description for Bloomberg Money, stating only that Ed Morse, senior advisor and commodities strategist at Hartree Partners, joined host Tome Keene to discuss three topics: the current state of the oil market, his career, and China. The source does not elaborate on any specific views, figures, or judgments regarding oil price trends, supply-demand dynamics, Chinese demand, or related trading strategies. Therefore, no substantive investment insight can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "嘉宾为 Hartree Partners 高级顾问兼大宗商品策略师 Ed Morse。",
+          "en": "The guest is Ed Morse, senior advisor and commodities strategist at Hartree Partners."
+        },
+        {
+          "zh": "讨论话题包括当前石油市场状况、其职业生涯以及中国。",
+          "en": "Topics discussed include the current state of the oil market, his career, and China."
+        },
+        {
+          "zh": "原文仅为节目预告，未包含任何具体观点、数据或投资判断。",
+          "en": "The source is only a program description and contains no specific views, data, or investment judgments."
+        }
+      ],
+      "tags": [
+        "oil market",
+        "commodities",
+        "China",
+        "Bloomberg Money"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:smWhLfvsFIc",
+      "title": "Ackman on Huang's Exit, Anthropic IPO Roadshow",
+      "title_zh": "阿克曼：黄仁勋离开英伟达令人惋惜，Anthropic CEO路演令人印象深刻",
+      "url": "https://www.youtube.com/watch?v=smWhLfvsFIc",
+      "published_at": "2026-11-13T19:44:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "潘兴广场创始人比尔·阿克曼表示，看到黄仁勋离开英伟达令人惋惜，并认为他未来会成就一番伟业。阿克曼还称，Anthropic CEO达里奥·阿莫代伊在纽约IPO路演活动上的演讲令他印象深刻。",
+      "summary_en": "Pershing Square founder Bill Ackman said it is sad to see Jensen Huang leave Nvidia and believes Huang will go on to do something great. Ackman also said he was impressed by Anthropic CEO Dario Amodei's presentation at the company's IPO roadshow event in New York.",
+      "detail_zh": "潘兴广场创始人兼CEO比尔·阿克曼在接受彭博社伊莎贝尔·李采访时表示，看到黄仁勋离开英伟达令人惋惜，但他认为黄仁勋接下来会成就一番伟业。阿克曼还提到，Anthropic CEO达里奥·阿莫代伊在纽约举行的公司IPO路演活动上的演讲给他留下了深刻印象。原文未提供黄仁勋离职的具体细节、阿克曼对英伟达的投资立场，也未说明Anthropic IPO路演的具体内容或时间。",
+      "detail_en": "Pershing Square founder and CEO Bill Ackman, speaking to Bloomberg's Isabelle Lee, said it is sad to see Jensen Huang leave Nvidia, adding that Huang will go on to do something great. Ackman also said he was impressed with the presentation given by Anthropic CEO Dario Amodei at the company's IPO roadshow event in New York. The source does not provide details on Huang's departure, Ackman's investment stance on Nvidia, or the specifics or timing of Anthropic's IPO roadshow.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "阿克曼对黄仁勋离开英伟达表示惋惜，并预计其未来会有重大成就。",
+          "en": "Ackman expressed sadness over Jensen Huang leaving Nvidia and expects him to achieve something great."
+        },
+        {
+          "zh": "阿克曼称Anthropic CEO达里奥·阿莫代伊在纽约IPO路演上的演讲令他印象深刻。",
+          "en": "Ackman said he was impressed by Anthropic CEO Dario Amodei's presentation at the company's IPO roadshow in New York."
+        }
+      ],
+      "tags": [
+        "Bill Ackman",
+        "Jensen Huang",
+        "Nvidia",
+        "Anthropic",
+        "IPO"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:zYpSVdE-9ME",
+      "title": "The Rundown:Jensen Huang resigns, Anthropic nears IPO",
+      "title_zh": "科技要闻：英伟达CEO黄仁勋意外辞职，Anthropic或以1.4万亿美元估值IPO",
+      "url": "https://www.youtube.com/watch?v=zYpSVdE-9ME",
+      "published_at": "2026-11-13T19:28:11+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Ed Ludlow 的 The Rundown 节目梳理本周重大科技新闻，包括英伟达CEO黄仁勋意外辞职，以及 Anthropic 以 1.4 万亿美元估值接近潜在 IPO。",
+      "summary_en": "Ed Ludlow's The Rundown covers this week's biggest tech stories, including Jensen Huang's shock resignation as Nvidia CEO and Anthropic moving closer to a potential IPO at a $1.4 trillion valuation.",
+      "detail_zh": "Ed Ludlow 在 The Rundown 节目中回顾了本周最重要的科技新闻。其中一条是英伟达CEO黄仁勋意外辞职。另一条是 Anthropic 正接近潜在的 IPO，估值达到 1.4 万亿美元。原文未提供更多关于辞职原因、继任安排或 IPO 时间表的细节。",
+      "detail_en": "Ed Ludlow's The Rundown recaps the week's biggest tech stories. One is Jensen Huang's shock resignation as Nvidia CEO. Another is Anthropic moving closer to a potential IPO at a $1.4 trillion valuation. The source provides no further details on the reason for the resignation, succession plans, or IPO timing.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋意外辞职。",
+          "en": "Jensen Huang has shockingly resigned as Nvidia CEO."
+        },
+        {
+          "zh": "Anthropic 正接近潜在的 IPO，估值达 1.4 万亿美元。",
+          "en": "Anthropic is moving closer to a potential IPO at a $1.4 trillion valuation."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Anthropic",
+        "IPO",
+        "CEO resignation",
+        "tech news"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Es99F4fGN2M",
+      "title": "Cerebras CEO: Jensen Huang Had \"One of the Great Entrepreneurial Runs\"",
+      "title_zh": "Cerebras CEO 评价黄仁勋在英伟达的任期",
+      "url": "https://www.youtube.com/watch?v=Es99F4fGN2M",
+      "published_at": "2026-11-13T19:24:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Cerebras 联合创始人兼 CEO Andrew Feldman 将黄仁勋在英伟达的任期称为“历史上最伟大的创业历程之一”。",
+      "summary_en": "Cerebras co-founder and CEO Andrew Feldman called Jensen Huang's tenure at Nvidia \"one of the great entrepreneurial runs in history.\"",
+      "detail_zh": "Cerebras 联合创始人兼 CEO Andrew Feldman 对英伟达 CEO 黄仁勋的任期给予高度评价，称其为“历史上最伟大的创业历程之一”。该表述来自 Feldman 对黄仁勋领导英伟达的评价，原文未提供更多背景或具体细节。",
+      "detail_en": "Cerebras co-founder and CEO Andrew Feldman praised Nvidia CEO Jensen Huang's tenure, calling it \"one of the great entrepreneurial runs in history.\" The statement comes from Feldman's assessment of Huang's leadership at Nvidia; the original text provides no further context or specifics.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Cerebras CEO Andrew Feldman 评价黄仁勋在英伟达的任期为“历史上最伟大的创业历程之一”。",
+          "en": "Cerebras CEO Andrew Feldman called Jensen Huang's tenure at Nvidia \"one of the great entrepreneurial runs in history.\""
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Cerebras",
+        "Jensen Huang",
+        "entrepreneurship"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:K4XpVAB3zAw",
       "title": "Sen. Coons: Lutnick “let America down” over Nvidia controversy",
@@ -16984,309 +17253,6 @@
         "personal investment strategy",
         "bonds",
         "volatility"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:RzTHFS5Gdkg",
-      "title": "DraftKings CEO: We’re ready for any prediction market ruling",
-      "title_zh": "DraftKings CEO：无论最高法院如何裁决预测市场，公司均具竞争力",
-      "url": "https://www.youtube.com/watch?v=RzTHFS5Gdkg",
-      "published_at": "2026-11-06T20:12:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "DraftKings CEO Jason Robins 表示，无论最高法院对预测市场如何裁决，公司都有能力在博彩市场竞争。他强调公司已在体育博彩、预测市场及其他产品上实现多元化，业务不依赖于其无法控制的法院裁决结果。",
-      "summary_en": "DraftKings CEO Jason Robins said the company is positioned to compete in the gambling market regardless of how the Supreme Court rules on prediction markets. He emphasized that DraftKings has diversified across sports betting, prediction markets and other products, so its business is not dependent on a court outcome it cannot control.",
-      "detail_zh": "DraftKings CEO Jason Robins 就最高法院对预测市场的潜在裁决作出回应，表示公司具备在博彩市场中竞争的能力，无论裁决结果如何。Robins 指出，DraftKings 已在体育博彩、预测市场及其他产品领域实现多元化布局。他强调，公司的业务并不依赖于其无法控制的法院裁决结果。这一表态旨在向投资者传递公司业务韧性的信号，但原文未提供具体财务数据或市场份额细节。",
-      "detail_en": "DraftKings CEO Jason Robins responded to the potential Supreme Court ruling on prediction markets, stating that the company is positioned to compete in the gambling market regardless of the outcome. Robins noted that DraftKings has diversified across sports betting, prediction markets and other products. He emphasized that the company's business is not dependent on a court outcome it cannot control. The statement aims to signal business resilience to investors, but the original text does not provide specific financial data or market share details.",
-      "conclusion_zh": "DraftKings 通过业务多元化降低对单一监管裁决的依赖，但投资者仍需关注最高法院裁决的最终结果及其对预测市场业务的潜在影响。",
-      "conclusion_en": "DraftKings reduces reliance on a single regulatory ruling through diversification, but investors should still monitor the Supreme Court's final decision and its potential impact on the prediction markets business.",
-      "key_points": [
-        {
-          "zh": "DraftKings CEO 表示公司不依赖最高法院对预测市场的裁决结果。",
-          "en": "DraftKings CEO says the company is not dependent on the Supreme Court's ruling on prediction markets."
-        },
-        {
-          "zh": "公司已在体育博彩、预测市场和其他产品上实现多元化。",
-          "en": "The company has diversified across sports betting, prediction markets and other products."
-        },
-        {
-          "zh": "Robins 强调无论裁决如何，DraftKings 都能在博彩市场竞争。",
-          "en": "Robins emphasizes that DraftKings can compete in the gambling market regardless of the ruling."
-        }
-      ],
-      "tags": [
-        "DraftKings",
-        "prediction markets",
-        "Supreme Court",
-        "sports betting",
-        "diversification"
-      ],
-      "tickers": [
-        "DKNG"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:P2P5C6RQQug",
-      "title": "Need Better Retirement Education: Lusardi",
-      "title_zh": "彭博访谈：探讨美国金融素养",
-      "url": "https://www.youtube.com/watch?v=P2P5C6RQQug",
-      "published_at": "2026-11-06T20:12:00+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "斯坦福经济政策研究所高级研究员、TIAA金融素养报告合著者Annamaria Lusardi做客彭博“Bloomberg Money”节目，与Scarlet Fu和Tom Keene讨论美国金融素养问题。原文仅为节目预告，未提供具体数据或观点。",
-      "summary_en": "Annamaria Lusardi, senior fellow at the Stanford Institute for Economic Policy & Research and co-author of TIAA's financial literacy report, joins Scarlet Fu and Tom Keene on \"Bloomberg Money\" to discuss financial literacy in America. The original text is only a program teaser and provides no specific data or views.",
-      "detail_zh": "原文仅包含节目预告信息：Annamaria Lusardi（斯坦福经济政策研究所高级研究员、TIAA金融素养报告合著者）作为嘉宾参与彭博“Bloomberg Money”节目，与主持人Scarlet Fu和Tom Keene讨论美国金融素养。原文未提及任何具体数据、研究结论、政策建议或市场影响，也未涉及美股或宏观经济的具体判断。因此，无法提供更详细的要点。",
-      "detail_en": "The original text only contains program teaser information: Annamaria Lusardi (senior fellow at the Stanford Institute for Economic Policy & Research and co-author of TIAA's financial literacy report) appears as a guest on Bloomberg's \"Bloomberg Money\" with hosts Scarlet Fu and Tom Keene to discuss financial literacy in America. The original text does not mention any specific data, research findings, policy recommendations, or market implications, nor does it involve specific judgments about US equities or the macroeconomy. Therefore, no further detailed points can be provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "嘉宾Annamaria Lusardi是斯坦福经济政策研究所高级研究员、TIAA金融素养报告合著者。",
-          "en": "Guest Annamaria Lusardi is a senior fellow at the Stanford Institute for Economic Policy & Research and co-author of TIAA's financial literacy report."
-        },
-        {
-          "zh": "节目为彭博“Bloomberg Money”，主持人为Scarlet Fu和Tom Keene。",
-          "en": "The program is Bloomberg Money, hosted by Scarlet Fu and Tom Keene."
-        },
-        {
-          "zh": "讨论主题为美国金融素养。",
-          "en": "The discussion topic is financial literacy in America."
-        },
-        {
-          "zh": "原文未提供任何具体数据、观点或投资结论。",
-          "en": "The original text provides no specific data, views, or investment conclusions."
-        }
-      ],
-      "tags": [
-        "financial literacy",
-        "Bloomberg interview",
-        "US households"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:-nW0qgu-OD4",
-      "title": "Market Volatility Technical, Not Fundamental: Moore",
-      "title_zh": "花旗财富CIO Kate Moore谈中期选举后市场波动",
-      "url": "https://www.youtube.com/watch?v=-nW0qgu-OD4",
-      "published_at": "2026-11-06T20:03:09+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "花旗财富首席投资官Kate Moore在Bloomberg Money节目中与Scarlet Fu和Tom Keene讨论了美国中期选举后本周的市场波动。原文未提供具体观点、数据或投资判断。",
-      "summary_en": "Kate Moore, CIO of Citi Wealth, discussed this week's market volatility following the US midterms on Bloomberg Money with Scarlet Fu and Tom Keene. The source provides no specific views, data, or investment conclusions.",
-      "detail_zh": "该内容仅为节目预告/简介，说明花旗财富首席投资官Kate Moore做客Bloomberg Money，与主持人Scarlet Fu和Tom Keene讨论美国中期选举后本周的市场波动。原文没有给出Moore的具体观点、市场判断、数据或任何投资建议，其余部分为彭博电视与市场的社交媒体链接和订阅信息。因此无法提炼实质性的投资洞见。",
-      "detail_en": "This content is only a program listing/intro stating that Kate Moore, CIO of Citi Wealth, joined Scarlet Fu and Tom Keene on Bloomberg Money to discuss this week's market volatility after the US midterms. The source does not include Moore's specific views, market judgments, data, or any investment recommendations; the remainder consists of Bloomberg Television and Markets social media links and subscription information. Therefore, no substantive investment insights can be extracted.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "花旗财富CIO Kate Moore做客Bloomberg Money节目。",
-          "en": "Kate Moore, CIO of Citi Wealth, appeared on Bloomberg Money."
-        },
-        {
-          "zh": "讨论主题为美国中期选举后本周的市场波动。",
-          "en": "The discussion topic was this week's market volatility following the US midterms."
-        },
-        {
-          "zh": "原文未提供任何具体观点、数据或投资结论。",
-          "en": "The source provides no specific views, data, or investment conclusions."
-        }
-      ],
-      "tags": [
-        "US midterms",
-        "market volatility",
-        "Citi Wealth",
-        "Bloomberg"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:XseRETjkAvk",
-      "title": "What the Democratic Wave Means for Trump and 2028",
-      "title_zh": "民主党中期选举大胜，特朗普余下任期面临更多审查与立法僵局",
-      "url": "https://www.youtube.com/watch?v=XseRETjkAvk",
-      "published_at": "2026-11-06T19:57:55+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "民主党在中期选举中以较大优势赢得国会两院，彭博分析认为特朗普及其政府将面临持续审查和传票，余下任期可能立法僵局。副总统已与其保持距离，为2028年竞选做准备；观察人士预计特朗普不会因败选而收敛，对伊朗的战争及对分权与法院命令的挑战可能继续。",
-      "summary_en": "Democrats swept both chambers of Congress by surprisingly strong margins in the midterms. Bloomberg analysis suggests Trump and his administration will face steady scrutiny and subpoenas, with possible legislative gridlock for the rest of his term. The vice president is already distancing himself ahead of a 2028 run, and observers warn Trump is unlikely to be chastened, with his war on Iran and challenges to separation of powers possibly continuing.",
-      "detail_zh": "民主党在中期选举中以出人意料的较大优势横扫国会两院。对特朗普、其政府及家族而言，彭博分析认为答案可能是持续不断的审查和传票。其余下任期可能见证立法僵局，尽管特朗普已表示愿意与民主党合作。副总统正着眼于总统竞选，且已与上司保持距离。然而，很少有政治观察人士认为这位80岁的总统会因本党败选而收敛，并警告其对伊朗的战争以及对分权原则和法院命令的持续挑战可能会继续。",
-      "detail_en": "The Democratic Party swept both chambers of Congress by surprisingly strong margins in the midterms. For Trump, his administration and his family, Bloomberg analysis suggests the answer is likely a steady stream of scrutiny and subpoenas. The rest of his term may witness legislative gridlock, though he has expressed a willingness to work with Democrats. His vice president, eyeing a presidential run, is already distancing himself from his boss. However, few political observers believe the 80-year-old president will be chastened by his party's defeat, and warn that his war on Iran, as well as his ongoing challenges to the separation of powers and court orders, may continue.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党以较大优势赢得中期选举，控制国会两院。",
-          "en": "Democrats won the midterms by surprisingly strong margins, taking both chambers of Congress."
-        },
-        {
-          "zh": "特朗普政府及家族可能面临持续审查和传票。",
-          "en": "The Trump administration and family may face a steady stream of scrutiny and subpoenas."
-        },
-        {
-          "zh": "余下任期可能出现立法僵局，尽管特朗普表示愿意与民主党合作。",
-          "en": "The rest of the term may see legislative gridlock, though Trump has expressed willingness to work with Democrats."
-        },
-        {
-          "zh": "副总统已与特朗普保持距离，为2028年总统竞选做准备。",
-          "en": "The vice president is already distancing himself from Trump, eyeing a 2028 presidential run."
-        },
-        {
-          "zh": "观察人士警告特朗普不会因败选而收敛，对伊朗战争及分权挑战可能继续。",
-          "en": "Observers warn Trump is unlikely to be chastened by the defeat; his war on Iran and challenges to separation of powers may continue."
-        }
-      ],
-      "tags": [
-        "US midterms",
-        "Trump",
-        "Congress",
-        "2028 election"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Q47IwQ4cxZo",
-      "title": "Trump Names Stephen Miller to Replace Susie Wiles",
-      "title_zh": "特朗普任命Stephen Miller为白宫幕僚长",
-      "url": "https://www.youtube.com/watch?v=Q47IwQ4cxZo",
-      "published_at": "2026-11-06T19:50:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普任命Stephen Miller接替Susie Wiles出任白宫幕僚长，Wiles转任特朗普政治运作团队。该人事变动由Bloomberg记者报道，原文未提供更多政策或市场影响细节。",
-      "summary_en": "President Donald Trump named Stephen Miller as his new chief of staff, replacing Susie Wiles, who is moving to Trump's political operation, according to Bloomberg's Kailey Leinz and Jeff Mason.",
-      "detail_zh": "据Bloomberg的Kailey Leinz与Jeff Mason报道，美国总统特朗普任命Stephen Miller为新的白宫幕僚长，接替Susie Wiles。Wiles将转至特朗普的政治运作团队。原文仅披露上述人事安排，未提及政策方向、市场反应或对美股的影响。",
-      "detail_en": "Bloomberg's Kailey Leinz and Jeff Mason report that President Donald Trump has named Stephen Miller as his new chief of staff, replacing Susie Wiles, who is moving to Trump's political operation. The source provides no further details on policy implications, market reaction, or impact on US equities.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普任命Stephen Miller为白宫幕僚长",
-          "en": "Trump names Stephen Miller as White House chief of staff"
-        },
-        {
-          "zh": "Susie Wiles卸任幕僚长，转任特朗普政治运作团队",
-          "en": "Susie Wiles steps down as chief of staff to join Trump's political operation"
-        },
-        {
-          "zh": "消息由Bloomberg记者Kailey Leinz与Jeff Mason报道",
-          "en": "Reported by Bloomberg's Kailey Leinz and Jeff Mason"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "chief of staff",
-        "personnel change"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3a1k0glxhQw",
-      "title": "Lyft CEO: Citi Bike is still a “great deal” despite rising fares",
-      "title_zh": "Lyft CEO称Citi Bike仍是“相当划算的交易”",
-      "url": "https://www.youtube.com/watch?v=3a1k0glxhQw",
-      "published_at": "2026-11-06T19:37:25+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Lyft CEO David Risher表示，尽管电动自行车费用上涨，Citi Bike仍是“相当划算的交易”，并指出服务需求强劲。他称Lyft正努力保持价格尽可能可负担，纽约的涨价受公司与该市合同的限制。",
-      "summary_en": "Lyft CEO David Risher says Citi Bike remains a \"pretty great deal\" despite rising e-bike fares, citing strong demand. He says Lyft is working to keep prices as affordable as possible, with New York increases limited by the company's contract with the city.",
-      "detail_zh": "Lyft CEO David Risher在评论电动自行车费用上涨时表示，Citi Bike仍然是一项“相当划算的交易”。他援引该服务强劲的需求作为支撑。Risher指出，Lyft正致力于将价格保持在尽可能可负担的水平。他特别提到，在纽约，涨价受到公司与该市合同的限制。原文未提供具体票价数字、需求数据或合同条款细节。",
-      "detail_en": "Lyft CEO David Risher, commenting on rising e-bike fares, said Citi Bike remains a \"pretty great deal.\" He pointed to strong demand for the service. Risher said Lyft is working to keep prices as affordable as possible. He noted that in New York, price increases are limited by the company's contract with the city. The source does not provide specific fare figures, demand data, or contract terms.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Lyft CEO David Risher称，尽管电动自行车费用上涨，Citi Bike仍是“相当划算的交易”。",
-          "en": "Lyft CEO David Risher says Citi Bike remains a \"pretty great deal\" despite rising e-bike fares."
-        },
-        {
-          "zh": "Risher指出该服务需求强劲。",
-          "en": "Risher points to strong demand for the service."
-        },
-        {
-          "zh": "Lyft正努力将价格保持在尽可能可负担的水平。",
-          "en": "Lyft is working to keep prices as affordable as possible."
-        },
-        {
-          "zh": "在纽约，涨价受公司与该市合同的限制。",
-          "en": "In New York, price increases are limited by the company's contract with the city."
-        }
-      ],
-      "tags": [
-        "Lyft",
-        "Citi Bike",
-        "pricing",
-        "e-bike"
-      ],
-      "tickers": [
-        "LYFT"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:9cEIp827Vb4",
-      "title": "A Tax Tool Financial Advisors Should Know About",
-      "title_zh": "贝莱德税务评估工具：去年近8000名顾问使用，分析超3万组合",
-      "url": "https://www.youtube.com/watch?v=9cEIp827Vb4",
-      "published_at": "2026-11-06T19:15:34+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "贝莱德税务评估工具去年被近8000名顾问使用，分析了超过3万个投资组合。该工具帮助顾问快速识别预估资本利得分配、潜在税损收割机会和基金层面特征，旨在节省税务信息收集时间。",
-      "summary_en": "BlackRock's tax evaluator was used by nearly 8,000 advisors last year to analyze over 30,000 portfolios. The tool helps advisors quickly spot estimated capital gains distributions, potential tax-loss harvesting opportunities, and fund-level characteristics, aiming to save time on tax information collection.",
-      "detail_zh": "贝莱德税务评估工具在去年被近8000名顾问使用，分析了超过3万个投资组合。该工具允许用户上传投资组合，并快速识别预估资本利得分配、潜在的税损收割机会以及基金层面特征，所有信息集中在一处。其目的是替代花费数小时收集税务信息的过程，帮助顾问及其客户和潜在客户保留更多收益。",
-      "detail_en": "BlackRock's tax evaluator was used by nearly 8,000 advisors last year to analyze more than 30,000 portfolios. The tool allows users to upload a portfolio and quickly spot estimated capital gains distributions, potential tax-loss harvesting opportunities, and fund-level characteristics, all in one place. It aims to replace the hours spent collecting tax information, helping advisors and their clients and prospects keep more of what they earn.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "贝莱德税务评估工具去年被近8000名顾问使用。",
-          "en": "BlackRock's tax evaluator was used by nearly 8,000 advisors last year."
-        },
-        {
-          "zh": "该工具分析了超过3万个投资组合。",
-          "en": "The tool analyzed more than 30,000 portfolios."
-        },
-        {
-          "zh": "功能包括识别预估资本利得分配、潜在税损收割机会和基金层面特征。",
-          "en": "Features include spotting estimated capital gains distributions, potential tax-loss harvesting opportunities, and fund-level characteristics."
-        },
-        {
-          "zh": "旨在节省收集税务信息的时间，帮助客户保留更多收益。",
-          "en": "Aims to save time on collecting tax information and help clients keep more of what they earn."
-        }
-      ],
-      "tags": [
-        "BlackRock",
-        "tax evaluator",
-        "advisors",
-        "tax-loss harvesting"
       ],
       "tickers": [],
       "sentiment": "neutral"
