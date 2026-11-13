@@ -1,6 +1,183 @@
 {
-  "generated_at": "2026-11-13T16:15:24.959845+00:00",
+  "generated_at": "2026-11-13T17:13:12.523393+00:00",
   "insights": [
+    {
+      "guid": "yt:jPVn6pnsaEw",
+      "title": "Nordstrom Co-CEO on Going Private, Customer Experience, Retail Space",
+      "title_zh": "Nordstrom联席CEO：Rack业务仍有充足增长空间，私有化旨在加强决策影响力",
+      "url": "https://www.youtube.com/watch?v=jPVn6pnsaEw",
+      "published_at": "2026-11-13T16:53:42+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Nordstrom联席CEO Pete Nordstrom表示，公司Rack业务仍有“充足的增长空间”，并解释2025年将公司私有化是因为他和兄弟Erik Nordstrom希望对部分决策拥有更大影响力。",
+      "summary_en": "Nordstrom Co-CEO Pete Nordstrom said there is \"a lot of headroom\" in the company's Rack concept, and explained that taking the company private in 2025 was driven by a desire for him and his brother Erik Nordstrom to have more influence over certain decisions.",
+      "detail_zh": "Nordstrom联席CEO Pete Nordstrom在接受Bloomberg的Romaine Bostick采访时表示，公司的Rack业务概念仍有“充足的增长空间”（a lot of headroom）。他同时解释，2025年将公司私有化的原因之一，是他与兄弟、联席CEO Erik Nordstrom希望对公司的部分决策拥有更大的影响力。Pete Nordstrom未在采访中披露私有化交易的具体财务细节或Rack业务的具体增长数据。",
+      "detail_en": "Nordstrom Co-CEO Pete Nordstrom, in an interview with Bloomberg's Romaine Bostick, said there is \"a lot of headroom\" in the company's Rack concept. He also explained that one reason for taking the company private in 2025 was that he and his brother, Co-CEO Erik Nordstrom, wanted more influence over some of the company's decisions. Pete Nordstrom did not disclose specific financial details of the take-private transaction or specific growth figures for the Rack business in the interview.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Nordstrom联席CEO Pete Nordstrom称Rack业务仍有“充足的增长空间”。",
+          "en": "Nordstrom Co-CEO Pete Nordstrom said there is \"a lot of headroom\" in the Rack concept."
+        },
+        {
+          "zh": "2025年公司私有化的原因之一，是Pete与Erik Nordstrom希望对公司部分决策拥有更大影响力。",
+          "en": "One reason for the 2025 take-private was that Pete and Erik Nordstrom wanted more influence over some company decisions."
+        },
+        {
+          "zh": "采访未披露私有化交易的具体财务条款或Rack业务的具体增长数据。",
+          "en": "The interview did not disclose specific financial terms of the take-private or specific growth figures for Rack."
+        }
+      ],
+      "tags": [
+        "Nordstrom",
+        "take-private",
+        "Rack",
+        "retail"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:R2RuJaWqX5g",
+      "title": "Democratic Senator Coons Says Secretary Lutnick Let America Down",
+      "title_zh": "参议员库恩斯质疑卢特尼克在英伟达对华芯片问题上的角色",
+      "url": "https://www.youtube.com/watch?v=R2RuJaWqX5g",
+      "published_at": "2026-11-13T16:47:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特拉华州民主党参议员克里斯·库恩斯指责商务部长霍华德·卢特尼克“让美国失望”，并处于涉及英伟达的争议中心。库恩斯想了解卢特尼克是否让中国更容易获得英伟达先进AI芯片，但表示没有“具体证据”表明美国国家安全已受损。特朗普总统表示对卢特尼克完全有信心。",
+      "summary_en": "Senator Chris Coons (D-DE) says Commerce Secretary Howard Lutnick \"let America down\" and is at the center of a controversy involving Nvidia. Coons wants to know if Lutnick made it easier for China to secure Nvidia advanced AI chips, but says he has no \"concrete evidence\" that US national security has been compromised. President Trump says he has complete confidence in Lutnick.",
+      "detail_zh": "特拉华州民主党参议员克里斯·库恩斯在“Bloomberg Surveillance”节目中表示，商务部长霍华德·卢特尼克“让美国失望”，并处于涉及英伟达的争议中心。库恩斯想了解卢特尼克是否让中国更容易获得英伟达先进AI芯片。库恩斯表示，他没有“具体证据”表明美国国家安全已受到损害。美国总统唐纳德·特朗普表示，他对卢特尼克完全有信心。",
+      "detail_en": "Senator Chris Coons (D-DE) said on \"Bloomberg Surveillance\" that Commerce Secretary Howard Lutnick \"let America down\" and is at the center of a controversy involving Nvidia. Coons wants to know if Lutnick made it easier for China to secure Nvidia advanced AI chips. Coons says he has no \"concrete evidence\" that US national security has been compromised. President Donald Trump says he has complete confidence in Lutnick.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "参议员库恩斯指责商务部长卢特尼克“让美国失望”，并处于涉及英伟达的争议中心。",
+          "en": "Senator Coons says Commerce Secretary Lutnick \"let America down\" and is at the center of a controversy involving Nvidia."
+        },
+        {
+          "zh": "库恩斯想了解卢特尼克是否让中国更容易获得英伟达先进AI芯片。",
+          "en": "Coons wants to know if Lutnick made it easier for China to secure Nvidia advanced AI chips."
+        },
+        {
+          "zh": "库恩斯表示没有“具体证据”表明美国国家安全已受损。",
+          "en": "Coons says he has no \"concrete evidence\" that US national security has been compromised."
+        },
+        {
+          "zh": "特朗普总统表示对卢特尼克完全有信心。",
+          "en": "President Trump says he has complete confidence in Lutnick."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "China",
+        "export controls",
+        "Commerce Department",
+        "national security"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:pISMYtqRDsI",
+      "title": "Bloomberg Surveillance 11/13/2026",
+      "title_zh": "英伟达面临清算，通胀升温，AI交易重置",
+      "url": "https://www.youtube.com/watch?v=pISMYtqRDsI",
+      "published_at": "2026-11-13T16:26:25+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期Bloomberg Surveillance聚焦英伟达面临的监管与市场压力、美国批发通胀升至2022年以来最快，以及AI交易领导权可能转移。多位嘉宾认为AI基本面未变，但英伟达的领先地位或已动摇，市场可在英伟达不领涨的情况下走强。",
+      "summary_en": "This episode of Bloomberg Surveillance focuses on Nvidia's regulatory and market pressures, U.S. wholesale inflation rising at the fastest pace since 2022, and a potential shift in AI trade leadership. Several guests argue AI fundamentals remain intact, but Nvidia's leadership may have peaked, and the broad market can thrive without Nvidia leading.",
+      "detail_zh": "节目围绕英伟达的“清算”展开：走私芯片引发新的中国问题，前白宫贸易官员Kate Kalutkiewicz预计中国芯片管制可能收紧。Dan Ives下调英伟达目标价但维持看涨立场。Baird Strategas的Chris Verrone认为AI股票已超卖，但领导权已经转移。Deepwater的Doug Clinton认为Ian Buck是接替黄仁勋的热门人选。JPMorgan Asset Management的Priya Misra在债券抛售后认为持有久期是合理的。前彭斯幕僚长Marc Short称英伟达丑闻将令华盛顿持续调查。Charles Schwab的Kevin Gordon认为广义市场可以在英伟达不领涨的情况下繁荣。Morgan Stanley的Michelle Weaver称尽管英伟达风波，AI基本面依然完好。DA Davidson的Gil Luria警告英伟达5000亿美元的AI后盾可能冻结。宏观方面，美国批发通胀升至2022年以来最快，ADP的Nela Richardson称供应冲击正成为通胀的新常态，Wells Fargo的Tracie McMillion认为50个基点的加息可能已不在考虑之中。参议员Chris Coons批评商务部长Lutnick在英伟达问题上“让美国失望”。",
+      "detail_en": "The program centers on Nvidia's 'reckoning': smuggled chips raise new China questions, with former White House trade official Kate Kalutkiewicz expecting China chip controls likely to tighten. Dan Ives cut his Nvidia price target but remains bullish. Chris Verrone of Baird Strategas sees AI stocks as oversold but leadership having moved on. Doug Clinton of Deepwater Asset Management views Ian Buck as the favorite to succeed Jensen Huang. Priya Misra of JPMorgan Asset Management argues owning duration makes sense after the bond selloff. Former Pence Chief of Staff Marc Short says the Nvidia scandal will keep Washington investigating. Kevin Gordon of Charles Schwab believes the broad market can thrive without Nvidia leading. Michelle Weaver of Morgan Stanley says AI fundamentals remain intact despite the Nvidia fallout. Gil Luria of DA Davidson warns Nvidia's $500 billion AI backstop could freeze. On macro, U.S. wholesale inflation climbed at the fastest pace since 2022; Nela Richardson of ADP says supply shocks are becoming inflation's new normal; Tracie McMillion of Wells Fargo Investment Institute says a 50 bps Fed hike is likely off the table. Senator Chris Coons criticized Commerce Secretary Lutnick for 'letting America down' on Nvidia.",
+      "conclusion_zh": "英伟达面临监管与市场双重压力，AI交易领导权或已转移，但AI基本面未变；同时通胀升温使美联储加息路径受限，投资者需关注市场领导权的变化与通胀的供应端冲击。",
+      "conclusion_en": "Nvidia faces dual regulatory and market pressures, and AI trade leadership may have shifted, though AI fundamentals remain intact; meanwhile, rising inflation limits the Fed's hiking path, and investors should watch for changes in market leadership and supply-side inflation shocks.",
+      "key_points": [
+        {
+          "zh": "Dan Ives下调英伟达目标价，但在黄仁勋讲话后仍维持看涨立场。",
+          "en": "Dan Ives cut his Nvidia price target but remains bullish post-Huang."
+        },
+        {
+          "zh": "Chris Verrone认为AI股票已超卖，但市场领导权已经转移。",
+          "en": "Chris Verrone sees AI stocks as oversold, but leadership has moved on."
+        },
+        {
+          "zh": "美国批发通胀升至2022年以来最快，供应冲击成为通胀新常态。",
+          "en": "U.S. wholesale inflation climbed at the fastest pace since 2022, with supply shocks becoming inflation's new normal."
+        },
+        {
+          "zh": "Tracie McMillion认为50个基点的美联储加息可能已不在考虑之中。",
+          "en": "Tracie McMillion believes a 50 bps Fed hike is likely off the table."
+        },
+        {
+          "zh": "Kevin Gordon认为广义市场可以在英伟达不领涨的情况下繁荣。",
+          "en": "Kevin Gordon thinks the broad market can thrive without Nvidia leading."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI trade",
+        "inflation",
+        "chip controls",
+        "Fed"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:HDFGIAWXO1M",
+      "title": "Fed's Collins Talks Inflation Risks, Rate Policy and AI",
+      "title_zh": "波士顿联储主席柯林斯：通胀过高且范围扩大，支持很快进一步收紧政策",
+      "url": "https://www.youtube.com/watch?v=HDFGIAWXO1M",
+      "published_at": "2026-11-13T16:17:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "波士顿联储主席柯林斯表示，通胀仍然过高，并显示出从能源向更广泛领域扩散的迹象；需求韧性和健康增长支持“很快”进一步收紧政策的理由。她还谈及住房市场挑战和AI的经济影响。",
+      "summary_en": "Boston Fed President Susan Collins said inflation remains too high and is broadening beyond energy, with resilient demand and healthy growth supporting the case for additional policy tightening \"soon.\" She also discussed housing market challenges and AI's economic impact.",
+      "detail_zh": "波士顿联储主席苏珊·柯林斯在接受彭博采访时表示，通胀仍然过高，并显示出从能源向更广泛领域扩散的迹象。她指出，需求具有韧性且经济增长健康，这支持了“很快”进一步收紧政策的理由。柯林斯还讨论了住房市场面临的挑战以及人工智能对经济的影响。",
+      "detail_en": "Boston Fed President Susan Collins said in a Bloomberg interview that inflation remains too high and is showing signs of broadening beyond energy. She noted resilient demand and healthy growth support the case for additional policy tightening \"soon.\" Collins also commented on challenges facing the housing market and the economic impact of AI.",
+      "conclusion_zh": "美联储官员释放“很快”进一步收紧的信号，通胀扩散风险值得关注。",
+      "conclusion_en": "A Fed official signals further tightening \"soon,\" with inflation broadening risk worth watching.",
+      "key_points": [
+        {
+          "zh": "通胀仍然过高，且出现从能源向更广领域扩散的迹象",
+          "en": "Inflation remains too high and is showing signs of broadening beyond energy"
+        },
+        {
+          "zh": "需求韧性和健康增长支持“很快”进一步收紧政策",
+          "en": "Resilient demand and healthy growth support the case for additional tightening \"soon\""
+        },
+        {
+          "zh": "柯林斯还谈及住房市场挑战和AI的经济影响",
+          "en": "Collins also discussed housing market challenges and AI's economic impact"
+        }
+      ],
+      "tags": [
+        "Fed",
+        "inflation",
+        "monetary policy",
+        "housing",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:jmON8BONo94",
       "title": "Jensen Huang on AI Optimism and Nvidia’s Next CEO",
@@ -17127,56 +17304,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "yt:354vZMoIvlE",
-      "title": "Stocks Are Falling. The Economy Is Weakening. So Why Doesn’t Mike Green See Passive Flows Turning?",
-      "title_zh": "Mike Green：被动投资如何重塑股价与市场集中度",
-      "url": "https://www.youtube.com/watch?v=354vZMoIvlE",
-      "published_at": "2026-11-06T16:48:26+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Tier1 Alpha创始人Mike Green指出，基金资金流向（尤其是退休金和目标日期基金）是理解大盘股买压的关键，指数机制使巨型IPO受益，而流动性增长跟不上市值扩张。他正在构建追踪数千只基金并据此微调组合的框架，并计划纳入管理期货以分散风险。",
-      "summary_en": "Mike Green, founder of Tier1 Alpha, argues that fund flows—especially retirement contributions and target-date funds—are key to understanding buying pressure in large-cap stocks. Index mechanics benefit giant IPOs, while liquidity does not keep pace with market cap. He is building a framework to track thousands of funds and make small portfolio tilts, with planned inclusion of managed futures for diversification.",
-      "detail_zh": "Mike Green在访谈中阐述，被动投资正通过退休金缴纳和目标日期基金等渠道，将资金机械性地配置到指数成分股，尤其是市值最大的公司，形成持续的买压。他认为，指数纳入机制（如低流通盘纳入）可能为巨型IPO创造需求，而巨型IPO与较小规模发行的需求来源截然不同。Green指出，流动性并未随市值同步增长，这可能导致市场深度不足。他还提出，被动资金流有助于解释价值、规模与动量因子的行为。在Tier1，他正构建一个追踪数千只基金、估算其对个股影响并据此对组合进行微调的框架。他讨论了可能中断退休驱动买盘的因素（如就业趋势变化），以及现金流折现分析在机械性买盘市场中的适用场景。此外，他计划在策略中纳入管理期货以分散风险，并提及跟踪误差等考量。",
-      "detail_en": "In the interview, Mike Green explains that passive investing mechanically channels money—via retirement contributions and target-date funds—into index constituents, especially the largest companies, creating persistent buying pressure. He argues that index inclusion mechanics (e.g., low-float inclusion) can create demand for giant IPOs, and that giant IPOs and smaller offerings face very different sources of demand. Green notes that liquidity does not grow in proportion to market capitalization, potentially leading to insufficient market depth. He also suggests that passive flows may help explain value, size, and momentum factor behavior. At Tier1, he is building a framework that tracks thousands of funds, estimates their impact on individual securities, and makes small portfolio tilts accordingly. He discusses what could interrupt retirement-driven buying (e.g., employment trends) and where discounted cash flow analysis fits in a market shaped by mechanical buying. Additionally, he plans to incorporate managed futures for diversification and mentions considerations like tracking error.",
-      "conclusion_zh": "投资者应关注基金资金流对股价的机械性影响，尤其是退休金和目标日期基金驱动的买压，并留意就业趋势等可能改变资金流的催化剂。",
-      "conclusion_en": "Investors should watch the mechanical impact of fund flows on stock prices, especially buying pressure from retirement and target-date funds, and monitor catalysts like employment trends that could alter flows.",
-      "key_points": [
-        {
-          "zh": "基金选择正日益塑造证券价格，理解哪些基金获得资金及其配置方式对理解其持仓至关重要。",
-          "en": "Fund selection is increasingly shaping security prices; understanding which funds receive money and how they allocate it is essential to understanding the stocks they own."
-        },
-        {
-          "zh": "低流通盘指数纳入可能为巨型IPO创造需求，且巨型IPO与较小发行的需求来源不同。",
-          "en": "Low-float index inclusions can create demand for giant IPOs, and giant IPOs and smaller offerings can face very different sources of demand."
-        },
-        {
-          "zh": "流动性并未随市值成比例增长。",
-          "en": "Liquidity does not grow in proportion to market capitalization."
-        },
-        {
-          "zh": "被动资金流可能有助于解释价值、规模与动量因子的行为。",
-          "en": "Passive flows may help explain value, size, and momentum factor behavior."
-        },
-        {
-          "zh": "Tier1追踪数千只基金并估算其对个股的影响，据此进行小幅组合倾斜，并计划纳入管理期货以分散风险。",
-          "en": "Tier1 tracks thousands of funds and estimates their impact on individual securities to make small portfolio tilts, with planned inclusion of managed futures for diversification."
-        }
-      ],
-      "tags": [
-        "passive investing",
-        "fund flows",
-        "market concentration",
-        "liquidity",
-        "retirement funds"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
