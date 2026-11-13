@@ -1,6 +1,100 @@
 {
-  "generated_at": "2026-11-13T12:18:08.039450+00:00",
+  "generated_at": "2026-11-13T13:13:00.488655+00:00",
   "insights": [
+    {
+      "guid": "yt:3WoWK6fsJlU",
+      "title": "Dan Ives Cuts Nvidia Price Target, But Stays Bullish Post-Huang",
+      "title_zh": "Ives：英伟达若失去黄仁勋将拉平AI竞争，微软遭遇“灾难时刻”",
+      "url": "https://www.youtube.com/watch?v=3WoWK6fsJlU",
+      "published_at": "2026-11-13T12:40:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Yorkville Ives & Co.合伙人Dan Ives表示，英伟达若没有黄仁勋，将在人工智能领域“拉平竞争环境”，并认为下一任CEO将来自公司外部。他还将微软Outlook、Teams和Copilot AI工具的中断称为微软的“灾难时刻”。",
+      "summary_en": "Dan Ives, partner at Yorkville Ives & Co., says Nvidia without Jensen Huang would \"even the playing field\" in AI and expects the next CEO to come from outside the company. He also calls Microsoft's disruptions to Outlook, Teams and Copilot a \"disaster moment.\"",
+      "detail_zh": "Yorkville Ives & Co.合伙人兼高级董事总经理Dan Ives在“Bloomberg Surveillance”节目中表示，英伟达若没有黄仁勋，将在人工智能领域“拉平竞争环境”。Ives认为英伟达的下一任CEO将来自公司外部。他还提到微软的Outlook、Teams和Copilot AI工具出现中断，并将其称为微软的“灾难时刻”。",
+      "detail_en": "Dan Ives, partner and senior managing director at Yorkville Ives & Co., said on \"Bloomberg Surveillance\" that Nvidia without Jensen Huang would \"even the playing field\" in artificial intelligence. Ives believes the next CEO of Nvidia will come from outside the company. He also cited disruptions at Microsoft's Outlook, Teams and Copilot AI tool, calling it Microsoft's \"disaster moment.\"",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Ives认为英伟达若没有黄仁勋，将在AI领域“拉平竞争环境”。",
+          "en": "Ives says Nvidia without Jensen Huang would \"even the playing field\" in AI."
+        },
+        {
+          "zh": "Ives预计英伟达下一任CEO将来自公司外部。",
+          "en": "Ives expects Nvidia's next CEO to come from outside the company."
+        },
+        {
+          "zh": "Ives将微软Outlook、Teams和Copilot AI工具的中断称为微软的“灾难时刻”。",
+          "en": "Ives calls Microsoft's disruptions to Outlook, Teams and Copilot a \"disaster moment.\""
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Microsoft",
+        "AI",
+        "CEO succession",
+        "outage"
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4967750",
+      "title": "Wall Street Breakfast Podcast: Microsoft Still On Hold With IT",
+      "title_zh": "微软全球宕机持续，Anthropic IPO超额认购六倍，应用材料业绩超预期",
+      "url": "https://seekingalpha.com/article/4967750-wall-street-breakfast-podcast-microsoft-still-on-hold-with-it?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-13T12:19:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "微软365全球性宕机持续，盘前股价跌超2%，公司称无恶意活动迹象；Anthropic IPO据报获六倍超额认购，拟募资至多644亿美元，有望成为史上最大IPO；应用材料 fiscal Q4 营收同比增长53%超预期，Q1指引中值亦高于共识。",
+      "summary_en": "Microsoft shares fell over 2% premarket as a global Microsoft 365 outage persisted, with no indication of malicious activity. Anthropic's IPO is reportedly six times oversubscribed, seeking up to $64.4B in the offering. Applied Materials beat fiscal Q4 forecasts with revenue up 53% YoY and issued Q1 guidance above consensus.",
+      "detail_zh": "微软（MSFT）自周四开始的全球性宕机仍在持续，影响Copilot、Outlook和Teams等服务，盘前股价跌超2%。微软周五更新称，故障影响与Exchange Online和电子邮件服务交互的广泛Microsoft 365产品，公司正采取“审慎方法识别并修复受影响的基础设施”，并表示没有迹象表明宕机由恶意活动引起，将以“紧迫性和优先级”处理直至完全解决。Downdetector显示周四早些时候超13万用户报告Outlook访问问题，公司在X上的系列帖子显示工程师难以完全控制问题，在宣布成功恢复服务健康后数小时又更新受影响服务列表并继续处理。Anthropic（ANT）IPO据彭博报道获约六倍超额认购，公司拟通过IPO募资至多644亿美元，并通过私募配售募资260亿美元，这将使其成为史上最大上市交易，超越SpaceX。银行家告诉潜在投资者，现有支持者将在IPO中优先获配，部分潜在买家获配规模将低于预期。Anthropic还举办投资者活动以提振需求，包括今日与CEO Dario Amodei和摩根大通（JPM）CEO Jamie Dimon的直播。股票预计11月19日在纳斯达克开始交易。应用材料（AMAT）昨日盘后公布的 fiscal Q4 业绩和指引超华尔街预期，营收同比增长53%至104.1亿美元，高于103亿美元共识；自由现金流26亿美元，向股东返还现金24亿美元，包括八年多来最大季度股票回购。CEO Gary Dickerson表示AI继续推动“半导体的强劲增量需求”。Q1指引方面，EPS预计4.15-4.55美元，中值4.35美元高于4.24美元预测；销售额预计106-116亿美元，中值111亿美元高于108.5亿美元共识。盘前股指期货变动不大，此前主要指数收跌但跌幅均小于0.5%；国债收益率在前一交易日跳升后小幅走低，交易员等待批发端通胀数据，经济日历包括北京时间20:30公布的10月生产者价格指数。",
+      "detail_en": "Microsoft (MSFT) fell more than 2% premarket as a global outage that began Thursday continued to affect services including Copilot, Outlook and Teams. In a Friday update, Microsoft said the outage was affecting a wide range of Microsoft 365 offerings that interact with Exchange Online and email services, and that it was using \"a measured approach to identify and repair affected infrastructure.\" The company said it had no indication the outage was caused by malicious activity and would treat the incident \"with urgency and priority until full resolution.\" More than 130,000 users on Downdetector reported problems accessing Outlook earlier Thursday, and a series of posts on X suggested engineers were struggling to fully control the problem; hours after saying it had restored service health, the company updated its list of impacted services and continued to address the issue. Anthropic's (ANT) IPO is about six times oversubscribed, Bloomberg reported. The company is seeking to raise as much as $64.4B in the IPO and $26B in a private placement, which would make it the biggest listing ever, surpassing SpaceX. Bankers told prospective investors that existing backers will be prioritized, while some would-be buyers will receive smaller allocations than expected. Anthropic is holding investor events to bolster demand, including a livestream with CEO Dario Amodei and JPMorgan (JPM) CEO Jamie Dimon today. Shares are expected to start trading on Nasdaq on Nov. 19. Applied Materials (AMAT) reported fiscal Q4 results and guidance that topped Wall Street forecasts after the bell yesterday. Revenue rose 53% year over year to $10.41B, topping the $10.3B consensus. The company generated $2.6B in free cash flow and returned $2.4B to shareholders, including its largest quarterly buyback in more than eight years. CEO Gary Dickerson said AI continues to fuel \"strong incremental demand for semiconductors.\" For Q1, Applied Materials expects EPS of $4.15 to $4.55, with the $4.35 midpoint above the $4.24 forecast, and sales of $10.6B to $11.6B, with the $11.1B midpoint above the $10.85B consensus. Premarket stock index futures were little changed after major indexes closed down less than 0.5%; Treasury yields were a little lower after a jump in the previous session as traders await wholesale inflation data, with the October Producer Price Index due at 8:30 a.m.",
+      "conclusion_zh": "微软服务中断事件短期压制股价，但需关注其修复进展；Anthropic IPO需求强劲，反映AI领域投资热度；应用材料业绩与指引超预期，印证AI驱动的半导体需求韧性。",
+      "conclusion_en": "Microsoft's outage weighs on shares near term, but resolution progress bears watching; Anthropic's strong IPO demand reflects AI investment appetite; Applied Materials' beat and raise underscore resilient AI-driven semiconductor demand.",
+      "key_points": [
+        {
+          "zh": "微软365全球宕机持续，影响Copilot、Outlook和Teams，盘前股价跌超2%，公司称无恶意活动迹象。",
+          "en": "Microsoft 365 global outage persists, affecting Copilot, Outlook and Teams; stock down over 2% premarket, no indication of malicious activity."
+        },
+        {
+          "zh": "Anthropic IPO据报获六倍超额认购，拟募资至多644亿美元，有望成为史上最大IPO，现有支持者优先获配。",
+          "en": "Anthropic IPO reportedly six times oversubscribed, seeking up to $64.4B, potentially the largest IPO ever; existing backers prioritized."
+        },
+        {
+          "zh": "应用材料 fiscal Q4 营收104.1亿美元超预期，同比增长53%，Q1营收和EPS指引中值均高于共识。",
+          "en": "Applied Materials fiscal Q4 revenue of $10.41B beat consensus, up 53% YoY; Q1 revenue and EPS guidance midpoints above consensus."
+        },
+        {
+          "zh": "盘前股指期货变动不大，国债收益率小幅走低，市场等待10月生产者价格指数。",
+          "en": "Premarket index futures little changed; Treasury yields slightly lower as markets await October PPI."
+        }
+      ],
+      "tags": [
+        "Microsoft outage",
+        "Anthropic IPO",
+        "Applied Materials earnings",
+        "semiconductor demand",
+        "PPI"
+      ],
+      "tickers": [
+        "MSFT",
+        "AMAT",
+        "JPM"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "4967714",
       "title": "Full Rocket Reusability And SpaceX's Boldest Catch Yet",
@@ -17136,300 +17230,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:9ZsotTCcfEY",
-      "title": "UK & Europe Avoid Worst of Stock Rout",
-      "title_zh": "AI驱动的全球股市抛售蔓延，纳指创2020年3月以来最差单日",
-      "url": "https://www.youtube.com/watch?v=9ZsotTCcfEY",
-      "published_at": "2026-11-06T13:09:35+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "AI驱动的股市抛售蔓延至全球，但英国和欧洲避开了最严重的冲击；美国期货因逢低买入转涨。此前纳斯达克指数经历了自2020年3月新冠疫情爆发以来最糟糕的一个交易日，日本日经225指数进入熊市。",
-      "summary_en": "The AI-driven equity selloff spread globally, though the UK and Europe avoided the worst of it; US futures turned green as dip buyers stepped in. This followed the Nasdaq's worst day since the start of the Covid pandemic in March 2020, with Japan's Nikkei 225 entering a bear market.",
-      "detail_zh": "AI驱动的股市抛售蔓延至全球市场，但英国和欧洲避开了最严重的冲击。美国期货转涨，因逢低买入者入场。此前纳斯达克指数经历了自2020年3月新冠疫情爆发以来最糟糕的一个交易日。日本日经225指数进入熊市。政治方面，美国国务卿Marco Rubio表示尽管彭博报道他可能离开政府，他仍致力于特朗普政府；部分美国议员寻求最早下周弹劾国防部长Pete Hegseth。节目嘉宾包括法国巴黎银行集团首席经济学家Isabelle Mateos y Lago、伦敦国王学院访问研究员Lindsay Newman以及冰岛总理Kristrún Frostadóttir。节目章节还涉及英国央行行长Bailey的讲话、欧洲航空公司遭炸弹威胁，以及彭博观点关于硅谷AI押注建立在炒作和希望之上的讨论。",
-      "detail_en": "The AI-driven equity selloff spread globally, but the UK and Europe avoided the worst of it. US futures turned green as dip buyers moved in, following the Nasdaq's worst day since the start of the Covid pandemic in March 2020. Japan's Nikkei 225 entered a bear market. On the political front, US Secretary of State Marco Rubio said he is committed to the Trump administration despite Bloomberg reporting he could potentially leave the government; some US lawmakers are looking to impeach Defense Secretary Pete Hegseth as early as next week. Guests included Isabelle Mateos y Lago, Group Chief Economist at BNP Paribas; Lindsay Newman, Visiting Research Fellow at King's College London; and Kristrún Frostadóttir, Prime Minister of Iceland. Chapters also covered BOE's Bailey, European airlines hit by bomb threats, and Bloomberg Opinion on Silicon Valley's AI bets built on hype and hope.",
-      "conclusion_zh": "AI驱动的抛售引发全球风险资产调整，纳指创疫情以来最差单日，但美欧市场出现分化且美国期货因逢低买入转涨，需关注抛售是否延续及政策与政治风险。",
-      "conclusion_en": "The AI-driven selloff triggered a global risk-asset correction, with the Nasdaq posting its worst day since the pandemic; however, US and European markets diverged and US futures turned green on dip buying. Watch whether the selloff continues and monitor policy and political risks.",
-      "key_points": [
-        {
-          "zh": "AI驱动的抛售蔓延全球，但英国和欧洲避免了最严重冲击。",
-          "en": "AI-driven selloff spread globally, but the UK and Europe avoided the worst."
-        },
-        {
-          "zh": "纳斯达克指数创下自2020年3月疫情爆发以来最差单日表现。",
-          "en": "Nasdaq had its worst day since the start of the Covid pandemic in March 2020."
-        },
-        {
-          "zh": "美国期货转涨，逢低买入者入场。",
-          "en": "US futures turned green as dip buyers moved in."
-        },
-        {
-          "zh": "日本日经225指数进入熊市。",
-          "en": "Japan's Nikkei 225 entered a bear market."
-        },
-        {
-          "zh": "美国国务卿Rubio表示致力于特朗普政府，尽管有报道称其可能离职；部分议员寻求弹劾国防部长Hegseth。",
-          "en": "US Secretary of State Rubio said he is committed to the Trump administration despite reports he could leave; some lawmakers seek to impeach Defense Secretary Hegseth."
-        }
-      ],
-      "tags": [
-        "AI selloff",
-        "Nasdaq",
-        "global markets",
-        "bear market",
-        "politics"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:_EIa3XChAcQ",
-      "title": "Long Gold And Short Semis Into Year-End? | Weekly Roundup",
-      "title_zh": "中期选举后市场不确定性上升，半导体板块已提前布局",
-      "url": "https://www.youtube.com/watch?v=_EIa3XChAcQ",
-      "published_at": "2026-11-06T13:00:54+00:00",
-      "source_name": "Forward Guidance",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "Tony Greer 在 Forward Guidance 播客中表示，中期选举结果虽已知，但市场面临的不确定性才刚刚开始，涉及数据中心、AI 资本开支及芯片产能等政策风险。他透露在半导体板块已提前布局，并认为当前市场波动更多是仓位调整而非基本面驱动。",
-      "summary_en": "Tony Greer on the Forward Guidance podcast said that while the midterm election outcome was known, market uncertainty is just beginning, involving policy risks for data centers, AI capex, and chip capacity. He noted being ahead of the move in semiconductors and views current volatility as positioning-driven rather than fundamentally driven.",
-      "detail_zh": "在 Forward Guidance 播客的圆桌讨论中，Tony Greer 表示，尽管中期选举结果大体已知，但市场真正的不确定性才刚刚开始。他指出，选举后市场出现剧烈反转，标普指数下跌 5-6%，但这并非由具体头条新闻驱动，而是中期选举压力释放后的消化过程。Greer 认为，昨日价格行为显示大量仓位调整，太阳能等民主党交易标的出现空头挤压，而指数则回归趋势。他提到，2018 年特朗普中期选举后，标普从选举次日一路下跌至 12 月底，与当前情况类似。Greer 还表示，中期选举季节性图表若反转来看，市场在 10 月初见顶后下跌、反弹再下跌，基本延续至年底。他强调，民主党胜利在一定程度上已被市场知晓，但中期选举只是不确定性的开始，例如得克萨斯州数据中心在蓝州长下的政策、AI 交易与资本开支、以及芯片产能过剩风险等，这些都无法在一天内定价。Greer 透露，他在半导体板块已提前布局，但承认无人能预见过去两天的剧烈反转。",
-      "detail_en": "In the Forward Guidance podcast roundtable, Tony Greer said that although the midterm election outcome was largely known, the real market uncertainty is just beginning. He noted violent reversals after the election, with the S&P down 5-6%, not driven by specific headlines but by digestion after the pressure release of the midterms. Greer said yesterday's price action indicated heavy positioning adjustments, with short squeezes in solar (a Democratic trade) while indices returned to trend. He noted that after the 2018 Trump midterms, the S&P fell from the day after the election through late December, similar to the current situation. Greer also said that if midterm seasonality charts are inverted, they show the market peaking in early October, then falling, bouncing, and falling again into year-end. He emphasized that a Democratic victory was somewhat known, but the midterms are just the start of uncertainty—e.g., policy for Texas data centers under a blue governor, the AI trade and capex, and chip glut risks—which cannot be priced in a day. Greer disclosed he was ahead of the move in semiconductors but admitted no one could foresee the violent reversals of the past two days.",
-      "conclusion_zh": "中期选举后市场不确定性上升，政策风险（数据中心、AI 资本开支、芯片产能）尚未定价，投资者需对已知信息打折，并关注半导体等板块的仓位调整。",
-      "conclusion_en": "Post-midterm uncertainty is rising, with policy risks (data centers, AI capex, chip capacity) not yet priced in; investors should discount what they think they know and watch positioning adjustments in sectors like semiconductors.",
-      "key_points": [
-        {
-          "zh": "中期选举结果虽已知，但市场不确定性才刚刚开始，涉及数据中心、AI 资本开支及芯片产能等政策风险。",
-          "en": "While the midterm outcome was known, market uncertainty is just beginning, involving policy risks for data centers, AI capex, and chip capacity."
-        },
-        {
-          "zh": "选举后市场剧烈反转，标普下跌 5-6%，更多是仓位调整和空头挤压，而非基本面驱动。",
-          "en": "Post-election violent reversals, with the S&P down 5-6%, are more about positioning adjustments and short squeezes than fundamentals."
-        },
-        {
-          "zh": "2018 年中期选举后标普从选举次日跌至 12 月底，当前季节性图表反转后也显示类似下跌趋势。",
-          "en": "After the 2018 midterms, the S&P fell from the day after the election through late December; inverted seasonality charts now show a similar downtrend."
-        },
-        {
-          "zh": "Greer 在半导体板块已提前布局，但承认无人能预见过去两天的剧烈反转。",
-          "en": "Greer was ahead of the move in semiconductors but admitted no one could foresee the violent reversals of the past two days."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "semiconductors",
-        "positioning",
-        "uncertainty",
-        "AI capex"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4963945",
-      "title": "Wall Street Breakfast Podcast: Cybertruck Drives Into The Sunset",
-      "title_zh": "特斯拉停产Cybertruck转产Cybercab；Anthropic IPO估值遭质疑；英伟达被比作思科泡沫",
-      "url": "https://seekingalpha.com/article/4963945-wall-street-breakfast-podcast-cybertruck-drives-into-the-sunset?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-06T12:51:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "volatility",
-        "macro"
-      ],
-      "summary_zh": "特斯拉将于2025年中停产Cybertruck，为Cybercab增产让路，尽管面临安全调查。Anthropic的1.5万亿美元IPO估值遭主要投资者质疑，可能需下调至约1万亿美元或推迟。资深投资者George Noble警告英伟达通过循环融资支持客户，类似思科2000年泡沫，英伟达占标普500权重约8%，是思科峰值时的两倍。",
-      "summary_en": "Tesla will wind down Cybertruck production in mid-2025 to expand Cybercab output despite a safety probe. Anthropic's $1.5T IPO valuation faces skepticism from major investors, with potential cuts to ~$1T or delays. Veteran investor George Noble warns Nvidia's circular financing mirrors Cisco's 2000 bubble, with NVDA at ~8% of the S&P 500, double Cisco's peak weight.",
-      "detail_zh": "特斯拉CEO马斯克表示，将在2025年中左右停止在得州超级工厂独家生产Cybertruck，为增加Cybercab产量腾出空间。Cybertruck自2023年上市以来难以维持热度，面临多次召回和质量控制问题，特斯拉多次调整价格。特斯拉计划在年底前开始公开销售Cybercab，尽管美国安全机构正在调查缺乏传统手动控制的无人驾驶车辆。车辆工程副总裁Lars Moravy表示，今年将小规模启动，学习交付、所有权和车队管理，然后继续扩大规模。Anthropic计划在感恩节前一周进行IPO，预计融资高达1000亿美元，但预测市场Polymarket上11月IPO概率从24小时前的83%骤降至54%。三位计划参与IPO的主要投资者告诉《华尔街日报》，估值可能需要下调，其中一位认为可能接近1万亿美元。有投资者希望看到10月业绩后再决定，Anthropic的run rate在10月底超过800亿美元，高于前一个月。一位投资者表示公司可能减少融资额至约800亿美元，并希望IPO后资产负债表上拥有超过2000亿美元。另一位投资者怀疑Anthropic可能推迟IPO以等待更有利条件。资深投资者George Noble警告，英伟达正在走向类似互联网泡沫的清算，因其支持购买其硬件的客户。他指出英伟达占标普500权重约8%，是思科系统在2000年互联网泡沫顶峰时权重的两倍，认为英伟达正走入与思科当年“完全相同”的陷阱。Noble将英伟达担保客户租赁协议和入股购买其芯片的初创公司比作思科当年的供应商融资，警告这种循环融资结构使英伟达面临违约风险，并称这是“历史上最大的资本错配”。市场方面，亚洲股市跟跌，日经指数跌破60000点进入熊市；美股期货涨跌互现，纳斯达克100期货涨超1%，标普期货涨0.3%，道指期货跌近1%；VIX指数从周四收盘的28以上降至27以下。交易员称这是“投资集中度过高、平仓过快”的影响，AI交易仍然拥挤。瑞银首席经济学家Paul Donovan表示，数据中心建设者可能需向当地社区提供更多激励，增加项目成本，但这些投资在经济上是积极的。",
-      "detail_en": "Tesla CEO Elon Musk said the company will stop exclusive Cybertruck production at Gigafactory Texas around mid-2025 to make room for increased Cybercab output. The Cybertruck has struggled to sustain interest since its 2023 launch, facing multiple recalls and quality-control issues, while Tesla repeatedly revised prices. Tesla aims to begin public Cybercab sales by year-end despite a U.S. safety probe into driverless vehicles lacking conventional manual controls. Lars Moravy, VP of vehicle engineering, said the company will start small this year and learn about delivery, ownership, and fleet management before scaling. Anthropic aims to stage its IPO the week before Thanksgiving and has been expected to raise up to $100B, but Polymarket odds of a November IPO plunged to 54% from 83% 24 hours earlier. Three major investors planning to participate told The Wall Street Journal the valuation will likely need to come down, with one saying it could be closer to $1T. Some want to see October results first; Anthropic's run rate topped $80B at the end of October, up from the prior month. One investor said the company could raise less, perhaps around $80B, and hopes for well over $200B on the balance sheet post-IPO. Another wondered if Anthropic might delay for more favorable conditions. Veteran investor George Noble warned Nvidia is steering toward a dot-com-style reckoning by propping up customers buying its hardware. He noted Nvidia accounts for roughly 8% of the S&P 500, double Cisco's weighting at the 2000 peak, and argued Nvidia is walking into the 'exact same' trap that decimated Cisco. Noble drew parallels to Cisco's vendor financing, when it lent to telecom startups unable to pay upfront; when those companies collapsed, Cisco shares plummeted 89%, dragging the S&P 500 down by half. Today, Nvidia guarantees customer lease agreements and takes equity stakes in startups purchasing its chips, a circular financing structure that leaves it heavily exposed to default, Noble said, calling it 'the biggest misallocation of capital in history.' In markets, Asian stocks are catching up to the selling, with Tokyo's Nikkei falling below 60,000 into a bear market. Wall Street is mixed: Nasdaq 100 futures up more than 1%, S&P futures up 0.3%, Dow futures down nearly 1%. The VIX is lower, below 27 from above 28 at Thursday's close. A trader told the FT: 'What we are seeing is the effect of too much investment concentration unwinding too fast.' A Tokyo-based head of trading said the AI trade was 'so, so crowded' and may still be crowded after the selling. UBS chief economist Paul Donovan said data-center builders might have to offer 'more inducements' to local communities, raising project costs, but these investments are economically positive: 'building a school generates economic activity.'",
-      "conclusion_zh": "特斯拉战略转向Cybercab面临监管风险，Anthropic高估值IPO遇冷，英伟达的循环融资模式引发泡沫担忧，AI交易拥挤度仍高，投资者需警惕集中度风险。",
-      "conclusion_en": "Tesla's strategic shift to Cybercab faces regulatory risk, Anthropic's high-valuation IPO meets skepticism, and Nvidia's circular financing raises bubble concerns; the AI trade remains crowded, warranting caution on concentration risk.",
-      "key_points": [
-        {
-          "zh": "特斯拉将于2025年中停产Cybertruck，转产Cybercab，目标年底前公开销售，但面临美国安全调查。",
-          "en": "Tesla will wind down Cybertruck production in mid-2025 to shift to Cybercab, targeting public sales by year-end despite a U.S. safety probe."
-        },
-        {
-          "zh": "Anthropic的1.5万亿美元IPO估值遭主要投资者质疑，可能下调至约1万亿美元或推迟，Polymarket概率降至54%。",
-          "en": "Anthropic's $1.5T IPO valuation faces skepticism from major investors, with potential cuts to ~$1T or delays; Polymarket odds fell to 54%."
-        },
-        {
-          "zh": "George Noble警告英伟达通过循环融资支持客户，类似思科2000年泡沫，英伟达占标普500权重约8%，是思科峰值时的两倍。",
-          "en": "George Noble warns Nvidia's circular financing mirrors Cisco's 2000 bubble; NVDA is ~8% of the S&P 500, double Cisco's peak weight."
-        },
-        {
-          "zh": "市场动荡：日经指数跌破60000点进入熊市，美股期货涨跌互现，VIX降至27以下，交易员称AI交易仍拥挤。",
-          "en": "Market turmoil: Nikkei falls below 60,000 into a bear market, U.S. futures mixed, VIX below 27; traders say the AI trade remains crowded."
-        }
-      ],
-      "tags": [
-        "Tesla",
-        "Anthropic IPO",
-        "Nvidia",
-        "AI bubble",
-        "market volatility"
-      ],
-      "tickers": [
-        "TSLA",
-        "NVDA",
-        "CSCO"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:lre_r1SIMwA",
-      "title": "Stocks Selloff Pauses Rebound After Tech Rout; Jobs Report Ahead",
-      "title_zh": "美股期货反弹，此前标普500因数据中心建设监管担忧创一年最大跌幅",
-      "url": "https://www.youtube.com/watch?v=lre_r1SIMwA",
-      "published_at": "2026-11-06T12:45:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "标普500指数因市场担忧数据中心建设可能受到打压而创下一年多来最大单日跌幅，随后美股期货回升。芯片制造商在领跌后反弹，特朗普总统将此次暴跌归咎于民主党。",
-      "summary_en": "US equity futures rose after the S&P 500 suffered its steepest drop in over a year on fears of a crackdown on data center construction. Chipmakers rallied after bearing the brunt of the selloff, and President Trump blamed Democrats for the rout.",
-      "detail_zh": "标普500指数经历了超过一年以来的最大单日跌幅，市场担忧情绪源于对数据中心建设可能面临监管打压的恐惧。芯片制造商板块在抛售中首当其冲，跌幅显著，但在随后的交易中出现反弹。美股期货在暴跌后上涨，显示市场情绪有所修复。美国总统特朗普将此次股市暴跌归咎于民主党。原文未提供具体跌幅数字、涉及的具体公司或监管政策细节。",
-      "detail_en": "The S&P 500 posted its steepest single-day drop in more than a year, driven by fears of a clampdown on data center construction. Chipmakers, which bore the brunt of the selloff, rallied afterward. US equity futures rose following the rout, indicating some recovery in sentiment. President Trump blamed Democrats for the market plunge. The original text does not provide specific percentage declines, company names, or regulatory details.",
-      "conclusion_zh": "市场短期波动受政策监管担忧驱动，芯片板块反弹显示情绪修复，但数据中心建设监管风险仍需关注。",
-      "conclusion_en": "Short-term market volatility is driven by regulatory concerns; the rebound in chipmakers signals sentiment recovery, but risks around data center construction regulation warrant attention.",
-      "key_points": [
-        {
-          "zh": "标普500创一年多来最大单日跌幅，因担忧数据中心建设受打压",
-          "en": "S&P 500 had its steepest drop in over a year on fears of a data center construction crackdown"
-        },
-        {
-          "zh": "芯片制造商领跌后反弹，美股期货回升",
-          "en": "Chipmakers rallied after leading the selloff; US equity futures rose"
-        },
-        {
-          "zh": "特朗普总统将市场暴跌归咎于民主党",
-          "en": "President Trump blamed Democrats for the rout"
-        }
-      ],
-      "tags": [
-        "S&P 500",
-        "data centers",
-        "chipmakers",
-        "regulation",
-        "Trump"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4963881",
-      "title": "AI Selloff Wipes $2.5T Off Nasdaq",
-      "title_zh": "AI交易遭遇重挫：纳斯达克单日暴跌5.5%，散户抛售创纪录",
-      "url": "https://seekingalpha.com/article/4963881-ai-selloff-wipes-2_5t-off-nasdaq?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-06T12:30:59+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "macro",
-        "volatility"
-      ],
-      "summary_zh": "周四AI交易遭遇大规模抛售，纳斯达克指数盘中创2020年3月以来最大跌幅，收盘跌5.5%进入回调区间，市值蒸发2.5万亿美元。民主党中期选举大胜引发对数据中心建设放缓的担忧，散户投资者以2020年3月以来最快速度抛售个股，机构也纷纷避险。全球科技股同步下挫，日经225和台湾加权指数进入熊市。",
-      "summary_en": "The AI trade faced a major selloff on Thursday, with the Nasdaq falling 5.5% into correction territory and wiping out $2.5T in market value, the worst intraday drop since March 2020. The Democrats' midterm sweep fueled fears of slower data center construction, prompting retail investors to dump single stocks at the fastest pace since March 2020 and institutions to step aside. Global tech stocks also sold off, with Japan's Nikkei 225 and Taiwan's TAIEX entering bear market territory.",
-      "detail_zh": "周四AI交易遭遇重大清算，纳斯达克综合指数收盘下跌5.5%，进入回调区间，盘中跌幅为2020年3月疫情高峰以来最大，市值蒸发2.5万亿美元。抛售由民主党中期选举大胜引发，投资者担忧数据中心建设可能放缓。Schwab衍生品研究总监Nathan Peterson表示，AI基础设施建设的融资前景本就受到质疑，而“蓝色浪潮”加剧了这一担忧。Seeking Alpha分析师Leo Nelissen指出，投资者正在定价电力和融资瓶颈，新国会可能审查数据中心许可和电力法案，但大型科技公司是民主党重要捐助者，科技股下跌影响数百万退休账户，压力增大可能促使民主党软化立场。散户投资者放弃了逢低买入的策略，以2020年3月以来最快速度抛售个股，收盘前净流出达3.38亿美元，为有记录以来第三大单日散户个股清算。Vanda分析师Viraj Patel指出，机构看涨期权购买量本周早些时候降至一年低点，杠杆ETF面临约420亿至480亿美元的强制再平衡，波动率目标基金也在避险。全球市场同步下跌，日经225指数进入熊市，自5月以来首次跌破60000点，软银跌近11%，铠侠跌8.7%；韩国Kospi指数九个月来首次跌破5000点，收盘跌6%；台湾加权指数跌4.5%进入熊市，台积电跌5%。",
-      "detail_en": "The AI trade faced a major reckoning on Thursday, with the Nasdaq Composite closing down 5.5% and entering correction territory, marking its worst intraday drop since the height of the COVID-19 pandemic in March 2020 and wiping out $2.5T in market value. The rout was fueled by the Democrats' sweeping midterm victory, which prompted fears that data center construction could slow. Nathan Peterson, director of derivatives research at Schwab Center for Financial Research, said the fundamentals surrounding the AI infrastructure buildout were already under fire due to funding questions, and the blue sweep exacerbated that concern. Seeking Alpha analyst Leo Nelissen noted investors are pricing in power and funding bottlenecks, and a new Congress will likely scrutinize data center permitting and power bills, but Big Tech is a major Democratic donor and falling tech stocks hit retirement accounts, so pressure may cause Democrats to soften their stance. Retail investors abandoned dip-buying to dump single stocks at the fastest pace since March 2020, with net outflows reaching $338M before the close, the third-largest day of retail single-stock liquidation on record. Vanda analyst Viraj Patel said institutional call buying slumped to a one-year low earlier in the week, while leveraged ETFs faced an estimated $42B-$48B in forced rebalancing and volatility-target funds de-risked. Globally, Japan's Nikkei 225 entered bear market territory, ending below 60,000 for the first time since May, with SoftBank down nearly 11% and Kioxia down 8.7%; South Korea's Kospi fell below 5,000 for the first time in nine months, closing 6% lower; Taiwan's TAIEX fell 4.5% into bear market territory, with TSMC down 5%.",
-      "conclusion_zh": "AI交易面临政治与资金面双重压力，散户和机构同步去风险，短期波动可能加剧，但大型科技股的政治影响力或促使政策立场软化，需关注资金流动态势。",
-      "conclusion_en": "The AI trade faces dual pressures from politics and funding, with retail and institutional investors de-risking simultaneously, potentially exacerbating short-term volatility, though Big Tech's political influence may lead to softened policy stances; flow dynamics warrant close attention.",
-      "key_points": [
-        {
-          "zh": "纳斯达克指数周四收跌5.5%，进入回调区间，盘中跌幅为2020年3月以来最大，市值蒸发2.5万亿美元。",
-          "en": "The Nasdaq fell 5.5% on Thursday into correction territory, its worst intraday drop since March 2020, wiping out $2.5T in market value."
-        },
-        {
-          "zh": "民主党中期选举大胜引发对数据中心建设放缓的担忧，投资者定价电力和融资瓶颈。",
-          "en": "The Democrats' midterm sweep fueled fears of slower data center construction, with investors pricing in power and funding bottlenecks."
-        },
-        {
-          "zh": "散户以2020年3月以来最快速度抛售个股，净流出3.38亿美元，为有记录以来第三大单日清算。",
-          "en": "Retail investors dumped single stocks at the fastest pace since March 2020, with $338M in net outflows, the third-largest single-day liquidation on record."
-        },
-        {
-          "zh": "机构看涨期权购买量降至一年低点，杠杆ETF面临约420-480亿美元强制再平衡。",
-          "en": "Institutional call buying slumped to a one-year low, and leveraged ETFs faced an estimated $42B-$48B in forced rebalancing."
-        },
-        {
-          "zh": "全球科技股同步下跌，日经225和台湾加权指数进入熊市，韩国Kospi跌破5000点。",
-          "en": "Global tech stocks sold off in tandem, with Japan's Nikkei 225 and Taiwan's TAIEX entering bear markets and South Korea's Kospi falling below 5,000."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "Nasdaq selloff",
-        "midterm elections",
-        "retail outflows",
-        "global tech rout"
-      ],
-      "tickers": [
-        "NVDA",
-        "CSCO",
-        "SFTBY",
-        "KXIAY",
-        "SKHY",
-        "SSNLF",
-        "TSM",
-        "TSLA",
-        "APO",
-        "BE",
-        "XYZ",
-        "DAL",
-        "MRNA",
-        "OKLO"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:dajFNqplDVk",
-      "title": "Data Centers Will Get Built, Even With More Regulation, Bryson Says",
-      "title_zh": "Wedbush分析师：即便监管加码，数据中心仍将建设",
-      "url": "https://www.youtube.com/watch?v=dajFNqplDVk",
-      "published_at": "2026-11-06T12:19:03+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Wedbush Securities的Matt Bryson表示，即使面临更多监管，数据中心仍会继续建设，投资者也会找到获利方式。该观点来自其在Bloomberg Surveillance节目上的发言。",
-      "summary_en": "Matt Bryson of Wedbush Securities says even with more regulation, data centers will still get built and investors will find a way to make money, speaking on Bloomberg Surveillance.",
-      "detail_zh": "Wedbush Securities分析师Matt Bryson在Bloomberg Surveillance节目中表示，即便未来出现更多监管，数据中心项目仍将继续推进。他认为投资者能够找到从中获利的方式。原文未提供具体的监管类型、数据中心建设规模或投资标的等细节。",
-      "detail_en": "Matt Bryson of Wedbush Securities said on Bloomberg Surveillance that even if more regulation emerges, data centers will still be built. He believes investors will find a way to make money. The original text does not provide specifics on the type of regulation, the scale of data center construction, or investment targets.",
-      "conclusion_zh": "数据中心建设受监管影响有限，投资者可关注相关机会。",
-      "conclusion_en": "Data center construction is likely to proceed despite regulation, and investors may find opportunities.",
-      "key_points": [
-        {
-          "zh": "Wedbush的Matt Bryson认为监管不会阻止数据中心建设。",
-          "en": "Wedbush's Matt Bryson believes regulation will not stop data center construction."
-        },
-        {
-          "zh": "他表示投资者仍能找到获利途径。",
-          "en": "He says investors will still find a way to make money."
-        },
-        {
-          "zh": "该评论来自Bloomberg Surveillance节目。",
-          "en": "The comment was made on Bloomberg Surveillance."
-        }
-      ],
-      "tags": [
-        "data centers",
-        "regulation",
-        "Wedbush",
-        "Bloomberg Surveillance"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
