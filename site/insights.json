@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:33:32.995053+00:00",
+  "generated_at": "2026-11-13T05:13:01.185220+00:00",
   "insights": [
     {
       "guid": "yt:0y9o02dIPns",
@@ -17635,99 +17635,6 @@
         {
           "zh": "市场共识预期未来5年AI建设累计支出约7万亿美元，可持续性取决于企业盈利。",
           "en": "Consensus expects about $7 trillion in cumulative AI buildout spending over the next five years; sustainability depends on corporate earnings."
-        }
-      ],
-      "tags": [
-        "AI capex",
-        "US equities",
-        "market concentration",
-        "volatility",
-        "earnings growth"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:U1JpgHz70D0",
-      "title": "US Equities Hot Take - The Stock Market Is Hiding Opportunities | The Bid investing podcast",
-      "title_zh": "贝莱德基本面股票全球CIO：市场横盘下现轮动，成长与能源股领跑",
-      "url": "https://www.youtube.com/watch?v=U1JpgHz70D0",
-      "published_at": "2026-11-06T05:00:14+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "贝莱德基本面股票全球首席投资官Carrie King指出，过去几周股市虽横盘整理，但内部出现显著轮动，成长股与能源股大幅跑赢，留下大量未被发掘的公司机会。",
-      "summary_en": "Carrie King, Global CIO of Fundamental Equities at BlackRock, notes that while stock markets have moved sideways over the past several weeks, there has been significant rotation under the hood, with growth and energy stocks significantly outperforming, leaving a plethora of opportunity among undiscovered companies.",
-      "detail_zh": "贝莱德基本面股票全球首席投资官Carrie King表示，过去几周股市整体呈现横盘走势，但市场内部发生了显著轮动。成长股和能源股表现大幅领先，这一分化使得许多尚未被发掘的公司呈现出大量机会。她建议投资者关注市场表面平静下的结构性变化，并提及可收听其播客节目以了解更多。",
-      "detail_en": "Carrie King, Global CIO of Fundamental Equities at BlackRock, stated that over the past several weeks stock markets have moved sideways, but there has been a significant rotation under the hood. Growth stocks and energy stocks have significantly outperformed, and this divergence leaves a plethora of opportunity among undiscovered companies. She suggested investors pay attention to structural changes beneath the calm surface and mentioned tuning into her podcast for more.",
-      "conclusion_zh": "市场横盘表象下轮动显著，成长与能源领跑，可关注未被发掘的公司机会。",
-      "conclusion_en": "Beneath the sideways market, significant rotation is underway with growth and energy leading, and investors may focus on undiscovered company opportunities.",
-      "key_points": [
-        {
-          "zh": "过去几周股市整体横盘，但内部出现显著轮动。",
-          "en": "Stock markets have moved sideways over the past several weeks, but significant rotation has occurred under the hood."
-        },
-        {
-          "zh": "成长股和能源股表现大幅领先。",
-          "en": "Growth stocks and energy stocks have significantly outperformed."
-        },
-        {
-          "zh": "轮动留下大量未被发掘的公司机会。",
-          "en": "The rotation leaves a plethora of opportunity among undiscovered companies."
-        }
-      ],
-      "tags": [
-        "market rotation",
-        "growth stocks",
-        "energy stocks",
-        "stock market",
-        "BlackRock"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:8CsaTPR-YdQ",
-      "title": "Global Equity Markets Can the Stock Market Rally Continue Beyond AI? | The Bid Investing podcast",
-      "title_zh": "贝莱德：AI资本开支支撑美股盈利，但市场分歧与波动加剧",
-      "url": "https://www.youtube.com/watch?v=8CsaTPR-YdQ",
-      "published_at": "2026-11-06T05:00:05+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro",
-        "volatility"
-      ],
-      "summary_zh": "贝莱德基金经理指出，美股自ChatGPT推出以来翻倍，主要由盈利增长驱动，AI资本开支从半导体扩散至基础设施。但市场对AI交易的分歧加大，且波动性显著上升，投资者需根据自身目标选择策略。",
-      "summary_en": "BlackRock portfolio managers note that US stocks have doubled since ChatGPT's launch, driven mainly by earnings growth, with AI capex broadening from semiconductors to infrastructure. However, divergence on the AI trade is widening and volatility has risen, requiring investors to align strategies with their objectives.",
-      "detail_zh": "贝莱德全球基本面股票首席投资官Carrie King表示，自2022年11月ChatGPT推出以来，标普500指数市值几乎翻倍，其中盈利增长贡献75%，估值仅提升约8%（市盈率从略低于18倍升至约19倍），股息贡献约10%。AI交易已从半导体、硬件、内存等“卖铲子”环节扩展至数据中心、电力、电气设备、冷却设备等基础设施领域。市场共识预计未来五年AI建设累计支出约7万亿美元，关键问题在于企业能否获得回报；二季度财报显示超大规模云厂商已产生回报。贝莱德全球投资与组合解决方案主管Alex Brazier指出，全球市场年初至今上涨约13%，但自8月初以来横盘震荡；投资者情绪总体温和看涨，但分歧极大，欧洲约三分之一受访者计划增持美股，另有三分之一计划减持。AI相关股票上涨约40%，但美股仅约三分之一股票高于50日均线。夏季半导体股单日涨跌幅超5%的天数为24年来最多，AI交易作为长久期资产波动性高，短期投资者与长期投资者应采取不同策略。",
-      "detail_en": "Carrie King, BlackRock's Global CIO of Fundamental Equities, noted that since ChatGPT's launch in November 2022, the S&P 500 has nearly doubled in value, with earnings growth contributing 75%, valuation expansion only about 8% (P/E rising from just under 18x to about 19x), and dividends adding roughly 10%. The AI trade has broadened from semiconductors, hardware, and memory to infrastructure including data centers, power, electrical equipment, and cooling equipment. Consensus expects about $7 trillion in cumulative AI buildout spending over the next five years, with the key question being whether companies will earn a return; Q2 earnings show hyperscalers are already generating returns. Alex Brazier, BlackRock's Global Head of Investment and Portfolio Solutions, noted global markets are up about 13% year-to-date but have chopped sideways since early August. Investor sentiment is mildly bullish on average, but views diverge sharply: in Europe, about one-third of respondents plan to add US equity exposure and one-third plan to reduce. AI-related stocks are up about 40%, yet only about one-third of US stocks trade above their 50-day moving average. Semiconductors saw more days with moves exceeding 5% this summer than in any summer in 24 years, and the AI trade, as a long-duration play, comes with high volatility, requiring different approaches for short-term versus long-term investors.",
-      "conclusion_zh": "美股盈利增长仍受AI资本开支支撑，但市场集中度与波动性上升，投资者应依据自身投资期限和目标选择参与方式。",
-      "conclusion_en": "US earnings growth remains supported by AI capex, but rising market concentration and volatility mean investors should align their approach with their time horizon and objectives.",
-      "key_points": [
-        {
-          "zh": "标普500自ChatGPT推出以来几乎翻倍，盈利增长贡献75%，估值提升仅约8%。",
-          "en": "The S&P 500 has nearly doubled since ChatGPT's launch, with earnings growth contributing 75% and valuation expansion only about 8%."
-        },
-        {
-          "zh": "AI交易从半导体扩展至数据中心、电力、电气设备等基础设施领域。",
-          "en": "The AI trade has broadened from semiconductors to infrastructure such as data centers, power, and electrical equipment."
-        },
-        {
-          "zh": "市场共识预计未来五年AI建设支出约7万亿美元，关键看企业能否获得回报。",
-          "en": "Consensus expects about $7 trillion in AI buildout spending over five years, with returns on that spending being the key question."
-        },
-        {
-          "zh": "投资者对美股分歧巨大，欧洲约三分之一计划增持，三分之一计划减持。",
-          "en": "Investor views on US equities diverge sharply, with about one-third in Europe planning to add and one-third to reduce exposure."
-        },
-        {
-          "zh": "AI相关股票上涨约40%，但夏季半导体波动为24年来最高，仅约三分之一美股高于50日均线。",
-          "en": "AI-linked stocks are up about 40%, but semiconductor volatility this summer was the highest in 24 years, and only about one-third of US stocks trade above their 50-day moving average."
         }
       ],
       "tags": [
