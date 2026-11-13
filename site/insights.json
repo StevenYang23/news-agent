@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-11-13T09:15:52.804356+00:00",
+  "generated_at": "2026-11-13T10:13:12.980671+00:00",
   "insights": [
+    {
+      "guid": "yt:V8yOSpJ6D1c",
+      "title": "Why a $2 Billion Law Firm Suddenly Collapsed | Odd Lots",
+      "title_zh": "律所合伙制脆弱性：Weil Gotshal 倒闭与“合伙人挤兑”",
+      "url": "https://www.youtube.com/watch?v=V8yOSpJ6D1c",
+      "published_at": "2026-11-13T09:10:46+00:00",
+      "source_name": "Odd Lots (Bloomberg)",
+      "source_kind": "podcast",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "彭博Odd Lots播客讨论Weil Gotshal律所在数周内倒闭的事件，援引耶鲁法学院教授John Morley 2015年论文《律所为何倒闭》中的“合伙人挤兑”概念，探讨合伙制律所模式的固有脆弱性、合伙人离职的连锁反应，以及AI对律所运营和大型律所未来的潜在影响。",
+      "summary_en": "Bloomberg's Odd Lots podcast discusses the collapse of law firm Weil Gotshal within weeks, referencing Yale Law professor John Morley's 2015 paper 'Why Law Firms Collapse' and the concept of a 'partner run.' The episode explores the inherent fragility of the partnership model, the cascade of partner departures, and the potential impact of AI on law firm operations and the future of big law.",
+      "detail_zh": "10月底，大型律所Weil Gotshal在数名合伙人离职且与另一家律所的合并谈判失败后，宣布将逐步关闭。耶鲁法学院教授John Morley在2015年发表的论文《律所为何倒闭》中提出“合伙人挤兑”概念，即律所版的银行挤兑，并分析了合伙人主导型企业的模式可能具有内在脆弱性。播客与Morley讨论了该论文的当下相关性、Weil Gotshal的倒闭、AI是否真会改变律所运营方式以及大型律所的未来。节目章节涵盖合伙制所有权经济学、非律师所有权与监管障碍、创收合伙人问题、合伙人离职的连锁反应、留任决策、Weil Gotshal的战略地位、竞业禁止与投资壁垒、代际冲突与跨期投资、横向流动的兴起与规范变化、投资者持股的Slater & Gordon对比案例、清算流程、治理文化、AI投资与结构性约束，以及更广泛的影响。",
+      "detail_en": "At the end of October, major law firm Weil Gotshal announced it was winding down after several partners departed and merger talks with another firm failed. Yale Law professor John Morley's 2015 paper 'Why Law Firms Collapse' introduced the concept of a 'partner run'—the law firm equivalent of a bank run—and examined the potential inherent fragility of partner-led businesses. The podcast discusses with Morley the paper's renewed relevance, the Weil Gotshal collapse, whether AI will truly change how law firms are run, and the future of big law. Chapters cover the economics of partnership ownership, non-lawyer ownership and regulatory barriers, the rainmaker problem, how partner departures cascade, the leave-stay decision, Weil Gotshal's strategic position, non-competes and investment barriers, generational conflict and intertemporal investment, the rise of lateral movement and norm change, the investor-owned contrast of Slater & Gordon, the wind-down process, governance culture, AI investment and structural constraints, and broader implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Weil Gotshal在数名合伙人离职且合并谈判失败后，于10月底宣布逐步关闭。",
+          "en": "Weil Gotshal announced its wind-down at the end of October after several partners departed and merger talks failed."
+        },
+        {
+          "zh": "John Morley 2015年论文提出“合伙人挤兑”概念，类比银行挤兑，指出合伙制律所模式可能内在脆弱。",
+          "en": "John Morley's 2015 paper introduced the 'partner run' concept, analogous to a bank run, suggesting the partnership model may be inherently fragile."
+        },
+        {
+          "zh": "播客探讨了合伙人离职的连锁反应、留任决策以及横向流动的兴起与规范变化。",
+          "en": "The podcast explores the cascade of partner departures, the leave-stay decision, and the rise of lateral movement and norm change."
+        },
+        {
+          "zh": "节目还涉及非律师所有权监管障碍、竞业禁止与投资壁垒、代际冲突与跨期投资等结构性因素。",
+          "en": "The episode also covers regulatory barriers to non-lawyer ownership, non-competes and investment barriers, and generational conflict and intertemporal investment."
+        },
+        {
+          "zh": "讨论延伸至AI对律所运营的影响、AI投资的结构性约束，以及大型律所的未来。",
+          "en": "The discussion extends to AI's impact on law firm operations, structural constraints on AI investment, and the future of big law."
+        }
+      ],
+      "tags": [
+        "law firms",
+        "partnership",
+        "partner run",
+        "AI",
+        "big law"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:ikc1p-fONhU",
       "title": "Tech Tries to Soldier On Without Huang: Market Analysis",
