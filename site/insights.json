@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-11-13T17:13:12.523393+00:00",
+  "generated_at": "2026-11-13T18:14:34.527695+00:00",
   "insights": [
+    {
+      "guid": "yt:FwzBGg8tHYA",
+      "title": "Open Interest 11/13/2026",
+      "title_zh": "彭博开盘前瞻：微软全球宕机、英伟达中美芯片对峙与Anthropic IPO需求火爆",
+      "url": "https://www.youtube.com/watch?v=FwzBGg8tHYA",
+      "published_at": "2026-11-13T17:08:13+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "微软正努力从影响全球用户的宕机中恢复；英伟达危机演变为中美芯片对峙，时值特朗普与习近平会晤前夕。Anthropic IPO需求旺盛，波士顿联储主席柯林斯在独家采访中解释为何需要进一步收紧利率。",
+      "summary_en": "Microsoft races to recover from a global outage disrupting users worldwide. Nvidia's crisis turns into a US-China chip showdown ahead of a Trump-Xi meeting. Anthropic sees blockbuster IPO demand, and Boston Fed President Susan Collins explains in an exclusive interview why more rate tightening is needed.",
+      "detail_zh": "本期彭博《Open Interest》聚焦多条主线：微软全球宕机及其对华尔街的影响；英伟达领导层危机、中国审查与出口管制，涉及黄仁勋相关影响、商务部质询及芯片限制；盘前异动个股包括Cerebras、Palo Alto Networks与Modine。节目讨论Anthropic IPO的旺盛需求、SpaceX里程碑与AI投资热潮，并邀请Liz Ann Sonders与Rebecca Patterson探讨AI抛售中的长期投资。特朗普与习近平峰会前瞻、AI出口管制与中国AI战略亦是重点。市场轮动、AI集中度风险与盈利趋势被提及；伊朗局势、石油通胀及对美联储的风险受到关注。个股观点涉及Lowe's、Lineage Logistics与Domino's Pizza。摩根士丹利的Andrew Slimmon讨论科技估值、AI建设与美联储驱动的市场风险。Anthropic IPO获六倍超额认购，估值辩论与AI需求受关注。PPI、12月美联储加息概率与市场波动性被讨论。波士顿联储主席柯林斯在独家采访中谈通胀、利率与经济韧性。AI生产力、劳动力市场与数据中心扩张，以及特朗普与习近平会谈、英伟达中国挑战与华盛顿内斗均在议程中。",
+      "detail_en": "This edition of Bloomberg Open Interest covers several threads: Microsoft's global outage and its Wall Street impact; Nvidia's leadership crisis, China scrutiny and export controls, including Jensen Huang fallout, Commerce Department questions and chip restrictions; morning movers including Cerebras, Palo Alto Networks and Modine. The program discusses blockbuster demand for Anthropic's IPO, a SpaceX milestone and the AI investing boom, with Liz Ann Sonders and Rebecca Patterson on navigating the AI selloff and long-term investing. A Trump-Xi summit preview, AI export controls and China's AI strategy are also featured. Market rotation, AI concentration risk and profitability trends are mentioned; Iran, oil inflation and risks to the Fed are in focus. Top calls include Lowe's, Lineage Logistics and Domino's Pizza. Morgan Stanley's Andrew Slimmon discusses tech valuations, the AI buildout and Fed-driven market risks. Anthropic's IPO is six times oversubscribed, with valuation debate and AI demand in focus. PPI, December Fed hike odds and market volatility are discussed. Boston Fed President Susan Collins talks inflation, rates and economic resilience in an exclusive interview. AI productivity, labor markets and data center expansion, as well as Trump-Xi talks, Nvidia's China challenges and Washington infighting, are on the agenda.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "微软正努力从影响全球用户的宕机中恢复，华尔街关注其影响。",
+          "en": "Microsoft is racing to recover from a global outage disrupting users worldwide, with Wall Street watching the impact."
+        },
+        {
+          "zh": "英伟达危机演变为中美芯片对峙，时值特朗普与习近平会晤前夕，涉及出口管制与商务部质询。",
+          "en": "Nvidia's crisis has turned into a US-China chip showdown ahead of a Trump-Xi meeting, involving export controls and Commerce Department questions."
+        },
+        {
+          "zh": "Anthropic IPO需求火爆，获六倍超额认购，引发估值辩论与AI需求讨论。",
+          "en": "Anthropic's IPO sees blockbuster demand, six times oversubscribed, sparking valuation debate and discussion of AI demand."
+        },
+        {
+          "zh": "波士顿联储主席柯林斯在独家采访中解释为何需要进一步收紧利率。",
+          "en": "Boston Fed President Susan Collins explains in an exclusive interview why more rate tightening is needed."
+        },
+        {
+          "zh": "节目讨论市场轮动、AI集中度风险、伊朗石油通胀风险及PPI与12月加息概率。",
+          "en": "The program discusses market rotation, AI concentration risk, Iran oil inflation risks, and PPI with December Fed hike odds."
+        }
+      ],
+      "tags": [
+        "Microsoft outage",
+        "Nvidia",
+        "Anthropic IPO",
+        "Fed",
+        "Trump-Xi"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:jPVn6pnsaEw",
       "title": "Nordstrom Co-CEO on Going Private, Customer Experience, Retail Space",
@@ -17258,52 +17307,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:iDxRUkhwfkI",
-      "title": "LSEG CEO David Schwimmer on Where Global Capital Is Moving",
-      "title_zh": "伦交所CEO警告：市场低估通胀与地缘风险",
-      "url": "https://www.youtube.com/watch?v=iDxRUkhwfkI",
-      "published_at": "2026-11-06T18:10:03+00:00",
-      "source_name": "Goldman Sachs",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "伦敦证券交易所集团CEO David Schwimmer 认为，投资者可能低估了当前市场的风险。他指出，通胀和地缘政治紧张限制了政策灵活性，而这种灵活性在过去市场低迷时曾支撑市场。他建议以情景规划而非预测来应对不确定性。",
-      "summary_en": "David Schwimmer, CEO of London Stock Exchange Group, argues that investors may be underestimating risks in today's markets. He points to inflation and geopolitical tension as constraints on the policy flexibility that supported markets in past downturns, and advocates scenario planning over prediction.",
-      "detail_zh": "在與高盛EMEA主席兼投行主席FX de Mallmann的对话中，Schwimmer表示投资者可能低估了当今市场的风险。他特别指出，通胀和地缘政治紧张限制了政策灵活性，而在过去的市场低迷中，正是这种政策灵活性支撑了市场。因此，他认为情景规划是一种比试图预测下一步会发生什么更实用的方法。该播客录制于2026年9月2日。",
-      "detail_en": "In conversation with FX de Mallmann, chairman of Goldman Sachs EMEA and chairman of Investment Banking, Schwimmer said investors may be underestimating risks in today's markets. He specifically noted that inflation and geopolitical tension limit the policy flexibility that has supported markets in past downturns. As a result, he described scenario planning as a more practical discipline than trying to predict what happens next. The episode was recorded on September 2, 2026.",
-      "conclusion_zh": "Schwimmer 提醒，通胀与地缘政治约束可能削弱政策托底能力，投资者应以情景规划应对不确定性。",
-      "conclusion_en": "Schwimmer warns that inflation and geopolitical constraints may weaken the policy backstop, and investors should use scenario planning to navigate uncertainty.",
-      "key_points": [
-        {
-          "zh": "投资者可能低估了当前市场的风险。",
-          "en": "Investors may be underestimating risks in today's markets."
-        },
-        {
-          "zh": "通胀和地缘政治紧张限制了政策灵活性。",
-          "en": "Inflation and geopolitical tension limit policy flexibility."
-        },
-        {
-          "zh": "过去市场低迷时，政策灵活性曾支撑市场。",
-          "en": "Policy flexibility has supported markets in past downturns."
-        },
-        {
-          "zh": "情景规划比预测下一步更实用。",
-          "en": "Scenario planning is more practical than predicting what happens next."
-        }
-      ],
-      "tags": [
-        "inflation",
-        "geopolitical risk",
-        "policy flexibility",
-        "scenario planning",
-        "market risk"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
