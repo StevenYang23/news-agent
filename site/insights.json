@@ -1,6 +1,156 @@
 {
-  "generated_at": "2026-11-13T11:12:22.404657+00:00",
+  "generated_at": "2026-11-13T12:18:08.039450+00:00",
   "insights": [
+    {
+      "guid": "4967714",
+      "title": "Full Rocket Reusability And SpaceX's Boldest Catch Yet",
+      "title_zh": "SpaceX尝试全箭回收；英伟达芯片走私调查；Anthropic IPO超额认购",
+      "url": "https://seekingalpha.com/article/4967714-full-rocket-reusability-and-spacexs-boldest-catch-yet?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-13T11:53:19+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro",
+        "politics"
+      ],
+      "summary_zh": "SpaceX计划首次尝试回收整个火箭（包括二级），推动完全可重复使用；英伟达CEO黄仁勋因芯片走私至与Alice Huang相关公司被调查；Anthropic IPO获六倍超额认购。",
+      "summary_en": "SpaceX aims to recover an entire rocket, including the second stage, for full reusability; Nvidia CEO Jensen Huang is out amid a probe into chips smuggled to an Alice Huang-linked firm; Anthropic's IPO is six times oversubscribed.",
+      "detail_zh": "SpaceX将于今晚尝试首次回收整个火箭，包括发射后几分钟回收一级和周六下午回收二级，旨在实现完全可重复使用。此前可重复使用主要集中在一级助推器，因二级回收需增加隔热罩、着陆腿等，会牺牲载荷能力，但星舰因尺寸大、载荷能力强而具备成本效益。英伟达CEO黄仁勋因芯片走私至与Alice Huang相关的公司而被禁止，具体细节未明。中国据报正寻求建立与全球航运保险竞争的对手。Anthropic的IPO获六倍超额认购，定于下周上市。其他新闻：微软全球宕机修复未果；纽约州选定10家核开发商；10月成屋销售创2010年中以来最低；Cerebras Systems上调全年展望；白宫讨论商务部长Lutnick的未来；Newsmax因中期选举兴趣上升而业绩强劲；Kalshi计划以650亿美元估值融资；10月联邦赤字4040亿美元超预期；特朗普称无伊朗协议，美国库存数据利空油价；Burry加倍做空纳斯达克100和SMH。市场方面，亚洲涨跌互现，欧洲平淡，美股期货微涨，原油跌0.6%至88.20美元，黄金涨0.3%至3895.80美元，比特币跌5.4%至69132美元，十年期国债收益率持平于5.14%。",
+      "detail_en": "SpaceX will attempt to recover an entire rocket for the first time tonight, including the first stage minutes after liftoff and the second stage on Saturday afternoon, aiming for full reusability. Previously, reusability focused on first-stage boosters because recovering the second stage would require adding a heat shield, landing legs, and extra fuel, cutting payload capacity, but Starship's large size and cargo capacity make it cost-effective. Nvidia CEO Jensen Huang is out and banned chips traced to an Alice Huang-linked firm, with details unclear. China is reportedly looking to build a rival to insure global shipping. Anthropic's IPO is six times oversubscribed, with debut set for next week. Other news: Microsoft outage disrupts the globe as fix remains elusive; New York selects 10 nuclear developers; October existing home sales hit lowest since mid-2010; Cerebras Systems jumps on full-year outlook boost; White House discusses Lutnick's future as commerce secretary; Newsmax soars on strong midterm interest; Kalshi plans capital raise at $65B valuation; October federal deficit swells to $404B, more than expected; Trump says no Iran deal, U.S. inventory data bearish for oil; Burry doubles down on Nasdaq 100 and SMH puts. Markets: Asia mixed, Europe flat, U.S. futures slightly up, crude -0.6% to $88.20, gold +0.3% to $3895.80, Bitcoin -5.4% to $69132, 10-year Treasury yield unchanged at 5.14%.",
+      "conclusion_zh": "关注SpaceX全箭回收进展对商业航天格局的潜在影响，以及英伟达芯片走私调查的后续风险。",
+      "conclusion_en": "Watch SpaceX's full rocket recovery progress for potential impact on commercial space landscape, and follow-up risks from Nvidia chip smuggling probe.",
+      "key_points": [
+        {
+          "zh": "SpaceX今晚尝试首次回收整个火箭，包括二级，迈向完全可重复使用。",
+          "en": "SpaceX attempts first full rocket recovery tonight, including second stage, moving toward full reusability."
+        },
+        {
+          "zh": "英伟达CEO黄仁勋因芯片走私至与Alice Huang相关公司被调查。",
+          "en": "Nvidia CEO Jensen Huang is out amid probe into chips smuggled to an Alice Huang-linked firm."
+        },
+        {
+          "zh": "Anthropic IPO获六倍超额认购，下周上市。",
+          "en": "Anthropic's IPO is six times oversubscribed, debuting next week."
+        },
+        {
+          "zh": "中国据报寻求建立全球航运保险的竞争对手。",
+          "en": "China reportedly seeks to build a rival to insure global shipping."
+        },
+        {
+          "zh": "10月成屋销售创2010年中以来最低；联邦赤字4040亿美元超预期。",
+          "en": "October existing home sales lowest since mid-2010; federal deficit $404B, more than expected."
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "Nvidia",
+        "Anthropic IPO",
+        "chip smuggling",
+        "reusability"
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "CBRS",
+        "NMAX"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:wDoKyWC4FOU",
+      "title": "Microsoft Outage Hits Businesses, Nvidia Scandal Deepens",
+      "title_zh": "英伟达CEO黄仁勋离职引发芯片管制变局，微软全球宕机持续",
+      "url": "https://www.youtube.com/watch?v=wDoKyWC4FOU",
+      "published_at": "2026-11-13T11:47:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋的离职移除了美国芯片管制最突出的反对者，可能加速中国半导体自给自足；微软旗舰软件全球宕机进入第二天，影响政府、交易员和企业。",
+      "summary_en": "Nvidia CEO Jensen Huang's departure removes the industry's most prominent opponent of US chip controls, potentially accelerating China's semiconductor self-sufficiency; Microsoft's global outage of flagship software extends into a second day, affecting governments, traders, and businesses.",
+      "detail_zh": "据彭博社报道，由Alice Huang创立的一家中国公司获取了走私AI芯片，这些芯片被安装在上海一个与Megaspeed International有关联的数据中心。英伟达CEO黄仁勋的离职移除了业界对美国芯片管制最突出的反对者，这可能引发关于潜在新管制的对决，并加速中国推动半导体自给自足。微软正努力恢复其旗舰软件的访问并结束一场全球性宕机，该宕机已使政府办公室、交易员和企业瘫痪，Outlook、Teams和Copilot AI工具的中断持续到第二天，而以往的宕机很少持续超过数小时。节目嘉宾包括Exponential View创始人Azeem Azhar、瑞银投资银行全球经济与策略研究主管Arend Kapteyn、Swissquote高级分析师Ipek Ozkardeskaya以及Hermitage Capital Management CEO Bill Browder。",
+      "detail_en": "Bloomberg has learned that a Chinese company founded by Alice Huang procured smuggled AI chips that were installed at a Shanghai data center with links to Megaspeed International. The fall of Nvidia CEO Jensen Huang has removed the industry's most prominent opponent of US chip controls, setting up a showdown over potential new curbs that could accelerate China's drive for semiconductor self-sufficiency. Microsoft is struggling to restore access to its flagship software and end an outage that has paralyzed government offices, traders and businesses globally. Disruptions for Outlook, Teams and the Copilot AI tool continued into a second day, while previous disruptions have rarely lasted more than several hours. Guests include Azeem Azhar, founder of Exponential View; Arend Kapteyn, UBS Investment Bank Global Head of Economics & Strategy Research; Ipek Ozkardeskaya, Swissquote Senior Analyst; and Bill Browder, Hermitage Capital Management CEO.",
+      "conclusion_zh": "黄仁勋离职可能改变美国芯片管制格局，增加行业政策不确定性；微软宕机事件凸显科技基础设施风险。",
+      "conclusion_en": "Jensen Huang's departure could shift the US chip control landscape and increase policy uncertainty for the sector; Microsoft's outage highlights tech infrastructure risks.",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋离职，移除了美国芯片管制最突出的行业反对者。",
+          "en": "Nvidia CEO Jensen Huang's departure removes the industry's most prominent opponent of US chip controls."
+        },
+        {
+          "zh": "可能的新管制措施或加速中国半导体自给自足。",
+          "en": "Potential new curbs could accelerate China's drive for semiconductor self-sufficiency."
+        },
+        {
+          "zh": "微软旗舰软件全球宕机进入第二天，影响政府、交易员和企业。",
+          "en": "Microsoft's global outage of flagship software extends into a second day, affecting governments, traders, and businesses."
+        },
+        {
+          "zh": "中断涉及Outlook、Teams和Copilot AI工具，以往宕机很少持续超过数小时。",
+          "en": "Disruptions affect Outlook, Teams, and Copilot AI tool; previous outages rarely lasted more than several hours."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "chip controls",
+        "Microsoft outage",
+        "semiconductor",
+        "AI chips"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:DZmUEZnDI_I",
+      "title": "Microsoft Races to Fix Outage, Stocks Slip of Inflation Test",
+      "title_zh": "微软服务中断持续，英伟达CEO离任冲击市场，通胀数据成焦点",
+      "url": "https://www.youtube.com/watch?v=DZmUEZnDI_I",
+      "published_at": "2026-11-13T10:57:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "微软旗舰软件服务中断持续半天仍未恢复，用户无法访问邮件和聊天服务，为近期最严重故障之一。美股期货在通胀数据公布前小幅走低，市场聚焦美联储加息预期及英伟达CEO黄仁勋离任。",
+      "summary_en": "Microsoft is struggling to restore access to its flagship software half a day after an outage began, leaving users unable to access email and chat services in one of the tech giant's most severe disruptions in recent memory. US stock futures edged lower ahead of inflation data that will cap a dramatic week of mounting bets on Federal Reserve interest-rate hikes and the ouster of Jensen Huang at Nvidia.",
+      "detail_zh": "微软旗舰软件服务中断已持续半天，公司仍在努力恢复访问，用户无法使用邮件和聊天服务，这是该科技巨头近期记忆中最严重的服务中断之一。美股期货在通胀数据发布前小幅走低，该数据将为充满戏剧性的一周画上句号，本周市场对美联储加息的押注不断升温，同时英伟达CEO黄仁勋离任。彭博《The Opening Trade》节目讨论了英伟达事件的影响、Anthropic IPO吸引巨大投资者需求、油价、国债收益率和美联储紧缩政策等议题。节目还涉及乌克兰和平谈判、特斯拉与SpaceX、微软服务中断对全球企业的影响，以及欧洲市场与英伟达对阿斯麦的影响。嘉宾包括法兴银行的Manish Kabra讨论AI交易与市场轮动、国债收益率及AI股前景，ING的Marieke Blom讨论美中芯片限制及阿斯麦对荷兰经济的重要性，摩根大通的Nataliia Lipikhina讨论欧洲股票、AI、科技、超大规模云厂商及AI资本支出前景，以及Anthropic IPO和更广泛的AI故事。",
+      "detail_en": "Microsoft is struggling to restore access to its flagship software half a day after an outage began, leaving users unable to access email and chat services in one of the tech giant's most severe disruptions in recent memory. US stock futures edged lower ahead of inflation data that will cap a dramatic week of mounting bets on Federal Reserve interest-rate hikes and the ouster of Jensen Huang at Nvidia. Bloomberg's The Opening Trade discussed the Nvidia fallout, Anthropic IPO drawing huge investor demand, oil, Treasury yields and Fed tightening. The program also covered Ukraine peace talks, Tesla-SpaceX, Microsoft outage disrupting global businesses, and European markets and Nvidia's impact on ASML. Guests included Société Générale's Manish Kabra on the AI trade and market rotation, Treasury yields and the outlook for AI stocks; ING's Marieke Blom on US-China chip restrictions and ASML's importance to the Dutch economy; and JPMorgan's Nataliia Lipikhina on European stocks, AI, tech, hyperscalers and the AI capex outlook, as well as the Anthropic IPO and the broader AI story.",
+      "conclusion_zh": "关注微软服务中断的恢复进展、通胀数据对美联储加息预期的影响，以及英伟达CEO变动对AI板块的连锁反应。",
+      "conclusion_en": "Watch Microsoft's outage recovery, inflation data's impact on Fed hike expectations, and the ripple effects of Nvidia's CEO change on the AI sector.",
+      "key_points": [
+        {
+          "zh": "微软旗舰软件服务中断持续半天，用户无法访问邮件和聊天服务，为近期最严重故障之一。",
+          "en": "Microsoft's flagship software outage persists half a day, users unable to access email and chat services, one of the most severe disruptions in recent memory."
+        },
+        {
+          "zh": "美股期货在通胀数据公布前小幅走低，市场对美联储加息的押注升温。",
+          "en": "US stock futures edged lower ahead of inflation data, with mounting bets on Federal Reserve interest-rate hikes."
+        },
+        {
+          "zh": "英伟达CEO黄仁勋离任，市场关注其对英伟达及AI交易的影响。",
+          "en": "Nvidia CEO Jensen Huang's departure, with markets focused on its impact on Nvidia and the AI trade."
+        },
+        {
+          "zh": "Anthropic IPO吸引巨大投资者需求，成为AI领域焦点。",
+          "en": "Anthropic IPO draws huge investor demand, becoming a focal point in the AI space."
+        },
+        {
+          "zh": "嘉宾讨论AI交易、市场轮动、国债收益率及欧洲市场机会。",
+          "en": "Guests discussed the AI trade, market rotation, Treasury yields and European market opportunities."
+        }
+      ],
+      "tags": [
+        "Microsoft outage",
+        "Nvidia",
+        "inflation",
+        "Fed",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:V8yOSpJ6D1c",
       "title": "Why a $2 Billion Law Firm Suddenly Collapsed | Odd Lots",
@@ -17280,299 +17430,6 @@
       ],
       "tickers": [],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:aXhpDL6ibBI",
-      "title": "Sell Off Turns to Uncertainty",
-      "title_zh": "AI与美国政治不确定性令投资者避险",
-      "url": "https://www.youtube.com/watch?v=aXhpDL6ibBI",
-      "published_at": "2026-11-06T12:04:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博电视报道指出，在人工智能和美国政治带来的不确定性背景下，投资者倾向于规避风险。原文未提供具体数据或资产表现细节。",
-      "summary_en": "Bloomberg Television reports that investors are looking to avoid risk amid uncertainty stemming from AI and US politics. No specific data or asset performance details are provided.",
-      "detail_zh": "彭博电视的一则视频标题指出，投资者希望规避风险，原因是人工智能和美国政治带来了不确定性。原文仅包含该标题及彭博电视和市场的推广链接，未提供进一步的数据、引述或分析。因此，无法从原文中提取具体的市场影响、资产配置方向或风险细节。",
-      "detail_en": "A Bloomberg Television video headline states that investors want to avoid risk amid uncertainty from AI and US politics. The original text contains only this headline and promotional links for Bloomberg Television and Markets, with no further data, quotes, or analysis. Consequently, no specific market implications, asset allocation directions, or risk details can be extracted.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "投资者因AI不确定性而寻求避险",
-          "en": "Investors seek to avoid risk due to AI uncertainty"
-        },
-        {
-          "zh": "美国政治不确定性也是避险情绪的来源",
-          "en": "US political uncertainty is also a source of risk aversion"
-        },
-        {
-          "zh": "原文未提供具体市场数据或资产表现",
-          "en": "The original text provides no specific market data or asset performance"
-        }
-      ],
-      "tags": [
-        "risk-aversion",
-        "AI-uncertainty",
-        "US-politics",
-        "market-sentiment"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:T3nOPIkxCjo",
-      "title": "There Was No Big Trigger for the Selloff, Page Says",
-      "title_zh": "T. Rowe Price CIO：市场仍有买入机会，看好超大规模计算与半导体",
-      "url": "https://www.youtube.com/watch?v=T3nOPIkxCjo",
-      "published_at": "2026-11-06T11:54:33+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "T. Rowe Price全球投资联席主管兼CIO Sebastien Page表示，市场仍有买入机会，且此次大幅抛售并无真正触发因素。他认为当前是投资超大规模计算公司和半导体的好时机。",
-      "summary_en": "Sebastien Page, co-head of global investments and CIO at T. Rowe Price, says there are still buying opportunities in the market and that there was no real trigger for the wide selloff. He says it's a good time to invest in hyperscalers and semiconductors.",
-      "detail_zh": "T. Rowe Price全球投资联席主管兼首席投资官Sebastien Page在彭博电视采访中表示，市场仍然存在买入机会。他指出，此次广泛的市场抛售并没有真正的触发因素。Page认为，当前是投资超大规模计算公司（hyperscalers）和半导体板块的好时机。原文未提供具体数据、个股名称或更详细的逻辑阐述。",
-      "detail_en": "Sebastien Page, co-head of global investments and CIO at T. Rowe Price, said in a Bloomberg Television interview that there are still buying opportunities in the market. He noted that there was no real trigger for the wide selloff. Page believes it is a good time to invest in hyperscalers and semiconductors. The original text does not provide specific data, individual stock names, or further detailed reasoning.",
-      "conclusion_zh": "Page认为市场抛售缺乏基本面触发因素，并视超大规模计算与半导体为当前买入方向。",
-      "conclusion_en": "Page sees the selloff as lacking a fundamental trigger and views hyperscalers and semiconductors as current buying opportunities.",
-      "key_points": [
-        {
-          "zh": "市场仍有买入机会",
-          "en": "There are still buying opportunities in the market"
-        },
-        {
-          "zh": "此次广泛抛售并无真正触发因素",
-          "en": "There was no real trigger for the wide selloff"
-        },
-        {
-          "zh": "当前是投资超大规模计算公司的好时机",
-          "en": "It's a good time to invest in hyperscalers"
-        },
-        {
-          "zh": "当前是投资半导体的好时机",
-          "en": "It's a good time to invest in semiconductors"
-        }
-      ],
-      "tags": [
-        "hyperscalers",
-        "semiconductors",
-        "market selloff",
-        "buying opportunities"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:f4lO3tW-ueQ",
-      "title": "HSBC’s Max Kettner: The AI Trade Hasn’t Fundamentally Changed",
-      "title_zh": "汇丰策略师：AI与美股急跌尚未构成基本面断裂，仓位与强制抛售或是主因",
-      "url": "https://www.youtube.com/watch?v=f4lO3tW-ueQ",
-      "published_at": "2026-11-06T11:40:22+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "汇丰首席多资产策略师Max Kettner认为，AI及美股近期的急剧抛售尚未指向交易逻辑的基本面断裂，仓位与强制抛售可能正在驱动波动。他还谈及对AI估值的看法，表示Anthropic IPO估值低于1万亿美元是可以接受的。",
-      "summary_en": "HSBC Chief Multi-Asset Strategist Max Kettner argues that the sharp selloff in AI and US equities does not yet signal a fundamental break in the trade, with positioning and forced selling likely driving the volatility. He also discusses AI valuations, saying he would be comfortable with an Anthropic IPO valuation below $1 trillion.",
-      "detail_zh": "华尔街最大的交易部门此前数周一直主张，一旦选举结束，股市涨势将恢复；但周四这一判断严重落空。汇丰首席多资产策略师Max Kettner指出，AI和美国股市的急剧抛售尚未指向该交易的基本面断裂。他解释称，仓位和强制抛售可能正在驱动这轮波动。在AI估值方面，Kettner表示，Anthropic IPO估值低于1万亿美元是他可以接受的水平。",
-      "detail_en": "Wall Street's biggest trading desks had spent weeks arguing that the stock-market rally would resume once the election was over, but that call backfired spectacularly on Thursday. Max Kettner, HSBC's Chief Multi-Asset Strategist, argues that the sharp selloff in AI and US equities does not yet point to a fundamental break in the trade. He explains that positioning and forced selling may be driving the volatility. On AI valuations, Kettner says he would be comfortable with an Anthropic IPO valuation below $1 trillion.",
-      "conclusion_zh": "汇丰策略师认为近期AI与美股抛售更多由仓位和强制抛售驱动，而非基本面断裂，投资者可关注波动中的结构性机会，并对AI估值保持理性预期。",
-      "conclusion_en": "HSBC's strategist sees the recent AI and US equity selloff as driven more by positioning and forced selling than a fundamental break, suggesting investors watch for structural opportunities amid volatility and keep rational expectations on AI valuations.",
-      "key_points": [
-        {
-          "zh": "华尔街交易部门此前普遍预期选举结束后股市涨势将恢复，但周四这一判断严重落空。",
-          "en": "Wall Street trading desks had widely expected the rally to resume post-election, but that call backfired spectacularly on Thursday."
-        },
-        {
-          "zh": "汇丰的Max Kettner认为，AI与美股的急剧抛售尚未构成交易的基本面断裂。",
-          "en": "HSBC's Max Kettner argues the sharp selloff in AI and US equities does not yet point to a fundamental break in the trade."
-        },
-        {
-          "zh": "Kettner将当前波动归因于仓位和强制抛售，而非基本面恶化。",
-          "en": "Kettner attributes the volatility to positioning and forced selling rather than deteriorating fundamentals."
-        },
-        {
-          "zh": "Kettner表示，Anthropic IPO估值低于1万亿美元是他可以接受的。",
-          "en": "Kettner says he would be comfortable with an Anthropic IPO valuation below $1 trillion."
-        }
-      ],
-      "tags": [
-        "AI selloff",
-        "positioning",
-        "forced selling",
-        "valuation",
-        "US equities"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:0WZ8zq77RkE",
-      "title": "Markets Are Reevaluating AI 'Speed Limit,' Schwab's Sonders Says",
-      "title_zh": "嘉信理财Sonders：投资者重新评估超大规模云厂商的财务负担",
-      "url": "https://www.youtube.com/watch?v=0WZ8zq77RkE",
-      "published_at": "2026-11-06T11:38:52+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "嘉信理财首席投资策略师Liz Ann Sonders表示，投资者正在重新评估超大规模云厂商的财务负担，包括其债务与股权融资的使用情况，以及投资回报是否足以覆盖资本成本。",
-      "summary_en": "Liz Ann Sonders, chief investment strategist at Charles Schwab, says investors are reassessing the financial burden on hyperscalers, including their use of credit and equity financing, and whether returns on investment justify the cost of capital.",
-      "detail_zh": "嘉信理财首席投资策略师Liz Ann Sonders在“Bloomberg The Close”节目中表示，投资者正在重新评估超大规模云厂商（hyperscalers）所承受的财务负担。她指出，评估重点包括这些公司对债务融资和股权融资的使用情况。此外，投资者还在审视这些公司的投资回报是否足以证明其资本成本的合理性。Sonders的评论反映出市场对超大规模云厂商资本配置效率与融资结构的关注。",
-      "detail_en": "Liz Ann Sonders, chief investment strategist at Charles Schwab, said on \"Bloomberg The Close\" that investors are reassessing the financial burden on hyperscalers. She noted that the reassessment includes these companies' use of credit and equity financing. Investors are also examining whether returns on investment justify the cost of capital. Sonders' comments reflect market attention to the capital allocation efficiency and financing structure of hyperscalers.",
-      "conclusion_zh": "超大规模云厂商的融资结构与资本回报效率正成为投资者审视的焦点。",
-      "conclusion_en": "The financing structure and capital return efficiency of hyperscalers are becoming a focus of investor scrutiny.",
-      "key_points": [
-        {
-          "zh": "投资者正在重新评估超大规模云厂商的财务负担。",
-          "en": "Investors are reassessing the financial burden on hyperscalers."
-        },
-        {
-          "zh": "评估内容包括这些公司对债务和股权融资的使用。",
-          "en": "The reassessment includes their use of credit and equity financing."
-        },
-        {
-          "zh": "投资者关注投资回报是否足以覆盖资本成本。",
-          "en": "Investors are focused on whether returns on investment justify the cost of capital."
-        }
-      ],
-      "tags": [
-        "hyperscalers",
-        "capital-cost",
-        "financing",
-        "ROI"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:xhGLl3haQg0",
-      "title": "Fesharaki Says Oil’s Right Price Is $80-$90",
-      "title_zh": "FGE主席：供需与低库存支撑油价80-90美元，明年或回落至65-70美元",
-      "url": "https://www.youtube.com/watch?v=xhGLl3haQg0",
-      "published_at": "2026-11-06T11:36:25+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "FGE NexantECA名誉主席Fereidun Fesharaki认为，基于供需和低库存，油价应在80-90美元/桶；但预计供应过剩将在明年此时推动油价降至65-70美元。",
-      "summary_en": "FGE NexantECA Chairman Emeritus Fereidun Fesharaki believes oil should trade at $80-$90/bbl based on supply, demand, and low inventories, but expects oversupply to push prices to $65-$70 by this time next year.",
-      "detail_zh": "FGE NexantECA名誉主席Fereidun Fesharaki在彭博电视台《Insight with Haslinda Amin》节目中表示，基于当前的供需基本面以及低库存水平，油价合理区间应在每桶80至90美元。但他同时预期，供应过剩将导致油价在明年此时回落至每桶65至70美元。Fesharaki未在节目中进一步阐述其供需模型的具体细节或库存数据来源。",
-      "detail_en": "Fereidun Fesharaki, Chairman Emeritus of FGE NexantECA, said on Bloomberg Television's \"Insight with Haslinda Amin\" that based on supply and demand fundamentals and low inventories, oil should trade at $80 to $90 a barrel. However, he expects oversupply to push prices down to $65 to $70 a barrel by this time next year. Fesharaki did not elaborate on the specifics of his supply-demand model or inventory data sources in the program.",
-      "conclusion_zh": "Fesharaki认为油价短期有基本面支撑，但明年面临供应过剩的下行风险。",
-      "conclusion_en": "Fesharaki sees near-term support for oil from fundamentals, but downside risk from oversupply next year.",
-      "key_points": [
-        {
-          "zh": "基于供需和低库存，油价合理水平为80-90美元/桶。",
-          "en": "Based on supply, demand, and low inventories, the fair value for oil is $80-$90/bbl."
-        },
-        {
-          "zh": "预计供应过剩将在明年此时推动油价降至65-70美元/桶。",
-          "en": "Oversupply is expected to push prices down to $65-$70/bbl by this time next year."
-        },
-        {
-          "zh": "观点来自FGE NexantECA名誉主席Fereidun Fesharaki。",
-          "en": "The view comes from Fereidun Fesharaki, Chairman Emeritus of FGE NexantECA."
-        }
-      ],
-      "tags": [
-        "oil",
-        "commodities",
-        "supply-demand",
-        "inventories"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_M2FofIQFLY",
-      "title": "Tech Selloff Hits Asia After US Market Rout",
-      "title_zh": "亚洲市场因美股科技股下跌及半导体持仓平仓而承压",
-      "url": "https://www.youtube.com/watch?v=_M2FofIQFLY",
-      "published_at": "2026-11-06T11:36:14+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美股科技股隔夜下跌，半导体持仓平仓引发跨板块的系统性风险削减，亚洲市场随之承压。",
-      "summary_en": "Asian markets face pressure after an overnight drop in US technology shares, as an unwind in semiconductor holdings triggers systematic risk reductions across sectors.",
-      "detail_zh": "美股科技股隔夜下跌，半导体持仓的平仓操作引发了跨板块的系统性风险削减。受此影响，亚洲市场面临压力。彭博的Anthony Stephens提供了最新情况。",
-      "detail_en": "US technology shares dropped overnight, and an unwind in semiconductor holdings triggered systematic risk reductions across sectors. As a result, Asian markets are under pressure. Bloomberg's Anthony Stephens has the latest.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美股科技股隔夜下跌。",
-          "en": "US technology shares fell overnight."
-        },
-        {
-          "zh": "半导体持仓平仓引发系统性风险削减。",
-          "en": "An unwind in semiconductor holdings triggered systematic risk reductions."
-        },
-        {
-          "zh": "风险削减波及多个板块。",
-          "en": "The risk reductions spread across sectors."
-        },
-        {
-          "zh": "亚洲市场因此承压。",
-          "en": "Asian markets are facing pressure as a result."
-        }
-      ],
-      "tags": [
-        "semiconductors",
-        "tech selloff",
-        "risk reduction",
-        "Asian markets"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:y5PSW6dpNaA",
-      "title": "Iceland PM Says There's No Need for Permanent US Troops",
-      "title_zh": "冰岛总理：与美国关系紧密，无需恢复美军永久驻军",
-      "url": "https://www.youtube.com/watch?v=y5PSW6dpNaA",
-      "published_at": "2026-11-06T11:28:44+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "冰岛总理表示冰岛与美国关系“紧密”，但在北极紧张局势加剧的背景下，认为无需恢复美国在冰岛的永久驻军。美国已于2006年结束在凯夫拉维克空军基地的永久存在。",
-      "summary_en": "Iceland's Prime Minister says the nation has a \"tight knit\" relationship with the US, but sees no need to reinstate permanent American troops despite growing Arctic tensions. The US ended its permanent presence at the Keflavík air base in 2006.",
-      "detail_zh": "冰岛总理Kristrun Frostadottir表示，冰岛与美国拥有“紧密”的关系。尽管北极地区紧张局势加剧，她认为没有必要恢复美国在冰岛的永久驻军。美国于2006年结束了在凯夫拉维克空军基地的永久存在。",
-      "detail_en": "Iceland Prime Minister Kristrun Frostadottir says the nation has a \"tight knit\" relationship with the US. She added that there is no need to reinstate permanent American troops despite growing Arctic tensions. The US ended its permanent presence at the Keflavík air base in 2006.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "冰岛总理称与美国关系“紧密”。",
-          "en": "Iceland's PM describes the relationship with the US as \"tight knit\"."
-        },
-        {
-          "zh": "尽管北极紧张局势加剧，冰岛认为无需恢复美军永久驻军。",
-          "en": "Despite growing Arctic tensions, Iceland sees no need to reinstate permanent US troops."
-        },
-        {
-          "zh": "美国于2006年结束在凯夫拉维克空军基地的永久存在。",
-          "en": "The US ended its permanent presence at the Keflavík air base in 2006."
-        }
-      ],
-      "tags": [
-        "Iceland",
-        "US military",
-        "Arctic tensions",
-        "NATO"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
