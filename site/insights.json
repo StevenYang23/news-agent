@@ -1,6 +1,350 @@
 {
-  "generated_at": "2026-11-13T07:14:31.216809+00:00",
+  "generated_at": "2026-11-13T08:17:54.382030+00:00",
   "insights": [
+    {
+      "guid": "yt:9xP22C0pHZE",
+      "title": "Nvidia Replaces Huang as Lutnick Faces Scrutiny on China",
+      "title_zh": "英伟达CEO黄仁勋因丑闻离职，Anthropic IPO超额认购六倍",
+      "url": "https://www.youtube.com/watch?v=9xP22C0pHZE",
+      "published_at": "2026-11-13T07:57:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋因涉及三起婚外情报道（其中一人涉嫌为中国从事间谍活动）被免职，CFO Colette Kress出任临时CEO。Anthropic的IPO据称获得约六倍超额认购，SpaceX与特斯拉的合并谈判取得进展。",
+      "summary_en": "Nvidia CEO Jensen Huang was ousted following reports of three affairs, including one with a woman suspected of spying for China; CFO Colette Kress takes over as interim CEO. Anthropic's IPO is said to be about six times oversubscribed, and SpaceX and Tesla are progressing in merger negotiations.",
+      "detail_zh": "英伟达宣布，CEO黄仁勋因涉及三起婚外情报道被免职，其中一名女性被怀疑为中国从事间谍活动，长期担任CFO的Colette Kress被任命为临时CEO。Anthropic的IPO据知情人士透露，已获得约六倍于可认购股份的订单，兴趣升温，可能成为史上最大IPO。SpaceX与特斯拉的合并谈判取得进展，为可能重新定义全球交易规模的合并奠定基础。亚洲股市在科技板块动荡中回吐涨幅。比特币跌破70,000美元关键水平。投资者正在评估英伟达动荡带来的影响。此外，有报道称美国商务部长Lutnick因英伟达事件面临职位压力，而乌克兰总统泽连斯基对和平谈判进展表示欢迎。",
+      "detail_en": "Nvidia announced that CEO Jensen Huang was ousted following reports of three affairs, including one with a woman suspected of spying for China; longtime CFO Colette Kress was named interim CEO. Anthropic's IPO has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest first-time share sale ever. SpaceX and Tesla are progressing in merger negotiations, setting the stage for a combination that could redefine the limits of global dealmaking. Asian stocks eased gains amid tech turbulence. Bitcoin dropped through the key $70,000 level. Investors are assessing the fallout from Nvidia turmoil. Additionally, Lutnick is fighting for his job as Trump aides blame him for Nvidia fallout, and Zelenskyy hailed progress in peace talks.",
+      "conclusion_zh": "英伟达领导层突发变动及潜在出口管制收紧可能加剧科技板块波动，而Anthropic IPO的超额认购显示AI领域投资需求依然强劲。",
+      "conclusion_en": "The sudden leadership change at Nvidia and potential tightening of export rules could exacerbate tech sector volatility, while Anthropic's oversubscribed IPO signals strong demand for AI investments.",
+      "key_points": [
+        {
+          "zh": "英伟达CEO黄仁勋因涉及三起婚外情报道被免职，其中一人涉嫌为中国从事间谍活动，CFO Colette Kress出任临时CEO。",
+          "en": "Nvidia CEO Jensen Huang was ousted after reports of three affairs, including one with a woman suspected of spying for China; CFO Colette Kress takes over as interim CEO."
+        },
+        {
+          "zh": "Anthropic的IPO据称获得约六倍超额认购，可能成为史上最大IPO。",
+          "en": "Anthropic's IPO is said to be about six times oversubscribed, potentially the biggest first-time share sale ever."
+        },
+        {
+          "zh": "SpaceX与特斯拉的合并谈判取得进展，但交易前仍需克服障碍。",
+          "en": "SpaceX and Tesla are progressing in merger negotiations, but obstacles remain before a deal."
+        },
+        {
+          "zh": "亚洲股市在科技板块动荡中回吐涨幅，比特币跌破70,000美元。",
+          "en": "Asian stocks eased gains amid tech turbulence, and Bitcoin dropped through $70,000."
+        },
+        {
+          "zh": "美国商务部长Lutnick因英伟达事件面临职位压力。",
+          "en": "US Commerce Secretary Lutnick is fighting for his job amid Nvidia fallout."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Anthropic IPO",
+        "SpaceX-Tesla merger",
+        "tech turbulence",
+        "export controls"
+      ],
+      "tickers": [
+        "NVDA",
+        "TSLA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:EClGJ_S6zWs",
+      "title": "Nvidia Names Kress Interim CEO After Huang Exit as Trump Cools on Iran Deal",
+      "title_zh": "英伟达任命临时CEO，中美芯片紧张局势升温",
+      "url": "https://www.youtube.com/watch?v=EClGJ_S6zWs",
+      "published_at": "2026-11-13T07:49:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋离职后，公司任命Colette Kress为临时CEO，事件引发中美科技紧张及先进芯片获取的新问题。北京警告华盛顿勿借此收紧限制，而有关黄仁勋另一段关系的报道加大公司压力。Anthropic的IPO据报超额认购六倍，拟募资约644亿美元。",
+      "summary_en": "Nvidia named Colette Kress interim CEO after Jensen Huang's exit, raising fresh questions about US-China tech tensions and access to advanced chips. Beijing warned Washington against using the scandal to tighten restrictions, while reports of another relationship involving Huang add pressure. Anthropic's IPO remains in focus, reportedly six times oversubscribed and seeking to raise about $64.4 billion.",
+      "detail_zh": "英伟达在黄仁勋离职后任命Colette Kress为临时CEO，此事引发市场对中美科技紧张关系及先进芯片获取渠道的新疑问。北京方面警告华盛顿不要利用该丑闻作为收紧限制的理由，同时有关黄仁勋另一段关系的报道进一步加大公司压力。Anthropic的IPO仍受关注，据报获得六倍超额认购，拟募资约644亿美元。迪拜商人Hussain Sajwani表示对其AI投资感到满意，显示该领域热情持续。油价维持涨势，因特朗普对与伊朗的外交提出新的质疑，增加地区长期对峙风险；海湾国家继续关注谈判能否重启。乌克兰总统泽连斯基在爱尔兰会见美国特使Steve Witkoff和Jared Kushner后表示和平谈判取得进展。EGA称其Al Taweelah冶炼厂生产已完全恢复，但九个月铸金属产量仍低于去年同期。Talabat报告第三季度营收增长18%至12亿美元，受返校季季节性需求提振。亚洲股市回吐早前涨幅，债券走弱，等待美国生产者价格数据；微软正努力解决影响用户的软件问题。",
+      "detail_en": "Nvidia named Colette Kress interim CEO after Jensen Huang's exit, raising fresh questions around US-China technology tensions and access to advanced chips. Beijing warned Washington against using the scandal as a reason for tighter restrictions, while reports of another relationship involving Huang add to the pressure on the company. Anthropic's IPO remains in focus, with the deal reportedly six times oversubscribed and seeking to raise about $64.4 billion. Dubai businessman Hussain Sajwani said he is pleased with his AI investments as enthusiasm around the sector continues. Oil held onto gains as Trump cast fresh doubt on diplomacy with Iran, increasing the risk of a longer regional standoff; Gulf states continue to watch for signs of whether talks can be revived. Ukraine's Volodymyr Zelenskyy said progress is being made in peace negotiations after meeting US envoys Steve Witkoff and Jared Kushner in Ireland. EGA said production at its Al Taweelah smelter has fully recovered, although nine-month cast metal output remains below last year's level. Talabat reported third-quarter revenue growth of 18% to $1.2 billion, helped by seasonal demand around the back-to-school period. Asian stocks gave up earlier gains and bonds weakened ahead of US producer-price data, while Microsoft worked to resolve software problems affecting users.",
+      "conclusion_zh": "英伟达管理层变动与中美芯片紧张局势可能加剧半导体板块波动，投资者需关注事件对先进芯片获取及供应链的潜在影响。",
+      "conclusion_en": "Nvidia's management change and US-China chip tensions could increase volatility in the semiconductor sector; investors should watch potential impacts on advanced chip access and supply chains.",
+      "key_points": [
+        {
+          "zh": "英伟达任命Colette Kress为临时CEO，接替离职的黄仁勋，事件引发中美科技紧张及芯片获取担忧。",
+          "en": "Nvidia named Colette Kress interim CEO after Jensen Huang's exit, raising US-China tech tension and chip access concerns."
+        },
+        {
+          "zh": "北京警告华盛顿不要利用该丑闻收紧限制，有关黄仁勋另一段关系的报道加大公司压力。",
+          "en": "Beijing warned Washington against using the scandal to tighten restrictions; reports of another Huang relationship add pressure."
+        },
+        {
+          "zh": "Anthropic的IPO据报超额认购六倍，拟募资约644亿美元。",
+          "en": "Anthropic's IPO is reportedly six times oversubscribed, seeking to raise about $64.4 billion."
+        },
+        {
+          "zh": "油价维持涨势，因特朗普对与伊朗外交提出新质疑，增加地区长期对峙风险。",
+          "en": "Oil held gains as Trump cast fresh doubt on diplomacy with Iran, increasing risk of a longer regional standoff."
+        },
+        {
+          "zh": "亚洲股市回吐涨幅、债券走弱，等待美国生产者价格数据；微软正解决软件问题。",
+          "en": "Asian stocks gave up gains and bonds weakened ahead of US PPI data; Microsoft worked to resolve software problems."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "US-China",
+        "chips",
+        "Anthropic IPO",
+        "oil"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:SEHNuZKCzSk",
+      "title": "Traders Digest Jensen Huang's Exit from Nvidia",
+      "title_zh": "英伟达CFO临时接任CEO，黄仁勋风波冲击AI交易与中国科技",
+      "url": "https://www.youtube.com/watch?v=SEHNuZKCzSk",
+      "published_at": "2026-11-13T06:33:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达CFO Colette Cress出任临时CEO，黄仁勋相关风波引发市场对AI交易及中国芯片获取的担忧。彭博情报认为英伟达短期前景未变，但分析师关注民主党控制国会可能加码对华芯片限制，以及新世界发展考虑32亿美元供股。",
+      "summary_en": "Nvidia CFO Colette Cress becomes interim CEO amid the Huang scandal, sparking concerns over the AI trade and China's chip access. Bloomberg Intelligence sees Nvidia's near-term outlook intact, while analysts weigh potential stricter chip curbs under a Democratic-controlled Congress and New World's contemplated $3.2B rights issue.",
+      "detail_zh": "节目聚焦英伟达高层变动：CFO Colette Cress成为公司临时CEO。中国方面表示，美国不应利用黄仁勋丑闻为技术限制辩护。William Blair的Vivian Lin Thurston讨论了英伟达风波下中国股市的波动性，并分析了民主党控制国会对中国芯片获取限制的影响。有观点认为中国是黄仁勋倒台的最大输家，Ashton Analytics的Anna Ashton谈及围绕黄仁勋和英伟达的信任担忧。报道称英伟达风波威胁中国AI雄心，但彭博情报认为英伟达近期前景依然完好。高盛的Hui Shan探讨英伟达波动是否会拖累中国经济。此外，新世界发展在贝恩退出后考虑供股，可能筹集高达32亿美元。节目还提到Anthropic的IPO而非英伟达风波将决定AI交易，以及主动型ETF维持英伟达敞口。",
+      "detail_en": "The program focuses on Nvidia's leadership change: CFO Colette Cress becomes interim CEO. China said the US should not use the Huang scandal to justify tech curbs. William Blair's Vivian Lin Thurston discussed China equity volatility amid the Nvidia fallout and the impact of a Democratic-controlled Congress on China's chip access restrictions. One opinion piece argued China is the biggest loser from Jensen Huang's downfall, while Ashton Analytics' Anna Ashton addressed trust concerns surrounding Huang and Nvidia. Reports said the Nvidia fallout threatens China's AI ambitions, but Bloomberg Intelligence sees Nvidia's near-term outlook remaining intact. Goldman Sachs' Hui Shan examined whether volatility around Nvidia will weigh on China's economy. Additionally, New World is said to consider a rights issue raising up to $3.2B after Bain walked away. The program also noted that Anthropic's IPO, not Nvidia turmoil, will decide the AI trade, and that active ETFs keep Nvidia exposure.",
+      "conclusion_zh": "英伟达管理层变动引发短期波动，但彭博情报维持其近期前景判断；投资者需关注美国对华芯片政策风险及AI交易长期驱动力。",
+      "conclusion_en": "Nvidia's management change triggers short-term volatility, but Bloomberg Intelligence maintains its near-term outlook; investors should watch US chip policy risks toward China and long-term AI trade drivers.",
+      "key_points": [
+        {
+          "zh": "英伟达CFO Colette Cress成为公司临时CEO。",
+          "en": "Nvidia CFO Colette Cress becomes interim CEO."
+        },
+        {
+          "zh": "中国表示美国不应利用黄仁勋丑闻为技术限制辩护。",
+          "en": "China says the US should not use the Huang scandal to justify tech curbs."
+        },
+        {
+          "zh": "彭博情报认为英伟达近期前景依然完好。",
+          "en": "Bloomberg Intelligence sees Nvidia's near-term outlook remaining intact."
+        },
+        {
+          "zh": "新世界发展在贝恩退出后考虑供股，或筹集高达32亿美元。",
+          "en": "New World considers rights issue raising up to $3.2B after Bain walks away."
+        },
+        {
+          "zh": "有观点认为Anthropic的IPO而非英伟达风波将决定AI交易。",
+          "en": "Opinion: Anthropic's IPO, not Nvidia turmoil, will decide the AI trade."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI trade",
+        "China chip curbs",
+        "management change",
+        "rights issue"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:G4rAfeZdUSI",
+      "title": "278: How to Build a Balanced Portfolio and Navigate Market Volatility: Your investing questions a...",
+      "title_zh": "贝莱德播客：构建均衡组合，应对波动与AI投资",
+      "url": "https://www.youtube.com/watch?v=G4rAfeZdUSI",
+      "published_at": "2026-11-13T05:13:31+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "other",
+        "tech"
+      ],
+      "summary_zh": "贝莱德全球组合解决方案投资策略主管Kristy Akullian在播客中回答听众提问，探讨构建均衡组合的基本原则，包括早期财富积累、债券分散风险、期货基础以及如何识别真正的AI赢家。她强调长期持有优于择时，并指出AI投资增长可能对其他经济部门产生挤出效应。",
+      "summary_en": "BlackRock's Kristy Akullian answers listener questions on building a balanced portfolio, covering early wealth accumulation, bond diversification, futures basics, and spotting real AI winners. She emphasizes time in the market over timing, and notes that growing AI investment may crowd out other sectors.",
+      "detail_zh": "在《The Bid》的Ask Me Anything节目中，主持人Oscar Pulido与贝莱德美洲全球组合解决方案投资策略主管Kristy Akullian讨论了构建均衡组合的多个方面。对话涵盖20多岁和30多岁开始积累财富的里程碑、在市场波动中保持冷静、债券基础与利率、期货的简单解释，以及如何识别真正的AI赢家。Akullian指出，AI投资增长可能影响经济其他部门，产生挤出效应。她还提到投资者常犯的最大错误，并强调财务纪律和分散化在构建均衡组合中的重要性。整体上，她认为时间在市场中的重要性可能超过试图择时。",
+      "detail_en": "In this Ask Me Anything episode of The Bid, host Oscar Pulido speaks with Kristy Akullian, Head of Global Portfolio Solutions Investment Strategy for the Americas at BlackRock, about building a balanced portfolio. The conversation covers wealth accumulation in your 20s and 30s, staying calm amid volatility, bond basics and rates, a simple explanation of futures, and how to spot real AI winners. Akullian notes that growing AI investment may affect other sectors of the economy through crowding out. She also discusses the biggest investor mistake and stresses financial discipline and diversification. Overall, she suggests time in the market may matter more than trying to time the market.",
+      "conclusion_zh": "对长期投资者而言，保持纪律、分散配置并聚焦长期目标，比择时和追逐热点更为重要。",
+      "conclusion_en": "For long-term investors, discipline, diversification, and focus on long-term goals matter more than timing and chasing trends.",
+      "key_points": [
+        {
+          "zh": "时间在市场中的重要性可能超过试图择时。",
+          "en": "Time in the market may matter more than trying to time the market."
+        },
+        {
+          "zh": "债券可以帮助分散投资风险。",
+          "en": "Bonds can help diversify investment risk."
+        },
+        {
+          "zh": "评估AI相关公司时需考虑其是否真正受益。",
+          "en": "Investors should consider whether AI-related companies are real winners."
+        },
+        {
+          "zh": "AI投资增长可能对其他经济部门产生挤出效应。",
+          "en": "Growing AI investment may crowd out other sectors of the economy."
+        },
+        {
+          "zh": "财务纪律和分散化对构建均衡组合至关重要。",
+          "en": "Financial discipline and diversification remain important for a balanced portfolio."
+        }
+      ],
+      "tags": [
+        "balanced portfolio",
+        "AI investing",
+        "bond diversification",
+        "long-term investing",
+        "financial discipline"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:dToeCwhaK2M",
+      "title": "What Investing Advice Would You Give YOUR 22 Year-old Self | The Bid investing podcast",
+      "title_zh": "贝莱德播客：构建平衡组合与应对市场波动",
+      "url": "https://www.youtube.com/watch?v=dToeCwhaK2M",
+      "published_at": "2026-11-13T05:00:33+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "贝莱德《The Bid》AMA 特辑中，Kristy Akullian 回答听众关于初学者投资、财富积累、债券与期货理解、识别 AI 投资机会及避免常见投资错误的提问。内容为投资者教育导向，未给出具体市场判断或个股推荐。",
+      "summary_en": "In this Ask Me Anything episode of The Bid, BlackRock's Kristy Akullian answers listener questions on beginner investing, building wealth, understanding bonds and futures, spotting AI investment opportunities, and avoiding common investing mistakes. The content is educational and offers no specific market calls or stock recommendations.",
+      "detail_zh": "该内容为贝莱德播客《The Bid》的 AMA（问答）特辑介绍。贝莱德的 Kristy Akullian 回应听众提问，主题覆盖：初学者如何投资、如何积累财富、如何理解债券与期货、如何识别 AI 投资机会，以及如何避免常见投资错误。节目整体围绕构建平衡投资组合与应对市场波动展开，并引导听众观看完整节目以获取关于全球股票市场、AI 投资与组合分散化的更多内容。原文未披露具体观点、数字、个股或市场判断。",
+      "detail_en": "This is the episode description for an Ask Me Anything edition of BlackRock's The Bid podcast. BlackRock's Kristy Akullian answers listener questions covering investing for beginners, building wealth, understanding bonds and futures, spotting AI investment opportunities, and avoiding common investing mistakes. The episode centers on building a balanced portfolio and navigating market volatility, and directs listeners to the full episode for more on global equity markets, AI investing, and portfolio diversification. The source does not disclose specific views, figures, individual stocks, or market calls.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目形式为听众问答，由贝莱德的 Kristy Akullian 回应投资相关问题。",
+          "en": "The episode is a listener Q&A featuring BlackRock's Kristy Akullian."
+        },
+        {
+          "zh": "覆盖主题包括初学者投资、财富积累、债券与期货、AI 投资机会及常见投资错误。",
+          "en": "Topics include beginner investing, wealth building, bonds and futures, AI investment opportunities, and common investing mistakes."
+        },
+        {
+          "zh": "核心框架为构建平衡组合与应对市场波动。",
+          "en": "The core framing is building a balanced portfolio and navigating market volatility."
+        },
+        {
+          "zh": "原文未提供具体市场观点、数字或个股推荐。",
+          "en": "The source provides no specific market views, figures, or stock recommendations."
+        }
+      ],
+      "tags": [
+        "portfolio-diversification",
+        "investing-basics",
+        "market-volatility",
+        "ai-investing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:CSYb_WaIBZQ",
+      "title": "How to Build a Balanced Portfolio and Navigate Market Volatility AMA | The Bid investing podcast",
+      "title_zh": "贝莱德专家谈构建平衡投资组合：时间优于择时，债券分散风险，AI投资需甄别",
+      "url": "https://www.youtube.com/watch?v=CSYb_WaIBZQ",
+      "published_at": "2026-11-13T05:00:20+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "贝莱德全球投资组合解决方案美洲策略主管Kristy Akullian在播客中回答听众提问，强调长期持有比择时更重要，债券有助于分散风险，并讨论了评估AI相关公司的方法以及AI投资对其他经济部门的潜在影响。",
+      "summary_en": "Kristy Akullian, Head of Global Portfolio Solutions Investment Strategy for the Americas at BlackRock, answered listener questions on The Bid podcast, emphasizing that time in the market matters more than timing the market, bonds can help diversify risk, and discussed how to evaluate AI-related companies and the potential impact of AI investment on other sectors.",
+      "detail_zh": "在贝莱德播客《The Bid》的Ask Me Anything节目中，主持人Oscar Pulido与贝莱德全球投资组合解决方案美洲投资策略主管Kristy Akullian回答了听众关于投资的提问。内容涵盖从20-30岁开始积累财富、30多岁衡量进展、在波动中保持冷静、债券基础知识、期货与杠杆、AI赢家与炒作、AI挤占资本以及专业人士也会犯的错误等话题。Kristy强调，时间在市场中的重要性可能超过试图择时；债券可以帮助分散投资风险；投资者在评估AI相关公司时应考虑相关因素。她还讨论了AI投资增长可能如何影响经济其他部门，以及财务纪律和多元化在构建平衡投资组合中的重要性。",
+      "detail_en": "In the Ask Me Anything episode of BlackRock's The Bid podcast, host Oscar Pulido and Kristy Akullian, Head of Global Portfolio Solutions Investment Strategy for the Americas at BlackRock, answered listener questions on investing. Topics covered include starting young and goals, measuring progress in your 30s, staying calm in volatility, bond basics, futures and leverage, AI winners vs hype, AI crowding out capital, and mistakes even pros make. Kristy emphasized that time in the market can matter more than trying to time the market; bonds can help diversify investment risk; and investors should consider certain factors when evaluating AI-related companies. She also discussed how growing AI investment may affect other sectors of the economy, and why financial discipline and diversification remain important when building a balanced portfolio.",
+      "conclusion_zh": "对长期投资者而言，保持纪律、分散配置并坚持长期持有，比择时和追逐AI炒作更为重要。",
+      "conclusion_en": "For long-term investors, maintaining discipline, diversifying, and staying invested matters more than timing the market or chasing AI hype.",
+      "key_points": [
+        {
+          "zh": "时间在市场中的重要性可能超过试图择时。",
+          "en": "Time in the market can matter more than trying to time the market."
+        },
+        {
+          "zh": "债券可以帮助分散投资风险。",
+          "en": "Bonds can help diversify investment risk."
+        },
+        {
+          "zh": "评估AI相关公司时需考虑相关因素，区分赢家与炒作。",
+          "en": "Investors should consider certain factors when evaluating AI-related companies, distinguishing winners from hype."
+        },
+        {
+          "zh": "AI投资增长可能影响经济其他部门（挤占资本）。",
+          "en": "Growing AI investment may affect other sectors of the economy (crowding out capital)."
+        },
+        {
+          "zh": "财务纪律和多元化对构建平衡投资组合至关重要。",
+          "en": "Financial discipline and diversification remain important when building a balanced portfolio."
+        }
+      ],
+      "tags": [
+        "balanced portfolio",
+        "diversification",
+        "AI investing",
+        "bonds",
+        "long-term investing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:DVdNUnbHPBk",
+      "title": "Jensen Huang Saga Tests AI Trade Ahead of Anthropic IPO",
+      "title_zh": "英伟达CEO黄仁勋离职风波冲击亚洲科技股",
+      "url": "https://www.youtube.com/watch?v=DVdNUnbHPBk",
+      "published_at": "2026-11-13T04:34:55+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博《亚洲交易》节目聚焦英伟达CEO黄仁勋离职事件：Colette Kress出任临时CEO，事件引发中国芯片准入担忧，亚洲股市开盘谨慎，亚洲科技股承压。节目还讨论了该事件对美中AI竞赛及台系芯片厂商的潜在影响。",
+      "summary_en": "Bloomberg's The Asia Trade focuses on Nvidia CEO Jensen Huang's exit: Colette Kress becomes interim CEO, the controversy triggers fears over China chip access, Asian stocks set for a cautious open, and Asian tech stocks are in focus. The program also discusses the potential impact on the US-China AI race and Taiwanese chipmakers.",
+      "detail_zh": "彭博《亚洲交易》节目围绕英伟达CEO黄仁勋离职展开。节目提到Colette Kress出任英伟达临时CEO，相关争议引发对中国芯片准入的担忧。受此影响，亚洲股市开盘谨慎，亚洲科技股成为焦点。Moor Insights的Patrick Moorhead和彭博经济研究均就黄仁勋离职发表看法，后者认为这可能放缓美中AI竞赛。此外，节目还提到参议院银行委员会主席要求黄仁勋和Lutnick作证，以及特朗普曾敦促黄仁勋争取留任。UBS的Randy Abrams讨论了该事件对台系芯片厂商的影响。节目还涉及日本大型银行财报、GPU需求飙升以及Anthropic IPO作为AI交易试金石等话题。",
+      "detail_en": "Bloomberg's The Asia Trade centers on Nvidia CEO Jensen Huang's exit. The program notes that Colette Kress becomes Nvidia's interim CEO, and the controversy triggers fears over China chip access. As a result, Asian stocks are set for a cautious open, with Asian tech stocks in focus. Moor Insights' Patrick Moorhead and Bloomberg Economics both comment on Huang's exit, with the latter suggesting it could slow the US-China AI race. The program also mentions that the Senate Banking chair asks Huang and Lutnick to testify, and that Trump urged Huang to fight for his job. UBS's Randy Abrams discusses the impact on Taiwanese chipmakers. Other topics include Japanese megabanks' earnings, soaring GPU demand, and Anthropic IPO as a litmus test for the AI trade.",
+      "conclusion_zh": "英伟达领导层变动引发亚洲科技股谨慎情绪，投资者需关注中国芯片准入风险及对台系供应链的传导。",
+      "conclusion_en": "Nvidia's leadership change triggers caution in Asian tech stocks; investors should watch China chip access risks and spillover to the Taiwanese supply chain.",
+      "key_points": [
+        {
+          "zh": "Colette Kress出任英伟达临时CEO，接替离职的黄仁勋。",
+          "en": "Colette Kress becomes Nvidia's interim CEO, succeeding the departing Jensen Huang."
+        },
+        {
+          "zh": "英伟达争议引发中国芯片准入担忧，亚洲股市开盘谨慎。",
+          "en": "Nvidia controversy triggers fears over China chip access; Asian stocks set for a cautious open."
+        },
+        {
+          "zh": "彭博经济研究认为黄仁勋离职可能放缓美中AI竞赛。",
+          "en": "Bloomberg Economics says Huang's exit could slow the US-China AI race."
+        },
+        {
+          "zh": "参议院银行委员会主席要求黄仁勋和Lutnick作证；特朗普曾敦促黄仁勋争取留任。",
+          "en": "Senate Banking chair asks Huang and Lutnick to testify; Trump urged Huang to fight for his job."
+        },
+        {
+          "zh": "UBS分析师讨论该事件对台系芯片厂商的影响。",
+          "en": "UBS analyst discusses the impact of the Nvidia saga on Taiwanese chipmakers."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "China chip access",
+        "Asian tech stocks",
+        "AI race"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:0y9o02dIPns",
       "title": "Stocks Fall as Huang Resigns, Nvidia Turns to CFO",
@@ -17225,104 +17569,6 @@
         "crude oil",
         "US-China",
         "Asia markets"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:B3LGYMP6cz4",
-      "title": "Eisenkot Wins 67 Backers as Israel Awaits Government Decision, Oil Slides on Iran Talks",
-      "title_zh": "全球AI抛售加深，纳指进入熊市；油价创2020年以来最大周跌幅",
-      "url": "https://www.youtube.com/watch?v=B3LGYMP6cz4",
-      "published_at": "2026-11-06T07:56:15+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "全球AI抛售加深，亚洲科技股走低、美债大涨，纳斯达克100指数进入熊市区间，市值蒸发约2.3万亿美元，日经指数亦跌入熊市，标普500创2025年4月以来最大跌幅。Jefferies首席经济学家Mohit Kumar认为民主党大胜不应破坏AI投资逻辑，并看到增配新兴市场的机会。油价因伊朗外交重启预期创2020年以来最大周跌幅。",
-      "summary_en": "The global AI selloff deepened, dragging Asian tech shares lower and sending Treasuries sharply higher. The Nasdaq 100 entered bear-market territory after losing about $2.3 trillion in value, the Nikkei also fell into a bear market, and the S&P 500 posted its steepest drop since April 2025. Jefferies Chief Economist Mohit Kumar said the Democratic sweep should not derail the AI investment story and sees opportunities to add to emerging-market exposure. Oil headed for its biggest weekly loss since 2020 on renewed diplomacy with Iran.",
-      "detail_zh": "全球AI抛售加深，亚洲科技股承压下行，美债价格大幅上涨。纳斯达克100指数在市值蒸发约2.3万亿美元后进入熊市区间；日经指数同样跌入熊市；标普500指数录得2025年4月以来最大跌幅。Jefferies首席经济学家Mohit Kumar表示，民主党大胜不应破坏AI投资叙事，并认为存在增配新兴市场敞口的机会。原油迈向2020年以来最大周跌幅，因交易员权衡与伊朗重启外交的前景：阿曼与伊朗讨论重启霍尔木兹海峡谈判，沙特阿美下调亚洲原油售价，市场份额竞争加剧，中东石油流量已接近战前水平。以色列方面，总统Isaac Herzog预计周日决定授权谁组建政府；主要阿拉伯政党名单表示将支持Gadi Eisenkot，选举委员会已认证结果。美国方面，据报道Marco Rubio正考虑离开特朗普政府，Pete Hegseth最早可能下周面临弹劾投票。法国因预算僵局再度爆发大规模抗议；Alpha Dhabi公布九个月营收增长，并计划向Alpha Wave III投资10亿美元，同时在上市资产和私人信贷领域进一步布局。英国央行实施2023年以来首次加息并释放更鹰派信号，行长Andrew Bailey表示若战争持续且通胀风险仍偏上行，再次加息的可能性大于不行动。南非方面，非国大在市政选举中料将失去支持，总统Cyril Ramaphosa寻求重置与美国的关系；南非警告失去AGOA准入可能损害关键出口部门，并给贸易敏感行业增加压力。",
-      "detail_en": "The global AI selloff deepened, dragging Asian technology shares lower and sending Treasuries sharply higher. The Nasdaq 100 entered bear-market territory after losing about $2.3 trillion in value, while the Nikkei also fell into a bear market and the S&P 500 posted its steepest drop since April 2025. Jefferies Chief Economist Mohit Kumar said the Democratic sweep should not derail the AI investment story and sees opportunities to add to emerging-market exposure. Oil headed for its biggest weekly loss since 2020 as traders weighed renewed diplomacy with Iran: Oman and Iran discussed efforts to restart Hormuz talks, Aramco cut its Asia crude price as competition for market share intensified, and Middle East oil flows are now close to prewar levels. In Israel, President Isaac Herzog is expected to decide Sunday who will receive the mandate to form a government; the main Arab list said it will back Gadi Eisenkot, and the election committee has certified the results. In the US, Marco Rubio is reportedly considering leaving the Trump administration, while Pete Hegseth could face an impeachment vote as early as next week. France saw another major wave of protests amid the budget deadlock, while Alpha Dhabi reported higher nine-month revenue and plans a $1 billion investment in Alpha Wave III alongside further activity in listed assets and private credit. The Bank of England delivered its first rate hike since 2023 and signaled a more hawkish stance; Governor Andrew Bailey said another increase is more likely than not if the war persists and inflation risks remain tilted to the upside. In South Africa, the ANC is on course to lose support in municipal elections, while President Cyril Ramaphosa looks to reset relations with the US; Pretoria warned that losing AGOA access could hurt key export sectors and add pressure to trade-sensitive industries.",
-      "conclusion_zh": "AI交易遭遇深度回撤、纳指进入熊市，但Jefferies的Kumar认为民主党大胜不改变AI投资逻辑，并建议关注新兴市场增配机会；同时油价因伊朗外交预期大跌、英国央行转鹰，宏观变量交织，需警惕风险资产波动延续。",
-      "conclusion_en": "The AI trade suffered a deep drawdown with the Nasdaq 100 in a bear market, but Jefferies' Kumar argues the Democratic sweep does not change the AI investment logic and points to emerging-market opportunities; meanwhile oil slumped on Iran diplomacy hopes and the BoE turned hawkish, leaving macro crosscurrents that warrant caution on risk-asset volatility.",
-      "key_points": [
-        {
-          "zh": "纳斯达克100指数进入熊市区间，市值蒸发约2.3万亿美元；日经指数亦跌入熊市，标普500创2025年4月以来最大跌幅。",
-          "en": "The Nasdaq 100 entered bear-market territory after losing about $2.3 trillion in value; the Nikkei also fell into a bear market, and the S&P 500 posted its steepest drop since April 2025."
-        },
-        {
-          "zh": "Jefferies首席经济学家Mohit Kumar认为民主党大胜不应破坏AI投资叙事，并看到增配新兴市场敞口的机会。",
-          "en": "Jefferies Chief Economist Mohit Kumar said the Democratic sweep should not derail the AI investment story and sees opportunities to add to emerging-market exposure."
-        },
-        {
-          "zh": "原油迈向2020年以来最大周跌幅，因阿曼与伊朗讨论重启霍尔木兹谈判、沙特阿美下调亚洲售价，中东石油流量接近战前水平。",
-          "en": "Oil headed for its biggest weekly loss since 2020 as Oman and Iran discussed restarting Hormuz talks, Aramco cut its Asia crude price, and Middle East oil flows are now close to prewar levels."
-        },
-        {
-          "zh": "英国央行实施2023年以来首次加息并释放更鹰派信号，行长Bailey称若战争持续且通胀风险偏上行，再次加息可能性大于不行动。",
-          "en": "The Bank of England delivered its first rate hike since 2023 and signaled a more hawkish stance; Governor Bailey said another increase is more likely than not if the war persists and inflation risks remain tilted to the upside."
-        },
-        {
-          "zh": "美国政治方面，据报道Marco Rubio正考虑离开特朗普政府，Pete Hegseth最早下周可能面临弹劾投票。",
-          "en": "In US politics, Marco Rubio is reportedly considering leaving the Trump administration, while Pete Hegseth could face an impeachment vote as early as next week."
-        }
-      ],
-      "tags": [
-        "AI selloff",
-        "Nasdaq bear market",
-        "oil",
-        "Bank of England",
-        "emerging markets"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:CAj4J9cHnB4",
-      "title": "Global Tech Selloff Deepens as US Midterms Trigger AI Fears",
-      "title_zh": "亚洲股市领跌全球，AI监管担忧与拥挤交易平仓加剧抛售",
-      "url": "https://www.youtube.com/watch?v=CAj4J9cHnB4",
-      "published_at": "2026-11-06T07:52:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "全球股市抛售在亚洲恶化，区域基准指数创一年多最大跌幅，因民主党选举大胜后市场担忧美国将收紧AI行业监管。欧洲期货亦走低，拥挤的对冲基金交易在10月糟糕表现后快速平仓。英国央行行长贝利表示，若近期高能源成本持续，加息可能性大于不加息。",
-      "summary_en": "The global stock selloff worsened in Asia, with a regional benchmark dropping the most in more than a year on concern the US will tighten regulations on the AI industry after Democrats' decisive election win. European futures also headed lower, and crowded hedge fund trades are unwinding fast after an ugly October. Bank of England Governor Andrew Bailey said another interest-rate hike is more likely than not if high energy costs return.",
-      "detail_zh": "全球股市抛售在亚洲时段进一步恶化，区域基准指数录得一年多来最大跌幅，核心担忧在于民主党在选举中取得决定性胜利后，美国可能收紧对AI行业的监管。欧洲期货同样指向下跌，显示抛售压力从亚洲向欧洲蔓延。韩国市场出现1.7万亿美元规模的暴跌，令日内交易者受损，并对李在明构成挑战。10月表现糟糕之后，拥挤的对冲基金交易正在快速平仓，加剧了市场波动。政治层面，国务卿马科·鲁比奥在共和党中期选举惨败后正权衡是否离开特朗普政府，但他本人否认了相关报道。英国央行行长安德鲁·贝利表示，如果近几周出现的高能源成本再度出现，加息的可能性大于不加息，并称更大的风险溢价并不令人意外。此外，法国罢工扰乱了火车、地铁和学校。",
-      "detail_en": "The global stock selloff worsened during the Asian session, with a regional benchmark posting its biggest drop in more than a year, driven by concerns that the US may tighten regulations on the AI industry after Democrats' decisive election victory. European futures also pointed lower, indicating selling pressure spreading from Asia to Europe. South Korea saw a $1.7 trillion rout that burned day traders and challenged Lee Jae-myung. Crowded hedge fund trades are unwinding fast after an ugly October, exacerbating market volatility. On the political front, Secretary of State Marco Rubio is weighing whether to leave the Trump administration after Republicans' midterm elections wipeout, though he dismissed the report. Bank of England Governor Andrew Bailey said another interest-rate hike is more likely than not if the high energy costs seen in recent weeks return, adding that a bigger risk premium is not a surprise. Meanwhile, strikes in France disrupted trains, metro and schools.",
-      "conclusion_zh": "市场面临AI监管政策风险与拥挤交易平仓的双重压力，短期波动可能延续；同时需关注英国央行加息倾向对利率预期的潜在影响。",
-      "conclusion_en": "Markets face dual pressures from AI regulatory policy risk and unwinding of crowded trades, with near-term volatility likely to persist; also watch the BoE's hawkish tilt for potential impact on rate expectations.",
-      "key_points": [
-        {
-          "zh": "亚洲基准指数创一年多最大跌幅，因担忧美国在民主党胜选后收紧AI监管。",
-          "en": "Asia benchmark posts biggest drop in over a year on concerns the US will tighten AI regulation after Democrats' election win."
-        },
-        {
-          "zh": "欧洲期货走低，全球股市抛售从亚洲蔓延至欧洲。",
-          "en": "European futures headed lower as the global stock selloff spread from Asia to Europe."
-        },
-        {
-          "zh": "韩国市场经历1.7万亿美元暴跌，日内交易者受损。",
-          "en": "South Korea's $1.7 trillion rout burned day traders."
-        },
-        {
-          "zh": "10月表现糟糕后，拥挤的对冲基金交易正在快速平仓。",
-          "en": "Crowded hedge fund trades are unwinding fast after an ugly October."
-        },
-        {
-          "zh": "英国央行行长贝利：若高能源成本重现，加息可能性大于不加息。",
-          "en": "BoE Governor Bailey: another rate hike is more likely than not if high energy costs return."
-        }
-      ],
-      "tags": [
-        "AI regulation",
-        "stock selloff",
-        "hedge fund unwind",
-        "BoE rate hike",
-        "South Korea rout"
       ],
       "tickers": [],
       "sentiment": "negative"
