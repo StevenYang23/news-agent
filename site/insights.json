@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-13T15:13:04.529623+00:00",
+  "generated_at": "2026-11-13T16:15:24.959845+00:00",
   "insights": [
+    {
+      "guid": "yt:jmON8BONo94",
+      "title": "Jensen Huang on AI Optimism and Nvidia’s Next CEO",
+      "title_zh": "报道称英伟达CEO黄仁勋因婚外情传闻离职",
+      "url": "https://www.youtube.com/watch?v=jmON8BONo94",
+      "published_at": "2026-11-13T15:36:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "有报道称英伟达CEO黄仁勋因婚姻不忠传闻（包括与一名被美国怀疑为中国从事间谍活动的女性的关系）而离职。另一报道指其与一名直接下属高管有婚外情。一个月前黄仁勋曾接受彭博社Emily Chang采访，讨论AI革命中的CEO问责制及未来领导者须凭实力赢得位置。",
+      "summary_en": "Reports allege Nvidia CEO Jensen Huang has departed following marital infidelity reports, including an affair with a woman reportedly suspected by the US of spying for China. Another report alleged he had an affair with an executive who reported to him. A month ago, Huang discussed CEO accountability in leading the AI revolution and why future Nvidia leaders must earn their place in an interview with Bloomberg's Emily Chang.",
+      "detail_zh": "原文称，在有关婚姻不忠的报道出现后，黄仁勋已离开英伟达。报道特别提及他与一名被美国怀疑为中国从事间谍活动的女性的婚外情。另一篇报道则指控他与一名向他汇报的高管存在婚外情。原文还回顾，一个月前黄仁勋在接受彭博社Emily Chang采访时，曾讨论在引领AI革命过程中的CEO问责制，以及英伟达未来领导者为何必须凭实力赢得自己的位置。原文未提供离职的具体时间、方式、继任安排或公司官方回应，也未给出任何财务或股价影响的数据。",
+      "detail_en": "The original text states that Jensen Huang is out at Nvidia following reports of marital infidelity. It specifically mentions an affair with a woman reportedly suspected by the US of spying for China. A separate report alleged he had an affair with an executive who reported to him. The text also recalls that a month ago, in an interview with Bloomberg's Emily Chang, Huang discussed CEO accountability in leading the AI revolution and why future leaders at Nvidia must earn their place. The original provides no details on the timing, manner of departure, succession plans, or official company response, nor any financial or stock-price impact data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "报道称黄仁勋因婚姻不忠传闻离开英伟达。",
+          "en": "Reports allege Jensen Huang is out at Nvidia following marital infidelity reports."
+        },
+        {
+          "zh": "报道提及他与一名被美国怀疑为中国从事间谍活动的女性的婚外情。",
+          "en": "Reports mention an affair with a woman reportedly suspected by the US of spying for China."
+        },
+        {
+          "zh": "另一报道指控他与一名直接下属高管有婚外情。",
+          "en": "Another report alleged he had an affair with an executive who reported to him."
+        },
+        {
+          "zh": "一个月前黄仁勋曾讨论AI革命中的CEO问责制及领导者须凭实力赢得位置。",
+          "en": "A month ago Huang discussed CEO accountability in the AI revolution and that leaders must earn their place."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "CEO departure",
+        "infidelity reports",
+        "AI leadership"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:6xCUaeA-9hg",
+      "title": "'Completely Misguided' to Blame Israel for Midterm Losses, Says Nikki Haley",
+      "title_zh": "黑利反驳万斯：中期选举失利主因在共和党自身",
+      "url": "https://www.youtube.com/watch?v=6xCUaeA-9hg",
+      "published_at": "2026-11-13T15:12:49+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国前驻联合国大使尼基·黑利表示，副总统JD·万斯将中期选举惨败归咎于美以关系的说法“完全错误”。黑利认为，共和党失利更多是因为共和党失去选民支持，而非民主党获胜，选民正寻求共和党的变革。",
+      "summary_en": "Former U.S. Ambassador to the UN Nikki Haley said Vice President JD Vance is 'completely misguided' to blame the U.S.-Israel relationship for Republican midterm losses. Haley attributed the losses more to Republicans losing voters than Democrats winning, saying voters want change from the Republican Party.",
+      "detail_zh": "美国前驻联合国大使、前南卡罗来纳州州长尼基·黑利公开反驳副总统JD·万斯。万斯此前称，美国与以色列的关系是共和党在中期选举中遭遇惨败的原因之一，黑利对此表示“完全错误”。黑利认为，中期选举的失利更多应归因于共和党自身失去选民，而非民主党赢得选举。她指出，选民正在寻求共和党的变革。此番言论凸显共和党内部对中期选举失利原因存在分歧。",
+      "detail_en": "Former U.S. Ambassador to the UN and former South Carolina Governor Nikki Haley publicly pushed back against Vice President JD Vance. Vance had said the U.S. relationship with Israel was one of the reasons Republicans faced bruising losses in the midterm elections; Haley called that view 'completely misguided.' Haley said the midterm losses were more due to Republicans losing than Democrats winning, and that voters are looking for change from the Republican Party. The remarks highlight internal Republican disagreement over the causes of the midterm losses.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黑利称万斯将中期选举失利归咎于美以关系的说法“完全错误”。",
+          "en": "Haley called Vance's claim that the U.S.-Israel relationship caused midterm losses 'completely misguided.'"
+        },
+        {
+          "zh": "黑利认为失利更多是共和党失去选民，而非民主党获胜。",
+          "en": "Haley attributed the losses more to Republicans losing voters than Democrats winning."
+        },
+        {
+          "zh": "黑利表示选民正在寻求共和党的变革。",
+          "en": "Haley said voters are looking for change from the Republican Party."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "Republican Party",
+        "Nikki Haley",
+        "JD Vance",
+        "US-Israel relations"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:FBUiPsCTunQ",
       "title": "Twitch CEO: GTA VI Could Be Our Biggest Moment",
@@ -17086,128 +17174,6 @@
         "market concentration",
         "liquidity",
         "retirement funds"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:JhU92UoF1SE",
-      "title": "Goldman Goes Quiet on Women Partner Promotions",
-      "title_zh": "高盛公布新合伙人：28%从实习生起步，但未披露女性比例",
-      "url": "https://www.youtube.com/watch?v=JhU92UoF1SE",
-      "published_at": "2026-11-06T15:49:32+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "高盛周四宣布新合伙人名单，强调28%的新合伙人从实习生做起，且通常需17年晋升至合伙人。但公告未提及新合伙人中女性占比。",
-      "summary_en": "Goldman Sachs announced its new partner class on Thursday, highlighting that 28% started as interns and that it typically takes 17 years to become a partner. However, the announcement did not disclose how many of the new partners are women.",
-      "detail_zh": "高盛集团周四公布了新合伙人名单。公告称，28%的新合伙人最初是以实习生身份加入公司，且新合伙人通常需要17年时间才能晋升至该职位。但公告未披露新合伙人中女性所占比例。该消息由Todd Gillespie在“Bloomberg Open Interest”节目中报道。",
-      "detail_en": "Goldman Sachs Group announced its new partners on Thursday. The announcement stated that 28% of the new partners started as interns and that new members typically took 17 years to reach the partner level. However, it was silent on how many of the new partners are women. The report was by Todd Gillespie on \"Bloomberg Open Interest.\"",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "高盛新合伙人中28%从实习生起步。",
-          "en": "28% of Goldman's new partners started as interns."
-        },
-        {
-          "zh": "新合伙人通常需要17年晋升至合伙人。",
-          "en": "New partners typically took 17 years to reach the partner level."
-        },
-        {
-          "zh": "公告未披露新合伙人中女性占比。",
-          "en": "The announcement did not disclose the proportion of women among the new partners."
-        }
-      ],
-      "tags": [
-        "Goldman Sachs",
-        "partnership",
-        "diversity"
-      ],
-      "tickers": [
-        "GS"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ozd5ySBPLO8",
-      "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
-      "title_zh": "科技股抛售或影响Anthropic估值，潜在买家讨论1.2万亿至1.3万亿美元区间",
-      "url": "https://www.youtube.com/watch?v=ozd5ySBPLO8",
-      "published_at": "2026-11-06T15:41:44+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博情报的Mandeep Singh指出，科技股抛售可能对Anthropic造成冲击。潜在买家正讨论该公司1.2万亿至1.3万亿美元的估值区间，公司可能在感恩节前上市。",
-      "summary_en": "Mandeep Singh of Bloomberg Intelligence notes that the tech selloff could hurt Anthropic. Potential buyers are discussing a valuation range of $1.2 trillion to $1.3 trillion for the company, which could go public before Thanksgiving.",
-      "detail_zh": "彭博情报的Mandeep Singh在彭博电视节目中表示，科技股遭遇的抛售可能对Anthropic构成不利影响。潜在买家正在讨论该公司的估值区间，为1.2万亿至1.3万亿美元。Anthropic有可能在感恩节之前上市。原文未提供更多关于估值依据、上市细节或抛售影响机制的信息。",
-      "detail_en": "Mandeep Singh of Bloomberg Intelligence said on Bloomberg Television that the selloff in tech stocks could hurt Anthropic. Potential buyers are discussing a valuation range of $1.2 trillion to $1.3 trillion for the company. Anthropic could go public before Thanksgiving. The source does not provide further details on the valuation basis, IPO specifics, or the mechanism of the selloff's impact.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "科技股抛售可能对Anthropic造成冲击",
-          "en": "The tech stock selloff could hurt Anthropic"
-        },
-        {
-          "zh": "潜在买家讨论的估值区间为1.2万亿至1.3万亿美元",
-          "en": "Potential buyers are discussing a valuation range of $1.2 trillion to $1.3 trillion"
-        },
-        {
-          "zh": "公司可能在感恩节前上市",
-          "en": "The company could go public before Thanksgiving"
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "tech selloff",
-        "valuation"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:6ON1aohk8hY",
-      "title": "Jobs Report Doesn't Mean Fed Should Hike Rates, Hassett Argues",
-      "title_zh": "白宫经济顾问Hassett：强劲就业数据不必然导致美联储12月加息",
-      "url": "https://www.youtube.com/watch?v=6ON1aohk8hY",
-      "published_at": "2026-11-06T15:16:23+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "白宫国家经济委员会主任Kevin Hassett表示，强劲的美国就业报告并不一定意味着美联储应在12月加息。他是在Bloomberg Open Interest节目上发表上述评论的，同时亦谈及对美联储理事Lisa Cook的调查。",
-      "summary_en": "White House National Economic Council Director Kevin Hassett argued that a strong US employment report does not necessarily mean the Federal Reserve should raise rates in December. He made the comments on Bloomberg Open Interest and also discussed the investigation into Fed Governor Lisa Cook.",
-      "detail_zh": "白宫国家经济委员会主任Kevin Hassett在Bloomberg Open Interest节目中表示，强劲的美国就业报告并不必然意味着美联储应在12月加息。Hassett还就针对美联储理事Lisa Cook的调查发表了评论。原文未提供更多关于就业报告具体数据、加息理由或调查细节的信息。",
-      "detail_en": "White House National Economic Council Director Kevin Hassett said on Bloomberg Open Interest that a strong US employment report does not necessarily mean the Federal Reserve should raise rates in December. Hassett also commented on the investigation into Federal Reserve Governor Lisa Cook. The source does not provide further details on the employment data, the rationale for rates, or the investigation.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Hassett认为强劲就业报告不必然导致美联储12月加息。",
-          "en": "Hassett argues a strong jobs report does not necessarily imply a December rate hike."
-        },
-        {
-          "zh": "Hassett是在Bloomberg Open Interest节目上发表上述观点的。",
-          "en": "Hassett made the remarks on Bloomberg Open Interest."
-        },
-        {
-          "zh": "Hassett还评论了对美联储理事Lisa Cook的调查。",
-          "en": "Hassett also commented on the investigation into Fed Governor Lisa Cook."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "rate hike",
-        "jobs report",
-        "White House",
-        "Lisa Cook"
       ],
       "tickers": [],
       "sentiment": "neutral"
