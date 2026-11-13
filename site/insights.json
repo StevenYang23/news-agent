@@ -1,6 +1,141 @@
 {
-  "generated_at": "2026-11-13T08:17:54.382030+00:00",
+  "generated_at": "2026-11-13T09:15:52.804356+00:00",
   "insights": [
+    {
+      "guid": "yt:ikc1p-fONhU",
+      "title": "Tech Tries to Soldier On Without Huang: Market Analysis",
+      "title_zh": "彭博《开盘交易》节目简介，无实质市场内容",
+      "url": "https://www.youtube.com/watch?v=ikc1p-fONhU",
+      "published_at": "2026-11-13T08:57:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视节目《Bloomberg: The Opening Trade》的简介及社交媒体链接，未包含任何具体的市场分析、数据或投资观点。",
+      "summary_en": "The original text is merely a description of Bloomberg's 'The Opening Trade' program and social media links, containing no specific market analysis, data, or investment views.",
+      "detail_zh": "原文仅提及Anna Edwards、Tom Mackenzie和Paul Dobson将主持《Bloomberg: The Opening Trade》节目，为分析师和投资者梳理当日关键主题。但正文未提供任何具体主题、数据或观点，其余内容均为彭博电视和商业的社交媒体链接及订阅指引。因此，无法提炼任何投资洞见。",
+      "detail_en": "The original text only mentions that Anna Edwards, Tom Mackenzie, and Paul Dobson will host 'Bloomberg: The Opening Trade' to break down key themes for analysts and investors. However, it provides no specific themes, data, or views; the rest consists of social media links and subscription guides for Bloomberg Television and Business. Thus, no investment insights can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "节目由Anna Edwards、Tom Mackenzie和Paul Dobson主持。",
+          "en": "The program is hosted by Anna Edwards, Tom Mackenzie, and Paul Dobson."
+        },
+        {
+          "zh": "节目旨在为分析师和投资者梳理当日关键主题。",
+          "en": "The program aims to break down key themes of the day for analysts and investors."
+        },
+        {
+          "zh": "原文未提供任何具体的市场分析或数据。",
+          "en": "The original text does not provide any specific market analysis or data."
+        }
+      ],
+      "tags": [
+        "Bloomberg",
+        "TV Program",
+        "No Content"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:GLbcP0I-oec",
+      "title": "China’s AI Sector Caught in the Crossfire After Nvidia Ousts Huang",
+      "title_zh": "英伟达CEO黄仁勋被董事会罢免，Kress任临时CEO",
+      "url": "https://www.youtube.com/watch?v=GLbcP0I-oec",
+      "published_at": "2026-11-13T08:56:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达董事会罢免CEO黄仁勋，任命Kress为临时CEO，引发市场对AI经济和芯片准入的担忧。散户在股价暴跌后涌入英伟达，亚洲股市因英伟达事件涨跌互现。",
+      "summary_en": "Nvidia's board ousted CEO Jensen Huang, naming Kress as interim CEO, triggering fears about the AI economy and China chip access. Retail investors crowded into Nvidia after shares plunged, while Asian stocks traded mixed amid the fallout.",
+      "detail_zh": "据彭博电视节目《Insight with Haslinda Amin》报道，英伟达董事会将CEO黄仁勋罢免，并任命Kress为临时CEO，这一变动震动了AI经济。该事件引发了对中国获取芯片能力的担忧。在英伟达股价暴跌后，散户投资者纷纷涌入该股。Constellation Research创始人兼首席分析师R 'Ray' Wang讨论了英伟达在后黄仁勋时代的前景。亚洲股市在英伟达事件影响下涨跌互现。此外，节目还讨论了油价在特朗普表示美国不需要与伊朗达成协议后保持上涨，以及PIMCO大宗商品和实物资产投资组合经理Greg Sharenow对能源市场前景的看法。",
+      "detail_en": "According to Bloomberg TV's 'Insight with Haslinda Amin,' Nvidia's board ousted CEO Jensen Huang and named Kress as interim CEO, a move that roils the AI economy. The event triggered fears over China's chip access. Retail investors crowded into Nvidia after shares plunged. Constellation Research founder and principal analyst R 'Ray' Wang discussed Nvidia's post-Huang outlook. Asian stocks traded mixed amid the Nvidia fallout. The program also covered oil holding gains after Trump said the US doesn't need a deal with Iran, and PIMCO commodities and real assets portfolio manager Greg Sharenow's outlook for energy markets.",
+      "conclusion_zh": "英伟达领导层突变可能加剧AI板块波动，投资者需关注后续CEO任命及对华芯片政策影响。",
+      "conclusion_en": "The abrupt leadership change at Nvidia could heighten volatility in the AI sector; investors should watch the permanent CEO appointment and implications for China chip policy.",
+      "key_points": [
+        {
+          "zh": "英伟达董事会罢免CEO黄仁勋，任命Kress为临时CEO。",
+          "en": "Nvidia's board ousted CEO Jensen Huang and named Kress as interim CEO."
+        },
+        {
+          "zh": "该事件引发了对中国芯片准入的担忧。",
+          "en": "The event triggered fears over China chip access."
+        },
+        {
+          "zh": "英伟达股价暴跌后，散户投资者纷纷涌入。",
+          "en": "Retail investors crowded into Nvidia after shares plunged."
+        },
+        {
+          "zh": "亚洲股市在英伟达事件影响下涨跌互现。",
+          "en": "Asian stocks traded mixed amid the Nvidia fallout."
+        },
+        {
+          "zh": "油价在特朗普表示美国不需要与伊朗达成协议后保持上涨。",
+          "en": "Oil held gains after Trump said the US doesn't need a deal with Iran."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO change",
+        "AI economy",
+        "China chips",
+        "retail investors"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:LADSIfhBIb0",
+      "title": "Investors Eye Europe Amid Volatility: Market Snapshot",
+      "title_zh": "科技股引领美股反弹，但AI交易遭遇波动",
+      "url": "https://www.youtube.com/watch?v=LADSIfhBIb0",
+      "published_at": "2026-11-13T08:36:04+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "投资者本周开局乐观，科技板块帮助股市从全球抛售中复苏。Anthropic的IPO和Coreweave的业绩提振了情绪，但市场也面临中期选举后的资本轮动以及英伟达CEO黄仁勋的丑闻冲击。",
+      "summary_en": "Investors started the week optimistically, with the tech sector helping stocks recover from a global selloff. News of Anthropic's blockbuster IPO and Coreweave's results boosted sentiment, but markets also dealt with post-midterm capital rotation and a scandal involving Nvidia CEO Jensen Huang.",
+      "detail_zh": "本周开局，投资者情绪乐观，科技板块推动股市从全球抛售中反弹。市场消息面喜忧参半：Anthropic的大规模IPO和Coreweave的业绩报告提振了市场情绪。然而，市场同时面临中期选举后的资本轮动，随后又受到英伟达CEO黄仁勋相关丑闻的冲击。The Opening Trade节目与市场专家和行业领袖进行了交流，探讨了AI交易在波动一周中的表现，以及欧洲可能因近期市场动荡而受益，因为投资者在寻找避风港。",
+      "detail_en": "The week began with optimistic investor sentiment, as the tech sector helped stocks rebound from a global selloff. Market news was mixed: Anthropic's blockbuster IPO and Coreweave's earnings report fueled positive sentiment. However, markets also grappled with post-midterm capital rotation and were subsequently hit by a scandal involving Nvidia CEO Jensen Huang. The Opening Trade spoke with market experts and industry leaders about the volatile week for the AI trade and the possibility that Europe could benefit from recent market turmoil as investors seek safe harbour.",
+      "conclusion_zh": "科技股反弹但AI交易波动加剧，投资者需关注政治事件和个股风险，欧洲市场或成避风港。",
+      "conclusion_en": "Tech stocks rebounded but AI trade volatility increased; investors should watch political events and idiosyncratic risks, with Europe potentially serving as a safe haven.",
+      "key_points": [
+        {
+          "zh": "科技板块帮助股市从全球抛售中复苏，本周开局乐观。",
+          "en": "The tech sector helped stocks recover from a global selloff, starting the week on an optimistic note."
+        },
+        {
+          "zh": "Anthropic的大规模IPO和Coreweave的业绩提振了市场情绪。",
+          "en": "Anthropic's blockbuster IPO and Coreweave's results fueled market sentiment."
+        },
+        {
+          "zh": "市场面临中期选举后的资本轮动，随后英伟达CEO黄仁勋的丑闻冲击市场。",
+          "en": "Markets dealt with post-midterm capital rotation and were then hit by a scandal involving Nvidia CEO Jensen Huang."
+        },
+        {
+          "zh": "AI交易经历波动一周，欧洲可能因投资者寻求避风港而受益。",
+          "en": "The AI trade had a volatile week, and Europe could benefit as investors seek safe harbour."
+        }
+      ],
+      "tags": [
+        "tech rebound",
+        "AI trade",
+        "IPO",
+        "earnings",
+        "market volatility"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:9xP22C0pHZE",
       "title": "Nvidia Replaces Huang as Lutnick Faces Scrutiny on China",
@@ -17438,140 +17573,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:r5HWoCEeemc",
-      "title": "The Macro Implications of the Blue Tsunami | Odd Lots",
-      "title_zh": "民主党中期选举大胜，市场影响与政策走向分析",
-      "url": "https://www.youtube.com/watch?v=r5HWoCEeemc",
-      "published_at": "2026-11-06T09:11:38+00:00",
-      "source_name": "Odd Lots (Bloomberg)",
-      "source_kind": "podcast",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "Odd Lots 播客讨论民主党赢得参众两院后的市场与政策影响。尽管此前有观点认为民主党获胜将导致标普500下跌10%，但实际市场反应温和，且板块表现分化。嘉宾 Skanda Amarnath 指出参议院的结构性优势对最高法院和美联储席位任命至关重要，而政治僵局可能增加危机时政策通过的难度。",
-      "summary_en": "The Odd Lots podcast discusses the market and policy implications after Democrats won both the House and Senate. Despite prior predictions of a 10% S&P 500 drop, the market reaction was muted with sector divergence. Guest Skanda Amarnath highlights the Senate's structural importance for Supreme Court and Fed appointments, and notes that political gridlock may complicate crisis-time policy passage.",
-      "detail_zh": "播客回顾了中期选举结果：民主党拿下众议院和参议院，此前 Nate Silver 预测的“蓝色浪潮”得到验证。市场方面，美国银行 Michael Hartnett 曾预计民主党获胜将导致标普500下跌10%，但实际选举后标普500上涨约1.5%；不过录制当天（11月5日）纳斯达克大幅下跌，部分与得克萨斯州相关的公司（如 SpaceX 和特斯拉）以及有扩张计划的公司股价受挫。嘉宾 Skanda Amarnath 强调参议院的结构性优势：参议院决定最高法院和美联储董事会的人选，且每州两票的规则使人口少的州（如堪萨斯、爱荷华、怀俄明）拥有更大影响力。他认为民主党在参议院有可持续保持竞争力的路径，这可能改变议程。关于政策，共识预期是政治僵局，因为民主党没有60票难以推动立法，而特朗普仍可行使否决权和行政命令（如关税）。但特朗普在政治上似乎对两党都具有毒性，可能在某些议题上促成合作。Amarnath 提到关税和战争是本次选举中政策影响明显的两个 tangible 事项，但共和党是否改变对总统的态度尚不确定。",
-      "detail_en": "The podcast reviews the midterm results: Democrats won both the House and Senate, validating Nate Silver's 'blue wave' prediction. On markets, BofA's Michael Hartnett had predicted a 10% S&P 500 drop if Democrats won, but the index rose about 1.5% after the election; however, on the recording day (Nov 5), the Nasdaq was sharply lower, with Texas-linked companies like SpaceX and Tesla and some expansion-minded firms hit hard. Guest Skanda Amarnath stresses the Senate's structural advantage: it shapes Supreme Court and Fed board appointments, and the two-votes-per-state rule gives outsized influence to low-population states like Kansas, Iowa, and Wyoming. He sees a path for Democrats to remain sustainably competitive in the Senate, which could change the agenda. On policy, the consensus is gridlock since Democrats lack 60 votes to overcome a filibuster, while Trump retains veto and executive order powers (e.g., tariffs). But Trump appears politically toxic on both sides, potentially enabling bipartisan cooperation on some issues. Amarnath cites tariffs and war as two tangible areas where policy mattered in the election, but whether Republicans change their approach to the president is uncertain.",
-      "conclusion_zh": "民主党控制国会后，市场短期反应温和，但政策僵局和参议院的结构性影响值得关注；投资者应关注两党在关税和战争等议题上的互动。",
-      "conclusion_en": "With Democrats controlling Congress, the near-term market reaction was muted, but policy gridlock and the Senate's structural influence warrant attention; investors should watch bipartisan interactions on issues like tariffs and war.",
-      "key_points": [
-        {
-          "zh": "民主党赢得参众两院，但市场反应与此前悲观预测相反，标普500在选举后上涨约1.5%。",
-          "en": "Democrats won both chambers, but the market reaction contradicted prior bearish predictions, with the S&P 500 rising about 1.5% after the election."
-        },
-        {
-          "zh": "参议院的结构性优势使其对最高法院和美联储席位任命具有关键影响，人口少的州拥有更大话语权。",
-          "en": "The Senate's structural advantage gives it key influence over Supreme Court and Fed appointments, with low-population states wielding outsized sway."
-        },
-        {
-          "zh": "政治僵局可能增加危机时政策通过的难度，但特朗普的政治毒性或促成某些两党合作。",
-          "en": "Gridlock may complicate crisis-time policy passage, but Trump's political toxicity could foster some bipartisan cooperation."
-        },
-        {
-          "zh": "关税和战争是本次选举中政策影响明显的两个领域，但共和党是否调整对总统的态度尚不确定。",
-          "en": "Tariffs and war were two areas where policy visibly mattered in the election, but whether Republicans adjust their stance toward the president remains uncertain."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "democrats",
-        "senate",
-        "gridlock",
-        "market reaction"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:GxDePOhxsqo",
-      "title": "Stocks Primed for a Rough Ride Today: Market Analysis",
-      "title_zh": "彭博开盘交易：股市今日料将震荡，关注央行回应",
-      "url": "https://www.youtube.com/watch?v=GxDePOhxsqo",
-      "published_at": "2026-11-06T08:30:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博电视节目“开盘交易”指出，股市今日可能面临剧烈波动，市场关注央行回应及后续发展。节目未提供具体数据或明确观点。",
-      "summary_en": "Bloomberg's \"The Opening Trade\" notes stocks are primed for a rough ride today, with focus on the central bank's response and what's next. No specific data or clear views were provided.",
-      "detail_zh": "彭博电视节目“Bloomberg: The Opening Trade”由Anna Edwards、Guy Johnson、Tom Mackenzie和Adam Linton主持，为分析师和投资者梳理当日关键主题。节目章节显示，讨论内容包括“股市今日料将震荡”、“央行回应”以及“后续如何”。节目未提供具体市场数据、央行名称、政策细节或明确的方向性观点。",
-      "detail_en": "Bloomberg's \"The Opening Trade,\" hosted by Anna Edwards, Guy Johnson, Tom Mackenzie and Adam Linton, breaks down key themes for analysts and investors. The chapters indicate discussion of \"Stocks Primed for Rough Ride Today,\" \"Response from Central Bank,\" and \"What's Next?\" No specific market data, central bank names, policy details, or clear directional views were provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "股市今日可能面临剧烈波动",
-          "en": "Stocks are primed for a rough ride today"
-        },
-        {
-          "zh": "市场关注央行回应",
-          "en": "Focus on the central bank's response"
-        },
-        {
-          "zh": "节目讨论后续市场走向",
-          "en": "Discussion on what's next for markets"
-        }
-      ],
-      "tags": [
-        "stocks",
-        "central bank",
-        "market volatility"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5HSUAr0LNZI",
-      "title": "As Stocks Reel From AI Rout, Investors Seek Safety Beyond Tech",
-      "title_zh": "AI交易遭遇重定价，全球科技股抛售蔓延亚洲",
-      "url": "https://www.youtube.com/watch?v=5HSUAr0LNZI",
-      "published_at": "2026-11-06T08:18:12+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Dan Niles认为AI交易需要重定价，AI代币价格下跌给OpenAI和Anthropic带来压力。全球科技股抛售波及日本和韩国，韩国芯片股承压。Fereidun Fesharaki认为原油基本面指向80-90美元/桶。",
-      "summary_en": "Dan Niles argues the AI trade needs repricing as falling AI token prices pressure OpenAI and Anthropic. The global tech selloff hit Japan and South Korea, with Korean chip stocks under pressure. Fereidun Fesharaki sees crude fundamentals pointing to $80-$90 a barrel.",
-      "detail_zh": "本期节目聚焦全球股市抛售，亚洲市场跌势加剧。Niles Investment Management创始人Dan Niles阐述了AI交易为何需要重定价，并讨论了AI代币价格下跌对OpenAI和Anthropic造成的压力。原油方面，FGE NexantECA名誉主席Fereidun Fesharaki表示原油基本面指向每桶80至90美元，油价本周势将创下4月以来最大周跌幅。地缘政治方面，Rabobank全球策略师Michael Every分析了美中竞争如何塑造全球市场，并认为中东紧张局势可能升级。市场层面，AI主导的抛售冲击日本和韩国后，亚洲市场表现分化；Kospi和韩国芯片股承压，KB Financial Group全球策略师Peter Kim就此发表看法。BofA全球研究亚洲外汇与利率策略师Claudio Piron讨论了美元作为避险资产的回归。此外，节目还关注了新西兰大选、印度Nifty本季度跑赢亚洲的原因，以及Rashesh Shah关于印度作为AI交易对冲角色的观点。",
-      "detail_en": "The program focused on the global stock selloff, with losses deepening in Asia. Dan Niles, Founder of Niles Investment Management, explained why the AI trade needs to be repriced and discussed pressure on OpenAI and Anthropic from falling AI token prices. On crude, Fereidun Fesharaki, Chairman Emeritus of FGE NexantECA, said crude fundamentals point to $80-$90 a barrel, with oil set for its biggest weekly loss since April. On geopolitics, Rabobank Global Strategist Michael Every analyzed how US-China rivalry shapes global markets and said Middle East tensions may escalate. On markets, Asian markets were divided after an AI-led selloff hit Japan and South Korea; the Kospi and Korean chip stocks were pressured, with KB Financial Group Global Strategist Peter Kim commenting on Korean stocks. BofA Global Research Asia FX & Rates Strategist Claudio Piron discussed the dollar's return as a haven. The program also covered New Zealand's election, why the Nifty is beating all of Asia this quarter, and Rashesh Shah on India's role as a hedge against the AI trade.",
-      "conclusion_zh": "AI交易面临重定价压力，全球科技股抛售蔓延至亚洲，投资者需关注AI相关标的的估值风险及资金向避险资产和印度等市场的轮动。",
-      "conclusion_en": "The AI trade faces repricing pressure as the global tech selloff spreads to Asia; investors should watch valuation risks in AI-related names and rotation into havens and markets like India.",
-      "key_points": [
-        {
-          "zh": "Dan Niles认为AI交易需要重定价，AI代币价格下跌给OpenAI和Anthropic带来压力。",
-          "en": "Dan Niles believes the AI trade needs repricing, with falling AI token prices pressuring OpenAI and Anthropic."
-        },
-        {
-          "zh": "全球科技股抛售蔓延至亚洲，日本和韩国市场受到冲击，韩国芯片股承压。",
-          "en": "The global tech selloff spread to Asia, hitting Japan and South Korea, with Korean chip stocks under pressure."
-        },
-        {
-          "zh": "Fereidun Fesharaki表示原油基本面指向每桶80至90美元，但油价本周势将创下4月以来最大周跌幅。",
-          "en": "Fereidun Fesharaki said crude fundamentals point to $80-$90 a barrel, though oil is set for its biggest weekly loss since April."
-        },
-        {
-          "zh": "Michael Every认为美中竞争塑造全球市场，中东紧张局势可能升级。",
-          "en": "Michael Every sees US-China rivalry shaping global markets and Middle East tensions potentially escalating."
-        },
-        {
-          "zh": "Claudio Piron讨论美元作为避险资产的回归；Rashesh Shah提出印度可作为AI交易的对冲。",
-          "en": "Claudio Piron discussed the dollar's return as a haven; Rashesh Shah pitched India as a hedge against the AI trade."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "tech selloff",
-        "crude oil",
-        "US-China",
-        "Asia markets"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
