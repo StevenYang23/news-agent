@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-14T08:14:49.860435+00:00",
+  "generated_at": "2026-11-14T11:10:37.473359+00:00",
   "insights": [
+    {
+      "guid": "yt:ogU99e2dfGo",
+      "title": "The Billion-Dollar Business of Virtual Public Schools",
+      "title_zh": "美国在线公立学校入学人数激增，得州扩张最快",
+      "url": "https://www.youtube.com/watch?v=ogU99e2dfGo",
+      "published_at": "2026-11-14T10:15:03+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国在线公立学校入学人数已超过疫情期间水平，其中得克萨斯州扩张最快。全美最大虚拟公立学校运营商Stride仅在得州就收取了超过10亿美元的纳税人资金。",
+      "summary_en": "US online public schools are enrolling more students than during the pandemic, with Texas seeing the fastest expansion. Stride, the largest operator of virtual public schools, has collected over $1 billion in taxpayer money in Texas alone.",
+      "detail_zh": "美国在线公立学校入学人数已超过疫情期间水平，得克萨斯州扩张速度最快。全美最大虚拟公立学校运营商Stride仅在得州就收取了超过10亿美元的纳税人资金。报道质疑这一趋势对学生教育质量的影响，并提及得州为未实际到校的学生向在线学校帝国付费的现象。",
+      "detail_en": "US online public schools are enrolling more students than they did during the pandemic, and nowhere has the expansion happened faster than in Texas. Stride, the nation's largest operator of virtual public schools, has collected more than a billion dollars in taxpayer money in Texas alone. The report questions what this trend means for the education students receive, and references Texas paying online school empires for kids who don't show up.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国在线公立学校入学人数超过疫情期间水平。",
+          "en": "US online public schools are enrolling more students than during the pandemic."
+        },
+        {
+          "zh": "得克萨斯州是在线学校扩张最快的地区。",
+          "en": "Texas has seen the fastest expansion of online schools."
+        },
+        {
+          "zh": "Stride作为全美最大虚拟公立学校运营商，仅在得州就收取了超过10亿美元的纳税人资金。",
+          "en": "Stride, the nation's largest operator of virtual public schools, has collected over $1 billion in taxpayer money in Texas alone."
+        },
+        {
+          "zh": "报道质疑在线教育趋势对学生教育质量的影响。",
+          "en": "The report questions what this trend means for the education students receive."
+        }
+      ],
+      "tags": [
+        "online education",
+        "Stride",
+        "Texas",
+        "public schools"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:5jw4WtsMQqU",
       "title": "Wall Street Week | Nvidia Shakeup, Midwest Stadium Bids, Care Work Gap, India’s Wedding Economy",
