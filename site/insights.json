@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-11-14T03:14:54.535724+00:00",
+  "generated_at": "2026-11-14T08:14:49.860435+00:00",
   "insights": [
+    {
+      "guid": "yt:5jw4WtsMQqU",
+      "title": "Wall Street Week | Nvidia Shakeup, Midwest Stadium Bids, Care Work Gap, India’s Wedding Economy",
+      "title_zh": "彭博节目预告：英伟达变动、中西部球场争夺、护理人力缺口、印度婚礼经济与蓝潮银行监管",
+      "url": "https://www.youtube.com/watch?v=5jw4WtsMQqU",
+      "published_at": "2026-11-14T04:52:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视一档节目的章节列表与推广信息，未提供任何具体数据、观点或分析。涉及话题包括英伟达相关变动、伊利诺伊与印第安纳争夺NFL球队及周边开发、老龄化下护理人员需求与薪资错配、印度婚礼经济，以及“蓝潮”与银行监管。",
+      "summary_en": "The source is only a chapter list and promotional text for a Bloomberg TV program, with no specific data, views, or analysis. Topics include an Nvidia shakeup, Illinois and Indiana competing for an NFL franchise and surrounding development, care-worker demand amid an aging population with wages and career opportunities lagging, India's wedding economy, and 'Blue Wave' banking regulations.",
+      "detail_zh": "原文为彭博电视节目章节列表及社交媒体推广链接，不含实质分析内容。章节包括：英伟达变动（Nvidia Shakeup）、中西部球场争夺（Midwest Stadium Stakes）、护理人力缺口（Care Work Gap）、印度婚礼经济（India's Wedding Economy）、蓝潮银行监管（Blue Wave Banking Regulations）。节目简介提到伊利诺伊州与印第安纳州正争夺NFL最具价值球队之一及可能数十亿美元的周边开发；老龄化创造巨大护理人员需求，而薪资与职业机会难以跟上；以及婚礼在印度经济中占很大比重。原文未提供任何具体数字、公司代码、人物引述或因果判断，无法提炼投资洞见。",
+      "detail_en": "The source is a chapter list and social-media promotional links for a Bloomberg TV program, containing no substantive analysis. Chapters include: Nvidia Shakeup, Midwest Stadium Stakes, Care Work Gap, India's Wedding Economy, and Blue Wave Banking Regulations. The program description notes that Illinois and Indiana are competing for one of the NFL's most valuable franchises and potentially billions of dollars in surrounding development; an aging population is creating huge demand for care workers while wages and career opportunities struggle to keep up; and weddings are a large part of India's economy. The source provides no specific figures, tickers, quotations, or causal judgments, so no investment insight can be extracted.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文仅为节目章节列表，无实质分析内容。",
+          "en": "The source is only a program chapter list with no substantive analysis."
+        },
+        {
+          "zh": "提及英伟达变动（Nvidia Shakeup）章节，但无具体细节。",
+          "en": "Mentions an 'Nvidia Shakeup' chapter but provides no details."
+        },
+        {
+          "zh": "伊利诺伊与印第安纳争夺NFL球队及数十亿美元周边开发。",
+          "en": "Illinois and Indiana are competing for an NFL franchise and billions in surrounding development."
+        },
+        {
+          "zh": "老龄化推升护理人员需求，但薪资与职业机会跟不上。",
+          "en": "Aging population boosts demand for care workers, but wages and career opportunities lag."
+        },
+        {
+          "zh": "涉及印度婚礼经济及蓝潮银行监管话题，均无具体内容。",
+          "en": "Covers India's wedding economy and Blue Wave banking regulations, without specifics."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "NFL stadium",
+        "care work",
+        "India wedding economy",
+        "banking regulation"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:qE64757Iw8g",
       "title": "All Airports Are Ground Stopped Until Further Notice: FAA",
