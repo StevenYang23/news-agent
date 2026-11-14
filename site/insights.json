@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-11-14T12:16:42.519703+00:00",
+  "generated_at": "2026-11-14T13:11:03.139305+00:00",
   "insights": [
+    {
+      "guid": "yt:NowbrISU73s",
+      "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
+      "title_zh": "英伟达任命临时CEO，或为投资者提供稳定性",
+      "url": "https://www.youtube.com/watch?v=NowbrISU73s",
+      "published_at": "2026-11-14T12:46:58+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社编辑Mike Shepard表示，英伟达任命长期CFO Colette Kress为临时CEO，可能在Jensen Huang突然离职后为投资者提供一定稳定性。Shepard讨论了英伟达如何超越这位领导公司三十余年的领导者，以及此次变动是否为AI芯片竞争对手创造机会。",
+      "summary_en": "Bloomberg editor Mike Shepard says Nvidia's appointment of longtime CFO Colette Kress as interim CEO may offer investors some stability after Jensen Huang's abrupt departure. Shepard examines how Nvidia moves beyond a leader who defined the company for more than three decades and whether the upheaval creates an opening for AI chip rivals.",
+      "detail_zh": "彭博社高级科技与战略产业编辑Mike Shepard在Bloomberg This Weekend节目中向主持人David Gura和Christina Ruffini表示，英伟达任命长期首席财务官Colette Kress为临时CEO，可能在Jensen Huang突然离职后为投资者提供一些稳定性。Shepard探讨了英伟达如何在没有这位领导公司超过三十年的领导者的情况下继续前进。他还讨论了此次高层变动是否为AI芯片竞争对手创造了机会。",
+      "detail_en": "Bloomberg senior technology and strategic industries editor Mike Shepard told Bloomberg This Weekend hosts David Gura and Christina Ruffini that Nvidia's appointment of longtime CFO Colette Kress as interim CEO may offer investors some stability after Jensen Huang's abrupt departure. Shepard examined how Nvidia moves beyond a leader who defined the company for more than three decades. He also discussed whether the upheaval creates an opening for AI chip rivals.",
+      "conclusion_zh": "英伟达领导层突然变动，临时CEO任命或带来短期稳定，但公司长期战略与竞争格局仍待观察。",
+      "conclusion_en": "Nvidia's abrupt leadership change and interim CEO appointment may bring short-term stability, but the company's long-term strategy and competitive landscape remain to be seen.",
+      "key_points": [
+        {
+          "zh": "英伟达任命长期CFO Colette Kress为临时CEO，接替突然离职的Jensen Huang。",
+          "en": "Nvidia appointed longtime CFO Colette Kress as interim CEO, succeeding the abruptly departed Jensen Huang."
+        },
+        {
+          "zh": "彭博社的Mike Shepard认为，这一任命可能为投资者提供一些稳定性。",
+          "en": "Bloomberg's Mike Shepard believes the appointment may offer investors some stability."
+        },
+        {
+          "zh": "Shepard讨论了英伟达如何超越一位领导公司超过三十年的领导者。",
+          "en": "Shepard discussed how Nvidia moves beyond a leader who defined the company for more than three decades."
+        },
+        {
+          "zh": "讨论还涉及此次变动是否为AI芯片竞争对手创造了机会。",
+          "en": "The discussion also covered whether the upheaval creates an opening for AI chip rivals."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO transition",
+        "AI chips",
+        "leadership"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:32h8S4ODggc",
+      "title": "Carrie Underwood on Her New Wellness Brand, HiNote",
+      "title_zh": "Carrie Underwood与HiNote CEO讨论品牌起源及扩产计划",
+      "url": "https://www.youtube.com/watch?v=32h8S4ODggc",
+      "published_at": "2026-11-14T12:03:45+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在彭博电视《The Close》节目中，Carrie Underwood与HiNote首席执行官兼联合创始人Kerrigan Behrens讨论了该健康品牌起源，以及在新投资后扩大旗舰饮品混合粉产量的计划。",
+      "summary_en": "On Bloomberg's \"The Close,\" Carrie Underwood and HiNote CEO and co-founder Kerrigan Behrens discussed the wellness brand's origins and plans to grow production of its flagship drink mix following a new investment.",
+      "detail_zh": "Carrie Underwood与HiNote首席执行官兼联合创始人Kerrigan Behrens做客彭博电视《The Close》节目。双方讨论了该健康品牌的起源。对话还涉及在新投资到位后，扩大其旗舰饮品混合粉产量的计划。节目由Vonnie Quinn和Bailey Lipschultz主持。原文未披露投资金额、投资方、产量目标或财务数据。",
+      "detail_en": "Carrie Underwood and HiNote CEO and co-founder Kerrigan Behrens appeared on Bloomberg's \"The Close.\" They discussed the wellness brand's origins. The conversation also covered plans to grow production of its flagship drink mix following a new investment. The segment was hosted by Vonnie Quinn and Bailey Lipschultz. The source did not disclose the investment amount, investors, production targets, or financial data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Carrie Underwood与HiNote CEO Kerrigan Behrens讨论品牌起源",
+          "en": "Carrie Underwood and HiNote CEO Kerrigan Behrens discussed the brand's origins"
+        },
+        {
+          "zh": "新投资后计划扩大旗舰饮品混合粉产量",
+          "en": "Plans to grow production of flagship drink mix following a new investment"
+        },
+        {
+          "zh": "对话在彭博电视《The Close》节目中进行",
+          "en": "The conversation aired on Bloomberg's \"The Close\""
+        }
+      ],
+      "tags": [
+        "HiNote",
+        "wellness",
+        "consumer brand",
+        "investment"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:ogU99e2dfGo",
       "title": "The Billion-Dollar Business of Virtual Public Schools",
@@ -16911,137 +16997,6 @@
         "rate hike",
         "inflation",
         "alternative data"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:zFQlnYri8aQ",
-      "title": "Democrats Could Reshape Trump's Foreign Policy",
-      "title_zh": "民主党掌控国会或制约特朗普外交政策，但关税与军事权力仍归总统",
-      "url": "https://www.youtube.com/watch?v=zFQlnYri8aQ",
-      "published_at": "2026-11-07T13:05:47+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博经济研究的Chris Kennedy指出，民主党夺回国会控制权可能通过支出决策、乌克兰援助、对俄制裁和国会监督等渠道制约特朗普的部分外交政策。但特朗普在关税和动用军事力量方面仍保留显著的单边权力，可能与民主党发生冲突。",
-      "summary_en": "Bloomberg Economics' Chris Kennedy examines how a Democratic takeover of Congress could constrain parts of President Donald Trump's foreign policy through spending decisions, Ukraine aid, Russia sanctions and congressional oversight. However, Trump retains significant unilateral authority over tariffs and the use of military force, setting up potential clashes with Democrats.",
-      "detail_zh": "在Bloomberg This Weekend节目中，彭博经济研究的Chris Kennedy分析了民主党夺回国会控制权后对特朗普外交政策的潜在制约。Kennedy向主持人David Gura和Christina Ruffini表示，民主党的制约可能通过支出决策、乌克兰援助、对俄制裁以及国会监督等途径实现。但他同时指出，特朗普在关税和动用军事力量方面仍保留显著的单边权力。这种权力格局意味着，随着民主党试图挑战特朗普的议程，双方可能发生冲突。",
-      "detail_en": "On Bloomberg This Weekend, Bloomberg Economics' Chris Kennedy examined how the Democratic takeover of Congress could constrain parts of President Donald Trump's foreign policy. Kennedy told hosts David Gura and Christina Ruffini that constraints could come through spending decisions, Ukraine aid, Russia sanctions and congressional oversight. However, he noted that Trump retains significant unilateral authority over tariffs and the use of military force. This dynamic sets up potential clashes as Democrats seek to challenge his agenda.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党掌控国会可能通过支出决策、乌克兰援助、对俄制裁和国会监督制约特朗普的外交政策。",
-          "en": "A Democratic-controlled Congress could constrain Trump's foreign policy through spending decisions, Ukraine aid, Russia sanctions and congressional oversight."
-        },
-        {
-          "zh": "特朗普在关税和动用军事力量方面仍保留显著的单边权力。",
-          "en": "Trump retains significant unilateral authority over tariffs and the use of military force."
-        },
-        {
-          "zh": "随着民主党试图挑战特朗普的议程，双方可能发生冲突。",
-          "en": "Potential clashes are set up as Democrats seek to challenge Trump's agenda."
-        }
-      ],
-      "tags": [
-        "US politics",
-        "foreign policy",
-        "Congress",
-        "Trump",
-        "tariffs"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6KHSQP8xYzM",
-      "title": "How the Blue Wave Could Reshape America’s Economy",
-      "title_zh": "哥伦比亚商学院Hubbard谈关税、AI与国会政策空间",
-      "url": "https://www.youtube.com/watch?v=6KHSQP8xYzM",
-      "published_at": "2026-11-07T13:00:16+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "哥伦比亚商学院Glenn Hubbard在Wall Street Week节目中讨论关税、人工智能，以及新一届国会在解决美国民众关切的负担能力、财富不平等和国债问题上能有多大作为。原文仅为节目预告，未提供具体观点或数据。",
-      "summary_en": "Columbia Business School's Glenn Hubbard joins Wall Street Week to discuss tariffs, AI, and how much the new Congress can actually do to address Americans' concerns about affordability, wealth inequality and the national debt. The source is only a program teaser and contains no specific views or data.",
-      "detail_zh": "原文仅说明哥伦比亚商学院Glenn Hubbard将参加Wall Street Week节目，讨论议题包括关税、人工智能，以及新一届国会在应对美国民众对负担能力、财富不平等和国债的关切方面能实际推动多少。原文未提供Hubbard的具体观点、数据或结论，也未涉及任何美股代码或市场判断。其余内容为Bloomberg的社交媒体与订阅链接，无实质信息。",
-      "detail_en": "The source only states that Columbia Business School's Glenn Hubbard will join Wall Street Week to discuss tariffs, AI, and how much the new Congress can actually do to address Americans' concerns about affordability, wealth inequality and the national debt. It provides no specific views, data, or conclusions from Hubbard, and no US equity tickers or market judgments. The rest is Bloomberg social media and subscription links with no substantive information.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目议题包括关税、人工智能、负担能力、财富不平等和国债。",
-          "en": "Topics include tariffs, AI, affordability, wealth inequality, and the national debt."
-        },
-        {
-          "zh": "讨论聚焦新一届国会在上述议题上的实际政策空间。",
-          "en": "The discussion focuses on how much the new Congress can actually do on these issues."
-        },
-        {
-          "zh": "原文未提供Hubbard的具体观点或数据。",
-          "en": "The source provides no specific views or data from Hubbard."
-        }
-      ],
-      "tags": [
-        "tariffs",
-        "AI",
-        "Congress",
-        "affordability",
-        "national debt"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:tEvbDkihDe4",
-      "title": "AI Trade Faces a Post-Election Reality Check",
-      "title_zh": "大选后科技股遭抛售，AI建设或放缓但长期投资周期未改",
-      "url": "https://www.youtube.com/watch?v=tEvbDkihDe4",
-      "published_at": "2026-11-07T12:48:13+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在Bloomberg This Weekend节目中，Yorkville Ives & Co.合伙人Dan Ives与彭博美股记者Natalia Kniazhevich讨论了选举后科技股的急剧抛售。投资者正在权衡政治阻力对数据中心、AI支出以及Anthropic IPO前景的影响。他们认为选举可能减缓AI建设，并重塑科技领域的赢家和输家，但Ives认为长期AI投资周期依然完好。",
-      "summary_en": "On Bloomberg This Weekend, Yorkville Ives & Co. partner Dan Ives and Bloomberg US equities reporter Natalia Kniazhevich examined the sharp post-election technology selloff. Investors are weighing political resistance to data centers, AI spending, and the outlook for Anthropic's IPO. They said the election could slow the AI buildout and reshape winners and losers across tech, even as Ives argued the long-term AI investment cycle remains intact.",
-      "detail_zh": "在Bloomberg This Weekend节目中，Yorkville Ives & Co.合伙人Dan Ives和彭博美股记者Natalia Kniazhevich与主持人David Gura和Christina Ruffini一起，审视了选举后科技股的急剧抛售。讨论的核心在于投资者正在评估政治阻力对数据中心、AI支出以及Anthropic IPO前景的影响。他们表示，选举可能减缓AI建设，并重塑科技板块的赢家和输家。尽管存在这些短期压力，Ives仍认为长期的AI投资周期保持完好。",
-      "detail_en": "On Bloomberg This Weekend, Yorkville Ives & Co. partner Dan Ives and Bloomberg US equities reporter Natalia Kniazhevich joined hosts David Gura and Christina Ruffini to examine the sharp post-election technology selloff. The discussion centered on investors weighing political resistance to data centers, AI spending, and the outlook for Anthropic's IPO. They said the election could slow the AI buildout and reshape winners and losers across tech. Despite these near-term pressures, Ives argued that the long-term AI investment cycle remains intact.",
-      "conclusion_zh": "选举带来的政治阻力可能对AI基础设施建设和科技股格局产生短期扰动，但长期AI投资周期仍被看好，投资者需关注政策风险与结构性赢家的变化。",
-      "conclusion_en": "Political resistance from the election may cause near-term disruptions to AI infrastructure buildout and the tech landscape, but the long-term AI investment cycle remains favored; investors should watch policy risks and shifts in structural winners.",
-      "key_points": [
-        {
-          "zh": "选举后科技股出现急剧抛售。",
-          "en": "Sharp post-election technology selloff."
-        },
-        {
-          "zh": "投资者正在权衡政治阻力对数据中心和AI支出的影响。",
-          "en": "Investors are weighing political resistance to data centers and AI spending."
-        },
-        {
-          "zh": "Anthropic的IPO前景受到关注。",
-          "en": "The outlook for Anthropic's IPO is in focus."
-        },
-        {
-          "zh": "选举可能减缓AI建设，并重塑科技领域的赢家和输家。",
-          "en": "The election could slow the AI buildout and reshape winners and losers across tech."
-        },
-        {
-          "zh": "Dan Ives认为长期AI投资周期依然完好。",
-          "en": "Dan Ives argues the long-term AI investment cycle remains intact."
-        }
-      ],
-      "tags": [
-        "AI",
-        "tech selloff",
-        "election",
-        "data centers",
-        "IPO"
       ],
       "tickers": [],
       "sentiment": "neutral"
