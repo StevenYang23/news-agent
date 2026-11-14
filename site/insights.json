@@ -1,6 +1,320 @@
 {
-  "generated_at": "2026-11-14T14:11:39.463836+00:00",
+  "generated_at": "2026-11-14T15:11:23.503290+00:00",
   "insights": [
+    {
+      "guid": "yt:vk198A0VrFI",
+      "title": "Could Democratic Gains Bring Tariff Relief For Canada?",
+      "title_zh": "民主党中期选举获胜或为加拿大带来关税缓解",
+      "url": "https://www.youtube.com/watch?v=vk198A0VrFI",
+      "published_at": "2026-11-14T15:00:14+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "macro"
+      ],
+      "summary_zh": "2026年美国中期选举中民主党大胜，新一届民主党控制的国会预计将向特朗普施压，要求其软化或取消对加拿大征收的关税。这些贸易税的取消将有利于加拿大的金属、汽车零部件和木材等行业。",
+      "summary_en": "The 2026 U.S. midterm elections resulted in a Democratic wave, and the newly elected Democrat-controlled Congress is expected to pressure Trump to soften or eliminate tariffs on Canada. Rolling back these trade taxes would benefit Canadian metals, auto parts, and lumber industries, among others.",
+      "detail_zh": "CNBC记者Liz Napolitano报道，2026年美国中期选举的“蓝色浪潮”可能对加拿大股市构成利好。新当选的民主党控制的国会预计将向特朗普施压，要求其软化或取消对加拿大征收的关税。这些高额贸易税的取消将有利于加拿大的金属、汽车零部件和木材等行业。报道还提及了边境州（Chapter 2），但未提供更多细节。",
+      "detail_en": "CNBC reporter Liz Napolitano reports that the 'Blue Wave' in the 2026 U.S. midterm elections could be a boon for Canadian stocks. The newly elected Democrat-controlled Congress is expected to put pressure on Trump to soften or eliminate tariffs imposed on Canada. The rolling back of these heavy trade taxes stands to benefit the metals, auto parts, and lumber industries in Canada, among others. The report also mentions border states (Chapter 2) but provides no further details.",
+      "conclusion_zh": "若民主党控制的国会成功推动取消对加关税，加拿大相关行业股票可能受益。",
+      "conclusion_en": "If the Democrat-controlled Congress succeeds in pushing for tariff relief for Canada, Canadian stocks in affected sectors could benefit.",
+      "key_points": [
+        {
+          "zh": "2026年美国中期选举出现“蓝色浪潮”，民主党大胜。",
+          "en": "The 2026 U.S. midterm elections saw a 'Blue Wave' with a decisive Democratic victory."
+        },
+        {
+          "zh": "新一届民主党控制的国会预计将施压特朗普，要求其软化或取消对加拿大的关税。",
+          "en": "The newly elected Democrat-controlled Congress is expected to pressure Trump to soften or eliminate tariffs on Canada."
+        },
+        {
+          "zh": "关税的取消将有利于加拿大的金属、汽车零部件和木材等行业。",
+          "en": "Rolling back these tariffs would benefit Canadian metals, auto parts, and lumber industries, among others."
+        }
+      ],
+      "tags": [
+        "Canada",
+        "tariffs",
+        "midterm elections",
+        "trade policy"
+      ],
+      "tickers": [],
+      "sentiment": "positive"
+    },
+    {
+      "guid": "yt:92OYnlkGy_g",
+      "title": "SpaceX Pushes Starship Reusability to New Test",
+      "title_zh": "SpaceX星舰回收尝试或推动完全可重复使用",
+      "url": "https://www.youtube.com/watch?v=92OYnlkGy_g",
+      "published_at": "2026-11-14T14:35:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Space Network联合创始人Ross Hamilton在Bloomberg This Weekend节目中表示，SpaceX在星舰返回轨道后尝试捕获该火箭，可能标志着迈向火箭系统完全可重复使用的重要一步。他解释称，更频繁且成本更低的发射可能加速Starlink扩张、轨道数据中心以及SpaceX更广泛的太空雄心。",
+      "summary_en": "Space Network co-founder Ross Hamilton told Bloomberg This Weekend that SpaceX's attempt to catch Starship after its return from orbit could mark a major step toward making the rocket system fully reusable. He explained that more frequent and less expensive launches could accelerate Starlink expansion, orbital data centers, and SpaceX's broader space ambitions.",
+      "detail_zh": "Space Network联合创始人Ross Hamilton在Bloomberg This Weekend节目中向主持人David Gura和Christina Ruffini表示，SpaceX在星舰从轨道返回后尝试捕获该火箭，可能标志着使火箭系统完全可重复使用的重要一步。Hamilton解释称，更频繁且成本更低的发射可能加速Starlink的扩张、轨道数据中心以及SpaceX更广泛的太空雄心。该访谈未提供具体发射成本、频率或时间表等数字细节。",
+      "detail_en": "Space Network co-founder Ross Hamilton told Bloomberg This Weekend hosts David Gura and Christina Ruffini that SpaceX's attempt to catch Starship after its return from orbit could mark a major step toward making the rocket system fully reusable. Hamilton explained that more frequent and less expensive launches could accelerate Starlink expansion, orbital data centers, and SpaceX's broader ambitions in space. The interview did not provide specific figures on launch costs, frequency, or timelines.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "SpaceX尝试在星舰返回后捕获该火箭，可能成为实现完全可重复使用的重要一步。",
+          "en": "SpaceX's attempt to catch Starship after its return could be a major step toward full reusability."
+        },
+        {
+          "zh": "更频繁且成本更低的发射可能加速Starlink扩张。",
+          "en": "More frequent and less expensive launches could accelerate Starlink expansion."
+        },
+        {
+          "zh": "低成本发射还可能推动轨道数据中心和SpaceX更广泛的太空雄心。",
+          "en": "Lower-cost launches could also advance orbital data centers and SpaceX's broader space ambitions."
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "reusability",
+        "Starlink",
+        "space"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:OLb3sYreMxU",
+      "title": "Why Crypto Engineers Are Prime Targets for Hackers",
+      "title_zh": "加密开发者面临AI驱动的网络攻击威胁",
+      "url": "https://www.youtube.com/watch?v=OLb3sYreMxU",
+      "published_at": "2026-11-14T14:30:20+00:00",
+      "source_name": "Real Vision",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "TRM Labs政策主管Ari Redbord指出，加密开发者与工程师正日益成为复杂网络攻击的目标，包括虚假面试、深度伪造视频和个性化钓鱼邮件。AI驱动的欺骗手段使恶意通信更难识别，保护个人安全变得至关重要。",
+      "summary_en": "Ari Redbord, global head of policy at TRM Labs, highlights that crypto developers and engineers are increasingly targeted by sophisticated cyberattacks, including fake job interviews, deepfake videos, and personalized phishing emails. AI-powered deception makes malicious communications harder to recognize, making individual protection critical.",
+      "detail_zh": "在Real Vision的访谈中，TRM Labs全球政策主管Ari Redbord与Ash Bennington讨论了加密开发者与工程师面临的网络安全威胁。Redbord指出，这些攻击手段包括虚假面试、深度伪造视频以及高度个性化的钓鱼邮件。他强调，随着AI技术使恶意通信更难被识别，保护个人免受此类攻击正变得至关重要。该访谈未涉及具体攻击案例、损失金额或对美股市场的影响。",
+      "detail_en": "In an interview on Real Vision, Ari Redbord, global head of policy at TRM Labs, discussed with Ash Bennington the cybersecurity threats facing crypto developers and engineers. Redbord noted that attack methods include fake job interviews, deepfake videos, and highly personalized phishing emails. He emphasized that as AI makes malicious communications harder to recognize, protecting individuals from such attacks is becoming critical. The interview did not cover specific attack cases, financial losses, or implications for US equity markets.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "加密开发者与工程师正成为复杂网络攻击的目标。",
+          "en": "Crypto developers and engineers are increasingly targeted by sophisticated cyberattacks."
+        },
+        {
+          "zh": "攻击手段包括虚假面试、深度伪造视频和个性化钓鱼邮件。",
+          "en": "Attack methods include fake job interviews, deepfake videos, and personalized phishing emails."
+        },
+        {
+          "zh": "AI驱动的欺骗使恶意通信更难识别，保护个人安全至关重要。",
+          "en": "AI-powered deception makes malicious communications harder to recognize, making individual protection critical."
+        }
+      ],
+      "tags": [
+        "crypto security",
+        "cyberattacks",
+        "AI phishing",
+        "deepfakes"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:5_pqpGYXd7s",
+      "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
+      "title_zh": "特朗普政府内部就限制英伟达先进芯片对华出口存在分歧",
+      "url": "https://www.youtube.com/watch?v=5_pqpGYXd7s",
+      "published_at": "2026-11-14T14:29:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Axios记者Maria Curi在Bloomberg This Weekend节目中透露，特朗普政府内部在限制英伟达先进芯片流向中国的问题上存在紧张关系，并涉及对商务部长Howard Lutnick处理Megaspeed事宜的审查。Curi还提到Lutnick与其他高级官员（包括Scott Bessent）之间的分歧，以及围绕美国对华技术出口的国家安全问题。",
+      "summary_en": "Axios reporter Maria Curi told Bloomberg This Weekend that there is tension inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China, as well as scrutiny of Commerce Secretary Howard Lutnick's handling of Megaspeed. Curi also described reported disagreements between Lutnick and other senior officials, including Scott Bessent, and the national security questions surrounding US technology exports to China.",
+      "detail_zh": "Axios AI政策记者Maria Curi在Bloomberg This Weekend节目中表示，特朗普政府内部在限制英伟达先进芯片对华出口的努力上存在紧张关系。Curi对主持人David Gura和Christina Ruffini称，有报道显示商务部长Howard Lutnick与其他高级官员（包括Scott Bessent）之间存在分歧。讨论还涉及对Lutnick处理Megaspeed相关事宜的审查。Curi提及围绕美国对华技术出口的国家安全问题。节目未提供具体政策细节、时间表或进一步的数据。",
+      "detail_en": "Axios AI policy reporter Maria Curi said on Bloomberg This Weekend that there is tension inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China. Curi told hosts David Gura and Christina Ruffini that there are reported disagreements between Commerce Secretary Howard Lutnick and other senior officials, including Scott Bessent. The discussion also covered scrutiny of Lutnick's handling of Megaspeed. Curi referenced national security questions surrounding US technology exports to China. The segment did not provide specific policy details, timelines, or further data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普政府内部在限制英伟达先进芯片对华出口上存在紧张关系。",
+          "en": "There is tension inside the Trump administration over restricting advanced Nvidia chip exports to China."
+        },
+        {
+          "zh": "商务部长Howard Lutnick与其他高级官员（包括Scott Bessent）之间据报道存在分歧。",
+          "en": "Reported disagreements exist between Commerce Secretary Howard Lutnick and other senior officials, including Scott Bessent."
+        },
+        {
+          "zh": "对Lutnick处理Megaspeed事宜的审查是讨论的一部分。",
+          "en": "Scrutiny of Lutnick's handling of Megaspeed was part of the discussion."
+        },
+        {
+          "zh": "围绕美国对华技术出口的国家安全问题是关注焦点。",
+          "en": "National security questions surrounding US technology exports to China are a focus."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "China export controls",
+        "Trump administration",
+        "Commerce Department",
+        "national security"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:SJkjzmtGGPc",
+      "title": "Nvidia Looks for a New Era After Huang",
+      "title_zh": "彭博讨论英伟达CEO黄仁勋继任挑战与中国战略",
+      "url": "https://www.youtube.com/watch?v=SJkjzmtGGPc",
+      "published_at": "2026-11-14T14:23:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博的Emily Chang分享与黄仁勋的访谈，探讨英伟达在长期CEO突然离职后的继任挑战、中国战略以及能否保留黄仁勋三十多年建立的影响力与关系。",
+      "summary_en": "Bloomberg's Emily Chang discusses her interview with Jensen Huang, highlighting Nvidia's succession challenge after the longtime CEO's abrupt departure, questions around its China strategy, and whether the AI giant can preserve the influence and relationships Huang built over more than three decades.",
+      "detail_zh": "在Bloomberg This Weekend节目中，彭博的Emily Chang向主持人David Gura和Christina Ruffini介绍了她近期与英伟达CEO黄仁勋的访谈内容。访谈聚焦于黄仁勋突然离职后英伟达面临的继任挑战，探讨了可能的继任者人选。Chang还审视了围绕英伟达中国战略的疑问，以及这家AI巨头能否保留黄仁勋三十多年来建立的影响力和关系。节目未提供更多具体细节或数据。",
+      "detail_en": "On Bloomberg This Weekend, Bloomberg's Emily Chang spoke with hosts David Gura and Christina Ruffini about her recent interview with Nvidia CEO Jensen Huang. The discussion focused on Nvidia's succession challenge following Huang's abrupt departure, examining who could succeed him. Chang also looked at the questions surrounding Nvidia's China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades. No further specific details or data were provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "黄仁勋突然离职后，英伟达面临继任挑战。",
+          "en": "Nvidia faces a succession challenge after Jensen Huang's abrupt departure."
+        },
+        {
+          "zh": "访谈探讨了可能接替黄仁勋的继任者人选。",
+          "en": "The interview examines who could succeed Huang."
+        },
+        {
+          "zh": "英伟达的中国战略存在疑问。",
+          "en": "Questions surround Nvidia's China strategy."
+        },
+        {
+          "zh": "英伟达能否保留黄仁勋三十多年建立的影响力和关系尚待观察。",
+          "en": "Whether Nvidia can preserve the influence and relationships Huang built over more than three decades remains to be seen."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "succession",
+        "China strategy",
+        "AI"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PQ2xQPq_2s0",
+      "title": "A 20-Year Options Trader Sees a Thanksgiving Rally. So Why Is He Still Worried?",
+      "title_zh": "SpotGamma：期权对冲如何放大美股波动，感恩节前后或现反弹",
+      "url": "https://www.youtube.com/watch?v=PQ2xQPq_2s0",
+      "published_at": "2026-11-14T14:15:12+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "volatility",
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "SpotGamma的Brent Kochuba解析期权持仓如何将市场抛售转化为剧烈下跌与突然反弹。他指出，投资者买入看跌期权时，做市商为对冲风险会在下跌中卖出更多股票，而期权到期或波动率下降可能逆转部分卖压。他因此看到近期下行风险与感恩节前后强劲反弹的可能性并存，但强调需先看到最弱的AI基础设施股企稳。",
+      "summary_en": "Brent Kochuba of SpotGamma explains how options positioning can turn a market selloff into sharp declines and sudden rebounds. When investors buy puts, dealers hedging their exposure may sell more stock as prices fall, and that selling pressure can reverse when puts expire or volatility declines. He sees both near-term downside risk and the possibility of a strong rebound around Thanksgiving, but wants to see the weakest AI infrastructure stocks stabilize before trusting a lasting recovery.",
+      "detail_zh": "在11月的OPEX Effect节目中，SpotGamma的Brent Kochuba与Jack Forehand探讨了期权持仓如何放大股市波动。Kochuba将AI板块抛售、债券收益率上升以及其他板块支撑缺失，与幕后进行的对冲行为联系起来。当投资者买入看跌期权时，对手方做市商可能需要在价格下跌时卖出更多股票；而当这些期权到期或波动率下降时，部分卖压可能逆转。这有助于解释为何Kochuba既看到近期下行风险，又认为感恩节前后可能出现强劲反弹。他详细阐述了支持该展望的因素、可能破坏该展望的因素，以及为何他希望看到最弱的AI基础设施股企稳后，才相信持久的复苏。讨论还涉及：做市商对冲如何响应股价、波动率和时间流逝；11月看跌期权密集的到期日为何重要，尽管其总规模不大；看涨需求减弱和相关性上升如何在更广泛抛售前显现；随着投资者为近期保护支付更高价格，VIX期货曲线如何变化；债券收益率上升如何扰乱从科技板块向其他板块的轮动；隐含波动率与实际波动率之间的差距对保护成本的含义；强制卖出如何使看似不同的持仓一同下跌；英伟达的期权流揭示了机构对冲和散户逢低买入的哪些信息；以及Kochuba为何关注CoreWeave和其他neocloud股票以寻找稳定迹象。",
+      "detail_en": "In November’s OPEX Effect, Brent Kochuba of SpotGamma joins Jack Forehand to examine how options positioning can amplify stock market swings. Kochuba connects the AI selloff, rising bond yields and the loss of support from other sectors to hedging that happens behind the scenes. When investors buy puts, the dealers on the other side may have to sell more stock as prices fall; when those puts expire or volatility comes down, some of that selling pressure can reverse. That helps explain why Kochuba sees both near-term downside risk and the possibility of a strong rebound around Thanksgiving. He walks through what would support that outlook, what could undermine it, and why he wants to see the weakest AI infrastructure stocks stabilize before trusting a lasting recovery. The discussion also covers how dealer hedging responds to stock prices, volatility and the passage of time; why November’s put-heavy expiration could matter even though its overall size is modest; what fading call demand and rising correlation revealed before the broader selloff; how the VIX futures curve changes as investors pay more for near-term protection; why higher bond yields can disrupt a rotation out of tech and into other sectors; what the gap between implied and realized volatility says about the price of protection; how forced selling can make seemingly different positions fall together; what Nvidia’s options flows reveal about institutional hedges and retail dip buying; and why Kochuba is watching CoreWeave and the other neocloud stocks for signs of stability.",
+      "conclusion_zh": "期权对冲机制可能放大美股短期波动，投资者应关注AI基础设施股企稳信号及感恩节前后的潜在反弹，同时警惕债券收益率上升对板块轮动的干扰。",
+      "conclusion_en": "Options hedging can amplify short-term US equity volatility; investors should watch for stabilization in AI infrastructure stocks and a potential rebound around Thanksgiving, while remaining alert to how rising bond yields may disrupt sector rotation.",
+      "key_points": [
+        {
+          "zh": "做市商对冲会放大波动：投资者买入看跌期权时，做市商可能在下跌中卖出更多股票，形成负反馈；期权到期或波动率下降可能逆转部分卖压。",
+          "en": "Dealer hedging amplifies moves: when investors buy puts, dealers may sell more stock as prices fall, creating a negative feedback loop; option expiration or falling volatility can reverse some selling pressure."
+        },
+        {
+          "zh": "Kochuba认为近期下行风险与感恩节前后强劲反弹的可能性并存，但需先看到最弱的AI基础设施股企稳。",
+          "en": "Kochuba sees both near-term downside risk and the possibility of a strong rebound around Thanksgiving, but wants to see the weakest AI infrastructure stocks stabilize first."
+        },
+        {
+          "zh": "11月看跌期权密集的到期日可能重要，尽管其总规模不大；看涨需求减弱和相关性上升在更广泛抛售前已显现。",
+          "en": "November’s put-heavy expiration could matter even though its overall size is modest; fading call demand and rising correlation were visible before the broader selloff."
+        },
+        {
+          "zh": "债券收益率上升可能扰乱从科技板块向其他板块的轮动；隐含与实际波动率之间的差距反映保护成本。",
+          "en": "Higher bond yields can disrupt rotation out of tech into other sectors; the gap between implied and realized volatility reflects the cost of protection."
+        },
+        {
+          "zh": "英伟达的期权流揭示机构对冲和散户逢低买入；Kochuba关注CoreWeave等neocloud股票以寻找稳定迹象。",
+          "en": "Nvidia’s options flows reveal institutional hedges and retail dip buying; Kochuba watches CoreWeave and other neocloud stocks for signs of stability."
+        }
+      ],
+      "tags": [
+        "options hedging",
+        "dealer gamma",
+        "VIX futures",
+        "AI selloff",
+        "neocloud"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:kohmZZntrZ4",
+      "title": "Trump Heads to China for Talks With Xi and Putin",
+      "title_zh": "特朗普政府回应FAA全国停飞，交通部长推动500亿美元空管现代化",
+      "url": "https://www.youtube.com/watch?v=kohmZZntrZ4",
+      "published_at": "2026-11-14T14:10:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博白宫记者Jeff Mason在Bloomberg This Weekend节目中讨论了特朗普政府对FAA全国停飞的回应，以及交通部长Sean Duffy推动的500亿美元空管系统现代化计划。Mason还展望了特朗普的亚洲之行及计划与中国国家主席习近平的会晤，科技与AI仍是焦点。",
+      "summary_en": "Bloomberg White House correspondent Jeff Mason discussed on Bloomberg This Weekend the Trump administration's response to a nationwide FAA ground stop and Transportation Secretary Sean Duffy's push for $50 billion to modernize the US air traffic control system. Mason also looked ahead to President Donald Trump's Asia trip and a planned meeting with Chinese President Xi Jinping, with technology and AI remaining in focus.",
+      "detail_zh": "彭博白宫记者Jeff Mason在Bloomberg This Weekend节目中向主持人David Gura和Christina Ruffini介绍了特朗普政府对FAA全国停飞的回应。交通部长Sean Duffy推动500亿美元用于美国空管系统现代化。Mason还展望了特朗普总统的亚洲之行，以及计划与中国国家主席习近平举行的会晤，科技和AI仍是关注焦点。",
+      "detail_en": "Bloomberg White House correspondent Jeff Mason told hosts David Gura and Christina Ruffini on Bloomberg This Weekend how the Trump administration responded to a nationwide FAA ground stop and Transportation Secretary Sean Duffy's push for $50 billion to modernize the US air traffic control system. Mason also looked ahead to President Donald Trump's Asia trip and a planned meeting with Chinese President Xi Jinping, as technology and AI remain in focus.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普政府回应了FAA全国停飞事件。",
+          "en": "The Trump administration responded to a nationwide FAA ground stop."
+        },
+        {
+          "zh": "交通部长Sean Duffy推动500亿美元用于美国空管系统现代化。",
+          "en": "Transportation Secretary Sean Duffy is pushing for $50 billion to modernize the US air traffic control system."
+        },
+        {
+          "zh": "特朗普总统计划亚洲之行，并将与中国国家主席习近平会晤。",
+          "en": "President Donald Trump plans an Asia trip and a meeting with Chinese President Xi Jinping."
+        },
+        {
+          "zh": "科技和AI在会晤议题中仍受关注。",
+          "en": "Technology and AI remain in focus for the meeting."
+        }
+      ],
+      "tags": [
+        "FAA ground stop",
+        "air traffic control",
+        "Trump Asia trip",
+        "Xi Jinping meeting",
+        "technology and AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:HYT_R_xrA2I",
       "title": "Couples Are Bringing AI Into Their Arguments",
@@ -16890,230 +17204,6 @@
         "Metropolitan Opera",
         "Lincoln in the Bardo",
         "Missy Mazzoli"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:NNl5TT_0lCQ",
-      "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
-      "title_zh": "伊朗战争推高油价，阿拉斯加或成隐性受益者",
-      "url": "https://www.youtube.com/watch?v=NNl5TT_0lCQ",
-      "published_at": "2026-11-07T15:00:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "伊朗战争导致美国油价飙升，多数州家庭成本上升，但阿拉斯加凭借高石油产量获得新收入，并通过其主权财富基金向居民再分配部分收益。尽管多数美国人反对这场战争，阿拉斯加可能成为冲突最痛苦经济副作用——高油价——的隐性赢家。",
-      "summary_en": "Oil prices have surged across the U.S. due to the ongoing war in Iran, raising costs for households in most states. However, Alaska is generating new revenue from its high oil production and redistributing some of it to residents through its sovereign wealth fund. Despite most Americans disapproving of the war, Alaska may emerge as a quiet winner from higher oil prices, one of the conflict's most painful economic side effects.",
-      "detail_zh": "伊朗战争持续，导致美国各地油价飙升。这对大多数州的家庭意味着更高的成本。然而，阿拉斯加作为高石油产量州，其州政府正从高油价中获得新收入，以抵消这些更高的成本。部分收入通过该州独特的主权财富基金重新分配给阿拉斯加居民。尽管大多数美国人不赞成伊朗战争，但阿拉斯加可能成为这场冲突最痛苦的经济副作用之一——油价上涨——的隐性赢家。",
-      "detail_en": "The ongoing war in Iran has caused oil prices to surge across the United States. This means higher costs for households in most states. However, Alaska, with its high oil production, is bringing in new revenue for the state government to offset these higher costs. Some of the revenue is redistributed to Alaskans through the state's unique sovereign wealth fund. While most Americans disapprove of the war in Iran, Alaska may emerge as a quiet winner from one of the conflict's most painful economic side effects: higher oil prices.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "伊朗战争导致美国油价飙升，多数州家庭面临更高成本。",
-          "en": "The war in Iran has caused oil prices to surge across the U.S., leading to higher costs for households in most states."
-        },
-        {
-          "zh": "阿拉斯加凭借高石油产量获得新收入，用于抵消成本上升。",
-          "en": "Alaska is generating new revenue from its high oil production to offset higher costs."
-        },
-        {
-          "zh": "部分收入通过州主权财富基金再分配给阿拉斯加居民。",
-          "en": "Some revenue is redistributed to Alaskans through the state's sovereign wealth fund."
-        },
-        {
-          "zh": "多数美国人反对伊朗战争，但阿拉斯加可能成为高油价的隐性赢家。",
-          "en": "Most Americans disapprove of the war in Iran, but Alaska may emerge as a quiet winner from higher oil prices."
-        }
-      ],
-      "tags": [
-        "oil prices",
-        "Iran war",
-        "Alaska",
-        "sovereign wealth fund"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:bOcwOqyZGNw",
-      "title": "Anthropic’s Rise: What To Know Before The IPO",
-      "title_zh": "Anthropic拟11月上市：或成史上最大IPO，S-1披露前九月营收超330亿美元",
-      "url": "https://www.youtube.com/watch?v=bOcwOqyZGNw",
-      "published_at": "2026-11-07T15:00:02+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "Anthropic计划于今年11月进行可能创纪录的IPO，规模或超越SpaceX成为史上最大。其S-1文件显示，公司前九个月营收超过330亿美元，同比增长1200%，但招股书也列出逾90页风险，包括AI安全、巨额债务及近9000亿美元算力与基础设施支出承诺。此次上市将检验公开市场投资者对大型语言模型公司这一全新资产类别的接受度，并为OpenAI等后续AI公司定下基调。",
-      "summary_en": "Anthropic is poised for a potentially record-breaking IPO in November that could surpass SpaceX as the largest ever. Its S-1 filing shows more than $33 billion in revenue for the first nine months of the year, up 1,200% year-over-year, but the prospectus lists over 90 pages of risks including AI safety, substantial debt, and nearly $900 billion in compute and infrastructure spending commitments. The listing will test public-market appetite for large language model companies as a new asset class and set the tone for OpenAI and other AI firms eyeing IPOs.",
-      "detail_zh": "Anthropic由前OpenAI研究副总裁Dario Amodei及其妹妹Daniela于2021年联合另外五名前OpenAI员工创立，定位为公益公司，使命是确保世界安全地过渡到变革性AI。公司首笔投资来自Skype创始人Jaan Tallinn，早期融资1.24亿美元；2022年4月由FTX前CEO Sam Bankman-Fried领投B轮，估值20亿美元；随后Alphabet和Amazon各自向Anthropic投资超过10亿美元。与OpenAI主攻消费级聊天机器人不同，Anthropic聚焦编程与企业市场，Claude Code和Claude Cowork能力强大，引发软件股被AI颠覆的担忧，今年早些时候出现所谓“SaaSpocalypse”。企业客户涌向Anthropic的编程工具，使其在美国企业AI支出中的份额超过OpenAI，估值从2026年2月的3800亿美元升至5月的近1万亿美元，首次超越OpenAI。竞争公开化：Anthropic在超级碗广告中针对OpenAI在ChatGPT中投放广告的决定，OpenAI CEO Sam Altman回击称Anthropic是面向富人的昂贵产品；在AI印度峰会上两人拒绝握手。此外，Anthropic与五角大楼发生冲突，国防部要求无限制访问其模型用于所有合法目的，Anthropic要求保证技术不被用于全自主武器或国内大规模监控，双方未达成协议，国防部长Pete Hegseth将Anthropic列为供应链风险，导致其失去五角大楼合同并引发数月联邦法院诉讼。S-1显示公司前九个月营收超过330亿美元，同比增长1200%，但招股书列出逾90页风险，首要为安全风险，警告AI未来可能表现出意外的战略性或自我保存行为，若缺乏适当保障可能对人类构成灾难性或生存性风险。公司还指出其巨额债务，需持续扩大客户群并快速扩大营收以产生满足承诺所需的现金流；同时拥有近9000亿美元的算力与基础设施支出承诺，且季度环比增长已放缓。此次IPO可能创纪录，但也将检验投资者对全新资产类别的胃口。",
-      "detail_en": "Anthropic was co-founded in 2021 by former OpenAI VP of Research Dario Amodei, his sister Daniela, and five other former OpenAI employees as a public benefit corporation with the mission to ensure the world safely makes the transition through transformative AI. The first investment came from Skype founder Jaan Tallinn in a $124 million fundraise; FTX's former CEO Sam Bankman-Fried led the Series B in April 2022 at a $2 billion valuation; Alphabet and Amazon each invested over $1 billion in Anthropic over the following year. Unlike OpenAI's consumer chatbot focus, Anthropic concentrated on coding and enterprises, and its Claude Code and Claude Cowork became so capable they sparked the 'SaaSpocalypse' in software stocks earlier this year. Enterprise customers flocked to Anthropic's coding tools, overtaking OpenAI's share of U.S. business spending on AI and propelling its valuation from $380 billion in February 2026 to just shy of $1 trillion in May, surpassing OpenAI for the first time. The rivalry became public: Anthropic targeted OpenAI's decision to put ads in ChatGPT with a Super Bowl ad, prompting OpenAI CEO Sam Altman to call Anthropic an expensive product for rich people; at the AI India Summit, Altman and Amodei refused to clasp hands on stage. Anthropic also clashed with the Pentagon: the DoD wanted unfettered access to its models across all lawful purposes, while Anthropic sought assurance its technology wouldn't be used for fully autonomous weapons or domestic mass surveillance; no agreement was reached, Defense Secretary Pete Hegseth designated Anthropic as a supply chain risk, costing it Pentagon contracts and sparking months of legal battles in federal courts. The S-1 showed more than $33 billion in revenue in the first nine months of the year, 1,200% higher year-over-year, but the prospectus contains over 90 pages of risks, chief among them safety, warning that AI may exhibit unexpected strategic or self-preserving behaviors and could pose catastrophic or existential risks to humanity if not developed and deployed with appropriate safeguards. Anthropic also pointed to substantial debt, warning it needs to grow its customer base and rapidly scale revenue to generate cash flow to satisfy commitments; it has almost $900 billion in spending commitments related to compute and infrastructure, and growth slowed quarter over quarter. The IPO could set records but will test investors' appetite for an entirely new asset class.",
-      "conclusion_zh": "Anthropic的IPO将首次为公开市场投资者提供直接定价大型语言模型公司的机会，其超高增长与巨额支出承诺并存，上市表现将为OpenAI等AI公司定下估值基调。",
-      "conclusion_en": "Anthropic's IPO will give public investors their first direct opportunity to price a large language model company, pairing hyper-growth with massive spending commitments; its performance will set the valuation tone for OpenAI and other AI firms.",
-      "key_points": [
-        {
-          "zh": "Anthropic计划11月IPO，可能成为史上最大IPO，超越SpaceX。",
-          "en": "Anthropic is poised for a November IPO that could be the largest ever, surpassing SpaceX."
-        },
-        {
-          "zh": "S-1显示前九个月营收超330亿美元，同比增长1200%，但季度环比增长已放缓。",
-          "en": "The S-1 shows over $33 billion in revenue for the first nine months, up 1,200% year-over-year, though quarter-over-quarter growth has slowed."
-        },
-        {
-          "zh": "招股书列出逾90页风险，包括AI安全、巨额债务及近9000亿美元算力与基础设施支出承诺。",
-          "en": "The prospectus lists over 90 pages of risks, including AI safety, substantial debt, and nearly $900 billion in compute and infrastructure spending commitments."
-        },
-        {
-          "zh": "Anthropic聚焦编程与企业市场，在美国企业AI支出份额上超越OpenAI，估值从3800亿升至近1万亿美元。",
-          "en": "Anthropic's focus on coding and enterprise helped it overtake OpenAI's share of U.S. business AI spending, with valuation rising from $380 billion to just shy of $1 trillion."
-        },
-        {
-          "zh": "此次IPO将检验公开市场对大型语言模型公司这一新资产类别的胃口，并为OpenAI等后续上市定调。",
-          "en": "The IPO will test public-market appetite for large language model companies as a new asset class and set the tone for OpenAI and other AI listings."
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "AI",
-        "OpenAI",
-        "enterprise AI"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:zmedYyNlNTk",
-      "title": "Texas and Georgia Enter a New Political Era",
-      "title_zh": "民主党在得州和佐治亚州取得进展，面临治理挑战",
-      "url": "https://www.youtube.com/watch?v=zmedYyNlNTk",
-      "published_at": "2026-11-07T14:53:27+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "《纽约时报》和《亚特兰大宪章报》的记者在Bloomberg This Weekend节目中讨论了民主党在得克萨斯州和佐治亚州的政治进展，包括Keisha Lance Bottoms历史性当选全国首位黑人女性州长。他们指出，民主党在经历数十年共和党主导后，现在面临治理挑战，需应对分裂的立法机构和跨越党派界限的选民。",
-      "summary_en": "On Bloomberg This Weekend, journalists from The New York Times and The Atlanta Journal-Constitution discussed Democratic gains in Texas and Georgia, including Keisha Lance Bottoms' historic election as the nation's first Black woman governor. They noted that after decades of Republican dominance, Democrats now face the challenge of governing with divided legislatures and voters who crossed party lines.",
-      "detail_zh": "在Bloomberg This Weekend节目中，《纽约时报》得克萨斯州政治记者Lauren McGaughy和《亚特兰大宪章报》华盛顿分社社长Tia Mitchell与主持人David Gura和Christina Ruffini讨论了民主党在得克萨斯州和佐治亚州取得的政治进展。讨论重点包括Keisha Lance Bottoms历史性当选为全国首位黑人女性州长。McGaughy和Mitchell表示，民主党在经历数十年共和党主导后，现在面临治理挑战，需要应对分裂的立法机构以及跨越党派界限投票的选民。",
-      "detail_en": "On Bloomberg This Weekend, Lauren McGaughy, Texas political correspondent for The New York Times, and Tia Mitchell, Washington Bureau Chief for The Atlanta Journal-Constitution, joined hosts David Gura and Christina Ruffini to examine Democratic gains that transformed the political landscape in Texas and Georgia. The discussion highlighted Keisha Lance Bottoms' historic election as the nation's first Black woman governor. McGaughy and Mitchell noted that after decades of Republican dominance, Democrats now face the challenge of governing while navigating divided legislatures and voters who crossed party lines.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党在得克萨斯州和佐治亚州取得政治进展，改变了政治格局。",
-          "en": "Democrats made political gains in Texas and Georgia, transforming the political landscape."
-        },
-        {
-          "zh": "Keisha Lance Bottoms历史性当选为全国首位黑人女性州长。",
-          "en": "Keisha Lance Bottoms was historically elected as the nation's first Black woman governor."
-        },
-        {
-          "zh": "民主党在数十年共和党主导后，现在面临治理挑战。",
-          "en": "After decades of Republican dominance, Democrats now face the challenge of governing."
-        },
-        {
-          "zh": "民主党需应对分裂的立法机构和跨越党派界限的选民。",
-          "en": "Democrats must navigate divided legislatures and voters who crossed party lines."
-        }
-      ],
-      "tags": [
-        "US politics",
-        "Democratic Party",
-        "Texas",
-        "Georgia",
-        "elections"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6CZTeawYcoY",
-      "title": "Young Travelers Are Warming Up to Cruises",
-      "title_zh": "彭博：机票酒店涨价推动Z世代与千禧一代转向邮轮旅行",
-      "url": "https://www.youtube.com/watch?v=6CZTeawYcoY",
-      "published_at": "2026-11-07T14:26:47+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博旅游记者Brittany Chang在Bloomberg This Weekend节目中表示，机票和酒店成本上升使全包式度假更具吸引力，邮轮正吸引更多Z世代和千禧一代旅客。邮轮公司通过巨型邮轮、娱乐设施、成人专属空间和怀旧元素争取年轻乘客，部分航次每日费用低至约30美元。",
-      "summary_en": "Bloomberg travel journalist Brittany Chang said on Bloomberg This Weekend that higher airfare and hotel costs are making all-inclusive vacations more appealing, drawing more Gen Z and millennial travelers to cruises. Cruise lines are courting younger passengers with mega ships, entertainment, adult-only spaces and nostalgia, with some sailings costing as little as about $30 a day.",
-      "detail_zh": "彭博新闻旅游记者Brittany Chang在Bloomberg This Weekend节目中向主持人David Gura和Christina Ruffini解释了邮轮为何吸引更多Z世代和千禧一代旅客。她指出，机票和酒店成本上升使全包式度假越来越有吸引力。邮轮公司正通过巨型邮轮、娱乐设施、成人专属空间和怀旧元素来争取年轻乘客。部分航次费用低至每天约30美元。",
-      "detail_en": "Bloomberg News travel journalist Brittany Chang explained on Bloomberg This Weekend to hosts David Gura and Christina Ruffini why cruises are attracting more Gen Z and millennial travelers. She noted that higher airfare and hotel costs are making all-inclusive vacations increasingly appealing. Cruise lines are courting younger passengers with mega ships, entertainment, adult-only spaces and nostalgia. Some sailings cost as little as about $30 a day.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "机票和酒店成本上升使全包式邮轮度假更具吸引力",
-          "en": "Higher airfare and hotel costs make all-inclusive cruise vacations more appealing"
-        },
-        {
-          "zh": "邮轮公司正吸引更多Z世代和千禧一代旅客",
-          "en": "Cruise lines are attracting more Gen Z and millennial travelers"
-        },
-        {
-          "zh": "邮轮公司通过巨型邮轮、娱乐设施、成人专属空间和怀旧元素争取年轻乘客",
-          "en": "Cruise lines court younger passengers with mega ships, entertainment, adult-only spaces and nostalgia"
-        },
-        {
-          "zh": "部分航次费用低至每天约30美元",
-          "en": "Some sailings cost as little as about $30 a day"
-        }
-      ],
-      "tags": [
-        "cruise",
-        "travel",
-        "consumer",
-        "gen-z",
-        "millennials"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3DsvSj8xdrI",
-      "title": "Economy and Democracy Drove the Blue Wave",
-      "title_zh": "罗格斯学者：可负担性、民主与腐败担忧助推民主党选情",
-      "url": "https://www.youtube.com/watch?v=3DsvSj8xdrI",
-      "published_at": "2026-11-07T14:17:44+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "罗格斯大学的Ashley Koning在Bloomberg This Weekend表示，可负担性、对民主和腐败的担忧推动选民转向民主党，拉丁裔、年轻和独立选民变化显著。她指出，民主党在2028年选举周期前面临兑现可负担性成果的压力。",
-      "summary_en": "Rutgers University's Ashley Koning said on Bloomberg This Weekend that affordability, concerns about democracy and government corruption helped drive voters toward Democrats, with significant shifts among Latino, young and independent voters. She noted Democrats now face pressure to deliver tangible results on affordability before the 2028 election cycle.",
-      "detail_zh": "在Bloomberg This Weekend节目中，罗格斯大学的Ashley Koning向主持人David Gura和Christina Ruffini表示，可负担性、对民主的担忧以及政府腐败问题共同推动选民转向民主党。Koning指出，拉丁裔、年轻选民和独立选民群体中出现了显著变化。她认为，民主党现在面临压力，需要在2028年选举周期之前，在可负担性问题上拿出切实成果。",
-      "detail_en": "On Bloomberg This Weekend, Rutgers University's Ashley Koning told hosts David Gura and Christina Ruffini that affordability, concerns about democracy and government corruption helped drive voters toward Democrats. Koning pointed to significant shifts among Latino, young and independent voters. She said Democrats now face pressure to deliver tangible results on affordability before the 2028 election cycle.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "可负担性、民主与腐败担忧是选民转向民主党的驱动因素。",
-          "en": "Affordability, democracy and corruption concerns drove voters toward Democrats."
-        },
-        {
-          "zh": "拉丁裔、年轻和独立选民群体出现显著变化。",
-          "en": "Significant shifts occurred among Latino, young and independent voters."
-        },
-        {
-          "zh": "民主党需在2028年前兑现可负担性成果。",
-          "en": "Democrats must deliver tangible affordability results before 2028."
-        }
-      ],
-      "tags": [
-        "elections",
-        "democrats",
-        "affordability",
-        "voter-shift"
       ],
       "tickers": [],
       "sentiment": "neutral"
