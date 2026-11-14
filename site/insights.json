@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:10:37.473359+00:00",
+  "generated_at": "2026-11-14T12:16:42.519703+00:00",
   "insights": [
     {
       "guid": "yt:ogU99e2dfGo",
@@ -1352,6 +1352,58 @@
         "MSFT"
       ],
       "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Qlt84Qg7IgQ",
+      "title": "Fallout from FAA Ground Stop; Trump to Meet Putin, Xi | Bloomberg This Weekend: Nov 14th, 2026",
+      "title_zh": "彭博周末节目：航班停飞、乌克兰和平提议、特朗普会晤习近平与普京、英伟达CEO或出席出口管制会议、微软服务恢复",
+      "url": "https://www.youtube.com/watch?v=Qlt84Qg7IgQ",
+      "published_at": "2026-11-13T17:43:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国全国航班停飞四小时后恢复，延误或持续至周末；乌克兰总统称美国和平特使询问乌是否愿放弃顿巴斯以换取北约成员资格；特朗普将于11月19日在APEC峰会期间会晤习近平和普京；负责出口管制的特朗普政府官员考虑邀请英伟达CEO黄仁勋参加年会；微软旗舰软件访问已完全恢复。",
+      "summary_en": "US authorities lifted a nationwide ground stop after a four-hour shutdown that disrupted thousands of flights, with delays expected into the weekend. Ukrainian President Zelenskyy said US peace envoys asked whether Ukraine would give up the Donbas for NATO membership. President Trump will meet China's Xi and Russia's Putin on Nov. 19 at the APEC summit. A Trump administration export control official considered inviting Nvidia CEO Jensen Huang to an annual conference. Microsoft said access to its flagship software was fully restored after an outage.",
+      "detail_zh": "美国当局在四小时停飞后解除了全国范围的 ground stop，导致数千航班中断、乘客滞留，延误预计将延续至周末。乌克兰总统泽连斯基表示，美国和平特使询问乌克兰是否愿意放弃东部顿巴斯地区以换取北约成员国资格，这暗示华盛顿谈判策略可能转变。白宫发言人表示，特朗普总统将于11月19日在亚太经合组织峰会期间会见中国国家主席习近平和俄罗斯总统普京。负责美国出口管制项目的特朗普政府官员正在为其机构即将举行的年度会议寻找知名人士，并提出了一个不寻常的选项：英伟达公司首席执行官黄仁勋。微软公司表示，其旗舰软件的访问已完全恢复，结束了此前瘫痪全球政府办公室、交易员和企业的中断。节目嘉宾包括彭博情报高级航空航天、国防和航空公司分析师George Ferguson，彭博新闻技术与战略行业高级编辑Mike Shepard，前英国首相David Cameron，Space Network联合创始人Ross Hamilton，彭博经济国防负责人Becca Wasser，Emily Chang，Poppi联合创始人Allison Ellsworth和Stephen Ellsworth。",
+      "detail_en": "US authorities lifted a nationwide ground stop after a four-hour shutdown that disrupted thousands of flights and stranded passengers, with delays expected to spill into the weekend. Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Ukraine would be willing to give up the Donbas region to Russia in exchange for NATO membership, signaling a potential shift in Washington's negotiating tactics. President Donald Trump will meet China's Xi Jinping and Russian President Vladimir Putin on Nov. 19 on the sidelines of the APEC summit, a White House spokeswoman said. The Trump administration official who runs US export control programs was looking for marquee names for his agency's upcoming annual conference and threw an unusual option into the mix: Nvidia CEO Jensen Huang. Microsoft said access has been fully restored to its flagship software, ending an outage that paralyzed government offices, traders and businesses around the world. Guests included George Ferguson of Bloomberg Intelligence, Mike Shepard of Bloomberg News, former UK Prime Minister David Cameron, Ross Hamilton of Space Network, Becca Wasser of Bloomberg Economics, Emily Chang, and Allison and Stephen Ellsworth of Poppi.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国全国航班停飞四小时后恢复，延误或持续至周末。",
+          "en": "US nationwide ground stop lifted after four hours; delays may persist into the weekend."
+        },
+        {
+          "zh": "泽连斯基称美国和平特使询问乌克兰是否愿放弃顿巴斯以换取北约成员资格。",
+          "en": "Zelenskyy said US peace envoys asked if Ukraine would give up Donbas for NATO membership."
+        },
+        {
+          "zh": "特朗普将于11月19日在APEC峰会期间会见习近平和普京。",
+          "en": "Trump to meet Xi and Putin on Nov. 19 at APEC summit."
+        },
+        {
+          "zh": "特朗普政府出口管制官员考虑邀请英伟达CEO黄仁勋参加年度会议。",
+          "en": "Trump administration export control official considered inviting Nvidia CEO Jensen Huang to annual conference."
+        },
+        {
+          "zh": "微软旗舰软件访问已完全恢复，此前中断影响全球政府、交易员和企业。",
+          "en": "Microsoft flagship software access fully restored after outage paralyzed governments, traders, and businesses worldwide."
+        }
+      ],
+      "tags": [
+        "ground stop",
+        "Ukraine",
+        "APEC",
+        "export controls",
+        "Microsoft outage"
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "sentiment": "neutral"
     },
     {
       "guid": "yt:FwzBGg8tHYA",
@@ -16993,127 +17045,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:BhHTRMY-97Y",
-      "title": "Midterm Election Fallout, Oval Office Shakeup, Tech Stocks | Bloomberg This Weekend: Nov 7th, 2026",
-      "title_zh": "彭博周末节目预告：特朗普换幕僚长、科技股反弹与美伊局势",
-      "url": "https://www.youtube.com/watch?v=BhHTRMY-97Y",
-      "published_at": "2026-11-07T11:51:11+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博周末节目将讨论特朗普任命Stephen Miller接替Wiles出任幕僚长、科技股在焦虑情绪中维持周五反弹，以及美军对伊朗实施新一轮定点打击。节目嘉宾包括Dan Ives、Anna Wong、Joe Mathieu和Amanda Agati。",
-      "summary_en": "This weekend's Bloomberg program covers Trump tapping Stephen Miller to replace Wiles as chief of staff, tech stocks clinging to Friday's rebound amid high anxiety, and new US military strikes on Iran. Guests include Dan Ives, Anna Wong, Joe Mathieu, and Amanda Agati.",
-      "detail_zh": "彭博周末节目由David Gura、Lisa Mateo和Nathan Hager主持，旨在提供深度对话与洞察。今日节目涵盖三条主要新闻：特朗普任命Stephen Miller接替Wiles担任幕僚长；科技股在高度焦虑中维持周五的反弹；美军对伊朗实施新的定点打击。节目嘉宾包括Yorkville Ives & Co.合伙人兼高级董事总经理Dan Ives、彭博经济首席美国经济学家Anna Wong、《Balance of Power》联合主持人Joe Mathieu，以及PNC资产管理集团首席投资官Amanda Agati。",
-      "detail_en": "Hosted by David Gura, Lisa Mateo, and Nathan Hager, Bloomberg This Weekend aims to provide in-depth conversations and insight. Today's show covers three main stories: Trump tapping Stephen Miller to replace Wiles as chief of staff; tech stocks clinging to Friday's rebound amid high anxiety; and the US military carrying out new targeted strikes on Iran. Guests include Dan Ives, Partner & Senior Managing Director at Yorkville Ives & Co.; Anna Wong, Chief US Economist at Bloomberg Economics; Joe Mathieu, Co-Host of Balance of Power; and Amanda Agati, Chief Investment Officer at PNC Asset Management Group.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普任命Stephen Miller接替Wiles出任幕僚长。",
-          "en": "Trump taps Stephen Miller to replace Wiles as chief of staff."
-        },
-        {
-          "zh": "科技股在焦虑情绪高涨中维持周五反弹。",
-          "en": "Tech clings to Friday's rebound as anxiety runs high."
-        },
-        {
-          "zh": "美军对伊朗实施新的定点打击。",
-          "en": "US military carries out new targeted strikes on Iran."
-        },
-        {
-          "zh": "嘉宾包括Dan Ives、Anna Wong、Joe Mathieu和Amanda Agati。",
-          "en": "Guests include Dan Ives, Anna Wong, Joe Mathieu, and Amanda Agati."
-        }
-      ],
-      "tags": [
-        "Trump",
-        "tech stocks",
-        "Iran",
-        "Bloomberg This Weekend"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4964579",
-      "title": "What Moved Markets This Week",
-      "title_zh": "中期选举后科技股抛售，三大指数创一年半最大单日跌幅",
-      "url": "https://seekingalpha.com/article/4964579-what-moved-markets-this-week?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-07T11:37:26+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "2026年中期选举后市场乐观情绪迅速逆转，科技股因AI政策担忧和持续抛售而重挫，半导体与软件板块领跌，纳斯达克进入回调区间。三大指数本周均录得显著跌幅，其中纳指跌3.4%，标普跌2.7%，道指跌0.9%。",
-      "summary_en": "Post-2026 midterm optimism quickly reversed as a tech selloff and AI policy fears hammered markets, with semiconductors and software leading losses and the Nasdaq entering correction territory. All major indexes posted sharp weekly declines, with the Nasdaq down 3.4%, S&P down 2.7%, and Dow down 0.9%.",
-      "detail_zh": "华尔街主要指数在2026年中期选举后的乐观情绪中迅速转向，遭遇一年半以来最差单日表现。民主党赢得众议院和参议院多数席位，市场预期国会将大幅限制总统议程。半导体和软件板块受创最重，美光科技、戴尔科技、泛林集团、英特尔和超威半导体等巨头本周跌幅高达25%。纳斯达克综合指数周四进入回调区间，道指当日下跌抹去了选举后的全部涨幅，三大指数均创下自2025年4月以来最差单日跌幅。经济数据方面，10月ISM服务业增长因新订单增长放缓而小幅下降，但10月非农就业人数增加16.5万，超过市场预期的两倍。根据CME FedWatch工具，12月FOMC会议加息25个基点的概率为77.1%。油价大幅下跌，WTI原油期货跌13.1%至90.50美元，布伦特原油跌13.7%至97.94美元。本周标普500跌2.7%，纳指跌3.4%，道指跌0.9%。",
-      "detail_en": "Wall Street's major indexes swung from post-2026 midterm optimism to their worst single-day performance in over a year and a half. Democrats gained majorities in both the House and Senate, with Congress expected to heavily limit the president's agenda. Semiconductors and software were the hardest-hit sectors, with giants like Micron, Dell, Lam Research, Intel, and AMD losing as much as 25% this week. The Nasdaq Composite entered correction territory on Thursday, and the Dow erased all post-midterm gains that day, with all three averages posting their worst one-day losses since April 2025. On the economic front, October ISM Services growth ticked down as new order growth slowed, while October nonfarm payrolls jumped by 165,000, more than doubling expectations. The probability of a 25-basis-point rate hike at the December FOMC meeting is now 77.1%, according to CME FedWatch. Oil prices fell sharply, with WTI crude down 13.1% to $90.50 and Brent down 13.7% to $97.94. For the week, the S&P lost 2.7%, the Nasdaq fell 3.4%, and the Dow dropped 0.9%.",
-      "conclusion_zh": "科技股在政策担忧和板块轮动中遭遇剧烈抛售，叠加加息预期升温，短期市场波动可能持续，需关注政策动向与利率路径对高估值科技板块的进一步影响。",
-      "conclusion_en": "Tech stocks faced a sharp selloff amid policy fears and sector rotation, compounded by rising rate hike expectations; near-term volatility may persist, with focus on policy developments and the rate path's impact on high-valuation tech.",
-      "key_points": [
-        {
-          "zh": "民主党赢得两院多数，市场预期国会将大幅限制总统议程，引发政策不确定性。",
-          "en": "Democrats won majorities in both chambers, with Congress expected to heavily limit the president's agenda, fueling policy uncertainty."
-        },
-        {
-          "zh": "半导体和软件板块领跌，美光、戴尔、泛林、英特尔、AMD等本周跌幅高达25%。",
-          "en": "Semiconductors and software led the decline, with Micron, Dell, Lam Research, Intel, and AMD losing as much as 25% this week."
-        },
-        {
-          "zh": "纳斯达克综合指数周四进入回调区间，三大指数均创2025年4月以来最差单日跌幅。",
-          "en": "The Nasdaq Composite entered correction territory on Thursday, and all three major averages had their worst one-day losses since April 2025."
-        },
-        {
-          "zh": "10月非农就业增加16.5万，超预期两倍多；12月加息25个基点概率升至77.1%。",
-          "en": "October nonfarm payrolls rose by 165,000, more than doubling expectations; the probability of a 25bp December rate hike rose to 77.1%."
-        },
-        {
-          "zh": "油价大幅下跌，WTI原油跌13.1%至90.50美元，布伦特原油跌13.7%至97.94美元。",
-          "en": "Oil prices fell sharply, with WTI crude down 13.1% to $90.50 and Brent down 13.7% to $97.94."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "tech selloff",
-        "semiconductors",
-        "rate hike",
-        "oil prices"
-      ],
-      "tickers": [
-        "MU",
-        "DELL",
-        "LRCX",
-        "INTC",
-        "AMD",
-        "AAPL",
-        "PLTR",
-        "ARM",
-        "QCOM",
-        "VICI",
-        "SNDK",
-        "CALM",
-        "GOOG",
-        "BE",
-        "MSFT",
-        "BIDU",
-        "APP",
-        "FISV",
-        "IDXX",
-        "MOS",
-        "ABNB",
-        "LITE",
-        "STX",
-        "MRVL",
-        "WDC"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
