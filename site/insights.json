@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-14T18:13:43.006241+00:00",
+  "generated_at": "2026-11-14T19:10:21.118139+00:00",
   "insights": [
+    {
+      "guid": "yt:tX5oNAxULSY",
+      "title": "The rise, reinvention and uncertain future of Nvidia without Jensen Huang",
+      "title_zh": "英伟达CEO黄仁勋卸任，回顾其早期访谈",
+      "url": "https://www.youtube.com/watch?v=tX5oNAxULSY",
+      "published_at": "2026-11-14T19:00:34+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "tech"
+      ],
+      "summary_zh": "在OpenAI发布ChatGPT后，英伟达曾濒临历史性增长，黄仁勋表示希望再领导公司三四十年。但不到四年后，黄仁勋已卸任，文章回顾了对其及其他高管的访谈。",
+      "summary_en": "After OpenAI launched ChatGPT, Nvidia was on the precipice of historic growth, and Jensen Huang said he'd like to keep running the company for 'three or four decades.' Less than four years later, Huang is out, and the article looks back at interviews with him and other executives.",
+      "detail_zh": "2022年11月OpenAI推出ChatGPT后，英伟达处于历史性增长的前夜。黄仁勋当时对CNBC表示，只要他觉得自己对公司有真正贡献，就希望再领导公司三四十年。然而不到四年后，黄仁勋已卸任。文章回顾了此前对这位联合创始人及其他公司高管的访谈，正值这家芯片制造商进入下一个关键篇章。",
+      "detail_en": "After OpenAI launched ChatGPT in November 2022, Nvidia was on the precipice of historic growth. Jensen Huang told CNBC he'd like to keep running the company for 'three or four decades,' as long as he felt he was making a real contribution. Less than four years later, Huang is out. The article looks back at interviews with the co-founder and other executives as the chipmaker enters its next critical chapter.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "ChatGPT发布后，英伟达曾濒临历史性增长。",
+          "en": "After ChatGPT's launch, Nvidia was on the precipice of historic growth."
+        },
+        {
+          "zh": "黄仁勋曾表示希望再领导公司三四十年。",
+          "en": "Jensen Huang said he'd like to keep running the company for 'three or four decades.'"
+        },
+        {
+          "zh": "不到四年后，黄仁勋已卸任。",
+          "en": "Less than four years later, Jensen Huang is out."
+        },
+        {
+          "zh": "文章回顾了对黄仁勋及其他高管的访谈。",
+          "en": "The article looks back at interviews with Huang and other executives."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "leadership change"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:DF2i8Z4na4Y",
       "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era | Odd Lots",
