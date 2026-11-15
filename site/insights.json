@@ -1,6 +1,227 @@
 {
-  "generated_at": "2026-11-15T14:11:34.378041+00:00",
+  "generated_at": "2026-11-15T15:10:56.227579+00:00",
   "insights": [
+    {
+      "guid": "yt:4V1-9GleooI",
+      "title": "Inside India’s $130 Billion Wedding Economy",
+      "title_zh": "印度婚礼经济规模达1300亿美元，家庭提前储蓄购金",
+      "url": "https://www.youtube.com/watch?v=4V1-9GleooI",
+      "published_at": "2026-11-15T15:00:01+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "印度婚礼每年产生约1300亿美元支出，构成重要经济力量。许多家庭提前数年通过储蓄和积累黄金筹备资金，部分家庭则抵押现有珠宝来支付婚礼费用。",
+      "summary_en": "India's weddings generate an estimated $130 billion in annual spending, making them a major economic force. Many families begin preparing years in advance through savings and gold accumulation, while some borrow against existing jewelry to finance expenses.",
+      "detail_zh": "据彭博电视报道，印度婚礼每年产生约1300亿美元的支出，是重要的经济力量。对许多家庭而言，财务承诺在仪式前数年就已开始，通过储蓄和积累黄金来筹备。部分家庭还会抵押现有珠宝来融资婚礼开支。原文未提供更多关于黄金需求、消费趋势或宏观影响的细节。",
+      "detail_en": "According to Bloomberg Television, India's weddings generate an estimated $130 billion in annual spending, making them a major economic force. For many families, the financial commitment begins years before the ceremony through savings and gold accumulation. Some households borrow against existing jewelry to finance wedding expenses. The original text does not provide further details on gold demand, consumption trends, or macroeconomic implications.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "印度婚礼年支出约1300亿美元，规模显著。",
+          "en": "India's weddings generate about $130 billion in annual spending, a significant scale."
+        },
+        {
+          "zh": "家庭提前数年通过储蓄和积累黄金来筹备婚礼资金。",
+          "en": "Families prepare for years in advance through savings and gold accumulation."
+        },
+        {
+          "zh": "部分家庭抵押现有珠宝以融资婚礼费用。",
+          "en": "Some households borrow against existing jewelry to finance wedding expenses."
+        }
+      ],
+      "tags": [
+        "India",
+        "wedding economy",
+        "gold",
+        "consumer spending"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Cxynf78_2Kg",
+      "title": "Congress Presses Nvidia Over China Chip Access",
+      "title_zh": "议员质疑英伟达前CEO黄仁勋涉华国安问题，呼吁加强出口管制",
+      "url": "https://www.youtube.com/watch?v=Cxynf78_2Kg",
+      "published_at": "2026-11-15T14:49:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "民主党众议员拉贾·克里希纳莫西在彭博电视节目中，就前英伟达CEO黄仁勋涉及的中国情报活动及受限芯片流入中国实体提出国家安全质疑，并呼吁加强出口管制和国会监督，同时质疑商务部长霍华德·卢特尼克对英伟达和Megaspeed的处理。",
+      "summary_en": "Democratic Rep. Raja Krishnamoorthi on Bloomberg This Weekend raised national security questions about former Nvidia CEO Jensen Huang's knowledge of alleged Chinese intelligence activity and whether restricted Nvidia chips reached entities in China. He called for stronger export controls and congressional oversight, and questioned Commerce Secretary Howard Lutnick's handling of Nvidia and Megaspeed.",
+      "detail_zh": "民主党众议员拉贾·克里希纳莫西做客彭博电视节目，与主持人David Gura和Christina Ruffini讨论围绕前英伟达CEO黄仁勋的国家安全问题。他提出黄仁勋对据称的中国情报活动知道多少，以及受限的英伟达芯片是否流入了中国实体。克里希纳莫西呼吁加强出口管制和国会监督，并对商务部长霍华德·卢特尼克处理英伟达和Megaspeed的方式提出质疑。",
+      "detail_en": "Democratic Rep. Raja Krishnamoorthi appeared on Bloomberg This Weekend with hosts David Gura and Christina Ruffini to discuss national security questions surrounding former Nvidia CEO Jensen Huang. He raised questions about what Huang knew regarding alleged Chinese intelligence activity and whether restricted Nvidia chips reached entities in China. Krishnamoorthi called for stronger export controls and congressional oversight, and questioned Commerce Secretary Howard Lutnick's handling of Nvidia and Megaspeed.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "议员质疑黄仁勋对据称中国情报活动的知情程度。",
+          "en": "Lawmaker questions what Jensen Huang knew about alleged Chinese intelligence activity."
+        },
+        {
+          "zh": "关注受限英伟达芯片是否流入中国实体。",
+          "en": "Concern over whether restricted Nvidia chips reached entities in China."
+        },
+        {
+          "zh": "呼吁加强出口管制和国会监督。",
+          "en": "Calls for stronger export controls and congressional oversight."
+        },
+        {
+          "zh": "质疑商务部长卢特尼克对英伟达和Megaspeed的处理。",
+          "en": "Questions Commerce Secretary Lutnick's handling of Nvidia and Megaspeed."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "export controls",
+        "national security",
+        "China",
+        "congressional oversight"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:_HWK3obDtnY",
+      "title": "AI Investors Brace for Data Center Restrictions",
+      "title_zh": "PIMCO策略师：数据中心政治阻力或放缓AI建设但不脱轨",
+      "url": "https://www.youtube.com/watch?v=_HWK3obDtnY",
+      "published_at": "2026-11-15T14:38:15+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "PIMCO市场策略师Tony Crescenzi在Bloomberg This Weekend表示，针对数据中心日益增长的政治阻力可能放缓建设进度，但不会使AI投资热潮脱轨。他还讨论了英伟达相关影响、美国经济前景，以及更高收益率如何为高质量公司债投资者创造机会。",
+      "summary_en": "PIMCO market strategist Tony Crescenzi said on Bloomberg This Weekend that growing political resistance to data centers may slow construction but will not derail the broader AI investment boom. He also discussed the fallout surrounding Nvidia, the US economic outlook, and how higher yields are creating opportunities in high-quality corporate bonds.",
+      "detail_zh": "PIMCO市场策略师Tony Crescenzi做客Bloomberg This Weekend，评估针对数据中心日益增长的政治阻力对AI投资热潮可能意味着什么。他的核心判断是：新的限制措施可能放缓数据中心的建设进度，但不会使更广泛的AI建设热潮脱轨。在与主持人David Gura和Christina Ruffini的对话中，Crescenzi还讨论了围绕英伟达的相关影响，以及美国经济的前景。此外，他指出更高的收益率正在为高质量公司债投资者创造机会。",
+      "detail_en": "PIMCO market strategist Tony Crescenzi appeared on Bloomberg This Weekend to assess what growing political resistance to data centers could mean for the AI investment boom. His core view: new restrictions may slow construction without derailing the broader buildout. Speaking with hosts David Gura and Christina Ruffini, Crescenzi also discussed the fallout surrounding Nvidia and the outlook for the US economy. He further noted that higher yields are creating opportunities for investors in high-quality corporate bonds.",
+      "conclusion_zh": "数据中心的政治阻力或放缓AI基建节奏但不改整体趋势；更高收益率环境下，高质量公司债值得关注。",
+      "conclusion_en": "Political resistance to data centers may slow AI infrastructure pacing but not the overall trend; in a higher-yield environment, high-quality corporate bonds warrant attention.",
+      "key_points": [
+        {
+          "zh": "PIMCO策略师Crescenzi认为，针对数据中心的政治阻力可能放缓建设，但不会使AI投资热潮脱轨。",
+          "en": "PIMCO strategist Crescenzi believes political resistance to data centers may slow construction but will not derail the AI investment boom."
+        },
+        {
+          "zh": "Crescenzi讨论了围绕英伟达的相关影响。",
+          "en": "Crescenzi discussed the fallout surrounding Nvidia."
+        },
+        {
+          "zh": "Crescenzi还谈及美国经济前景。",
+          "en": "Crescenzi also addressed the outlook for the US economy."
+        },
+        {
+          "zh": "Crescenzi指出，更高的收益率正在为高质量公司债投资者创造机会。",
+          "en": "Crescenzi noted that higher yields are creating opportunities for investors in high-quality corporate bonds."
+        }
+      ],
+      "tags": [
+        "AI infrastructure",
+        "data centers",
+        "Nvidia",
+        "corporate bonds",
+        "US economy"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-al3FadNvi4",
+      "title": "The 1973 Oil Crisis Still Matters Today",
+      "title_zh": "新书《Embargo》回顾1973年石油危机，类比今日伊朗冲突与沙特经济转型",
+      "url": "https://www.youtube.com/watch?v=-al3FadNvi4",
+      "published_at": "2026-11-15T14:25:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "作者Philip Delves Broughton在Bloomberg This Weekend节目中讨论其新书《Embargo》，回顾1973年石油危机如何重塑沙特阿拉伯的经济与政治权力，并暴露全球对中东动荡的脆弱性。他并将当前伊朗冲突、美国介入委内瑞拉以及沙特持续推动经济多元化与这段历史进行类比。",
+      "summary_en": "Author Philip Delves Broughton discussed his new book \"Embargo\" on Bloomberg This Weekend, examining how the 1973 oil crisis transformed Saudi Arabia's economic and political power and exposed the world's vulnerability to Middle East turmoil. He drew parallels with today's Iran conflict, US involvement in Venezuela, and Saudi Arabia's ongoing efforts to diversify its economy beyond oil.",
+      "detail_zh": "在Bloomberg This Weekend节目中，作者Philip Delves Broughton与主持人David Gura和Christina Ruffini讨论了其新书《Embargo》。该书聚焦1973年石油危机，分析该事件如何改变沙特阿拉伯的经济和政治权力，并揭示全球面对中东动荡时的脆弱性。Delves Broughton还将这段历史与当今的伊朗冲突、美国在委内瑞拉的介入以及沙特阿拉伯持续推动经济多元化（摆脱对石油依赖）的努力进行类比。节目未提供具体的市场数据或投资建议。",
+      "detail_en": "On Bloomberg This Weekend, author Philip Delves Broughton spoke with hosts David Gura and Christina Ruffini about his new book \"Embargo.\" The book focuses on the 1973 oil crisis, analyzing how it transformed Saudi Arabia's economic and political power and exposed the world's vulnerability to turmoil in the Middle East. Delves Broughton also drew parallels between that history and today's Iran conflict, US involvement in Venezuela, and Saudi Arabia's continuing effort to diversify its economy beyond oil. The segment did not provide specific market data or investment recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "新书《Embargo》探讨1973年石油危机如何重塑沙特阿拉伯的经济与政治权力。",
+          "en": "The new book \"Embargo\" explores how the 1973 oil crisis reshaped Saudi Arabia's economic and political power."
+        },
+        {
+          "zh": "1973年危机暴露了全球对中东动荡的脆弱性。",
+          "en": "The 1973 crisis exposed the world's vulnerability to Middle East turmoil."
+        },
+        {
+          "zh": "作者将历史与当前伊朗冲突及美国介入委内瑞拉进行类比。",
+          "en": "The author draws parallels with today's Iran conflict and US involvement in Venezuela."
+        },
+        {
+          "zh": "沙特阿拉伯持续努力推动经济多元化，减少对石油的依赖。",
+          "en": "Saudi Arabia continues its effort to diversify its economy beyond oil."
+        }
+      ],
+      "tags": [
+        "oil crisis",
+        "Saudi Arabia",
+        "Iran conflict",
+        "Venezuela",
+        "economic diversification"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lmaz-aNBn_o",
+      "title": "Nvidia Crisis Reshapes Washington’s Tech Debate",
+      "title_zh": "英伟达危机引发两党对芯片出口管制的审视",
+      "url": "https://www.youtube.com/watch?v=lmaz-aNBn_o",
+      "published_at": "2026-11-15T14:08:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Veda Partners的Henrietta Treyz与《华盛顿邮报》国家安全记者Tara Copp在Bloomberg This Weekend节目中讨论，英伟达危机正推动两党对芯片出口管制进行审查，并引发对五角大楼依赖先进技术的国家安全担忧。双方还探讨了国会调查、更严格芯片限制的前景，以及FAA资金争斗和美国与伊朗冲突。",
+      "summary_en": "Veda Partners’ Henrietta Treyz and Washington Post national security reporter Tara Copp discussed on Bloomberg This Weekend how the Nvidia crisis is fueling bipartisan scrutiny of chip export controls and raising national security concerns about the Pentagon’s reliance on advanced technology. They also examined the prospects for congressional investigations and tighter chip restrictions, as well as funding battles over the FAA and the continuing US conflict with Iran.",
+      "detail_zh": "在Bloomberg This Weekend节目中，Veda Partners的Henrietta Treyz与《华盛顿邮报》国家安全记者Tara Copp表示，英伟达危机正在加剧两党对芯片出口管制的审查。她们指出，这一危机还引发了关于五角大楼依赖先进技术的国家安全担忧。讨论涉及国会调查的前景以及更严格芯片限制的可能性。此外，节目还谈及FAA的资金争斗以及美国与伊朗的持续冲突。",
+      "detail_en": "On Bloomberg This Weekend, Henrietta Treyz of Veda Partners and Washington Post national security reporter Tara Copp said the Nvidia crisis is intensifying bipartisan scrutiny of chip export controls. They noted that the crisis is also raising national security concerns about the Pentagon’s reliance on advanced technology. The discussion covered the prospects for congressional investigations and the possibility of tighter chip restrictions. The segment also touched on funding battles over the FAA and the continuing US conflict with Iran.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达危机正推动两党对芯片出口管制进行审查。",
+          "en": "The Nvidia crisis is fueling bipartisan scrutiny of chip export controls."
+        },
+        {
+          "zh": "危机引发了对五角大楼依赖先进技术的国家安全担忧。",
+          "en": "The crisis raises national security concerns about the Pentagon’s reliance on advanced technology."
+        },
+        {
+          "zh": "讨论了国会调查和更严格芯片限制的前景。",
+          "en": "Prospects for congressional investigations and tighter chip restrictions were discussed."
+        },
+        {
+          "zh": "节目还涉及FAA资金争斗和美国与伊朗的冲突。",
+          "en": "The segment also covered funding battles over the FAA and the US conflict with Iran."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "chip export controls",
+        "national security",
+        "congressional scrutiny"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:WkshUAwx3jk",
       "title": "Router Failure Exposes Risks in FAA Network",
@@ -17014,310 +17235,6 @@
         "policy",
         "affordability",
         "us politics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:cs3OyqbIMYo",
-      "title": "The AI Trade Is Cracking | Peter Boockvar on What to Own Instead",
-      "title_zh": "AI资本开支见顶担忧浮现，市场广度收窄",
-      "url": "https://www.youtube.com/watch?v=cs3OyqbIMYo",
-      "published_at": "2026-11-08T15:03:02+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "投资者开始定价AI资本开支见顶，数据中心建设放缓的迹象引发连锁担忧。半导体股6月见顶，CoreWeave因资本成本上升和信用违约互换利差扩大而股价下跌。市场广度全年狭窄，AI交易主导标普500表现，若AI资本开支放缓，经济可能面临衰退风险。",
-      "summary_en": "Investors are beginning to price in peak AI capex, with signs of slowing data center construction triggering cascading concerns. Semiconductor stocks peaked in June, and CoreWeave fell as cost of capital rose and credit default swaps blew out. Market breadth has been narrow all year, with the AI trade dominating S&P 500 performance; without it, the US economy would likely be in recession.",
-      "detail_zh": "基金经理Peter Boockvar（BFG Wealth Partners首席投资官）指出，股市定价的是变化率，投资者现在开始定价AI资本开支的峰值。他提到，过去三个月频繁听到以6倍市盈率交易的美光很便宜的说法，但他认为这令人震惊，因为AI交易几乎占标普500的一半。AI经济贡献可分为几个层面：数据中心的物理建设、模型制造商（如Anthropic和OpenAI）租赁算力、以及超大规模云厂商提供云服务托管模型。近期担忧始于物理建设层面：海外多家公司（FMIS、AirTrunk、NextDC、Endscale）的IPO被取消或投资者对估值提出反对；半导体股在6月见顶；CoreWeave因资本成本上升、债券抛售和信用违约互换利差扩大而股价下跌，引发对其债务和盈利能力的质疑。选举周后，新州长们可能对数据中心建设施加限制或设置参数，投资者开始质疑未来一两年 gigawatt 产能能否建成。若建设放缓，将波及水泥、钢铁、铝、HVAC、开关、电气设备及电工等整个供应链。周三选举后，建设相关股票下跌而超大规模厂商上涨，因市场认为建设减少意味着资本开支减少，但Boockvar认为这一前提有误，周四市场反转，因为云业务依赖更多设施建设。市场广度全年非常狭窄，呈现要么AI要么其他的二元格局，经济也类似；若没有AI交易和股市带动的上层收入消费，美国经济可能已陷入衰退。",
-      "detail_en": "Portfolio manager Peter Boockvar (CIO at BFG Wealth Partners) noted that stocks price in rate of change, and investors are now beginning to price in peak AI capex. He said he frequently heard over the past three months how cheap Micron was at six times earnings, which he found astonishing, as the AI trade is essentially half of the S&P 500. The AI economic contribution breaks into several layers: physical construction of data centers, model makers like Anthropic and OpenAI leasing computing capacity, and hyperscalers providing cloud services to host models. Recent concerns start with physical construction: overseas, IPOs from FMIS, AirTrunk, NextDC, and Endscale were canceled or investors pushed back on valuations; semiconductor stocks peaked in June; CoreWeave fell as cost of capital rose, bonds sold off, and credit default swaps blew out, raising questions about its debt and profitability. After election week, new governorships in certain states may impose restrictions or parameters on data center construction, leading investors to question whether the hoped-for gigawatt capacity will be built in the next year or two. A slowdown in construction would cascade to suppliers of cement, steel, aluminum, HVAC, switches, electrical equipment, and electricians. On Wednesday after the election, construction-related stocks sold off while hyperscalers rallied on the premise that less construction means less capex, but Boockvar called that premise faulty; Thursday reversed as cloud businesses depend on more facilities being built. Market breadth has been very narrow all year, an either-or market where either AI works and nothing else does, or when AI falters everything else works. The economy is similarly mixed; without the AI trade and upper-income spending fueled by the stock market, the US economy would probably be in a recession.",
-      "conclusion_zh": "AI资本开支见顶的定价可能刚刚开始，关注数据中心建设放缓对供应链和整体经济的连锁影响，以及市场广度狭窄带来的脆弱性。",
-      "conclusion_en": "The pricing of peak AI capex may be just beginning; watch for cascading effects of a data center construction slowdown on supply chains and the broader economy, as well as vulnerabilities from narrow market breadth.",
-      "key_points": [
-        {
-          "zh": "投资者开始定价AI资本开支见顶，半导体股6月见顶，CoreWeave因资本成本上升和信用违约互换利差扩大而下跌。",
-          "en": "Investors are beginning to price in peak AI capex; semiconductor stocks peaked in June, and CoreWeave fell as cost of capital rose and credit default swaps blew out."
-        },
-        {
-          "zh": "数据中心建设面临州级限制风险，若建设放缓将波及水泥、钢铁、铝、HVAC、电气设备等整个供应链。",
-          "en": "Data center construction faces risk of state-level restrictions; a slowdown would cascade to cement, steel, aluminum, HVAC, and electrical equipment suppliers."
-        },
-        {
-          "zh": "市场广度全年狭窄，AI交易主导标普500表现，呈现要么AI要么其他的二元格局。",
-          "en": "Market breadth has been narrow all year, with the AI trade dominating S&P 500 performance in an either-or market."
-        },
-        {
-          "zh": "Boockvar认为，若没有AI交易和股市带动的上层收入消费，美国经济可能已陷入衰退。",
-          "en": "Boockvar believes that without the AI trade and upper-income spending fueled by the stock market, the US economy would probably be in a recession."
-        }
-      ],
-      "tags": [
-        "AI capex",
-        "data center",
-        "market breadth",
-        "semiconductors",
-        "CoreWeave"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:t3SQuefcLB4",
-      "title": "Can Europe Afford Its Welfare State?",
-      "title_zh": "欧洲老龄化压力冲击福利制度与公共财政",
-      "url": "https://www.youtube.com/watch?v=t3SQuefcLB4",
-      "published_at": "2026-11-08T15:00:05+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "欧洲战后福利国家建立在年轻且增长的人口基础上，如今老龄化社区正给养老金、医疗和公共财政带来日益沉重的压力。各国政府同时试图为国防、基础设施和教育提供资金，关于谁买单的争论正蔓延至政治和街头。",
-      "summary_en": "Europe's postwar welfare state was built for a younger, growing population. Today, aging communities are putting pensions, health care and public finances under mounting strain. As governments try to fund defense, infrastructure and education at the same time, the fight over who pays is spilling into politics and the streets.",
-      "detail_zh": "原文指出，欧洲战后福利国家是为更年轻、增长的人口设计的。当前老龄化社区正对养老金、医疗保健和公共财政造成越来越大的压力。政府同时试图为国防、基础设施和教育提供资金，导致关于谁承担成本的争论蔓延到政治领域和街头。原文未提供具体数字或国别细节。",
-      "detail_en": "The original text states that Europe's postwar welfare state was built for a younger, growing population. Today, aging communities are putting pensions, health care and public finances under mounting strain. As governments try to fund defense, infrastructure and education at the same time, the fight over who pays is spilling into politics and the streets. No specific figures or country details are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "欧洲福利国家基于年轻增长人口设计，现已不适应老龄化社会。",
-          "en": "Europe's welfare state was designed for a younger, growing population and is now ill-suited to an aging society."
-        },
-        {
-          "zh": "老龄化正加剧养老金、医疗和公共财政的压力。",
-          "en": "Aging is intensifying pressure on pensions, health care, and public finances."
-        },
-        {
-          "zh": "政府同时面临国防、基础设施和教育支出需求。",
-          "en": "Governments simultaneously face spending demands for defense, infrastructure, and education."
-        },
-        {
-          "zh": "关于成本分担的争论正蔓延至政治和街头。",
-          "en": "The debate over who bears the costs is spilling into politics and the streets."
-        }
-      ],
-      "tags": [
-        "Europe",
-        "welfare state",
-        "aging population",
-        "public finances",
-        "fiscal pressure"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:6l9ny1JXyxs",
-      "title": "New House Democrats Set Their Priorities",
-      "title_zh": "民主党新当选众议员称选民授权聚焦可负担性、医疗与政府问责",
-      "url": "https://www.youtube.com/watch?v=6l9ny1JXyxs",
-      "published_at": "2026-11-08T14:56:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在彭博周末节目中，北卡罗来纳州和弗吉尼亚州新当选的民主党众议员表示，选民赋予他们解决生活成本、医疗和政府问责的使命，并讨论了跨党派合作、恢复国会权威以及回应关税、数据中心等关切。",
-      "summary_en": "On Bloomberg This Weekend, Democratic Reps.-elect from North Carolina and Virginia said voters sent them to Washington with a mandate to address affordability, health care and government accountability, discussing bipartisan work, restoring congressional authority and concerns about tariffs and data centers.",
-      "detail_zh": "在彭博周末节目中，北卡罗来纳州新当选民主党众议员保罗·巴林杰和弗吉尼亚州新当选民主党众议员香农·泰勒表示，选民赋予他们解决可负担性、医疗和政府问责的使命。他们与主持人戴维·古拉和克里斯蒂娜·鲁菲尼讨论了跨党派合作、恢复国会权威，以及回应关于关税、数据中心和生活成本的关切。",
-      "detail_en": "On Bloomberg This Weekend, Democratic Reps.-elect Paul Barringer of North Carolina and Shannon Taylor of Virginia said voters sent them to Washington with a mandate to address affordability, health care and government accountability. Speaking with hosts David Gura and Christina Ruffini, they discussed working across the aisle, restoring congressional authority and responding to concerns about tariffs, data centers and the cost of living.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "新当选民主党众议员称选民授权聚焦可负担性、医疗和政府问责。",
-          "en": "Democratic Reps.-elect say voters gave them a mandate on affordability, health care and government accountability."
-        },
-        {
-          "zh": "他们讨论了跨党派合作和恢复国会权威。",
-          "en": "They discussed working across the aisle and restoring congressional authority."
-        },
-        {
-          "zh": "他们回应了关于关税、数据中心和生活成本的关切。",
-          "en": "They addressed concerns about tariffs, data centers and the cost of living."
-        }
-      ],
-      "tags": [
-        "US politics",
-        "affordability",
-        "health care",
-        "tariffs",
-        "data centers"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:GDJ1vdB4uGU",
-      "title": "Luxury Gyms Turn Fitness Into a Family Affair",
-      "title_zh": "高端健身俱乐部以家庭服务吸引家长，月费可达千美元以上",
-      "url": "https://www.youtube.com/watch?v=GDJ1vdB4uGU",
-      "published_at": "2026-11-08T14:39:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博Pursuits作者Hannah Howard在Bloomberg This Weekend节目中介绍，高端健身俱乐部正通过提供儿童看护、游泳课、作业辅导及大龄儿童活动等服务来吸引家庭客户。家长愿意为这种将健身、活动和家庭时光结合在同一场所的俱乐部支付每月数百甚至超过1000美元的费用。",
-      "summary_en": "Bloomberg Pursuits writer Hannah Howard explained on Bloomberg This Weekend how high-end fitness clubs are courting families with services ranging from child care and swimming lessons to homework help and activities for older kids. Parents are willing to pay hundreds or even more than $1,000 a month for clubs that combine workouts, activities and family time under one roof.",
-      "detail_zh": "在Bloomberg This Weekend节目中，Bloomberg Pursuits撰稿人Hannah Howard向主持人David Gura和Christina Ruffini介绍了高端健身俱乐部吸引家庭客户的策略。这些俱乐部提供的服务包括儿童看护、游泳课程、作业辅导以及针对大龄儿童的活动。Howard指出，家长愿意为将健身、活动和家庭时光结合在同一场所的俱乐部支付每月数百美元甚至超过1000美元的费用。该讨论聚焦于消费趋势，未涉及具体公司财务数据或美股投资标的。",
-      "detail_en": "On Bloomberg This Weekend, Bloomberg Pursuits writer Hannah Howard spoke with hosts David Gura and Christina Ruffini about how high-end fitness clubs are courting families. The clubs offer services including child care, swimming lessons, homework help and activities for older kids. Howard noted that parents are willing to pay hundreds or even more than $1,000 a month for clubs that combine workouts, activities and family time under one roof. The discussion focused on a consumer trend and did not include specific company financials or US equity investment targets.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "高端健身俱乐部通过儿童看护、游泳课、作业辅导等服务吸引家庭客户。",
-          "en": "High-end fitness clubs are attracting families with services such as child care, swimming lessons and homework help."
-        },
-        {
-          "zh": "家长愿意为整合健身、活动和家庭时光的俱乐部支付每月数百至超过1000美元。",
-          "en": "Parents are willing to pay hundreds or even more than $1,000 a month for clubs that integrate workouts, activities and family time."
-        },
-        {
-          "zh": "该内容来自Bloomberg This Weekend节目，由Pursuits撰稿人Hannah Howard与主持人David Gura和Christina Ruffini讨论。",
-          "en": "The content comes from Bloomberg This Weekend, discussed by Pursuits writer Hannah Howard with hosts David Gura and Christina Ruffini."
-        }
-      ],
-      "tags": [
-        "fitness clubs",
-        "consumer trends",
-        "family services",
-        "premium pricing"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Q5Fv_GijVdQ",
-      "title": "Seattle and Las Vegas Make Their NBA Pitch",
-      "title_zh": "彭博周末节目：NBA扩军至西雅图与拉斯维加斯或带来数十亿美元收入",
-      "url": "https://www.youtube.com/watch?v=Q5Fv_GijVdQ",
-      "published_at": "2026-11-08T14:26:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博资深体育记者Randall Williams在Bloomberg This Weekend节目中解释，NBA可能扩军至西雅图和拉斯维加斯，或带来数十亿美元收入，但也引发现有球队老板财务回报的疑问。Williams还讨论了潜在所有权集团的竞争、LIV Golf的困境以及威胁美国职业棒球大联盟下赛季的劳资斗争。",
-      "summary_en": "Bloomberg senior sports reporter Randall Williams explained on Bloomberg This Weekend that the NBA's potential expansion to Seattle and Las Vegas could generate billions of dollars while raising questions about financial returns for existing owners. Williams also discussed competition among prospective ownership groups, LIV Golf's struggles, and the labor battle threatening Major League Baseball's next season.",
-      "detail_zh": "在Bloomberg This Weekend节目中，彭博资深体育记者Randall Williams向主持人David Gura和Christina Ruffini解释了NBA可能扩军至西雅图和拉斯维加斯的前景。Williams指出，这一扩军可能带来数十亿美元的收入，但同时也会引发关于现有球队老板财务回报的疑问。他还分析了潜在所有权集团之间的竞争。此外，Williams讨论了LIV Golf面临的困境，以及威胁美国职业棒球大联盟下赛季的劳资斗争。",
-      "detail_en": "On Bloomberg This Weekend, Bloomberg senior sports reporter Randall Williams explained to hosts David Gura and Christina Ruffini the prospect of the NBA's potential expansion to Seattle and Las Vegas. Williams noted that the expansion could generate billions of dollars while raising questions about the financial returns for existing owners. He also examined the competition among prospective ownership groups. Additionally, Williams discussed LIV Golf's struggles and the labor battle threatening Major League Baseball's next season.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "NBA可能扩军至西雅图和拉斯维加斯，或带来数十亿美元收入。",
-          "en": "The NBA's potential expansion to Seattle and Las Vegas could generate billions of dollars."
-        },
-        {
-          "zh": "扩军引发对现有球队老板财务回报的疑问。",
-          "en": "The expansion raises questions about the financial returns for existing owners."
-        },
-        {
-          "zh": "潜在所有权集团之间存在竞争。",
-          "en": "There is competition among prospective ownership groups."
-        },
-        {
-          "zh": "LIV Golf面临困境。",
-          "en": "LIV Golf is struggling."
-        },
-        {
-          "zh": "劳资斗争威胁美国职业棒球大联盟下赛季。",
-          "en": "A labor battle is threatening Major League Baseball's next season."
-        }
-      ],
-      "tags": [
-        "NBA expansion",
-        "sports business",
-        "LIV Golf",
-        "MLB labor"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:LN828h0Y5LE",
-      "title": "Voters Put the AI Data Center Boom on Notice",
-      "title_zh": "选民反弹或冲击AI数据中心建设",
-      "url": "https://www.youtube.com/watch?v=LN828h0Y5LE",
-      "published_at": "2026-11-08T14:26:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博科技记者Brody Ford在Bloomberg This Weekend节目中表示，选民对数据中心的反弹可能扰乱支撑AI热潮的基础设施快速建设。他讨论了高负债AI公司面临的风险，以及新当选官员更强硬的承诺是否会转化为对开发的实质性限制。",
-      "summary_en": "Bloomberg tech reporter Brody Ford said on Bloomberg This Weekend that voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. He discussed risks for heavily indebted AI companies and whether tougher promises from newly elected officials will translate into meaningful restrictions on development.",
-      "detail_zh": "彭博科技记者Brody Ford在Bloomberg This Weekend节目中，向主持人David Gura和Christina Ruffini阐述了选民对数据中心的反弹可能如何扰乱AI热潮所依赖的基础设施快速建设。Ford讨论了高负债AI公司面临的风险。他还探讨了新当选官员更强硬的承诺是否会转化为对数据中心开发的实质性限制。节目未提供具体数据、公司名称或政策细节。",
-      "detail_en": "Bloomberg tech reporter Brody Ford appeared on Bloomberg This Weekend with hosts David Gura and Christina Ruffini to explain how voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. Ford discussed the risks for heavily indebted AI companies. He also explored whether tougher promises from newly elected officials will translate into meaningful restrictions on development. No specific figures, company names, or policy details were provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "选民对数据中心的反弹可能扰乱AI基础设施的快速建设",
-          "en": "Voter backlash against data centers could disrupt the rapid buildout of AI infrastructure"
-        },
-        {
-          "zh": "高负债AI公司面临风险",
-          "en": "Heavily indebted AI companies face risks"
-        },
-        {
-          "zh": "新当选官员的强硬承诺是否会转化为实质性开发限制尚待观察",
-          "en": "Whether tougher promises from newly elected officials will translate into meaningful restrictions on development remains to be seen"
-        }
-      ],
-      "tags": [
-        "AI infrastructure",
-        "data centers",
-        "voter backlash",
-        "regulation"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:AQqCGMZAMQQ",
-      "title": "Ukraine Peace Push Returns to Abu Dhabi",
-      "title_zh": "美乌俄代表团将于阿布扎比会谈，讨论俄乌战争谈判",
-      "url": "https://www.youtube.com/watch?v=AQqCGMZAMQQ",
-      "published_at": "2026-11-08T14:23:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国、乌克兰和俄罗斯代表团计划于11月10日至11日 在阿布扎比会面，美方预计由Steve Witkoff和Jared Kushner代表。前副国务卿Stephen Biegun在彭博节目中讨论了民主党控制的国会可能如何加强对特朗普外交政策的审查，同时美国正重启结束俄乌战争的谈判努力。",
-      "summary_en": "US, Ukrainian and Russian delegations are scheduled to meet in Abu Dhabi on November 10-11, with Steve Witkoff and Jared Kushner expected to represent the US. Former Deputy Secretary of State Stephen Biegun discussed on Bloomberg This Weekend how a Democratic-controlled Congress could bring greater scrutiny to President Donald Trump's foreign policy as the US renews efforts to negotiate an end to Russia's war in Ukraine.",
-      "detail_zh": "美国、乌克兰和俄罗斯代表团定于11月10日和11日在阿布扎比举行会谈，美方预计由Steve Witkoff和Jared Kushner代表出席。前副国务卿Stephen Biegun在Bloomberg This Weekend节目中讨论了民主党控制的国会可能如何加强对特朗普总统外交政策的审查。与此同时，美国正重新努力推动谈判，以结束俄罗斯在乌克兰的战争。节目内容未提供更多关于谈判目标、条件或预期结果的细节。",
-      "detail_en": "US, Ukrainian and Russian delegations are scheduled to meet in Abu Dhabi on November 10th and 11th, with Steve Witkoff and Jared Kushner expected to represent the US. Former Deputy Secretary of State Stephen Biegun discussed on Bloomberg This Weekend how a Democratic-controlled Congress could bring greater scrutiny to President Donald Trump's foreign policy. The US is renewing efforts to negotiate an end to Russia's war in Ukraine. The segment did not provide further details on negotiation goals, conditions, or expected outcomes.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美乌俄代表团计划于11月10日至11日在阿布扎比举行会谈。",
-          "en": "US, Ukrainian and Russian delegations are scheduled to meet in Abu Dhabi on November 10-11."
-        },
-        {
-          "zh": "美方预计由Steve Witkoff和Jared Kushner代表出席。",
-          "en": "Steve Witkoff and Jared Kushner are expected to represent the US."
-        },
-        {
-          "zh": "前副国务卿Stephen Biegun讨论了民主党控制的国会可能加强对特朗普外交政策的审查。",
-          "en": "Former Deputy Secretary of State Stephen Biegun discussed how a Democratic-controlled Congress could bring greater scrutiny to Trump's foreign policy."
-        },
-        {
-          "zh": "美国正重新努力谈判结束俄乌战争。",
-          "en": "The US is renewing efforts to negotiate an end to Russia's war in Ukraine."
-        }
-      ],
-      "tags": [
-        "Russia-Ukraine",
-        "diplomacy",
-        "Congress",
-        "Trump foreign policy"
       ],
       "tickers": [],
       "sentiment": "neutral"
