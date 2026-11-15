@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-11-15T13:11:12.627429+00:00",
+  "generated_at": "2026-11-15T14:11:34.378041+00:00",
   "insights": [
+    {
+      "guid": "yt:WkshUAwx3jk",
+      "title": "Router Failure Exposes Risks in FAA Network",
+      "title_zh": "FAA全国停飞事件：路由器故障暴露老化电信网络风险",
+      "url": "https://www.youtube.com/watch?v=WkshUAwx3jk",
+      "published_at": "2026-11-15T13:27:16+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前TSA局长、FBI副局长John Pistole在Bloomberg This Weekend节目中讨论了FAA全国停飞事件，指出路由器故障暴露了该机构老化电信网络的脆弱性。Pistole强调了增加冗余的必要性，并对承包商L3Harris及系统能否在感恩节出行高峰前承受另一次中断表示担忧。",
+      "summary_en": "Former TSA Administrator and FBI Deputy Director John Pistole discussed the nationwide FAA ground stop on Bloomberg This Weekend, highlighting vulnerabilities exposed by a router failure in the agency's aging telecommunications network. Pistole emphasized the need for greater redundancy and raised concerns about contractor L3Harris and whether the system can withstand another disruption ahead of Thanksgiving travel.",
+      "detail_zh": "前TSA局长兼FBI副局长John Pistole做客Bloomberg This Weekend节目，与主持人David Gura和Christina Ruffini讨论了FAA全国停飞事件。该事件由FAA老化电信网络施工期间的路由器故障引发，暴露了系统脆弱性。Pistole分析了增加冗余的必要性，并对承包商L3Harris提出疑问。他还表达了对系统能否在感恩节出行高峰临近时承受另一次中断的担忧。",
+      "detail_en": "Former TSA Administrator and FBI Deputy Director John Pistole appeared on Bloomberg This Weekend with hosts David Gura and Christina Ruffini to discuss the nationwide FAA ground stop. The incident was triggered by a router failure during work on the agency's aging telecommunications network, exposing system vulnerabilities. Pistole examined the need for greater redundancy and raised questions surrounding contractor L3Harris. He also expressed concerns about whether the system can withstand another disruption as Thanksgiving travel approaches.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "FAA全国停飞由老化电信网络施工中的路由器故障引发。",
+          "en": "The nationwide FAA ground stop was triggered by a router failure during work on the agency's aging telecommunications network."
+        },
+        {
+          "zh": "Pistole强调需要增加系统冗余以防范类似中断。",
+          "en": "Pistole emphasized the need for greater redundancy to prevent similar disruptions."
+        },
+        {
+          "zh": "Pistole对承包商L3Harris的作用提出疑问。",
+          "en": "Pistole raised questions surrounding contractor L3Harris."
+        },
+        {
+          "zh": "Pistole担忧系统能否在感恩节出行高峰前承受另一次中断。",
+          "en": "Pistole expressed concerns about whether the system can withstand another disruption ahead of Thanksgiving travel."
+        }
+      ],
+      "tags": [
+        "FAA",
+        "ground stop",
+        "infrastructure",
+        "L3Harris",
+        "redundancy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Rj-Yu4DhqZQ",
+      "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
+      "title_zh": "Anthropic拟以约1.4万亿美元估值IPO，或成纪录级上市",
+      "url": "https://www.youtube.com/watch?v=Rj-Yu4DhqZQ",
+      "published_at": "2026-11-15T13:15:45+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博报道，Anthropic正推进可能创纪录的IPO，目标估值约1.4万亿美元，市场关注投资者需求与算力成本。节目同时讨论英伟达在黄仁勋离职后的动荡如何改变AI投资与计算能力的前景，以及Anthropic上市对OpenAI和更广泛AI交易的信号意义。",
+      "summary_en": "Bloomberg reports that Anthropic is pursuing a potentially record-setting IPO with a targeted valuation of roughly $1.4 trillion, focusing on investor demand and compute costs. The discussion also examines how Nvidia's upheaval following Jensen Huang's departure is changing the outlook for AI investment and computing capacity, and what Anthropic's market debut could signal for OpenAI and the broader AI trade.",
+      "detail_zh": "彭博新闻资深股票记者Bailey Lipschultz与彭博行业研究的Mandeep Singh在Bloomberg This Weekend节目中讨论了Anthropic可能创纪录的IPO。据节目内容，Anthropic的目标估值约为1.4万亿美元，讨论涉及投资者需求与算力成本。节目还聚焦英伟达在黄仁勋离职后出现的动荡，以及这一变化如何影响AI投资与计算能力的前景。两位嘉宾还探讨了Anthropic的市场首秀可能对OpenAI及更广泛AI交易释放何种信号。",
+      "detail_en": "Bloomberg News senior equities reporter Bailey Lipschultz and Bloomberg Intelligence's Mandeep Singh discussed Anthropic's potentially record-setting IPO on Bloomberg This Weekend. According to the segment, Anthropic has a targeted valuation of roughly $1.4 trillion, with discussion covering investor demand and compute costs. The program also focused on Nvidia's upheaval following Jensen Huang's departure and how that is changing the outlook for AI investment and computing capacity. The guests also explored what Anthropic's market debut could signal for OpenAI and the broader AI trade.",
+      "conclusion_zh": "Anthropic的巨型IPO与英伟达管理层变动是当前AI交易的两大关键变量，值得关注其对AI投资情绪与算力预期的传导。",
+      "conclusion_en": "Anthropic's mega-IPO and Nvidia's management change are two key variables for the AI trade, worth watching for their impact on AI investment sentiment and compute expectations.",
+      "key_points": [
+        {
+          "zh": "Anthropic正推进可能创纪录的IPO，目标估值约1.4万亿美元。",
+          "en": "Anthropic is pursuing a potentially record-setting IPO with a targeted valuation of roughly $1.4 trillion."
+        },
+        {
+          "zh": "讨论涉及投资者需求与算力成本。",
+          "en": "The discussion covers investor demand and compute costs."
+        },
+        {
+          "zh": "英伟达在黄仁勋离职后出现动荡，AI投资与计算能力前景受到影响。",
+          "en": "Nvidia's upheaval following Jensen Huang's departure is changing the outlook for AI investment and computing capacity."
+        },
+        {
+          "zh": "Anthropic的上市可能对OpenAI和更广泛AI交易产生信号意义。",
+          "en": "Anthropic's market debut could signal something for OpenAI and the broader AI trade."
+        }
+      ],
+      "tags": [
+        "Anthropic IPO",
+        "Nvidia",
+        "AI investment",
+        "compute costs",
+        "OpenAI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:j6Lfo8LThtk",
       "title": "Can America’s Next Jobs Boom Build a Middle-Class Life?",
@@ -17228,96 +17318,6 @@
         "diplomacy",
         "Congress",
         "Trump foreign policy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:hqOKMdbUaKk",
-      "title": "A Treasury Crisis Could Force the Fed’s Hand w/ Cem Karsan and Ash Bennington",
-      "title_zh": "Jim Carson：美联储政策是“政治剧场”，QE将回归以压低长端收益率",
-      "url": "https://www.youtube.com/watch?v=hqOKMdbUaKk",
-      "published_at": "2026-11-08T14:00:33+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "Kai Wealth创始人Jim Carson认为，美联储主席Warsh的鹰派姿态旨在建立 credibility，实为政治剧场；他预计Q1将出现大规模“印钞”以压低长端收益率，并认为12月不会再加息，甚至可能转向降息。",
-      "summary_en": "Jim Carson, founder of Kai Wealth, argues that Fed Chair Warsh's hawkish stance is aimed at building credibility and is essentially political theater. He expects massive money printing in Q1 to cap long-end yields, and believes the Fed will not deliver another 25bp hike in December, with cuts potentially following.",
-      "detail_zh": "Carson指出，Warsh上任后的首要目标是为自己和美联储建立可信度。他认为美联储在Jackson Hole突然转鹰、预测加息75个基点，但随后又无所作为，这一过程缺乏市场变化支撑，本质是“政治剧场”。他强调，结构性通胀、经济状况等基本面并未改变，美联储的鹰派表态只是“口头服务”，实际并未行动。Carson预计，2026年Q1将出现大规模“印钞”，即通过类似QE的工具压低长端收益率，因为长端债券缺乏买家，美联储必须成为最后买家。他引用Hank Paulson在4月Bloomberg采访中的警告——美国国债危机即将到来，需要准备相应工具——并提及政府已通过《战略贷款比率法案》（1月1日生效）和《稳定币法案》，显示当局意识到长端压力。Carson认为，Warsh与政府关系密切（是特朗普好友的女婿，与Bessent在Druckenmiller旗下共事），因此美联储与政府之间没有隔阂，美联储最终服务于美国政府的目标。他判断，12月不会再加息25个基点，市场会像之前一样消化掉这一预期，最终美联储会在下一次议息会议前转向降息。",
-      "detail_en": "Carson states that Warsh's primary goal since taking office is to build credibility for himself and the Fed. He points out that the Fed's sudden hawkish pivot at Jackson Hole, predicting 75bp of hikes, followed by inaction, lacked market justification and was essentially 'political theater.' He emphasizes that structural inflation and the economy have not changed, and the hawkish rhetoric is merely 'lip service' with no real action. Carson expects massive money printing in Q1 2026, essentially QE-like facilities to hold down the long end of the curve, because there are no buyers for US bonds and the Fed must be the buyer of last resort. He cites Hank Paulson's April Bloomberg interview warning of a coming Treasury crisis and the need to prepare facilities, and notes the administration passed the Strategic Loan Ratio Act (effective Jan 1) and the Stable Coin Act, indicating awareness of long-end pressures. Carson argues that Warsh is closely connected to the administration (son-in-law of Trump's best friend, worked under Druckenmiller with Bessent), so there is no air between the Fed and the administration, and the Fed ultimately serves US government objectives. He concludes that the Fed will not deliver another 25bp hike in December, the market will price it out, and ultimately the Fed will cut before the next meeting.",
-      "conclusion_zh": "Carson认为美联储的鹰派信号是政治表演，投资者应关注长端收益率和QE回归的风险，而非短期加息噪音。",
-      "conclusion_en": "Carson views the Fed's hawkish signals as political theater; investors should focus on long-end yields and the risk of QE's return rather than short-term hike noise.",
-      "key_points": [
-        {
-          "zh": "Warsh的鹰派姿态旨在建立可信度，实为政治剧场，基本面未变。",
-          "en": "Warsh's hawkish stance is aimed at building credibility and is political theater; fundamentals haven't changed."
-        },
-        {
-          "zh": "预计Q1将出现大规模“印钞”（类似QE）以压低长端收益率，因长端债券缺乏买家。",
-          "en": "Expects massive money printing (QE-like) in Q1 to cap long-end yields, as there are no buyers for long bonds."
-        },
-        {
-          "zh": "引用Hank Paulson警告：美国国债危机即将到来，需准备应对工具。",
-          "en": "Cites Hank Paulson's warning of a coming Treasury crisis and the need to prepare facilities."
-        },
-        {
-          "zh": "Warsh与政府关系密切，美联储最终服务于美国政府目标。",
-          "en": "Warsh is closely connected to the administration; the Fed ultimately serves US government objectives."
-        },
-        {
-          "zh": "12月不会再加息25个基点，市场将消化预期，最终转向降息。",
-          "en": "No further 25bp hike in December; market will price it out, and cuts will eventually follow."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "QE",
-        "Treasury",
-        "inflation",
-        "Warsh"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:HFJ3vDEsmVE",
-      "title": "How Everyday Apps Feed Police Surveillance",
-      "title_zh": "彭博调查记者：手机位置数据被售予执法机构，引发隐私监管呼声",
-      "url": "https://www.youtube.com/watch?v=HFJ3vDEsmVE",
-      "published_at": "2026-11-08T13:18:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博调查记者Ryan Gallagher在Bloomberg This Weekend节目中披露，通过日常智能手机应用收集的位置数据可被出售给执法机构，用户往往不知情。Gallagher详述了Penlink的监控技术如何利用商业获取的数据追踪手机，并指出其使用已引发加强隐私保护和监管的呼声。",
-      "summary_en": "Bloomberg investigative journalist Ryan Gallagher explained on Bloomberg This Weekend how location data collected through everyday smartphone apps can be sold to law enforcement agencies, often without users' knowledge. Gallagher detailed how Penlink's surveillance technology can track phones using commercially obtained data, and why its use has fueled calls for greater privacy protections and oversight.",
-      "detail_zh": "在Bloomberg This Weekend节目中，彭博调查记者Ryan Gallagher向主持人David Gura和Christina Ruffini解释了日常智能手机应用收集的位置数据如何最终被出售给执法机构。Gallagher指出，用户通常不知道自己的信息最终流向何处。他详细说明了Penlink的监控技术能够利用商业获取的数据追踪手机。Gallagher还提到，这种技术的使用已引发加强隐私保护和监管的呼声。节目内容聚焦于数据隐私与监控技术，未涉及金融市场或投资观点。",
-      "detail_en": "On Bloomberg This Weekend, Bloomberg investigative journalist Ryan Gallagher explained to hosts David Gura and Christina Ruffini how location data collected through everyday smartphone apps can ultimately be sold to law enforcement agencies. Gallagher noted that users often do not know where their information ends up. He detailed how Penlink's surveillance technology can track phones using commercially obtained data. Gallagher also mentioned that the use of this technology has fueled calls for greater privacy protections and oversight. The segment focused on data privacy and surveillance technology, without discussing financial markets or investment views.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "日常智能手机应用收集的位置数据可被出售给执法机构，用户往往不知情。",
-          "en": "Location data collected by everyday smartphone apps can be sold to law enforcement agencies, often without users' knowledge."
-        },
-        {
-          "zh": "Penlink的监控技术能利用商业获取的数据追踪手机。",
-          "en": "Penlink's surveillance technology can track phones using commercially obtained data."
-        },
-        {
-          "zh": "该技术的使用已引发加强隐私保护和监管的呼声。",
-          "en": "The use of this technology has fueled calls for greater privacy protections and oversight."
-        }
-      ],
-      "tags": [
-        "data privacy",
-        "surveillance",
-        "location data",
-        "law enforcement"
       ],
       "tickers": [],
       "sentiment": "neutral"
