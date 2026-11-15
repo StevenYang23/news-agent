@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-15T16:13:10.206568+00:00",
+  "generated_at": "2026-11-15T17:10:24.920178+00:00",
   "insights": [
+    {
+      "guid": "yt:PNMBn-tPLIM",
+      "title": "Nvidia Fallout, FAA Router Failure, Next Mega IPO",
+      "title_zh": "彭博周末节目：英伟达丑闻致股价周跌12%，Anthropic将登陆纳斯达克",
+      "url": "https://www.youtube.com/watch?v=PNMBn-tPLIM",
+      "published_at": "2026-11-15T16:52:02+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期彭博周末节目涵盖多项市场议题：英伟达丑闻导致其股价本周暴跌12%，并可能盖过特朗普亚洲之行；Anthropic将于周四在纳斯达克首秀；雪佛龙考虑提高委内瑞拉产量；数据中心投资焦虑延续至2027年。",
+      "summary_en": "This Bloomberg This Weekend episode covers key market topics: the Nvidia scandal sent its shares plunging 12% this week and is likely to overshadow Trump's Asia trip; Anthropic is set to debut on Nasdaq Thursday; Chevron is looking at increasing production in Venezuela; and data center investment anxiety is growing into 2027.",
+      "detail_zh": "节目章节显示，英伟达丑闻成为本周焦点，其股价本周下跌12%，并有议员呼吁对英伟达展开调查，该事件可能盖过特朗普的亚洲之行。Anthropic计划于周四在纳斯达克首次亮相。雪佛龙正考虑提高在委内瑞拉的产量。投资者正在评估中期选举后的投资组合影响，同时数据中心投资焦虑正延续至2027年。此外，节目还讨论了1973年石油禁运与当前危机的对比、FAA将电信故障追溯至两个农村站点、以及Duffy将向国会申请300亿美元用于空中交通管制等话题。",
+      "detail_en": "The episode chapters show the Nvidia scandal as the week's focus, with its shares plunging 12% this week and lawmakers calling for investigations into Nvidia; the scandal is likely to overshadow Trump's Asia trip. Anthropic is set to debut on Nasdaq on Thursday. Chevron is looking at increasing production in Venezuela. Investors are weighing portfolio impact post-midterm, while data center investment anxiety is growing into 2027. Other topics include how the 1973 oil embargo compares to the current crisis, the FAA tracing a telecom failure to two rural sites, and Duffy to request $30 billion from Congress for air traffic control.",
+      "conclusion_zh": "英伟达丑闻短期内对其股价构成压力，并引发监管关注；Anthropic上市及数据中心投资焦虑值得关注。",
+      "conclusion_en": "The Nvidia scandal pressures its shares in the near term and draws regulatory attention; Anthropic's listing and data center investment anxiety are worth watching.",
+      "key_points": [
+        {
+          "zh": "英伟达丑闻导致其股价本周暴跌12%，并可能盖过特朗普亚洲之行。",
+          "en": "The Nvidia scandal sent its shares plunging 12% this week and is likely to overshadow Trump's Asia trip."
+        },
+        {
+          "zh": "Anthropic将于周四在纳斯达克首次亮相。",
+          "en": "Anthropic is set to debut on Nasdaq on Thursday."
+        },
+        {
+          "zh": "雪佛龙正考虑提高在委内瑞拉的产量。",
+          "en": "Chevron is looking at increasing production in Venezuela."
+        },
+        {
+          "zh": "投资者正在评估中期选举后的投资组合影响，数据中心投资焦虑延续至2027年。",
+          "en": "Investors are weighing portfolio impact post-midterm, and data center investment anxiety is growing into 2027."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Anthropic",
+        "Chevron",
+        "Midterms",
+        "Data Centers"
+      ],
+      "tickers": [
+        "NVDA",
+        "CVX"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:-Fp1_gSbR3E",
       "title": "Bookmarked: News Stories On Our Reading List",
@@ -16989,258 +17037,6 @@
         "QE",
         "long-end yields",
         "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:rxAHCJ44Rck",
-      "title": "Watching Wall Street, Back to Work After Blue Wave, Deadly Mass Shooting in Poland",
-      "title_zh": "彭博周末节目：华尔街试图从上周暴跌中反弹，特朗普面临分裂政府",
-      "url": "https://www.youtube.com/watch?v=rxAHCJ44Rck",
-      "published_at": "2026-11-08T17:04:48+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博周末节目讨论了华尔街试图从上周市场暴跌中反弹、特朗普面临分裂政府的政治新现实，以及亚太市场在AI担忧中开盘等议题。节目还涉及数据中心开发在中期选举中受挫、波兰枪击事件及以色列组阁等国际新闻。",
-      "summary_en": "Bloomberg This Weekend discusses Wall Street looking to rebound from last week's rout, Trump facing the new political reality of a divided government, and Asia-Pacific markets opening amid AI concerns. The program also covers data center development losing big in the US midterms, a shooting in Krakow, Poland, and Israel's government formation.",
-      "detail_zh": "节目由David Gura、Christina Ruffini和Lisa Mateo主持，嘉宾包括前副国务卿Stephen Biegun、SMBC日兴证券首席经济学家Joe Lavorgna等。讨论议题包括：华尔街试图从上周暴跌中反弹；特朗普面临分裂政府的政治新现实，并任命Stephen Miller为新任幕僚长；亚太市场在AI担忧中开盘；数据中心开发在中期选举中遭遇重大失败；波兰克拉科夫发生枪击事件，以及波兰大选前的宪法危机；以色列Eisenkot有六周时间组建新政府。此外还涉及应用程序中的隐藏技术引发隐私担忧、西雅图NBA回归面临老板们质疑、LIV高尔夫将清算、MLB可能12月停摆等话题。政治方面讨论了新当选民主党人与特朗普合作、权力转移可能削弱国会、2028年总统候选人、德州席位翻蓝及2026年中期选举复兴美国民粹主义。",
-      "detail_en": "Hosted by David Gura, Christina Ruffini and Lisa Mateo, with guests including former Deputy Secretary of State Stephen Biegun and SMBC Nikko Securities Chief Economist Joe Lavorgna. Topics include: Wall Street looking to rebound from last week's rout; Trump facing the new political reality of a divided government and tapping Stephen Miller as new Chief of Staff; Asia-Pacific markets opening amid AI concerns; data center development losing big in the US midterms; a gunman opening fire in Krakow, Poland, and the constitutional crisis one year before Poland's next general election; Eisenkot having six weeks to form a new government in Israel. Other segments cover hidden tech in apps raising privacy concerns, Seattle's NBA return facing skeptical owners, LIV Golf liquidating, and a possible MLB lockout in December. Political discussions include newly elected Democrats working with President Trump, a pending power shift that could hamstring Congress, the 2028 presidential nominee, Texas seats flipping blue, and the 2026 midterms reviving American populism.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "华尔街试图从上周暴跌中反弹",
-          "en": "Wall Street looks to rebound from last week's rout"
-        },
-        {
-          "zh": "特朗普面临分裂政府的政治新现实，任命Stephen Miller为幕僚长",
-          "en": "Trump faces new political reality of divided government, taps Stephen Miller as Chief of Staff"
-        },
-        {
-          "zh": "亚太市场在AI担忧中开盘",
-          "en": "Asia-Pacific markets open amid AI concerns"
-        },
-        {
-          "zh": "数据中心开发在中期选举中遭遇重大失败",
-          "en": "Data center development loses big in US midterms"
-        },
-        {
-          "zh": "波兰克拉科夫枪击事件及以色列组阁进程",
-          "en": "Shooting in Krakow, Poland and Israel's government formation"
-        }
-      ],
-      "tags": [
-        "market rebound",
-        "divided government",
-        "AI concerns",
-        "midterms",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4964841",
-      "title": "Wall Street Brunch: Anthropic IPO Goes On The Road",
-      "title_zh": "Anthropic推进IPO路演，目标估值1.25-1.75万亿美元；10月CPI与美联储加息预期受关注",
-      "url": "https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-08T16:50:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Anthropic在科技股抛售后仍推进IPO，计划融资800-1000亿美元，估值1.25-1.75万亿美元，低于此前2万亿美元期望；投资者预计定价保守，约1.3-1.5万亿美元。10月CPI数据预计强化12月加息预期，联邦基金期货显示加息概率76%。伯克希尔Q3加速回购96亿美元。",
-      "summary_en": "Anthropic is proceeding with its IPO roadshow despite the tech selloff, aiming to raise $80-100B at a $1.25-1.75T valuation, below the previously hoped $2T; investors expect conservative pricing around $1.3-1.5T. October CPI data is expected to reinforce expectations for a December Fed hike, with fed funds futures pricing a 76% chance. Berkshire accelerated Q3 buybacks to $9.6B.",
-      "detail_zh": "Anthropic（ANT）在科技股大幅抛售后仍推进IPO路演，计划在感恩节前上市，拟融资800亿至1000亿美元，估值区间1.25万亿至1.75万亿美元，较当前9650亿美元估值显著提升，但低于一个月前投资者期望的2万亿美元。一位大型投资者预计定价将非常保守，约1.5万亿美元，其他参与者预期约1.3万亿美元。Kalshi平台上12月前IPO的概率在抛售后一度下跌，现已回升至80%以上。经济方面，10月CPI将于周二公布，市场预期整体CPI环比升0.3%，核心CPI升0.2%；当前整体通胀为3.7%，核心年率为2.6%。富国银行经济学家认为，核心读数若偏软将受欢迎，但不会改变2026年核心通胀无法回到2%的总体判断，并预计FOMC将在12月再加息一次；联邦基金期货显示12月加息25个基点的概率为76%。财报方面，本周仅有13家标普500公司公布业绩，包括KKR、Rocket Lab、Take-Two、Occidental、CoreWeave、Cisco、Applied Materials、Nebius，以及量子计算公司Quantum Computing、Rigetti和D-Wave。SA分析师Lee Bailey称D-Wave“在销售真实技术”，但按9美元股价看“容错空间不足”，给予卖出评级，公允价值约3美元。伯克希尔Q3回购96亿美元股票，远超Visible Alpha预期的16亿美元，全年回购达144亿美元；运营利润同比下降约6%至127亿美元，受保险业务疲软拖累。此外，据FT报道，美国情报官员认为英伟达CEO黄仁勋与一名被指为中国情报机构间谍的中国女性存在恋爱关系，英伟达称互动仅为普通客户会议，未分享敏感信息。",
-      "detail_en": "Anthropic (ANT) is pushing ahead with its IPO roadshow despite the tech selloff, racing toward a debut before Thanksgiving. It plans to raise $80-100B at a valuation of $1.25-1.75T, a significant increase from its current $965B valuation but below the $2T investors had hoped for as recently as a month ago. One large investor expects very conservative pricing around $1.5T, while others expect roughly $1.3T. Kalshi odds for the IPO before December are back above 80% after sinking amid the selloff. On the economy, October CPI is due Tuesday, with headline expected up 0.3% and core up 0.2%; consumer inflation is currently at 3.7%, with annual core at 2.6%. Wells Fargo economists say a softer core reading would be welcome but would do little to alter the view that 2026 is a lost year for returning core inflation to 2%, and they expect the FOMC to hike once more in December; fed funds futures put the odds of a quarter-point hike at 76%. The earnings calendar is lighter with just 13 S&P 500 companies reporting, including KKR, Rocket Lab, Take-Two, Occidental, CoreWeave, Cisco, Applied Materials, Nebius, and quantum computing names Quantum Computing, Rigetti, and D-Wave. SA analyst Lee Bailey says D-Wave is selling real technology but at $9 there is not enough margin for error; he rates it Sell with a fair value of ~$3. Berkshire accelerated Q3 buybacks to $9.6B, ahead of Visible Alpha estimates of $1.6B, bringing full-year buybacks to $14.4B; operating earnings fell ~6% YoY to $12.7B on insurance weakness. Separately, FT reported that U.S. intelligence officials believe Nvidia CEO Jensen Huang had a romantic relationship with a Chinese woman allegedly recruited as a spy; Nvidia said the interactions were ordinary customer meetings and no sensitive information was shared.",
-      "conclusion_zh": "Anthropic IPO定价可能偏保守，反映科技股波动下投资者谨慎；CPI数据与12月加息预期仍是短期美股主要宏观风险。",
-      "conclusion_en": "Anthropic's IPO pricing may be conservative, reflecting investor caution amid tech volatility; CPI data and December hike expectations remain key near-term macro risks for U.S. equities.",
-      "key_points": [
-        {
-          "zh": "Anthropic推进IPO，拟融资800-1000亿美元，估值1.25-1.75万亿美元，低于此前2万亿美元期望，投资者预计定价保守在1.3-1.5万亿美元。",
-          "en": "Anthropic is proceeding with its IPO, aiming to raise $80-100B at a $1.25-1.75T valuation, below the previously hoped $2T; investors expect conservative pricing around $1.3-1.5T."
-        },
-        {
-          "zh": "10月CPI预计整体环比升0.3%、核心升0.2%，富国银行认为数据将强化12月加息预期，联邦基金期货显示加息概率76%。",
-          "en": "October CPI is expected up 0.3% headline and 0.2% core; Wells Fargo expects the report to reinforce a December hike, with fed funds futures at 76% odds."
-        },
-        {
-          "zh": "伯克希尔Q3回购96亿美元股票，远超预期，全年回购达144亿美元；运营利润同比下降约6%至127亿美元。",
-          "en": "Berkshire repurchased $9.6B in Q3, well above estimates, bringing full-year buybacks to $14.4B; operating earnings fell ~6% YoY to $12.7B."
-        },
-        {
-          "zh": "SA分析师Lee Bailey给予D-Wave卖出评级，公允价值约3美元，认为当前9美元股价容错空间不足。",
-          "en": "SA analyst Lee Bailey rates D-Wave Sell with a ~$3 fair value, saying at $9 there is not enough margin for error."
-        },
-        {
-          "zh": "据FT报道，美国情报官员认为英伟达CEO黄仁勋与一名被指为中国间谍的女性有恋爱关系；英伟达称互动仅为普通客户会议。",
-          "en": "FT reported U.S. intelligence officials believe Nvidia CEO Jensen Huang had a romantic relationship with a woman alleged to be a Chinese spy; Nvidia says interactions were ordinary customer meetings."
-        }
-      ],
-      "tags": [
-        "Anthropic IPO",
-        "CPI",
-        "Fed hike",
-        "Berkshire buybacks",
-        "Nvidia"
-      ],
-      "tickers": [
-        "ANT",
-        "KKR",
-        "RKLB",
-        "TTWO",
-        "OXY",
-        "CRWV",
-        "CSCO",
-        "AMAT",
-        "NBIS",
-        "QUBT",
-        "RGTI",
-        "QBTS",
-        "BRK.A",
-        "BRK.B",
-        "NVDA",
-        "BKR",
-        "IBM"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:VSrpmavd1W8",
-      "title": "Bookmarked: News Stories On Our Reading List",
-      "title_zh": "彭博周末节目预告：Met Gala主题、软盘终结、McRib诉讼与玩具名人堂",
-      "url": "https://www.youtube.com/watch?v=VSrpmavd1W8",
-      "published_at": "2026-11-08T16:32:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本文仅为彭博电视节目《Bloomberg This Weekend》的预告，介绍主持人将讨论Met Gala主题、软盘终结、McRib诉讼和玩具名人堂等话题，不涉及任何金融市场或投资分析。",
-      "summary_en": "This is only a preview of Bloomberg Television's 'Bloomberg This Weekend' program, where hosts will discuss topics including the Met Gala theme, the end of floppy disks, a lawsuit over McRib contents, and the Hall of Fame of Toys. It contains no financial market or investment analysis.",
-      "detail_zh": "原文是彭博电视节目《Bloomberg This Weekend》中“Bookmarked”环节的预告。主持人David Gura、Christina Ruffini和Lisa Mateo将分享过去一周吸引他们注意的故事，包括Met Gala宣布的“normie”主题、软盘的终结、关于McRib成分的诉讼以及玩具名人堂。全文未提及任何金融市场、经济数据或投资观点，仅包含节目宣传和社交媒体链接。",
-      "detail_en": "The original text is a preview for the 'Bookmarked' segment on Bloomberg Television's 'Bloomberg This Weekend'. Hosts David Gura, Christina Ruffini, and Lisa Mateo will share stories that caught their attention over the past week, including the Met Gala's announced 'normie' theme, the end of floppy disks, a lawsuit over McRib contents, and the Hall of Fame of Toys. The text contains no mention of financial markets, economic data, or investment views; it only includes program promotion and social media links.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目将讨论Met Gala的“normie”主题。",
-          "en": "The program will discuss the Met Gala's 'normie' theme."
-        },
-        {
-          "zh": "话题包括软盘的终结。",
-          "en": "Topics include the end of floppy disks."
-        },
-        {
-          "zh": "涉及关于McRib成分的诉讼。",
-          "en": "A lawsuit over McRib contents is mentioned."
-        },
-        {
-          "zh": "还将介绍玩具名人堂。",
-          "en": "The Hall of Fame of Toys will also be featured."
-        }
-      ],
-      "tags": [
-        "Bloomberg This Weekend",
-        "Met Gala",
-        "floppy disks",
-        "McRib lawsuit",
-        "Hall of Fame of Toys"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:rYjn5oVM0ik",
-      "title": "By The Way: Headlines You May Have Missed",
-      "title_zh": "彭博电视节目预告：节日趣闻与AI考试作弊等话题",
-      "url": "https://www.youtube.com/watch?v=rYjn5oVM0ik",
-      "published_at": "2026-11-08T16:25:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "该内容为彭博电视一档节目的简短预告，提及将讨论圣诞节送礼对象选择、圣诞主题邮轮、学生缴纳大学定金后未入学，以及SAT和AP考试应对AI作弊等话题。内容不涉及任何金融市场或投资分析。",
-      "summary_en": "This is a brief teaser for a Bloomberg Television program, mentioning topics such as choosing Christmas gift recipients, a Christmas-themed cruise, students paying college deposits but not attending, and SAT/AP tests tackling AI cheating. It contains no financial market or investment analysis.",
-      "detail_zh": "该内容仅为彭博电视节目的预告片段，由Lisa Mateo、David Gura和Christina Ruffini主持，汇总一些可能被错过但值得一看的新闻头条。提及的具体话题包括：选择给谁送圣诞礼物、圣诞主题邮轮、学生缴纳大学定金后未入学，以及SAT和AP考试应对AI作弊。内容未提供任何数据、市场分析或投资观点，其余部分为彭博电视和商业新闻的社交媒体链接及订阅信息。",
-      "detail_en": "This is merely a teaser for a Bloomberg Television program hosted by Lisa Mateo, David Gura, and Christina Ruffini, rounding up headlines you may have missed but should see. Specific topics mentioned include choosing who to give Christmas presents to, a Christmas-themed cruise, students making a college deposit and then not attending, and SAT/AP tests tackling AI cheating. No data, market analysis, or investment views are provided; the rest consists of social media links and subscription information for Bloomberg Television and Business News.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目预告提及圣诞节送礼、圣诞主题邮轮等节日话题。",
-          "en": "The program teaser mentions holiday topics such as Christmas gift-giving and a Christmas-themed cruise."
-        },
-        {
-          "zh": "提及学生缴纳大学定金后未入学的情况。",
-          "en": "It mentions students making college deposits but not attending."
-        },
-        {
-          "zh": "提及SAT和AP考试应对AI作弊。",
-          "en": "It mentions SAT and AP tests tackling AI cheating."
-        },
-        {
-          "zh": "内容不包含任何金融市场或投资分析。",
-          "en": "The content contains no financial market or investment analysis."
-        }
-      ],
-      "tags": [
-        "Bloomberg TV",
-        "headlines",
-        "AI cheating",
-        "holiday"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:zZGwK5vfCi8",
-      "title": "Markets Brace for Washington Policy Battles",
-      "title_zh": "SMBC日兴首席经济学家：美国经济仍健康，分裂政府或限制政策大变",
-      "url": "https://www.youtube.com/watch?v=zZGwK5vfCi8",
-      "published_at": "2026-11-08T16:16:05+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "SMBC日兴证券首席经济学家Joe Lavorgna表示，可负担性问题推动了中期选举结果，但美国经济基本面依然健康。他认为分裂政府可能限制重大政策变化，并讨论了AI投资、通胀和市场前景。",
-      "summary_en": "SMBC Nikko Securities Chief Economist Joe Lavorgna said affordability helped drive the midterm results, but the underlying US economy remains healthy. He argued that divided government may limit major policy changes and discussed the outlook for AI investment, inflation, and markets.",
-      "detail_zh": "在Bloomberg This Weekend节目中，SMBC日兴证券首席经济学家Joe Lavorgna向主持人David Gura和Christina Ruffini表示，可负担性问题帮助推动了中期选举结果。但他认为，美国经济的基本面依然健康。Lavorgna指出，分裂政府可能会限制重大政策变化，因为华盛顿正准备迎接两年潜在的政策僵局。他还讨论了AI投资、通胀和市場的前景。",
-      "detail_en": "On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna told hosts David Gura and Christina Ruffini that affordability helped drive the midterm results. However, he argued that the underlying US economy remains healthy. Lavorgna noted that divided government may limit major policy changes as Washington prepares for two years of potential policy gridlock. He also discussed the outlook for AI investment, inflation, and markets.",
-      "conclusion_zh": "Lavorgna认为美国经济健康且政策变化有限，投资者可关注AI投资与通胀前景。",
-      "conclusion_en": "Lavorgna sees a healthy US economy with limited policy changes, suggesting investors focus on AI investment and inflation outlook.",
-      "key_points": [
-        {
-          "zh": "可负担性问题推动了中期选举结果",
-          "en": "Affordability helped drive the midterm results"
-        },
-        {
-          "zh": "美国经济基本面依然健康",
-          "en": "The underlying US economy remains healthy"
-        },
-        {
-          "zh": "分裂政府可能限制重大政策变化",
-          "en": "Divided government may limit major policy changes"
-        },
-        {
-          "zh": "讨论了AI投资、通胀和市场前景",
-          "en": "Discussed outlook for AI investment, inflation, and markets"
-        }
-      ],
-      "tags": [
-        "US economy",
-        "midterm elections",
-        "divided government",
-        "AI investment",
-        "inflation"
       ],
       "tickers": [],
       "sentiment": "neutral"
