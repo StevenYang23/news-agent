@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-15T17:10:24.920178+00:00",
+  "generated_at": "2026-11-15T18:14:29.908445+00:00",
   "insights": [
+    {
+      "guid": "yt:mIXjHBlQYDo",
+      "title": "My Biggest Bet Isn't the Stock Market | Inside Meb Faber's Personal Portfolio",
+      "title_zh": "Meb Faber公开个人组合：全球分散、趋势跟踪与另类资产",
+      "url": "https://www.youtube.com/watch?v=mIXjHBlQYDo",
+      "published_at": "2026-11-15T17:06:13+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Cambria投资管理公司的Meb Faber在播客中披露其个人投资组合，强调构建一个能长期坚持的组合比追求最高回报更重要。他的公开组合以全球股票、债券和实物资产为基础，辅以趋势跟踪策略，并包含数百项初创企业投资，整体配置与其自身业务高度绑定。",
+      "summary_en": "Meb Faber of Cambria Investment Management discloses his personal portfolio on a podcast, emphasizing that building a portfolio one can stay invested in matters more than chasing the highest possible return. His public portfolio is anchored by global stocks, bonds, and real assets, paired with trend following and hundreds of startup investments, all shaped by the fact that much of his net worth is tied to his own business.",
+      "detail_zh": "Meb Faber在Cullen Roche的播客节目《Show Us Your Portfolio》中公开个人投资组合，并解释其构建财富与保全财富的平衡方法。他的公开组合以全球股票、债券和实物资产为基础，同时将趋势跟踪作为Trinity策略的一半。他强调，书面计划、成本、税收和行为因素共同影响投资者能否坚持投资。Faber指出，通胀和时间期限会改变“安全投资”的含义，而美国投资者常忽视海外市场和实物资产。他还解释了股东收益率如何将现金股息与净回购结合，以及家族农耕历史如何影响其投资。此外，他分享了十余年天使投资的经验，包括小额支票、长期承诺和足够多的投资数量，以给罕见的巨大赢家留出机会。",
+      "detail_en": "Meb Faber opens up his personal portfolio on Cullen Roche's podcast \"Show Us Your Portfolio,\" explaining how he balances building wealth with keeping it. His public portfolio is built on global stocks, bonds, and real assets, with trend following making up half of his Trinity strategy. He emphasizes that a written plan, costs, taxes, and behavior all affect the ability to stay invested. Faber notes that inflation and time horizon change the meaning of a safe investment, and that U.S. investors often overlook foreign markets and real assets. He also explains how shareholder yield combines cash dividends and net buybacks, and how his family's farming history influenced his investments. Additionally, he shares lessons from more than a decade of angel investing, including the value of small checks, a long commitment, and enough investments to give a rare big winner a chance to matter.",
+      "conclusion_zh": "对投资者而言，核心启示在于优先构建可长期坚持的全球分散组合，并利用趋势跟踪与实物资产应对通胀和期限风险，而非单纯追求最高回报。",
+      "conclusion_en": "For investors, the key takeaway is to prioritize a globally diversified portfolio one can stay invested in, using trend following and real assets to address inflation and horizon risks, rather than solely chasing the highest return.",
+      "key_points": [
+        {
+          "zh": "构建能长期坚持的组合比追求最高回报更重要，书面计划、成本、税收和行为是关键。",
+          "en": "Building a portfolio one can stay invested in matters more than chasing the highest return; a written plan, costs, taxes, and behavior are key."
+        },
+        {
+          "zh": "公开组合以全球股票、债券和实物资产为基础，趋势跟踪占Trinity策略的一半。",
+          "en": "The public portfolio is anchored by global stocks, bonds, and real assets, with trend following making up half of the Trinity strategy."
+        },
+        {
+          "zh": "通胀和时间期限改变安全投资的定义，美国投资者常忽视海外市场和实物资产。",
+          "en": "Inflation and time horizon change the meaning of a safe investment; U.S. investors often overlook foreign markets and real assets."
+        },
+        {
+          "zh": "股东收益率结合现金股息与净回购，是评估股东回报的指标。",
+          "en": "Shareholder yield combines cash dividends and net buybacks as a measure of shareholder return."
+        },
+        {
+          "zh": "初创投资需要耐心、跨年份分散和容忍失败，小额支票与足够数量可捕捉罕见大赢家。",
+          "en": "Startup investing requires patience, diversification across years, and tolerance for failures; small checks and sufficient quantity can capture rare big winners."
+        }
+      ],
+      "tags": [
+        "portfolio",
+        "trend-following",
+        "real-assets",
+        "angel-investing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:PNMBn-tPLIM",
       "title": "Nvidia Fallout, FAA Router Failure, Next Mega IPO",
