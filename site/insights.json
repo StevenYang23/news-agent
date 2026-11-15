@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-11-15T18:14:29.908445+00:00",
+  "generated_at": "2026-11-15T19:10:13.385622+00:00",
   "insights": [
+    {
+      "guid": "4968405",
+      "title": "Wall Street Brunch: Nvidia, Anthropic And GTA 6 (Oh, My!)",
+      "title_zh": "英伟达财报领衔超级周，Anthropic IPO与GTA6登场",
+      "url": "https://seekingalpha.com/article/4968405-wall-street-brunch-nvidia-anthropic-and-gta-6-oh-my?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-15T18:42:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "本周市场焦点包括英伟达财报、Anthropic的IPO以及《侠盗猎车手6》的发布。英伟达财报预期每股收益2.47美元、营收1087.3亿美元，但面临黄仁勋离职和新加坡收入审查的疑问。Anthropic的IPO可能估值约1万亿美元，其定价保守或提振AI板块。",
+      "summary_en": "This week's market focus includes Nvidia's earnings, Anthropic's IPO, and the launch of Grand Theft Auto 6. Nvidia is expected to report EPS of $2.47 on revenue of $108.73 billion, but faces questions about Jensen Huang's departure and scrutiny over Singapore revenue. Anthropic's IPO could value it at roughly $1 trillion, and its conservative pricing may lift the AI trade.",
+      "detail_zh": "英伟达将于周二盘后发布财报，华尔街预期每股收益2.47美元，营收1087.3亿美元。由于黄仁勋离职，现任CEO Colette Kress将主持电话会议，她需要应对关于新加坡收入的棘手问题，该收入因GPU可能流向中国的担忧而受到审查。SA分析师Damir Tokic给予卖出评级，认为风险在于AI采用不及预期，英伟达可能重蹈思科在互联网泡沫破裂后的覆辙。而看多者Cash Flow Venue认为英伟达相对同行被低估，股价有翻倍空间，随着盈利持续增长，市场终将给予多重扩张。此外，Anthropic预计周三晚间定价，周四上市，发行价区间70-78美元，最高可募资644亿美元，估值约1万亿美元。分析师Amrita Roy认为保守定价为上市后上涨留出空间，可能提振整个AI板块。Michael McGrath给予强力买入评级，认为其比SpaceX和特斯拉等更具投资价值。《侠盗猎车手6》周四发布，仅限PS5和Xbox Series X|S，可能带动索尼、微软、AMD、游戏零售商和配件商的交易机会。",
+      "detail_en": "Nvidia reports after the bell Tuesday, with Wall Street expecting EPS of $2.47 on revenue of $108.73 billion. With Jensen Huang gone, Colette Kress is at the helm and will face tricky questions about Singapore revenue, which is under scrutiny due to concerns about GPUs potentially flowing to China. SA analyst Damir Tokic has a Sell rating, citing the risk that AI adoption does not progress as expected and that Nvidia could end up like Cisco after the dot-com bubble burst. Bull Cash Flow Venue argues Nvidia is undervalued versus peers and has room to double as it grows its bottom line, expecting multiple expansion. Anthropic is expected to price its IPO Wednesday night and debut Thursday, with a price range of $70-$78, raising up to $64.4 billion and valuing the company at roughly $1 trillion. Analyst Amrita Roy says conservative pricing leaves room for a post-IPO pop that could lift the entire AI trade. Michael McGrath rates ANT a Strong Buy, calling it a much better investment than SpaceX and Tesla. Grand Theft Auto 6 launches Thursday exclusively on PS5 and Xbox Series X|S, potentially creating trades in Sony, Microsoft, AMD, game retailers, and accessory makers.",
+      "conclusion_zh": "英伟达财报和Anthropic IPO是本周AI情绪的关键考验，投资者需关注管理层变动和监管审查带来的风险，同时GTA6发布或带来相关交易机会。",
+      "conclusion_en": "Nvidia's earnings and Anthropic's IPO are key tests for AI sentiment this week; investors should watch risks from management changes and regulatory scrutiny, while GTA6's launch may offer related trading opportunities.",
+      "key_points": [
+        {
+          "zh": "英伟达财报预期每股收益2.47美元、营收1087.3亿美元，黄仁勋离职后Colette Kress主持，新加坡收入受审查。",
+          "en": "Nvidia is expected to report EPS of $2.47 on revenue of $108.73 billion, with Colette Kress at the helm after Jensen Huang's departure; Singapore revenue is under scrutiny."
+        },
+        {
+          "zh": "分析师观点分歧：Damir Tokic给予卖出评级，担忧AI采用不及预期；Cash Flow Venue认为股价有翻倍空间。",
+          "en": "Analyst views diverge: Damir Tokic has a Sell rating on slower AI adoption; Cash Flow Venue sees room for the stock to double."
+        },
+        {
+          "zh": "Anthropic IPO定价区间70-78美元，最高募资644亿美元，估值约1万亿美元，保守定价可能提振AI板块。",
+          "en": "Anthropic's IPO price range is $70-$78, raising up to $64.4 billion and valuing it at roughly $1 trillion; conservative pricing could lift the AI trade."
+        },
+        {
+          "zh": "《侠盗猎车手6》周四发布，仅限PS5和Xbox Series X|S，可能带动索尼、微软、AMD及游戏零售和配件商。",
+          "en": "Grand Theft Auto 6 launches Thursday exclusively on PS5 and Xbox Series X|S, potentially benefiting Sony, Microsoft, AMD, and game retailers and accessory makers."
+        },
+        {
+          "zh": "L3Harris与FAA调查全国地面停飞事件，FAA局长称老旧的电信系统将继续出问题直到获得资金升级。",
+          "en": "L3Harris is working with the FAA on the nationwide ground stop investigation; the FAA Administrator said the antiquated telecom system will continue to break until properly funded and upgraded."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Anthropic IPO",
+        "GTA6",
+        "AI trade",
+        "earnings"
+      ],
+      "tickers": [
+        "NVDA",
+        "BIDU",
+        "XPEV",
+        "HD",
+        "DIS",
+        "PANW",
+        "TGT",
+        "WMT",
+        "BABA",
+        "SONY",
+        "MSFT",
+        "AMD",
+        "GME",
+        "BBY",
+        "AMZN",
+        "LOGI",
+        "AMC",
+        "CNK",
+        "GOOG",
+        "GOOGL",
+        "LHX",
+        "COP",
+        "CVX",
+        "RTX"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:mIXjHBlQYDo",
       "title": "My Biggest Bet Isn't the Stock Market | Inside Meb Faber's Personal Portfolio",
