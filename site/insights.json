@@ -1,6 +1,113 @@
 {
-  "generated_at": "2026-11-15T11:10:23.410288+00:00",
+  "generated_at": "2026-11-15T12:16:57.571745+00:00",
   "insights": [
+    {
+      "guid": "4968377",
+      "title": "Wall Street Week Ahead",
+      "title_zh": "英伟达财报领衔本周市场，AI基础设施需求成焦点",
+      "url": "https://seekingalpha.com/article/4968377-wall-street-week-ahead?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-15T11:45:17+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "英伟达将于周二发布财报，市场预期每股收益2.4美元、营收1087.3亿美元，投资者关注AI基础设施需求是否持续。Anthropic IPO预计周三定价，估值或达1.4万亿美元。分析师Lawrence Fuller和Jack Bowman认为科技股抛售过度，市场轮动而非撤离，维持看涨立场。",
+      "summary_en": "Nvidia reports Tuesday with consensus EPS of $2.4 on revenue of $108.73B, as investors seek signs that AI infrastructure demand remains intact. Anthropic's IPO is expected to price Wednesday, potentially valuing the AI company at up to $1.4T. Analysts Lawrence Fuller and Jack Bowman view the tech selloff as overdone, seeing rotation rather than abandonment, and remain bullish.",
+      "detail_zh": "英伟达（NVDA）周二公布财报，华尔街预期每股收益2.4美元、营收1087.3亿美元。市场关注点包括英伟达的CEO搜寻、对新加坡相关收入的审查，以及中期选举民主党大胜后可能的数据中心监管评论。Anthropic（ANT）IPO预计周三定价、周四交易，若以70-78美元区间上限定价，完全稀释估值或达1.4万亿美元。Take-Two Interactive（TTWO）的《侠盗猎车手VI》周四发布，行业制作人Geoff Keighley预计其将成为“史上最大的娱乐产品发布”。经济日历方面，美联储主席Kevin Warsh周一讲话，周二零售销售数据，周三FOMC会议纪要。财报方面，周二还有家得宝（HD）和迪士尼（DIS），周三Palo Alto Networks（PANW）和塔吉特（TGT），周四沃尔玛（WMT）和阿里巴巴（BABA）。分析师Lawrence Fuller认为尽管科技股尤其是AI相关股票大幅抛售，年末反弹仍然完好，市场广度改善表明投资者在轮动而非撤离股市，标普500快速复苏且高于关键移动均线的股票数量增加，所有11个标普500板块均报告盈利增长且前瞻估值更具吸引力。Jack Bowman认为科技和半导体股的抛售是过度反应，市场忽视了AI的强劲潜在需求和改善的估值，超大规模资本支出、数据中心扩张和潜在供应过剩的风险已反映在股价中，AI采用增加和云收入上升证明投资正转化为实际盈利，他看涨Magnificent Seven和部分半导体股，并在下跌中加仓。",
+      "detail_en": "Nvidia (NVDA) reports Tuesday, with Wall Street expecting EPS of $2.4 on revenue of $108.73B. Focus areas include Nvidia's CEO search, scrutiny of revenue tied to Singapore, and potential comments on data center regulation following the Democratic sweep in the midterm elections. Anthropic's (ANT) IPO is expected to price Wednesday and trade Thursday; at the top of the $70-$78 range, the offering could value the AI company at up to $1.4T fully diluted. Take-Two Interactive's (TTWO) \"Grand Theft Auto VI\" launches Thursday, with industry producer Geoff Keighley expecting it to be \"the biggest entertainment launch in history.\" On the economic calendar, Fed Chair Kevin Warsh speaks Monday, retail sales arrive Tuesday, and FOMC minutes are due Wednesday. Earnings also include Home Depot (HD) and Walt Disney (DIS) on Tuesday, Palo Alto Networks (PANW) and Target (TGT) on Wednesday, and Walmart (WMT) and Alibaba (BABA) on Thursday. Analyst Lawrence Fuller believes the year-end rally remains intact despite a sharp selloff in technology stocks, particularly AI-related names; improving market breadth suggests rotation rather than abandonment of equities, with the S&P 500's quick recovery and a growing number of stocks above key moving averages, all 11 S&P 500 sectors reporting earnings growth, and more attractive forward valuations. Jack Bowman views the selloff in technology and semiconductor stocks as an overreaction, arguing the market is overlooking strong AI demand and improving valuations; risks around hyperscaler capex, data center expansion, and potential oversupply are already reflected in prices, and growing AI adoption and rising cloud revenues show investments are translating into real earnings. He remains bullish on the Magnificent Seven and select semiconductor stocks, adding to positions during the decline.",
+      "conclusion_zh": "英伟达财报是本周美股关键催化剂，市场对AI基础设施需求的验证将决定科技股短期方向；部分分析师认为近期抛售提供长期布局机会。",
+      "conclusion_en": "Nvidia's earnings are the key catalyst this week; validation of AI infrastructure demand will dictate near-term tech direction, with some analysts seeing the selloff as a long-term buying opportunity.",
+      "key_points": [
+        {
+          "zh": "英伟达周二财报，市场预期EPS 2.4美元、营收1087.3亿美元，关注AI需求、CEO搜寻及数据中心监管。",
+          "en": "Nvidia reports Tuesday; consensus EPS $2.4, revenue $108.73B; focus on AI demand, CEO search, and data center regulation."
+        },
+        {
+          "zh": "Anthropic IPO预计周三定价，估值或达1.4万亿美元。",
+          "en": "Anthropic IPO expected to price Wednesday, potentially valuing the company at up to $1.4T."
+        },
+        {
+          "zh": "分析师Lawrence Fuller认为年末反弹完好，市场广度改善显示轮动而非撤离。",
+          "en": "Analyst Lawrence Fuller sees the year-end rally intact, with improving breadth indicating rotation rather than exit."
+        },
+        {
+          "zh": "Jack Bowman认为科技股抛售过度，风险已反映在价格中，看涨Mag Seven和半导体并在下跌中加仓。",
+          "en": "Jack Bowman views the tech selloff as overdone, risks priced in, and remains bullish on the Magnificent Seven and semis, adding on weakness."
+        }
+      ],
+      "tags": [
+        "Nvidia earnings",
+        "AI infrastructure",
+        "Anthropic IPO",
+        "tech selloff",
+        "market rotation"
+      ],
+      "tickers": [
+        "NVDA",
+        "TTWO",
+        "BIDU",
+        "XPEV",
+        "HD",
+        "DIS",
+        "PANW",
+        "TGT",
+        "WMT",
+        "BABA",
+        "MSFT",
+        "NFLX",
+        "BA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:6dOFQHTVzEg",
+      "title": "The Downfall of Jensen Huang",
+      "title_zh": "英伟达CEO黄仁勋辞职，涉华间谍疑虑与芯片走私审计缺口",
+      "url": "https://www.youtube.com/watch?v=6dOFQHTVzEg",
+      "published_at": "2026-11-15T11:23:26+00:00",
+      "source_name": "Patrick Boyle",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "politics",
+        "other"
+      ],
+      "summary_zh": "英伟达唯一一任CEO黄仁勋上周辞职，此前有报道称美国情报部门怀疑其密切交往的华裔女商人Alice Huang为中国主要间谍机构工作。视频还提及Megaspeed芯片走私指控以及英伟达自身审计未能找到的5万颗芯片，并质疑董事会33年未制定继任计划。",
+      "summary_en": "Jensen Huang, Nvidia's only CEO, resigned last week after reports that US intelligence suspected Alice Huang, a Chinese businesswoman he had grown close to, of working for China's main spy agency. The video also covers Megaspeed chip smuggling allegations, 50,000 chips missing from Nvidia's own audit, and a board that had 33 years to prepare a succession plan but didn't.",
+      "detail_zh": "英伟达唯一一任CEO黄仁勋上周辞职，此前有报道称美国情报部门怀疑其密切交往的华裔女商人Alice Huang为中国主要间谍机构工作。视频讨论了英伟达丑闻对投资者的影响，包括Megaspeed芯片走私指控，以及英伟达自身审计未能找到的5万颗芯片。视频还指出，董事会33年来没有制定继任计划，并认为失去这位在AI热潮中扮演央行角色的人物，对股市的影响可能远大于一位CEO的私生活。视频还草拟了英伟达似乎未在文件中披露的一些风险因素。",
+      "detail_en": "Jensen Huang, the only boss Nvidia has ever had, resigned last week after reports that US intelligence suspected Alice Huang, a Chinese businesswoman he had grown close to, of working for China's main spy agency. The video looks at what the Nvidia scandal means for investors, including the Megaspeed chip smuggling allegations and the 50,000 chips Nvidia's own audit couldn't find. It also notes a board that had 33 years to prepare a succession plan and didn't, and argues that losing the man who acted as the central bank of the AI boom could matter far more to the stock market than one CEO's private life. The video also drafts a few risk factors that Nvidia seems to have left out of its filings.",
+      "conclusion_zh": "英伟达CEO辞职及芯片走私审计缺口构成重大治理与监管风险，继任计划缺失可能放大市场对AI龙头稳定性的担忧。",
+      "conclusion_en": "The Nvidia CEO resignation and chip smuggling audit gap pose significant governance and regulatory risks, and the lack of a succession plan could amplify market concerns about the stability of the AI leader.",
+      "key_points": [
+        {
+          "zh": "黄仁勋上周辞去英伟达CEO职务，此前有报道称美国情报部门怀疑其密切交往的华裔女商人Alice Huang为中国主要间谍机构工作。",
+          "en": "Jensen Huang resigned last week as Nvidia CEO after reports that US intelligence suspected Alice Huang, a Chinese businesswoman he had grown close to, of working for China's main spy agency."
+        },
+        {
+          "zh": "视频涉及Megaspeed芯片走私指控，以及英伟达自身审计未能找到的5万颗芯片。",
+          "en": "The video covers Megaspeed chip smuggling allegations and the 50,000 chips Nvidia's own audit couldn't find."
+        },
+        {
+          "zh": "英伟达董事会33年来没有制定继任计划。",
+          "en": "Nvidia's board had 33 years to prepare a succession plan and didn't."
+        },
+        {
+          "zh": "失去在AI热潮中扮演央行角色的黄仁勋，对股市的影响可能远大于一位CEO的私生活。",
+          "en": "Losing the man who acted as the central bank of the AI boom could matter far more to the stock market than one CEO's private life."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO resignation",
+        "chip smuggling",
+        "succession planning",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:tX5oNAxULSY",
       "title": "The rise, reinvention and uncertain future of Nvidia without Jensen Huang",
@@ -17203,72 +17310,6 @@
       ],
       "tickers": [],
       "sentiment": "negative"
-    },
-    {
-      "guid": "4964825",
-      "title": "Wall Street Week Ahead",
-      "title_zh": "本周关注：CPI通胀数据与AI动态，科技股波动持续",
-      "url": "https://seekingalpha.com/article/4964825-wall-street-week-ahead?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-08T11:13:56+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "投资者本周将聚焦通胀和人工智能，10月CPI预计同比上涨3.7%，机票价格或再次明显上升。多位美联储官员将发表讲话，Anthropic预计启动IPO路演，Adobe、台积电等科技公司也有重要活动。科技股在选举后波动仍存，市场关注AI板块是否泡沫破裂。",
-      "summary_en": "Investors will focus on inflation and AI this week, with October CPI expected at 3.7% and airfare seen rising notably. Several Fed speakers are scheduled, Anthropic is expected to start its IPO road show, and tech events from Adobe and TSMC are on tap. Post-election volatility lingers over tech stocks, with market watchers debating whether the AI stock meltdown signals a bubble burst.",
-      "detail_zh": "本周市场焦点重回通胀与人工智能。10月消费者价格指数（CPI）将于周二公布，市场预期整体通胀率为3.7%，机票价格预计再次显著上涨。美联储多位官员将发表讲话，包括Austan Goolsbee、Tom Barkin、Jeffrey Schmid、Lorie Logan和Mary Daly。AI领域保持高度关注：Anthropic预计启动IPO路演，并可能提交更新后的S-1/A文件，包含初始价格区间和最终估值目标；Adobe将于周二启动为期三天的MAX活动；台积电将发布月度营收数据。财报方面，KKR、Rocket Lab、Take-Two Interactive、西方石油、CoreWeave、思科、应用材料和Nebius等公司将公布业绩。此外，SA分析师关注的话题包括：AI股票暴跌是否意味着泡沫破裂、QQQ已成为防御性指数、10月CPI可能偏高、健康的10月就业报告支持加息论点、Nebius与CoreWeave的对比、D-Wave Quantum财报等。内部交易方面，Netflix、英特尔和Visa出现显著交易。",
-      "detail_en": "Market focus returns to inflation and AI this week. The October CPI report is due Tuesday, with headline inflation expected at 3.7% and airfare seen posting another notable increase. Several Fed speakers are scheduled, including Austan Goolsbee, Tom Barkin, Jeffrey Schmid, Lorie Logan and Mary Daly. AI remains in focus: Anthropic is expected to begin its IPO road show and could file an updated S-1/A with an initial price range and finalized valuation target; Adobe kicks off its three-day MAX event Tuesday; Taiwan Semiconductor is due to release monthly revenue. Earnings are expected from KKR, Rocket Lab, Take-Two Interactive, Occidental Petroleum, CoreWeave, Cisco, Applied Materials and Nebius. SA analysts are watching topics including whether the AI stock meltdown is a bubble burst, QQQ as a defensive index, a likely hot October CPI, a healthy October jobs report supporting the rate hike argument, Nebius vs. CoreWeave, and D-Wave Quantum earnings. Insider transactions were notable at Netflix, Intel and Visa.",
-      "conclusion_zh": "本周通胀数据和AI动态将主导市场情绪，科技股波动可能持续，投资者需关注CPI是否超预期以及AI板块的估值风险。",
-      "conclusion_en": "Inflation data and AI developments will dominate market sentiment this week, with tech volatility likely to persist; investors should watch whether CPI surprises and AI valuation risks.",
-      "key_points": [
-        {
-          "zh": "10月CPI预计同比上涨3.7%，机票价格或再次明显上升。",
-          "en": "October CPI is expected at 3.7% year-over-year, with airfare seen rising notably again."
-        },
-        {
-          "zh": "多位美联储官员本周将发表讲话，包括Goolsbee、Barkin、Schmid、Logan和Daly。",
-          "en": "Several Fed speakers are scheduled this week, including Goolsbee, Barkin, Schmid, Logan and Daly."
-        },
-        {
-          "zh": "Anthropic预计启动IPO路演，可能提交包含初始价格区间和估值目标的更新文件。",
-          "en": "Anthropic is expected to begin its IPO road show and may file an update with an initial price range and valuation target."
-        },
-        {
-          "zh": "科技股在选举后波动持续，市场关注AI板块是否泡沫破裂。",
-          "en": "Post-election volatility lingers over tech stocks, with focus on whether the AI sector is a bubble bursting."
-        },
-        {
-          "zh": "本周财报密集，包括KKR、CoreWeave、思科、应用材料、台积电月度营收等。",
-          "en": "A busy earnings week includes KKR, CoreWeave, Cisco, Applied Materials, and TSMC monthly revenue."
-        }
-      ],
-      "tags": [
-        "CPI",
-        "AI",
-        "Fed",
-        "earnings",
-        "tech-volatility"
-      ],
-      "tickers": [
-        "ADBE",
-        "TSM",
-        "KKR",
-        "RKLB",
-        "TTWO",
-        "OXY",
-        "CRWV",
-        "CSCO",
-        "AMAT",
-        "NBIS",
-        "HIMS",
-        "SFTBF",
-        "NFLX",
-        "INTC",
-        "V"
-      ],
-      "sentiment": "neutral"
     }
   ]
 }
