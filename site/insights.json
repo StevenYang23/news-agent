@@ -1,6 +1,314 @@
 {
-  "generated_at": "2026-11-16T17:12:18.716346+00:00",
+  "generated_at": "2026-11-16T18:16:30.233472+00:00",
   "insights": [
+    {
+      "guid": "yt:mfut6-Ak_o4",
+      "title": "Richard Falk-Wallace – Risk Models for the Front Office with Arcana (S8E1)",
+      "title_zh": "量化与基本面投资融合：Arcana创始人谈因子风险与组合构建",
+      "url": "https://www.youtube.com/watch?v=mfut6-Ak_o4",
+      "published_at": "2026-11-16T17:58:34+00:00",
+      "source_name": "Flirting with Models",
+      "source_kind": "video",
+      "categories": [
+        "other"
+      ],
+      "summary_zh": "Arcana创始人Richard Falk-Wallace指出，传统因子风险模型为后台设计，不适用于投资组合经理。他讨论了量化与基本面投资的融合趋势，以及因子押注如何影响夏普比率，并分析了拥挤交易和信息过载等二阶效应。",
+      "summary_en": "Richard Falk-Wallace, founder of Arcana, argues that traditional factor risk models were built for the back office and don't work for PMs. He discusses the convergence of quant and fundamental investing, how factor bets can hurt Sharpe ratios, and second-order effects like crowding and information overload.",
+      "detail_zh": "在本次访谈中，Arcana创始人Richard Falk-Wallace分享了他从摩根大通重组业务、Silver Point不良信贷，到Viking和Citadel股票投资的经验。他发现因子风险模型主要为后台设计，不适用于投资组合经理，因此创立Arcana来填补这一空白。他解释了投资组合经理即使因子押注正确，也可能拖累组合的夏普比率，并探讨了如何将业绩记录分解为规模、选择和时机来评估技能。此外，他还讨论了当所有人都中和相同因子时的拥挤风险、AI电力需求等短暂主题，以及更多信息何时会让投资者变得更糟。",
+      "detail_en": "In this interview, Richard Falk-Wallace, founder of Arcana, shares his experience from restructuring at JPMorgan and distressed credit at Silver Point to equities at Viking and Citadel. He noticed that factor risk models were built for the back office and don't work for PMs, leading him to found Arcana to fill this gap. He explains how a PM can get a factor bet right and still drag down the book's Sharpe ratio, and discusses breaking a track record into sizing, selection, and timing to assess skill. He also explores crowding when everyone neutralizes the same factors, fleeting themes like AI power demand, and when more information starts to make investors worse.",
+      "conclusion_zh": "量化与基本面投资的融合正在加速，投资组合经理需关注因子风险对夏普比率的影响，并警惕拥挤交易和信息过载。",
+      "conclusion_en": "The convergence of quant and fundamental investing is accelerating; PMs should focus on factor risk impact on Sharpe ratios and be wary of crowding and information overload.",
+      "key_points": [
+        {
+          "zh": "传统因子风险模型为后台设计，不适用于投资组合经理。",
+          "en": "Traditional factor risk models were built for the back office and don't work for PMs."
+        },
+        {
+          "zh": "投资组合经理即使因子押注正确，也可能拖累组合的夏普比率。",
+          "en": "A PM can get a factor bet right and still drag down the book's Sharpe ratio."
+        },
+        {
+          "zh": "将业绩记录分解为规模、选择和时机，可以揭示技能所在。",
+          "en": "Breaking a track record into sizing, selection, and timing reveals skill."
+        },
+        {
+          "zh": "当所有人都中和相同因子时，会产生拥挤风险。",
+          "en": "Crowding occurs when everyone neutralizes the same factors."
+        },
+        {
+          "zh": "更多信息有时会让投资者做出更差的决策。",
+          "en": "More information can sometimes make investors worse off."
+        }
+      ],
+      "tags": [
+        "quant",
+        "factor-investing",
+        "portfolio-construction",
+        "risk-management"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:IIwnWHq9n14",
+      "title": "Bank of America CEO: IPO pipeline delayed, not derailed",
+      "title_zh": "美银CEO：部分IPO推迟至明年，但发行管道依然充足",
+      "url": "https://www.youtube.com/watch?v=IIwnWHq9n14",
+      "published_at": "2026-11-16T17:51:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国银行CEO Brian Moynihan表示，部分公司因等待市场企稳而将IPO推迟至明年，但发行管道仍然充足。这些交易仍在推进路径上，只是可能需要更多时间来吸引投资者关注。",
+      "summary_en": "Bank of America CEO Brian Moynihan said some IPOs are being pushed into next year as companies wait for markets to settle, but the pipeline remains full. He said the deals are \"on a path\" to getting done, but may need more time to capture investors' attention.",
+      "detail_zh": "美国银行首席执行官Brian Moynihan指出，部分IPO交易正被推迟至明年，原因是企业希望等待市场企稳。他同时强调，IPO发行管道依然充足。Moynihan表示，这些交易仍处于推进完成的路径上，只是可能需要更多时间才能吸引投资者的关注。其表态显示，当前IPO市场面临节奏放缓，但潜在供给并未消失。",
+      "detail_en": "Bank of America CEO Brian Moynihan said some IPOs are being pushed into next year as companies wait for markets to settle. He noted that the pipeline remains full. Moynihan said the deals are \"on a path\" to getting done, but they may just need more time to capture investors' attention. His comments suggest a slower pace for the IPO market, though the underlying supply of deals has not disappeared.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "部分IPO被推迟至明年，企业等待市场企稳",
+          "en": "Some IPOs are being pushed into next year as companies wait for markets to settle"
+        },
+        {
+          "zh": "IPO发行管道依然充足",
+          "en": "The IPO pipeline remains full"
+        },
+        {
+          "zh": "交易仍在推进完成的路径上，但可能需要更多时间吸引投资者关注",
+          "en": "Deals are \"on a path\" to getting done, but may need more time to capture investors' attention"
+        }
+      ],
+      "tags": [
+        "IPO",
+        "Bank of America",
+        "capital markets",
+        "pipeline"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Je9EHM1-lOY",
+      "title": "Fed's Warsh Says Staff Are Sketching Out AI Contingencies",
+      "title_zh": "美联储主席沃什：员工已开始推演AI对经济的影响情景",
+      "url": "https://www.youtube.com/watch?v=Je9EHM1-lOY",
+      "published_at": "2026-11-16T17:51:31+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美联储主席凯文·沃什表示，美联储员工已开始就人工智能加速普及可能如何影响全球最大经济体进行情景推演。原文未披露具体推演内容、时间表或政策含义。",
+      "summary_en": "Federal Reserve Chairman Kevin Warsh said central bank staff have begun sketching out contingencies for how surging AI adoption might impact the world's largest economy. The source provides no details on the scenarios, timeline, or policy implications.",
+      "detail_zh": "据彭博电视报道，美联储主席凯文·沃什表示，美国央行员工已开始就人工智能加速普及对全球最大经济体可能产生的影响勾勒应急情景。这是原文中唯一实质信息：主体为美联储及其员工，动作是“开始勾勒”情景，对象是AI普及对经济的影响。原文未说明情景的具体假设、覆盖范围、完成时间，也未说明这些推演是否会进入政策框架或影响利率决策。除此之外，原文其余内容均为彭博电视与彭博商业的社交媒体及订阅推广信息，不含市场数据、资产价格或个股信息。",
+      "detail_en": "According to Bloomberg Television, Federal Reserve Chairman Kevin Warsh said staff at the US central bank have begun to sketch out contingencies for how surging adoption of artificial intelligence might impact the world's biggest economy. That is the only substantive information in the source: the subject is the Fed and its staff, the action is \"begun to sketch out\" contingencies, and the object is AI adoption's economic impact. The source does not specify the scenarios' assumptions, scope, completion timeline, or whether the work will feed into the policy framework or rate decisions. The remainder of the text consists of Bloomberg Television and Bloomberg Business social media and subscription promotional material, with no market data, asset prices, or individual stock information.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美联储主席沃什称，央行员工已开始勾勒AI普及影响经济的情景",
+          "en": "Fed Chair Warsh said central bank staff have begun sketching out contingencies for AI adoption's economic impact"
+        },
+        {
+          "zh": "推演对象是人工智能加速普及对全球最大经济体的影响",
+          "en": "The focus is how surging AI adoption might affect the world's largest economy"
+        },
+        {
+          "zh": "原文未披露情景细节、时间表或政策含义",
+          "en": "The source discloses no scenario details, timeline, or policy implications"
+        }
+      ],
+      "tags": [
+        "Federal Reserve",
+        "AI adoption",
+        "economic scenarios",
+        "monetary policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:MXWpLJrQFh8",
+      "title": "Open Interest 11/16/2026",
+      "title_zh": "AI交易面临两大考验：英伟达领导层危机与Anthropic重磅IPO",
+      "url": "https://www.youtube.com/watch?v=MXWpLJrQFh8",
+      "published_at": "2026-11-16T17:40:56+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博Open Interest节目聚焦AI交易的两大关键测试：英伟达在Jensen Huang之后面临领导层危机，同时Anthropic的重磅IPO正在重塑华尔街交易管道。节目还讨论了美国银行CEO对大型IPO影响的看法，以及Anthropic创始投资人关于美国在AI基建竞赛中落后的观点。",
+      "summary_en": "Bloomberg Open Interest highlights two major tests for the AI trade: Nvidia faces a leadership crisis after Jensen Huang, while Anthropic's blockbuster IPO reshapes Wall Street's deal pipeline. The show also features Bank of America CEO Brian Moynihan on the mega IPO's impact and Anthropic founding investor Anjney Midha on why the US is falling behind in the AI buildout.",
+      "detail_zh": "节目围绕AI交易的两大考验展开：一是英伟达在Jensen Huang之后面临的领导层危机，二是Anthropic重磅IPO对华尔街交易管道的影响。美国银行CEO Brian Moynihan分享了大型IPO如何影响市场格局的看法。Anthropic创始投资人Anjney Midha讨论了美国在AI基建方面落后于中国的原因。节目还涉及英伟达的中国出口管制挑战、内部调查、白宫反应以及五角大楼压力和Goldman Sachs审查等议题。此外，节目提到了FAA故障对航空业的影响、特朗普亚洲之行、习普会晤，以及铜价跌至四个月低点。多位嘉宾包括Dan Suzuki、Shana Sissel和Leslie Vinjamuri分别就AI融资风险、英伟达治理风险和地缘政治风险发表了观点。",
+      "detail_en": "The program centers on two major tests for the AI trade: Nvidia's leadership crisis following Jensen Huang, and Anthropic's blockbuster IPO reshaping Wall Street's deal pipeline. Bank of America CEO Brian Moynihan shares views on how the mega IPO impacts the landscape. Anthropic founding investor Anjney Midha discusses why the US is falling behind in the AI buildout. Other topics include Nvidia's China export control challenges, internal probe, White House reaction, Pentagon pressure, and Goldman Sachs scrutiny. The show also covers FAA outage fallout on airlines, Trump's Asia trip, Xi-Putin summit, and copper sinking to a four-month low. Guests including Dan Suzuki, Shana Sissel, and Leslie Vinjamuri offer perspectives on AI financing risks, Nvidia governance risks, and geopolitical risks.",
+      "conclusion_zh": "AI交易正面临英伟达领导层过渡和Anthropic IPO等关键考验，同时地缘政治与监管风险升温，投资者需关注AI板块的治理与政策不确定性。",
+      "conclusion_en": "The AI trade faces key tests including Nvidia's leadership transition and Anthropic's IPO, while geopolitical and regulatory risks rise, investors should watch governance and policy uncertainties in the AI sector.",
+      "key_points": [
+        {
+          "zh": "英伟达面临领导层危机，Jensen Huang之后公司走向成为AI交易的关键考验。",
+          "en": "Nvidia faces a leadership crisis, with the company's direction after Jensen Huang a key test for the AI trade."
+        },
+        {
+          "zh": "Anthropic的重磅IPO正在重塑华尔街交易管道，美国银行CEO Brian Moynihan讨论其影响。",
+          "en": "Anthropic's blockbuster IPO is reshaping Wall Street's deal pipeline, with Bank of America CEO Brian Moynihan discussing its impact."
+        },
+        {
+          "zh": "Anthropic创始投资人Anjney Midha认为美国在AI基建竞赛中落后。",
+          "en": "Anthropic founding investor Anjney Midha argues the US is falling behind in the AI buildout race."
+        },
+        {
+          "zh": "英伟达面临中国出口管制、内部调查、白宫反应及五角大楼压力等多重挑战。",
+          "en": "Nvidia faces multiple challenges including China export controls, an internal probe, White House reaction, and Pentagon pressure."
+        },
+        {
+          "zh": "铜价跌至四个月低点，FAA故障导致航班中断影响航空业。",
+          "en": "Copper sinks to a four-month low, and FAA outage causes flight disruptions impacting the airline industry."
+        }
+      ],
+      "tags": [
+        "AI",
+        "Nvidia",
+        "Anthropic",
+        "IPO",
+        "export controls"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ILJak31_bJ8",
+      "title": "Trump Supports Nvidia Bringing Back CEO Jensen Huang (Full remarks)",
+      "title_zh": "特朗普支持黄仁勋重返英伟达CEO职位，淡化国家安全担忧",
+      "url": "https://www.youtube.com/watch?v=ILJak31_bJ8",
+      "published_at": "2026-11-16T17:38:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普公开表示支持黄仁勋重新担任英伟达CEO，称“很多人希望他回去”，并淡化对其与疑似中国间谍女性关系的国家安全担忧。此外，特朗普提及将与中国、俄罗斯、朝鲜领导人会晤。",
+      "summary_en": "President Trump publicly supported calls for Jensen Huang to return as Nvidia CEO, saying 'a lot of people are asking Jensen' and downplaying national security concerns about his relationship with a woman suspected of being a Chinese spy. Trump also mentioned upcoming meetings with leaders of China, Russia, and North Korea.",
+      "detail_zh": "特朗普在离开白宫前往亚洲前对记者表示，对于黄仁勋重返英伟达CEO一职“我不会介意”，并称“很多人都在问黄仁勋，他们认为他应该回去。这当然不是个坏主意。”特朗普还淡化了关于这位被罢免高管与一名疑似中国间谍女性关系的国家安全担忧。此外，特朗普透露将与中国国家主席习近平会晤，并可能会见俄罗斯总统普京和朝鲜领导人金正恩。",
+      "detail_en": "Trump told reporters at the White House before departing for Asia that he 'would not mind' Huang returning as Nvidia CEO, adding 'a lot of people are asking Jensen, they think Jensen should go back. That certainly isn't a bad idea.' Trump also downplayed national security concerns about the ousted executive's relationship with a woman suspected of being a Chinese spy. Additionally, Trump said he will meet with Chinese President Xi Jinping and may meet with Russian President Vladimir Putin and North Korean leader Kim Jong Un.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普支持黄仁勋重返英伟达CEO职位，称“很多人希望他回去”。",
+          "en": "Trump supports Jensen Huang returning as Nvidia CEO, saying 'a lot of people are asking Jensen'."
+        },
+        {
+          "zh": "特朗普淡化了关于黄仁勋与疑似中国间谍女性关系的国家安全担忧。",
+          "en": "Trump downplayed national security concerns about Huang's relationship with a woman suspected of being a Chinese spy."
+        },
+        {
+          "zh": "特朗普提及将与中国国家主席习近平会晤，并可能会见普京和金正恩。",
+          "en": "Trump mentioned meetings with Chinese President Xi Jinping and possibly with Putin and Kim Jong Un."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Trump",
+        "national security",
+        "CEO"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:m_1MYMMlOak",
+      "title": "Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call",
+      "title_zh": "美财长敦促英伟达进行“戏剧性”领导层调整并说明出口管制合规情况",
+      "url": "https://www.youtube.com/watch?v=m_1MYMMlOak",
+      "published_at": "2026-11-16T17:37:51+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在英伟达解除黄仁勋CEO职务数日后，美国财政部长贝森特敦促该公司进行“戏剧性”的领导层改组，并就其AI芯片出口管制的合规情况作出说明。压力正不断加大。",
+      "summary_en": "Days after Nvidia ousted Jensen Huang as CEO, Treasury Secretary Scott Bessent urged the company to make a \"dramatic\" leadership shakeup and come clean about its compliance with export controls on its AI chips. Pressure is mounting on the company.",
+      "detail_zh": "在英伟达解除黄仁勋首席执行官职务数日之后，美国财政部长斯科特·贝森特敦促该公司进行“戏剧性”的领导层改组，并就其重要AI芯片的出口管制合规情况作出说明。彭博科技节目主持人埃德·勒德洛讨论了本周的Anthropic IPO以及英伟达相关话题，背景是贝森特敦促该公司考虑CEO继任者的调整。报道显示，英伟达面临的压力正在加大。",
+      "detail_en": "Days after Nvidia ousted Jensen Huang as chief executive officer, Treasury Secretary Scott Bessent urged the company to make a \"dramatic\" leadership shakeup and come clean about its compliance with export controls on its prized AI chips. Ed Ludlow, host of Bloomberg Tech, discussed the Anthropic IPO this week and Nvidia, as Treasury Secretary Scott Bessent urged the company to consider a CEO successor shakeup. The report indicates that pressure is mounting on Nvidia.",
+      "conclusion_zh": "英伟达在CEO更迭后遭遇美国政府高层公开施压，要求其进行领导层改组并澄清出口管制合规情况，相关不确定性值得投资者关注。",
+      "conclusion_en": "Nvidia faces public pressure from a senior U.S. official after its CEO change, demanding a leadership shakeup and clarity on export control compliance; investors should watch the related uncertainty.",
+      "key_points": [
+        {
+          "zh": "英伟达在解除黄仁勋CEO职务数日后，面临美国财政部长贝森特的公开施压。",
+          "en": "Days after ousting Jensen Huang as CEO, Nvidia faces public pressure from Treasury Secretary Scott Bessent."
+        },
+        {
+          "zh": "贝森特敦促英伟达进行“戏剧性”的领导层改组，并考虑CEO继任者。",
+          "en": "Bessent urged Nvidia to make a \"dramatic\" leadership shakeup and consider a CEO successor."
+        },
+        {
+          "zh": "贝森特要求英伟达就其AI芯片出口管制的合规情况作出说明。",
+          "en": "Bessent pressed Nvidia to come clean about its compliance with export controls on its AI chips."
+        },
+        {
+          "zh": "彭博科技节目讨论了本周的Anthropic IPO以及英伟达的相关话题。",
+          "en": "Bloomberg Tech discussed the Anthropic IPO this week and Nvidia."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO shakeup",
+        "export controls",
+        "Treasury",
+        "AI chips"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:Ri_-SGiB10k",
+      "title": "Before Trump Gets to China, He's Stopping in Manila",
+      "title_zh": "特朗普亚洲行前瞻：马尼拉、北京与中俄峰会",
+      "url": "https://www.youtube.com/watch?v=Ri_-SGiB10k",
+      "published_at": "2026-11-16T17:37:42+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博社预览特朗普总统本周亚洲之行，行程包括访问马尼拉、北京，以及周四与习近平和普京的历史性三方会晤。报道聚焦美国与东南亚关系及中俄互动，但未提供具体政策细节或市场影响分析。",
+      "summary_en": "Bloomberg previews President Trump's Asia trip this week, including stops in Manila and Beijing, and a historic trilateral meeting with Xi Jinping and Vladimir Putin on Thursday. The report highlights US ties with Southeast Asia and China-Russia dynamics, but offers no specific policy details or market impact analysis.",
+      "detail_zh": "彭博社华盛顿记者Tyler Kendall预告了特朗普总统的亚洲之行。行程包括本周访问马尼拉，届时美国与东南亚的关系将成为焦点；随后前往中国，并于周四与习近平和普京举行历史性的三方会晤。报道未提及任何具体政策目标、经济议题或市场预期，仅作为行程前瞻。",
+      "detail_en": "Bloomberg Washington Correspondent Tyler Kendall previews President Trump's Asia trip. The itinerary includes a stop in Manila this week, where US ties with Southeast Asia will be in the spotlight, followed by a visit to China and a historic trilateral meeting with Xi Jinping and Vladimir Putin on Thursday. The report does not mention any specific policy goals, economic topics, or market expectations, serving only as an itinerary preview.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普本周访问马尼拉，聚焦美国与东南亚关系",
+          "en": "Trump visits Manila this week, spotlighting US ties with Southeast Asia"
+        },
+        {
+          "zh": "随后访问中国，周四与习近平和普京举行历史性三方会晤",
+          "en": "Later visits China for a historic trilateral meeting with Xi and Putin on Thursday"
+        },
+        {
+          "zh": "报道未提供具体政策细节或市场影响分析",
+          "en": "No specific policy details or market impact analysis provided"
+        }
+      ],
+      "tags": [
+        "Trump",
+        "Asia trip",
+        "China",
+        "Russia",
+        "Southeast Asia"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:prpIDNYJJ8A",
       "title": "Bloomberg Surveillance 11/16/2026",
@@ -16501,113 +16809,6 @@
         "regulation"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:wCfuyC61qOI",
-      "title": "Open Interest 11/9/2026",
-      "title_zh": "英伟达CEO黄仁勋涉中国间谍风波，引发治理与国家安全审视",
-      "url": "https://www.youtube.com/watch?v=wCfuyC61qOI",
-      "published_at": "2026-11-09T17:49:51+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋承认涉及一名疑似中国间谍的婚外情，引发对其领导力风险、美中紧张关系及AI交易的新一轮审视。节目还讨论了AI板块轮动、KKR募资与私人信贷需求、伊朗外交与油价反转，以及Anthropic的IPO与估值重置。",
-      "summary_en": "Nvidia CEO Jensen Huang acknowledged an affair involving an alleged Chinese spy, triggering fresh scrutiny over leadership risk, US-China tensions, and the AI trade. The program also covered AI sector rotation, KKR fundraising and private credit demand, Iran diplomacy and oil's reversal, and Anthropic's IPO and valuation reset.",
-      "detail_zh": "彭博《Open Interest》节目聚焦英伟达CEO黄仁勋承认涉及一名疑似中国间谍的婚外情后所面临的新审视，嘉宾包括退役上将James Stavridis和前国家安全委员会官员Chris McGuire，讨论该争议对英伟达、美中紧张关系、AI交易及华盛顿监管可能意味着什么。节目还涉及英伟达领导力风险、供应链以及谷歌AI芯片挑战。其他话题包括伊朗外交与特朗普策略、油市反转、KKR财报与募资热潮及私人信贷需求、Nomura Asset Management的Shawn Lytle谈AI回调与市场分散化、Molson Coors降级与DraftKings下调及AMD上调的顶级评级调整、Anthropic的IPO与估值重置、Partners Capital的Arjun Raghavan谈构建超越AI交易的韧性组合、谷歌AI芯片与Barrick Gold及Constellation Energy、Sanctuary Wealth的Mary Ann Bartels谈AI抛售与数据中心担忧及长期牛市展望、SharkNinja CEO谈关税与假日定价及AI驱动购物兴起，以及Stavridis谈中国、英伟达与国家安全及避免新冷战。",
-      "detail_en": "Bloomberg's \"Open Interest\" focused on new scrutiny facing Nvidia CEO Jensen Huang after he acknowledged an affair involving an alleged Chinese spy. Guests including Admiral James Stavridis and former NSC official Chris McGuire discussed what the controversy could mean for Nvidia, US-China tensions, the AI trade, and Washington oversight. The program also covered Nvidia leadership risk, supply chains, and Google's AI chip challenge. Other topics included Iran diplomacy and Trump's strategy, the oil market reversal, KKR earnings and a fundraising boom with private credit demand, Shawn Lytle of Nomura Asset Management on the AI correction and market diversification, top calls including a Molson Coors downgrade, DraftKings cuts, and an AMD upgrade, Anthropic's IPO and valuation reset, Arjun Raghavan of Partners Capital on building resilient portfolios beyond the AI trade, Google AI chips along with Barrick Gold and Constellation Energy, Mary Ann Bartels of Sanctuary Wealth on the AI selloff and data center fears with a secular bull market outlook, SharkNinja CEO Mark Barrocas on tariffs, holiday pricing, and the rise of AI-powered shopping, and Stavridis on China, Nvidia, national security, and avoiding a new Cold War.",
-      "conclusion_zh": "英伟达CEO相关争议可能加剧美中紧张与监管审视，投资者需关注AI交易的治理风险与板块轮动。",
-      "conclusion_en": "The controversy surrounding Nvidia's CEO could heighten US-China tensions and regulatory scrutiny, with investors needing to watch governance risks in the AI trade and sector rotation.",
-      "key_points": [
-        {
-          "zh": "黄仁勋承认涉及疑似中国间谍的婚外情，引发对英伟达治理、领导力风险及国家安全影响的审视。",
-          "en": "Jensen Huang acknowledged an affair involving an alleged Chinese spy, prompting scrutiny of Nvidia's governance, leadership risk, and national security implications."
-        },
-        {
-          "zh": "嘉宾讨论该争议对美中紧张关系、AI交易及华盛顿监管的潜在影响。",
-          "en": "Guests discussed the controversy's potential impact on US-China tensions, the AI trade, and Washington oversight."
-        },
-        {
-          "zh": "节目涉及AI板块轮动、市场分散化及超越AI交易的组合构建。",
-          "en": "The program covered AI sector rotation, market diversification, and portfolio construction beyond the AI trade."
-        },
-        {
-          "zh": "KKR财报显示募资热潮与私人信贷需求旺盛。",
-          "en": "KKR earnings highlighted a fundraising boom and strong private credit demand."
-        },
-        {
-          "zh": "顶级评级调整包括Molson Coors降级、DraftKings下调及AMD上调。",
-          "en": "Top calls included a Molson Coors downgrade, DraftKings cuts, and an AMD upgrade."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "AI trade",
-        "US-China",
-        "national security",
-        "private credit"
-      ],
-      "tickers": [
-        "NVDA",
-        "GOOGL",
-        "AMD",
-        "TAP",
-        "DKNG",
-        "KKR"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:wb1RYdXyEIk",
-      "title": "Bloomberg Surveillance 11/9/2026",
-      "title_zh": "彭博监控：英伟达动荡、AI 清算与通胀前景",
-      "url": "https://www.youtube.com/watch?v=wb1RYdXyEIk",
-      "published_at": "2026-11-09T17:24:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博监控节目围绕英伟达引发的 AI 交易动荡展开，嘉宾讨论了半导体盈利的可持续性、美国芯片出口政策可能的变化、AI 融资需求、美元前景以及通胀与劳动力市场状况。多位嘉宾对 AI 主题的长期趋势与短期市场周期表达了不同看法。",
-      "summary_en": "This episode of Bloomberg Surveillance focuses on the turmoil in the AI trade sparked by Nvidia, with guests discussing the sustainability of semiconductor earnings, potential shifts in US chip export policy, AI financing demand, the dollar outlook, and inflation and labor market conditions. Guests expressed differing views on the long-term AI theme versus the short-term market cycle.",
-      "detail_zh": "节目以“英伟达动荡、AI 清算与通胀在前”开篇。摩根大通私人银行的 Grace Peters 认为半导体盈利的“糖分兴奋”可能消退。欧亚集团的 Jon Lieber 讨论了黄仁勋相关丑闻可能如何改变美国芯片出口政策。巴克莱的 Dominique Toublan 表示 AI 融资需求依然强劲。法兴的 Kit Juckes 预计 2027 年将“对美元不那么友好”。Alpine Saxon Woods 的 Sarah Hunt 称英伟达为 AI 交易增添了“巨大的意外元素”。中国褐皮书的 Leland Miller 分析了英伟达调查对美中芯片销售的可能含义。Wellington Management 的 Matt Witheiler 认为 Anthropic 的 IPO 可能考验 AI 需求。摩根大通资产管理公司的 Oksana Aronov 指出“蓝色横扫”可能拉长 7 万亿美元的 AI 建设周期。SoFi 的 Liz Thomas 认为 AI 主题完好，但市场周期已变。前纽约联储主席 William Dudley 表示 AI 泡沫破裂未必引发危机。摩根士丹利的 Seth Carpenter 认为通胀过高，但劳动力市场并未过热。Janus Henderson 的 Mike Contopoulos 指出 AI 并非唯一的盈利增长故事。",
-      "detail_en": "The program opens with 'Nvidia Turmoil, AI Reckoning and Inflation Ahead.' Grace Peters of JPMorgan Private Bank suggests the 'sugar rush' in semiconductor earnings is likely to fade. Jon Lieber of Eurasia Group discusses how a Huang scandal could shift US chip export policy. Dominique Toublan of Barclays says AI financing demand remains strong. Kit Juckes of Societe Generale expects 2027 to be 'less dollar-friendly.' Sarah Hunt of Alpine Saxon Woods says Nvidia adds a 'huge element of surprise' to the AI trade. Leland Miller of China Beige Book analyzes what the Nvidia probe could mean for US-China chip sales. Matt Witheiler of Wellington Management believes an Anthropic IPO could put AI demand to the test. Oksana Aronov of JPMorgan Asset Management notes a 'blue sweep' could stretch out the $7 trillion AI buildout. Liz Thomas of SoFi says the AI theme is intact but the market cycle has changed. Former NY Fed President William Dudley says an AI bust may not cause a crisis. Seth Carpenter of Morgan Stanley says inflation is too high but the labor market isn't overheating. Mike Contopoulos of Janus Henderson Investors notes AI isn't the only earnings growth story.",
-      "conclusion_zh": "AI 主题长期趋势仍被部分嘉宾认可，但半导体盈利动能可能减弱、市场周期已变，需关注英伟达相关事件对出口政策与 AI 需求预期的扰动。",
-      "conclusion_en": "The long-term AI theme is still recognized by some guests, but semiconductor earnings momentum may be fading and the market cycle has changed; investors should watch how Nvidia-related events affect export policy and AI demand expectations.",
-      "key_points": [
-        {
-          "zh": "摩根大通私人银行的 Grace Peters 认为半导体盈利的“糖分兴奋”可能消退。",
-          "en": "Grace Peters of JPMorgan Private Bank suggests the 'sugar rush' in semiconductor earnings is likely to fade."
-        },
-        {
-          "zh": "欧亚集团的 Jon Lieber 讨论黄仁勋相关丑闻可能改变美国芯片出口政策。",
-          "en": "Jon Lieber of Eurasia Group discusses how a Huang scandal could shift US chip export policy."
-        },
-        {
-          "zh": "巴克莱的 Dominique Toublan 表示 AI 融资需求依然强劲。",
-          "en": "Dominique Toublan of Barclays says AI financing demand remains strong."
-        },
-        {
-          "zh": "法兴的 Kit Juckes 预计 2027 年将“对美元不那么友好”。",
-          "en": "Kit Juckes of Societe Generale expects 2027 to be 'less dollar-friendly.'"
-        },
-        {
-          "zh": "前纽约联储主席 William Dudley 表示 AI 泡沫破裂未必引发危机。",
-          "en": "Former NY Fed President William Dudley says an AI bust may not cause a crisis."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "AI trade",
-        "semiconductor earnings",
-        "chip export policy",
-        "inflation"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
       "sentiment": "neutral"
     }
   ]
