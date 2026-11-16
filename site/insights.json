@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:32:37.713125+00:00",
+  "generated_at": "2026-11-16T07:20:55.092344+00:00",
   "insights": [
     {
       "guid": "4968405",
@@ -16854,87 +16854,6 @@
         "Asian stocks",
         "Iran",
         "India stocks"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:hga7pFusjVc",
-      "title": "Hacked Records Put Russian War Deaths at  400,000",
-      "title_zh": "泄露数据：俄统计局记录约40万俄军阵亡",
-      "url": "https://www.youtube.com/watch?v=hga7pFusjVc",
-      "published_at": "2026-11-09T07:04:22+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "据彭博报道，俄罗斯统计局（Rosstat）机密数据显示，自近五年前全面入侵以来，约有40万俄罗斯人在乌克兰战场阵亡。该数据由白俄罗斯反对派组织Cyber Partisans与乌克兰黑客组织Silent Crow获取，并分享给彭博新闻等少数媒体。",
-      "summary_en": "According to Bloomberg, confidential data held by Russia's statistics agency Rosstat shows that about 400,000 Russians have died fighting in Ukraine since the full-scale invasion nearly five years ago. The data was obtained by the Belarusian pro-opposition group Cyber Partisans and the Ukrainian hacker operation Silent Crow, and shared with Bloomberg News and a small group of other outlets.",
-      "detail_zh": "彭博的Anthony Halpin报道称，俄罗斯统计局（Rosstat）持有的机密数据显示，自近五年前全面入侵以来，约有40万俄罗斯人在乌克兰作战中死亡。该数据由白俄罗斯反对派组织Cyber Partisans和乌克兰黑客组织Silent Crow获取，随后被分享给彭博新闻及少数其他媒体。报道未提供更多关于数据来源可靠性、统计口径或俄方回应的细节。",
-      "detail_en": "Bloomberg's Anthony Halpin reports that confidential data held by Russia's statistics agency, Rosstat, shows about 400,000 Russians have died fighting in Ukraine since the full-scale invasion nearly five years ago. The data was obtained by the Belarusian pro-opposition group Cyber Partisans and the Ukrainian hacker operation Silent Crow, and was subsequently shared with Bloomberg News and a small group of other outlets. The report does not provide further details on the reliability of the data source, the statistical methodology, or any Russian response.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "俄统计局机密数据显示约40万俄军在乌克兰阵亡",
-          "en": "Confidential Rosstat data shows about 400,000 Russian military deaths in Ukraine"
-        },
-        {
-          "zh": "数据由白俄罗斯反对派组织Cyber Partisans与乌克兰黑客组织Silent Crow获取",
-          "en": "The data was obtained by Belarusian pro-opposition group Cyber Partisans and Ukrainian hacker operation Silent Crow"
-        },
-        {
-          "zh": "数据被分享给彭博新闻及少数其他媒体",
-          "en": "The data was shared with Bloomberg News and a small group of other outlets"
-        }
-      ],
-      "tags": [
-        "Russia",
-        "Ukraine",
-        "Rosstat",
-        "data leak",
-        "casualties"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:gTaHaSijCoo",
-      "title": "Rubio Plays Down Chances of Breakthrough in Iran Talks",
-      "title_zh": "鲁比奥称伊朗要求不可接受，淡化谈判突破前景",
-      "url": "https://www.youtube.com/watch?v=gTaHaSijCoo",
-      "published_at": "2026-11-09T06:51:07+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国国务卿鲁比奥表示，伊朗迄今提出的要求不可接受，部分内容“离谱且荒谬”，并淡化了结束冲突谈判取得突破的前景。",
-      "summary_en": "US Secretary of State Marco Rubio said Iran's demands to date are unacceptable, calling some \"outrageous and ridiculous,\" and downplayed prospects for a breakthrough in talks to end the conflict.",
-      "detail_zh": "美国国务卿马可·鲁比奥就结束冲突的谈判前景发表评论。他表示，伊朗迄今提出的要求不可接受，其中一些要求“离谱且荒谬”。鲁比奥同时淡化了相关谈判取得突破的可能性。报道由Onur Ant提供细节。",
-      "detail_en": "US Secretary of State Marco Rubio commented on the prospects for talks to end the conflict. He said Iran's demands to date are unacceptable, with some described as \"outrageous and ridiculous.\" Rubio also downplayed the prospects for a breakthrough in the talks. Onur Ant has the details.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "鲁比奥称伊朗迄今的要求不可接受",
-          "en": "Rubio said Iran's demands to date are unacceptable"
-        },
-        {
-          "zh": "鲁比奥称部分要求“离谱且荒谬”",
-          "en": "Rubio called some demands \"outrageous and ridiculous\""
-        },
-        {
-          "zh": "鲁比奥淡化了结束冲突谈判取得突破的前景",
-          "en": "Rubio downplayed prospects for a breakthrough in talks to end the conflict"
-        }
-      ],
-      "tags": [
-        "Iran",
-        "US-Iran talks",
-        "conflict",
-        "diplomacy"
       ],
       "tickers": [],
       "sentiment": "neutral"
