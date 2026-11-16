@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T05:15:00.940860+00:00",
+  "generated_at": "2026-11-16T06:32:37.713125+00:00",
   "insights": [
     {
       "guid": "4968405",
@@ -16937,57 +16937,6 @@
         "diplomacy"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:4zzpPkAnBlQ",
-      "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
-      "title_zh": "英伟达董事会调查黄仁勋绯闻，间谍调查增添科技股反弹变数",
-      "url": "https://www.youtube.com/watch?v=4zzpPkAnBlQ",
-      "published_at": "2026-11-09T05:23:29+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博《亚洲交易》节目聚焦英伟达董事会就黄仁勋个人事务展开调查，以及相关间谍调查对科技股反弹的影响。节目还涵盖瑞银CEO对AI建设不确定性的看法、日本市场情绪、新西兰选举结果及比亚迪中东扩张等议题。",
-      "summary_en": "Bloomberg's The Asia Trade focuses on Nvidia's board probing Jensen Huang's affair and how an espionage probe adds a wrinkle to the tech rebound. The program also covers UBS CEO's views on AI buildout uncertainty, Japan market sentiment, New Zealand election results, and BYD's Middle East expansion.",
-      "detail_zh": "本期彭博《亚洲交易》节目首先报道英伟达董事会正就CEO黄仁勋的绯闻展开调查，亚洲市场可能因此承压。随后，瑞银CEO塞尔吉奥·埃尔莫蒂在独家采访中谈及AI建设面临的不确定性。节目还讨论了日本市场情绪与盈利情况（Amundi日本公司的石原弘美）、新西兰选举结果（梅西大学的理查德·肖），以及交易员对AI交易前景的考量。瑞穗证券亚洲的肖恩·达比就中期选举后的AI担忧发表看法，特朗普表示黄仁勋应继续担任英伟达CEO。此外，节目还包含对瑞银澳大利亚业务战略、地缘政治 futures 的乔治·弗里德曼关于英伟达间谍调查与美中战略的独家采访，以及比亚迪的李柯关于中东扩张的独家采访。最后提到英伟达间谍调查给科技股反弹增添变数，以及中国脱口秀喜剧 popularity 上升。",
-      "detail_en": "Bloomberg's The Asia Trade begins with a report that Nvidia's board is probing CEO Jensen Huang's affair, with Asian markets at risk of pressure from the probe. UBS CEO Sergio Ermotti discusses uncertainty around the AI buildout in an exclusive interview. The program also covers Japan market sentiment and earnings with Amundi Japan's Hiromi Ishihara, New Zealand election results with Massey University's Richard Shaw, and traders mulling the outlook for the AI trade. Mizuho Securities Asia's Sean Darby comments on post-midterms AI concerns, and Trump says Huang should stay on as Nvidia CEO. Additionally, there are exclusive interviews with UBS' Greg Peirce on Australia business strategy, Geopolitical Futures' George Friedman on the Nvidia spying probe and US-China strategy, and BYD's Stella Li on Middle East expansion. The segment notes that the Nvidia espionage probe adds a wrinkle to tech's rebound, and stand-up comedy's popularity grows in China.",
-      "conclusion_zh": "英伟达相关调查可能对科技股反弹构成短期扰动，投资者需关注AI交易情绪变化。",
-      "conclusion_en": "Nvidia-related probes may pose short-term disturbances to the tech rebound, and investors should watch shifts in AI trade sentiment.",
-      "key_points": [
-        {
-          "zh": "英伟达董事会正就CEO黄仁勋的绯闻展开调查，亚洲市场可能因此承压。",
-          "en": "Nvidia's board is probing CEO Jensen Huang's affair, with Asian markets at risk of pressure from the probe."
-        },
-        {
-          "zh": "瑞银CEO埃尔莫蒂在独家采访中谈及AI建设的不确定性。",
-          "en": "UBS CEO Ermotti discusses uncertainty around the AI buildout in an exclusive interview."
-        },
-        {
-          "zh": "特朗普表示黄仁勋应继续担任英伟达CEO。",
-          "en": "Trump says Huang should stay on as Nvidia CEO."
-        },
-        {
-          "zh": "英伟达间谍调查给科技股反弹增添变数。",
-          "en": "The Nvidia espionage probe adds a wrinkle to tech's rebound."
-        },
-        {
-          "zh": "节目还涵盖日本市场情绪、新西兰选举、比亚迪中东扩张等议题。",
-          "en": "The program also covers Japan market sentiment, New Zealand elections, and BYD's Middle East expansion."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "AI",
-        "tech rebound",
-        "espionage probe",
-        "Asia markets"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
       "sentiment": "neutral"
     }
   ]
