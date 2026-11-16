@@ -1,6 +1,354 @@
 {
-  "generated_at": "2026-11-16T21:12:06.883284+00:00",
+  "generated_at": "2026-11-16T22:12:30.631884+00:00",
   "insights": [
+    {
+      "guid": "yt:96z1mE2XuyI",
+      "title": "US Moves to Curb China’s Chip Access",
+      "title_zh": "美收紧AI芯片出口，克利夫兰联储呼吁更紧利率",
+      "url": "https://www.youtube.com/watch?v=96z1mE2XuyI",
+      "published_at": "2026-11-16T21:45:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普政府发布临时规则，要求多国数据中心运营商在从美国制造商出口先进AI芯片前获得美国政府许可。克利夫兰联储主席Hammack认为需要更紧的利率政策。此外，节目还讨论了雇主担保绿卡新规提案及美国家族办公室投资展望。",
+      "summary_en": "The Trump administration issued an interim rule requiring data center operators in several countries to obtain a US license before exporting advanced AI chips from American manufacturers. Cleveland Fed President Hammack believes tighter rate policy is needed. The program also covered a new proposal on employer-sponsored green cards and the outlook for family offices.",
+      "detail_zh": "特朗普政府发布一项临时规则，要求若干国家的数据中心运营商在从美国制造商向其客户出口先进AI芯片之前，必须获得美国政府许可证。彭博科技与战略行业高级编辑Michael Shepard对此进行了解读。随后，彭博的Mike McKee采访了克利夫兰联储主席Beth Hammack，她认为需要采取更紧的利率政策。节目还涉及通胀压力、劳动力市场与美联储政策、AI与生产率及经济的关系、AI投资与利率等话题。此外，彭博法律移民记者Andrew Kreighbaum解释了特朗普政府关于雇主担保绿卡规则的新提案。最后，美国银行家族办公室负责人Elizabeth Thiessen讨论了该行最新的家族办公室研究，涵盖2027年投资展望、为下一代财富做准备以及家族办公室如何使用AI。节目中还提到科技与英伟达股票下滑、英伟达与中国芯片漏洞、财政部与商务部出口限制、主要银行面临技术问题、市场在英伟达财报前下滑，以及泰森食品和L3Harris的股票走势。",
+      "detail_en": "The Trump administration issued an interim rule requiring data center operators in several countries to obtain a US government license before exporting advanced AI chips from American manufacturers to customers in those countries. Bloomberg Senior Editor for Technology & Strategic Industries Michael Shepard explained the move. Bloomberg's Mike McKee then interviewed Cleveland Fed President Beth Hammack, who said she believes tighter rate policy moves are needed. The program also touched on inflation pressures, the labor market and Fed policy, AI and productivity and the economy, and AI investment and interest rates. Additionally, Bloomberg Law Immigration Reporter Andrew Kreighbaum explained the new Trump administration proposal on rules for employer-sponsored green cards. Finally, Bank of America Head of Family Office Elizabeth Thiessen discussed the bank's latest Family Office Study, covering the 2027 investment outlook, preparing the next generation for wealth, and how family offices are using AI. The program also mentioned tech and Nvidia stocks sliding, Nvidia and the China chip loophole, Treasury and Commerce export restrictions, major banks facing technical issues, markets sliding ahead of Nvidia earnings, and stock movers Tyson Foods and L3Harris.",
+      "conclusion_zh": "美国收紧AI芯片出口管制与美联储官员呼吁更紧利率，构成科技与宏观双重逆风，需关注英伟达财报及政策落地细节。",
+      "conclusion_en": "Tighter US AI chip export controls and a Fed official's call for tighter policy present dual headwinds for tech and macro; watch Nvidia earnings and policy details.",
+      "key_points": [
+        {
+          "zh": "特朗普政府发布临时规则，要求多国数据中心运营商在出口美国制造的先进AI芯片前获得美国政府许可证。",
+          "en": "The Trump administration issued an interim rule requiring data center operators in several countries to obtain a US government license before exporting advanced AI chips made by American manufacturers."
+        },
+        {
+          "zh": "克利夫兰联储主席Beth Hammack认为需要采取更紧的利率政策。",
+          "en": "Cleveland Fed President Beth Hammack believes tighter rate policy moves are needed."
+        },
+        {
+          "zh": "特朗普政府提出关于雇主担保绿卡规则的新提案。",
+          "en": "The Trump administration proposed new rules for employer-sponsored green cards."
+        },
+        {
+          "zh": "美国银行家族办公室研究涵盖2027年投资展望、下一代财富准备及AI使用。",
+          "en": "Bank of America's Family Office Study covers the 2027 investment outlook, preparing the next generation for wealth, and AI usage."
+        }
+      ],
+      "tags": [
+        "AI chips",
+        "export controls",
+        "Fed policy",
+        "immigration",
+        "family offices"
+      ],
+      "tickers": [
+        "NVDA",
+        "TSN",
+        "LHX"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:0PInu6oF42c",
+      "title": "Stock Selloff Intensifies | Closing Bell",
+      "title_zh": "彭博电视美股收盘节目介绍",
+      "url": "https://www.youtube.com/watch?v=0PInu6oF42c",
+      "published_at": "2026-11-16T21:42:46+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "原文仅为彭博电视美股收盘节目的跨平台播出信息及社交媒体链接，未包含任何市场数据、观点或分析。",
+      "summary_en": "The original text is merely promotional information about Bloomberg Television's U.S. market close program and its social media links, with no market data, opinions, or analysis.",
+      "detail_zh": "原文介绍了彭博电视、彭博电台和YouTube对美股收盘的跨平台报道，提及主持人Romaine Bostick、Vonnie Quinn、Carol Massar和Tim Stenovec。内容主要为节目推广和社交媒体链接，未提供任何具体的市场动态、数据或投资观点。",
+      "detail_en": "The original text describes Bloomberg Television, Bloomberg Radio, and YouTube's cross-platform coverage of the U.S. market close, mentioning hosts Romaine Bostick, Vonnie Quinn, Carol Massar, and Tim Stenovec. The content is primarily program promotion and social media links, without any specific market developments, data, or investment views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "原文为彭博电视美股收盘节目的介绍和推广内容。",
+          "en": "The original text is introductory and promotional content for Bloomberg Television's U.S. market close program."
+        },
+        {
+          "zh": "提及主持人Romaine Bostick、Vonnie Quinn、Carol Massar和Tim Stenovec。",
+          "en": "Mentions hosts Romaine Bostick, Vonnie Quinn, Carol Massar, and Tim Stenovec."
+        },
+        {
+          "zh": "未包含任何市场数据、分析或投资观点。",
+          "en": "Contains no market data, analysis, or investment opinions."
+        }
+      ],
+      "tags": [
+        "Bloomberg",
+        "market close",
+        "TV program"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:IWaPbiKtUR8",
+      "title": "Kalshi to Offer Stock Trading After Buying Brokerage",
+      "title_zh": "Kalshi收购券商，拟推出股票交易",
+      "url": "https://www.youtube.com/watch?v=IWaPbiKtUR8",
+      "published_at": "2026-11-16T21:40:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "预测市场平台Kalshi通过收购券商FB Securities，计划在其应用上提供股票交易和ETF，从预测市场向更广泛的金融服务扩张。该消息由《华尔街日报》率先报道。",
+      "summary_en": "Prediction market platform Kalshi is preparing to offer stock trading and ETFs on its app after acquiring brokerage firm FB Securities, expanding beyond prediction markets. The story was first reported by The Wall Street Journal.",
+      "detail_zh": "Kalshi Inc. 正在准备在其应用上提供股票交易服务，此前该公司收购了一家名为FB Securities的券商。此举旨在让公司从单纯的预测市场业务向更广泛的领域扩张。除了股票交易，Kalshi还将提供交易所交易基金（ETF）。该消息由《华尔街日报》于周一率先报道。",
+      "detail_en": "Kalshi Inc. is preparing to offer stock trading on its app after acquiring a brokerage firm called FB Securities. The move is aimed at expanding beyond its core prediction market business. In addition to stock trading, Kalshi will also offer exchange-traded funds (ETFs). The story was first reported by The Wall Street Journal on Monday.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Kalshi收购券商FB Securities，为推出股票交易铺路。",
+          "en": "Kalshi acquired brokerage firm FB Securities to pave the way for stock trading."
+        },
+        {
+          "zh": "计划在其应用上提供股票交易和ETF，扩张至预测市场之外。",
+          "en": "Plans to offer stock trading and ETFs on its app, expanding beyond prediction markets."
+        },
+        {
+          "zh": "消息由《华尔街日报》周一率先报道。",
+          "en": "The story was first reported by The Wall Street Journal on Monday."
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "stock trading",
+        "prediction markets",
+        "brokerage acquisition"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:cuCt2QLNdrM",
+      "title": "Asean Leaders Gather at Philippines Summit",
+      "title_zh": "多国领导人齐聚菲律宾参加东盟峰会",
+      "url": "https://www.youtube.com/watch?v=cuCt2QLNdrM",
+      "published_at": "2026-11-16T21:16:20+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "印度总理莫迪、日本首相高市早苗和澳大利亚总理阿尔巴尼斯等世界领导人将出席在菲律宾举行的东盟峰会。",
+      "summary_en": "World leaders including India's Narendra Modi, Japan's Sanae Takaichi, and Australia's Anthony Albanese are gathering for the ASEAN summit in the Philippines.",
+      "detail_zh": "据彭博社报道，印度总理纳伦德拉·莫迪、日本首相高市早苗和澳大利亚总理安东尼·阿尔巴尼斯等世界领导人将齐聚菲律宾参加东盟峰会。报道未提供峰会具体议程、议题或预期成果的详细信息。",
+      "detail_en": "According to Bloomberg, world leaders such as India's Narendra Modi, Japan's Sanae Takaichi, and Australia's Anthony Albanese are gathering in the Philippines for the ASEAN summit. The report does not provide details on the summit's agenda, topics, or expected outcomes.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "印度总理莫迪将出席东盟峰会",
+          "en": "India's Prime Minister Narendra Modi will attend the ASEAN summit"
+        },
+        {
+          "zh": "日本首相高市早苗将出席东盟峰会",
+          "en": "Japan's Prime Minister Sanae Takaichi will attend the ASEAN summit"
+        },
+        {
+          "zh": "澳大利亚总理阿尔巴尼斯将出席东盟峰会",
+          "en": "Australia's Prime Minister Anthony Albanese will attend the ASEAN summit"
+        },
+        {
+          "zh": "峰会地点为菲律宾",
+          "en": "The summit is taking place in the Philippines"
+        }
+      ],
+      "tags": [
+        "ASEAN summit",
+        "Philippines",
+        "Modi",
+        "Takaichi",
+        "Albanese"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:yFTazDnpNyg",
+      "title": "Odd Lots: The “Trilemma” Behind the US-China AI Arms Race",
+      "title_zh": "Odd Lots播客：Nvidia危机揭示全球大国在压低价格与保护主权之间的两难",
+      "url": "https://www.youtube.com/watch?v=yFTazDnpNyg",
+      "published_at": "2026-11-16T21:15:59+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Variant Perception首席投资官Tian Yang在Odd Lots播客中讨论Nvidia危机如何揭示全球大国面临的双重压力：既要压低价格让消费者满意，又要保护主权。",
+      "summary_en": "Tian Yang, CIO of Variant Perception, discusses on the Odd Lots podcast how the Nvidia crisis reveals competing pressures on global powers: keeping prices down and consumers happy while protecting sovereignty.",
+      "detail_zh": "在最新一期Odd Lots播客中，Variant Perception首席投资官兼VPX基金经理Tian Yang与主持人Joe Weisenthal和Tracy Alloway讨论了Nvidia危机。讨论的核心是这一危机如何揭示全球大国面临的双重压力：一方面要压低价格、让消费者满意，另一方面要保护主权。原文未提供更多具体细节、数字或因果分析。",
+      "detail_en": "On the latest Odd Lots podcast, Tian Yang, CIO and manager of the VPX fund at Variant Perception, joined hosts Joe Weisenthal and Tracy Alloway to discuss the Nvidia crisis. The core discussion focused on how this crisis reveals the competing pressures facing global powers: keeping prices down and consumers happy while protecting sovereignty. The original text does not provide further specific details, numbers, or causal analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Tian Yang是Variant Perception的首席投资官兼VPX基金经理。",
+          "en": "Tian Yang is CIO and manager of the VPX fund at Variant Perception."
+        },
+        {
+          "zh": "讨论在Odd Lots播客中进行，主持人为Joe Weisenthal和Tracy Alloway。",
+          "en": "The discussion took place on the Odd Lots podcast, hosted by Joe Weisenthal and Tracy Alloway."
+        },
+        {
+          "zh": "Nvidia危机揭示了全球大国面临的双重压力：压低价格与保护主权。",
+          "en": "The Nvidia crisis reveals competing pressures on global powers: keeping prices down and protecting sovereignty."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "global powers",
+        "sovereignty",
+        "consumer prices",
+        "Odd Lots"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:P7wo4CvpDsw",
+      "title": "Everybody’s Business: China Is Writing Its Own AI Playbook",
+      "title_zh": "中国AI叙事：政府推动制造业中心，公众态度更积极",
+      "url": "https://www.youtube.com/watch?v=P7wo4CvpDsw",
+      "published_at": "2026-11-16T21:06:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国AI公司面临公众形象问题，而中国公众对AI的态度总体更积极，政府正牵头将农村和内陆地区转变为AI驱动的制造业中心。Brad Stone在播客中讨论了他对电动汽车制造商Zeekr的工厂参观，以及中国如何书写自己的AI故事。",
+      "summary_en": "While US AI companies struggle with a public image problem, Chinese attitudes towards AI are generally more positive, with the government leading efforts to turn rural and inland regions into AI-driven manufacturing hubs. Brad Stone discusses his factory tour of EV maker Zeekr and how China is writing its own AI story on the Everybody's Business podcast.",
+      "detail_zh": "原文指出，美国AI公司正面临公众形象问题，而中国公众对AI的态度总体更为积极。中国政府正牵头推动将农村和内陆地区转变为AI驱动的制造业中心。Brad Stone在Everybody's Business播客中与Stacey Vanek Smith和Max Chafkin讨论了此次中国之行，包括对电动汽车制造商Zeekr的工厂参观，以及中国如何书写自己的AI故事。原文未提供具体数据、公司财务细节或对美股的影响分析。",
+      "detail_en": "The original text notes that US AI companies are struggling with a public image problem, while Chinese attitudes towards AI are generally more positive. The Chinese government is leading the charge to turn rural and inland regions into AI-driven manufacturing hubs. Brad Stone joins Stacey Vanek Smith and Max Chafkin on the Everybody's Business podcast to discuss his factory tour of EV maker Zeekr and how China is writing its own AI story. No specific data, financial details, or analysis of US equity impact is provided.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国AI公司面临公众形象问题，而中国公众对AI态度更积极。",
+          "en": "US AI companies face a public image problem, while Chinese public attitudes towards AI are more positive."
+        },
+        {
+          "zh": "中国政府牵头将农村和内陆地区转变为AI驱动的制造业中心。",
+          "en": "The Chinese government is leading efforts to transform rural and inland regions into AI-driven manufacturing hubs."
+        },
+        {
+          "zh": "Brad Stone在播客中讨论了对电动汽车制造商Zeekr的工厂参观。",
+          "en": "Brad Stone discusses his factory tour of EV maker Zeekr on the podcast."
+        },
+        {
+          "zh": "中国正在书写自己的AI故事，与美国叙事形成对比。",
+          "en": "China is writing its own AI story, contrasting with the US narrative."
+        }
+      ],
+      "tags": [
+        "AI",
+        "China",
+        "manufacturing",
+        "public perception",
+        "EV"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:o2kV-JhJtus",
+      "title": "Cruise Ship Capsizes After Tanker Collision in New Orleans",
+      "title_zh": "新奥尔良河轮倾覆事故全员寻获，32人送医",
+      "url": "https://www.youtube.com/watch?v=o2kV-JhJtus",
+      "published_at": "2026-11-16T21:05:44+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "新奥尔良一艘河轮与油轮相撞后倾覆，市长表示所有乘客和船员均已寻获，32人住院但无人重伤。该事件与美股投资无直接关联。",
+      "summary_en": "A river cruise ship capsized after colliding with a tanker in New Orleans; the mayor said all passengers and crew are accounted for, with 32 hospitalized but none critically injured. The event has no direct relevance to US equities.",
+      "detail_zh": "新奥尔良市长海伦娜·莫雷诺表示，周五一艘河轮与油轮相撞后倾覆，船上所有乘客和船员均已寻获。事故导致32人住院，但无人重伤。原文未提供更多关于事故原因、涉事船只所属公司或市场影响的细节。该新闻属于社会突发事件，与金融市场和科技领域无直接关联。",
+      "detail_en": "New Orleans Mayor Helena Moreno said all passengers and crew aboard a river cruise ship that capsized after colliding with a tanker on Friday have been accounted for. Thirty-two people were hospitalized, but none were critically injured. The original text provides no further details on the cause, the companies involved, or market impact. This is a social incident with no direct link to financial markets or technology.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "新奥尔良河轮与油轮相撞后倾覆，全员已寻获。",
+          "en": "A river cruise ship capsized after colliding with a tanker in New Orleans; all aboard are accounted for."
+        },
+        {
+          "zh": "32人住院，但无人重伤。",
+          "en": "32 people were hospitalized, but none critically injured."
+        },
+        {
+          "zh": "市长海伦娜·莫雷诺提供了事故信息。",
+          "en": "Mayor Helena Moreno provided the incident information."
+        }
+      ],
+      "tags": [
+        "New Orleans",
+        "river cruise",
+        "collision",
+        "casualty"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:r5uhv8AM5MM",
+      "title": "Anthropic Fervor, Vanguard's 'Hot Sauce,' \"ETIFs\" Emerge",
+      "title_zh": "Bloomberg ETF IQ：AI、主动ETF与私人市场ETF成焦点",
+      "url": "https://www.youtube.com/watch?v=r5uhv8AM5MM",
+      "published_at": "2026-11-16T21:05:39+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期Bloomberg ETF IQ讨论了AI与ETF投资、英伟达回调下的杠杆ETF抄底策略、主动ETF的快速增长、私人市场ETF、预测市场ETF以及新兴市场债券ETF等话题。嘉宾包括Raymond James、ETF.com、Vanguard和BNY的代表。",
+      "summary_en": "This episode of Bloomberg ETF IQ covers AI and ETF investing, leveraged ETF dip-buying amid the Nvidia selloff, the growth of active ETFs, private market ETFs, prediction market ETFs, and emerging market bond ETFs. Guests include representatives from Raymond James, ETF.com, Vanguard, and BNY.",
+      "detail_zh": "节目由Bloomberg ETF IQ头条开始，Eric Balchunas讨论了ETF资金流。Raymond James副总裁Mayuranki De谈及AI与ETF投资，随后讨论了英伟达回调与投资者策略，以及杠杆ETF与逢低买入。节目还探讨了主动ETF的增长动因、主题ETF的下一步，以及BlackRock的私人市场ETF。ETF.com总裁Dave Nadig就私人市场ETF发表看法，并讨论了Anthropic IPO与ETF需求、英伟达对指数的影响以及预测市场ETF。在ETF Drill Down环节，Vanguard的Katy Righi讨论了Vanguard新兴市场债券ETF，包括为何选择新兴市场而非美国债券、主动债券选择与表现、新兴市场债券在组合中的角色以及Vanguard的全球信用研究。最后，BNY全球ETF主管Ben Slavin讨论了创纪录的ETF发行、ETF关闭与市场饱和，以及加密ETF与代币化。",
+      "detail_en": "The program begins with ETF IQ headlines, followed by Eric Balchunas on ETF flows. Mayuranki De, Vice President of ETF Strategy at Raymond James, discusses AI and ETF investing, followed by segments on the Nvidia selloff and investor strategy, and leveraged ETFs and buying the dip. The show also explores the growth of active ETFs, what's next for thematic ETFs, and BlackRock's private market ETF. Dave Nadig, President & Director of Research at ETF.com, comments on private market ETFs, and discusses the Anthropic IPO and ETF demand, Nvidia's impact on indexes, and prediction market ETFs. In the ETF Drill Down segment, Katy Righi of Vanguard discusses the Vanguard Emerging Markets Bond ETF, including why emerging markets over U.S. bonds, active bond selection and performance, emerging market bonds in a portfolio, and Vanguard's global credit research. Finally, Ben Slavin, BNY Global Head of ETFs, discusses record ETF launches, ETF closures and market saturation, and crypto ETFs and tokenization.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Raymond James的Mayuranki De讨论AI与ETF投资。",
+          "en": "Mayuranki De of Raymond James discusses AI and ETF investing."
+        },
+        {
+          "zh": "节目涉及英伟达回调下的投资者策略及杠杆ETF逢低买入。",
+          "en": "The show covers investor strategy amid the Nvidia selloff and leveraged ETF dip-buying."
+        },
+        {
+          "zh": "主动ETF的增长及主题ETF的未来是讨论焦点。",
+          "en": "The growth of active ETFs and the future of thematic ETFs are key topics."
+        },
+        {
+          "zh": "Dave Nadig讨论私人市场ETF、Anthropic IPO与ETF需求、英伟达对指数的影响及预测市场ETF。",
+          "en": "Dave Nadig discusses private market ETFs, the Anthropic IPO and ETF demand, Nvidia's impact on indexes, and prediction market ETFs."
+        },
+        {
+          "zh": "Vanguard的Katy Righi讨论新兴市场债券ETF及主动债券选择。",
+          "en": "Katy Righi of Vanguard discusses emerging market bond ETFs and active bond selection."
+        }
+      ],
+      "tags": [
+        "ETF",
+        "AI",
+        "active ETFs",
+        "private market ETFs",
+        "emerging market bonds"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:hR_GoHbS4mk",
       "title": "Trump Backs Calls for Huang to Be Reinstated as Nvidia CEO",
@@ -14766,6 +15114,48 @@
       "sentiment": "neutral"
     },
     {
+      "guid": "yt:3TWTYR3rb4o",
+      "title": "The Whole Market Is Watching Nvidia. Are You Watching the Right Levels? | SpotGamma",
+      "title_zh": "英伟达下跌而AI板块反弹，期权数据揭示持仓驱动",
+      "url": "https://www.youtube.com/watch?v=3TWTYR3rb4o",
+      "published_at": "2026-11-10T15:33:35+00:00",
+      "source_name": "SpotGamma",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "volatility"
+      ],
+      "summary_zh": "英伟达开盘下跌，但其他AI概念股反弹，油价因美伊协议希望下跌近5%。SpotGamma指出，期权数据能揭示新闻未体现的持仓驱动因素，并提供实时市场分析。",
+      "summary_en": "Nvidia fell at the open, yet the broader AI trade rallied and oil dropped nearly 5% on hopes of a U.S.-Iran deal. SpotGamma highlights that options data can reveal positioning-driven price action beyond headlines, offering real-time analysis.",
+      "detail_zh": "英伟达今日开盘下跌，此前AI引发的抛售曾将纳斯达克推入回调区间。然而，AI板块的其他股票出现反弹，同时油价因美伊协议希望下跌近5%。SpotGamma创始人Brent Kochuba将举办免费网络研讨会，实时解析当日价格走势和关键SpotGamma水平，展示数据与图表及其对后续市场的潜在含义。SpotGamma提供期权数据工具，帮助交易者理解持仓如何驱动价格。",
+      "detail_en": "Nvidia sank at the open today, just days after an AI-led selloff pushed the Nasdaq into correction territory. Yet the rest of the AI trade rallied, while oil fell nearly 5% on hopes of a U.S.-Iran deal. SpotGamma founder Brent Kochuba will host a free webinar to break down the day's price action and key SpotGamma levels in real-time, showing the data and charts behind the read and what they could mean for the days ahead. SpotGamma offers options data tools to help traders understand how positioning may drive price.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达开盘下跌，但其他AI概念股反弹，油价因美伊协议希望下跌近5%。",
+          "en": "Nvidia fell at the open, but the rest of the AI trade rallied, and oil dropped nearly 5% on hopes of a U.S.-Iran deal."
+        },
+        {
+          "zh": "SpotGamma认为期权数据能揭示新闻未体现的持仓驱动因素。",
+          "en": "SpotGamma suggests options data can show positioning-driven factors not evident in the news."
+        },
+        {
+          "zh": "SpotGamma提供免费网络研讨会，实时解析市场走势和关键水平。",
+          "en": "SpotGamma offers a free webinar for real-time breakdown of market action and key levels."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI trade",
+        "options positioning",
+        "oil",
+        "Iran deal"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
       "guid": "yt:X9_ZKzaxDJw",
       "title": "Skydance to release New Paramount+, HBO Max Bundle",
       "title_zh": "Skydance 公布派拉蒙与华纳兄弟探索合并计划：拟推捆绑流媒体并实现60亿美元协同效应",
@@ -16352,567 +16742,6 @@
       ],
       "tickers": [
         "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:NJ6Xrh4HU2U",
-      "title": "Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO",
-      "title_zh": "Gerber Kawasaki CEO 就英伟达CEO黄仁勋相关调查置评",
-      "url": "https://www.youtube.com/watch?v=NJ6Xrh4HU2U",
-      "published_at": "2026-11-09T22:08:44+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Gerber Kawasaki 联合创始人、总裁兼CEO Ross Gerber 在 Bloomberg The Close 节目中，就针对英伟达CEO黄仁勋与一名据称中国间谍有染的调查作出回应。原文未披露其具体观点或调查细节。",
-      "summary_en": "Ross Gerber, co-founder, president and CEO of Gerber Kawasaki Wealth and Investment Management, reacted on Bloomberg The Close to the investigation into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. The source does not disclose his specific remarks or details of the investigation.",
-      "detail_zh": "原文仅说明 Ross Gerber 在 Bloomberg The Close 节目中，就针对英伟达CEO黄仁勋与一名据称中国间谍有染的调查作出回应。原文未提供调查的具体内容、Gerber 的具体评论、任何数字或对英伟达股价/业务的影响判断。其余内容为 Bloomberg 的社交媒体与订阅推广信息，不构成投资信息。",
-      "detail_en": "The source only states that Ross Gerber appeared on Bloomberg The Close to react to the investigation into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. It provides no details of the investigation, no specifics of Gerber's remarks, no figures, and no assessment of impact on Nvidia's stock or business. The remainder is Bloomberg promotional and subscription material and carries no investment information.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Gerber Kawasaki 的 Ross Gerber 就针对英伟达CEO黄仁勋的调查在 Bloomberg The Close 置评。",
-          "en": "Ross Gerber of Gerber Kawasaki commented on the investigation into Nvidia CEO Jensen Huang on Bloomberg The Close."
-        },
-        {
-          "zh": "调查涉及黄仁勋与一名据称中国间谍有染。",
-          "en": "The investigation concerns Huang's affair with an alleged Chinese spy."
-        },
-        {
-          "zh": "原文未披露 Gerber 的具体观点或调查细节。",
-          "en": "The source does not disclose Gerber's specific views or details of the investigation."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "investigation",
-        "Bloomberg"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:pTqqHEYzZ2Y",
-      "title": "Nvidia Shares Fall Amid CEO Probe",
-      "title_zh": "英伟达因CEO调查股价承压，市场整体反弹",
-      "url": "https://www.youtube.com/watch?v=pTqqHEYzZ2Y",
-      "published_at": "2026-11-09T22:04:55+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达董事会因CEO黄仁勋承认与疑似中国间谍的女性有婚外情而对其展开调查，导致英伟达股价周一下跌。尽管英伟达承压，市场整体反弹，AI交易在英伟达缺席下仍上涨。讨论还涉及英伟达的继任问题、国家安全审查以及竞争对手可能受益。",
-      "summary_en": "Nvidia shares fell Monday after the board launched an investigation into CEO Jensen Huang following his admission of an affair with a woman identified as a suspected Chinese spy. Despite Nvidia's pressure, markets rallied and the AI trade advanced without Nvidia. Discussions also covered Nvidia's succession problem, national security scrutiny, and potential benefits for rivals.",
-      "detail_zh": "英伟达股价周一下跌，此前公司董事会宣布对CEO黄仁勋展开调查，起因是黄仁勋承认与一名被多篇报道指认为疑似中国间谍的女性有婚外情。彭博新闻美国半导体记者Ian King和彭博情报的Mandeep Singh分析了这一丑闻和调查对行业的影响。讨论涉及英伟达的继任问题、国家安全审查以及竞争对手是否可能从英伟达的困境中受益。此外，共和党众议员Thomas Massie在众议院提交决议，要求弹劾国防部长Pete Hegseth，彭博的Mike Shepard和哥伦比亚大学政治学教授Elizabeth Saunders讨论了此举对特朗普政府的意义。节目还涵盖市场反弹、AI交易在英伟达承压下的表现、谷歌AI芯片对英伟达的挑战以及AMD和能源等股票动态。",
-      "detail_en": "Nvidia shares took a hit Monday after the company's board launched an investigation into CEO Jensen Huang, following his admission of an affair with a woman identified in reports as a suspected Chinese spy. Bloomberg News US Semiconductor Reporter Ian King and Bloomberg Intelligence's Mandeep Singh broke down how the scandal and investigation are impacting the industry. Discussions covered Nvidia's succession problem, national security scrutiny, and whether rivals could benefit from Nvidia's troubles. Additionally, Republican Congressman Thomas Massie filed a resolution in the House to impeach Defense Secretary Pete Hegseth; Bloomberg's Mike Shepard and Columbia University Political Science Professor Elizabeth Saunders discussed what the effort means for the Trump Administration. The program also covered markets rallying, the AI trade's performance amid Nvidia's pressure, Google's AI chips challenging Nvidia, and stock movers including Nvidia, AMD, and energy.",
-      "conclusion_zh": "英伟达CEO调查事件短期内对股价构成压力，但市场整体反弹和AI交易的韧性显示投资者可能正在分散风险；需关注调查进展、国家安全审查及竞争对手动态。",
-      "conclusion_en": "The CEO investigation pressures Nvidia shares in the short term, but the broader market rally and resilience of the AI trade suggest investors may be diversifying risk; watch investigation developments, national security scrutiny, and rival dynamics.",
-      "key_points": [
-        {
-          "zh": "英伟达董事会因CEO黄仁勋承认婚外情（对方被指疑似中国间谍）而对其展开调查，导致股价周一下跌。",
-          "en": "Nvidia's board launched an investigation into CEO Jensen Huang after he admitted an affair with a woman identified as a suspected Chinese spy, causing shares to fall Monday."
-        },
-        {
-          "zh": "尽管英伟达承压，市场整体反弹，AI交易在英伟达缺席下仍上涨。",
-          "en": "Despite Nvidia's pressure, markets rallied and the AI trade advanced without Nvidia."
-        },
-        {
-          "zh": "讨论涉及英伟达的继任问题、国家安全审查以及竞争对手可能受益。",
-          "en": "Discussions covered Nvidia's succession problem, national security scrutiny, and potential benefits for rivals."
-        },
-        {
-          "zh": "共和党众议员Thomas Massie提交弹劾国防部长Pete Hegseth的决议，引发对特朗普政府影响的讨论。",
-          "en": "Republican Congressman Thomas Massie filed a resolution to impeach Defense Secretary Pete Hegseth, sparking discussion on implications for the Trump Administration."
-        },
-        {
-          "zh": "谷歌AI芯片对英伟达构成挑战，股票动态包括英伟达、AMD和能源股。",
-          "en": "Google's AI chips challenge Nvidia, with stock movers including Nvidia, AMD, and energy."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "CEO investigation",
-        "AI trade",
-        "national security",
-        "semiconductors"
-      ],
-      "tickers": [
-        "NVDA",
-        "AMD",
-        "GOOGL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5_H7PCUWYVc",
-      "title": "AI Held Up Stocks. What’s Holding Up AI?",
-      "title_zh": "流动性放缓与AI交易：市场面临的关键考验",
-      "url": "https://www.youtube.com/watch?v=5_H7PCUWYVc",
-      "published_at": "2026-11-09T22:03:02+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "Michael Howell指出全球流动性增速已在2025年末见顶，2026年持续放缓，导致风险资产波动加剧，而AI交易成为市场主要支撑，但该交易可能面临融资条件挑战。讨论强调金融与实体经济流动性相互竞争，AI资本开支正从金融市场抽离资金。",
-      "summary_en": "Michael Howell notes that global liquidity growth peaked in late 2025 and has been slowing in 2026, making asset gains harder and increasing choppiness in risk assets. The AI trade has been holding up the market, but it may face financing challenges as capital is redeployed from financial markets to real economy capex.",
-      "detail_zh": "在XS Returns播客中，流动性专家Michael Howell表示，全球流动性周期（以增速衡量）已于2025年末见顶，2026年流动性状况逐步恶化。尽管绝对水平未必下降，但增速放缓使资产增值更困难，风险资产市场出现更多波动。对流动性敏感的小盘股（罗素2000）、比特币、黄金和信用利差已开始表现不佳，市场越来越依赖AI这一单一交易支撑，而该交易可能即将结束。Howell强调，资本密集型行业始终具有周期性，周期往往因融资条件或无法为新资本开支融资而受到冲击。他定义全球流动性为资金通过世界金融市场的流动，区分金融市场流动性与实体经济流动性，指出所有货币必在某一处，若在实体经济则不在金融市场，反之亦然。流动性代表金融部门的融资能力，即资产负债表承接债务、再融资和进行交易的空间。近期华尔街与主街争夺流动性：大型 hyperscalers 的现金正从金融市场（如短期国债）重新配置到AI资本开支等实体经济项目，不再体现在金融市场统计中。",
-      "detail_en": "In the XS Returns podcast, liquidity expert Michael Howell stated that the global liquidity cycle, measured by its growth rate, peaked in late 2025 and liquidity conditions have been progressively deteriorating in 2026. While the absolute level may not be falling, the slowing growth rate is making asset gains much harder and causing more choppiness in risk asset markets. Liquidity-sensitive assets such as small caps (Russell 2000), Bitcoin, gold, and credit spreads are already performing poorly, and the market is increasingly held up by the single AI trade, which may be coming to an end. Howell emphasized that capital-intensive industries are always cyclical, and the cycle often bites due to financing conditions or an inability to fund new capex. He defines global liquidity as the flow of funds through world financial markets, distinguishing financial market liquidity from real economy liquidity, and noting that all money must be somewhere—if it's in the real economy, it's not in financial markets, and vice versa. Liquidity represents the financing capacity of the financial sector, i.e., balance sheet capacity to take on debt, refinance, and conduct transactions. Recently, Wall Street is competing with Main Street for liquidity: cash from large hyperscalers is being redeployed from financial markets (e.g., short-dated Treasuries) into real economy projects like AI capex, no longer appearing in financial market statistics.",
-      "conclusion_zh": "流动性增速放缓与AI交易集中度上升构成市场脆弱性，投资者需关注融资条件变化对资本密集型科技板块的潜在冲击。",
-      "conclusion_en": "Slowing liquidity growth and rising concentration in the AI trade create market fragility; investors should watch financing conditions for potential shocks to capital-intensive tech sectors.",
-      "key_points": [
-        {
-          "zh": "全球流动性增速已于2025年末见顶，2026年持续放缓，资产增值难度加大。",
-          "en": "Global liquidity growth peaked in late 2025 and has been slowing in 2026, making asset gains harder."
-        },
-        {
-          "zh": "对流动性敏感的小盘股、比特币、黄金和信用利差已开始表现不佳。",
-          "en": "Liquidity-sensitive assets like small caps, Bitcoin, gold, and credit spreads are already underperforming."
-        },
-        {
-          "zh": "市场越来越依赖AI单一交易支撑，但该交易可能因融资条件收紧而面临挑战。",
-          "en": "The market is increasingly held up by the single AI trade, which may face challenges as financing conditions tighten."
-        },
-        {
-          "zh": "AI资本开支正将资金从金融市场抽离至实体经济，形成对流动性的竞争。",
-          "en": "AI capex is draining capital from financial markets into the real economy, creating competition for liquidity."
-        }
-      ],
-      "tags": [
-        "liquidity",
-        "AI trade",
-        "risk assets",
-        "credit spreads",
-        "capex"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:9Gg9Ah2QyY4",
-      "title": "CVS Has Not Received Offers For the Retail Pharmacy Business, CEO Says",
-      "title_zh": "CVS健康CEO：零售药房业务分拆尚未收到收购要约",
-      "url": "https://www.youtube.com/watch?v=9Gg9Ah2QyY4",
-      "published_at": "2026-11-09T21:52:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "CVS健康CEO兼董事长David Joyner表示，其零售药房业务分拆计划于明年上半年进行，目前尚未收到任何收购要约。Aetna保险部门与Caremark药品福利管理部门将保留在集团内。",
-      "summary_en": "CVS Health CEO and Chairman David Joyner said no offers have yet been received for its retail pharmacy business, which is being spun off in the first half of next year. The Aetna insurance unit and Caremark pharmacy benefits division will remain together.",
-      "detail_zh": "CVS健康CEO兼董事长David Joyner在“Bloomberg The Close”节目中表示，公司计划于明年上半年分拆其零售药房业务，但截至目前尚未收到任何针对该业务的收购要约。Joyner同时确认，公司的Aetna保险部门与Caremark药品福利管理部门将保持合并，不会在此次分拆中分离。该分拆计划的具体交易结构、估值及财务细节未在原文中披露。",
-      "detail_en": "CVS Health CEO and Chairman David Joyner said on \"Bloomberg The Close\" that the company plans to spin off its retail pharmacy business in the first half of next year, but has not yet received any offers for the business. Joyner also confirmed that the company's Aetna insurance unit and Caremark pharmacy benefits division will stay together and will not be separated in the spin-off. Specific transaction structure, valuation, and financial details of the spin-off were not disclosed in the original text.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "CVS健康零售药房业务分拆计划于明年上半年进行。",
-          "en": "CVS Health's retail pharmacy business is being spun off in the first half of next year."
-        },
-        {
-          "zh": "CEO David Joyner表示，目前尚未收到任何针对该业务的收购要约。",
-          "en": "CEO David Joyner said no offers have yet been received for the business."
-        },
-        {
-          "zh": "Aetna保险部门与Caremark药品福利管理部门将保留在集团内，保持合并。",
-          "en": "The Aetna insurance unit and Caremark pharmacy benefits division will stay together within the company."
-        }
-      ],
-      "tags": [
-        "CVS Health",
-        "spin-off",
-        "retail pharmacy",
-        "Aetna",
-        "Caremark"
-      ],
-      "tickers": [
-        "CVS"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:hdm8F7jVq6c",
-      "title": "S&P 500 Erases Midterm Losses, Bitcoin Bounce",
-      "title_zh": "Bloomberg ETF IQ：市场集中度风险、比特币ETF与全球AI投资",
-      "url": "https://www.youtube.com/watch?v=hdm8F7jVq6c",
-      "published_at": "2026-11-09T21:40:15+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期Bloomberg ETF IQ讨论了ETF资金流与逢低买入、Rob Arnott对市场集中度风险的看法、Franklin Templeton的股票+比特币ETF策略，以及William Blair的全球AI投资与“有形资产复仇”主题。",
-      "summary_en": "This episode of Bloomberg ETF IQ covers ETF flows and dip buying, Rob Arnott's views on market concentration risk, Franklin Templeton's stock-plus-Bitcoin ETF strategy, and William Blair's global AI investing and the 'Revenge of the Tangibles' theme.",
-      "detail_zh": "节目首先关注ETF资金流与逢低买入现象。SYZGY Asset Management创始人Rob Arnott讨论了市场集中度风险，并探讨了超大盘股是否值得承担这种集中度风险。Arnott还谈及出售RAFI指数业务以及RAFI ETF背后的策略。在中期选举后的市场讨论中，Arnott与TMX VettaFi的Cinthia Murphy一起分析了选举后的市场环境，并涉及AI和半导体股票。节目还讨论了基本面指数如何选股、智能贝塔与主动投资的对比，以及规则驱动与自由裁量投资的区别。Eric Balchunas介绍了他的新比特币与加密货币书籍，话题延伸至比特币、加密货币和代币化。Franklin Templeton的Dina Ting解释了为何将股票与比特币结合，以及该ETF如何能跑赢股票和比特币，并讨论了比特币作为货币贬值对冲工具的理由。William Blair的Alaina Anderson则分享了全球AI股票投资、'有形资产复仇'主题、国家配置与选股，以及日本投资。",
-      "detail_en": "The program begins with ETF flows and dip buying. Rob Arnott, Chairman & Founder of SYZGY Asset Management, discusses market concentration risk and whether mega-cap stocks are worth the concentration risk. Arnott also talks about selling the RAFI index business and the strategy behind the RAFI ETF. In a post-midterms market discussion, Arnott and Cinthia Murphy of TMX VettaFi analyze the post-election market environment, touching on AI and semiconductor stocks. The show also covers how fundamental indexes pick stocks, smart beta vs. active investing, and rules-based vs. discretionary investing. Eric Balchunas introduces his new Bitcoin and crypto book, leading to a discussion on Bitcoin, crypto and tokenization. Dina Ting of Franklin Templeton explains why combine stocks and Bitcoin, how the ETF can outperform stocks and Bitcoin, and makes the case for Bitcoin as a currency debasement hedge. Alaina Anderson of William Blair shares insights on investing in global AI stocks, the 'Revenge of the Tangibles' theme, country allocation vs. stock picking, and investing in Japan.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Rob Arnott讨论了市场集中度风险以及超大盘股是否值得承担这种风险。",
-          "en": "Rob Arnott discussed market concentration risk and whether mega-cap stocks are worth the concentration risk."
-        },
-        {
-          "zh": "Franklin Templeton的Dina Ting解释了将股票与比特币结合的ETF策略，以及比特币作为货币贬值对冲的理由。",
-          "en": "Dina Ting of Franklin Templeton explained the ETF strategy combining stocks and Bitcoin, and the case for Bitcoin as a currency debasement hedge."
-        },
-        {
-          "zh": "William Blair的Alaina Anderson分享了全球AI股票投资和'有形资产复仇'主题。",
-          "en": "Alaina Anderson of William Blair shared insights on global AI stock investing and the 'Revenge of the Tangibles' theme."
-        },
-        {
-          "zh": "节目讨论了中期选举后的市场环境、AI和半导体股票，以及智能贝塔与主动投资的对比。",
-          "en": "The program covered post-midterm market environment, AI and semiconductor stocks, and smart beta vs. active investing."
-        }
-      ],
-      "tags": [
-        "ETF",
-        "market concentration",
-        "Bitcoin",
-        "AI",
-        "smart beta"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:wkQltlCtK8o",
-      "title": "Alice Huang: Who is she and why was she with Nvidia's Jensen Huang?",
-      "title_zh": "英伟达调查CEO黄仁勋与疑似中国间谍的关系",
-      "url": "https://www.youtube.com/watch?v=wkQltlCtK8o",
-      "published_at": "2026-11-09T21:26:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "据彭博社报道，英伟达正在调查CEO黄仁勋与一名疑似中国间谍的女性Alice Huang的婚外情关系，该女性曾在其身边活动多年。报道未提供调查细节或公司回应。",
-      "summary_en": "Bloomberg reports that Nvidia is probing CEO Jensen Huang's affair with Alice Huang, an alleged Chinese spy who spent years in his orbit. No further details on the investigation or company response were provided.",
-      "detail_zh": "彭博电视的Nicole Sy报道称，英伟达正在调查首席执行官黄仁勋与一名叫Alice Huang的女性之间的婚外情。该女性被指疑似中国间谍，并曾在黄仁勋身边活动多年。报道未披露调查的具体进展、英伟达的官方回应或该事件对公司的潜在影响。",
-      "detail_en": "Bloomberg Television's Nicole Sy reports that Nvidia is investigating CEO Jensen Huang's affair with a woman named Alice Huang, who is alleged to be a Chinese spy and spent years in his orbit. The report does not provide details on the investigation's progress, Nvidia's official response, or potential impact on the company.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达正在调查CEO黄仁勋与Alice Huang的婚外情关系。",
-          "en": "Nvidia is investigating CEO Jensen Huang's affair with Alice Huang."
-        },
-        {
-          "zh": "Alice Huang被指疑似中国间谍，并曾在黄仁勋身边活动多年。",
-          "en": "Alice Huang is alleged to be a Chinese spy and spent years in Huang's orbit."
-        },
-        {
-          "zh": "报道未提供调查细节或英伟达的回应。",
-          "en": "The report provides no details on the investigation or Nvidia's response."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "espionage",
-        "investigation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:GHlZ3i6X-cY",
-      "title": "Nvidia Spying Probe Raises Thorny Questions For Its Rockstar CEO",
-      "title_zh": "英伟达调查黄仁勋与疑似中国间谍的绯闻",
-      "url": "https://www.youtube.com/watch?v=GHlZ3i6X-cY",
-      "published_at": "2026-11-09T21:26:17+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博社报道，英伟达正调查CEO黄仁勋与一名疑似中国间谍的绯闻，此事对这位硅谷名人及整个AI行业具有重要影响。",
-      "summary_en": "Bloomberg reports that Nvidia is probing CEO Jensen Huang's affair with an alleged Chinese spy, a development with implications for the Silicon Valley celebrity and the broader AI industry.",
-      "detail_zh": "彭博社的Tom Mackenzie在视频中解释，英伟达正在调查其CEO黄仁勋与一名疑似中国间谍的绯闻。报道称，这一事件对硅谷最知名的名人之一黄仁勋而言是一个令人谦卑的时刻。Mackenzie进一步说明此事为何对整个AI行业具有重要意义。原文未提供调查细节、涉事方身份或具体影响机制。",
-      "detail_en": "Bloomberg's Tom Mackenzie explains in the video that Nvidia is investigating CEO Jensen Huang's affair with an alleged Chinese spy. The report describes this as a humbling moment for Huang, one of Silicon Valley's biggest celebrities. Mackenzie further explains why the matter matters to the entire AI industry. The original text does not provide details on the investigation, the identity of the parties involved, or the specific mechanisms of impact.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达正调查CEO黄仁勋与一名疑似中国间谍的绯闻。",
-          "en": "Nvidia is probing CEO Jensen Huang's affair with an alleged Chinese spy."
-        },
-        {
-          "zh": "此事被视为对硅谷名人黄仁勋的一个令人谦卑的时刻。",
-          "en": "The matter is described as a humbling moment for Huang, a Silicon Valley celebrity."
-        },
-        {
-          "zh": "彭博社的Tom Mackenzie解释此事为何对整个AI行业具有重要意义。",
-          "en": "Bloomberg's Tom Mackenzie explains why the matter matters to the entire AI industry."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "investigation",
-        "AI industry",
-        "China"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:C-W3lS1FCuE",
-      "title": "Apple Offers Disappointing Forecast | The Rundown",
-      "title_zh": "Anthropic巨额支出承诺与苹果展望引华尔街担忧",
-      "url": "https://www.youtube.com/watch?v=C-W3lS1FCuE",
-      "published_at": "2026-11-09T21:24:55+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Anthropic做出大规模支出承诺；华尔街对苹果展望存在不满。",
-      "summary_en": "Anthropic makes a massive spending commitment; Wall Street dislikes aspects of Apple's outlook.",
-      "detail_zh": "彭博科技播客《The Rundown》由Ed Ludlow主持，本期聚焦两大话题：Anthropic做出巨额支出承诺；以及华尔街对苹果展望的不满意之处。节目未披露支出承诺的具体金额、用途，也未说明华尔街对苹果展望不满的具体原因。",
-      "detail_en": "In this episode of Bloomberg Tech's \"The Rundown,\" hosted by Ed Ludlow, two topics are highlighted: Anthropic making a massive spending commitment, and what Wall Street doesn't like about Apple's outlook. No specific figures, purposes, or reasons are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Anthropic做出巨额支出承诺",
-          "en": "Anthropic makes a massive spending commitment"
-        },
-        {
-          "zh": "华尔街对苹果展望存在不满",
-          "en": "Wall Street dislikes aspects of Apple's outlook"
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "Apple",
-        "Wall Street",
-        "tech"
-      ],
-      "tickers": [
-        "AAPL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:xT5oc77kdMc",
-      "title": "Tengler Expects Nvidia CEO Huang to Stay in Job",
-      "title_zh": "Laffer Tengler CEO：黄仁勋婚外情曝光后英伟达股价跌幅有限，预计其将留任",
-      "url": "https://www.youtube.com/watch?v=xT5oc77kdMc",
-      "published_at": "2026-11-09T21:24:11+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Laffer Tengler Investments CEO兼CIO Nancy Tengler表示，英伟达CEO黄仁勋承认婚外情后，股价并未大幅下跌，这令她感到意外。她认为黄仁勋将挺过这一丑闻并保住职位。",
-      "summary_en": "Nancy Tengler, CEO and CIO of Laffer Tengler Investments, said she is surprised Nvidia's stock isn't trading much lower after CEO Jensen Huang admitted to an extramarital affair. She believes Huang will survive the scandal and hold onto his post.",
-      "detail_zh": "Laffer Tengler Investments CEO兼CIO Nancy Tengler在“Bloomberg Tech”节目中表示，英伟达CEO黄仁勋承认婚外情后，公司股价并未出现大幅下跌，这让她感到意外。Tengler认为，黄仁勋将能够挺过这一丑闻，并继续担任CEO职位。她未进一步阐述判断依据或对股价的具体影响。",
-      "detail_en": "Speaking on \"Bloomberg Tech,\" Nancy Tengler, CEO and CIO of Laffer Tengler Investments, said she is surprised that Nvidia's stock isn't trading much lower after CEO Jensen Huang admitted to an extramarital affair. Tengler said she believes Huang will survive the scandal and hold onto his post. She did not elaborate on the reasoning or specific stock impact.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Nancy Tengler对英伟达股价在黄仁勋承认婚外情后未大幅下跌感到意外。",
-          "en": "Nancy Tengler is surprised Nvidia's stock isn't trading much lower after Jensen Huang admitted to an extramarital affair."
-        },
-        {
-          "zh": "Tengler认为黄仁勋将挺过丑闻并保住CEO职位。",
-          "en": "Tengler believes Huang will survive the scandal and hold onto his post."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "management scandal",
-        "CEO succession"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:K8CEmkunumM",
-      "title": "Concentration Risk A 'Serious Issue': Rob Arnott",
-      "title_zh": "逢低买盘推动美股创4月以来最佳单日表现",
-      "url": "https://www.youtube.com/watch?v=K8CEmkunumM",
-      "published_at": "2026-11-09T21:23:24+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "新一轮逢低买盘推动美股创下自4月以来最佳单日表现，此前科技股抛售曾冲击华尔街；油价下跌也助推市场上涨。",
-      "summary_en": "A renewed wave of dip buying drove stocks toward their best day since April following a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell.",
-      "detail_zh": "原文指出，在经历了一轮冲击华尔街的科技股抛售之后，新一轮逢低买盘推动股市迈向自4月以来的最佳单日表现。市场同时因油价下跌而获得提振。节目嘉宾为Syzygy Asset Management董事长兼创始人Rob Arnott，但原文未提供其具体观点或评论内容。",
-      "detail_en": "The original text states that a renewed wave of dip buying drove stocks toward their best day since April in the wake of a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell. The guest was Rob Arnott, chairman and founder of Syzygy Asset Management, but the text does not include any specific views or comments from him.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "新一轮逢低买盘推动美股创4月以来最佳单日表现",
-          "en": "A renewed wave of dip buying drove stocks toward their best day since April"
-        },
-        {
-          "zh": "此前科技股抛售曾冲击华尔街",
-          "en": "The rally followed a technology selloff that roiled Wall Street"
-        },
-        {
-          "zh": "油价下跌也助推市场上涨",
-          "en": "The market also gained as oil prices fell"
-        },
-        {
-          "zh": "Syzygy Asset Management董事长兼创始人Rob Arnott参与节目，但原文未提及其具体观点",
-          "en": "Rob Arnott, chairman and founder of Syzygy Asset Management, appeared on the program, but the text does not include his specific views"
-        }
-      ],
-      "tags": [
-        "dip buying",
-        "tech selloff",
-        "oil prices",
-        "market rally"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:nFgmzKpujAA",
-      "title": "Labor Secretary Says Department Looking to 'Modernize' BLS Data",
-      "title_zh": "美劳工部长提名人关注就业数据波动与签证政策",
-      "url": "https://www.youtube.com/watch?v=nFgmzKpujAA",
-      "published_at": "2026-11-09T21:23:13+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国代理劳工部长Keith Sonderling表示，就业数据的剧烈波动导致公众对劳工部信息失去信任，他正寻求“现代化”这一流程。他还讨论了特朗普政府的外国工人签证政策，称该计划旨在吸引“最优秀、最聪明”的人才，但不应以牺牲美国工人利益为代价。",
-      "summary_en": "Acting US Labor Secretary Keith Sonderling said wild swings in jobs data make the public lose trust in the department's information and that he is looking to 'modernize' the process. He also discussed the Trump administration's foreign worker visa policy, saying the program targets the 'best and the brightest' but shouldn't come at the expense of American workers.",
-      "detail_zh": "美国代理劳工部长Keith Sonderling指出，就业数据的剧烈波动正在削弱公众对劳工部发布信息的信任，他表示正在寻求对相关流程进行“现代化”改革。此外，Sonderling讨论了特朗普政府的外国工人签证政策，他强调该签证计划的设计初衷是吸引“最优秀、最聪明”的人才，但这一政策不应损害美国工人的利益。",
-      "detail_en": "Acting US Labor Secretary Keith Sonderling said that wild swings in jobs data make the public lose trust in the information coming out of the department, and that he is looking to 'modernize' that process. Sonderling also discussed the Trump administration's foreign worker visa policy, saying that while the visa program is designed to target the 'best and the brightest,' it shouldn't come at the expense of American workers.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "代理劳工部长Sonderling承认就业数据剧烈波动导致公众信任流失。",
-          "en": "Acting Labor Secretary Sonderling acknowledged that wild swings in jobs data erode public trust."
-        },
-        {
-          "zh": "Sonderling正寻求对劳工部数据流程进行“现代化”改革。",
-          "en": "Sonderling is looking to 'modernize' the department's data process."
-        },
-        {
-          "zh": "特朗普政府的外国工人签证政策旨在吸引“最优秀、最聪明”的人才。",
-          "en": "The Trump administration's foreign worker visa policy aims to target the 'best and the brightest.'"
-        },
-        {
-          "zh": "Sonderling强调签证政策不应以牺牲美国工人利益为代价。",
-          "en": "Sonderling stressed the visa program shouldn't come at the expense of American workers."
-        }
-      ],
-      "tags": [
-        "jobs data",
-        "labor department",
-        "visa policy",
-        "trust",
-        "modernization"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Sy0oyx8ZwqY",
-      "title": "AMD Surges 13% as Wall Street Revives AI Chip Trade | Closing Bell",
-      "title_zh": "彭博电视美股收盘节目介绍",
-      "url": "https://www.youtube.com/watch?v=Sy0oyx8ZwqY",
-      "published_at": "2026-11-09T21:20:49+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "原文仅为彭博电视美股收盘节目的跨平台播出信息及社交媒体链接，未包含任何市场数据、观点或事件。",
-      "summary_en": "The original text is merely a program description and social media links for Bloomberg Television's U.S. market close coverage, with no market data, opinions, or events.",
-      "detail_zh": "原文介绍了由Vonnie Quinn、Scarlet Fu、Carol Massar和Tim Stenovec主持的彭博电视、广播及YouTube平台的美股收盘综合报道。内容主要为节目推广和社交媒体链接，未提供任何具体的市场分析、数据或投资观点。",
-      "detail_en": "The original text introduces Bloomberg Television, Radio, and YouTube's comprehensive coverage of the U.S. market close with Vonnie Quinn, Scarlet Fu, Carol Massar, and Tim Stenovec. It consists mainly of program promotion and social media links, without any specific market analysis, data, or investment views.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "原文为彭博电视美股收盘节目的介绍和推广内容。",
-          "en": "The original text is an introduction and promotion for Bloomberg Television's U.S. market close program."
-        },
-        {
-          "zh": "节目由Vonnie Quinn、Scarlet Fu、Carol Massar和Tim Stenovec主持。",
-          "en": "The program is hosted by Vonnie Quinn, Scarlet Fu, Carol Massar, and Tim Stenovec."
-        },
-        {
-          "zh": "覆盖平台包括彭博电视、彭博广播和YouTube。",
-          "en": "Coverage spans Bloomberg Television, Bloomberg Radio, and YouTube."
-        },
-        {
-          "zh": "原文未包含任何市场数据、观点或事件。",
-          "en": "The original text contains no market data, opinions, or events."
-        }
-      ],
-      "tags": [
-        "Bloomberg",
-        "market close",
-        "TV program"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:pnwuD1FytEQ",
-      "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
-      "title_zh": "伯克希尔Q3回购96亿美元，保险承保业务下滑拖累运营利润",
-      "url": "https://www.youtube.com/watch?v=pnwuD1FytEQ",
-      "published_at": "2026-11-09T21:18:21+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "伯克希尔哈撒韦第三季度斥资约96亿美元回购自身股票，显示管理层认为股价被低估。但保险承保业务下滑拖累了运营利润，整体季度表现喜忧参半。",
-      "summary_en": "Berkshire Hathaway spent about $9.6 billion to buy back its own shares in the third quarter, a sign executives viewed the stock as undervalued. However, declining insurance underwriting weighed on operating earnings, making it a mixed quarter.",
-      "detail_zh": "伯克希尔哈撒韦在第三季度动用约96亿美元回购自家股票，这一规模表明公司管理层认为当前股价低于其内在价值。与此同时，保险承保业务的盈利出现下滑，对公司整体运营利润构成拖累。该季度业绩因此呈现喜忧参半的格局：回购彰显信心，但核心保险业务承压。彭博分析师Matthew Palazola就此进行了讨论。",
-      "detail_en": "Berkshire Hathaway spent about $9.6 billion to repurchase its own shares in the third quarter, a scale that indicates management viewed the stock as undervalued. At the same time, declining insurance underwriting earnings weighed on the company's overall operating earnings. The quarter was therefore mixed: the buyback signaled confidence, while the core insurance business faced pressure. Bloomberg's Matthew Palazola joined to discuss.",
-      "conclusion_zh": "回购规模凸显管理层对股价的信心，但保险承保疲软仍是运营利润的主要拖累，后续需关注承保周期变化。",
-      "conclusion_en": "The buyback scale highlights management's confidence in the stock, but weak insurance underwriting remains a key drag on operating earnings; watch underwriting cycle trends.",
-      "key_points": [
-        {
-          "zh": "伯克希尔Q3回购约96亿美元股票，显示管理层认为股价被低估。",
-          "en": "Berkshire repurchased about $9.6 billion of its own stock in Q3, signaling management viewed shares as undervalued."
-        },
-        {
-          "zh": "保险承保业务下滑拖累了公司运营利润。",
-          "en": "Declining insurance underwriting weighed on operating earnings."
-        },
-        {
-          "zh": "整体季度表现喜忧参半：回购积极，但核心业务承压。",
-          "en": "The quarter was mixed: buyback was positive, but the core business faced pressure."
-        }
-      ],
-      "tags": [
-        "Berkshire Hathaway",
-        "buyback",
-        "insurance underwriting",
-        "operating earnings"
-      ],
-      "tickers": [
-        "BRK.A",
-        "BRK.B"
       ],
       "sentiment": "neutral"
     }
