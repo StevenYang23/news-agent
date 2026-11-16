@@ -1,6 +1,260 @@
 {
-  "generated_at": "2026-11-16T22:12:30.631884+00:00",
+  "generated_at": "2026-11-16T23:11:23.888336+00:00",
   "insights": [
+    {
+      "guid": "yt:4FA1CZFXVwE",
+      "title": "Maryland Governor Moore on Midterms, FAA and AI Oversight",
+      "title_zh": "马里兰州州长摩尔：航空停摆讨论缺失后续预防计划",
+      "url": "https://www.youtube.com/watch?v=4FA1CZFXVwE",
+      "published_at": "2026-11-16T22:58:21+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "马里兰州州长韦斯·摩尔在彭博采访中表示，关于周五全国航空停摆的讨论中，最缺失的是防止事件再次发生的计划。摩尔还讨论了中期选举、潜在的政府停摆以及AI数据中心治理问题。",
+      "summary_en": "Maryland Governor Wes Moore said in a Bloomberg interview that what is \"sorely missing\" from the conversation about Friday's nationwide aviation shutdown is a \"plan so this doesn't have to happen again.\" Moore also discussed the midterm elections, a potential government shutdown, and the governance of AI data centers.",
+      "detail_zh": "马里兰州州长韦斯·摩尔在接受彭博的凯莉·莱因茨和乔·马蒂厄采访时表示，关于周五全国航空停摆的讨论中，最缺失的是“一项计划，以确保这种情况不会再次发生”。摩尔还讨论了中期选举、潜在的政府停摆以及AI数据中心的治理问题。采访未提供更多具体细节或数据。",
+      "detail_en": "Maryland Governor Wes Moore, in an interview with Bloomberg's Kailey Leinz and Joe Mathieu, said that what is \"sorely missing\" from the conversation about Friday's nationwide aviation shutdown is a \"plan so this doesn't have to happen again.\" Moore also discussed the midterm elections, a potential government shutdown, and the governance of AI data centers. The interview provided no further specific details or data.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "摩尔认为航空停摆讨论缺失预防再发生的计划",
+          "en": "Moore says the aviation shutdown discussion lacks a plan to prevent recurrence"
+        },
+        {
+          "zh": "采访还涉及中期选举议题",
+          "en": "The interview also covered the midterm elections"
+        },
+        {
+          "zh": "讨论了潜在的政府停摆问题",
+          "en": "A potential government shutdown was discussed"
+        },
+        {
+          "zh": "提及AI数据中心的治理",
+          "en": "Governance of AI data centers was mentioned"
+        }
+      ],
+      "tags": [
+        "aviation shutdown",
+        "midterm elections",
+        "government shutdown",
+        "AI data centers"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:J7rhUQMDLQY",
+      "title": "Putin-Xi Meeting Unlikely to Bring Substantive Results for Trump, Says Jane Harman",
+      "title_zh": "前众议员Harman：英伟达丑闻构成国家安全风险，特朗普亚洲行或仅为拍照机会",
+      "url": "https://www.youtube.com/watch?v=J7rhUQMDLQY",
+      "published_at": "2026-11-16T22:39:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前众议院情报委员会民主党高层Jane Harman表示，英伟达丑闻带来潜在国家安全风险；她认为特朗普与习近平、普京在中国可能的会晤除“拍照机会”外难有实质成果；在参议院民主党领袖之争中，无论谁当选，民主党都应认真对待选民对变革的呼声。",
+      "summary_en": "Jane Harman, former ranking Democrat on the House Intelligence Committee, said the Nvidia scandal poses potential national security risks. She said potential meetings between Trump, Xi Jinping and Putin in China are unlikely to yield substantive results beyond a 'good photo op.' On the Senate Democratic leadership fight, she said Democrats should take seriously voters' calls for change regardless of who leads.",
+      "detail_zh": "前众议院情报委员会民主党高层Jane Harman就英伟达丑闻、特朗普亚洲行及参议院民主党领袖之争发表看法。她指出，英伟达丑闻可能带来国家安全风险。对于特朗普总统与习近平、普京在中国可能举行的会晤，Harman认为除了“良好的拍照机会”外，不太可能产生任何实质性成果。在参议院民主党领袖查克·舒默与克里斯·范霍伦的竞争中，Harman表示，无论谁成为领袖，民主党都应认真对待选民对变革的呼吁。",
+      "detail_en": "Jane Harman, a former ranking Democrat on the House Intelligence Committee, discussed the potential national security risks from the Nvidia scandal, Trump's upcoming meetings in Asia and the Senate Democratic leadership battle. She said the Nvidia scandal poses potential national security risks. Regarding potential meetings between President Trump, Xi Jinping and Putin in China, Harman said they are unlikely to provide any substantive results other than a 'good photo op.' On the Senate leadership fight between Chuck Schumer and Chris Van Hollen, Harman said that no matter the leader, Democrats should take seriously voters' calls for change.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Harman称英伟达丑闻带来潜在国家安全风险。",
+          "en": "Harman said the Nvidia scandal poses potential national security risks."
+        },
+        {
+          "zh": "她认为特朗普与习近平、普京在中国可能的会晤除“拍照机会”外难有实质成果。",
+          "en": "She said potential Trump-Xi-Putin meetings in China are unlikely to yield substantive results beyond a 'good photo op.'"
+        },
+        {
+          "zh": "在参议院民主党领袖之争中，Harman强调无论谁当选，都应重视选民对变革的呼声。",
+          "en": "On the Senate Democratic leadership fight, Harman stressed that whoever wins should take voters' calls for change seriously."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "national security",
+        "Trump Asia trip",
+        "Senate Democratic leadership"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:qYWIHM7Vtu4",
+      "title": "Big Test Ahead For Equity Appetite: Nadig",
+      "title_zh": "ETF.com研究主管谈私募市场与Anthropic IPO",
+      "url": "https://www.youtube.com/watch?v=qYWIHM7Vtu4",
+      "published_at": "2026-11-16T22:39:33+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "在Bloomberg ETF IQ节目中，ETF.com总裁兼研究主管Dave Nadig与主持人讨论了私募市场以及Anthropic即将进行的IPO。节目未提供具体数据或投资观点。",
+      "summary_en": "On Bloomberg ETF IQ, Dave Nadig, president and director of research at ETF.com, joined hosts to discuss private markets and the upcoming IPO for Anthropic. No specific data or investment views were provided.",
+      "detail_zh": "ETF.com总裁兼研究主管Dave Nadig作为嘉宾参加了Bloomberg ETF IQ节目，与Isabelle Lee和Eric Balchunas共同讨论了私募市场以及Anthropic即将进行的IPO。节目内容仅提及话题，未展开具体细节、数据或明确观点。",
+      "detail_en": "Dave Nadig, president and director of research at ETF.com, appeared on Bloomberg ETF IQ with Isabelle Lee and Eric Balchunas to discuss private markets and the upcoming IPO for Anthropic. The segment only mentions the topics without providing specific details, data, or explicit views.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论涉及私募市场",
+          "en": "Discussion covered private markets"
+        },
+        {
+          "zh": "提及Anthropic即将进行的IPO",
+          "en": "Mentioned the upcoming IPO for Anthropic"
+        },
+        {
+          "zh": "嘉宾为ETF.com研究主管Dave Nadig",
+          "en": "Guest was Dave Nadig, research head at ETF.com"
+        }
+      ],
+      "tags": [
+        "private markets",
+        "IPO",
+        "Anthropic",
+        "ETF"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:rO71YZxfxpU",
+      "title": "Trump, Duffy Deflect Responsibility for FAA Groundstop",
+      "title_zh": "分析师批评FAA停飞事件：资金长期不足",
+      "url": "https://www.youtube.com/watch?v=rO71YZxfxpU",
+      "published_at": "2026-11-16T22:39:27+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Atmosphere Research Group总裁Henry Harteveldt将周五FAA全面停飞导致数千航班中断比作“蛋头先生摔碎后被坦克碾过”，并指出FAA在民主党和共和党政府（包括特朗普第一任期）下长期资金匮乏。他肯定航空公司努力清理积压航班。",
+      "summary_en": "Henry Harteveldt, president of Atmosphere Research Group, likened Friday's total FAA groundstop that disrupted thousands of flights to 'Humpty Dumpty falling off the wall, smashing into a billion bits and then being run over by a tank.' He said the FAA has been 'starved' of funding by both Democratic and Republican administrations, including the first Trump Administration, while giving airlines credit for working through the backlog.",
+      "detail_zh": "Atmosphere Research Group总裁Henry Harteveldt对周五FAA全面停飞事件作出强烈批评，该事件导致数千架航班中断。他将此比作“蛋头先生从墙上摔下，碎成亿万片，然后被坦克碾过”。Harteveldt表示，他高度认可航空公司在清理积压航班方面的努力，但指出FAA在民主党和共和党政府（包括特朗普第一任期）下一直“资金匮乏”。",
+      "detail_en": "Henry Harteveldt, president of Atmosphere Research Group, strongly criticized Friday's total FAA groundstop, which interrupted thousands of flights. He described it as 'Humpty Dumpty falling off the wall, smashing into a billion bits and then being run over by a tank.' Harteveldt said he gives airlines a lot of credit for working to get through the backlog, but said the FAA has been 'starved' of funding by both Democratic and Republican administrations, including the first Trump Administration.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "FAA周五全面停飞导致数千航班中断",
+          "en": "Friday's total FAA groundstop interrupted thousands of flights"
+        },
+        {
+          "zh": "Harteveldt将事件比作“蛋头先生摔碎后被坦克碾过”",
+          "en": "Harteveldt likened the event to 'Humpty Dumpty falling off the wall, smashing into a billion bits and then being run over by a tank'"
+        },
+        {
+          "zh": "Harteveldt肯定航空公司清理积压航班的努力",
+          "en": "Harteveldt gives airlines credit for working to get through the backlog"
+        },
+        {
+          "zh": "Harteveldt指出FAA在民主党和共和党政府下均资金匮乏，包括特朗普第一任期",
+          "en": "Harteveldt said the FAA has been 'starved' of funding by both Democratic and Republican administrations, including the first Trump Administration"
+        }
+      ],
+      "tags": [
+        "FAA",
+        "groundstop",
+        "airlines",
+        "funding"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:xxq_bBzMhx4",
+      "title": "Fintech Bilt moves beyond housing to reward local payments",
+      "title_zh": "Bilt 从租金积分计划转型邻里商业网络",
+      "url": "https://www.youtube.com/watch?v=xxq_bBzMhx4",
+      "published_at": "2026-11-16T22:25:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Bilt CEO Ankur Jain 表示，公司正从以租金赚积分的奖励计划，扩展为连接消费者与本地商户（餐厅、咖啡店、物业管理方）的“邻里商业网络”，旨在引导更多消费回流本地社区。",
+      "summary_en": "Bilt CEO Ankur Jain says the company is expanding beyond its rewards program known for earning points on rent, building a \"neighborhood commerce network\" that connects consumers with local businesses—restaurants, coffee shops, and property managers—to drive more spending back into local communities.",
+      "detail_zh": "Bilt 希望不再只是那个让会员通过租金赚取积分的奖励计划。CEO Ankur Jain 表示，公司正在构建一个“邻里商业网络”，旨在将消费者与本地商户连接起来，涵盖餐厅、咖啡店以及物业管理方。该网络的目标是推动更多消费回流本地社区。原文未披露该计划的具体规模、时间表或财务细节。",
+      "detail_en": "Bilt wants to be more than the rewards program known for letting members earn points on rent. CEO Ankur Jain says the company is building a \"neighborhood commerce network\" designed to connect consumers with local businesses, from restaurants and coffee shops to property managers, while driving more spending back into local communities. The source does not disclose the initiative's scale, timeline, or financial details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Bilt 正从租金积分奖励计划扩展为“邻里商业网络”。",
+          "en": "Bilt is expanding from a rent-points rewards program into a \"neighborhood commerce network.\""
+        },
+        {
+          "zh": "该网络连接消费者与本地商户，包括餐厅、咖啡店和物业管理方。",
+          "en": "The network connects consumers with local businesses, including restaurants, coffee shops, and property managers."
+        },
+        {
+          "zh": "目标是引导更多消费回流本地社区。",
+          "en": "The goal is to drive more spending back into local communities."
+        }
+      ],
+      "tags": [
+        "Bilt",
+        "rewards",
+        "local commerce",
+        "fintech"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:J5OvLlHtbfE",
+      "title": "Bilt CEO on expanding beyond just rental rewards",
+      "title_zh": "Bilt 拟从租金奖励扩展至社区商业网络",
+      "url": "https://www.youtube.com/watch?v=J5OvLlHtbfE",
+      "published_at": "2026-11-16T22:13:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Bilt 首席执行官 Ankur Jain 表示，公司正打造一个“社区商业网络”，将消费者与本地商户（餐厅、咖啡店、物业经理等）连接起来，并推动更多消费回流本地社区。此举意味着 Bilt 不再满足于仅作为以租金赚积分为特色的奖励计划。",
+      "summary_en": "Bilt CEO Ankur Jain said the company is building a \"neighborhood commerce network\" to connect consumers with local businesses—from restaurants and coffee shops to property managers—while driving more spending back into local communities. The move signals Bilt aims to be more than a rewards program known for letting members earn points on rent.",
+      "detail_zh": "Bilt 希望超越其作为奖励计划的定位——该计划以允许会员在支付租金时赚取积分而闻名。首席执行官 Ankur Jain 表示，公司正在构建一个“社区商业网络”。该网络旨在将消费者与本地企业连接起来，涵盖餐厅、咖啡店以及物业经理等。其目标之一是推动更多消费回流本地社区。原文未披露该网络的具体产品形态、时间表或财务目标。",
+      "detail_en": "Bilt wants to be more than the rewards program known for letting members earn points on rent. CEO Ankur Jain says the company is building a \"neighborhood commerce network.\" The network is designed to connect consumers with local businesses, from restaurants and coffee shops to property managers. One aim is to drive more spending back into local communities. The original text does not disclose the specific product form, timeline, or financial targets for the network.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Bilt 不再满足于仅作为以租金赚积分的奖励计划。",
+          "en": "Bilt no longer wants to be seen only as a rewards program for earning points on rent."
+        },
+        {
+          "zh": "公司正打造“社区商业网络”，连接消费者与本地商户。",
+          "en": "The company is building a \"neighborhood commerce network\" connecting consumers with local businesses."
+        },
+        {
+          "zh": "网络覆盖餐厅、咖啡店及物业经理等本地主体。",
+          "en": "The network spans local players including restaurants, coffee shops, and property managers."
+        },
+        {
+          "zh": "目标之一是推动更多消费回流本地社区。",
+          "en": "One goal is to drive more spending back into local communities."
+        }
+      ],
+      "tags": [
+        "Bilt",
+        "rewards",
+        "local commerce",
+        "fintech"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:96z1mE2XuyI",
       "title": "US Moves to Curb China’s Chip Access",
@@ -16648,97 +16902,6 @@
         "national security",
         "impeachment",
         "immigration"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lgUH70gZKnk",
-      "title": "The Close 11/9/2026",
-      "title_zh": "彭博The Close节目单：英伟达、CVS、Skydance等议题",
-      "url": "https://www.youtube.com/watch?v=lgUH70gZKnk",
-      "published_at": "2026-11-09T22:59:52+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本文仅为彭博电视节目The Close的章节列表，未提供具体讨论内容或观点。",
-      "summary_en": "This is only a chapter list for Bloomberg TV's The Close, with no specific discussion content or views provided.",
-      "detail_zh": "原文是彭博电视节目The Close的章节标题和嘉宾名单，没有实质性的市场分析或投资观点。章节涵盖英伟达与黄仁勋的领导力风险、AI投资与赤字、前美联储理事Betsy Duke谈通胀与利率、CVS健康CEO谈零售药房分拆、摩根士丹利谈金融科技与IPO、Skydance财报与流媒体、Lucid、Hims & Hers和Rocket Lab的财报、市场综述以及荷兰兄弟CEO谈增长与通胀等。由于缺乏具体内容，无法提炼投资洞见。",
-      "detail_en": "The original text is a chapter list and guest roster for Bloomberg TV's The Close, without substantive market analysis or investment views. Chapters cover Nvidia and Jensen Huang leadership risk, AI investing and deficits, former Fed Governor Betsy Duke on inflation and rates, CVS Health CEO on retail pharmacy spinoff, Morgan Stanley on fintech and IPOs, Skydance earnings and streaming, earnings from Lucid, Hims & Hers and Rocket Lab, a market recap, and Dutch Bros CEO on growth and inflation. Due to the lack of specific content, no investment insights can be extracted.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "节目讨论英伟达及黄仁勋的领导力风险",
-          "en": "The program discusses Nvidia and Jensen Huang's leadership risk"
-        },
-        {
-          "zh": "前美联储理事Betsy Duke将谈论通胀与利率",
-          "en": "Former Fed Governor Betsy Duke will discuss inflation and rates"
-        },
-        {
-          "zh": "CVS健康CEO讨论零售药房分拆",
-          "en": "CVS Health CEO discusses retail pharmacy spinoff"
-        },
-        {
-          "zh": "摩根士丹利探讨金融科技、IPO与财富管理",
-          "en": "Morgan Stanley explores fintech, IPOs and wealth management"
-        },
-        {
-          "zh": "市场综述显示广泛上涨，英伟达逆势",
-          "en": "Market recap shows broad rally as Nvidia bucks the trend"
-        }
-      ],
-      "tags": [
-        "Bloomberg The Close",
-        "Nvidia",
-        "CVS Health",
-        "Skydance",
-        "Market Recap"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:XMjIDDxAY3A",
-      "title": "Trump Stands By Nvidia's Huang, Defense Secretary Hegseth",
-      "title_zh": "特朗普称赞英伟达CEO黄仁勋并支持Hegseth",
-      "url": "https://www.youtube.com/watch?v=XMjIDDxAY3A",
-      "published_at": "2026-11-09T22:53:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普称英伟达CEO黄仁勋为“了不起的人”，并对Pete Hegseth表示支持。该报道来自Bloomberg“Balance of Power: Evening Edition”。",
-      "summary_en": "President Donald Trump called Nvidia CEO Jensen Huang \"an amazing guy\" and offered support for Pete Hegseth, according to a Bloomberg \"Balance of Power: Evening Edition\" report.",
-      "detail_zh": "据Bloomberg“Balance of Power: Evening Edition”报道，美国总统特朗普称英伟达CEO黄仁勋为“一个了不起的人”，并对Pete Hegseth表达了支持。报道由Tyler Kendall完成。原文未提供更多关于特朗普言论的背景、具体场合或Hegseth相关细节。",
-      "detail_en": "According to Bloomberg's \"Balance of Power: Evening Edition\" report by Tyler Kendall, President Donald Trump called Nvidia CEO Jensen Huang \"an amazing guy\" and offered support for Pete Hegseth. The original text does not provide further context, specific setting, or details regarding Hegseth.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普称英伟达CEO黄仁勋为“了不起的人”。",
-          "en": "Trump called Nvidia CEO Jensen Huang \"an amazing guy.\""
-        },
-        {
-          "zh": "特朗普对Pete Hegseth表示支持。",
-          "en": "Trump offered support for Pete Hegseth."
-        },
-        {
-          "zh": "该报道来自Bloomberg“Balance of Power: Evening Edition”，由Tyler Kendall报道。",
-          "en": "The report is from Bloomberg's \"Balance of Power: Evening Edition,\" reported by Tyler Kendall."
-        }
-      ],
-      "tags": [
-        "Trump",
-        "Nvidia",
-        "Jensen Huang",
-        "Hegseth"
       ],
       "tickers": [
         "NVDA"
