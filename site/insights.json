@@ -1,6 +1,95 @@
 {
-  "generated_at": "2026-11-16T13:29:48.596723+00:00",
+  "generated_at": "2026-11-16T14:27:21.872345+00:00",
   "insights": [
+    {
+      "guid": "yt:BkC0Wz8iUQ8",
+      "title": "SpaceX Successfully Catches Starship Rocket After Launch",
+      "title_zh": "SpaceX成功用发射塔捕获星舰火箭",
+      "url": "https://www.youtube.com/watch?v=BkC0Wz8iUQ8",
+      "published_at": "2026-11-16T14:05:19+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "SpaceX于周六成功在星舰从轨道返回德克萨斯州发射场时将其捕获，这是一项新颖的工程壮举，也是埃隆·马斯克开发完全可重复使用系统目标的重要一步。",
+      "summary_en": "SpaceX successfully caught its Starship rocket on Saturday as it returned to the Texas launch site from orbit, a novel engineering feat and a major step toward Elon Musk's goal of developing a fully reusable system.",
+      "detail_zh": "SpaceX于周六成功在星舰从轨道返回德克萨斯州发射场时将其捕获。这一操作被描述为一项新颖的工程壮举，并被视为埃隆·马斯克开发完全可重复使用系统目标的重要一步。原文未提供更多技术细节、财务影响或市场反应。",
+      "detail_en": "SpaceX successfully caught its Starship rocket on Saturday as it returned to the Texas launch site from orbit. The operation is described as a novel engineering feat and a major step toward Elon Musk's goal of developing a fully reusable system. The original text does not provide further technical details, financial implications, or market reactions.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "SpaceX于周六成功捕获从轨道返回的星舰火箭。",
+          "en": "SpaceX successfully caught its Starship rocket returning from orbit on Saturday."
+        },
+        {
+          "zh": "捕获地点为德克萨斯州发射场。",
+          "en": "The catch took place at the Texas launch site."
+        },
+        {
+          "zh": "该操作被称为新颖的工程壮举。",
+          "en": "The operation is described as a novel engineering feat."
+        },
+        {
+          "zh": "这是马斯克开发完全可重复使用系统目标的重要一步。",
+          "en": "It is a major step toward Elon Musk's goal of developing a fully reusable system."
+        }
+      ],
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "reusable rocket",
+        "Elon Musk"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Ipl5_9iemD8",
+      "title": "CITI CEO Jane Fraser | Bloomberg Newsmakers Interview",
+      "title_zh": "花旗CEO将接受彭博采访，讨论美国经济、AI与中国扩张",
+      "url": "https://www.youtube.com/watch?v=Ipl5_9iemD8",
+      "published_at": "2026-11-16T13:49:14+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博电视台将于11月18日采访花旗集团CEO Jane Fraser，话题涵盖美国经济、人工智能、公司在中国扩张以及多元化目标。",
+      "summary_en": "Bloomberg TV will interview Citigroup CEO Jane Fraser on Nov. 18, covering the US economy, artificial intelligence, the company's expansion in China, and its diversification goal.",
+      "detail_zh": "彭博电视台的Lisa Abramowicz将于美东时间11月18日下午4:15在华盛顿分社的Bloomberg Newsmakers活动中采访花旗集团首席执行官兼董事长Jane Fraser。采访将涉及美国经济、人工智能、公司在中国扩张以及公司实现多元化的目标。",
+      "detail_en": "Bloomberg TV's Lisa Abramowicz will interview Citigroup CEO and Chair Jane Fraser at a Bloomberg Newsmakers event in Washington on Nov. 18 at 4:15 pm ET. The discussion will cover the US economy, artificial intelligence, the company's expansion in China, and the firm's goal to diversify.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "采访时间：11月18日下午4:15（美东时间）",
+          "en": "Interview time: Nov. 18 at 4:15 pm ET"
+        },
+        {
+          "zh": "采访人：彭博电视台Lisa Abramowicz",
+          "en": "Interviewer: Bloomberg TV's Lisa Abramowicz"
+        },
+        {
+          "zh": "受访人：花旗集团CEO兼董事长Jane Fraser",
+          "en": "Interviewee: Citigroup CEO and Chair Jane Fraser"
+        },
+        {
+          "zh": "话题：美国经济、人工智能、在中国扩张、多元化目标",
+          "en": "Topics: US economy, AI, expansion in China, diversification goal"
+        }
+      ],
+      "tags": [
+        "Citigroup",
+        "Jane Fraser",
+        "Bloomberg Interview",
+        "US Economy",
+        "AI"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:6JKkkvIvPDY",
       "title": "3+1 Episode 28: Evy Hambro",
@@ -16756,487 +16845,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:8ItPxgwGM8A",
-      "title": "Nvidia's Probe Into Huang Affair Adds to AI Trade Risks",
-      "title_zh": "英伟达调查CEO黄仁勋，AI市场再添不确定性",
-      "url": "https://www.youtube.com/watch?v=8ItPxgwGM8A",
-      "published_at": "2026-11-09T14:16:44+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达对CEO黄仁勋展开调查，此前他承认与一名被多篇报道指认为疑似中国间谍的女性有婚外情。此事可能进一步扰动本已因数据中心支出放缓担忧而动荡的AI市场。",
-      "summary_en": "Nvidia has launched a probe into CEO Jensen Huang after he admitted to an affair with a woman identified in reports as a suspected Chinese spy. The development threatens to further roil an AI market already shaken by concerns over slowing data center spending.",
-      "detail_zh": "据彭博电视台Anthony Stephens报道，英伟达正在对CEO黄仁勋进行调查。此前黄仁勋承认与一名女性有婚外情，该女性在一系列报道中被指认为疑似中国间谍。这一调查发生之际，AI市场本已因数据中心支出放缓的担忧而受到震动。报道称，该事件可能进一步加剧AI市场的动荡。原文未提供调查的具体性质、范围或时间表，也未说明对英伟达运营的潜在影响。",
-      "detail_en": "According to Bloomberg Television's Anthony Stephens, Nvidia is conducting a probe into CEO Jensen Huang. This follows Huang's admission of an affair with a woman identified in a series of reports as a suspected Chinese spy. The probe comes as the AI market is already shaken by concerns about a slowdown in data center spending. The report states that the situation threatens to further roil the AI market. The original text does not provide details on the nature, scope, or timeline of the probe, nor does it specify potential impacts on Nvidia's operations.",
-      "conclusion_zh": "该事件可能加剧AI板块的短期波动，投资者需关注调查进展及其对英伟达治理与市场情绪的潜在影响。",
-      "conclusion_en": "The event could exacerbate short-term volatility in the AI sector; investors should monitor the probe's developments and its potential impact on Nvidia's governance and market sentiment.",
-      "key_points": [
-        {
-          "zh": "英伟达对CEO黄仁勋展开调查",
-          "en": "Nvidia has launched a probe into CEO Jensen Huang"
-        },
-        {
-          "zh": "黄仁勋承认与一名被指认为疑似中国间谍的女性有婚外情",
-          "en": "Huang admitted to an affair with a woman identified as a suspected Chinese spy"
-        },
-        {
-          "zh": "AI市场本已因数据中心支出放缓担忧而动荡",
-          "en": "The AI market was already shaken by concerns over slowing data center spending"
-        },
-        {
-          "zh": "该事件可能进一步扰动AI市场",
-          "en": "The development threatens to further roil the AI market"
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "CEO probe",
-        "AI market",
-        "China spy",
-        "data center spending"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:7_vcgyI4yKk",
-      "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
-      "title_zh": "英伟达CEO黄仁勋承认婚外情，董事会启动调查",
-      "url": "https://www.youtube.com/watch?v=7_vcgyI4yKk",
-      "published_at": "2026-11-09T14:15:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋承认与一名疑似中国间谍的女性有婚外情，英伟达董事会已对此启动调查。彭博的Minmin Low报道了这一消息，并提及黄仁勋此前向彭博透露的公司继任计划。",
-      "summary_en": "Nvidia CEO Jensen Huang admitted to having an affair with a woman suspected of being a Chinese spy, prompting the Nvidia board to launch an investigation. Bloomberg's Minmin Low reports on the news and shares what Huang previously told Bloomberg about the company's succession plans.",
-      "detail_zh": "英伟达首席执行官黄仁勋承认与一名疑似中国间谍的女性存在婚外情。此事已促使英伟达董事会启动调查。彭博的Minmin Low在报道中拆解了这一新闻，并分享了黄仁勋此前接受彭博采访时关于公司继任计划的表态。原文未提供调查的具体细节、涉事女性的身份信息或继任计划的具体内容。",
-      "detail_en": "Nvidia CEO Jensen Huang admitted to having an affair with a woman suspected of being a Chinese spy. The disclosure has prompted the Nvidia board to launch an investigation. Bloomberg's Minmin Low breaks down the news and shares what Huang previously told Bloomberg about the company's succession plans. The original text does not provide specific details of the investigation, the identity of the woman involved, or the specifics of the succession plans.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "黄仁勋承认与一名疑似中国间谍的女性有婚外情。",
-          "en": "Jensen Huang admitted to an affair with a woman suspected of being a Chinese spy."
-        },
-        {
-          "zh": "英伟达董事会已对此事启动调查。",
-          "en": "The Nvidia board has launched an investigation into the matter."
-        },
-        {
-          "zh": "彭博的Minmin Low报道了该消息，并提及黄仁勋此前关于公司继任计划的表态。",
-          "en": "Bloomberg's Minmin Low reported the news and referenced Huang's previous comments on succession plans."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "board investigation",
-        "succession planning"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:LEJHJpGyHso",
-      "title": "How Nvidia CEO’s Affair Engulfed AI Giant in Spy Probe",
-      "title_zh": "英伟达CEO黄仁勋承认婚外情，涉疑似中国间谍",
-      "url": "https://www.youtube.com/watch?v=LEJHJpGyHso",
-      "published_at": "2026-11-09T14:14:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋承认发生婚外情，涉事女性被一系列报道指认为疑似中国间谍。此事使这家芯片巨头陷入其三十年历史上前所未有的危机。",
-      "summary_en": "Nvidia CEO Jensen Huang has admitted to an affair. The woman involved was identified in a series of reports as a suspected Chinese spy, plunging the chip giant into an unprecedented crisis in its three-decade history.",
-      "detail_zh": "英伟达首席执行官黄仁勋已承认发生婚外情。一系列报道将涉事女性指认为疑似中国间谍。原文称，此事使这家芯片巨头陷入其三十年历史上前所未有的危机。原文未提供更多关于事件细节、时间线或公司回应的信息。",
-      "detail_en": "Nvidia CEO Jensen Huang has admitted to having an affair. A series of reports identified the woman as a suspected Chinese spy. The original text states that this has plunged the chip giant into a crisis unlike any before in its three-decade history. No further details on the event, timeline, or company response are provided in the source.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "黄仁勋承认婚外情",
-          "en": "Jensen Huang admitted to an affair"
-        },
-        {
-          "zh": "涉事女性被报道指认为疑似中国间谍",
-          "en": "The woman was identified in reports as a suspected Chinese spy"
-        },
-        {
-          "zh": "英伟达面临三十年历史上前所未有的危机",
-          "en": "Nvidia faces an unprecedented crisis in its three-decade history"
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "China",
-        "spy",
-        "crisis"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:QzZYymM47ak",
-      "title": "Asia Reels From the Global AI Selloff",
-      "title_zh": "全球AI交易逆转，纳指100市值蒸发2.3万亿美元",
-      "url": "https://www.youtube.com/watch?v=QzZYymM47ak",
-      "published_at": "2026-11-09T13:58:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "全球AI交易出现逆转，纳斯达克100指数市值蒸发2.3万亿美元，并引发亚洲市场剧烈抛售。印度市场成为罕见的亮点。",
-      "summary_en": "The global AI trade reversed, wiping $2.3 trillion from the Nasdaq 100 and triggering a sharp selloff across Asia. India emerged as a rare bright spot.",
-      "detail_zh": "全球AI交易发生逆转，导致纳斯达克100指数市值蒸发2.3万亿美元。这一走势引发了亚洲市场的剧烈抛售。文章提出两个问题：为何抛售如此猛烈，以及为何印度成为罕见的亮点。原文未提供更多细节。",
-      "detail_en": "The global AI trade went into reverse, wiping $2.3 trillion from the Nasdaq 100. This triggered a brutal selloff across Asia. The article raises two questions: why the rout turned so violent, and why India is emerging as a rare bright spot. No further details are provided in the source.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "全球AI交易逆转，纳斯达克100市值蒸发2.3万亿美元。",
-          "en": "The global AI trade reversed, wiping $2.3 trillion from the Nasdaq 100."
-        },
-        {
-          "zh": "亚洲市场遭遇剧烈抛售。",
-          "en": "A brutal selloff swept across Asia."
-        },
-        {
-          "zh": "印度成为罕见的亮点。",
-          "en": "India emerged as a rare bright spot."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "Nasdaq 100",
-        "selloff",
-        "Asia markets",
-        "India"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:W1a8QjNG8Nc",
-      "title": "This $1.5 Trillion Manager Expects More Fed Hikes. So Why Is He Still Bullish?",
-      "title_zh": "Northern Trust资管总裁：AI占标普500风险过半，如何布局？",
-      "url": "https://www.youtube.com/watch?v=W1a8QjNG8Nc",
-      "published_at": "2026-11-09T13:55:13+00:00",
-      "source_name": "Excess Returns",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "macro",
-        "other"
-      ],
-      "summary_zh": "Northern Trust Asset Management总裁Mike Hunstad估计，AI占标普500指数风险的超过一半。他认为AI对利润率的提升可能早于GDP数据显现，并指出股市下跌可能通过富裕家庭消费传导至经济。他还讨论了价值基金中科技敞口的变化以及主动管理者的选股问题。",
-      "summary_en": "Mike Hunstad, president of Northern Trust Asset Management, estimates that AI accounts for more than half the risk in the S&P 500. He expects AI's impact on profit margins to show up before GDP, and notes that a stock market decline could affect the economy through wealthy households' spending. He also discusses the changing tech exposure in value funds and questions for active managers.",
-      "detail_zh": "Hunstad估计AI占标普500指数风险的超过一半，这对看好AI的投资者提出了组合依赖度的问题。他认为，利用AI以更低成本完成相同工作的公司，其利润率可能先于GDP增长而提升。他还指出，如果富裕家庭将部分股票收益用于消费，那么20%的股市下跌可能改变他们的购买行为。Hunstad用罗素1000价值指数构成的变化说明，价值基金可能拥有比其名称更多的科技敞口。他建议向主动管理者提问：为这些最佳选股而低配了哪些股票，并对这些决策有同样的信心吗？此外，对话还涉及国债收益率对通胀和美联储选择的指示、AI资本支出与互联网泡沫的教训、大型私营公司上市时实际可流通的股票数量、市净率可能遗漏无形资产价值、通过追踪供应商、客户和同行来衡量动量、因子择时的困难以及管理者遗漏的股票可能压倒选股收益等话题。",
-      "detail_en": "Hunstad estimates that AI accounts for more than half the risk in the S&P 500, raising the question of how much a portfolio should depend on being right about AI. He expects companies using AI to do the same work at lower cost to see margins rise before gains show up in GDP. He also notes that if wealthy households have been spending some stock gains, a 20% equity decline could change what they buy. Hunstad uses the changing makeup of the Russell 1000 Value Index to show how a value fund can carry more technology exposure than its name suggests. He advises asking an active manager which stocks they underweighted to pay for their best picks and whether they have as much conviction in those decisions. Other topics include what Treasury yields say about inflation and the Fed, AI capital spending and dot-com lessons, how much stock becomes available when a large private company goes public, price-to-book missing value in intangible assets, measuring momentum via suppliers, customers and peers, the difficulty of timing factor shifts, and how omitted stocks can overwhelm gains from picks.",
-      "conclusion_zh": "投资者需审视组合中AI风险敞口，并关注利润率等早期指标以验证AI投资回报。",
-      "conclusion_en": "Investors should examine their portfolio's AI risk exposure and watch early indicators like profit margins to validate AI investment payoffs.",
-      "key_points": [
-        {
-          "zh": "Hunstad估计AI占标普500指数风险的超过一半。",
-          "en": "Hunstad estimates that AI accounts for more than half the risk in the S&P 500."
-        },
-        {
-          "zh": "AI对利润率的提升可能早于GDP数据显现。",
-          "en": "AI's impact on profit margins may show up before GDP."
-        },
-        {
-          "zh": "股市下跌可能通过富裕家庭消费传导至经济。",
-          "en": "A stock market decline could affect the economy through wealthy households' spending."
-        },
-        {
-          "zh": "价值基金可能拥有比名称更多的科技敞口。",
-          "en": "Value funds may carry more tech exposure than their name suggests."
-        },
-        {
-          "zh": "主动管理者低配的股票可能压倒其选股收益。",
-          "en": "Stocks an active manager underweights can overwhelm gains from their picks."
-        }
-      ],
-      "tags": [
-        "AI",
-        "S&P 500",
-        "risk exposure",
-        "value investing",
-        "active management"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Uhq4bkWTKoc",
-      "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
-      "title_zh": "英伟达董事会就CEO黄仁勋被外国情报机构盯上报道启动独立调查",
-      "url": "https://www.youtube.com/watch?v=Uhq4bkWTKoc",
-      "published_at": "2026-11-09T13:54:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达董事会已启动独立调查，此前有报道称CEO黄仁勋被外国情报机构盯上，他本人承认与一名疑似中国间谍有染。",
-      "summary_en": "Nvidia's board has launched an independent probe into reports that CEO Jensen Huang was targeted by foreign intelligence after he admitted to an affair with a suspected Chinese spy.",
-      "detail_zh": "英伟达董事会已就相关报道启动独立调查。报道称，公司CEO黄仁勋被外国情报机构盯上。此前，黄仁勋承认与一名疑似中国间谍有染。",
-      "detail_en": "Nvidia's board has launched an independent probe into reports that its CEO Jensen Huang was targeted by foreign intelligence. The probe follows Huang's admission to an affair with a suspected Chinese spy.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达董事会启动独立调查",
-          "en": "Nvidia's board has launched an independent probe"
-        },
-        {
-          "zh": "调查针对CEO黄仁勋被外国情报机构盯上的报道",
-          "en": "The probe targets reports that CEO Jensen Huang was targeted by foreign intelligence"
-        },
-        {
-          "zh": "黄仁勋承认与一名疑似中国间谍有染",
-          "en": "Huang admitted to an affair with a suspected Chinese spy"
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "board probe",
-        "foreign intelligence",
-        "China spy"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:9JC499IVEAc",
-      "title": "The Economy Is Sending a Surprising Signal? with Mikkel Rosenvold | Macro Mondays Nov 9, 2026",
-      "title_zh": "Steno Research：美国中期选举、阿布扎比与深圳会议及经济 Nowcasting 信号",
-      "url": "https://www.youtube.com/watch?v=9JC499IVEAc",
-      "published_at": "2026-11-09T13:54:07+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "Steno Research 地缘政治主管 Mikkel Rosenvold 在 Macro Mondays 中分析了美国中期选举对政治格局、经济政策和金融市场的影响，并讨论了阿布扎比和深圳会议的意义，同时揭示了其经济 Nowcasting 模型发出的一个意外信号。",
-      "summary_en": "Mikkel Rosenvold, head of geopolitics at Steno Research, analyzes the implications of the U.S. midterm elections for the political landscape, economic policy, and financial markets on Macro Mondays. He also examines the significance of the Abu Dhabi and Shenzhen meetings and reveals a surprising signal from Steno Research's economic nowcasting models.",
-      "detail_zh": "本期 Macro Mondays 由 Steno Research 地缘政治主管 Mikkel Rosenvold 单独主持。节目聚焦美国中期选举，探讨其对政治格局、经济政策及金融市场的影响。同时，Rosenvold 分析了阿布扎比和深圳会议的重要性。此外，他披露了 Steno Research 经济 Nowcasting 模型发出的一个意外信号。节目还包含 Real Vision Trading 平台的推广信息。",
-      "detail_en": "In this episode of Macro Mondays, Mikkel Rosenvold, head of geopolitics at Steno Research, hosts solo. The program focuses on the U.S. midterm elections and their implications for the political landscape, economic policy, and financial markets. Rosenvold also examines the significance of the Abu Dhabi and Shenzhen meetings. Additionally, he reveals a surprising signal from Steno Research's economic nowcasting models. The episode also includes promotional content for the Real Vision Trading platform.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国中期选举对政治格局、经济政策和金融市场的影响是本期讨论的核心。",
-          "en": "The impact of the U.S. midterm elections on the political landscape, economic policy, and financial markets is the core discussion of this episode."
-        },
-        {
-          "zh": "阿布扎比和深圳会议的意义被纳入分析。",
-          "en": "The significance of the Abu Dhabi and Shenzhen meetings is analyzed."
-        },
-        {
-          "zh": "Steno Research 的经济 Nowcasting 模型发出了一个意外信号。",
-          "en": "Steno Research's economic nowcasting models reveal a surprising signal."
-        }
-      ],
-      "tags": [
-        "US midterm elections",
-        "geopolitics",
-        "nowcasting",
-        "economic policy",
-        "financial markets"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:if5RybXnzI8",
-      "title": "Big Take: The Economic Policy Dems Can Do Without Trump",
-      "title_zh": "PIMCO政策主管谈民主党经济议题的政策转化",
-      "url": "https://www.youtube.com/watch?v=if5RybXnzI8",
-      "published_at": "2026-11-09T13:53:28+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博Big Take播客中，PIMCO公共政策主管Libby Cantrill与主持人Sarah Holder讨论民主党竞选时所提经济议题如何转化为政策，以及未来可能的妥协与冲突。原文指出，民主党在缺乏特朗普配合的情况下解决可负担性问题的选项有限。",
-      "summary_en": "On Bloomberg's Big Take podcast, PIMCO Head of Public Policy Libby Cantrill joined host Sarah Holder to discuss how the economic issues Democrats campaigned on could translate into policy, and the compromises and clashes that may lie ahead. The piece notes Democrats have limited options to tackle affordability without Trump.",
-      "detail_zh": "原文提到，所谓的“Blue Wave”可能被视为对特朗普及其经济政策的否定，但民主党在缺乏特朗普配合的情况下，解决可负担性问题的选项有限。在彭博Big Take播客中，PIMCO公共政策主管Libby Cantrill与主持人Sarah Holder讨论了民主党竞选时所主打的经济议题可能如何转化为实际政策，以及未来可能出现的妥协与冲突。原文未提供具体政策细节、数字或时间表。",
-      "detail_en": "The original text states that the 'Blue Wave' might have been a rebuke of Trump and his economy, but Democrats have limited options to tackle affordability without him. On the Big Take podcast, PIMCO's Head of Public Policy Libby Cantrill joined host Sarah Holder to discuss how the economic issues Democrats campaigned on could translate into policy, and the compromises and clashes that may lie ahead. No specific policy details, figures, or timelines are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "“Blue Wave”可能被视为对特朗普及其经济政策的否定。",
-          "en": "The 'Blue Wave' might have been a rebuke of Trump and his economy."
-        },
-        {
-          "zh": "民主党在缺乏特朗普配合的情况下解决可负担性问题的选项有限。",
-          "en": "Democrats have limited options to tackle affordability without Trump."
-        },
-        {
-          "zh": "PIMCO公共政策主管Libby Cantrill在Big Take播客中讨论了民主党经济议题的政策转化。",
-          "en": "PIMCO's Head of Public Policy Libby Cantrill discussed the policy translation of Democrats' economic issues on the Big Take podcast."
-        },
-        {
-          "zh": "讨论涉及未来可能出现的妥协与冲突。",
-          "en": "The discussion covered the compromises and clashes that may lie ahead."
-        }
-      ],
-      "tags": [
-        "US politics",
-        "fiscal policy",
-        "affordability",
-        "PIMCO"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:RrXvsWkHhg8",
-      "title": "Is AI Degrading Our Music Taste?",
-      "title_zh": "作曲家Max Richter：AI使用人类作品应获报酬",
-      "url": "https://www.youtube.com/watch?v=RrXvsWkHhg8",
-      "published_at": "2026-11-09T13:53:16+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "作曲家Max Richter对Mishal Husain表示，AI系统建立在被盗数据之上，人类作曲家在AI使用其作品创作音乐时应获得报酬。该表态涉及AI训练数据的版权与补偿问题。",
-      "summary_en": "Composer Max Richter told Mishal Husain that AI systems were built on stolen data, and that human composers should be paid when AI uses their work to make music. The remarks concern copyright and compensation for AI training data.",
-      "detail_zh": "作曲家Max Richter在接受Mishal Husain采访时表示：“AI系统是建立在被盗数据之上的。”他主张，当AI利用人类作曲家的作品来创作音乐时，人类作曲家应当获得报酬。该访谈内容由Bloomberg Television播出。原文未提供更多关于补偿机制、法律框架或具体案例的细节。",
-      "detail_en": "Composer Max Richter told Mishal Husain: \"AI systems were built on data that was stolen.\" He argued that human composers should get paid when AI uses their work to make music. The interview was aired by Bloomberg Television. The source provides no further details on compensation mechanisms, legal frameworks, or specific cases.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Max Richter称AI系统建立在被盗数据之上。",
-          "en": "Max Richter said AI systems were built on stolen data."
-        },
-        {
-          "zh": "他主张人类作曲家在AI使用其作品创作音乐时应获得报酬。",
-          "en": "He argued that human composers should be paid when AI uses their work to make music."
-        },
-        {
-          "zh": "该表态涉及AI训练数据的版权与补偿问题。",
-          "en": "The remarks concern copyright and compensation for AI training data."
-        }
-      ],
-      "tags": [
-        "AI",
-        "copyright",
-        "music",
-        "compensation"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:38ueFHuKh6E",
-      "title": "Stocks Rise as Investors Shrug Off Nvidia Probe; Trump Says Iran Strikes Unlikely",
-      "title_zh": "美股期货反弹，英伟达CEO丑闻引发关键人风险担忧",
-      "url": "https://www.youtube.com/watch?v=38ueFHuKh6E",
-      "published_at": "2026-11-09T13:48:45+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "标普500经历2025年4月以来最差一周后，美股期货反弹，但英伟达因CEO黄仁勋承认与中国间谍有染而启动调查，引发关键人风险担忧。BNY的Ella Gude讨论AI抛售后的投资者谨慎情绪。",
-      "summary_en": "US equity futures rose after the S&P 500's worst week since April 2025, despite Nvidia launching an investigation after CEO Jensen Huang admitted to an affair with an alleged Chinese spy, raising key man risk concerns. Ella Gude of BNY discussed investors' caution after the latest AI rout.",
-      "detail_zh": "美股期货在标普500指数经历2025年4月以来最差一周后上涨，尽管英伟达股价大幅下跌。英伟达在CEO黄仁勋承认与一名被指为中国间谍的女性有染后启动调查。特朗普总统称此事“极不可能”，国务卿马可·卢比奥则淡化了和平谈判的任何进展。BNY的Ella Gude在“Bloomberg Brief”节目中讨论了最新AI抛售潮后投资者的谨慎情绪。节目还涵盖了亚洲市场反弹、科技股抛售与市场波动、特朗普与伊朗及石油、UniCredit财报与Commerzbank、AI投资与资产配置、华盛顿头条与中期选举影响、中国关税与全球贸易、民主党准备对特朗普的调查、Pete Hegseth弹劾推动、英伟达的华盛顿与中国风险、Alphabet筹集更多资金，以及未来一周的CPI、财报和美联储发言人等议题。",
-      "detail_en": "US equity futures rose after the S&P 500 posted its worst week since April 2025, even as Nvidia shares fell sharply. Nvidia launched an investigation after CEO Jensen Huang admitted to an affair with an alleged Chinese spy. President Trump called it 'highly unlikely,' while Secretary of State Marco Rubio played down any progress in peace negotiations. Ella Gude of BNY joined 'Bloomberg Brief' to discuss investors' caution after the latest AI rout. The program also covered Asia markets rebounding, the tech selloff and market volatility, Trump, Iran and oil, UniCredit earnings and Commerzbank, AI investing and asset allocation, Washington headlines and midterm fallout, China tariffs and global trade, Democrats preparing for Trump investigations, the Pete Hegseth impeachment push, Nvidia's Washington and China risks, Alphabet raising more money, and the week ahead including CPI, earnings and Fed speakers.",
-      "conclusion_zh": "英伟达CEO丑闻凸显关键人风险，叠加AI抛售后的谨慎情绪，投资者需关注科技股波动及本周CPI与美联储信号。",
-      "conclusion_en": "The Nvidia CEO scandal highlights key man risk, and combined with caution after the AI rout, investors should watch tech volatility and this week's CPI and Fed signals.",
-      "key_points": [
-        {
-          "zh": "标普500经历2025年4月以来最差一周后，美股期货反弹。",
-          "en": "US equity futures rose after the S&P 500's worst week since April 2025."
-        },
-        {
-          "zh": "英伟达因CEO黄仁勋承认与中国间谍有染而启动调查，股价大幅下跌。",
-          "en": "Nvidia launched an investigation after CEO Jensen Huang admitted to an affair with an alleged Chinese spy, and shares fell sharply."
-        },
-        {
-          "zh": "特朗普称此事“极不可能”，卢比奥淡化和平谈判进展。",
-          "en": "President Trump said it's 'highly unlikely,' while Secretary of State Marco Rubio played down progress in peace negotiations."
-        },
-        {
-          "zh": "BNY的Ella Gude讨论AI抛售后的投资者谨慎情绪。",
-          "en": "Ella Gude of BNY discussed investors' caution after the latest AI rout."
-        },
-        {
-          "zh": "未来一周关注CPI、财报和美联储发言人。",
-          "en": "The week ahead includes CPI, earnings and Fed speakers."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "AI selloff",
-        "key man risk",
-        "market volatility",
-        "CPI"
-      ],
-      "tickers": [
-        "NVDA",
-        "GOOGL"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:uKNo4ZZa94w",
-      "title": "Big Take: The New AI Trade Is FOGO",
-      "title_zh": "华尔街AI抛售波及亚洲市场，AI繁荣可持续性受质疑",
-      "url": "https://www.youtube.com/watch?v=uKNo4ZZa94w",
-      "published_at": "2026-11-09T13:46:54+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "华尔街AI板块的抛售先冲击美股，随后蔓延至亚洲市场，引发市场对全球AI繁荣可持续性及下一轮机会所在的新一轮质疑。",
-      "summary_en": "Wall Street's AI sell-off hit US markets and then spilled over into Asian markets, raising fresh questions about the sustainability of the global AI boom and where the next opportunities lie.",
-      "detail_zh": "华尔街AI板块出现抛售，美股首当其冲，随后亚洲市场也随之下跌。这轮下跌使市场重新审视全球AI繁荣的可持续性。原文同时提出，投资者正在思考下一轮机会可能出现在哪里。原文未提供具体指数跌幅、个股名称或资金流向数据。",
-      "detail_en": "A sell-off in AI-related stocks on Wall Street hit US markets first and then spread to Asian markets. The decline has prompted renewed scrutiny of whether the global AI boom is sustainable. The source also notes questions about where the next opportunities may lie. No specific index moves, individual stock names, or flow data were provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "华尔街AI板块抛售先冲击美股，随后蔓延至亚洲市场。",
-          "en": "Wall Street's AI sell-off hit US markets first, then spread to Asian markets."
-        },
-        {
-          "zh": "市场对全球AI繁荣的可持续性提出新的质疑。",
-          "en": "The sell-off raised fresh questions about the sustainability of the global AI boom."
-        },
-        {
-          "zh": "投资者同时关注下一轮机会可能出现在哪里。",
-          "en": "Investors are also asking where the next opportunities may lie."
-        }
-      ],
-      "tags": [
-        "AI selloff",
-        "US equities",
-        "Asian markets",
-        "AI boom sustainability"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
     }
   ]
 }
