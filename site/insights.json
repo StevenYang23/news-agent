@@ -1,6 +1,125 @@
 {
-  "generated_at": "2026-11-16T18:16:30.233472+00:00",
+  "generated_at": "2026-11-16T19:12:15.352238+00:00",
   "insights": [
+    {
+      "guid": "yt:rPcYGUv21H4",
+      "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
+      "title_zh": "Jeff Currie：黄金回落反映美元流动性短缺",
+      "url": "https://www.youtube.com/watch?v=rPcYGUv21H4",
+      "published_at": "2026-11-16T18:42:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "Real Macro创始人、Carlyle高级顾问Jeff Currie表示，黄金的回撤反映了美元流动性短缺。他还在访谈中讨论了全球石油行业。",
+      "summary_en": "Jeff Currie, CEO and founder of Real Macro and senior adviser at Carlyle, says gold's retreat reflects a shortage of dollar liquidity. He also discusses the global oil industry.",
+      "detail_zh": "在Bloomberg Television《The Close》节目中，Real Macro创始人兼首席执行官、Carlyle高级顾问Jeff Currie接受Vonnie Quinn和Bailey Lipschultz采访。Currie表示，黄金的回撤反映了美元流动性短缺。此外，他还讨论了全球石油行业。原文未提供更多关于流动性短缺机制、黄金走势细节或石油行业具体观点的信息。",
+      "detail_en": "In an interview on Bloomberg Television's \"The Close\" with Vonnie Quinn and Bailey Lipschultz, Jeff Currie, CEO and founder of Real Macro and senior adviser at Carlyle, said gold's retreat reflects a shortage of dollar liquidity. He also discussed the global oil industry. The source does not provide further details on the mechanism of the liquidity shortage, the specifics of gold's move, or his views on oil.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Jeff Currie认为黄金回落反映美元流动性短缺",
+          "en": "Jeff Currie says gold's retreat reflects a shortage of dollar liquidity"
+        },
+        {
+          "zh": "Currie是Real Macro创始人兼CEO，同时担任Carlyle高级顾问",
+          "en": "Currie is CEO and founder of Real Macro and a senior adviser at Carlyle"
+        },
+        {
+          "zh": "访谈中还讨论了全球石油行业",
+          "en": "The interview also covered the global oil industry"
+        }
+      ],
+      "tags": [
+        "gold",
+        "dollar-liquidity",
+        "oil",
+        "commodities"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Iun-1LmMS3Y",
+      "title": "Nvidia Crisis a ‘Boon’ for US AI, Says Nouriel Roubini",
+      "title_zh": "鲁比尼：英伟达CEO危机是强化美国AI的机遇",
+      "url": "https://www.youtube.com/watch?v=Iun-1LmMS3Y",
+      "published_at": "2026-11-16T18:42:03+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "鲁比尼宏观协会主席鲁比尼认为，英伟达的CEO危机是强化美国人工智能的机遇，并指出Mag Seven公司在数据中心上犯了“社区”错误，同时展望了AI带来的增长与财富不平等前景。",
+      "summary_en": "Nouriel Roubini, chairman of Roubini Macro Associates, views the CEO crisis at Nvidia as an opportunity to strengthen AI in the US, flags a \"community\" mistake by Mag Seven companies on data centers, and shares his outlook on growth and wealth inequality from AI.",
+      "detail_zh": "鲁比尼宏观协会主席努里尔·鲁比尼就英伟达的CEO危机发表看法，认为这一危机是强化美国人工智能的机遇。他还指出，Mag Seven公司在数据中心方面犯了一个“社区”错误。此外，鲁比尼分享了他对AI驱动的增长和财富不平等的前景展望。",
+      "detail_en": "Nouriel Roubini, chairman at Roubini Macro Associates, explained why the CEO crisis at Nvidia is an opportunity to strengthen artificial intelligence in the US. He also discussed the \"community\" mistake made by Mag Seven companies on data centers and shared his outlook for growth and wealth inequality from AI.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "鲁比尼认为英伟达的CEO危机是强化美国AI的机遇。",
+          "en": "Roubini sees the CEO crisis at Nvidia as an opportunity to strengthen AI in the US."
+        },
+        {
+          "zh": "鲁比尼指出Mag Seven公司在数据中心上犯了“社区”错误。",
+          "en": "Roubini flags a \"community\" mistake by Mag Seven companies regarding data centers."
+        },
+        {
+          "zh": "鲁比尼分享了对AI带来的增长和财富不平等的前景展望。",
+          "en": "Roubini shares his outlook on growth and wealth inequality from AI."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI",
+        "Mag Seven",
+        "data centers",
+        "wealth inequality"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lw_ENnqapXY",
+      "title": "JPM’s Michele: ‘Looks a Bit Silly’ Fed Missed Oct. Hike",
+      "title_zh": "摩根资管固收主管：美联储对美债影响大于AI交易",
+      "url": "https://www.youtube.com/watch?v=lw_ENnqapXY",
+      "published_at": "2026-11-16T18:25:54+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "摩根大通资产管理全球固收主管Bob Michele认为，当前美联储对美债市场的影响力超过AI交易。他表示美联储错失10月加息机会“看起来有点愚蠢”。",
+      "summary_en": "Bob Michele, global head of fixed income at JPMorgan Asset Management, sees the Federal Reserve having a bigger impact on the Treasury market than the AI trade. He says it \"looks a little bit silly\" that the Fed missed a chance to hike rates in October.",
+      "detail_zh": "摩根大通资产管理全球固定收益主管Bob Michele在“Bloomberg Surveillance”节目中表示，当前美联储对美债市场的影响比AI交易更大。Michele认为，美联储错失了在10月加息的机会，这“看起来有点愚蠢”。该评论将市场关注点引向货币政策路径对美债的驱动作用，而非AI主题交易。",
+      "detail_en": "Bob Michele, global head of fixed income at JPMorgan Asset Management, said on \"Bloomberg Surveillance\" that the Federal Reserve is currently having a bigger impact on the Treasury market than the AI trade. Michele said it \"looks a little bit silly\" that the Fed missed a chance to hike rates in October. The comments direct attention to the role of monetary policy path in driving Treasuries, rather than the AI-themed trade.",
+      "conclusion_zh": "Michele的评论暗示，美债投资者应更关注美联储政策路径，而非AI主题交易。",
+      "conclusion_en": "Michele's comments suggest Treasury investors should focus more on the Fed's policy path than on the AI trade.",
+      "key_points": [
+        {
+          "zh": "摩根资管固收主管Bob Michele认为，当前美联储对美债市场的影响大于AI交易。",
+          "en": "Bob Michele of JPMorgan Asset Management sees the Fed having a bigger impact on the Treasury market than the AI trade."
+        },
+        {
+          "zh": "Michele表示，美联储错失10月加息机会“看起来有点愚蠢”。",
+          "en": "Michele says it \"looks a little bit silly\" that the Fed missed a chance to hike rates in October."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "Treasury",
+        "AI trade",
+        "rates"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:mfut6-Ak_o4",
       "title": "Richard Falk-Wallace – Risk Models for the Front Office with Arcana (S8E1)",
@@ -16706,107 +16825,6 @@
         "consumer spending",
         "consumer confidence",
         "rates"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4965212",
-      "title": "Wall Street Lunch: Megaspeed In The Crosshairs",
-      "title_zh": "英伟达干预新加坡Megaspeed调查，DOJ接手刑事调查；黄仁勋去留引关注",
-      "url": "https://seekingalpha.com/article/4965212-wall-street-lunch-megaspeed-in-the-crosshairs?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-09T18:56:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "美国商务部对新加坡数据中心公司Megaspeed的调查在英伟达干预后被移交司法部，后者展开刑事调查。英伟达董事会正调查CEO黄仁勋是否遭外国情报机构针对，但63%的受访投资者预计黄仁勋将留任并获董事会全力支持。",
-      "summary_en": "The U.S. Commerce Department's inquiry into Singapore data center company Megaspeed was transferred to the Department of Justice after Nvidia intervened, and the DOJ is conducting a criminal inquiry. Nvidia's board is investigating whether CEO Jensen Huang was targeted by a foreign intelligence effort, but 63% of surveyed investors expect Huang to remain CEO with full board backing.",
-      "detail_zh": "据《纽约时报》报道，美国商务部对新加坡数据中心公司Megaspeed的调查在英伟达干预后被移交司法部。英伟达总法律顾问Tim Teter在获得直接向商务部长Howard Lutnick汇报的Jeff Kessler许可后联系了商务部调查人员，随后调查因担心可能受到干扰而被转交DOJ，DOJ正对Megaspeed进行刑事调查。英伟达董事会已就CEO黄仁勋是否遭外国情报机构针对展开调查；黄仁勋披露其与Alice Huang的关系中对妻子不忠，而美国情报机构怀疑Alice Huang为中国从事间谍活动。英伟达股价当日开盘处于超卖区域，现已脱离低点但仍下跌5%。CBS新闻报道称，特朗普政府将就黄仁勋向国会进行简报。Bernstein分析师Stacy Rasgon维持英伟达“跑赢大盘”评级和400美元目标价，称“英伟达不是一家普通公司，黄仁勋也不是一位普通CEO；他就是英伟达”。在Wall Street Breakfast的调查中，63%的受访者认为黄仁勋最终将留任并获董事会全力支持，约23%认为他将辞去CEO，其余受访者均匀分布在“带继任路线图退休”和“被彻底赶下台”之间。",
-      "detail_en": "According to The New York Times, the U.S. Commerce Department's inquiry into Singapore data center company Megaspeed was transferred to the Department of Justice after Nvidia intervened. Nvidia general counsel Tim Teter reached out to Commerce investigators after receiving permission from Jeff Kessler, who reports directly to Commerce Secretary Howard Lutnick; the inquiry was then transferred to the DOJ amid concerns that the investigation could be compromised, and the DOJ is conducting a criminal inquiry into Megaspeed. Nvidia's board of directors has opened an investigation into whether CEO Jensen Huang was targeted by a foreign intelligence effort; Huang disclosed that he had been unfaithful to his wife in connection with a relationship with Alice Huang, whom U.S. intelligence agencies suspect of spying for China. Nvidia shares opened the session in oversold territory, off the lows but still down 5%. CBS News reported that Jensen Huang will be the subject of a congressional briefing from the Trump administration. Bernstein analyst Stacy Rasgon, who has an Outperform rating and a $400 price target on the stock, says 'Nvidia is not an ordinary company and Jensen is not an ordinary CEO; he IS Nvidia.' In the Wall Street Breakfast poll, 63% think Jensen will remain CEO with full board backing, about 23% say he'll step down as CEO, and the rest are evenly split between retiring with a succession roadmap and being forced out completely.",
-      "conclusion_zh": "英伟达CEO相关调查与Megaspeed刑事调查构成短期不确定性，但多数受访投资者仍预期黄仁勋留任，市场关注点在于治理风险是否影响公司战略连续性。",
-      "conclusion_en": "The investigations surrounding Nvidia's CEO and Megaspeed pose near-term uncertainty, but most surveyed investors still expect Huang to remain, with the market focused on whether governance risks affect strategic continuity.",
-      "key_points": [
-        {
-          "zh": "美国商务部对Megaspeed的调查在英伟达干预后被移交司法部，DOJ展开刑事调查。",
-          "en": "The U.S. Commerce Department's inquiry into Megaspeed was transferred to the DOJ after Nvidia intervened, and the DOJ is conducting a criminal inquiry."
-        },
-        {
-          "zh": "英伟达董事会调查CEO黄仁勋是否遭外国情报机构针对；黄仁勋披露与Alice Huang的关系中对妻子不忠，美情报机构怀疑Alice Huang为中国从事间谍活动。",
-          "en": "Nvidia's board is investigating whether CEO Jensen Huang was targeted by a foreign intelligence effort; Huang disclosed infidelity in a relationship with Alice Huang, whom U.S. intelligence agencies suspect of spying for China."
-        },
-        {
-          "zh": "英伟达股价当日开盘处于超卖区域，脱离低点但仍下跌5%。",
-          "en": "Nvidia shares opened in oversold territory, off the lows but still down 5%."
-        },
-        {
-          "zh": "Bernstein分析师Stacy Rasgon维持英伟达“跑赢大盘”评级和400美元目标价，称“黄仁勋就是英伟达”。",
-          "en": "Bernstein analyst Stacy Rasgon maintains an Outperform rating and $400 price target, saying 'Jensen IS Nvidia.'"
-        },
-        {
-          "zh": "63%的受访投资者预计黄仁勋将留任CEO并获董事会全力支持，约23%认为他将辞职。",
-          "en": "63% of surveyed investors expect Huang to remain CEO with full board backing; about 23% say he'll step down."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "DOJ investigation",
-        "Jensen Huang",
-        "Megaspeed",
-        "governance risk"
-      ],
-      "tickers": [
-        "NVDA",
-        "LINC",
-        "VIR",
-        "DDI",
-        "JMKE"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:oixV7JTIrnE",
-      "title": "20 Years After the Pension Protection Act | Nevin Adams",
-      "title_zh": "Nevin Adams谈养老金保护法20年、SECURE法案与退休计划诉讼",
-      "url": "https://www.youtube.com/watch?v=oixV7JTIrnE",
-      "published_at": "2026-11-09T18:51:57+00:00",
-      "source_name": "DoubleLine Capital",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "DoubleLine播客《Glide Path》专访退休行业资深人士Nevin Adams，回顾《养老金保护法》20年及两轮SECURE法案的影响。Adams指出SECURE 2.0包含约90项可选条款，赋予计划发起人定制空间但增加复杂性；他持续关注影响计划管理者个人责任的诉讼，并强调帮助从业者理解复杂法规的重要性。",
-      "summary_en": "DoubleLine's Glide Path podcast interviews retirement industry veteran Nevin Adams on the 20th anniversary of the Pension Protection Act and the two SECURE Acts. Adams notes SECURE 2.0 contains roughly 90 optional provisions, offering plan sponsors customization but adding complexity; he tracks litigation affecting the personal liability of plan administrators and stresses helping practitioners understand complex regulations.",
-      "detail_zh": "播客主持人介绍Nevin Adams为Endeavor Retirement首席顾问策略师、美国退休协会前首席内容官兼退休研究主管，联合主持Nevin and Fred播客，并撰写Substack专栏Talking Points。Adams表示当前主要关注退休计划相关诉讼，并非只看判决影响，更看重其中可供行业吸取的教训，尤其是计划运营与管理者面临的个人责任。他指出行业常低估这项业务的复杂性，自己始终希望帮助人们理解如何完成这项复杂工作。Adams提到两轮SECURE法案在疫情期间带来大规模立法变化，其中SECURE 2.0包含约90项可选条款；对计划发起人或顾问而言选择很多，可据此定制计划以更贴合公司与员工需求，但记录保管机构因客户需求不确定而几乎必须覆盖所有潜在条款。他将职业生涯分为两半：前半段实际运营计划、对接参与者，后半段从事写作，致力于解释法律与监管的复杂性。主持人将《养老金保护法》比作退休行业的《多德-弗兰克法案》，认为其界定了受托人定义并推动受托人业务发展；双方还讨论了立法内容晦涩、解释空间大的问题。",
-      "detail_en": "The host introduces Nevin Adams as chief advisor strategist at Endeavor Retirement, former chief content officer and head of retirement research at the American Retirement Association, co-host of the Nevin and Fred podcast, and author of the Substack Talking Points. Adams says he is mainly tracking retirement-plan litigation, not only for its impact but for the lessons it offers, especially the personal liability facing those who run and administer plans. He notes the industry tends to underestimate how complex the business is and that he has always wanted to help people understand how to do this complex job. Adams cites massive legislative changes from the two SECURE Acts during COVID, noting SECURE 2.0 contained roughly 90 optional provisions; for plan sponsors or advisors there is much to choose from to tailor plans to company and workforce needs, but recordkeepers are 'kind of screwed' because they must cover all potential provisions since client demand is uncertain. He divides his career into two halves: the first working on plans and with participants, the second writing to explain the complexities of laws and regulations. The host likens the Pension Protection Act to the retirement industry's Dodd-Frank, saying it defined fiduciary status and spurred the fiduciary business; they also discuss how opaque the legislation is and how much room for interpretation it leaves.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "SECURE 2.0包含约90项可选条款，为计划发起人提供定制空间，但显著增加复杂性。",
-          "en": "SECURE 2.0 contains roughly 90 optional provisions, offering plan sponsors customization but significantly adding complexity."
-        },
-        {
-          "zh": "Adams重点跟踪退休计划诉讼，关注计划管理者个人责任及行业可吸取的教训。",
-          "en": "Adams focuses on retirement-plan litigation, the personal liability of plan administrators, and lessons for the industry."
-        },
-        {
-          "zh": "记录保管机构因客户需求不确定，几乎必须覆盖所有可选条款。",
-          "en": "Recordkeepers must cover essentially all optional provisions because client demand is uncertain."
-        },
-        {
-          "zh": "主持人将《养老金保护法》类比为退休行业的《多德-弗兰克法案》，因其界定受托人定义并推动受托人业务。",
-          "en": "The host likens the Pension Protection Act to the retirement industry's Dodd-Frank for defining fiduciary status and spurring the fiduciary business."
-        }
-      ],
-      "tags": [
-        "retirement",
-        "SECURE Act",
-        "Pension Protection Act",
-        "litigation",
-        "regulation"
       ],
       "tickers": [],
       "sentiment": "neutral"
