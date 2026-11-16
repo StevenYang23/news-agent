@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:19:24.082205+00:00",
+  "generated_at": "2026-11-16T05:15:00.940860+00:00",
   "insights": [
     {
       "guid": "4968405",
@@ -16984,57 +16984,6 @@
         "tech rebound",
         "espionage probe",
         "Asia markets"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:e-uRd_CS48c",
-      "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
-      "title_zh": "彭博《中国秀》节目要点：英伟达董事会调查间谍案、中国PPI加速、汇丰下调中国股市至中性",
-      "url": "https://www.youtube.com/watch?v=e-uRd_CS48c",
-      "published_at": "2026-11-09T04:54:56+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期彭博《中国秀》涵盖多项议题：英伟达董事会就间谍案展开调查且CEO承认婚外情；中国生产者通胀以2022年6月以来最快速度加速；摩根士丹利邢自强与NF Trinity的Helen Zhu分别就中国经济和AI交易发表看法；汇丰将中国股市下调至中性、将印度上调至超配。",
-      "summary_en": "This episode of Bloomberg The China Show covers several topics: Nvidia's board probes a spying case as the CEO admits an affair; Chinese producer inflation accelerates at the fastest pace since June 2022; Morgan Stanley's Robin Xing and NF Trinity's Helen Zhu discuss China's economy and the AI trade respectively; HSBC lowers China stocks to neutral and boosts India to overweight.",
-      "detail_zh": "节目首先报道英伟达董事会正就一起间谍案展开调查，同时CEO承认婚外情。NF Trinity的Helen Zhu就AI交易及市场发表观点。宏观方面，中国生产者通胀以2022年6月以来最快速度加速。摩根士丹利邢自强讨论中国经济。汇丰将中国股市评级下调至中性，同时将印度上调至超配。瑞银集团Ermotti谈论AI的长期前景。作者Mehran Gul讨论中美AI技术竞赛。约翰霍普金斯大学的Elly Rostoum就英伟达间谍调查发表看法。节目最后聚焦中国坏账催收者追讨1亿违约者。",
-      "detail_en": "The program first reports that Nvidia's board is investigating a spying case while the CEO admits an affair. NF Trinity's Helen Zhu shares views on the AI trade and markets. On the macro front, Chinese producer inflation accelerates at the fastest pace since June 2022. Morgan Stanley's Robin Xing discusses China's economy. HSBC downgrades China stocks to neutral while upgrading India to overweight. UBS Group's Ermotti talks about AI's long-term prospects. Author Mehran Gul discusses the China-US AI tech race. Johns Hopkins University's Elly Rostoum comments on the Nvidia spying probe. The show concludes with a Big Take on China's bad-debt collectors chasing 100 million defaulters.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达董事会就间谍案展开调查，CEO承认婚外情",
-          "en": "Nvidia's board probes a spying case as the CEO admits an affair"
-        },
-        {
-          "zh": "中国生产者通胀以2022年6月以来最快速度加速",
-          "en": "Chinese producer inflation accelerates at the fastest pace since June 2022"
-        },
-        {
-          "zh": "汇丰将中国股市下调至中性，将印度上调至超配",
-          "en": "HSBC lowers China stocks to neutral and boosts India to overweight"
-        },
-        {
-          "zh": "摩根士丹利邢自强与NF Trinity的Helen Zhu分别讨论中国经济与AI交易",
-          "en": "Morgan Stanley's Robin Xing and NF Trinity's Helen Zhu discuss China's economy and the AI trade"
-        },
-        {
-          "zh": "瑞银Ermotti谈AI长期前景；Mehran Gul谈中美AI技术竞赛",
-          "en": "UBS's Ermotti on AI's long-term prospects; Mehran Gul on the China-US AI tech race"
-        }
-      ],
-      "tags": [
-        "China",
-        "Nvidia",
-        "AI",
-        "PPI",
-        "HSBC"
       ],
       "tickers": [
         "NVDA"
