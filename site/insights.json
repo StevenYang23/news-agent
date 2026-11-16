@@ -1,6 +1,169 @@
 {
-  "generated_at": "2026-11-16T14:27:21.872345+00:00",
+  "generated_at": "2026-11-16T15:20:32.892434+00:00",
   "insights": [
+    {
+      "guid": "yt:Em35ZNmWzzo",
+      "title": "France's borrowing costs are climbing. Could the U.S. be next?",
+      "title_zh": "法国借贷成本超越希腊意大利，财政风险上升",
+      "url": "https://www.youtube.com/watch?v=Em35ZNmWzzo",
+      "published_at": "2026-11-16T15:00:12+00:00",
+      "source_name": "CNBC",
+      "source_kind": "video",
+      "categories": [
+        "macro"
+      ],
+      "summary_zh": "全球利率飙升使法国从欧洲金融市场的稳定绿洲变为最薄弱环节之一，其借贷成本已超过希腊和意大利等昔日危机热点。",
+      "summary_en": "The global surge in interest rates has exposed France as one of Europe's weakest links, with its borrowing costs now exceeding those of former crisis hot spots Greece and Italy.",
+      "detail_zh": "全球利率的飙升暴露了法国的财政脆弱性，该国曾被视为欧洲金融市场的稳定绿洲，如今却成为欧洲最薄弱的环节之一。法国目前的借贷成本已高于希腊和意大利等曾经的危机热点国家。CNBC的Liz Napolitano对此进行了报道。",
+      "detail_en": "The global surge in interest rates has exposed France's fiscal vulnerability. Once considered an oasis of stability in Europe's financial markets, the country is now seen as one of the continent's weakest links. France now pays more to borrow than former crisis hot spots like Greece and Italy. CNBC's Liz Napolitano reports.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "全球利率飙升暴露法国财政脆弱性",
+          "en": "Global rate surge exposes France's fiscal vulnerability"
+        },
+        {
+          "zh": "法国从稳定绿洲变为欧洲最薄弱环节之一",
+          "en": "France shifts from stability oasis to one of Europe's weakest links"
+        },
+        {
+          "zh": "法国借贷成本已超过希腊和意大利",
+          "en": "France's borrowing costs now exceed those of Greece and Italy"
+        }
+      ],
+      "tags": [
+        "France",
+        "interest rates",
+        "sovereign debt",
+        "Europe"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:WyxO5kfuMHw",
+      "title": "Anthropic IPO Is Delaying Some Deals, Says Bank of America CEO Moynihan",
+      "title_zh": "美银CEO：资本市场活动起伏不定，部分交易因预期Anthropic IPO推迟至明年初",
+      "url": "https://www.youtube.com/watch?v=WyxO5kfuMHw",
+      "published_at": "2026-11-16T14:49:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国银行CEO Brian Moynihan表示，资本市场活动起伏不定，部分交易因预期中的Anthropic IPO而被推迟至明年年初。",
+      "summary_en": "Bank of America CEO Brian Moynihan says capital markets activity has been bumpy, and some deals are being delayed until early next year because of the expected Anthropic IPO.",
+      "detail_zh": "美国银行首席执行官Brian Moynihan在“Bloomberg Surveillance”节目中表示，资本市场活动一直起伏不定。他提到，由于预期中的Anthropic首次公开募股（IPO），一些交易被推迟到明年年初。Moynihan未提供更多关于交易推迟的具体细节或涉及行业。",
+      "detail_en": "Bank of America CEO Brian Moynihan said on \"Bloomberg Surveillance\" that capital markets activity has been bumpy. He noted that some deals are being delayed until early next year because of the expected Anthropic initial public offering. Moynihan did not provide further details on the specific deals delayed or the sectors involved.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美银CEO Brian Moynihan称资本市场活动起伏不定。",
+          "en": "BofA CEO Brian Moynihan says capital markets activity has been bumpy."
+        },
+        {
+          "zh": "部分交易因预期中的Anthropic IPO而被推迟至明年年初。",
+          "en": "Some deals are being delayed until early next year because of the expected Anthropic IPO."
+        }
+      ],
+      "tags": [
+        "capital markets",
+        "IPO",
+        "Anthropic",
+        "Bank of America"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-xwPO7uiLmA",
+      "title": "AI: looking beyond the buildout",
+      "title_zh": "贝莱德：AI建设不确定性引发科技股波动，长期看多与短期谨慎并存",
+      "url": "https://www.youtube.com/watch?v=-xwPO7uiLmA",
+      "published_at": "2026-11-16T14:41:04+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "科技股近期波动反映市场对AI建设进程及其对盈利影响的不确定性上升。贝莱德投资研究院全球投资组合研究主管Vivek Paul表示，机构正在调和长期对AI的坚定信念与战略超配美股，同短期更为谨慎的观点之间的关系。",
+      "summary_en": "Recent swings in tech stocks reflect growing uncertainty over how the AI buildout will evolve and what that means for earnings. Vivek Paul, Global Head of Portfolio Research at the BlackRock Investment Institute, explains how the firm is reconciling its longer-term AI conviction and strategic overweight to U.S. equities with a more cautious near-term view.",
+      "detail_zh": "贝莱德投资研究院全球投资组合研究主管Vivek Paul指出，科技股近期的波动反映出市场对AI建设将如何演变、以及这对企业盈利意味着什么的不确定性正在上升。他解释了贝莱德如何在长期对AI的坚定信念和战略上超配美股，与短期更为谨慎的观点之间进行调和。原文未披露具体的仓位调整、时间框架或触发短期谨慎的具体指标。",
+      "detail_en": "Vivek Paul, Global Head of Portfolio Research at the BlackRock Investment Institute, notes that recent swings in tech stocks reflect growing uncertainty over how the AI buildout will evolve and what that means for earnings. He explains how BlackRock is reconciling its longer-term AI conviction and strategic overweight to U.S. equities with a more cautious near-term view. The source does not disclose specific position adjustments, time frames, or the particular indicators driving the near-term caution.",
+      "conclusion_zh": "贝莱德的框架显示：长期AI信念与战略超配美股可以并存，但短期需对AI建设节奏与盈利兑现的不确定性保持谨慎。",
+      "conclusion_en": "BlackRock's framework suggests long-term AI conviction and a strategic U.S. equity overweight can coexist, while near-term caution is warranted given uncertainty over the AI buildout's pace and earnings delivery.",
+      "key_points": [
+        {
+          "zh": "科技股近期波动源于市场对AI建设进程及其盈利影响的不确定性上升",
+          "en": "Recent tech stock swings stem from growing uncertainty over how the AI buildout will evolve and what it means for earnings"
+        },
+        {
+          "zh": "贝莱德投资研究院长期对AI保持信念，并战略性地超配美股",
+          "en": "The BlackRock Investment Institute maintains longer-term AI conviction and a strategic overweight to U.S. equities"
+        },
+        {
+          "zh": "贝莱德同时持有更为谨慎的短期观点，并试图在两者之间进行调和",
+          "en": "BlackRock simultaneously holds a more cautious near-term view and is reconciling it with its long-term positioning"
+        }
+      ],
+      "tags": [
+        "AI buildout",
+        "tech volatility",
+        "US equities",
+        "BlackRock",
+        "earnings uncertainty"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:PwHoookOZiE",
+      "title": "Bank of America CEO Moynihan on IPO Pipeline, AI, Consumer Strength",
+      "title_zh": "美银CEO：Anthropic预期IPO挤出小公司，部分交易推迟至2027年",
+      "url": "https://www.youtube.com/watch?v=PwHoookOZiE",
+      "published_at": "2026-11-16T14:37:32+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国银行董事长兼CEO Brian Moynihan表示，由于Anthropic预期中的重磅IPO挤占了市场注意力，部分交易被推迟至2027年。他还谈及AI应用、盈利及自身继任计划。",
+      "summary_en": "Bank of America Chairman and CEO Brian Moynihan said some deals are being delayed until 2027 because Anthropic's expected blockbuster IPO is crowding out smaller companies. He also discussed AI usage, earnings, and his succession plans.",
+      "detail_zh": "美国银行董事长兼首席执行官Brian Moynihan在“Bloomberg Surveillance”节目中表示，Anthropic预期中的重磅IPO正在挤占规模较小公司的融资空间，导致部分交易被推迟至2027年。Moynihan还讨论了美国银行对人工智能的使用、公司盈利情况以及他个人的继任计划。",
+      "detail_en": "Bank of America Chairman and CEO Brian Moynihan, speaking on \"Bloomberg Surveillance,\" said that Anthropic's expected blockbuster initial public offering is crowding out smaller companies, causing some deals to be delayed until 2027. Moynihan also talked about the bank's use of AI, earnings, and his own succession plans.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Anthropic预期中的重磅IPO挤占小公司融资空间，部分交易推迟至2027年。",
+          "en": "Anthropic's expected blockbuster IPO is crowding out smaller companies, delaying some deals until 2027."
+        },
+        {
+          "zh": "Moynihan谈及美国银行对AI的使用。",
+          "en": "Moynihan discussed Bank of America's use of AI."
+        },
+        {
+          "zh": "Moynihan提及公司盈利情况。",
+          "en": "Moynihan mentioned the bank's earnings."
+        },
+        {
+          "zh": "Moynihan谈及自身继任计划。",
+          "en": "Moynihan talked about his own succession plans."
+        }
+      ],
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "Bank of America",
+        "AI",
+        "succession"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:BkC0Wz8iUQ8",
       "title": "SpaceX Successfully Catches Starship Rocket After Launch",
@@ -16576,272 +16739,6 @@
         "election",
         "state and local debt",
         "bond issuance"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:KzbZXl23BQw",
-      "title": "Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop",
-      "title_zh": "Sweetgreen称夏季环孢子虫疫情后销售动能改善",
-      "url": "https://www.youtube.com/watch?v=KzbZXl23BQw",
-      "published_at": "2026-11-09T15:08:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Sweetgreen联合创始人兼CEO Jonathan Neman表示，夏季环孢子虫疫情虽与公司门店无关，但损害了全行业客流；此后销售动能已改善。公司10月同店销售增长约5%，9月同店销售已回到持平，11月初进一步改善。",
-      "summary_en": "Sweetgreen CEO and Co-Founder Jonathan Neman said sales momentum has improved after a summer Cyclospora outbreak that was unrelated to Sweetgreen's stores but damaged traffic across the sector. The company reported October comparable sales growth of about 5%, following a return to flat comps in September, with further improvement in early November.",
-      "detail_zh": "Sweetgreen联合创始人兼CEO Jonathan Neman在Bloomberg“The Close”节目中表示，夏季环孢子虫疫情虽与Sweetgreen门店无关，但对全行业客流造成损害。他称，公司销售动能此后已改善：9月同店销售回到持平，10月同店销售增长约5%，11月初进一步改善。",
-      "detail_en": "Sweetgreen CEO and Co-Founder Jonathan Neman said on Bloomberg's \"The Close\" that a summer Cyclospora outbreak, though unrelated to Sweetgreen's stores, damaged traffic across the sector. He said sales momentum has since improved: comparable sales returned to flat in September, grew about 5% in October, and saw further improvement in early November.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "夏季环孢子虫疫情与Sweetgreen门店无关，但损害了全行业客流。",
-          "en": "The summer Cyclospora outbreak was unrelated to Sweetgreen's stores but damaged traffic across the sector."
-        },
-        {
-          "zh": "9月同店销售回到持平。",
-          "en": "Comparable sales returned to flat in September."
-        },
-        {
-          "zh": "10月同店销售增长约5%。",
-          "en": "October comparable sales grew about 5%."
-        },
-        {
-          "zh": "11月初销售进一步改善。",
-          "en": "Sales saw further improvement in early November."
-        }
-      ],
-      "tags": [
-        "Sweetgreen",
-        "comparable sales",
-        "restaurant sector",
-        "Cyclospora outbreak"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:9YLr-qa6Qq8",
-      "title": "How 3D Printing Is Saving Auto Makers Millions",
-      "title_zh": "3D打印技术助力车企降本增效，从原型制造迈向生产零件",
-      "url": "https://www.youtube.com/watch?v=9YLr-qa6Qq8",
-      "published_at": "2026-11-09T15:00:28+00:00",
-      "source_name": "CNBC",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "other"
-      ],
-      "summary_zh": "3D打印技术正被福特、Rivian等汽车制造商用于削减成本、节省时间，应用范围从原型和工具扩展到生产零件。Rivian称设备通常一年内回本，福特在工厂部署约二十台打印机生产数千种工具，通用汽车已开始将3D打印零件用于低产量凯迪拉克车型。",
-      "summary_en": "3D printing is increasingly being used by automakers like Ford and Rivian to cut costs and save time, expanding from prototypes and tools to production parts. Rivian says the machines typically pay for themselves within a year, Ford uses about two dozen printers at its River Rouge plant to produce thousands of tools, and GM has started using 3D printed parts for some low-volume Cadillac vehicles.",
-      "detail_zh": "3D打印（增材制造）技术已存在数十年，如今汽车制造商正越来越多地采用该技术以削减成本并节省时间，技术和商业案例都已增强到足以在汽车工厂安装机器的程度。福特和Rivian等车企将其用于原型、专用工具甚至替换零件。Rivian表示已在相关机器上花费超过500万美元，运营材料每年成本约170万美元；在其密歇根研发中心，小型打印机与造价数十万美元的工业机器并排，用于制造电动马达、方向盘等原型。Rivian告诉CNBC，这些机器通常仅通过节省供应商模具和物流成本以及时间，就能在一年内回本。福特在River Rouge工厂（生产关键F-150皮卡）部署了约二十台打印机，生产数千种工具，包括引擎盖支架、扭矩钻头套筒和胶水抹平工具；当某工厂需要大型加工轮时，福特打印了临时替代品以等待供应商交付。梅赛德斯-奔驰、丰田以及电动汽车初创公司Slate也在运营中使用3D打印。通用汽车已开始将3D打印零件用于部分低产量凯迪拉克车型，如徽章和手动换挡杆，标志着该技术从原型制造向生产零件的扩展。高管们认为，随着机器成本持续下降和效率提升，3D打印的未来如同其制造的零件一样无限。",
-      "detail_en": "3D printing (additive manufacturing) has been around for decades, but automakers are increasingly adopting it to cut costs and save time, with both the technology and business cases now strong enough to install machines in auto factories. Ford and Rivian use it for prototypes, specialized tools, and even replacement parts. Rivian says it has spent more than $5 million on these machines, with materials now costing about $1.7 million per year; at its Michigan R&D center, smaller printers sit alongside industrial machines that can cost hundreds of thousands of dollars, making prototypes for electric motors, steering wheels, and other interior parts. Rivian told CNBC the machines typically pay for themselves within a year just by saving on supplier tooling and logistics and time. Ford has about two dozen printers at its River Rouge plant, where it builds the F-150 pickup, producing thousands of tools including hood holders, torque bit sockets, and tools for smoothing adhesive; when a plant needed a large machining wheel, Ford printed a temporary replacement while waiting for supplier delivery. Mercedes-Benz, Toyota, and EV startup Slate also use 3D printing in their operations. General Motors has started using 3D printed parts for some low-volume Cadillac vehicles, such as a medallion and a manual gear shifter, marking the technology's growth from prototyping to production parts. Executives believe the future for 3D printing is limitless as machines continue to come down in cost and efficiency increases.",
-      "conclusion_zh": "3D打印在汽车制造中的商业化应用正从原型和工具向生产零件延伸，设备成本下降和效率提升有望进一步推动车企采用，关注相关设备与材料供应商的潜在受益。",
-      "conclusion_en": "The commercial application of 3D printing in auto manufacturing is extending from prototypes and tools to production parts, and falling machine costs and rising efficiency could further drive adoption, with potential benefits for equipment and materials suppliers.",
-      "key_points": [
-        {
-          "zh": "福特和Rivian等车企正将3D打印用于原型、专用工具和替换零件，以削减成本并节省时间。",
-          "en": "Automakers like Ford and Rivian are using 3D printing for prototypes, specialized tools, and replacement parts to cut costs and save time."
-        },
-        {
-          "zh": "Rivian已在3D打印机器上花费超过500万美元，材料年成本约170万美元，设备通常一年内回本。",
-          "en": "Rivian has spent over $5 million on 3D printing machines, with materials costing about $1.7 million per year, and the machines typically pay for themselves within a year."
-        },
-        {
-          "zh": "福特在River Rouge工厂部署约二十台打印机，生产数千种工具，并曾打印大型加工轮的临时替代品。",
-          "en": "Ford has about two dozen printers at its River Rouge plant producing thousands of tools, and once printed a temporary replacement for a large machining wheel."
-        },
-        {
-          "zh": "通用汽车已开始将3D打印零件用于部分低产量凯迪拉克车型，标志着该技术从原型制造向生产零件的扩展。",
-          "en": "General Motors has started using 3D printed parts for some low-volume Cadillac vehicles, marking the technology's expansion from prototyping to production parts."
-        },
-        {
-          "zh": "梅赛德斯-奔驰、丰田和电动汽车初创公司Slate也在运营中使用3D打印。",
-          "en": "Mercedes-Benz, Toyota, and EV startup Slate also use 3D printing in their operations."
-        }
-      ],
-      "tags": [
-        "3D printing",
-        "automakers",
-        "additive manufacturing",
-        "cost reduction"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:0gbtodaYArc",
-      "title": "Nvidia Adds ‘Huge Element of Surprise’ to AI Trade, Strategist Hunt Says",
-      "title_zh": "Alpine Saxon Woods：英伟达CEO调查为AI交易增添复杂性",
-      "url": "https://www.youtube.com/watch?v=0gbtodaYArc",
-      "published_at": "2026-11-09T14:42:57+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt表示，英伟达对CEO黄仁勋的调查给AI交易相关问题增添了“又一层复杂性”。她认为，从投资者角度谈论继任可能性是公司的“首要任务”。",
-      "summary_en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, says Nvidia's probe of CEO Jensen Huang adds \"another layer of complexity\" to questions around the AI trade. She says it is \"job one\" for the company to talk about the potential for succession from an investor standpoint.",
-      "detail_zh": "Alpine Saxon Woods首席市场策略师Sarah Hunt在Bloomberg Television上表示，英伟达对CEO黄仁勋的调查给围绕AI交易的疑问增添了“又一层复杂性”。Hunt指出，从投资者角度来看，公司需要讨论继任计划的可能性，这是公司的“首要任务”。她没有进一步说明调查的具体性质或可能的结果。",
-      "detail_en": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, said on Bloomberg Television that Nvidia's probe of CEO Jensen Huang adds \"another layer of complexity\" to questions surrounding the AI trade. Hunt noted that from an investor standpoint, it is \"job one\" for the company to talk about the potential for succession. She did not elaborate on the nature or potential outcome of the probe.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达对CEO黄仁勋的调查给AI交易增添了“又一层复杂性”。",
-          "en": "Nvidia's probe of CEO Jensen Huang adds \"another layer of complexity\" to the AI trade."
-        },
-        {
-          "zh": "从投资者角度谈论继任可能性是公司的“首要任务”。",
-          "en": "It is \"job one\" for the company to talk about the potential for succession from an investor standpoint."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "AI trade",
-        "CEO succession",
-        "investor sentiment"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:w0I2upG95u0",
-      "title": "What Nvidia Probe Could Mean for US-China Chip Sales",
-      "title_zh": "China Beige Book CEO 呼吁加强对芯片商出口管制保证的审查",
-      "url": "https://www.youtube.com/watch?v=w0I2upG95u0",
-      "published_at": "2026-11-09T14:41:15+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在英伟达CEO黄仁勋承认与一名疑似中国间谍有染后，China Beige Book CEO Leland Miller 呼吁对芯片制造商的出口管制保证进行更严格的审查。",
-      "summary_en": "China Beige Book CEO Leland Miller calls for closer scrutiny of chipmakers' export-control assurances after Nvidia CEO Jensen Huang admitted to having an affair with a suspected Chinese spy.",
-      "detail_zh": "China Beige Book 首席执行官 Leland Miller 在“Bloomberg Surveillance”节目中表示，在英伟达首席执行官黄仁勋承认与一名疑似中国间谍有染后，应加强对芯片制造商出口管制保证的审查。Miller 的评论直接指向芯片行业在出口管制合规方面的可信度问题。",
-      "detail_en": "China Beige Book CEO Leland Miller, speaking on \"Bloomberg Surveillance,\" called for closer scrutiny of chipmakers' export-control assurances in the wake of Nvidia CEO Jensen Huang admitting to having an affair with a suspected Chinese spy. Miller's comments directly target the credibility of export-control compliance in the chip sector.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Leland Miller 呼吁对芯片制造商的出口管制保证进行更严格审查。",
-          "en": "Leland Miller calls for closer scrutiny of chipmakers' export-control assurances."
-        },
-        {
-          "zh": "此番言论的背景是英伟达CEO黄仁勋承认与一名疑似中国间谍有染。",
-          "en": "The remarks follow Nvidia CEO Jensen Huang's admission of an affair with a suspected Chinese spy."
-        },
-        {
-          "zh": "Miller 是在“Bloomberg Surveillance”节目上发表上述评论的。",
-          "en": "Miller made the comments on \"Bloomberg Surveillance.\""
-        }
-      ],
-      "tags": [
-        "export controls",
-        "semiconductors",
-        "Nvidia",
-        "China",
-        "compliance"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:WQZ4ge45orU",
-      "title": "Midterms and AI in focus at 2027 Forum",
-      "title_zh": "贝莱德论坛：AI采用与资本竞争成2027年关键主题",
-      "url": "https://www.youtube.com/watch?v=WQZ4ge45orU",
-      "published_at": "2026-11-09T14:35:45+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "贝莱德投资研究院在2027年内部展望论坛上指出，市场正从AI建设转向关注需求采用与资本竞争。由于建设速度与规模的不确定性，贝莱德上月将美股调至中性并上调美国国债评级。利率结构性走高、资本竞争加剧及资产相关性变化可能带来新的波动源。",
-      "summary_en": "The BlackRock Investment Institute's 2027 internal outlook forum highlighted a shift from the AI buildout to demand adoption and competition for capital. Citing uncertainty over the speed and scale of the buildout, BlackRock moved to neutral on US equities and upgraded US Treasuries last month. Structurally higher rates, intensifying competition for capital, and changing asset correlations could create new sources of volatility.",
-      "detail_zh": "贝莱德投资研究院首席投资策略师（荷兰与北欧）Rulus Alamance在播客中总结了2027年内部展望论坛的要点。论坛召开之际，美国中期选举结果出炉，市场日益定价一种供应驱动型 regime。市场仍在消化民主党横扫国会对于AI建设的影响：建设将继续，但焦点转向是否以相同规模和速度推进，以及采用能否跟上。论坛讨论认为，建设放缓可能对市场产生重大后果，但也可能缓解资本竞争并压低债券收益率。建设速度与规模的不确定性，是贝莱德上月将美股调至中性并上调美国国债评级的原因。资本竞争是另一焦点：AI建设正与政府借款、能源和国防投资争夺资金，而超大规模云厂商在融资成本上升之际仍大举支出，这引发关键问题——更强劲的增长和盈利能否抵消更高的成本，以及压力将在何处显现。贝莱德长期预期利率将结构性走高，论坛关注这对市场和组合的含义：资本流动转变、股票、债券与货币之间相关性的变化可能创造新的波动源，并挑战传统组合对冲工具，因此保持灵活是驾驭风险与把握机会的关键。论坛的市场结论是，AI采用和资本竞争是未来的关键，这些主题将构成下月发布的2027年全球展望的核心。",
-      "detail_en": "Rulus Alamance, Chief Investment Strategist for the Netherlands and the Nordics at the BlackRock Investment Institute, summarized the top takeaways from the 2027 internal outlook forum. The forum was held as the US midterms unfolded and markets increasingly priced in a supply-driven regime. Markets are still working through what the Democratic sweep of Congress means for the AI buildout: the buildout will continue, but the focus is now on whether it will proceed at the same scale and pace, and whether adoption can keep up. A slowdown could have significant consequences for markets, but it could also ease competition for capital and bring bond yields down. Uncertainty about the speed and size of the buildout was behind BlackRock's move to neutral on US equities and its upgrade of US Treasuries last month. Competition for capital was another major focus: the AI buildout is competing for funding with government borrowing, energy, and defense investments, and hyperscalers are still spending heavily even as financing costs rise. This raises the question of whether stronger growth and earnings can offset higher costs, and where pressure will show up next. BlackRock has long expected rates to stay structurally higher; the forum focused on what that means for markets and portfolios, noting that shifting capital flows and changing correlations between stocks, bonds, and currencies could create new sources of volatility and challenge traditional portfolio hedges, making flexibility key. The forum's market takeaway was that AI adoption and competition for capital are critical from here, and these topics will be key for the 2027 global outlook published next month.",
-      "conclusion_zh": "AI建设放缓可能压低债券收益率但冲击市场，资本竞争与结构性高利率环境下，保持组合灵活性以应对相关性变化是关键。",
-      "conclusion_en": "A slowdown in the AI buildout could bring bond yields down but hit markets; amid competition for capital and structurally higher rates, staying flexible to navigate changing correlations is key.",
-      "key_points": [
-        {
-          "zh": "市场焦点从AI建设转向需求采用与资本竞争，建设速度与规模的不确定性上升。",
-          "en": "Market focus is shifting from the AI buildout to demand adoption and competition for capital, with rising uncertainty over the speed and scale of the buildout."
-        },
-        {
-          "zh": "贝莱德上月将美股调至中性并上调美国国债评级，理由是对AI建设速度与规模的不确定性。",
-          "en": "BlackRock moved to neutral on US equities and upgraded US Treasuries last month, citing uncertainty over the speed and size of the AI buildout."
-        },
-        {
-          "zh": "AI建设正与政府借款、能源和国防投资争夺资金，超大规模云厂商在融资成本上升之际仍大举支出。",
-          "en": "The AI buildout is competing for funding with government borrowing, energy, and defense investments, and hyperscalers are still spending heavily even as financing costs rise."
-        },
-        {
-          "zh": "利率结构性走高，资本流动转变及股债汇相关性变化可能带来新的波动源，挑战传统组合对冲。",
-          "en": "Structurally higher rates, shifting capital flows, and changing correlations between stocks, bonds, and currencies could create new sources of volatility and challenge traditional portfolio hedges."
-        },
-        {
-          "zh": "AI采用和资本竞争将成为下月发布的2027年全球展望的关键主题。",
-          "en": "AI adoption and competition for capital will be key topics for the 2027 global outlook published next month."
-        }
-      ],
-      "tags": [
-        "AI buildout",
-        "capital competition",
-        "US equities",
-        "Treasuries",
-        "volatility"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:s75ib8S7T3M",
-      "title": "From Employees to Owners: Scaling Culture and Value With ISC CEO Matt Grossberg | Invested at Work",
-      "title_zh": "KKR旗下ISC：以全员持股文化提升员工参与度",
-      "url": "https://www.youtube.com/watch?v=s75ib8S7T3M",
-      "published_at": "2026-11-09T14:30:27+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "other"
-      ],
-      "summary_zh": "摩根士丹利《Invested at Work》播客对话ISC CEO Matt Gberg，探讨KKR引入的“所有权文化”。Gberg称，将员工称为“所有者”并给予股权，旨在提升参与度与组织信任，尽管盖洛普调查曾显示出售后员工参与度反而下降，但公司仍坚持五年。",
-      "summary_en": "Morgan Stanley's 'Invested at Work' podcast features ISC CEO Matt Gberg discussing the ownership culture introduced by KKR. Gberg says calling employees 'owners' and giving them equity aims to boost engagement and organizational trust, even though Gallup polls initially suggested lower engagement after the sale; the company pushed through a five-year commitment.",
-      "detail_zh": "ISC是一家保险领域的管理总代理（MGA），为保险公司难以有效开展的产品线提供外包承保服务。Gberg指出，保险业高度分散、技术发展缓慢，商业险领域仍以手工流程为主，ISC通过技术平台整合第三方及内部数据，支持数据驱动的承保决策，目前拥有约1.9万家经纪商分销产品，聚焦小商业及微型账户。KKR在竞购中成为最佳投标方，并帮助ISC建立组织架构和以“所有权”为核心的企业文化。Gberg称，公司内部不称“员工”而称“所有者”，并设立无高管监督的委员会，让所有者参与公司方向。他提到，盖洛普调查曾显示出售后员工参与度下降，但公司仍坚持五年推动。",
-      "detail_en": "ISC is a managing general agency (MGA) in insurance, providing outsourced underwriting for product lines insurers find hard to deliver value on. Gberg notes the insurance industry is highly fragmented with slow tech development, and commercial lines remain largely manual; ISC built a tech platform using third-party and in-house data to enable data-driven underwriting, now distributing through about 19,000 brokers and focusing on small commercial to micro accounts. KKR was the best bidder and helped ISC build organizational structure and an ownership-centric culture. Gberg says the company calls employees 'owners' and sets up committees without executive oversight to give owners input into company direction. He mentions Gallup polls initially suggested lower engagement after the sale, but the company pushed through a five-year commitment.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "ISC是保险MGA，通过技术平台整合数据，服务约1.9万家经纪商，聚焦小商业及微型账户。",
-          "en": "ISC is an insurance MGA using a tech platform to integrate data, serving about 19,000 brokers and focusing on small commercial to micro accounts."
-        },
-        {
-          "zh": "KKR成为ISC最佳投标方，并帮助其建立组织架构和以“所有权”为核心的文化。",
-          "en": "KKR was the best bidder for ISC and helped build its organizational structure and ownership-centric culture."
-        },
-        {
-          "zh": "ISC将员工称为“所有者”，设立无高管监督的委员会，以提升参与度和组织信任。",
-          "en": "ISC calls employees 'owners' and sets up committees without executive oversight to boost engagement and organizational trust."
-        },
-        {
-          "zh": "Gberg称盖洛普调查曾显示出售后员工参与度下降，但公司仍坚持五年推动所有权文化。",
-          "en": "Gberg says Gallup polls initially suggested lower engagement after the sale, but the company pushed the ownership culture for five years."
-        }
-      ],
-      "tags": [
-        "private equity",
-        "ownership culture",
-        "insurance",
-        "employee engagement"
       ],
       "tickers": [],
       "sentiment": "neutral"
