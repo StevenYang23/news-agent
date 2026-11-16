@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-11-16T10:16:24.890092+00:00",
+  "generated_at": "2026-11-16T11:14:16.231617+00:00",
   "insights": [
+    {
+      "guid": "yt:3jyrFijrX8A",
+      "title": "What to Expect From Trump’s Trip to Asia",
+      "title_zh": "特朗普将出席中美俄峰会，国内政治受挫但对外更强势",
+      "url": "https://www.youtube.com/watch?v=3jyrFijrX8A",
+      "published_at": "2026-11-16T10:36:17+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博报道称，美国总统特朗普将与中国国家主席习近平及俄罗斯总统普京举行前所未有的峰会。报道指出，特朗普在国内政治上被削弱，但可能更渴望在国外展示实力。",
+      "summary_en": "Bloomberg reports that US President Donald Trump is arriving at an unprecedented summit with China's Xi Jinping and Russia's Vladimir Putin politically weakened at home, yet perhaps even more eager to flex his power abroad.",
+      "detail_zh": "彭博社的Minmin Low和Avril Hong报道，美国总统唐纳德·特朗普即将与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京举行一场前所未有的峰会。报道称，特朗普在国内政治上被削弱，但可能更加渴望在国外展示实力。该报道未提供峰会的具体时间、地点或议程细节，也未说明国内政治削弱的具体表现。",
+      "detail_en": "Bloomberg's Minmin Low and Avril Hong report that US President Donald Trump is arriving at an unprecedented summit meeting with China's Xi Jinping and Russia's Vladimir Putin politically weakened at home, yet perhaps even more eager to flex his power abroad. The report does not provide specific details on the timing, location, or agenda of the summit, nor does it elaborate on the domestic political weakness.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普将出席与中国习近平和俄罗斯普京的峰会，报道称此为前所未有的会晤。",
+          "en": "Trump is set to attend a summit with China's Xi Jinping and Russia's Vladimir Putin, described as unprecedented."
+        },
+        {
+          "zh": "报道称特朗普在国内政治上被削弱。",
+          "en": "The report says Trump is politically weakened at home."
+        },
+        {
+          "zh": "报道称特朗普可能更渴望在国外展示实力。",
+          "en": "The report suggests Trump may be even more eager to flex his power abroad."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "Xi Jinping",
+        "Putin",
+        "summit",
+        "geopolitics"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:NaG5Tylpads",
+      "title": "US Reportedly Eyeing Tougher Curbs on China Chip Access",
+      "title_zh": "彭博中国秀：美国拟收紧对华芯片远程访问限制，英伟达风波笼罩东盟及APEC峰会",
+      "url": "https://www.youtube.com/watch?v=NaG5Tylpads",
+      "published_at": "2026-11-16T10:07:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国据报正最终确定对中国的芯片远程访问限制，英伟达相关风波成为东盟和APEC峰会焦点。中国10月新房价格环比下跌0.15%，活动数据不及预期。",
+      "summary_en": "The US is reportedly finalizing remote chip access curbs on China, with Nvidia fallout looming over ASEAN and APEC summits. China's October new home prices fell 0.15% MoM, and activity data missed estimates.",
+      "detail_zh": "本期彭博中国秀聚焦美国对华芯片限制的最新进展：美国据报正在最终确定针对中国的芯片远程访问限制，英伟达相关风波笼罩东盟和APEC峰会。消息人士称，由Alice Huang创立的公司采购了走私的英伟达AI芯片。中国经济数据方面，10月新房价格环比下跌0.15%，10月活动数据不及预期，美国银行全球研究的Helen Qiao对此作出反应。其他新闻包括：新世界发展因折价32亿美元供股而股价大跌；美国FDA拒绝Summit的中国来源肺癌药物。节目还讨论了亚洲AI基础设施私募股权吸引力、外国硬件创始人涌入深圳等话题。",
+      "detail_en": "This episode of The China Show focuses on the latest US chip restrictions on China: the US is reportedly finalizing remote chip access curbs on China, with Nvidia fallout looming over ASEAN and APEC summits. Sources say a firm founded by Alice Huang procured smuggled Nvidia AI chips. On China's economy, October new home prices fell 0.15% MoM, and October activity data missed estimates, with BofA Global Research's Helen Qiao reacting. Other news includes New World shares tumbling on a discounted $3.2B rights issue and the US FDA rejecting Summit's China-originated lung cancer drug. The program also discusses private equity interest in Asia AI infrastructure and foreign hardware founders flocking to Shenzhen.",
+      "conclusion_zh": "美国对华芯片限制的最终确定及英伟达相关风波可能加剧科技板块的地缘政治风险，而中国房地产和活动数据疲软则强化了政策宽松预期。",
+      "conclusion_en": "The finalization of US chip curbs on China and Nvidia-related fallout may heighten geopolitical risks for the tech sector, while weak China property and activity data reinforce expectations for policy easing.",
+      "key_points": [
+        {
+          "zh": "美国据报正最终确定对中国的芯片远程访问限制。",
+          "en": "The US is reportedly finalizing remote chip access curbs on China."
+        },
+        {
+          "zh": "英伟达风波笼罩东盟和APEC峰会。",
+          "en": "Nvidia fallout looms over ASEAN and APEC summits."
+        },
+        {
+          "zh": "中国10月新房价格环比下跌0.15%，活动数据不及预期。",
+          "en": "China's October new home prices fell 0.15% MoM, and activity data missed estimates."
+        },
+        {
+          "zh": "新世界发展因折价32亿美元供股而股价大跌。",
+          "en": "New World shares tumbled on a discounted $3.2B rights issue."
+        },
+        {
+          "zh": "美国FDA拒绝Summit的中国来源肺癌药物。",
+          "en": "The US FDA rejected Summit's China-originated lung cancer drug."
+        }
+      ],
+      "tags": [
+        "China",
+        "Chip Restrictions",
+        "Nvidia",
+        "China Economy",
+        "APEC"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:M6_MGnSvoAY",
       "title": "Nvidia Fallout Puts ASEAN's Tech Boom in Focus",
@@ -17087,57 +17177,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:R5U0PpnS35I",
-      "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
-      "title_zh": "英伟达董事会调查CEO黄仁勋，股价盘前下跌",
-      "url": "https://www.youtube.com/watch?v=R5U0PpnS35I",
-      "published_at": "2026-11-09T10:45:04+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达董事会因CEO黄仁勋承认与一名被报道指认为疑似中国间谍的女性有婚外情而启动调查，公司股价盘前下跌。特朗普表示支持黄仁勋留任。",
-      "summary_en": "Nvidia's board launched an investigation into CEO Jensen Huang after he admitted to an affair with a woman identified in reports as a suspected Chinese spy, sending shares lower in premarket trading. President Trump backed Huang to stay as CEO.",
-      "detail_zh": "英伟达股价在盘前交易中下跌，此前公司董事会宣布对CEO黄仁勋展开调查。调查起因是黄仁勋承认与一名女性有婚外情，该女性在一系列报道中被指认为疑似中国间谍。特朗普总统表态支持黄仁勋继续担任英伟达CEO。此外，国会中期选举后共和党面临所谓'蓝色浪潮'，议员们返回华盛顿，在民主党明年1月接管前推动立法。特朗普承认其驱逐政策可能在选举中损害了共和党。俄罗斯统计局机密数据显示，自近五年前全面入侵乌克兰以来，俄方已记录约40万人死亡。",
-      "detail_en": "Nvidia shares fell in premarket trading after the company's board launched an investigation into CEO Jensen Huang. The probe follows Huang's admission of an affair with a woman identified in a series of reports as a suspected Chinese spy. President Trump backed Huang to stay as Nvidia CEO. Separately, Congress returns after the midterm elections' so-called 'Blue Tsunami,' with Republicans trying to pass legislation before Democrats take control in January. Trump conceded his deportation policies may have hurt Republicans at the polls. Confidential data from Russia's statistics agency Rosstat shows about 400,000 Russian deaths in Ukraine since the full-scale invasion almost five years ago.",
-      "conclusion_zh": "英伟达CEO调查事件构成短期不确定性，投资者需关注调查进展及对公司治理的潜在影响。",
-      "conclusion_en": "The investigation into Nvidia's CEO introduces short-term uncertainty; investors should monitor developments and potential governance implications.",
-      "key_points": [
-        {
-          "zh": "英伟达董事会启动对CEO黄仁勋的调查，因其承认与疑似中国间谍的女性有婚外情。",
-          "en": "Nvidia's board launched an investigation into CEO Jensen Huang after he admitted an affair with a woman identified as a suspected Chinese spy."
-        },
-        {
-          "zh": "英伟达股价盘前下跌。",
-          "en": "Nvidia shares fell in premarket trading."
-        },
-        {
-          "zh": "特朗普总统支持黄仁勋继续担任英伟达CEO。",
-          "en": "President Trump backed Huang to stay as Nvidia CEO."
-        },
-        {
-          "zh": "中期选举后共和党主导的国会返回，试图在民主党接管前通过立法。",
-          "en": "The Republican-led Congress returns after the midterms, aiming to pass legislation before Democrats take control."
-        },
-        {
-          "zh": "俄罗斯机密数据显示，自入侵乌克兰以来约40万人死亡。",
-          "en": "Confidential data shows about 400,000 Russian deaths since the invasion of Ukraine."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "CEO investigation",
-        "China spy",
-        "midterm elections",
-        "Russia Ukraine"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
     }
   ]
 }
