@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:10:45.628269+00:00",
+  "generated_at": "2026-11-16T02:19:24.082205+00:00",
   "insights": [
     {
       "guid": "4968405",
@@ -17035,83 +17035,6 @@
         "AI",
         "PPI",
         "HSBC"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:Vn85vaALt3w",
-      "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
-      "title_zh": "英伟达CEO黄仁勋承认婚外情，配合董事会独立调查",
-      "url": "https://www.youtube.com/watch?v=Vn85vaALt3w",
-      "published_at": "2026-11-09T02:18:51+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋承认婚外情，并表示正全面配合独立董事会调查。此前美国情报机构怀疑一名女高管被中国情报机构招募。",
-      "summary_en": "Nvidia CEO Jensen Huang has admitted to an extramarital relationship and says he is cooperating fully with an independent board investigation. The inquiry follows US intelligence suspicions that a female executive was recruited by a Chinese intelligence agency.",
-      "detail_zh": "英伟达公司首席执行官黄仁勋承认发生婚外情，并表示正全面配合独立董事会调查。此次调查源于美国情报机构的怀疑，即一名女高管被中国情报机构招募。黄仁勋的表态是在承认婚外情后作出的。原文未提供更多关于调查范围、涉事女高管身份或潜在后果的细节。",
-      "detail_en": "Nvidia Corp. CEO Jensen Huang has admitted to an extramarital relationship and stated he is cooperating fully with an independent board investigation. The inquiry follows suspicions by US intelligence that a female executive was recruited by a Chinese intelligence agency. Huang's statement came after admitting the relationship. The source does not provide further details on the scope of the investigation, the identity of the female executive, or potential consequences.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "黄仁勋承认婚外情，并配合独立董事会调查。",
-          "en": "Jensen Huang admitted to an extramarital relationship and is cooperating with an independent board investigation."
-        },
-        {
-          "zh": "调查源于美国情报机构怀疑一名女高管被中国情报机构招募。",
-          "en": "The investigation stems from US intelligence suspicions that a female executive was recruited by a Chinese intelligence agency."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "board investigation",
-        "China intelligence",
-        "executive misconduct"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:w-qWtVt2prU",
-      "title": "Trump Backs Nvidia CEO After He Admits Affair",
-      "title_zh": "特朗普称黄仁勋是“好人”，应继续担任英伟达CEO",
-      "url": "https://www.youtube.com/watch?v=w-qWtVt2prU",
-      "published_at": "2026-11-09T02:18:34+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普总统公开表示黄仁勋是“好人”，并认为他应继续担任英伟达CEO。此前黄仁勋承认与一名疑似中国间谍有婚外情。",
-      "summary_en": "President Trump called Jensen Huang a \"fine person\" and said he should remain CEO of Nvidia after Huang admitted to an affair with a suspected Chinese spy.",
-      "detail_zh": "特朗普总统对英伟达CEO黄仁勋给予正面评价，称其为“好人”，并表示黄仁勋应该继续担任英伟达首席执行官。这一表态发生在黄仁勋承认与一名疑似中国间谍有婚外情之后。报道未提供更多关于事件背景、调查细节或市场反应的细节。",
-      "detail_en": "President Donald Trump called Nvidia CEO Jensen Huang a \"fine person\" and said he should stay on as chief executive officer. This comes after Huang admitted having an affair with a suspected Chinese spy. The report does not provide further details on the context, investigation, or market reaction.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普称黄仁勋是“好人”，应继续担任英伟达CEO。",
-          "en": "Trump called Jensen Huang a \"fine person\" and said he should remain Nvidia CEO."
-        },
-        {
-          "zh": "此前黄仁勋承认与一名疑似中国间谍有婚外情。",
-          "en": "Huang had admitted to an affair with a suspected Chinese spy."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "Trump",
-        "China spy"
       ],
       "tickers": [
         "NVDA"
