@@ -1,6 +1,221 @@
 {
-  "generated_at": "2026-11-16T20:13:36.145448+00:00",
+  "generated_at": "2026-11-16T21:12:06.883284+00:00",
   "insights": [
+    {
+      "guid": "yt:hR_GoHbS4mk",
+      "title": "Trump Backs Calls for Huang to Be Reinstated as Nvidia CEO",
+      "title_zh": "特朗普支持黄仁勋重返英伟达CEO岗位，淡化国家安全担忧",
+      "url": "https://www.youtube.com/watch?v=hR_GoHbS4mk",
+      "published_at": "2026-11-16T20:55:26+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统支持要求黄仁勋重新担任英伟达CEO的呼声，并淡化了关于这位被罢免高管与一名疑似中国间谍女性关系的国家安全担忧。",
+      "summary_en": "President Trump supported calls for Jensen Huang's reinstatement as Nvidia's CEO and downplayed national security concerns about the ousted executive's relationship with a woman suspected of being a Chinese spy.",
+      "detail_zh": "特朗普总统公开支持要求黄仁勋重新担任英伟达首席执行官的呼声。他还淡化了围绕这位被罢免高管的国家安全担忧，具体涉及黄仁勋与一名被怀疑是中国间谍的女性之间的关系。原文未提供更多关于事件背景、时间线或具体影响的细节。",
+      "detail_en": "President Trump publicly supported calls for Jensen Huang to be reinstated as Nvidia's CEO. He also downplayed national security concerns surrounding the ousted executive, specifically regarding Huang's relationship with a woman suspected of being a Chinese spy. The original text does not provide further details on the background, timeline, or specific implications of the event.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普支持黄仁勋重新担任英伟达CEO的呼声。",
+          "en": "Trump supported calls for Jensen Huang's reinstatement as Nvidia's CEO."
+        },
+        {
+          "zh": "特朗普淡化了关于黄仁勋与疑似中国间谍女性关系的国家安全担忧。",
+          "en": "Trump downplayed national security concerns about Huang's relationship with a woman suspected of being a Chinese spy."
+        },
+        {
+          "zh": "黄仁勋被描述为“被罢免的高管”。",
+          "en": "Huang was described as an 'ousted executive'."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Trump",
+        "national security",
+        "CEO reinstatement"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:uf-gQcPmk4w",
+      "title": "Robert Pattinson Is New James Bond in Amazon’s Reboot",
+      "title_zh": "罗伯特·帕丁森将出演新詹姆斯·邦德，亚马逊米高梅重启007系列",
+      "url": "https://www.youtube.com/watch?v=uf-gQcPmk4w",
+      "published_at": "2026-11-16T20:52:05+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "亚马逊旗下的米高梅影业计划重启詹姆斯·邦德系列，蝙蝠侠主演罗伯特·帕丁森成为最新一位出演该超级间谍的演员。该消息由彭博的Ed Ludlow报道。",
+      "summary_en": "Amazon's MGM Studios is looking to reboot the James Bond franchise, with Batman star Robert Pattinson the latest actor to take on the role of the superspy, according to Bloomberg's Ed Ludlow.",
+      "detail_zh": "亚马逊旗下的米高梅影业（MGM Studios）正计划重启詹姆斯·邦德（007）系列电影。曾饰演蝙蝠侠的演员罗伯特·帕丁森（Robert Pattinson）成为最新一位接演这位超级间谍的演员。该消息由彭博电视台的Ed Ludlow报道。原文未提供更多关于选角细节、上映时间或交易条款的信息。",
+      "detail_en": "Amazon's MGM Studios is looking to reboot the James Bond franchise. Robert Pattinson, known for playing Batman, is the latest actor to take on the role of the superspy. The report comes from Bloomberg Television's Ed Ludlow. No further details on casting, release timing, or deal terms were provided in the original text.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "亚马逊米高梅影业计划重启詹姆斯·邦德系列。",
+          "en": "Amazon's MGM Studios plans to reboot the James Bond franchise."
+        },
+        {
+          "zh": "罗伯特·帕丁森将出演新一任邦德。",
+          "en": "Robert Pattinson will take on the role of James Bond."
+        },
+        {
+          "zh": "帕丁森此前因饰演蝙蝠侠而知名。",
+          "en": "Pattinson is known for his role as Batman."
+        }
+      ],
+      "tags": [
+        "Amazon",
+        "MGM",
+        "James Bond",
+        "Robert Pattinson",
+        "franchise reboot"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lpkZgQnz7xc",
+      "title": "Star Realtor Serhant Says Anthropic IPO Is Creating Luxury Home Buyers",
+      "title_zh": "房产经纪Serhant：热门市场买家愿付溢价，Anthropic IPO预期带动豪宅销售",
+      "url": "https://www.youtube.com/watch?v=lpkZgQnz7xc",
+      "published_at": "2026-11-16T20:49:37+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "房地产经纪兼真人秀明星Ryan Serhant在彭博电视采访中谈及美国住房市场，指出部分热门市场买家愿意支付溢价。他还表示，市场对Anthropic首次公开募股的预期正在引发全美豪宅销售。",
+      "summary_en": "Real estate broker and reality TV star Ryan Serhant discussed the U.S. housing market on Bloomberg Television, noting that buyers in some hot markets are willing to pay premium prices. He also said the expected Anthropic IPO is triggering luxury home sales across the country.",
+      "detail_zh": "Ryan Serhant在接受彭博的Norah Mulinda采访时讨论了美国住房市场。他表示，在一些热门市场中，买家愿意支付溢价价格。Serhant还指出，市场对Anthropic首次公开募股的预期正在推动全美范围内的豪宅销售。采访未提供具体市场名称、价格数据或销售规模等细节。",
+      "detail_en": "Ryan Serhant spoke with Bloomberg's Norah Mulinda about the U.S. housing market. He said buyers are willing to pay premium prices in some hot markets. Serhant also said the expected Anthropic initial public offering is triggering sales of luxury homes across the country. The interview did not provide specific market names, price data, or sales volume details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "Serhant称部分热门市场买家愿意支付溢价",
+          "en": "Serhant says buyers in some hot markets are willing to pay premium prices"
+        },
+        {
+          "zh": "Anthropic IPO预期正带动全美豪宅销售",
+          "en": "The expected Anthropic IPO is triggering luxury home sales across the country"
+        },
+        {
+          "zh": "采访未披露具体市场、价格或销售数据",
+          "en": "The interview did not disclose specific markets, prices, or sales data"
+        }
+      ],
+      "tags": [
+        "housing market",
+        "luxury homes",
+        "Anthropic IPO",
+        "real estate"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:SUKFsA5S5L0",
+      "title": "Trump Backs Huang’s Return to Nvidia",
+      "title_zh": "英伟达财报前科技股下挫，华盛顿聚焦英伟达与华府风波",
+      "url": "https://www.youtube.com/watch?v=SUKFsA5S5L0",
+      "published_at": "2026-11-16T20:23:10+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "彭博《Balance of Power》早间版讨论了英伟达及科技股下滑、英伟达相关争议笼罩特朗普亚洲之行，以及市场在英伟达财报前的紧张情绪。节目还涉及FAA资金与政府停摆风险、FAA停飞与空管系统重建等议题。",
+      "summary_en": "Bloomberg's Balance of Power early edition discussed the slide in Nvidia and tech stocks, the Nvidia-related controversy hanging over Trump's Asia trip, and market jitters ahead of Nvidia's earnings. The show also covered FAA funding and government shutdown risk, the FAA ground stop, and rebuilding air traffic control.",
+      "detail_zh": "节目章节显示，市场部分聚焦英伟达与科技股下滑，且英伟达抛售在盘中加深，市场在英伟达财报前走低。政治与地缘方面，节目讨论了英伟达争议笼罩特朗普亚洲之行、特朗普与习近平以及Jensen Huang相关争议、英伟达与中国及国家安全议题。此外还涉及俄罗斯、乌克兰与核谈判，伊朗战争、五角大楼资金与民主党，阿拉斯加参议院选情与民主党多数，Schumer与Van Hollen，Hakeem Jeffries与众议院领导层。国内政策方面，讨论了FAA资金与政府停摆风险，以及FAA停飞与空中交通管制、停飞后飞行是否安全、重建空管系统。节目还提及英伟达财报与Anthropic IPO。",
+      "detail_en": "The chapter list shows the markets segment focused on Nvidia and tech stocks sliding, with the Nvidia selloff deepening and markets sliding ahead of Nvidia's earnings. On politics and geopolitics, the show discussed the Nvidia scandal looming over Trump's Asia trip, Trump, Xi and the Jensen Huang scandal, and Nvidia, China and national security. It also covered Russia, Ukraine and nuclear talks; the Iran war, Pentagon funding and Democrats; the Alaska Senate race and Democratic majority; Schumer vs. Van Hollen; and Hakeem Jeffries and House leadership. On domestic policy, it discussed FAA funding and government shutdown risk, the FAA ground stop and air traffic control, whether flying is safe after the FAA outage, and rebuilding the air traffic control system. The show also mentioned Nvidia earnings and an Anthropic IPO.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达与科技股下滑，英伟达抛售在盘中加深，市场在英伟达财报前走低。",
+          "en": "Nvidia and tech stocks slid, the Nvidia selloff deepened, and markets fell ahead of Nvidia's earnings."
+        },
+        {
+          "zh": "英伟达相关争议笼罩特朗普亚洲之行，节目讨论了特朗普、习近平与Jensen Huang相关争议，以及英伟达、中国与国家安全。",
+          "en": "An Nvidia-related controversy loomed over Trump's Asia trip; the show discussed Trump, Xi and the Jensen Huang scandal, as well as Nvidia, China and national security."
+        },
+        {
+          "zh": "节目还涉及FAA资金与政府停摆风险、FAA停飞与空管系统重建。",
+          "en": "The show also covered FAA funding and government shutdown risk, the FAA ground stop, and rebuilding air traffic control."
+        },
+        {
+          "zh": "其他议题包括俄罗斯、乌克兰与核谈判，伊朗战争、五角大楼资金与民主党，以及阿拉斯加参议院选情等政治话题。",
+          "en": "Other topics included Russia, Ukraine and nuclear talks; the Iran war, Pentagon funding and Democrats; and political races such as the Alaska Senate race."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "tech stocks",
+        "earnings",
+        "US politics",
+        "FAA"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:g8ei9-H5QPw",
+      "title": "Cleveland Fed's Hammack on Rate Policy, Inflation Targets, AI",
+      "title_zh": "克利夫兰联储主席哈马克：对每次FOMC会议持开放态度，倾向小幅稳步降通胀",
+      "url": "https://www.youtube.com/watch?v=g8ei9-H5QPw",
+      "published_at": "2026-11-16T20:13:06+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "克利夫兰联储主席贝丝·哈马克表示，她每次参加FOMC政策会议都保持开放心态，并认为在将通胀降至2%的目标上，美联储的双重使命之间“没有太多紧张关系”。她倾向于以小幅且稳定的步伐实现这一目标。",
+      "summary_en": "Cleveland Fed President Beth Hammack said she enters each FOMC policy meeting with an open mind and sees not much tension in the Fed's mandate to bring inflation down to 2%. She favors achieving that in small and steady increments.",
+      "detail_zh": "克利夫兰联储主席贝丝·哈马克在接受彭博社迈克尔·麦基采访时表示，她每次参加FOMC政策会议都带着开放的心态。她指出，在将通胀降至2%的目标上，美联储的双重使命之间“没有太多紧张关系”。她倾向于以小幅且稳定的步伐将通胀降至2%。此外，她还谈到了人工智能、经济状况以及她从所在地区企业主那里听到的情况。",
+      "detail_en": "Cleveland Fed President Beth Hammack, speaking to Bloomberg's Michael McKee, said she enters each FOMC policy meeting with an open mind. She noted there is not much tension in the Fed's mandate to bring inflation down to 2%. She favors doing so in small and steady increments. She also spoke about AI, economic conditions, and what she hears from business owners in her district.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "哈马克对每次FOMC会议持开放心态，不预设政策立场。",
+          "en": "Hammack enters each FOMC meeting with an open mind, without pre-committing to a policy stance."
+        },
+        {
+          "zh": "她认为在将通胀降至2%的目标上，美联储双重使命之间没有太多紧张关系。",
+          "en": "She sees not much tension in the Fed's dual mandate regarding bringing inflation down to 2%."
+        },
+        {
+          "zh": "她倾向于以小幅且稳定的步伐降低通胀。",
+          "en": "She favors reducing inflation in small and steady increments."
+        },
+        {
+          "zh": "她还谈及人工智能、经济状况及所在地区企业主的反馈。",
+          "en": "She also discussed AI, economic conditions, and feedback from business owners in her district."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "inflation",
+        "monetary policy",
+        "FOMC"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:MCS_RorrWvU",
       "title": "Midterms and AI in focus at 2027 Forum | Market take",
@@ -16698,226 +16913,6 @@
       "tickers": [
         "BRK.A",
         "BRK.B"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:fZM1K3iX3hE",
-      "title": "Who Could Replace Nvidia's CEO Jensen Huang?",
-      "title_zh": "若黄仁勋离职，英伟达继任者选择有限",
-      "url": "https://www.youtube.com/watch?v=fZM1K3iX3hE",
-      "published_at": "2026-11-09T21:08:46+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博行业研究的Mandeep Singh在Bloomberg Businessweek节目中表示，若英伟达CEO黄仁勋因与一名疑似中国间谍有染而辞职或被解雇，接替他的选择并不多。",
-      "summary_en": "Mandeep Singh of Bloomberg Intelligence said on Bloomberg Businessweek that if Nvidia CEO Jensen Huang steps down or is fired over an affair with an alleged Chinese spy, there are not many options to replace him.",
-      "detail_zh": "节目讨论了英伟达首席执行官黄仁勋可能因与一名疑似中国间谍有染而辞职或被解雇的假设情景。彭博行业研究的Mandeep Singh指出，在这种情况下，接替黄仁勋的人选并不多。原文未提供更多关于继任者候选或公司治理的细节。",
-      "detail_en": "The program discussed a hypothetical scenario in which Nvidia CEO Jensen Huang steps down or is fired for having an affair with an alleged Chinese spy. Mandeep Singh of Bloomberg Intelligence noted that there are not many options to replace Huang in such a case. The original text does not provide further details on successor candidates or corporate governance.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "讨论假设情景：黄仁勋因与疑似中国间谍有染而辞职或被解雇。",
-          "en": "Discusses hypothetical scenario: Huang steps down or is fired over an affair with an alleged Chinese spy."
-        },
-        {
-          "zh": "彭博行业研究的Mandeep Singh表示继任者选择有限。",
-          "en": "Mandeep Singh of Bloomberg Intelligence says there are not many options for a replacement."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "CEO succession",
-        "Jensen Huang",
-        "Bloomberg Intelligence"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:2hY9U6japv8",
-      "title": "GoFundMe CEO: Fundraising for food jumped 50% in the US",
-      "title_zh": "GoFundMe：美国食品杂货筹款今年激增50%",
-      "url": "https://www.youtube.com/watch?v=2hY9U6japv8",
-      "published_at": "2026-11-09T20:52:25+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "GoFundMe CEO Tim Cadogan表示，今年迄今美国用于食品和杂货的筹款活动增加了50%，因生活成本压力促使更多美国人向亲友寻求经济支持。",
-      "summary_en": "GoFundMe CEO Tim Cadogan said U.S. fundraising for food and groceries has jumped 50% so far this year, as affordability pressures drive more Americans to seek financial support from friends and family.",
-      "detail_zh": "GoFundMe首席执行官Tim Cadogan透露，今年迄今为止，美国平台上为食品和杂货发起的筹款活动数量上升了50%。Cadogan将这一增长归因于生活成本压力（affordability pressures），这促使更多美国人转向亲友寻求经济援助以支付日常必需品。该数据反映出部分美国消费者在基本生活开支方面面临财务压力。",
-      "detail_en": "GoFundMe CEO Tim Cadogan revealed that U.S. fundraising campaigns for food and groceries on the platform have increased by 50% so far this year. Cadogan attributed the rise to affordability pressures, which are driving more Americans to seek financial support from friends and family to cover everyday essentials. The data reflects financial strain on some U.S. consumers regarding basic living expenses.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "GoFundMe美国食品和杂货筹款今年迄今增长50%",
-          "en": "U.S. GoFundMe fundraising for food and groceries is up 50% year-to-date"
-        },
-        {
-          "zh": "CEO Tim Cadogan将增长归因于生活成本压力",
-          "en": "CEO Tim Cadogan attributes the increase to affordability pressures"
-        },
-        {
-          "zh": "更多美国人转向亲友寻求经济支持以支付日常必需品",
-          "en": "More Americans are turning to friends and family for financial support to pay for everyday essentials"
-        }
-      ],
-      "tags": [
-        "affordability",
-        "consumer stress",
-        "fundraising",
-        "US consumer"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:OAZcX_ZFCog",
-      "title": "Hegseth Calls Impeachment Vote 'Politically Motivated'",
-      "title_zh": "共和党议员Massie提出弹劾国防部长Hegseth",
-      "url": "https://www.youtube.com/watch?v=OAZcX_ZFCog",
-      "published_at": "2026-11-09T20:36:35+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "共和党众议员Thomas Massie周一提出弹劾国防部长Pete Hegseth的动议，指控其未经国会批准对伊朗发动战争等。Hegseth称此举出于政治动机。Rick Davis与Jeanne Sheehan Zaino在\"Balance of Power\"节目中就此展开辩论。",
-      "summary_en": "Republican Representative Thomas Massie introduced a measure on Monday to impeach Defense Secretary Pete Hegseth, citing charges including waging war in Iran without congressional approval. Hegseth called the move politically motivated. Rick Davis and Jeanne Sheehan Zaino debated the issue on \"Balance of Power.\"",
-      "detail_zh": "共和党众议员Thomas Massie于周一提出弹劾国防部长Pete Hegseth的动议。Massie提出的指控包括Hegseth未经国会批准对伊朗发动战争等。Hegseth回应称这一弹劾动议是\"出于政治动机\"。Rick Davis与Jeanne Sheehan Zaino在Bloomberg的\"Balance of Power\"节目中就该问题进行了辩论。原文未提供弹劾程序的具体进展、其他指控细节或辩论双方的具体观点。",
-      "detail_en": "Republican Representative Thomas Massie introduced a measure on Monday to impeach Defense Secretary Pete Hegseth. The charges cited by Massie include waging war in Iran without congressional approval, among others. Hegseth called the impeachment move \"politically motivated.\" Rick Davis and Jeanne Sheehan Zaino debated the issue on Bloomberg's \"Balance of Power.\" The source does not provide details on the impeachment procedure's progress, other specific charges, or the debaters' specific arguments.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "共和党众议员Thomas Massie周一提出弹劾国防部长Pete Hegseth的动议。",
-          "en": "Republican Representative Thomas Massie introduced a measure on Monday to impeach Defense Secretary Pete Hegseth."
-        },
-        {
-          "zh": "指控包括Hegseth未经国会批准对伊朗发动战争等。",
-          "en": "Charges include waging war in Iran without congressional approval, among others."
-        },
-        {
-          "zh": "Hegseth称弹劾动议\"出于政治动机\"。",
-          "en": "Hegseth called the impeachment move \"politically motivated.\""
-        },
-        {
-          "zh": "Rick Davis与Jeanne Sheehan Zaino在\"Balance of Power\"节目中就此展开辩论。",
-          "en": "Rick Davis and Jeanne Sheehan Zaino debated the issue on \"Balance of Power.\""
-        }
-      ],
-      "tags": [
-        "impeachment",
-        "Hegseth",
-        "Iran",
-        "Congress"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:3TWTYR3rb4o",
-      "title": "The Whole Market Is Watching Nvidia. Are You Watching the Right Levels? | SpotGamma",
-      "title_zh": "英伟达下跌而AI板块反弹，期权数据揭示持仓驱动",
-      "url": "https://www.youtube.com/watch?v=3TWTYR3rb4o",
-      "published_at": "2026-11-09T20:32:39+00:00",
-      "source_name": "SpotGamma",
-      "source_kind": "video",
-      "categories": [
-        "tech",
-        "volatility",
-        "macro"
-      ],
-      "summary_zh": "英伟达开盘下跌，但AI板块整体反弹，油价因美伊协议希望下跌近5%。SpotGamma指出，期权数据能揭示新闻未体现的持仓驱动因素，并邀请投资者参加免费网络研讨会，分析当日价格行为及关键水平。",
-      "summary_en": "Nvidia fell at the open, yet the broader AI trade rallied and oil dropped nearly 5% on hopes of a U.S.-Iran deal. SpotGamma notes that options data can reveal positioning-driven price action not evident in headlines, and invites investors to a free webinar analyzing the day's price action and key levels.",
-      "detail_zh": "英伟达今日开盘下跌，而就在几天前，AI引领的抛售将纳斯达克推入回调区间。然而，AI交易的其他部分却出现反弹，同时油价因美伊协议希望下跌近5%。SpotGamma创始人Brent Kochuba将举办免费网络研讨会，实时解析当日价格行为及关键SpotGamma水平，展示数据与图表，并回答观众提问。SpotGamma提供期权数据服务，包括关键水平、对冲影响、波动率仪表盘等工具，帮助交易者理解市场驱动因素。",
-      "detail_en": "Nvidia sank at the open today, just days after an AI-led selloff pushed the Nasdaq into correction territory. Yet the rest of the AI trade rallied, while oil fell nearly 5% on hopes of a U.S.-Iran deal. SpotGamma Founder Brent Kochuba will host a free webinar to break down the day's price action and key SpotGamma levels in real-time, showing the data and charts behind the read and answering questions. SpotGamma offers options data services including key levels, hedging impact, volatility dashboard, and more to help traders understand market drivers.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达开盘下跌，但AI板块其他股票反弹，油价因美伊协议希望下跌近5%。",
-          "en": "Nvidia fell at the open, but other AI stocks rallied, and oil dropped nearly 5% on hopes of a U.S.-Iran deal."
-        },
-        {
-          "zh": "几天前AI引领的抛售将纳斯达克推入回调区间。",
-          "en": "An AI-led selloff days earlier pushed the Nasdaq into correction territory."
-        },
-        {
-          "zh": "SpotGamma认为期权数据能揭示新闻未体现的持仓驱动因素。",
-          "en": "SpotGamma believes options data can reveal positioning-driven factors not evident in the news."
-        },
-        {
-          "zh": "SpotGamma提供免费网络研讨会，由Brent Kochuba解析当日价格行为及关键水平。",
-          "en": "SpotGamma offers a free webinar with Brent Kochuba to analyze the day's price action and key levels."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "AI trade",
-        "options positioning",
-        "oil",
-        "webinar"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ALXQRknFwr4",
-      "title": "Trump Backs Nvidia CEO Amid Spy Tie",
-      "title_zh": "彭博《权力平衡》早间版：英伟达调查、国会与市场前瞻",
-      "url": "https://www.youtube.com/watch?v=ALXQRknFwr4",
-      "published_at": "2026-11-09T20:17:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目涵盖英伟达股价下跌但市场整体上涨、国会调查英伟达及黄仁勋、特朗普与卡塔尔/伊朗外交、政府拨款与移民改革、CPI公布前的市场情绪，以及劳工部长谈就业数据与制造业。",
-      "summary_en": "This episode covers Nvidia's decline amid a broader market rally, congressional investigation into Nvidia and Jensen Huang, Trump's diplomacy with Qatar and Iran, government funding and immigration reform, market sentiment ahead of CPI, and the Labor Secretary on jobs data and manufacturing.",
-      "detail_zh": "节目首先讨论英伟达下跌而市场整体上涨的现象，随后聚焦英伟达、黄仁勋与中国及国家安全议题，并提及国会正对英伟达及黄仁勋展开调查。政治方面，节目涉及特朗普与卡塔尔、伊朗的外交，针对皮特·赫格塞斯的弹劾努力，跛脚鸭国会与政府拨款，以及特朗普、民主党与移民改革。市场部分关注CPI公布前的上涨行情。节目还讨论了中期选举后国会复会、共和党领导层之争、民主党在可负担性与调查之间的取舍，以及英伟达调查与黄仁勋继任问题。最后，劳工部长谈及科技与外国劳工、就业报告、BLS数据与修正、工资、通胀与制造业就业。",
-      "detail_en": "The program begins with markets rallying as Nvidia falls, then focuses on Nvidia, Jensen Huang, China and national security, noting Congress is investigating Nvidia and Jensen Huang. On politics, it covers Trump's diplomacy with Qatar and Iran, the impeachment effort against Pete Hegseth, the lame-duck Congress and government funding, and Trump, Democrats and immigration reform. Markets rally ahead of CPI is also discussed. The show also addresses Congress returning after the midterms, Republican leadership battles, Democrats' focus on affordability versus investigations, and the Nvidia investigation and Jensen Huang succession. Finally, the Labor Secretary discusses tech and foreign workers, the jobs report, BLS data and revisions, wages, inflation and manufacturing jobs.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达股价下跌，但市场整体上涨。",
-          "en": "Nvidia falls while markets rally overall."
-        },
-        {
-          "zh": "国会正在调查英伟达及黄仁勋，涉及中国与国家安全议题。",
-          "en": "Congress is investigating Nvidia and Jensen Huang, touching on China and national security."
-        },
-        {
-          "zh": "特朗普与卡塔尔、伊朗的外交是政治讨论的一部分。",
-          "en": "Trump's diplomacy with Qatar and Iran is part of the political discussion."
-        },
-        {
-          "zh": "市场在CPI数据公布前上涨。",
-          "en": "Markets rally ahead of CPI data."
-        },
-        {
-          "zh": "劳工部长谈及就业报告、BLS数据修正、工资、通胀与制造业就业。",
-          "en": "The Labor Secretary discusses the jobs report, BLS data revisions, wages, inflation and manufacturing jobs."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Congress",
-        "CPI",
-        "Jobs Report",
-        "Diplomacy"
-      ],
-      "tickers": [
-        "NVDA"
       ],
       "sentiment": "neutral"
     }
