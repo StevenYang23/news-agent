@@ -1,6 +1,261 @@
 {
-  "generated_at": "2026-11-16T15:20:32.892434+00:00",
+  "generated_at": "2026-11-16T16:14:49.488881+00:00",
   "insights": [
+    {
+      "guid": "yt:_iFcf6uKrX8",
+      "title": "From AI to Air Conditioning: The Power Boom in Asia",
+      "title_zh": "AI与制造业扩张推升亚洲电力需求，重塑电力基础设施",
+      "url": "https://www.youtube.com/watch?v=_iFcf6uKrX8",
+      "published_at": "2026-11-16T16:11:33+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "亚洲能源分析师Mayank Maheshwari指出，AI、新工厂和冷却系统正在推升亚洲电力需求，并重塑当地电力基础设施。",
+      "summary_en": "Asia energy analyst Mayank Maheshwari discusses how AI, new factories and cooling systems are boosting electricity demand in Asia and reshaping the local power infrastructure.",
+      "detail_zh": "根据原文，亚洲能源分析师Mayank Maheshwari讨论了AI、新工厂和冷却系统如何推升亚洲电力需求，并重塑当地电力基础设施。原文未提供具体数据、公司名称或投资建议。",
+      "detail_en": "According to the source, Asia energy analyst Mayank Maheshwari discusses how AI, new factories and cooling systems are boosting electricity demand in Asia and reshaping the local power infrastructure. The source does not provide specific figures, company names, or investment recommendations.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "AI、新工厂和冷却系统是推升亚洲电力需求的因素。",
+          "en": "AI, new factories and cooling systems are factors boosting electricity demand in Asia."
+        },
+        {
+          "zh": "亚洲电力需求增长正在重塑当地电力基础设施。",
+          "en": "Rising electricity demand in Asia is reshaping the local power infrastructure."
+        },
+        {
+          "zh": "该观点来自亚洲能源分析师Mayank Maheshwari。",
+          "en": "The view is from Asia energy analyst Mayank Maheshwari."
+        }
+      ],
+      "tags": [
+        "Asia",
+        "electricity demand",
+        "AI",
+        "power infrastructure"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Rfg3Gflgo90",
+      "title": "Can AI Chip Demand Outrun the Power Crunch?",
+      "title_zh": "美国中期选举或加剧数据中心电力瓶颈，AI芯片前景仍看涨",
+      "url": "https://www.youtube.com/watch?v=Rfg3Gflgo90",
+      "published_at": "2026-11-16T16:11:24+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "politics",
+        "tech"
+      ],
+      "summary_zh": "美国中期选举结果可能导致政策变化，从而恶化美国数据中心的电力瓶颈。与此同时，AI芯片的前景依然乐观。专家讨论了AI建设中的潜在挑战与机遇。",
+      "summary_en": "The U.S. midterm results could lead to policy changes that worsen the power bottleneck for U.S. data centers. Meanwhile, the outlook for AI chips remains bullish. Specialists discuss potential challenges and opportunities in the AI buildout.",
+      "detail_zh": "原文指出，美国中期选举的结果可能引发政策变化，这些变化可能会加剧美国数据中心面临的电力瓶颈问题。尽管存在这一潜在挑战，AI芯片的前景仍然被看好。专家们就AI基础设施建设中的潜在挑战和机遇进行了讨论。原文未提供具体的政策细节、电力瓶颈的量化影响或AI芯片看涨的具体理由。",
+      "detail_en": "The original text states that the U.S. midterm results could lead to policy changes that worsen the power bottleneck for U.S. data centers. Despite this potential challenge, the outlook for AI chips remains bullish. Specialists discussed the potential challenges and opportunities in the AI buildout. The original text does not provide specific policy details, quantified impacts of the power bottleneck, or specific reasons for the bullish view on AI chips.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国中期选举结果可能导致政策变化，恶化数据中心电力瓶颈。",
+          "en": "U.S. midterm results could lead to policy changes that worsen the power bottleneck for data centers."
+        },
+        {
+          "zh": "AI芯片的前景依然乐观。",
+          "en": "The outlook for AI chips remains bullish."
+        },
+        {
+          "zh": "专家讨论了AI建设中的潜在挑战与机遇。",
+          "en": "Specialists discussed potential challenges and opportunities in the AI buildout."
+        }
+      ],
+      "tags": [
+        "midterm elections",
+        "data centers",
+        "power bottleneck",
+        "AI chips",
+        "AI buildout"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:lreZepTOXkg",
+      "title": "Trump Says He Might Meet Kim Jong Un in China",
+      "title_zh": "特朗普称访华出席APEC期间可能与金正恩会面",
+      "url": "https://www.youtube.com/watch?v=lreZepTOXkg",
+      "published_at": "2026-11-16T16:06:47+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普总统表示，在赴中国出席亚太经合组织峰会期间，他可能与朝鲜领导人金正恩会面。他于周一上午离开前对记者作出上述表态。",
+      "summary_en": "President Donald Trump said he could meet with North Korea's Kim Jong Un while visiting China for the APEC summit. He made the remarks to reporters on Monday morning before departing.",
+      "detail_zh": "特朗普总统在周一上午离开前对记者表示，他可能在访问中国出席亚太经合组织（APEC）峰会期间与朝鲜领导人金正恩会面。原文未提供会面的具体时间、地点或议程等进一步细节。该表态属于地缘政治范畴，但原文未涉及对市场或美股的直接影响。",
+      "detail_en": "President Donald Trump told reporters on Monday morning before departing that he could meet with North Korea's Kim Jong Un during his visit to China for the Asia-Pacific Economic Cooperation (APEC) summit. The original text does not provide further details such as the specific timing, location, or agenda of the potential meeting. This statement falls under geopolitics, but the original text does not address any direct impact on markets or US equities.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普称可能在访华出席APEC峰会期间与金正恩会面。",
+          "en": "Trump said he could meet with Kim Jong Un while visiting China for the APEC summit."
+        },
+        {
+          "zh": "该表态是特朗普周一上午离开前对记者作出的。",
+          "en": "The remark was made to reporters on Monday morning before Trump's departure."
+        },
+        {
+          "zh": "原文未提供会面的具体时间、地点或议程。",
+          "en": "The original text does not provide specific timing, location, or agenda for the potential meeting."
+        }
+      ],
+      "tags": [
+        "Trump",
+        "Kim Jong Un",
+        "APEC",
+        "North Korea",
+        "China"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:-hjz7gUGKZU",
+      "title": "US Airlines Race to Recover From Shutdown",
+      "title_zh": "美国航空业经历二十多年来最长全国性停摆后，新一周伊始紧急恢复航线网络",
+      "url": "https://www.youtube.com/watch?v=-hjz7gUGKZU",
+      "published_at": "2026-11-16T15:56:09+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美国航空公司在新一周开始时正紧急恢复其航线网络，此前经历了二十多年来最长的全国性停摆。彭博电视台的Kate Duffy在“Bloomberg Open Interest”节目中提供了更多细节。",
+      "summary_en": "US airlines are scrambling at the start of a new week to rebuild their networks following the longest nationwide shutdown in more than two decades. Kate Duffy provided more details on Bloomberg's \"Open Interest.\"",
+      "detail_zh": "美国航空业在经历二十多年来最长的全国性停摆后，于新一周伊始紧急行动，试图恢复其航线网络。彭博电视台的Kate Duffy在“Bloomberg Open Interest”节目中报道了这一情况。原文未提供停摆的具体原因、持续时间、受影响航空公司名称或恢复进度的进一步细节。",
+      "detail_en": "US airlines are scrambling at the start of a new week to resurrect their networks after the longest nationwide shutdown in more than two decades. Kate Duffy reported on the situation on Bloomberg's \"Open Interest.\" The original text does not provide further details on the cause, duration, affected airlines, or recovery progress.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国航空业正经历二十多年来最长的全国性停摆。",
+          "en": "The US airline industry is experiencing its longest nationwide shutdown in more than two decades."
+        },
+        {
+          "zh": "航空公司在新一周开始时紧急恢复航线网络。",
+          "en": "Airlines are scrambling at the start of a new week to restore their networks."
+        },
+        {
+          "zh": "彭博电视台的Kate Duffy在“Bloomberg Open Interest”节目中报道了此事。",
+          "en": "Kate Duffy reported on the situation on Bloomberg's \"Open Interest.\""
+        }
+      ],
+      "tags": [
+        "US airlines",
+        "shutdown",
+        "network recovery"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:aM6DviVfgPY",
+      "title": "Stocks Fall Ahead of Nvidia, Trump-Xi-Putin Summit; Huang’s Potential Return to Nvidia",
+      "title_zh": "美股期货走低，市场聚焦英伟达财报、Anthropic IPO与地缘峰会",
+      "url": "https://www.youtube.com/watch?v=aM6DviVfgPY",
+      "published_at": "2026-11-16T15:23:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股期货在繁忙一周前下跌，市场关注英伟达财报、Anthropic IPO以及特朗普、习近平与普京的三边会晤。法国巴黎银行首席经济学家Isabelle Mateos Y Lago讨论了持续通胀风险及全球央行压力。此外，航空公司正从二十多年来最长全国停飞中恢复。",
+      "summary_en": "US equity futures fell ahead of a busy week featuring Nvidia earnings, Anthropic's IPO, and a trilateral meeting between Trump, Xi, and Putin. BNP Paribas Chief Economist Isabelle Mateos Y Lago discussed persistent inflation risks and pressure on global central banks. Airlines are recovering from the longest nationwide grounding in over two decades.",
+      "detail_zh": "美股期货在繁忙一周前走低，本周关键事件包括英伟达财报、Anthropic的IPO，以及特朗普、习近平与普京的三边会晤。据报道，黄仁勋正在讨论可能重新出任CEO。航空公司正从二十多年来最长的全国停飞中恢复。法国巴黎银行集团首席经济学家Isabelle Mateos Y Lago在节目中讨论了持续通胀的风险以及全球央行面临的压力。节目还涉及伊朗袭击与石油市场、摩根士丹利市场展望、乌克兰无人机袭击、特朗普出席东盟峰会、欧盟计划对乌克兰贷款、英伟达被命名为美国AI冠军、Summit Therapeutics股价下跌、英伟达面临华盛顿审查等话题。",
+      "detail_en": "US equity futures declined ahead of a busy week that includes Nvidia earnings, Anthropic's IPO, and a trilateral meeting between Presidents Trump, Xi, and Putin. Jensen Huang is reportedly discussing a possible return as CEO. Airlines are scrambling to recover from the longest nationwide grounding in more than two decades. Isabelle Mateos Y Lago, BNP Paribas Group Chief Economist, joined Bloomberg Brief to discuss risks around persistent inflation and pressure on global central banks. The program also covered an Iran attack and oil markets, Morgan Stanley's market outlook, Ukraine drone attacks, Trump heading to the ASEAN summit, EU plans for a Ukraine loan, Nvidia being named a US AI champion, Summit Therapeutics dropping, Nvidia facing Washington scrutiny, and airlines recovering from the ground stop.",
+      "conclusion_zh": "本周市场面临英伟达财报、地缘政治峰会及通胀压力等多重关键事件，投资者需关注这些因素对美股走势的潜在影响。",
+      "conclusion_en": "Markets face multiple key events this week, including Nvidia earnings, geopolitical summits, and inflation pressures; investors should watch these factors for potential impact on US equities.",
+      "key_points": [
+        {
+          "zh": "美股期货在英伟达财报、Anthropic IPO及特朗普-习近平-普京峰会前走低。",
+          "en": "US equity futures fell ahead of Nvidia earnings, Anthropic's IPO, and the Trump-Xi-Putin summit."
+        },
+        {
+          "zh": "据报道，黄仁勋正讨论可能重新出任英伟达CEO。",
+          "en": "Jensen Huang is reportedly discussing a possible return as CEO of Nvidia."
+        },
+        {
+          "zh": "法国巴黎银行的Isabelle Mateos Y Lago讨论了持续通胀风险及全球央行压力。",
+          "en": "BNP Paribas' Isabelle Mateos Y Lago discussed persistent inflation risks and pressure on global central banks."
+        },
+        {
+          "zh": "航空公司正从二十多年来最长的全国停飞中恢复。",
+          "en": "Airlines are recovering from the longest nationwide grounding in more than two decades."
+        },
+        {
+          "zh": "节目还涉及伊朗袭击与石油市场、摩根士丹利市场展望、乌克兰无人机袭击、欧盟对乌贷款计划及英伟达面临华盛顿审查等议题。",
+          "en": "The program also covered the Iran attack and oil markets, Morgan Stanley's market outlook, Ukraine drone attacks, EU plans for a Ukraine loan, and Nvidia facing Washington scrutiny."
+        }
+      ],
+      "tags": [
+        "Nvidia earnings",
+        "Anthropic IPO",
+        "Trump-Xi-Putin summit",
+        "inflation",
+        "airline grounding"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:QEqLipeYxQY",
+      "title": "Trump Says Jensen Huang Did Not Put National Security at Risk",
+      "title_zh": "特朗普称黄仁勋未危及国家安全，并称其重新执掌英伟达“不是坏主意”",
+      "url": "https://www.youtube.com/watch?v=QEqLipeYxQY",
+      "published_at": "2026-11-16T15:18:12+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "特朗普在白宫对记者表示，前英伟达CEO黄仁勋没有将美国国家安全置于风险之中，并称让黄仁勋再次执掌这家芯片公司“不是坏主意”。他还提到，不清楚与黄仁勋有婚外情的女性Alice Huang是否为中国间谍。",
+      "summary_en": "President Donald Trump told reporters at the White House that former Nvidia CEO Jensen Huang did not put US national security at risk and that letting Huang run the chipmaker again 'isn't a bad idea.' He also said it is unknown whether Alice Huang, one of the women Jensen Huang had an affair with, is a Chinese spy.",
+      "detail_zh": "特朗普总统在白宫对记者发表讲话，谈及前英伟达CEO黄仁勋。他表示，黄仁勋没有将美国国家安全置于风险之中。当被问及让黄仁勋再次执掌英伟达时，特朗普称“这不是一个坏主意”。此外，特朗普还提到，不清楚Alice Huang是否为中国间谍，并指出她是与黄仁勋有婚外情的女性之一。上述言论来自彭博电视转播的白宫记者问答片段。",
+      "detail_en": "President Donald Trump spoke to reporters at the White House about former Nvidia CEO Jensen Huang. He said Huang did not put US national security at risk. When asked about letting Huang run the chipmaker again, Trump said 'it isn't a bad idea.' Trump also said it is unknown whether Alice Huang is a Chinese spy, noting she is one of the women Jensen Huang had an affair with. The remarks were captured in a Bloomberg Television clip of the White House press interaction.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "特朗普称黄仁勋未将美国国家安全置于风险之中。",
+          "en": "Trump said Jensen Huang did not put US national security at risk."
+        },
+        {
+          "zh": "特朗普表示让黄仁勋再次执掌英伟达“不是坏主意”。",
+          "en": "Trump said letting Jensen Huang run Nvidia again 'isn't a bad idea.'"
+        },
+        {
+          "zh": "特朗普称不清楚Alice Huang是否为中国间谍，并指出她是与黄仁勋有婚外情的女性之一。",
+          "en": "Trump said it is unknown whether Alice Huang is a Chinese spy, noting she is one of the women Jensen Huang had an affair with."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Trump",
+        "national security",
+        "China"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:Em35ZNmWzzo",
       "title": "France's borrowing costs are climbing. Could the U.S. be next?",
@@ -16522,223 +16777,6 @@
         "oil",
         "Trump",
         "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:HG6VPkAYffM",
-      "title": "CFR's McGuire Nvidia Probe: Just Tip of Iceberg",
-      "title_zh": "CFR学者批评商务部对英伟达与Megaspeed关系处理迟缓，预计国会将介入",
-      "url": "https://www.youtube.com/watch?v=HG6VPkAYffM",
-      "published_at": "2026-11-09T16:13:34+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国外交关系委员会（CFR）中国与新兴技术高级研究员Chris McGuire表示，美国商务部本应更早切断英伟达与Megaspeed公司的联系。他认为国会将介入这起涉及英伟达CEO黄仁勋的丑闻并提出更多质询。",
-      "summary_en": "Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, said the US Commerce Department should have cut Nvidia's ties to Megaspeed much sooner. He expects Congress to get involved and ask more questions about the scandal involving Nvidia CEO Jensen Huang.",
-      "detail_zh": "在彭博Open Interest节目中，美国外交关系委员会（CFR）中国与新兴技术高级研究员Chris McGuire就英伟达与Megaspeed相关事件发表看法。McGuire明确表示，美国商务部本应更早切断英伟达与Megaspeed之间的联系。他进一步判断，国会将会介入此事，并就这起涉及英伟达CEO黄仁勋的丑闻提出更多质询。原文未披露该丑闻的具体细节、涉及金额或时间线，也未提供英伟达或商务部的回应。",
-      "detail_en": "Speaking on Bloomberg Open Interest, Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, commented on the matter involving Nvidia and Megaspeed. McGuire stated that the US Commerce Department should have cut Nvidia's ties to Megaspeed much sooner. He further said he believes Congress will get involved and ask more questions about the scandal involving Nvidia CEO Jensen Huang. The source does not provide specifics of the scandal, financial figures, a timeline, or responses from Nvidia or the Commerce Department.",
-      "conclusion_zh": "英伟达与Megaspeed相关事件面临国会质询风险，监管审查可能升温，值得关注后续政策与政治动向。",
-      "conclusion_en": "The Nvidia-Megaspeed matter carries risk of congressional scrutiny, and regulatory attention could intensify; subsequent policy and political developments warrant monitoring.",
-      "key_points": [
-        {
-          "zh": "CFR高级研究员Chris McGuire认为，美国商务部本应更早切断英伟达与Megaspeed的联系。",
-          "en": "CFR senior fellow Chris McGuire said the US Commerce Department should have cut Nvidia's ties to Megaspeed much sooner."
-        },
-        {
-          "zh": "McGuire预计国会将介入这起涉及英伟达CEO黄仁勋的丑闻，并提出更多质询。",
-          "en": "McGuire expects Congress to get involved and ask more questions about the scandal involving Nvidia CEO Jensen Huang."
-        },
-        {
-          "zh": "原文未披露丑闻的具体细节、涉及金额或时间线。",
-          "en": "The source does not disclose specifics, financial figures, or a timeline of the scandal."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Megaspeed",
-        "Congress",
-        "Commerce Department",
-        "export controls"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:mbyeWbMzqfY",
-      "title": "Aramco Tower Targeted in Riyadh as Eisenkot Gets Israeli Government Mandate",
-      "title_zh": "亚洲科技股反弹，英伟达董事会调查间谍案，AI交易面临重定价",
-      "url": "https://www.youtube.com/watch?v=mbyeWbMzqfY",
-      "published_at": "2026-11-09T15:53:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "亚洲科技股反弹，台积电、三星等从近期抛售中回升；英伟达董事会调查一起间谍相关案件，黄仁勋表示将配合并继续担任CEO。Banque SYZ的Monchau认为AI交易正在被重新定价而非终结。OpenAI以报道的1.25万亿美元估值完成110亿美元融资，Anthropic达成34亿美元电力协议。",
-      "summary_en": "Asian tech stocks rebounded, with TSMC, Samsung and SK hynix recovering from a recent selloff. Nvidia's board is investigating a spying-related case; Jensen Huang said he will cooperate and remain CEO. Charles-Henry Monchau of Banque SYZ said the AI trade is being repriced rather than ending. OpenAI closed $11 billion of a new funding round at a reported $1.25 trillion valuation, while Anthropic agreed to a $3.4 billion power deal for AI data centers.",
-      "detail_zh": "亚洲股市随科技股反弹，台湾、日本、三星和SK海力士从近期抛售中恢复。英伟达董事会正在调查一起与间谍活动相关的案件，CEO黄仁勋表示将配合调查并在审查期间继续担任CEO。Banque SYZ的Charles-Henry Monchau评论称，AI交易正在被重新定价，而非走向终结。地缘政治方面，沙特首都利雅得一处阿美石油大楼遭罕见袭击，地区安全风险受关注；以色列Gadi Eisenkot正式获得组阁授权，面临艰难的联盟谈判，失败可能将组阁任务交还内塔尼亚胡。美国国务卿Rubio表示与伊朗未取得突破，特朗普淡化立即打击的可能性；伊拉克称与美国就经霍尔木兹海峡的石油出口路线达成谅解。油价在周度大幅下跌后企稳。企业方面，OpenAI以报道的1.25万亿美元估值完成110亿美元新融资，Anthropic同意以34亿美元为AI数据中心供电；伯克希尔哈撒韦尽管经营利润疲软仍增加回购；Emaar拟以约163亿美元估值收购其上市地产子公司的剩余股份。UBS CEO Sergio Ermotti讨论了家族办公室的配置变化以及AI如何改善金融服务并降低成本。比亚迪计划深化在海湾合作委员会和非洲的扩张。",
-      "detail_en": "Asian stocks rebounded with technology shares, as Taiwan, Japan, Samsung and SK hynix recovered from the recent selloff. Nvidia's board is investigating a spying-related case; CEO Jensen Huang said he will cooperate and remain CEO while the review continues. Charles-Henry Monchau of Banque SYZ said the AI trade is being repriced rather than ending. Geopolitically, an Aramco tower in Riyadh was targeted in a rare strike on the Saudi capital, keeping regional security risks in focus. In Israel, Gadi Eisenkot was formally handed the mandate to form a government and faces a difficult coalition process, with failure potentially returning the task to Benjamin Netanyahu. US Secretary of State Marco Rubio said there has been no breakthrough with Iran even as Trump played down the prospect of immediate strikes; Iraq said it reached an understanding with the US on an oil-export route through Hormuz. Oil steadied after a sharp weekly decline. On the corporate front, OpenAI closed $11 billion of a new funding round at a reported $1.25 trillion valuation, while Anthropic agreed to a $3.4 billion power deal for AI data centers. Berkshire Hathaway increased buybacks despite weaker operating income. Emaar moved to buy out the rest of its listed property arm at a valuation of about $16.3 billion. UBS CEO Sergio Ermotti discussed how family offices are shifting allocations and how AI could improve financial services while reducing costs. BYD plans to deepen its push into the GCC and Africa.",
-      "conclusion_zh": "AI交易正经历重定价而非终结，科技股反弹与巨额融资显示资本仍在流入，但英伟达调查与地缘风险构成短期扰动。",
-      "conclusion_en": "The AI trade is being repriced rather than ending, with tech rebounds and massive funding rounds showing capital still flowing in, though Nvidia's probe and geopolitical risks pose near-term distractions.",
-      "key_points": [
-        {
-          "zh": "亚洲科技股反弹，台湾、日本、三星和SK海力士从近期抛售中恢复。",
-          "en": "Asian tech stocks rebounded, with Taiwan, Japan, Samsung and SK hynix recovering from the recent selloff."
-        },
-        {
-          "zh": "英伟达董事会调查一起间谍相关案件，黄仁勋表示将配合并继续担任CEO。",
-          "en": "Nvidia's board is investigating a spying-related case; Jensen Huang said he will cooperate and remain CEO."
-        },
-        {
-          "zh": "Banque SYZ的Monchau认为AI交易正在被重新定价，而非终结。",
-          "en": "Charles-Henry Monchau of Banque SYZ said the AI trade is being repriced rather than ending."
-        },
-        {
-          "zh": "OpenAI以报道的1.25万亿美元估值完成110亿美元融资，Anthropic达成34亿美元电力协议。",
-          "en": "OpenAI closed $11 billion of a new funding round at a reported $1.25 trillion valuation, while Anthropic agreed to a $3.4 billion power deal."
-        },
-        {
-          "zh": "沙特利雅得阿美石油大楼遭罕见袭击，地区安全风险受关注；Rubio称与伊朗未取得突破。",
-          "en": "An Aramco tower in Riyadh was targeted in a rare strike, keeping regional security risks in focus; Rubio said there has been no breakthrough with Iran."
-        }
-      ],
-      "tags": [
-        "AI trade",
-        "Nvidia",
-        "Asian tech rebound",
-        "OpenAI funding",
-        "geopolitical risk"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:0k6R9NWNoLs",
-      "title": "Nvidia Spy Probe: What We Know Now",
-      "title_zh": "英伟达与新加坡公司Megaspeed关系受审查，黄仁勋承认婚外情",
-      "url": "https://www.youtube.com/watch?v=0k6R9NWNoLs",
-      "published_at": "2026-11-09T15:32:26+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博社的Michael Shepard称，英伟达与新加坡公司Megaspeed International的关系已受审查一年有余。英伟达CEO黄仁勋承认与该公司一名被指疑似中国间谍的女性有婚外情。",
-      "summary_en": "Bloomberg's Michael Shepard says Nvidia's relationship with Singaporean company Megaspeed International has been under scrutiny for more than a year. Nvidia CEO Jensen Huang admitted to having an affair with a woman from the company identified as a suspected Chinese spy.",
-      "detail_zh": "彭博社的Michael Shepard表示，英伟达与新加坡公司Megaspeed International的关系已受到审查超过一年。英伟达CEO黄仁勋承认与该公司一名女性有婚外情，该女性被指为疑似中国间谍。以上为目前已知信息的简要回顾。",
-      "detail_en": "Bloomberg's Michael Shepard says Nvidia's relationship with the Singaporean company Megaspeed International has been under scrutiny for more than a year. Nvidia CEO Jensen Huang admitted to having an affair with a woman from the company identified as a suspected Chinese spy. Here's a quick recap of what we know so far.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达与新加坡公司Megaspeed International的关系已受审查超过一年。",
-          "en": "Nvidia's relationship with Singaporean company Megaspeed International has been under scrutiny for more than a year."
-        },
-        {
-          "zh": "英伟达CEO黄仁勋承认与Megaspeed一名女性有婚外情。",
-          "en": "Nvidia CEO Jensen Huang admitted to having an affair with a woman from Megaspeed."
-        },
-        {
-          "zh": "该女性被指为疑似中国间谍。",
-          "en": "The woman was identified as a suspected Chinese spy."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Megaspeed",
-        "China",
-        "espionage",
-        "scrutiny"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:IkK_BTp4hjQ",
-      "title": "An AI Bust May Not Cause a Financial Crisis, Dudley Says",
-      "title_zh": "Dudley：AI泡沫破裂不致金融系统崩溃",
-      "url": "https://www.youtube.com/watch?v=IkK_BTp4hjQ",
-      "published_at": "2026-11-09T15:25:29+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "前纽约联储主席Bill Dudley表示，他对AI从繁荣走向萧条时金融系统不会崩溃持相当乐观的态度，原因是人们已经在讨论相关风险。",
-      "summary_en": "Former New York Fed President Bill Dudley says he is pretty optimistic that if AI goes from boom to bust, the financial system won't collapse, because people are already talking about the risks involved.",
-      "detail_zh": "Bill Dudley（彭博观点专栏作家、前纽约联储主席）在“Bloomberg Surveillance”节目中表示，他对AI从繁荣转向萧条时金融系统不会崩溃持相当乐观的态度。他的核心逻辑是，人们已经在讨论AI相关的风险，这有助于防范系统性崩溃。原文未提供更多关于风险传导机制、具体资产或市场影响的分析。",
-      "detail_en": "Bill Dudley, a Bloomberg Opinion columnist and former president of the Federal Reserve Bank of New York, said on \"Bloomberg Surveillance\" that he is pretty optimistic that if AI goes from boom to bust, the financial system won't collapse. His core reasoning is that people are already talking about the risks involved, which helps guard against a systemic collapse. The original text does not provide further analysis on risk transmission mechanisms, specific assets, or market implications.",
-      "conclusion_zh": "Dudley认为市场对AI风险的讨论本身构成一种缓冲，降低了AI泡沫破裂引发系统性金融危机的可能性。",
-      "conclusion_en": "Dudley believes that market discussions about AI risks themselves act as a buffer, reducing the likelihood of a systemic financial crisis triggered by an AI bubble burst.",
-      "key_points": [
-        {
-          "zh": "Dudley对AI泡沫破裂时金融系统不崩溃持乐观态度",
-          "en": "Dudley is optimistic that the financial system won't collapse if the AI boom turns to bust"
-        },
-        {
-          "zh": "乐观的理由是人们已经在讨论AI相关风险",
-          "en": "The reason for optimism is that people are already talking about AI-related risks"
-        },
-        {
-          "zh": "Dudley是前纽约联储主席、彭博观点专栏作家",
-          "en": "Dudley is a former New York Fed president and Bloomberg Opinion columnist"
-        }
-      ],
-      "tags": [
-        "AI",
-        "financial stability",
-        "bubble",
-        "Fed"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:AZ3TvgaRUrY",
-      "title": "US Voters Approve $67 Billion of Borrowing for Schools, Housing",
-      "title_zh": "美国选举日批准至少670亿美元州及地方政府债券发行",
-      "url": "https://www.youtube.com/watch?v=AZ3TvgaRUrY",
-      "published_at": "2026-11-09T15:21:04+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "根据标普全球市场情报初步计票数据，美国各地选民在周二选举中批准了至少670亿美元的州及地方政府债券发行。该数据由彭博分析，显示地方债发行获得选民授权。",
-      "summary_en": "Voters across the US approved at least $67 billion of state and local government bond sales during Tuesday's election, according to preliminary vote tallies of S&P Global Market Intelligence data analyzed by Bloomberg.",
-      "detail_zh": "彭博的Aashnah Shah在“Bloomberg Real Yield”节目中向Scarlet Fu表示，根据标普全球市场情报数据的初步计票结果（由彭博分析），美国各地选民在周二的选举中批准了至少670亿美元的州及地方政府债券发行。该数据为初步统计，最终规模可能调整。",
-      "detail_en": "Bloomberg's Aashnah Shah told Scarlet Fu on \"Bloomberg Real Yield\" that voters across the US approved at least $67 billion of state and local government bond sales during Tuesday's election, according to preliminary vote tallies of S&P Global Market Intelligence data analyzed by Bloomberg. The figure is preliminary and may be revised.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美国选民在周二选举中批准至少670亿美元州及地方政府债券发行。",
-          "en": "Voters approved at least $67 billion of state and local government bond sales in Tuesday's election."
-        },
-        {
-          "zh": "数据来源为标普全球市场情报的初步计票，由彭博分析。",
-          "en": "The data comes from preliminary vote tallies of S&P Global Market Intelligence, analyzed by Bloomberg."
-        },
-        {
-          "zh": "该数字为初步统计，可能后续调整。",
-          "en": "The figure is preliminary and subject to revision."
-        }
-      ],
-      "tags": [
-        "municipal bonds",
-        "election",
-        "state and local debt",
-        "bond issuance"
       ],
       "tickers": [],
       "sentiment": "neutral"
