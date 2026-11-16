@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-11-16T16:14:49.488881+00:00",
+  "generated_at": "2026-11-16T17:12:18.716346+00:00",
   "insights": [
+    {
+      "guid": "yt:prpIDNYJJ8A",
+      "title": "Bloomberg Surveillance 11/16/2026",
+      "title_zh": "彭博监控：美联储加息预期升温，英伟达余波未平",
+      "url": "https://www.youtube.com/watch?v=prpIDNYJJ8A",
+      "published_at": "2026-11-16T16:40:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "多位嘉宾认为美联储加息预期升温，JPMorgan的Bob Michele称美联储错过10月加息“看起来有点傻”，BNP Paribas的Guneet Dhingra称三次加息是“最低限度”。英伟达相关事件持续发酵，政治与监管风险受到关注。",
+      "summary_en": "Several guests see rising expectations for Fed rate hikes, with JPMorgan's Bob Michele saying the Fed 'looks a bit silly' for missing an October hike and BNP Paribas' Guneet Dhingra calling three hikes the 'bare minimum.' Nvidia fallout continues to draw attention to political and regulatory risks.",
+      "detail_zh": "节目围绕美联储加息预期展开讨论。JPMorgan Asset Management的Bob Michele表示，美联储错过10月加息“看起来有点傻”。Tradition Dubai的Steven Major认为美联储会加息，但幅度将不及市场预期。BNP Paribas的Guneet Dhingra则称三次加息是“最低限度”。Bianco Research的Jim Bianco指出，美联储统一传递信息的时代已经结束。英伟达方面，Eurasia Group的Jon Lieber讨论英伟达事件对Lutnick的影响，称其处境“如履薄冰”；Veda Partners的Henrietta Treyz谈论华盛顿围绕英伟达余波的“大解体”；Roubini Macro Associates的Nouriel Roubini认为黄仁勋的退出对美国在AI竞赛中有利；Lyft联合创始人Rajat Suri则认为黄仁勋回归对英伟达将是错误的。此外，Cleo Capital的Sarah Kunst称Anthropic在IPO前仍被高估；Bank of America的Brian Moynihan表示Anthropic的IPO推迟了一些交易，但消费者支出在利率上升的情况下依然强劲；Morgan Stanley Wealth Management的Dan Skelly认为AI支出和采用仍处于早期阶段。",
+      "detail_en": "The program centered on Fed rate hike expectations. Bob Michele of JPMorgan Asset Management said the Fed 'looks a bit silly' for missing an October hike. Steven Major of Tradition Dubai believes the Fed will hike but fall short of market expectations. Guneet Dhingra of BNP Paribas called three hikes the 'bare minimum.' Jim Bianco of Bianco Research said the Fed's era of unified messaging is over. On Nvidia, Jon Lieber of Eurasia Group discussed the fallout putting Lutnick on 'thin ice'; Henrietta Treyz of Veda Partners talked about Washington's 'great unraveling' over the Nvidia fallout; Nouriel Roubini of Roubini Macro Associates said Huang's exit is a boon for the US in the AI race; Rajat Suri, Lyft co-founder, said Huang's return would be wrong for Nvidia. Additionally, Sarah Kunst of Cleo Capital said Anthropic is still overpriced ahead of its IPO; Brian Moynihan of Bank of America said the Anthropic IPO is delaying some deals, but consumer spending remains strong despite higher rates; Dan Skelly of Morgan Stanley Wealth Management said AI spending and adoption are still in early innings.",
+      "conclusion_zh": "市场对美联储加息路径的预期存在分歧，部分观点认为加息幅度可能超出或不及预期，需关注政策信号变化。",
+      "conclusion_en": "Market expectations for the Fed's rate hike path are divided, with some seeing hikes exceeding or falling short of expectations; watch for shifts in policy signals.",
+      "key_points": [
+        {
+          "zh": "Bob Michele称美联储错过10月加息“看起来有点傻”。",
+          "en": "Bob Michele said the Fed 'looks a bit silly' for missing an October hike."
+        },
+        {
+          "zh": "Guneet Dhingra认为三次加息是“最低限度”。",
+          "en": "Guneet Dhingra sees three hikes as the 'bare minimum.'"
+        },
+        {
+          "zh": "Steven Major预计美联储将加息，但幅度不及市场预期。",
+          "en": "Steven Major expects the Fed to hike but fall short of market bets."
+        },
+        {
+          "zh": "Jim Bianco称美联储统一传递信息的时代已经结束。",
+          "en": "Jim Bianco said the Fed's era of unified messaging is over."
+        },
+        {
+          "zh": "Brian Moynihan表示消费者支出在利率上升的情况下依然强劲。",
+          "en": "Brian Moynihan said consumer spending remains strong despite higher rates."
+        }
+      ],
+      "tags": [
+        "Fed",
+        "rate hikes",
+        "Nvidia",
+        "AI",
+        "IPO"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:ppURkFAkG0A",
+      "title": "Passive Money Keeps Coming. AI Stocks Keep Falling. Is Safety the Bubble?",
+      "title_zh": "被动投资与隐性风险：指数机制、防御股高估值与科技敞口膨胀",
+      "url": "https://www.youtube.com/watch?v=ppURkFAkG0A",
+      "published_at": "2026-11-16T16:14:44+00:00",
+      "source_name": "Excess Returns",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech",
+        "other"
+      ],
+      "summary_zh": "本期Weekly Wrap探讨被动投资、防御股高估值和科技敞口变化如何使投资者在未主动决策的情况下承担风险。嘉宾观点涉及指数机制对巨型IPO需求的影响、投资者为感知安全支付过高价格、以及组合在无新买入时集中度上升。讨论还涵盖政治预期变化、AI融资压力对美联储的复杂影响，以及分散化在行为层面的挑战。",
+      "summary_en": "This week's Weekly Wrap explores how passive investing, expensive defensive stocks, and shifting tech exposure can introduce risk into portfolios without explicit decisions. Guests discuss how index mechanics influence demand for giant IPOs, why investors may overpay for perceived safety, and how portfolios can become more concentrated without new purchases. The conversation also covers changing political expectations, AI financing stress complicating the Fed's decisions, and the behavioral challenges of diversification.",
+      "detail_zh": "本期播客汇集了Mike Green、Ben Hunt、Peter Boockvar、Robert Hagstrom、Jim Paulsen、Mike Hunstad、Corey Hoffstein和Adam Butler的观点。Mike Green认为低流通市值的指数纳入机制可能有利于巨型IPO；讨论区分了相对股价压力与市场崩溃预测的不同。Ben Hunt探讨共同知识、选举及政策预期变化。Peter Boockvar讨论美联储的“微调周期”和AI融资成本。Robert Hagstrom以沃尔玛和消费必需品为例，分析投资者为安全支付的价格。Jim Paulsen指出科技敞口可能在未新增购买的情况下增长。Mike Hunstad讨论盈利、资产负债表及与互联网泡沫比较的局限性。Corey Hoffstein和Adam Butler讨论回报 stacking、跟踪误差以及分散化的行为成本。",
+      "detail_en": "The podcast features insights from Mike Green, Ben Hunt, Peter Boockvar, Robert Hagstrom, Jim Paulsen, Mike Hunstad, Corey Hoffstein, and Adam Butler. Mike Green argues that low-float index inclusions can favor giant IPOs; the discussion distinguishes between relative stock price pressure and predictions of a market breakdown. Ben Hunt discusses common knowledge, elections, and changing policy expectations. Peter Boockvar covers the Fed's 'tweaking cycle' and the cost of financing AI. Robert Hagstrom examines Walmart, consumer staples, and the price investors pay for safety. Jim Paulsen notes that tech exposure can grow without new purchases. Mike Hunstad discusses earnings, balance sheets, and the limits of dot-com comparisons. Corey Hoffstein and Adam Butler discuss return stacking, tracking error, and the behavioral cost of diversification.",
+      "conclusion_zh": "投资者应审视被动投资和现有持仓带来的隐性风险，警惕为安全支付过高溢价，并关注科技敞口膨胀及AI融资对宏观政策的潜在影响。",
+      "conclusion_en": "Investors should examine hidden risks from passive investing and existing holdings, be wary of overpaying for safety, and monitor growing tech exposure and AI financing's potential impact on macro policy.",
+      "key_points": [
+        {
+          "zh": "低流通市值的指数纳入机制可能有利于巨型IPO。",
+          "en": "Low-float index inclusions can favor giant IPOs."
+        },
+        {
+          "zh": "投资者可能为感知的安全支付过高价格，例如防御股。",
+          "en": "Investors may overpay for perceived safety, such as defensive stocks."
+        },
+        {
+          "zh": "科技敞口可能在未新增购买的情况下增长，导致组合集中度上升。",
+          "en": "Tech exposure can grow without new purchases, increasing portfolio concentration."
+        },
+        {
+          "zh": "AI融资压力可能使美联储的决策复杂化。",
+          "en": "Stress in AI financing could complicate the Fed's decisions."
+        },
+        {
+          "zh": "分散化在纸面上合理，但在行为上难以坚持。",
+          "en": "Diversification can make sense on paper but is behaviorally difficult to hold."
+        }
+      ],
+      "tags": [
+        "passive investing",
+        "index inclusion",
+        "defensive stocks",
+        "tech exposure",
+        "AI financing"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:_iFcf6uKrX8",
       "title": "From AI to Air Conditioning: The Power Boom in Asia",
@@ -16508,277 +16608,6 @@
       "tickers": [
         "NVDA"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:8b_NFdwvbkw",
-      "title": "Stocks Climb as Buyers Step In Despite Nvidia Woes",
-      "title_zh": "逢低买盘推动美股创4月以来最佳单日表现，油价下跌助力",
-      "url": "https://www.youtube.com/watch?v=8b_NFdwvbkw",
-      "published_at": "2026-11-09T16:53:26+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "新一轮逢低买盘推动美股创下4月以来最佳单日表现，此前科技股抛售曾冲击华尔街；油价下跌也为市场提供支撑。RBC Capital Markets美国股票策略主管Lori Calvasina讨论了市场中的看跌情绪和压缩的估值。",
-      "summary_en": "A renewed wave of dip buying drove stocks toward their best day since April following a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell. Lori Calvasina, Head of US Equity Strategy at RBC Capital Markets, discussed bearish sentiment and compressed equity valuations.",
-      "detail_zh": "美股在经历科技股抛售冲击后，迎来新一轮逢低买盘，推动主要股指迈向自4月以来最佳单日表现。油价下跌同时为市场提供额外支撑。RBC Capital Markets美国股票策略主管Lori Calvasina就市场中的看跌情绪和压缩的估值发表了看法。原文未提供具体指数涨幅、个股或经济数据。",
-      "detail_en": "Stocks rallied toward their best day since April as a renewed wave of dip buying followed a technology selloff that had roiled Wall Street. Falling oil prices also contributed to market gains. Lori Calvasina, Head of US Equity Strategy at RBC Capital Markets, discussed bearish sentiment in the markets and compressed equity valuations. No specific index levels, individual stocks, or economic data were provided.",
-      "conclusion_zh": "市场在科技股抛售后出现逢低买盘，但策略师提及看跌情绪和估值压缩，显示投资者情绪仍偏谨慎。",
-      "conclusion_en": "Dip buying emerged after the tech selloff, but the strategist's mention of bearish sentiment and compressed valuations suggests investor caution remains.",
-      "key_points": [
-        {
-          "zh": "逢低买盘推动美股创4月以来最佳单日表现",
-          "en": "Dip buying drove stocks toward their best day since April"
-        },
-        {
-          "zh": "此前科技股抛售曾冲击华尔街",
-          "en": "A technology selloff had roiled Wall Street prior to the rebound"
-        },
-        {
-          "zh": "油价下跌为市场提供支撑",
-          "en": "Falling oil prices also supported the market"
-        },
-        {
-          "zh": "RBC的Lori Calvasina讨论了市场看跌情绪和压缩的估值",
-          "en": "RBC's Lori Calvasina discussed bearish sentiment and compressed equity valuations"
-        }
-      ],
-      "tags": [
-        "dip buying",
-        "tech selloff",
-        "oil prices",
-        "bearish sentiment",
-        "equity valuations"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:by_7k0EZpdE",
-      "title": "The Economy Is Sending a Surprising Signal? with Mikkel Rosenvold | Macro Mondays",
-      "title_zh": "宏观周一：中期选举、去杠杆事件与地缘谈判",
-      "url": "https://www.youtube.com/watch?v=by_7k0EZpdE",
-      "published_at": "2026-11-09T16:53:14+00:00",
-      "source_name": "Real Vision",
-      "source_kind": "video",
-      "categories": [
-        "politics",
-        "macro"
-      ],
-      "summary_zh": "Real Vision的Macro Mondays讨论了中期选举结果对共和党的打击、上周尾段的大规模去杠杆事件是否见底，以及阿布扎比和深圳即将举行的谈判。主持人认为共和党在年轻白人和未投票选民中失利，但2028年仍可挽回。",
-      "summary_en": "Real Vision's Macro Mondays discussed the midterm election results, the massive deleveraging event at the end of last week and whether it marks a bottom, and upcoming talks in Abu Dhabi and Shenzhen. The host argued Republicans lost young white men and non-voters, but the party can still recover by 2028.",
-      "detail_zh": "主持人Big Osman独自主持本期节目，Andreas因从瓦伦西亚返程缺席。节目首先回顾中期选举：特朗普和共和党遭遇重大失败，众议院丢失37席，参议院也可能失守。主持人指出，37席的损失对于不受欢迎的总统而言虽大但并非史无前例，支持率持平总统通常丢失20-26席。 demographics方面，共和党几乎丢失所有选民群体，尤其是30岁以下年轻白人男性，2024年受Joe Rogan影响投票的特朗普支持者此次未出来投票；而共和党动员了部分少数族裔选民。主持人强调，共和党在 white voters 中仍获胜，但优势仅2-4个百分点，需达到57-58%才能稳赢，4-5%的白人选民翻转仍有可能，因此2028年并非没有希望。关于“德州翻转则共和党永无胜选”的说法，主持人认为美国选举制度天然倾向于两党制，单一政党州在地方层面存在，但全国层面不现实。节目还提及上周尾段的大规模去杠杆事件，讨论是否见底，以及阿布扎比和深圳的谈判。此外，主持人调侃了英伟达CEO黄仁勋的“affair”事件，称英伟达周一可能承压。",
-      "detail_en": "Host Big Osman solo-hosted the show, with Andreas absent while returning from Valencia. The show first reviewed the midterms: Donald Trump and Republicans suffered a major defeat, losing 37 House seats and potentially the Senate. The host noted that a 37-seat loss is large but not unprecedented for an unpopular president; presidents with even approval ratings typically lose 20-26 seats. Demographically, Republicans lost almost every voter group, especially young white men under 30; Trump supporters who voted in 2024 after hearing him on Joe Rogan did not turn out this time, while Republicans mobilized some minority voters. The host stressed that Republicans still won among white voters but by only 2-4 points, needing 57-58% to win comfortably; a 4-5% flip of white voters is still possible, so 2028 is not hopeless. Regarding claims that if Texas flips Republicans will never win again, the host argued the US electoral system is built for a two-party system; single-party states exist locally but not nationally. The show also mentioned the massive deleveraging event at the end of last week, discussing whether it marks a bottom, and upcoming talks in Abu Dhabi and Shenzhen. Additionally, the host joked about Nvidia CEO Jensen Huang's 'affair' news, saying Nvidia may take a beating on Monday.",
-      "conclusion_zh": "中期选举结果对共和党构成重大打击，但白人选民4-5%的翻转空间意味着2028年仍具竞争性；市场方面需关注大规模去杠杆后是否见底及地缘谈判进展。",
-      "conclusion_en": "The midterm results are a major blow to Republicans, but a 4-5% swing among white voters means 2028 remains competitive; on markets, watch whether the massive deleveraging has bottomed and geopolitics talks progress.",
-      "key_points": [
-        {
-          "zh": "共和党在中期选举中丢失众议院37席，参议院也可能失守，但37席的损失对不受欢迎总统而言并非史无前例。",
-          "en": "Republicans lost 37 House seats in the midterms and may lose the Senate, but a 37-seat loss is not unprecedented for an unpopular president."
-        },
-        {
-          "zh": "共和党几乎丢失所有选民群体，尤其是30岁以下年轻白人男性，2024年受Joe Rogan影响投票的特朗普支持者此次未出来投票。",
-          "en": "Republicans lost almost every voter demographic, especially young white men under 30; Trump supporters who voted in 2024 after hearing Joe Rogan did not turn out this time."
-        },
-        {
-          "zh": "共和党在 white voters 中仍获胜但优势仅2-4个百分点，需达到57-58%才能稳赢，4-5%的白人选民翻转仍有可能。",
-          "en": "Republicans still won among white voters but by only 2-4 points, needing 57-58% to win comfortably; a 4-5% flip of white voters is still possible."
-        },
-        {
-          "zh": "主持人认为美国选举制度天然倾向于两党制，全国层面的单一政党州不现实。",
-          "en": "The host argued the US electoral system is built for a two-party system; a single-party state at the national level is unrealistic."
-        },
-        {
-          "zh": "节目讨论了上周尾段的大规模去杠杆事件是否见底，以及阿布扎比和深圳的谈判。",
-          "en": "The show discussed whether the massive deleveraging event at the end of last week marks a bottom, and upcoming talks in Abu Dhabi and Shenzhen."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "deleveraging",
-        "geopolitics",
-        "republicans",
-        "market bottom"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:ayUobSKhvbw",
-      "title": "Nvidia Probe Into CEO's Affair Adds to AI Trade Risks",
-      "title_zh": "英伟达CEO黄仁勋承认婚外情，涉疑似中国间谍争议",
-      "url": "https://www.youtube.com/watch?v=ayUobSKhvbw",
-      "published_at": "2026-11-09T16:51:43+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋于11月8日承认婚外情，变相证实了其与一名被指疑似中国间谍的女性存在恋爱关系的报道，该女性公司曾购买英伟达芯片。彭博新闻高级科技编辑Michael Shepard讨论了这一争议，以及《纽约时报》关于英伟达干预美国对Megaspeed调查的报道。",
-      "summary_en": "Nvidia CEO Jensen Huang admitted to an extramarital affair on Nov. 8, effectively confirming reports linking him romantically to a woman identified as a suspected Chinese spy whose company bought chips from Nvidia. Bloomberg News Senior Technology Editor Michael Shepard discussed the controversy and a New York Times report that Nvidia intervened in the US probe of Megaspeed.",
-      "detail_zh": "英伟达作为全球市值第二高、处于全球AI产业核心的美国芯片制造商，正面临其三十年历史上前所未有的危机。11月8日，首席执行官黄仁勋承认自己在婚姻中不忠，这实际上证实了一系列报道，这些报道将他与一名被指疑似中国间谍的女性联系起来，该女性所在公司曾从英伟达购买芯片。彭博新闻高级科技编辑Michael Shepard讨论了围绕黄仁勋的争议，以及《纽约时报》关于英伟达干预美国对Megaspeed调查的报道。",
-      "detail_en": "Nvidia, the world's second-most valuable company and the US chipmaker at the heart of the global AI industry, is facing a crisis unlike any other in its three-decade history. On Nov. 8, CEO Jensen Huang admitted he had been unfaithful in his marriage, effectively confirming a series of reports linking him romantically with a woman identified as a suspected Chinese spy and whose company bought chips from Nvidia. Michael Shepard, Bloomberg News Senior Technology Editor, discussed the controversy surrounding Jensen Huang as well as news from the New York Times that Nvidia intervened in the US probe of Megaspeed.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达CEO黄仁勋11月8日承认婚外情，变相证实了其与一名疑似中国间谍女性的恋爱关系报道。",
-          "en": "Nvidia CEO Jensen Huang admitted to an extramarital affair on Nov. 8, effectively confirming reports of a romantic link to a woman identified as a suspected Chinese spy."
-        },
-        {
-          "zh": "该女性所在公司曾从英伟达购买芯片。",
-          "en": "The woman's company bought chips from Nvidia."
-        },
-        {
-          "zh": "《纽约时报》报道称英伟达干预了美国对Megaspeed的调查。",
-          "en": "The New York Times reported that Nvidia intervened in the US probe of Megaspeed."
-        },
-        {
-          "zh": "彭博新闻高级科技编辑Michael Shepard讨论了这一争议及相关报道。",
-          "en": "Michael Shepard, Bloomberg News Senior Technology Editor, discussed the controversy and related reports."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "controversy",
-        "China",
-        "Megaspeed"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:_Ynpt5RVvTs",
-      "title": "Ann Berry on the Importance of Learning AI",
-      "title_zh": "Threadneedle创始人谈职业路径与AI早期投资",
-      "url": "https://www.youtube.com/watch?v=_Ynpt5RVvTs",
-      "published_at": "2026-11-09T16:51:18+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Bloomberg访谈中，Threadneedle创始人Ann Berry分享了她从高盛并购和私募股权转向经营酒店服务公司并度过疫情的经历，以及她在AI和深度伪造检测领域的早期投资，并探讨了不断扩大的IPO市场。",
-      "summary_en": "In a Bloomberg interview, Ann Berry, founder and managing partner of Threadneedle, discusses her career path from Goldman Sachs M&A and private equity to running a hospitality services company through the pandemic, her early-stage bets on AI and deepfake detection, and surveying the expanding IPO landscape.",
-      "detail_zh": "Barry与Threadneedle创始人兼管理合伙人Ann Berry进行对话。Berry回顾了她从高盛并购和私募股权领域转向运营一家酒店服务公司，并带领公司度过疫情的经历。她还介绍了自己在人工智能和深度伪造检测方面的早期投资。此外，双方讨论了不断扩大的IPO市场格局。",
-      "detail_en": "Barry speaks with Ann Berry, founder and managing partner of Threadneedle. Berry reflects on her path from Goldman Sachs M&A and private equity to running a hospitality services company through the pandemic. She also discusses her early-stage bets on AI and deepfake detection. Additionally, they survey the expanding IPO landscape.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Ann Berry是Threadneedle的创始人兼管理合伙人。",
-          "en": "Ann Berry is the founder and managing partner of Threadneedle."
-        },
-        {
-          "zh": "她曾任职于高盛并购和私募股权部门。",
-          "en": "She previously worked in Goldman Sachs M&A and private equity."
-        },
-        {
-          "zh": "她曾经营一家酒店服务公司并度过疫情。",
-          "en": "She ran a hospitality services company through the pandemic."
-        },
-        {
-          "zh": "她在AI和深度伪造检测领域有早期投资。",
-          "en": "She has early-stage bets on AI and deepfake detection."
-        },
-        {
-          "zh": "对话涉及不断扩大的IPO市场。",
-          "en": "The discussion covers the expanding IPO landscape."
-        }
-      ],
-      "tags": [
-        "IPO",
-        "AI",
-        "deepfake",
-        "private equity",
-        "hospitality"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:dEnnLCt993Y",
-      "title": "Anatomy of a Selloff: Sudden Chain Reaction Rattles Wall Street",
-      "title_zh": "中期选举后美股单日蒸发3.7万亿美元",
-      "url": "https://www.youtube.com/watch?v=dEnnLCt993Y",
-      "published_at": "2026-11-09T16:50:33+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "中期选举后华尔街遭遇抛售，美国股市单日市值蒸发3.7万亿美元。Justina Lee在Bloomberg Television上解释了引发这轮暴跌的连锁反应。",
-      "summary_en": "Wall Street was hit by a selloff after the midterm elections, wiping out $3.7 trillion in US market value in a single day. Justina Lee explained the chain reaction that fueled the rout on Bloomberg Television.",
-      "detail_zh": "中期选举后，华尔街出现抛售行情，美国股市在一天之内市值蒸发3.7万亿美元。Bloomberg的Justina Lee在Bloomberg Television上解释了推动这轮暴跌的连锁反应。原文未披露具体触发因素、板块表现或个股细节，也未提供后续市场走势的判断。",
-      "detail_en": "Following the midterm elections, Wall Street experienced a selloff that erased $3.7 trillion in US market value in a single day. Justina Lee of Bloomberg explained on Bloomberg Television the chain reaction that drove the rout. The source does not disclose specific triggers, sector performance, individual stock details, or forward-looking market views.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中期选举后美股遭遇抛售，单日市值蒸发3.7万亿美元。",
-          "en": "US stocks sold off after the midterm elections, wiping out $3.7 trillion in market value in a single day."
-        },
-        {
-          "zh": "Justina Lee在Bloomberg Television上解释了引发暴跌的连锁反应。",
-          "en": "Justina Lee explained on Bloomberg Television the chain reaction that fueled the rout."
-        },
-        {
-          "zh": "原文未提供具体触发因素、板块或个股细节。",
-          "en": "The source does not provide specific triggers, sector or individual stock details."
-        }
-      ],
-      "tags": [
-        "midterm elections",
-        "selloff",
-        "market value",
-        "chain reaction"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:zRX1QPtxTBo",
-      "title": "Oil Prices Lower on Trump's New Iran Comments",
-      "title_zh": "特朗普称伊朗若达成协议则极不可能遭大规模打击，油价应声下跌",
-      "url": "https://www.youtube.com/watch?v=zRX1QPtxTBo",
-      "published_at": "2026-11-09T16:36:15+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普周日对CNN表示，若伊朗签署非常强有力的协议，则对其大规模打击的可能性极低。此番言论足以令油价走低。",
-      "summary_en": "President Donald Trump said extensive strikes on Iran are highly unlikely if the country signs a very strong deal, in comments to CNN on Sunday. The remarks were enough to push oil prices lower.",
-      "detail_zh": "特朗普周日接受CNN采访时表示，如果伊朗签署一项非常强有力的协议，美国对其发动大规模打击的可能性极低。彭博的Tyler Kendall指出，仅这一表态就足以推动油价下跌。原文未提供油价具体跌幅、协议内容细节或市场其他反应。",
-      "detail_en": "In an interview with CNN on Sunday, President Donald Trump said extensive strikes on Iran are highly unlikely if the country signs a very strong deal. Bloomberg's Tyler Kendall noted that the remarks alone were enough to move oil prices lower. The source does not provide specific oil price declines, details of the deal, or other market reactions.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普称伊朗若签强有力协议，则大规模打击极不可能",
-          "en": "Trump says extensive strikes on Iran are highly unlikely if a very strong deal is signed"
-        },
-        {
-          "zh": "该言论足以令油价走低",
-          "en": "The remarks were enough to move oil prices lower"
-        },
-        {
-          "zh": "特朗普是周日对CNN发表上述言论的",
-          "en": "Trump made the comments to CNN on Sunday"
-        }
-      ],
-      "tags": [
-        "Iran",
-        "oil",
-        "Trump",
-        "geopolitics"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
