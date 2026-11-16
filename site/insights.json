@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-11-16T19:12:15.352238+00:00",
+  "generated_at": "2026-11-16T20:13:36.145448+00:00",
   "insights": [
+    {
+      "guid": "yt:MCS_RorrWvU",
+      "title": "Midterms and AI in focus at 2027 Forum | Market take",
+      "title_zh": "贝莱德论坛辩论：AI投资热潮下谁将受益",
+      "url": "https://www.youtube.com/watch?v=MCS_RorrWvU",
+      "published_at": "2026-11-16T19:53:24+00:00",
+      "source_name": "BlackRock",
+      "source_kind": "video",
+      "categories": [
+        "tech",
+        "macro"
+      ],
+      "summary_zh": "贝莱德投资研究院在2027年展望论坛上辩论AI需求能否支撑当前投资规模、企业采用速度以及最终受益者。首席投资策略师Roelof Salomons在Market Take中对此进行阐述。",
+      "summary_en": "The BlackRock Investment Institute debated at its 2027 Outlook Forum whether AI demand can justify the scale of investment, how quickly businesses will adopt the technology, and who will ultimately capture the gains. Chief Investment Strategist Roelof Salomons explains more in Market Take.",
+      "detail_zh": "贝莱德指出，AI投资一直是增长、盈利和市场回报的强大驱动力。在2027年展望论坛上，与会者围绕三个核心问题展开辩论：AI需求能否证明当前投资规模的合理性、企业将以多快速度采用该技术，以及谁将最终捕获收益。贝莱德投资研究院荷兰及北欧首席投资策略师Roelof Salomons在当周Market Take中对此进行了进一步解释。原文未给出辩论的具体结论或数据。",
+      "detail_en": "BlackRock notes that AI investment has been a powerful driver of growth, earnings and market returns. At its 2027 Outlook Forum, participants debated three core questions: whether demand for AI can justify the scale of investment, how quickly businesses will adopt the technology, and who will ultimately capture the gains. Roelof Salomons, Chief Investment Strategist for the Netherlands and the Nordics at the BlackRock Investment Institute, explains more in that week's Market Take. The original text does not provide specific conclusions or data from the debate.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "AI投资是增长、盈利和市场回报的强大驱动力",
+          "en": "AI investment has been a powerful driver of growth, earnings and market returns"
+        },
+        {
+          "zh": "论坛辩论核心：AI需求能否证明投资规模的合理性",
+          "en": "Core debate: whether AI demand can justify the scale of investment"
+        },
+        {
+          "zh": "论坛辩论核心：企业采用AI技术的速度",
+          "en": "Core debate: how quickly businesses will adopt AI technology"
+        },
+        {
+          "zh": "论坛辩论核心：谁将最终捕获AI带来的收益",
+          "en": "Core debate: who will ultimately capture the gains from AI"
+        }
+      ],
+      "tags": [
+        "AI investment",
+        "BlackRock",
+        "Outlook Forum",
+        "market returns"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Bfqtb43iAKw",
+      "title": "What to Watch for in Nvidia Earnings",
+      "title_zh": "英伟达财报电话会由临时CEO Kress主持，黄仁勋缺席",
+      "url": "https://www.youtube.com/watch?v=Bfqtb43iAKw",
+      "published_at": "2026-11-16T19:32:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达即将发布财报，但CEO黄仁勋不在，由临时CEO Colette Kress领导电话会。Kress将面临公司方向、政治与诉讼风险的问题。",
+      "summary_en": "Nvidia is about to report earnings without CEO Jensen Huang at the helm; interim CEO Colette Kress will lead the call and face questions on direction, political and litigation risks.",
+      "detail_zh": "据彭博社Ed Ludlow报道，英伟达即将公布财报，但公司CEO黄仁勋不会主持本次财报电话会。临时CEO Colette Kress将领导电话会，她预计将面临关于公司发展方向、以及如何应对政治与诉讼风险的问题。报道未提供更多关于财报预期或具体风险细节。",
+      "detail_en": "According to Bloomberg's Ed Ludlow, Nvidia is about to report earnings, but CEO Jensen Huang will not lead the earnings call. Interim CEO Colette Kress will lead the call and is expected to face questions about the direction she is taking the company and how she will handle political and litigation risks. The report does not provide further details on earnings expectations or specific risks.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "英伟达即将发布财报，但CEO黄仁勋缺席电话会。",
+          "en": "Nvidia is about to report earnings, but CEO Jensen Huang is absent from the call."
+        },
+        {
+          "zh": "临时CEO Colette Kress将主持电话会。",
+          "en": "Interim CEO Colette Kress will lead the call."
+        },
+        {
+          "zh": "Kress预计将面临公司方向、政治与诉讼风险的问题。",
+          "en": "Kress is expected to face questions on company direction, political and litigation risks."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "earnings",
+        "management",
+        "risk"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:j1-NeUd1fJs",
+      "title": "Will a Train Disaster Shift Spain Right?",
+      "title_zh": "西班牙铁路事故冲击选情，右翼势力或增强",
+      "url": "https://www.youtube.com/watch?v=j1-NeUd1fJs",
+      "published_at": "2026-11-16T19:16:18+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "西班牙致命铁路事故导致交通部长辞职，使首相桑切斯在提前大选中处于守势，民调显示社会党落后于人民党和Vox党，西班牙政治可能右转。拉美政治人物米莱和卢拉的意识形态对立也介入西班牙选举。",
+      "summary_en": "A deadly rail crash in Spain has forced the transport minister to resign and put Prime Minister Sánchez on the defensive ahead of the snap election. Polls show the Socialists trailing the conservative People's Party and far-right Vox, raising the odds of a rightward shift. Latin American political rivals Milei and Lula have also weighed in on the election.",
+      "detail_zh": "西班牙发生致命铁路事故，造成69人死亡，交通部长因此辞职。这一事件使首相桑切斯在11月29日提前大选前处于守势，焦点从住房问题转向国家疏忽的指控。民调显示，社会党落后于保守的人民党和极右翼Vox党，选举结果可能推动西班牙政治右转。此外，阿根廷总统米莱和巴西总统卢拉之间的意识形态竞争也在西班牙选举中上演，使选举成为不同意识形态的战场。桑切斯能否像卢拉上月那样实现奇迹般的逆转，还是其近十年执政后即将结束，成为关注焦点。",
+      "detail_en": "A deadly rail crash in Spain killed 69 people and led to the resignation of the transport minister. The disaster has put Prime Minister Pedro Sánchez on the defensive ahead of the November 29 snap election, shifting focus from housing to allegations of state negligence. Polls show the Socialists trailing the conservative People's Party and far-right Vox, threatening to push Spain rightward. Additionally, the ideological rivalry between Argentina's Javier Milei and Brazil's President Luiz Inácio Lula da Silva is playing out in Spain, making the election a battle of competing ideologies. At stake is whether Sánchez can pull off a comeback like Lula did last month or whether his time is up after almost a decade in power.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "铁路事故造成69人死亡，交通部长辞职，首相桑切斯因基础设施疏忽指控而处于守势。",
+          "en": "The rail crash killed 69 people and led to the transport minister's resignation, putting PM Sánchez on the defensive over infrastructure neglect allegations."
+        },
+        {
+          "zh": "民调显示社会党落后于保守的人民党和极右翼Vox党，西班牙政治可能右转。",
+          "en": "Polls show the Socialists trailing the conservative People's Party and far-right Vox, raising the odds of a rightward shift in Spain."
+        },
+        {
+          "zh": "阿根廷总统米莱和巴西总统卢拉的意识形态对立介入西班牙选举，使选举成为意识形态战场。",
+          "en": "The ideological rivalry between Argentina's Milei and Brazil's Lula is playing out in Spain's election, turning it into a battle of ideologies."
+        },
+        {
+          "zh": "选举结果将决定桑切斯能否像卢拉那样实现逆转，还是其近十年执政即将结束。",
+          "en": "The election outcome will determine whether Sánchez can pull off a comeback like Lula's or whether his near-decade in power is coming to an end."
+        }
+      ],
+      "tags": [
+        "Spain election",
+        "rail crash",
+        "Sánchez",
+        "rightward shift",
+        "Latin America influence"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:rPcYGUv21H4",
       "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
@@ -16787,46 +16919,6 @@
       "tickers": [
         "NVDA"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:PiwueVmx6uE",
-      "title": "Big Take: From ‘Vibecession’ to ‘Shrugflation’",
-      "title_zh": "美联储维持利率不变前，消费者支出与信心的背离",
-      "url": "https://www.youtube.com/watch?v=PiwueVmx6uE",
-      "published_at": "2026-11-09T20:00:08+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "在美联储本周决定维持利率不变之前，Sarah Holder与作家兼经济评论员Kyla Scanlon讨论了消费者支出与消费者信心不相等时会发生什么。",
-      "summary_en": "Ahead of the Federal Reserve's decision to hold rates steady this week, Sarah Holder spoke with author and economic commentator Kyla Scanlon about what happens when consumer spending doesn't equal consumer confidence.",
-      "detail_zh": "原文仅提及美联储本周将维持利率不变，以及Sarah Holder与Kyla Scanlon的对话主题是消费者支出与消费者信心不相等时的情形。未提供具体数据、观点细节或市场影响分析。",
-      "detail_en": "The original text only mentions that the Federal Reserve will hold rates steady this week and that Sarah Holder's conversation with Kyla Scanlon focuses on what happens when consumer spending doesn't equal consumer confidence. No specific data, detailed views, or market impact analysis are provided.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "美联储本周决定维持利率不变。",
-          "en": "The Federal Reserve decided to hold rates steady this week."
-        },
-        {
-          "zh": "对话主题是消费者支出与消费者信心不相等时的情形。",
-          "en": "The conversation topic is what happens when consumer spending doesn't equal consumer confidence."
-        },
-        {
-          "zh": "嘉宾为作家兼经济评论员Kyla Scanlon。",
-          "en": "The guest is author and economic commentator Kyla Scanlon."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "consumer spending",
-        "consumer confidence",
-        "rates"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
