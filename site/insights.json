@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-11-16T11:14:16.231617+00:00",
+  "generated_at": "2026-11-16T12:24:04.324430+00:00",
   "insights": [
+    {
+      "guid": "yt:z9jG1QZGPK8",
+      "title": "Nvidia’s CEO Search Draws Fire; ‘Max Overweight’ on Stocks",
+      "title_zh": "英伟达CEO变动引发压力，摩根士丹利建议超配全球股票",
+      "url": "https://www.youtube.com/watch?v=z9jG1QZGPK8",
+      "published_at": "2026-11-16T11:01:52+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达在罢免Jensen Huang后面临美国财长Bessent要求领导层“大换血”并澄清出口合规的压力，亚洲科技股下跌。摩根士丹利策略师以AI资本支出周期完好为由，建议“最大超配”全球股票。",
+      "summary_en": "Nvidia faces mounting pressure after ousting Jensen Huang as CEO, with Treasury Secretary Bessent urging a 'dramatic' leadership shakeup and clarity on export compliance, while Asian tech stocks slid. Morgan Stanley strategists recommended a 'max overweight' in global stocks, citing an intact AI capex cycle.",
+      "detail_zh": "英伟达在罢免Jensen Huang首席执行官职务数日后压力持续上升。美国财政部长Scott Bessent敦促公司进行“戏剧性”的领导层调整，并就其旗舰AI芯片的出口管制合规情况作出澄清。受英伟达相关担忧影响，亚洲科技股走低。摩根士丹利策略师建议对全球股票采取“最大超配”立场，理由是AI资本支出周期完好，将把富有韧性的经济增长和盈利增长延续至明年。节目还讨论了Anthropic IPO与AI变现问题、中国数据疲软引发的刺激疑问、伊朗紧张局势与油价及原油过剩风险、美联储会议纪要及债券市场波动等议题。",
+      "detail_en": "Pressure is mounting on Nvidia days after it ousted Jensen Huang as CEO. Treasury Secretary Scott Bessent urged the company to make a 'dramatic' leadership shakeup and come clean about its compliance with export controls on its prized AI chips. Asian tech stocks slid as Nvidia concerns grew. Morgan Stanley strategists recommended a 'max overweight' position in global stocks, citing an intact AI capital spending cycle that will extend resilient economic and earnings growth into next year. The program also discussed Anthropic's IPO and AI monetization, weak China data raising questions over stimulus, Iran tensions and oil prices with the risk of a crude glut, and Fed minutes, higher yields and the bond market.",
+      "conclusion_zh": "英伟达领导层动荡与出口合规压力构成短期风险，但摩根士丹利认为AI资本支出周期完好，建议超配全球股票，投资者需权衡AI叙事与治理风险。",
+      "conclusion_en": "Nvidia's leadership turmoil and export compliance pressure pose near-term risks, but Morgan Stanley sees an intact AI capex cycle and recommends overweight global stocks; investors must weigh the AI narrative against governance risk.",
+      "key_points": [
+        {
+          "zh": "美国财长Bessent敦促英伟达进行“戏剧性”领导层调整，并澄清AI芯片出口管制合规情况。",
+          "en": "Treasury Secretary Bessent urged Nvidia to make a 'dramatic' leadership shakeup and clarify compliance with AI chip export controls."
+        },
+        {
+          "zh": "英伟达罢免Jensen Huang CEO职务后，公司面临的压力持续上升。",
+          "en": "Pressure is mounting on Nvidia days after it ousted Jensen Huang as CEO."
+        },
+        {
+          "zh": "摩根士丹利策略师建议“最大超配”全球股票，理由是AI资本支出周期完好。",
+          "en": "Morgan Stanley strategists recommended a 'max overweight' in global stocks, citing an intact AI capex cycle."
+        },
+        {
+          "zh": "受英伟达担忧影响，亚洲科技股下跌。",
+          "en": "Asian tech stocks slid as Nvidia concerns grew."
+        },
+        {
+          "zh": "节目还关注Anthropic IPO、中国疲软数据、伊朗紧张局势与油价、美联储纪要及债券市场波动。",
+          "en": "The program also focused on Anthropic's IPO, weak China data, Iran tensions and oil prices, Fed minutes and bond market volatility."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI capex",
+        "leadership shakeup",
+        "export controls",
+        "Morgan Stanley"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:iLodCKM-u64",
+      "title": "Trump, Xi, Putin To Meet as Jensen Huang Reportedly Eyes Nvidia Comeback",
+      "title_zh": "英伟达CEO变动引发压力，科技股抛售延续",
+      "url": "https://www.youtube.com/watch?v=iLodCKM-u64",
+      "published_at": "2026-11-16T11:00:08+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达在罢免CEO黄仁勋后面临压力，美国财长贝森特呼吁公司进行“戏剧性”的领导层调整并说明出口管制合规情况。科技股抛售延续至新一周，交易员在英伟达关键财报和Anthropic预期上市前回避风险。",
+      "summary_en": "Nvidia is under pressure after ousting CEO Jensen Huang, with Treasury Secretary Scott Bessent urging a 'dramatic' leadership shakeup and clarity on export control compliance. A tech selloff carried into a new week as traders shunned risky bets ahead of Nvidia's high-stakes earnings and Anthropic's expected market debut.",
+      "detail_zh": "英伟达在罢免CEO黄仁勋数日后压力持续上升。美国财长斯科特·贝森特敦促该公司进行“戏剧性”的领导层调整，并就其重要AI芯片的出口管制合规情况作出坦白说明。贝森特发表评论数小时后，英国《金融时报》报道称，被罢免的CEO黄仁勋一直在讨论回归这家他三十多年前共同创立的公司的想法。科技股抛售延续至新一周，交易员在英伟达关键财报和Anthropic预期上市前回避风险押注。报道称，Anthropic及其部分支持者寻求通过股票发行和另一项私募配售筹集高达904亿美元。此外，唐纳德·特朗普即将出席与习近平和普京的前所未有峰会，但他在国内政治上被削弱，尽管可能更渴望在国外展示力量。近几周他遭受双重打击：共和党在美国中期选举中惨败，以及导致黄仁勋失去工作的丑闻。",
+      "detail_en": "Pressure is mounting on Nvidia days after it ousted CEO Jensen Huang. Treasury Secretary Scott Bessent urged the company to make a 'dramatic' leadership shakeup and come clean about its compliance with export controls on its prized AI chips. Hours after Bessent's comments, the Financial Times reported that ousted CEO Jensen Huang has been discussing the idea of returning to the company he co-founded more than three decades ago. A selloff in technology stocks carried into a new week as traders shunned risky bets ahead of Nvidia's high-stakes earnings and Anthropic's expected market debut. Anthropic and some of its backers are seeking to raise as much as $90.4 billion in the share sale and a separate private placement. Donald Trump is arriving at an unprecedented summit meeting with Xi Jinping and Vladimir Putin politically weakened at home, yet perhaps even more eager to flex his power abroad. He has suffered twin blows in recent weeks: Republicans' crippling defeats in the US midterm elections and the scandal that cost Jensen Huang his job.",
+      "conclusion_zh": "英伟达领导层动荡与出口管制合规压力叠加，科技股风险偏好受抑，投资者需关注英伟达财报及Anthropic上市对市场情绪的进一步影响。",
+      "conclusion_en": "Nvidia's leadership turmoil and export control compliance pressure weigh on tech risk appetite; investors should watch Nvidia's earnings and Anthropic's IPO for further market sentiment impact.",
+      "key_points": [
+        {
+          "zh": "美国财长贝森特敦促英伟达进行“戏剧性”领导层调整，并说明出口管制合规情况。",
+          "en": "Treasury Secretary Bessent urged Nvidia to make a 'dramatic' leadership shakeup and clarify export control compliance."
+        },
+        {
+          "zh": "英国《金融时报》报道，被罢免的CEO黄仁勋正讨论回归英伟达的可能性。",
+          "en": "The Financial Times reported that ousted CEO Jensen Huang is discussing a potential return to Nvidia."
+        },
+        {
+          "zh": "科技股抛售延续，交易员在英伟达关键财报和Anthropic预期上市前回避风险。",
+          "en": "Tech selloff continued as traders shunned risk ahead of Nvidia's high-stakes earnings and Anthropic's expected debut."
+        },
+        {
+          "zh": "Anthropic及其部分支持者寻求通过股票发行和私募配售筹集高达904亿美元。",
+          "en": "Anthropic and some backers seek to raise as much as $90.4 billion via share sale and private placement."
+        },
+        {
+          "zh": "特朗普在中期选举受挫和黄仁勋丑闻后，以国内政治弱势姿态出席与习近平和普京的峰会。",
+          "en": "Trump arrives at Xi-Putin summit politically weakened at home after midterm defeats and the scandal that cost Jensen Huang his job."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "CEO shakeup",
+        "tech selloff",
+        "Anthropic IPO",
+        "export controls"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:3jyrFijrX8A",
       "title": "What to Expect From Trump’s Trip to Asia",
@@ -16970,210 +17070,6 @@
         "Fed",
         "growth divergence",
         "income strategy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:INLLXfQzhaw",
-      "title": "Democrats Risk Misreading Midterm Landslide, Trubowitz Says",
-      "title_zh": "民主党中期选举大胜对特朗普与华盛顿权力格局的影响",
-      "url": "https://www.youtube.com/watch?v=INLLXfQzhaw",
-      "published_at": "2026-11-09T12:09:01+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "芝加哥全球事务委员会CEO Leslie Vinjamuri与伦敦政治经济学院国际关系教授Peter Trubowitz讨论民主党中期选举大胜对特朗普总统及华盛顿权力平衡的意义。他们分析了民主党过度聚焦调查的风险、在可负担性议题上兑现承诺的压力、特朗普的遗产议程，以及AI监管为何可能在2028年大选前成为重大议题。",
-      "summary_en": "Leslie Vinjamuri, CEO of the Chicago Council on Global Affairs, and Peter Trubowitz, Professor of International Relations at the London School of Economics, discuss what the Democrats' midterm landslide means for President Donald Trump and the balance of power in Washington. They examine the risks of Democrats focusing too heavily on investigations, the pressure to deliver on affordability, Trump's legacy agenda, and why AI regulation could emerge as a major issue ahead of the 2028 election.",
-      "detail_zh": "在Bloomberg Television的《The Pulse with Francine Lacqua》节目中，芝加哥全球事务委员会CEO Leslie Vinjamuri与伦敦政治经济学院国际关系教授Peter Trubowitz探讨了民主党中期选举大胜对特朗普总统及华盛顿权力平衡的影响。讨论涉及民主党过度聚焦调查的风险、在可负担性议题上兑现承诺的压力、特朗普的遗产议程，以及AI监管为何可能在2028年大选前成为重大议题。",
-      "detail_en": "On Bloomberg Television's \"The Pulse with Francine Lacqua,\" Leslie Vinjamuri, CEO of the Chicago Council on Global Affairs, and Peter Trubowitz, Professor of International Relations at the London School of Economics, discussed the implications of the Democrats' midterm landslide for President Donald Trump and the balance of power in Washington. The conversation covered the risks of Democrats focusing too heavily on investigations, the pressure to deliver on affordability, Trump's legacy agenda, and why AI regulation could emerge as a major issue ahead of the 2028 election.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "民主党中期选举大胜，讨论其对特朗普和华盛顿权力平衡的影响。",
-          "en": "Democrats' midterm landslide and its implications for Trump and the balance of power in Washington."
-        },
-        {
-          "zh": "民主党过度聚焦调查的风险。",
-          "en": "Risks of Democrats focusing too heavily on investigations."
-        },
-        {
-          "zh": "在可负担性议题上兑现承诺的压力。",
-          "en": "Pressure to deliver on affordability."
-        },
-        {
-          "zh": "特朗普的遗产议程。",
-          "en": "Trump's legacy agenda."
-        },
-        {
-          "zh": "AI监管可能在2028年大选前成为重大议题。",
-          "en": "AI regulation could emerge as a major issue ahead of the 2028 election."
-        }
-      ],
-      "tags": [
-        "midterms",
-        "Trump",
-        "Democrats",
-        "AI regulation",
-        "2028 election"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4964995",
-      "title": "Will The 'Godfather Of AI' Be Replaced?",
-      "title_zh": "英伟达CEO黄仁勋承认婚外情，董事会启动调查",
-      "url": "https://seekingalpha.com/article/4964995-will-the-godfather-of-ai-be-replaced?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-09T12:00:52+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "politics"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋承认婚外情，涉事女性被指与中国情报机构有关联，董事会已成立独立委员会调查。英伟达股价盘前下跌超5%，市值在周四科技股大跌中蒸发近5000亿美元。事件为英伟达对华芯片出口争论增添了国家安全维度。",
-      "summary_en": "Nvidia CEO Jensen Huang admitted to an affair with a woman reportedly identified by U.S. officials as working for Chinese intelligence. Nvidia's board has formed an independent committee to investigate. Shares fell over 5% premarket after losing nearly half a trillion dollars in market value during Thursday's tech selloff. The disclosures add a national security dimension to the debate over Nvidia's China access.",
-      "detail_zh": "英伟达（NVDA）在周四科技股大跌中市值蒸发近5000亿美元，随后一个交易日部分收复失地，但今晨抛压再现，盘前股价下跌超5%至176美元。此次下跌并非源于广泛的AI担忧，而是公司内部动荡。周日晚间，CEO黄仁勋承认婚外情，报道指涉事女性名为Alice Huang（又名黄乐），美国官员称其为中国情报机构工作。Alice Huang曾任中国电视台记者，后成为新加坡公司Megaspeed的高管，该公司运营容纳计算机系统的设施。《纽约时报》率先报道了这起涉嫌情报活动的事件，称Megaspeed在两年内购买了超过48亿美元的英伟达芯片。该报还披露，在商务部调查该客户是否协助将受限AI芯片转移至中国后，英伟达仍继续向Megaspeed销售。这些披露为英伟达对华准入争论增添了国家安全维度。黄仁勋主张允许出口前几代先进AI芯片，同时保留最新技术。英伟达已成立由独立董事组成的委员会，并聘请外部独立律师协助监督调查。黄仁勋将在调查期间继续担任CEO，且不太可能辞职，尤其是考虑到投资界和美国政治领导层的支持——前提是他能证明自己是被蒙骗的，且未出现向董事隐瞒重要信息或误导董事会等严重情况。另一种可能是黄仁勋辞去CEO但转任执行主席，以保持其工程和AI路线图完整，同时继续掌控公司。",
-      "detail_en": "Nvidia (NVDA) lost nearly half a trillion dollars in market value during Thursday's tech wreck and pared some losses in the subsequent session, but renewed selling pressure returned this morning with shares down over 5% to $176 in premarket trade. The decline is not due to widespread AI fears but internal turmoil. On Sunday night, CEO Jensen Huang admitted to an affair with a woman named Alice Huang (also known as Huang Le), whom U.S. officials reportedly identified as working for Chinese intelligence. Alice Huang formerly worked as a television reporter in China before becoming an executive at Megaspeed, a Singapore-based company that operates facilities housing computer systems. The New York Times, which broke the story, reported that Megaspeed purchased more than $4.8B in Nvidia chips over two years. The company also continued selling to Megaspeed after the newspaper disclosed a Commerce Department investigation into whether the customer was helping move restricted AI chips into China. The disclosures add a national security dimension to the debate over Nvidia's access to China. Huang has advocated allowing exports of earlier generations of advanced AI chips while withholding the newest technology. Nvidia has formed a committee of independent directors, assisted by outside independent counsel, to oversee an investigation. Huang will remain chief executive during the probe, and it's unlikely he will step down, especially with support from the investing world and American political leadership—as long as he can prove he was duped and barring serious developments like withholding important information from directors or misleading the board. Another alternative might see Huang resign as CEO but transition into an executive chairman role to keep his engineering and AI roadmap intact while retaining his grip on the helm.",
-      "conclusion_zh": "英伟达CEO调查事件叠加国家安全疑虑，短期对股价构成压力，投资者需关注调查进展及对华出口政策风险。",
-      "conclusion_en": "The CEO investigation combined with national security concerns poses near-term pressure on Nvidia shares; investors should watch probe developments and China export policy risks.",
-      "key_points": [
-        {
-          "zh": "英伟达CEO黄仁勋承认婚外情，涉事女性Alice Huang被美国官员指为中国情报机构工作。",
-          "en": "Nvidia CEO Jensen Huang admitted to an affair with Alice Huang, whom U.S. officials reportedly identified as working for Chinese intelligence."
-        },
-        {
-          "zh": "英伟达董事会成立独立委员会调查此事，黄仁勋在调查期间继续担任CEO。",
-          "en": "Nvidia's board formed an independent committee to investigate; Huang remains CEO during the probe."
-        },
-        {
-          "zh": "英伟达股价盘前下跌超5%至176美元，此前周四科技股大跌中市值蒸发近5000亿美元。",
-          "en": "Nvidia shares fell over 5% premarket to $176 after losing nearly half a trillion dollars in market value during Thursday's tech selloff."
-        },
-        {
-          "zh": "Megaspeed在两年内购买超48亿美元英伟达芯片，且在商务部调查披露后英伟达仍继续向其销售。",
-          "en": "Megaspeed purchased over $4.8B in Nvidia chips over two years, and Nvidia continued selling to it after a Commerce Department investigation was disclosed."
-        },
-        {
-          "zh": "事件为英伟达对华芯片出口争论增添国家安全维度，黄仁勋主张允许出口前几代AI芯片。",
-          "en": "The disclosures add a national security dimension to the debate over Nvidia's China access; Huang advocates allowing exports of earlier-generation AI chips."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "CEO investigation",
-        "China",
-        "national security",
-        "AI chips"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "4964991",
-      "title": "Wall Street Breakfast Podcast: The Spy Who Loved Nvidia",
-      "title_zh": "英伟达董事会启动独立调查，NASA公布百亿美元月球合同，核能股大涨",
-      "url": "https://seekingalpha.com/article/4964991-wall-street-breakfast-podcast-the-spy-who-loved-nvidia?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-09T11:30:00+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "politics",
-        "other"
-      ],
-      "summary_zh": "英伟达董事会就CEO黄仁勋涉嫌与一名中国情报相关高管有牵连一事启动独立调查，董事会表示未发现国家安全或公司机密受损的证据，黄仁勋将继续担任CEO并配合调查。NASA公布100亿美元商业月球交付框架，八家公司入选。核能股周五因AI电力需求及Oklo、NuScale业绩而大涨，但部分涨幅可能源于前期下跌后的逢低买入。",
-      "summary_en": "Nvidia's board launched an independent investigation into CEO Jensen Huang's alleged involvement with a Chinese intelligence-linked executive, stating no evidence of compromised national security or company secrets and that Huang remains CEO and is cooperating. NASA announced a $10B commercial lunar delivery framework with eight eligible companies. Nuclear stocks surged Friday on AI-driven power demand and Oklo/NuScale results, though gains may partly reflect bargain hunting after prior declines.",
-      "detail_zh": "英伟达（NVDA）盘前下跌近5%，此前董事会周日表示已启动独立调查，起因是有报道称联合创始人兼CEO黄仁勋成为外国情报行动的目标。由独立董事组成的委员会将在外部律师协助下监督调查。董事会表达了对黄仁勋及其领导团队的信心，称其支持调查并同意配合。董事会声明称：“虽然董事会没有理由相信国家安全或英伟达机密受到损害，但董事会的调查将审查所有可获得的信息。”据《纽约时报》报道，黄仁勋承认与Alice Huang（又名黄乐）有亲密关系，美国官员认定她为中国情报工作；美国监控显示她向北京传递信息。Alice Huang曾任中国电视记者，后成为新加坡公司Megaspeed的高管，该公司运营容纳计算机系统的设施，据报两年内购买了超过48亿美元的英伟达芯片。黄仁勋在公司内部信息中向家人道歉，并将在调查期间继续担任CEO。NASA周六宣布一系列合同和任务计划以扩大月球探索，包括100亿美元的商业交付框架、核动力漫游车以及支持月球南极附近永久基地的新运输和通信系统。根据商业月球载荷服务计划，NASA选出了八家未来十年有资格竞争月球货运任务的公司：Blue Origin、Firefly Aerospace（FLY）、Intuitive Machines（LUNR）、ispace-U.S.、Lockheed Martin Space、Northrop Grumman Space Systems、SpaceX和Voyager Technologies（VOYG）。核能股周五大涨，Oklo（OKLO）涨约23%，NuScale Power（SMR）涨16%，Nano Nuclear Energy（NNE）涨15%，Centrus Energy（LEU）涨17%，Vistra（VST）涨11%，X-Energy（XE）涨16%。此轮上涨凸显投资者对核能的持续兴趣，因科技公司寻求为能源密集的AI数据中心提供可靠电力；但急涨之前多只核能股大幅下跌，表明逢低买入和空头仓位逆转也推动了周五的上涨。",
-      "detail_en": "Nvidia (NVDA) fell nearly 5% in premarket action after the board said Sunday it launched an independent investigation following reports that co-founder and CEO Jensen Huang was targeted by a foreign intelligence operation. A committee of independent directors will oversee the inquiry with help from outside lawyers. The board expressed confidence in Huang and his leadership team, saying he supports the investigation and has agreed to cooperate. The board stated: \"While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information.\" The New York Times reported that Huang had acknowledged an intimate relationship with Alice Huang (also known as Huang Le), whom U.S. officials identified as working for Chinese intelligence; U.S. surveillance indicated she was passing information to Beijing. Alice Huang previously worked as a television reporter in China before becoming an executive at Megaspeed, a Singapore-based company operating facilities housing computer systems, which reportedly purchased more than $4.8 billion in Nvidia chips over two years. Huang apologized to his family in an internal company message and will remain CEO during the inquiry. NASA announced Saturday a series of contracts and mission plans to expand lunar exploration, including a $10 billion commercial delivery framework, a nuclear-powered rover, and new transportation and communications systems to support a permanent base near the Moon's South Pole. Under its Commercial Lunar Payload Services initiative, NASA selected eight companies eligible to compete for lunar cargo delivery missions over the next decade: Blue Origin, Firefly Aerospace (FLY), Intuitive Machines (LUNR), ispace-U.S., Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX and Voyager Technologies (VOYG). Nuclear stocks surged Friday: Oklo (OKLO) jumped about 23%, NuScale Power (SMR) rose 16%, Nano Nuclear Energy (NNE) gained 15%, Centrus Energy (LEU) climbed 17%, Vistra (VST) advanced 11% and X-Energy (XE) added 16%. The rally highlighted investors' continuing interest in nuclear power as technology companies seek reliable electricity for energy-intensive AI data centers; however, the sharp gains followed substantial declines in several nuclear stocks, suggesting bargain hunting and a reversal of bearish positioning contributed to Friday's advance.",
-      "conclusion_zh": "英伟达调查事件短期构成治理与信息风险溢价，需关注调查进展及对客户关系的潜在影响；核能板块的反弹部分源于技术性买盘，AI电力需求主题仍受关注但波动较大。",
-      "conclusion_en": "The Nvidia investigation adds a short-term governance and information risk premium; monitor developments and potential impact on customer relationships. The nuclear rally partly reflects technical buying, and while the AI power demand theme remains in focus, volatility is elevated.",
-      "key_points": [
-        {
-          "zh": "英伟达董事会启动独立调查，审查CEO黄仁勋与一名被美方认定为中国情报人员的高管的关系；董事会称未发现国家安全或公司机密受损，黄仁勋留任并配合。",
-          "en": "Nvidia's board launched an independent investigation into CEO Jensen Huang's relationship with an executive identified by U.S. officials as working for Chinese intelligence; the board said no national security or company secrets were compromised, and Huang remains CEO and is cooperating."
-        },
-        {
-          "zh": "英伟达盘前下跌近5%，调查引发对机密信息保护、客户关系监督及领导层潜在干扰的疑问。",
-          "en": "Nvidia fell nearly 5% premarket; the investigation raises questions about protection of confidential information, oversight of customer relationships and potential disruption to leadership."
-        },
-        {
-          "zh": "NASA公布100亿美元商业月球交付框架，八家公司入选，包括Blue Origin、Firefly、Intuitive Machines、SpaceX等，但合同框架总价值并非保证收入。",
-          "en": "NASA announced a $10B commercial lunar delivery framework with eight eligible companies including Blue Origin, Firefly, Intuitive Machines and SpaceX, though the full value of the contracting frameworks isn't guaranteed revenue."
-        },
-        {
-          "zh": "核能股周五大涨，Oklo涨约23%、NuScale涨16%，受AI数据中心电力需求及季度业绩推动，但急涨前多只股票已大幅下跌，逢低买入和空头回补可能助推涨势。",
-          "en": "Nuclear stocks surged Friday, with Oklo up about 23% and NuScale up 16%, driven by AI data center power demand and quarterly results, but the sharp gains followed substantial declines, suggesting bargain hunting and short covering contributed."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "board investigation",
-        "NASA lunar contracts",
-        "nuclear energy",
-        "AI power demand"
-      ],
-      "tickers": [
-        "NVDA",
-        "FLY",
-        "LUNR",
-        "VOYG",
-        "OKLO",
-        "SMR",
-        "NNE",
-        "LEU",
-        "VST",
-        "XE",
-        "GFL",
-        "ENTG",
-        "RYTM",
-        "TTWO"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:HoVU341dlkc",
-      "title": "UniCredit CEO Plots Commerzbank Governance Overhaul",
-      "title_zh": "裕信银行CEO承诺尽快改革德国商业银行治理",
-      "url": "https://www.youtube.com/watch?v=HoVU341dlkc",
-      "published_at": "2026-11-09T11:26:02+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "裕信银行CEO Andrea Orcel表示，将很快对德国商业银行的治理进行改革，此举可能为罢免德国商业银行CEO Bettina Orlopp铺路。Orcel称，交易的所有监管批准预计在11月底前完成。",
-      "summary_en": "UniCredit CEO Andrea Orcel pledged to overhaul Commerzbank's governance soon, a move that may pave the way for an effort to oust CEO Bettina Orlopp. Orcel said all regulatory approvals for the deal are expected by the end of November.",
-      "detail_zh": "裕信银行首席执行官Andrea Orcel在接受彭博电视台采访时承诺，将很快对德国商业银行的治理结构进行改革。Orcel表示，此举可能为试图罢免德国商业银行首席执行官Bettina Orlopp铺平道路。他还指出，该交易的所有监管批准预计将在11月底前获得。节目中还提到裕信银行第三季度营收超出预期，并公布了创纪录的季度利润。",
-      "detail_en": "UniCredit CEO Andrea Orcel, speaking to Bloomberg TV, pledged to overhaul Commerzbank's governance soon. He said the move may pave the way for an effort to oust Commerzbank CEO Bettina Orlopp. Orcel also said all regulatory approvals for the deal are expected by the end of November. The program also noted UniCredit's third-quarter revenue beat estimates and reported record quarterly profit.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "裕信银行CEO Orcel承诺尽快改革德国商业银行治理，可能为罢免其CEO铺路。",
-          "en": "UniCredit CEO Orcel pledged to overhaul Commerzbank's governance soon, potentially paving the way to oust its CEO."
-        },
-        {
-          "zh": "Orcel表示交易的所有监管批准预计在11月底前完成。",
-          "en": "Orcel said all regulatory approvals for the deal are expected by the end of November."
-        },
-        {
-          "zh": "裕信银行第三季度营收超出预期，并报告创纪录季度利润。",
-          "en": "UniCredit's third-quarter revenue beat estimates and it reported record quarterly profit."
-        }
-      ],
-      "tags": [
-        "UniCredit",
-        "Commerzbank",
-        "M&A",
-        "governance",
-        "banking"
       ],
       "tickers": [],
       "sentiment": "neutral"
