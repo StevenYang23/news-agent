@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-17T10:13:32.222464+00:00",
+  "generated_at": "2026-11-17T11:12:26.637460+00:00",
   "insights": [
+    {
+      "guid": "yt:WgXTffW65h4",
+      "title": "Trump Kicks of Asia Visit in Manila Ahead of Xi, Putin Talks",
+      "title_zh": "科技股在英伟达财报前续跌，德银因涉爱泼斯坦相关支付报道下挫",
+      "url": "https://www.youtube.com/watch?v=WgXTffW65h4",
+      "published_at": "2026-11-17T10:52:28+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "科技股在英伟达第三季度财报前进一步走低，市场关注点从芯片制造商扩展至更广泛的人工智能交易。德意志银行股价因报道称其处理了与杰弗里·爱泼斯坦相关的5.82亿美元可疑支付而下跌。特朗普抵达马尼拉，开启其国会选举失利后的首次海外行程。",
+      "summary_en": "Technology stocks fell further ahead of Nvidia's third-quarter earnings, with the stakes extending beyond the chipmaker to the broader artificial intelligence trade. Deutsche Bank shares dropped on reports that it processed $582 million of suspicious payments linked to Jeffrey Epstein. Trump arrived in Manila, kicking off his first overseas trip since his party's congressional election defeat.",
+      "detail_zh": "科技股在英伟达第三季度财报发布前进一步下跌，报道指出这一事件的影响范围已超出芯片制造商本身，延伸至更广泛的人工智能交易。德意志银行股价因报道称其处理了与已故性犯罪者杰弗里·爱泼斯坦相关的5.82亿美元可疑支付，并在2022年乌克兰战争前寻求扩大俄罗斯业务而下跌。美国总统特朗普周二抵达菲律宾，开始其政党在国会选举中决定性失利后的首次海外访问；他将在马尼拉进行为期三天的亚洲之行，与所谓的“四方安全对话”举行讨论，并与泰国签署贸易协议；行程将于周四在中国深圳结束，届时将与中国国家主席习近平及俄罗斯领导人普京举行历史性会晤。节目还讨论了特朗普支持重新任命黄（Huang）的呼吁、芯片规则对中国施压、西班牙外长关于主权仅由乌克兰决定的表态、伯纳姆使英国脱欧成为焦点、牛津大学乔治·马格努斯谈特朗普亚洲之行以及2027年全球投资展望。",
+      "detail_en": "Technology stocks fell further ahead of Nvidia's third-quarter earnings, with reports noting the stakes extend beyond the chipmaker to the broader artificial intelligence trade. Deutsche Bank's stock dropped on reports that it processed $582 million of suspicious payments linked to the late sex offender Jeffrey Epstein and sought to expand its Russian business before the 2022 invasion of Ukraine. US President Donald Trump arrived in the Philippines on Tuesday, kicking off his first overseas trip since his party's decisive defeat in congressional elections; he begins a three-day Asia visit in Manila, where he is set to hold discussions with the so-called Quad and sign a trade deal with Thailand; his brief tour will conclude in Shenzhen, China, on Thursday with a historic meeting alongside President Xi Jinping and Russian leader Vladimir Putin. The program also covered Trump backing calls to reinstate Huang, a chip rule raising pressure on China, the Spanish FM saying sovereignty is only for Ukraine to decide, Burnham putting the spotlight on Brexit, Oxford's George Magnus on Trump's Asia trip, and the 2027 global investment outlook.",
+      "conclusion_zh": "英伟达财报前科技股承压，反映市场对AI交易前景的谨慎；德银涉爱泼斯坦相关支付报道构成个股风险事件。",
+      "conclusion_en": "Tech stocks are under pressure ahead of Nvidia's earnings, reflecting market caution on the AI trade; Deutsche Bank's Epstein-linked payments report represents a stock-specific risk event.",
+      "key_points": [
+        {
+          "zh": "科技股在英伟达第三季度财报前进一步下跌，影响范围扩展至更广泛的人工智能交易。",
+          "en": "Technology stocks fell further ahead of Nvidia's 3Q earnings, with the stakes extending to the broader AI trade."
+        },
+        {
+          "zh": "德意志银行股价因报道称其处理了与杰弗里·爱泼斯坦相关的5.82亿美元可疑支付而下跌。",
+          "en": "Deutsche Bank shares dropped on reports it processed $582 million of suspicious payments linked to Jeffrey Epstein."
+        },
+        {
+          "zh": "特朗普抵达马尼拉，开始其政党国会选举失利后的首次海外行程，将与四方安全对话讨论并与泰国签署贸易协议。",
+          "en": "Trump arrived in Manila, starting his first overseas trip since his party's congressional election defeat, set to hold Quad discussions and sign a trade deal with Thailand."
+        },
+        {
+          "zh": "特朗普行程将于周四在中国深圳结束，与中国国家主席习近平及俄罗斯领导人普京举行历史性会晤。",
+          "en": "Trump's tour concludes Thursday in Shenzhen, China, with a historic meeting alongside President Xi Jinping and Russian leader Vladimir Putin."
+        }
+      ],
+      "tags": [
+        "Nvidia earnings",
+        "AI trade",
+        "Deutsche Bank",
+        "Trump Asia trip",
+        "Epstein payments"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:B26ZwjDQCdU",
       "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
@@ -16817,55 +16862,6 @@
       ],
       "tickers": [],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:278PK9ybgMg",
-      "title": "Nvidia Lawyer Intervened in US AI Chip Smuggling Probe",
-      "title_zh": "英伟达介入芯片走私调查；Anthropic启动IPO营销；油价跌破90美元",
-      "url": "https://www.youtube.com/watch?v=278PK9ybgMg",
-      "published_at": "2026-11-10T10:57:01+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达总法律顾问介入美国政府针对Megaspeed AI芯片走私的调查，质疑特朗普政府拘留该公司高管的行为。Anthropic最早于周二启动IPO正式营销。特朗普称无需进一步打击伊朗，布伦特原油跌破90美元/桶。",
-      "summary_en": "Nvidia's general counsel intervened in a US government probe into suspected AI chip smuggling by Megaspeed International, questioning the Trump administration's role in detaining an executive. Anthropic is set to begin formal marketing of its IPO as early as Tuesday. Trump said further strikes on Iran are unnecessary, and Brent crude fell below $90 per barrel.",
-      "detail_zh": "据彭博了解，英伟达总法律顾问介入了美国政府针对新加坡公司Megaspeed International涉嫌走私AI芯片的调查，并质疑特朗普政府在拘留该公司一名高管中所扮演的角色；该高管目前处于一场可能波及黄仁勋的丑闻中心。Anthropic在IPO申报文件出现明显失误、给紧张的市场增添最后一刻戏剧性之后，最早将于周二启动其重磅IPO的正式营销。特朗普表示无需对伊朗进行进一步打击，但美国仍保持“锁定并上膛”状态，这暗示在共和党中期选举失利凸显冲突深度不受欢迎后，他正在收尾这场冲突。市场方面，股市在科技股推动下延续涨势，布伦特原油跌破每桶90美元。挪威DNB因AI驱动的技术重组而裁员。美联储的Waller在英国央行会议上发表讲话，欧洲央行首席经济学家Philip Lane接受独家采访。英飞凌上调AI销售展望。",
-      "detail_en": "Bloomberg understands that Nvidia's general counsel intervened in a US government probe of suspected AI chip smuggling by Megaspeed International, questioning whether the Trump administration played a role in detaining an executive of the Singapore-based firm who is now at the heart of a scandal threatening Jensen Huang. Anthropic is set to kick off formal marketing of its blockbuster IPO as early as Tuesday after an apparent snafu over filing documents added last-minute drama to a nervous market. Trump said further strikes on Iran wouldn't be necessary but the US remains 'locked and loaded,' indicating he is winding down the conflict after Republicans' midterm elections loss underscored its deep unpopularity. Stocks built on a tech-fueled rally, and Brent crude fell below $90 per barrel. Norway's DNB cut jobs as AI drives tech restructuring. Fed's Waller spoke at a BOE conference, and ECB Chief Economist Philip Lane gave an exclusive interview. Infineon boosted its AI sales outlook.",
-      "conclusion_zh": "关注英伟达芯片出口调查的潜在监管风险、Anthropic IPO对科技股情绪的影响，以及油价回落与科技股涨势的持续性。",
-      "conclusion_en": "Watch the regulatory risk from Nvidia's chip export probe, the impact of Anthropic's IPO on tech sentiment, and the sustainability of the oil price decline and tech-led rally.",
-      "key_points": [
-        {
-          "zh": "英伟达总法律顾问介入美国对Megaspeed涉嫌AI芯片走私的调查，质疑特朗普政府拘留该公司高管的角色。",
-          "en": "Nvidia's general counsel intervened in the US probe of suspected AI chip smuggling by Megaspeed, questioning the Trump administration's role in detaining a company executive."
-        },
-        {
-          "zh": "Anthropic最早于周二启动重磅IPO的正式营销，此前申报文件出现明显失误。",
-          "en": "Anthropic is set to begin formal marketing of its blockbuster IPO as early as Tuesday after an apparent snafu over filing documents."
-        },
-        {
-          "zh": "特朗普称无需进一步打击伊朗，但美国仍保持“锁定并上膛”状态，暗示冲突正在收尾。",
-          "en": "Trump said further strikes on Iran wouldn't be necessary but the US remains 'locked and loaded,' suggesting the conflict is winding down."
-        },
-        {
-          "zh": "布伦特原油跌破每桶90美元；股市在科技股推动下延续涨势。",
-          "en": "Brent crude fell below $90 per barrel; stocks built on a tech-fueled rally."
-        },
-        {
-          "zh": "挪威DNB因AI驱动的技术重组而裁员；英飞凌上调AI销售展望。",
-          "en": "Norway's DNB cut jobs as AI drives tech restructuring; Infineon boosted its AI sales outlook."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "AI chips",
-        "Anthropic IPO",
-        "oil prices",
-        "Iran conflict"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
     }
   ]
 }
