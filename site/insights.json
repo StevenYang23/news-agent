@@ -1,6 +1,148 @@
 {
-  "generated_at": "2026-11-17T12:18:37.384456+00:00",
+  "generated_at": "2026-11-17T13:13:46.949226+00:00",
   "insights": [
+    {
+      "guid": "yt:7WT3AKpLlTE",
+      "title": "2027 Global Outlook: Powered by AI, Tested by Oil",
+      "title_zh": "AI投资支撑增长，抵御油价上涨",
+      "url": "https://www.youtube.com/watch?v=7WT3AKpLlTE",
+      "published_at": "2026-11-17T13:12:01+00:00",
+      "source_name": "Morgan Stanley",
+      "source_kind": "video",
+      "categories": [
+        "macro",
+        "tech"
+      ],
+      "summary_zh": "摩根士丹利全球首席经济学家Seth Carpenter与Serena Tang讨论2027年全球宏观展望，指出AI驱动的投资正在支撑经济增长，尽管油价上涨。",
+      "summary_en": "Morgan Stanley Global Chief Economist Seth Carpenter joins Serena Tang to discuss the 2027 global macro outlook, noting that AI-driven investment is sustaining growth despite higher oil prices.",
+      "detail_zh": "在2027年全球宏观展望的第一部分中，全球首席经济学家Seth Carpenter与Serena Tang讨论了AI驱动的投资如何在高油价环境下支撑经济增长。讨论聚焦于AI投资对增长的支撑作用，以及油价上涨背景下的宏观影响。原文未提供具体数据、行业细节或风险分析。",
+      "detail_en": "In part one of the 2027 global macro outlook, Global Chief Economist Seth Carpenter joins Serena Tang to discuss how AI-driven investment is sustaining growth despite higher oil prices. The discussion focuses on the supportive role of AI investment for growth and the macro implications amid rising oil prices. The original text does not provide specific data, sector details, or risk analysis.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "AI驱动的投资正在支撑经济增长",
+          "en": "AI-driven investment is sustaining economic growth"
+        },
+        {
+          "zh": "油价上涨构成宏观背景",
+          "en": "Higher oil prices form the macro backdrop"
+        },
+        {
+          "zh": "讨论属于2027年全球宏观展望的一部分",
+          "en": "The discussion is part of the 2027 global macro outlook"
+        }
+      ],
+      "tags": [
+        "AI investment",
+        "oil prices",
+        "global macro",
+        "economic growth"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4969047",
+      "title": "Wall Street Breakfast Podcast: Happy Red Cup Day!",
+      "title_zh": "Kalshi拟推股票交易，Robinhood承压；英伟达董事会排除黄仁勋回归",
+      "url": "https://seekingalpha.com/article/4969047-wall-street-breakfast-podcast-happy-red-cup-day?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-17T13:01:00+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "other"
+      ],
+      "summary_zh": "Kalshi计划两个月内推出股票和ETF交易，Robinhood股价前一日跌超7%后盘前续跌。英伟达董事会据路透报道不考虑黄仁勋回归CEO，尽管请愿人数超18万。纳指期货在周一科技股领跌后反弹0.5%。",
+      "summary_en": "Kalshi plans to launch stock and ETF trading within two months, pressuring Robinhood, which fell over 7% in the prior session and was down premarket. Nvidia's board is not considering Jensen Huang's return as CEO despite a petition with over 180,200 signatures, Reuters reported. Nasdaq 100 futures rose 0.5% after Monday's tech-led selloff.",
+      "detail_zh": "Kalshi在7月收购了纽约小型券商FB Securities，计划在未来两个月内启动股票、ETF及类似产品的交易，目标是打造多资产金融交易所，效仿Coinbase构建“everything exchange”的战略。Robinhood股价在前一交易日因该报道下跌超过7%，盘前继续走低。与此同时，预测市场正面临数十个州的诉讼，指控其在辖区内经营非法赌博业务。英伟达方面，路透援引消息人士称董事会不考虑让黄仁勋回归CEO，尽管已有超过18.02万人签署请愿书，马斯克和特朗普总统均公开表示支持黄仁勋回归。市场方面，周一科技股领跌后，纳指期货盘前上涨0.5%，美债收益率小幅下行，当日将公布10月零售销售、进出口价格、工业产出、9月商业库存及11月NAHB住房市场指数等数据。",
+      "detail_en": "Kalshi acquired small New York-based broker FB Securities in July and plans to start equity trading operations within two months, launching trading in stocks, ETFs and similar products as it aims to create a multi-asset financial exchange, following Coinbase's strategy to build an 'everything exchange.' Robinhood fell more than 7% in the prior session on the report and was down premarket. Meanwhile, prediction markets face lawsuits from dozens of states alleging they operate illegal gambling businesses in their jurisdictions. On Nvidia, Reuters sources said the board is not considering a return for Jensen Huang as CEO, despite a petition with more than 180,200 signatures and public support from Elon Musk and President Trump. In premarket trading, Nasdaq 100 futures rose 0.5% after Monday's sharp tech-led selloff, Treasury yields were slightly lower, and economic data due includes October retail sales, import/export prices, industrial production, September business inventories and the November NAHB housing market index.",
+      "conclusion_zh": "Kalshi进军股票交易对Robinhood构成竞争压力，而英伟达CEO继任传闻被董事会否认，短期关注券商板块竞争格局与科技股反弹持续性。",
+      "conclusion_en": "Kalshi's move into equity trading poses competitive pressure on Robinhood, while Nvidia's board denied CEO succession rumors; watch brokerage competition and the sustainability of the tech rebound.",
+      "key_points": [
+        {
+          "zh": "Kalshi计划两个月内推出股票和ETF交易，Robinhood前一日跌超7%后盘前续跌。",
+          "en": "Kalshi plans to launch stock and ETF trading within two months; Robinhood fell over 7% in the prior session and was down premarket."
+        },
+        {
+          "zh": "预测市场面临数十个州诉讼，被指控经营非法赌博业务。",
+          "en": "Prediction markets face lawsuits from dozens of states alleging illegal gambling operations."
+        },
+        {
+          "zh": "路透：英伟达董事会不考虑黄仁勋回归CEO，尽管请愿人数超18.02万且马斯克、特朗普公开支持。",
+          "en": "Reuters: Nvidia's board is not considering Jensen Huang's return as CEO despite a petition with over 180,200 signatures and public support from Musk and Trump."
+        },
+        {
+          "zh": "周一科技股领跌后，纳指期货盘前上涨0.5%，美债收益率小幅下行。",
+          "en": "Nasdaq 100 futures rose 0.5% premarket after Monday's tech-led selloff; Treasury yields edged lower."
+        }
+      ],
+      "tags": [
+        "Kalshi",
+        "Robinhood",
+        "Nvidia",
+        "prediction markets",
+        "equity trading"
+      ],
+      "tickers": [
+        "SBUX",
+        "NVDA",
+        "HOOD",
+        "COIN"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "4968979",
+      "title": "The Fight Over Jensen Huang And Nvidia Earnings",
+      "title_zh": "英伟达CEO黄仁勋离职风波持续，公司面临首次无其主持的财报电话会",
+      "url": "https://seekingalpha.com/article/4968979-the-fight-over-jensen-huang-and-nvidia-earnings?source=feed_author_wall_street_breakfast",
+      "published_at": "2026-11-17T12:23:36+00:00",
+      "source_name": "Wall Street Breakfast (Seeking Alpha)",
+      "source_kind": "podcast",
+      "categories": [
+        "tech",
+        "politics"
+      ],
+      "summary_zh": "英伟达CEO黄仁勋离职后，内部员工和外部投资者呼吁其回归，但公司今日将举行33年来首次没有黄仁勋主持的财报电话会。公司市值六周内蒸发超2万亿美元，年内股价下跌16%，投资者关注临时CEO科莱特·克雷斯对销售增长和出口限制风险的指引。",
+      "summary_en": "Nvidia CEO Jensen Huang's departure has sparked calls for his return from employees and investors, but the company will hold its first earnings call in 33 years without him today. Nvidia has lost over $2 trillion in market cap in six weeks and is down 16% this year, with investors focused on interim CEO Colette Kress's guidance on sales growth and export restriction risks.",
+      "detail_zh": "英伟达CEO黄仁勋的离职持续发酵，特斯拉的埃隆·马斯克、Shopify的Tobias Lütke等知名人士以及特朗普总统均呼吁其回归，英伟达内部员工和高管中也出现了支持黄仁勋回归的声浪。据《华尔街日报》看到的一封信，英伟达开发者技术总监Nader Khalil警告称，不可替代的人才正在考虑离开，黄仁勋的全球关系是公司的战略优势，其领导对维持美国在AI领域的主导地位至关重要。超过18.8万人签署请愿书要求黄仁勋回归，Altimeter Capital和Atreides Management等知名股东敦促公司不要在了解全部事实前匆忙任命替代者。然而，黄仁勋的案件涉及与下属事务相关的重大人力资源违规，以及与疑似中国情报人员的关系，这引发了联邦对AI芯片出口的调查。英伟达今日下午将举行33年来首次没有黄仁勋主持的财报电话会，临时CEO兼CFO科莱特·克雷斯将试图向股东保证销售增长指引和公司的创新引擎，以及出口限制收紧带来的潜在风险。过去六周英伟达市值已蒸发超过2万亿美元，年内股价下跌16%，而标普500指数上涨8%。",
+      "detail_en": "Jensen Huang's departure as Nvidia CEO continues to reverberate, with high-profile figures like Tesla's Elon Musk, Shopify's Tobias Lütke, and President Trump calling for his return, and a groundswell of support from Nvidia employees and senior staff. According to a letter seen by The Wall Street Journal, Nader Khalil, director of developer technology at Nvidia, warned that irreplaceable talent is contemplating departing, and that Huang's global relationships are a strategic advantage and his leadership is critical to maintain American dominance in AI. More than 188,000 people have signed a petition demanding Huang's return, and prominent shareholders like Altimeter Capital and Atreides Management have urged the company not to rush a replacement before all facts are known. However, Huang's case involves significant HR violations surrounding subordinate affairs and a relationship with a suspected Chinese intelligence asset that has triggered a federal probe into AI chip exports. Nvidia will host its first earnings call in 33 years without Huang this afternoon, with interim CEO and CFO Colette Kress seeking to assure shareholders about sales growth guidance, the innovation engine, and potential risks from tightening export restrictions. Nvidia has lost over $2 trillion in market cap in the past six weeks and is down 16% this year, compared to the S&P 500's 8% rise.",
+      "conclusion_zh": "英伟达领导层不确定性叠加出口限制风险，短期股价承压，投资者应重点关注财报电话会中管理层对增长和风险的表述。",
+      "conclusion_en": "Nvidia's leadership uncertainty and export restriction risks are pressuring the stock short-term; investors should focus on management's commentary on growth and risks during the earnings call.",
+      "key_points": [
+        {
+          "zh": "英伟达内部员工和外部投资者呼吁黄仁勋回归，超过18.8万人签署请愿书。",
+          "en": "Nvidia employees and external investors are calling for Jensen Huang's return, with over 188,000 people signing a petition."
+        },
+        {
+          "zh": "黄仁勋面临人力资源违规和与疑似中国情报人员关系的联邦调查。",
+          "en": "Huang faces a federal probe over HR violations and a relationship with a suspected Chinese intelligence asset."
+        },
+        {
+          "zh": "英伟达今日举行33年来首次没有黄仁勋主持的财报电话会，临时CEO科莱特·克雷斯将提供指引。",
+          "en": "Nvidia holds its first earnings call in 33 years without Huang today, with interim CEO Colette Kress providing guidance."
+        },
+        {
+          "zh": "英伟达市值六周内蒸发超2万亿美元，年内股价下跌16%，跑输标普500。",
+          "en": "Nvidia has lost over $2 trillion in market cap in six weeks and is down 16% this year, underperforming the S&P 500."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "earnings",
+        "export restrictions",
+        "AI"
+      ],
+      "tickers": [
+        "NVDA",
+        "TSLA",
+        "SHOP"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:evtpOIu1xBw",
       "title": "Clampdown on China Chip Loophole; Nvidia Earnings Countdown",
@@ -16653,164 +16795,6 @@
         "US economy"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:N2fYAeneObs",
-      "title": "3+1 Episode 27: Rick Rieder",
-      "title_zh": "Rick Rieder：经济分化显著，美联储工具过时，投资者应平衡配置",
-      "url": "https://www.youtube.com/watch?v=N2fYAeneObs",
-      "published_at": "2026-11-10T13:00:30+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "other"
-      ],
-      "summary_zh": "贝莱德高管Rick Rieder指出，当前经济增长强劲但就业和工资未加速，经济呈现极端分化，美联储仅靠隔夜利率工具已不够。他建议投资者平衡配置，在利率高企环境下获取稳定且高质量的7%收益已属不错。",
-      "summary_en": "Rick Rieder of BlackRock notes that despite strong GDP growth above 7%, employment and wages are not accelerating, and the economy is extraordinarily divergent. He argues the Fed's overnight rate tool is outdated and advises investors to balance their portfolios, as a stable 7% yield with quality is a lucky seven.",
-      "detail_zh": "Rick Rieder在“3 Plus 1”节目中指出，当前对经济增长的即时预测（nowcast）已超过7%，但通常在这种经济增速下，就业和工资应加速，而实际并未出现。他提到大公司正在减少招聘或调整布局，经济与就业之间的鸿沟显著。他用恒温器比喻：美联储用隔夜利率调控整体经济，但不同部门冷热不均，效果有限，因此他认为美联储需要比隔夜利率更现代的工具。对于投资者，他建议生活（投资组合）更平衡，收益类资产能在实际利率高企时降低失衡，无需过度追求风险。若能以稳定性和质量获得7%的收益，便是“幸运七”。最后他调侃机场地毯应减少，因为四轮行李箱需要更少摩擦。",
-      "detail_en": "In the '3 Plus 1' program, Rick Rieder pointed out that the nowcast for current growth is up well over 7%, but normally with such growth, employment and wages would accelerate, which is not happening. He noted big companies are reducing where the economy and employment are, and the chasm between the two is significant. He used a thermostat analogy: the Fed using the overnight funds rate to control the whole house doesn't work when different rooms are hotter or colder, so he argues the Fed needs tools more current than just raising the overnight rate. For investors, he advises a more balanced portfolio, as income brings down some of what is in balance with real rates being where they are, so you don't have to stretch. If he can get a seven with stability and quality, that's a lucky seven. Finally, he joked that airports need less carpeting because the world has moved to four-wheel rolling bags.",
-      "conclusion_zh": "在经济增长强劲但就业分化的环境下，投资者应注重组合平衡，利用高实际利率获取稳定且高质量的收益，而非过度追逐风险。",
-      "conclusion_en": "In an environment of strong growth but divergent employment, investors should focus on balanced portfolios, utilizing high real rates to obtain stable and quality income rather than stretching for risk.",
-      "key_points": [
-        {
-          "zh": "当前经济增长nowcast超过7%，但就业和工资并未加速，经济与就业市场分化显著。",
-          "en": "The nowcast for current growth is up well over 7%, but employment and wages are not accelerating, showing a significant divergence between the economy and the labor market."
-        },
-        {
-          "zh": "美联储仅靠隔夜利率工具调控整体经济已不适用，需要更现代的工具。",
-          "en": "The Fed's reliance on the overnight funds rate to control the whole economy is no longer effective; more modern tools are needed."
-        },
-        {
-          "zh": "投资者应平衡配置，收益类资产可在高实际利率环境下降低失衡，无需过度冒险。",
-          "en": "Investors should balance their portfolios; income assets can reduce imbalance in a high real-rate environment without excessive risk-taking."
-        },
-        {
-          "zh": "以稳定性和质量获得7%的收益被视为“幸运七”。",
-          "en": "A 7% yield with stability and quality is considered a 'lucky seven'."
-        }
-      ],
-      "tags": [
-        "Fed",
-        "economic divergence",
-        "portfolio balance",
-        "income strategy"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:4_wzB0pUIFs",
-      "title": "Stock Rebound Eases Ahead of CPI; Anthropic IPO Marketing",
-      "title_zh": "美股期货在CPI前波动，Waller支持12月加息，油价跌破90美元",
-      "url": "https://www.youtube.com/watch?v=4_wzB0pUIFs",
-      "published_at": "2026-11-10T13:00:03+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "标普500创4月以来最佳单日后，美股期货走势震荡。美联储理事Waller在CPI数据前表态支持12月加息。布伦特原油自8月以来首次跌破90美元/桶，美国汽油价格跌破4美元/加仑。",
-      "summary_en": "US equity futures wavered after the S&P 500's best day since April. Fed Governor Waller expressed support for a December rate hike ahead of CPI data. Brent crude fell below $90/bbl for the first time since August, and US gasoline dipped below $4/gallon.",
-      "detail_zh": "标普500录得4月以来最佳单日表现后，美股期货走势震荡。美联储理事Christopher Waller在CPI数据公布前表示支持12月加息。Anthropic在IPO文件中出现短暂文书失误后，寻求最高644亿美元的IPO规模。布伦特原油自8月以来首次跌破90美元/桶，美国汽油价格跌破4美元/加仑。Peel Hunt首席经济学家Kallum Pickering在节目中展望通胀数据。节目还涉及亚洲市场上涨与中国贸易激增、欧洲股市随油价下跌而上涨、AI交易与台积电等个股、特朗普支持英伟达CEO黄仁勋、乌克兰和平谈判以及Pete Hegseth弹劾推动等话题。",
-      "detail_en": "US equity futures wavered after the S&P 500 posted its best day since April. Fed Governor Christopher Waller showed support for an interest-rate hike in December ahead of CPI data. Anthropic seeks as much as $64.4 billion in its IPO after a brief clerical misstep over filing documents. Brent crude dropped below $90 a barrel for the first time since August, while US gasoline prices dipped below $4 a gallon. Kallum Pickering of Peel Hunt joined the program to look ahead to inflation data. The program also covered Asia markets rallying with China trade surging, European stocks rising as oil falls, the AI trade and TSMC and stocks to watch, Trump backing Nvidia CEO Jensen Huang, Ukraine peace talks, and a Pete Hegseth impeachment push.",
-      "conclusion_zh": "CPI数据与美联储官员的加息表态是短期美股关键变量，油价回落至90美元下方或缓解通胀压力，但Waller的鹰派立场值得关注。",
-      "conclusion_en": "CPI data and Fed officials' rate-hike comments are key near-term variables for US equities; oil falling below $90 may ease inflation pressure, but Waller's hawkish stance warrants attention.",
-      "key_points": [
-        {
-          "zh": "标普500创4月以来最佳单日后，美股期货走势震荡",
-          "en": "US equity futures waver after S&P 500's best day since April"
-        },
-        {
-          "zh": "美联储理事Waller在CPI前支持12月加息",
-          "en": "Fed Governor Waller supports a December rate hike ahead of CPI"
-        },
-        {
-          "zh": "布伦特原油自8月以来首次跌破90美元/桶，美国汽油价格跌破4美元/加仑",
-          "en": "Brent crude falls below $90/bbl for the first time since August; US gasoline below $4/gallon"
-        },
-        {
-          "zh": "Anthropic在IPO文书短暂失误后寻求最高644亿美元IPO",
-          "en": "Anthropic seeks up to $64.4 billion IPO after brief clerical misstep"
-        },
-        {
-          "zh": "节目关注CPI预览、美联储利率展望及AI交易与台积电",
-          "en": "Program covers CPI preview, Fed rate outlook, AI trade and TSMC"
-        }
-      ],
-      "tags": [
-        "CPI",
-        "Fed",
-        "oil",
-        "IPO",
-        "AI"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "4965673",
-      "title": "In Pursuit Of The Largest IPO In History",
-      "title_zh": "Anthropic启动IPO营销，目标史上最大IPO",
-      "url": "https://seekingalpha.com/article/4965673-in-pursuit-of-the-largest-ipo-in-history?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-10T12:30:50+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "tech",
-        "macro"
-      ],
-      "summary_zh": "Anthropic在S-1等待期结束后启动IPO营销，计划融资800-1000亿美元，估值1.25-1.75万亿美元，目标超越SpaceX成为史上最大IPO。公司收入过去一年增长十倍至163亿美元，但净亏损达807亿美元。分析师认为Anthropic的交易表现将决定AI革命的最终赢家，但AI技术栈中半导体、内存、封装和能源等环节同样关键。",
-      "summary_en": "Anthropic has begun marketing its highly anticipated IPO after the 15-day waiting period following its initial S-1 filing ended. The company aims to raise $80B-$100B at a valuation of $1.25T-$1.75T, targeting the largest IPO in history and breaking SpaceX's record. Revenue jumped ten-fold over the past year to $16.3B, but net loss reached $80.7B. Analysts argue Anthropic's trading will help decide the AI revolution's ultimate winners and losers, while the broader AI stack—semiconductor designers, memory suppliers, advanced packaging foundries and energy providers—also matters.",
-      "detail_zh": "Anthropic在初始S-1文件提交后的15天等待期结束后，现已可以开始营销其备受期待的IPO，并计划于下周开始交易。公司希望成为史上最大IPO，打破仅六个月前上市的SpaceX的纪录。据报道，Anthropic预计将融资800亿至1000亿美元，估值达1.25万亿至1.75万亿美元。财务方面，公司收入过去一年增长十倍至163亿美元，但成本同步飙升，净亏损达807亿美元。背景方面，中期选举给AI相关股票带来剧烈波动，市场担忧数据中心快速建设，且民主党大胜可能带来更多AI安全监管。Anthropic CEO Dario Amodei甚至呼吁顶级AI公司放缓最先进模型的开发速度。分析师日益认为，Anthropic的交易方式将帮助决定AI革命的最终赢家与输家，但AI技术栈远不止这一主导名字，还包括半导体设计商、内存供应商、先进封装代工厂和能源提供商，其经济效益取决于行业对算力的总需求。",
-      "detail_en": "Anthropic can now begin marketing its much-anticipated IPO after the 15-day waiting period following its initial S-1 filing came to an end, with trading expected to begin next week. The company wants to be the largest IPO in history, breaking the record of SpaceX, which went public only six months ago. According to reports, Anthropic will likely end up raising $80B-$100B at a valuation of $1.25T-$1.75T. On financials, revenue has jumped ten-fold over the past year to $16.3B, but costs have also surged, with a net loss of $80.7B. In the backdrop, the midterms brought violent swings to AI-related shares amid fears over the rapid buildout of data centers and a Democratic sweep that'll likely bring more AI safety regulation. Anthropic CEO Dario Amodei has even called on top AI firms to slow the development pace of their most advanced models. Market analysts increasingly argue that the way Anthropic trades will help decide the AI revolution's ultimate winners and losers, but there is a lot more to the AI technology stack than this one dominant name, including semiconductor designers, memory suppliers, advanced packaging foundries and energy providers, whose economics depend on aggregate industry demand for compute.",
-      "conclusion_zh": "Anthropic的IPO将成为AI板块的重要风向标，其交易表现可能影响市场对AI赢家的判断，但投资者也应关注算力需求驱动的半导体、内存、封装和能源等更广泛的技术栈。",
-      "conclusion_en": "Anthropic's IPO will be a key bellwether for the AI sector, and its trading performance could influence market perceptions of AI winners, but investors should also watch the broader technology stack—semiconductors, memory, packaging and energy—driven by aggregate compute demand.",
-      "key_points": [
-        {
-          "zh": "Anthropic启动IPO营销，计划融资800-1000亿美元，估值1.25-1.75万亿美元，目标超越SpaceX成为史上最大IPO。",
-          "en": "Anthropic has begun marketing its IPO, aiming to raise $80B-$100B at a valuation of $1.25T-$1.75T, targeting the largest IPO in history and breaking SpaceX's record."
-        },
-        {
-          "zh": "公司收入过去一年增长十倍至163亿美元，但净亏损达807亿美元，反映AI军备竞赛的高昂成本。",
-          "en": "Revenue jumped ten-fold over the past year to $16.3B, but net loss reached $80.7B, reflecting the high costs of the AI arms race."
-        },
-        {
-          "zh": "中期选举带来AI相关股票剧烈波动，民主党大胜可能带来更多AI安全监管，CEO Dario Amodei呼吁放缓最先进模型开发。",
-          "en": "The midterms brought violent swings to AI-related shares, with a Democratic sweep likely to bring more AI safety regulation; CEO Dario Amodei has called on top AI firms to slow the development pace of their most advanced models."
-        },
-        {
-          "zh": "分析师认为Anthropic的交易表现将决定AI革命的最终赢家，但AI技术栈中半导体、内存、封装和能源等环节同样关键。",
-          "en": "Analysts argue Anthropic's trading will help decide the AI revolution's ultimate winners and losers, but the broader AI stack—semiconductor designers, memory suppliers, advanced packaging foundries and energy providers—also matters."
-        }
-      ],
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "AI",
-        "tech selloff",
-        "regulation"
-      ],
-      "tickers": [
-        "SFTBY",
-        "XOM",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "NVDA",
-        "LLY",
-        "NVO",
-        "TTWO",
-        "CAT",
-        "GS",
-        "HIMS",
-        "BA",
-        "PEP",
-        "AMZN",
-        "CRWV",
-        "RGTI"
-      ],
       "sentiment": "neutral"
     }
   ]
