@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-17T07:14:48.674706+00:00",
+  "generated_at": "2026-11-17T08:17:14.028623+00:00",
   "insights": [
+    {
+      "guid": "yt:gC2MQB9FX88",
+      "title": "Canada's Carney Meets China's Xi in Shenzhen",
+      "title_zh": "中加同意进一步减免农产品与钢铁出口关税",
+      "url": "https://www.youtube.com/watch?v=gC2MQB9FX88",
+      "published_at": "2026-11-17T07:06:24+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "习近平与加拿大总理卡尼在深圳会晤，双方同意在农产品和钢铁出口方面进一步减免关税。该进展涉及中加双边贸易关系。",
+      "summary_en": "President Xi Jinping and Prime Minister Mark Carney met in Shenzhen and agreed to further tariff relief on agricultural and steel exports, marking a bilateral trade development between China and Canada.",
+      "detail_zh": "据彭博的Minmin Low报道，中国与加拿大在习近平主席与加拿大总理马克·卡尼于周二在深圳会晤期间，同意在农产品和钢铁出口方面进一步减免关税。报道未披露具体税率、覆盖商品范围或实施时间表。该消息属于中加双边贸易关系层面的进展，原文未提及其对美股或美国市场的直接影响。",
+      "detail_en": "According to Bloomberg's Minmin Low, China and Canada agreed to further tariff relief on agricultural and steel exports during a Tuesday meeting in Shenzhen between President Xi Jinping and Prime Minister Mark Carney. The report did not specify tariff rates, product coverage, or an implementation timeline. The development concerns bilateral China-Canada trade relations; the source does not mention any direct impact on U.S. equities or markets.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "习近平与加拿大总理卡尼周二在深圳会晤。",
+          "en": "President Xi Jinping and Prime Minister Mark Carney met in Shenzhen on Tuesday."
+        },
+        {
+          "zh": "双方同意在农产品出口方面进一步减免关税。",
+          "en": "The two sides agreed to further tariff relief on agricultural exports."
+        },
+        {
+          "zh": "双方同意在钢铁出口方面进一步减免关税。",
+          "en": "The two sides agreed to further tariff relief on steel exports."
+        },
+        {
+          "zh": "报道未披露具体税率、商品范围或时间表。",
+          "en": "The report did not disclose specific rates, product scope, or timeline."
+        }
+      ],
+      "tags": [
+        "China-Canada trade",
+        "tariff relief",
+        "agriculture",
+        "steel"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:Z2YVyd3tGG0",
       "title": "US Targets China's Remote Chip Access With New Curbs",
@@ -16632,207 +16676,6 @@
         "no-content"
       ],
       "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:h-gV-xQG-4M",
-      "title": "Trump Says FBI Reviewing Nvidia CEO Huang's Affair",
-      "title_zh": "科技股反弹带动全球股市两日大涨，Anthropic启动IPO营销",
-      "url": "https://www.youtube.com/watch?v=h-gV-xQG-4M",
-      "published_at": "2026-11-10T08:08:40+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "全球股市有望创三个多月来最佳两日涨幅，科技股反弹与油价下跌提振情绪。Anthropic最早周二启动IPO正式营销，拟募资至多693亿美元（据路透）。特朗普称FBI正调查英伟达CEO黄仁勋婚外情对象疑似中国间谍，并表示支持黄仁勋。",
-      "summary_en": "Global stocks were on track for their best two-day gain in over three months, boosted by a tech rally and falling oil prices. Anthropic is set to begin formal IPO marketing as early as Tuesday, aiming to raise up to $69.3 billion (per Reuters). Trump said the FBI is looking into Nvidia CEO Jensen Huang's extramarital relationship with a suspected Chinese spy, and offered his support.",
-      "detail_zh": "全球股市有望录得三个多月来最佳两日涨幅，科技股反弹与油价进一步下跌共同提振市场情绪。Anthropic最早将于周二启动重磅IPO的正式营销，此前其申报文件出现明显失误，给本已紧张的市场增添了最后一刻的戏剧性；据路透，Anthropic拟募资至多693亿美元，随后又以信息不准确为由撤回了IPO申报细节。特朗普表示，FBI正在调查英伟达CEO黄仁勋与一名疑似中国间谍的婚外情关系，并在该事件披露次日对这位处境艰难的芯片巨头掌门人表示支持。特朗普还暗示无需对伊朗进行进一步空袭。芝加哥联储古尔斯比（Goolsbee）称必须解决通胀失败问题；英国央行行长贝利呼吁提高英国贸易开放度。软银在美国数据中心成本膨胀后录得70亿美元亏损。美国通胀依然顽固。",
-      "detail_en": "Global stocks were on track for their best two-day gain in more than three months, as a resurgent tech rally and a further decline in oil prices boosted sentiment. Anthropic is set to kick off formal marketing of its blockbuster IPO as early as Tuesday, after an apparent snafu over filing documents added last-minute drama to a nervous market; per Reuters, Anthropic aims to raise up to $69.3 billion, and later retracted IPO filing details citing inaccuracy. President Donald Trump said the FBI is looking into Nvidia CEO Jensen Huang's extramarital relationship with a suspected Chinese spy, and offered his support to the embattled chip magnate a day after the affair was disclosed. Trump also signaled further airstrikes on Iran won't be necessary. Goolsbee said the inflation failure must be addressed; Bailey urged greater UK trade openness. SoftBank logged a $7 billion loss after US data center costs swelled. US inflation remains stubborn.",
-      "conclusion_zh": "科技股反弹与油价回落短期提振风险偏好，但Anthropic IPO申报反复及美国通胀顽固提示市场情绪仍脆弱，需关注IPO定价与通胀数据对美股的影响。",
-      "conclusion_en": "The tech rally and falling oil prices are boosting risk appetite short-term, but Anthropic's IPO filing back-and-forth and stubborn US inflation suggest fragile sentiment; watch IPO pricing and inflation data for US equity implications.",
-      "key_points": [
-        {
-          "zh": "全球股市有望创三个多月来最佳两日涨幅，科技股反弹与油价下跌提振情绪。",
-          "en": "Global stocks were on track for their best two-day gain in over three months, boosted by a tech rally and falling oil prices."
-        },
-        {
-          "zh": "Anthropic最早周二启动IPO正式营销，据路透拟募资至多693亿美元，但随后以信息不准确为由撤回申报细节。",
-          "en": "Anthropic is set to begin formal IPO marketing as early as Tuesday, aiming to raise up to $69.3 billion per Reuters, but later retracted filing details citing inaccuracy."
-        },
-        {
-          "zh": "特朗普称FBI正调查英伟达CEO黄仁勋婚外情对象疑似中国间谍，并表示支持黄仁勋。",
-          "en": "Trump said the FBI is looking into Nvidia CEO Jensen Huang's extramarital relationship with a suspected Chinese spy, and offered his support."
-        },
-        {
-          "zh": "古尔斯比称必须解决通胀失败问题；美国通胀依然顽固。",
-          "en": "Goolsbee said the inflation failure must be addressed; US inflation remains stubborn."
-        },
-        {
-          "zh": "软银在美国数据中心成本膨胀后录得70亿美元亏损。",
-          "en": "SoftBank logged a $7 billion loss after US data center costs swelled."
-        }
-      ],
-      "tags": [
-        "tech rally",
-        "IPO",
-        "Nvidia",
-        "inflation",
-        "SoftBank"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "https://bondvigilantes.com/?p=26883",
-      "title": "Le choix français",
-      "title_zh": "法国财政困境：2012年式解决方案是否可行？",
-      "url": "https://bondvigilantes.com/blog/2026/11/le-choix-francais/",
-      "published_at": "2026-11-10T08:07:29+00:00",
-      "source_name": "Bond Vigilantes (M&G)",
-      "source_kind": "article",
-      "categories": [
-        "macro",
-        "politics"
-      ],
-      "summary_zh": "文章回顾2012年欧债危机中多国通过政治意愿、央行支持与财政纪律实现复苏，但付出巨大经济代价。当前法国赤字高企、增长假设乐观，且面临2027年大选政治风险，作者认为“痛苦后变强”路径虽合理但政治接受度存疑，若无法实施则可能走向政府债务重组。",
-      "summary_en": "The article reviews how European governments resolved the 2012 debt crisis through political will, central bank support, and fiscal discipline, at great economic cost. It argues that France's high deficit, optimistic growth assumptions, and 2027 election risks make the 'pain-inflicted, get-stronger' path logical but politically uncertain; if rejected, a French restructuring of government securities could be the alternative.",
-      "detail_zh": "文章指出，上一次欧洲政府面临融资挑战是在2012年，当时通过政治意愿、央行行动和财政纪律的组合得以解决。经历问题的国家最终都走出了困境，但民众付出了代价：希腊实际GDP从2008年峰值下降超过四分之一，至今仍低约13%；葡萄牙和西班牙各损失近十分之一产出；意大利直到2022年才恢复至2008年水平。回报是借贷成本回落，改革与央行支持使这些国家得以在可承受利率下再融资，并随时间推动主权评级恢复。当前法国规模较大，普遍观点认为类似解决方案不可行，但作者指出2011年上述国家合计占欧元区GDP的31%，而法国今天仅占18%，欧洲曾处理过更大的问题。问题在于法国是否愿意承受痛苦：最新预算找到540亿欧元节省，但赤字仅从GDP的5.4%降至5.0%，且增长假设被法国自身财政监督机构认为乐观。要将债务稳定在当前收益率水平，需要略高于GDP 2%的基本盈余，而法国自1995年以来最好的五年平均值低于1%。此外，2027年总统选举中，国民联盟获胜不能排除，而另一端的梅朗雄已提出完全取消法国政府债务。现实中，没有政府希望违约，偿还义务使“痛苦后变强”成为逻辑上的解决方案。欧洲央行是2012年解决方案的重要部分，但支持是有条件的；对于赤字仍达5%且预算基于乐观增长的法国，不一定是明显候选。如果欧元区另一国陷入困境但财政稳健，欧洲央行可介入帮助，但这会使法国相对更暴露，差距可能更明显。拉加德将于2月离任，两位主要继任者均非法国人，下一任行长可能不太愿意给巴黎以疑罪从无的待遇。时间会证明局势如何发展。“痛苦后变强”路线是逻辑上的解决方案，但意味着要熬过痛苦。如果法国政治不接受这条变强之路，那么替代方案或许是FROGS：法国政府证券重组。",
-      "detail_en": "The article notes that the last time European governments faced a financing challenge was in 2012, resolved through a combination of political will, central bank action, and fiscal discipline. The countries that faced the problem came out the other side, but their populations paid: Greek real GDP fell by more than a quarter from its 2008 peak and is still around 13% below it today; Portugal and Spain each lost close to a tenth of output; Italy did not get back to its 2008 level until 2022. The payoff was that borrowing costs came back down, and reform plus central bank support allowed those countries to refinance at rates they could live with, leading over time to a recovery in sovereign ratings. Given France's size, the common view is that a similar resolution is off the table, but the author notes that taken together, the above countries were 31% of euro area GDP in 2011, while France today is 18%—Europe has dealt with a bigger problem before. The question is less whether France could take the medicine than whether it would: the latest budget finds €54bn of savings yet still only brings the deficit down from 5.4% to 5.0% of GDP, on growth assumptions France's own fiscal watchdog considers optimistic. Holding debt steady at today's yields would need a primary surplus of a little over 2% of GDP, and France's best five-year average since 1995 is below 1%. Then there is the 2027 presidential election, where a National Rally win can't be ruled out and Mélenchon has already floated cancelling French government debt altogether. Realistically, no government wants to default, and having to repay is what makes the 'Pain Inflicted, Get Stronger' solution the logical one. The ECB was a big part of the 2012 resolution, but support is conditional and for a country with a deficit still at 5% and a budget built on optimistic growth, France would not necessarily be an obvious candidate. If another euro area country got into difficulty but had its fiscal house in order, the ECB could help by stepping in, but that would leave France looking relatively more exposed—which could make the gap more stark. And with Lagarde leaving in February, and neither of the two leading candidates to replace her French, the next president may be less inclined to give Paris the benefit of the doubt. Time will tell how the situation develops; the 'Pain Inflicted, Get Stronger' (PIGS) route is the logical solution, but it means working through the pain. If French politics won't accept that route to getting stronger, then perhaps the alternative is FROGS: a French Restructuring Of Government Securities.",
-      "conclusion_zh": "法国财政调整的政治可行性是关键风险；若“痛苦后变强”路径无法实施，政府债务重组（FROGS）可能成为替代情景，需关注法国政治动向与欧洲央行立场变化。",
-      "conclusion_en": "The political feasibility of French fiscal adjustment is the key risk; if the 'pain-inflicted, get-stronger' path cannot be implemented, a government debt restructuring (FROGS) could become the alternative scenario, warranting attention to French politics and ECB stance shifts.",
-      "key_points": [
-        {
-          "zh": "2012年欧债危机中，受困国家通过改革与央行支持降低借贷成本，但希腊实际GDP至今仍比2008年峰值低约13%，葡萄牙和西班牙各损失近十分之一产出。",
-          "en": "In the 2012 euro crisis, troubled countries lowered borrowing costs through reform and central bank support, but Greek real GDP remains about 13% below its 2008 peak, and Portugal and Spain each lost close to a tenth of output."
-        },
-        {
-          "zh": "法国最新预算找到540亿欧元节省，但赤字仅从GDP的5.4%降至5.0%，增长假设被法国财政监督机构认为乐观。",
-          "en": "France's latest budget finds €54bn of savings but only reduces the deficit from 5.4% to 5.0% of GDP, on growth assumptions considered optimistic by France's fiscal watchdog."
-        },
-        {
-          "zh": "稳定债务需基本盈余略高于GDP的2%，而法国自1995年以来最佳五年平均值低于1%。",
-          "en": "Stabilizing debt would require a primary surplus of a little over 2% of GDP, while France's best five-year average since 1995 is below 1%."
-        },
-        {
-          "zh": "2027年总统选举中，国民联盟获胜不能排除，梅朗雄已提出取消法国政府债务。",
-          "en": "In the 2027 presidential election, a National Rally win can't be ruled out, and Mélenchon has already floated cancelling French government debt."
-        },
-        {
-          "zh": "欧洲央行支持是有条件的，法国赤字仍达5%且预算基于乐观增长，不一定是明显候选；拉加德离任后，下一任行长可能不太愿意给巴黎以疑罪从无的待遇。",
-          "en": "ECB support is conditional, and France—with a 5% deficit and a budget built on optimistic growth—is not necessarily an obvious candidate; with Lagarde leaving, the next president may be less inclined to give Paris the benefit of the doubt."
-        }
-      ],
-      "tags": [
-        "France",
-        "fiscal policy",
-        "euro area",
-        "ECB",
-        "debt restructuring"
-      ],
-      "tickers": [],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:oKWWsTV0qic",
-      "title": "Nvidia Turmoil Raises Stakes for the US-China Tech Rivalry",
-      "title_zh": "科技股反弹带动亚股走高，花旗CEO称科技股抛售略过度",
-      "url": "https://www.youtube.com/watch?v=oKWWsTV0qic",
-      "published_at": "2026-11-10T07:47:20+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "亚洲股市受科技股反弹提振上涨；花旗CEO Jane Fraser认为近期科技股抛售“略过度”；芝加哥联储主席Goolsbee表示美联储必须正视通胀失误；英伟达介入美国对Megaspeed芯片走私的调查。",
-      "summary_en": "Asian stocks rose on a tech rally; Citi CEO Jane Fraser said the recent tech selloff is 'slightly overdone'; Chicago Fed President Goolsbee said officials must address the inflation fail; Nvidia intervened in the US probe of Megaspeed chip smuggling.",
-      "detail_zh": "本期节目围绕科技股反弹与美联储政策展开。亚洲股市在科技股带动下走高，逢低买入的散户投资者从中受益。花旗CEO Jane Fraser表示，近期科技股的抛售“略有些过度”。芝加哥联储主席Goolsbee指出，美联储官员必须正视此前的通胀失误。前芝加哥联储主席Charles Evans就美联储政策与AI建设发表看法。此外，英伟达介入美国对Megaspeed芯片走私的调查，彭博观点专栏作家Shuli Ren讨论了英伟达风波对AI行业的影响。Anthropic撤回了一份显示其IPO目标的文件。节目还提到，中期选举后中国对AI的情绪比美国更积极；中国在全球汽车出口的主导地位以2700亿美元为代价；随着油价下滑，交易员重新评估通胀前景。",
-      "detail_en": "The program focused on the tech rally and Fed policy. Asian stocks rose led by tech, rewarding retail investors who bought the dip. Citi CEO Jane Fraser said the recent selloff in tech stocks is 'slightly overdone.' Chicago Fed President Goolsbee said officials must address the inflation fail. Former Chicago Fed President Charles Evans discussed Fed policy and the AI buildout. Nvidia intervened in the US probe of Megaspeed chip smuggling, and Bloomberg Opinion columnist Shuli Ren discussed implications for the AI industry. Anthropic retracted a filing that showed an IPO goal. The program also noted AI sentiment is more positive in China than in the US post-midterm elections; China's global auto export dominance comes at a $270B cost; and traders reassessed the inflation outlook as oil prices slid.",
-      "conclusion_zh": "科技股经历抛售后出现反弹，机构观点认为回调幅度或已偏大，但英伟达芯片走私调查等事件仍构成AI板块的潜在扰动。",
-      "conclusion_en": "Tech stocks rebounded after a selloff, with Citi's CEO suggesting the pullback may be overdone, though events like the Nvidia chip smuggling probe remain potential disruptions for the AI sector.",
-      "key_points": [
-        {
-          "zh": "亚洲股市受科技股反弹提振走高，逢低买入的散户投资者获得回报。",
-          "en": "Asian stocks rose on a tech rally, rewarding retail investors who bought the dip."
-        },
-        {
-          "zh": "花旗CEO Jane Fraser称近期科技股抛售“略有些过度”。",
-          "en": "Citi CEO Jane Fraser said the recent selloff in tech stocks is 'slightly overdone.'"
-        },
-        {
-          "zh": "芝加哥联储主席Goolsbee表示，美联储官员必须正视通胀失误。",
-          "en": "Chicago Fed President Goolsbee said officials must address the inflation fail."
-        },
-        {
-          "zh": "英伟达介入美国对Megaspeed芯片走私的调查。",
-          "en": "Nvidia intervened in the US probe of Megaspeed chip smuggling."
-        },
-        {
-          "zh": "Anthropic撤回了一份显示其IPO目标的文件。",
-          "en": "Anthropic retracted a filing that showed an IPO goal."
-        }
-      ],
-      "tags": [
-        "tech rally",
-        "Fed policy",
-        "Nvidia probe",
-        "AI sentiment",
-        "inflation"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:U-MOXusMMcY",
-      "title": "Nvidia Faces Scrutiny Over US Chip-Smuggling Probe as AI Stocks Rebound",
-      "title_zh": "英伟达面临芯片走私调查新审视，亚洲AI股反弹",
-      "url": "https://www.youtube.com/watch?v=U-MOXusMMcY",
-      "published_at": "2026-11-10T07:38:46+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达因涉美芯片走私调查面临新审视，同时中国敞口担忧持续，但投资者在近期抛售后回流芯片股，Al Dhabi Capital的Rashmi Garg对英伟达持谨慎建设性看法。Anthropic撤回IPO申请，增加AI融资周期不确定性。",
-      "summary_en": "Nvidia faces fresh scrutiny over its role in a US chip-smuggling investigation, while concerns around China exposure persist. Investors are returning to chipmakers after a recent selloff, and Al Dhabi Capital's Rashmi Garg remains cautiously constructive on Nvidia. Anthropic withdraws its IPO filing, adding uncertainty to the AI funding cycle.",
-      "detail_zh": "英伟达因在美国芯片走私调查中的角色面临新的审视，同时公司还承受着与中国敞口相关的担忧压力。尽管如此，在近期抛售后，投资者正重新回流芯片制造商，Al Dhabi Capital高级投资组合经理Rashmi Garg表示她对英伟达仍持谨慎建设性态度。亚洲AI相关股票出现反弹。另一方面，Anthropic撤回IPO申请，加剧了AI融资周期的不确定性。花旗的Jane Fraser讨论AI建设时表示，中国围绕该技术的情绪似乎比美国更积极。此外，中国进口以2021年以来最快速度增长，贸易顺差再次超过1万亿美元；据报道Moonshot在中国租用英伟达最先进的AI芯片。",
-      "detail_en": "Nvidia faces fresh scrutiny over its role in a US chip-smuggling investigation, while the company is also under pressure from concerns around China exposure. Even so, investors are returning to chipmakers after the recent selloff, and Rashmi Garg, Senior Portfolio Manager at Al Dhabi Capital, says she remains cautiously constructive on Nvidia. Asian AI-linked shares rebounded. Separately, Anthropic withdrew its IPO filing, adding to uncertainty around the AI funding cycle. Citi's Jane Fraser, discussing the AI buildout, said sentiment around the technology appears more positive in China than in the US. China's imports expanded at their fastest pace since 2021 and the trade surplus topped $1 trillion again; Moonshot is reported to be renting Nvidia's most advanced AI chips in China.",
-      "conclusion_zh": "英伟达短期面临调查与地缘担忧扰动，但资金回流芯片股及机构谨慎建设性立场显示AI主线仍受关注；Anthropic撤回IPO提示AI融资环境不确定性。",
-      "conclusion_en": "Nvidia faces near-term noise from the investigation and geopolitical concerns, but returning flows into chipmakers and a cautiously constructive institutional stance suggest AI remains in focus; Anthropic's IPO withdrawal signals uncertainty in the AI funding environment.",
-      "key_points": [
-        {
-          "zh": "英伟达因涉美芯片走私调查面临新审视，同时中国敞口担忧持续。",
-          "en": "Nvidia faces fresh scrutiny over its role in a US chip-smuggling investigation, with China exposure concerns persisting."
-        },
-        {
-          "zh": "近期抛售后投资者回流芯片股，亚洲AI相关股票反弹；Al Dhabi Capital的Rashmi Garg对英伟达持谨慎建设性看法。",
-          "en": "Investors are returning to chipmakers after a recent selloff, with Asian AI-linked shares rebounding; Al Dhabi Capital's Rashmi Garg remains cautiously constructive on Nvidia."
-        },
-        {
-          "zh": "Anthropic撤回IPO申请，增加AI融资周期不确定性。",
-          "en": "Anthropic withdraws its IPO filing, adding uncertainty around the AI funding cycle."
-        },
-        {
-          "zh": "花旗Jane Fraser称中国对AI技术的情绪似乎比美国更积极。",
-          "en": "Citi's Jane Fraser says sentiment around AI technology appears more positive in China than in the US."
-        },
-        {
-          "zh": "中国进口以2021年以来最快速度增长，贸易顺差再次超过1万亿美元；据报道Moonshot在中国租用英伟达最先进AI芯片。",
-          "en": "China's imports expanded at their fastest pace since 2021 and the trade surplus topped $1 trillion again; Moonshot is reported to be renting Nvidia's most advanced AI chips in China."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "chip-smuggling",
-        "AI-funding",
-        "China-exposure",
-        "semiconductors"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
       "sentiment": "neutral"
     }
   ]
