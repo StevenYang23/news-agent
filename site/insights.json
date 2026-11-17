@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-17T09:15:21.245153+00:00",
+  "generated_at": "2026-11-17T10:13:32.222464+00:00",
   "insights": [
+    {
+      "guid": "yt:B26ZwjDQCdU",
+      "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
+      "title_zh": "德意志银行因涉爱泼斯坦可疑交易报道下跌",
+      "url": "https://www.youtube.com/watch?v=B26ZwjDQCdU",
+      "published_at": "2026-11-17T09:50:41+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "《金融时报》报道称德意志银行处理了与已故性犯罪者杰弗里·爱泼斯坦相关的5.82亿美元可疑付款，内部文件显示该行2019年在美国提交了相关可疑活动报告。受此消息影响，德意志银行股价下跌。",
+      "summary_en": "Deutsche Bank shares fell after the Financial Times reported the firm processed $582 million of suspicious payments linked to the late sex offender Jeffrey Epstein. Internal documents showed the bank filed suspicious activity reports in the US in 2019 identifying that amount of money transfers related to Epstein.",
+      "detail_zh": "《金融时报》周二援引泄露的数百万份德意志银行文件报道，该行处理了与已故性犯罪者杰弗里·爱泼斯坦相关的5.82亿美元可疑付款。内部文件显示，德意志银行于2019年在美国提交了所谓的可疑活动报告，识别出这一金额的与爱泼斯坦相关的资金转移。报道发布后，德意志银行股价下跌。彭博的Steven Arons对此进行了报道。",
+      "detail_en": "The Financial Times reported on Tuesday, citing a leak of millions of Deutsche Bank documents, that the firm had processed $582 million of suspicious payments linked to the late sex offender Jeffrey Epstein. Internal documents showed that the German bank filed so-called suspicious activity reports in the US in 2019 identifying that amount of money transfers related to Epstein. Deutsche Bank dropped after the report. Bloomberg's Steven Arons reports.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "《金融时报》报道德意志银行处理了与爱泼斯坦相关的5.82亿美元可疑付款。",
+          "en": "The Financial Times reported Deutsche Bank processed $582 million of suspicious payments linked to Epstein."
+        },
+        {
+          "zh": "内部文件显示该行2019年在美国提交了识别该金额资金转移的可疑活动报告。",
+          "en": "Internal documents showed the bank filed suspicious activity reports in the US in 2019 identifying that amount of money transfers."
+        },
+        {
+          "zh": "报道基于泄露的数百万份德意志银行文件。",
+          "en": "The report was based on a leak of millions of Deutsche Bank documents."
+        },
+        {
+          "zh": "消息公布后德意志银行股价下跌。",
+          "en": "Deutsche Bank shares dropped after the report."
+        }
+      ],
+      "tags": [
+        "Deutsche Bank",
+        "Epstein",
+        "suspicious payments",
+        "regulatory risk"
+      ],
+      "tickers": [],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:C9jfuVjwA2I",
       "title": "Nvidia Fallout Hits Southeast Asia Hard",
