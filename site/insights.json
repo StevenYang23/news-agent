@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-11-17T05:13:22.109857+00:00",
+  "generated_at": "2026-11-17T06:22:02.276625+00:00",
   "insights": [
+    {
+      "guid": "yt:8pIu2UOlZk0",
+      "title": "Anthropic IPO: What Australian Investors Need to Know",
+      "title_zh": "澳大利亚投资者可参与Anthropic IPO，AI交易风险受关注",
+      "url": "https://www.youtube.com/watch?v=8pIu2UOlZk0",
+      "published_at": "2026-11-17T05:00:38+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "澳大利亚投资者成为美国以外少数可直接参与Anthropic IPO的群体之一。North Star Funds Management管理合伙人Claudia Kwan在彭博电视节目中讨论了AI交易的风险，以及澳大利亚如何从AI基础设施热潮中受益。",
+      "summary_en": "Australian investors are among a select group outside the US able to participate directly in Anthropic's IPO. Claudia Kwan, Managing Partner at North Star Funds Management, discussed the risks surrounding the AI trade and how Australia could benefit from the AI infrastructure boom on Bloomberg Television.",
+      "detail_zh": "原文指出，澳大利亚投资者属于美国以外少数能够直接参与Anthropic IPO的群体。North Star Funds Management管理合伙人Claudia Kwan在“Bloomberg: The Asia Trade”节目中讨论了AI交易面临的风险。她还谈及澳大利亚如何从AI基础设施热潮中获益。原文未提供IPO的具体时间、估值、发行规模等细节，也未展开Kwan对风险的具体观点。",
+      "detail_en": "The original text states that Australian investors are among a select group outside the US able to participate directly in Anthropic's IPO. Claudia Kwan, Managing Partner at North Star Funds Management, discussed the risks surrounding the AI trade on \"Bloomberg: The Asia Trade.\" She also discussed how Australia could benefit from the AI infrastructure boom. The original text does not provide specific details on the IPO's timing, valuation, or size, nor does it elaborate on Kwan's specific views on the risks.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "澳大利亚投资者可罕见地直接参与Anthropic IPO。",
+          "en": "Australian investors can directly participate in Anthropic's IPO, which is rare."
+        },
+        {
+          "zh": "North Star Funds Management的Claudia Kwan讨论了AI交易的风险。",
+          "en": "Claudia Kwan of North Star Funds Management discussed the risks surrounding the AI trade."
+        },
+        {
+          "zh": "Kwan还谈及澳大利亚如何从AI基础设施热潮中受益。",
+          "en": "Kwan also discussed how Australia could benefit from the AI infrastructure boom."
+        }
+      ],
+      "tags": [
+        "Anthropic IPO",
+        "AI trade risks",
+        "AI infrastructure",
+        "Australia"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:GIgfxEotFZA",
       "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
@@ -16742,55 +16782,6 @@
       "tickers": [
         "NVDA"
       ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:lM26ssss3QY",
-      "title": "China Trade Surplus Tops $1 Trillion for Second Time",
-      "title_zh": "彭博《中国秀》节目要点：英伟达介入芯片走私调查，亚洲股市随美科技股上涨",
-      "url": "https://www.youtube.com/watch?v=lM26ssss3QY",
-      "published_at": "2026-11-10T06:10:52+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "本期节目涵盖英伟达介入芯片走私调查、亚洲股市受美科技股提振上涨、Anthropic 拟 IPO 但随后撤回相关文件、中国车企出口繁荣难转化为利润，以及特朗普称无需进一步打击伊朗等话题。",
-      "summary_en": "This episode covers Nvidia's intervention in a chip smuggling probe, Asian stocks rallying after a US tech surge, Anthropic's IPO filing being retracted, Chinese automakers struggling to turn export boom into profits, and Trump saying further strikes on Iran are 'not necessary.'",
-      "detail_zh": "节目首先报道英伟达介入芯片走私调查。随后讨论亚洲股市在美国科技股大涨后走高。Anthropic 拟进行 IPO，但据路透报道，其随后撤回了显示 IPO 目标的文件。彭博情报指出，2026 年双十一增长预计为 2023 年以来最慢。中国汽车制造商难以将出口繁荣转化为利润。节目还包含对 Neolix 的 Will Zhao 的商业展望访谈、Direxion 的 Douglas Yones 关于杠杆 ETF 的讨论，以及花旗集团 Jane Fraser 对 AI 前景和中国战略的看法。此外，有观点认为黄仁勋的影响力超过英伟达本身是个问题。特朗普表示无需进一步打击伊朗。",
-      "detail_en": "The program first reports that Nvidia intervened in a chip smuggling probe. It then discusses Asian stocks rallying after a US tech surge. Anthropic is set to IPO, but Reuters reports it retracted a filing that showed an IPO goal. Bloomberg Intelligence notes that 2026 Singles' Day growth is seen as the slowest since 2023. Chinese automakers struggle to turn an export boom into profits. The episode also includes an interview with Neolix's Will Zhao on business outlook, Direxion's Douglas Yones on leveraged ETFs, and Citigroup's Jane Fraser on AI outlook and China strategy. Additionally, an opinion segment argues that Huang being bigger than Nvidia is a problem. Trump says further strikes on Iran are 'not necessary.'",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "英伟达介入芯片走私调查",
-          "en": "Nvidia intervened in a chip smuggling probe"
-        },
-        {
-          "zh": "亚洲股市在美国科技股大涨后走高",
-          "en": "Asian stocks rallied after a US tech surge"
-        },
-        {
-          "zh": "Anthropic 拟 IPO，但随后撤回显示 IPO 目标的文件",
-          "en": "Anthropic set to IPO but retracted a filing showing an IPO goal"
-        },
-        {
-          "zh": "中国车企难以将出口繁荣转化为利润",
-          "en": "Chinese automakers struggle to turn export boom into profits"
-        },
-        {
-          "zh": "特朗普称无需进一步打击伊朗",
-          "en": "Trump says further strikes on Iran 'not necessary'"
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Anthropic",
-        "China autos",
-        "Iran",
-        "Asian stocks"
-      ],
-      "tickers": [],
       "sentiment": "neutral"
     }
   ]
