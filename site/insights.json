@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-11-17T00:33:29.792042+00:00",
+  "generated_at": "2026-11-17T05:13:22.109857+00:00",
   "insights": [
+    {
+      "guid": "yt:GIgfxEotFZA",
+      "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+      "title_zh": "彭博亚洲交易：英伟达财报与Anthropic IPO受关注，美国收紧对华AI芯片远程访问",
+      "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+      "published_at": "2026-11-17T04:29:07+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "投资者正为英伟达财报和Anthropic IPO做准备；美国采取措施限制中国远程访问英伟达AI芯片，新加坡政府正研究美国AI芯片许可临时规则。美联储Hammack谈及利率路径，前日本央行行长黑田东彦认为利率有升破中性水平的可能。",
+      "summary_en": "Investors are bracing for Nvidia earnings and the Anthropic IPO; the US moves to curb China's remote access to Nvidia AI chips, and Singapore's government is studying the US interim rule on AI chip licenses. Fed's Hammack discusses the rate path, and former BOJ Chief Kuroda sees a chance of rates rising above neutral.",
+      "detail_zh": "本期彭博《亚洲交易》聚焦多项市场主题。投资者正为英伟达财报和Anthropic IPO做准备。美国采取措施限制中国远程访问英伟达AI芯片，新加坡政府表示正在研究美国关于AI芯片许可的临时规则。美联储Hammack就利率路径发表看法。摩根大通的Mark Fiteny讨论英伟达对AI交易的影响。美国银行Moynihan表示部分交易被推迟至2027年。摩根大通正努力修复一个“技术问题”，美国金融公司面临服务中断。前日本央行行长黑田东彦表示利率有升破中性水平的可能，并称日本央行条件仍具宽松性。新加坡10月非石油对美出口同比增长214.6%。澳洲联储会议纪要显示，由于价格风险仍偏向上行，澳洲联储加息。",
+      "detail_en": "This episode of Bloomberg: The Asia Trade covers several market themes. Investors are bracing for Nvidia earnings and the Anthropic IPO. The US moves to curb China's remote access to Nvidia's AI chips, and Singapore's government says it is studying the US interim rule on AI chip licenses. Fed's Hammack comments on the rate path. JPMorgan's Mark Fiteny discusses Nvidia's impact on AI deals. BofA's Moynihan says some deals are getting pushed to 2027. JPMorgan works to fix a 'technical issue' as US financial firms face disruptions. Former BOJ Chief Kuroda sees a chance of rates rising above neutral and says BOJ conditions remain accommodative. Singapore's October non-oil exports to the US rose 214.6% Y/Y. RBA minutes show the RBA raised rates as price risks remained to the upside.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "投资者正为英伟达财报和Anthropic IPO做准备。",
+          "en": "Investors are bracing for Nvidia earnings and the Anthropic IPO."
+        },
+        {
+          "zh": "美国采取措施限制中国远程访问英伟达AI芯片，新加坡政府正研究美国AI芯片许可临时规则。",
+          "en": "The US moves to curb China's remote access to Nvidia's AI chips; Singapore's government is studying the US interim rule on AI chip licenses."
+        },
+        {
+          "zh": "美联储Hammack就利率路径发表看法；前日本央行行长黑田东彦认为利率有升破中性水平的可能。",
+          "en": "Fed's Hammack comments on the rate path; former BOJ Chief Kuroda sees a chance of rates rising above neutral."
+        },
+        {
+          "zh": "美国银行Moynihan表示部分交易被推迟至2027年；摩根大通正努力修复一个“技术问题”，美国金融公司面临服务中断。",
+          "en": "BofA's Moynihan says some deals are getting pushed to 2027; JPMorgan works to fix a 'technical issue' as US financial firms face disruptions."
+        },
+        {
+          "zh": "新加坡10月非石油对美出口同比增长214.6%；澳洲联储会议纪要显示，由于价格风险仍偏向上行，澳洲联储加息。",
+          "en": "Singapore's October non-oil exports to the US rose 214.6% Y/Y; RBA minutes show the RBA raised rates as price risks remained to the upside."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI chips",
+        "Anthropic IPO",
+        "Fed",
+        "BOJ"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:cMZk9bWdFZc",
       "title": "United Airlines Says It Has a Widespread System Outage: AP",
@@ -16743,141 +16792,6 @@
       ],
       "tickers": [],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:v6R3dzvAE90",
-      "title": "Are Investors Buying or Selling U S  Stocks? | The Bid Investing podcast",
-      "title_zh": "投资者情绪调查：整体温和看涨，但分歧显著，尤其美股",
-      "url": "https://www.youtube.com/watch?v=v6R3dzvAE90",
-      "published_at": "2026-11-10T05:00:38+00:00",
-      "source_name": "BlackRock",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech",
-        "volatility"
-      ],
-      "summary_zh": "一项投资者调查显示，全球投资者情绪平均温和看涨，亚洲、欧洲、美国均如此。但这一均值掩盖了巨大分歧：投资者对是否增加或减少敞口的回答都是“是”，美股尤为明显。投资者关注AI建设带来的未来回报，同时也在考量夏季波动若持续，该交易应保留多少。",
-      "summary_en": "An investor survey shows average sentiment is mildly bullish across Asia, Europe, and the US, but this average masks large differences of view. Investors consistently answer 'yes' to both adding and reducing exposure, especially in US equities. They are asking about future returns from the AI build-out and about volatility, questioning how much of the trade to keep if the volatile summer continues.",
-      "detail_zh": "调查显示，全球投资者情绪平均温和看涨，亚洲、欧洲和美国均呈现这一基调。然而，这一平均值掩盖了巨大的观点分歧。当被问及是否计划增加或减少敞口时，投资者给出的唯一一致答案是“是”——即同时存在增加和减少的意愿，美股尤其如此。投资者在关注AI建设带来的未来回报，市场对此有所依赖。同时，他们也在询问波动性：今年夏天波动较大，若波动持续，他们需要考量该交易应保留多少。",
-      "detail_en": "The survey shows average investor sentiment is mildly bullish globally, including Asia, Europe, and the US. However, this average masks significant differences of view. When asked whether they plan to add or reduce exposure, the only consistent answer is 'yes'—both intentions coexist, especially for US equities. Investors are asking about future returns from the AI build-out, which markets have relied on. They are also asking about volatility: the summer has been volatile, and if that continues, they need to consider how much of the trade to keep.",
-      "conclusion_zh": "投资者情绪整体温和看涨但分歧显著，AI交易面临波动性考验，需关注仓位取舍。",
-      "conclusion_en": "Sentiment is mildly bullish but deeply divided, with the AI trade facing a volatility test and position sizing in focus.",
-      "key_points": [
-        {
-          "zh": "全球投资者情绪平均温和看涨，亚洲、欧洲、美国均如此。",
-          "en": "Average investor sentiment is mildly bullish globally, including Asia, Europe, and the US."
-        },
-        {
-          "zh": "平均值掩盖巨大分歧：投资者对增加和减少敞口的回答都是“是”，美股尤为明显。",
-          "en": "The average masks large differences: investors answer 'yes' to both adding and reducing exposure, especially in US equities."
-        },
-        {
-          "zh": "投资者关注AI建设带来的未来回报，市场对此有所依赖。",
-          "en": "Investors are asking about future returns from the AI build-out, which markets have relied on."
-        },
-        {
-          "zh": "投资者也在询问波动性：夏季波动较大，若持续，需考量该交易应保留多少。",
-          "en": "Investors are also asking about volatility: the summer has been volatile, and if it continues, they need to consider how much of the trade to keep."
-        }
-      ],
-      "tags": [
-        "investor sentiment",
-        "US equities",
-        "AI build-out",
-        "volatility"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:5FqG0a2VVb0",
-      "title": "The Race to Dominate Space",
-      "title_zh": "中美新一轮太空竞赛：谁将率先登月",
-      "url": "https://www.youtube.com/watch?v=5FqG0a2VVb0",
-      "published_at": "2026-11-10T05:00:11+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "中国与美国正展开新一轮太空竞赛，争夺太空主导权。成为“太空霸权”不仅有助于提升中国的全球地位，还可能提振其经济与军事。",
-      "summary_en": "China and the US are engaged in a new space race, competing for dominance in space. Becoming a \"space hegemon\" would not only help China's global standing, but could also bolster its economy and military.",
-      "detail_zh": "文章指出，中国和美国正在展开新一轮竞争，这一次的焦点是太空主导权。原文提出，成为“太空霸权”不仅有助于提升中国的全球地位，还可能提振其经济与军事。Bruce Einhorn 对此进行了解释。原文未提供更多具体细节、数字或时间表。",
-      "detail_en": "The article states that China and the US are competing once again, this time for dominance in space. It suggests that becoming a \"space hegemon\" would not only help China's global standing, but could also bolster its economy and military. Bruce Einhorn explains. No further specific details, figures, or timelines are provided in the original text.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "中美正在展开新一轮太空竞赛，焦点是太空主导权。",
-          "en": "China and the US are in a new space race, competing for dominance in space."
-        },
-        {
-          "zh": "成为“太空霸权”可能提升中国的全球地位。",
-          "en": "Becoming a \"space hegemon\" could enhance China's global standing."
-        },
-        {
-          "zh": "太空主导权还可能提振中国的经济与军事。",
-          "en": "Space dominance could also bolster China's economy and military."
-        }
-      ],
-      "tags": [
-        "space race",
-        "China",
-        "US",
-        "geopolitics"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:mLUY-cKzYtA",
-      "title": "Anthropic Prepares to Market IPO as Nvidia Scandal Stokes AI Jitters",
-      "title_zh": "亚洲交易时段：英伟达介入芯片走私调查，逢低买入推动美股大涨",
-      "url": "https://www.youtube.com/watch?v=mLUY-cKzYtA",
-      "published_at": "2026-11-10T04:26:39+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "彭博亚洲交易时段节目要点：英伟达介入美国芯片走私调查；Anthropic 将正式启动 IPO 营销；逢低买入推动美股创 4 月以来最佳单日表现；日本央行 10 月会议纪要暗示 12 月可能加息。",
-      "summary_en": "Bloomberg: The Asia Trade highlights: Nvidia intervened in a US chip smuggling probe; Anthropic is set to begin formally marketing its IPO; dip buying drove US stocks to their best day since April; BOJ October meeting summary suggests a chance of a December rate hike.",
-      "detail_zh": "本期节目涵盖多项市场动态。英伟达介入美国芯片走私调查，Floodlines Research 的 Anna Wu 就此事件的影响进行了分析。Anthropic 将正式开始为其 IPO 进行营销。逢低买入推动美股创下自 4 月以来最佳单日表现，亚洲股市有望受美国科技股上涨带动而走高，韩国 KOSPI 指数跳涨，韩国芯片股跟随美股涨势。日本方面，9 月经常账户盈余收窄至 149.9 亿美元，家庭支出连续第 10 个月下降；日本央行 10 月会议纪要显示 12 月加息存在可能性。澳大利亚消费者信心因生活成本担忧而下滑。软银预计将公布利润大幅下降。此外，花旗的 Kaleem Rizvi 就中国公司银行业务策略发表独家观点，民主党考虑结束伊朗战争的方式，台湾在区域科技股上涨中受到关注，韩国旅游入境人数超过 1700 万创历史新高。",
-      "detail_en": "The program covers multiple market developments. Nvidia intervened in a US chip smuggling probe, and Floodlines Research's Anna Wu discussed the impact of Nvidia's scandal. Anthropic is set to begin formally marketing its IPO. Dip buying drove US stocks to their best day since April, and Asian stocks are poised to rally on the US tech surge; South Korea's KOSPI jumped as Korean chipmaker stocks tracked the US rally. In Japan, the September current-account surplus narrowed to $14.99B, household spending fell for a 10th month, and the BOJ October meeting summary suggests a chance of a December rate hike. Australia consumer confidence slumped on cost-of-living fears. SoftBank is set to report a steep profit drop, according to a survey. Additionally, Citi's Kaleem Rizvi gave an exclusive view on China corporate banking strategy, Democrats considered ways to end the Iran war, Taiwan was in focus amid a regional tech rally, and South Korea's tourist arrivals topped 17 million, hitting an all-time high.",
-      "conclusion_zh": "美股在逢低买入推动下创 4 月以来最佳单日表现，亚洲科技股（尤其是韩国芯片股）有望跟随；同时需关注英伟达芯片走私调查的后续影响及日本央行 12 月加息可能性。",
-      "conclusion_en": "US stocks posted their best day since April on dip buying, with Asian tech stocks—especially Korean chipmakers—poised to follow; investors should watch the fallout from Nvidia's chip smuggling probe and the possibility of a BOJ December rate hike.",
-      "key_points": [
-        {
-          "zh": "英伟达介入美国芯片走私调查",
-          "en": "Nvidia intervened in a US chip smuggling probe"
-        },
-        {
-          "zh": "Anthropic 将正式启动 IPO 营销",
-          "en": "Anthropic is set to begin formally marketing its IPO"
-        },
-        {
-          "zh": "逢低买入推动美股创 4 月以来最佳单日表现",
-          "en": "Dip buying drove US stocks to their best day since April"
-        },
-        {
-          "zh": "日本央行 10 月会议纪要暗示 12 月可能加息",
-          "en": "BOJ October meeting summary suggests a chance of a December rate hike"
-        },
-        {
-          "zh": "韩国 KOSPI 跳涨，芯片股跟随美股涨势",
-          "en": "KOSPI jumps as Korean chipmaker stocks track US rally"
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Anthropic IPO",
-        "US stocks",
-        "BOJ",
-        "KOSPI"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
