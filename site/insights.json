@@ -1,6 +1,196 @@
 {
-  "generated_at": "2026-11-16T23:11:23.888336+00:00",
+  "generated_at": "2026-11-17T00:33:29.792042+00:00",
   "insights": [
+    {
+      "guid": "yt:cMZk9bWdFZc",
+      "title": "United Airlines Says It Has a Widespread System Outage: AP",
+      "title_zh": "Bloomberg《Balance of Power》节目要点：芯片出口管制、FAA系统故障与Anthropic IPO需求",
+      "url": "https://www.youtube.com/watch?v=cMZk9bWdFZc",
+      "published_at": "2026-11-17T00:24:43+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目聚焦政治与全球商业交叉点：前财长杰克·卢讨论财长贝森特与商务部长卢特尼克在对华政策上的紧张关系、芯片出口管制及英伟达相关影响；马里兰州州长摩尔谈及数据中心建设与监管；航空安全专家讨论FAA全国停飞事件及系统现代化风险；此外，Anthropic IPO据报吸引大量投资者需求。",
+      "summary_en": "This episode of Balance of Power covers the intersection of politics and global business: former Treasury Secretary Jack Lew discusses tensions between Treasury Secretary Bessent and Commerce Secretary Lutnick over China policy, chip export controls and fallout around Nvidia; Maryland Governor Wes Moore discusses data center buildout and regulation; an aviation safety expert discusses the FAA nationwide ground stop and risks of accelerating technology overhaul; and Anthropic's IPO reportedly draws massive investor demand.",
+      "detail_zh": "节目首先由Bloomberg的Tyler Kendall讨论特朗普的菲律宾议程与芯片出口限制。马里兰州州长Wes Moore（民主党）阐述其第二任期优先事项，包括住房、移民和数据中心建设，并谈及空中交通管制危机与FAA现代化、马里兰州的数据中心监管，以及伊朗战争、政府拨款和联邦雇员等议题。Embry-Riddle波音航空与航天安全中心副主任Kristy Kiernan讨论周五FAA故障及美联航系统故障的后续影响、加速该机构技术 overhaul 的风险，并认为旅客仍应对飞行抱有信心。前财政部长Jack Lew讨论财长Scott Bessent与商务部长Howard Lutnick在对华政策上的紧张关系、政府对芯片出口管制的处理以及围绕英伟达的后续影响，并谈及英伟达的未来与黄仁勋的领导力。节目还提到Anthropic IPO吸引大量投资者需求，以及政治小组讨论民主党参议院多数党领袖舒默与范霍伦之争、特朗普与习近平及普京的会晤、美联航故障加剧FAA资金辩论。",
+      "detail_en": "The program begins with Bloomberg's Tyler Kendall on Trump's Philippines agenda and chip export curbs. Maryland Governor Wes Moore (D) discusses his second-term priorities including housing, immigration and the data center buildout, as well as the air traffic control crisis and FAA modernization, Maryland's data center regulations, and issues including the Iran war, government funding and federal workers. Kristy Kiernan, Associate Director of Embry-Riddle's Boeing Center for Aviation and Aerospace Safety, discusses the fallout from Friday's FAA outage and a separate United Airlines system outage, the risks of accelerating the agency's technology overhaul, and why travelers should still feel confident flying. Former Treasury Secretary Jack Lew discusses tensions between Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick over China policy, the administration's handling of chip export controls and the fallout surrounding Nvidia, as well as Nvidia's future and Jensen Huang's leadership. The program also notes that Anthropic's IPO draws massive investor demand, and a political panel discusses the Schumer vs. Van Hollen contest for Majority Leader, Trump's meetings with Xi Jinping and Vladimir Putin, and the United outage adding to the FAA funding debate.",
+      "conclusion_zh": "节目凸显芯片出口管制与对华政策内部分歧对英伟达等科技股的政策风险，同时FAA系统故障与现代化压力可能影响航空板块及政府拨款辩论。",
+      "conclusion_en": "The program highlights policy risks for tech stocks like Nvidia from chip export controls and internal divisions over China policy, while FAA system outages and modernization pressures may affect aviation stocks and the government funding debate.",
+      "key_points": [
+        {
+          "zh": "前财长杰克·卢讨论财长贝森特与商务部长卢特尼克在对华政策上的紧张关系，以及芯片出口管制和英伟达相关影响。",
+          "en": "Former Treasury Secretary Jack Lew discusses tensions between Treasury Secretary Bessent and Commerce Secretary Lutnick over China policy, along with chip export controls and fallout around Nvidia."
+        },
+        {
+          "zh": "马里兰州州长摩尔谈及数据中心建设与监管，以及FAA现代化和空中交通管制危机。",
+          "en": "Maryland Governor Moore discusses data center buildout and regulation, as well as FAA modernization and the air traffic control crisis."
+        },
+        {
+          "zh": "航空安全专家Kristy Kiernan讨论FAA全国停飞和美联航系统故障的后续影响，以及加速技术 overhaul 的风险。",
+          "en": "Aviation safety expert Kristy Kiernan discusses fallout from the FAA nationwide ground stop and United Airlines system outage, and the risks of accelerating technology overhaul."
+        },
+        {
+          "zh": "Anthropic IPO据报吸引大量投资者需求。",
+          "en": "Anthropic's IPO reportedly draws massive investor demand."
+        },
+        {
+          "zh": "政治小组讨论民主党多数党领袖之争、特朗普与习近平及普京的会晤，以及美联航故障对FAA资金辩论的影响。",
+          "en": "Political panel discusses the Democratic Majority Leader contest, Trump's meetings with Xi Jinping and Vladimir Putin, and the United outage's impact on the FAA funding debate."
+        }
+      ],
+      "tags": [
+        "chip export controls",
+        "Nvidia",
+        "FAA outage",
+        "Anthropic IPO",
+        "China policy"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:Yt_wdKWStqM",
+      "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues",
+      "title_zh": "美股连跌三日，英伟达财报与AI芯片出口管制成焦点",
+      "url": "https://www.youtube.com/watch?v=Yt_wdKWStqM",
+      "published_at": "2026-11-17T00:17:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "美股连续第三个交易日下跌，市场关注英伟达即将发布的财报、AI板块抛售以及美国收紧AI芯片出口管制。Citi Wealth指出科技股估值与去杠杆压力，并提示利率走高与通胀粘性风险。",
+      "summary_en": "U.S. stocks fell for a third straight session as investors focused on Nvidia's upcoming earnings, an AI selloff, and tighter U.S. AI chip export controls. Citi Wealth flagged tech valuations and deleveraging, along with risks from higher rates and sticky inflation.",
+      "detail_zh": "节目讨论市场在关键一周开局下滑，AI板块出现抛售，英伟达和数据中心支出成为焦点。Anthropic IPO及其对AI投资未来的影响被提及。美国联邦航空管理局（FAA）全国停飞导致航空公司受困。Citi Wealth的J.P. Coviello讨论了科技股估值和去杠杆，并提及利率走高与通胀粘性风险。收盘时段，股市连续第三日下跌，英伟达在财报前下跌，摩根大通出现技术问题，L3Harris事件发酵，伯克希尔哈撒韦披露最新持仓。节目还关注英伟达财报预览、英伟达在黄仁勋时代后面临的重大考验、增长、资本支出与政治风险，以及美国收紧AI芯片出口管制引发的国家安全担忧。此外，节目讨论了体育投资机会、大学体育的私人资本与未来、运动员集体谈判以及NIL（姓名、形象和肖像权）收入。",
+      "detail_en": "The program discussed markets sliding as a crucial week begins, an AI selloff with Nvidia and data center spending in focus. Anthropic IPO and the future of AI investment were mentioned. A nationwide FAA ground stop left airlines reeling. Citi Wealth's J.P. Coviello discussed tech valuations and deleveraging, citing risks from higher rates and sticky inflation. At the closing bell, stocks fell for a third straight session, Nvidia dropped ahead of earnings, JPMorgan had technical issues, L3Harris fallout continued, and Berkshire Hathaway revealed its latest holdings. The show also covered Nvidia earnings preview, the major test Nvidia faces after the Jensen Huang era, growth, capex and political risks, and national security concerns over U.S. tightening AI chip export controls. Additionally, it explored investing in the business of sports, private capital and the future of college sports, college athletes pushing for collective bargaining, and NIL and college sports revenue.",
+      "conclusion_zh": "市场短期承压，英伟达财报与AI芯片出口管制进展将成为美股方向的关键变量。",
+      "conclusion_en": "Markets face near-term pressure, with Nvidia's earnings and AI chip export control developments as key variables for U.S. equity direction.",
+      "key_points": [
+        {
+          "zh": "美股连续第三个交易日下跌，市场在关键一周开局走低。",
+          "en": "U.S. stocks fell for a third straight session as markets slid to start a crucial week."
+        },
+        {
+          "zh": "AI板块出现抛售，英伟达和数据中心支出成为关注焦点。",
+          "en": "An AI selloff occurred, with Nvidia and data center spending in focus."
+        },
+        {
+          "zh": "Citi Wealth的J.P. Coviello讨论了科技股估值和去杠杆，并提示利率走高与通胀粘性风险。",
+          "en": "Citi Wealth's J.P. Coviello discussed tech valuations and deleveraging, flagging risks from higher rates and sticky inflation."
+        },
+        {
+          "zh": "美国收紧AI芯片出口管制，引发国家安全担忧。",
+          "en": "The U.S. tightened AI chip export controls, raising national security concerns."
+        },
+        {
+          "zh": "伯克希尔哈撒韦披露最新持仓；英伟达在财报前下跌。",
+          "en": "Berkshire Hathaway revealed its latest holdings; Nvidia dropped ahead of earnings."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI selloff",
+        "export controls",
+        "tech valuations",
+        "market selloff"
+      ],
+      "tickers": [
+        "NVDA",
+        "JPM",
+        "LHX",
+        "BRK.A"
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "guid": "yt:otCHCJwne70",
+      "title": "Lew: US Needs To Be ‘Clear and Consistent’ with China",
+      "title_zh": "杰克·卢谈贝森特与卢特尼克在中国政策上的分歧",
+      "url": "https://www.youtube.com/watch?v=otCHCJwne70",
+      "published_at": "2026-11-16T23:41:35+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "前财政部长杰克·卢在彭博电视节目中讨论了财政部长斯科特·贝森特与商务部长霍华德·卢特尼克在中国政策上的紧张关系，以及政府在芯片出口管制和英伟达相关事件上的处理方式。",
+      "summary_en": "Former Treasury Secretary Jack Lew discussed tensions between Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick over China policy, as well as the administration's handling of chip export controls and the fallout surrounding Nvidia, in an interview on Bloomberg's \"Balance of Power.\"",
+      "detail_zh": "前美国财政部长杰克·卢（Jack Lew）在彭博电视的《权力平衡》（Balance of Power）节目中，与主持人凯莉·莱因茨（Kailey Leinz）和乔·马蒂厄（Joe Mathieu）进行了对话。讨论的核心议题包括：财政部长斯科特·贝森特（Scott Bessent）与商务部长霍华德·卢特尼克（Howard Lutnick）之间围绕中国政策存在的紧张关系；特朗普政府对于芯片出口管制的处理方式；以及围绕英伟达（Nvidia）的相关后续影响。原文未提供卢的具体观点或更多细节。",
+      "detail_en": "Former U.S. Treasury Secretary Jack Lew spoke with Kailey Leinz and Joe Mathieu on Bloomberg's \"Balance of Power.\" The discussion covered tensions between Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick over China policy, the administration's handling of chip export controls, and the fallout surrounding Nvidia. The source does not provide Lew's specific views or further details.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "前财政部长杰克·卢讨论了贝森特与卢特尼克在中国政策上的紧张关系。",
+          "en": "Former Treasury Secretary Jack Lew discussed tensions between Bessent and Lutnick over China policy."
+        },
+        {
+          "zh": "对话涉及政府处理芯片出口管制的方式。",
+          "en": "The conversation touched on the administration's handling of chip export controls."
+        },
+        {
+          "zh": "讨论还涉及围绕英伟达的后续影响。",
+          "en": "The discussion also covered the fallout surrounding Nvidia."
+        }
+      ],
+      "tags": [
+        "China policy",
+        "chip export controls",
+        "Nvidia",
+        "Treasury",
+        "Commerce"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "guid": "yt:_PwiGkV9kQU",
+      "title": "Aviation Expert Warns Against FAA Upgrade Shortcuts",
+      "title_zh": "FAA系统故障与美联航系统中断：专家讨论影响与风险",
+      "url": "https://www.youtube.com/watch?v=_PwiGkV9kQU",
+      "published_at": "2026-11-16T23:37:23+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "安柏瑞德航空安全中心副主任Kristy Kiernan就周五FAA系统故障及美联航另一起系统中断发表看法，讨论了加速该机构技术升级的风险，并认为旅客仍应对飞行保持信心。",
+      "summary_en": "Kristy Kiernan, Associate Director of Embry-Riddle's Boeing Center for Aviation and Aerospace Safety, discussed the fallout from Friday's FAA outage and a separate United Airlines system outage, the risks of accelerating the agency's technology overhaul, and why travelers should still feel confident flying.",
+      "detail_zh": "在Bloomberg的“Balance of Power”节目中，Kristy Kiernan与Kailey Leinz和Joe Mathieu讨论了周五FAA系统故障的后续影响。她还提及了美联航另一起独立的系统中断事件。Kiernan分析了加速FAA技术升级可能带来的风险。尽管发生了这些故障，她仍表示旅客应对飞行保持信心。",
+      "detail_en": "Speaking on Bloomberg's \"Balance of Power\" with Kailey Leinz and Joe Mathieu, Kristy Kiernan discussed the fallout from Friday's FAA outage. She also addressed a separate United Airlines system outage. Kiernan analyzed the risks of accelerating the agency's technology overhaul. Despite these outages, she said travelers should still feel confident flying.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "讨论聚焦于周五FAA系统故障的后续影响。",
+          "en": "Discussion focused on the fallout from Friday's FAA outage."
+        },
+        {
+          "zh": "美联航另一起系统中断也被提及。",
+          "en": "A separate United Airlines system outage was also mentioned."
+        },
+        {
+          "zh": "专家分析了加速FAA技术升级的风险。",
+          "en": "The expert analyzed the risks of accelerating the FAA's technology overhaul."
+        },
+        {
+          "zh": "尽管发生故障，旅客仍应对飞行保持信心。",
+          "en": "Despite the outages, travelers should still feel confident flying."
+        }
+      ],
+      "tags": [
+        "FAA outage",
+        "United Airlines",
+        "aviation safety",
+        "technology overhaul"
+      ],
+      "tickers": [],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:4FA1CZFXVwE",
       "title": "Maryland Governor Moore on Midterms, FAA and AI Oversight",
@@ -16688,225 +16878,6 @@
       ],
       "tickers": [],
       "sentiment": "positive"
-    },
-    {
-      "guid": "yt:SoUu0bTs-rg",
-      "title": "Articles of Impeachment Introduced Against Hegseth",
-      "title_zh": "英伟达CEO承认与中国间谍有不当关系，国会关注国家安全与出口管制",
-      "url": "https://www.youtube.com/watch?v=SoUu0bTs-rg",
-      "published_at": "2026-11-09T23:58:30+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "英伟达CEO黄仁勋承认与中国间谍有不当关系，公司已启动独立调查。众议员吉梅内斯称此为高层国家安全漏洞，强调应加强敏感技术出口管制。",
-      "summary_en": "NVIDIA CEO Jensen Huang admitted to an inappropriate relationship with a Chinese spy, prompting an independent investigation. Congressman Gimenez called it a high-level national security breach and stressed stricter export controls on sensitive technology.",
-      "detail_zh": "在华盛顿举行的“权力平衡”节目中，主持人凯莉·莱因兹报道，英伟达CEO黄仁勋承认与中国间谍有不当关系，公司已启动独立调查，引发对国家安全及黄仁勋领导力的新质疑。佛罗里达州共和党众议员卡洛斯·吉梅内斯（中国问题特别委员会成员）表示，委员会需要答案，并称英伟达生产全球最先进芯片，对国家安全至关重要，此事是“相当高层的国家安全漏洞”。他同意民主党同僚格雷格·斯坦顿的观点，认为新国会应优先执行敏感技术（如英伟达芯片）的出口管制，并称“不应把最好的技术给对手”。此外，节目还讨论了针对国防部长皮特·赫格塞斯的弹劾条款、政府拨款、移民改革及领导权选举等议题。",
-      "detail_en": "On \"Balance of Power\" from Washington, host Kailey Leinz reported that NVIDIA CEO Jensen Huang admitted to an inappropriate relationship with a Chinese spy, and the company has launched an independent investigation, raising fresh questions about national security and Huang's leadership. Republican Congressman Carlos Gimenez (member of the China Select Committee) said the committee needs answers, noting NVIDIA produces some of the world's most advanced chips critical to national security, calling it a \"breach of national security at a pretty high level.\" He agreed with Democrat Greg Stanton that the new Congress should prioritize enforcing export controls on sensitive technologies like NVIDIA chips, saying \"we should always keep our best technology to ourselves.\" The program also covered impeachment articles against Defense Secretary Pete Hegseth, government funding, immigration reform, and leadership elections.",
-      "conclusion_zh": "英伟达CEO涉间谍关系事件可能加剧美国对华技术出口管制的政策风险，投资者需关注相关立法与监管动向对半导体板块的潜在影响。",
-      "conclusion_en": "The NVIDIA CEO spy relationship incident may heighten policy risks around U.S. technology export controls to China; investors should watch legislative and regulatory developments for potential impact on the semiconductor sector.",
-      "key_points": [
-        {
-          "zh": "英伟达CEO黄仁勋承认与中国间谍有不当关系，公司已启动独立调查。",
-          "en": "NVIDIA CEO Jensen Huang admitted to an inappropriate relationship with a Chinese spy; the company has launched an independent investigation."
-        },
-        {
-          "zh": "众议员吉梅内斯称此为高层国家安全漏洞，强调英伟达芯片对国家安全至关重要。",
-          "en": "Congressman Gimenez called it a high-level national security breach, stressing NVIDIA chips are critical to national security."
-        },
-        {
-          "zh": "吉梅内斯同意应优先执行敏感技术出口管制，防止对手获取美国最好的技术。",
-          "en": "Gimenez agreed that enforcing export controls on sensitive technology should be a priority to prevent adversaries from obtaining the best U.S. technology."
-        }
-      ],
-      "tags": [
-        "NVIDIA",
-        "export controls",
-        "national security",
-        "China",
-        "semiconductors"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "negative"
-    },
-    {
-      "guid": "yt:FNtU6qj11b8",
-      "title": "Short Says Huang China Trip Would Be a Big Mistake",
-      "title_zh": "前彭斯幕僚长评特朗普人事与英伟达出口管制",
-      "url": "https://www.youtube.com/watch?v=FNtU6qj11b8",
-      "published_at": "2026-11-09T23:31:50+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "Marc Short 认为特朗普擅长转移舆论焦点，任命 Stephen Miller 为白宫幕僚长有助于摆脱中期选举失利的影响；他指出两党政治将使 bipartisan 协议难以达成，并称英伟达 CEO 黄仁勋相关爆料“令人震惊”，中国成功促使政府改变出口管制立场，预计国会将展开调查。",
-      "summary_en": "Marc Short says Trump is \"terrific at changing headlines\" and that naming Stephen Miller as White House Chief of Staff helped turn the page from Republicans' midterm losses. He says politics on both sides will make bipartisan deals difficult, calls revelations involving Nvidia CEO Jensen Huang \"shocking,\" and says China succeeded in getting the administration to change its export-control position, expecting congressional investigations.",
-      "detail_zh": "前副总统彭斯的前幕僚长 Marc Short 在 Bloomberg \"Balance of Power\" 节目中表示，特朗普总统“非常擅长改变新闻头条”，并认为宣布 Stephen Miller 出任白宫幕僚长有助于让共和党摆脱中期选举失利的影响。Short 指出，两党政治将使达成两党协议变得困难，即使特朗普政府的经济政策与参议员 Bernie Sanders 和 Elizabeth Warren 的立场有重叠之处也是如此。Short 称副总统 JD Vance 选后分析“愚蠢”，并称这“削弱了他的角色”，认为政府应转而关注如何解决选民的关切。Short 称涉及英伟达 CEO 黄仁勋的爆料“令人震惊”，并表示中国成功促使政府改变出口管制立场，他预计国会将展开调查。",
-      "detail_en": "Marc Short, former Chief of Staff to former Vice President Mike Pence, said on Bloomberg's \"Balance of Power\" that President Donald Trump is \"terrific at changing headlines\" and that announcing Stephen Miller as White House Chief of Staff helped turn the page from Republicans' midterm losses. Short said politics on both sides will make bipartisan deals difficult, even where the Trump administration's economic policies overlap with positions held by Sens. Bernie Sanders and Elizabeth Warren. Short called Vice President JD Vance's post-election analysis \"foolish\" and said it \"diminishes his role,\" arguing the administration should instead focus on how it will address voters' concerns. Short called the revelations involving Nvidia CEO Jensen Huang \"shocking\" and said China was successful in getting the administration to change its position on export controls, adding that he expects congressional investigations.",
-      "conclusion_zh": "英伟达出口管制立场可能因中国施压而调整，国会调查风险值得关注。",
-      "conclusion_en": "Nvidia export-control stance may have shifted under Chinese pressure, with congressional investigation risk worth watching.",
-      "key_points": [
-        {
-          "zh": "Short 称特朗普擅长改变新闻头条，任命 Stephen Miller 为白宫幕僚长有助于转移中期选举失利的焦点。",
-          "en": "Short says Trump is \"terrific at changing headlines\" and naming Stephen Miller as Chief of Staff helped turn the page from midterm losses."
-        },
-        {
-          "zh": "Short 认为两党政治将使两党协议难以达成，即使经济政策与 Sanders、Warren 立场有重叠。",
-          "en": "Short says politics on both sides will make bipartisan deals difficult, even where economic policies overlap with Sanders and Warren."
-        },
-        {
-          "zh": "Short 称副总统 JD Vance 的选后分析“愚蠢”并“削弱了他的角色”。",
-          "en": "Short calls VP JD Vance's post-election analysis \"foolish\" and says it \"diminishes his role.\""
-        },
-        {
-          "zh": "Short 称涉及英伟达 CEO 黄仁勋的爆料“令人震惊”，中国成功促使政府改变出口管制立场，预计国会将调查。",
-          "en": "Short calls revelations involving Nvidia CEO Jensen Huang \"shocking,\" says China succeeded in changing the administration's export-control position, and expects congressional investigations."
-        }
-      ],
-      "tags": [
-        "export controls",
-        "Nvidia",
-        "White House",
-        "China",
-        "congressional investigation"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:GEkF49UhXSc",
-      "title": "A Stock Market Bottom in Sight",
-      "title_zh": "摩根士丹利：美股调整接近尾声，逢低布局优质周期股与AI受益者",
-      "url": "https://www.youtube.com/watch?v=GEkF49UhXSc",
-      "published_at": "2026-11-09T23:29:27+00:00",
-      "source_name": "Morgan Stanley",
-      "source_kind": "video",
-      "categories": [
-        "macro",
-        "tech"
-      ],
-      "summary_zh": "摩根士丹利首席美股策略师Mike Wilson认为，美股调整已接近尾声而非开始，标普500正接近其7100-7300点支撑区间，半导体自6月高点下跌约40%。他建议利用未来几周的疲软开始增加风险，重点配置优质周期股（如工业股）和AI应用受益者，而非等待确定性。",
-      "summary_en": "Morgan Stanley Chief US Equity Strategist Mike Wilson believes the equity correction is closer to the end than the beginning, with the S&P 500 approaching his 7,100-7,300 support range and semiconductors down roughly 40% from June highs. He recommends using weakness over the next few weeks to add risk, particularly in quality cyclicals like industrials and AI adopters, rather than waiting for certainty.",
-      "detail_zh": "Wilson指出，中期选举是“谣言”，市场已提前数月抛售，半导体、数据中心受益者和许多早期周期赢家在大选前遭受重创，标普500最终开始补跌至疲弱广度之下，这是6月识别的调整缺失环节。好消息是调整更接近结束：标普500已接近8月设定的7100-7300支撑区，半导体较6月高点下跌约40%，接近“银股类比”的下行目标。他预计可能还有一次测试上周低点，甚至以较低动量跌破，但不会等待完美低点。他倾向于利用未来几周疲软开始增加风险，尤其是已大幅降级但盈利修正仍强的优质周期股，工业股突出：相对盈利修正持久，ISM积压订单数据扩大，货运量近四年来首次转正。选举也消除了AI建设的一层不确定性，2027年数据中心支出约占标普500共识收入的5%，2028年贡献略高但仍为中个位数；即使部分产能延迟，对总盈利影响可控，且标普500远期市盈率仅18倍，风险已反映在估值中。AI采用故事持续改善，更多公司量化实际收益，讨论从生产率转向可衡量成本节约和收入创造，AI采用仍是其到2027年最高信心主题之一。其他潜在积极因素包括油价因伊朗进展希望而大跌、部分SNAP和Medicaid削减可能逆转、企业可能在2028年总统选举前提前投资和并购。市场中期选举前表现差、之后更好，但未来几周不会平稳，仓位和情绪接近但未完全投降，更鹰派的美联储可能将触底过程拉长至12月。上周股票波动率终于赶上债券波动率，是调整结束的建设性信号。现在不是看空的时候。",
-      "detail_en": "Wilson notes that the midterms were 'the rumor' and the market spent several months selling it, with semiconductors, data center beneficiaries, and many early cycle winners hit hard before election day while the S&P 500 finally began catching down to the weak breadth underneath—the missing piece of the correction identified in June. The good news is that this correction looks much closer to the end than the beginning: the S&P 500 has moved toward the 7,100-7,300 support range identified in August, and semiconductors are down roughly 40% from June highs, approaching downside targets suggested by the 'silver stock analog.' He would not be surprised by one more test of last week's lows, perhaps even a break on lower momentum, but would not wait for a perfect low. He prefers to use weakness over the next few weeks to begin adding risk, particularly in quality cyclicals that have derated substantially but continue to show strong earnings revisions. Industrials stand out: relative earnings revisions have remained durable, ISM backlog data are broadening, and freight volumes have turned positive for the first time in nearly four years. The election also removed one layer of uncertainty around the AI buildout; capex mapping suggests data center spending in 2027 represents about 5% of consensus S&P 500 revenue with a slightly higher but still mid-single-digit contribution in 2028. Even if some capacity is delayed, the impact on aggregate earnings should be manageable, and much of the risk has already been reflected in valuations with the S&P 500 trading at just 18 times forward earnings. The AI adoption story keeps improving, with more companies quantifying real benefits and the discussion moving beyond productivity toward measurable cost savings and revenue generation; AI adoption remains one of his highest conviction themes into 2027. Other potential positives from the election include oil falling sharply on hopes for progress with Iran, some SNAP and Medicaid cuts possibly reversed, and businesses potentially pulling forward investment and M&A ahead of the 2028 presidential election. Markets tend to trade poorly into midterms and much better afterward, but the next few weeks may not be smooth: positioning and sentiment are closer to capitulation levels but not quite there, and a more hawkish Fed could stretch the bottoming process into December. Equity volatility finally caught up with bond volatility last week, a constructive sign that this correction is ending. This is not the moment to get bearish.",
-      "conclusion_zh": "当前不是看空的时候，应利用潜在的最后一次回测增加优质周期股和AI应用受益者的配置，而非等待确定性。",
-      "conclusion_en": "This is not the moment to get bearish; use a potential final retest to add quality cyclicals and AI adopters rather than waiting for certainty.",
-      "key_points": [
-        {
-          "zh": "标普500正接近7100-7300支撑区，半导体自6月高点下跌约40%，调整更接近结束而非开始。",
-          "en": "The S&P 500 is approaching the 7,100-7,300 support range, and semiconductors are down roughly 40% from June highs; the correction is closer to the end than the beginning."
-        },
-        {
-          "zh": "建议利用未来几周疲软增加风险，偏好已大幅降级但盈利修正强劲的优质周期股，工业股突出。",
-          "en": "Advises using weakness over the next few weeks to add risk, favoring quality cyclicals that have derated substantially but show strong earnings revisions, with industrials standing out."
-        },
-        {
-          "zh": "AI建设不确定性降低，2027年数据中心支出约占标普500共识收入的5%，标普500远期市盈率仅18倍，风险已反映在估值中。",
-          "en": "AI buildout uncertainty has decreased; data center spending in 2027 represents about 5% of consensus S&P 500 revenue, and the S&P 500 trades at just 18 times forward earnings, with much risk already reflected in valuations."
-        },
-        {
-          "zh": "仓位和情绪接近但未完全投降，更鹰派的美联储可能将触底过程拉长至12月，但股票波动率赶上债券波动率是建设性信号。",
-          "en": "Positioning and sentiment are closer to capitulation but not quite there, and a more hawkish Fed could stretch the bottoming process into December; however, equity volatility catching up with bond volatility is a constructive sign."
-        }
-      ],
-      "tags": [
-        "equity correction",
-        "quality cyclicals",
-        "AI capex",
-        "midterms",
-        "Fed policy"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
-    },
-    {
-      "guid": "yt:HaV-tKJaAoE",
-      "title": "Sen. Armstrong Says Time Is of the Essence on Permitting",
-      "title_zh": "参议员Armstrong：许可改革是长期基建解决方案，但非即时可负担性解药",
-      "url": "https://www.youtube.com/watch?v=HaV-tKJaAoE",
-      "published_at": "2026-11-09T23:24:30+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "参议员Alan Armstrong表示，许可改革将为基础设施建设提供长期、持久的解决方案，并将低成本能源资源连接至消费者，但他警告这并非解决可负担性问题的即时方案。他称在多年辩论后，必须抓住跛脚鸭会期通过两党法案，且不担心特朗普关于风机部件的反对，因为立法是技术中立的。",
-      "summary_en": "Sen. Alan Armstrong says permitting reform would provide a long-term, durable fix for building infrastructure and connecting lower-cost energy resources to consumers, but cautions it is not an immediate solution to affordability. He says time is of the essence to pass the bipartisan bill during the lame-duck session after years of debate, and he is not concerned by President Trump's comment opposing a permitting bill with wind turbine components because the legislation is source-neutral.",
-      "detail_zh": "参议员Alan Armstrong（俄克拉荷马州共和党）在彭博“Balance of Power”节目中表示，许可改革将为建设基础设施和将低成本能源资源连接至消费者提供长期、持久的解决方案。但他同时警告，这并非解决可负担性问题的即时方案。Armstrong称，经过多年辩论，必须抓住跛脚鸭会期通过这项两党法案，时间至关重要。对于总统特朗普表示不会签署包含风机部件的许可法案的言论，Armstrong表示并不担心，因为该立法是技术中立的，不偏向风能、太阳能或天然气。",
-      "detail_en": "Sen. Alan Armstrong (R-OK) said on Bloomberg's \"Balance of Power\" that permitting reform would provide a long-term, durable fix for building infrastructure and connecting lower-cost energy resources to consumers. However, he cautioned that it is not an immediate solution to affordability. Armstrong said time is of the essence to pass the bipartisan bill during the lame-duck session after years of debate. Regarding President Donald Trump's comment that he would not sign a permitting bill with wind turbine components, Armstrong said he is not concerned because the legislation is source-neutral and does not favor wind, solar or gas.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "许可改革是长期、持久的基建解决方案，但非即时可负担性解药。",
-          "en": "Permitting reform is a long-term, durable infrastructure fix, but not an immediate affordability solution."
-        },
-        {
-          "zh": "必须抓住跛脚鸭会期通过两党法案，时间至关重要。",
-          "en": "Time is of the essence to pass the bipartisan bill during the lame-duck session."
-        },
-        {
-          "zh": "立法技术中立，不偏向风能、太阳能或天然气，因此不担心特朗普的反对。",
-          "en": "The legislation is source-neutral and does not favor wind, solar or gas, so Trump's opposition is not a concern."
-        }
-      ],
-      "tags": [
-        "permitting reform",
-        "energy infrastructure",
-        "bipartisan bill",
-        "lame-duck session"
-      ],
-      "tickers": [],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:_5TI_x2FIEs",
-      "title": "Rep. Gimenez Says Nvidia Affair Raises Security Concerns",
-      "title_zh": "共和党议员Gimenez：中国特别委员会需查明黄仁勋与中国的确切关系",
-      "url": "https://www.youtube.com/watch?v=_5TI_x2FIEs",
-      "published_at": "2026-11-09T23:21:45+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "美国众议员Carlos Gimenez表示，中国特别委员会需要就英伟达CEO黄仁勋与中国关系的具体性质获得答案，并称此事为“相当高层级的国家安全漏洞”。他还表示除非有新情况，否则“很可能”反对针对国防部长Hegseth的弹劾条款，并认为移民执法“有些过头”，国会应在跛脚鸭会期结束前推动全面移民改革。",
-      "summary_en": "Rep. Carlos Gimenez (R-FL) said the China Select Committee needs answers on the exact nature of Nvidia CEO Jensen Huang's relationship with China, calling it \"a breach of national security at a pretty high level.\" He also said he is \"probably a no\" on impeachment articles against Defense Secretary Pete Hegseth unless something new emerges, and that immigration enforcement has gone \"a little too far,\" urging Congress to pursue comprehensive immigration reform before the lame-duck session ends.",
-      "detail_zh": "众议员Carlos Gimenez（佛罗里达州共和党）在Bloomberg“Balance of Power”节目中接受Kailey Leinz采访时表示，中国特别委员会需要就英伟达CEO黄仁勋与中国关系的具体性质获得答案，并将此事称为“相当高层级的国家安全漏洞”。在国防部长Pete Hegseth的弹劾问题上，Gimenez表示除非有新情况曝光，他“很可能投反对票”，理由是Hegseth是在执行总统的命令。关于移民问题，Gimenez认为移民执法“有些过头”，并表示国会应在跛脚鸭会期结束前推动全面移民改革。上述表态涉及国家安全审查、内阁官员弹劾与移民立法三个政策方向，但原文未提供更多细节或后续安排。",
-      "detail_en": "In an interview with Kailey Leinz on Bloomberg's \"Balance of Power,\" Rep. Carlos Gimenez (R-FL) said the China Select Committee needs answers about the exact nature of Nvidia CEO Jensen Huang's relationship with China, calling it \"a breach of national security at a pretty high level.\" On the impeachment articles against Defense Secretary Pete Hegseth, Gimenez said he is \"probably a no\" unless something comes to light, arguing Hegseth was carrying out orders from the President. On immigration, Gimenez said enforcement has gone \"a little too far\" and that Congress should pursue comprehensive immigration reform before the lame-duck session ends. The remarks touch on national security scrutiny, a cabinet impeachment, and immigration legislation, but the source provides no further details or next steps.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "Gimenez称中国特别委员会需查明黄仁勋与中国关系的具体性质，并称之为“相当高层级的国家安全漏洞”。",
-          "en": "Gimenez said the China Select Committee needs answers on the exact nature of Jensen Huang's relationship with China, calling it \"a breach of national security at a pretty high level.\""
-        },
-        {
-          "zh": "Gimenez表示除非有新情况曝光，否则“很可能”反对针对国防部长Hegseth的弹劾条款，认为Hegseth是在执行总统命令。",
-          "en": "Gimenez said he is \"probably a no\" on impeachment articles against Defense Secretary Hegseth unless something comes to light, arguing Hegseth was carrying out the President's orders."
-        },
-        {
-          "zh": "Gimenez认为移民执法“有些过头”，国会应在跛脚鸭会期结束前推动全面移民改革。",
-          "en": "Gimenez said immigration enforcement has gone \"a little too far\" and Congress should pursue comprehensive immigration reform before the lame-duck session ends."
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "China",
-        "national security",
-        "impeachment",
-        "immigration"
-      ],
-      "tickers": [
-        "NVDA"
-      ],
-      "sentiment": "neutral"
     }
   ]
 }
