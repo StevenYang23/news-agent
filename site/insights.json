@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-11-17T11:12:26.637460+00:00",
+  "generated_at": "2026-11-17T12:18:37.384456+00:00",
   "insights": [
+    {
+      "guid": "yt:evtpOIu1xBw",
+      "title": "Clampdown on China Chip Loophole; Nvidia Earnings Countdown",
+      "title_zh": "英伟达财报前夕美股科技股抛压缓解，新领导层面临考验",
+      "url": "https://www.youtube.com/watch?v=evtpOIu1xBw",
+      "published_at": "2026-11-17T11:25:56+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "英伟达财报发布前，美股科技股抛售压力有所缓解。该财报被视为对英伟达自身及整个人工智能交易的关键节点。在黄仁勋离任后，市场关注点将从季度业绩延伸至新领导团队能否维持AI价值链关系并推进产品计划。",
+      "summary_en": "Selling pressure on US tech stocks eased ahead of Nvidia's highly anticipated earnings, which is seen as pivotal for both the company and the broader AI trade. Following Jensen Huang's ouster, focus extends beyond quarterly numbers to whether the new leadership can maintain AI value chain relationships and keep product plans on track.",
+      "detail_zh": "美股科技股在英伟达财报发布前抛售压力缓解，该财报被描述为对英伟达和更广泛的人工智能交易都可能具有关键意义。英伟达作为全球最重要的芯片制造商，正面临其历史上可能最大的动荡。在黄仁勋被罢免后，市场关注点将超越常规的季度业绩和展望，延伸至新领导团队能否维持其在AI价值链中的关系，并确保产品计划按轨推进。节目议程还涵盖了全球科技股抛售、AI芯片限制、英国就业数据与英国央行展望、亚洲市场AI抛售蔓延、特朗普亚洲峰会前的市场压力、以及巴克莱和Goldman Sachs策略师对风险、AI货币化和利率前景的观点。此外，节目还讨论了英伟达新领导层下的财报、Anthropic IPO、APEC峰会与美国新芯片限制、以及乌克兰和平谈判等地缘政治议题。",
+      "detail_en": "Selling pressure on US tech stocks eased ahead of Nvidia's earnings, which is described as potentially pivotal for both the company and the broader artificial-intelligence trade. Nvidia, the world's most important chipmaker, is facing what may be the greatest upheaval in its history. Following the ouster of Jensen Huang, the focus will extend beyond the usual quarterly numbers and outlook to whether the new leadership team can maintain its relationships across the AI value chain and keep product plans on track. The program agenda also covers the global tech selloff, AI chip restrictions, UK jobs data and Bank of England outlook, the AI selloff spreading across Asian markets, market pressure ahead of Trump's Asia summit, and views from Barclays and Goldman Sachs strategists on risk, AI monetization, and the interest rate outlook. Additionally, the program discusses Nvidia earnings under new leadership, Anthropic IPO, the APEC summit and new US chip restrictions, and Ukraine peace talks.",
+      "conclusion_zh": "英伟达财报及新领导层的表现是当前AI交易走向的关键观察点，同时需关注AI芯片限制和全球科技股抛售的蔓延风险。",
+      "conclusion_en": "Nvidia's earnings and the new leadership's performance are key indicators for the direction of the AI trade, while risks from AI chip restrictions and the global tech selloff warrant attention.",
+      "key_points": [
+        {
+          "zh": "英伟达财报发布前，美股科技股抛售压力缓解。",
+          "en": "Selling pressure on US tech stocks eased ahead of Nvidia's earnings."
+        },
+        {
+          "zh": "该财报被视为对英伟达自身及更广泛AI交易的关键节点。",
+          "en": "The earnings is seen as pivotal for both Nvidia and the broader AI trade."
+        },
+        {
+          "zh": "黄仁勋被罢免后，市场关注新领导团队能否维持AI价值链关系和产品计划。",
+          "en": "Following Jensen Huang's ouster, focus is on whether the new leadership can maintain AI value chain relationships and product plans."
+        },
+        {
+          "zh": "节目议程涵盖全球科技股抛售、AI芯片限制、英国就业数据与英国央行展望。",
+          "en": "The agenda covers the global tech selloff, AI chip restrictions, UK jobs data, and Bank of England outlook."
+        },
+        {
+          "zh": "巴克莱和Goldman Sachs策略师讨论了风险偏好、AI货币化和利率前景。",
+          "en": "Barclays and Goldman Sachs strategists discussed risk appetite, AI monetization, and the interest rate outlook."
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "AI trade",
+        "tech selloff",
+        "earnings",
+        "chip restrictions"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "sentiment": "neutral"
+    },
     {
       "guid": "yt:WgXTffW65h4",
       "title": "Trump Kicks of Asia Visit in Manila Ahead of Xi, Putin Talks",
@@ -16761,107 +16812,6 @@
         "RGTI"
       ],
       "sentiment": "neutral"
-    },
-    {
-      "guid": "4965670",
-      "title": "Wall Street Breakfast Podcast: Preorder It Like You Stole It",
-      "title_zh": "Take-Two预期GTA 6创纪录预售，Boeing裁员，McDonald's与Uber扩大合作",
-      "url": "https://seekingalpha.com/article/4965670-wall-street-breakfast-podcast-preorder-it-like-you-stole-it?source=feed_author_wall_street_breakfast",
-      "published_at": "2026-11-10T11:27:11+00:00",
-      "source_name": "Wall Street Breakfast (Seeking Alpha)",
-      "source_kind": "podcast",
-      "categories": [
-        "other",
-        "macro"
-      ],
-      "summary_zh": "Take-Two预计GTA 6预售收入超7.5亿美元，但FQ2净预订额下降18%且FY27指引低于预期；Boeing计划削减商用飞机部门约5%员工；McDonald's与Uber扩大配送合作至14个市场。",
-      "summary_en": "Take-Two anticipates GTA 6 preorders exceeding $750M in revenue, but FQ2 net bookings fell 18% and FY27 guidance missed estimates; Boeing plans to cut about 5% of its commercial aircraft workforce; McDonald's expands delivery partnership with Uber across 14 markets.",
-      "detail_zh": "Take-Two Interactive (TTWO) 在FQ2财报中宣布，GTA 6预购量已超过700万份，带来超过7.5亿美元收入，游戏将于11月19日解锁。CEO Strauss Zelnick表示，预购达到前所未有的水平，预计将迎来公司历史性的一年。然而，FQ2总净预订额下降18%至16亿美元，略低于市场预期的16.6亿美元；经常性消费支出净预订额下降9%，占总预订额的81%。公司对FY27的营收指引为80-82亿美元（中值81亿美元），低于市场预期的86亿美元；EPS指引为0.57-0.75美元（中值0.66美元），远低于市场预期的1.66美元。尽管指引不及预期，TTWO盘前仍上涨3%。Boeing (BA) 计划将其商用飞机部门员工裁减约5%，据《西雅图时报》援引波音商用飞机CEO Stephanie Pope的内部备忘录，裁员将通过裁员和自然减员相结合的方式进行，受影响员工预计在12月收到通知。McDonald's (MCD) 宣布与Uber Technologies (UBER) 扩大配送合作伙伴关系，覆盖美国、澳大利亚和英国等14个市场，Uber将成为麦当劳App内下单的优先配送合作伙伴，并连接MyMcDonald's Rewards。此外，Nvidia董事会调查Jensen Huang的投票显示，63%的受访者认为他将继续担任CEO。Rocket Lab (RKLB) 因Q3亏损超出预期，股价下跌7%。",
-      "detail_en": "Take-Two Interactive (TTWO) reported that GTA 6 has surpassed 7 million preorders, generating over $750 million in revenue, with the game set to unlock on November 19. CEO Strauss Zelnick stated that preorders are reaching unprecedented levels and expects a historic year for the company. However, FQ2 total net bookings fell 18% to $1.60 billion, slightly missing the consensus estimate of $1.66 billion; recurrent consumer spending net bookings decreased 9% and accounted for 81% of total bookings. The company's FY27 revenue guidance is $8.0-8.2 billion (midpoint $8.1 billion), below the $8.6 billion consensus; EPS guidance is $0.57-0.75 (midpoint $0.66), well below the $1.66 consensus. Despite the guidance miss, TTWO shares are up 3% in premarket. Boeing (BA) plans to reduce its commercial aircraft workforce by about 5%, according to an internal memo from Boeing Commercial Airplanes CEO Stephanie Pope cited by The Seattle Times; the reductions will come through layoffs and attrition, with affected employees notified in December. McDonald's (MCD) announced a multi-year expansion of its delivery partnership with Uber Technologies (UBER) across 14 markets including the U.S., Australia, and the U.K., making Uber the preferred delivery partner for orders placed in the McDonald's app and connecting with MyMcDonald's Rewards. Additionally, a poll on Nvidia's board probe into Jensen Huang shows 63% believe he will remain CEO. Rocket Lab (RKLB) fell 7% after reporting a wider-than-expected Q3 loss.",
-      "conclusion_zh": "Take-Two的GTA 6预售表现强劲，但短期财务指引疲软，投资者需关注游戏发布后的实际销售转化及公司盈利能力的恢复节奏。",
-      "conclusion_en": "Take-Two's GTA 6 preorders are strong, but near-term financial guidance is weak; investors should watch actual sales conversion post-launch and the pace of profitability recovery.",
-      "key_points": [
-        {
-          "zh": "GTA 6预购量超700万份，收入超7.5亿美元，游戏11月19日解锁。",
-          "en": "GTA 6 preorders exceed 7 million units, generating over $750 million in revenue; game unlocks on November 19."
-        },
-        {
-          "zh": "Take-Two FQ2净预订额下降18%至16亿美元，FY27营收和EPS指引均低于市场预期。",
-          "en": "Take-Two FQ2 net bookings fell 18% to $1.60 billion; FY27 revenue and EPS guidance both below consensus."
-        },
-        {
-          "zh": "Boeing计划裁减商用飞机部门约5%员工，通过裁员和自然减员实现。",
-          "en": "Boeing plans to cut about 5% of its commercial aircraft workforce through layoffs and attrition."
-        },
-        {
-          "zh": "McDonald's与Uber扩大配送合作至14个市场，Uber成为麦当劳App内优先配送伙伴。",
-          "en": "McDonald's expands delivery partnership with Uber across 14 markets; Uber becomes preferred delivery partner in McDonald's app."
-        },
-        {
-          "zh": "Rocket Lab因Q3亏损超预期股价下跌7%。",
-          "en": "Rocket Lab shares fell 7% after wider-than-expected Q3 loss."
-        }
-      ],
-      "tags": [
-        "Take-Two",
-        "GTA 6",
-        "Boeing",
-        "McDonald's",
-        "Uber"
-      ],
-      "tickers": [
-        "TTWO",
-        "BA",
-        "MCD",
-        "UBER",
-        "RKLB"
-      ],
-      "sentiment": "neutral"
-    },
-    {
-      "guid": "yt:evbuQIA4O7Y",
-      "title": "Oil and Gas Fall on Iran De-escalation Hopes",
-      "title_zh": "特朗普暗示无需打击伊朗，油价下跌，欧股受科技股提振有望创新高",
-      "url": "https://www.youtube.com/watch?v=evbuQIA4O7Y",
-      "published_at": "2026-11-10T11:25:31+00:00",
-      "source_name": "Bloomberg TV",
-      "source_kind": "video",
-      "categories": [
-        "bbg-tv-news"
-      ],
-      "summary_zh": "特朗普表示无需对伊朗进行新打击，布伦特原油和欧洲天然气价格下跌。欧洲股市在科技股和银行股反弹以及能源价格下跌的推动下有望创下历史新高。节目还讨论了Anthropic IPO计划、英伟达面临的中国审查、软银意外亏损等议题。",
-      "summary_en": "President Trump signalled new strikes on Iran won't be necessary, causing Brent crude and European gas to fall. European stocks headed for a record high, boosted by a resurgence in tech shares and banks along with a decline in energy prices. The program also covered Anthropic IPO plans, Nvidia's growing China scrutiny, and SoftBank's surprise loss.",
-      "detail_zh": "布伦特原油和欧洲天然气价格在特朗普总统暗示无需对伊朗进行新打击后下跌。欧洲股市在科技股和银行股反弹以及能源价格下跌的推动下有望创下历史新高。节目议程包括Anthropic的IPO计划、英伟达面临日益增长的中国审查、软银意外亏损。HSBC CIO Willem Sels讨论了科技股轮动和市场波动性。State Street的Marija Veitmane讨论了科技股和AI数据中心。此外，节目还涉及法国贸易部长谈美欧关税、欧洲央行Philip Lane谈12月利率决议、英国央行和通胀前景等话题。",
-      "detail_en": "Brent crude and European gas fell after President Trump signalled new strikes on Iran won't be necessary. European stocks headed for a record high, boosted by a resurgence in tech shares and banks along with a decline in energy prices. The agenda included Anthropic IPO plans, Nvidia facing growing China scrutiny, and SoftBank's surprise loss. HSBC CIO Willem Sels discussed tech rotation and market volatility. State Street's Marija Veitmane discussed tech stocks and AI data centers. Other topics included French Trade Minister on US-EU tariffs, ECB's Philip Lane on a December rate decision, and Bank of England and inflation outlook.",
-      "conclusion_zh": "",
-      "conclusion_en": "",
-      "key_points": [
-        {
-          "zh": "特朗普暗示无需对伊朗进行新打击，布伦特原油和欧洲天然气价格下跌。",
-          "en": "Trump signalled new strikes on Iran won't be necessary; Brent crude and European gas fell."
-        },
-        {
-          "zh": "欧洲股市在科技股和银行股反弹以及能源价格下跌的推动下有望创下历史新高。",
-          "en": "European stocks headed for a record high, boosted by a resurgence in tech shares and banks along with a decline in energy prices."
-        },
-        {
-          "zh": "节目议程包括Anthropic IPO计划、英伟达面临日益增长的中国审查、软银意外亏损。",
-          "en": "The agenda included Anthropic IPO plans, Nvidia facing growing China scrutiny, and SoftBank's surprise loss."
-        },
-        {
-          "zh": "HSBC CIO Willem Sels和State Street的Marija Veitmane讨论了科技股轮动、市场波动性和AI数据中心。",
-          "en": "HSBC CIO Willem Sels and State Street's Marija Veitmane discussed tech rotation, market volatility, and AI data centers."
-        }
-      ],
-      "tags": [
-        "oil",
-        "european stocks",
-        "tech rotation",
-        "Iran",
-        "AI"
-      ],
-      "tickers": [],
-      "sentiment": "positive"
     }
   ]
 }
