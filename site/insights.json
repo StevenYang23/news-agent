@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-11-17T06:22:02.276625+00:00",
+  "generated_at": "2026-11-17T07:14:48.674706+00:00",
   "insights": [
+    {
+      "guid": "yt:Z2YVyd3tGG0",
+      "title": "US Targets China's Remote Chip Access With New Curbs",
+      "title_zh": "彭博《中国秀》：美国限制中国芯片远程访问，百度季度营收第六次下滑",
+      "url": "https://www.youtube.com/watch?v=Z2YVyd3tGG0",
+      "published_at": "2026-11-17T06:41:45+00:00",
+      "source_name": "Bloomberg TV",
+      "source_kind": "video",
+      "categories": [
+        "bbg-tv-news"
+      ],
+      "summary_zh": "本期节目聚焦美国对中国芯片远程访问的限制措施及其对亚洲AI建设和光通信股的冲击；百度连续第六个季度营收下滑，引发对其在中国AI竞争中地位的讨论。节目还涵盖APEC峰会、中美俄三边会谈预期以及美国银行CEO对AI交易撮合的看法。",
+      "summary_en": "This episode focuses on US restrictions on China's remote access to chips and their impact on Asia's AI buildout and optical stocks; Baidu posted its sixth straight quarterly sales drop, raising questions about its position in China's AI race. The show also covers the APEC summit, expectations for trilateral talks among Trump, Putin and Xi, and BofA's CEO on AI dealmaking.",
+      "detail_zh": "节目开篇讨论美国采取措施限制中国对芯片的远程访问。随后UBS的Eric Lin分享对中国市场的看法。百度公布连续第六个季度销售额下滑，彭博行业研究随后分析百度在中国AI竞赛中的竞争地位。中国光通信股票因英伟达相关影响而大跌。美国芯片限制笼罩东盟峰会，亚洲AI建设面临新的美国芯片限制。中国科技领袖齐聚APEC CEO峰会，Stimson中心的Yun Sun讨论对APEC的预期以及特朗普、普京和习近平三边会谈。AI-Squared Robotics谈及在美国芯片管制收紧下的业务前景。美国银行CEO Brian Moynihan讨论在投资者日益怀疑的背景下AI交易撮合的情况。",
+      "detail_en": "The show opens with US moves to restrict China's remote access to chips. UBS' Eric Lin then shares views on Chinese markets. Baidu posts its sixth straight quarterly sales drop, followed by Bloomberg Intelligence analysis of Baidu's competitive position in China's AI race. China optical stocks tumble amid Nvidia fallout. US chip restrictions loom over the ASEAN summit, and Asia's AI buildout faces new US chip restrictions. Chinese tech leaders converge at the APEC CEO Summit, and Stimson Center's Yun Sun discusses expectations for APEC and trilateral talks among Trump, Putin and Xi. AI-Squared Robotics discusses its business outlook amid tighter US chip controls. BofA's Brian Moynihan talks about AI dealmaking amid growing investor skepticism.",
+      "conclusion_zh": "",
+      "conclusion_en": "",
+      "key_points": [
+        {
+          "zh": "美国采取措施限制中国对芯片的远程访问",
+          "en": "US moves to restrict China's remote access to chips"
+        },
+        {
+          "zh": "百度连续第六个季度销售额下滑",
+          "en": "Baidu posts sixth straight quarterly sales drop"
+        },
+        {
+          "zh": "中国光通信股因英伟达相关影响大跌",
+          "en": "China optical stocks tumble amid Nvidia fallout"
+        },
+        {
+          "zh": "美国芯片限制笼罩东盟峰会，亚洲AI建设面临新限制",
+          "en": "US chip restrictions loom over ASEAN summit; Asia's AI buildout faces new US chip restrictions"
+        },
+        {
+          "zh": "美国银行CEO讨论投资者怀疑情绪下的AI交易撮合",
+          "en": "BofA CEO discusses AI dealmaking amid growing investor skepticism"
+        }
+      ],
+      "tags": [
+        "US-China chip restrictions",
+        "Baidu earnings",
+        "optical stocks",
+        "APEC summit",
+        "AI dealmaking"
+      ],
+      "tickers": [
+        "BIDU"
+      ],
+      "sentiment": "negative"
+    },
     {
       "guid": "yt:8pIu2UOlZk0",
       "title": "Anthropic IPO: What Australian Investors Need to Know",
